@@ -1,0 +1,651 @@
+{
+ "chapter": "To the Night, What is the Night's",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "To the Night, What is the Night's",
+ "region": null,
+ "quests": [
+  {
+   "title": "To the Night, What is the Night's",
+   "dialogue": [
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Legba"
+    },
+    {
+     "s": 0,
+     "t": "Look, {NICKNAME}, there's a sealed gate over here!"
+    },
+    {
+     "s": 0,
+     "t": "Hehe, don't ask how, but Paimon's got the feeling that the strange things we picked up nearby must have something to do with getting it open."
+    },
+    {
+     "s": 0,
+     "t": "Weird... Just what could be behind this gate?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "sit": "It could lead to a monster's lair..."
+    },
+    {
+     "sit": "Maybe it's a treasure cave..."
+    },
+    {
+     "s": 0,
+     "t": "Whoa... And where there be monsters, there be treasures too, right?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "sit": "That's not a given."
+    },
+    {
+     "s": 0,
+     "t": "Oh, come on, stop being such a downer. We'll find out once we get inside!"
+    },
+    {
+     "s": 2,
+     "t": "Hey, you two! Outlanders! And that... scarf-wearing Tepetlisaurus over there!"
+    },
+    {
+     "s": 1,
+     "t": "Arr?"
+    },
+    {
+     "s": 2,
+     "t": "Heh, aren't you the energetic one? Seriously, though, haven't you told them that a seal's a seal because it's meant to seal off forbidden areas?"
+    },
+    {
+     "s": 2,
+     "t": "And you won't find anything in there except for terribly profound curses."
+    },
+    {
+     "s": 1,
+     "t": "Roar..."
+    },
+    {
+     "s": 0,
+     "t": "Wait, so that means... there's no treasure?"
+    },
+    {
+     "s": 2,
+     "t": "Oh, I'm sure there is. Probably."
+    },
+    {
+     "sit": "Probably?"
+    },
+    {
+     "s": 2,
+     "t": "Yes. But what it is, is something you outlanders shouldn't be poking around, for the \"forbidden ground\" that lies behind that door is also \"holy ground.\""
+    },
+    {
+     "s": 2,
+     "t": "Only experienced Couriers who have completed the trials and received approval may enter. Within, it is said, lies a medium by which our ancestors communed with the world of night..."
+    },
+    {
+     "s": 2,
+     "t": "Speaking of which, I wasn't gone that long, was I? And yet here you are, with the three trial completion keystones in tow... Impressive."
+    },
+    {
+     "s": 0,
+     "t": "Heh! When it comes to climbing up and down looking for stuff, you won't find many better than us!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Even tribal couriers might not match your speed. Well, you're still not permitted to enter these taboo grounds, but... my camp is nearby."
+    },
+    {
+     "s": 2,
+     "t": "How about I treat you to a quick bite, and then you can enjoy a comfy rest?"
+    },
+    {
+     "s": 1,
+     "t": "Rrooo..."
+    },
+    {
+     "sit": "We're not hungry yet."
+    },
+    {
+     "sit": "Since we've come this far already..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon... Well, Paimon is kinda hungry. Why don't we just take a short little break?"
+    },
+    {
+     "sit": "Same old Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Says you... Paimon's still growing, you know!"
+    },
+    {
+     "s": 2,
+     "t": "Pfft... You two sure seem to get along well. Alright, come along now. My camp — and rest — await."
+    },
+    {
+     "s": 2,
+     "t": "I will prepare some hot food, guests from afar — and should chance allow, we may have much to talk about."
+    },
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Legba"
+    },
+    {
+     "s": 2,
+     "t": "No need to stand on ceremony. Wanna try my cooking?"
+    },
+    {
+     "s": 2,
+     "t": "If you want to make some yourself, I've got a recipe in the box over there, along with some things I don't use. Feel free to go through 'em."
+    },
+    {
+     "s": 0,
+     "t": "Eh? You carry recipes on you?"
+    },
+    {
+     "s": 2,
+     "t": "Drew up a bunch of copies myself, as it happens. Might be of use, might not, but it could save a life if you run into someone who needs saving, wouldn't you agree?"
+    },
+    {
+     "s": 0,
+     "t": "Huh, you've sure given this some thought..."
+    },
+    {
+     "s": 2,
+     "t": "After all, you've only yourself to rely on when you're outside the tribe."
+    },
+    {
+     "sit": "Actually, we haven't asked your name yet."
+    },
+    {
+     "s": 2,
+     "t": "My name? Haha! Call me Legba. And you, friends?"
+    },
+    {
+     "sit": "You introduce yourselves to Legba."
+    },
+    {
+     "s": 2,
+     "t": "So, Paimon, {NICKNAME}, and {REALNAME[ID(2)|SHOWHOST(true)]} the little Tepetlisaurus... A marvelous fate it is, that had you meet here in Natlan."
+    },
+    {
+     "s": 2,
+     "t": "Speaking of which, {NICKNAME}, what were you doing near the tribe's taboo grounds, hmm? Treasure-hunting? Secret-seeking?"
+    },
+    {
+     "sit": "The former, naturally."
+    },
+    {
+     "sit": "Neither. Mere curiosity brought us here."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Yeah, that's right! A well-protected place like this has gotta be home to treasure, right?"
+    },
+    {
+     "s": 2,
+     "t": "Whatever the case, don't get any funny ideas about the place, outsiders. I will not permit you to enter."
+    },
+    {
+     "s": 2,
+     "t": "That is where our ancient ancestors re-established contact with the Night, and since that day, more and more tribespeople have been able to enter the Night Kingdom's gates."
+    },
+    {
+     "s": 1,
+     "t": "Er?"
+    },
+    {
+     "s": 0,
+     "t": "What sorta place is this \"Night Kingdom,\" anyway?"
+    },
+    {
+     "s": 2,
+     "t": "Haha. Well, I've heard that it's where all people of Natlan go when they leave this world... And only a few ever return."
+    },
+    {
+     "s": 2,
+     "t": "There, they say, the water flows like alluring light. There, they say, monumental obsidian tablets stand. It is no place for you to be curious about, even more so than our taboo grounds..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, so about the thing you mentioned earlier... the one that communicates with the night world..."
+    },
+    {
+     "s": 2,
+     "t": "A medium, yes. An ancient tool by which our forebears made contact with the Wayob — the envoys of the Night Kingdom."
+    },
+    {
+     "s": 0,
+     "t": "Whoa. An ancient tool..."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "...Perhaps I have said too much. Whatever. Today, a stable connection has been established with the Night Kingdom, and so a medium has long been unnecessary. If you ask me, such methods were quite crude to begin with."
+    },
+    {
+     "s": 2,
+     "t": "Still, it is a sacred relic for human tribes."
+    },
+    {
+     "s": 1,
+     "t": "Roar...!"
+    },
+    {
+     "s": 0,
+     "t": "All right, all right, we get it..."
+    },
+    {
+     "s": 2,
+     "t": "Good. Be right and proper. Do not trespass upon the taboo grounds. That's the way."
+    },
+    {
+     "s": 2,
+     "t": "Ha! Haha! Your companion is clever. A clever child indeed."
+    },
+    {
+     "s": 2,
+     "t": "I, too, had many such... brilliant children. But now, I walk alone. Many years it has been since I left the flocks..."
+    },
+    {
+     "s": 2,
+     "t": "Ahem... Ah, night has drawn night sooner than I expected."
+    },
+    {
+     "s": 0,
+     "t": "*yawn* Honestly, hearing so much stuff she doesn't really understand is making Paimon sleepy..."
+    },
+    {
+     "s": 2,
+     "t": "Ah, look at me, getting all carried away like this. Bring me the occasional person to talk to, and I get all chatty... If you don't mind, would you like to rest here for the night?"
+    },
+    {
+     "s": 2,
+     "t": "I can prepare bedding for you. I will be out patrolling at night, anyway, so you need not fear for your safety."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, thanks! That's thoughtful of you!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr..."
+    },
+    {
+     "sit": "Lying on a bed of warm grass, you swiftly drift off as the campfire flickers by your side...<br/>But you feel as though some faint noise lingers by your ear, preventing you from falling into a deeper slumber."
+    },
+    {
+     "sit": "Until...<br/>Something cold and moist makes contact with your cheek, dragging you from the thick, dark night of dreamland..."
+    },
+    {
+     "sit": "You open your eyes to the sight of {REALNAME[ID(2)|SHOWHOST(true)]}'s friendly, familiar face.<br/>It seems that he was licking you to wake you up.<br/>A moment later, you realize that he is trying to show you something — a strange obsidian statue..."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "sit": "Did you find this?"
+    },
+    {
+     "sit": "Did you... spit this out?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr... Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Uh... Don't you think this thing looks kinda ominous...?"
+    },
+    {
+     "sit": "You're a reader of omens now, are you?"
+    },
+    {
+     "sit": "Looks pretty valuable..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's just telling you what she thinks... It looks like bad news!"
+    },
+    {
+     "s": 0,
+     "t": "But wait a sec! This means you ran off while we were sleeping, didn't you, {REALNAME[ID(2)|SHOWHOST(true)]}?"
+    },
+    {
+     "s": 1,
+     "t": "Wrrooo..."
+    },
+    {
+     "s": 0,
+     "t": "Not good... Where did you find this thing anyway? ...Was it some sort of super dangerous, super dirty place?"
+    },
+    {
+     "s": 1,
+     "t": "Rrooo..."
+    },
+    {
+     "s": 2,
+     "t": "{REALNAME[ID(2)|SHOWHOST(true)]}? {NICKNAME}! Little Paimon!"
+    },
+    {
+     "s": 0,
+     "t": "We're still here! What's up?"
+    },
+    {
+     "s": 2,
+     "t": "I hurried here upon hearing {REALNAME[ID(2)|SHOWHOST(true)]}'s cries. What happened?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "This... This is..."
+    },
+    {
+     "s": 2,
+     "t": "Unbelievable. This obsidian statue... is the medium that our ancestors once used to communicate with the Night Kingdom, sealed behind that great gate, deep inside the forbidden grounds..."
+    },
+    {
+     "s": 2,
+     "t": "Did you make the little Tepetlisaurus dig it out for you? You... You stole the tribal relic!? And to think, I even prepared this camp for you, and a place to rest...!"
+    },
+    {
+     "sit": "Hang on, we can explain..."
+    },
+    {
+     "sit": "We're busted! Run!"
+    },
+    {
+     "sit": "Well, since you've caught us..."
+    },
+    {
+     "s": 0,
+     "t": "It wasn't on purpose!"
+    },
+    {
+     "s": 1,
+     "t": "Mrrooo..."
+    },
+    {
+     "sit": "You explain the situation to Legba..."
+    },
+    {
+     "s": 2,
+     "t": "So that's what happened. *sigh* To think it slipped my mind how this little one can simply tunnel everywhere... A failure on my part."
+    },
+    {
+     "s": 2,
+     "t": "Still, this is a problem... Now, this medium has long been unused, but it is still a sacred relic. And if the Wayob were to be angered, we would be in deep trouble."
+    },
+    {
+     "s": 0,
+     "t": "What do we do, then?"
+    },
+    {
+     "s": 2,
+     "t": "Whatever the case, I must trouble you all to return the statue to its rightful place."
+    },
+    {
+     "s": 1,
+     "t": "Rawr..."
+    },
+    {
+     "s": 2,
+     "t": "Yes, that means you too, little troublemaker, hehe! Come, let's go!"
+    },
+    {
+     "s": 2,
+     "t": "But just so you are aware — the paths in the ruins are winding and filled with mechanisms, so stay wary."
+    },
+    {
+     "section": "Legba"
+    },
+    {
+     "s": 2,
+     "t": "Well... according to what's been passed down from our tribe, to enter the altar, we need to... <color=#00E1FFFF>\"line up the lights in this place\"</color>..."
+    },
+    {
+     "s": 2,
+     "t": "I cannot be too sure, but perhaps we must align the height of the lamps controlled by the mechanisms."
+    },
+    {
+     "section": "Legba"
+    },
+    {
+     "s": 2,
+     "t": "The will of the Wayob made manifest... and you defeated it... You are mightier than I imagined."
+    },
+    {
+     "s": 2,
+     "t": "Most tribesfolk would have retreated in reverence as soon as they laid eyes on it... For no one knows the reason why such manifestations appear."
+    },
+    {
+     "s": 2,
+     "t": "If you are fortunate, they may respond to you, but mostly, they come to \"solve\" one problem or another."
+    },
+    {
+     "s": 0,
+     "t": "So even you don't understand the Wayob's intentions?"
+    },
+    {
+     "s": 1,
+     "t": "Ehrrr?"
+    },
+    {
+     "s": 2,
+     "t": "As I said before, the Wayob amass the will of departed guardians... They are great yet chaotic and abstruse by comparison, just like their realm, the Night Kingdom."
+    },
+    {
+     "s": 2,
+     "t": "Legend has it that in the days after the dragon with blazing wings awoke from within its volcano, wretched humanity could but barely eke out survival from between its great fangs, claws, and the great banner-like span of its wings."
+    },
+    {
+     "s": 2,
+     "t": "And in the meantime, the Abyss's influence only grew and grew..."
+    },
+    {
+     "s": 2,
+     "t": "In that most perilous of times, they say, some tribespeople saw, in a trance, the obsidian branches that remained even in the deepest night."
+    },
+    {
+     "s": 2,
+     "t": "And ever since then, more and more people of skill and talent would sense the Night Kingdom out there, beyond mundane sight... and they resisted the Abyss with totems, with the Ley Lines, and with the power of the elements."
+    },
+    {
+     "s": 2,
+     "t": "This was the ancient altar where our tribal ancestors would use obsidian to communicate with the Night Kingdom."
+    },
+    {
+     "s": 2,
+     "t": "The Wayob also gradually took shape during that time, totems and consciousnesses created by the congregation of each tribe's living and dead..."
+    },
+    {
+     "s": 0,
+     "t": "So that's how it is... So that was just a part of the Wayob, then?"
+    },
+    {
+     "s": 2,
+     "t": "Yes, but a mere embodiment of a single thread of their will. They say that the Wayob possess no true solid shape or form. It might be hard to explain, but, uh..."
+    },
+    {
+     "s": 2,
+     "t": "That entity will surely reappear should you provoke the Wayob!"
+    },
+    {
+     "s": 0,
+     "t": "Ugh. Let's just focus on putting this statue back on the altar, then!"
+    },
+    {
+     "section": "Make Offering"
+    },
+    {
+     "s": 3,
+     "t": "(test)……"
+    },
+    {
+     "section": "Legba"
+    },
+    {
+     "s": 2,
+     "t": "Right. Now it is time to return this to its rightful owner."
+    },
+    {
+     "section": "\"Projection of an Obsidian Tablet\""
+    },
+    {
+     "s": 0,
+     "t": "Huh? Weren't we in the canyon ruins just now? Where is this...?"
+    },
+    {
+     "s": 4,
+     "t": "Come, come. Over here."
+    },
+    {
+     "s": 4,
+     "t": "\"Idol\"... \"Medium\"... Return..."
+    },
+    {
+     "s": 4,
+     "t": "(The gentle voice drifts in as if from far away, like whispers carried on the wind...)"
+    },
+    {
+     "s": 4,
+     "t": "(The cold consciousness constantly calls out to you through... the obsidian statue in your hand...)"
+    },
+    {
+     "s": 4,
+     "t": "Return... Return..."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}?"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Long has it been since visitors from afar have come. This place is... too big. Too empty."
+    },
+    {
+     "s": 4,
+     "t": "The dark filth enters uninvited, staining even the darkest dreams..."
+    },
+    {
+     "s": 4,
+     "t": "Our nation is invaded once more. If the slain are swallowed by the turbulent tides of darkness, the flames of the living, dawn and dusk... All shall be extinguished..."
+    },
+    {
+     "s": 4,
+     "t": "Trust not lightly the so-called vision of the \"sacred mountain.\" Reject... His promise..."
+    },
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Legba"
+    },
+    {
+     "s": 2,
+     "t": "You've returned! You gave me quite the fright there, vanishing once you got close to the altar! I thought you'd been abducted by the Wayob..."
+    },
+    {
+     "s": 1,
+     "t": "Rrrooo..."
+    },
+    {
+     "s": 0,
+     "t": "Well, we got quite the fright ourselves. That place was super freaky. There was even a huge stone tablet that spoke to us!"
+    },
+    {
+     "s": 0,
+     "t": "...What's wrong, {REALNAME[ID(2)|SHOWHOST(true)]}? Were you worried?"
+    },
+    {
+     "s": 1,
+     "t": "Rrroo... Mrrroo..."
+    },
+    {
+     "s": 2,
+     "t": "Now, see what I told you? Your friends have returned, no?"
+    },
+    {
+     "s": 2,
+     "t": "Still... a huge stone tablet, you say?"
+    },
+    {
+     "sit": "(You tell Legba what you saw...)"
+    },
+    {
+     "s": 2,
+     "t": "*sigh* To defeat a manifestation of the Wayob's will... And from what you said, it sounds like you even entered the Night Kingdom..."
+    },
+    {
+     "s": 2,
+     "t": "It seems you are no ordinary outlanders... To think that I lived to see one who might return from the Night Kingdom... My life has been worth it after all, haha!"
+    },
+    {
+     "s": 2,
+     "t": "Alright, now that our \"little issue\" has been resolved, let us return. I must find a way to return the seal back to how it was..."
+    },
+    {
+     "s": 0,
+     "t": "\"Little issue\"!? Didn't we, y'know, do... uh, that, to a manifestation of the will of your tribe's Wayob?"
+    },
+    {
+     "s": 2,
+     "t": "Eh, it's no biggie. They gather energy from the Ley Lines over time. You needn't fret on their account."
+    },
+    {
+     "s": 0,
+     "t": "Uh, is it really okay for a tribesperson like you to be that cavalier about your own object of worship?"
+    },
+    {
+     "s": 2,
+     "t": "It is fortunate, yes — for you. Were I a stricter adherent, punishment would surely await you!"
+    },
+    {
+     "s": 0,
+     "t": "Uh, yeah, no thanks!"
+    },
+    {
+     "s": 2,
+     "t": "And you, little one. Never dig anything up from around here again!"
+    },
+    {
+     "s": 1,
+     "t": "Rrah..."
+    },
+    {
+     "s": 2,
+     "t": "Hehe. Either way, let us make haste, before any ancestors decide to protest our actions!"
+    }
+   ],
+   "description": "You encounter a strange door out in the wilds of Natlan…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "{REALNAME[ID(2)|SHOWHOST(true)]}",
+  "Legba",
+  "Make Offering",
+  "\"Projection of an Obsidian Tablet\""
+ ]
+}

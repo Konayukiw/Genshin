@@ -1,0 +1,4493 @@
+{
+ "chapter": "Crystallina Chapter",
+ "chapter_title": "Whispers Betwixt Stars and Night",
+ "act": "Act 1",
+ "act_title": "Whispers Betwixt Stars and Night",
+ "region": null,
+ "quests": [
+  {
+   "title": "Sinister Undercurrent",
+   "dialogue": [
+    {
+     "section": "Baizhu"
+    },
+    {
+     "s": 0,
+     "t": "Ah, looks like we have a special guest."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, Paimon, welcome! What can I do for you?"
+    },
+    {
+     "s": 1,
+     "t": "It's {NICKNAME} — he(she) looks absolutely beat these days. He(She) has these huge dark circles around his(her) eyes, like he(she) hasn't slept a wink."
+    },
+    {
+     "s": 1,
+     "t": "And he(she) keeps spacing out! You have to call his(her) name several times before he(she) snaps out of it... What do you think it is? Is he(she) sick?"
+    },
+    {
+     "s": 0,
+     "t": "Oh? Is {NICKNAME} prone to sickness? I find this surprising."
+    },
+    {
+     "sit": "I guess I could be..."
+    },
+    {
+     "sit": "I'm not sure..."
+    },
+    {
+     "s": 0,
+     "t": "Very peculiar... In all the time we've been acquainted, this is the first time you've come to me with a health complaint. Come, let me take a look at you."
+    },
+    {
+     "s": 0,
+     "t": "Hmm..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, Paimon does not like that expression, Baizhu... It's not serious, is it?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, complexion is good, eyes are clear, breathing is steady, pulse is strong..."
+    },
+    {
+     "s": 0,
+     "t": "Physically, you appear to be in good condition, {NICKNAME}. In theory, your energy level should reflect that. You should be feeling right as rain."
+    },
+    {
+     "s": 2,
+     "t": "And yet... I do feel like something is \"off.\""
+    },
+    {
+     "s": 0,
+     "t": "Hence my concern. A clean bill of health is usually a good thing. But, in this case, it likely means your situation is more complicated."
+    },
+    {
+     "s": 0,
+     "t": "Physical illnesses come with detectable symptoms that can be used to diagnose, medicate, and cure the condition. But afflictions of a non-physical nature... they fall outside a doctor's realm of expertise."
+    },
+    {
+     "s": 1,
+     "t": "Huh? What do you mean, \"non-physical nature\"?"
+    },
+    {
+     "s": 0,
+     "t": "Curses, dark magic... It's hard to say. It could just as easily be a simple case of mental fatigue."
+    },
+    {
+     "s": 0,
+     "t": "Why don't you rest here for a bit? Whatever it is we're dealing with, clues to your condition are sure to reveal themselves in time. Once we know the root cause, we can administer the right treatment."
+    },
+    {
+     "s": 0,
+     "t": "I've seen my fair share of mental afflictions. To start with, some calming incense, a good night's sleep, and a good meal will do you a world of good."
+    },
+    {
+     "s": 0,
+     "t": "In the meantime, Changsheng and I will review the relevant literature for afflictions that present with mental fatigue."
+    },
+    {
+     "s": 0,
+     "t": "*sigh*... Still, we're not experts on this kind of thing. I say, we should strongly consider calling in a specialist as soon as possible."
+    },
+    {
+     "s": 1,
+     "t": "Oh... Must be a rare condition if not even Baizhu and Changsheng have seen it before..."
+    },
+    {
+     "s": 1,
+     "t": "Well, all we can do is take their advice. You look like you're about to collapse, anyway."
+    },
+    {
+     "s": 1,
+     "t": "Just get some rest. Paimon will be right here by your side! Fingers crossed you'll be all better when you wake up!"
+    },
+    {
+     "s": 2,
+     "t": "I'm not sure..."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 3,
+     "t": "n/a"
+    },
+    {
+     "section": "Leave"
+    },
+    {
+     "s": 1,
+     "t": "You should get some rest. Paimon can tell how tired you are."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(Where am I?)"
+    },
+    {
+     "s": 2,
+     "t": "(There's a thick fog covering my field of vision.)"
+    },
+    {
+     "s": 2,
+     "t": "(This feels more real than a dream, but too chilling to be real life. My breath freezes in my throat before I can even exhale it... It feels like my soul has been wrenched from my body and thrust into this strange and unfamiliar space.)"
+    },
+    {
+     "s": 2,
+     "t": "(Whichever direction I look in, there's no end in sight. And worse than that... I think there's something in the fog, following me like a shadow.)"
+    },
+    {
+     "s": 2,
+     "t": "(If this is a dream, how long till I wake up? And if it's not, then where in the world am I?)"
+    },
+    {
+     "s": 2,
+     "t": "Oof...!"
+    },
+    {
+     "s": 2,
+     "t": "(What in the... Something just pierced through the fog and stabbed me in the back. But, there's no blood...)"
+    },
+    {
+     "s": 2,
+     "t": "(There's a strange light coming from the wound, and I see this familiar-looking spike retreating back into the darkness... Deep inside, it feels like a part of me is missing. And now another wave of fatigue is washing over me...)"
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}! {NICKNAME}!"
+    },
+    {
+     "s": 1,
+     "t": "Rise and shine! Time to wake up!"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "*yawn*... For once, you're making Paimon look like an early riser. It's already afternoon! Hopefully all that sleep did you some good. Feeling any better?"
+    },
+    {
+     "sit": "Paimon..."
+    },
+    {
+     "sit": "I need you to check if there's a cut on my back..."
+    },
+    {
+     "s": 1,
+     "t": "A cut? What, did you scratch yourself in your sleep? Alright, let Paimon take a look..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Nope! Nothing there... *gasp* Wait, did you have a nightmare?"
+    },
+    {
+     "s": 1,
+     "t": "Uhh... Okay, don't panic, umm... Paimon heard that dreams tell us what we need by showing us the opposite, so... if you had a nightmare, maybe all you need is something to cheer you up! C'mon, Paimon will treat you to something yummy!"
+    },
+    {
+     "s": 2,
+     "t": "I need you to check if there's a cut on my back..."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "sit": "You and Paimon head to Wanmin Restaurant. Sensing that something isn't right, Paimon orders a bunch of dishes to cheer you up."
+    },
+    {
+     "s": 1,
+     "t": "What? So in this dream, you were trapped in a weird place with thick fog everywhere, and then a spike came out of nowhere and stabbed you in the back?"
+    },
+    {
+     "s": 1,
+     "t": "Okay, well that's a new one. Are you sure it was a dream? 'Cause from the way you describe it, it sounds like you were really there..."
+    },
+    {
+     "s": 1,
+     "t": "But, then again, you woke up right where you went to bed. And you were definitely in a deep sleep this morning."
+    },
+    {
+     "sit": "I don't know what to make of it, either..."
+    },
+    {
+     "sit": "Maybe it was just a very lifelike dream."
+    },
+    {
+     "s": 1,
+     "t": "Then, it's decided. Paimon will stay up and watch over you tonight! If anyone tries to mess with you, Paimon will beat 'em up!"
+    },
+    {
+     "s": 1,
+     "t": "Or, uh... Wake you up first and then we can beat 'em up together!"
+    },
+    {
+     "s": 2,
+     "t": "(Paimon's smile has a way of putting me at ease.)"
+    },
+    {
+     "s": 2,
+     "t": "(But, what I saw is still bothering me. That dream was so chilling, and it almost feels like there's something watching me from some corner of the world even now...)"
+    },
+    {
+     "s": 2,
+     "t": "(Something stabbed me in my dream, but when I woke up, there was no wound. Still, if I focus on that area, I feel a vague aching... almost as if, deep underneath the flesh, something is...)"
+    },
+    {
+     "s": 4,
+     "t": "...Something is missing?"
+    },
+    {
+     "s": 2,
+     "t": "(!!!)"
+    },
+    {
+     "s": 1,
+     "t": "Uh, did you just say something?"
+    },
+    {
+     "s": 2,
+     "t": "You heard that, too?"
+    },
+    {
+     "s": 4,
+     "t": "The flesh remains whole, but the soul is incomplete. Left unresolved, the mind will wither away along with it."
+    },
+    {
+     "s": 1,
+     "t": "Wah, what the... Wait! Paimon remembers you! You're Childe's master! Sk... ork?"
+    },
+    {
+     "s": 2,
+     "t": "Skirk."
+    },
+    {
+     "s": 1,
+     "t": "Right! What are you doing here?"
+    },
+    {
+     "s": 1,
+     "t": "The last time we saw you was at the Primordial Sea in Fontaine, right? But, then we left and never learned where you went after that."
+    },
+    {
+     "s": 1,
+     "t": "Childe's been looking everywhere for you, by the way. What brings you to Wanmin Restaurant, of all places? You came here looking for us? And were you the one behind that hocus-pocus just now?"
+    },
+    {
+     "s": 4,
+     "t": "Tell me. What is it that you saw?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Tight-lipped, huh? I suppose that's fair."
+    },
+    {
+     "s": 4,
+     "t": "You. I'll take a glass of wine."
+    },
+    {
+     "s": 5,
+     "t": "Hmm? Oh, of course. Coming right up."
+    },
+    {
+     "s": 5,
+     "t": "We make this one in-house — it's not too strong. Enjoy!"
+    },
+    {
+     "s": 6,
+     "t": "Chef Mao, I'll take a Grilled Tiger Fish over here!"
+    },
+    {
+     "s": 5,
+     "t": "Coming right up! *sigh*... If I knew we'd be this busy, I wouldn't have approved Shenhe's vacation..."
+    },
+    {
+     "s": 4,
+     "t": "At the end of the day, what happens to you is of little consequence to me. I'm not here to try and win you over. Trust me or not — the choice is yours."
+    },
+    {
+     "s": 4,
+     "t": "If you want my help, now's the time to speak up. You have until I finish my drink."
+    },
+    {
+     "sit": "What do you know about this situation?"
+    },
+    {
+     "sit": "Why are you here?"
+    },
+    {
+     "s": 4,
+     "t": "I was investigating an Abyssal disturbance in the area and happened to notice you."
+    },
+    {
+     "s": 4,
+     "t": "Part of your soul is damaged, and the wound bears traces of Abyssal corrosion. Need I say more?"
+    },
+    {
+     "s": 1,
+     "t": "Neither of those things sound good..."
+    },
+    {
+     "s": 2,
+     "t": "(Skirk seems to know something. And given what I've seen of her strength, I bet she can tell what happened to me.)"
+    },
+    {
+     "s": 2,
+     "t": "(I don't know what her goal is, but in this moment at least, I don't think she has bad intentions.)"
+    },
+    {
+     "s": 1,
+     "t": "Well? Should we trust her?"
+    },
+    {
+     "s": 2,
+     "t": "What do you think, Paimon?"
+    },
+    {
+     "s": 1,
+     "t": "She mentioned an Abyssal disturbance... Maybe that has something to do with what's going on with you. But, we could always find a different expert on the Abyss to help us out..."
+    },
+    {
+     "s": 2,
+     "t": "Not on short notice."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, and that thing she said about your soul being damaged is scaring Paimon... Definitely something we should fix sooner rather than later."
+    },
+    {
+     "s": 1,
+     "t": "Skirk's an interesting one, that's for sure. But from what Childe's told us, she doesn't seem... evil, at least."
+    },
+    {
+     "s": 4,
+     "t": "1, 2... 7... 10. That'll do."
+    },
+    {
+     "s": 4,
+     "t": "Well? Have you made up your mind?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "What I saw was a dark space shrouded in a dense fog that wouldn't disperse."
+    },
+    {
+     "sit": "You give Skirk a brief description of your \"dream.\""
+    },
+    {
+     "s": 1,
+     "t": "So, that's all we know, Miss Skirk, um, ma'am. Can you help us?"
+    },
+    {
+     "s": 4,
+     "t": "So, you couldn't disperse the fog..."
+    },
+    {
+     "s": 4,
+     "t": "...I understand. Come find me in the Guili Plains when you're done here. Oh, and I left cash for the drink on the table. Settle the bill for me, will you?"
+    },
+    {
+     "s": 1,
+     "t": "Oh, uh, okay... Huh?"
+    },
+    {
+     "s": 1,
+     "t": "She disappeared!"
+    },
+    {
+     "sit": "You and Paimon quickly finish your meal and go to settle the bill."
+    },
+    {
+     "s": 5,
+     "t": "Wait, hold on, you overpaid. Here's your change."
+    },
+    {
+     "s": 1,
+     "t": "Oh, no, this includes the drink, so it should be the right amount."
+    },
+    {
+     "s": 5,
+     "t": "I didn't think you two ordered a drink."
+    },
+    {
+     "s": 1,
+     "t": "We didn't! It was that lady who came and sat with us, remember? You brought it out to her yourself!"
+    },
+    {
+     "s": 5,
+     "t": "You sure? I could have sworn there were only two of you at that table..."
+    },
+    {
+     "s": 1,
+     "t": "What?"
+    },
+    {
+     "s": 6,
+     "t": "Haha, what did you put in their dish, Chef Mao? Some kind of hallucinogenic mushroom? You've got them seeing things!"
+    },
+    {
+     "s": 1,
+     "t": "Seeing things? Wait, so neither of you noticed her? Young lady, about this tall, wearing a purple dress? She ordered a glass of wine."
+    },
+    {
+     "s": 5,
+     "t": "Ohh... Now you mention it, that vaguely rings a bell. And it looks like I did open the wine jar, so... Haha, it must have just slipped my mind. In any case, that settles your bill. Come again soon!"
+    },
+    {
+     "s": 7,
+     "t": "Chef Mao, check please!"
+    },
+    {
+     "s": 5,
+     "t": "Coming!"
+    },
+    {
+     "s": 1,
+     "t": "Okay, what was going on there? It's like they didn't remember Skirk being there at all."
+    },
+    {
+     "s": 1,
+     "t": "Even Paimon was half-convinced we hallucinated the whole thing... But, that Mora she left for us was definitely real."
+    },
+    {
+     "s": 1,
+     "t": "Ooh... This whole situation is giving Paimon the creeps... But anyway, she told us to head to the Guili Plains, right? Let's not keep her waiting!"
+    },
+    {
+     "s": 2,
+     "t": "Why are you here?"
+    },
+    {
+     "s": 2,
+     "t": "Maybe it was just a very lifelike dream."
+    },
+    {
+     "section": "Baizhu"
+    },
+    {
+     "s": 0,
+     "t": "How are you, {NICKNAME}? Feeling any better today?"
+    },
+    {
+     "sit": "You tell Baizhu about your dream and the special helper you encountered."
+    },
+    {
+     "s": 0,
+     "t": "You were pulled into a mysterious space inside a dream and stabbed by a spike?"
+    },
+    {
+     "s": 0,
+     "t": "I can't offer much about the spike, but there are many ancient texts that describe the phenomenon of being transported to a different world in dream."
+    },
+    {
+     "s": 0,
+     "t": "For example, \"A Drunken Adeptal Dream\" describes the story of a woodcutter whose soul was mistakenly pulled into another world and remained there for several years before making it back."
+    },
+    {
+     "s": 0,
+     "t": "If I'm not mistaken, there used to be a god whose power involved dreams and souls. But, I thought that god had died..."
+    },
+    {
+     "s": 0,
+     "t": "A god, hmm... Well, in any case, caution is the name of the game, I think. Take care of yourself, {NICKNAME}, and don't hesitate to contact us if you need help."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, what are all these Rifthounds doing here?"
+    },
+    {
+     "s": 1,
+     "t": "Huh, looks like they're collecting something..."
+    },
+    {
+     "s": 1,
+     "t": "Let's go check it out!"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "So, this is what they were collecting. It looks kinda like..."
+    },
+    {
+     "s": 2,
+     "t": "God remains?"
+    },
+    {
+     "s": 1,
+     "t": "Yeah! What is going on here..."
+    },
+    {
+     "s": 4,
+     "t": "From the moment they are born, all beings with great power have an impact on this world. Even if their body is sundered and their soul extinguished, their influence remains."
+    },
+    {
+     "s": 4,
+     "t": "Gods are the most common example of that. The remnants of gods who fell thousands of years ago remain buried deep within the earth, carrying within them a warped will and a dark curse."
+    },
+    {
+     "s": 4,
+     "t": "Together, these remnants form what you call \"god remains.\" And it appears that some of those sealed here were dug up and removed. There are traces left, but they're fading fast."
+    },
+    {
+     "s": 4,
+     "t": "...What are you doing?"
+    },
+    {
+     "s": 1,
+     "t": "N—Nothing! Just wanted to make sure you were, um, real..."
+    },
+    {
+     "s": 1,
+     "t": "She's definitely not a ghost, {NICKNAME}. Paimon poked her and she's solid..."
+    },
+    {
+     "sit": "After you left the restaurant..."
+    },
+    {
+     "sit": "The other diners acted like you were never there."
+    },
+    {
+     "s": 4,
+     "t": "Your life hangs in the balance, and that's what you're fixated on? Strange set of priorities..."
+    },
+    {
+     "s": 4,
+     "t": "It was just a trick to avoid being perceived. If someone notices me, those memories are erased, simple as that."
+    },
+    {
+     "s": 4,
+     "t": "Unlike you, I have no desire to establish a connection with the world. The weak and the lowly have no right to remember me. They're lucky they only have a few missing memories to show for it."
+    },
+    {
+     "s": 4,
+     "t": "Now, can we please get back on track?"
+    },
+    {
+     "s": 1,
+     "t": "Okay! Um, where were we...?"
+    },
+    {
+     "s": 1,
+     "t": "Right, the god remains! So basically, there's now less of them here than there used to be, right? Isn't that a good thing?"
+    },
+    {
+     "s": 1,
+     "t": "In our experience, god remains are one-hundred percent bad news. A lot of terrible things have happened because of them!"
+    },
+    {
+     "s": 4,
+     "t": "Maybe it's a good thing by human standards. But, power doesn't come from nothing, and it doesn't just disappear for no reason."
+    },
+    {
+     "s": 4,
+     "t": "The remains aren't just gone — they were taken."
+    },
+    {
+     "s": 2,
+     "t": "Like part of my soul was taken?"
+    },
+    {
+     "s": 4,
+     "t": "Very clever, {NICKNAME}. You aren't the only one who had something taken from you. There are victims like you everywhere — the only difference being, you can speak, and the remains cannot. So, it went unnoticed."
+    },
+    {
+     "s": 4,
+     "t": "Something similar happened in Sumeru. Within the span of one night, countless Consecrated Beasts were slaughtered, and a large amount of the god remains buried in the desert went missing."
+    },
+    {
+     "s": 4,
+     "t": "Of course, god remains are just one of the targets. The culprit is chipping away at sources of power all over this world, including the Stella Fortuna above."
+    },
+    {
+     "s": 1,
+     "t": "Wait, you mean... the stars?"
+    },
+    {
+     "s": 4,
+     "t": "Mm-hmm. Forty-two of them have died out in the past few months alone."
+    },
+    {
+     "s": 4,
+     "t": "In Khaenri'ah, people believed that powerful individuals have corresponding Stella Fortuna. Even should that individual fall, their Stella Fortuna would not disappear, but gradually evolve into a new constellation."
+    },
+    {
+     "s": 4,
+     "t": "Yet now, stars are disappearing from the skies entirely, and it's not hard to deduce what's happening to the power they contain."
+    },
+    {
+     "s": 4,
+     "t": "Something has been leeching power from this world like a parasite steals nutrients from a host. And, now, it's no longer satisfied with the remains of the dead — it wants you."
+    },
+    {
+     "s": 4,
+     "t": "This time, it only took a fragment of your soul. But next time? There's no telling how far it could go."
+    },
+    {
+     "s": 2,
+     "t": "But, why me?"
+    },
+    {
+     "s": 4,
+     "t": "No one knows. All I know for certain is this — getting back what you lost will not be easy."
+    },
+    {
+     "s": 4,
+     "t": "Considering how much power this entity has stolen, it must be a god-level being by now at least. But, that's not the real concern. Souls are fragile things, and yours could easily be crushed if you go up against it."
+    },
+    {
+     "s": 1,
+     "t": "Um... So, you're gonna help us, right?"
+    },
+    {
+     "s": 4,
+     "t": "We're going to help each other. You are my ticket to uncovering this thing's true identity."
+    },
+    {
+     "s": 1,
+     "t": "Well, great! You seem super strong, and you know a lot about the Abyss, so Paimon will take it!"
+    },
+    {
+     "s": 2,
+     "t": "Thank you."
+    },
+    {
+     "s": 4,
+     "t": "Don't get all mushy on me. All I'm doing is helping you get back to normal after a sudden crisis."
+    },
+    {
+     "s": 4,
+     "t": "And, I should warn you, getting mixed up with me can have unforeseen consequences. We're on very different journeys. You don't want to be in my debt, trust me."
+    },
+    {
+     "s": 4,
+     "t": "You help me uncover the truth behind this entity, and I'll help you recover what you lost. This is a transaction, that's all."
+    },
+    {
+     "s": 4,
+     "t": "You would do well to remember that. Now, come along."
+    },
+    {
+     "s": 1,
+     "t": "Yeesh... You'd think she'd be a little friendlier since she's agreed to help us. But nope, she's just like when we met her in the Primordial Sea... So cold..."
+    },
+    {
+     "s": 1,
+     "t": "Well, whatever! If that's how it's gonna be, then she doesn't deserve our friendship! What she does deserve is a super embarrassing nickname..."
+    },
+    {
+     "s": 1,
+     "t": "Ah, Paimon's got it! \"Frosty the Lavender Melon\"! Hehe, serves that ice queen right."
+    },
+    {
+     "s": 1,
+     "t": "Anyway, the important thing is that we get that piece of your soul back! So, let's follow her and see what sort of plan she's got!"
+    },
+    {
+     "s": 2,
+     "t": "The other diners acted like you were never there."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, this place is way bigger than Paimon expected! Where are we?"
+    },
+    {
+     "s": 4,
+     "t": "This is where I live. I suppose it's the closest thing I have to a \"home\" here."
+    },
+    {
+     "s": 2,
+     "t": "It seems more like somewhere in the Abyss?"
+    },
+    {
+     "s": 4,
+     "t": "It is. I brought you here because time flows differently in this place."
+    },
+    {
+     "s": 4,
+     "t": "I don't know how much Ajax has told you, but when he fell into this space, I mentored him for three months. In that time, only three days passed in the outside world."
+    },
+    {
+     "s": 1,
+     "t": "Ajax... Oh, right! That's Childe's real name. Yeah, Paimon remembers him mentioning something like that..."
+    },
+    {
+     "s": 1,
+     "t": "So, a month here is equivalent to one day in the outside world? That should mean we're safe from that power-hungry soul-snatcher for now, right?"
+    },
+    {
+     "s": 4,
+     "t": "Yes, well, I didn't bring you here just to show you around. In the outside world, {NICKNAME} could be attacked at any moment. But, coming here has bought us quite a bit of time."
+    },
+    {
+     "s": 4,
+     "t": "Now, we just need to figure out how to investigate that place you saw. The one full of fog."
+    },
+    {
+     "s": 4,
+     "t": "Both your description and the Abyssal disturbance I felt point to that space having some connection to the Abyss. It could even be a domain similar to this one."
+    },
+    {
+     "s": 4,
+     "t": "The thief who stole that fragment of your soul is hiding there. But the Abyss is a chaotic and turbulent place. If we want to pinpoint their location, we need to see what that space looks like without the fog."
+    },
+    {
+     "s": 4,
+     "t": "Abyssal power can grant a special form of sight. Have you ever wielded Abyssal power before?"
+    },
+    {
+     "sit": "No."
+    },
+    {
+     "sit": "Not that I'm aware of."
+    },
+    {
+     "s": 4,
+     "t": "Okay, do you plan to learn?"
+    },
+    {
+     "sit": "...For now, no."
+    },
+    {
+     "sit": "I'm kind of at odds with the Abyss."
+    },
+    {
+     "s": 4,
+     "t": "That tracks. All the information you have suggests the Abyss is something sinister, and that Abyssal power is a wild and dangerous force that always spells disaster."
+    },
+    {
+     "s": 1,
+     "t": "And you're saying that's not true?"
+    },
+    {
+     "s": 4,
+     "t": "Depends on your perspective. Floods and hurricanes take countless lives too, but if one day you gained the power to control them, what was once a calamity is now just another tool in your arsenal."
+    },
+    {
+     "s": 4,
+     "t": "I'll respect your opinion, though. Just means we have to turn to the second-best option."
+    },
+    {
+     "s": 2,
+     "t": "What's this?"
+    },
+    {
+     "s": 4,
+     "t": "A little Abyss Crystal that contains my power. Wear it on your head, and we'll be able to perform dream-mirroring when we fall asleep."
+    },
+    {
+     "s": 1,
+     "t": "...\"Dream-mirroring\"?"
+    },
+    {
+     "s": 4,
+     "t": "It means experiencing whatever the other person is dreaming. Everything they see, think, and feel."
+    },
+    {
+     "s": 4,
+     "t": "Since you haven't studied the art of using Abyssal power and have no plans to jump in the deep end right now, I'll have to do the investigating for you."
+    },
+    {
+     "s": 4,
+     "t": "With dream-mirroring, every time you slip into a deep sleep, I'll see with my own eyes whatever scene plays out in your mind. Then, I can guide you through the dream environment and we'll take back what was stolen from you."
+    },
+    {
+     "s": 1,
+     "t": "Huh... You make it sound so simple!"
+    },
+    {
+     "sit": "So all I need to do is... wait?"
+    },
+    {
+     "sit": "Is there anything you need me to do?"
+    },
+    {
+     "s": 4,
+     "t": "Tough to say. This is an unprecedented situation for both of us. Even assuming we do manage to find where this entity is hiding, like I said, getting your soul fragment back won't be easy."
+    },
+    {
+     "s": 4,
+     "t": "To play it safe, I need to give you some special training first."
+    },
+    {
+     "s": 1,
+     "t": "Wait, you're gonna teach {NICKNAME} some of your martial arts?"
+    },
+    {
+     "s": 1,
+     "t": "Does that mean... the next time we see Childe, we have to treat him like our senior!?"
+    },
+    {
+     "s": 4,
+     "t": "Do as you want. For my part, I don't see you as my disciples."
+    },
+    {
+     "s": 4,
+     "t": "You're already a pretty good fighter. All I'm planning to do is build on your current skills and train you for the specific scenarios that I think we might face."
+    },
+    {
+     "s": 4,
+     "t": "But that's enough talk. If you're ready to do this, then come with me. Time might be more lenient here, but that's no excuse to waste it."
+    },
+    {
+     "s": 1,
+     "t": "She moves fast... Paimon can hardly keep up with her."
+    },
+    {
+     "s": 1,
+     "t": "So, \"special training,\" huh? Kind of a rare opportunity... With your skills, there's not a lot of people qualified to train you."
+    },
+    {
+     "s": 1,
+     "t": "The last time something like this happened was probably... \"Anti-Raiden Shogun Training,\" right? Feels like a lifetime ago."
+    },
+    {
+     "s": 1,
+     "t": "Skirk seems pretty strong too though. Remember how she said that the All-Devouring Narwhal was just her master's \"pet\"? Huh, maybe we really will learn something here!"
+    },
+    {
+     "s": 2,
+     "t": "Is there anything you need me to do?"
+    },
+    {
+     "s": 2,
+     "t": "I'm kind of at odds with the Abyss."
+    },
+    {
+     "s": 2,
+     "t": "Not that I'm aware of."
+    }
+   ],
+   "description": "On an otherwise ordinary day on the road, you suddenly feel a strange discomfort…"
+  },
+  {
+   "title": "Special Training",
+   "dialogue": [
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "Ready?"
+    },
+    {
+     "s": 1,
+     "t": "Hehehe, bring it on!"
+    },
+    {
+     "s": 4,
+     "t": "Your training will be split into three stages, testing your bladework, elemental abilities, and reasoning skills."
+    },
+    {
+     "s": 4,
+     "t": "We'll start with bladework. You're no rookie in this area, so I won't bore you with the basics."
+    },
+    {
+     "s": 4,
+     "t": "During your long journey, you've no doubt sparred with a lot of talented sword fighters. Consciously or not, you have picked up all kinds of techniques from them."
+    },
+    {
+     "s": 1,
+     "t": "You bet! There's Kaeya, Master Jean, Keqing... Oh, and Kazuha, Ayaka... Yeah, we've met sword masters like you in every nation we've been through."
+    },
+    {
+     "s": 1,
+     "t": "You sparred with a bunch of them too, right? Nice to know it's all gonna come in handy now!"
+    },
+    {
+     "s": 4,
+     "t": "Don't get too smug. In sword fighting, techniques alone are not enough — you need a cohesive system to bring it all together. A \"style,\" or \"school\" of fighting."
+    },
+    {
+     "s": 4,
+     "t": "To use the human body as an analogy, your style is your skeleton — the foundation, the framework. Techniques are the muscles and other flesh attached to the bones. This is where your strength comes from."
+    },
+    {
+     "s": 4,
+     "t": "Improving your sword fighting is like growing that body. If your frame got bigger and taller but you didn't add any muscle mass, you'd be weak and flimsy. Then again, if you packed on pounds of flesh without a big enough frame to support it, you'd end up bloated and unwieldy."
+    },
+    {
+     "sit": "Understood."
+    },
+    {
+     "sit": "So what's the next step?"
+    },
+    {
+     "s": 4,
+     "t": "You need to do some introspection. Take a good, hard look at your past experiences, and figure out which parts of what you've learned are just techniques, and which parts can be used to form your own system of bladework."
+    },
+    {
+     "s": 4,
+     "t": "Only then will you get the full utility out of all your thoughts and observations along the way. Only then will every strike you deliver make perfect sense."
+    },
+    {
+     "s": 1,
+     "t": "Wait, is that it?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon thought you were gonna teach {NICKNAME} some cool new moves... Like when you went \"swoosh\" and opened a tunnel to another place!"
+    },
+    {
+     "s": 4,
+     "t": "One day, you'll reach a new level of power where you realize that even that's as basic a trick as any other. But right now, our sword styles are so wildly different that teaching you mere techniques is pointless."
+    },
+    {
+     "s": 4,
+     "t": "There are no shortcuts in the pursuit of power. Failure is your best teacher, and rigor is your coursework."
+    },
+    {
+     "s": 4,
+     "t": "That's all I have to say. Time to make a start — train until you're satisfied with yourself."
+    },
+    {
+     "s": 2,
+     "t": "So what's the next step?"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 2,
+     "t": "(What was that...)"
+    },
+    {
+     "s": 4,
+     "t": "...♪"
+    },
+    {
+     "s": 4,
+     "t": "Ah, you're awake."
+    },
+    {
+     "s": 4,
+     "t": "I found a few clues while you were asleep, but it's only a start. Now, time for the second stage of your training."
+    },
+    {
+     "s": 4,
+     "t": "This time, the focus is elemental energy. Come find me when you're ready to begin."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 2,
+     "t": "(Amazing... This is transforming my whole view of sword work. I'm using the same techniques as ever, but now they're having different effects.)"
+    },
+    {
+     "s": 2,
+     "t": "(It's as if I've unlocked a hidden door in my mind, and there's a wellspring of strength on the other side.)"
+    },
+    {
+     "s": 2,
+     "t": "(In my mind's eye, I'm seeing images of the friends I've made in Teyvat. Theirs are the sword styles and techniques I have come to know...)"
+    },
+    {
+     "s": 8,
+     "t": "\"This moment will be frozen in time.\""
+    },
+    {
+     "s": 9,
+     "t": "\"Cut to the chase!\""
+    },
+    {
+     "s": 4,
+     "t": "Consider a moment of true mastery that you've witnessed in another person, and ask yourself — what lies beneath the surface? What's their guiding philosophy, what's their state of mind as they maneuver their weapon?"
+    },
+    {
+     "s": 4,
+     "t": "Now take that, and practice it right away with speed, skill, and strength... Over and over, until your hand is one with your mind. This is the only path to true growth."
+    },
+    {
+     "s": 10,
+     "t": "\"Step on up!\""
+    },
+    {
+     "s": 11,
+     "t": "\"Dance with the waves!\""
+    },
+    {
+     "s": 12,
+     "t": "\"I see eternity go by in an instant, the autumns of many years from a single leaf. Thus I shall slice this maple in a flash, and ask a question of the ages...\""
+    },
+    {
+     "s": 2,
+     "t": "(My sword style... My journey...)"
+    },
+    {
+     "s": 4,
+     "t": "If you start to tire, empty your mind but do not stop."
+    },
+    {
+     "s": 4,
+     "t": "Stay in that frame of mind as you keep up the fight. Get rid of all redundant movements. Imagine your sword is an extension of your own body. Wield it just as you wield your arms, hands, and fingers."
+    },
+    {
+     "s": 13,
+     "t": "\"'Twas on a deserted moonlit night that the hero approached the vile dragon's limpid lair... Raincutter!\""
+    },
+    {
+     "s": 14,
+     "t": "\"Feathers fleeting wet, the white heron treads water, a sight without flaw. Master of Inazuma Kamisato Art Tachi Jutsu...\""
+    },
+    {
+     "s": 2,
+     "t": "(With each slash of my blade, I feel my strength increasing... I don't know if my weapon can contain all this power...)"
+    },
+    {
+     "s": 2,
+     "t": "(I'm in the zone. Limitless power is surging through me...)"
+    },
+    {
+     "s": 2,
+     "t": "Hyah!"
+    },
+    {
+     "sit": "You slash and swipe till you've exhausted every ounce of your energy..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Huh... Looks like you've made some real progress. That concludes your training session."
+    },
+    {
+     "s": 1,
+     "t": "Awesome! Paimon knew you could do it!"
+    },
+    {
+     "s": 4,
+     "t": "How do you feel?"
+    },
+    {
+     "sit": "Exhausted..."
+    },
+    {
+     "sit": "I'm fighting to keep my eyes open..."
+    },
+    {
+     "s": 4,
+     "t": "As you should be. Time flies when you're training hard. You've actually been going for several days now with no rest."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, meanwhile Paimon's had a whole bunch of naps! But you were so focused, she didn't wanna interrupt you."
+    },
+    {
+     "s": 4,
+     "t": "Go get some sleep — I'll be doing the same very soon. Let's hope you see that foggy place in your dream, so I can get this investigation over and done with."
+    },
+    {
+     "s": 2,
+     "t": "I'm fighting to keep my eyes open..."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 3,
+     "t": "n/a"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "Sometimes, you have to practice a single movement a million, maybe ten million times, before the breakthrough moment comes. Nothing in the outside world can help you in this process — the most important thing is to remain patient."
+    },
+    {
+     "section": "Strange Creature, Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(What is this place?)"
+    },
+    {
+     "s": 2,
+     "t": "(Have I been pulled back into that place again? But Skirk said the dream-mirroring would kick in when I fall asleep... so why am I back here?)"
+    },
+    {
+     "s": 2,
+     "t": "(...No, on closer inspection, this isn't the same dream as last time. It's dark and gloomy, but there isn't that chilling fog that made my hairs stand on end.)"
+    },
+    {
+     "s": 2,
+     "t": "(...Hold on, if dream-mirroring is a two-way process... Maybe I'm seeing inside her mind while she's exploring mine?)"
+    },
+    {
+     "s": 2,
+     "t": "(If this is her inner world, it's pretty bleak... I can occasionally make out the sound of a flowing stream, but other than that... it's so empty.)"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "s": 2,
+     "t": "(What's that?)"
+    },
+    {
+     "s": 2,
+     "t": "(What a strange-looking creature — where did it come from? ...I think it wants me to follow it. Might as well see where it leads.)"
+    },
+    {
+     "section": "Strict Female Voice, Cheerful Male Voice, Skirk, Investigate"
+    },
+    {
+     "s": 16,
+     "t": "Skirk, why are you skipping classes again? We've talked about this!"
+    },
+    {
+     "s": 4,
+     "t": "Cause he's a crabby old man, and he's a boring old man! I don't like going to his classes!"
+    },
+    {
+     "s": 16,
+     "t": "Excuse me!? You shouldn't talk about your teacher like that, it's very disrespectful!"
+    },
+    {
+     "s": 17,
+     "t": "Alright, let's not get into a big fight about this. Skirk's learned what she needs. There's no point forcing her to sit through more classes if she doesn't want to be there."
+    },
+    {
+     "s": 17,
+     "t": "But I'd still love to hear about what you got up to yesterday. Why don't you tell your dad all about it?"
+    },
+    {
+     "s": 4,
+     "t": "I went diving! And I saw this huuuge fish. I never knew they could get that big! It looked kinda dumb though, with that stupid big fat head. I tried to shake its fin, but it just spat water at me."
+    },
+    {
+     "s": 4,
+     "t": "Oh, and today, I'm gonna go to that prairie up north! There's supposed to be this giant bird there that can spit fire! I bet, if I climbed on its back, it could fly me all the way to the stars!"
+    },
+    {
+     "s": 17,
+     "t": "Hahaha, then I suppose your old dad should get one as a pet too. Otherwise, how are you gonna hear me call you for dinner up there in the stars?"
+    },
+    {
+     "s": 4,
+     "t": "When it's time to eat, I'll come back on my own, silly... Anyway, gotta go! Bye, Mom! Bye, Dad!"
+    },
+    {
+     "s": 16,
+     "t": "Wait... Put on a coat, at least! You'll catch a cold! I'm talking to you, young lady!"
+    },
+    {
+     "s": 16,
+     "t": "You spoil that child, you know. Ever since that merchant ship arrived, she practically lives outside. Always going on about \"exploring the beyond one day,\" whatever that means."
+    },
+    {
+     "s": 17,
+     "t": "Ah, let the kid do what makes her happy. Besides, we both know you're all bark and no bite. C'mon, our little adventurer's gonna be hungry when she gets back. Let's get started on dinner."
+    },
+    {
+     "section": "Skirk, Investigate"
+    },
+    {
+     "s": 4,
+     "t": "(\"The stars shimmer high above\"... But, what lies beyond the stars?)"
+    },
+    {
+     "s": 4,
+     "t": "(Mountains as far as the eye can see? An endless snowy plain? Or, maybe buildings taller than the sky, like the people from the merchant ship said.)"
+    },
+    {
+     "s": 4,
+     "t": "(I can't be the only one asking these questions — the universe is fascinating. If only I could meet some other people like me, we could set sail together and explore every corner of the world!)"
+    },
+    {
+     "s": 4,
+     "t": "(I'm sick of being a kid... There's so many amazing things out there, and I'm ready to see them all!)"
+    },
+    {
+     "s": 4,
+     "t": "(But, for now... I'm starving. Better get back.)"
+    },
+    {
+     "section": "Skirk, Panicked Passerby, Panicked Passerby, Panicked Passerby, Panicked Passerby, Callous Officer, Callous Soldier, Callous Soldier, Investigate"
+    },
+    {
+     "s": 18,
+     "t": "Help..."
+    },
+    {
+     "s": 19,
+     "t": "Don't let a single one of them get away!"
+    },
+    {
+     "s": 18,
+     "t": "They're coming!"
+    },
+    {
+     "s": 18,
+     "t": "Don't be scared— Aaah!"
+    },
+    {
+     "s": 19,
+     "t": "Eliminate the threat."
+    },
+    {
+     "s": 4,
+     "t": "Fire... There's fire everywhere! What happened?"
+    },
+    {
+     "s": 18,
+     "t": "I told you we shouldn't have trusted these \"outsiders\"!"
+    },
+    {
+     "s": 18,
+     "t": "Why are you doing this? What did we do to deserve this?"
+    },
+    {
+     "s": 18,
+     "t": "We welcomed you with our finest food and drink, showed you the best our home has to offer, gifted you cloth dyed by our own hands... And this is how you treat us?"
+    },
+    {
+     "s": 18,
+     "t": "Run! Save yourselves!"
+    },
+    {
+     "s": 19,
+     "t": "Captain, zone three is clear and we have zone two surrounded."
+    },
+    {
+     "s": 20,
+     "t": "Begin extermination. Remember the orders from upper command — no one is to be left alive."
+    },
+    {
+     "s": 19,
+     "t": "Rest assured, sir. We have enough munitions to annihilate these savages and burn their entire civilization to the ground."
+    },
+    {
+     "s": 20,
+     "t": "Good. The only ones who put up a real fight are that man and his wife, correct? What's their status?"
+    },
+    {
+     "s": 19,
+     "t": "We shot the man in the ankles, and the wife broke her wrist attempting to fight back. They won't be doing much more fighting. They're holed up in their home for now, but they won't last long."
+    },
+    {
+     "s": 19,
+     "t": "To prevent them from making some kind of last stand, we're planning to clear out the other zones first so we can send a bigger squadron to surround them."
+    },
+    {
+     "s": 20,
+     "t": "Well, well. Turns out some of these beasts do know how to use their claws. Now, the \"threat\" these savages pose will be undeniable."
+    },
+    {
+     "s": 20,
+     "t": "Let them cling to what's left of their lives for a little longer. Once the other zones are cleared, I'll cut off their heads myself."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 4,
+     "t": "Dad...? Mom...?"
+    },
+    {
+     "s": 16,
+     "t": "Skirk! You're alright! Thank heavens..."
+    },
+    {
+     "s": 17,
+     "t": "So happy to see you, sweet girl. But, you need to go... It isn't safe here. They'll be back any second..."
+    },
+    {
+     "s": 4,
+     "t": "What happened? You're bleeding a lot! Dad... Mom... *whimper*"
+    },
+    {
+     "s": 19,
+     "t": "Hehe, this is the place. Alert all units. Prepare to surround."
+    },
+    {
+     "s": 16,
+     "t": "Run, Skirk! Run as far away as you can! Don't trust anyone!"
+    },
+    {
+     "s": 16,
+     "t": "Your dad and I, we're not afraid to stare death in the face. But, we need you to survive."
+    },
+    {
+     "s": 16,
+     "t": "My clever girl, so curious... You're already so brave. I know you're going to grow up to be such a positive light in this world."
+    },
+    {
+     "s": 17,
+     "t": "Whenever you miss us, just play this song."
+    },
+    {
+     "s": 17,
+     "t": "Remember... Life is a gift. Don't let darkness claim it."
+    },
+    {
+     "s": 20,
+     "t": "Break down the door! Look what we have here. A savage that can pluck a tune! Well, the show's over!"
+    },
+    {
+     "s": 20,
+     "t": "You! Stop singing! Shut it! I said shut it, or I'll make you! Fine, have it your way...!"
+    },
+    {
+     "s": 2,
+     "t": "(What was that...)"
+    },
+    {
+     "s": 4,
+     "t": "...♪"
+    },
+    {
+     "s": 4,
+     "t": "Ah, you're awake."
+    },
+    {
+     "s": 4,
+     "t": "I found a few clues while you were asleep, but it's only a start. Now, time for the second stage of your training."
+    },
+    {
+     "s": 4,
+     "t": "This time, the focus is elemental energy. Come find me when you're ready to begin."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Man, staying in the Abyss feels so surreal, don't you think?"
+    },
+    {
+     "s": 1,
+     "t": "No day, and no night — it's like time hardly exists. If we weren't careful to keep track, it feels like we'd have no idea how long we've even been here."
+    },
+    {
+     "s": 1,
+     "t": "Well, except for the fact that Paimon still gets hungry like clockwork... You go do your training. Paimon's gonna grab a bite."
+    },
+    {
+     "s": 2,
+     "t": "I'm ready to start."
+    },
+    {
+     "s": 4,
+     "t": "The way I see it, the pursuit of power is divided into three stages."
+    },
+    {
+     "s": 4,
+     "t": "The first is mastering the use of standard weapons. Next is learning how to harness natural energy. And, after that, you're free to challenge even higher dimensions."
+    },
+    {
+     "s": 4,
+     "t": "The \"natural energy\" of Teyvat is, of course, elemental energy. But that's not my area of expertise — I draw from a different source of power."
+    },
+    {
+     "sit": "A different source of power?"
+    },
+    {
+     "sit": "That must mean..."
+    },
+    {
+     "s": 4,
+     "t": "Abyssal power, yes. Also known as the power of the Void Realm."
+    },
+    {
+     "s": 4,
+     "t": "My master, Surtalogi, is a true expert in that area. After all, he was one of the group of five that infamously stole the all-encompassing power of the Abyss, an act for which the people of Khaenri'ah gave them the epithet \"The Five Sinners.\""
+    },
+    {
+     "s": 4,
+     "t": "The elemental energy of Teyvat, on the other hand, is derived from the power of the Light Realm. These two forms of energy exist in direct opposition to each other. Suffice to say, there's not much I can teach you this time."
+    },
+    {
+     "sit": "But, there's something familiar about the power you use."
+    },
+    {
+     "sit": "It almost seems related to Cryo in some way."
+    },
+    {
+     "s": 4,
+     "t": "A keen observation, {NICKNAME}."
+    },
+    {
+     "s": 4,
+     "t": "Call it... respecting local norms. The Abyss stands in direct conflict with the will of this world. So, to make my life easier, I disguise my power to make it appear Cryo-like in nature."
+    },
+    {
+     "s": 4,
+     "t": "It's a technique I learned from some Khaenri'ahn ruins, known as \"the Seven-Shifting Serpent.\" If you ever change your mind about delving into Abyssal power, I can teach it to you."
+    },
+    {
+     "sit": "Abyssal power doesn't suit me..."
+    },
+    {
+     "sit": "I have the ability to purify Abyssal power."
+    },
+    {
+     "s": 4,
+     "t": "So I've heard. You seem to have a knack for removing Abyssal power."
+    },
+    {
+     "s": 4,
+     "t": "But... Is \"purification\" really what's going on there? Like I said — power does not simply disappear."
+    },
+    {
+     "s": 2,
+     "t": "What are you trying to say?"
+    },
+    {
+     "s": 4,
+     "t": "...Just thinking out loud. Let's focus on your elemental training. That's what's gonna help us if the situation gets tricky."
+    },
+    {
+     "s": 4,
+     "t": "True growth comes from adversity. But only if you make the choice to pick yourself up again every time you fall."
+    },
+    {
+     "s": 4,
+     "t": "So, it's time to push yourself to the limit — and then keep pushing. This is the only way to advance at pace."
+    },
+    {
+     "s": 2,
+     "t": "I have the ability to purify Abyssal power."
+    },
+    {
+     "s": 2,
+     "t": "It almost seems related to Cryo in some way."
+    },
+    {
+     "s": 2,
+     "t": "That must mean..."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 2,
+     "t": "(Along my journey, I've gained different elemental abilities in different lands.)"
+    },
+    {
+     "s": 2,
+     "t": "(But... I've never trained them all at once like this.)"
+    },
+    {
+     "s": 4,
+     "t": "You need to understand what makes you special."
+    },
+    {
+     "s": 4,
+     "t": "The ability to wield elemental energy without a Vision and switch between the elements at will..."
+    },
+    {
+     "s": 4,
+     "t": "It means your aspirations need no approval from the gods. Your power is not bound by the rules of this world."
+    },
+    {
+     "s": 4,
+     "t": "So, be bold. Do not be afraid to chart your own path."
+    },
+    {
+     "s": 2,
+     "t": "(Graceful as the wind. Tough as stone. Nimble as lightning. Flourishing like foliage...)"
+    },
+    {
+     "s": 2,
+     "t": "(I can feel the power of the elements flowing through me. Sometimes, as peaceful as a flowing stream. Other times, surging like a raging river.)"
+    },
+    {
+     "s": 2,
+     "t": "(If I close my eyes, I can almost hear their voices. But, it's not like some wild beast battling me for dominion. It's more like... saying hello to an old friend.)"
+    },
+    {
+     "s": 2,
+     "t": "...!"
+    },
+    {
+     "s": 4,
+     "t": "Very good. It seems you've reached a deeper level of connection with the elements."
+    },
+    {
+     "sit": "How long has it been this time?"
+    },
+    {
+     "sit": "I'm exhausted..."
+    },
+    {
+     "s": 4,
+     "t": "Long enough for you to lose yourself in your training — which is a good sign. Relentless practice with the elements has drained all your strength, but it's also what allowed you to make progress."
+    },
+    {
+     "s": 4,
+     "t": "Get some rest. When you wake up, we'll proceed to the final stage of your training."
+    },
+    {
+     "s": 2,
+     "t": "I'm exhausted..."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "sit": "n/a"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "If you wish to master the elements at a fundamental level, you must see the entire natural world — nature in all its places and forms. That is part of what it means to be a traveler."
+    },
+    {
+     "section": "Strange Creature, Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(This place again...)"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "sit": "Did you bring me here?"
+    },
+    {
+     "sit": "Who are you?"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "s": 2,
+     "t": "(No response. The strange creature just floated away.)"
+    },
+    {
+     "s": 2,
+     "t": "(What is that thing? What is it doing in Skirk's inner world? And... where is it taking me this time?)"
+    },
+    {
+     "s": 2,
+     "t": "Who are you?"
+    },
+    {
+     "section": "Surtalogi, Investigate"
+    },
+    {
+     "s": 21,
+     "t": "What is the secret to power?"
+    },
+    {
+     "s": 21,
+     "t": "Longing? Hatred? Self-preservation? No... It is fear."
+    },
+    {
+     "s": 21,
+     "t": "The fear of losing those you love. The fear of watching your home burn. Fear of loneliness, fear of death..."
+    },
+    {
+     "s": 21,
+     "t": "Fear is the source of evolution — it forces humanity to adapt to their environment and overcome hardship. It is in the process of prevailing over our fears that we surpassed first ourselves and then the rest of the world."
+    },
+    {
+     "s": 21,
+     "t": "That fear is now part of you. It calls on you to evolve, and it is time to answer."
+    },
+    {
+     "section": "Skirk, Surtalogi, Investigate"
+    },
+    {
+     "s": 21,
+     "t": "Any minute spent missing home is a minute wasted — practice your sword work instead. Do not make me tell you twice."
+    },
+    {
+     "s": 4,
+     "t": "But, Master... I can barely lift the sword anymore. If I keep going, I feel like my wrist is going to break..."
+    },
+    {
+     "s": 21,
+     "t": "So, it has not broken yet?"
+    },
+    {
+     "s": 4,
+     "t": "Um..."
+    },
+    {
+     "s": 21,
+     "t": "Then, pick up your sword and keep practicing until it breaks — I want to hear the cracking and splintering of bone."
+    },
+    {
+     "s": 21,
+     "t": "After all, bones can always be reset."
+    },
+    {
+     "s": 4,
+     "t": "Ugh... Aaargh..."
+    },
+    {
+     "section": "Skirk, Surtalogi, Investigate"
+    },
+    {
+     "s": 21,
+     "t": "Good, Skirk. Once again, you survived. How do you feel?"
+    },
+    {
+     "s": 4,
+     "t": "Cold... In pain..."
+    },
+    {
+     "s": 21,
+     "t": "These are signs that you are adapting to the Abyss."
+    },
+    {
+     "s": 21,
+     "t": "Each time the flesh is torn and the spirit crushed, each time you claw back from the brink of death, you become stronger."
+    },
+    {
+     "s": 21,
+     "t": "I now understand why these people sought to destroy your homeland. Your potential goes beyond even what I could have anticipated."
+    },
+    {
+     "s": 4,
+     "t": "*coughing*..."
+    },
+    {
+     "s": 21,
+     "t": "But, you still have much to learn in your pursuit of strength. Your mind is rife with distractions. From now on, I shall show no mercy in your training."
+    },
+    {
+     "s": 21,
+     "t": "You must learn to shut out all the pointless emotion, crush the self that makes you weak, and become master over your physical form."
+    },
+    {
+     "s": 21,
+     "t": "Get up, Skirk. Wipe the blood off your face, cut away the rotten parts of your flesh, and mend what is broken. Then, take up your sword."
+    },
+    {
+     "s": 4,
+     "t": "*coughing*... Yes, Master."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 2,
+     "t": "(The dream is over, but I can't get that suffocating, oppressive feeling out of my head.)"
+    },
+    {
+     "s": 2,
+     "t": "(I have so many questions about Skirk's past... Where does she come from? What has she been through?)"
+    },
+    {
+     "s": 1,
+     "t": "You're up! Hopefully, you got some good rest."
+    },
+    {
+     "s": 1,
+     "t": "Skirk said to tell you that she's ready to start the final stage of your training whenever you are."
+    },
+    {
+     "s": 1,
+     "t": "So, wanna head over now? Or, did you wanna wait a little?"
+    },
+    {
+     "s": 2,
+     "t": "(I really want answers, but right now it's vital that I complete my training...)"
+    },
+    {
+     "s": 2,
+     "t": "(Once that's done, I'll find a chance to talk to her.)"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "From your training so far, you have gained a better command of the sword and more control over your elemental abilities."
+    },
+    {
+     "sit": "Thank you."
+    },
+    {
+     "sit": "It's all thanks to your guidance."
+    },
+    {
+     "s": 4,
+     "t": "That's only part of it. Experience is the real teacher. Your journey, the friends you have made, the dangers you have faced — these have taught you more than I ever could."
+    },
+    {
+     "s": 4,
+     "t": "Now, it's time to focus on how you react under pressure. You must be able to think rationally, even in unpredictable combat situations. To simulate this, I'm going to attack, and you're going to block."
+    },
+    {
+     "s": 4,
+     "t": "Ready?"
+    },
+    {
+     "sit": "Yes."
+    },
+    {
+     "sit": "Give me your worst."
+    },
+    {
+     "s": 4,
+     "t": "Hm, not bad. That defensive stance looks near unbreakable."
+    },
+    {
+     "s": 4,
+     "t": "Just like your sister(brother). Ah, that reminds me. You still don't know what happened to her(him), do you..."
+    },
+    {
+     "s": 2,
+     "t": "!!!"
+    },
+    {
+     "s": 2,
+     "t": "Oh..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, no fair! That's cheating!"
+    },
+    {
+     "s": 4,
+     "t": "You think every opponent has the same moral code as you? You can denounce their deplorable methods all you want... But, only if you live to tell the tale. The dead don't get to complain."
+    },
+    {
+     "s": 4,
+     "t": "Strong emotions will always arise in combat — anxiety, anger, fear — but a true warrior is never at their whim. Only when you are free from the influence of emotion can you make the right choice no matter the situation."
+    },
+    {
+     "s": 2,
+     "t": "Are you describing yourself?"
+    },
+    {
+     "s": 4,
+     "t": "How amusing. Almost sounds like you think you know me."
+    },
+    {
+     "s": 4,
+     "t": "...But, you don't. You can choose your own path — we are not the same."
+    },
+    {
+     "s": 4,
+     "t": "Let's begin. Try to use reason over emotion. Make the most rational and advantageous decision in any given moment."
+    },
+    {
+     "s": 4,
+     "t": "This is your final training session. Look alive."
+    },
+    {
+     "s": 2,
+     "t": "Give me your worst."
+    },
+    {
+     "s": 2,
+     "t": "It's all thanks to your guidance."
+    },
+    {
+     "section": "Skirk, Surtalogi"
+    },
+    {
+     "s": 2,
+     "t": "(It's not easy to control my emotions.)"
+    },
+    {
+     "s": 2,
+     "t": "(The battle is overwhelming, but... if I can just focus all of my attention on what my opponent is doing and how I should respond, it's almost like my emotions take a back seat.)"
+    },
+    {
+     "s": 4,
+     "t": "You're getting the hang of it."
+    },
+    {
+     "s": 4,
+     "t": "The first step to controlling your emotions is controlling your mind. You want a unified train of thought. It all comes down to focus."
+    },
+    {
+     "s": 2,
+     "t": "(Focus... Focus on the battle...)"
+    },
+    {
+     "s": 2,
+     "t": "(I think it's working... I can choose to tune out anything that isn't relevant to the battle. But, I think I'm still pretty far from having full control over my emotions.)"
+    },
+    {
+     "s": 21,
+     "t": "Your mind is rife with distractions. From now on, I shall show no mercy in your training."
+    },
+    {
+     "s": 21,
+     "t": "You must learn to shut out all the pointless emotion, crush the self that makes you weak, and become master over your physical form."
+    },
+    {
+     "s": 2,
+     "t": "(Skirk went through this kind of training too, didn't she... How merciless does the training have to be to make someone substitute all emotion for pure reason?)"
+    },
+    {
+     "s": 4,
+     "t": "Stop. Let's pause here. One look, and I can tell your mind has wandered."
+    },
+    {
+     "s": 4,
+     "t": "That's to be expected. There's a limit to how long a human being can concentrate on one thing. Staying calm and focused sounds simple in theory, but in practice, it's more demanding than sword work or elemental abilities."
+    },
+    {
+     "s": 2,
+     "t": "(Skirk is right. Now that I've stopped, all the emotions I was suppressing are rushing back to the surface.)"
+    },
+    {
+     "s": 2,
+     "t": "(Pain, exhaustion, frustration, doubt... But, exhaustion is the main one. I feel like I could fall asleep on the spot...)"
+    },
+    {
+     "s": 4,
+     "t": "Get some rest — no point training further if you're already dead on your feet. Like I said at the beginning, the only goal of this training is for you to reach a point that you're satisfied with."
+    },
+    {
+     "s": 4,
+     "t": "You managed to push past your limits, which is a good start. You can be proud of that and sleep well knowing that you've earned it."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "sit": "n/a"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "Warriors will train day and night to perfect their skills, but when the battle comes, their fate may be decided in a matter of seconds."
+    },
+    {
+     "s": 4,
+     "t": "One mistake, one moment of hesitation, and just like that, all their blood, sweat, and tears were for nothing. You need to push yourself to perfection, or you might not even live to regret it."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(Looks like I'm back in Skirk's inner world.)"
+    },
+    {
+     "s": 2,
+     "t": "(I don't see that strange creature this time. But, I think I can navigate this space on my own now, even without it here to guide me.)"
+    },
+    {
+     "s": 2,
+     "t": "(I don't know how to leave, so I'm stuck here until I wake up. Can't hurt to take a look around while I wait...)"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 22,
+     "t": "Skirk is amazing! She faced down that terrifying giant and cut its head clean off!"
+    },
+    {
+     "s": 23,
+     "t": "She got hurt though, didn't she? I heard it was pretty bad..."
+    },
+    {
+     "s": 22,
+     "t": "Yeah, well that's a given. But the moment she was on the mend, she got right back to practicing her sword work."
+    },
+    {
+     "s": 22,
+     "t": "I heard Master suffered a grave injury once too. Lost an arm and a leg, and still came back stronger than ever... Skirk's becoming more like him by the day."
+    },
+    {
+     "s": 23,
+     "t": "Incredible... I wonder if I'll ever reach their level. They're always so resolute, so unshakable..."
+    },
+    {
+     "section": "Skirk, Strict Female Voice, Skirk, Panicked Passerby, Panicked Passerby, Panicked Passerby, Panicked Passerby, Callous Officer, Investigate"
+    },
+    {
+     "s": 4,
+     "t": "*panting*"
+    },
+    {
+     "s": 18,
+     "t": "Pathetic... You're not even trying. You're so much weaker than you think."
+    },
+    {
+     "s": 16,
+     "t": "Skirk, have you become a positive light in this world?"
+    },
+    {
+     "s": 4,
+     "t": "*panting*..."
+    },
+    {
+     "s": 18,
+     "t": "Do you even remember how many of us perished in that fire? How many bodies were left to rot on the scorched earth? Yet, you alone live on."
+    },
+    {
+     "s": 18,
+     "t": "Keep your gaze fixed on your blade. You don't deserve to rest."
+    },
+    {
+     "s": 4,
+     "t": "I have so many questions! I just wanna jump in a spaceship, explore the whole universe, and get answers from the stars! I just need to wait till I'm grown up... Then, I can do anything..."
+    },
+    {
+     "s": 18,
+     "t": "Now, you must bid farewell to who you were in the past, and become someone stronger."
+    },
+    {
+     "s": 17,
+     "t": "Run, Skirk... Run! Only death awaits us here. Keep running, and don't ever look back..."
+    },
+    {
+     "s": 4,
+     "t": "*panting*... *coughing*..."
+    },
+    {
+     "section": "Skirk, Alice, Investigate"
+    },
+    {
+     "s": 24,
+     "t": "Hmm... Let's see here. First things first, you need a new identity."
+    },
+    {
+     "s": 24,
+     "t": "Going around telling people you're from somewhere beyond the stars won't do, now will it? How about saying you hail from \"beneath the earth\" instead?"
+    },
+    {
+     "s": 24,
+     "t": "As the Khaenri'ahn saying goes: \"Venturing out into the universe and down into the abyss are the same in that both are braving the dark unknown.\""
+    },
+    {
+     "s": 4,
+     "t": "Well, I'm a visitor on this planet, so I'll follow the rules."
+    },
+    {
+     "s": 24,
+     "t": "Ah, splendid! That saves me quite a bit of trouble. Let me offer you a piece of advice in return — although it might not be what you want to hear."
+    },
+    {
+     "s": 24,
+     "t": "I know the pursuit of strength is important to you. But, taking a moment for yourself every once in a while is never a bad idea."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 24,
+     "t": "Ignore \"her\" existence for too long, and there will come a day when you can no longer hear \"her\" voice."
+    },
+    {
+     "section": "Skirk, Childe"
+    },
+    {
+     "s": 2,
+     "t": "(Huh...)"
+    },
+    {
+     "s": 2,
+     "t": "(The dream is over. I can hear the crackling of a fire in the distance, and there's a fragrant aroma in the air... Mmm, grilled meat...)"
+    },
+    {
+     "s": 1,
+     "t": "You're awake!"
+    },
+    {
+     "s": 1,
+     "t": "You must be starving, right? Ta-da! A barbecue feast just for you!"
+    },
+    {
+     "sit": "I am a little hungry."
+    },
+    {
+     "sit": "Yeah, I'm starving."
+    },
+    {
+     "s": 1,
+     "t": "Hehehe, of course you are! That's why Skirk and Paimon got this all ready for you. Dig in, before it gets cold!"
+    },
+    {
+     "sit": "You two..."
+    },
+    {
+     "sit": "So you're best friends now?"
+    },
+    {
+     "s": 1,
+     "t": "Eh, well, if you're around someone long enough, it's bound to happen. Plus, Skirk can cook! So, Paimon decided she can forgive the whole \"ice queen\" thing. Paimon's not one to hold a grudge..."
+    },
+    {
+     "s": 4,
+     "t": "Here's an idea. Let's save the chit-chat until after the meal."
+    },
+    {
+     "sit": "You all dig in and make quick work of the food."
+    },
+    {
+     "s": 1,
+     "t": "Oof... So full..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, it's Paimon's turn to sleep now. Wake her up when it's time to go!"
+    },
+    {
+     "s": 4,
+     "t": "I have good news."
+    },
+    {
+     "s": 4,
+     "t": "First, your training is complete — you have what it takes to wield immense power, now it's just a matter of putting it into practice. Continue to learn from your journey and hone your skills against formidable opponents."
+    },
+    {
+     "s": 4,
+     "t": "Second, I've located the culprit we've been searching for. Next, we just need to retrieve the missing part of your soul, and our business will be concluded."
+    },
+    {
+     "sit": "Thank you..."
+    },
+    {
+     "sit": "That was a lot faster than I expected."
+    },
+    {
+     "s": 4,
+     "t": "When Ajax trained with me, he once told me he was \"bursting with questions.\" So, I allowed him to ask me three of them before he left."
+    },
+    {
+     "s": 4,
+     "t": "You and I may never meet again, {NICKNAME}. So if there's anything you want to ask me, now's your opportunity. Just like Ajax, I'll answer three of your questions."
+    },
+    {
+     "s": 2,
+     "t": "(After spending time in Skirk's inner world and witnessing her memories, there are so many questions I could ask. But, the most important one is...)"
+    },
+    {
+     "s": 2,
+     "t": "Are you... really from Teyvat?"
+    },
+    {
+     "s": 4,
+     "t": "...Okay, not the angle I was expecting. What makes you ask that?"
+    },
+    {
+     "s": 2,
+     "t": "I'm sorry I didn't tell you earlier, but... while we were dream-mirroring, I think I saw your memories."
+    },
+    {
+     "s": 4,
+     "t": "...?"
+    },
+    {
+     "s": 2,
+     "t": "(This is the first time I've seen Skirk break her composure. I guess this really took her by surprise.)"
+    },
+    {
+     "s": 4,
+     "t": "I knew that was a possible side-effect... Closed off my mind to you for that exact reason."
+    },
+    {
+     "s": 4,
+     "t": "Even with the dream-mirroring, you should have seen nothing but endless darkness."
+    },
+    {
+     "s": 2,
+     "t": "(So, Skirk didn't share those memories with me on purpose. And in fact, she tried her best to keep them from me.)"
+    },
+    {
+     "s": 2,
+     "t": "(Wait, speaking of endless darkness... On my first time there, that was all I saw — until that strange creature appeared...)"
+    },
+    {
+     "s": 4,
+     "t": "Eh, whatever. Must have been a flaw in my execution... I shouldn't be too surprised. Due to some recent circumstances, my self-control has been lacking as of late."
+    },
+    {
+     "s": 4,
+     "t": "Since you've seen what you've seen, there's no reason to hide the truth. All I ask is that you keep it a secret."
+    },
+    {
+     "s": 4,
+     "t": "No, I'm not from Teyvat. I'm from a different planet, and there was a time when I journeyed through the stars — a lot like you, in some ways."
+    },
+    {
+     "s": 2,
+     "t": "Like me? Do you mean... you're also a Descender?"
+    },
+    {
+     "s": 4,
+     "t": "No, we're different in that respect. You're influencing the fate of this world, but me? I'm just passing through."
+    },
+    {
+     "s": 4,
+     "t": "Several hundred years ago, my master, Surtalogi, opened the border between worlds and sent me here."
+    },
+    {
+     "s": 4,
+     "t": "But, this is not my home, and one day, I'll return to the vast unknown of space... So, there you have it. Onto your second question."
+    },
+    {
+     "s": 2,
+     "t": "What is your goal in coming here?"
+    },
+    {
+     "s": 4,
+     "t": "To become stronger."
+    },
+    {
+     "s": 4,
+     "t": "For certain reasons, I need to bridge the power gap between me and my master as quickly as possible. But, first, I need to understand the source of his strength."
+    },
+    {
+     "s": 4,
+     "t": "To do that, I need to follow in his footsteps, walk the path he once walked. And somewhere along the way, I'll find out how to defeat him. That is my sole focus and purpose."
+    },
+    {
+     "s": 4,
+     "t": "...Okay, you have one question remaining."
+    },
+    {
+     "s": 2,
+     "t": "(Skirk's goal is to defeat \"The Foul\"? I can hear how serious this is for her. I wonder what those \"certain reasons\" could be...)"
+    },
+    {
+     "s": 2,
+     "t": "(But, given how quickly she blazed through that answer, I doubt she wants to talk about it. I have one question left. What should I ask?)"
+    },
+    {
+     "s": 25,
+     "t": "You make it sound so easy. Ever since the incident I experienced there, I've never stopped searching for Master Skirk and that unknown abyss."
+    },
+    {
+     "s": 25,
+     "t": "But it's been years now and I've still found nothing..."
+    },
+    {
+     "s": 2,
+     "t": "(Huh... Maybe I should take this opportunity to get Childe some answers.)"
+    },
+    {
+     "s": 4,
+     "t": "Well? Your last question?"
+    },
+    {
+     "s": 2,
+     "t": "You know Childe is looking for you, right? Are you going to let him see you?"
+    },
+    {
+     "s": 4,
+     "t": "Ajax..."
+    },
+    {
+     "s": 4,
+     "t": "His situation is different than yours. Before you ever crossed paths with me, you'd already encountered many formidable people, studied their techniques, and developed your own skillset."
+    },
+    {
+     "s": 4,
+     "t": "So, during your training, all I had to do was build upon that foundation. But, Ajax was so young when he came to me — a complete blank canvas."
+    },
+    {
+     "s": 4,
+     "t": "Children can't help but imitate their role models. In the long run, that would only hinder his growth."
+    },
+    {
+     "s": 4,
+     "t": "Once Ajax has enough strength in his own right, I will allow us to meet again. Until then, let that motivate him to reach his full potential."
+    },
+    {
+     "s": 2,
+     "t": "(That was a calm and calculated answer. It's like she was talking about something entirely mundane... I don't know why, but I'm not buying it...)"
+    },
+    {
+     "s": 2,
+     "t": "(She makes it sound like the decision has everything to do with Childe and nothing to do with her. But, what does she actually feel about it?)"
+    },
+    {
+     "s": 2,
+     "t": "(The Abyss is completely silent. This domain must get lonely after a while. Not to mention, she said it's been hundreds of years since she arrived in Teyvat — and even longer than that if you account for how slowly time passes in here.)"
+    },
+    {
+     "s": 4,
+     "t": "Unlike you, I have no desire to establish a connection with the world. The weak and the lowly have no right to remember me. They're lucky they only have a few missing memories to show for it."
+    },
+    {
+     "s": 2,
+     "t": "(In all that time, she never established a connection with this world. Was it really just because she looks down on the weak?)"
+    },
+    {
+     "s": 2,
+     "t": "(...I doubt she'd give me a straight answer if I asked. Besides, I already used up my three questions. She was happy to give me cold, hard facts. But, I still feel like I haven't heard her true \"voice.\")"
+    },
+    {
+     "s": 4,
+     "t": "Wake up your companion. It's time to go."
+    },
+    {
+     "s": 4,
+     "t": "Oh, and everything I just told you... Best keep it a secret from her as well."
+    },
+    {
+     "s": 2,
+     "t": "That was a lot faster than I expected."
+    },
+    {
+     "s": 2,
+     "t": "So you're best friends now?"
+    },
+    {
+     "s": 2,
+     "t": "Yeah, I'm starving."
+    }
+   ],
+   "description": "Skirk agrees to help investigate the mysterious person’s whereabouts. In the meantime, you should work on improving your strength."
+  },
+  {
+   "title": "All Devouring",
+   "dialogue": [
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Wait... This is near The Chasm, right?"
+    },
+    {
+     "s": 4,
+     "t": "Yes. If we enter from here, we'll be able to reach that place from your dream."
+    },
+    {
+     "s": 4,
+     "t": "You have some experience with Abyssal domains by now, but still, this is someone else's territory. Best to proceed with caution."
+    },
+    {
+     "s": 1,
+     "t": "Don't worry! Paimon's an expert at hiding behind other people for safety!"
+    },
+    {
+     "s": 1,
+     "t": "Oh, but, uh... That means you need to stay safe, {NICKNAME}!"
+    },
+    {
+     "sit": "I will."
+    },
+    {
+     "sit": "Let's teach this thief a lesson."
+    },
+    {
+     "s": 4,
+     "t": "Alright. Remember your training. Time to put it to use."
+    },
+    {
+     "s": 2,
+     "t": "Let's teach this thief a lesson."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Oh... Looks like this is a dead end. Did we make it to his hiding place?"
+    },
+    {
+     "s": 1,
+     "t": "Ugh, this fog is making it impossible to see anything!"
+    },
+    {
+     "s": 4,
+     "t": "This should be the place where you were attacked, {NICKNAME}."
+    },
+    {
+     "s": 4,
+     "t": "The missing part of your soul should be nearby. Can you sense where it is?"
+    },
+    {
+     "s": 2,
+     "t": "(If I close my eyes and focus on the light that came from my wound back then... Yes, I can sense something, and it is nearby. But I can't tell the exact location.)"
+    },
+    {
+     "sit": "Nothing exact..."
+    },
+    {
+     "sit": "But, I know it's nearby."
+    },
+    {
+     "s": 4,
+     "t": "Hmm. Our opponent must have covered his tracks just in case. Otherwise, you should have sensed it much more strongly."
+    },
+    {
+     "s": 1,
+     "t": "Hold on, look! The spikes are back!"
+    },
+    {
+     "s": 4,
+     "t": "Stay calm. Let's hold back a little, give our enemy some wiggle room so we can see what we're dealing with. If we're too reckless, we might be playing right into his hands."
+    },
+    {
+     "s": 4,
+     "t": "Our enemy took part of your soul for a reason — it's likely he integrated it into his attacks somehow. If we're smart about this, we can track it down."
+    },
+    {
+     "s": 2,
+     "t": "But, I know it's nearby."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Ah, {NICKNAME}, Skirk!"
+    },
+    {
+     "s": 1,
+     "t": "What happened? It looked like Skirk just got—"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "In the Guili Plains, you asked me why this enemy chose you as his target."
+    },
+    {
+     "s": 4,
+     "t": "Now, the answer is clear. It's not just the fact that your strength is impressive. It's also because of your ability to, as you put it, \"purify\" Abyssal power."
+    },
+    {
+     "s": 4,
+     "t": "Whatever that actually means... The fact is that ability allowed him to do something that should have been completely impossible:"
+    },
+    {
+     "s": 4,
+     "t": "Namely, break through my defenses and steal my power."
+    },
+    {
+     "sit": "So, you were his real target?"
+    },
+    {
+     "sit": "He was after you from the very beginning?"
+    },
+    {
+     "s": 4,
+     "t": "No, he couldn't have known I'd come to his domain. He only stole your soul fragment because he knew the value of its power. I doubt he expected it to come in handy so soon."
+    },
+    {
+     "s": 4,
+     "t": "Call it \"fate\" if you want. I believe that's the term they use in this world for arbitrary coincidences like this."
+    },
+    {
+     "s": 4,
+     "t": "In any case, it works to our advantage. Once I realized what he was using that power for, it gave me the chance to get back what you lost."
+    },
+    {
+     "s": 2,
+     "t": "But, you..."
+    },
+    {
+     "s": 4,
+     "t": "I'll cope."
+    },
+    {
+     "s": 4,
+     "t": "Well, done gorging? Good. Time to answer some questions."
+    },
+    {
+     "s": 4,
+     "t": "How did you get the power of the All-Devouring Narwhal?"
+    },
+    {
+     "s": 1,
+     "t": "The All-Devouring Narwhal!?"
+    },
+    {
+     "s": 1,
+     "t": "Ohh... of course! Paimon knew that spike thing looked familiar! It looks just like that narwhal's horn!"
+    },
+    {
+     "s": 4,
+     "t": "I highly doubt you acquired that power through your own strength. Tell me I'm wrong."
+    },
+    {
+     "s": 4,
+     "t": "You're desperate enough to scour the land for god remains and whatever vestiges of power you can find. That alone proves you wouldn't be able to defeat a creature like that."
+    },
+    {
+     "s": 4,
+     "t": "Which leaves one possibility — you know my master, \"The Foul\" Surtalogi."
+    },
+    {
+     "s": 26,
+     "t": "\"The Foul\"..."
+    },
+    {
+     "s": 26,
+     "t": "Who dares call him \"foul\"? Surtalogi..."
+    },
+    {
+     "s": 26,
+     "t": "Surta... logi...!"
+    },
+    {
+     "s": 4,
+     "t": "What's wrong, bit off more power than you can chew? You're struggling to hold a basic conversation..."
+    },
+    {
+     "s": 26,
+     "t": "Just a little longer. I'm still..."
+    },
+    {
+     "s": 1,
+     "t": "Look! It's back!"
+    },
+    {
+     "s": 4,
+     "t": "Those obsessed with power will let it devour them before abandoning their pursuit."
+    },
+    {
+     "s": 2,
+     "t": "What should we do now?"
+    },
+    {
+     "s": 4,
+     "t": "Keep calm and use reason to decide the best course of action."
+    },
+    {
+     "s": 2,
+     "t": "(Skirk was stabbed by one of the spikes while retrieving the fragment of my soul, and in the process, some of her power was stolen.)"
+    },
+    {
+     "s": 2,
+     "t": "(The culprit is hiding somewhere beyond the fog. I have a good understanding of his attack pattern from the fight just now. If we pursue him, our chances of winning are high.)"
+    },
+    {
+     "s": 2,
+     "t": "(But, Skirk's breathing is weaker than usual. If we attack now, I can't guarantee her or Paimon's safety. It's a hard decision to make, but...)"
+    },
+    {
+     "s": 2,
+     "t": "I think we should get out of here."
+    },
+    {
+     "s": 4,
+     "t": "Wise decision. Final victory doesn't always come after a single battle."
+    },
+    {
+     "s": 4,
+     "t": "You've got your soul fragment back, so we both got what we came for. Let the enemy draw breath while he can. It won't be for long."
+    },
+    {
+     "s": 4,
+     "t": "Get us out of here, {NICKNAME}. You'll need to lead the way this time."
+    },
+    {
+     "s": 2,
+     "t": "He was after you from the very beginning?"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "From the start, the attacks have been focused on me."
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "Trying to break through my defenses? I see..."
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "You alright? That thing was..."
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "There. I got it back."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Phew... Uh... We should be safe here, right?"
+    },
+    {
+     "s": 4,
+     "t": "I no longer sense his presence. Can't have followed us out of that Abyssal domain."
+    },
+    {
+     "s": 4,
+     "t": "Weaklings like him will find that my power is not so easily controlled. He won't be leaving that place until he's managed to digest it."
+    },
+    {
+     "sit": "The All-Devouring Narwhal..."
+    },
+    {
+     "sit": "With its power, he even managed to steal from you of all people..."
+    },
+    {
+     "s": 4,
+     "t": "You seem surprised."
+    },
+    {
+     "s": 4,
+     "t": "I suppose that's fair... You've seen but a fraction of what that whale is capable of. That gaping maw could swallow a planet whole."
+    },
+    {
+     "s": 4,
+     "t": "It's called the All-Devouring Narwhal for a reason — \"devouring\" is what it does best. It can extract power from anything, dead or alive, as long as it manages to make physical contact."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, when we had our run-in with that thing, Neuvillette mentioned that it has an \"instinct to devour\"..."
+    },
+    {
+     "s": 4,
+     "t": "Your dragon friend recognized the nature of its abilities and used the power of Hydro to protect you. That worked because it was in a satiated state, so it was somewhat less aggressive than usual."
+    },
+    {
+     "s": 4,
+     "t": "It's a different story when it has no more power to feed off of. That's when its true, voracious nature kicks in. It could devour everything on the planet in that state — which is why I cast it into that void space..."
+    },
+    {
+     "s": 4,
+     "t": "But, I hadn't counted on there being anyone left on this planet capable of wielding its power. To me, that says he must have encountered the whale a long time ago — meaning, he must have known my master."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, hearing you say \"The Foul\" definitely got a reaction out of him."
+    },
+    {
+     "s": 4,
+     "t": "Exactly, it told me everything I needed to know. Hence why I said, we both got what we came for."
+    },
+    {
+     "s": 4,
+     "t": "And I believe that brings our transaction to an end. Now that you're whole again, you can get back to your own journey. I'll handle the rest of this situation myself."
+    },
+    {
+     "s": 1,
+     "t": "No way, we can't leave now! Something was stolen from you because of us! We have to help you get it back!"
+    },
+    {
+     "s": 4,
+     "t": "This isn't my first taste of failure or losing power. When you fall, you get back up again and become stronger, that's how it is."
+    },
+    {
+     "s": 1,
+     "t": "But... What if that monster finds you before you're all better?"
+    },
+    {
+     "s": 1,
+     "t": "Plus, how are you gonna get home? It's not like you can just go \"swoosh\" and open a door to the Abyss again. Not without your full strength!"
+    },
+    {
+     "s": 1,
+     "t": "So, sticking with us for the time being doesn't sound so bad, does it?"
+    },
+    {
+     "sit": "It's not out of pity."
+    },
+    {
+     "sit": "You said I don't want to be in your debt. Well, I still am."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Fair enough. Then, take this."
+    },
+    {
+     "s": 1,
+     "t": "Uh, what is it?"
+    },
+    {
+     "s": 4,
+     "t": "A bag of Mora. Nothing in this world is free — I know that much."
+    },
+    {
+     "s": 4,
+     "t": "I'll leave the planning to you. Hurry up and decide where to go. We shouldn't linger."
+    },
+    {
+     "s": 2,
+     "t": "You said I don't want to be in your debt. Well, I still am."
+    },
+    {
+     "s": 2,
+     "t": "With its power, he even managed to steal from you of all people..."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "He'll know something about Master, I'm sure of it... Next time, I need to be ready."
+    },
+    {
+     "sit": "How's the shoulder?"
+    },
+    {
+     "sit": "Your outfit looks different..."
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "s": 4,
+     "t": "Fine. It was just a scratch."
+    },
+    {
+     "s": 4,
+     "t": "It'll take time to recover my strength, of course, but adapting to situations like this is nothing new for me."
+    },
+    {
+     "s": 2,
+     "t": "Your outfit looks different..."
+    },
+    {
+     "s": 4,
+     "t": "Oh, this? It's a \"Starcrystal Suit.\" Abyssal energy is scarce in Teyvat. Wearing this helps me access it more freely."
+    },
+    {
+     "s": 4,
+     "t": "It stores concentrated Abyssal energy that I can draw from on the go. When the energy runs out, it reverts back to its original form."
+    },
+    {
+     "s": 2,
+     "t": "Let's go."
+    },
+    {
+     "s": 4,
+     "t": "Ah, found somewhere to rest? Well, lead the way then."
+    },
+    {
+     "section": "Baizhu"
+    },
+    {
+     "s": 0,
+     "t": "You look much better, {NICKNAME}. Should I take it that your health issues are resolved?"
+    },
+    {
+     "s": 0,
+     "t": "Hm, your case was a tricky one. Seems slightly too early to celebrate."
+    },
+    {
+     "s": 0,
+     "t": "Very true, Changsheng. Further observation is in order, I think."
+    },
+    {
+     "s": 0,
+     "t": "We haven't had many patients recently, so we have several vacant rooms. Feel free to stay a few more days if you need."
+    },
+    {
+     "s": 1,
+     "t": "Awesome! Thanks!"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Huh, this bag from Skirk has a ton of Mora in it..."
+    },
+    {
+     "s": 1,
+     "t": "Does she have a job or something? Wait, no. After what we saw at Wanmin Restaurant, that seems impossible. Can you imagine? It would go something like..."
+    },
+    {
+     "s": 1,
+     "t": "\"I'll be collecting my paycheck now, Boss.\""
+    },
+    {
+     "s": 1,
+     "t": "\"Oh, sure thing! Wait, who are you? Have we met?\""
+    },
+    {
+     "s": 1,
+     "t": "Hm, can't hold a job if you make everyone forget about you. So, what did she do to get all this Mora...?"
+    },
+    {
+     "s": 4,
+     "t": "Ugh... Claimed some buried treasure, took care of a few monsters that were causing trouble... Nothing untoward. It's safe to use."
+    },
+    {
+     "s": 1,
+     "t": "Aaaah! You heard all that?"
+    },
+    {
+     "s": 4,
+     "t": "A... sonorous voice like yours is hard to miss. I wouldn't be surprised if the sound of it traveled to the nearest mountain top."
+    },
+    {
+     "s": 1,
+     "t": "Then, did you, by chance, happen to hear Paimon's little, um... joke earlier?"
+    },
+    {
+     "s": 4,
+     "t": "You mean when you called me \"Frosty the Lavender Melon\"?"
+    },
+    {
+     "sit": "Guess you did, heh..."
+    },
+    {
+     "sit": "Paimon's whispering needs some work."
+    },
+    {
+     "s": 1,
+     "t": "No, no. Sorry, Paimon totally misspoke just now. She didn't say that at all! It was... a Paimon look-alike! Yeah, she's a piece of work, that one. Always impersonating Paimon and giving people weird nicknames! Hehe..."
+    },
+    {
+     "s": 1,
+     "t": "...Okay, fine. The truth is Paimon didn't like you all that much at the start — but things are different now! You helped {NICKNAME} in a big way, so... Whaddaya say? Friends?"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "I noticed there was only one bed. Go ahead and get some rest."
+    },
+    {
+     "s": 1,
+     "t": "Wait, what about you?"
+    },
+    {
+     "s": 4,
+     "t": "I don't get tired, and I don't need rest. I'm going to practice my sword work. That should help me regain some strength."
+    },
+    {
+     "s": 1,
+     "t": "But, your shoulder! Hey! Don't just leave!"
+    },
+    {
+     "s": 1,
+     "t": "Argh, whatever. Let her tire herself out. She'll come back eventually."
+    },
+    {
+     "s": 1,
+     "t": "Let's get some sleep, {NICKNAME}! That comfy bed is calling Paimon!"
+    },
+    {
+     "s": 2,
+     "t": "(Skirk is stubborn. Even if I tried to convince her to take it easy, I doubt she'd listen.)"
+    },
+    {
+     "s": 2,
+     "t": "(Paimon is right. Skirk will stop and take a break once she gets tired... I hope. I should just get some sleep.)"
+    },
+    {
+     "s": 4,
+     "t": "*panting*"
+    },
+    {
+     "s": 2,
+     "t": "(Skirk...?)"
+    },
+    {
+     "s": 2,
+     "t": "(Of course she's acting like she didn't just get stabbed in the shoulder. Huh, something seems off with her though...)"
+    },
+    {
+     "s": 4,
+     "t": "*panting*..."
+    },
+    {
+     "s": 4,
+     "t": "...Quiet."
+    },
+    {
+     "s": 2,
+     "t": "(Who's she talking to? There's no one around. Unless...)"
+    },
+    {
+     "s": 18,
+     "t": "Do you even remember how many of us perished in that fire? How many bodies were left to rot on the scorched earth? Yet, you alone live on."
+    },
+    {
+     "s": 18,
+     "t": "Keep your gaze fixed on your blade. You don't deserve to rest."
+    },
+    {
+     "s": 17,
+     "t": "Run, Skirk... Run! Only death awaits us here. Keep running, and don't ever look back..."
+    },
+    {
+     "s": 2,
+     "t": "(Right! In that dream I witnessed, Skirk was training alone, but there were disembodied voices talking to her.)"
+    },
+    {
+     "s": 2,
+     "t": "(One of them mentioned a fire... I wonder what happened exactly. If only she could just talk to us...)"
+    },
+    {
+     "s": 1,
+     "t": "Ahhh, getting an early night's sleep is the best! That bed was sooo comfy!"
+    },
+    {
+     "s": 1,
+     "t": "Wait, Skirk? Have you been sitting out here the whole night? The bed's all yours if you want it!"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "Recovered your strength yet?"
+    },
+    {
+     "s": 4,
+     "t": "About 60 percent, maybe 70."
+    },
+    {
+     "s": 1,
+     "t": "Whoa, Paimon thought it would take at least a couple of days! That was fast!"
+    },
+    {
+     "s": 4,
+     "t": "No... Not fast enough."
+    },
+    {
+     "s": 4,
+     "t": "That's 20 percent less than last time. Same training regimen, same intensity. Nothing felt different, but somehow, the outcome fell short."
+    },
+    {
+     "s": 2,
+     "t": "Maybe it's because of the spike that stabbed you?"
+    },
+    {
+     "s": 4,
+     "t": "No, I think the problem's with me."
+    },
+    {
+     "s": 4,
+     "t": "I need to meditate for the next two days. Deep introspection should help me find the issue."
+    },
+    {
+     "s": 1,
+     "t": "Whoa, sounds intense! We'll watch over you in the meantime, then!"
+    },
+    {
+     "s": 4,
+     "t": "Thanks. See you in two days."
+    },
+    {
+     "s": 2,
+     "t": "Paimon's whispering needs some work."
+    }
+   ],
+   "description": "Your training is over and Skirk has located the culprit behind the scenes. Proceed with caution."
+  },
+  {
+   "title": "Heart and Mind",
+   "dialogue": [
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "*yawn*... Morning."
+    },
+    {
+     "s": 1,
+     "t": "Skirk is still meditating, huh... It's been two days already! Shouldn't she be awake by now?"
+    },
+    {
+     "sit": "No idea."
+    },
+    {
+     "sit": "Maybe it's not going too well..."
+    },
+    {
+     "s": 1,
+     "t": "Hm... Paimon can't think of anything we can do to help... Oh, wait! Breakfast! That's it! Paimon will go get breakfast! Skirk is gonna be starving when she wakes up!"
+    },
+    {
+     "s": 1,
+     "t": "Be right back!"
+    },
+    {
+     "s": 2,
+     "t": "(Skirk looks so serene, almost like she really is asleep...)"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "sit": "You again!"
+    },
+    {
+     "sit": "What are you doing here?"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "s": 2,
+     "t": "What are you doing here?"
+    },
+    {
+     "s": 2,
+     "t": "Maybe it's not going too well..."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(This place feels familiar, but where am I exactly...)"
+    },
+    {
+     "s": 2,
+     "t": "(There are towering cliffs, withered trees... and a strange river flowing from the horizon all the way here. But it's broken up several times along the way, with a waterfall at each break point.)"
+    },
+    {
+     "s": 2,
+     "t": "(On closer inspection, the color of the water is changing. The closer I get to the lower portion, the darker it becomes. Almost as if...)"
+    },
+    {
+     "s": 15,
+     "t": "♪~"
+    },
+    {
+     "sit": "Did you bring me here?"
+    },
+    {
+     "sit": "Then, that must mean this is..."
+    },
+    {
+     "s": 15,
+     "t": "That's right! This is Skirk's inner world. Think of it as the threshold between the soul and dreams."
+    },
+    {
+     "s": 15,
+     "t": "This isn't your first time here, but what you remember is probably a space covered in darkness. I only managed to illuminate a small portion for you back then."
+    },
+    {
+     "sit": "It talks!"
+    },
+    {
+     "sit": "So, you can speak..."
+    },
+    {
+     "s": 15,
+     "t": "Hehe, actually, it's my first time talking to someone like this."
+    },
+    {
+     "s": 15,
+     "t": "I only managed to break free and bring you here because the injury weakened her power. I guess that's why I can speak again, too."
+    },
+    {
+     "s": 15,
+     "t": "Call it \"fate\" if you want. I think that's the word they use in this world for lucky coincidences like this, right?"
+    },
+    {
+     "s": 15,
+     "t": "Now, before I take you to her, I gotta ask... You're the first outside visitor to ever come here. So, what's your impression of this place?"
+    },
+    {
+     "sit": "What is that river?"
+    },
+    {
+     "sit": "Why are there so many cliffs and waterfalls?"
+    },
+    {
+     "s": 15,
+     "t": "Ah, you noticed."
+    },
+    {
+     "s": 15,
+     "t": "This river represents Skirk's strength."
+    },
+    {
+     "s": 15,
+     "t": "Strength accumulates over time. It is the summation of a person's lived experience. So, this river is where all the fragments of Skirk's life should converge into a single stream of memories and emotions, flowing forward as one."
+    },
+    {
+     "s": 15,
+     "t": "But, as you can see, this river has been severed numerous times... It's because Skirk doesn't like who she was in the past."
+    },
+    {
+     "s": 15,
+     "t": "When all she sees reflected in the river is a disgraceful shadow of who she was, she cuts through water and rock with the sword of \"reason,\" severs her connection with the past, and begins anew."
+    },
+    {
+     "s": 2,
+     "t": "(Wait, that reminds me of something...)"
+    },
+    {
+     "s": 21,
+     "t": "You must learn to shut out all the pointless emotion, crush the self that makes you weak, and become master over your physical form."
+    },
+    {
+     "s": 4,
+     "t": "This isn't my first taste of failure or losing power. When you fall, you get back up again and become stronger, that's how it is."
+    },
+    {
+     "s": 2,
+     "t": "(I see. So, it was Surtalogi who taught Skirk to replace all emotion with reason.)"
+    },
+    {
+     "s": 2,
+     "t": "(And since then, it's been a constant process of abandoning, refuting, and erasing her past self. I suppose that's the secret to her strength...)"
+    },
+    {
+     "s": 2,
+     "t": "(But... it's such a sad thing to think about. What has she been through? Why does it have to be this way?)"
+    },
+    {
+     "s": 15,
+     "t": "The answer to one mystery invites another question, I see."
+    },
+    {
+     "s": 15,
+     "t": "Let's follow the river upstream. There among the cliffs, among the memories etched into her heart, lies the truth of it all. Soon, you'll understand everything."
+    },
+    {
+     "s": 2,
+     "t": "Why are there so many cliffs and waterfalls?"
+    },
+    {
+     "s": 2,
+     "t": "So, you can speak..."
+    },
+    {
+     "s": 2,
+     "t": "Then, that must mean this is..."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(This looks like a coastline. Huh, I recognize the drawing on the sand...)"
+    },
+    {
+     "s": 2,
+     "t": "(Wait... Isn't that the picture I drew for Paimon? Why is it showing up in Skirk's memories?)"
+    },
+    {
+     "s": 15,
+     "t": "I've always thought that, even when falling leaves don't come from the same tree, they can still form bonds of kinship when they meet."
+    },
+    {
+     "s": 15,
+     "t": "Like meteors, you both made a journey through the stars — both travelers who have landed on a planet that is not your home. Yet, when she first noticed your presence, although she hesitated for a moment, she still chose to walk away, indifferent as ever."
+    },
+    {
+     "s": 2,
+     "t": "Why?"
+    },
+    {
+     "s": 2,
+     "t": "(Hmm... If I think about it, it's not surprising at all. After what happened at Wanmin Restaurant, it's obvious she prefers to disappear from other people's lives.)"
+    },
+    {
+     "s": 2,
+     "t": "(She hasn't seen Childe in years, either... I doubt she's ever made a connection with this world of her own volition. What I'm seeing now is a microcosm of her entire life.)"
+    },
+    {
+     "s": 15,
+     "t": "Seems like you've answered your own question."
+    },
+    {
+     "s": 15,
+     "t": "Skirk sees herself as a trespasser in this world. She's made a conscious choice to avoid altering its path. But, the reason for that decision stems from events much earlier on in her life."
+    },
+    {
+     "s": 15,
+     "t": "Let's keep going. It's still a long way to the source of the river."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 21,
+     "t": "You now have what it takes to wield immense power. From this day forth, I shall teach you no more."
+    },
+    {
+     "s": 21,
+     "t": "No one can become a worthy warrior through imitation alone. I have given you fangs and claws — now, you must learn to hunt."
+    },
+    {
+     "s": 4,
+     "t": "You wish me to travel the world beyond on my own, Master?"
+    },
+    {
+     "s": 21,
+     "t": "Indeed. Make new friends, embark on your own journey, and piece together a new future from the shattered remnants of your past."
+    },
+    {
+     "s": 21,
+     "t": "We will still have contact through the Abyss. But know this: One day, I will take the life you work so hard to rebuild and reduce it to ashes — just like the \"fire\" that haunts your mind."
+    },
+    {
+     "s": 4,
+     "t": "...!"
+    },
+    {
+     "s": 4,
+     "t": "Why... would you do that?"
+    },
+    {
+     "s": 21,
+     "t": "I have told you before. Fear is the catalyst for human evolution."
+    },
+    {
+     "s": 21,
+     "t": "You have tasted loss. You have known fear so deep it can be felt in the bones."
+    },
+    {
+     "s": 21,
+     "t": "But, as living beings, we all have an instinct to detach from that which harms us. And, thus, pain dampens over time, and the acrid taste of fear becomes but a distant memory."
+    },
+    {
+     "s": 21,
+     "t": "Yet now, I have bestowed upon you the gift of fear eternal. It will drown you in the nightmare of your childhood, or it shall drive you to defeat me whatever the cost."
+    },
+    {
+     "s": 2,
+     "t": "(That figure next to Skirk looks familiar. Right! I saw the same figure during the battle against the All-Devouring Narwhal...)"
+    },
+    {
+     "s": 15,
+     "t": "That is what Skirk's master, \"The Foul\" Surtalogi, looked like at one point in time."
+    },
+    {
+     "sit": "At one point in time?"
+    },
+    {
+     "sit": "So, he can change form?"
+    },
+    {
+     "s": 15,
+     "t": "Of course. As a higher being, physical form is a triviality to him."
+    },
+    {
+     "s": 15,
+     "t": "He could appear as a beast, a human, or even a monster that defies description. The form you see him in here, clad in Abyssal armor, is the one he usually wears when traveling through the stars."
+    },
+    {
+     "s": 2,
+     "t": "(I used to think Surtalogi and Skirk were just master and disciple, like Skirk and Childe.)"
+    },
+    {
+     "s": 2,
+     "t": "(Now, I see why Skirk chose to distance herself from humanity. Surtalogi told her to put down roots here, while at the same time threatening to destroy whatever life she managed to create.)"
+    },
+    {
+     "s": 4,
+     "t": "For certain reasons, I need to bridge the power gap between me and my master as quickly as possible. But, first, I need to understand the source of his strength."
+    },
+    {
+     "s": 4,
+     "t": "To do that, I need to follow in his footsteps, walk the path he once walked. And somewhere along the way, I'll find out how to defeat him. That is my sole focus and purpose."
+    },
+    {
+     "s": 2,
+     "t": "(So, that's what she meant. But, I still don't understand why Surtalogi would do that. From what he said, I didn't pick up on a conflict between them.)"
+    },
+    {
+     "s": 15,
+     "t": "I'll let you in on a little secret — the real Surtalogi is terrifying."
+    },
+    {
+     "s": 15,
+     "t": "The scope of his power is impossible to understand until you experience it first-hand. It is absolute — the power to crush all things."
+    },
+    {
+     "s": 15,
+     "t": "Shall we keep going? Let's see... we're about halfway there."
+    },
+    {
+     "s": 2,
+     "t": "So, he can change form?"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 2,
+     "t": "(This must be Skirk when she was a kid.)"
+    },
+    {
+     "s": 15,
+     "t": "We've made it quite a ways already! This is Skirk when she first began training under Surtalogi."
+    },
+    {
+     "s": 21,
+     "t": "I have set your broken wrist. Tomorrow, you're to train twice as hard."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 21,
+     "t": "No tears this time... Good. Attempting to garner sympathy through tears is a habit of the weak — a pitiful, useless ploy."
+    },
+    {
+     "s": 4,
+     "t": "Can I ask a question, Master? Why did you save me?"
+    },
+    {
+     "s": 4,
+     "t": "I keep thinking... maybe it would be better if I had died. I wouldn't be haunted by that fire all the time. I wouldn't have to go on like this..."
+    },
+    {
+     "s": 21,
+     "t": "I saved you because I have a plan for you."
+    },
+    {
+     "s": 21,
+     "t": "It has been too long since I fought a battle that demanded my full strength, and I hunger for it. Every so-called genius and prodigy I have faced has crumbled like sand underfoot. Before me, even fate bends the knee."
+    },
+    {
+     "s": 21,
+     "t": "So, I will teach you everything I know, train you by whatever means necessary... In the hope that, one day, you might surprise me."
+    },
+    {
+     "s": 4,
+     "t": "But, I don't want to draw my sword against you, Master!"
+    },
+    {
+     "s": 21,
+     "t": "What you want matters little."
+    },
+    {
+     "s": 21,
+     "t": "Among the boundless sea of stars, the cries of the weak are but faint murmurs that disappear into the void. You of all people know that well."
+    },
+    {
+     "s": 4,
+     "t": "Yes, Master."
+    },
+    {
+     "s": 15,
+     "t": "From that day forward, all she knew was grueling training, emptiness, and fatigue."
+    },
+    {
+     "s": 15,
+     "t": "After some time, her talent bloomed, and she gained control over her emotions like her master. Uh, how should I put it..."
+    },
+    {
+     "s": 15,
+     "t": "It was not that human emotion disappeared from her heart, but that reason came to dictate all she was allowed to feel. I suppose it was at this point that she became the Skirk you know today."
+    },
+    {
+     "s": 2,
+     "t": "(So, Surtalogi saved Skirk from a disaster when she was a child and never even tried to hide his ulterior motive.)"
+    },
+    {
+     "s": 2,
+     "t": "(I suppose that leaves one final mystery... What really happened with the disaster back then?)"
+    },
+    {
+     "s": 2,
+     "t": "(Surtalogi's final words to Skirk were cold and cruel. But, Skirk's reaction made it seem like it was a truth she knew all too well. I have a feeling it all comes back to what happened back then.)"
+    },
+    {
+     "s": 15,
+     "t": "Ah... We're nearly there!"
+    },
+    {
+     "s": 15,
+     "t": "I almost don't want to reach the end... Well, shall we? This is the final stretch."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 15,
+     "t": "Ah... These are Skirk's happiest memories."
+    },
+    {
+     "s": 15,
+     "t": "What a simple and carefree time it was — wisps of clouds dotted the sky, the sun bathed everything in golden light. And when song filled the air, not even the shyest of flowers could resist swaying along."
+    },
+    {
+     "s": 15,
+     "t": "This is Skirk's homeland. She was so curious about everything as a child, always skipping school to go exploring instead."
+    },
+    {
+     "s": 15,
+     "t": "There was so much to discover — the treasures at the bottom of the sea, the secrets beyond the stars, and that \"merchant ship\" packed with adults wearing those strange clothes... Yes, the ship. That was the beginning of the end."
+    },
+    {
+     "s": 15,
+     "t": "It was a spaceship. When it arrived, the people that disembarked wore smiles on their faces and spoke of friendship. They claimed to be merchants from a neighboring planet looking to establish trade."
+    },
+    {
+     "s": 15,
+     "t": "Skirk's parents, her relatives, her neighbors... Everyone welcomed the newcomers with open arms and allowed them to explore the planet. To them, the visitors were guests and should be treated with hospitality."
+    },
+    {
+     "s": 15,
+     "t": "No one had any idea of what was to come. Several months later, an army of unknown origin arrived without warning and carried out a ruthless campaign to destroy everything, and everyone, on the planet."
+    },
+    {
+     "s": 15,
+     "t": "Skirk had skipped school that day, like so many times before, so she was not caught in the immediate wave of destruction. But, when she came home that day, only fire and ruin awaited her."
+    },
+    {
+     "s": 15,
+     "t": "Countless people cried out to her for help, people she knew and loved — friends and relatives, the little girl who lived next-door, the shop-owner with the bad leg, the bad-tempered teacher she had made fun of just that morning..."
+    },
+    {
+     "s": 15,
+     "t": "Their lives were discarded like worthless trash. As the fire consumed one life after another, Skirk was helpless. All she could do was run. And so she did. She kept running until an unexpected figure crossed her path."
+    },
+    {
+     "s": 15,
+     "t": "If Surtalogi hadn't been there in that moment, the fire would have claimed her life too. And there she would have remained, left to rot in the scorched earth, with no answer as to why any of this was happening."
+    },
+    {
+     "sit": "So..."
+    },
+    {
+     "sit": "Why did those people destroy her homeland?"
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 15,
+     "t": "Because she and her people were seen as a \"threat.\""
+    },
+    {
+     "sit": "A threat?"
+    },
+    {
+     "sit": "Did they do something bad?"
+    },
+    {
+     "s": 15,
+     "t": "As the initial merchant ship explored the planet, they discovered that it hadn't always had the condition to support life. Yet, there was evidence of human activity even during the periods of extreme heat or cold in the past."
+    },
+    {
+     "s": 15,
+     "t": "Further research revealed that, over time, the people of this planet had evolved the ability to adapt to any type of environment or energy source."
+    },
+    {
+     "s": 15,
+     "t": "For that reason, the outsiders viewed them as a \"potential threat,\" and decided to eliminate them before the threat could rear its head. And so, the army was called, and the so-called danger was wiped from the face of the planet."
+    },
+    {
+     "sit": "Just because of speculation?"
+    },
+    {
+     "sit": "All those innocent people..."
+    },
+    {
+     "s": 15,
+     "t": "Senseless, isn't it? Deemed a threat because of a gift they didn't even know they had. Perhaps it was their own innocence and kindness that doomed them. But, in the end, that was lost to the blaze as well."
+    },
+    {
+     "s": 15,
+     "t": "If those with power get to decide good and evil, then all you can trust in is the sword in your hand. And so, before death could claim her, she ran. She ran and never stopped."
+    },
+    {
+     "sit": "Now I see why Surtalogi's threat is such a terrifying prospect for her."
+    },
+    {
+     "sit": "And now I see why she distances herself from the world."
+    },
+    {
+     "s": 15,
+     "t": "No one wants to relive their most painful moments... Well, that brings us to the end of the story. This is as far as we can go."
+    },
+    {
+     "s": 15,
+     "t": "Skirk is waiting over there... for both of us."
+    },
+    {
+     "s": 15,
+     "t": "Let's go to her. It's time to fulfill my purpose... and my greatest wish over all these years."
+    },
+    {
+     "s": 2,
+     "t": "And now I see why she distances herself from the world."
+    },
+    {
+     "s": 2,
+     "t": "All those innocent people..."
+    },
+    {
+     "s": 2,
+     "t": "Did they do something bad?"
+    },
+    {
+     "s": 2,
+     "t": "Why did those people destroy her homeland?"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "So, all this, just so you could bring him(her) here?"
+    },
+    {
+     "s": 15,
+     "t": "I have things to say to \"you\"... Well, to \"me.\""
+    },
+    {
+     "s": 15,
+     "t": "I want someone to witness our reconciliation, even if it takes an argument to get there. And, he(she) is the best choice in this moment."
+    },
+    {
+     "sit": "Wait..."
+    },
+    {
+     "sit": "Then, you must be..."
+    },
+    {
+     "s": 15,
+     "t": "Her suppressed emotional self. The version of herself she keeps locked in the recesses of her mind, stifled by reason."
+    },
+    {
+     "s": 15,
+     "t": "All those rejected impulses, those discarded aspects of your past selves... They are a part of me now."
+    },
+    {
+     "s": 15,
+     "t": "I am who you used to be, someone you have refused to face for too long. So, I came to face you instead."
+    },
+    {
+     "s": 4,
+     "t": "You're wrong. I've faced you all along, and that's exactly why I keep you locked here."
+    },
+    {
+     "s": 4,
+     "t": "Your existence makes me weak. Moments of joy and longing are when we are most vulnerable."
+    },
+    {
+     "s": 4,
+     "t": "Don't forget, it was a penchant for goodness over reason that doomed our homeland in the first place. The vastness of the universe renders everything insignificant, our feelings most of all."
+    },
+    {
+     "s": 15,
+     "t": "Even so, learning from the mistakes of the past doesn't have to mean erasing everything."
+    },
+    {
+     "s": 15,
+     "t": "Strip yourself of your so-called weaknesses — emotions like kindness and empathy — and what makes you any different from the ruthless soldiers who slaughtered our people?"
+    },
+    {
+     "s": 4,
+     "t": "The difference is that I'm doing what is right — what is necessary."
+    },
+    {
+     "s": 4,
+     "t": "I allow you to exist, but with limited freedom. That is the greatest kindness I can offer."
+    },
+    {
+     "s": 4,
+     "t": "I've shouldered everything you couldn't carry. I rose above the numbness and emptiness, and it was cold, unfeeling reason that brought me this far. It made me who I am. It made me strong."
+    },
+    {
+     "s": 15,
+     "t": "That is the problem. I want to shoulder those things together."
+    },
+    {
+     "s": 15,
+     "t": "On the grand scale of the entire universe, maybe our feelings are vanishingly small, but why should that mean they don't matter? Emotion gives warmth to the cold expanse of space. It gives meaning to the world around us."
+    },
+    {
+     "s": 15,
+     "t": "Think back to those nights of gazing at the stars, those afternoons of exploring the unknown. Think back and let them grant you peace, a brief respite from the pressure you put on yourself."
+    },
+    {
+     "s": 4,
+     "t": "That isn't what we need."
+    },
+    {
+     "s": 15,
+     "t": "It's exactly what we need!"
+    },
+    {
+     "s": 15,
+     "t": "Aren't you curious about why recovering your strength has taken longer than normal this time?"
+    },
+    {
+     "s": 4,
+     "t": "Finally, you get to the important part. That is the only answer I came here to find."
+    },
+    {
+     "s": 15,
+     "t": "Then, look around. Look at your inner world."
+    },
+    {
+     "s": 15,
+     "t": "You cast aside your dreams and curiosity, and in doing so you lost your original motivation. You severed all connection to who you used to be, so you can no longer draw strength from your past."
+    },
+    {
+     "s": 15,
+     "t": "Now, the only things driving you forward are fear and survivor's guilt, but these cannot take you far enough. And so, this river — the source of your strength — grows more polluted by the day."
+    },
+    {
+     "s": 4,
+     "t": "And you think that means I should seek help from a weak little thing like you?"
+    },
+    {
+     "s": 2,
+     "t": "...Your emotional self isn't weak."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "The fact that she transcended time and broke free from her constraints to come and face you... That proves it."
+    },
+    {
+     "s": 15,
+     "t": "Thank you for saying that. I knew bringing you here would be the right choice."
+    },
+    {
+     "s": 15,
+     "t": "To be honest, I'm not here to argue with you. This isn't about who's right or wrong. And in fact, I agree that in order to make it through the wake of that tragedy, we had to distance ourselves from the pain through reason over emotion."
+    },
+    {
+     "s": 15,
+     "t": "But, what is right at one point in time isn't always right forever. I know you will never forget that fire. I know the fact that you were the sole survivor fills you with guilt."
+    },
+    {
+     "s": 15,
+     "t": "And I know that among the voices that haunt you, mine is there too. Because deep down, you know that you didn't turn out to be the person you wanted to be."
+    },
+    {
+     "s": 15,
+     "t": "All those unfulfilled hopes are like knives to the heart, and I don't want you to hurt anymore. So, even if you can't accept me, I hope, at least... that you can let go."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "I remember, there was a song Mom and Dad always sang when we went out to fetch water."
+    },
+    {
+     "s": 4,
+     "t": "\"Dancing water, the sand along your path is begging for your song and movement. Will you carry this burden with you on your journey?\""
+    },
+    {
+     "s": 4,
+     "t": "I am not the dancing water, and you are not the burdensome sand. But, if this is your wish... then I will carry you with me until the end."
+    },
+    {
+     "s": 15,
+     "t": "Thank you."
+    },
+    {
+     "s": 4,
+     "t": "...I should be thanking you."
+    },
+    {
+     "s": 2,
+     "t": "Then, you must be..."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 4,
+     "t": "So, you saw my memories then..."
+    },
+    {
+     "s": 4,
+     "t": "I once asked my master if \"survival of the strongest\" was the law of the universe."
+    },
+    {
+     "s": 4,
+     "t": "He said no, \"but in a world without order, those with no moral boundaries tend to be the ones who survive.\""
+    },
+    {
+     "sit": "That isn't true strength."
+    },
+    {
+     "sit": "Power is not a substitute for doing what is right."
+    },
+    {
+     "s": 4,
+     "t": "That's why, after hearing his answer, an idea came to mind."
+    },
+    {
+     "s": 4,
+     "t": "An idea that, one day, I would create a new world order, one in which there would never be another tragedy like that fire. One in which power was not the law of the land."
+    },
+    {
+     "s": 4,
+     "t": "But, that means I must defeat him. Because my master, Surtalogi, is, at the core, a defier of all rules and order."
+    },
+    {
+     "s": 2,
+     "t": "Sounds like you have your work cut out for you."
+    },
+    {
+     "s": 4,
+     "t": "Yes, and not just because of the gap in our abilities, but also because... I have no reason to see him as an enemy."
+    },
+    {
+     "s": 4,
+     "t": "Although his decision to train me was not made out of kindness, he did everything a master should. He saved my life, taught me the sword and the principles of strength... And, for that, I respect him."
+    },
+    {
+     "s": 2,
+     "t": "But, he intends to face you in battle one day..."
+    },
+    {
+     "s": 4,
+     "t": "I know, and it's not something I want. But, Master never goes back on his word. I have to treat everything he says as a promise."
+    },
+    {
+     "s": 4,
+     "t": "He's no longer in Teyvat, but he sends me messages through the Abyss every now and then. Most of them are simple greetings, or an answer to one of my questions."
+    },
+    {
+     "s": 4,
+     "t": "Every time I hear from him, my heart skips a beat, and I wonder if this is the moment where he'll finally appear before me and tear down everything I've built to pieces."
+    },
+    {
+     "s": 4,
+     "t": "Maybe that means I do live in eternal fear, just like he said. Yes, I respect him, but I'm also afraid of him. And, for that reason, the pursuit of strength consumes every moment of my life."
+    },
+    {
+     "s": 4,
+     "t": "I don't know what Master has planned, but I have to be ready."
+    },
+    {
+     "sit": "If he does attack you one day..."
+    },
+    {
+     "sit": "I'll help you."
+    },
+    {
+     "s": 4,
+     "t": "Help me...? Why? This isn't your fight."
+    },
+    {
+     "s": 2,
+     "t": "Because if we want to build the world we both want to see... everyone has to be willing to fight for it."
+    },
+    {
+     "s": 2,
+     "t": "If we all do our part, we can make the entire universe a kinder place."
+    },
+    {
+     "s": 2,
+     "t": "I'll help you."
+    },
+    {
+     "s": 2,
+     "t": "Power is not a substitute for doing what is right."
+    },
+    {
+     "section": "Leave Together"
+    },
+    {
+     "s": 2,
+     "t": "(Skirk gazes into the distant sky.)"
+    },
+    {
+     "s": 2,
+     "t": "(There's nothing else to do here. Should I leave?)"
+    },
+    {
+     "sit": "Leave"
+    },
+    {
+     "sit": "Don't leave yet"
+    },
+    {
+     "s": 2,
+     "t": "Don't leave yet"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "Oh, you're finally awake!"
+    },
+    {
+     "s": 1,
+     "t": "Honestly, Paimon was gone for, like, two seconds, and then she comes back and finds you both unconscious? You scared Paimon half to death!"
+    },
+    {
+     "s": 1,
+     "t": "You're both okay, right?"
+    },
+    {
+     "s": 4,
+     "t": "What does it look like?"
+    },
+    {
+     "sit": "Looks like your strength is back."
+    },
+    {
+     "sit": "You look stronger than ever."
+    },
+    {
+     "s": 4,
+     "t": "Only water from the source can cleanse the rot and filth that flows from the past into the future."
+    },
+    {
+     "s": 4,
+     "t": "I taught you to incorporate the experiences from your journey into how you fight. I suppose what happened today... will become an inseparable part of who I am."
+    },
+    {
+     "s": 1,
+     "t": "Okay, so Paimon feels like she's missing some important context..."
+    },
+    {
+     "s": 1,
+     "t": "But, whatever. Paimon brought back tons of delicious snacks! Let's dig in!"
+    },
+    {
+     "sit": "The three of you enjoy the snacks..."
+    },
+    {
+     "s": 4,
+     "t": "Alright, it's about time we finished what we started."
+    },
+    {
+     "s": 1,
+     "t": "We're gonna deal with this thief for good, right?"
+    },
+    {
+     "sit": "Finally!"
+    },
+    {
+     "sit": "Let's show him what we're made of!"
+    },
+    {
+     "s": 4,
+     "t": "This time, I'm not going to tell you to hold back. But, having digested even more power in the meantime, he's going to be tougher than before."
+    },
+    {
+     "s": 4,
+     "t": "The good news is, we have no reason to pull our punches this time. So, let's go. Same place as last time."
+    },
+    {
+     "s": 2,
+     "t": "Let's show him what we're made of!"
+    },
+    {
+     "s": 2,
+     "t": "You look stronger than ever."
+    }
+   ],
+   "description": "Skirk’s strength is returning quickly but she still doesn’t seem to be satisfied. She thinks something’s wrong with her body and hopes to solve her problems through meditation. You arrange to see her in a couple of days. Hopefully, everything works out as planned…"
+  },
+  {
+   "title": "Unbounded",
+   "dialogue": [
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "The fog is gone!"
+    },
+    {
+     "s": 1,
+     "t": "Wait... isn't that the form the All-Devouring Narwhal changed into? How come he knows that, too?"
+    },
+    {
+     "sit": "That's Skirk's master."
+    },
+    {
+     "sit": "That's what The Foul used to look like."
+    },
+    {
+     "s": 1,
+     "t": "Really? So, you're telling Paimon that giant whale and this guy can both turn into The Foul? How does that work?"
+    },
+    {
+     "s": 4,
+     "t": "It's a subconscious instinct. Any intelligent being who longs for his level of strength is bound to mimic his appearance. It's a natural response after encountering someone as powerful as Master."
+    },
+    {
+     "s": 4,
+     "t": "To them, he represents ultimate power. We know the person before us has encountered Master, and we know he stole a portion of my power. So, it's not surprising that he would assume this form."
+    },
+    {
+     "s": 1,
+     "t": "Okay. *shudder*... The closer Paimon looks, the more intimidating it gets."
+    },
+    {
+     "s": 1,
+     "t": "Neuvillette isn't here this time, so it's up to us! He won't have the nerve to steal again after we're done with him! Let's teach this guy a lesson!"
+    },
+    {
+     "s": 2,
+     "t": "That's what The Foul used to look like."
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 26,
+     "t": "*coughing*..."
+    },
+    {
+     "s": 4,
+     "t": "Well, have you come to your senses?"
+    },
+    {
+     "s": 26,
+     "t": "You saw that my body was at its limit. So, you deliberately channeled your power into me, knowing that it would destroy my shell from within..."
+    },
+    {
+     "s": 26,
+     "t": "Such power, such keen battle instincts... So, you must be..."
+    },
+    {
+     "s": 4,
+     "t": "Skirk, Surtalogi's disciple."
+    },
+    {
+     "s": 26,
+     "t": "How long has it been? How long has he been away from Teyvat?"
+    },
+    {
+     "s": 4,
+     "t": "Hundreds of years."
+    },
+    {
+     "s": 26,
+     "t": "Hundreds...!? Hahaha..."
+    },
+    {
+     "s": 26,
+     "t": "Sorry, it's a lot to take in. I should introduce myself. I am Skofnungr, a friend of your master and one of his followers."
+    },
+    {
+     "s": 26,
+     "t": "This is the first time I've heard your name, Skirk. But, hundreds of years ago, I knew you existed, and I knew you would come here."
+    },
+    {
+     "s": 1,
+     "t": "Hundreds of years ago?"
+    },
+    {
+     "s": 4,
+     "t": "Sounds like you and Master have quite the history. Care to tell us about it?"
+    },
+    {
+     "s": 26,
+     "t": "Of course. Might as well take advantage of a clear head while I can. The story starts a long... long time ago."
+    },
+    {
+     "s": 26,
+     "t": "I was born into a noble family in Khaenri'ah. As the eldest son, I was set to inherit our title. But, I contracted an incurable illness as a child, and everyone gave up on me."
+    },
+    {
+     "s": 26,
+     "t": "I trained the sword harder than anyone else, defeated all of my peers, but it was all in vain. When other people looked at me, all I saw in their eyes was pity or a strange glee in my misfortune. Even my parents were just waiting for me to die."
+    },
+    {
+     "s": 26,
+     "t": "Over time, my heart hardened, and I became aimless. That was the point where I met your master, Surtalogi."
+    },
+    {
+     "s": 26,
+     "t": "We were similar in age, but different in background. He was born in prison, the son of criminals who had been sentenced to death. He spent his childhood wandering the streets facing more criticism than the literary works in the Universitas Magistrorum."
+    },
+    {
+     "s": 26,
+     "t": "Yet, he always wore a smile on his face, as if kindness and malice were one and the same, and he could not see the difference."
+    },
+    {
+     "s": 26,
+     "t": "I still remember what he said to me when we first met: \"You need to fight to survive. Even if it's a losing battle, it should light a fire under you. How can you sit back like this and go down without a fight?\""
+    },
+    {
+     "s": 4,
+     "t": "...That does sound like something he would say."
+    },
+    {
+     "s": 26,
+     "t": "He was the first to acknowledge that I was worth something, and he inspired me to keep going. When we sparred together, it was the first time I actually felt the thrill of combat."
+    },
+    {
+     "s": 26,
+     "t": "When I was ten, he stole forbidden research materials and managed to cure my illness. It was like there was nothing in this world he couldn't accomplish... When it came to the human form, he was always intent on pushing the boundaries of possibility."
+    },
+    {
+     "s": 26,
+     "t": "But, somewhere along the way, I fell behind. My talents were nothing compared to his, and at some point, I realized he had pulled so far ahead, I was too embarrassed to even ask him to spar."
+    },
+    {
+     "s": 26,
+     "t": "After his \"grand endeavor\" was successful, he sought me out and said to me..."
+    },
+    {
+     "s": 21,
+     "t": "This planet no longer holds anything of interest to me, so I'm leaving. But first, I have an offer. I can use a power I have just refined to break the curse of immortality for you."
+    },
+    {
+     "s": 21,
+     "t": "Your death was once what we worked so hard to prevent. But the \"immortality\" you now face is a different kind of pain altogether."
+    },
+    {
+     "s": 26,
+     "t": "Hahaha... I'll pass. Immortality doesn't sound so bad to me. Since I can't die, it means I have an infinite amount of time to get stronger. Maybe I'll finally catch up to you one day, and we can spar like we used to."
+    },
+    {
+     "s": 21,
+     "t": "Are you sure? I cannot say when I will return. Your body... Or rather, your soul might not be able to withstand this curse."
+    },
+    {
+     "s": 26,
+     "t": "Haha... All I can do is try. After all, a wise man once told me, people need to fight for their own survival."
+    },
+    {
+     "s": 21,
+     "t": "Wise indeed. Nevertheless, if you grow weary of the pain of immortality, and wish to experience a good sparring match before you wither away, seek out my disciple."
+    },
+    {
+     "s": 26,
+     "t": "Disciple? Never thought I'd hear that word coming from you..."
+    },
+    {
+     "s": 21,
+     "t": "Nor I. But, Vedrfolnir said I was destined to find a disciple out there in the universe and bring her to Teyvat."
+    },
+    {
+     "s": 21,
+     "t": "You know as well as I, Vedrfolnir's prophecies are never wrong."
+    },
+    {
+     "s": 26,
+     "t": "Huh. Well, now I'm curious about who this disciple of yours will be..."
+    },
+    {
+     "s": 21,
+     "t": "All Vedrfolnir said was that, one day, \"the stars shall bow in her honor.\""
+    },
+    {
+     "s": 26,
+     "t": "Sounds pretty impressive."
+    },
+    {
+     "s": 21,
+     "t": "Of course. Only the most outstanding people would have the right to become my disciple."
+    },
+    {
+     "s": 26,
+     "t": "Hahaha... Still as self-assured as ever, I see. But, you're not wrong."
+    },
+    {
+     "s": 21,
+     "t": "I'll be leaving, then. Oh, and if you're serious about getting stronger, I left you a little gift in the Primordial Sea. As I've said before — walk whatever path you want. Freedom means even the wicked get to make their own choices."
+    },
+    {
+     "s": 26,
+     "t": "Waiting for me in the Primordial Sea was the All-Devouring Narwhal, already beaten into submission by Surtalogi. In its weakened state, I was able to cut off part of its flesh and sew it into my own heart."
+    },
+    {
+     "s": 1,
+     "t": "Y—Your heart? That sounds like torture... How did you even survive that?"
+    },
+    {
+     "s": 26,
+     "t": "Because, of course, I bear the curse of immortality."
+    },
+    {
+     "s": 4,
+     "t": "So, you used the curse to turn yourself into a vessel for power."
+    },
+    {
+     "s": 4,
+     "t": "Even with that whale's ability, devouring power like that is not something the human body can withstand. With your body and soul constantly at the breaking point, it was the curse of immortality that sustained you..."
+    },
+    {
+     "s": 4,
+     "t": "But, that is not the path to strength. You have to pour your heart into it, work for it, dream of it. Instead, you stole something that didn't belong to you — and it backfired."
+    },
+    {
+     "s": 26,
+     "t": "You're right. I should have known better, but... I had already pushed myself to my limits, and he was still miles ahead of me. So, I had to take a leap of faith."
+    },
+    {
+     "s": 26,
+     "t": "I miss your master. I miss the days when we were all together, troublemakers without a home. Argh... I don't regret the choice I made, but if you'll allow it, I do want to apologize... to both of you."
+    },
+    {
+     "s": 4,
+     "t": "After the beating we just gave you, I think we can call it even."
+    },
+    {
+     "s": 26,
+     "t": "Hahaha... You're an interesting one as well."
+    },
+    {
+     "s": 26,
+     "t": "Surtalogi's disciple... That's a lot to live up to. It can't have been an easy experience."
+    },
+    {
+     "s": 26,
+     "t": "I know what he's like. He rules with an iron fist, using despair and fear to force you to catch up to him, all the while standing ever out of reach."
+    },
+    {
+     "s": 26,
+     "t": "We're like mountain climbers in the dark — never knowing how much higher we have to climb, or when we will see the sun again."
+    },
+    {
+     "s": 4,
+     "t": "True. But, I made up my mind long ago — no matter how dark it gets, I will not give in to despair. I will overcome it."
+    },
+    {
+     "s": 4,
+     "t": "Besides, after hearing your story, I suspect what Master really wants is not a battle that demands his full strength, but rather... a defeat without regrets."
+    },
+    {
+     "s": 26,
+     "t": "Oh?"
+    },
+    {
+     "s": 4,
+     "t": "Since you're his friend, you must have some things in common."
+    },
+    {
+     "s": 4,
+     "t": "The first time we came here, when you stabbed me through the fog and stole my power, I felt no emotion coming from that spike."
+    },
+    {
+     "s": 4,
+     "t": "But, when you had to devote all your strength fighting me just now, I could feel joy and passion emanating from your blade."
+    },
+    {
+     "s": 4,
+     "t": "It was the joy of a researcher discovering the truth of the world, the joy of an artist uncovering a temple of wonders..."
+    },
+    {
+     "s": 26,
+     "t": "Interesting... I'm certain I didn't express those emotions outright, yet you were able to read them from my blade... like a glimpse into my inner world."
+    },
+    {
+     "s": 26,
+     "t": "You're right. That battle brought me an unbridled sense of joy. And my defeat brings me no regret whatsoever."
+    },
+    {
+     "s": 4,
+     "t": "Exactly. I think Master also craves a battle like that."
+    },
+    {
+     "s": 4,
+     "t": "One where his opponent forces him to use all his strength, unlock the extent of his potential, and transcend his own limits — a battle to end all battles."
+    },
+    {
+     "s": 4,
+     "t": "After which, all can come to an end... including, perhaps, his life."
+    },
+    {
+     "s": 4,
+     "t": "For that very reason, good and evil are meaningless to him. He has one purpose, one goal — to complete himself. It's one of the secrets to his strength."
+    },
+    {
+     "s": 26,
+     "t": "Perhaps you're right. Perhaps that is his goal."
+    },
+    {
+     "s": 26,
+     "t": "What a battle that would be! Oh, to witness such a—"
+    },
+    {
+     "s": 26,
+     "t": "*cough*"
+    },
+    {
+     "s": 1,
+     "t": "Are you okay!?"
+    },
+    {
+     "s": 26,
+     "t": "Too many different kinds of power are surging through my body. The curse of immortality allows it all to coexist, but it does not remove the pain."
+    },
+    {
+     "s": 26,
+     "t": "I won't be able to hold onto my sanity for much longer... What a shame. I would have loved to witness that battle."
+    },
+    {
+     "s": 26,
+     "t": "Surtalogi once offered to free me from this curse. Now, I must ask that of you, Skirk. Can you release me from the pain?"
+    },
+    {
+     "s": 4,
+     "t": "I can. But, not through death, if that's what you are hoping for."
+    },
+    {
+     "s": 4,
+     "t": "It's not a suitable punishment for your crime. As an alternative, I can take your consciousness, along with all the power you've consumed, and smash it to pieces."
+    },
+    {
+     "s": 4,
+     "t": "The impurities will dissipate, and under the curse of immortality, your mind and body will regenerate. When that process is complete, you will be back to who you were before, no longer tortured by powers you can't control."
+    },
+    {
+     "s": 4,
+     "t": "But, it will be a time-consuming and painful process. The decision is yours to make."
+    },
+    {
+     "s": 26,
+     "t": "I accept. And who knows? Perhaps I'll wake up in time to witness your great battle with Surtalogi."
+    },
+    {
+     "s": 26,
+     "t": "I have faith that you will be able to stand against him one day. Though I know it will be a long and arduous road."
+    },
+    {
+     "s": 26,
+     "t": "If we are climbers in the dark, it appears the dawn has finally broken for me, but your ascent continues."
+    },
+    {
+     "s": 26,
+     "t": "(Haha. At least, it looks like you... are not alone on your journey.)"
+    },
+    {
+     "s": 4,
+     "t": "I will reach the top of this mountain, no matter what it takes."
+    },
+    {
+     "s": 4,
+     "t": "And you, Skofnungr, will be my witness... at the end of all things."
+    },
+    {
+     "section": "Leave Together"
+    },
+    {
+     "s": 2,
+     "t": "(Skirk gazes into the distant sky.)"
+    },
+    {
+     "s": 2,
+     "t": "(There's nothing else to do here. Should I leave?)"
+    },
+    {
+     "sit": "Leave"
+    },
+    {
+     "sit": "Don't leave yet"
+    },
+    {
+     "s": 2,
+     "t": "Don't leave yet"
+    },
+    {
+     "section": "Skirk"
+    },
+    {
+     "s": 1,
+     "t": "We did it! Whew... It's only been a few days, but it feels like forever."
+    },
+    {
+     "s": 1,
+     "t": "Once again, we've proved there's nothing we can't overcome! We're just that awesome."
+    },
+    {
+     "s": 2,
+     "t": "I didn't even break a sweat."
+    },
+    {
+     "s": 1,
+     "t": "Wow, you sound even more confident than usual. Guess you really have become stronger!"
+    },
+    {
+     "s": 1,
+     "t": "Today sure went by fast. It's night already! Oh, wait! That reminds Paimon... The stars you mentioned, the ones that died out, are they back now?"
+    },
+    {
+     "s": 4,
+     "t": "Yes, the power Skofnungr stole has been returned. So, the stars have regained their light."
+    },
+    {
+     "s": 1,
+     "t": "Great!"
+    },
+    {
+     "s": 1,
+     "t": "Huh, it's crazy that you even noticed their light was gone! There are so many stars in the sky, if a few disappeared, Paimon definitely wouldn't be able to tell."
+    },
+    {
+     "s": 4,
+     "t": "I suppose it's because... I have gazed upon this sky for centuries."
+    },
+    {
+     "s": 4,
+     "t": "The false stars hanging in the meticulously planned sky, glittering with rotten light..."
+    },
+    {
+     "s": 4,
+     "t": "It's not real, and yet... it is for that very reason that I can look upon it and enjoy the momentary peace it brings."
+    },
+    {
+     "sit": "It's beautiful. I agree."
+    },
+    {
+     "sit": "I'd like to see what it's like up there."
+    },
+    {
+     "s": 4,
+     "t": "Even the most beautiful of bubbles has to burst. We will return to the real universe one day, whether of our own volition or not."
+    },
+    {
+     "s": 4,
+     "t": "Time marches ever forward. Even the innocent and naive will taste life's bitterness. Yet, through hardship, we grow, until we learn to seize the sands of time for ourselves, and uncover our true strength."
+    },
+    {
+     "s": 4,
+     "t": "Though we gaze upon a false sky, its vastness and majesty is palpable. One can only wonder... what is it going to take for kindness to reign supreme in the vast expanse of the universe?"
+    },
+    {
+     "s": 1,
+     "t": "Um, this is all going over Paimon's head, but if she knows one thing, it's that {NICKNAME} always finds a way."
+    },
+    {
+     "s": 1,
+     "t": "Ever since we met, he(she) has filled Paimon's days with happiness. No matter how tough things get, he(she) always finds a way to make it better."
+    },
+    {
+     "s": 1,
+     "t": "If it's too big a job for one person, then we'll do it with two. And if two's still not enough, then three!"
+    },
+    {
+     "s": 1,
+     "t": "We've met so many amazing friends, and accomplished so many amazing things! As long as we don't give up, we can make any wish come true!"
+    },
+    {
+     "s": 4,
+     "t": "I suppose, when it comes to you, anything is possible."
+    },
+    {
+     "s": 4,
+     "t": "...Well, I should be going. Now that my power is no longer isolated from my emotions, I need more practice to get used to it."
+    },
+    {
+     "s": 2,
+     "t": "When will we meet again?"
+    },
+    {
+     "s": 4,
+     "t": "I suppose fate will decide. Maybe we'll bump into each other on the street... or maybe we'll reunite on a different planet entirely."
+    },
+    {
+     "s": 4,
+     "t": "Regardless, reunions and partings are but passing moments. More than anything, I hope that, at the end of this journey — wherever it takes us — we stand in a world reborn."
+    },
+    {
+     "s": 4,
+     "t": "One without war, pain, or forced partings... One where new life can bloom, even where there was once nothing but scorched earth."
+    },
+    {
+     "s": 4,
+     "t": "For this, we must all work to become stronger."
+    },
+    {
+     "sit": "Of course."
+    },
+    {
+     "sit": "Of course... Master."
+    },
+    {
+     "s": 4,
+     "t": "Goodbye, {NICKNAME}. Remember your training. Make sure to put it to use."
+    },
+    {
+     "s": 1,
+     "t": "Bye!"
+    },
+    {
+     "s": 1,
+     "t": "Is it just Paimon, or is she being... nicer than before? We definitely count as friends after all that, don't you think?"
+    },
+    {
+     "s": 1,
+     "t": "Hey, what do you think about camping here tonight? There's nothing quite like sleeping under the stars!"
+    },
+    {
+     "s": 1,
+     "t": "Come tomorrow, we can continue our journey! Oh, and since Paimon treated you to that super nice meal at Wanmin Restaurant, it's about time you returned the favor!"
+    },
+    {
+     "s": 2,
+     "t": "Of course... Master."
+    },
+    {
+     "s": 4,
+     "t": "...If that's what you wanna call me, I won't object. Goodbye."
+    },
+    {
+     "s": 2,
+     "t": "I'd like to see what it's like up there."
+    }
+   ],
+   "description": "After reconciling with herself, Skirk awakens once more and reclaims her full powers. It’s time to teach the culprit a lesson."
+  }
+ ],
+ "speakers": [
+  "Baizhu",
+  "Paimon",
+  "Traveler",
+  "Rest",
+  "Skirk",
+  "Chef Mao",
+  "Captain Wu",
+  "Lan",
+  "Kaeya",
+  "Keqing",
+  "Lynette",
+  "Nilou",
+  "Kaedehara Kazuha",
+  "Xingqiu",
+  "Kamisato Ayaka",
+  "Strange Creature",
+  "Strict Female Voice",
+  "Cheerful Male Voice",
+  "Panicked Passerby",
+  "Callous Soldier",
+  "Callous Officer",
+  "Surtalogi",
+  "Steadfast Disciple",
+  "Bright Disciple",
+  "Alice",
+  "Childe",
+  "Skofnungr"
+ ]
+}

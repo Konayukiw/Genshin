@@ -1,0 +1,840 @@
+{
+ "chapter": "Woodland Encounter",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Into the Woods",
+ "region": null,
+ "quests": [
+  {
+   "title": "Into the Woods",
+   "dialogue": [
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "(test)准备好了吗？"
+    },
+    {
+     "s": 0,
+     "t": "(test)那我们出发吧"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Here we are. When I was little, I would often take this road to go down to the river valley to play."
+    },
+    {
+     "s": 0,
+     "t": "The Withering Zones are appearing so quickly now, and Tighnari and the others are too busy to deal with them in time. But it's a good thing we have you here now."
+    },
+    {
+     "sit": "Leave it to me."
+    },
+    {
+     "s": 0,
+     "t": "Okay! You made clean work of those Withering Zones before, but they're still dangerous. If it gets to be too much, be sure to leave the realm and take some rest."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Here we are. When I was little, I would often take this road to go down to the river valley to play."
+    },
+    {
+     "s": 0,
+     "t": "The Withering Zones are appearing so quickly now, and Tighnari and the others are too busy to deal with them in time. But it's a good thing we have you here now."
+    },
+    {
+     "sit": "Leave it to me."
+    },
+    {
+     "s": 0,
+     "t": "Okay! You made clean work of those Withering Zones before, but they're still dangerous. If it gets to be too much, be sure to leave the realm and take some rest."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Withering Zones are dangerous. If it gets to be too much for you, be sure to leave and take some rest."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "This Withering Zone's expanding..."
+    },
+    {
+     "s": 0,
+     "t": "Regardless, I'll leave it in your capable hands just like before, {NICKNAME}. Just don't overdo it..."
+    },
+    {
+     "sit": "I won't, don't worry."
+    },
+    {
+     "sit": "Piece of cake."
+    },
+    {
+     "s": 0,
+     "t": "Thanks, {NICKNAME}."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "It's good to have you here. But still, don't push yourself."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Forest Watchers are also tasked with protecting the ecosystem. Recently, potentially because of the Withering Zones, the alligators have become... shall we say, unusually manic."
+    },
+    {
+     "s": 0,
+     "t": "Not only have they been invading other animals' territories, but they're reproducing at a faster rate. If this goes on, they won't just be a danger to the children, but to the forest's ecosystem as well."
+    },
+    {
+     "s": 0,
+     "t": "Luckily, your opponent isn't a Withering Zone this time. It's my time to shine, hehe. You rest up, {NICKNAME}, leave this one to me."
+    },
+    {
+     "sit": "I'll come help you."
+    },
+    {
+     "sit": "Rest? Not a chance."
+    },
+    {
+     "s": 1,
+     "t": "We're coming to help too!"
+    },
+    {
+     "s": 0,
+     "t": "Is it really okay...? That's great then, I'll finally get to fight side by side with you!"
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Whew, it's nice to have the chance to do something. This should help with our problem a little."
+    },
+    {
+     "s": 0,
+     "t": "Besides, watching you fight made me realize that I still have a lot to learn, {NICKNAME}! Like footwork... and timing too..."
+    },
+    {
+     "s": 0,
+     "t": "An experienced traveler like you is just... absolutely amazing!"
+    },
+    {
+     "sit": "Thanks."
+    },
+    {
+     "sit": "Piece of cake."
+    },
+    {
+     "sit": "Paimon has me on a strict training regimen."
+    },
+    {
+     "s": 0,
+     "t": "Thank you so much, really. That reminds me, how's your condition, {NICKNAME}? After taking care of so many Withering Zones, do you feel dizzy or nauseous or anything?"
+    },
+    {
+     "sit": "Nothing I can't handle."
+    },
+    {
+     "sit": "Just a little tired."
+    },
+    {
+     "sit": "Ugh... I think I'm dying."
+    },
+    {
+     "s": 0,
+     "t": "That's good... You've done so much. Goodness, I feel so much better now."
+    },
+    {
+     "s": 0,
+     "t": "Let's take a break! One of our forest patrol campsites isn't far from here. It should have equipment and supplies."
+    },
+    {
+     "sit": "I'm actually not that tired..."
+    },
+    {
+     "sit": "Yay, let's go camping!"
+    },
+    {
+     "s": 1,
+     "t": "Camping! That sounds fun!"
+    },
+    {
+     "s": 0,
+     "t": "Then off we go! It's just ahead."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Here we are."
+    },
+    {
+     "s": 1,
+     "t": "What's that round thing at the edge, the thing that looks like a small cabin?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, that... I'm not sure where it came from, but you see them all the time in the forests of Sumeru. Maybe it's some kind of ruin!"
+    },
+    {
+     "s": 0,
+     "t": "Strange, since you've asked, I seem to have heard about this kind of house and its resident. Who was it again... It wasn't that researcher who's in Satyavada Life..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, never mind! {NICKNAME}, Paimon, wait here for a second! I'm gonna go tidy up the campsite, get a fire going, and get some ingredients ready!"
+    },
+    {
+     "sit": "Thank you."
+    },
+    {
+     "sit": "We'll help you."
+    },
+    {
+     "s": 1,
+     "t": "Let us help you!"
+    },
+    {
+     "s": 0,
+     "t": "I can't have that! I was the one who asked you to come and help clean up the Withering Zones..."
+    },
+    {
+     "s": 1,
+     "t": "Just think of us as trainee Forest Watchers! What do you need us to do, Rana?"
+    },
+    {
+     "s": 0,
+     "t": "Well, if you insist, Paimon... Hmm... Could you help me get some firewood then?"
+    },
+    {
+     "s": 1,
+     "t": "All you need is some wood chopped? That's nothing, {NICKNAME} could do that."
+    },
+    {
+     "sit": "No, we'll need to collect some dried branches..."
+    },
+    {
+     "sit": "I am pretty great at chopping wood."
+    },
+    {
+     "s": 0,
+     "t": "That's right, you know your stuff, {NICKNAME}! You'd make a fine Forest Watcher!"
+    },
+    {
+     "s": 1,
+     "t": "Is that so? Hm... Okay, got it. Let's go, {NICKNAME}!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Besides firewood, we have sufficient supplies of everything else here... Ah, {NICKNAME}, you're back! Have you collected enough firewood?"
+    },
+    {
+     "sit": "Not yet..."
+    },
+    {
+     "s": 0,
+     "t": "It's fine, leave it to me. Just stay here and rest up! Let me just clean up here and I'll go right away!"
+    },
+    {
+     "sit": "Let me do it. It won't take long."
+    },
+    {
+     "sit": "I just wanted to tell you that I'm going now."
+    },
+    {
+     "s": 0,
+     "t": "Alright. Thanks."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Yup, that should be enough!"
+    },
+    {
+     "s": 1,
+     "t": "Let's go find Rana!"
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "You guys are back! I'm almost done here as well."
+    },
+    {
+     "s": 1,
+     "t": "Will these be enough, Rana?"
+    },
+    {
+     "s": 0,
+     "t": "Yep, that's more than enough!"
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! One of our camping traditions is to have the most esteemed person in the group light the campfire."
+    },
+    {
+     "sit": "They just have to light it, right?"
+    },
+    {
+     "sit": "Eek! Fire! So scary!"
+    },
+    {
+     "s": 1,
+     "t": "Leave it to us!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "One of our camping traditions is to have the most esteemed person in the group light the campfire."
+    },
+    {
+     "s": 0,
+     "t": "Why the tradition? Probably because in the era of darkness, fire was a symbol of warmth and courage."
+    },
+    {
+     "sit": "The era of darkness?"
+    },
+    {
+     "s": 0,
+     "t": "Right. The origins of the Forest Rangers go way back. The earliest rangers were the forest king's royal guards! I heard that they once walked in forests where there were real tigers."
+    },
+    {
+     "s": 0,
+     "t": "Later, Khaenri'ah fell, and thus began the era of darkness."
+    },
+    {
+     "s": 0,
+     "t": "But not many documents have survived the cataclysm, so no one really knows what exactly happened. Still, I want to see a real tiger!"
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "sit": "Using the supplies stored at the campsite and the ingredients gathered along the way, Rana makes a pot of richly fragrant curry.<br/>Everyone stuffs their faces.<br/>The rest is packed up in containers for later use."
+    },
+    {
+     "s": 0,
+     "t": "...Ahh! It's so good. Curry tastes even better after hard work."
+    },
+    {
+     "sit": "Sounds like Rana stole Paimon's line."
+    },
+    {
+     "sit": "It's delicious! Thank you!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon doesn't care about such things!"
+    },
+    {
+     "s": 1,
+     "t": "Still, this curry is so aromatic. What if the smell draws some critters or hilichurls over here?"
+    },
+    {
+     "s": 0,
+     "t": "\"Curry, curry, in the air~ Hungry children it's time to come home~♪\""
+    },
+    {
+     "s": 0,
+     "t": "This is a children's song from Sumeru. There's something free about curry — each family adds different ingredients and spices depending on how they make it. So, each family's curry has its own flavor."
+    },
+    {
+     "s": 0,
+     "t": "So, when we were little, we could smell a curry and tell whether it was made by our parents."
+    },
+    {
+     "s": 0,
+     "t": "But once we got older, we couldn't tell whose curry was whose anymore. They all seem about the same."
+    },
+    {
+     "s": 0,
+     "t": "But still, you know that it's time to go home and eat when you smell curry!"
+    },
+    {
+     "s": 1,
+     "t": "\"Curry, curry, in the air~♪\""
+    },
+    {
+     "sit": "\"Hungry children it's time to come home~♪\""
+    },
+    {
+     "sit": "It doesn't have to be curry to make Paimon drool."
+    },
+    {
+     "s": 1,
+     "t": "The stuff you make also has a different aroma, {NICKNAME}!"
+    },
+    {
+     "s": 0,
+     "t": "Oh? Is that so? I'd like to try!"
+    },
+    {
+     "sit": "Sure, I guess..."
+    },
+    {
+     "sit": "No."
+    },
+    {
+     "s": 1,
+     "t": "But we've just eaten so much of this curry. Let's make something next time!"
+    },
+    {
+     "s": 0,
+     "t": "Okay..."
+    },
+    {
+     "s": 1,
+     "t": "That reminds Paimon, why do you have to pick up branches instead of chopping down trees when you want to start a fire? Does the Dendro Archon punish people who cut down trees? Wah... {NICKNAME}, what do we do!?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, no! It's because fresh wood has too much moisture in it, so it's hard to light. Also, the Dendro Archon isn't that petty!"
+    },
+    {
+     "s": 0,
+     "t": "Still, our teachings in Sumeru also say to respect nature and the forest, because we are the forest's subjects. So are the birds and beasts, and..."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "In the end, the forest will remember."
+    },
+    {
+     "s": 0,
+     "t": "\"...Even if you grow up and forget, don't fret. The forest will remember.\""
+    },
+    {
+     "sit": "The forest will remember?"
+    },
+    {
+     "sit": "Rana, are you okay?"
+    },
+    {
+     "s": 1,
+     "t": "Eh... Rana, what's wrong?"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Oh... I felt like I almost remembered something that was lost in my memories for a long time. Something warm and precious, but I couldn't remember it all... Just those two lines..."
+    },
+    {
+     "s": 0,
+     "t": "Dang it, it's like when you have to sneeze, but it just won't come out. How infuriating!"
+    },
+    {
+     "s": 1,
+     "t": "Some things are harder to remember the more you try to remember them!"
+    },
+    {
+     "s": 1,
+     "t": "Just ignore it, and after a while, it might suddenly come back to you when you're doing something else!"
+    },
+    {
+     "s": 0,
+     "t": "I'll try. Thanks again for watching those kids in the village for me before. They're like my little brothers and sisters."
+    },
+    {
+     "s": 0,
+     "t": "The oldest one is Kavus. He wants to travel the world by boat when he grows up. Sudabeh is his little sister, she says she wants to be just like me. It's a little embarrassing, hehe."
+    },
+    {
+     "sit": "I don't think there's anything embarrassing about that."
+    },
+    {
+     "sit": "That is embarrassing."
+    },
+    {
+     "s": 0,
+     "t": "Then there's Iotham. I'm more worried about him. He was raised by Granny Jehiet after being abandoned in the village."
+    },
+    {
+     "s": 1,
+     "t": "Eh? So Iotham was..."
+    },
+    {
+     "s": 0,
+     "t": "Yes. I was still just a little girl back then. One day, the adults discovered that a traveling couple who'd been staying in the village were gone. All they left behind was this teeny tiny child."
+    },
+    {
+     "s": 0,
+     "t": "I always used to worry about him. But now, he and Kavus and the others are like a family. Alphonso also looks after him, just like a real older brother would."
+    },
+    {
+     "sit": "About what you and the children were talking about before..."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, now that you mention it, when we were telling stories to the children, we also asked around..."
+    },
+    {
+     "sit": "About the \"Aranara\"..."
+    },
+    {
+     "sit": "About kids going missing..."
+    },
+    {
+     "s": 0,
+     "t": "Ah, that's the round, plantlike little fairies you mentioned before..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm... They said they didn't know, but they were acting like they were hiding something about the \"Aranara.\""
+    },
+    {
+     "s": 0,
+     "t": "Hmm... I don't know much about these creatures myself, but I'll tell you the part I heard. First of all, they're much like you described: round and plantlike."
+    },
+    {
+     "s": 0,
+     "t": "The forest is vast and deep here in Sumeru, and it's constantly changing, like a gargantuan beast. So, even locals will lose their way, let alone travelers."
+    },
+    {
+     "s": 0,
+     "t": "Legend has it that there are countless bizarre and amazing creatures in forests like this, and the most famous among them are the Aranara, which, supposedly, means the \"forest people.\""
+    },
+    {
+     "s": 0,
+     "t": "The Aranara are related to the Dendro Archon and are the guardians of the forest. They're the bridge between people and trees. They also have the ability to enter dreams."
+    },
+    {
+     "s": 0,
+     "t": "...But for the people of Sumeru, dreams are very rare."
+    },
+    {
+     "s": 1,
+     "t": "That sounds amazing!"
+    },
+    {
+     "s": 0,
+     "t": "Agreed. They might not say it in front of the adults, but I think they really like the legend of the Aranara. Who knows, maybe they've seen an Aranara while playing in the forest."
+    },
+    {
+     "s": 0,
+     "t": "It's normal for children to have secrets amongst themselves that they keep from grown-ups. So long as they can grow up healthy, and become strong, kind, and good adults..."
+    },
+    {
+     "sit": "Also, about kids going missing..."
+    },
+    {
+     "s": 0,
+     "t": "Ah, about that... Eh? Do you have any clues?"
+    },
+    {
+     "s": 1,
+     "t": "We were also really worried, so we asked around! The kids said that they were in the woods, and the next thing they knew, they were in Vimara Village. They couldn't remember anything that had happened before that."
+    },
+    {
+     "s": 0,
+     "t": "That's right. Kavus and Sudabeh suddenly appeared in the village after going missing for a few days. Everyone was worried sick while they were gone, Alphonso even organized a search and rescue team..."
+    },
+    {
+     "s": 0,
+     "t": "*chuckle*"
+    },
+    {
+     "s": 1,
+     "t": "What is it, Rana?"
+    },
+    {
+     "s": 0,
+     "t": "Now that I think about it, it was actually kinda funny. Remember what I said about curry before? Alphonso made the search party take curry into the forest with them so the children could smell it."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, we didn't find Kavus or Sudabeh, but they came home on their own. And with the whole memory loss situation... something about this whole thing just doesn't feel right..."
+    },
+    {
+     "s": 0,
+     "t": "So, I've been patrolling the forest and ruling out any elements that could harm the children. Iotham is the only one left who hasn't gone missing, so I have to protect him."
+    },
+    {
+     "sit": "About Alphonso..."
+    },
+    {
+     "s": 1,
+     "t": "Oh, speaking of him... Alphonso seems like he's really popular in Vimara Village! He organized the search party, and the kids talk about him all the time..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, him? He's like an older brother to them. We've treated him like family since he arrived in the village a few years ago."
+    },
+    {
+     "s": 0,
+     "t": "According to him, like Iotham, he doesn't have any family, so he sees this place as his real home. Iotham also sees him as his actual big brother."
+    },
+    {
+     "s": 1,
+     "t": "Paimon gets it..."
+    },
+    {
+     "s": 0,
+     "t": "If you two stayed in Vimara Village, I know they'd be very happy to have another big brother and big sister(two big sisters)!"
+    },
+    {
+     "s": 0,
+     "t": "Like I said before, if it's possible, I hope that you can join the ranks of the Watchers. And we will patrol together. What do you think?"
+    },
+    {
+     "sit": "Well, I'm actually traveling to find someone..."
+    },
+    {
+     "sit": "You briefly explain the reason for your travels to Rana."
+    },
+    {
+     "s": 0,
+     "t": "I see. I understand how you feel, {NICKNAME}. I also had a friend who was very dear to me vanish out of nowhere. But they..."
+    },
+    {
+     "s": 0,
+     "t": "Well, that's not important. The blonde girl(blond boy) you're looking for... I feel like I've heard about her(him) somewhere before. Let me think..."
+    },
+    {
+     "s": 0,
+     "t": "...Nope, I can't remember. I'm sure someone told me a story about a blonde girl(blond boy) before... Just like gold... and called a \"Nara\" or something..."
+    },
+    {
+     "s": 1,
+     "t": "(Paimon feels like Rana's memory isn't too good.)"
+    },
+    {
+     "sit": "(That's what happens when you grow up.)"
+    },
+    {
+     "sit": "(That's worrying.)"
+    },
+    {
+     "s": 1,
+     "t": "There's no need to force yourself, Rana. Paimon hopes the kids in Vimara Village are doing okay..."
+    },
+    {
+     "s": 0,
+     "t": "Well, I'm very happy that I could meet the two of you. I'm sure the children feel the same way!"
+    },
+    {
+     "s": 0,
+     "t": "You're not only skilled but also so kind, and I'm so moved that you would worry about my little brothers and sisters in Vimara Village! I'll keep an eye out for the person you're looking for!"
+    },
+    {
+     "s": 0,
+     "t": "Then, when you finish your journey, come to Sumeru! We can patrol the forest together!"
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "sit": "Let's put a pin in that for now."
+    },
+    {
+     "s": 0,
+     "t": "Okay, but think about it. If only I could have met you and Paimon earlier..."
+    },
+    {
+     "s": 1,
+     "t": "Tee-hee, you are making Paimon blush!"
+    },
+    {
+     "s": 0,
+     "t": "Zzz..."
+    },
+    {
+     "sit": "(I think she's asleep.)"
+    },
+    {
+     "sit": "(She can sleep even while sitting upright!)"
+    },
+    {
+     "s": 1,
+     "t": "(She can even sleep while sitting upright! Is this some special training Forest Watchers get?)"
+    },
+    {
+     "s": 1,
+     "t": "(She must be exhausted. Hehe, looks like Rana doesn't have our stamina. Do you want to take a rest, {NICKNAME}?)"
+    },
+    {
+     "sit": "(Yeah, I'm gonna have a little nap, too.)"
+    },
+    {
+     "sit": "(There's still something I need to do.)"
+    },
+    {
+     "s": 1,
+     "t": "(Sleep well!)"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Zzz... Help find them... Curry..."
+    },
+    {
+     "sit": "(I should take a little nap as well.)"
+    },
+    {
+     "sit": "(I'd better find something else to do for now.)"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "sit": "(test) 天亮了"
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Ahh... I slept so well! I don't even remember falling asleep, sorry about that, hehe..."
+    },
+    {
+     "sit": "You can sleep even while sitting upright..."
+    },
+    {
+     "sit": "You must have been exhausted before..."
+    },
+    {
+     "s": 0,
+     "t": "Not really, I just ate a lot and was feeling so relaxed that I just..."
+    },
+    {
+     "s": 0,
+     "t": "Ahem! Here's a little Forest Watcher trivia for you: When searching for a missing person in the forest, you want to feed them something that's easy to digest when you find them."
+    },
+    {
+     "s": 0,
+     "t": "Digestion consumes stamina. That's why you feel sleepy easily after eating. Or at least, that's what the Akademiya researchers say."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, Paimon, have you rested? You worked so hard yesterday..."
+    },
+    {
+     "sit": "We slept like babies."
+    },
+    {
+     "sit": "No need, I feel great."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! Don't worry about us!"
+    },
+    {
+     "s": 0,
+     "t": "Are you sure? Okay then... Thank you so much for yesterday. I feel much better now that you're here."
+    },
+    {
+     "s": 1,
+     "t": "Heh, you can count on {NICKNAME}! Is there any work left to do today, Rana?"
+    },
+    {
+     "s": 0,
+     "t": "Let me see... I think we're just about done here. Let's head back to Vimara Village! We can check in on the situation on our way back."
+    },
+    {
+     "s": 1,
+     "t": "Okay, let's go!"
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Oh, {NICKNAME}, you're back! I was so worried..."
+    },
+    {
+     "s": 0,
+     "t": "I was afraid you and Paimon had run off... or worse, that those alligators from before came back for revenge and hauled you both away!"
+    },
+    {
+     "s": 1,
+     "t": "Are alligators really that scary!? We saw that you were sleeping, so we went to take care of some other things..."
+    },
+    {
+     "s": 0,
+     "t": "Sorry, I didn't even realize that I had fallen asleep, hehe..."
+    },
+    {
+     "sit": "You can sleep even while sitting upright..."
+    },
+    {
+     "sit": "You must have been exhausted before..."
+    },
+    {
+     "s": 0,
+     "t": "Not really, I just ate a lot and was feeling so relaxed that I just..."
+    },
+    {
+     "s": 0,
+     "t": "Ahem! Here's a little Forest Watcher trivia for you: When searching for missing people in the forest, we make sure to feed them something that's easy to digest when we find them."
+    },
+    {
+     "s": 0,
+     "t": "Digestion consumes stamina. That's why you feel sleepy easily after eating. Or at least, that's what the Akademiya researchers say."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, Paimon, have you rested? You worked so hard yesterday..."
+    },
+    {
+     "sit": "We slept like babies."
+    },
+    {
+     "sit": "No need, I feel great."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! Don't worry about us!"
+    },
+    {
+     "s": 0,
+     "t": "Are you sure? Okay then... Thank you so much for yesterday. I feel much better now that you're here."
+    },
+    {
+     "s": 1,
+     "t": "Heh, you can count on {NICKNAME}! Is there any work left to do today, Rana?"
+    },
+    {
+     "s": 0,
+     "t": "Let me see... I think we're just about done here, let's head back to Vimara Village! We can check in on the situation on our way back."
+    },
+    {
+     "s": 1,
+     "t": "Okay, let's go!"
+    }
+   ],
+   "description": "You and Paimon put in a good amount of hard work to sort your stories into a version that the children might find interesting. Thankfully, they like your stories. Although they don’t seem to have told the truth about the mysterious creatures, this isn’t the time to go into detail. Now, go with Rana to clear out some Withering Zones. You’re doing this so the children of Vimara Village can play safely, after all."
+  }
+ ],
+ "speakers": [
+  "Rana",
+  "Paimon"
+ ]
+}

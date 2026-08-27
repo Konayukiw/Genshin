@@ -1,0 +1,654 @@
+{
+ "chapter": "Her Foes Rage Like Great Waters…",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Behold, the Sign Comes Like A Thief...",
+ "region": null,
+ "quests": [
+  {
+   "title": "Behold, the Sign Comes Like A Thief...",
+   "dialogue": [
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 0,
+     "t": "Ah, Master of the Jinni! Y—you're here."
+    },
+    {
+     "s": 0,
+     "t": "I jus—just so happen to have a t—task for you... An urgent one!"
+    },
+    {
+     "sit": "Slow down, I'm listening."
+    },
+    {
+     "sit": "What do you need my help with?"
+    },
+    {
+     "s": 1,
+     "t": "Yeah, slow down! We'll help once you tell us what's happening!"
+    },
+    {
+     "s": 0,
+     "t": "A shipment—a shipment—a—a shipment of goods has g—gone missing!"
+    },
+    {
+     "s": 1,
+     "t": "You lost three shipment of goods!?"
+    },
+    {
+     "s": 0,
+     "t": "N—no! Just on—one shipment."
+    },
+    {
+     "s": 0,
+     "t": "I contracted an outside party to sh—ship us some Anahitian Blessing, b—but a l—long time has p—passed and it's s—still not here..."
+    },
+    {
+     "s": 0,
+     "t": "It might be the d—doing of those nor—northerners... Might be retaliation because Babel is always s—searching them for t—traitors..."
+    },
+    {
+     "s": 0,
+     "t": "E-ever since Aderfi and Azariq left... The northerners h—have been much more a—active."
+    },
+    {
+     "s": 0,
+     "t": "A—alright. I am d—done with dallying. The caravan delivering the Anahitian Blessing's last known location i—is in this region, according to our scouts."
+    },
+    {
+     "s": 0,
+     "t": "I hope you can help me f—find the goods. Or a—at—at least find any clues as to what happened to the caravan."
+    },
+    {
+     "sit": "Sure. I'll give you a hand."
+    },
+    {
+     "s": 1,
+     "t": "A caravan can't just disappear on its own, right? Sounds like they got robbed by some bandits..."
+    },
+    {
+     "s": 0,
+     "t": "Th—thank you. A tho—thousand thanks! Please, accept this meat as gra—gratitude for your service."
+    },
+    {
+     "s": 1,
+     "t": "Wow! Thanks! You're too kind!"
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 0,
+     "t": "H—h—how's your search going?"
+    },
+    {
+     "sit": "We're still looking for the caravan."
+    },
+    {
+     "s": 0,
+     "t": "Pl—p—please find them. I beg you."
+    },
+    {
+     "section": "Jeht"
+    },
+    {
+     "s": 2,
+     "t": "{NICKNAME}! How have you been!"
+    },
+    {
+     "s": 2,
+     "t": "Thanks for adventuring with me. I... about my parents... Thanks."
+    },
+    {
+     "sit": "There's no need."
+    },
+    {
+     "s": 2,
+     "t": "Yeah. If Babel didn't have me doing commissions for other assignments, I would be exploring the desert right alongside you."
+    },
+    {
+     "s": 2,
+     "t": "I still know plenty of cool places! When I find the time, I'll show them to you!"
+    },
+    {
+     "s": 2,
+     "t": "It's just... now's not the time. The cursed traitors are colluding with the northerners, eyeing our territory. I've got to keep on their movements."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 3,
+     "t": "(A cracked, empty jar lay there, not yet swallowed by the sands. Looks like it was thrown aside not long ago.)"
+    },
+    {
+     "s": 1,
+     "t": "Look! That jar's still poking out from the sand!"
+    },
+    {
+     "sit": "The goods lay scattered along the trail..."
+    },
+    {
+     "sit": "Let's see what we can find along this trail."
+    },
+    {
+     "s": 1,
+     "t": "Oh, this doesn't look good... Paimon thinks that they might have dropped some other goods along the way? Maybe we should keep searching ahead."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 3,
+     "t": "(An empty, broken box lay abandoned, toppled over by the roadside.)"
+    },
+    {
+     "s": 1,
+     "t": "Huh. This box must be from the caravan. Look! It even has the tribe's symbol on it!"
+    },
+    {
+     "sit": "Won't be hard to ambush someone here."
+    },
+    {
+     "s": 1,
+     "t": "Yeah... This place looks dangerous!"
+    },
+    {
+     "sit": "It looks like they stole even the largest of the goods..."
+    },
+    {
+     "s": 1,
+     "t": "They moved all the valuables, but left the containers. Huh. Paimon guesses they might have a lot of people, but don't seem to have the tools to move the crates."
+    },
+    {
+     "sit": "Or, perhaps, this is a trap..."
+    },
+    {
+     "s": 1,
+     "t": "A... trap?"
+    },
+    {
+     "s": 1,
+     "t": "Do you mean they left these empty boxes on purpose? To... lure people to them?"
+    },
+    {
+     "sit": "To lure us."
+    },
+    {
+     "s": 1,
+     "t": "Ah! Paimon's getting goosebumps! Then... do we really need to keep going..."
+    },
+    {
+     "sit": "If you're scared, you can always turn and head back."
+    },
+    {
+     "sit": "The bandits might still be nearby."
+    },
+    {
+     "s": 1,
+     "t": "What? Pfft. Paimon's not scared. Hmph. Besides, you can't just leave Paimon!"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 1,
+     "t": "Hmph... They left absolutely nothing intact. Oh, Paimon's getting mad! These hilichurls really know how to break stuff!"
+    },
+    {
+     "sit": "Wait, it doesn't look like it was destroyed by hilichurls..."
+    },
+    {
+     "sit": "Wait, the raid might not have happened here..."
+    },
+    {
+     "s": 1,
+     "t": "Huh? But... the hilichurls have their camp here, don't they?"
+    },
+    {
+     "sit": "I don't see any carts around us..."
+    },
+    {
+     "sit": "Look. No cart in the camp either."
+    },
+    {
+     "s": 1,
+     "t": "Yeah... You're right! There aren't any carts or even wrecks here... The shack left behind by the hilichurls also doesn't seem to have any cart parts... How strange."
+    },
+    {
+     "sit": "Let's follow the road a while longer."
+    },
+    {
+     "s": 1,
+     "t": "Alright. But if it wasn't the hilichurls, then who?"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 3,
+     "t": "(A rolled carpet that's still in good condition. The symbol of the Tanit tribe is stitched into it, while ominous blotches dot its surface...)"
+    },
+    {
+     "sit": "The rug... how strange..."
+    },
+    {
+     "s": 1,
+     "t": "Huh... Wow, that rug looks expensive. But why did it just get left here?"
+    },
+    {
+     "sit": "Maybe there was a struggle or fight over it..."
+    },
+    {
+     "s": 1,
+     "t": "Hm... Yeah... Paimon thinks she can see that happening."
+    },
+    {
+     "s": 1,
+     "t": "The caravan and the robbers had a fight here. Some goods got damaged during the battle, while other perfectly fine ones were left aside in the ensuing chaos..."
+    },
+    {
+     "sit": "Very astute, Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Hehe. Paimon's the best!"
+    },
+    {
+     "s": 1,
+     "t": "And then, the caravan and the robbers fought while running all along the way... fighting and running and fighting... That's why all these boxes and jars are scattered everywhere."
+    },
+    {
+     "s": 1,
+     "t": "Hm. Paimon thinks that's a good deduction!"
+    },
+    {
+     "sit": "That doesn't make any sense!"
+    },
+    {
+     "s": 1,
+     "t": "Hmph!"
+    },
+    {
+     "sit": "The trashed goods should have been discarded after the bandits got to them..."
+    },
+    {
+     "sit": "The things they left behind were to ensure they moved fast and light."
+    },
+    {
+     "s": 1,
+     "t": "Really..."
+    },
+    {
+     "sit": "Because we didn't see any signs of a struggle along the way."
+    },
+    {
+     "s": 1,
+     "t": "So, that's how it was... Still, Paimon's theory was close... Like ninety-percent accurate close!"
+    },
+    {
+     "s": 1,
+     "t": "Huh... Paimon can't help feeling something's wrong..."
+    },
+    {
+     "sit": "About what?"
+    },
+    {
+     "sit": "Time for Paimon to use her intuition!"
+    },
+    {
+     "s": 1,
+     "t": "Don't you... think these clues are too neatly laid out? It's like they were placed in a line to lead us over somewhere..."
+    },
+    {
+     "sit": "You... might be a bit too suspicious."
+    },
+    {
+     "sit": "Possibly, but we don't have enough evidence for that."
+    },
+    {
+     "s": 1,
+     "t": "Hey! Look, the cart's right there!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon can barely recognize it... Though the Tanit marking's there, it looks a bit... blurry..."
+    },
+    {
+     "s": 1,
+     "t": "Alright. We can close this case now!"
+    },
+    {
+     "s": 1,
+     "t": "It's elementary: What happened was that the caravan was ambushed and the goods were all stolen. Let's go back to Yuften and tell him what happened!"
+    },
+    {
+     "sit": "Right, let's head back."
+    },
+    {
+     "s": 4,
+     "t": "Pardon me, but I beg you both to still your stride."
+    },
+    {
+     "s": 1,
+     "t": "Huh? Who are you?"
+    },
+    {
+     "s": 4,
+     "t": "We are friends. Of Jeht's. You have been working hard."
+    },
+    {
+     "s": 1,
+     "t": "Oh, well, Jeht's friends are our friends! We were just finishing up! Let's head back together!"
+    },
+    {
+     "s": 4,
+     "t": "Haha, no need to be so hasty. And guests shouldn't be so harried to depart."
+    },
+    {
+     "sit": "Paimon, wait... There's something not right with them."
+    },
+    {
+     "s": 4,
+     "t": "Jeht requested that you stay in the desert for a time... She commissioned us to come here and give you the \"hospitality\" you deserve."
+    },
+    {
+     "s": 4,
+     "t": "It would be cruel of you to disappoint her kindness."
+    },
+    {
+     "s": 1,
+     "t": "Uh... {NICKNAME}..."
+    },
+    {
+     "sit": "Paimon. Hide."
+    },
+    {
+     "s": 1,
+     "t": "A—Alright!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Wow... that was close. Luckily, we're good at fighting. Took them down in no time flat!"
+    },
+    {
+     "sit": "Thanks for your \"hospitality.\""
+    },
+    {
+     "s": 1,
+     "t": "Why is it that every bad guy wants to mess with us? Is it because we look soft?"
+    },
+    {
+     "sit": "They claimed to be sent by Jeht..."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Do you believe them?"
+    },
+    {
+     "sit": "I don't think Jeht has a reason to do this."
+    },
+    {
+     "sit": "But she might be wrapped up in something big..."
+    },
+    {
+     "s": 1,
+     "t": "Yeah... Paimon doesn't think Jeht would do this either... But, what should we do now?"
+    },
+    {
+     "s": 1,
+     "t": "The people who just ambushed us knew Jeht, which means that they must know people amongst the Tanit as well..."
+    },
+    {
+     "s": 1,
+     "t": "You mean that if we return to the tribe, we'll catch their attention? Paimon doesn't think they'll just let this go."
+    },
+    {
+     "s": 1,
+     "t": "And Jeht... Paimon's not suspecting her, but the people who tried to kill us might be hiding within the tribe. Maybe we should leave for a while..."
+    },
+    {
+     "sit": "If we leave, Jeht might be in danger."
+    },
+    {
+     "s": 1,
+     "t": "Yeah... We can't just leave her."
+    },
+    {
+     "sit": "Let's go back first. But don't mention Jeht."
+    },
+    {
+     "s": 1,
+     "t": "Huh? But..."
+    },
+    {
+     "s": 1,
+     "t": "Hmph! Paimon's not scared! If you've decided, then that's how we'll do it!"
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 0,
+     "t": "Y—y—you're back?"
+    },
+    {
+     "s": 1,
+     "t": "What? Something strange about us coming back?"
+    },
+    {
+     "s": 0,
+     "t": "N—N—No. I'm v—very pleased th—that you h—have returned, e—esteemed Master of the Jinni."
+    },
+    {
+     "s": 0,
+     "t": "R—right. Ab—abo—about the c—caravan. How did y—your investigation... go?"
+    },
+    {
+     "sit": "The caravan got ambushed. The goods have been taken."
+    },
+    {
+     "s": 0,
+     "t": "Cu—curses! It's those traitors again! I—I—I just kn—know it!"
+    },
+    {
+     "s": 1,
+     "t": "Traitors..."
+    },
+    {
+     "s": 0,
+     "t": "Th—Th—Those traitors! Those northerner colluding dogs!"
+    },
+    {
+     "s": 0,
+     "t": "A—aside from this, wh—what else ha—have you uncovered?"
+    },
+    {
+     "sit": "We were ambushed by the Eremites."
+    },
+    {
+     "s": 1,
+     "t": "Yeah. Just as we finished investigating what happened to the caravan, the Eremites showed up to ambush us! They also said..."
+    },
+    {
+     "sit": "They also said that they knew us."
+    },
+    {
+     "s": 1,
+     "t": "Right... That too!"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "I—if—if that's the c—case... Th—then they might be onto you as well."
+    },
+    {
+     "s": 0,
+     "t": "H—Here is your pa—payment. P—Please go see Matriarch B—Babel about th—this matter as s—soon as possible!"
+    },
+    {
+     "sit": "Right."
+    },
+    {
+     "s": 0,
+     "t": "Fa—farewell, esteemed Master of the Jinni."
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 0,
+     "t": "This matter is e—extremely urgent! P—please go inform the Matriarch."
+    },
+    {
+     "section": "Babel"
+    },
+    {
+     "s": 5,
+     "t": "Greetings, esteemed Master of the Jinni. Is there something you need?"
+    },
+    {
+     "sit": "Yuften's caravan got raided by some of your traitors."
+    },
+    {
+     "s": 5,
+     "t": "Truly... Well, it's not unexpected. The northerners from the snowlands have long tried to push into our lands. The treacherous amongst our number fell prey to their words and turned against us."
+    },
+    {
+     "s": 5,
+     "t": "These traitors have been causing havoc for quite some time. Sporadic but persistent raids and robberies have been happening since a few months ago..."
+    },
+    {
+     "s": 5,
+     "t": "Oh... Apologies, I didn't mean to interrupt. Please continue."
+    },
+    {
+     "sit": "The traitors have also taken an interest in us."
+    },
+    {
+     "s": 1,
+     "t": "Yeah. Just as we finished investigating the caravan, thugs from the Eremites ambushed us."
+    },
+    {
+     "s": 5,
+     "t": "Is that the case... How vile."
+    },
+    {
+     "s": 5,
+     "t": "It appears that... with Aderfi and Azariq both gone, these wild dogs see this as high time to bare their teeth."
+    },
+    {
+     "s": 5,
+     "t": "How about this? Please wait here and rest. I will handle all matters regarding your safety."
+    },
+    {
+     "s": 5,
+     "t": "Jeht is still outside fulfilling her duties to the tribe. I will have her work alongside you to get to the bottom of this matter."
+    },
+    {
+     "s": 5,
+     "t": "And before that, I will do my utmost to find the assassins who sought you dead... I ask for only patience in return."
+    },
+    {
+     "s": 1,
+     "t": "Uhh... Oh, one more thing! The bad guys that jumped us seemed to know us! They might be from the tribe!"
+    },
+    {
+     "s": 5,
+     "t": "It's not impossible... But it matters little. With your privileges as esteemed guests, you will be protected... So long as you stay here, no one can hurt you."
+    },
+    {
+     "s": 5,
+     "t": "If anyone of the Tanit seeks to trouble you, whoever they are, they will face judgment at my hands, under my authority as Matriarch."
+    },
+    {
+     "s": 5,
+     "t": "Please, rest. I will pursue the matter of the traitors to the fullest of my ability."
+    },
+    {
+     "s": 5,
+     "t": "Additionally, I will keep watch for Jeht on your behalf. I will notify you the moment she returns."
+    },
+    {
+     "s": 1,
+     "t": "Alright! Thanks a lot, Matriarch Babel."
+    },
+    {
+     "s": 5,
+     "t": "The courtesy is unneeded."
+    },
+    {
+     "section": "Babel"
+    },
+    {
+     "s": 5,
+     "t": "Greetings, esteemed Master of the Jinni."
+    },
+    {
+     "s": 5,
+     "t": "Regarding the attempt on your life, rest assured, I am still investigating."
+    },
+    {
+     "s": 5,
+     "t": "I can promise your safety when you are amongst the Tanit, but should you walk the desert sands... Be very careful."
+    },
+    {
+     "sit": "About the Eternal Oasis..."
+    },
+    {
+     "sit": "Has Jeht been busy?"
+    },
+    {
+     "sit": "About the traitors..."
+    },
+    {
+     "sit": "Bye."
+    },
+    {
+     "s": 5,
+     "t": "Allow me to offer my deepest thanks on behalf of the Tanit and Jeht herself for your deeds..."
+    },
+    {
+     "s": 5,
+     "t": "The Eternal Oasis not only bears great importance to Jeht, but it also stands as a central pillar of our faith."
+    },
+    {
+     "s": 5,
+     "t": "Claiming the Eternal Oasis means claiming the sovereignty that once belonged to the Queen of All Oases, Nabu Malikata... For her descendants, this inheritance means everything."
+    },
+    {
+     "sit": "I don't quite understand... Just what is it actually worth?"
+    },
+    {
+     "s": 5,
+     "t": "Hahaha. Perhaps it can't even be traded for a single coin..."
+    },
+    {
+     "s": 5,
+     "t": "But it is beyond value nonetheless."
+    }
+   ],
+   "description": "Yuften’s goods appear to have been stolen by some unknown party. They need to be recovered."
+  }
+ ],
+ "speakers": [
+  "Yuften",
+  "Paimon",
+  "Jeht",
+  "Investigate",
+  "Eremite Assassin",
+  "Babel"
+ ]
+}

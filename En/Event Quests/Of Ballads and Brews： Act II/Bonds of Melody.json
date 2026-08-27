@@ -1,0 +1,1375 @@
+{
+ "chapter": "Of Ballads and Brews: Act II",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Bonds of Melody",
+ "region": null,
+ "quests": [
+  {
+   "title": "Bonds of Melody",
+   "dialogue": [
+    {
+     "section": "Razor, Klee, Bennett"
+    },
+    {
+     "s": 0,
+     "t": "Yay! Adventure! Treasure! Weinlesefest! Let's go, let's go!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... wait, but what about Wolfie? Wolfie— uh, I mean Razor needs looking after. Honorary Knight, Paimon, you'd better take care of Razor, okay? Make sure he finds his mommy."
+    },
+    {
+     "s": 1,
+     "t": "Mm..."
+    },
+    {
+     "sit": "Leave it to us."
+    },
+    {
+     "sit": "Be careful."
+    },
+    {
+     "s": 1,
+     "t": "...Good luck."
+    },
+    {
+     "s": 2,
+     "t": "See ya later, folks."
+    },
+    {
+     "s": 3,
+     "t": "Ah, it's so nice to see everyone in such a good mood."
+    },
+    {
+     "s": 3,
+     "t": "Oh...! Paimon almost forgot the whole reason we came here!"
+    },
+    {
+     "s": 3,
+     "t": "Razor, {NICKNAME} and Paimon were just chatting about the ingredients Venti mentioned in his poem. We think that they're actually a description of the wine's characteristics."
+    },
+    {
+     "s": 3,
+     "t": "Plus, it seems like each of them means something special to one of the three big institutions in Mondstadt. So, if we talk to some people we know at each place, maybe we'll find what you're looking for."
+    },
+    {
+     "s": 1,
+     "t": "Hmm..."
+    },
+    {
+     "s": 3,
+     "t": "What's wrong? Something on your mind? Do you want to talk about it?"
+    },
+    {
+     "s": 1,
+     "t": "Yes. These days, I think a lot."
+    },
+    {
+     "s": 1,
+     "t": "I am not... smart. Not like teacher, not like {NICKNAME}. But... I still have to think."
+    },
+    {
+     "s": 1,
+     "t": "Everyone is ready to help, but... some things, I must do myself."
+    },
+    {
+     "s": 1,
+     "t": "I don't understand human father and mother... but I must find a way to understand."
+    },
+    {
+     "s": 1,
+     "t": "Maybe I can learn about other people's father and mother first, then think about my own father and mother."
+    },
+    {
+     "s": 1,
+     "t": "That's why I want to ask questions."
+    },
+    {
+     "s": 3,
+     "t": "That's great! Keep at it, and you'll definitely find the answer eventually."
+    },
+    {
+     "s": 1,
+     "t": "Never knew Bennett is... like me."
+    },
+    {
+     "s": 1,
+     "t": "When he talks about \"dads,\" his scent changes."
+    },
+    {
+     "s": 1,
+     "t": "Warm, like a bed of straw in the sun."
+    },
+    {
+     "sit": "Let's find more people to speak to."
+    },
+    {
+     "s": 3,
+     "t": "Yeah! We should head back into the city. Let's find a friendly face at the Church of Favonius!"
+    },
+    {
+     "s": 3,
+     "t": "Hmm, now who does Razor know best at the church..."
+    },
+    {
+     "s": 4,
+     "t": "Excuse me, I couldn't help but overhear that you're about to head back into the city. Is that right?"
+    },
+    {
+     "s": 4,
+     "t": "I'm waiting on a fruit cart from the city. It should be here now, but... I'm getting worried that something may have happened on the way, but I can't leave the festival to check up on it..."
+    },
+    {
+     "s": 4,
+     "t": "Would you be able to do me a huge favor, and keep an eye out for the cart on your way back?"
+    },
+    {
+     "s": 3,
+     "t": "Ummm... Well, if it's on the way..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, we go. I go too."
+    },
+    {
+     "s": 1,
+     "t": "Everyone helps me. Now I have chance, to help everyone."
+    },
+    {
+     "s": 4,
+     "t": "That's wonderful, thank you so much!"
+    },
+    {
+     "section": "Klee, Razor, Bennett"
+    },
+    {
+     "s": 3,
+     "t": "Huh? Where's the heck's Razor? Paimon thought he would've been here by now..."
+    },
+    {
+     "s": 3,
+     "t": "Hmm, he had a pretty big day when we last saw him... Do you think he fell asleep when he got back and is still snoozing away now?"
+    },
+    {
+     "sit": "Sounds more like something you'd do than Razor."
+    },
+    {
+     "sit": "Let's wait and see."
+    },
+    {
+     "s": 3,
+     "t": "Fair enough, you're right. Let's keep waiting."
+    },
+    {
+     "s": 3,
+     "t": "Well, since we've got some time on our hands, let's put our heads together and try to figure out that poem! Tone-Deaf Bard mentioned some ingredients, but they all sounded super abstract:"
+    },
+    {
+     "s": 3,
+     "t": "An explorer's courage, a love tender and true, a defender's will, and... the thousand winds'... \"song of good cheer\"..."
+    },
+    {
+     "s": 3,
+     "t": "Do you have any ideas?"
+    },
+    {
+     "sit": "Maybe they aren't the \"ingredients\"..."
+    },
+    {
+     "sit": "Maybe they describe the wine's \"character\"..."
+    },
+    {
+     "s": 3,
+     "t": "Yeesh, that's even more abstract! How do we go about looking for this wine's \"character\"? Where do we start?"
+    },
+    {
+     "sit": "The Adventurers' Guild, the Church of Favonius..."
+    },
+    {
+     "s": 3,
+     "t": "Huh? Are you saying that it has something to do with Mondstadt's institutions?"
+    },
+    {
+     "sit": "Yes... And as for the word \"defender\"..."
+    },
+    {
+     "sit": "It makes me think of the Knights of Favonius."
+    },
+    {
+     "s": 3,
+     "t": "Wow, that... actually makes a surprising amount of sense. So the poem wasn't talking about any specific ingredients after all? More like... the general gist?"
+    },
+    {
+     "s": 3,
+     "t": "Now that you mention it, it just so happens that all the institutions you mentioned are organizers of the Weinlesefest!"
+    },
+    {
+     "s": 3,
+     "t": "...Wait, this is way too big of a coincidence! That Tone-Deaf Bard, did he just make this all up on the spot!?"
+    },
+    {
+     "sit": "Perhaps he did... as a way of helping us to help Razor."
+    },
+    {
+     "s": 3,
+     "t": "In that case, the last part about the thousand winds' song of cheer must be code for the toasting ceremony! Ohoho, now we're cookin'! We'll crack your riddle-recipe yet, Tone-Deaf Bard!"
+    },
+    {
+     "s": 3,
+     "t": "When Razor gets here, let's visit all the places you mentioned and talk to some people we know there. We definitely should be able to find some more clues that way."
+    },
+    {
+     "s": 0,
+     "t": "Miss(Mr.) Honorary Knight! Paimon!"
+    },
+    {
+     "s": 1,
+     "t": "I'm sorry! I'm late..."
+    },
+    {
+     "s": 3,
+     "t": "That's alright, we were just chatting."
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME}'s pretty smart, so thanks to him(her), we're finally onto something!"
+    },
+    {
+     "sit": "Hello, Klee, and Razor."
+    },
+    {
+     "s": 1,
+     "t": "Hi. I was on my way, then I saw Klee."
+    },
+    {
+     "s": 0,
+     "t": "They let me out for Weinlesefest!"
+    },
+    {
+     "s": 0,
+     "t": "Albedo is super busy helping Timaeus fix his recipe for an Extra-Strong Sobriety Potion, so he doesn't have time to come play with me right now. I'm just playing by myself instead."
+    },
+    {
+     "s": 0,
+     "t": "But it's so cool! All the grown-ups in Mondstadt are out to celebrate the festival. Everyone's smiling and having loads of fun!"
+    },
+    {
+     "s": 0,
+     "t": "I wanted to join in too. So I made a whole bunch of stuff so I can celebrate with everyone in my very own way!"
+    },
+    {
+     "s": 3,
+     "t": "\"Very own way\"... Uh oh, this does not bode well coming from Klee."
+    },
+    {
+     "s": 0,
+     "t": "And that's when I bumped into Razor."
+    },
+    {
+     "sit": "Phew, so bomb crisis averted..."
+    },
+    {
+     "sit": "Great job, Razor."
+    },
+    {
+     "s": 0,
+     "t": "Razor was acting kinda different than usual, like he was thinking about something. So I asked him, \"What happened?\""
+    },
+    {
+     "s": 0,
+     "t": "And then Razor said that he was looking for his mommy!"
+    },
+    {
+     "s": 1,
+     "t": "I did not say mommy."
+    },
+    {
+     "s": 0,
+     "t": "It's okay, silly! Mommies are important people, so finding your mommy is a super important job. That's why Klee's gonna come help!"
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "*panting* Razor... Razor... finally, I found you."
+    },
+    {
+     "s": 1,
+     "t": "Bennett?"
+    },
+    {
+     "s": 2,
+     "t": "Oh, haha, look who's here! Hey, everyone."
+    },
+    {
+     "s": 2,
+     "t": "Here, this is for you."
+    },
+    {
+     "s": 3,
+     "t": "Uh... a Small Lamp Grass?"
+    },
+    {
+     "s": 2,
+     "t": "Yup, that's right. I tripped up on it this morning and took a little tumble."
+    },
+    {
+     "s": 2,
+     "t": "I did a full faceplant, but somehow, this little thing came out completely unscathed. That's when I knew it was destined to go into your wine mix!"
+    },
+    {
+     "s": 0,
+     "t": "Bennett, how did you manage to trip up on a Small Lamp Grass?"
+    },
+    {
+     "s": 3,
+     "t": "Huh, that's true. They do glow, after all..."
+    },
+    {
+     "sit": "To be fair, they only glow at night..."
+    },
+    {
+     "sit": "It doesn't help during the day."
+    },
+    {
+     "s": 0,
+     "t": "No, no, I wasn't talking about the glowing. What I meant was, they're really big and easy to spot. So I don't get how you didn't see it."
+    },
+    {
+     "s": 2,
+     "t": "Haha, ah, I was just running too fast and got careless, I guess."
+    },
+    {
+     "s": 2,
+     "t": "(Okay, I guess maybe I won't tell them about the other faceplants that came after that...)"
+    },
+    {
+     "s": 2,
+     "t": "Anyway, I've been all over the place trying to find Razor this morning. Everyone I asked told me I'd just missed him."
+    },
+    {
+     "s": 2,
+     "t": "Good thing I've caught up now, I can finally catch my breath..."
+    },
+    {
+     "sit": "What a trooper..."
+    },
+    {
+     "sit": "Definitely time to take a break..."
+    },
+    {
+     "s": 2,
+     "t": "Thanks, {NICKNAME}."
+    },
+    {
+     "s": 1,
+     "t": "How did you know... I need ingredients?"
+    },
+    {
+     "s": 2,
+     "t": "Oh, that? Yeah, interesting story."
+    },
+    {
+     "s": 2,
+     "t": "This lady came to see Master Cyrus, asking for the Adventurers' Guild's support with the Weinlesefest. Said she was the librarian. Anyway, she mentioned your situation too, and asked if we could help..."
+    },
+    {
+     "s": 3,
+     "t": "Whoa, Lisa is doing some real work for once?"
+    },
+    {
+     "s": 2,
+     "t": "Ohhh! So that was Lisa? People say she's crazy intelligent but just doesn't go out much... First time I've ever seen her."
+    },
+    {
+     "s": 2,
+     "t": "I thought long and hard about what ingredients to pick, and came up with a load of suggestions that I was gonna discuss with you..."
+    },
+    {
+     "s": 2,
+     "t": "But then I realized that Small Lamp Grass was clearly the best. It shines a light to guide the way for explorers in the dark. Doesn't that sound like a wonderful thing?"
+    },
+    {
+     "s": 1,
+     "t": "...Apologies... for the trouble."
+    },
+    {
+     "s": 2,
+     "t": "Ahh, don't gimme that! I get how you must be feeling about all of this. Besides, you gotta help out your friends, right?"
+    },
+    {
+     "s": 2,
+     "t": "If my family... uh, well, my dads ever needed help one day, I know you'd be there for me too."
+    },
+    {
+     "s": 1,
+     "t": "Yes."
+    },
+    {
+     "s": 0,
+     "t": "Can I help, too? Please, take me with you, pleeease! I wanna join in!"
+    },
+    {
+     "s": 3,
+     "t": "Klee's in high spirits today. She seems more excited by this festival than anyone."
+    },
+    {
+     "s": 1,
+     "t": "Bennett, before now... you never talk about your family."
+    },
+    {
+     "s": 2,
+     "t": "Ahh, haha, well that's because I never met my parents. I was raised by some of the older adventurers in the guild. So we're not exactly a typical family."
+    },
+    {
+     "s": 2,
+     "t": "But if you do want to hear about them, I can tell you some of my dads' stories. Hmm... okay, I'll start with the most awesome one."
+    },
+    {
+     "s": 0,
+     "t": "Aw, Bennett..."
+    },
+    {
+     "s": 0,
+     "t": "You can be Mommy's kid, just like Klee! My mom is super nice — she'll take great care of you!"
+    },
+    {
+     "s": 3,
+     "t": "Huh!?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "I really appreciate the thought, Klee. But I'm afraid I can't accept your offer..."
+    },
+    {
+     "s": 2,
+     "t": "I already have my dads and all my friends... And let's not forget that I'm the leader of Benny's Adventure Team. You don't need to worry about me."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay. I got it. Um, then have this."
+    },
+    {
+     "s": 3,
+     "t": "A Jumpy Dumpty?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! It's a lazy, dopey Jumpy Dumpty that always dozes and never explodes! I hope you guys can be best friends."
+    },
+    {
+     "s": 2,
+     "t": "...Are you sure?"
+    },
+    {
+     "s": 0,
+     "t": "Yep! Jumpy Dumpty will be happy to make a new friend, too."
+    },
+    {
+     "s": 1,
+     "t": "I... also happy for you."
+    },
+    {
+     "sit": "I still have to look for ingredients with Razor..."
+    },
+    {
+     "sit": "Why don't you two go adventuring together?"
+    },
+    {
+     "s": 3,
+     "t": "Good idea. Maybe Klee will bring Bennett some good luck, and the adventure will go smoothly. And you might just find some treasures you've never noticed before!"
+    },
+    {
+     "s": 3,
+     "t": "Of course... It's also highly possible that Klee will be the only one who gets lucky..."
+    },
+    {
+     "s": 3,
+     "t": "Still, on the flip side, Klee won't be getting into any trouble with Bennett there. And this way, she'll still get to enjoy the Weinlesefest!"
+    },
+    {
+     "s": 2,
+     "t": "Cool, don't worry about a thing! We'll look after each other."
+    },
+    {
+     "s": 0,
+     "t": "Yay! Adventure! Treasure! Weinlesefest! Let's go, let's go!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... wait, but what about Wolfie? Wolfie— uh, I mean Razor needs looking after. Honorary Knight, Paimon, you'd better take care of Razor, okay? Make sure he finds his mommy."
+    },
+    {
+     "s": 1,
+     "t": "Mm..."
+    },
+    {
+     "sit": "Leave it to us."
+    },
+    {
+     "sit": "Be careful."
+    },
+    {
+     "s": 1,
+     "t": "...Good luck."
+    },
+    {
+     "s": 2,
+     "t": "See ya later, folks."
+    },
+    {
+     "s": 3,
+     "t": "Ah, it's so nice to see everyone in such a good mood."
+    },
+    {
+     "s": 3,
+     "t": "Oh...! Paimon almost forgot the whole reason we came here!"
+    },
+    {
+     "s": 3,
+     "t": "Razor, {NICKNAME} and Paimon were just chatting about the ingredients Venti mentioned in his poem. We think that they're actually a description of the wine's characteristics."
+    },
+    {
+     "s": 3,
+     "t": "Plus, it seems like each of them means something special to one of the three big institutions in Mondstadt. So, if we talk to some people we know at each place, maybe we'll find what you're looking for."
+    },
+    {
+     "s": 1,
+     "t": "Hmm..."
+    },
+    {
+     "s": 3,
+     "t": "What's wrong? Something on your mind? Do you want to talk about it?"
+    },
+    {
+     "s": 1,
+     "t": "Yes. These days, I think a lot."
+    },
+    {
+     "s": 1,
+     "t": "I am not... smart. Not like teacher, not like {NICKNAME}. But... I still have to think."
+    },
+    {
+     "s": 1,
+     "t": "Everyone is ready to help, but... some things, I must do myself."
+    },
+    {
+     "s": 1,
+     "t": "I don't understand human father and mother... but I must find a way to understand."
+    },
+    {
+     "s": 1,
+     "t": "Maybe I can learn about other people's father and mother first, then think about my own father and mother."
+    },
+    {
+     "s": 1,
+     "t": "That's why I want to ask questions."
+    },
+    {
+     "s": 3,
+     "t": "That's great! Keep at it, and you'll definitely find the answer eventually."
+    },
+    {
+     "s": 1,
+     "t": "Never knew Bennett is... like me."
+    },
+    {
+     "s": 1,
+     "t": "When he talks about \"dads,\" his scent changes."
+    },
+    {
+     "s": 1,
+     "t": "Warm, like a bed of straw in the sun."
+    },
+    {
+     "sit": "Let's find more people to speak to."
+    },
+    {
+     "s": 3,
+     "t": "Yeah! We should head back into the city. Let's find a friendly face at the Church of Favonius!"
+    },
+    {
+     "s": 3,
+     "t": "Hmm, now who does Razor know best at the church..."
+    },
+    {
+     "s": 4,
+     "t": "Excuse me, I couldn't help but overhear that you're about to head back into the city. Is that right?"
+    },
+    {
+     "s": 4,
+     "t": "I'm waiting on a fruit cart from the city. It should be here now, but... I'm getting worried that something may have happened on the way, but I can't leave the festival to check up on it..."
+    },
+    {
+     "s": 4,
+     "t": "Would you be able to do me a huge favor, and keep an eye out for the cart on your way back?"
+    },
+    {
+     "s": 3,
+     "t": "Ummm... Well, if it's on the way..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, we go. I go too."
+    },
+    {
+     "s": 1,
+     "t": "Everyone helps me. Now I have chance, to help everyone."
+    },
+    {
+     "s": 4,
+     "t": "That's wonderful, thank you so much!"
+    },
+    {
+     "section": "Razor"
+    },
+    {
+     "s": 1,
+     "t": "*sniff*... This way."
+    },
+    {
+     "s": 3,
+     "t": "Oh! Paimon sees the cart, but what are these hilichurls doing here!? Do they want some fresh fruit now, too?"
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME}, to the rescue!"
+    },
+    {
+     "section": "Marcel"
+    },
+    {
+     "s": 4,
+     "t": "We're going through a ton of fruit this Weinlesefest... I really need that cart to get here safely."
+    },
+    {
+     "section": "Razor, Rosaria"
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Whew, finally. These hilichurls are a little too obsessed with food for their own good... But never mind that, are you okay? Did they hurt you?"
+    },
+    {
+     "s": 5,
+     "t": "Phew... I'm fine, thanks to you. You were just in time. Any later, and all you'd have found here is a pile of pulp... and I don't think there'd be much left of the fruit, either."
+    },
+    {
+     "sit": "They're still waiting for you at the festival."
+    },
+    {
+     "sit": "Keep your eyes peeled on the road."
+    },
+    {
+     "s": 5,
+     "t": "Got it. Well, thanks again! I'd better not delay this delivery any longer, so goodbye and Happy Weinlesefest!"
+    },
+    {
+     "s": 5,
+     "t": "Thanks to you, too, kiddo."
+    },
+    {
+     "s": 1,
+     "t": "Mm."
+    },
+    {
+     "sit": "What is it, Razor?"
+    },
+    {
+     "sit": "You seem a little..."
+    },
+    {
+     "s": 1,
+     "t": "Enemy following."
+    },
+    {
+     "s": 6,
+     "t": "\"Enemy\"? Heh, I think we're a little closer than that."
+    },
+    {
+     "s": 6,
+     "t": "On some level, you could even say that we're brother and sister."
+    },
+    {
+     "s": 3,
+     "t": "Rosaria! What the heck are you doing here?"
+    },
+    {
+     "s": 3,
+     "t": "Wait... Actually, turning up at random places is pretty normal for you..."
+    },
+    {
+     "s": 3,
+     "t": "Okay, next question: What the heck do you mean \"brother and sister\"?"
+    },
+    {
+     "s": 6,
+     "t": "Varka taught you how to use that sword, I take it? Swift but powerful. Heh, I can spot that old-timer's style anywhere."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "I see you're not much of a talker. Well, there's something else you could learn from Varka. Never lost for words, even when he has nothing to say... It'd be good conversation practice for you. Just a shame we have no idea when he'll be back."
+    },
+    {
+     "s": 1,
+     "t": "It's okay. I will wait."
+    },
+    {
+     "s": 3,
+     "t": "Brother and sister...? Varka...?"
+    },
+    {
+     "s": 3,
+     "t": "Oh! Paimon gets it. Varka is a father figure to both of them, so that makes them family — just not by blood."
+    },
+    {
+     "s": 6,
+     "t": "Well, blood relations are overrated anyway, don't you think?"
+    },
+    {
+     "sit": "I think the bond of blood is a strong one."
+    },
+    {
+     "sit": "...Hard to say."
+    },
+    {
+     "s": 6,
+     "t": "Ah, I almost forgot. You have a sister(brother)."
+    },
+    {
+     "s": 1,
+     "t": "Cold, dark grown-up... You also don't remember what your real mother and real father look like?"
+    },
+    {
+     "s": 6,
+     "t": "Huh... So you're helping him dig up some info on his biological parents? And trying to help him build a concept of family along the way?"
+    },
+    {
+     "sit": "You could say that."
+    },
+    {
+     "sit": "Just gathering some reference material."
+    },
+    {
+     "s": 6,
+     "t": "Alright, you got me."
+    },
+    {
+     "s": 6,
+     "t": "I barely have any memories of my birth parents... The last time I saw them was long before I had any understanding of the world around me."
+    },
+    {
+     "s": 6,
+     "t": "But that seems pretty common. Even in this day and age, there are plenty of people in the world who can't stop thinking about their families, but will never get to see them."
+    },
+    {
+     "s": 6,
+     "t": "Anyway, if you're never gonna meet someone, it's not worth spending mental energy on them. It's more important to focus on the kind of person you want to become."
+    },
+    {
+     "s": 1,
+     "t": "No! You are wrong about this."
+    },
+    {
+     "s": 1,
+     "t": "Lupical protect each other. Human family also important. Must care about them."
+    },
+    {
+     "s": 6,
+     "t": "...Fine. So let's say you do find out who your parents were, and they were saints. Or the opposite, they were complete monsters. What then?"
+    },
+    {
+     "s": 6,
+     "t": "How would that affect your life choices? What would you do about it?"
+    },
+    {
+     "s": 1,
+     "t": "Ummm..."
+    },
+    {
+     "s": 3,
+     "t": "Whew, Rosaria's take is a little on the nose... That's a hard one for Razor to answer."
+    },
+    {
+     "sit": "But it's normal to be curious."
+    },
+    {
+     "sit": "The urge to know is understandable."
+    },
+    {
+     "s": 6,
+     "t": "Don't get me wrong, I'm not trying to make this any more difficult than it already is. But Razor's feeling lost and confused right now, and all the other Mondstadters we know are too sunny and bright to tell it like it really is..."
+    },
+    {
+     "s": 6,
+     "t": "...The sun nurtures many good things, but it can't do anything about the problems lurking in the shadows."
+    },
+    {
+     "s": 3,
+     "t": "Wow, Rosaria..."
+    },
+    {
+     "s": 6,
+     "t": "Alright, I'll leave it there. Take this flower, it's icy cold — just like me."
+    },
+    {
+     "s": 6,
+     "t": "Barbara's busy preparing the sung poetry event for the Weinlesefest. She couldn't get away, so I picked an ingredient out on behalf of the church."
+    },
+    {
+     "s": 3,
+     "t": "But can we really use a Mist Flower? Won't it freeze the entire barrel?"
+    },
+    {
+     "s": 6,
+     "t": "No, not now that I've dealt with it. The bard did say to think \"freedom,\" didn't he? So go on, take it. It won't be a problem."
+    },
+    {
+     "s": 3,
+     "t": "Aw, Rosaria, you're more thoughtful than Paimon realized..."
+    },
+    {
+     "s": 3,
+     "t": "...Uh, wait, you heard the bard say that? Were you spying on us!?"
+    },
+    {
+     "s": 1,
+     "t": "Thank you..."
+    },
+    {
+     "s": 6,
+     "t": "Don't mention it. It's nothing. Varka's been a big help to me in the past, so just consider it returning a favor. Besides... if I'm your older sister, I might as well act like it."
+    },
+    {
+     "s": 6,
+     "t": "Good luck finding your answers."
+    },
+    {
+     "s": 3,
+     "t": "Now you see her, now you don't... Paimon's slowly getting used to her style."
+    },
+    {
+     "s": 3,
+     "t": "Oh well, as \"love tender and true\" goes, that was pretty awkward, but... still counts, right? Now all that's left is the Knights of Favonius."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Razor, are you still thinking about what Rosaria said?"
+    },
+    {
+     "s": 1,
+     "t": "Her words, are like Mist Flower. They are cold, and they sting."
+    },
+    {
+     "s": 1,
+     "t": "But cold also good for wounds. Like Wolfhook."
+    },
+    {
+     "s": 1,
+     "t": "I need to, think about it. Maybe then, I will understand."
+    },
+    {
+     "sit": "It'll take some time, there's no need to rush it."
+    },
+    {
+     "sit": "We'll wait for you."
+    },
+    {
+     "s": 1,
+     "t": "Okay."
+    },
+    {
+     "s": 1,
+     "t": "I will come with you. I think while we walk."
+    },
+    {
+     "section": "Lisa, Kaeya"
+    },
+    {
+     "s": 7,
+     "t": "...So you see, you're the best person for this."
+    },
+    {
+     "s": 8,
+     "t": "Oho, just in time. Lisa and I were just talking about Razor's situation."
+    },
+    {
+     "s": 8,
+     "t": "Where were we... Ah, yes, the barrel!"
+    },
+    {
+     "s": 3,
+     "t": "Huh!? But obviously, the knights part is supposed to be \"a defender's will.\" But what kind of ingredient is a barrel?"
+    },
+    {
+     "sit": "Obviously that's not what he meant."
+    },
+    {
+     "sit": "Seems entirely reasonable to me."
+    },
+    {
+     "s": 3,
+     "t": "Oh... F—Fair enough..."
+    },
+    {
+     "s": 7,
+     "t": "Hehe... Oh, Paimon, don't worry, you'll get your ingredient. I've already tasked someone with sorting it out."
+    },
+    {
+     "s": 7,
+     "t": "The person is very conscientious, and wants to properly research their contribution. So it may take some time, but hopefully it'll be worth the wait."
+    },
+    {
+     "s": 7,
+     "t": "As for the barrel... how else were you planning on mixing all the ingredients? Surely not in the giant cooking pot at Dadaupa Gorge?"
+    },
+    {
+     "sit": "Ah, the memories..."
+    },
+    {
+     "sit": "That would be a \"Suspicious Thousand-Wind Wine\"..."
+    },
+    {
+     "s": 7,
+     "t": "After much deliberation, I realized this was a job for the most sociable and savviest member in our ranks, the Cavalry Captain. So I asked him to take a trip to the Dawn Winery, and somehow bring back a wine barrel."
+    },
+    {
+     "s": 8,
+     "t": "*sigh* Alright, spare me the flattery, Lisa. We're all friends here, and I know you're only trying to help your student."
+    },
+    {
+     "s": 8,
+     "t": "...But I haven't been back there in a long time. This could be quite difficult to accomplish in just a single trip."
+    },
+    {
+     "s": 7,
+     "t": "Difficult? For you? Don't be silly, negotiating is your biggest strength."
+    },
+    {
+     "s": 7,
+     "t": "Weinlesefest is one of the most important festivals in Mondstadt, and you know how Diluc thinks better than anyone."
+    },
+    {
+     "s": 7,
+     "t": "Just drop a few little hints, like how this is the first festival Mondstadt has had in a long time, we're short on much-needed supplies for a multitude of reasons... Oh, who can help us?"
+    },
+    {
+     "s": 7,
+     "t": "When he hears that, I guarantee you he'll offer to help out with finances and sourcing goods."
+    },
+    {
+     "s": 3,
+     "t": "Lisa's literally trying to extort Master Diluc!"
+    },
+    {
+     "s": 8,
+     "t": "Hmm... I suppose. Alright, I'll head out right away."
+    },
+    {
+     "s": 3,
+     "t": "Wow, he didn't take much persuading!"
+    },
+    {
+     "s": 3,
+     "t": "Ugh, and Paimon was just about to thank Lisa for the things she's been doing for Razor behind the scenes..."
+    },
+    {
+     "s": 3,
+     "t": "Paimon doesn't even know whose side to be on anymore..."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME} and teacher, did a lot for me. A lot of work."
+    },
+    {
+     "s": 1,
+     "t": "But me... I still can't answer questions. So useless."
+    },
+    {
+     "s": 7,
+     "t": "Dear me, what's gotten you so upset, my little wolf cub? We can't have you being so down in the dumps."
+    },
+    {
+     "sit": "Some questions, he can't stop thinking about."
+    },
+    {
+     "sit": "Maybe an information overload."
+    },
+    {
+     "s": 7,
+     "t": "Ah, I see."
+    },
+    {
+     "s": 7,
+     "t": "Hmm. Cutie, how about you keep Kaeya company while I stay here and help Razor process his feelings? As his teacher, I owe him some tutelage anyway."
+    },
+    {
+     "s": 7,
+     "t": "Come and collect him in a few days' time. The last ingredient should be ready by then as well."
+    },
+    {
+     "s": 8,
+     "t": "Splendid. I was just thinking about how nice it would be to have some company on my trip."
+    },
+    {
+     "s": 1,
+     "t": "I don't know what is right, but I trust Teacher. I accept."
+    },
+    {
+     "sit": "It's a plan then."
+    },
+    {
+     "sit": "Lisa, you're a godsend. Thank you."
+    },
+    {
+     "s": 7,
+     "t": "Run along now, and don't forget to tell Diluc that the Knights of Favonius send our regards."
+    },
+    {
+     "section": "Razor, Lisa"
+    },
+    {
+     "s": 1,
+     "t": "My heart, feels like, rotten berries. So sour."
+    },
+    {
+     "s": 1,
+     "t": "I don't understand what I should do..."
+    },
+    {
+     "s": 7,
+     "t": "Aw, alright. I'll teach you a very special magic trick that can make all your troubles disappear in the blink of an eye."
+    },
+    {
+     "s": 7,
+     "t": "But before we do that, let's warm up with something a little bit easier, hmm? Let's practice some talking."
+    },
+    {
+     "s": 7,
+     "t": "That way, the next time somebody helps you, or you have a different opinion from the rest of the group, you'll be able to express what you think clearly and precisely."
+    },
+    {
+     "s": 1,
+     "t": "Okay!"
+    },
+    {
+     "s": 1,
+     "t": "I will do my best."
+    },
+    {
+     "section": "Diluc, Kaeya, Adelinde"
+    },
+    {
+     "s": 3,
+     "t": "Hi there, Master Diluc!"
+    },
+    {
+     "s": 9,
+     "t": "Oh? I was just wondering who'd be coming all the way out here during the Weinlesefest. So it's you two."
+    },
+    {
+     "s": 9,
+     "t": "...And you, too."
+    },
+    {
+     "s": 8,
+     "t": "Brrr, so cold. Almost enough to make me feel unwelcome here, Master Diluc."
+    },
+    {
+     "s": 8,
+     "t": "Don't forget that this is my home, too. I'm fairly certain that taking a trip home during festival season is a universal custom, common to all the cultures of Teyvat."
+    },
+    {
+     "s": 9,
+     "t": "Please get to the point."
+    },
+    {
+     "s": 8,
+     "t": "The point is one that you've already raised yourself: the Weinlesefest."
+    },
+    {
+     "s": 8,
+     "t": "To celebrate this long-awaited festival, the Acting Grand Master has been coordinating with both the church and the Adventurers' Guild to host a series of events."
+    },
+    {
+     "s": 8,
+     "t": "Unfortunately, given the financial situation of the Knights of Favonius... Well, I'm sure you can imagine..."
+    },
+    {
+     "s": 9,
+     "t": "And the Knights of Favonius's woes have what, exactly, to do with me?"
+    },
+    {
+     "s": 8,
+     "t": "Hey, no need to be so cruel. Even I'm not going to take that. Everyone's just doing the best they can for Mondstadt."
+    },
+    {
+     "s": 8,
+     "t": "Now, I can't remember the last time I tasted Dawn Winery's Weinlesefest special... And I'm sure the Mondstadt populace would echo this sentiment."
+    },
+    {
+     "s": 8,
+     "t": "Are you going to deny others the opportunity to drink to their hearts' content just because you don't like to drink yourself?"
+    },
+    {
+     "s": 3,
+     "t": "Check it out, Kaeya's not-so-subtly asking for freebies... He's actually doing it..."
+    },
+    {
+     "sit": "What a guy."
+    },
+    {
+     "s": 8,
+     "t": "Anyway, speaking of the knights, everyone dearly hopes that you'll rejoin our ranks again one day. Then we'll be one big, happy family again."
+    },
+    {
+     "s": 8,
+     "t": "If we were able to enjoy the sterling reputation of Master Diluc, my... I'm sure people would be queuing for our charity booth all the way to Falcon Coast..."
+    },
+    {
+     "s": 9,
+     "t": "...Hmph."
+    },
+    {
+     "s": 9,
+     "t": "Give that silver tongue of yours a rest. You might need it to maintain public order at the festival."
+    },
+    {
+     "s": 9,
+     "t": "Duly noted on the financial issues you raised. I'll have Elzer follow up with Hertha in more detail."
+    },
+    {
+     "s": 9,
+     "t": "And I just so happen to have a batch of wine that I can offer as a token of appreciation to everyone that has been working so hard for the festival."
+    },
+    {
+     "s": 9,
+     "t": "Shall I address it to you personally?"
+    },
+    {
+     "s": 8,
+     "t": "That would be an absurd request, even for me. The words \"with compliments from the Dawn Winery\" ought never be preceded by \"To the Cavalry Captain.\" Is that not the unwritten rule?"
+    },
+    {
+     "s": 9,
+     "t": "You're better informed than I thought. In that case, I will leave this with Adelinde and keep everything anonymous."
+    },
+    {
+     "s": 8,
+     "t": "I really can't thank you enough."
+    },
+    {
+     "s": 3,
+     "t": "Master Diluc is so generous! That's all Paimon needs to get that warm, fuzzy feeling... which is just as well, since she won't be allowed to drink a drop."
+    },
+    {
+     "s": 9,
+     "t": "Are you two here regarding the Weinlesefest, too?"
+    },
+    {
+     "sit": "Actually, we're here about Razor..."
+    },
+    {
+     "sit": "We need a barrel..."
+    },
+    {
+     "sit": "You tell Diluc that you're helping Razor to make Thousand-Wind Wine..."
+    },
+    {
+     "s": 8,
+     "t": "Poor Razor. He grew up so fast, and he's still looking for his father. Master Diluc, we really ought to lend him a hand."
+    },
+    {
+     "s": 3,
+     "t": "How come Klee said he's looking for his mom, but Kaeya says he's looking for his dad...? It might make more sense to them, but it's gonna get confusing for everyone else!"
+    },
+    {
+     "s": 9,
+     "t": "It's okay. I understand."
+    },
+    {
+     "s": 9,
+     "t": "We have a spare barrel in the winery. It's a little old, but it's been specially treated for durability. You could leave it next to a Flaming Flower all day and there wouldn't be a scratch. I think that one should satisfy your needs."
+    },
+    {
+     "s": 3,
+     "t": "Sounds great, we'll take it! When can we come fetch it?"
+    },
+    {
+     "s": 9,
+     "t": "No need. I'll have someone deliver it to the festival market. Just collect it from the Angel's Share stand."
+    },
+    {
+     "s": 3,
+     "t": "Ah, you always make things so nice and easy for us, Master Diluc! Hehe, thanks a lot. Razor will really appreciate it."
+    },
+    {
+     "s": 9,
+     "t": "You're more than welcome. Helping each other is what friends do."
+    },
+    {
+     "s": 8,
+     "t": "Wonderful. Always eager to help, and never forgets to return a favor. That's the Master Diluc I know."
+    },
+    {
+     "s": 9,
+     "t": "...It's nearly dinner time. Would you care to stay for a meal?"
+    },
+    {
+     "s": 8,
+     "t": "How time flies... I'll be on my way, then..."
+    },
+    {
+     "s": 9,
+     "t": "Hmph."
+    },
+    {
+     "s": 10,
+     "t": "How did you put it? Ah, yes: \"Taking a trip home during festival season is a universal custom, common to all the cultures of Teyvat.\" Now that even Master Diluc has made an offer... Are you quite sure you won't stay for a meal after coming all this way, Master Kaeya?"
+    },
+    {
+     "s": 8,
+     "t": "I couldn't possibly, Adelinde. I wouldn't want to trouble you."
+    },
+    {
+     "s": 10,
+     "t": "Oh, don't say that. How often do I get a chance to indulge my dear Master Kaeya, hmm? Tea for the Cavalry Captain when you visit in an official capacity doesn't count. I only get to spoil you if you'll let me cook for you."
+    },
+    {
+     "s": 8,
+     "t": "Oh, uh..."
+    },
+    {
+     "s": 9,
+     "t": "What happened to your swagger? Lost for words?"
+    },
+    {
+     "s": 8,
+     "t": "...Ahaha... Diluc, you—"
+    },
+    {
+     "s": 9,
+     "t": "Surely you wouldn't dream of disappointing Adelinde?"
+    },
+    {
+     "sit": "The more the merrier."
+    },
+    {
+     "s": 8,
+     "t": "...Alright then. I'll take you up on the offer. Adelinde, one more set of cutlery, please, if you'd be so kind."
+    },
+    {
+     "sit": "The group dines to the sound of Kaeya's jesting and Diluc's disapproving grunts..."
+    },
+    {
+     "s": 3,
+     "t": "Oof, Paimon's so full... Adelinde's cooking is amazing. Everything looked and tasted so beautiful."
+    },
+    {
+     "sit": "Thank you for your hospitality."
+    },
+    {
+     "sit": "I enjoyed it as well."
+    },
+    {
+     "s": 9,
+     "t": "Glad you liked it. You're welcome to join again anytime."
+    },
+    {
+     "s": 8,
+     "t": "Oh? Then I may have to tag along on {NICKNAME}'s adventures more often in the future."
+    },
+    {
+     "s": 3,
+     "t": "Ugh, Kaeya's back to his usual ways."
+    },
+    {
+     "s": 8,
+     "t": "Alright, now that our task is complete and our bellies are full, it's time for me to get back to work."
+    },
+    {
+     "s": 10,
+     "t": "Take care, Master Kaeya. Have a safe trip back."
+    },
+    {
+     "s": 3,
+     "t": "We should get going as well. Lisa's taking care of Razor, but the Weinlesefest can't do without us."
+    },
+    {
+     "s": 3,
+     "t": "See you next time, Master Diluc!"
+    },
+    {
+     "s": 9,
+     "t": "Indeed. Goodbye."
+    },
+    {
+     "section": "Diluc"
+    },
+    {
+     "s": 9,
+     "t": "Family, huh..."
+    },
+    {
+     "s": 9,
+     "t": "..."
+    },
+    {
+     "s": 9,
+     "t": "Don't mind me. You should probably head back and get some rest."
+    },
+    {
+     "s": 9,
+     "t": "I'm not the most familiar with Razor, but you can contact me if you ever need help."
+    },
+    {
+     "section": "Adelinde"
+    },
+    {
+     "s": 10,
+     "t": "It's been a long time since I last saw Masters Diluc and Kaeya sharing a meal together. The atmosphere was... ahem, was not something that a maid of my lowly stature should be commenting on."
+    },
+    {
+     "s": 10,
+     "t": "{NICKNAME}, thank you so much for visiting. I hope to see you again soon."
+    }
+   ],
+   "description": "Razor decides to make some Thousand-Wind Wine personally to better understand his human parents. However, which ingredients, specifically, was Venti’s song referring to?"
+  }
+ ],
+ "speakers": [
+  "Klee",
+  "Razor",
+  "Bennett",
+  "Paimon",
+  "Marcel",
+  "Rolf",
+  "Rosaria",
+  "Lisa",
+  "Kaeya",
+  "Diluc",
+  "Adelinde"
+ ]
+}

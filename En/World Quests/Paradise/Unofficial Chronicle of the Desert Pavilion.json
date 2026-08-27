@@ -1,0 +1,646 @@
+{
+ "chapter": "Paradise",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Unofficial Chronicle of the Desert Pavilion",
+ "region": null,
+ "quests": [
+  {
+   "title": "Unofficial Chronicle of the Desert Pavilion",
+   "dialogue": [
+    {
+     "section": "Venipi"
+    },
+    {
+     "s": 0,
+     "t": "You people... I've not seen you around before. Are there really still newcomers showing up now?"
+    },
+    {
+     "s": 0,
+     "t": "But since Dex is with you, I suppose you're backup. My name is Venipi, and I come from an era when King Deshret's divine form still walked among us."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's the name, and this is {NICKNAME}. And our team's got one more member, Zeitlind."
+    },
+    {
+     "s": 1,
+     "t": "We're probably what you consider people from the most recent era."
+    },
+    {
+     "s": 0,
+     "t": "Zeitlind... Would you happen to have an older sister, by any chance?"
+    },
+    {
+     "s": 2,
+     "t": "Do you know my sister too?"
+    },
+    {
+     "s": 0,
+     "t": "Of course. Here, everyone is friends with everyone. It matters little what station they occupied in their former life."
+    },
+    {
+     "s": 0,
+     "t": "In my day, I was a nobody, just one of many working on King Deshret's mausoleum."
+    },
+    {
+     "s": 0,
+     "t": "I was traveling in the desert one day when I was suddenly plucked from the sands and thrown into the Apathic Interval, where I was for... I want to say less than a hundred years?"
+    },
+    {
+     "s": 0,
+     "t": "Then, once I left and came here, I found the place full of ancients, some from times preceding even King Deshret himself. But we all got along just the same."
+    },
+    {
+     "s": 0,
+     "t": "Later on, the sisters of the deity here told me they hadn't plucked any desert buildings, and asked that I reconstruct them from memory."
+    },
+    {
+     "s": 0,
+     "t": "It was only with everyone's help that we managed to build this place at all. But now... look at these ruins."
+    },
+    {
+     "s": 1,
+     "t": "You know, speaking of which, Paimon has a question. Those sand statues out there... are those, um... artworks from your era? You know, from back in King Deshret's day?"
+    },
+    {
+     "s": 2,
+     "t": "Perhaps they were created to serve as a reminder of the impermanence of the physical body and life itself...?"
+    },
+    {
+     "s": 0,
+     "t": "...You truly are different from your sister. You must really enjoy reading, like the others."
+    },
+    {
+     "s": 0,
+     "t": "Those are people — all of them. They were punished by being turned into sand."
+    },
+    {
+     "s": 1,
+     "t": "Whoa!"
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, they're all still alive. Death does not exist here. They'll be restored once the problem here is resolved."
+    },
+    {
+     "s": 1,
+     "t": "Oh, wait — didn't you say that whoever saved you would get that coin King Deshret gave you as a reward?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon bets it's worth a lot of Mora!"
+    },
+    {
+     "s": 0,
+     "t": "Haha, I'm not handing it over! It's my lucky charm! Besides, it's the only thing I have left to remind me of my old life."
+    },
+    {
+     "s": 1,
+     "t": "Pfft. Since it's so important to you... Alright, guess we'll be super nice and not press you for payment."
+    },
+    {
+     "s": 0,
+     "t": "Ugh, we've been chatting for too long! Looks like it's here!"
+    },
+    {
+     "s": 0,
+     "t": "We don't have time to stand around talking. Are you at least at the level of a novice Remurian Centurion?"
+    },
+    {
+     "s": 1,
+     "t": "There we go again! Paimon doesn't even know what kind of standard this is supposed to be..."
+    },
+    {
+     "section": "Venipi"
+    },
+    {
+     "s": 0,
+     "t": "Oof, that was quite something. You're easily at the level of a high-ranking Centurion!"
+    },
+    {
+     "sit": "Didn't you have your own hierarchy back in King Deshret's day?"
+    },
+    {
+     "s": 0,
+     "t": "Well, those scholars at the Mahavaipulya Archives have read enough books that their combat assessments actually hold some weight."
+    },
+    {
+     "s": 0,
+     "t": "Ah, it's nice to be so well read."
+    },
+    {
+     "s": 0,
+     "t": "For instance..."
+    },
+    {
+     "s": 0,
+     "t": "On average, the knights serving under Erinnyes could take on three standard Remurian Centurions at once, though they're half a rank below Erinnyes."
+    },
+    {
+     "s": 0,
+     "t": "Medjay, who served the Crocodile King, wasn't considered exactly an elite fighter, but was highly adept at dealing with monsters. So in terms of rough power level..."
+    },
+    {
+     "s": 1,
+     "t": "Alright, alright, let's go save your friends first!"
+    },
+    {
+     "sit": "But I wanna know more."
+    },
+    {
+     "s": 1,
+     "t": "We can talk about that later!"
+    },
+    {
+     "section": "Vitruvius"
+    },
+    {
+     "s": 3,
+     "t": "Venipi! You're still alive! How wonderful to see you!"
+    },
+    {
+     "s": 3,
+     "t": "Of course I know that death is not possible here. What I mean is, I'm so glad you didn't turn into sand."
+    },
+    {
+     "s": 3,
+     "t": "Anyway, you know what I mean."
+    },
+    {
+     "s": 0,
+     "t": "I do."
+    },
+    {
+     "s": 3,
+     "t": "And thanks to all of you, and Dex too."
+    },
+    {
+     "s": 2,
+     "t": "I didn't do a thing."
+    },
+    {
+     "sit": "Venipi introduces you all to Vitruvius and recounts what just happened..."
+    },
+    {
+     "s": 3,
+     "t": "Incredible — your strength exceeds even that of a typical Chief Centurion!"
+    },
+    {
+     "s": 1,
+     "t": "Now, even Paimon's kinda interested to see how you actually stack up in that system."
+    },
+    {
+     "sit": "Oh yeah?"
+    },
+    {
+     "s": 3,
+     "t": "In that case, I'll take you to the others."
+    },
+    {
+     "s": 3,
+     "t": "After all, Venipi only provided the pattern work and motifs from King Deshret's times. I was the one responsible for the main layout and pathways in this area."
+    },
+    {
+     "s": 0,
+     "t": "That's right. While this may look like a building from some gilded age, it's really the result of everyone's knowledge."
+    },
+    {
+     "section": "Vitruvius"
+    },
+    {
+     "s": 3,
+     "t": "Don't come any closer!"
+    },
+    {
+     "s": 3,
+     "t": "It might be a bit self-indulgent to worry about my own epitaph. You probably think me ridiculous, but I've actually already decided what mine will be."
+    },
+    {
+     "s": 3,
+     "t": "\"Please, tell my love in Patraipolis that——\""
+    },
+    {
+     "s": 1,
+     "t": "Vitruvius!"
+    },
+    {
+     "s": 2,
+     "t": "...He turned into sand even before he was done speaking."
+    },
+    {
+     "s": 0,
+     "t": "Ah, I'm hopeless — I'm actually fighting the urge to chuckle out loud at this sad juncture. He's going to be so mortified once he stops being sand."
+    },
+    {
+     "s": 2,
+     "t": "That's a rather optimistic take on the situation."
+    },
+    {
+     "s": 0,
+     "t": "We have a choice to make. Do we deal with that guard first? Or search for survivors for as long as we can?"
+    },
+    {
+     "section": "Kshama"
+    },
+    {
+     "s": 4,
+     "t": "Venipi! Dex! And Raumhilda and our new friends! Thank you all!"
+    },
+    {
+     "s": 2,
+     "t": "...I'm her younger sister Zeitlind."
+    },
+    {
+     "s": 4,
+     "t": "I see. The two of you look so much alike, and oh so pretty. My name is Kshama, and I come from... Ah, what was I going to say?"
+    },
+    {
+     "s": 4,
+     "t": "I see. The two of you look so much alike, and oh so pretty. My name is Kshama, and I come from Greater Lord Rukkhadevata's era."
+    },
+    {
+     "s": 4,
+     "t": "The era in which the Dendro Archon had yet to become a child."
+    },
+    {
+     "sit": "Venipi introduces Kshama, and Vitruvius's tragic circumstances are revealed..."
+    },
+    {
+     "sit": "They also speak of the epitaph he took thousands of years to come up with."
+    },
+    {
+     "s": 4,
+     "t": "That is beyond absurd."
+    },
+    {
+     "s": 0,
+     "t": "If I hadn't told you, you would never have known."
+    },
+    {
+     "s": 4,
+     "t": "Now that you have, it's going to be hard for me to look Vitruvius in the eye without laughing."
+    },
+    {
+     "s": 0,
+     "t": "Alright, enough small talk. We've come all this way, and it doesn't look like we've missed anything."
+    },
+    {
+     "s": 0,
+     "t": "Is there anyone else?"
+    },
+    {
+     "s": 4,
+     "t": "I'm afraid not."
+    },
+    {
+     "s": 0,
+     "t": "Then how about how we can stop folks from turning into sand? Any ideas?"
+    },
+    {
+     "s": 4,
+     "t": "We didn't manage to learn much from exploring earlier. After all, no one here at the Desert Pavilion is well-versed in the mystic arts or the sciences."
+    },
+    {
+     "s": 4,
+     "t": "So, it seems we're back to the only known method: defeating the Punisher of Gomorrah."
+    },
+    {
+     "s": 0,
+     "t": "That you need not worry about. We have {NICKNAME}, who has the strength of a Remurian Tribune."
+    },
+    {
+     "s": 2,
+     "t": "Looks like someone's been promoted again."
+    },
+    {
+     "s": 4,
+     "t": "But there's no way to find the Punisher of Gomorrah. It has hidden its form."
+    },
+    {
+     "s": 0,
+     "t": "That is a problem, yes."
+    },
+    {
+     "s": 1,
+     "t": "You know, it wasn't easy getting everyone out. How about we leave this place first and get back to the main hall?"
+    },
+    {
+     "s": 1,
+     "t": "Istoria and Josephus are there too. They seem rather knowledgeable, so maybe they know a way."
+    },
+    {
+     "s": 4,
+     "t": "Oh, Istoria's safe too? That's really good to know. He's the most experienced of us all, and is always open to learning new things."
+    },
+    {
+     "s": 4,
+     "t": "If we're talking about anecdotes, history, and culture, he's probably the most knowledgeable person in this world."
+    },
+    {
+     "s": 0,
+     "t": "Then let's go now. The earlier we get back, the earlier we can figure this out and save Vitruvius and the rest!"
+    },
+    {
+     "section": "Zeitlind"
+    },
+    {
+     "s": 1,
+     "t": "Where are we? Is it all over?"
+    },
+    {
+     "s": 3,
+     "t": "That's right, it's all over, and everyone's been restored."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "What is it? Why are you worrying your lips like that? Are you so moved at seeing me that you have to keep yourselves from crying?"
+    },
+    {
+     "s": 4,
+     "t": "AHAHAHAHAHAHAHAHAHAHAHAHA!"
+    },
+    {
+     "s": 0,
+     "t": "Ahahaha... K—Kshama, stop... don't laugh... You're going to... give the joke away!"
+    },
+    {
+     "s": 3,
+     "t": "Laugh all you want. I'm only a little embarrassed."
+    },
+    {
+     "s": 3,
+     "t": "Love is fate, as is death — and neither is a laughing matter!"
+    },
+    {
+     "s": 0,
+     "t": "Fine, fine. No more laughing."
+    },
+    {
+     "s": 1,
+     "t": "Oh, where's Zeitlind, by the way?"
+    },
+    {
+     "s": 3,
+     "t": "I've no idea. I was standing outside with everyone else. They were still in each other's arms a moment ago."
+    },
+    {
+     "s": 3,
+     "t": "I told little Scarpa to stop and get everyone back to the main hall. Then I left them and came over to you."
+    },
+    {
+     "s": 3,
+     "t": "Everyone should still be somewhere around here. In which case, she can't have gone very far yet."
+    },
+    {
+     "s": 2,
+     "t": "This is..."
+    },
+    {
+     "s": 1,
+     "t": "...An amethyst brooch."
+    },
+    {
+     "s": 2,
+     "t": "It belongs to my older sister, and was one of the things in my suitcase that I lost."
+    },
+    {
+     "s": 1,
+     "t": "Ah, got it now! Nice, that's one taken care of."
+    },
+    {
+     "s": 0,
+     "t": "It must have been placed here as an exhibit from this era."
+    },
+    {
+     "s": 3,
+     "t": "Actually, the reason I started thinking about what to write on my epitaph is because your sister asked about it. Those words weren't exactly things I've been holding in for thousands of years."
+    },
+    {
+     "s": 5,
+     "t": "Does nobody die here? Wouldn't it be impossible for anyone to leave behind a truly magnificent epitaph then?"
+    },
+    {
+     "s": 3,
+     "t": "Given my former status, I could probably be laid to rest at the priests' cemetery, alongside branches of silver and white."
+    },
+    {
+     "s": 3,
+     "t": "Which would be a tremendous honor, albeit one without any space for an epitaph."
+    },
+    {
+     "s": 5,
+     "t": "In that case, it's a no for me. Because I've already written mine."
+    },
+    {
+     "s": 5,
+     "t": "And it says——"
+    },
+    {
+     "s": 0,
+     "t": "Thank you so much."
+    },
+    {
+     "s": 1,
+     "t": "And what about that coin of yours? The one from King Deshret's day?"
+    },
+    {
+     "s": 0,
+     "t": "You're still thinking about that? Fine, you can have it once I've finished chanting my ten thousand prayers of penance to King Deshret."
+    },
+    {
+     "s": 3,
+     "t": "This one over here got worked up upon hearing Kshama talk about the King's fall that he actually cried, \"You lie! You lie!\""
+    },
+    {
+     "s": 3,
+     "t": "\"You lied! Liar! That's impossible!\""
+    },
+    {
+     "s": 3,
+     "t": "Honestly, that's better for a laugh than my epitaph."
+    },
+    {
+     "s": 1,
+     "t": "Eh, if you're gonna be so grudging with the coin, just forget it."
+    },
+    {
+     "s": 1,
+     "t": "Hmph. And this is the point where we say we're only here to help Zeitlind find what she lost."
+    },
+    {
+     "s": 1,
+     "t": "We're helping you out just 'cause you happened to be here!"
+    },
+    {
+     "s": 2,
+     "t": "...Thank you, Paimon. Thank you, {NICKNAME}."
+    },
+    {
+     "s": 1,
+     "t": "Oh, no, no. You only got dragged into this because of us. So, we gotta make this right for you."
+    },
+    {
+     "s": 0,
+     "t": "Such undisguised partiality."
+    },
+    {
+     "s": 2,
+     "t": "I'm truly grateful to you two."
+    },
+    {
+     "section": "Istoria"
+    },
+    {
+     "s": 1,
+     "t": "Oh, you're here, Istoria!"
+    },
+    {
+     "s": 6,
+     "t": "Indeed. Everyone from the Desert Pavilion is now back at the main hall, which is why I hurried over here."
+    },
+    {
+     "s": 6,
+     "t": "Zeitlind, have you found what you were looking for?"
+    },
+    {
+     "s": 2,
+     "t": "Yes, I have. Thanks for asking."
+    },
+    {
+     "s": 6,
+     "t": "Splendid."
+    },
+    {
+     "s": 6,
+     "t": "By the way, do you know what the names \"Melanta\" and \"Nihilita\" mean?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon will go first! Nope!"
+    },
+    {
+     "s": 2,
+     "t": "Yes. They mean \"melancholy\" and \"nothingness,\" don't they?"
+    },
+    {
+     "s": 6,
+     "t": "Most sagacious of you! I believe you and I shall be even better friends than I was with your sister, since we have the same interests."
+    },
+    {
+     "s": 2,
+     "t": "Yes, my sister's the outdoorsy, extroverted type. Still, before I could read for myself, she used to read to me all the time."
+    },
+    {
+     "s": 6,
+     "t": "Yet, what has \"melancholy\" got to do with someone like that?"
+    },
+    {
+     "s": 6,
+     "t": "Of course, I speak of pathological melancholy, not the sort The One above feels when gazing upon on our suffering."
+    },
+    {
+     "s": 2,
+     "t": "...Did she tell you all that?"
+    },
+    {
+     "s": 6,
+     "t": "Frankly, I was agape at the revelations she presented. I wouldn't have thought anyone audacious enough to build a sanatorium atop the site from which the Temple of Space had ascended."
+    },
+    {
+     "s": 6,
+     "t": "Did you know? It was initially thought that melancholy was a biological ailment. The word itself actually comes from the term for \"black bile.\""
+    },
+    {
+     "s": 6,
+     "t": "But subsequently, people came to believe that melancholy was an affliction of the heart."
+    },
+    {
+     "s": 1,
+     "t": "Well, it does take time to get to the right answer..."
+    },
+    {
+     "s": 6,
+     "t": "But today, humans have once again discovered the truth: melancholy is indeed also pathological. Thus, both medication and companionship are vital to recovery."
+    },
+    {
+     "s": 6,
+     "t": "We already knew all that back in my day. The angels had told us so."
+    },
+    {
+     "s": 6,
+     "t": "But while the songs of the angels and the latter-day Anemo Archon can cure melancholy, the hollow consolations of ordinary folk cannot be expected to work such wonders."
+    },
+    {
+     "s": 2,
+     "t": "What are you trying to say?"
+    },
+    {
+     "s": 6,
+     "t": "I shall to have to whisper this, for it is a secret."
+    },
+    {
+     "s": 6,
+     "t": "Why would the great One above who rules over sky and space name her own creations \"nothingness\" and \"melancholy\"?"
+    },
+    {
+     "s": 6,
+     "t": "They say she lacks the ability to empathize with others. There is nothing she cannot do, yet she is utterly helpless against genuine futility and the ailments of the human heart."
+    },
+    {
+     "s": 6,
+     "t": "This is why she named her creations the two things she is least able to deal with."
+    },
+    {
+     "s": 1,
+     "t": "Paimon gets that. Naming things after enemies you've never beaten makes them sound cool and powerful."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's would be called \"No Mora,\" \"Hunger,\" and \"No {NICKNAME}.\""
+    },
+    {
+     "sit": "Heh. They sound weak."
+    },
+    {
+     "s": 2,
+     "t": "I fear I can't keep up with your thousand year's worth of wisdom."
+    },
+    {
+     "s": 6,
+     "t": "Hahaha! Wisdom? Bah."
+    },
+    {
+     "s": 6,
+     "t": "I pray for the courage to give this all up and live a real life once more. Can you see what I'm saying?"
+    },
+    {
+     "s": 6,
+     "t": "Feel free to come to me if you ever need anything — even if all you want is to talk about your sister."
+    },
+    {
+     "s": 2,
+     "t": "I... will do that."
+    }
+   ],
+   "description": "There appears to be a survivor who’s escaped punishment at the Desert Pavilion…"
+  }
+ ],
+ "speakers": [
+  "Venipi",
+  "Paimon",
+  "Zeitlind",
+  "Vitruvius",
+  "Kshama",
+  "Raumhilda",
+  "Istoria"
+ ]
+}

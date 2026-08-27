@@ -1,0 +1,3541 @@
+{
+ "chapter": "Umbrabilis Orchis Chapter",
+ "chapter_title": "Calculated Gambit",
+ "act": "Act 1",
+ "act_title": "Calculated Gambit",
+ "region": null,
+ "quests": [
+  {
+   "title": "Seven-Star Selection",
+   "dialogue": [
+    {
+     "section": "Huixin"
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, Paimon, it's been a long time."
+    },
+    {
+     "s": 1,
+     "t": "Oh, hey, Huixin! Long time no see!"
+    },
+    {
+     "s": 1,
+     "t": "Fancy meeting you here. How's work these days?"
+    },
+    {
+     "s": 0,
+     "t": "Thanks to the help of people like you and colleagues like Ganyu, better all the time."
+    },
+    {
+     "s": 0,
+     "t": "But I've been feeling distracted at work lately. I just feel constantly agitated..."
+    },
+    {
+     "s": 2,
+     "t": "Has something happened?"
+    },
+    {
+     "s": 0,
+     "t": "*sigh* It's a long story, but my father... He's thinking of stepping down from the Tianshu position due to health issues."
+    },
+    {
+     "s": 1,
+     "t": "Huh? What's wrong with Uncle Tian?"
+    },
+    {
+     "s": 0,
+     "t": "Nothing, specifically... He's not unwell, he says he's just increasingly low on energy these days."
+    },
+    {
+     "s": 0,
+     "t": "He's always said, \"Old age comes for us all in the end\"... Still, I just can't help but feel a little emotional watching it happen to him."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, my father's currently on the second floor of Yanshang Teahouse. Why don't you come pay him a visit with me?"
+    },
+    {
+     "s": 0,
+     "t": "He seems very fond of you two. I'm sure chatting with you will make him very happy."
+    },
+    {
+     "s": 1,
+     "t": "Sure! Let's go!"
+    },
+    {
+     "section": "Uncle Tian"
+    },
+    {
+     "s": 1,
+     "t": "Uncle Tian! We're here to chat with you!"
+    },
+    {
+     "s": 3,
+     "t": "Oh? Hah, what a lovely surprise. Welcome. Huixin, why don't you go downstairs and get the shopkeeper to make us a fresh pot of tea?"
+    },
+    {
+     "s": 3,
+     "t": "I heard that you've been traveling all over the place recently. I would very much like to hear your adventure stories."
+    },
+    {
+     "sit": "We're more concerned about your health, Uncle Tian."
+    },
+    {
+     "sit": "Is everything okay?"
+    },
+    {
+     "s": 3,
+     "t": "Huixin told you, didn't she... Don't worry, I'm quite alright. It's just the years gradually catching up with me."
+    },
+    {
+     "s": 3,
+     "t": "As I grow older, I'm starting to find that with many things, though the mind is willing, the flesh is weak. Especially recently, I've noticed a rather drastic drop in my energy levels."
+    },
+    {
+     "s": 3,
+     "t": "I am still very much in good standing as the Tianshu today. Nevertheless, I wish to pass on the position before my mental acuity begins to decline beyond redemption."
+    },
+    {
+     "s": 1,
+     "t": "How difficult is it to transfer the Tianshu position?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, well, you see, the Tianshu is a rather unique position among the Liyue Qixing."
+    },
+    {
+     "s": 3,
+     "t": "Historically speaking, the Tianshu rarely appears in public. We stay behind the scenes, planning and giving advice. So a public selection process would not be suitable."
+    },
+    {
+     "s": 3,
+     "t": "We also want to keep any prospective Tianshu candidates free from influence by outside forces, so we tend to be as discreet as possible in their assessment and appointment."
+    },
+    {
+     "s": 3,
+     "t": "For these reasons, the incumbent Tianshu typically recommends their candidate of choice, and this is then approved by the other Qixing members."
+    },
+    {
+     "s": 1,
+     "t": "So in other words, you pick someone, and then Lady Keqing, Lady Ningguang, and the other Qixing appoint them?"
+    },
+    {
+     "s": 3,
+     "t": "Correct. Unfortunately, due to my health, I won't be able to assess every candidate myself."
+    },
+    {
+     "s": 3,
+     "t": "Not to despair, however, because I've found someone exceptionally capable to act on my behalf as assessment officer. In fact, I believe you recently became acquainted with her yourself."
+    },
+    {
+     "s": 1,
+     "t": "Oh? Who is it?"
+    },
+    {
+     "s": 4,
+     "t": "I'm heartbroken... I thought it might take you a little longer than this to forget all about me?"
+    },
+    {
+     "s": 1,
+     "t": "It's Yelan!"
+    },
+    {
+     "s": 4,
+     "t": "Jackpot. Uncle Tian here asked me to assess three candidates for him."
+    },
+    {
+     "s": 4,
+     "t": "Fancy joining me, {NICKNAME}? You'll be among the first to get to know the next Tianshu. Might be a good opportunity for you."
+    },
+    {
+     "s": 1,
+     "t": "Hmm... What do you think, {NICKNAME}?"
+    },
+    {
+     "sit": "It's a good opportunity."
+    },
+    {
+     "sit": "I'm not really interested."
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks so too! It can't be a bad thing to be on good terms with a new Qixing, right?"
+    },
+    {
+     "s": 4,
+     "t": "Alright then."
+    },
+    {
+     "s": 4,
+     "t": "Though I gotta say, Uncle Tian, you say you're into behind-the-scenes planning? My work's of the covert variety, too... Don't you think I might make a good Tianshu?"
+    },
+    {
+     "s": 1,
+     "t": "Huh!? Yelan, you want to be the next Tianshu?"
+    },
+    {
+     "s": 3,
+     "t": "I'm not opposed to the idea, but I suspect Ningguang wouldn't let you go very easily after how long you've been working together."
+    },
+    {
+     "s": 3,
+     "t": "So how about this... If your investigation reveals that none of the other candidates are qualified for the position, I'll recommend you for the job."
+    },
+    {
+     "s": 4,
+     "t": "Deal. Well, you guys take your time. Everything's all set for the assessments to go ahead."
+    },
+    {
+     "s": 4,
+     "t": "Meet me on the first floor when you're ready. Until then... have a pleasant conversation."
+    },
+    {
+     "s": 4,
+     "t": "Oh — and no need to pay for your tea. As the new owner of this fine establishment, this round's on the house."
+    },
+    {
+     "sit": "After telling Uncle Tian about your recent adventures, you return to the entrance of the teahouse..."
+    },
+    {
+     "s": 4,
+     "t": "You're all set?"
+    },
+    {
+     "s": 1,
+     "t": "Uncle Tian seems really worn down. It's like all his energy's gone..."
+    },
+    {
+     "s": 4,
+     "t": "Yeah. It may sound harsh, but Uncle Tian is past his prime. He's not cut out for this anymore."
+    },
+    {
+     "s": 4,
+     "t": "So, he's recommended three candidates. Their names are: Qianwei, Mingbo, and Zhiyi."
+    },
+    {
+     "s": 4,
+     "t": "Qianwei is a wealthy entrepreneur, Mingbo works at the Liyue Ministry of Civil Affairs, and Zhiyi is focused on study and travel."
+    },
+    {
+     "s": 4,
+     "t": "Try to keep all that in mind... Of course, it doesn't really matter if you forget, since we'll be assessing them at Yuehai Pavilion in a short while."
+    },
+    {
+     "s": 1,
+     "t": "Qianwei, Mingbo, Zhiyi... Paimon should be able to remember their names, but what does the assessment involve, exactly?"
+    },
+    {
+     "s": 4,
+     "t": "Let's leave that until we get to Yuehai Pavilion."
+    },
+    {
+     "s": 4,
+     "t": "Alright. Heads in the game, people. The stakes don't get much higher than a change in the Qixing. We can't afford to miss anything, no matter how small."
+    },
+    {
+     "s": 1,
+     "t": "Got it! {NICKNAME}, we'll keep our eyes wide open!"
+    },
+    {
+     "s": 2,
+     "t": "I'm not really interested."
+    },
+    {
+     "s": 1,
+     "t": "Makes sense. After all, whoever the next Tianshu is, it doesn't really make any difference to us."
+    },
+    {
+     "s": 1,
+     "t": "Still, Paimon's really curious to see which candidates Uncle Tian picked! So let's go take a look!"
+    },
+    {
+     "s": 2,
+     "t": "Is everything okay?"
+    },
+    {
+     "section": "Uncle Tian"
+    },
+    {
+     "s": 3,
+     "t": "Oh, are the assessments complete?"
+    },
+    {
+     "s": 1,
+     "t": "Umm... Not just yet..."
+    },
+    {
+     "section": "Qianwei, Mingbo, Zhiyi, Yelan"
+    },
+    {
+     "s": 5,
+     "t": "My legs are getting sore... What is wrong with this assessment officer? This is a huge occasion, and I don't even get a chair."
+    },
+    {
+     "s": 5,
+     "t": "I've dealt with all kinds of people in my time, but never have I been made to stand while I'm waiting for an appointment."
+    },
+    {
+     "s": 6,
+     "t": "Oh, I mean... I—I think it's fine..."
+    },
+    {
+     "s": 5,
+     "t": "That's called being complacent. If you're happy to just accept the way things are, you'll never be able to change anything in the future."
+    },
+    {
+     "s": 6,
+     "t": "Oh, come on, that's just... Now you're just... being unreasonable."
+    },
+    {
+     "s": 7,
+     "t": "Alright, you two. Let's not get into a big argument over this. It's not worth it."
+    },
+    {
+     "s": 7,
+     "t": "Qianwei, that was a bit uncalled for. And Mingbo, cut him some slack. We've all been standing around for a while. It's natural to be getting irritable."
+    },
+    {
+     "s": 7,
+     "t": "Look, how about this: There's no rule saying we're obliged to stand up while we wait, so why don't we borrow some chairs from the guild nearby?"
+    },
+    {
+     "s": 5,
+     "t": "Fine. They're not the best quality chairs, to be sure, but under the circumstances, it would be better than nothing."
+    },
+    {
+     "sit": "You enter the assessment venue with Yelan..."
+    },
+    {
+     "s": 4,
+     "t": "It looks like all three candidates have arrived."
+    },
+    {
+     "s": 2,
+     "t": "Oh, it was those three?"
+    },
+    {
+     "s": 4,
+     "t": "Mm-hmm. We'll meet them formally soon. Before that, let me run you through the assessment process."
+    },
+    {
+     "s": 4,
+     "t": "I've split it into two stages: \"Current Affairs and Planning\" and \"Face-to-Face Interview.\""
+    },
+    {
+     "s": 4,
+     "t": "In the first stage, candidates are required to submit a manifesto for Liyue's development. In the second stage, we will ask them some questions in person."
+    },
+    {
+     "s": 4,
+     "t": "Writing a manifesto takes time, so I informed them of this requirement in advance. These are the reports they submitted."
+    },
+    {
+     "s": 1,
+     "t": "Wow, one of them is really thick..."
+    },
+    {
+     "s": 4,
+     "t": "It's also worth mentioning a stipulation I gave them: Whoever is appointed as the new Tianshu will be expected to implement their plan as put forward in their manifesto."
+    },
+    {
+     "s": 4,
+     "t": "Failing the occurrence of some cataclysmic event, they will not be permitted to change their plan. Therefore, these three piles of documents in front of us represent where each candidate stands on key policy issues."
+    },
+    {
+     "s": 4,
+     "t": "There is still some time. Have a skim through, get a first impression of what each person's proposing."
+    },
+    {
+     "s": 4,
+     "t": "I'll be waiting off to the side. Just let me know when you're done."
+    },
+    {
+     "section": "Qianwei's Manifesto"
+    },
+    {
+     "s": 8,
+     "t": "(Qianwei's manifesto addresses many commercial issues and provides some very penetrating analysis.)"
+    },
+    {
+     "s": 8,
+     "t": "(His view seems to be that \"regulations and incentives are both indispensable.\")"
+    },
+    {
+     "section": "Mingbo's Manifesto"
+    },
+    {
+     "s": 9,
+     "t": "(Mingbo's manifesto covers domestic affairs quite comprehensively, focusing on people's livelihoods.)"
+    },
+    {
+     "s": 9,
+     "t": "(The core principle seems to be \"The greater good means a world that works for everyone.\")"
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 10,
+     "t": "(Zhiyi's manifesto covers domestic affairs, foreign affairs, and checks and balances, all in great detail.)"
+    },
+    {
+     "s": 10,
+     "t": "(The focus seems to be \"problem-solving.\" It provides concise and clear solutions to various problems.)"
+    },
+    {
+     "s": 10,
+     "t": "(It's so thick that you only have time to skim through it roughly...)"
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Finished?"
+    },
+    {
+     "s": 1,
+     "t": "Almost..."
+    },
+    {
+     "section": "Zhiyi, Mingbo, Qianwei"
+    },
+    {
+     "s": 7,
+     "t": "By the way, do you have any idea who the assessment officer is this time?"
+    },
+    {
+     "s": 6,
+     "t": "Umm... I'm not sure...?"
+    },
+    {
+     "s": 5,
+     "t": "Me neither. They'd better get someone who knows what they're talking about, though. I don't want some amateur trying to decide my fate."
+    },
+    {
+     "section": "Li'an"
+    },
+    {
+     "s": 11,
+     "t": "Do you need a hand with anything?"
+    },
+    {
+     "s": 11,
+     "t": "Huixin is taking some time off at the moment. I'm covering for her, just let me know if you need anything."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Finished, huh? What did you think?"
+    },
+    {
+     "s": 1,
+     "t": "Everyone took it very seriously..."
+    },
+    {
+     "s": 4,
+     "t": "Of course they did. They have the chance to be picked as the new Tianshu, so you can bet they're putting their best foot forward."
+    },
+    {
+     "s": 4,
+     "t": "And keep in mind, whoever gets in has to execute their plan as-written. Nobody wants to have any regrets."
+    },
+    {
+     "s": 2,
+     "t": "What did you think, Yelan?"
+    },
+    {
+     "s": 4,
+     "t": "Hehe, that's for me to know and you to find out. We can talk more after the interviews."
+    },
+    {
+     "s": 4,
+     "t": "We'll see the candidates now. Let's do one at a time — start with Qianwei."
+    },
+    {
+     "s": 11,
+     "t": "Yes, Ma'am."
+    },
+    {
+     "sit": "Li'an brings Qianwei in..."
+    },
+    {
+     "s": 5,
+     "t": "Oh? So you two are the assessment officers, are you?"
+    },
+    {
+     "s": 5,
+     "t": "I had assumed that given the great import of this situation, Lady Ningguang would perhaps be assessing us in person. I certainly hadn't imagined I'd be seeing two entirely unfamiliar faces."
+    },
+    {
+     "s": 5,
+     "t": "I trust you've read through my manifesto? I'd be more than happy to clarify any details you found difficult to grasp — it was written with an expert audience in mind, after all."
+    },
+    {
+     "s": 1,
+     "t": "Mind your tone, mister!"
+    },
+    {
+     "s": 5,
+     "t": "Relax, it wasn't intended as a personal slight against anyone in particular. I was simply stating a fact."
+    },
+    {
+     "sit": "Man, your communication skills..."
+    },
+    {
+     "sit": "Did you learn them from Cloud Retainer?"
+    },
+    {
+     "s": 5,
+     "t": "Cloud Retainer... you know this adeptus? Oh... Yes, I remember now. You must be the traveler that people are constantly talking about."
+    },
+    {
+     "s": 5,
+     "t": "With your sterling reputation, you must have a respectable level of erudition. Perhaps you will be able to understand the concepts I have put forward... although I shouldn't get my hopes up."
+    },
+    {
+     "sit": "After asking Qianwei some questions, Yelan tells him to fetch Mingbo."
+    },
+    {
+     "s": 6,
+     "t": "Oh... is it my turn?"
+    },
+    {
+     "s": 4,
+     "t": "Yes. Please introduce yourself."
+    },
+    {
+     "s": 6,
+     "t": "I'm, uh, Mingbo... I work in the Ministry of Civil Affairs."
+    },
+    {
+     "s": 6,
+     "t": "I've worked there for, um, 9 years... 5 months... and 3 days. In that time, I've handled... 2,347 cases."
+    },
+    {
+     "s": 6,
+     "t": "I have 12 active cases at the moment... They should be concluded in, uh... 16 days?"
+    },
+    {
+     "s": 6,
+     "t": "My current work is related to urban planning and I am also responsible for, uh, auditing the accounts. To be more precise, there are three parts to the accounts, namely..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Is it just Paimon, or is he not very good at public speaking?"
+    },
+    {
+     "s": 4,
+     "t": "You know what, let's leave the self-introduction there and move onto some questions."
+    },
+    {
+     "s": 6,
+     "t": "Oh... Okay. Sorry..."
+    },
+    {
+     "sit": "Yelan forces her way through a few questions with Mingbo, then gets him to fetch Zhiyi."
+    },
+    {
+     "s": 7,
+     "t": "Hello. Hehe... Not gonna lie, I'm feeling a little nervous."
+    },
+    {
+     "s": 7,
+     "t": "What would you like to know? You're here to assess me, so ask away and I'll answer your questions to the best of my ability."
+    },
+    {
+     "s": 4,
+     "t": "Your manifesto is very wide in its scope, but you don't seem to be personally involved in many of the specific fields. How can you be sure that you have the ability to put your plan into action?"
+    },
+    {
+     "s": 2,
+     "t": "That was blunt..."
+    },
+    {
+     "s": 7,
+     "t": "Very fair question — I completely understand where you're coming from."
+    },
+    {
+     "s": 7,
+     "t": "But I'm confident in my plan. I've visited many different places, talked to lots of people with far more expertise than myself, and my manifesto is the conclusion of these efforts."
+    },
+    {
+     "s": 7,
+     "t": "Of course, two different problems can be interconnected in very complicated ways, and you might reach two very contradictory conclusions depending on which one you're focusing on. What I've tried to do is strike a balance. In other words, present an optimal solution to all the problems as a whole."
+    },
+    {
+     "s": 4,
+     "t": "How do you plan to determine whether you are right or wrong about your proposed solution being the optimal one?"
+    },
+    {
+     "s": 7,
+     "t": "A great question! Well, I'd start by having my colleagues and the secretaries of the Yuehai Pavilion evaluate any proposals before implementation. Post-implementation, it would all come down to the results."
+    },
+    {
+     "s": 7,
+     "t": "If it turned out that my judgment was to blame for poor results, I would take responsibility."
+    },
+    {
+     "s": 4,
+     "t": "Nice answer. Alright, next question..."
+    },
+    {
+     "sit": "After asking Zhiyi a few questions, Yelan sends him on his way."
+    },
+    {
+     "s": 1,
+     "t": "He seems like a great guy! Everything he said was thoughtful and logical and... he was just a pleasure to listen to!"
+    },
+    {
+     "sit": "I agree..."
+    },
+    {
+     "sit": "Meh..."
+    },
+    {
+     "s": 4,
+     "t": "Here's my take on what we just learned."
+    },
+    {
+     "s": 4,
+     "t": "As you saw, Qianwei is highly knowledgeable. He proposes many excellent ideas in his manifesto which effectively target the big issues."
+    },
+    {
+     "s": 4,
+     "t": "But he is very proud and incredibly stubborn. He doesn't care much about other people's feelings."
+    },
+    {
+     "s": 4,
+     "t": "Mingbo's plan is more thorough and more measured. You can tell he's meticulous in his work, very detail-oriented."
+    },
+    {
+     "s": 4,
+     "t": "But he and Qianwei are otherwise polar opposites. Mingbo is not very articulate and comes across as very timid in conversation."
+    },
+    {
+     "s": 1,
+     "t": "Perfect summary, Paimon couldn't agree more! You're good at this, Yelan!"
+    },
+    {
+     "s": 4,
+     "t": "Last but not least, Zhiyi. His manifesto is full of pertinent details, his methodology is sound, and his proposals cover a broad range of fields, which is quite a rare feat."
+    },
+    {
+     "s": 4,
+     "t": "The depth he goes into in each and every area means it can only be a product of painstaking work. Plus, he is modest and good at dealing with people."
+    },
+    {
+     "s": 4,
+     "t": "But what really interests me is that many of his views happen to coincide with Uncle Tian's. Having someone like Zhiyi take the position would certainly put Uncle Tian's mind at rest."
+    },
+    {
+     "s": 1,
+     "t": "Great!"
+    },
+    {
+     "s": 4,
+     "t": "We'll see. Let's go back and report to Uncle Tian."
+    },
+    {
+     "s": 2,
+     "t": "Meh..."
+    },
+    {
+     "s": 2,
+     "t": "Did you learn them from Cloud Retainer?"
+    },
+    {
+     "section": "Uncle Tian"
+    },
+    {
+     "sit": "You tell Uncle Tian about the assessment process."
+    },
+    {
+     "s": 3,
+     "t": "*cough* ...I see. Then it's more or less as I anticipated."
+    },
+    {
+     "s": 4,
+     "t": "Alright, then let me ask this. The ideas in Zhiyi's manifesto are very similar to your own. Is there any particular reason behind this?"
+    },
+    {
+     "s": 3,
+     "t": "I didn't want to say anything when I gave you the list of candidates, for fear of affecting your judgment. But I can tell you now."
+    },
+    {
+     "s": 3,
+     "t": "Those three candidates have all studied under me in the past. It's only natural that they share some similarities with me."
+    },
+    {
+     "s": 3,
+     "t": "But Qianwei went on to focus on his business and Mingbo has always been occupied with his work at the Ministry of Civil Affairs. Of all of them, Zhiyi was with me for the longest duration."
+    },
+    {
+     "s": 1,
+     "t": "Whoa! So how did you get to know them all, Uncle Tian?"
+    },
+    {
+     "s": 3,
+     "t": "Qianwei was referred to me by an old friend, Mingbo came to my attention in the course of my work. As for Zhiyi... Haha, that was pure happenstance."
+    },
+    {
+     "s": 3,
+     "t": "We first met while fishing. Gradually, as we got to know each other, we started discussing all sorts of topics."
+    },
+    {
+     "s": 3,
+     "t": "Zhiyi came from a poor family and his parents died when he was very young. But he was a gifted student and a fast learner."
+    },
+    {
+     "s": 3,
+     "t": "He reminded me of a younger version of myself. So I started out giving him a few words of advice when we were out fishing, and noticed how quickly he caught on."
+    },
+    {
+     "sit": "Sounds like he's a friend to you."
+    },
+    {
+     "sit": "Sounds like he's family to you."
+    },
+    {
+     "s": 3,
+     "t": "Quite. And now, all of a sudden, he's grown into a mature young man. It's a joy to see, but it also gets one thinking."
+    },
+    {
+     "s": 3,
+     "t": "The young are growing up, and I am growing old. How time flies... No one can escape the cycle of life."
+    },
+    {
+     "s": 4,
+     "t": "I dunno, Uncle Tian, you still seem in pretty good shape to me. You might have another few years of work left in you, don't you think?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, you! There's really no need to console me. Having less energy than I used to isn't such a bad thing. It just means I finally have a good reason to retire and spend my days doing what old men like me should be doing: going fishing whenever I feel like it."
+    },
+    {
+     "s": 1,
+     "t": "Sounds like you sure love fishing, Uncle Tian!"
+    },
+    {
+     "s": 3,
+     "t": "There's nothing quite like fishing to pass the time. And freshly caught fish, ah, they make the most beautiful fish soup with barely any preparation required."
+    },
+    {
+     "s": 1,
+     "t": "Fresh fish soup! Mmm, sounds tasty!"
+    },
+    {
+     "s": 3,
+     "t": "Doesn't it? Also, some time ago, Zhiyi purchased a very special recipe from an old fisherman."
+    },
+    {
+     "s": 3,
+     "t": "When we've been fishing recently, Zhiyi always brings some extra ingredients he prepared in advance. The addition of these makes the soup taste even more wonderful."
+    },
+    {
+     "s": 3,
+     "t": "That flavor makes for a fond memory... But at my age, who knows how many more chances I have left to taste it again."
+    },
+    {
+     "s": 2,
+     "t": "Very many chances, I'm sure."
+    },
+    {
+     "s": 1,
+     "t": "Oh, can Paimon come next time, too? Paimon really wants to try it!"
+    },
+    {
+     "s": 4,
+     "t": "Let's get back to the matter at hand. Uncle Tian, we've reported back, do you have a verdict?"
+    },
+    {
+     "s": 3,
+     "t": "Mm-hmm, I appointed you as the assessment officer, and I trust your judgment."
+    },
+    {
+     "s": 3,
+     "t": "Had you not asked me why Zhiyi's ideas were so similar to mine, I was not going to mention my history with any of them."
+    },
+    {
+     "s": 3,
+     "t": "This decision must be guided by what is fair and right. Please disregard all other considerations, and make your final decision only after a thorough review of each candidate's talents and capabilities."
+    },
+    {
+     "s": 3,
+     "t": "Remember... you must be thorough."
+    },
+    {
+     "s": 4,
+     "t": "Understood."
+    },
+    {
+     "s": 4,
+     "t": "C'mon, {NICKNAME} let's go talk somewhere else."
+    },
+    {
+     "s": 1,
+     "t": "Bye-bye, Uncle Tian. Look after yourself!"
+    },
+    {
+     "sit": "You follow Yelan outside the teahouse..."
+    },
+    {
+     "s": 1,
+     "t": "So... it's gonna be Zhiyi, right?"
+    },
+    {
+     "s": 1,
+     "t": "His manifesto was written well, and he's the best speaker..."
+    },
+    {
+     "s": 4,
+     "t": "Easy, let's not rush. There's no time limit for this assessment."
+    },
+    {
+     "s": 1,
+     "t": "Huh? So... are you gonna give them more tests or something?"
+    },
+    {
+     "s": 4,
+     "t": "No, nothing like that. The assessment itself is complete. But let me give you a word of advice: Things are not always as they appear."
+    },
+    {
+     "s": 4,
+     "t": "The biggest no-no in intelligence work is to only get information from the person of interest themselves. The truth is almost always hidden beneath many layers of deception. You have to get information through many different channels."
+    },
+    {
+     "s": 4,
+     "t": "For example... Wenyuan. Shanghua."
+    },
+    {
+     "s": 12,
+     "t": "Yes?"
+    },
+    {
+     "s": 13,
+     "t": "Lady Yelan, what are your orders?"
+    },
+    {
+     "s": 1,
+     "t": "Ah! Who are they? Where did they come from?"
+    },
+    {
+     "s": 4,
+     "t": "Did they scare you? These two are Wenyuan and Shanghua. They work for me."
+    },
+    {
+     "s": 4,
+     "t": "As my trusted assistants, they are always standing guard nearby. They also perform various assignments as required."
+    },
+    {
+     "s": 4,
+     "t": "Shanghua is a business expert who gets his information by trading, Wenyuan relies on word of mouth, and there is also Wupei, who's not here right now..."
+    },
+    {
+     "s": 12,
+     "t": "That meathead must've been out there on sea surveillance for some time now... Is he alright? I seem to remember that he can't swim."
+    },
+    {
+     "s": 13,
+     "t": "Heh, nothing can take that guy down. Certainly not a little wind and waves."
+    },
+    {
+     "s": 4,
+     "t": "Shanghua, visit all the commerce guilds and look into Qianwei's background. Wenyuan, go to the Ministry of Civil Affairs and look through Mingbo's work files."
+    },
+    {
+     "s": 13,
+     "t": "Yes, Ma'am!"
+    },
+    {
+     "s": 1,
+     "t": "Um, so what about Zhiyi?"
+    },
+    {
+     "s": 4,
+     "t": "Zhiyi? Well, obviously, as the most promising candidate, we will be investigating him ourselves."
+    },
+    {
+     "s": 4,
+     "t": "Let's go to the docks first. Lots of people passing through there, you can find out all kinds of things."
+    },
+    {
+     "s": 1,
+     "t": "If we're looking for information, why don't we try talking to Bolai, the owner of Wanyou Boutique?"
+    },
+    {
+     "s": 1,
+     "t": "He does business at the North Wharf. Maybe he'll have some news for us..."
+    },
+    {
+     "s": 4,
+     "t": "Hmm, that's actually not a bad idea. Let's go and ask him."
+    },
+    {
+     "s": 2,
+     "t": "Sounds like he's family to you."
+    }
+   ],
+   "description": "As you stroll around Liyue, you bump into a familiar person…"
+  },
+  {
+   "title": "Candidature Analysis",
+   "dialogue": [
+    {
+     "section": "Bolai, Qiping"
+    },
+    {
+     "s": 14,
+     "t": "Look, your asking price for this batch is just too high. I can't buy in at this price. How am I supposed to turn a profit?"
+    },
+    {
+     "s": 15,
+     "t": "Come on, hear me out. I'm telling you, this is the single best batch of Sunsettias ever. You won't find anyone who disputes that."
+    },
+    {
+     "s": 15,
+     "t": "I accidentally dropped one into a well, and even the water turned sweet!"
+    },
+    {
+     "s": 14,
+     "t": "Even so..."
+    },
+    {
+     "s": 15,
+     "t": "Shhh, alright, alright, I'll let you in on a little secret. The boss of Second Life also wants to buy from me, but I haven't responded yet."
+    },
+    {
+     "s": 15,
+     "t": "If you won't take them, I'll just have to partner with them instead, and neither of us wants that."
+    },
+    {
+     "s": 14,
+     "t": "Okay, well, when you put it that way... I'll accept your asking price. I'll take all your stock. Don't sell a single one to Second Life!"
+    },
+    {
+     "sit": "The trader who was negotiating with Bolai leaves..."
+    },
+    {
+     "s": 14,
+     "t": "Oh, what are you doing here?"
+    },
+    {
+     "s": 14,
+     "t": "And to be clear, these Sunsettias are mine. I got to them first, don't get any ideas!"
+    },
+    {
+     "sit": "Knock yourself out..."
+    },
+    {
+     "sit": "I've got more than enough in my bag..."
+    },
+    {
+     "s": 1,
+     "t": "Actually, we want to ask you about a guy called Zhiyi. Have you heard of him before?"
+    },
+    {
+     "s": 14,
+     "t": "Zhiyi? Yes, he's quite well-known."
+    },
+    {
+     "s": 14,
+     "t": "I've heard a story about him. They say he was born into poverty, his parents died when he was young, and he was treated cruelly by the local community."
+    },
+    {
+     "s": 14,
+     "t": "One of his neighbors was terribly rude to him all the time, but Zhiyi never retaliated — and when his neighbor went bankrupt, he even helped support the family."
+    },
+    {
+     "s": 14,
+     "t": "He returned cruelty with kindness, injustice with peace offerings... A gentleman of talent and character and— Oh... how did I not notice him sooner? In fact, maybe I'm not too late. If I could hire him to be the brand ambassador for Wanyou Boutique..."
+    },
+    {
+     "s": 1,
+     "t": "He sounds like a decent man! We can finally breathe a sigh of relief!"
+    },
+    {
+     "s": 14,
+     "t": "Why are you asking about him, anyway? You aren't... looking for a brand ambassador too, are you?"
+    },
+    {
+     "s": 14,
+     "t": "Well then, in that case, the higher bidder takes the... Hmm? Ah, that's Zhiyi right over there. Why don't we go and talk to him?"
+    },
+    {
+     "s": 1,
+     "t": "Where, where?"
+    },
+    {
+     "s": 4,
+     "t": "It's him alright. Looks like he's chatting with Linlang, {NICKNAME}... Come on, let's follow them and listen in."
+    },
+    {
+     "s": 4,
+     "t": "Try not to let him see you. We want this information to be as truthful as possible."
+    },
+    {
+     "s": 14,
+     "t": "I'll just go and fetch an employment contract... And hey, don't try and cut me out of this! Heeey!"
+    },
+    {
+     "s": 2,
+     "t": "I've got more than enough in my bag..."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Try not to let him see you. We want this information to be as truthful as possible."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... Zhiyi seems to get along really well with everyone."
+    },
+    {
+     "s": 1,
+     "t": "Are you satisfied now, Yelan? Seems like everyone thinks Zhiyi's a great guy."
+    },
+    {
+     "s": 4,
+     "t": "We shouldn't jump to conclusions just yet. Let's go check out the wharf where he usually goes fishing."
+    },
+    {
+     "s": 1,
+     "t": "Ugh, do we have to..."
+    },
+    {
+     "s": 1,
+     "t": "Wait, you're not just trying to dig up some dirt on Zhiyi because you wanna be Tianshu yourself, are you?"
+    },
+    {
+     "s": 4,
+     "t": "Maybe I am, maybe I'm not. But hey, if I do become Tianshu, I'll look out for you guys."
+    },
+    {
+     "s": 4,
+     "t": "You'll be able to try all the finest food for free. How does that sound?"
+    },
+    {
+     "s": 1,
+     "t": "We will!? Well come on, off to the South Wharf we go!"
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "The wharf is as busy as ever."
+    },
+    {
+     "s": 4,
+     "t": "I hear the anglers here sometimes sell their fish to the nearby fishmongers. Hmm, let's see what Uncle Sun has to say."
+    },
+    {
+     "section": "Uncle Sun"
+    },
+    {
+     "s": 16,
+     "t": "Ah, another patron! Would you like to purchase some fish?"
+    },
+    {
+     "s": 16,
+     "t": "I promise that all my fish are fre—... No, super fresh!"
+    },
+    {
+     "section": "Uncle Gao"
+    },
+    {
+     "s": 17,
+     "t": "Would you like to buy some fish?"
+    },
+    {
+     "s": 17,
+     "t": "Get one for three hundred Mora, or three for a thousand."
+    },
+    {
+     "section": "Uncle Sun, Yelan"
+    },
+    {
+     "s": 16,
+     "t": "Welcome, what would you like to buy today?"
+    },
+    {
+     "sit": "We're here to ask you about someone."
+    },
+    {
+     "sit": "We're here to buy some... information."
+    },
+    {
+     "s": 4,
+     "t": "Sorry to interrupt. We're actually members of the, uh... Liyue Anglers Association, and we just wanted to ask a few questions about someone."
+    },
+    {
+     "s": 4,
+     "t": "We've heard about this young man called Zhiyi who's supposed to be a fantastic fisherman. Just wondering if you happened to have heard of him?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa... Yelan made up a whole fake identity without batting an eyelid..."
+    },
+    {
+     "s": 16,
+     "t": "Ah yes, Zhiyi. He's been making quite a name for himself recently. I've got some friends who travel all over the place, and they tell me everywhere they go they meet someone who's heard of him."
+    },
+    {
+     "s": 16,
+     "t": "Apparently, he had a rather tough time growing up. Had to work several jobs alongside his studies to make ends meet."
+    },
+    {
+     "s": 16,
+     "t": "How does that saying go — what doesn't kill you makes you stronger? Well, if there's anything to that logic, he's sure to be phenomenally successful one day."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, we think so, too!"
+    },
+    {
+     "s": 16,
+     "t": "But I'm afraid your Anglers Association might be in for a disappointment."
+    },
+    {
+     "s": 4,
+     "t": "Oh, why's that?"
+    },
+    {
+     "s": 16,
+     "t": "He's good at a lot of things, but fishing isn't one of them. He fishes at the wharf, and sells what he catches to me on occasion."
+    },
+    {
+     "s": 16,
+     "t": "His catches are always mediocre. Not terrible, but equally nothing to write home about. If you're looking to recruit some new members, though, I do know a few top anglers I could put you in touch with..."
+    },
+    {
+     "s": 4,
+     "t": "That sounds fantastic. I've got a couple of other things to attend to right now, though, so... why don't I come back some other time, and we can chat over a drink?"
+    },
+    {
+     "s": 16,
+     "t": "Sure thing. See you!"
+    },
+    {
+     "s": 4,
+     "t": "\"Everywhere they go, they meet someone who's heard of him.\" Hmm... C'mon, let's keep asking around."
+    },
+    {
+     "s": 2,
+     "t": "We're here to buy some... information."
+    },
+    {
+     "section": "Uncle Gao, Yelan"
+    },
+    {
+     "s": 17,
+     "t": "Here to buy some fish? It's 300 for one or 3 for 1,000!"
+    },
+    {
+     "s": 17,
+     "t": "You better hurry, when they're gone, they're gone!"
+    },
+    {
+     "s": 4,
+     "t": "Hello, we're from the Society for Fish Price Research. We'd just like to ask a few questions."
+    },
+    {
+     "s": 1,
+     "t": "Wow... She switched identity again..."
+    },
+    {
+     "s": 17,
+     "t": "Society for... Fish Price Research? I haven't done anything illegal, stay out of my business!"
+    },
+    {
+     "s": 4,
+     "t": "Please don't worry, we're just here to conduct a simple survey."
+    },
+    {
+     "s": 4,
+     "t": "We've heard about a certain Zhiyi who's been selling fresh fish at low prices in this area recently. Do you know anything about this?"
+    },
+    {
+     "s": 17,
+     "t": "So this isn't about me. You should have said something, you know. I know the guy, I can tell you what I know."
+    },
+    {
+     "s": 17,
+     "t": "I haven't heard anything about him selling fresh fish at low prices, but it wouldn't surprise me if it was him."
+    },
+    {
+     "s": 1,
+     "t": "Oh, why's that?"
+    },
+    {
+     "s": 17,
+     "t": "Because he's so poor. His parents died when he was very young and his alcoholic father still owed a huge amount of debt. No one wanted to have anything to do with him."
+    },
+    {
+     "s": 17,
+     "t": "He was still a kid when he first came to the wharf. His clothes were ragged, and he had a bandage wrapped around his head."
+    },
+    {
+     "s": 17,
+     "t": "He managed to survive thanks to Uncle Tian, who gave him some food. But still, to this day, he doesn't have a lot of Mora to his name."
+    },
+    {
+     "s": 17,
+     "t": "I mean, he can afford to eat and everything, but you'll often see him haggling with others over just a few Mora. So I wouldn't be surprised to find out he's been selling a few fish."
+    },
+    {
+     "s": 17,
+     "t": "It's not like he catches much anyway, so it's not going to affect my business. Oh... Don't tell him I said that."
+    },
+    {
+     "s": 4,
+     "t": "You'd rather he didn't know?"
+    },
+    {
+     "s": 17,
+     "t": "Well... I spoke to him once, briefly, and I just had a feeling that he really cares what other people think of him."
+    },
+    {
+     "s": 17,
+     "t": "I think he has pretty low self-esteem... But hey, it's hardly my place to say anything. What he's achieved already puts most people to shame."
+    },
+    {
+     "s": 17,
+     "t": "Nobody's perfect. I just wouldn't want to upset him, that's all."
+    },
+    {
+     "s": 4,
+     "t": "I see. Well, thank you for sharing that with us."
+    },
+    {
+     "s": 17,
+     "t": "Not a problem. And just for the record, there's absolutely nothing wrong with the price of my fish!"
+    },
+    {
+     "s": 1,
+     "t": "The more times you say it, the less convincing it becomes..."
+    },
+    {
+     "s": 4,
+     "t": "\"Doesn't have a lot of Mora to his name\"... Okay, let's keep going."
+    },
+    {
+     "section": "Dugu Shuo, Yelan"
+    },
+    {
+     "s": 18,
+     "t": "Hey, it's you guys. Wait, what's the phrase... Oh yeah, \"Honored to meet you!\""
+    },
+    {
+     "s": 18,
+     "t": "What brings you to me?"
+    },
+    {
+     "s": 4,
+     "t": "The truth is, we are but newcomers to this territory. We heard tell of a great martial artist, Master Dugu, who knows everything there is to know. Hence, we sought you out to ask for your guidance."
+    },
+    {
+     "s": 18,
+     "t": "R—Really? People said... I know everything there is to know?"
+    },
+    {
+     "s": 4,
+     "t": "But of course. We also heard that Master Dugu is a kind and virtuous swordsman who never turns away anyone who comes with questions."
+    },
+    {
+     "s": 18,
+     "t": "Great... Ahem, so, what do you wish to know? Nothing happens on this street that I don't know about."
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Now she's lying to a kid!"
+    },
+    {
+     "sit": "But it seems to have made his day..."
+    },
+    {
+     "sit": "I guess it's a white lie..."
+    },
+    {
+     "s": 4,
+     "t": "So, Master Dugu. Have you heard of one by the name of Zhiyi?"
+    },
+    {
+     "s": 18,
+     "t": "Sure have! You mean that guy that all the grownups are talking about these days?"
+    },
+    {
+     "s": 18,
+     "t": "...I've heard many tales of Zhiyi. For example... um... I can't remember..."
+    },
+    {
+     "s": 18,
+     "t": "Probably 'cause it's nothing that important. I prefer stories about sword-fighting heroes!"
+    },
+    {
+     "s": 4,
+     "t": "Oh, I can completely understand that. Then let me ask you this... Do you remember roughly when the grownups started talking about Zhiyi?"
+    },
+    {
+     "s": 18,
+     "t": "Ooh, yeah, I know that! It was about two or three months ago!"
+    },
+    {
+     "s": 18,
+     "t": "Before that, people always used to talk about Zhiyi in a kinda nasty tone of voice... but two or three months ago, suddenly everyone started to like him."
+    },
+    {
+     "s": 18,
+     "t": "Sometimes, he gives me candies. So I'm glad that people are starting to like him now!"
+    },
+    {
+     "s": 4,
+     "t": "Just as I thought..."
+    },
+    {
+     "s": 18,
+     "t": "Huh? What do you mean?"
+    },
+    {
+     "s": 4,
+     "t": "I mean, just as I thought, Master Dugu is indeed as kind and virtuous as the legends claim."
+    },
+    {
+     "s": 18,
+     "t": "Heh... I'm not THAT great..."
+    },
+    {
+     "s": 18,
+     "t": "Oh yeah, one other thing. These days, there's a lot of people I've never seen before talking about Zhiyi's stories in the street. They seemed like nice people."
+    },
+    {
+     "s": 4,
+     "t": "Oh, definitely."
+    },
+    {
+     "s": 18,
+     "t": "Great! So next time I see them, I'll say hi! And... I guess I can share some of my candies with them, too."
+    },
+    {
+     "s": 4,
+     "t": "Certainly! You can also tell my friend in Yanshang Teahouse about what they're up to. I'm sure my friend would also like to say hi to them."
+    },
+    {
+     "s": 18,
+     "t": "Thank you, Ma'am!"
+    },
+    {
+     "s": 4,
+     "t": "You're welcome! Well then... Fare thee well, Master Dugu."
+    },
+    {
+     "s": 18,
+     "t": "Until we meet again!"
+    },
+    {
+     "s": 4,
+     "t": "Any of that sound strange to you?"
+    },
+    {
+     "sit": "Yes, I heard it."
+    },
+    {
+     "sit": "I'm completely lost right now."
+    },
+    {
+     "s": 1,
+     "t": "Strange? What was strange about it?"
+    },
+    {
+     "s": 1,
+     "t": "Zhiyi seems to have a great reputation. Uncle Sun and Uncle Gao spoke highly of him, and Dugu Shuo seems to like him, too..."
+    },
+    {
+     "s": 4,
+     "t": "True, but the issue is... where did his sudden celebrity come from? It almost seems too good to be true."
+    },
+    {
+     "s": 1,
+     "t": "Sudden? Too good to be true? What do you mean?"
+    },
+    {
+     "s": 4,
+     "t": "So he returns cruelty with kindness, and had to work to support his studies... These are the kinds of things that make someone well-known in their hometown. But Uncle Sun said even his friends who travel far and wide hear about him wherever they go. That's a little over the top, if you ask me."
+    },
+    {
+     "s": 4,
+     "t": "Do you remember what Dugu Shuo said about Zhiyi's stories? Clearly they left him with a good impression of the guy, but beyond that he wasn't interested in the details. That's the reaction I would expect from any normal person."
+    },
+    {
+     "s": 4,
+     "t": "Plus there's the fact that all this praise of Zhiyi has only been happening within the last two or three months."
+    },
+    {
+     "s": 4,
+     "t": "His childhood, his studies, the thing with his neighbor... None of these are recent events. So why are these stories only going around now?"
+    },
+    {
+     "s": 1,
+     "t": "When you put it like that, it is kinda strange..."
+    },
+    {
+     "s": 4,
+     "t": "Of course, if that's all there was to it, I wouldn't look into it any further."
+    },
+    {
+     "s": 4,
+     "t": "Zhiyi was born into a poor family. Paying people to get his stories out there is within the rules of the game, as far as I'm concerned."
+    },
+    {
+     "s": 4,
+     "t": "The problem is... do you remember what Uncle Gao said about him? He's stayed poor his whole life. Everything he's earned, he's either spent on studying, traveling, or paying off debts. I don't think he has the Mora to pay for a publicity campaign."
+    },
+    {
+     "sit": "Someone's helping him."
+    },
+    {
+     "sit": "Maybe he's working with someone."
+    },
+    {
+     "s": 4,
+     "t": "Right, and that changes everything... It could mean a powerful faction is trying to gain influence over the Liyue Qixing."
+    },
+    {
+     "s": 4,
+     "t": "That's the worst-case scenario, but all too often, the most pessimistic speculation turns out to be the closest to the truth."
+    },
+    {
+     "s": 1,
+     "t": "Someone's trying to gain influence over the Qixing? That sounds serious. What should we do?"
+    },
+    {
+     "s": 1,
+     "t": "Even if we asked Zhiyi about it, surely there's no way he'd admit it."
+    },
+    {
+     "s": 4,
+     "t": "First we need to find out who's supporting him... Don't worry, I've got a plan."
+    },
+    {
+     "s": 4,
+     "t": "Remember the Current Affairs and Planning stage of the assessment? Since the successful candidate is duty bound to implement their plan after taking office, their manifesto tells us their stance on key issues."
+    },
+    {
+     "s": 4,
+     "t": "Whoever is secretly helping Zhiyi must be seeking to benefit from his actions after his appointment. So we should be able to find some hints in Zhiyi's manifesto on who we're dealing with."
+    },
+    {
+     "s": 4,
+     "t": "Come on, let's get back to Yanshang Teahouse."
+    },
+    {
+     "s": 2,
+     "t": "Maybe he's working with someone."
+    },
+    {
+     "s": 2,
+     "t": "I'm completely lost right now."
+    },
+    {
+     "s": 2,
+     "t": "I guess it's a white lie..."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Zhiyi's manifesto covers a huge range of topics. Looking for details that don't add up will be like trying to find a needle in a haystack."
+    },
+    {
+     "s": 4,
+     "t": "I'll divide the reports into two piles. You take one, I'll take the other. When we're finished, we'll put our heads together."
+    },
+    {
+     "s": 4,
+     "t": "Officially, the assessment is already over, and I'll be expected to announce the results before long. So we have to get to the bottom of this as quickly as we can."
+    },
+    {
+     "s": 1,
+     "t": "Yikes! We'd better hurry."
+    },
+    {
+     "s": 4,
+     "t": "Whatever else Uncle Tian might think of Zhiyi, the fact remains that he's one of his favorite students."
+    },
+    {
+     "s": 4,
+     "t": "Any evidence he's left is not going to be immediately obvious. We'll have to look carefully, and think critically."
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 1,
+     "t": "Whew... Even though Yelan took half, this is still a lot to get through..."
+    },
+    {
+     "s": 1,
+     "t": "Well, we gotta start somewhere."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Made any discoveries?"
+    },
+    {
+     "s": 1,
+     "t": "Not so far... But we're still looking!"
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 2,
+     "t": "Read Chapter: \"Sea\""
+    },
+    {
+     "s": 10,
+     "t": "Due to a variety of factors, sea storms have become stronger in recent years."
+    },
+    {
+     "s": 10,
+     "t": "I suggest we set up a special patrol unit to deal with sea monsters. The fleet should consist of the following..."
+    },
+    {
+     "s": 10,
+     "t": "(Covers various issues related to coastal defense...)"
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 2,
+     "t": "Read Chapter: \"Rock\""
+    },
+    {
+     "s": 10,
+     "t": "Much of Liyue's folklore suggests that Rex Lapis left a great deal of wealth in the mountains of Liyue."
+    },
+    {
+     "s": 10,
+     "t": "However, due to obstacles hindering the excavation operation at The Chasm, many projects have been called off."
+    },
+    {
+     "s": 10,
+     "t": "The workers of the Blackcliff Forge have been idle near the Golden House for a long time now. They should be given first refusal if any suitable projects arise..."
+    },
+    {
+     "s": 10,
+     "t": "(Covers mining, tunnel construction, and ruin exploration...)"
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 2,
+     "t": "Read Chapter: \"Roads\""
+    },
+    {
+     "s": 10,
+     "t": "The treacherous terrain around Huaguang Stone Forest and Qingyun Peak means the area has weak transport links."
+    },
+    {
+     "s": 10,
+     "t": "The sheer mountain peaks are connected only by rope bridges. They are dangerous to walk on and wholly unsuited to the transportation of goods."
+    },
+    {
+     "s": 10,
+     "t": "These areas are rich in medicinal herbs and ore deposits. Building a road network around the mountains would be beneficial for everyone..."
+    },
+    {
+     "s": 10,
+     "t": "(Covers plans to build roads and bridges.)"
+    },
+    {
+     "section": "Zhiyi's Manifesto"
+    },
+    {
+     "s": 2,
+     "t": "Stop reading."
+    },
+    {
+     "s": 1,
+     "t": "All this reading is giving Paimon a headache..."
+    },
+    {
+     "s": 1,
+     "t": "Let's take a break."
+    },
+    {
+     "section": "Shanghua, Yelan, Wenyuan"
+    },
+    {
+     "s": 13,
+     "t": "Aha, looks like I'm the first one back, as usual."
+    },
+    {
+     "s": 1,
+     "t": "Oh, hey, it's one of Yelan's little helpers, Shanghua!"
+    },
+    {
+     "s": 1,
+     "t": "If you're back, that means... that means you've finished investigating Qianwei, right?"
+    },
+    {
+     "s": 13,
+     "t": "You betcha. I visited all the commerce guilds and gathered a wealth of information. Every time they asked me to leave, but I always had another trick up my sleeve..."
+    },
+    {
+     "s": 4,
+     "t": "Don't drag this out. Just tell us your findings."
+    },
+    {
+     "s": 13,
+     "t": "Yes, Lady Yelan."
+    },
+    {
+     "s": 13,
+     "t": "To summarize my findings, most people who've had interactions with Qianwei will start out complaining about how proud and arrogant he is, but then go on to give a generally positive appraisal of him."
+    },
+    {
+     "s": 13,
+     "t": "The young master of the Feiyun Commerce Guild said that Qianwei appears arrogant, but he's very scrupulous in the way he works."
+    },
+    {
+     "s": 13,
+     "t": "Once he signs a contract with somebody, he treats them fairly regardless of their background."
+    },
+    {
+     "s": 1,
+     "t": "Who'd have thought!"
+    },
+    {
+     "s": 4,
+     "t": "Is it possible that his reputation is fake? Is there any way you can check the accounts of the businesses under his name?"
+    },
+    {
+     "s": 13,
+     "t": "In theory, that should be very difficult. But here's the thing... I asked around and found out that almost all of Qianwei's accounts are open to the public."
+    },
+    {
+     "s": 13,
+     "t": "Where he buys from and sells to should be confidential business information, but he doesn't seem interested in protecting it at all."
+    },
+    {
+     "s": 13,
+     "t": "Qianwei often sees business opportunities that others don't. But once he's made enough Mora off of it, it's like he gets sick of it and releases all of his trade secrets."
+    },
+    {
+     "s": 13,
+     "t": "It's like he wants people to know that they still can't beat him even if he shares all of his secrets. The fact that someone like that can still make Mora is pretty infuriating when you think about it!"
+    },
+    {
+     "s": 1,
+     "t": "What a strange guy. It's like he's not doing business to make Mora, but instead..."
+    },
+    {
+     "s": 4,
+     "t": "To validate his theories. No wonder his manifesto contains so many insights — it's all the result of his firsthand experimentation."
+    },
+    {
+     "s": 12,
+     "t": "I'm back... Huh? How come you're here?"
+    },
+    {
+     "s": 13,
+     "t": "Why do you think? Obviously, because I possess superior skills and am always one step ahead of the competition... Well, when you're the competition, at least."
+    },
+    {
+     "s": 12,
+     "t": "You... Whatever, I'm not getting into an argument with you. If I hadn't had something else to take care of on the way, I would've been back long before you."
+    },
+    {
+     "s": 12,
+     "t": "Lady Yelan, I have finished investigating Mingbo."
+    },
+    {
+     "s": 4,
+     "t": "Well, we're all ears."
+    },
+    {
+     "s": 12,
+     "t": "The Ministry of Civil Affairs says that Mingbo struggles to get his words out when he gets nervous, especially when he's chatting with strangers."
+    },
+    {
+     "s": 12,
+     "t": "But after a few days of getting to know him, you can pretty much have a normal conversation with him. On the whole, the feedback from the Ministry of Civil Affairs was very positive. He always considers the things that everyone else overlooks."
+    },
+    {
+     "s": 4,
+     "t": "In your opinion, was the Ministry of Civil Affairs' appraisal of Mingbo at all exaggerated?"
+    },
+    {
+     "s": 12,
+     "t": "I don't believe so. Mingbo is someone who has slowly but surely earned the reputation he has today."
+    },
+    {
+     "s": 12,
+     "t": "According to Ms. Yu, the Ministry often gets Mingbo to take a final look at projects before they're implemented. People feel much more confident in something if it has his stamp of approval."
+    },
+    {
+     "s": 12,
+     "t": "Oh, and also, there was once someone in the Ministry who was lying and cheating to try to advance their career. Mingbo gave them the scolding of a lifetime. Apparently, he can be terrifying when he loses his temper... I haven't seen it for myself though."
+    },
+    {
+     "s": 1,
+     "t": "Whoa... That's hard to imagine..."
+    },
+    {
+     "s": 4,
+     "t": "Like I said before: Things are not always as they appear."
+    },
+    {
+     "s": 1,
+     "t": "Ah, so that's what you meant by that. Paimon's starting to get it now..."
+    },
+    {
+     "s": 4,
+     "t": "Thank you both. You're free to go now."
+    },
+    {
+     "s": 4,
+     "t": "So, have you finished reading the manifesto, {NICKNAME}?"
+    },
+    {
+     "s": 1,
+     "t": "We still have a bit left, hehe."
+    },
+    {
+     "sit": "You finish reading the manifesto with Yelan."
+    },
+    {
+     "s": 4,
+     "t": "Hmm... I can't see any immediate problems looking at the individual entries."
+    },
+    {
+     "s": 4,
+     "t": "The only one that strikes me as a little unusual is the Qingxu Pool Redevelopment Plan."
+    },
+    {
+     "s": 2,
+     "t": "What's that?"
+    },
+    {
+     "s": 4,
+     "t": "Qingxu Pool has always been home to many secrets. Plus, Azhdaha once wrought havoc there, so there are even more secrets buried deep underground."
+    },
+    {
+     "s": 4,
+     "t": "At some point, a rumor began to go around that there is great treasure buried beneath Qingxu Pool."
+    },
+    {
+     "s": 4,
+     "t": "A long time ago, with the approval of the Qixing, a mining team conducted an exploratory excavation there."
+    },
+    {
+     "s": 1,
+     "t": "So... did they find any treasure?"
+    },
+    {
+     "s": 4,
+     "t": "None. The ruin was completely impenetrable. The only way they could have gotten through the solid rock would've been by blowing it open with a special kind of explosive."
+    },
+    {
+     "s": 4,
+     "t": "The technology wasn't mature enough at that time, so the excavation project was shut down, and the \"treasure\" became a mere legend."
+    },
+    {
+     "s": 4,
+     "t": "Zhiyi's manifesto focuses on solving problems, and this treasure hunt seems extremely risky. It seems out of step with the rest of his plans."
+    },
+    {
+     "s": 4,
+     "t": "Still, this one fact alone doesn't tell us much. Everyone wants to get their hands on this treasure — the Treasure Hoarders, the Fatui, even local Liyue factions..."
+    },
+    {
+     "s": 4,
+     "t": "Did you find anything?"
+    },
+    {
+     "s": 1,
+     "t": "\"Excavation,\" \"project,\" \"treasure\"... Did we read anything similar in our half of the manifesto, {NICKNAME}?"
+    },
+    {
+     "sit": "The Blackcliff Forge..."
+    },
+    {
+     "sit": "The \"Rock\" chapter."
+    },
+    {
+     "s": 1,
+     "t": "Oh yeah! Zhiyi said the Blackcliff Forge workers should get right of first refusal if any suitable projects come up!"
+    },
+    {
+     "s": 4,
+     "t": "Did he now? Well, that makes everything much clearer... So Zhiyi wants the Blackcliff Forge to excavate the treasure of Qingxu Pool."
+    },
+    {
+     "s": 1,
+     "t": "Does that mean the Blackcliff Forge is Zhiyi's secret supporter?"
+    },
+    {
+     "s": 4,
+     "t": "No, not likely. I've looked into the Blackcliff Forge before. They aren't involved with any powerful factions at present."
+    },
+    {
+     "s": 4,
+     "t": "They do possess some specialized explosives, but it would seem more trouble than it's worth to put so many resources into a risky project like this."
+    },
+    {
+     "s": 4,
+     "t": "Still, since the clues are pointing toward the Blackcliff Forge, we should see where they lead. We may well find something new."
+    },
+    {
+     "s": 2,
+     "t": "The \"Rock\" chapter."
+    },
+    {
+     "section": "Iron Shoulder"
+    },
+    {
+     "s": 1,
+     "t": "Sooooo... anything strange been going on recently?"
+    },
+    {
+     "s": 19,
+     "t": "...Excuse me? What's that supposed to mean, strange how?"
+    },
+    {
+     "s": 1,
+     "t": "Uhhh... just... y'know, stuff that when it happens, you think to yourself: \"That was weird!\""
+    },
+    {
+     "s": 19,
+     "t": "?"
+    },
+    {
+     "s": 4,
+     "t": "I don't think we're going to get anywhere asking questions like that. Let's just take a look around."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 1,
+     "t": "What's this? A diary?"
+    },
+    {
+     "s": 4,
+     "t": "From the back, it looks like a ledger. But it seems they also use it as a site log."
+    },
+    {
+     "s": 4,
+     "t": "We don't know who wrote it, but it's interesting, don't you think? These newcomers... Who could have sent them?"
+    },
+    {
+     "s": 1,
+     "t": "You think they're suspicious?"
+    },
+    {
+     "s": 4,
+     "t": "Yes. Look, it says right there: one of them's already been promoted to team leader."
+    },
+    {
+     "s": 4,
+     "t": "At this rate, by the time the Qingxu Pool Redevelopment Plan is ready to roll, they'll be the technical backbone of the team."
+    },
+    {
+     "s": 4,
+     "t": "That'll give them the chance to take a lot of liberties... They can copy any secret texts or steal any treasure they find underground."
+    },
+    {
+     "s": 4,
+     "t": "Imagine if we didn't suspect anything. By the time Zhiyi recommends the Blackcliff Forge for the excavation project, at most we would maybe do a fresh background check on the place."
+    },
+    {
+     "s": 4,
+     "t": "No red flags if all they did was change some key staff. And even if we decided to vet the staff individually, they'd have had more than enough time by then to come up with fake identities."
+    },
+    {
+     "s": 4,
+     "t": "That's the advantage of planning this far in advance... It was a clever move."
+    },
+    {
+     "s": 1,
+     "t": "When you put it like that, it all makes sense... If we hadn't found this out, someone else would've stolen the treasure!"
+    },
+    {
+     "s": 1,
+     "t": "So who's really behind all this?"
+    },
+    {
+     "s": 4,
+     "t": "That's a question for the newcomers. But let's start with that worker over there for now."
+    },
+    {
+     "section": "Iron Shoulder"
+    },
+    {
+     "s": 1,
+     "t": "Uh, excuse us... We wanna ask you about the newcomers!"
+    },
+    {
+     "s": 19,
+     "t": "*sigh* You want them to teach you or something?"
+    },
+    {
+     "s": 19,
+     "t": "I gotta say, these newcomers are in tip-top shape. Fast learners, too. They're picking up all the skills unbelievably fast."
+    },
+    {
+     "s": 19,
+     "t": "My only complaint is that they're always going out drinking at night, but they never let us join them."
+    },
+    {
+     "s": 19,
+     "t": "I guess they just need some time to adjust. I'm sure we'll get to know each other over time."
+    },
+    {
+     "s": 4,
+     "t": "They go out drinking? This area isn't exactly renowned for the nightlife. I'm guessing it's a long trip to the nearest tavern?"
+    },
+    {
+     "s": 19,
+     "t": "You got that right. They tell me they go all the way back to Liyue Harbor to drink at Wanmin Restaurant."
+    },
+    {
+     "s": 19,
+     "t": "It rained after work today, so they actually stuck around at the site for a while. But as soon as the rain stopped, they went out drinking again right away."
+    },
+    {
+     "s": 19,
+     "t": "Hey, you're only young once, right? I say, if they can hack it, let 'em at it, haha."
+    },
+    {
+     "s": 4,
+     "t": "Interesting. Let's go talk somewhere else, {NICKNAME}."
+    },
+    {
+     "sit": "Yelan takes you to a quieter place..."
+    },
+    {
+     "s": 4,
+     "t": "Looks like our hunch was on the Mora. These newcomers are very suspicious."
+    },
+    {
+     "s": 4,
+     "t": "Drinking in Liyue Harbor, huh? Some cover story. I'll wager they've been going to intelligence updates..."
+    },
+    {
+     "s": 4,
+     "t": "Good thing it rained today — it means they'll leave footprints... I doubt they'd give themselves away that easily, but let's follow them and try our luck."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "The footprints stop here."
+    },
+    {
+     "s": 4,
+     "t": "But judging from the direction, I'm guessing their destination was that abandoned house."
+    },
+    {
+     "s": 2,
+     "t": "(It looks like there may have been a fight here, but it's hard to say for certain.)"
+    },
+    {
+     "s": 2,
+     "t": "(This was the work of a professional... but who?)"
+    },
+    {
+     "s": 2,
+     "t": "(A fresh fruit pit. Someone was here recently.)"
+    },
+    {
+     "s": 2,
+     "t": "(There don't seem to be any more clues.)"
+    },
+    {
+     "s": 2,
+     "t": "(These stripes in the dirt were likely made by a bamboo mat. That means someone slept here.)"
+    },
+    {
+     "s": 2,
+     "t": "(But the bamboo mat is nowhere to be seen now.)"
+    },
+    {
+     "s": 2,
+     "t": "(A fire that burned out. Something was burned here not long ago.)"
+    },
+    {
+     "s": 2,
+     "t": "(You find a fresh fruit pit in the pile of leaves.)"
+    },
+    {
+     "s": 2,
+     "t": "(It seems like someone was here recently, but you can't find any more clues.)"
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Looks like we were too late."
+    },
+    {
+     "s": 4,
+     "t": "This has gotta be where the newcomers rendezvous with whoever they're working for. But all the evidence has been destroyed."
+    },
+    {
+     "s": 4,
+     "t": "Look at these ashes. Someone was burning documents not long before we arrived."
+    },
+    {
+     "s": 1,
+     "t": "Could there be anything left? Maybe the wind could've blown the fire out before everything was finished burning?"
+    },
+    {
+     "s": 4,
+     "t": "The odds of that are very slim. It's practically impossible. I've checked — all the paper's been burned. There's only ash left now."
+    },
+    {
+     "s": 1,
+     "t": "Why don't we wait for them back at the Blackcliff Forge? They've gotta go back there sooner or later."
+    },
+    {
+     "s": 4,
+     "t": "We can't count on that. Clearly, they were based here at one point, but it's mysteriously abandoned now."
+    },
+    {
+     "s": 4,
+     "t": "To me, that says that whoever's behind this has moved them somewhere else to throw our investigation off course."
+    },
+    {
+     "s": 1,
+     "t": "Darn... Guess this is where our trail runs cold!"
+    },
+    {
+     "s": 4,
+     "t": "Make no mistake, the purpose of our trip wasn't to find any solid evidence. We just need to figure out who's behind Zhiyi."
+    },
+    {
+     "s": 4,
+     "t": "I smelled something peculiar the moment I came in."
+    },
+    {
+     "s": 4,
+     "t": "Those newcomers probably thought they'd be safe as long as they burned the letters. But what they failed to consider is that paper and ink from different regions produce different odors when they're burned."
+    },
+    {
+     "s": 1,
+     "t": "Really? *sniff* Paimon can't smell anything! Do you smell anything, {NICKNAME}?"
+    },
+    {
+     "s": 2,
+     "t": "I smell a very gentle fragrance."
+    },
+    {
+     "s": 4,
+     "t": "There is a certain place with a freezing-cold climate where there's nothing but ice as far as the eye can see."
+    },
+    {
+     "s": 4,
+     "t": "Some wealthy people there put floral fragrance in their ink as a way of injecting a little romance into their writing."
+    },
+    {
+     "s": 4,
+     "t": "When that fragrant ink is burned, this is the exact odor that it leaves behind..."
+    },
+    {
+     "sit": "Snezhnaya..."
+    },
+    {
+     "sit": "The Fatui!"
+    },
+    {
+     "s": 4,
+     "t": "Exactly. The evidence will soon be blown away by the wind, so it's nothing we can arrest anyone with."
+    },
+    {
+     "s": 4,
+     "t": "But it's all I need. Now I know who we're dealing with, I can plan our next move."
+    },
+    {
+     "sit": "You leave the abandoned house with Yelan..."
+    },
+    {
+     "s": 20,
+     "t": "Lady Yelan! Oh, thank goodness I finally found you! *sob* ...I thought I'd never see you again!"
+    },
+    {
+     "s": 1,
+     "t": "...Um, who are you?"
+    },
+    {
+     "s": 4,
+     "t": "Don't be alarmed, this is Wupei. He's Wenyuan and Shanghua's colleague."
+    },
+    {
+     "s": 4,
+     "t": "I sent him to look into Zhiyi's regular contacts. Since Zhiyi likes fishing, Wupei thought he might know some of the fishermen and sailors, so he took a boat out to sea to ask around."
+    },
+    {
+     "s": 4,
+     "t": "I left him a note at Yanshang Teahouse telling him to look for me at Blackcliff Forge when he got back. If there'd been an ambush waiting for us there, it means we'd have had some backup."
+    },
+    {
+     "s": 4,
+     "t": "So, what did you find out at sea?"
+    },
+    {
+     "s": 20,
+     "t": "*sigh* Forgive my incompetence. I'm afraid I've come up empty-handed."
+    },
+    {
+     "s": 20,
+     "t": "I asked all the fishermen multiple times, but none of them had had any interactions with Zhiyi before. Then the waves got so choppy I ended up falling overboard. Fortunately, someone managed to drag me out."
+    },
+    {
+     "s": 20,
+     "t": "When I got back, I heard that you'd gone to Blackcliff Forge and might need backup, so I went straight there as fast as I could. Didn't even stop to change my clothes."
+    },
+    {
+     "s": 4,
+     "t": "Oh? Well, Uncle Tian said that Zhiyi once bought a recipe from one of the fishermen. Did you hear anything about that at all?"
+    },
+    {
+     "s": 20,
+     "t": "What? That's news to me."
+    },
+    {
+     "s": 20,
+     "t": "No, that's not possible... It's absolutely not possible! Lady Yelan, I'm telling you — I spoke to every single fisherman out there, and none of them mentioned anything about a recipe."
+    },
+    {
+     "s": 4,
+     "t": "Interesting... Then I wonder how that \"even more wonderful\" fish soup came about?"
+    },
+    {
+     "s": 20,
+     "t": "Fish soup? What fish soup?"
+    },
+    {
+     "s": 4,
+     "t": "Nothing. Our priority right now is to find a way to get our hands on some solid evidence."
+    },
+    {
+     "s": 4,
+     "t": "Well, any suggestions?"
+    },
+    {
+     "sit": "Send someone to tail them?"
+    },
+    {
+     "sit": "Catch them red-handed when they meet..."
+    },
+    {
+     "s": 4,
+     "t": "Not a bad idea. Wupei, what do you think?"
+    },
+    {
+     "s": 20,
+     "t": "Honestly, I've already tried following Zhiyi. But the guy's too cautious. Never meets with anyone suspicious."
+    },
+    {
+     "s": 1,
+     "t": "Okay, so tailing's out..."
+    },
+    {
+     "s": 4,
+     "t": "No, we'll still need to tail him. But first, we need to do some groundwork."
+    },
+    {
+     "s": 1,
+     "t": "Groundwork?"
+    },
+    {
+     "s": 4,
+     "t": "When you've worked in intelligence for a long time, you'll understand that no one can stay on high alert forever. Especially... when he thinks he's about to win."
+    },
+    {
+     "s": 4,
+     "t": "Tomorrow morning, I'll announce his victory at Yuehai Pavillion. Take a guess, what do you think he'll do next?"
+    },
+    {
+     "s": 4,
+     "t": "Be sure to arrive on time. You won't wanna miss the show."
+    },
+    {
+     "s": 2,
+     "t": "Catch them red-handed when they meet..."
+    },
+    {
+     "s": 2,
+     "t": "The Fatui!"
+    }
+   ],
+   "description": "Yelan does not seem particularly reassured by Zhiyi and decides to go down to the wharf to speak to Bolai and find out how well he is rated by others."
+  },
+  {
+   "title": "Foregone Conclusion",
+   "dialogue": [
+    {
+     "section": "Yelan, Qianwei, Mingbo, Zhiyi"
+    },
+    {
+     "s": 4,
+     "t": "It looks like we're all here. Well then, time for me to announce the results of the assessment process."
+    },
+    {
+     "s": 4,
+     "t": "I won't drone on about the importance of the Tianshu role. Suffice to say that Uncle Tian entrusted me with the monumentally important task of assessing the candidates, and now it falls to me to give him a satisfactory answer."
+    },
+    {
+     "s": 5,
+     "t": "All of us here know the score. Don't beat around the bush, just get on with it."
+    },
+    {
+     "s": 4,
+     "t": "Qianwei has many pioneering ideas, but some of his plans are lacking in detail, and he easily gets into testy exchanges with other people."
+    },
+    {
+     "s": 4,
+     "t": "Mingbo is reliable, but not quite ambitious enough, and because of his personality, he struggles to win people over."
+    },
+    {
+     "s": 4,
+     "t": "In contrast, Zhiyi is evenly balanced across the board, and enjoys an excellent reputation in Liyue."
+    },
+    {
+     "s": 4,
+     "t": "After much consideration, I have decided to recommend Zhiyi to the Liyue Qixing."
+    },
+    {
+     "s": 5,
+     "t": "What!?"
+    },
+    {
+     "s": 6,
+     "t": "Oh, uh... Congratulations..."
+    },
+    {
+     "s": 7,
+     "t": "Thank you. Honestly, I'm a little surprised to hear my name being announced."
+    },
+    {
+     "s": 7,
+     "t": "In my estimation, all three of us are worthy candidates for the Tianshu position. As your competitor, I've become keenly aware of your great talents."
+    },
+    {
+     "s": 7,
+     "t": "Would either of you entertain the possibility of working with me in the future, and taking on some of my workload?"
+    },
+    {
+     "s": 5,
+     "t": "I'll have to see. I'm in a bad mood. This is the last thing I want to be thinking about right now."
+    },
+    {
+     "s": 6,
+     "t": "I don't mind... As long as I can help..."
+    },
+    {
+     "s": 4,
+     "t": "Okay, well that's all from me. Zhiyi, you'll have some preparation to do. It won't be long before you're informed of your official appointment. I hope you will work hard and make Uncle Tian proud."
+    },
+    {
+     "s": 7,
+     "t": "I will live up to the Tianshu name. On this, you have my word."
+    },
+    {
+     "s": 7,
+     "t": "I should go. I need to pack my things and then I think a celebratory meal is in order... Would anyone like to join me?"
+    },
+    {
+     "s": 5,
+     "t": "Count me out. I am not in the mood for a celebration."
+    },
+    {
+     "s": 1,
+     "t": "Zhiyi seems pretty relaxed now. This would be a good time to follow him..."
+    },
+    {
+     "s": 5,
+     "t": "Hey, Traveler! Tell me something — what exactly does that guy have that I don't?"
+    },
+    {
+     "s": 5,
+     "t": "If you can't answer that, I'm not accepting this result!"
+    },
+    {
+     "s": 6,
+     "t": "I, uh... also wouldn't mind knowing..."
+    },
+    {
+     "s": 1,
+     "t": "Oh no! If we get stuck here, we won't be able to leave..."
+    },
+    {
+     "s": 4,
+     "t": "Follow him."
+    },
+    {
+     "s": 12,
+     "t": "Yes, Ma'am."
+    },
+    {
+     "sit": "After finally persuading Qianwei and Mingbo to leave..."
+    },
+    {
+     "s": 1,
+     "t": "Phew... We finally got rid of them..."
+    },
+    {
+     "s": 12,
+     "t": "Lady Yelan, Zhiyi has gone towards Feiyun Slope."
+    },
+    {
+     "s": 4,
+     "t": "Follow him. Quickly."
+    },
+    {
+     "section": "Shanghua, Yelan"
+    },
+    {
+     "s": 13,
+     "t": "I'm sorry, Lady Yelan. We lost him."
+    },
+    {
+     "s": 13,
+     "t": "He's too good at this... We weren't able to keep following him without being seen."
+    },
+    {
+     "s": 1,
+     "t": "How the heck did he manage to shake Yelan's subordinates..."
+    },
+    {
+     "s": 1,
+     "t": "I guess Zhiyi didn't let his guard down. Still as vigilant as ever?"
+    },
+    {
+     "s": 13,
+     "t": "No, Wupei says he's much more relaxed than usual... Maybe it's just how he's wired. Perceptive enough to sense when he's being watched."
+    },
+    {
+     "s": 1,
+     "t": "But how..."
+    },
+    {
+     "s": 4,
+     "t": "Don't blame yourselves. Let's not forget he was trained by Uncle Tian himself. Evading detection is not an unusual skill for him to have."
+    },
+    {
+     "s": 4,
+     "t": "If I'd asked you to tail Uncle Tian, you'd have ended up at a dead end, too. It's fine. So, where did you lose him?"
+    },
+    {
+     "s": 13,
+     "t": "Xinyue Kiosk. He only went in briefly. Wupei and I were watching outside the whole time."
+    },
+    {
+     "s": 13,
+     "t": "A few moments later, a man dressed in a completely different outfit came out. Wupei had a feeling that it was him, but we couldn't get close enough to check without blowing our cover."
+    },
+    {
+     "s": 13,
+     "t": "I figured that if we spooked him, it would undo what we've accomplished today so far. Another option would've been to arrest him there and then... But without any evidence, that would've been meaningless."
+    },
+    {
+     "s": 13,
+     "t": "So I stopped Wupei, and I stayed here to wait for you while that meathead went to ask around in Xinyue Kiosk."
+    },
+    {
+     "s": 4,
+     "t": "Good work."
+    },
+    {
+     "s": 4,
+     "t": "The fish didn't take the bait, but that's okay. As long as he's still swimming around, we'll find a way to catch him eventually... The key is figuring out what he's trying to achieve."
+    },
+    {
+     "s": 4,
+     "t": "Let's go to Xinyue Kiosk."
+    },
+    {
+     "section": "Wupei, Heli"
+    },
+    {
+     "s": 20,
+     "t": "Could you explain to me how that works? A guy like him comes in, changes his whole outfit right under your nose, and you don't even ask him about it?"
+    },
+    {
+     "s": 21,
+     "t": "Our customers are free to dress however they please. What grounds would I have to question him?"
+    },
+    {
+     "s": 20,
+     "t": "*sigh* Okay, fair enough, but didn't you think it was just a little bit strange?"
+    },
+    {
+     "s": 21,
+     "t": "Maybe I did, but it still doesn't give me the right to stop him..."
+    },
+    {
+     "s": 4,
+     "t": "Enough, let's tone this down a little."
+    },
+    {
+     "s": 4,
+     "t": "I'll make this quick. Just one question: What did he buy while he was here?"
+    },
+    {
+     "s": 21,
+     "t": "Oh, he didn't buy anything. He just picked up a bottle of liquor that he ordered ages ago."
+    },
+    {
+     "s": 4,
+     "t": "A bottle of liquor?"
+    },
+    {
+     "s": 21,
+     "t": "Yes, a very strong kind. Fiery with a rich flavor. Not something the average customer would order."
+    },
+    {
+     "s": 21,
+     "t": "This gentleman ordered it in person from us a long time ago. He was only here today to pick it up."
+    },
+    {
+     "s": 4,
+     "t": "Liquor... and wineware... I see. Let's go."
+    },
+    {
+     "s": 1,
+     "t": "Where to?"
+    },
+    {
+     "s": 4,
+     "t": "Xigu Antiques."
+    },
+    {
+     "section": "Linlang"
+    },
+    {
+     "s": 4,
+     "t": "Hey, Ms. Linlang, sorry to bother you — Zhiyi ordered a wineware set from you not long ago, right?"
+    },
+    {
+     "s": 4,
+     "t": "We're friends of his. He's been telling us how impressed he is with the quality considering how affordable it was, so we just had to come and take a look for ourselves."
+    },
+    {
+     "s": 22,
+     "t": "Sure. Which model are you looking for?"
+    },
+    {
+     "s": 4,
+     "t": "Um... We don't really know a whole lot about wineware... Let's just go with Zhiyi's choice. Would you be able to show us the one he bought?"
+    },
+    {
+     "s": 22,
+     "t": "Zhiyi picked up his set not long ago. As a quality imitation of an antique wineware set, it has the look and feel of a luxury item."
+    },
+    {
+     "s": 22,
+     "t": "Just so you're aware, we don't have many of this model left in stock. And now that Mr. Zhiyi has taken one, I'm afraid... it may encourage the price to go up a little."
+    },
+    {
+     "s": 4,
+     "t": "Don't worry. Price shouldn't be an issue. I'm sure we can work something out. But I'm just a little hazy on one thing — did Zhiyi's wineware set include wine glasses, or...?"
+    },
+    {
+     "s": 22,
+     "t": "For this set, the wine glasses are sold separately. Minimum purchase is one glass, maximum is four. Mr. Zhiyi bought two."
+    },
+    {
+     "s": 4,
+     "t": "Okay... Thanks, Linlang. Seems there's a little more to buying wineware than I first thought. We'll have to mull it over."
+    },
+    {
+     "s": 22,
+     "t": "Well, don't take too long. We could sell out any day now... Alright, see you next time."
+    },
+    {
+     "sit": "You find a quiet place nearby..."
+    },
+    {
+     "s": 12,
+     "t": "This is turning into a real headache..."
+    },
+    {
+     "s": 13,
+     "t": "I'd just like to point out that we have the self-professed \"Grandmaster of Fieldwork\" here to thank for being wholly incapable of tailing an ordinary civilian without being seen."
+    },
+    {
+     "s": 20,
+     "t": "It's not like you did any better!"
+    },
+    {
+     "s": 13,
+     "t": "My specialty is information trading, okay? I don't have the physical agility. What's your excuse?"
+    },
+    {
+     "s": 20,
+     "t": "I... ugh... fair point."
+    },
+    {
+     "s": 1,
+     "t": "Yelan, so has the plan failed?"
+    },
+    {
+     "s": 1,
+     "t": "If we can't figure out where Zhiyi went, there's not much we can do... But why was he buying liquor at Xinyue Kiosk anyway? To celebrate?"
+    },
+    {
+     "s": 4,
+     "t": "If so, it's no ordinary celebration."
+    },
+    {
+     "s": 1,
+     "t": "What do you mean?"
+    },
+    {
+     "s": 4,
+     "t": "First of all, Zhiyi isn't much of a drinker. On some level, he hates alcohol because of what it did to his father."
+    },
+    {
+     "s": 4,
+     "t": "If he was just looking to celebrate by himself, he wouldn't spend his meager savings on an expensive bottle of alcohol, let alone buy a pair of special wine glasses."
+    },
+    {
+     "s": 4,
+     "t": "No, this is a victory feast... held in honor of Zhiyi's private sponsor."
+    },
+    {
+     "s": 4,
+     "t": "Whoever this person is clearly enjoys hard liquor and has a very high status — hence the need for expensive-looking wineware."
+    },
+    {
+     "s": 4,
+     "t": "Now, where might we find Fatui who match that description, I wonder?"
+    },
+    {
+     "s": 12,
+     "t": "Fatui officials? Should be either the Snezhnayan Embassy or the Northland Bank."
+    },
+    {
+     "s": 4,
+     "t": "Have both locations surrounded. Take as many people as you need."
+    },
+    {
+     "s": 20,
+     "t": "Lady Yelan, is it time for us to make our move? If so, you can count me in."
+    },
+    {
+     "s": 4,
+     "t": "Get with the program, would you? This is a covert surveillance operation. Zhiyi may be vigilant, but that doesn't mean the same is true for his drinking buddy."
+    },
+    {
+     "s": 4,
+     "t": "In which case, we don't need to change tactics, just change who we're following."
+    },
+    {
+     "s": 1,
+     "t": "Great idea! So we just need to find out who Zhiyi bought that liquor for and follow them instead!"
+    },
+    {
+     "s": 12,
+     "t": "But Lady Yelan, if we get caught, this could become a major diplomatic incident..."
+    },
+    {
+     "s": 4,
+     "t": "I'm well aware. But don't you see? Zhiyi is gambling everything on this. If we really want to catch him, we're going to have to accept a little risk ourselves."
+    },
+    {
+     "s": 4,
+     "t": "Stick to your orders. And make sure we're covering all other bases, too — anywhere else Zhiyi might be going, I want eyes on those locations."
+    },
+    {
+     "s": 12,
+     "t": "...Yes, Ma'am."
+    },
+    {
+     "s": 13,
+     "t": "Don't worry, Lady Yelan. Zhiyi may be a slippery character, but we'll keep a close watch on the movements of all Fatui officials."
+    },
+    {
+     "s": 4,
+     "t": "I'll be waiting for you at the teahouse."
+    },
+    {
+     "s": 4,
+     "t": "If I'm guessing correctly, Fatui officials are likely to take action at night. {NICKNAME}, you should go and get ready, then meet me at Yanshang Teahouse."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "Perfect timing. Wenyuan just sent word that the Fatui Ambassador, Yusupov, just left the embassy alone. He's heading in the direction of Qingxu Pool."
+    },
+    {
+     "s": 1,
+     "t": "Qingxu Pool? That's the place Zhiyi mentioned in his manifesto..."
+    },
+    {
+     "s": 4,
+     "t": "It looks like that's where they've arranged to meet. Sensible choice, I'll give them that."
+    },
+    {
+     "s": 4,
+     "t": "Qingxu Pool is always crawling with monsters. Most people wouldn't dream of going there. It's one place they won't need to worry about being seen."
+    },
+    {
+     "s": 1,
+     "t": "Oh no! We gotta go get them!"
+    },
+    {
+     "s": 4,
+     "t": "Let's go. If my hunch is correct, we just might hit the jackpot this time."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "There's been some work done on this place in the past, but it's a bit of a labyrinth inside. I can't guarantee we'll be safe once we're underground."
+    },
+    {
+     "s": 4,
+     "t": "The workers left an emergency access route. If we can find it, this will be a much easier journey."
+    },
+    {
+     "s": 4,
+     "t": "Still... Be ready to fight at any moment. Any resistance needs to be taken out quickly and quietly. We don't want to attract too much attention."
+    },
+    {
+     "s": 1,
+     "t": "Don't worry, we're all professionals here!"
+    },
+    {
+     "s": 1,
+     "t": "By the way, Yelan, where are your three little helpers at?"
+    },
+    {
+     "s": 4,
+     "t": "They have other things to take care of first. We couldn't afford to wait for them, but they'll join us later."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 1,
+     "t": "You guys see that? That's gotta be the Fatui Ambassador, here to meet Zhiyi... Looks like he went through that door!"
+    },
+    {
+     "s": 1,
+     "t": "That must be the emergency access route, right? Come on, let's hurry!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "The water's gone down... Hey, look, is that another way through?"
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 23,
+     "t": "Mmm... I can tell from the aroma that this is very fine liquor indeed. I'm impressed."
+    },
+    {
+     "s": 23,
+     "t": "Come on, bottoms up. After you, of course!"
+    },
+    {
+     "s": 7,
+     "t": "*coughing* ...Sorry, that went down the wrong way. I've never drunk anything this strong before. It'll take me some getting used to."
+    },
+    {
+     "s": 23,
+     "t": "You'll get there. If you want to stay friends with us, you have to drink with us."
+    },
+    {
+     "s": 7,
+     "t": "*cough* ...I'll do my best."
+    },
+    {
+     "s": 23,
+     "t": "You're more of a lightweight than I thought... Already struggling after one glass?"
+    },
+    {
+     "s": 23,
+     "t": "I thought you were made of sterner stuff. You certainly kept it together when you were poisoning your teacher's soup!"
+    },
+    {
+     "s": 23,
+     "t": "Come on, another round. Less talking, more drinking, haha!"
+    },
+    {
+     "s": 7,
+     "t": "Sure. You didn't leave me much of a choice, though, did you? Just the mention of poisoning sends shivers down my spine."
+    },
+    {
+     "s": 7,
+     "t": "I'm more timid than you realize. Every time I poisoned him, I had to hide away at home for a few days because I was so scared of getting caught."
+    },
+    {
+     "s": 23,
+     "t": "Look, I know it has not been easy for you, my friend. We appreciate all your hard work."
+    },
+    {
+     "s": 23,
+     "t": "But I have to say: You really are quite a genius at poisoning people."
+    },
+    {
+     "s": 23,
+     "t": "I mean, the poison we brought from Snezhnaya is as strong as this wine, but you found a way to turn it into an imperceptible, slow-acting poison and came up with the idea of delivering it through fish soup."
+    },
+    {
+     "s": 23,
+     "t": "What was it you said... Oh yeah. You said \"the soup's fishy flavor neutralizes the pungency of the poison, and this process even makes the soup tastier as a result\"... Tsk tsk, how did you think of that?"
+    },
+    {
+     "s": 7,
+     "t": "It struck me one day when I was fishing. I'm lucky it did, otherwise, I'm not sure I would have been able to fool Uncle Tian."
+    },
+    {
+     "s": 23,
+     "t": "You have performed excellently! The Fatui will continue to provide the support you need to consolidate your position as Tianshu. Of course, this is as long as you continue to do as we instruct."
+    },
+    {
+     "s": 23,
+     "t": "Aside from Qingxu Pool, we also have some other requests for you, which we will inform you of in due course."
+    },
+    {
+     "s": 7,
+     "t": "Don't worry. Whatever tasks you have for me, I will perform them diligently."
+    },
+    {
+     "s": 1,
+     "t": "Did you hear that? It was poison... That's why Uncle Tian hasn't been feeling well recently. It's all Zhiyi's doing!"
+    },
+    {
+     "s": 1,
+     "t": "What a nasty guy! Seize him!"
+    },
+    {
+     "s": 4,
+     "t": "Hold on. Did you bring a Kamera, {NICKNAME}?"
+    },
+    {
+     "s": 4,
+     "t": "If not, you can use mine. This is quite a scene. We have to capture it for posterity."
+    },
+    {
+     "sit": "You take a picture of Zhiyi drinking with Yusupov..."
+    },
+    {
+     "s": 23,
+     "t": "Ahhh... Excellent liquor!"
+    },
+    {
+     "s": 23,
+     "t": "We've seen no progress on the diplomatic front, and everyone has been eyeing up the treasure of Qingxu Pool. It's been a real headache for me."
+    },
+    {
+     "s": 23,
+     "t": "But soon, everything will be taken care of, and I can report back on a successful mission. Thank you, Zhiyi!"
+    },
+    {
+     "s": 23,
+     "t": "I remember when I first saw you... I knew right away that you would make a good partner for us. Hey, do you still remember what I said to you?"
+    },
+    {
+     "s": 7,
+     "t": "How could I forget. You said a lowly commoner like me could never be seen as a serious candidate for the Tianshu, no matter how hard I work."
+    },
+    {
+     "s": 7,
+     "t": "\"The only way is for you to shine bright in the Tianshu's darkest moment\"... I think you were absolutely right."
+    },
+    {
+     "s": 23,
+     "t": "Yes. Under normal circumstances, the gap between you and other people could only ever grow wider over time."
+    },
+    {
+     "s": 23,
+     "t": "Just look at your two competitors. Qianwei had wealth, Mingbo had reputation, but you? You had nothing. You were just another nobody!"
+    },
+    {
+     "s": 23,
+     "t": "...And that's why I decided to help you. Yeah, there is an old saying in the Fatui: Give a starving dog a bone, and it'll guard your home for the rest of its life."
+    },
+    {
+     "s": 7,
+     "t": "Yes, I cannot thank you enough for your generous support."
+    },
+    {
+     "s": 23,
+     "t": "Hahaha... You know, the best thing about you is that you do as you're told, without complaining. Keep up the good work, and I can assure you, you'll never have to worry about Mora again."
+    },
+    {
+     "s": 23,
+     "t": "Heck, when you're not in the company of the Fatui, you'll be able to throw your weight around as much as you want. How about that?"
+    },
+    {
+     "s": 4,
+     "t": "Uncle Gao said that Zhiyi has low self-esteem... Seems he was right."
+    },
+    {
+     "s": 4,
+     "t": "He was worried that whatever advantage he might have now will diminish over time... so the Fatui persuaded him that he should act while he can."
+    },
+    {
+     "s": 4,
+     "t": "Do you have any more film in the Kamera?"
+    },
+    {
+     "s": 2,
+     "t": "Plenty."
+    },
+    {
+     "s": 4,
+     "t": "Then get ready to use it. Tonight's grand finale should be coming up any minute now."
+    },
+    {
+     "s": 4,
+     "t": "How well this goes for us depends on how Zhiyi plays his hand."
+    },
+    {
+     "s": 23,
+     "t": "Is there any more alcohol? Go on, fill me up. I'm in a good mood today, and I'm gonna drink my fill. Make sure to get me home safely afterward."
+    },
+    {
+     "s": 7,
+     "t": "There's only a little left. Here, I'll fill your glass. If you like it, I can bring you some more next time."
+    },
+    {
+     "s": 23,
+     "t": "*gulp* ...Phwoar, this is the good stuff, it is great..."
+    },
+    {
+     "s": 23,
+     "t": "Huh? Ugh... *cough* ... *cough* ...What the..."
+    },
+    {
+     "sit": "Suddenly, the Fatui official seems to be in pain and slowly drops to the ground."
+    },
+    {
+     "s": 23,
+     "t": "Zhiyi... You... You poisoned my wine? But when..."
+    },
+    {
+     "s": 7,
+     "t": "You seem surprised, Mr. Yusupov?"
+    },
+    {
+     "s": 23,
+     "t": "You... How could you..."
+    },
+    {
+     "s": 7,
+     "t": "How could I not? I've sacrificed years of my life studying and reflecting to prepare myself for this position, and in the end I even had to poison my own teacher."
+    },
+    {
+     "s": 7,
+     "t": "You really think I'd put myself through all that just to become your little puppet? I don't want to bow down to anyone ever again, and that includes you."
+    },
+    {
+     "s": 23,
+     "t": "You imbecile! It's the Fatui who got you to where you are, do you understand? ...If I disappear with no explanation, the embassy will come after you... They'll get to the bottom of this, mark my words!"
+    },
+    {
+     "s": 7,
+     "t": "Do you see the haystack in the corner? Underneath it is a pile of explosives. And next door in the darkroom are the three undercover agents you sent to infiltrate the Blackcliff Forge."
+    },
+    {
+     "s": 7,
+     "t": "I'm gonna stay here till I see you slip into unconsciousness, then I'm gonna set this on fire. Once the flames burn through the hay, they'll ignite the explosives, the ruins will collapse, and everything will be buried."
+    },
+    {
+     "s": 23,
+     "t": "Wh—What do you hope to..."
+    },
+    {
+     "s": 7,
+     "t": "I took the liberty of leaving some evidence of your contact with the undercover agents at the Blackcliff Forge. It won't take long for people to join the dots... Two missing-person cases will become one as the \"truth\" gradually reveals itself."
+    },
+    {
+     "s": 7,
+     "t": "The Fatui planted undercover agents in the Blackcliff Forge to steal their signature ruin-grade explosives. Their plan was to blow through the solid floor tiles in the dead of night and seize the treasure of Qingxu Pool."
+    },
+    {
+     "s": 7,
+     "t": "*sigh*...But things didn't quite go to plan. Mistakes were made that led to the accidental deaths of the entire crew."
+    },
+    {
+     "s": 7,
+     "t": "Faced with the overwhelming evidence, the embassy won't investigate this any further. In fact, they'll be only too happy to blame it all on a rogue operation by you."
+    },
+    {
+     "s": 7,
+     "t": "It explains why you acted alone, while exonerating the rest of the embassy of any liability."
+    },
+    {
+     "s": 7,
+     "t": "Of course, none of that will have anything to do with me. When all of this comes to my attention, I'm afraid I'll have no choice but to cancel the Qingxu Pool Redevelopment Plan immediately. I guess then, I'll be Tianshu in my own right, with a clean record and well out of the Fatui's reach."
+    },
+    {
+     "s": 23,
+     "t": "Haha... Hah."
+    },
+    {
+     "s": 23,
+     "t": "Zhiyi, do you really think you're gonna get away with this? The Fatui has a record of everything! That includes the poison, all interactions between us, even my trip here tonight!"
+    },
+    {
+     "s": 23,
+     "t": "After I die... they'll come looking... and they'll get to the bottom of this..."
+    },
+    {
+     "s": 7,
+     "t": "A record? Oh, you must mean the one in the hands of your second-in-command, Theofan?"
+    },
+    {
+     "s": 23,
+     "t": "H—How do you know about that?"
+    },
+    {
+     "s": 7,
+     "t": "Because when you contacted me, I also made contact with your associates. I have Theofan to thank for providing me with the poison I used on you today."
+    },
+    {
+     "s": 7,
+     "t": "He'll help me tie up all the loose ends. After all, your untimely demise comes with a few perks for him."
+    },
+    {
+     "s": 7,
+     "t": "He has been eyeing your position for a long time now."
+    },
+    {
+     "s": 23,
+     "t": "That traitor! *cough* ... *cough* ...Zhiyi, you—"
+    },
+    {
+     "s": 7,
+     "t": "Shhh. Relax... It's over. After tonight, everyone gets what they want. And anyone else in the know is either my accomplice, or about to be taken out of the picture."
+    },
+    {
+     "s": 7,
+     "t": "Sweet dreams, Mr. Yusupov."
+    },
+    {
+     "section": "Yelan"
+    },
+    {
+     "s": 4,
+     "t": "I did a little surveying on the way here, and found that you'd left yourself three escape routes in case things went south."
+    },
+    {
+     "s": 4,
+     "t": "I have them all surrounded. If you're thinking of trying anything, save yourself the effort. The game's up."
+    },
+    {
+     "s": 4,
+     "t": "We were here the whole time and have pictures of everything. They came out pretty nicely, wanna see them?"
+    },
+    {
+     "s": 7,
+     "t": "\"The game's up\"? ...Forgive me, I'm not quite sure what you're referring to, Ms. Yelan?"
+    },
+    {
+     "s": 7,
+     "t": "I happened to discover a Fatui operation here, so I approached them on the pretext of joining forces and eventually brought them down from within. If it pleases you, Ms. Yelan, I'd be only too happy to have you join me in investigating this matter."
+    },
+    {
+     "s": 4,
+     "t": "This is how you want to play it, huh?"
+    },
+    {
+     "s": 4,
+     "t": "Fine, you do you. All we need to do to convict you is establish that the poison in his system is the same as in Uncle Tian's."
+    },
+    {
+     "s": 7,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Nothing else you wanted to add? Let's leave it there then. Time to go."
+    },
+    {
+     "s": 7,
+     "t": "One wrong move and it all comes crashing down... I should have been more careful."
+    },
+    {
+     "s": 7,
+     "t": "You followed him here, didn't you? I was so focused on keeping myself out of sight, I forgot he was a potential liability."
+    },
+    {
+     "s": 7,
+     "t": "Let's talk about this, Yelan. I gave you my word that I would live up to the Tianshu name, and that much I can still guarantee."
+    },
+    {
+     "s": 4,
+     "t": "Your point being?"
+    },
+    {
+     "s": 7,
+     "t": "When I take office, I can guarantee that I will act in your best interests. In fact, all of you here tonight can expect very generous treatment in the future."
+    },
+    {
+     "s": 7,
+     "t": "I don't deny that I used underhanded methods to get here. But given my lowly origins, what other choice did I have?"
+    },
+    {
+     "s": 4,
+     "t": "Hmph, you still don't get it, do you? Even now."
+    },
+    {
+     "s": 4,
+     "t": "What do you think, {NICKNAME}?"
+    },
+    {
+     "sit": "What will Uncle Tian think?"
+    },
+    {
+     "sit": "Uncle Tian has always trusted you."
+    },
+    {
+     "s": 4,
+     "t": "Exactly. Zhiyi, clever people can always come up with a good excuse. But while you might be able to get other people to believe you, you'll never be able to deceive yourself."
+    },
+    {
+     "s": 4,
+     "t": "There's nothing wrong with wanting to win other people's respect. But when has Uncle Tian ever looked down on you?"
+    },
+    {
+     "s": 4,
+     "t": "He was like a teacher and a father to you, but you chose to repay that by poisoning him... Whatever positive goal you may have started out with, you threw it away in that moment."
+    },
+    {
+     "s": 7,
+     "t": "That's enough... I..."
+    },
+    {
+     "s": 4,
+     "t": "Of course, what makes this even crueler is that you managed to convince yourself there was \"no other way.\" Uncle Tian was always going to give you this opportunity... even if you'd done nothing at all."
+    },
+    {
+     "s": 4,
+     "t": "Out of everyone in the world, he is the one who trusts you the most. So much that he drank your fish soup without doubting you, not for one second."
+    },
+    {
+     "s": 7,
+     "t": "That's enough! ...That's enough."
+    },
+    {
+     "s": 4,
+     "t": "Sorry, things are about to get extremely busy for me. Let's meet at Yanshang Teahouse tomorrow morning, {NICKNAME}."
+    },
+    {
+     "s": 4,
+     "t": "I'll have someone remove the explosives. Then, there's someone I have to go and see."
+    },
+    {
+     "s": 1,
+     "t": "Need our help with that?"
+    },
+    {
+     "s": 4,
+     "t": "No. It could be dangerous... You should leave this one to the professionals."
+    },
+    {
+     "s": 2,
+     "t": "Be careful."
+    },
+    {
+     "s": 4,
+     "t": "Don't worry. As long as they're willing to cooperate, this'll be a straightforward deal."
+    },
+    {
+     "s": 4,
+     "t": "Get some rest. See you tomorrow."
+    },
+    {
+     "s": 2,
+     "t": "Uncle Tian has always trusted you."
+    },
+    {
+     "section": "Observe Cup"
+    },
+    {
+     "s": 2,
+     "t": "（test）（倾倒酒杯中仍残留着些许的毒酒，与天叔所中之毒出自同源。不知下毒的人在下手时都在想什么，也不知他此刻是否有了些许的悔意）"
+    },
+    {
+     "section": "Uncle Tian, Yelan"
+    },
+    {
+     "s": 24,
+     "t": "Ah, there is now no poison left in his system. But recovery from the damage already done will not happen overnight."
+    },
+    {
+     "s": 0,
+     "t": "Dr. Baizhu, is my father going to be..."
+    },
+    {
+     "s": 24,
+     "t": "You needn't worry too much. Keep taking the prescribed medicine, every day, and a full recovery will take at most two to three years."
+    },
+    {
+     "s": 24,
+     "t": "It's good we caught it in time. A few days later, and the toxin would've built up in the internal organs. At that point, things would've been much more serious."
+    },
+    {
+     "s": 24,
+     "t": "How did they successfully secure such a seldom-seen poison? It seems the Fatui are extremely resourceful!"
+    },
+    {
+     "s": 24,
+     "t": "Unfortunately for them, they were up against us."
+    },
+    {
+     "s": 24,
+     "t": "Uncle Tian, we'll be heading off now. Remember to get plenty of rest and avoid over-exerting yourself while you're recovering."
+    },
+    {
+     "s": 3,
+     "t": "Don't worry, I will. Thank you very much."
+    },
+    {
+     "s": 3,
+     "t": "Ah, you're here, too, {NICKNAME}? Thank you for all you've done to resolve this situation. I'll have to make some tea in a moment, you simply have to try it."
+    },
+    {
+     "s": 2,
+     "t": "Are you feeling any better?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. The exhaustion seems to have gone, and my mind is steadily getting clearer again."
+    },
+    {
+     "s": 4,
+     "t": "Luckily, it looks like choosing the Tianshu's successor is suddenly not such a pressing issue after all."
+    },
+    {
+     "s": 1,
+     "t": "Hey, Yelan!"
+    },
+    {
+     "s": 4,
+     "t": "My work is mostly wrapped up, so I thought I'd take a minute to check in here."
+    },
+    {
+     "s": 4,
+     "t": "The assessment process comes to an end here, Uncle Tian. In my opinion, Zhiyi is not suitable for the position. But Qianwei and Mingbo both have potential."
+    },
+    {
+     "s": 3,
+     "t": "You have my gratitude."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* ...People can change their loyalties easily, I've always known this. But whenever it happens, it's still a dismal experience."
+    },
+    {
+     "s": 1,
+     "t": "Is it just Paimon, or... is Uncle Tian not that surprised?"
+    },
+    {
+     "s": 4,
+     "t": "Hehe, don't underestimate Uncle Tian. He wouldn't have appointed me as assessment officer if he hadn't had his doubts about Zhiyi."
+    },
+    {
+     "s": 4,
+     "t": "Normally, the Yuehai Pavilion would be responsible for assessing the candidates. Isn't that right, Uncle Tian?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. To be quite honest, I wanted to trust him unreservedly, but I have to be responsible with the position of Tianshu."
+    },
+    {
+     "s": 3,
+     "t": "When I first met Zhiyi, I wondered if he had approached me with a hidden agenda, so I secretly investigated him."
+    },
+    {
+     "s": 3,
+     "t": "I concluded that he had no ulterior motives whatsoever. He just saw me as an ordinary fishing friend."
+    },
+    {
+     "s": 3,
+     "t": "In the end, even he changed... but when did it start?"
+    },
+    {
+     "s": 2,
+     "t": "What if none of this had ever happened?"
+    },
+    {
+     "s": 3,
+     "t": "I never had any plans to recommend him directly, but I always intended to give him the chance to compete on a level playing field. Family background and fame mean everything to many people, but I don't attach great importance to them."
+    },
+    {
+     "s": 3,
+     "t": "I had no reputation to speak of when I first became Tianshu. I relied on Ganyu's assistance for all manner of things. What I really admired about Zhiyi was his intelligence and resilience."
+    },
+    {
+     "s": 4,
+     "t": "I have to admit, he's a smart guy, and very cautious."
+    },
+    {
+     "s": 4,
+     "t": "The intel suggests that the Fatui saw him as very low risk, but Zhiyi was still extremely careful with the poisoning."
+    },
+    {
+     "s": 4,
+     "t": "He chose that specific liquor from Xinyue Kiosk because the fiery flavor would mask the bitterness of the poison, and he chose to wait until the Fatui official was drunk and had his guard down before delivering it to him."
+    },
+    {
+     "s": 4,
+     "t": "He also installed a secret compartment in the wine pot he bought to hold the poison. As the amount of liquor went down, he'd shake the pot to release the poison from the compartment into the liquor."
+    },
+    {
+     "s": 4,
+     "t": "Afterwards, we also found he had an antidote on him. Had the Fatui official grown suspicious, Zhiyi would have drunk the poisoned wine himself, and then found an opportunity to take the antidote shortly afterwards."
+    },
+    {
+     "s": 1,
+     "t": "But that's still really dangerous..."
+    },
+    {
+     "s": 4,
+     "t": "Yes, had he drunk the poisonous wine, he still would've faced serious health consequences despite taking the antidote. He didn't hesitate to put himself in harm's way to achieve his goal."
+    },
+    {
+     "s": 3,
+     "t": "How is Zhiyi now?"
+    },
+    {
+     "s": 4,
+     "t": "Well, I mean, he's sitting in a jail cell. Like Yanfei says, everyone who breaks the law has to pay the price."
+    },
+    {
+     "s": 4,
+     "t": "Still, he's cooperating. He didn't turn down my offer to strike a deal. I'll make sure there are plenty of guards around to keep him safe from anything the Fatui might be planning."
+    },
+    {
+     "s": 1,
+     "t": "A deal? Does this have to do with what you said to him when you arrested him?"
+    },
+    {
+     "s": 4,
+     "t": "Yes. Zhiyi's not the one I'm interested in. If he was as far as this went, I'd have handed the case off to my subordinates as soon as I realized."
+    },
+    {
+     "s": 4,
+     "t": "But once the Fatui became involved, things got a whole lot more interesting... I thought I might have the chance to catch a big fish."
+    },
+    {
+     "s": 3,
+     "t": "Well, did you?"
+    },
+    {
+     "s": 4,
+     "t": "Almost. Unfortunately, it slipped off the hook at the last second."
+    },
+    {
+     "s": 1,
+     "t": "Uncle Tian, Yelan, what are you talking about? Paimon doesn't understand..."
+    },
+    {
+     "s": 4,
+     "t": "Zhiyi colluded with the Fatui to try and secure the position of Tianshu. Or, to put it the other way around, the Fatui made an attempt to interfere in the Tianshu selection process."
+    },
+    {
+     "s": 4,
+     "t": "With Yusupov in our hands and a statement from Zhiyi, we could afford to continue with a diplomatic offensive."
+    },
+    {
+     "s": 4,
+     "t": "Also, we'd be able to gain control of Theofan, Yusupov's second-in-command. Then we'd have a pawn in the ranks of the Fatui."
+    },
+    {
+     "s": 4,
+     "t": "Pawns like this can be major assets. They open up all sorts of new options."
+    },
+    {
+     "s": 2,
+     "t": "So this was your real plan?"
+    },
+    {
+     "s": 4,
+     "t": "Why else did you think I was investing so much time and effort into this case?"
+    },
+    {
+     "s": 1,
+     "t": "So, okay, well... Did your plan succeed?"
+    },
+    {
+     "s": 4,
+     "t": "We got halfway. The first part went off without a hitch, and we passed all the information on to Lady Ningguang."
+    },
+    {
+     "s": 4,
+     "t": "But when we tried to make contact with Theofan, he was gone... along with all the evidence."
+    },
+    {
+     "s": 3,
+     "t": "The Fatui must be spying on us. Otherwise, they'd never have been able to respond so quickly."
+    },
+    {
+     "s": 4,
+     "t": "I found out from other sources that the Harbinger \"Regrator\" got involved."
+    },
+    {
+     "s": 4,
+     "t": "The Fatui's main forces aren't concentrated here. Regrator was only treating this as a peripheral concern."
+    },
+    {
+     "s": 4,
+     "t": "It's a pity that Theofan got away. But knowing which Harbingers are still looking at Liyue is something. It gives me a starting point for my next mission."
+    },
+    {
+     "s": 3,
+     "t": "I have to ask, Yelan, do you have any desire to take over the position of Tianshu yourself?"
+    },
+    {
+     "s": 3,
+     "t": "I remember you showed some interest a few days ago at Yanshang Teahouse. In my estimation, you are more than competent."
+    },
+    {
+     "s": 4,
+     "t": "Oh that... I was obviously joking."
+    },
+    {
+     "s": 4,
+     "t": "I prefer my current life. There's danger and there's excitement."
+    },
+    {
+     "s": 4,
+     "t": "Although it'd still be a behind-the-scenes role, as Tianshu, I wouldn't have the chance to get involved in anything truly clandestine or face any real danger."
+    },
+    {
+     "s": 4,
+     "t": "Alright, I'm done here, time for me to go. I'm heading off again in a few days, and I still have to prepare."
+    },
+    {
+     "s": 1,
+     "t": "Where are you off to this time?"
+    },
+    {
+     "s": 4,
+     "t": "As you might have guessed... Heh, it's for me to know, and you to find out."
+    },
+    {
+     "s": 4,
+     "t": "But I'm sure if you keep going as you are, getting yourselves involved in other people's business all the time, you're sure to get caught up in another misadventure before too long."
+    },
+    {
+     "s": 4,
+     "t": "Maybe I'll see you the next time danger beckons. Until then, keep your wits about you... A lot of people are watching you for a lot of reasons."
+    },
+    {
+     "s": 4,
+     "t": "If you have any more questions, just ask Uncle Tian. After the recent turn of events... I'd say he owes you one, wouldn't you?"
+    },
+    {
+     "section": "Uncle Tian"
+    },
+    {
+     "s": 3,
+     "t": "What would you like to know?"
+    },
+    {
+     "sit": "About Zhiyi..."
+    },
+    {
+     "sit": "About Yelan..."
+    },
+    {
+     "sit": "About \"Regrator\"..."
+    },
+    {
+     "sit": "About the next Tianshu..."
+    },
+    {
+     "sit": "I have no more questions."
+    },
+    {
+     "s": 3,
+     "t": "Something I've said to Zhiyi, Qianwei, and Mingbo before is that while cunning and scheming are quite crucial, even more important than this is staying true to yourself."
+    },
+    {
+     "s": 3,
+     "t": "Zhiyi and Ambassador Yusupov each saw the other as a means to an end. They thought that if they could just outsmart their opponent, they would emerge the final victor. And yet, in the eyes of Yelan and \"Regrator,\" they are but pawns in a much bigger game."
+    },
+    {
+     "s": 3,
+     "t": "Scheming is an endless endeavor. If you can't cope with it, you're better off staying out of it. It gives you a much clearer view, in any case."
+    },
+    {
+     "s": 3,
+     "t": "Everyone has self-interest, but you cannot let it be your master. So don't fight over fleeting gains and losses. Rather, focus on the direction your heart is leading you, and keep moving forward."
+    },
+    {
+     "s": 2,
+     "t": "About Yelan..."
+    },
+    {
+     "s": 3,
+     "t": "I first met Yelan when she was very young. Even back then, she was extremely tough, and she kept her cards close to her chest."
+    },
+    {
+     "s": 3,
+     "t": "An old friend of mine once privately commented to me that Yelan \"is always smiling, but never with her eyes. She is a very dangerous person.\""
+    },
+    {
+     "s": 3,
+     "t": "Something of an exaggeration, in my view. At least, I know she would never hurt the people she trusts."
+    },
+    {
+     "s": 2,
+     "t": "About \"Regrator\"..."
+    },
+    {
+     "s": 3,
+     "t": "\"Regrator\" is the 9th of the Fatui Harbingers, though likely the first among them where wealth is concerned."
+    },
+    {
+     "s": 3,
+     "t": "However, his \"wealth\" is not a mere question of how much Mora he has to his name. He has a very unique understanding of wealth... And what he's planning may very well shake the world to its core."
+    },
+    {
+     "s": 3,
+     "t": "Beyond that, I don't have a lot of information about him. If you need to know more in the future, you can ask Ningguang."
+    },
+    {
+     "s": 2,
+     "t": "About the next Tianshu..."
+    },
+    {
+     "s": 3,
+     "t": "As Yelan says, now that I'm on the mend, I should have another few years' worth of work in me."
+    },
+    {
+     "s": 3,
+     "t": "During this time, I plan to gradually hand over my duties while mentoring some new candidates."
+    },
+    {
+     "s": 3,
+     "t": "Ah, that reminds me. Qianwei and Mingbo are still waiting downstairs. I must go and have a chat with them shortly."
+    },
+    {
+     "s": 2,
+     "t": "I have no more questions."
+    },
+    {
+     "s": 3,
+     "t": "Thanks to you and Yelan, everything turned out okay this time."
+    },
+    {
+     "s": 3,
+     "t": "You can always find me at the wharf if there's ever something else you'd like to discuss in the future."
+    },
+    {
+     "section": "Mingbo, Qianwei"
+    },
+    {
+     "s": 6,
+     "t": "So, Zhiyi... is already in prison, I guess?"
+    },
+    {
+     "s": 5,
+     "t": "You think? He poisoned Uncle Tian... I still can't believe he'd do that."
+    },
+    {
+     "s": 6,
+     "t": "*sigh* ..."
+    },
+    {
+     "s": 5,
+     "t": "Why the long face?"
+    },
+    {
+     "s": 6,
+     "t": "Nothing... I just... I think it's a great shame."
+    },
+    {
+     "s": 6,
+     "t": "I always thought... he's very smart. If he became Tianshu... he'd be able to accomplish many things I could never hope to."
+    },
+    {
+     "s": 5,
+     "t": "Don't feel bad. I'll admit that he was a strong contender, but give me three years and I'll overtake him."
+    },
+    {
+     "s": 5,
+     "t": "When I become Tianshu, I'll make you my deputy. Like the sound of that?"
+    },
+    {
+     "s": 6,
+     "t": "Start by working on your temperamental issues... If you can't keep your cool, your work will suffer."
+    },
+    {
+     "s": 6,
+     "t": "Right now... you still have a long way to go before you'll be eligible to take the Tianshu position."
+    },
+    {
+     "s": 5,
+     "t": "I'll get there. One step at a time. And then, before you know it, there'll come a day when you won't be able to find a single flaw in me or my work."
+    },
+    {
+     "s": 5,
+     "t": "First things first, though... Let's go and talk to Uncle Tian."
+    }
+   ],
+   "description": "You decide to announce the Zhiyi has passed the selection to make him lower his guard. Now all that’s left to do is wait…"
+  }
+ ],
+ "speakers": [
+  "Huixin",
+  "Paimon",
+  "Traveler",
+  "Uncle Tian",
+  "Yelan",
+  "Qianwei",
+  "Mingbo",
+  "Zhiyi",
+  "Qianwei's Manifesto",
+  "Mingbo's Manifesto",
+  "Zhiyi's Manifesto",
+  "Li'an",
+  "Wenyuan",
+  "Shanghua",
+  "Bolai",
+  "Qiping",
+  "Uncle Sun",
+  "Uncle Gao",
+  "Dugu Shuo",
+  "Iron Shoulder",
+  "Wupei",
+  "Heli",
+  "Linlang",
+  "Yusupov",
+  "Baizhu"
+ ]
+}

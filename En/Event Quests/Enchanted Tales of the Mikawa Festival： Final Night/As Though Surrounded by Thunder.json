@@ -1,0 +1,692 @@
+{
+ "chapter": "Enchanted Tales of the Mikawa Festival: Final Night",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "As Though Surrounded by Thunder",
+ "region": null,
+ "quests": [
+  {
+   "title": "As Though Surrounded by Thunder",
+   "dialogue": [
+    {
+     "section": "Kamisato Ayaka, Yae Miko, Kamisato Ayato"
+    },
+    {
+     "s": 0,
+     "t": "...I assembled all the key information into booklets, Lady Guuji, and the incantation for the ritual has been distributed along with them."
+    },
+    {
+     "s": 1,
+     "t": "Remarkably efficient, Ayato. How are things with the Tenryou Commission?"
+    },
+    {
+     "s": 2,
+     "t": "We have adjusted our defensive efforts in response to the Nightmare Fragment. Now that we no longer need to worry about the doppelgangers, we can be much more efficient."
+    },
+    {
+     "s": 3,
+     "t": "Oh, you're all here!"
+    },
+    {
+     "s": 4,
+     "t": "Ah, and with your arrival, we can be even more confident in the strength of our defenses."
+    },
+    {
+     "s": 2,
+     "t": "Nevertheless, we must remain vigilant. We all must do our part to give {NICKNAME} and the Shogun the best chance against this enemy."
+    },
+    {
+     "s": 3,
+     "t": "Well, it's a relief to have you all in our corner!"
+    },
+    {
+     "sit": "Wait a minute, where's Ayaka?"
+    },
+    {
+     "s": 0,
+     "t": "Hehe... With the festival preparations complete, we have everything covered over here. Ayaka is currently helping those in need, you could say."
+    },
+    {
+     "s": 3,
+     "t": "Those in need?"
+    },
+    {
+     "s": 0,
+     "t": "Most of the game development teams are short on manpower, so Ayaka and a few others are helping them out."
+    },
+    {
+     "s": 1,
+     "t": "I'm sure you'll run into her as you walk around. Oh, and just a reminder — you need to select the best game later tonight."
+    },
+    {
+     "s": 1,
+     "t": "Most importantly, don't forget to enjoy yourself! We need this event to be as \"joyful\" as possible if we want the plan to work."
+    },
+    {
+     "sit": "Oh, I almost forgot about that..."
+    },
+    {
+     "s": 1,
+     "t": "Once you're done experiencing the festival, you should check in with Ei."
+    },
+    {
+     "section": "Sayu, Yoimiya, Kamisato Ayaka"
+    },
+    {
+     "s": 5,
+     "t": "...Hm, don't you think this puzzle is a bit too complicated? If we make this small adjustment... it'd be a lot easier to understand, don't you think?"
+    },
+    {
+     "s": 6,
+     "t": "Y—You're right! I never thought about it that way..."
+    },
+    {
+     "s": 7,
+     "t": "Nice one, Ayaka! I knew you'd be a great addition to the team!"
+    },
+    {
+     "s": 5,
+     "t": "Oh, no, no! You two did all the hard work! You made it easy for me..."
+    },
+    {
+     "sit": "Hello."
+    },
+    {
+     "s": 5,
+     "t": "Oh... When did you get here..."
+    },
+    {
+     "s": 3,
+     "t": "Just now! Seems like you're a natural, Ayaka! A real game developer at heart, huh..."
+    },
+    {
+     "sit": "You talked about wanting to create a game the day before yesterday..."
+    },
+    {
+     "s": 5,
+     "t": "Oh... You remember that. Well, brother had everything covered. So, I asked Yoimiya if she could use a hand..."
+    },
+    {
+     "s": 5,
+     "t": "I'm just glad I didn't turn out to be an inconvenience."
+    },
+    {
+     "s": 7,
+     "t": "An inconvenience? We were in such a jam! You saved us!"
+    },
+    {
+     "s": 8,
+     "t": "In a jam... because jam is sticky, and we got stuck!"
+    },
+    {
+     "s": 6,
+     "t": "Not that kind of jam... But, it doesn't matter. We just need to get this done."
+    },
+    {
+     "s": 5,
+     "t": "{NICKNAME}, Lady Guuji told me about the upcoming battle. As I understand it, this is an extremely dangerous endeavor, and the rest of us can only help from the sidelines..."
+    },
+    {
+     "s": 5,
+     "t": "Our thoughts and prayers are with you... Be careful!"
+    },
+    {
+     "section": "Thoma, Arataki Itto, Kuki Shinobu"
+    },
+    {
+     "s": 9,
+     "t": "Ohoho, Thoma, my bro! Heard you're in a bind! The \"Almighty Arataki Unbeatable and Unmatched Game Dev Team\" is here to help!"
+    },
+    {
+     "s": 10,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 11,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 12,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 13,
+     "t": "...I'm not sure how \"helpful\" most of them will turn out to be, but I, at least, am a licensed game designer."
+    },
+    {
+     "s": 14,
+     "t": "I'm... so sorry everyone. I was so focused on this game, I didn't notice Kinkaku and the others at all..."
+    },
+    {
+     "s": 15,
+     "t": "Not your fault! Bake-danuki are powerful! Even Shousei couldn't smell them!"
+    },
+    {
+     "sit": "Yeah, we didn't notice anything either."
+    },
+    {
+     "s": 14,
+     "t": "{NICKNAME}... Paimon..."
+    },
+    {
+     "s": 9,
+     "t": "Don't sweat the small stuff! I'm sure all Hitotsume Kozou and those little fellas want... is for you to honor their last wishes and finish what you set out to do!"
+    },
+    {
+     "s": 13,
+     "t": "Um... That was beautiful, boss. But, \"last wishes\" are used for people who are, y'know... dead."
+    },
+    {
+     "s": 9,
+     "t": "Dead? As in the big sleep? The final curtain? The last hurrah? ...Genta, you copied down the wrong thing!"
+    },
+    {
+     "s": 15,
+     "t": "Long-horned oni is stupid... Stupid oni really help make game?"
+    },
+    {
+     "s": 14,
+     "t": "Heh... We'll see. But, as you said, I'll try my best to, um... finish what we started."
+    },
+    {
+     "s": 3,
+     "t": "By the way, where are the real Hitotsume Kozou and his friends? And what about Tetsunosuke and the others?"
+    },
+    {
+     "s": 14,
+     "t": "After the three passed out, the bake-danuki hid them in their home to keep them safe... Even under the influence of a Nightmare Fragment, bake-danuki are kind at heart."
+    },
+    {
+     "s": 14,
+     "t": "As for Tetsunosuke and the others... They're in charge of setting up the ritual as punishment for causing all that panic — something about showing them what it's really like to \"work through the night\"...?"
+    },
+    {
+     "sit": "Sounds like Miko's doing..."
+    },
+    {
+     "s": 14,
+     "t": "Hehe, once you deal with the crisis, I think I'll get the whole gang together — Hitotsume Kozou, Youko, Kappa..."
+    },
+    {
+     "s": 14,
+     "t": "Plus, Kinkaku, Ginkaku, and Tetsunosuke, too... We can all play \"Akitsu Harpastum\" to our heart's content!"
+    },
+    {
+     "section": "Sangonomiya Kokomi, Yumemizuki Mizuki, Gorou"
+    },
+    {
+     "s": 16,
+     "t": "Ah, captain! Swordfish II, salute!"
+    },
+    {
+     "sit": "Wow, it's been a while..."
+    },
+    {
+     "s": 17,
+     "t": "I'll say! The squad was a little reluctant to help at first... But, telling them you were the festival representative had them moving faster than an actual swordfish!"
+    },
+    {
+     "s": 16,
+     "t": "...To be honest, some Watatsumi Islanders aren't too concerned about the festival, or the safety of Narukami Island."
+    },
+    {
+     "s": 18,
+     "t": "...But, if they knew it was for the captain of Swordfish II, I'm confident everyone would be here in a heartbeat."
+    },
+    {
+     "sit": "I'm not sure I deserve that level of loyalty..."
+    },
+    {
+     "s": 19,
+     "t": "I doubt you have a choice at this point, {NICKNAME}."
+    },
+    {
+     "s": 19,
+     "t": "Not even the words of a Divine Priestess are enough to convince the people of Watatsumi and Narukami Islands to let go of the past."
+    },
+    {
+     "s": 19,
+     "t": "It takes time, communication... and, most importantly, the help of very special people."
+    },
+    {
+     "s": 19,
+     "t": "Your representation at this festival, and my collaboration with Mizuki will serve as bridges between Watatsumi Island and the outside world."
+    },
+    {
+     "s": 20,
+     "t": "Huh, I never considered that angle... You possess wisdom beyond your years, Kokomi — on par with a certain other shrine maiden I know."
+    },
+    {
+     "s": 3,
+     "t": "Mizuki! Uh... Did you get any sleep at all?"
+    },
+    {
+     "s": 20,
+     "t": "I'm fine. Sometimes, you need to push past your mental limits to unleash your full potential... I've seen that many times in my line of work."
+    },
+    {
+     "sit": "So, that's a no, then..."
+    },
+    {
+     "sit": "Get a good night's sleep once this is all over."
+    },
+    {
+     "s": 20,
+     "t": "I will. The good news is, the ritual is all set. That means the festival can proceed, and we can focus on realizing our vision."
+    },
+    {
+     "s": 20,
+     "t": "As for the more pressing matter, once the Nightmare Fragment appears, we will begin the ritual. But, it needs time to take effect."
+    },
+    {
+     "s": 20,
+     "t": "You and the Shogun are the only ones who can subdue the enemy until then... Do you remember what I told you yesterday, before you left for Aisa Bathhouse?"
+    },
+    {
+     "s": 20,
+     "t": "Humans, youkai, and archons bear the same capacity for emotion and are, naturally, susceptible to the same mental turmoil."
+    },
+    {
+     "s": 20,
+     "t": "It's very possible that someone who appears strong on the outside has learned to compartmentalize their negative emotions... And that is far from healthy."
+    },
+    {
+     "sit": "I remember."
+    },
+    {
+     "s": 20,
+     "t": "Good. I trust you won't let the Shogun shoulder this alone... not anymore."
+    },
+    {
+     "section": "Yoimiya, Sayu, Kamisato Ayaka"
+    },
+    {
+     "s": 7,
+     "t": "Alright! {NICKNAME}'s got the hard stuff covered, so let's give this our all!"
+    },
+    {
+     "s": 5,
+     "t": "How did you sleep last night, Sayu? Do you need a break?"
+    },
+    {
+     "s": 6,
+     "t": "Hmm... I think I can push through, just this once... I'm sure I'll still get taller!"
+    },
+    {
+     "s": 8,
+     "t": "Great Mujina Youkai... Good luck!"
+    },
+    {
+     "section": "Thoma, Arataki Itto, Kuki Shinobu"
+    },
+    {
+     "s": 9,
+     "t": "Hmm, I'm thinkin' we spice up the final stage with a \"Kaboom King\"... designed after the one and oni Arataki Itto! I mean, c'mon, how epic are these horns!?"
+    },
+    {
+     "s": 10,
+     "t": "Great idea, Boss!"
+    },
+    {
+     "s": 11,
+     "t": "Great idea, Boss!"
+    },
+    {
+     "s": 12,
+     "t": "Great idea, Boss!"
+    },
+    {
+     "s": 3,
+     "t": "*sigh*... Something tells Paimon this group is about to be as useless as the one you had before..."
+    },
+    {
+     "s": 13,
+     "t": "Don't worry about hurting any feelings, Mr. Thoma. Just let me know if someone's being a nuisance, and I'll knock some sense into them."
+    },
+    {
+     "s": 15,
+     "t": "Hornless oni... is as scary as ever..."
+    },
+    {
+     "s": 14,
+     "t": "Haha, it's fine. As long as Itto's okay with the Kaboom King being defeated by a harpastum in the end."
+    },
+    {
+     "section": "Sangonomiya Kokomi, Yumemizuki Mizuki, Gorou"
+    },
+    {
+     "s": 17,
+     "t": "Oh, I wanted to ask... Do you know what this strip of paper is for?"
+    },
+    {
+     "s": 20,
+     "t": "Oh, Miko wrote that. She can explain it better than me... Why don't you ask her?"
+    },
+    {
+     "s": 17,
+     "t": "I... I think I'll ask someone else!"
+    },
+    {
+     "s": 21,
+     "t": "Big dog... is afraid?"
+    },
+    {
+     "s": 19,
+     "t": "Let's see... \"God of Thunder, heed our call\"..."
+    },
+    {
+     "section": "Ei"
+    },
+    {
+     "s": 22,
+     "t": "Ah, it's you. Before battle, it is imperative to calm the mind. If you have unfinished business, see to that now."
+    },
+    {
+     "section": "Ei"
+    },
+    {
+     "sit": "I'll be right there."
+    },
+    {
+     "s": 22,
+     "t": "As you wish... Take in the sights for me."
+    },
+    {
+     "section": "Ei"
+    },
+    {
+     "sit": "I'm set."
+    },
+    {
+     "s": 22,
+     "t": "Then, come meditate with me."
+    },
+    {
+     "section": "Ei"
+    },
+    {
+     "s": 22,
+     "t": "..."
+    },
+    {
+     "sit": "You seem... unsettled."
+    },
+    {
+     "s": 22,
+     "t": "...Since leaving the Plane of Euthymia, I seem to experience this feeling more and more, whether in the markets of Inazuma or before the Sacred Sakura..."
+    },
+    {
+     "sit": "I seem to have a hand in a lot of those... I'm sorry."
+    },
+    {
+     "s": 22,
+     "t": "No, it may not be a bad thing. In the Plane of Euthymia, I could not perceive the consequences of my choices, but that did not preclude their impact."
+    },
+    {
+     "s": 22,
+     "t": "It is only natural that I would feel their effect one day. Even a god cannot sever the link between cause and effect."
+    },
+    {
+     "s": 22,
+     "t": "I have come to realize that isolating oneself from all engagement... is no way to reach a true state of \"euthymia.\""
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 22,
+     "t": "I will not unleash Musou no Hitotachi this time. I can only support you in the battle ahead."
+    },
+    {
+     "s": 22,
+     "t": "Using illusion against illusion, dream against nightmare... The ultimate success of this plan comes down to you, {NICKNAME}."
+    },
+    {
+     "sit": "(This is a last-minute plan, we don't exactly know what we're about to face, and it could all fall through at a moment's notice... But, one thing is for sure.)"
+    },
+    {
+     "sit": "...This time, you will not face her alone."
+    },
+    {
+     "s": 6,
+     "t": "Did... Did we do it...?"
+    },
+    {
+     "s": 17,
+     "t": "Phew, just in time..."
+    },
+    {
+     "s": 14,
+     "t": "And, it's done..."
+    },
+    {
+     "s": 9,
+     "t": "Woohoo! Right on! Big dubs for the team!"
+    },
+    {
+     "s": 10,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 11,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 12,
+     "t": "The Arataki Gang rules!"
+    },
+    {
+     "s": 23,
+     "t": "Heh...!"
+    },
+    {
+     "s": 9,
+     "t": "Wh—What in the..."
+    },
+    {
+     "s": 23,
+     "t": "...Heh..."
+    },
+    {
+     "s": 2,
+     "t": "Don't panic! Just follow the plan!"
+    },
+    {
+     "s": 22,
+     "t": "Prepare yourself, {NICKNAME}."
+    },
+    {
+     "sit": "Already done."
+    },
+    {
+     "s": 22,
+     "t": "Alright, follow me!"
+    },
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "s": 23,
+     "t": "...Heh..."
+    },
+    {
+     "s": 20,
+     "t": "God of Thunder, heed our call."
+    },
+    {
+     "s": 24,
+     "t": "Shatter the night, unmask it all!"
+    },
+    {
+     "s": 25,
+     "t": "Shatter the night, unmask it all!"
+    },
+    {
+     "s": 26,
+     "t": "Shatter the night, unmask it all!"
+    },
+    {
+     "s": 1,
+     "t": "With your might, let illusions fall."
+    },
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "sit": "Night falls, the games are complete, and the Mikawa Flower Festival officially begins..."
+    },
+    {
+     "s": 1,
+     "t": "...For many of us, I'm sure the last few days have seen unforgettable levels of stress and fatigue..."
+    },
+    {
+     "s": 1,
+     "t": "But, for now, I hope we can put the past behind us and enjoy a night of pure, unadulterated fun."
+    },
+    {
+     "s": 1,
+     "t": "Now, before we kick things off... our representative will announce the award for \"best game.\""
+    },
+    {
+     "sit": "The award for \"best game\" goes to..."
+    },
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "sit": "An epic quest for fried tofu... It's \"A Little Fox's Daydream\"!"
+    },
+    {
+     "s": 21,
+     "t": "Woohoo!"
+    },
+    {
+     "s": 16,
+     "t": "Woohoo!"
+    },
+    {
+     "s": 18,
+     "t": "Woohoo!"
+    },
+    {
+     "s": 19,
+     "t": "Miss Mizuki, that means our collaboration can—"
+    },
+    {
+     "s": 20,
+     "t": "*snore*... So full..."
+    },
+    {
+     "s": 19,
+     "t": "...Can wait until you're fully rested."
+    },
+    {
+     "s": 1,
+     "t": "The winning team will take home a sum of prize money courtesy of the Yashiro Commission, along with the Tanuki Game Award."
+    },
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "s": 1,
+     "t": "In addition, our special guest has the honor of announcing a \"special award.\" Shogun, if you could..."
+    },
+    {
+     "s": 22,
+     "t": "...This \"special award\" recognizes the team with the \"most immersive game\"..."
+    },
+    {
+     "s": 22,
+     "t": "And that goes to the creators of the horror game, \"The Doppelganger Incident\" — Kinkaku, Ginkaku, and Tetsunosuke."
+    },
+    {
+     "s": 24,
+     "t": "Eh!?"
+    },
+    {
+     "s": 25,
+     "t": "Eh!?"
+    },
+    {
+     "s": 26,
+     "t": "Eh!?"
+    },
+    {
+     "s": 27,
+     "t": "Oh, so it was a horror game all along! I really thought I'd seen a ghost!"
+    },
+    {
+     "s": 28,
+     "t": "Wow, that takes \"immersive\" to a whole new level... Bake-danuki are something else!"
+    },
+    {
+     "s": 4,
+     "t": "Ah, smart idea... Now, people have no reason to fear the youkai."
+    },
+    {
+     "s": 2,
+     "t": "I don't think the Shogun and Lady Guuji want the youkai to fear humans, either."
+    },
+    {
+     "s": 22,
+     "t": "I present you this award in the name of the Narukami Ogosho, and I promise you this — no human shall infringe on your peace without cause."
+    },
+    {
+     "s": 25,
+     "t": "Shogun... is the best!"
+    },
+    {
+     "s": 26,
+     "t": "Shogun is the best!"
+    },
+    {
+     "s": 24,
+     "t": "Shogun is the best!"
+    },
+    {
+     "sit": "What about the Shogunate's development plan...?"
+    },
+    {
+     "s": 1,
+     "t": "Heh, the whole purpose of the investigation was to avoid disturbing youkai territory."
+    },
+    {
+     "s": 1,
+     "t": "Besides, the world is a big place. Humans, youkai... There's more than enough room for all of us."
+    }
+   ],
+   "description": "The truth behind the doppelgangers and nightmares has been revealed. The actions of the past send ripples through fate, and the events of today blur the line between dreams and reality."
+  }
+ ],
+ "speakers": [
+  "Kamisato Ayato",
+  "Yae Miko",
+  "Kujou Sara",
+  "Paimon",
+  "Shikanoin Heizou",
+  "Kamisato Ayaka",
+  "Sayu",
+  "Yoimiya",
+  "\"Kichiboushi\"",
+  "Arataki Itto",
+  "Mamoru",
+  "Akira",
+  "Genta",
+  "Kuki Shinobu",
+  "Thoma",
+  "\"Shousei\"",
+  "Koutoku",
+  "Gorou",
+  "Yoshihisa",
+  "Sangonomiya Kokomi",
+  "Yumemizuki Mizuki",
+  "\"Gyoubu Koban\"",
+  "Ei",
+  "Nightmare Fragments",
+  "Kinkaku",
+  "Ginkaku",
+  "Tetsunosuke",
+  "Asari",
+  "Komura"
+ ]
+}

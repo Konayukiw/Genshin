@@ -1,0 +1,462 @@
+{
+ "chapter": "Road to the Singularity",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Road to the Singularity",
+ "region": null,
+ "quests": [
+  {
+   "title": "Road to the Singularity",
+   "dialogue": [
+    {
+     "section": "Coutrot"
+    },
+    {
+     "sit": "(test)主角和库特罗交换位置后，库特罗从A1-B的房门离开，房门随即重新关上，能量牢笼也关上了。"
+    },
+    {
+     "section": "Coutrot"
+    },
+    {
+     "s": 0,
+     "t": "A—Are you two here for the research assistant position? S—Sorry, but I'm a little busy at the moment..."
+    },
+    {
+     "sit": "I can tell."
+    },
+    {
+     "sit": "We're just here to look around."
+    },
+    {
+     "s": 1,
+     "t": "Never mind that for now. Why are you locked up in a cage?"
+    },
+    {
+     "s": 0,
+     "t": "I had some disagreements with a research partner... Coutrot... he left me here to calm down a little. Th—That's right... I haven't introduced myself yet. You can call me Kuisel."
+    },
+    {
+     "s": 0,
+     "t": "Ugh, you know... Kuisel's Clockwork Workshop — that Kuisel."
+    },
+    {
+     "s": 1,
+     "t": "Paimon is Paimon, and he's(she's) {NICKNAME}... Paimon did hear the sound of arguing just now. So that guy who sounded really mad is actually your research partner, huh?"
+    },
+    {
+     "sit": "Maybe it's time to change your partner."
+    },
+    {
+     "sit": "Anyway, we'll leave you to calm down by yourself."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! A good partner should be like Paimon... {NICKNAME} is super lucky to have a partner like Paimon!"
+    },
+    {
+     "s": 0,
+     "t": "C—Could you please help get me out of here? If you can find a way to activate the energy storage device beside me, then the door sh—should open."
+    },
+    {
+     "s": 0,
+     "t": "P—Please! Those who came here before for the research assistant position also couldn't tolerate his violent temper, so they left as soon as they could. We're the only ones left here now..."
+    },
+    {
+     "s": 1,
+     "t": "Well, seeing as that's the case, let's give him a hand then, {NICKNAME}!"
+    },
+    {
+     "section": "Coutrot"
+    },
+    {
+     "s": 2,
+     "t": "On that note, is it really okay for us to be messing with stuff like the terminals here?"
+    },
+    {
+     "s": 0,
+     "t": "I—It's okay. Everything here is... well-designed."
+    },
+    {
+     "section": "Coutrot"
+    },
+    {
+     "s": 1,
+     "t": "The door's already open. Aren't you going to come out?"
+    },
+    {
+     "s": 0,
+     "t": "A—Actually, there is one more thing I was too scared to mention... If I were to leave this cage now, I'm a—afraid this place could blow up."
+    },
+    {
+     "s": 1,
+     "t": "Blow up?"
+    },
+    {
+     "s": 0,
+     "t": "Th—That's right... Like I said earlier, my research partner's got... a violent temper, which is why he installed a trigger mechanism under the cage."
+    },
+    {
+     "s": 1,
+     "t": "Huh!? Then what should we do now?"
+    },
+    {
+     "sit": "Maybe we can try putting a heavy object in his place?"
+    },
+    {
+     "sit": "There's no other way. We'll go seek help at the Court of Fontaine."
+    },
+    {
+     "s": 0,
+     "t": "O—Ordinary heavy objects won't work, I'm afraid... The way it works is rather complicated. Ugh..."
+    },
+    {
+     "s": 0,
+     "t": "If you could take my spot temporarily, kind Mr.(Miss) {NICKNAME}... and wait in the cage a bit. Then I... I can go disable this special trigger mechanism."
+    },
+    {
+     "s": 0,
+     "t": "A—After all, I've worked with him for years, and I know exactly what he was thinking when he put it in place."
+    },
+    {
+     "sit": "I don't think I'm heavy enough. Maybe Paimon should also..."
+    },
+    {
+     "sit": "Sounds a little suspicious..."
+    },
+    {
+     "s": 1,
+     "t": "B—But look, Paimon's floating in midair, so Paimon definitely has no weight!! Yeah, no weight!"
+    },
+    {
+     "s": 0,
+     "t": "Uh... this mechanism is extremely particular and doesn't work simply based on weight."
+    },
+    {
+     "s": 0,
+     "t": "Please believe me. All you need to do is stay in my place for a moment, and I'll be back from disabling the mechanism before you know it."
+    },
+    {
+     "s": 0,
+     "t": "...Perhaps you've heard of the Fontaine Research Institute, or Mr. Raimondo and Mr. Bossuet? I... I was once mentored by them."
+    },
+    {
+     "s": 0,
+     "t": "Th—These kinds of technical matters are not difficult and will not take long to handle. All I need is a quick moment..."
+    },
+    {
+     "s": 1,
+     "t": "Well... alright then. But be quick!"
+    },
+    {
+     "sit": "Very carefully, you swap places with Kuisel..."
+    },
+    {
+     "s": 1,
+     "t": "Huh? Why's the door shut again?"
+    },
+    {
+     "s": 0,
+     "t": "Uh... M—Maybe it malfunctioned somewhere. I... I'll go check it out..."
+    },
+    {
+     "sit": "This doesn't feel right."
+    },
+    {
+     "s": 0,
+     "t": "D—Don't worry, I'll fix it as quickly as I can. The terminal to disable the trigger mechanism isn't here, so I've got to leave momentarily. Hold on."
+    },
+    {
+     "s": 1,
+     "t": "Guess we have no choice but to wait patiently."
+    },
+    {
+     "sit": "You wait for some time..."
+    },
+    {
+     "s": 1,
+     "t": "What could be taking him so long... Something didn't happen to him, right? But he said earlier that it was just him and his partner left here..."
+    },
+    {
+     "sit": "Maybe he got locked up again by that partner of his..."
+    },
+    {
+     "sit": "I think we've been tricked."
+    },
+    {
+     "s": 1,
+     "t": "Eh??"
+    },
+    {
+     "s": 0,
+     "t": "I used to wonder, can kindness really be labeled as a good quality? Those filled only with kindness... what good does it even bring them?"
+    },
+    {
+     "s": 1,
+     "t": "...Huh? Who's talking?"
+    },
+    {
+     "s": 0,
+     "t": "There was never a trigger mechanism that could set off an explosion. The door of the cage is indeed locked now, however. Well, what will the two of you do? Keep waiting here, or take action..."
+    },
+    {
+     "s": 1,
+     "t": "What's this guy on about!? Also, his voice sounds... like Kuisel's, but also like the one he was arguing with before. What's going on?"
+    },
+    {
+     "sit": "Let's find a way to get me out of here first..."
+    },
+    {
+     "s": 1,
+     "t": "Oh, right! But... but you're locked inside this cage. How are we supposed to unlock the door..."
+    },
+    {
+     "sit": "It's all on you, Paimon. Save me!"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! Don't be so dramatic!"
+    },
+    {
+     "s": 1,
+     "t": "But luckily, Paimon didn't end up getting locked in the cage with you... Uh... Paimon should be able to open the door the way we did before, right? Let's give it a try!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Let's see... There are two terminals and two energy storage devices here. If Paimon can activate the energy storage device beside the door, then the cage should be able to open!"
+    },
+    {
+     "s": 1,
+     "t": "Where should Paimon go? To the terminal by the door, or the one by the cage?"
+    },
+    {
+     "sit": "Check out the terminal by the door."
+    },
+    {
+     "sit": "Try the terminal by the cage."
+    },
+    {
+     "s": 1,
+     "t": "Hmm, this doesn't seem quite right..."
+    },
+    {
+     "section": "Coutrot"
+    },
+    {
+     "s": 0,
+     "t": "Please believe me. All you need to do is stay in my place for a moment, and I'll be back from disabling the mechanism before you know it."
+    },
+    {
+     "s": 1,
+     "t": "Well... alright then. But be quick!"
+    },
+    {
+     "sit": "Very carefully, you swap places with Kuisel..."
+    },
+    {
+     "sit": "You wait for some time, but he doesn't come back as he promised. You also hear some strange voices..."
+    },
+    {
+     "sit": "You decide to try and find a way out of the cage..."
+    },
+    {
+     "s": 1,
+     "t": "But luckily, Paimon didn't end up getting locked in the cage with you... Uh... Paimon should be able to open the door the way we did before, right? Let's give it a try!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "sit": "(test)等待了很久，奎瑟尔还是没有回来。"
+    },
+    {
+     "s": 1,
+     "t": "(test)该怎么办呢，不管怎么样先把你救出来！"
+    },
+    {
+     "s": 2,
+     "t": "(test)第二轮测试开始，看你们怎么逃出来。"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "(test)（隐藏）镜头预览关卡"
+    },
+    {
+     "section": "Friendly Reminder"
+    },
+    {
+     "s": 4,
+     "t": "Closing all valves will activate the terminal and open the path."
+    },
+    {
+     "section": "Friendly Reminder"
+    },
+    {
+     "s": 4,
+     "t": "Closing all valves will activate the terminal and open the path."
+    },
+    {
+     "section": "Friendly Reminder"
+    },
+    {
+     "s": 4,
+     "t": "Closing all valves will activate the terminal and open the path."
+    },
+    {
+     "section": "Razor"
+    },
+    {
+     "s": 3,
+     "t": "(test)（隐藏）镜头预览关卡"
+    },
+    {
+     "section": "Razor"
+    },
+    {
+     "s": 3,
+     "t": "(test)（隐藏）镜头预览关卡"
+    },
+    {
+     "section": "Coutrot, Bricole"
+    },
+    {
+     "s": 1,
+     "t": "Kuisel! There you are!"
+    },
+    {
+     "s": 1,
+     "t": "And the one next to him... must be that villainous research partner Coutrot that Kuisel was talking about!"
+    },
+    {
+     "s": 5,
+     "t": "...? He's Coutrot, not me. I'm Bricole."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Isn't he Kuisel?"
+    },
+    {
+     "s": 0,
+     "t": "Kuisel... is just a convenient character. You've already passed many trials, so there's no reason to hide anything from you anymore. My name is Coutrot, and I'm the real owner of this workshop."
+    },
+    {
+     "s": 0,
+     "t": "Haha, you two are truly... great research material. If you are willing to help me with my research..."
+    },
+    {
+     "sit": "What research? Tell us a bit more about it."
+    },
+    {
+     "s": 1,
+     "t": "Hey, c'mon! Are you really going to help someone this fishy?"
+    },
+    {
+     "s": 1,
+     "t": "Nothing about this place looks like a proper workshop! You also lied to us and made the clockwork meka attack us... Paimon has no reason to believe you're a good guy!"
+    },
+    {
+     "s": 5,
+     "t": "That's exactly right! Don't fall for his trap! He... He's an extremely vicious crook!"
+    },
+    {
+     "s": 5,
+     "t": "I followed the clues here while investigating. I didn't expect you to continue your dangerous research even after you were kicked out, and you even stole the Research Institute's assets for this purpose..."
+    },
+    {
+     "s": 5,
+     "t": "You've committed a crime!"
+    },
+    {
+     "s": 0,
+     "t": "You really can't keep your mouth shut, eh, Bricole... You're just a good-for-nothing idiot. I'll take care of you once I've properly appraised our two VIPs over here."
+    },
+    {
+     "s": 1,
+     "t": "Your two VIPs... You don't mean us, right?"
+    },
+    {
+     "s": 0,
+     "t": "Of course, you only need to pass one last trial to prove your true worth..."
+    },
+    {
+     "s": 0,
+     "t": "Time to show me what you've got!"
+    },
+    {
+     "section": "(test)发条研隐形NPC$UNRELEASED"
+    },
+    {
+     "sit": "(test)逮捕库特罗对话表现"
+    },
+    {
+     "section": "Bricole, Coutrot"
+    },
+    {
+     "s": 0,
+     "t": "You guys again... You're more skilled than I thought. You are truly the best research material I've ever seen! Far beyond what I can control, though... I admit I've lost."
+    },
+    {
+     "s": 1,
+     "t": "Just what is up with this guy!?"
+    },
+    {
+     "s": 5,
+     "t": "Yep, that's a pretty common reaction to him. You see, his... more peculiar research was exactly what got him kicked out from the Fontaine Research Institute in the first place."
+    },
+    {
+     "s": 0,
+     "t": "My research was not peculiar..."
+    },
+    {
+     "s": 5,
+     "t": "Yeah yeah, and that's what you told the Ethics Committee back in the day as well. Don't think a single person bought what you said."
+    },
+    {
+     "sit": "So... what was his research?"
+    },
+    {
+     "s": 5,
+     "t": "Ahem... If you wish to learn more about his research, you may go to the new Fontaine Research Institute to apply for access."
+    },
+    {
+     "s": 1,
+     "t": "That gives Paimon a headache just thinking about it..."
+    },
+    {
+     "s": 5,
+     "t": "It's giving me a headache too. Even though he's been fired, the asset theft case I've been investigating still has to do with him..."
+    },
+    {
+     "s": 0,
+     "t": "Haha, do you want to ship me off to the Fortress of Meropide?"
+    },
+    {
+     "s": 5,
+     "t": "Well, that's not up to me to decide. The law will hand you your proper judgment. It's a shame that, unlike last time, we can't simply resolve matters by kicking you out."
+    },
+    {
+     "s": 5,
+     "t": "Either way, thank you both for your help. I probably wouldn't have been able to bring him down myself... You can leave the rest to me. I promise that this time, he will receive his proper punishment."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* I'm afraid I'll still have to return to this place to continue my work. There are so many assets... Just how many reports would I have to compile..."
+    }
+   ],
+   "description": "You discover a building in the wilds that seems to have an unknown purpose…"
+  }
+ ],
+ "speakers": [
+  "Coutrot",
+  "Paimon",
+  "",
+  "Razor",
+  "Friendly Reminder",
+  "Bricole"
+ ]
+}

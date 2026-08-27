@@ -1,0 +1,714 @@
+{
+ "chapter": "Visitors From the Stars",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Pioneers",
+ "region": null,
+ "quests": [
+  {
+   "title": "Pioneers",
+   "dialogue": [
+    {
+     "section": "(test)看火塔隐形触发NPC"
+    },
+    {
+     "sit": "(What... happened...?)"
+    },
+    {
+     "sit": "(Right, there was an accident on board the spaceship... We got into the escape pods... Did we make moonfall successfully?)"
+    },
+    {
+     "sit": "(It seems like I'm still in my escape pod... I need to make sure Paimon's alright...)"
+    },
+    {
+     "sit": "(Exit the escape pod.)"
+    },
+    {
+     "section": "(test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "Ohhh, Paimon just knew you'd be okay!"
+    },
+    {
+     "sit": "How are you feeling, Paimon?"
+    },
+    {
+     "s": 0,
+     "t": "Not good at all! When Paimon came out of her escape pod, you two were gone... Paimon was scared half to death!"
+    },
+    {
+     "s": 0,
+     "t": "It's all good now that she's found you, though! Hehe."
+    },
+    {
+     "s": 0,
+     "t": "Now then, let Paimon give you a quick once-over! Are you hurt or anything?"
+    },
+    {
+     "sit": "Don't worry, I'm fine."
+    },
+    {
+     "s": 0,
+     "t": "Well, that's a relief! Who could have imagined that ancient ship would run into problems... Wait, no, we totally should've seen this coming..."
+    },
+    {
+     "s": 0,
+     "t": "It was buried underground for who knows how many years, after all. It's a miracle that bucket of bolts could even fly!"
+    },
+    {
+     "s": 0,
+     "t": "Whew... Whatever. The ride was kinda awful... but we still made moonfall in the end..."
+    },
+    {
+     "sit": "That's dragon-tech for you."
+    },
+    {
+     "s": 0,
+     "t": "Paimon blames Eggie for distracting us! We totally neglected to give the spaceship a good looking over."
+    },
+    {
+     "s": 0,
+     "t": "Speaking of Eggie... Where is she? Paimon remembers she got into an escape pod, too."
+    },
+    {
+     "sit": "We have to find her."
+    },
+    {
+     "s": 0,
+     "t": "Yeah. Paimon hopes she's okay!"
+    },
+    {
+     "section": "(test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "Look! There's an escape pod! This must be Eggie's one, right?"
+    },
+    {
+     "s": 0,
+     "t": "But she doesn't seem to be in there... She must've made it out safely."
+    },
+    {
+     "s": 0,
+     "t": "Could she have escaped into this ruin-like place...? We should go inside and look for her."
+    },
+    {
+     "section": "Eggie, (test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "Eggie! We're here to rescue you!"
+    },
+    {
+     "s": 1,
+     "t": "...Let me go..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! Eggie, wake up! It's us!"
+    },
+    {
+     "s": 1,
+     "t": "...You... Let go of me..."
+    },
+    {
+     "s": 0,
+     "t": "Snap out of it! We're here to rescue you! You're safe now!"
+    },
+    {
+     "s": 1,
+     "t": "Oh...! Oh... I'm sorry... It's you..."
+    },
+    {
+     "s": 0,
+     "t": "How did you get captured by those things? Do you know what this place is?"
+    },
+    {
+     "s": 1,
+     "t": "...I don't know... but..."
+    },
+    {
+     "s": 1,
+     "t": "...Please let me... access the terminal..."
+    },
+    {
+     "s": 0,
+     "t": "Terminal? What's that?"
+    },
+    {
+     "s": 1,
+     "t": "...It's at the entrance... It has... information..."
+    },
+    {
+     "s": 0,
+     "t": "Oh! Is that the thingamajig we saw on our way in? Let's go find it."
+    },
+    {
+     "section": "Eggie, (test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "Is this the terminal you were talking about, Eggie?"
+    },
+    {
+     "s": 1,
+     "t": "Yes..."
+    },
+    {
+     "s": 1,
+     "t": "Ahh..."
+    },
+    {
+     "sit": "Are you alright?"
+    },
+    {
+     "s": 1,
+     "t": "Nin... Nin..."
+    },
+    {
+     "s": 0,
+     "t": "Sorry, what?"
+    },
+    {
+     "s": 1,
+     "t": "My name..."
+    },
+    {
+     "s": 0,
+     "t": "So the terminal's got your name in it? And you're called Ninnin?"
+    },
+    {
+     "s": 1,
+     "t": "The moons' power... can record... information..."
+    },
+    {
+     "s": 1,
+     "t": "It is... stored in the terminal..."
+    },
+    {
+     "s": 0,
+     "t": "Ah! So you can read the information in the terminal? Then, you know what this place is?"
+    },
+    {
+     "s": 1,
+     "t": "It's an energy generation station... used to produce... and store energy..."
+    },
+    {
+     "s": 0,
+     "t": "So those glowing orbs from earlier must have been some sorta energy, right?"
+    },
+    {
+     "s": 0,
+     "t": "You must've been taken away to be used as an energy source because you have the same power..."
+    },
+    {
+     "sit": "What is this energy generation station used for?"
+    },
+    {
+     "s": 1,
+     "t": "To power... the Eye of Ibni-Belum..."
+    },
+    {
+     "s": 0,
+     "t": "The Eye... of Ibni-Belum? What's that? Sounds kinda familiar."
+    },
+    {
+     "sit": "It was one of the spaceship landing sites."
+    },
+    {
+     "s": 0,
+     "t": "The... Eye of Ibni-Belum? What's that supposed to be?"
+    },
+    {
+     "s": 1,
+     "t": "Here are the engineering blueprints... let me show you..."
+    },
+    {
+     "s": 1,
+     "t": "The tall tower in the middle... That is the Eye..."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, that's so cool! What about the three shorter towers? Are they energy generators?"
+    },
+    {
+     "s": 1,
+     "t": "Yes... We're inside one of them right now..."
+    },
+    {
+     "sit": "What exactly does this Eye of Ibni-Belum do?"
+    },
+    {
+     "s": 1,
+     "t": "The work logs record that... it is a lunar surface monitoring station... capable of monitoring the entire lunar surface."
+    },
+    {
+     "s": 0,
+     "t": "Monitor the lunar surface? That's amazing!"
+    },
+    {
+     "s": 0,
+     "t": "Then... doesn't that mean it could help us search for Columbina's whereabouts?"
+    },
+    {
+     "s": 1,
+     "t": "I don't know... but... It's possible..."
+    },
+    {
+     "sit": "Looks like we're taking a trip over there then."
+    },
+    {
+     "s": 1,
+     "t": "We've already activated... this one..."
+    },
+    {
+     "s": 0,
+     "t": "So that means we still have to deal with the other two, right? No problem! We've done this kind of thing tons of times."
+    },
+    {
+     "s": 0,
+     "t": "Come on, Eggie. Let's go!"
+    },
+    {
+     "s": 1,
+     "t": "Not Eggie... I'm Ninnin..."
+    },
+    {
+     "s": 0,
+     "t": "Eh, you can be both."
+    },
+    {
+     "s": 1,
+     "t": "Just Ninnin..."
+    },
+    {
+     "s": 0,
+     "t": "Alright, alright, so you're Ninnin, aka Eggie. Does that work?"
+    },
+    {
+     "s": 1,
+     "t": "I'm just Ninnin..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! Meet Paimon in the middle here, would ya!?"
+    },
+    {
+     "s": 0,
+     "t": "Don't forget you got us stranded in this wasteland where there's not a single restaurant in sight... Do you still want your snacks or not!?"
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Alright... I'm Ninnin, aka Eggie..."
+    },
+    {
+     "sit": "Sorry, what was that about snacks?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, uh, that's between Paimon and Ninnin!"
+    },
+    {
+     "s": 0,
+     "t": "C'mon! We need to head to the other stations!"
+    },
+    {
+     "section": "Eggie, (test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "This terminal's been left out here all by itself... Poor thing."
+    },
+    {
+     "s": 0,
+     "t": "Is it the energy generation station's terminal? Why don't you give it a try, Eggie?"
+    },
+    {
+     "s": 1,
+     "t": "Hmm..."
+    },
+    {
+     "s": 0,
+     "t": "How's it looking? Any new intel?"
+    },
+    {
+     "s": 1,
+     "t": "This is the energy generation station terminal... but... I retrieved no new information..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... Even though we didn't find any new intel, we still managed to activate station number two. Paimon would say that's a job well done!"
+    },
+    {
+     "s": 1,
+     "t": "Wait... Signal locator malfunction detected... Energy cannot be transmitted to the Eye of Ibni-Belum."
+    },
+    {
+     "s": 0,
+     "t": "Huh? What are we going to do?"
+    },
+    {
+     "s": 1,
+     "t": "The signal locator... is at the top of the tower... It requires manual adjustment..."
+    },
+    {
+     "s": 0,
+     "t": "Huh... Then let's figure out a way to get up there and check it out."
+    },
+    {
+     "section": "Eggie, (test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "Success! Well, that was easier than Paimon expected."
+    },
+    {
+     "s": 0,
+     "t": "But we still need to activate the third station, right?"
+    },
+    {
+     "s": 1,
+     "t": "Look... It's already active."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, you're right... It still works, after all this time? Dragon tech sure is reliable..."
+    },
+    {
+     "sit": "Someone else might have activated it..."
+    },
+    {
+     "s": 0,
+     "t": "Someone else? You mean... Columbina? After all, who else could it be... But why did she only activate one?"
+    },
+    {
+     "s": 0,
+     "t": "You don't think... she found out something was wrong? Are we gonna run into some sort of problem?"
+    },
+    {
+     "s": 0,
+     "t": "Hey... Eggie, you're not misleading us again, are you? This one's coming out of your friendship level!"
+    },
+    {
+     "s": 1,
+     "t": "I don't know... what my mission is..."
+    },
+    {
+     "s": 1,
+     "t": "But I'm sure it doesn't include... raising anyone's friendship levels..."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? Eggie, you've changed! Did all that info from the terminals go to your head?"
+    },
+    {
+     "sit": "Let's check out the Eye of Ibni-Belum first, shall we?"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... {NICKNAME}... more rational... reliable... good thinker... a superior partner... unlike Paimon..."
+    },
+    {
+     "s": 1,
+     "t": "Let's go... {NICKNAME}... I'll walk with you..."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? Okay, that's it! Paimon's deducting another ten percent from your share of the snacks!"
+    },
+    {
+     "section": "Eggie, (test)看火塔隐形触发NPC"
+    },
+    {
+     "s": 0,
+     "t": "So this is the Eye of Ibni-Belum? It definitely feels like a special place..."
+    },
+    {
+     "s": 0,
+     "t": "Oh! The terminal's over there."
+    },
+    {
+     "s": 1,
+     "t": "I think... I'll get some useful information."
+    },
+    {
+     "s": 0,
+     "t": "Hmph, let's hope it doesn't puff your head up even more."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What just happened?"
+    },
+    {
+     "s": 1,
+     "t": "I activated... the Eye of Ibni-Belum..."
+    },
+    {
+     "s": 0,
+     "t": "Oh? Did it work? Can you find Columbina?"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... in the facility known as Ungien's Circle... the terminal has detected..."
+    },
+    {
+     "s": 1,
+     "t": "...The appearance of an unknown individual lacking an identification code..."
+    },
+    {
+     "s": 0,
+     "t": "Could that be Columbina?"
+    },
+    {
+     "s": 1,
+     "t": "The system cannot confirm this person's identity..."
+    },
+    {
+     "sit": "Looks like we have to check it out in person."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... We can't be totally sure, but at least we have a lead for now... So, how are we gonna get there?"
+    },
+    {
+     "s": 1,
+     "t": "Let me help... Look... we can use this to get across..."
+    },
+    {
+     "s": 0,
+     "t": "Wow! What is this?"
+    },
+    {
+     "s": 1,
+     "t": "It's the entrance to the high-speed transit lane... it runs on the ancient moons' power..."
+    },
+    {
+     "s": 1,
+     "t": "Through it... you can reach the next stop from the Eye of Ibni-Belum... Ungien's Circle..."
+    },
+    {
+     "s": 1,
+     "t": "The terminal records state that... many species of creatures live there... it is a home for living beings..."
+    },
+    {
+     "s": 0,
+     "t": "So, there are all kinds of creatures living on the moon? That's incredible..."
+    },
+    {
+     "s": 0,
+     "t": "Should we head out now?"
+    },
+    {
+     "s": 1,
+     "t": "Please wait a moment... Something in the terminal is still responding to me..."
+    },
+    {
+     "s": 1,
+     "t": "Ah!"
+    },
+    {
+     "s": 0,
+     "t": "Eggie, what's wrong!?"
+    },
+    {
+     "s": 1,
+     "t": "There is a hidden module... \"Project Moongazer\"... It responded to me..."
+    },
+    {
+     "sit": "Any new intel?"
+    },
+    {
+     "s": 1,
+     "t": "The module... records the origins of this tower..."
+    },
+    {
+     "s": 1,
+     "t": "It starts with a dragon pioneer named Ibni{RUBY#[S]the first Moongazer}-Belum..."
+    },
+    {
+     "s": 1,
+     "t": "The lunar vessel we traveled in... was his creation... He was the one who led dragon researchers to the moon..."
+    },
+    {
+     "s": 0,
+     "t": "W—Wow, that's amazing! So this place must've been built to commemorate him, right?"
+    },
+    {
+     "s": 1,
+     "t": "Not exactly... The terminal recorded this instead..."
+    },
+    {
+     "s": 1,
+     "t": "After the pioneer landed... he began to explore the moon and circumlunar zone..."
+    },
+    {
+     "s": 1,
+     "t": "Then, one day... while in the circumlunar zone, he received a... mysterious signal from deep space..."
+    },
+    {
+     "s": 0,
+     "t": "A signal from deep space? What was it?"
+    },
+    {
+     "s": 1,
+     "t": "The researchers couldn't decipher the signal's meaning..."
+    },
+    {
+     "s": 1,
+     "t": "But the pioneer believed... it was a message sent back... by their king who had journeyed out into the sea of stars..."
+    },
+    {
+     "s": 1,
+     "t": "And that king's name... was Nibelung."
+    },
+    {
+     "s": 0,
+     "t": "Th—The Dragon King!? Did the signal really come from him?"
+    },
+    {
+     "s": 1,
+     "t": "I don't know... because the researchers could not enter deep space..."
+    },
+    {
+     "s": 1,
+     "t": "So... they built this tower..."
+    },
+    {
+     "s": 1,
+     "t": "This place, the Eye... It was originally a deep-space signal transceiver station... built to recapture that signal..."
+    },
+    {
+     "sit": "And... did they succeed?"
+    },
+    {
+     "s": 1,
+     "t": "Many years went by... the pioneer passed away... but the signal never appeared again..."
+    },
+    {
+     "s": 1,
+     "t": "His students gave up years later... and turned to more practical pursuits."
+    },
+    {
+     "s": 1,
+     "t": "They renovated the Eye into a lunar surface monitoring station... to make it easier for them to conduct more practical lunar research..."
+    },
+    {
+     "s": 0,
+     "t": "Aww, what a shame... Wow, Paimon feels like we just stumbled on something super important..."
+    },
+    {
+     "sit": "And this is \"Project Moongazer\"?"
+    },
+    {
+     "s": 1,
+     "t": "No... these are just the log entries I read..."
+    },
+    {
+     "s": 1,
+     "t": "The real project file is encrypted... I can't open it..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Didn't you say it responded to you? Shouldn't you be able to, y'know, open it?"
+    },
+    {
+     "s": 1,
+     "t": "My data matches it... but maybe because... it isn't enough..."
+    },
+    {
+     "s": 0,
+     "t": "Err, sorry, what do you mean by \"isn't enough\"!?"
+    },
+    {
+     "s": 1,
+     "t": "It's like how... snacks and Paimon are a match... but twenty percent of the snacks won't be enough for Paimon to eat."
+    },
+    {
+     "s": 0,
+     "t": "Hey, you're the one who gets twenty percent. Paimon's getting eighty!"
+    },
+    {
+     "sit": "Sounds like Eggie is a key mold of sorts."
+    },
+    {
+     "sit": "Some content is missing, so a key can't be forged."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... Yeah, Paimon feels like that's exactly it! Come to think of it, could this \"Project Moongazer\" be connected to Eggie's mission?"
+    },
+    {
+     "s": 0,
+     "t": "It responded to Eggie's message. In fact, it feels almost like it was waiting for her to show up!"
+    },
+    {
+     "s": 1,
+     "t": "I don't know... but I want to... open it..."
+    },
+    {
+     "s": 0,
+     "t": "Then let us help you!"
+    },
+    {
+     "s": 0,
+     "t": "If there's not enough information, then we just need to go find more terminals, right?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon noticed that with every terminal Eggie absorbs, she speaks a little more smoothly — and gets a little more full of herself."
+    },
+    {
+     "s": 0,
+     "t": "While Paimon could certainly do without the attitude, if this is Eggie's mission, then Paimon's gonna help!"
+    },
+    {
+     "sit": "Behold, Paimon the Observant!"
+    },
+    {
+     "sit": "Behold, Paimon the Generous!"
+    },
+    {
+     "s": 0,
+     "t": "Heh! Well, Eggie did help us look for Columbina, didn't she?"
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, Eggie! Since there's a terminal here, there's gotta be more up ahead! Come with us, and we'll make sure you get plenty to eat."
+    },
+    {
+     "s": 1,
+     "t": "Thank you... Paimon... I'll try my best... not to puff up..."
+    },
+    {
+     "s": 0,
+     "t": "Hehehe. So, should we head to the next stop now?"
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "s": 0,
+     "t": "Yay! Second stop on our super awesome lunar adventure — the \"Ungi-Ungi Circle\"! Let's go!"
+    },
+    {
+     "s": 1,
+     "t": "...It's Ungien's Circle..."
+    },
+    {
+     "s": 0,
+     "t": "Ungi-Ungi Circle, Ungi-Ungi Circle!"
+    }
+   ],
+   "description": "You catch sight of Columbina in the distance on a deserted island on the east side of Piramida. Worried that your friend has encountered trouble, you chase after her, and in so doing, embark on an adventure into the unknown…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Eggie"
+ ]
+}

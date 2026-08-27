@@ -1,0 +1,1807 @@
+{
+ "chapter": "Alatus Chapter",
+ "chapter_title": "Butterfly’s Dream",
+ "act": "Act 1",
+ "act_title": "Butterfly’s Dream",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Master of Stars' Deception",
+   "dialogue": [
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Hey, {NICKNAME}... Is it just Paimon, or is there something weird about those hilichurls over there?"
+    },
+    {
+     "sit": "They do give off a sinister energy."
+    },
+    {
+     "sit": "They seem unusually agitated."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thinks so too. We've seen plenty of hilichurls before, and they're always the bad guys... but this is different."
+    },
+    {
+     "s": 0,
+     "t": "Uh-oh, this is right by the Wangshu Inn, too. The guests are in great danger!"
+    },
+    {
+     "s": 0,
+     "t": "Now that we've seen it, if we don't do anything about it, Paimon will feel really guilty... Let's go take care of them, {NICKNAME}!"
+    },
+    {
+     "s": 1,
+     "t": "They seem unusually agitated."
+    },
+    {
+     "s": 0,
+     "t": "Right! Maybe it has something to do with that sorta... dark energy they're giving off?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "These super evil hilichurls are more difficult to defeat than the usual kind, too."
+    },
+    {
+     "s": 0,
+     "t": "Hey, seems like people are gathering over there... Wonder what they're doing?"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, see that guy in the mask? He—He scared off all the hilichurls!"
+    },
+    {
+     "sit": "Could he be an adeptus?"
+    },
+    {
+     "sit": "Looked like he was using some sort of adeptus art..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean like Xiao? Now that you mention it, this guy's mask is kinda similar to the one that he wears..."
+    },
+    {
+     "s": 0,
+     "t": "But the magic he was using seemed even more adeptus-y than Xiao's. Shall we go say hi?"
+    },
+    {
+     "s": 1,
+     "t": "Looked like he was using some sort of adeptus art..."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 0,
+     "t": "Ahem. Hello! Allow us to introduce ourselves, this—"
+    },
+    {
+     "s": 2,
+     "t": "Please, if you're here to thank me, there's no need. Cleansing the world of evil is the duty of the adepti. Think nothing of it — One certainly doesn't."
+    },
+    {
+     "s": 2,
+     "t": "...Wait, who are you? One had assumed you were followers, but on closer inspection it seems that we have not met."
+    },
+    {
+     "sit": "We're just travelers passing by."
+    },
+    {
+     "sit": "We are following the trail of the adepti."
+    },
+    {
+     "s": 0,
+     "t": "My name's Paimon! And this is my sidekick, {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "One sees. One, too, shall introduce oneself, for it is good manners to comply."
+    },
+    {
+     "s": 2,
+     "t": "Ahem... The one before you is the adeptus, Master of Stars, though one is better known to one's followers as \"Starsnatcher.\""
+    },
+    {
+     "s": 2,
+     "t": "One descended from one's mountain abode to cleanse the world of evil, whereupon fate saw fit that our paths should cross. Now... tell me that which you wish for."
+    },
+    {
+     "s": 0,
+     "t": "Our wishes? Paimon thought that the adepti in Liyue were just really good in battle... You mean you can grant people's wishes, too?"
+    },
+    {
+     "s": 2,
+     "t": "Hah... There are different levels of adepti... Are not the stars loftier than the mountains, clouds, and moon?"
+    },
+    {
+     "s": 2,
+     "t": "Yet, it is unbecoming of an adepti to boast of one's powers. One would have you first speak to one's followers, and only then make your verdict."
+    },
+    {
+     "s": 1,
+     "t": "We are following the trail of the adepti."
+    },
+    {
+     "s": 0,
+     "t": "My name's Paimon! And this is my sidekick, {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "Then it is right that our paths coincide. I, too, shall introduce myself, for with good manners to comply."
+    },
+    {
+     "section": "Male Believer"
+    },
+    {
+     "s": 3,
+     "t": "Have you seen the Master of Stars in action? His power truly hails from the divine!"
+    },
+    {
+     "s": 3,
+     "t": "I believe that now, there is finally some hope for my ailing father..."
+    },
+    {
+     "s": 1,
+     "t": "Tell me about the Master of Stars."
+    },
+    {
+     "s": 3,
+     "t": "Watching him use his magic is all the proof you need. A true adeptus, no doubt about it."
+    },
+    {
+     "s": 3,
+     "t": "Not long ago, I sought some medicine from him on behalf of my ailing father. The difference with Bubu Pharmacy's prescriptions was like night and day, I tell you."
+    },
+    {
+     "s": 3,
+     "t": "Once it was boiled and ready, it gave off this really ethereal mist — seemed pretty adeptal to me! Hm... Could have also been because there was Mist Flower in it, though..."
+    },
+    {
+     "s": 3,
+     "t": "Adepti medicine is surely the most potent. My father will recover soon, I just know it..."
+    },
+    {
+     "s": 3,
+     "t": "Sure, you have to make some sacrifices if you seek help from an adeptus like the Master of Stars — I had to give a few antiques as offerings. But my father's life is worth much more than a few old relics, right?"
+    },
+    {
+     "section": "Female Believer"
+    },
+    {
+     "s": 4,
+     "t": "Finally, a life full of hope and purpose..."
+    },
+    {
+     "s": 1,
+     "t": "What are your thoughts on the Master of Stars?"
+    },
+    {
+     "s": 4,
+     "t": "Oh! Are you believers, too?"
+    },
+    {
+     "s": 4,
+     "t": "After my fiancé upped and left, I cried every day..."
+    },
+    {
+     "s": 4,
+     "t": "But then I turned to the Master of Stars for help. At his suggestion, I started burning paintings of my fiancé and casting the ashes into the ocean at sunrise..."
+    },
+    {
+     "s": 4,
+     "t": "I can't explain it... but it really worked! I know in my heart that he will return. This is not some sort of positive thinking trick... I am certain of it."
+    },
+    {
+     "s": 4,
+     "t": "I'm so overjoyed that I gave a portion of my wedding budget to the Master of Stars as an offering. After all, if not for him, I wouldn't be getting my fiancé back, in which case I wouldn't need it anyway..."
+    },
+    {
+     "section": "Mercantile Believer"
+    },
+    {
+     "s": 5,
+     "t": "The Millelith don't really need to do shifts when the Master of Stars is around, do they?"
+    },
+    {
+     "s": 1,
+     "t": "What do you know about the Master of Stars?"
+    },
+    {
+     "s": 5,
+     "t": "I'm a merchant, and I had an especially valuable batch of goods that needed transporting recently. So, I asked the Master of Stars if he would make the journey with me, as presumptuous as that was."
+    },
+    {
+     "s": 5,
+     "t": "Reason being, monsters run a mile as soon as he so much as holds up his talisman. We didn't have the slightest bit of trouble the whole journey."
+    },
+    {
+     "s": 5,
+     "t": "It didn't come cheap, of course... but then, soliciting the services of an adeptus is a monumental affair — just look at the Rite of Descension! So I can accept it, but I doubt that most from outside of Liyue would be willing to..."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "Chat with them as you please. One will not beat one's own drum — the words of others shall ring truer."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "What do you think? One's adherents may exaggerate a little, but they speak from the heart."
+    },
+    {
+     "s": 1,
+     "t": "From their imaginations, I'd say..."
+    },
+    {
+     "s": 2,
+     "t": "Haha, surely you jest. There was once a senior adeptus, Xue Wuliang, known to the people as \"Liangzi.\" He said this:"
+    },
+    {
+     "s": 2,
+     "t": "\"All things are connected. That which mortals call 'imagination' is merely the bridge betwixt the spiritual and the material.\""
+    },
+    {
+     "s": 2,
+     "t": "In other words, their wishes are already on the path of transitioning into reality. Does this make things clearer?"
+    },
+    {
+     "s": 0,
+     "t": "Ahh... Nope, it makes them way more complicated... But basically, what you're saying is that their wishes can come true, right?"
+    },
+    {
+     "s": 2,
+     "t": "Indeed. You are perceptive, my diminutive friend."
+    },
+    {
+     "s": 0,
+     "t": "Okay. Um, so we also have one other question..."
+    },
+    {
+     "s": 2,
+     "t": "Oh? You need but ask."
+    },
+    {
+     "sit": "Why do you wear a mask?"
+    },
+    {
+     "sit": "Go on, take it off, lemme see..."
+    },
+    {
+     "s": 2,
+     "t": "One... wanders among mortals, doing good and cleansing evil. One reveals not one's visage to avoid further disturbance to this realm than is necessary."
+    },
+    {
+     "s": 0,
+     "t": "Ah, got it."
+    },
+    {
+     "s": 2,
+     "t": "Now, then — what are your wishes?"
+    },
+    {
+     "sit": "I want to know where my sibling is."
+    },
+    {
+     "sit": "I want power rivaling that of the gods."
+    },
+    {
+     "sit": "I'd like to get rich quick!"
+    },
+    {
+     "s": 2,
+     "t": "Hmm... One senses that a tragic tale lies behind this wish..."
+    },
+    {
+     "s": 2,
+     "t": "So be it. This wish is not beyond one's power to grant..."
+    },
+    {
+     "s": 2,
+     "t": "But first, one must see some proof of your... faith."
+    },
+    {
+     "s": 0,
+     "t": "...What's that supposed to mean?"
+    },
+    {
+     "s": 2,
+     "t": "The way of the adepti cannot be grasped from words alone. One must seek... the profound truths that lie beyond them... Should you fail to perceive one's hidden meaning, then regrettably, one may lend you no aid."
+    },
+    {
+     "s": 0,
+     "t": "What do we do? Paimon doesn't understand him at all!"
+    },
+    {
+     "sit": "I think he wants us to sweeten the deal..."
+    },
+    {
+     "sit": "I think he wants some Mora..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, that's right! Some of those believers mentioned that they had to pay a pretty sum for the adeptus' help, didn't they?"
+    },
+    {
+     "s": 0,
+     "t": "Well Paimon's not forking over any Mora, and we don't have anything valuable enough on us..."
+    },
+    {
+     "s": 0,
+     "t": "You don't even have a Vision..."
+    },
+    {
+     "sit": "I don't think people put Visions up for sale."
+    },
+    {
+     "sit": "No need to rub it in..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! Why don't we make him a tasty snack? No one can resist the temptation of good food, can they?"
+    },
+    {
+     "sit": "No one who shares your values, for sure..."
+    },
+    {
+     "sit": "Nom! Sounds good."
+    },
+    {
+     "s": 0,
+     "t": "Yep, a tasty snack is sure to work! Hehehe..."
+    },
+    {
+     "s": 0,
+     "t": "Why don't we head over to Wanwen Bookhouse and see if they've got any new recipes in?"
+    },
+    {
+     "s": 1,
+     "t": "Nom! Sounds good."
+    },
+    {
+     "s": 1,
+     "t": "No need to rub it in..."
+    },
+    {
+     "s": 1,
+     "t": "I think he wants some Mora..."
+    },
+    {
+     "sit": "I want power rivaling that of the gods."
+    },
+    {
+     "s": 2,
+     "t": "Indeed, a great many obstacles may be overcome given commensurate power. But one cannot but wonder — what grudge have you against the gods?"
+    },
+    {
+     "s": 1,
+     "t": "I'd like to get rich quick!"
+    },
+    {
+     "s": 0,
+     "t": "Now hold on a second! What about your sister(brother)!?"
+    },
+    {
+     "s": 2,
+     "t": "This is a common mortal sentiment. That you hail not from Liyue is manifest in your appearance, but one senses their materialistic influence upon you."
+    },
+    {
+     "s": 1,
+     "t": "Go on, take it off, lemme see..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! Isn't that a bit inappropriate?"
+    },
+    {
+     "s": 2,
+     "t": "Hm. Indeed, it would be inappropriate for one to remove one's mask."
+    }
+   ],
+   "description": "You discover some hilichurls near Wangshu Inn that are giving off dark energy, just as an adeptus who calls himself Starsnatcher is performing some exorcist arts nearby…"
+  },
+  {
+   "title": "Glimmers of the Vigilant Yaksha",
+   "dialogue": [
+    {
+     "section": "Male Believer"
+    },
+    {
+     "s": 3,
+     "t": "I still have some valuables at home, Starsnatcher. I can bring them tomorrow, to see if they're to your liking."
+    },
+    {
+     "section": "Female Believer"
+    },
+    {
+     "s": 4,
+     "t": "I'm only at ease with the Master of Stars present..."
+    },
+    {
+     "section": "Mercantile Believer"
+    },
+    {
+     "s": 5,
+     "t": "Please Starsnatcher, watch over me..."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "You need not fret — as long as you evidence your faith, your wishes will be granted."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 6,
+     "t": "So you'd like a copy of \"Yakshas: The Guardian Adepti\"?"
+    },
+    {
+     "s": 2,
+     "t": "Yes. Here, and keep the change."
+    },
+    {
+     "s": 6,
+     "t": "Oh, aren't you generous? Thank you for your patronage!"
+    },
+    {
+     "s": 0,
+     "t": "Hey, isn't that, um... Starsnapper? What a coincidence, running into him again!"
+    },
+    {
+     "sit": "It's Starsnatcher..."
+    },
+    {
+     "sit": "Coincidence, or Adeptincidence?"
+    },
+    {
+     "s": 0,
+     "t": "Did you hear the name of that book he just bought? Was it... \"Yakshas: The Guardian Adepti\"?"
+    },
+    {
+     "s": 0,
+     "t": "Ahh, well anyway, it was definitely a book about the adepti. Why would an adeptus wanna buy a book about himself?"
+    },
+    {
+     "sit": "I always found him fishy..."
+    },
+    {
+     "sit": "Perhaps he's a narcissist?"
+    },
+    {
+     "s": 0,
+     "t": "Really? What's so fishy about him?"
+    },
+    {
+     "sit": "Why would an adeptus want people to pay him Mora?"
+    },
+    {
+     "sit": "He's a charlatan, if you ask me."
+    },
+    {
+     "sit": "His mask is so ugly."
+    },
+    {
+     "s": 0,
+     "t": "Huh, that's a good point... None of the other adepti we've met seemed like they needed anything from anyone."
+    },
+    {
+     "s": 0,
+     "t": "Hmm..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thinks we should check out that book. Maybe we'll find out something about this guy that we can use!"
+    },
+    {
+     "s": 1,
+     "t": "He's a charlatan, if you ask me."
+    },
+    {
+     "s": 0,
+     "t": "So what you're trying to say is that he can't grant people's wishes?"
+    },
+    {
+     "s": 1,
+     "t": "His mask is so ugly."
+    },
+    {
+     "s": 0,
+     "t": "That's true, it really is. Very suspicious..."
+    },
+    {
+     "s": 1,
+     "t": "Perhaps he's a narcissist?"
+    },
+    {
+     "s": 0,
+     "t": "Could be!"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, but now that Paimon thinks about it, there's something that's just not right about this guy."
+    },
+    {
+     "sit": "Why would an adeptus want people to pay him Mora?"
+    },
+    {
+     "sit": "He's a charlatan, if you ask me."
+    },
+    {
+     "sit": "His mask is so ugly."
+    },
+    {
+     "s": 1,
+     "t": "Coincidence, or Adeptincidence?"
+    },
+    {
+     "section": "Jifang"
+    },
+    {
+     "s": 0,
+     "t": "Hey there. We'd like a copy of \"Yakshas: The Guardian Adepti\" — do you have one in stock?"
+    },
+    {
+     "s": 6,
+     "t": "Huh. Since when did that old chestnut become a best-seller?"
+    },
+    {
+     "s": 6,
+     "t": "You're a rare breed of youngster if this is what you like to read... But you should be able to find a copy somewhere on that desk over there."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "This is the one! Let's see what it's about, shall we?"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Finished yet? Hehe, Paimon's already done."
+    },
+    {
+     "s": 0,
+     "t": "This book is about the yakshas, a group of adepti who defend Liyue."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, seems like a pretty niche topic. Was there anything that stood out to you?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "About demons..."
+    },
+    {
+     "s": 0,
+     "t": "The book says that the wrathful spirits of the gods defeated during the Archon War can sometimes cause plagues, monsters or mutations..."
+    },
+    {
+     "s": 0,
+     "t": "All of which sound pretty horrendous. Hey, wait a second... Paimon wonders if..."
+    },
+    {
+     "s": 0,
+     "t": "Do you think those super-evil hilichurls we saw earlier were the \"mutations\" that the book's talking about?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "About karma..."
+    },
+    {
+     "s": 0,
+     "t": "The book says that the yakshas, after fighting against the wrath of the gods for thousands of years, became bound by karma."
+    },
+    {
+     "s": 0,
+     "t": "Poisoned by the hateful thoughts of the gods, the yakshas would often descend into indescribable fits of terror, rage, or agony..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* It's so tragic... After everything they went through in all their years of protecting Liyue, they got no reward, and had to deal with so much suffering instead."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "About the sole surviving yaksha..."
+    },
+    {
+     "s": 0,
+     "t": "So, there used to be five main yakshas, but supposedly only one of them is still alive today."
+    },
+    {
+     "s": 0,
+     "t": "Do you think that it could have anything to do with that Starsnatcher guy?"
+    },
+    {
+     "s": 0,
+     "t": "Hm... No, surely not. He doesn't exactly give off the impression that he's been suffering for thousands of years..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Nothing else that I can think of..."
+    },
+    {
+     "s": 0,
+     "t": "Yup, Paimon thinks we've already summed up all the key points."
+    },
+    {
+     "s": 0,
+     "t": "So, back to the matter at hand. The things we need answers on are one, where did those super evil-looking hilichurls come from, and two, what does Starsnatcher have to do with the yakshas. Right?"
+    },
+    {
+     "s": 0,
+     "t": "Now to head back to where this all started and commence our investigation! Let's part the fog of mystery that hangs over Jueyun Karst, and let the truth shine through in its full glory!"
+    },
+    {
+     "sit": "So we're playing detective now, are we?"
+    },
+    {
+     "sit": "You're way too into this..."
+    },
+    {
+     "s": 0,
+     "t": "Ehehe! To be honest, Paimon actually hopes he is a real adeptus. Ah... His exorcism techniques seemed real enough, at least..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm, but if we get our hopes up, there's further for them to come down. So it makes sense to investigate thoroughly first, just to be sure!"
+    },
+    {
+     "s": 0,
+     "t": "Alright, let's head back to Wangshu Inn!"
+    },
+    {
+     "s": 1,
+     "t": "You're way too into this..."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "Flee at my command, foul demons!"
+    },
+    {
+     "s": 2,
+     "t": "...Flee!"
+    },
+    {
+     "s": 2,
+     "t": "Wh—Why won't you flee?!"
+    },
+    {
+     "s": 7,
+     "t": "Beru nye! Beru nya! Beru nyaaaa!!!"
+    },
+    {
+     "s": 0,
+     "t": "Uh-oh, looks like Starsnatcher's in trouble!"
+    },
+    {
+     "s": 0,
+     "t": "And there are innocent bystanders here, too. We have to step in!"
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "I don't get it... Why didn't the Sigil of Permission do anything?"
+    },
+    {
+     "s": 2,
+     "t": "Has the evil aura of these hilichurls grown in intensity?"
+    },
+    {
+     "s": 0,
+     "t": "Sigil of Permission, huh? Now why does that sound familiar?"
+    },
+    {
+     "sit": "Ah yes, the get out of Jueyun free card..."
+    },
+    {
+     "sit": "So that's what he was using for his exorcisms..."
+    },
+    {
+     "s": 0,
+     "t": "Right! It's a keepsake of the adepti, so it must still contain traces of their power!"
+    },
+    {
+     "s": 0,
+     "t": "*gasp* No wonder he was able to scare those monsters away earlier..."
+    },
+    {
+     "s": 2,
+     "t": "Wh—What are you two babbling on about? One is merely underslept... meaning that one's adeptal power... is not in full flow!"
+    },
+    {
+     "s": 2,
+     "t": "Were one but given another opportunity..."
+    },
+    {
+     "s": 0,
+     "t": "Well as it happens, there goes another bunch of evil hilichurls over there. Should we leave them to you, then?"
+    },
+    {
+     "s": 2,
+     "t": "I— O—One... suddenly feels ill at ease. Surely one has overexpended one's adeptal powers, otherwise, one would surely purge these infernal beings at once..."
+    },
+    {
+     "s": 0,
+     "t": "Ugh, so you WERE just bragging after all. We were right to be suspicious!"
+    },
+    {
+     "s": 0,
+     "t": "Come on, Traveler, looks like it's up to us. Use your Elemental Sight and hunt them down!"
+    },
+    {
+     "s": 1,
+     "t": "So that's what he was using for his exorcisms..."
+    }
+   ],
+   "description": "As payment to attain Starsnatcher’s help, you prepare to go to Wanwen Bookhouse to purchase books about cooking. Upon arriving at the bookstore, you find…"
+  },
+  {
+   "title": "The Purging of Evil",
+   "dialogue": [
+    {
+     "section": "Male Believer"
+    },
+    {
+     "s": 3,
+     "t": "It's not like the Master of Stars to fail an exorcism — perhaps he isn't feeling well today?"
+    },
+    {
+     "section": "Female Believer"
+    },
+    {
+     "s": 4,
+     "t": "What happened there? Good thing we had you around, huh..."
+    },
+    {
+     "section": "Mercantile Believer"
+    },
+    {
+     "s": 5,
+     "t": "I can't believe that the Master of Stars wasn't powerful enough to defeat those hilichurls..."
+    },
+    {
+     "section": "Starsnatcher"
+    },
+    {
+     "s": 2,
+     "t": "One is merely feeling unwell. One hopes that you shall not spread these tidings wantonly..."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 8,
+     "t": "It's you... I remember you."
+    },
+    {
+     "s": 8,
+     "t": "I was purging some living beings that had been tainted by the demonic. It would appear that I have caused you some trouble."
+    },
+    {
+     "s": 0,
+     "t": "(Huh? He isn't usually this polite, what's going on...)"
+    },
+    {
+     "s": 0,
+     "t": "But you were exorcizing demons, how is that causing trouble?"
+    },
+    {
+     "s": 8,
+     "t": "That is because the changes that occurred in these monsters stem from me — or more precisely, from the karma I have accumulated."
+    },
+    {
+     "s": 0,
+     "t": "Mutations, karma... Does that mean..."
+    },
+    {
+     "sit": "We read about that in the book..."
+    },
+    {
+     "sit": "So Xiao is the final yaksha?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah. Paimon remembers that Xiao is also called the Vigilant Yaksha, isn't he?"
+    },
+    {
+     "s": 0,
+     "t": "So... so that means... Aww..."
+    },
+    {
+     "s": 0,
+     "t": "*sniff* P—Poor Xiao..."
+    },
+    {
+     "s": 8,
+     "t": "...?"
+    },
+    {
+     "sit": "We read about your past in a book."
+    },
+    {
+     "sit": "We were just reading a book called \"Yakshas: The Guardian Adepti.\""
+    },
+    {
+     "s": 8,
+     "t": "I see. You must mean that piece of literati fan fiction from a few hundred years ago."
+    },
+    {
+     "s": 8,
+     "t": "Hmph. All things are impermanent, and to exist is to suffer. We yakshas have no need of sympathy or tears."
+    },
+    {
+     "s": 8,
+     "t": "My comrades who have passed on would see your tears as a stain upon their legacy."
+    },
+    {
+     "s": 0,
+     "t": "Oh, uh... Paimon's sorry..."
+    },
+    {
+     "s": 8,
+     "t": "It matters not. In any case, I am on my way to purge a cavern of demonic influence, so we shall part ways here."
+    },
+    {
+     "s": 0,
+     "t": "W—Wait! Take us with you! We'll be a big help, Paimon promises!"
+    },
+    {
+     "s": 8,
+     "t": "No need. I am used to fighting alone, and in any case these mutations originated from me to begin with..."
+    },
+    {
+     "s": 0,
+     "t": "Well then... Oh! Consider it Paimon's penance for being accidentally rude just now! ...Please?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "...Come on then."
+    },
+    {
+     "s": 1,
+     "t": "We were just reading a book called \"Yakshas: The Guardian Adepti.\""
+    },
+    {
+     "s": 1,
+     "t": "So Xiao is the final yaksha?"
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 8,
+     "t": "Finish your preparations, and we shall enter — we should not leave those monsters be for too long."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Ooh, this place gives Paimon goosebumps!"
+    },
+    {
+     "s": 8,
+     "t": "I will use the ritual known as the Bane of All Evil to relieve this place of its karma."
+    },
+    {
+     "s": 8,
+     "t": "You must remain calm. Do not allow yourself to be affected by the lingering wrath of bygone gods."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 8,
+     "t": "It is good that we came here. An unusual number of living things had fallen under infernal influence. Had we not arrived in good time, the consequences would have been unthinkable."
+    },
+    {
+     "s": 8,
+     "t": "Now. This \"Starsnatcher\" you speak of. What is the situation?"
+    },
+    {
+     "s": 0,
+     "t": "Ooh, Paimon'll tell you!"
+    },
+    {
+     "s": 8,
+     "t": "An adeptus who grants wishes... To think that people could be so easily deceived by such blatant lies..."
+    },
+    {
+     "s": 0,
+     "t": "As an adeptus, do you have the power to grant wishes, Xiao?"
+    },
+    {
+     "s": 8,
+     "t": "The Liyue of yesteryear would never ask the adepti for boons unearned."
+    },
+    {
+     "s": 8,
+     "t": "Millennia ago, the ancestral people of Liyue asked for nothing more than the strength to defend the land they called their home."
+    },
+    {
+     "s": 0,
+     "t": "Ehh... To be honest, an adepti who grants people's wishes is probably more appealing to people nowadays..."
+    },
+    {
+     "s": 8,
+     "t": "However feeble people nowadays may be, they are not my concern. I concern myself only with following Rex Lapis' original decree."
+    },
+    {
+     "s": 0,
+     "t": "Whoops... Paimon spoke without thinking again..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, ah, one more thing! That fake adeptus has a Sigil of Permission. It's what he uses to exorcise demons!"
+    },
+    {
+     "s": 8,
+     "t": "Wait, truly? Hmph. Fool. Exorcizing demons without exterminating them — it is no wonder they have been congregating here."
+    },
+    {
+     "s": 8,
+     "t": "If this continues, things may spiral out of even my control... We must confiscate his Sigil of Permission."
+    },
+    {
+     "sit": "Confiscate? Is that all?"
+    },
+    {
+     "sit": "I think I'd also like to teach him a lesson."
+    },
+    {
+     "s": 0,
+     "t": "Great minds think alike! Paimon agrees, we've gotta show that trickster what you get for trying to fool us!"
+    },
+    {
+     "s": 0,
+     "t": "And it just so happens that we've got a real adeptus with us too! If Xiao were to teach Starsnatcher a lesson, you can bet he'll never dare to pose as an adeptus ever again!"
+    },
+    {
+     "s": 8,
+     "t": "No. I only slay demons — I do not kill mortals."
+    },
+    {
+     "s": 0,
+     "t": "...Who said anything about killing him!?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "It would certainly benefit Liyue if we could convince him to cease his wicked ways."
+    },
+    {
+     "s": 8,
+     "t": "I possess an art called Dream Trawler. It is normally used to separate the soul from the body, that one might cultivate oneself in a waking dream..."
+    },
+    {
+     "s": 8,
+     "t": "But it can also be used to call forth the spirits of others."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, now that's a real adepti art for ya!"
+    },
+    {
+     "sit": "Similar to \"gifting dreams and visions\"?"
+    },
+    {
+     "sit": "You'll scare him out of his wits for sure."
+    },
+    {
+     "s": 8,
+     "t": "A ritual must be performed for this art to be used. Assist me in gathering a few items... a censer, seven lamps, and something to reduce the temperature."
+    },
+    {
+     "s": 0,
+     "t": "Reduce the temperature... Oh, some Mist Flowers will probably do, right?"
+    },
+    {
+     "s": 0,
+     "t": "But as for the censer and the seven lamps... Hmm... Probably not the kinds of things we're gonna just stumble across in the wild."
+    },
+    {
+     "s": 8,
+     "t": "Do you know of the two yaksha statues that stand guard beside a merchant road on the southern face of Mt. Tianheng?"
+    },
+    {
+     "s": 8,
+     "t": "The ancestors of the people of Liyue built shrines there to honor the yakshas. You should still be able to find some ceremonial items there."
+    },
+    {
+     "s": 8,
+     "t": "Once you have found them, meet me at the yaksha statues after nightfall, and I will teach you how to use this art."
+    },
+    {
+     "s": 1,
+     "t": "You'll scare him out of his wits for sure."
+    },
+    {
+     "s": 1,
+     "t": "I think I'd also like to teach him a lesson."
+    }
+   ],
+   "description": "Starsnatcher’s ability to purge evil stems from the Sigil of Permission. After an unforeseen mishap, you give chase to a group of hilichurls with an evil aura…"
+  },
+  {
+   "title": "Insights of Drifting Dreams",
+   "dialogue": [
+    {
+     "section": "Pervases"
+    },
+    {
+     "s": 9,
+     "t": "The spirit soars the mountains high, while the body rests as the world goes by..."
+    },
+    {
+     "s": 0,
+     "t": "Um... Sorry to interrupt you, but..."
+    },
+    {
+     "s": 1,
+     "t": "We'd like to borrow a censer and some lamps."
+    },
+    {
+     "s": 9,
+     "t": "Well I'll be... Isn't that something?"
+    },
+    {
+     "s": 9,
+     "t": "A pair walk into a shrine, neither to seek nor worship gods or adepti, but to pilfer the tools of worship for their own ends. Hahaha..."
+    },
+    {
+     "s": 0,
+     "t": "We know it's rude to ask, but we just need them for a short while — honest!"
+    },
+    {
+     "s": 9,
+     "t": "For the Dream Trawler ritual, I trust?"
+    },
+    {
+     "s": 0,
+     "t": "Wha— How'd you know that?"
+    },
+    {
+     "s": 9,
+     "t": "I have been in this shrine for far longer than you would expect."
+    },
+    {
+     "s": 9,
+     "t": "Perhaps as a reward for my faithfulness, I have been endowed with some understanding of the adepti arts."
+    },
+    {
+     "s": 0,
+     "t": "Wow. Paimon's never heard of that happening before."
+    },
+    {
+     "s": 9,
+     "t": "Ah, it matters not. Take what you need. It is a fortuitous thing that these items may be of service to you."
+    },
+    {
+     "s": 9,
+     "t": "...They served little purpose here, in any case."
+    },
+    {
+     "sit": "Something on your mind?"
+    },
+    {
+     "sit": "Well... thanks, then!"
+    },
+    {
+     "s": 9,
+     "t": "Heh, nothing that you need concern yourself with. Please, take what you wish."
+    },
+    {
+     "s": 1,
+     "t": "Well... thanks, then!"
+    },
+    {
+     "s": 9,
+     "t": "You are quite welcome. Please, take what you wish."
+    },
+    {
+     "section": "Censer"
+    },
+    {
+     "s": 0,
+     "t": "This censer... should be fine... right?"
+    },
+    {
+     "s": 0,
+     "t": "At least it isn't as run-down as this shrine."
+    },
+    {
+     "s": 0,
+     "t": "So next... we just need to grab the Seven-Star Lamps, right? The sooner we start, the sooner we'll be done."
+    },
+    {
+     "section": "Pervases"
+    },
+    {
+     "s": 9,
+     "t": "Heh, nothing that you need concern yourself with. Please, take what you wish."
+    },
+    {
+     "section": "Pervases"
+    },
+    {
+     "s": 9,
+     "t": "Heh, nothing that you need concern yourself with. Please, take what you wish."
+    },
+    {
+     "section": "Statue"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Where'd he go!? He was right here..."
+    },
+    {
+     "s": 0,
+     "t": "I had presumed that once you had acquired what you came for, you would forget about me and simply be on your way..."
+    },
+    {
+     "s": 0,
+     "t": "Ah! It's that guy's voice! ...Hello? Wh—Where are you?"
+    },
+    {
+     "s": 0,
+     "t": "My physical form ceased to exist over a thousand years ago. What you witnessed earlier was an illusion, created by the adepti art known as Mortal Lingering."
+    },
+    {
+     "s": 0,
+     "t": "Now that you have taken the Seven-Star Lamps and censer used in the Mortal Lingering ritual, my form is no longer visible to you."
+    },
+    {
+     "sit": "So you're..."
+    },
+    {
+     "sit": "Y—Y—You're a g—g—ghost?"
+    },
+    {
+     "s": 0,
+     "t": "I was once a junior in the order of the yakshas, bestowed with the name Pervases by Rex Lapis himself. Yet my strength failed, and I was slain in battle."
+    },
+    {
+     "s": 0,
+     "t": "Today is the anniversary of my death. My last wish was to see a modern Liyue, and so I took the liberty of performing this ritual here."
+    },
+    {
+     "s": 0,
+     "t": "That aside... You were sent here by the Conqueror of Demons, were you not?"
+    },
+    {
+     "s": 0,
+     "t": "So, you two know each other then?"
+    },
+    {
+     "s": 0,
+     "t": "I sense his aura upon you... that, and the heavy burden of his karma."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Even after all these millennia, he still must endure such tremendous suffering?"
+    },
+    {
+     "s": 0,
+     "t": "...I am truly ashamed."
+    },
+    {
+     "s": 0,
+     "t": "Don't say that, Pervases — you sacrificed your life for Liyue, didn't you?"
+    },
+    {
+     "s": 0,
+     "t": "Life is a precious thing, yes... But when I think of the burden that the Conqueror of Demons must bear... *sigh* death seems to me to have been the easy way out. A selfish indulgence, even."
+    },
+    {
+     "s": 0,
+     "t": "Pervases..."
+    },
+    {
+     "s": 0,
+     "t": "Haha, I apologize. Birthdays are joyful occasions, but by the same token, it is hard to not be melancholy on the anniversary of one's death."
+    },
+    {
+     "s": 0,
+     "t": "The Mortal Lingering will not last much longer. Take care, you two, and please pass on my regards to the Conqueror of Demons..."
+    },
+    {
+     "sit": "We will!"
+    },
+    {
+     "sit": "You take care too, Pervases..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* If only I could taste some authentic Grilled Ticker Fish once more..."
+    },
+    {
+     "s": 0,
+     "t": "By wave and storm I hunt for fish, by wind and snow I slay evil..."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Looks like he's gone, then... Paimon really hopes that at least someone will remember Pervases the Yaksha."
+    },
+    {
+     "s": 0,
+     "t": "We should get going. But let's come back here and make an offering sometime."
+    },
+    {
+     "s": 1,
+     "t": "You take care too, Pervases..."
+    },
+    {
+     "s": 1,
+     "t": "Y—Y—You're a g—g—ghost?"
+    },
+    {
+     "s": 0,
+     "t": "Haha... It is not untrue to say this. The line between adepti and ghosts is a fine one indeed."
+    },
+    {
+     "section": "Pervases"
+    },
+    {
+     "s": 9,
+     "t": "Heh, nothing that you need concern yourself with. Please, take what you wish."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 8,
+     "t": "Have you gathered the items for the ritual?"
+    },
+    {
+     "s": 8,
+     "t": "Hmm... This censer, and these lamps... Their designs are flawless, almost as if they were made specifically for use in the adepti arts. Where did you come by them?"
+    },
+    {
+     "s": 1,
+     "t": "We got them from a yaksha named Pervases..."
+    },
+    {
+     "s": 0,
+     "t": "Oh! And um, he says hi!"
+    },
+    {
+     "s": 8,
+     "t": "Pervases..."
+    },
+    {
+     "s": 8,
+     "t": "...Yes, this does have the hallmarks of something Pervases might do."
+    },
+    {
+     "s": 8,
+     "t": "As I thought, it seems that he could not leave Liyue behind either... I hope that its present state will allow him to rest in peace."
+    },
+    {
+     "s": 8,
+     "t": "Well then. Let us begin preparing for the ritual."
+    },
+    {
+     "s": 8,
+     "t": "Place the censer in the middle, and surround it with the Seven-Star Lamps. Adorn the area with the items of abject cold. Once this is done, we shall proceed."
+    },
+    {
+     "s": 8,
+     "t": "Yes, this will do. Now, the next step is the key to performing Dream Trawler..."
+    },
+    {
+     "s": 8,
+     "t": "There are four steps to performing this ritual: offering incense, meditation, incantation, and loosing an arrow."
+    },
+    {
+     "s": 0,
+     "t": "Ah... Seems like a real rigmarole."
+    },
+    {
+     "s": 8,
+     "t": "Adepti arts are the product of millennia of study by adepti. Do not dismiss their mystical workings as \"rigmarole.\""
+    },
+    {
+     "s": 8,
+     "t": "Failure to take this seriously could cause the technique to devour one's own body, or cause the spirit to be sundered from one's flesh permanently..."
+    },
+    {
+     "s": 0,
+     "t": "Agh! Stop talking! Paimon's sorry!"
+    },
+    {
+     "s": 8,
+     "t": "When offering the incense, we place the incense into the censer with reverence for Rex Lapis in our hearts."
+    },
+    {
+     "s": 8,
+     "t": "Meditation is to empty ourselves of trivial thoughts, and to focus on the target of the art we are performing."
+    },
+    {
+     "s": 8,
+     "t": "Then, we shall recite the incantation in a loud voice: \"Devayaksha, Bring Forth Sin!\""
+    },
+    {
+     "s": 8,
+     "t": "Finally, we will loose an arrow towards each of the yaksha statues to enlist their authority for our contract."
+    },
+    {
+     "s": 8,
+     "t": "If all goes well, Starsnatcher's soul will be brought forth shortly."
+    },
+    {
+     "sit": "Understood."
+    },
+    {
+     "sit": "*gulps*"
+    },
+    {
+     "s": 8,
+     "t": "If you have no other questions, let us begin."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... Well... let's start by offering up incense, shall we? You know, with respect for Rex Lapis and everything..."
+    },
+    {
+     "s": 1,
+     "t": "*gulps*"
+    },
+    {
+     "section": "Offer Incense"
+    },
+    {
+     "s": 0,
+     "t": "Then we meditate... Ugh, Paimon really doesn't wanna think about that fraud!"
+    },
+    {
+     "s": 1,
+     "t": "Hmm..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm..."
+    },
+    {
+     "s": 1,
+     "t": "Ohh..."
+    },
+    {
+     "s": 0,
+     "t": "Ohh..."
+    },
+    {
+     "s": 1,
+     "t": "Ahh... Hmm..."
+    },
+    {
+     "s": 0,
+     "t": "Ahh... Hmm..."
+    },
+    {
+     "s": 1,
+     "t": "Devayaksha, Bring Forth Sin!"
+    },
+    {
+     "s": 0,
+     "t": "Uh, bring forth sin!"
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 0,
+     "t": "We finished the ritual, and we followed all the instructions to the letter!"
+    },
+    {
+     "s": 8,
+     "t": "...Close enough."
+    },
+    {
+     "s": 8,
+     "t": "Leave the rest to me. You two get ready to greet him."
+    },
+    {
+     "s": 2,
+     "t": "Where is one... Huh? You two look familiar."
+    },
+    {
+     "s": 2,
+     "t": "What's with one's body? One feels... light. Weightless!"
+    },
+    {
+     "sit": "We summoned your spirit forth with an adepti art."
+    },
+    {
+     "sit": "Guess what? You're already dead."
+    },
+    {
+     "s": 2,
+     "t": "An adepti art? Hahaha! You dare don the guise of an adeptus in one's presence?"
+    },
+    {
+     "s": 2,
+     "t": "But as for the matter of one's present location... One could have sworn that one was dozing off to sleep at Wangshu Inn not a moment ago..."
+    },
+    {
+     "s": 2,
+     "t": "Wait... that must be it... of course it must! Haha, as expected of an adeptus such as oneself..."
+    },
+    {
+     "s": 2,
+     "t": "One must indeed be in a dream!"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, there's no helping this guy, is there?"
+    },
+    {
+     "sit": "Oh, you're not dreaming."
+    },
+    {
+     "sit": "Dreamers, after all, feel no pain."
+    },
+    {
+     "s": 2,
+     "t": "Huh? What is the meaning of this? Do you truly think that one will permit such insolence in one's own dreams?"
+    },
+    {
+     "s": 0,
+     "t": "...Alright, time to take him down a peg."
+    },
+    {
+     "s": 1,
+     "t": "Dreamers, after all, feel no pain."
+    },
+    {
+     "s": 1,
+     "t": "Guess what? You're already dead."
+    },
+    {
+     "s": 2,
+     "t": "Dead!?"
+    },
+    {
+     "s": 2,
+     "t": "Impossible! One was just lying in peaceful repose at Wangshu Inn..."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 2,
+     "t": "P—Please, stop! I surrender, I surrender! Argh..."
+    },
+    {
+     "sit": "So, do you believe us now?"
+    },
+    {
+     "sit": "So, are we still going to do this \"oneself\" song and dance?"
+    },
+    {
+     "s": 2,
+     "t": "Yes! Yes, I do! I thought I was going to die..."
+    },
+    {
+     "s": 2,
+     "t": "How did I ever have the misfortune to meet you two..."
+    },
+    {
+     "s": 2,
+     "t": "Please, great adepti, spare my life. I won't do this ever again, I swear it..."
+    },
+    {
+     "s": 0,
+     "t": "We did call your spirit here, but we're not adepti. He, however, is."
+    },
+    {
+     "s": 8,
+     "t": "You deceive the masses with quackery, masquerade as an adeptus, exorcise demons without exterminating them, and display a callous lack of regard for life."
+    },
+    {
+     "s": 8,
+     "t": "One day, you will reap that which you have sown... For those who invite the infernal into their lives, there is no redemption!"
+    },
+    {
+     "s": 2,
+     "t": "Ah... I... You're..."
+    },
+    {
+     "s": 0,
+     "t": "Seems like Xiao's got him scared stiff."
+    },
+    {
+     "s": 2,
+     "t": "O great adeptus... might I ask your name?"
+    },
+    {
+     "sit": "He is the Conqueror of Demons."
+    },
+    {
+     "sit": "He is the Vigilant Yaksha."
+    },
+    {
+     "s": 2,
+     "t": "It really is you! It's truly you! Never in my life did I imagine that I might meet the Conqueror of Demons, the Vigilant Yaksha himself!"
+    },
+    {
+     "s": 0,
+     "t": "You know about Xiao?"
+    },
+    {
+     "s": 2,
+     "t": "Of course! My grandfather was a folklorist — I learned the tales of the Conqueror of Demons at his knee..."
+    },
+    {
+     "s": 2,
+     "t": "To this day, I am an avid collector of books concerning the yakshas."
+    },
+    {
+     "s": 2,
+     "t": "But ever since I discovered a Sigil of Permission while rummaging through my grandfather's personal effects..."
+    },
+    {
+     "s": 2,
+     "t": "At first, I was just imitating the adepti for fun... but slowly I began to stray further and further from the righteous path..."
+    },
+    {
+     "s": 0,
+     "t": "Huh, so to sum you up... you're Xiao's biggest fan?"
+    },
+    {
+     "s": 2,
+     "t": "Y—Yes. Thank you both for allowing me to witness the Conqueror of Demons in the flesh — it's like a dream come true!"
+    },
+    {
+     "s": 0,
+     "t": "Uh, that wasn't quite our intention..."
+    },
+    {
+     "s": 2,
+     "t": "Please allow me to swear this oath before the Great Conqueror of Demons..."
+    },
+    {
+     "s": 2,
+     "t": "I swear to turn away from evil, to live an honest life, and to never again stain the name of the adepti!"
+    },
+    {
+     "s": 8,
+     "t": "I will remember your oath... Now go."
+    },
+    {
+     "s": 2,
+     "t": "Thank you... A thousand thanks for your forgiveness... and for all that you have done for Liyue..."
+    },
+    {
+     "s": 0,
+     "t": "He seemed very earnest when he was making that oath there. Guess he won't be tricking anyone anymore."
+    },
+    {
+     "s": 0,
+     "t": "Oh, wait! We haven't gotten the Sigil of Permission back yet. Let's head over to Wangshu Inn first thing tomorrow and look for him!"
+    },
+    {
+     "s": 1,
+     "t": "He is the Vigilant Yaksha."
+    },
+    {
+     "s": 1,
+     "t": "So, are we still going to do this \"oneself\" song and dance?"
+    },
+    {
+     "s": 2,
+     "t": "N—No, no, never again! Y—You almost killed me..."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 0,
+     "t": "Hey there, Boss. Starsnatcher's staying here, right?"
+    },
+    {
+     "s": 10,
+     "t": "Starsnatcher... Hm... You mean the false adeptus who wore a mask?"
+    },
+    {
+     "s": 10,
+     "t": "He signed in here under the name Wang Ping'an."
+    },
+    {
+     "sit": "That's a... really normal name."
+    },
+    {
+     "sit": "So a really, really ordinary person after all."
+    },
+    {
+     "s": 10,
+     "t": "He's already checked out. He said he wished to go on a solo pilgrimage..."
+    },
+    {
+     "s": 10,
+     "t": "Ah, yes. He also requested that I give this letter to a traveler who journeys together with a \"talking fairy\"... should they come asking for him."
+    },
+    {
+     "s": 0,
+     "t": "Talking fairy... Who's that?"
+    },
+    {
+     "s": 10,
+     "t": "...Well anyway, you must be the traveler. Here's the letter."
+    },
+    {
+     "s": 0,
+     "t": "How strange that he would leave a letter for us. Is this the final attempt to fool us, maybe?"
+    },
+    {
+     "s": 0,
+     "t": "Come on, open it! Paimon's curious!"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Huh, seems like he actually left us a few nice trinkets..."
+    },
+    {
+     "s": 0,
+     "t": "Along with... Woohoo! The Sigil of Permission!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon hasn't met a bad guy like him in a long time..."
+    },
+    {
+     "sit": "I'm actually quite touched..."
+    },
+    {
+     "sit": "This is all thanks to Xiao."
+    },
+    {
+     "s": 0,
+     "t": "Yeah... Anyway, let's go take this Sigil of Permission to Xiao, shall we?"
+    },
+    {
+     "s": 1,
+     "t": "This is all thanks to Xiao."
+    },
+    {
+     "s": 1,
+     "t": "So a really, really ordinary person after all."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 0,
+     "t": "Ah! There you are."
+    },
+    {
+     "s": 0,
+     "t": "We got the Sigil of Permission back. Do you wanna take it?"
+    },
+    {
+     "s": 8,
+     "t": "You have my thanks."
+    },
+    {
+     "s": 11,
+     "t": "May I take your order, sir?"
+    },
+    {
+     "s": 8,
+     "t": "One Grilled Ticker Fish."
+    },
+    {
+     "s": 11,
+     "t": "Certainly, we'll prepare it for you immediately!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? No Almond Tofu this time? Well that's not like Xiao."
+    },
+    {
+     "s": 8,
+     "t": "Ticker Fish was Pervases' favorite dish..."
+    },
+    {
+     "s": 8,
+     "t": "I just wanted to... see how it tastes."
+    },
+    {
+     "s": 0,
+     "t": "Huh..."
+    },
+    {
+     "s": 8,
+     "t": "By wave and storm I hunt for fish, by wind and snow I slay evil..."
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "Was there anything else? I... am accustomed to eating alone."
+    },
+    {
+     "sit": "We'll leave you be, then..."
+    },
+    {
+     "sit": "Come on, Paimon..."
+    },
+    {
+     "s": 0,
+     "t": "Uh huh! And so, Detective Paimon and the trusty Traveler solved the case, and quietly slipped away..."
+    },
+    {
+     "s": 1,
+     "t": "Come on, Paimon..."
+    }
+   ],
+   "description": "Under Xiao’s guidance, you prepare to use adepti arts to recover the Sigil of Permission and warn the false adeptus of his evil ways. You will confront the false adeptus in a dream and teach him a lesson…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Traveler",
+  "Starsnatcher",
+  "Male Believer",
+  "Female Believer",
+  "Mercantile Believer",
+  "Jifang",
+  "Hilichurl",
+  "Xiao",
+  "Pervases",
+  "Verr Goldet",
+  "Xiuhua"
+ ]
+}

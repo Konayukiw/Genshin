@@ -1,0 +1,850 @@
+{
+ "chapter": "City Buried By Ash",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Vaulting the Wall of Morning Mist",
+ "region": null,
+ "quests": [
+  {
+   "title": "Vaulting the Wall of Morning Mist",
+   "dialogue": [
+    {
+     "section": "Paimon, Investigate"
+    },
+    {
+     "sit": "As an enormous explosion rings out, you all slide to the bottom amidst sloughing rubble and sand..."
+    },
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Investigate, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Th—That was close!"
+    },
+    {
+     "s": 0,
+     "t": "Was Paimon seeing things? We were saved by a flash of golden light."
+    },
+    {
+     "sit": "I did see a pattern in gold..."
+    },
+    {
+     "sit": "Whatever it was, it saved us."
+    },
+    {
+     "s": 0,
+     "t": "Could it be the same kind of gold pattern that we saw when we encountered {REALNAME[ID(2)|SHOWHOST(true)]}? Did the pattern guide us here?"
+    },
+    {
+     "s": 0,
+     "t": "Feels like we're being helped by some kind of higher power somehow!"
+    },
+    {
+     "s": 0,
+     "t": "And this looks like a safer spot either way. Ugh, Paimon never thought we'd have to run from hilichurls!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr... Ehrr?"
+    },
+    {
+     "s": 0,
+     "t": "What's wrong? Are you okay, {REALNAME[ID(2)|SHOWHOST(true)]}?"
+    },
+    {
+     "s": 1,
+     "t": "Rrroo..."
+    },
+    {
+     "s": 0,
+     "t": "Did something in here catch your attention?"
+    },
+    {
+     "s": 0,
+     "t": "Well, not that we'll be leaving anytime soon with them blocking the door, so let's just explore this place."
+    },
+    {
+     "section": "Bona, Paimon, Cocouik"
+    },
+    {
+     "s": 2,
+     "t": "Hey, you over there!"
+    },
+    {
+     "s": 2,
+     "t": "Yes, I'm talking about the three of you! Turn around."
+    },
+    {
+     "s": 2,
+     "t": "Looks like you understand what I'm saying."
+    },
+    {
+     "s": 2,
+     "t": "Phew. You scared me back there, you know? I thought you were Abyss monsters pretending to be humans. If you hadn't responded, I'd have struck first."
+    },
+    {
+     "sit": "We should be the scared ones."
+    },
+    {
+     "sit": "Thank goodness for my quick reactions, then."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, we sure didn't think there would be other people here!"
+    },
+    {
+     "s": 2,
+     "t": "Heh. Anyway, the way we're meeting here, I'd call it destiny. I'm the ace adventurer of the Flower-Feather Clan. Call me Bona."
+    },
+    {
+     "sit": "I'm {NICKNAME}."
+    },
+    {
+     "sit": "This is Paimon, my employer."
+    },
+    {
+     "s": 0,
+     "t": "And my name's Paimon. We're also adventurers exploring this place. This little one here is our companion, {REALNAME[ID(2)|SHOWHOST(true)]}!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Are you also looking for the Jade of Return, like the other adventurers were?"
+    },
+    {
+     "s": 2,
+     "t": "The Jade of Return... Yeah, I guess. You too, then?"
+    },
+    {
+     "s": 0,
+     "t": "Uh-huh! Guess we were right. No one's found it yet!"
+    },
+    {
+     "s": 2,
+     "t": "Still... An adventurer openly displaying their weaknesses, a reckless white guiding spirit, and a small Tepetlisaurus that doesn't know what's happening..."
+    },
+    {
+     "s": 2,
+     "t": "You're practically rookies who happened upon this dangerous and forbidden place without any preparation, aren't you?"
+    },
+    {
+     "s": 2,
+     "t": "The Jade of Return is not something that amateur adventurers can find! You're lucky that you bumped into me, or you might've died before figuring out what's what."
+    },
+    {
+     "s": 0,
+     "t": "What was that about a guiding spirit? Also, watch your words, 'cause we're decidedly not rookies!"
+    },
+    {
+     "sit": "We're very experienced, as it happens."
+    },
+    {
+     "sit": "This is Paimon, the best adventurer in Teyvat."
+    },
+    {
+     "s": 0,
+     "t": "If you don't believe us, you can ask Katheryne at the Adventurers' Guild about us. You'll find out just how good we are pretty quick!"
+    },
+    {
+     "s": 0,
+     "t": "Why don't you take a look at our Adventurer Handbooks first? It's certified by the Adventurers' Guild and contains all our adventures!"
+    },
+    {
+     "s": 2,
+     "t": "Wait a minute, what's an Adventurer Handbook? And this Adventurers' Guild... I've never heard of it. Was it established recently?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? And you call yourself an adventurer? How do you not know about those two things?"
+    },
+    {
+     "s": 2,
+     "t": "No, no, what I mean is that you're not making sense. What do you mean, you need to be certified by some random organization to become an adventurer!?"
+    },
+    {
+     "s": 2,
+     "t": "Aren't adventurers supposed to be courageous and unbound? Why must there be a Guild to keep them in check?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, you do have a point... Wait, no! The Adventurers' Guild is very important, and not just \"some random organization\"!"
+    },
+    {
+     "s": 0,
+     "t": "Still, Paimon's never considered how people would become adventurers if the Guild didn't exist..."
+    },
+    {
+     "s": 2,
+     "t": "A fair concern! For starters, one needs enough curiosity, a thirst for knowledge, and a sense of responsibility to help others."
+    },
+    {
+     "s": 2,
+     "t": "But most importantly, you need the courage to take that first step! Once you make the decision and start on a journey, you've become an adventurer."
+    },
+    {
+     "sit": "Paimon has enough curiosity for both of us."
+    },
+    {
+     "sit": "I sure love sticking my nose in other people's businesses."
+    },
+    {
+     "sit": "It's the courage that counts most."
+    },
+    {
+     "s": 0,
+     "t": "That's right, that's totally Paimon's thing! Whether it's treasures or gourmet, Paimon's always curious!"
+    },
+    {
+     "s": 0,
+     "t": "By the way, Paimon had the most amazing Blazed Meat Stew this morning."
+    },
+    {
+     "sit": "This isn't foreshadowing, is it?"
+    },
+    {
+     "s": 2,
+     "t": "Still, how did you get in at all? The only entrance should have been sealed shut. If you're in here, does that mean the monsters outside..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, about that... This is kinda embarrassing, but we were chased in here by hilichurls..."
+    },
+    {
+     "s": 0,
+     "t": "Also, no need to worry about them, or any other monsters. A golden light stopped them from entering after we came in."
+    },
+    {
+     "s": 2,
+     "t": "A golden light? Oh, so Coco saved you! Now I feel a lot safer. If Coco approves of you, then you can't be bad sorts."
+    },
+    {
+     "s": 0,
+     "t": "Coco? Who's that? You mean there's someone else here?"
+    },
+    {
+     "s": 2,
+     "t": "Coco's my companion, like {REALNAME[ID(2)|SHOWHOST(true)]} is yours. Anyway, come with me and see for yourself."
+    },
+    {
+     "sit": "You follow Bona and return to ground level."
+    },
+    {
+     "s": 2,
+     "t": "Cocouik? Where did you go?"
+    },
+    {
+     "s": 2,
+     "t": "Aha, here you are."
+    },
+    {
+     "s": 3,
+     "t": "Chree?"
+    },
+    {
+     "s": 0,
+     "t": "What a cute little guy! Looks like a green Specter."
+    },
+    {
+     "sit": "That doesn't sound cute at all."
+    },
+    {
+     "sit": "Those words are not exactly flattering, Paimon."
+    },
+    {
+     "s": 2,
+     "t": "Don't call it a Specter, that's mean! Its name is Cocouik. I chose the name, by the way, and given how shiny it is, I'd say it's pretty spot on too!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Kuru?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr... Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "You seem to be getting along just fine. So the light that saved us came from this little guy, huh? Incredible!"
+    },
+    {
+     "s": 2,
+     "t": "That's right. Cocouik might be small, but it's the guardian spirit of this area. I've been able to roam all over this ancient city thanks to it."
+    },
+    {
+     "s": 2,
+     "t": "And when it accumulates enough power, even that evil dragon is no match for it!"
+    },
+    {
+     "s": 0,
+     "t": "Right, Paimon almost forgot about that mean guy! You encountered it too, didn't you? Well, we wouldn't have come here if it weren't for the dragon."
+    },
+    {
+     "s": 2,
+     "t": "Well... It's a little embarrassing, but that dragon took my Pyrophosphorite, which is critical to finding the Jade of Return. I have to get it back!"
+    },
+    {
+     "s": 0,
+     "t": "Pyrophosphorite? So you need something like that to obtain the Jade? Sounds complicated."
+    },
+    {
+     "s": 2,
+     "t": "It's normal for you not to know. After, my father... Anyway, since we're all adventurers trapped in here, how about we work together until we beat that evil dragon?"
+    },
+    {
+     "s": 2,
+     "t": "I don't know how good you are, but we can't go wrong by joining forces, whether it's to explore this place or fight the dragon."
+    },
+    {
+     "sit": "Well, this works for me."
+    },
+    {
+     "sit": "That's our line. We can't just leave you here, right?"
+    },
+    {
+     "s": 2,
+     "t": "Heh! I like your decisiveness."
+    },
+    {
+     "s": 0,
+     "t": "Hmph. That's right, we've gotta face off with that nasty dragon again to make sure it doesn't hurt more people!"
+    },
+    {
+     "s": 0,
+     "t": "Still, if we can defeat that guy and grab the Pyrophosphorite back, and then you find the Jade of Return, remember to give us a share too, alright? We'll... just about accept a forty-sixty split..."
+    },
+    {
+     "s": 2,
+     "t": "Heh, it's a bit early for that discussion now, don't you think? Besides, the Jade of Return isn't the sort of thing you can split up like a pie..."
+    },
+    {
+     "s": 2,
+     "t": "Heh. You really didn't know anything before coming here, did you? Good thing you bumped into me."
+    },
+    {
+     "s": 2,
+     "t": "We'll talk about the other stuff later, alright? Our top priority right now is beating the dragon and getting the Pyrophosphorite back."
+    },
+    {
+     "s": 2,
+     "t": "Well then, let's get going! The monsters outside shouldn't be an issue with Coco on our side, but the dragon... Well, that's a different story."
+    },
+    {
+     "s": 2,
+     "t": "I've gotta find a way to charge it up before we go butt heads with that mean fella."
+    },
+    {
+     "s": 2,
+     "t": "The <color=#00E1FFFF>Secret Source Scraps</color> that defend the ancient city are scattered across its grounds. Hmm... We should find them so long as we <color=#00E1FFFF>follow the light Coco projects</color>!"
+    },
+    {
+     "section": "Paimon, Cocouik, Investigate, Bona"
+    },
+    {
+     "s": 2,
+     "t": "About time, too. If we can shoot it down from here..."
+    },
+    {
+     "s": 3,
+     "t": "Chee! Kuchee!"
+    },
+    {
+     "s": 2,
+     "t": "Yes, we just need to use that thing. Try putting your hand on Coco, {NICKNAME}..."
+    },
+    {
+     "s": 2,
+     "t": "\"Super Awesomesauce Laser,\" fire!"
+    },
+    {
+     "section": "Paimon, Cocouik, Investigate"
+    },
+    {
+     "s": 2,
+     "t": "Nice! The Super Awesomesauce Laser is pretty hot stuff, eh?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! But why's it called that, though? You sure have strange tastes..."
+    },
+    {
+     "s": 2,
+     "t": "You don't think it sounds awesome? Speaking from my experience as an adventurer, it's much easier for people to remember and pass on skill names if they're flashy."
+    },
+    {
+     "s": 0,
+     "t": "Let's forget about the name for a moment here... Thanks for helping us out again, Coco. We couldn't have beat the dragon back without you."
+    },
+    {
+     "s": 3,
+     "t": "Kru..."
+    },
+    {
+     "s": 1,
+     "t": "Wrrooo..."
+    },
+    {
+     "s": 0,
+     "t": "Don't be sad! We're not saying that you didn't do anything, {REALNAME[ID(2)|SHOWHOST(true)]}."
+    },
+    {
+     "sit": "Not great with words, are we?"
+    },
+    {
+     "sit": "Everyone has their strengths."
+    },
+    {
+     "s": 0,
+     "t": "C'mon, just help Paimon explain, {NICKNAME}! We've all got different strengths! This just wasn't the time for {REALNAME[ID(2)|SHOWHOST(true)]} to shine yet!"
+    },
+    {
+     "s": 0,
+     "t": "Anyway, the evil dragon flew off in that direction, huh?"
+    },
+    {
+     "s": 2,
+     "t": "Hmph. An injured beast always flees to its nest first. I'll bet that's its lair over that way"
+    },
+    {
+     "s": 2,
+     "t": "We'll have to get the Pyrophosphorite back before it recovers!"
+    },
+    {
+     "s": 2,
+     "t": "If I were alone, I wouldn't have dared to take the dragon on even if it were injured."
+    },
+    {
+     "s": 2,
+     "t": "But we're a group now, and you're pretty good... I think we'll be fine."
+    },
+    {
+     "sit": "I'm not sure I can shoulder this burden..."
+    },
+    {
+     "sit": "Sorry, I've suddenly got some urgent matters to attend to..."
+    },
+    {
+     "s": 2,
+     "t": "Haha, come on! Don't you worry, I'll go in first. Just watch my back!"
+    },
+    {
+     "s": 2,
+     "t": "Time is of the essence. Let's go!"
+    },
+    {
+     "section": "Paimon, Bona, Cocouik, Investigate, {REALNAME[ID(2)|SHOWHOST(true)]}"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, Paimon can't believe it got away again!"
+    },
+    {
+     "s": 0,
+     "t": "We almost had it, but the dragon's strength was suddenly restored somehow..."
+    },
+    {
+     "sit": "\"This is not the end\"..."
+    },
+    {
+     "sit": "The golden pattern..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? You could understand what that dragon was saying?"
+    },
+    {
+     "sit": "The words came from the golden pattern."
+    },
+    {
+     "s": 0,
+     "t": "Eh? You saw the golden pattern again? Was it a hint left behind by that, uh, Sage of the Stolen Flame?"
+    },
+    {
+     "s": 0,
+     "t": "Wait, is looking for the treasure in this ancient city one of his trials, too?"
+    },
+    {
+     "s": 2,
+     "t": "Hmm? What are you talking about?"
+    },
+    {
+     "s": 2,
+     "t": "Gah... That was quite an ordeal. I thought we had it dead to rights there, but it lives to fight another day, huh?"
+    },
+    {
+     "s": 2,
+     "t": "If nothing else, though, we can get my Pyrophosphorite back... Ah, yes. It's right over here!"
+    },
+    {
+     "s": 0,
+     "t": "Speaking of that, what should we do now? We came here looking for the Jade of Return that adventurer spoke of..."
+    },
+    {
+     "s": 0,
+     "t": "But we don't know what that thing is yet, do we?"
+    },
+    {
+     "s": 0,
+     "t": "You must know something about it, right, Bona? Is it one of those things that'll require three Pyrophosphorite chunks to unseal or something?"
+    },
+    {
+     "s": 2,
+     "t": "If only it were that simple... But in truth, it's not to be found within this city, but instead, in the sky."
+    },
+    {
+     "s": 0,
+     "t": "What? But the notes we found in the tower said... Did those adventurers make a mistake?"
+    },
+    {
+     "s": 2,
+     "t": "Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. \"The more skilled the person, the more bold their deeds,\" I guess."
+    },
+    {
+     "s": 2,
+     "t": "Since you don't know anything about the Jade of Return, you probably haven't heard about the story of the Tona{RUBY#[D]Skyserpent Ship}tiuh, then?"
+    },
+    {
+     "s": 2,
+     "t": "As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it."
+    },
+    {
+     "s": 2,
+     "t": "My old man included, of course. He was the best adventurer from the Flower-Feather Clan."
+    },
+    {
+     "s": 2,
+     "t": "But the Tonatiuh did hold greater significance to him beyond his ambitions as an adventurer."
+    },
+    {
+     "s": 2,
+     "t": "The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time."
+    },
+    {
+     "s": 2,
+     "t": "Rumor had it that one of the countless treasures aboard the ship was the Jade of{RUBY#[D]Ometeotl} Return, and that locating it would quell this Abyss-tainted ancient city."
+    },
+    {
+     "s": 2,
+     "t": "At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear."
+    },
+    {
+     "s": 2,
+     "t": "My old man set off on a journey for that purpose... but he never returned. All that remains is this Pyrophosphorite chunk, which he found in the ruins."
+    },
+    {
+     "sit": "I'm sorry for your loss..."
+    },
+    {
+     "sit": "Did the evil dragon..."
+    },
+    {
+     "s": 2,
+     "t": "Don't be. I've actually never met him. I heard all this from a woman who adventured alongside him."
+    },
+    {
+     "s": 2,
+     "t": "The inscriptions on a monument in the ruins say that the winds of the distant past will guide the way to the Tonatiuh once Pyrophosphorite is placed on the Altar of Primal Flame within the ancient city."
+    },
+    {
+     "s": 2,
+     "t": "But the city became a forbidden place for the tribe after that woman returned alone, the sole survivor from my old man's squad."
+    },
+    {
+     "s": 0,
+     "t": "Paimon didn't know that the Jade of Return was so important. Guess we aren't pawning it off for Mora now..."
+    },
+    {
+     "s": 0,
+     "t": "But we can remove the Abyss threat against your tribe if we can find it, and that would be amazing, too!"
+    },
+    {
+     "s": 0,
+     "t": "We just have to locate this Altar, right? Bona, you must know where it is, don't you?"
+    },
+    {
+     "s": 2,
+     "t": "Well, I don't know either... I only snuck in here recently, and only because I was looking for clues concerning the Altar of Primal Flame."
+    },
+    {
+     "s": 2,
+     "t": "I encountered lots of unexpected dangers, but things started looking up after I met Coco."
+    },
+    {
+     "s": 3,
+     "t": "Chee!"
+    },
+    {
+     "s": 2,
+     "t": "The evil dragon was the only problem at that point! I was planning on sneaking in while it was out, but it got me good, ha!"
+    },
+    {
+     "s": 2,
+     "t": "But it's gone now, thanks to you, and I got my Pyrophosphorite back. Now, I can go seek the Altar of Primal Flame."
+    },
+    {
+     "sit": "Must you find the Jade of Return?"
+    },
+    {
+     "sit": "You don't want us to go with you?"
+    },
+    {
+     "s": 2,
+     "t": "Yes, I have to. I became an adventurer because I wanted to find it."
+    },
+    {
+     "s": 2,
+     "t": "As long as we follow Coco's directions, we should be able to find it and access the Tonatiuh up in the air together..."
+    },
+    {
+     "s": 2,
+     "t": "I can't split the Jade of Return with you for sale, but there must surely be other treasures up there to be claimed as an adventurer's reward!"
+    },
+    {
+     "s": 2,
+     "t": "Look, even Coco's light points to somewhere higher up!"
+    },
+    {
+     "s": 0,
+     "t": "Well, this sure doesn't sound like a guaranteed score, but it's not like we can do anything other than trust you, eh?"
+    },
+    {
+     "s": 0,
+     "t": "And if we do reach the Tonatiuh, we can help everyone AND make a huge profit. Talk about a win-win!"
+    },
+    {
+     "s": 0,
+     "t": "How about it, {NICKNAME}? Let's go with Bona, shall we?"
+    },
+    {
+     "s": 2,
+     "t": "Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "{REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!"
+    },
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Bona, Cocouik, Investigate, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, Paimon can't believe it got away again!"
+    },
+    {
+     "s": 0,
+     "t": "We almost had it, but the dragon's strength was suddenly restored somehow..."
+    },
+    {
+     "sit": "\"This is not the end\"..."
+    },
+    {
+     "sit": "The golden pattern..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? You could understand what that dragon was saying?"
+    },
+    {
+     "sit": "The words came from the golden pattern."
+    },
+    {
+     "s": 0,
+     "t": "Hmm, is that the same pattern we saw when we encountered {REALNAME[ID(2)|SHOWHOST(true)]}? Could this evil dragon be related to him somehow?"
+    },
+    {
+     "s": 1,
+     "t": "Rroo..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon isn't suspecting you or anything, {REALNAME[ID(2)|SHOWHOST(true)]}! But it feels like someone has been guiding us ever since we stepped into this ancient city..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe Paimon's overthinking this..."
+    },
+    {
+     "s": 2,
+     "t": "Hmm? What are you talking about?"
+    },
+    {
+     "s": 2,
+     "t": "Gah... That was quite an ordeal. I thought we had it dead to rights there, but it lives to fight another day, huh?"
+    },
+    {
+     "s": 2,
+     "t": "If nothing else, though, we can get my Pyrophosphorite back... Ah, yes. It's right over here!"
+    },
+    {
+     "s": 0,
+     "t": "Speaking of that, what should we do now? We came here looking for the Jade of Return that adventurer spoke of..."
+    },
+    {
+     "s": 0,
+     "t": "But we don't know what that thing is yet, do we?"
+    },
+    {
+     "s": 0,
+     "t": "You must know something about it, right, Bona? Is it one of those things that'll require three Pyrophosphorite chunks to unseal or something?"
+    },
+    {
+     "s": 2,
+     "t": "If only it were that simple... But in truth, it's not to be found within this city, but instead, in the sky."
+    },
+    {
+     "s": 0,
+     "t": "What? But the notes we found in the tower said... Did those adventurers make a mistake?"
+    },
+    {
+     "s": 2,
+     "t": "Wait, you came to Ochkanatlan, the forbidden city, on account of some notes you just... happened to pick up? Heh. \"The more skilled the person, the more bold their deeds,\" I guess."
+    },
+    {
+     "s": 2,
+     "t": "Since you don't know anything about the Jade of Return, you probably haven't heard about the story of Tona{RUBY#[D]The Skyserpent Ship}tiuh, then?"
+    },
+    {
+     "s": 2,
+     "t": "As the name suggests, it was a sky-faring ship built by Python King Och-Kan, the tyrant who ruled Ochkanatlan. The ship was filled to the brim with treasures, and countless adventurers from Natlan have pursued it."
+    },
+    {
+     "s": 2,
+     "t": "My old man included, of course. He was the best adventurer from the Flower-Feather Clan."
+    },
+    {
+     "s": 2,
+     "t": "But the Tonatiuh did hold greater significance to him beyond his ambitions as an adventurer."
+    },
+    {
+     "s": 2,
+     "t": "The Abyss calamity devastated our tribe decades ago, and the evil dragon that occupies this ancient city also appeared around the same time."
+    },
+    {
+     "s": 2,
+     "t": "Rumor had it that one of the countless treasures aboard the ship was the Jade of{RUBY#[D]Ometeotl} Return, and that locating it would quell this Abyss-tainted ancient city."
+    },
+    {
+     "s": 2,
+     "t": "At that time, we'd just witnessed the nightmare of the Abyss. So if we could find the Jade and suppress the contamination here in the city, our tribe would no longer have to live in fear."
+    },
+    {
+     "s": 2,
+     "t": "My old man set off on a journey for that purpose... but he never returned. All that remains is this Pyrophosphorite chunk, which he found in the ruins."
+    },
+    {
+     "sit": "I'm sorry for your loss..."
+    },
+    {
+     "sit": "Did the evil dragon..."
+    },
+    {
+     "s": 2,
+     "t": "Don't be. I've actually never met him. I heard all this from a woman who adventured alongside him."
+    },
+    {
+     "s": 2,
+     "t": "The inscriptions on a monument in the ruins say that the winds of the distant past will guide the way to the Tonatiuh <color=#00E1FFFF>once Pyrophosphorite is placed on the Altar of Primal Flame within the ancient city</color>."
+    },
+    {
+     "s": 2,
+     "t": "But the city became a forbidden place for the tribe after that woman returned alone, the sole survivor from my old man's squad."
+    },
+    {
+     "s": 0,
+     "t": "Paimon didn't know that the Jade of Return was so important. Guess we aren't pawning it off for Mora now..."
+    },
+    {
+     "s": 0,
+     "t": "But we can remove the Abyss threat against your tribe if we can find it, and that would be amazing, too!"
+    },
+    {
+     "s": 0,
+     "t": "We just have to locate this Altar, right? Bona, you must know where it is, don't you?"
+    },
+    {
+     "s": 2,
+     "t": "Well, I don't know either... I only snuck in here recently, and only because I was looking for clues concerning the Altar of Primal Flame."
+    },
+    {
+     "s": 2,
+     "t": "I encountered lots of unexpected dangers, but things started looking up after I met Coco."
+    },
+    {
+     "s": 3,
+     "t": "Chee!"
+    },
+    {
+     "s": 2,
+     "t": "The evil dragon was the only problem at that point! I was planning on sneaking in while it was out, but it got me good, ha!"
+    },
+    {
+     "s": 2,
+     "t": "But it's gone now, thanks to you, and I got my Pyrophosphorite back. Now, I can go seek the Altar of Primal Flame."
+    },
+    {
+     "sit": "Must you find the Jade of Return?"
+    },
+    {
+     "sit": "You don't want us to go with you?"
+    },
+    {
+     "s": 2,
+     "t": "Yes, I have to. I became an adventurer because I wanted to find it."
+    },
+    {
+     "s": 2,
+     "t": "You're also here for the Jade of Return, aren't you? In that case, would you like to come with me? This'll be easier by far if we join your strength to my knowledge."
+    },
+    {
+     "s": 2,
+     "t": "As long as we follow Coco's directions, we should be able to find it and access the Tonatiuh up in the air together..."
+    },
+    {
+     "s": 2,
+     "t": "I can't split the Jade of Return with you for sale, but there must surely be other treasures up there to be claimed as an adventurer's reward!"
+    },
+    {
+     "s": 0,
+     "t": "Well, this sure doesn't sound like a guaranteed score, but it's not like we can do anything other than trust you, eh?"
+    },
+    {
+     "s": 0,
+     "t": "And if we do reach the Tonatiuh, we can help everyone AND make a huge profit. Talk about a win-win!"
+    },
+    {
+     "s": 0,
+     "t": "How about it, {NICKNAME}? Let's go with Bona, shall we?"
+    },
+    {
+     "s": 2,
+     "t": "Hehe, really? That's great to hear! I knew you'd agree to help! With you around, I'm sure I'll be able to fulfill my father's last wish."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "{REALNAME[ID(2)|SHOWHOST(true)]} concurs! It's settled, then. Let's get going before the dragon comes back!"
+    }
+   ],
+   "description": "To find the unknown treasure known as the Jade of Return and track the evil dragon down, you have stepped into ancient ruins to which entry is considered forbidden…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "{REALNAME[ID(2)|SHOWHOST(true)]}",
+  "Bona",
+  "Cocouik"
+ ]
+}

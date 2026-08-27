@@ -1,0 +1,4275 @@
+{
+ "chapter": "Alcyon Chapter",
+ "chapter_title": "Up! Toward Homecoming Wings",
+ "act": "Act 1",
+ "act_title": "Up! Toward Homecoming Wings",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Championship Begins",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Ad astra abyssosque! How can the Adventurers' Guild help you today?"
+    },
+    {
+     "s": 1,
+     "t": "It's been a while since we last came to see you! Got any exciting commissions for us?"
+    },
+    {
+     "s": 0,
+     "t": "Things have been rather quiet in Nod-Krai lately. The commissions currently on our books are all very routine."
+    },
+    {
+     "s": 0,
+     "t": "That being said, the Frostmoon Scions are preparing to host some sort of event. They have approached us with quite a number of requests for supplies. Apparently, it's going to be quite a large gathering."
+    },
+    {
+     "s": 1,
+     "t": "The Frostmoon Scions? Well, it can't be another Moon-Prayer Night... Do they have some other big festival that Paimon doesn't know about?"
+    },
+    {
+     "s": 0,
+     "t": "I heard it's a friendly sparring competition for animal friends. Something called the \"Spirit Envoy Championship.\""
+    },
+    {
+     "sit": "\"Animal friends\"?"
+    },
+    {
+     "sit": "...\"Sparring\"?"
+    },
+    {
+     "s": 0,
+     "t": "That's right. The Frostmoon Scions have always advocated coexistence with nature, encouraging their followers to build positive relationships with the beasts of the wild."
+    },
+    {
+     "s": 0,
+     "t": "At the same time, to ensure their animal friends build the strength to withstand hardship and disasters, they put select animals with whom they share a special bond through a unique sort of training."
+    },
+    {
+     "s": 0,
+     "t": "The \"Spirit Envoy Championship\" is designed to find the strongest human-animal pair by means of friendly sparring."
+    },
+    {
+     "s": 0,
+     "t": "In previous years, the competition was restricted to the Frostmoon Scions only, but this year, participants from all over Teyvat are invited to join. I understand that the Frostmoon Scions have even prepared a generous prize for the winner."
+    },
+    {
+     "s": 1,
+     "t": "Ooh... Does that mean we can join, too?"
+    },
+    {
+     "sit": "Can I sign Paimon up?"
+    },
+    {
+     "sit": "Time to put you through your paces, Paimon!"
+    },
+    {
+     "s": 1,
+     "t": "What? You want Paimon to fight!?"
+    },
+    {
+     "s": 0,
+     "t": "While you two certainly share a remarkably deep bond, I believe that would be against the rules..."
+    },
+    {
+     "s": 0,
+     "t": "Apparently, in a previous competition, someone entered an extremely rare and powerful partner... After this, the rules were clarified to state that only common animal species and their variants can compete."
+    },
+    {
+     "s": 2,
+     "t": "I guess that rules out Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Ah... Wh—What a shame, huh! Paimon was totally looking forward to making a super cool entrance and then *cute fighting noises* \"Paimon is the winner\"! Sucks that the rules got in the way... Looks like Paimon won't get a chance to show off her skills. Unlike, uh, all those other times..."
+    },
+    {
+     "s": 1,
+     "t": "Anyway... Who else do we know who might wanna take part?"
+    },
+    {
+     "s": 0,
+     "t": "If you're unsure of what to do, why not ask one of our advisors for help?"
+    },
+    {
+     "s": 1,
+     "t": "Advisors? Since when does the Adventurers' Guild have advisors?"
+    },
+    {
+     "s": 0,
+     "t": "Hehe... The Guild has always had a team of advisors on hand to assist our fledgling adventurers."
+    },
+    {
+     "s": 0,
+     "t": "Of course, few of them would be qualified to assist such world-renowned adventurers as yourselves. But as luck would have it, one of our top advisors has recently returned to Nod-Krai from a trip away."
+    },
+    {
+     "s": 0,
+     "t": "Her expertise is varied and broad, and she often gives lectures at Speranza. If you have any questions, you could try asking her for help."
+    },
+    {
+     "s": 1,
+     "t": "She sounds impressive... Heh, but you're right Katheryne, it would take a lot to teach us something new."
+    },
+    {
+     "s": 1,
+     "t": "Let's go put this mystery adventure advisor to the test!"
+    },
+    {
+     "s": 2,
+     "t": "Time to put you through your paces, Paimon!"
+    },
+    {
+     "s": 2,
+     "t": "...\"Sparring\"?"
+    },
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 3,
+     "t": "Alright then! Next, let's go over some more tips for adventuring in Nod-Krai."
+    },
+    {
+     "s": 3,
+     "t": "If you found yourself getting hungry in the wild, what are some things you could eat?"
+    },
+    {
+     "s": 4,
+     "t": "That's easy — Lakkaberries, Midsommar Berries... There's loads of options."
+    },
+    {
+     "s": 3,
+     "t": "Correct! 10 points to you!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 1,
+     "t": "That must be who Katheryne was talking about... She looks pretty young for an advisor, though. How knowledgeable can she really be?"
+    },
+    {
+     "s": 6,
+     "t": "But there are plenty of places where berries don't grow, right? What should we be looking for in those places, Miss Linnea?"
+    },
+    {
+     "s": 3,
+     "t": "Good question — I'm glad you asked. That's exactly what I wanted to talk about next. Does everyone recognize this mushroom?"
+    },
+    {
+     "s": 4,
+     "t": "Hmm... Based on the color... this is an edible one, right? Doesn't look poisonous to me..."
+    },
+    {
+     "s": 3,
+     "t": "Eh-ehhh... Wrong answer!"
+    },
+    {
+     "s": 3,
+     "t": "This here is a Browncap Mushroom. It looks harmless enough, but eating it will give you hallucinations."
+    },
+    {
+     "s": 3,
+     "t": "An unsuspecting adventurer once used a handful of these to make a pot of mushroom soup. Next thing you know, he was trying to foxtrot with the Wild Hunt... Luckily, he was spotted by a fisherman passing by who managed to save his life, but it was a close call."
+    },
+    {
+     "s": 4,
+     "t": "That sounds so dangerous!"
+    },
+    {
+     "s": 3,
+     "t": "You bet! Adventuring in the wild is no joke. Alright, onto the next — does anyone recognize this plant? Can you tell me if it's edible?"
+    },
+    {
+     "s": 4,
+     "t": "Isn't that a Winter Icelea leaf?"
+    },
+    {
+     "s": 6,
+     "t": "They say that the King of Winter Icelea and the King of Midsommar Oak are sworn enemies. If Midsommar Berries are sweet and delicious, I guess Winter Icelea leaves must be horribly bitter..."
+    },
+    {
+     "s": 1,
+     "t": "Hmph, Paimon knows the answer to this one! Winter Icelea leaves might not taste good in food, but you can brew a nice tea with them!"
+    },
+    {
+     "s": 4,
+     "t": "Huh..."
+    },
+    {
+     "sit": "Wow, impressive knowledge, Paimon!"
+    },
+    {
+     "sit": "Where did you learn that?"
+    },
+    {
+     "s": 1,
+     "t": "At the Flagship. Once when Paimon was eating some yummy food there, Demyan mentioned that one of the drinks in their Roulette Special has Winter Icelea in it."
+    },
+    {
+     "s": 3,
+     "t": "Hmm? Who are..."
+    },
+    {
+     "s": 3,
+     "t": "...Looks like we have an expert attending our Q&A session today! Well, I hope you're ready for the next question?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "s": 1,
+     "t": "Bring it on!"
+    },
+    {
+     "s": 3,
+     "t": "Every adventurer knows to pack a compass and a map before heading into the wilderness, but where would you go to buy these things?"
+    },
+    {
+     "s": 1,
+     "t": "Ahem! Listen up, everyone! The answer is... the Adventurers' Guild!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, really? But I hear Mimisbrunnr Books sells them too. And at a very low price!"
+    },
+    {
+     "s": 1,
+     "t": "Hah! Paimon's done her research. The boss of that place tries to pass off cheap knockoffs as the real deal — don't be fooled!"
+    },
+    {
+     "s": 3,
+     "t": "Well said. But even with a high-quality map and compass, the wild can still be a dangerous place. What should you do if you're being chased by a monster you can't fight off?"
+    },
+    {
+     "s": 2,
+     "t": "Seek help from the ratniki on patrol."
+    },
+    {
+     "s": 3,
+     "t": "Correct! Although the ratniki's main duty is to deal with the Wild Hunt, you can always ask them for help if you run into serious trouble."
+    },
+    {
+     "s": 3,
+     "t": "While we're on the subject, some adventurers have found they can use the territorial nature of Radiant Beasts to their advantage. Lure a monster into their territory, and they will fight each other instead of you. I wouldn't recommend doing this, though, as you may instead find yourself fighting two enemies instead of one."
+    },
+    {
+     "s": 3,
+     "t": "Final question! This is an important one. Which place in Nod-Krai is an absolute must-visit for travelers from abroad?"
+    },
+    {
+     "s": 2,
+     "t": "...Just one?"
+    },
+    {
+     "s": 1,
+     "t": "Oof, that's a tough choice! There's the Frostmoon Enclave, Starsand Shoal, Blue Amber Lake... They're all so pretty! Then there's the Voynich Guild, The Flagship... And so many other shops worth visiting!"
+    },
+    {
+     "s": 3,
+     "t": "In truth, there's no right answer to this question. But if you ask me, the place most worth visiting is right here — Speranza."
+    },
+    {
+     "s": 3,
+     "t": "Why? Simple — this was once my home. So, this final question was more like a little bit of shameless self-promotion, hehe."
+    },
+    {
+     "s": 3,
+     "t": "You can get delicious Nod-Krai Hot Dogs and Lakkaberry Madames. And if you're not too hungry, just order a slice of Midsommar Torte and listen to the entertaining rumors the children like to tell."
+    },
+    {
+     "s": 3,
+     "t": "That's it for today's lecture. Tomorrow, I'll be heading to the Frostmoon Enclave to take part in a competition. If you have any questions, you can ask at the Adventurers' Guild, where the other advisors will be happy to help."
+    },
+    {
+     "s": 2,
+     "t": "Where did you learn that?"
+    },
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 3,
+     "t": "I haven't met many adventurers who can keep up with me. Consider me impressed!"
+    },
+    {
+     "s": 1,
+     "t": "Likewise! You really know your stuff! You're everything Paimon would expect from an Adventurers' Guild advisor... Huh!?"
+    },
+    {
+     "s": 1,
+     "t": "What's the deal!? Don't get so close! {NICKNAME}, there's something wrong with her!"
+    },
+    {
+     "s": 3,
+     "t": "Hehehe... Actually, I was going to ask..."
+    },
+    {
+     "s": 3,
+     "t": "Your little friend is so clever and cute. I love how she flies around, too. Can I pet her?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! Stay back!"
+    },
+    {
+     "s": 3,
+     "t": "Don't be afraid. Hehe, I'm not gonna hurt you. Come on, come here..."
+    },
+    {
+     "sit": "I'll protect you, Paimon!"
+    },
+    {
+     "sit": "Please go back to acting like a teacher."
+    },
+    {
+     "s": 3,
+     "t": "Hehe... Ahem. I'm sorry, I got a little bit carried away again."
+    },
+    {
+     "s": 3,
+     "t": "My name's Linnea. I'm an advisor working for the Adventurers' Guild. Uh... And I promise you, I'm not some sort of weirdo!"
+    },
+    {
+     "s": 3,
+     "t": "...Lemme make it up to you. You want something to eat? Here, try some Midsommar Torte, it's delicious."
+    },
+    {
+     "s": 1,
+     "t": "Phew, you gave Paimon a fright... Paimon's never met someone so, uh... how to put this... \"enthusiastic\" as you."
+    },
+    {
+     "s": 3,
+     "t": "I was fighting to keep a lid on my curiosity during class, but then I just lost control..."
+    },
+    {
+     "s": 3,
+     "t": "Anyway, let's get this back on track. Could you tell me your story? How did you two meet?"
+    },
+    {
+     "s": 2,
+     "t": "(You tell Linnea how you and Paimon met...)"
+    },
+    {
+     "s": 3,
+     "t": "What? You fished this little cutie out of the sea?"
+    },
+    {
+     "s": 3,
+     "t": "Can you tell me where? A visit to that beach is going right to the top of my bucket list."
+    },
+    {
+     "s": 1,
+     "t": "You'd be wasting your time — Paimon is one of a kind! You could sit on that beach for a hundred years, but you'd still come away empty-handed!"
+    },
+    {
+     "s": 3,
+     "t": "Ah... Is that right? What a pity."
+    },
+    {
+     "sit": "Anyway..."
+    },
+    {
+     "sit": "You said you're going to the Frostmoon Enclave for a competition?"
+    },
+    {
+     "s": 1,
+     "t": "Oh, right! Paimon almost forgot why we came here. We were thinking of taking part in the Spirit Envoy Championship ourselves. Katheryne said you could give us some pointers?"
+    },
+    {
+     "s": 1,
+     "t": "Let Paimon guess... Is that your partner there?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho?"
+    },
+    {
+     "s": 3,
+     "t": "Yep! Her name is Lumi. She's my trusty assistant."
+    },
+    {
+     "s": 2,
+     "t": "I've never seen a creature like this..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Hey there."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "Have you two ever ventured north of Nod-Krai?"
+    },
+    {
+     "s": 1,
+     "t": "Not yet... Wait, so you're saying Lumi comes from the northern tundra?"
+    },
+    {
+     "s": 3,
+     "t": "Pretty much. There are six types of fae commonly found in the tundra. Lumi here is a \"Jack Frost\" — that's one of them."
+    },
+    {
+     "s": 1,
+     "t": "\"Jack Frost\"? Hmm, interesting name choice... She doesn't exactly look very frosty."
+    },
+    {
+     "s": 3,
+     "t": "An excellent observation. In fact, Lumi is no ordinary Jack Frost — she's a special one."
+    },
+    {
+     "s": 3,
+     "t": "The first time I met her, she was wearing this weird cardboard outfit with ugly splotches of paint on it, as if she was trying to disguise herself as a regular Jack Frost."
+    },
+    {
+     "s": 3,
+     "t": "I stayed and watched her for a while, and I discovered that some other mean Jack Frosts were ganging up and bullying her because she looked different. They stole all the food she'd gathered and kicked her out of her sleeping spot..."
+    },
+    {
+     "s": 3,
+     "t": "Lumi couldn't fight them. She had nowhere else to go, so she found an old cardboard box, painted it blue, and put it over her head, hoping to blend in with the group."
+    },
+    {
+     "s": 3,
+     "t": "Whenever she was discovered, she'd get beaten up, and the rest of the time she lived in constant fear... Until one day, seeking shelter from the rain, she clung to me and wouldn't let go. We've been partners ever since."
+    },
+    {
+     "s": 1,
+     "t": "What a story... Oh, poor Lumi. Sounds like she's had a tough time."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "As for why Lumi is so different from other Jack Frosts... I'm still looking into that. I'm thinking it's either a mutation or an atavism — or maybe some sort of curse?"
+    },
+    {
+     "s": 3,
+     "t": "Hopefully, I'll find the answer one day. But either way, we're best friends for life. Nothing can change the special bond between us."
+    },
+    {
+     "s": 3,
+     "t": "Speaking of which — given how long it can take to build a strong bond with another creature, if you're serious about entering the competition, my advice is to pick an animal friend that you're already pretty close with. Otherwise, the odds are gonna be stacked against you."
+    },
+    {
+     "s": 1,
+     "t": "An animal friend I'm close with, huh..."
+    },
+    {
+     "s": 1,
+     "t": "Actually, we're kinda spoiled for choice on this one! Who do you think would be the best fit?"
+    },
+    {
+     "s": 2,
+     "t": "(I need to consider this carefully...)"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Huh...? Aguara! What are you doing here?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "sit": "Are you saying..."
+    },
+    {
+     "sit": "You want to join the competition?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, neat! A Natlanese tepetlisaur! Aw, it's so small and cute!"
+    },
+    {
+     "s": 3,
+     "t": "He seems to really like you guys. I'm sure he'll make a great partner."
+    },
+    {
+     "sit": "Alright!"
+    },
+    {
+     "sit": "Let's do our best, Aguara!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Aw, look at them, fast friends, hehe! Play nice, you two!"
+    },
+    {
+     "s": 3,
+     "t": "They both seem pretty sociable. No wonder they get along so well."
+    },
+    {
+     "s": 3,
+     "t": "Well then, there's no time to lose — let's go get you signed up!"
+    },
+    {
+     "s": 2,
+     "t": "Let's do our best, Aguara!"
+    },
+    {
+     "s": 2,
+     "t": "You want to join the competition?"
+    },
+    {
+     "s": 2,
+     "t": "You said you're going to the Frostmoon Enclave for a competition?"
+    },
+    {
+     "s": 2,
+     "t": "Please go back to acting like a teacher."
+    },
+    {
+     "section": "Mualani"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, Paimon wasn't expecting this many people..."
+    },
+    {
+     "s": 8,
+     "t": "{NICKNAME}, Paimon! What a nice surprise! I didn't think I'd run into you here!"
+    },
+    {
+     "s": 8,
+     "t": "Oh, and Professor Linnea's here too! Are you guys here for the competition as well?"
+    },
+    {
+     "s": 3,
+     "t": "Um, yep, hehe..."
+    },
+    {
+     "s": 1,
+     "t": "Feels like we haven't seen you in ages, Mualani! So how do you know Linnea, anyway?"
+    },
+    {
+     "s": 8,
+     "t": "Through her work with the Adventurers' Guild. She was in Natlan not long ago. She knows so much that we took to calling her \"Professor.\""
+    },
+    {
+     "s": 8,
+     "t": "Speaking of which, you never answered my question... If a koholasaurus and a qucusaurus got together, would their babies be able to fly in the sky and dive underwater? 'Cause that would make a pretty awesome saurian companion!"
+    },
+    {
+     "s": 3,
+     "t": "That's almost certainly impossible... They're completely different species..."
+    },
+    {
+     "s": 8,
+     "t": "Ah, well, that's too bad. Hear that, Mamala? Guess I can't do any match-making for you in the Flower-Feather Clan after all..."
+    },
+    {
+     "s": 9,
+     "t": "Awoo..."
+    },
+    {
+     "s": 1,
+     "t": "So you have a thing for qucusaurs!?"
+    },
+    {
+     "s": 10,
+     "t": "Hahahaha! I was wonderin' what all the commotion was. Looks like this is where it's at!"
+    },
+    {
+     "s": 1,
+     "t": "Itto!? What the heck? Either Paimon's seeing things, or... You're not here for the competition too, are you?"
+    },
+    {
+     "s": 10,
+     "t": "Why else would I be here? Cost me an arm and a leg to get a boat all the way to this \"Krod-Nai\" place."
+    },
+    {
+     "s": 1,
+     "t": "It's \"Nod-Krai.\""
+    },
+    {
+     "s": 8,
+     "t": "Hey there! I'm Mualani. Are you a friend of {NICKNAME} and Paimon's, too?"
+    },
+    {
+     "s": 10,
+     "t": "I sure am. Nice to meet ya! The name's Arataki \"Beetle Gladiator\" Itto, head honcho of the world-famous Arataki Gang of Inazuma!"
+    },
+    {
+     "s": 8,
+     "t": "That's quite a mouthful!"
+    },
+    {
+     "s": 8,
+     "t": "(Wait, did he say \"Arataki Gang\"? Why does that sound so familiar...?)"
+    },
+    {
+     "s": 1,
+     "t": "Just call him Arataki Itto. This guy's a bona-fide buffoon."
+    },
+    {
+     "s": 10,
+     "t": "Hey! Who are you callin' a buffoon, ya flying Lavender Melon!"
+    },
+    {
+     "s": 3,
+     "t": "...Flying Lavender Melon? Wait, so you're some sort of... mutated lavender melon? You don't look like a melon..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's not a mutated melon! Or any kind of melon! How could a melon be this cute?"
+    },
+    {
+     "sit": "So, Itto — are you here on your own?"
+    },
+    {
+     "sit": "Where's the rest of your gang?"
+    },
+    {
+     "s": 10,
+     "t": "Yeah, about that... Unfortunately, the gang only had the funds to send their main man this time. But don't sweat it! Once I snag that championship title, I'll use the prize money to bring Shinobu and the boys over to join the party!"
+    },
+    {
+     "s": 8,
+     "t": "Shinobu...? Ah! I remember now! Kuki Shinobu, right? She's mentioned the Arataki Gang before."
+    },
+    {
+     "s": 10,
+     "t": "Huh? No way, you've met my deputy?"
+    },
+    {
+     "s": 8,
+     "t": "She stopped by the Flower-Feather Clan recently to take the flying trial. Chasca said she was a natural!"
+    },
+    {
+     "s": 8,
+     "t": "...Hold on, if she's that good and she's only the deputy... you must be way stronger than I imagined. Look sharp, Mamala — we're in for a tough competition!"
+    },
+    {
+     "s": 10,
+     "t": "Hahahaha! That's right! Bring it on — I'm looking forward to seeing who I'll be facing in the finals."
+    },
+    {
+     "s": 10,
+     "t": "Word is that the early birds get the best draws. You snooze you lose! Laters, compadres!"
+    },
+    {
+     "s": 8,
+     "t": "Wait, is he serious? ...Mamala, we'd better hurry!"
+    },
+    {
+     "s": 3,
+     "t": "N—No, that's complete nonsense..."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* ...Shall we?"
+    },
+    {
+     "s": 2,
+     "t": "Where's the rest of your gang?"
+    },
+    {
+     "section": "Voitto"
+    },
+    {
+     "s": 11,
+     "t": "Thank you all for signing up for the \"Spirit Envoy Championship.\""
+    },
+    {
+     "s": 11,
+     "t": "Due to the high number of participants, a preliminary qualifying round will be held to determine which 16 contestants will progress to the competition itself. Prior to the semi-finals, all matchups will be determined by drawing lots."
+    },
+    {
+     "s": 11,
+     "t": "Please also note that there are two arenas, which will be randomly assigned after the draw. Do you have any questions?"
+    },
+    {
+     "s": 1,
+     "t": "Where do we go to draw lots?"
+    },
+    {
+     "s": 11,
+     "t": "Right here. After registration closes tomorrow, make your way here to draw lots for the qualifiers. I wish you all the best of luck in the competition!"
+    },
+    {
+     "sit": "Thank you."
+    },
+    {
+     "sit": "Then we'll come back tomorrow."
+    },
+    {
+     "s": 3,
+     "t": "Lumi, Aguara, how you doing? Nervous?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "Great, that's the spirit!"
+    },
+    {
+     "s": 2,
+     "t": "Then we'll come back tomorrow."
+    },
+    {
+     "section": "Arataki Itto, Mualani"
+    },
+    {
+     "s": 10,
+     "t": "I got here first!"
+    },
+    {
+     "s": 8,
+     "t": "No way, my Sharky Surfboard clearly beat you to it!"
+    },
+    {
+     "s": 10,
+     "t": "Hahahaha! Well, I'll see you in the arena! Just don't go crying like a baby when you lose."
+    },
+    {
+     "s": 8,
+     "t": "Did you hear that, Mamala? Argh, show them no mercy!"
+    },
+    {
+     "section": "Jahoda"
+    },
+    {
+     "s": 1,
+     "t": "Jahoda! Here for the competition?"
+    },
+    {
+     "s": 12,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Jahoda?"
+    },
+    {
+     "s": 12,
+     "t": "Ahem, I'll have you know it's \"Champion\" Jahoda."
+    },
+    {
+     "s": 2,
+     "t": "Champion?"
+    },
+    {
+     "s": 12,
+     "t": "Don't you know? This isn't my first Spirit Envoy Championship. Uh-huh, I took part in the last one... And not just that — I only went and won the entire competition! It was very heroic."
+    },
+    {
+     "s": 12,
+     "t": "(Although, there were nowhere near as many contestants then... Ugh, why did so many people have to show up this time!? How am I gonna keep my title now?)"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, that's amazing! We'll definitely have to learn a thing or two from you."
+    },
+    {
+     "s": 12,
+     "t": "Haha, heh, yeaaah..."
+    },
+    {
+     "section": "Lauma, Czeslawa, Alzbeta, Slawomir"
+    },
+    {
+     "s": 13,
+     "t": "This is the biggest turnout we've ever had by far. We need to be extra vigilant to maintain order in the arenas."
+    },
+    {
+     "s": 14,
+     "t": "I've made all the necessary arrangements."
+    },
+    {
+     "s": 15,
+     "t": "I'm feeling more nervous than I expected..."
+    },
+    {
+     "s": 16,
+     "t": "Don't worry, you'll be fine once you get into the swing of it."
+    },
+    {
+     "s": 13,
+     "t": "Thank you all for your support. Be sure to let me know at once if any issues arise."
+    },
+    {
+     "section": "Draw Lots"
+    },
+    {
+     "s": 1,
+     "t": "Who do you think our first opponent is gonna be?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon hopes they aren't too strong... Aguara might need some time to ease into it."
+    },
+    {
+     "s": 1,
+     "t": "Oh! The results of the draw are out! Let's take a look... Your opponent is:"
+    },
+    {
+     "s": 1,
+     "t": "\"Arataki 'Numero Uno' Itto\"!? Ugh, we literally just managed to get rid of him, and now you have to face him in the arena?"
+    },
+    {
+     "s": 2,
+     "t": "...Looks like we won't be facing him in the finals then."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Well, either way, it never pays to underestimate your opponent, okay? This is your first match, so be sure to make it count!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Ahh, I see you've been assigned to Arena 1. I'm in Arena 2. Guess I'll see you after the match."
+    },
+    {
+     "s": 3,
+     "t": "Good luck! Don't fall at the first hurdle now!"
+    },
+    {
+     "s": 1,
+     "t": "We won't! Good luck to you and Lumi, too!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 14,
+     "t": "Welcome, spectators! I'm your host, Czeslawa. The qualifiers are about to begin. I trust everyone has found their groupings."
+    },
+    {
+     "s": 14,
+     "t": "The contestants for this match are: {NICKNAME} and his(her) partner Aguara, versus... uhh... Arataki \"Numero Uno\" Itto and his partner Crimson Staff!"
+    },
+    {
+     "s": 10,
+     "t": "Hahahaha! Well, this has come sooner than expected. I was hoping to face you further into the competition."
+    },
+    {
+     "s": 10,
+     "t": "Go, Crimson Staff!"
+    },
+    {
+     "s": 1,
+     "t": "You can do it, Aguara! You show that beetle who's boss!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 14,
+     "t": "Great energy from both contestants! Now, without further ado, let the match commence!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "sit": "(test)台词文本"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 7,
+     "t": "Wooraarr..."
+    },
+    {
+     "s": 1,
+     "t": "Aguara!"
+    },
+    {
+     "s": 10,
+     "t": "Hahahaha! How 'bout that, huh? Victory for Arataki \"The One and Oni\" Itto!"
+    },
+    {
+     "s": 16,
+     "t": "Hold up."
+    },
+    {
+     "s": 16,
+     "t": "Uhh, the bull... Ushi, was it?"
+    },
+    {
+     "s": 10,
+     "t": "Uh, yeah... Is there a problem?"
+    },
+    {
+     "s": 16,
+     "t": "Arataki Itto is disqualified for fielding an additional animal companion. {NICKNAME} and Aguara are the winners!"
+    },
+    {
+     "s": 10,
+     "t": "Huh!?"
+    },
+    {
+     "s": 16,
+     "t": "It's one animal per contestant, that's the rule! Let this be a warning to everyone."
+    },
+    {
+     "s": 10,
+     "t": "But... but me, Crimson Staff, and Ushi are one! We should only count as one contestant! Hey! Ah, come on...!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 16,
+     "t": "Time out."
+    },
+    {
+     "s": 16,
+     "t": "Uhh, the bull... Ushi, was it?"
+    },
+    {
+     "s": 10,
+     "t": "Uh, yeah... Is there a problem?"
+    },
+    {
+     "s": 16,
+     "t": "Arataki Itto is disqualified for fielding an additional animal companion. {NICKNAME} and Aguara are the winners!"
+    },
+    {
+     "s": 10,
+     "t": "Huh!?"
+    },
+    {
+     "s": 16,
+     "t": "It's one animal per contestant, that's the rule! Let this be a warning to everyone."
+    },
+    {
+     "s": 10,
+     "t": "But... but me, Crimson Staff, and Ushi are one! We should only count as one contestant! Hey! Ah, come on...!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 16,
+     "t": "Stop the match!"
+    },
+    {
+     "s": 1,
+     "t": "Huh?"
+    },
+    {
+     "s": 16,
+     "t": "Uhh, the bull... Ushi, was it?"
+    },
+    {
+     "s": 10,
+     "t": "Uh, yeah... Is there a problem?"
+    },
+    {
+     "s": 16,
+     "t": "Arataki Itto is disqualified for fielding an additional animal companion. {NICKNAME} and Aguara are the winners!"
+    },
+    {
+     "s": 10,
+     "t": "Huh!?"
+    },
+    {
+     "s": 16,
+     "t": "It's one animal per contestant, that's the rule! Let this be a warning to everyone."
+    },
+    {
+     "s": 10,
+     "t": "But... but me, Crimson Staff, and Ushi are one! We should only count as one contestant! Hey! Ah, come on...!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 10,
+     "t": "Woohoo, you've got some moves, I'll give you that! But it's gonna take more than that to defeatto the Itto!"
+    },
+    {
+     "s": 10,
+     "t": "It's time to unleash our show-stopping killer combo move! Ushi! Crimson Staff!"
+    },
+    {
+     "s": 10,
+     "t": "Crimson Staff, look, I wanted to kit you out with mecha armor, but you need to bulk up first. That's why we've gotta take on these tough opponents — to get you strong!"
+    },
+    {
+     "s": 10,
+     "t": "Ushi, you and me have crushed countless foes in our time. Now, with the three of us together, ain't no one gonna stand in our way!"
+    },
+    {
+     "s": 10,
+     "t": "Finish them!"
+    },
+    {
+     "section": "Watch Competition"
+    },
+    {
+     "s": 3,
+     "t": "Dodge left, Lumi!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 17,
+     "t": "How did you know I was gonna—"
+    },
+    {
+     "s": 3,
+     "t": "Now counterattack! Pummel it!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "s": 3,
+     "t": "Looking good. Let's do this!"
+    },
+    {
+     "s": 18,
+     "t": "...Hmph."
+    },
+    {
+     "s": 18,
+     "t": "Ignorance really is bliss, isn't it Linnea... But it won't last forever..."
+    },
+    {
+     "s": 2,
+     "t": "(Why is she staring at Linnea? Do they know each other?)"
+    },
+    {
+     "s": 15,
+     "t": "And it's all over! We have a winner!"
+    },
+    {
+     "s": 15,
+     "t": "Congratulations to Linnea and Lumi! You're through to the next round!"
+    },
+    {
+     "s": 17,
+     "t": "I can't believe it... My Iku-Turso..."
+    },
+    {
+     "s": 3,
+     "t": "Good job, Lumi!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME}, Paimon, how did your match go?"
+    },
+    {
+     "s": 1,
+     "t": "Haha, we won too!"
+    },
+    {
+     "s": 2,
+     "t": "You and Lumi were really in sync."
+    },
+    {
+     "s": 3,
+     "t": "Thanks, that means a lot! Yeah, I think we performed pretty well out there. Not just Lumi — I was really in the zone today."
+    },
+    {
+     "s": 3,
+     "t": "I dunno how to explain it, but... Sometimes, it feels like I can predict my opponent's next move. I know exactly what to do before I've even had the time to think."
+    },
+    {
+     "s": 3,
+     "t": "It's almost like I enter a different state of mind. It comes and goes, but it started after I met Lumi in the tundra... Anyway, congrats to both of us on getting through the qualifiers!"
+    },
+    {
+     "s": 3,
+     "t": "Come on, let's head to Speranza — my treat."
+    },
+    {
+     "s": 1,
+     "t": "Hurray!"
+    },
+    {
+     "section": "Arataki Itto"
+    },
+    {
+     "s": 10,
+     "t": "I—I can't believe it... My glorious journey ended at the first step..."
+    },
+    {
+     "s": 1,
+     "t": "It's your own fault for not reading the rules..."
+    },
+    {
+     "s": 19,
+     "t": "Moo..."
+    },
+    {
+     "s": 10,
+     "t": "Ushi, Crimson Staff... Are you guys tryin' to cheer me up? Well, don't you worry! We'll come back stronger than ever next time, and I'll lead us to a glorious victory, fair and square!"
+    },
+    {
+     "s": 10,
+     "t": "Anyway, seeing as we came all this way, I think a little sightseeing is in order! Hahaha, let's go get ourselves a taste of Krod-Krai culture!"
+    },
+    {
+     "s": 1,
+     "t": "Seriously? Again, it's \"Nod-Krai\"!"
+    },
+    {
+     "s": 2,
+     "t": "Do you actually have any Mora left?"
+    },
+    {
+     "s": 10,
+     "t": "Uhhh... Well..."
+    },
+    {
+     "s": 10,
+     "t": "Ahem... Hey, Lavender Melon! I've got a little, uh, proposition for ya—"
+    },
+    {
+     "s": 1,
+     "t": "No way! If you want Mora, go earn it like everyone else!"
+    },
+    {
+     "s": 2,
+     "t": "Good luck."
+    },
+    {
+     "s": 10,
+     "t": "Pffft, fine, don't lend me anything then! Watch me, I'll figure something out. This is a small pond — and Arataki Itto is the biggest fish around!"
+    }
+   ],
+   "description": "Following a tranquil stay in Nod-Krai, you check in with Katheryne to see if anything noteworthy has happened lately."
+  },
+  {
+   "title": "Twice Upon a Gaze",
+   "dialogue": [
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 20,
+     "t": "Ahem... May I take your order?"
+    },
+    {
+     "s": 3,
+     "t": "Turns out I'm treating a friend today, so... I'd like to order the finest dish in the house."
+    },
+    {
+     "s": 20,
+     "t": "Oh... I take it you're referring to our... secret menu?"
+    },
+    {
+     "s": 3,
+     "t": "That's right. Tell the chef to sharpen his knife... I'm expecting surgical precision."
+    },
+    {
+     "s": 1,
+     "t": "...Is that a reference to something?"
+    },
+    {
+     "s": 20,
+     "t": "Yeah, \"The Hidden Hero.\" It's a novel my best friend Helka sent from Liyue. There's this chef, and he fights the bad guys with a kitchen knife! It's really cool."
+    },
+    {
+     "s": 21,
+     "t": "It's her favorite part of the book. She's always nagging Linnea to act it out with her."
+    },
+    {
+     "s": 20,
+     "t": "Psst! Linnea, do you think Chef Jurva could be a hero in disguise, too? He does chop vegetables super fast..."
+    },
+    {
+     "s": 3,
+     "t": "Ooh... I think it's definitely possible..."
+    },
+    {
+     "s": 22,
+     "t": "Not a chance, I'm afraid. Evening, everyone. What can I get you?"
+    },
+    {
+     "s": 3,
+     "t": "Why don't you choose for us? I'm treating a friend today. We're celebrating our success in the qualifiers."
+    },
+    {
+     "s": 22,
+     "t": "Sure thing. I'll rustle up a few of my specialties, then. Won't be long!"
+    },
+    {
+     "s": 23,
+     "t": "Hello, I'm ready to order..."
+    },
+    {
+     "s": 20,
+     "t": "Be right there!"
+    },
+    {
+     "s": 20,
+     "t": "I gotta go. Let's play again soon, Linnea!"
+    },
+    {
+     "s": 1,
+     "t": "You seem to get along really well with everyone here. Oh, that's right — didn't you say that this used to be your home?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. After my parents departed, I came to live here with my friends in the Conch Gang."
+    },
+    {
+     "sit": "\"Departed\"...?"
+    },
+    {
+     "sit": "I'm so sorry..."
+    },
+    {
+     "s": 3,
+     "t": "Ah! I didn't mean... like that. They're still alive and well, they just don't live around here anymore."
+    },
+    {
+     "s": 3,
+     "t": "Come to think of it, I haven't told you my story yet. I guess you'll have noticed the wings on my head by now? They're proof that I'm not human."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, Paimon noticed those! Are you comfortable telling us some more?"
+    },
+    {
+     "s": 3,
+     "t": "Sure. Well, it's a story that starts a long, long time ago."
+    },
+    {
+     "s": 3,
+     "t": "When I was just a kid, my wings were barely noticeable. They looked just like two little cowlicks."
+    },
+    {
+     "s": 3,
+     "t": "No one suspected there was anything unusual about me at first. Not even Mom and Dad — they were too busy to notice."
+    },
+    {
+     "s": 3,
+     "t": "But I always had this strange feeling I couldn't explain... Like I knew that all these little ways I was different from my friends couldn't just be a coincidence."
+    },
+    {
+     "s": 3,
+     "t": "Then, when I was a little bit older, I read this story in a book of folktales... It was about \"changelings.\""
+    },
+    {
+     "s": 1,
+     "t": "\"Changelings\"? What are those?"
+    },
+    {
+     "s": 3,
+     "t": "The story goes that some of the Snowland Fae will secretly switch their own child with a human baby, leaving their offspring to be raised by humans while taking the human child for themselves."
+    },
+    {
+     "sit": "Why would they do that?"
+    },
+    {
+     "sit": "That's unbelievable!"
+    },
+    {
+     "s": 3,
+     "t": "I know, right? The way the stories are written, it sounds like something parents make up to scare naughty kids."
+    },
+    {
+     "s": 3,
+     "t": "\"If you don't behave, the fae will take you away and leave a better-behaved child in your place.\" It's the sort of thing that starts as a warning and evolves into folklore over time."
+    },
+    {
+     "s": 3,
+     "t": "So obviously, I didn't take it seriously at first... But then, as I grew older, I started exhibiting more and more fae-like traits."
+    },
+    {
+     "s": 3,
+     "t": "I mean, just look at the crystals on my skin. No humans have those. It's a dead giveaway."
+    },
+    {
+     "s": 1,
+     "t": "So, you're really a changeling, huh? Did you tell your mom and dad?"
+    },
+    {
+     "s": 3,
+     "t": "Bear with me. I'm getting to that."
+    },
+    {
+     "s": 3,
+     "t": "At first, I wanted to hide it from them, but eventually, I plucked up the courage to tell them. I figured, even when we're scared and uncertain, it's important to face the truth head-on."
+    },
+    {
+     "s": 3,
+     "t": "They were stunned, of course. It took them a while to accept it, but after the truth had sunk in, Dad sat me down and told me they'd decided to head north and look for their child that was taken."
+    },
+    {
+     "s": 3,
+     "t": "They're really good people, though. Not only did they raise me for all those years, but they left me some money in case of emergencies."
+    },
+    {
+     "s": 3,
+     "t": "After that, I grew up with my friends in the Conch Gang. All of these kids are from broken homes, but everyone supports each other, and they still live life to the fullest."
+    },
+    {
+     "s": 18,
+     "t": "..."
+    },
+    {
+     "s": 22,
+     "t": "Food's ready. Talking about old times again?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah, it just sorta came up in conversation... Whoa, what's all this? You've cooked up a real feast, Jurva!"
+    },
+    {
+     "s": 22,
+     "t": "Well, you did say you were treating a friend. Besides, only the best for our old boss."
+    },
+    {
+     "s": 1,
+     "t": "\"Old boss\"? Linnea was your boss?"
+    },
+    {
+     "sit": "So you were the head honcho of the Conch Gang?"
+    },
+    {
+     "sit": "Please excuse my ignorance, Don Linnea..."
+    },
+    {
+     "s": 3,
+     "t": "Hey, what kind of a reaction is that?"
+    },
+    {
+     "s": 22,
+     "t": "Hahaha, Linnea has been a fountain of knowledge ever since she was a kid. She always speaks with such authority. Everyone admired her so much that we picked her to be our boss."
+    },
+    {
+     "s": 22,
+     "t": "But the Conch Gang's only for children. Once you grow up, you have to leave, so now she's the \"old boss.\""
+    },
+    {
+     "s": 3,
+     "t": "I've always found the logic behind that title to be a little flawed... I mean, what happens when the others grow up? Will I be the... \"ex-old boss\"? Surely, it won't be long before I'm the \"previous former ex-ex-old boss\"..."
+    },
+    {
+     "s": 22,
+     "t": "We'll all be long gone from the Conch Gang by that point. As far as we're concerned, there's only one person that we'll ever think of as our \"old boss,\" and that's you."
+    },
+    {
+     "s": 3,
+     "t": "Aww, that's really touching..."
+    },
+    {
+     "s": 22,
+     "t": "Well, if it means that much, maybe you could leave a 2,000 Mora tip. Much appreciated. Mikko's birthday is coming up, so we're pooling our money to get him some new clothes."
+    },
+    {
+     "s": 3,
+     "t": "Sure thing! I'll go one better and give you 3,000. But just this once, alright? I have my own stuff to save for."
+    },
+    {
+     "s": 20,
+     "t": "Ooh, what are you saving up for, Linnea?"
+    },
+    {
+     "s": 3,
+     "t": "Hehe, I have big plans! I wanna buy a huge ship for scientific research, then take my friends on a voyage of discovery to explore all the mysteries of the world!"
+    },
+    {
+     "s": 3,
+     "t": "I wanna sail to all the other nations... hear the heartbeat of the jungle, the whispers of the wind, the echoes of the mountains... And one day, when I'm too old for all that, I'll combine everything I've learned into a great illustrated atlas of nature."
+    },
+    {
+     "s": 3,
+     "t": "Of course, there are other questions I hope to get answers to along the way. Like, what exactly Lumi is, and... where my birth parents are."
+    },
+    {
+     "s": 2,
+     "t": "Have you tried to find them before?"
+    },
+    {
+     "s": 3,
+     "t": "Well... When I was much younger, I used to hear these strange lullabies as I was drifting off to sleep."
+    },
+    {
+     "s": 3,
+     "t": "\"Go, child of the fae.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Make your way to the villages and towns and seek kinship with the humans.\""
+    },
+    {
+     "s": 3,
+     "t": "\"The world of the fae is rife with a sorrow you do not understand.\""
+    },
+    {
+     "s": 3,
+     "t": "They were sung in the tongue of the fae by kind, warm voices. I can't explain why, but... somehow, I knew that they didn't want me chasing after my origins."
+    },
+    {
+     "s": 3,
+     "t": "Still, I did visit the tundra once when I was a little older to see if I could find out anything about them. But just being there made me feel uncomfortable... Every instinct was telling me to leave."
+    },
+    {
+     "s": 3,
+     "t": "It's odd — that place is supposed to be my home, but it feels like I'm unwelcome there. Could it simply be because I'm a bird fae, so I prefer a warmer climate...?"
+    },
+    {
+     "s": 2,
+     "t": "Ooh... I think it's definitely possible..."
+    },
+    {
+     "s": 3,
+     "t": "Hmm... Something tells me there's gotta be more to it than that. The less I know about something, the more curious I am. One day, I'm gonna get to the bottom of it."
+    },
+    {
+     "s": 3,
+     "t": "But enough about that. We're supposed to be celebrating our victories! Cheers!"
+    },
+    {
+     "s": 2,
+     "t": "Cheers!"
+    },
+    {
+     "s": 1,
+     "t": "Cheers! Paimon can't wait to dig in!"
+    },
+    {
+     "s": 3,
+     "t": "I'm stuffed. How about you guys?"
+    },
+    {
+     "s": 1,
+     "t": "Yup, Paimon's fit to burst..."
+    },
+    {
+     "s": 3,
+     "t": "Let's see... It's a little early to hit the hay. How about we get Aguara and Lumi to try a little sparring practice? The opponents are only gonna get tougher from here."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "They seem to like that idea."
+    },
+    {
+     "s": 3,
+     "t": "Hehe, then what are we waiting for? Let's go!"
+    },
+    {
+     "s": 2,
+     "t": "Please excuse my ignorance, Don Linnea..."
+    },
+    {
+     "s": 2,
+     "t": "That's unbelievable!"
+    },
+    {
+     "s": 2,
+     "t": "I'm so sorry..."
+    },
+    {
+     "section": "Arataki Itto"
+    },
+    {
+     "s": 10,
+     "t": "I—I can't believe it... My glorious journey ended at the first step..."
+    },
+    {
+     "s": 1,
+     "t": "It's your own fault for not reading the rules..."
+    },
+    {
+     "s": 19,
+     "t": "Moo..."
+    },
+    {
+     "s": 10,
+     "t": "Ushi, Crimson Staff... Are you guys tryin' to cheer me up? Well, don't you worry! We'll come back stronger than ever next time, and I'll lead us to a glorious victory, fair and square!"
+    },
+    {
+     "s": 10,
+     "t": "Anyway, seeing as we came all this way, I think a little sightseeing is in order! Hahaha, let's go get ourselves a taste of Krod-Krai culture!"
+    },
+    {
+     "s": 1,
+     "t": "Seriously? Again, it's \"Nod-Krai\"!"
+    },
+    {
+     "s": 2,
+     "t": "Do you actually have any Mora left?"
+    },
+    {
+     "s": 10,
+     "t": "Uhhh... Well..."
+    },
+    {
+     "s": 10,
+     "t": "Ahem... Hey, Lavender Melon! I've got a little, uh, proposition for ya—"
+    },
+    {
+     "s": 1,
+     "t": "No way! If you want Mora, go earn it like everyone else!"
+    },
+    {
+     "s": 2,
+     "t": "Good luck."
+    },
+    {
+     "s": 10,
+     "t": "Pffft, fine, don't lend me anything then! Watch me, I'll figure something out. This is a small pond — and Arataki Itto is the biggest fish around!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 3,
+     "t": "...They're very evenly matched."
+    },
+    {
+     "s": 3,
+     "t": "It's strange. When I was battling you, I couldn't seem to get into the zone. I had no way to predict your next move."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Hey, I'm curious — why does Aguara have a ribbon tied around his tail? And how did you two meet, anyway?"
+    },
+    {
+     "s": 1,
+     "t": "Now that's a long story..."
+    },
+    {
+     "sit": "You briefly sum up the events from \"Lost in the Woods\" and how you came to be friends with Aguara."
+    },
+    {
+     "s": 3,
+     "t": "What an incredible adventure!"
+    },
+    {
+     "s": 3,
+     "t": "...Someday, I wanna go on an adventure of my own, show Lumi every corner of the world. There's gotta be countless stories out there waiting to be told."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "You're excited too, huh, Lumi?"
+    },
+    {
+     "s": 3,
+     "t": "But most importantly, we have to figure out who you are and where you came from. Then, we can track down others just like you."
+    },
+    {
+     "s": 3,
+     "t": "Maybe then, you won't feel lonely anymore."
+    },
+    {
+     "s": 2,
+     "t": "Linnea..."
+    },
+    {
+     "s": 3,
+     "t": "Ah! It's about time we all got some rest. Good training session, everyone!"
+    },
+    {
+     "s": 3,
+     "t": "I'll see you at the arena tomorrow! Oh, we'll have to draw lots again, won't we? Hopefully we don't end up facing each other this early in the competition..."
+    },
+    {
+     "s": 3,
+     "t": "Wait, no! Agh! Forget I said it! I should go before I jinx it!"
+    },
+    {
+     "s": 3,
+     "t": "Lumi!"
+    },
+    {
+     "s": 1,
+     "t": "See you tomorrow! Thanks for dinner!"
+    },
+    {
+     "s": 3,
+     "t": "You're welcome. Byeee!"
+    },
+    {
+     "section": "Panu, Paavo, Arataki Itto"
+    },
+    {
+     "s": 24,
+     "t": "Bleurgh! Waiter! Come here and taste this Wildberry Trail, then look me in the eye and tell me it's fit for human consumption!"
+    },
+    {
+     "s": 24,
+     "t": "It's much too sour and has a bitter aftertaste! I want my money back!"
+    },
+    {
+     "s": 25,
+     "t": "Please don't shout. I assure you, the berries we use are of the highest quality — \"bitter\" is out of the question."
+    },
+    {
+     "s": 25,
+     "t": "I think you've had too much to drink. Time to settle up and leave."
+    },
+    {
+     "s": 24,
+     "t": "Too much to drink!? I'm perfectly sober, thank you! Now, you'd better give me this meal on the house, otherwise—"
+    },
+    {
+     "s": 10,
+     "t": "...Otherwise what?"
+    },
+    {
+     "s": 24,
+     "t": "Huh? Who the heck are you?"
+    },
+    {
+     "s": 10,
+     "t": "Oh, I'll tell you who the heck I am. The name's Arataki \"Thanks-for-Waiting, Mucho-Apreciado\" Itto!"
+    },
+    {
+     "s": 24,
+     "t": "Uhh... an oni... it's an oni!!!"
+    },
+    {
+     "s": 25,
+     "t": "Nice work, Itto. Keep this up, and we might just have to double your bonus at the end of the month."
+    },
+    {
+     "s": 10,
+     "t": "Heh, don't you worry about a thing. As long as Itto's around, consider this establishment protected."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "sit": "The person in the room next door paces around restlessly all night. Despite the annoying pitter-patter of footsteps, you manage to drift off to sleep..."
+    },
+    {
+     "section": "Draw Lots"
+    },
+    {
+     "s": 1,
+     "t": "Let's see, your next opponent is... Haniyyah. Huh, that name sounds familiar..."
+    },
+    {
+     "sit": "We met her at the Beast Tamers Tournament in Sumeru..."
+    },
+    {
+     "sit": "She was the runner-up in the Nilotpala Cup."
+    },
+    {
+     "s": 1,
+     "t": "Ohhh, yeah! Paimon remembers now! She's been looking after our Fungi friends this whole time..."
+    },
+    {
+     "s": 1,
+     "t": "Who do you think she's gonna partner up with for the competition?"
+    },
+    {
+     "s": 1,
+     "t": "Come on, let's go say hello!"
+    },
+    {
+     "s": 2,
+     "t": "She was the runner-up in the Nilotpala Cup."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 14,
+     "t": "Welcome one and all! The Round of 16 is about to begin."
+    },
+    {
+     "s": 14,
+     "t": "Our contestants for this match are: {NICKNAME} and his(her) partner Aguara, versus Haniyyah and her partner, Fluffy the Flower King!"
+    },
+    {
+     "s": 26,
+     "t": "Hey, Golden Comet and Silver Companion! Good to see you again. This'll be our first proper rematch since the Nilotpala Cup..."
+    },
+    {
+     "s": 26,
+     "t": "I brought my old Sumpter Beast with me this time. Looks like you're partnering with a new companion too... Let's see who wins this time around!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "sit": "(test)台词文本"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 2,
+     "t": "Jump onto its back!"
+    },
+    {
+     "s": 7,
+     "t": "R—Rawr...!"
+    },
+    {
+     "s": 26,
+     "t": "What!?"
+    },
+    {
+     "s": 26,
+     "t": "Ugh... Looks like this isn't gonna work."
+    },
+    {
+     "s": 16,
+     "t": "Contestants, please have your animal companions return to the arena immediately, or you'll both be disqualified!"
+    },
+    {
+     "s": 26,
+     "t": "Oh no! Come back, Fluffy!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 2,
+     "t": "Hit it head-on!"
+    },
+    {
+     "s": 7,
+     "t": "Wooraarr?"
+    },
+    {
+     "s": 1,
+     "t": "A—Are you sure that's a good idea? A head-on collision between Aguara and a Sumpter Beast?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 26,
+     "t": "...Look at that, right into orbit. Nice work, Fluffy!"
+    },
+    {
+     "s": 1,
+     "t": "Aguara!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 2,
+     "t": "Aguara, dodge!"
+    },
+    {
+     "s": 26,
+     "t": "Huh? Fluffy! Wake up!"
+    },
+    {
+     "s": 26,
+     "t": "Fluffy..."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 26,
+     "t": "You're even tougher than last time!"
+    },
+    {
+     "s": 26,
+     "t": "But you know what? Sumpter Beasts are renowned for their endurance. It's their refusal to give up that allows them to traverse huge rainforests and deserts, one step at a time."
+    },
+    {
+     "s": 26,
+     "t": "And when they charge full speed... Haha, they kick up enough dust to blot out the sky."
+    },
+    {
+     "s": 26,
+     "t": "Send 'em flying, Fluffy the Flower King!"
+    },
+    {
+     "s": 1,
+     "t": "Watch out!"
+    },
+    {
+     "section": "Continue competing"
+    },
+    {
+     "s": 16,
+     "t": "{NICKNAME} and Aguara are the winners!"
+    },
+    {
+     "s": 26,
+     "t": "Ah, what a shame... We were so close!"
+    },
+    {
+     "s": 26,
+     "t": "Even with a new partner, you're still as tough as they come... *sigh* This was some bad luck, running into you so early in the competition."
+    },
+    {
+     "s": 26,
+     "t": "Well, since you defeated me, you'd better go all the way like in the Nilotpala Cup. I can handle losing — but only to a champion! So you go show them who's boss!"
+    },
+    {
+     "s": 2,
+     "t": "I won't let you down."
+    },
+    {
+     "s": 1,
+     "t": "Alright! We're through to the quarter-finals! Let's go see who our next opponent is."
+    },
+    {
+     "section": "Draw Lots"
+    },
+    {
+     "s": 1,
+     "t": "Let Paimon take a look — next up is... Mualani?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, so we have to fight that big koholasaur next? Aguara, we're counting on you!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr..."
+    },
+    {
+     "sit": "Uh... You just need to believe in yourself!"
+    },
+    {
+     "sit": "Don't worry. Just do your best."
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Hey, Paimon noticed something when we were drawing lots. Most of the contestants have given their animal companion a cool title. Shall we come up with one for Aguara, too?"
+    },
+    {
+     "sit": "How about \"The Echoing Flash\"?"
+    },
+    {
+     "sit": "How about \"The Bandana Bandit\"?"
+    },
+    {
+     "sit": "How about \"Brains & Brawn\"?"
+    },
+    {
+     "sit": "How about \"The Rovin' Rawrin' Saurian\"?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Well, Aguara seems to like it! Awesome! Okay, let's head to the next match!"
+    },
+    {
+     "s": 2,
+     "t": "How about \"The Bandana Bandit\"?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "How about \"Brains & Brawn\"?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "How about \"The Rovin' Rawrin' Saurian\"?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Don't worry. Just do your best."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 14,
+     "t": "Are you ready to ruuumble? Ladies and gentlemen, it's time for the quarterfinals!"
+    },
+    {
+     "s": 14,
+     "t": "After a fierce competition so far, we're left with the creme de la creme of the contestants. But who among them will advance to the semifinals? There's only one way to find out!"
+    },
+    {
+     "s": 14,
+     "t": "Joining us to kick this round off, we have... {NICKNAME} and his(her) partner Aguara, versus Mualani and her partner Mamala!"
+    },
+    {
+     "s": 8,
+     "t": "How're you feeling today, Mamala?"
+    },
+    {
+     "s": 9,
+     "t": "Raargh!"
+    },
+    {
+     "s": 8,
+     "t": "That's the spirit! Now, let's get out there and show these Nod-Krai folks what the People of the Springs are all about!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "sit": "(test)台词文本"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 8,
+     "t": "Taking it head-on, huh? You shoulda run!"
+    },
+    {
+     "s": 8,
+     "t": "Sorry, but in terms of brute strength, a young tepetlisaur is no match for an adult koholasaur."
+    },
+    {
+     "s": 8,
+     "t": "Don't try to be a hero next time!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 8,
+     "t": "Watch out!"
+    },
+    {
+     "s": 9,
+     "t": "Awoo?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 8,
+     "t": "You took advantage of Mamala's blind spot... Not bad!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 8,
+     "t": "Saw that one coming a mile away!"
+    },
+    {
+     "s": 8,
+     "t": "Tepetlisaurs might have the advantage on land, but it's a different story in the water."
+    },
+    {
+     "s": 8,
+     "t": "Mamala, finish 'em off!"
+    },
+    {
+     "s": 7,
+     "t": "Awoo..."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 8,
+     "t": "What a tough cookie! I thought this'd be way easier... Your little saurian doesn't play around!"
+    },
+    {
+     "s": 8,
+     "t": "Alright, get up close and let's settle this!"
+    },
+    {
+     "s": 8,
+     "t": "Jump, Mamala! Get out of the water!"
+    },
+    {
+     "s": 2,
+     "t": "(From what I remember, Mamala's left eye is covered by an eyepatch. That might be an opening...)"
+    },
+    {
+     "section": "Continue competing"
+    },
+    {
+     "s": 16,
+     "t": "Mamala has lost the strength to fight on — {NICKNAME} and Aguara are the winners!"
+    },
+    {
+     "s": 8,
+     "t": "Seriously? There's no way I just lost..."
+    },
+    {
+     "s": 8,
+     "t": "Gotta hand it to you, Aguara... You are seriously strong for your age! That was incredible!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 9,
+     "t": "Aww..."
+    },
+    {
+     "s": 8,
+     "t": "Hey, you're strong too, Mamala. That one was on me — I made too many bad calls. I'm sorry!"
+    },
+    {
+     "s": 8,
+     "t": "Keep it up, Aguara! I wanna see you take down even more opponents. You were the best little saurian out there today!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 8,
+     "t": "I'll leave you guys to it. Cheer up, Mamala! How about I take you for a tasty treat, huh?"
+    },
+    {
+     "s": 9,
+     "t": "Awoo!"
+    },
+    {
+     "s": 1,
+     "t": "Wow, that was a nail-biting match... Paimon's heart's still racing!"
+    },
+    {
+     "s": 1,
+     "t": "Anyway, Linnea will have finished her match by now, too, right? Let's go see how she did!"
+    },
+    {
+     "s": 1,
+     "t": "Linnea!"
+    },
+    {
+     "s": 2,
+     "t": "Is your match over already?"
+    },
+    {
+     "s": 3,
+     "t": "It sure is. Wanna take a guess who won?"
+    },
+    {
+     "s": 1,
+     "t": "Judging by the smile on your face, Paimon's pretty sure it was you."
+    },
+    {
+     "s": 3,
+     "t": "Correct. I was about to go watch the other matches. Care to join me?"
+    },
+    {
+     "s": 3,
+     "t": "The next one's a pretty big deal. Someone called Celaeno versus the reigning champion, Jahoda."
+    },
+    {
+     "s": 1,
+     "t": "Ooh, we have to watch that! Jahoda's a friend of ours, so we should be there to cheer her on."
+    },
+    {
+     "s": 3,
+     "t": "Perfect. Well, stick around — it should be starting soon."
+    },
+    {
+     "s": 3,
+     "t": "What the... Celaeno's companion is a Radiant Bladehorn!? Those things are extremely hostile... How did she manage to tame it?"
+    },
+    {
+     "s": 3,
+     "t": "Technically speaking, Radiant Bladehorns are classed as monsters... but they are beasts of the wild, and they're not exactly uncommon. It's not against the rules, but still... it's gonna be a really hard one to beat..."
+    },
+    {
+     "s": 1,
+     "t": "Go for it, Jahoda! You got this!"
+    },
+    {
+     "s": 2,
+     "t": "(...)"
+    },
+    {
+     "s": 18,
+     "t": "Ignorance really is bliss. But it won't last forever..."
+    },
+    {
+     "s": 2,
+     "t": "(So, Celaeno's her name. She was the one watching Linnea's last match, and there was something strangely hostile about her demeanor...)"
+    },
+    {
+     "s": 2,
+     "t": "(But Linnea doesn't seem to know who she is. She talked about her as if she's just another contestant.)"
+    },
+    {
+     "s": 18,
+     "t": "Do you think speed alone will stop me from catching you?"
+    },
+    {
+     "s": 12,
+     "t": "How about you run around and find out!"
+    },
+    {
+     "s": 12,
+     "t": "Reed Miller XIII, run that thing ragged and then go in for the kill!"
+    },
+    {
+     "s": 18,
+     "t": "Behind you on the right."
+    },
+    {
+     "s": 27,
+     "t": "Raargh!"
+    },
+    {
+     "s": 12,
+     "t": "Reed!"
+    },
+    {
+     "s": 3,
+     "t": "Her reaction time is incredible! It's almost as if..."
+    },
+    {
+     "s": 3,
+     "t": "She can read her opponent's mind!"
+    },
+    {
+     "s": 2,
+     "t": "(...)"
+    },
+    {
+     "s": 3,
+     "t": "Dodge left, Lumi!"
+    },
+    {
+     "s": 3,
+     "t": "Thanks, that means a lot! Yeah, I think we performed pretty well out there. Not just Lumi — I was really in the zone today."
+    },
+    {
+     "s": 3,
+     "t": "I dunno how to explain it, but... Sometimes, it feels like I can predict my opponent's next move. I know exactly what to do before I've even had the time to think."
+    },
+    {
+     "s": 2,
+     "t": "(Linnea said something similar after her first match. Could it be a coincidence?)"
+    },
+    {
+     "s": 12,
+     "t": "Keep it together, Reed. Jump!"
+    },
+    {
+     "s": 18,
+     "t": "He's trying to jump on your back, Haemus. Don't give him the chance."
+    },
+    {
+     "s": 18,
+     "t": "Use your wind blades to slow him down."
+    },
+    {
+     "s": 12,
+     "t": "Ugh..."
+    },
+    {
+     "s": 12,
+     "t": "He's too powerful! We've gotta go for a knockout blow!"
+    },
+    {
+     "s": 12,
+     "t": "Charge your lightning, Reed, then blast him with all you've got!"
+    },
+    {
+     "s": 18,
+     "t": "Deflect it back, Haemus."
+    },
+    {
+     "s": 27,
+     "t": "Raargh!"
+    },
+    {
+     "s": 28,
+     "t": "Awoo..."
+    },
+    {
+     "s": 18,
+     "t": "Tch... That was close. But the outcome is all that matters."
+    },
+    {
+     "s": 15,
+     "t": "Reed Miller XIII has lost the strength to fight on — Celaeno and Haemus are the winners!"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Those wings..."
+    },
+    {
+     "s": 18,
+     "t": "...!"
+    },
+    {
+     "s": 3,
+     "t": "W—Wait! Who are you? And why do you..."
+    },
+    {
+     "s": 3,
+     "t": "Why you have... the same..."
+    },
+    {
+     "s": 18,
+     "t": "..."
+    },
+    {
+     "s": 18,
+     "t": "I've been through this moment so many times in my head... Imagining you sharing the same pain I feel."
+    },
+    {
+     "s": 18,
+     "t": "I thought it would bring me joy, but I guess not... You're better off with the life you have, Linnea. The less you know, the better."
+    },
+    {
+     "s": 3,
+     "t": "Argh... My head... Don't go! Wait, I... I..."
+    },
+    {
+     "s": 1,
+     "t": "Linnea!"
+    },
+    {
+     "s": 1,
+     "t": "Wh—What happened? Why did Linnea faint?"
+    },
+    {
+     "s": 1,
+     "t": "We gotta find her somewhere to lie down. Quick, hurry!"
+    },
+    {
+     "s": 12,
+     "t": "What happened? Uh, uhhh... I'll go get Lauma!"
+    },
+    {
+     "section": "Lauma"
+    },
+    {
+     "s": 13,
+     "t": "She's breathing normally — no obstruction of the airways. She just needs a little peace and quiet."
+    },
+    {
+     "s": 1,
+     "t": "Phew... That's a relief! Thanks, Lauma."
+    },
+    {
+     "s": 13,
+     "t": "My pleasure. If she has any more trouble, just let me know."
+    },
+    {
+     "s": 1,
+     "t": "Will do!"
+    },
+    {
+     "s": 1,
+     "t": "Oh, Linnea... Please wake up soon..."
+    },
+    {
+     "s": 3,
+     "t": "(Good morning! ...Huh? Where am I?)"
+    },
+    {
+     "s": 3,
+     "t": "(Lumi! Lumi! How strange — where could she be?)"
+    },
+    {
+     "s": 3,
+     "t": "(I wonder how long I was out for... Well, I'd better take a look outside.)"
+    },
+    {
+     "section": "Lumi"
+    },
+    {
+     "s": 3,
+     "t": "(Lumi! There you are. I've been looking all over for you.)"
+    },
+    {
+     "s": 3,
+     "t": "(Come on, say something. Why do you look so anxious? Uh...)"
+    },
+    {
+     "s": 14,
+     "t": "Looks like our contestants and their partners are in position."
+    },
+    {
+     "s": 14,
+     "t": "On the one side, we have Linnea and her partner Lumi, and on the other side, we have Celaeno and her partner Haemus! Buckle up folks — the semi-finals are about to begin!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "(Wait, how is it the semifinals already!? Also, how did I even get here...? I don't remember a thing!)"
+    },
+    {
+     "s": 3,
+     "t": "(...Oh. I get it. I'm still dreaming.)"
+    },
+    {
+     "s": 21,
+     "t": "You can do it, old boss!"
+    },
+    {
+     "s": 3,
+     "t": "(Even if this is a dream, I can't let my supporters down. I'm gonna give this my all!)"
+    },
+    {
+     "s": 3,
+     "t": "(We're up, Lumi! Let's show them what we've got!)"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho..."
+    },
+    {
+     "s": 14,
+     "t": "What a spectacular duel! But Lumi has lost the strength to fight on... Meaning, Celaeno and Haemus have earned their place in the final!"
+    },
+    {
+     "s": 3,
+     "t": "(Huh? What's going on? They're saying I lost already?)"
+    },
+    {
+     "s": 3,
+     "t": "(This dream sucks! I wanna wake up, right now.)"
+    },
+    {
+     "s": 3,
+     "t": "(Hmm, I've heard that if you try really hard to open your eyes, you can force yourself awake. Nnngh!)"
+    },
+    {
+     "section": "Log"
+    },
+    {
+     "s": 3,
+     "t": "(Did it work...?)"
+    },
+    {
+     "s": 3,
+     "t": "(Guess not... Huh? Is Dream-Me writing a diary?)"
+    },
+    {
+     "s": 3,
+     "t": "\"My Adventurers' Guild salary alone will never be enough to finance a research vessel. It seems my only option is to take up adventuring full-time.\""
+    },
+    {
+     "s": 3,
+     "t": "(A research vessel? Looks like Dream-Me is working hard toward my goal... But the cost is just astronomical. It could take a whole lifetime to save up for.)"
+    },
+    {
+     "s": 3,
+     "t": "\"Day 1: Got beaten up by monsters.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Day 5: Ran for my life with Lumi. Turns out I'm getting faster!\""
+    },
+    {
+     "s": 3,
+     "t": "\"Day 20: Asked a merchant about prices. Ships cost a fortune! But I can worry about that later. Right now, it's time for a proper meal — I'm starving.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Day 72: Found a huge abandoned treasure chest. Hehe, finders keepers!\""
+    },
+    {
+     "s": 3,
+     "t": "\"Happy Adventure Anniversary to me! One year in... and still nowhere near rich enough to afford a ship.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Almost got scammed! Note to self — secondhand ships aren't to be trusted. Good job I was wary and checked it over thoroughly before committing. You really do get what you pay for.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Finally beat that pesky thing. Hoping the materials I gathered recently will fetch a good price...\""
+    },
+    {
+     "s": 3,
+     "t": "(The diary ends here. Hold on, is this..?)"
+    },
+    {
+     "s": 3,
+     "t": "(A deed for the purchase of a large ship, and I've signed it! Could it be...?)"
+    },
+    {
+     "s": 3,
+     "t": "(...A dream come true.)"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "(Lemme check the chart. Next stop, Guyun Stone Forest... That place is steeped in myths and stories. I've only ever seen it in picture books.)"
+    },
+    {
+     "s": 3,
+     "t": "(From there, it's on to Dragonspine... Wow, a snow-capped mountain! I've always wanted to visit, but never dared to.)"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "(What's this? ...Clearwater Jade? Pretty sure this can only be found in Chenyu Vale... It's so beautiful.)"
+    },
+    {
+     "s": 3,
+     "t": "(It looks like this ship has sailed to many places already. Makes sense — as soon as I buy my research vessel, I'll be off and away to voyage non-stop.)"
+    },
+    {
+     "s": 29,
+     "t": "Linnea..."
+    },
+    {
+     "s": 29,
+     "t": "You've been really down the last couple of days. What's up? You're not seasick, are you?"
+    },
+    {
+     "s": 29,
+     "t": "I've left your lunch by the door. Make sure to get some good rest once you've eaten."
+    },
+    {
+     "s": 3,
+     "t": "(Coming...)"
+    },
+    {
+     "section": "Push the door open"
+    },
+    {
+     "s": 3,
+     "t": "(Hmm... Where am I now...?)"
+    },
+    {
+     "s": 3,
+     "t": "(I feel so sore... and tired. Wait, but I thought I was dreaming? Why do I feel like this?)"
+    },
+    {
+     "s": 3,
+     "t": "(Is this some sort of lucid dream...? Whatever, I'd better take a look outside.)"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "(Clearwater Jade... Didn't I see this on the ship just now? Why is it in pieces...)"
+    },
+    {
+     "s": 3,
+     "t": "(And these books... How did they end up in this cave?)"
+    },
+    {
+     "section": "Lumi"
+    },
+    {
+     "s": 3,
+     "t": "(Lumi... Why do you look so sad?)"
+    },
+    {
+     "s": 3,
+     "t": "(Hey, hey, don't be scared. I'm right here by your side.)"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "(Wh—What happened? I thought I was on the ship...)"
+    },
+    {
+     "s": 3,
+     "t": "(...)"
+    },
+    {
+     "s": 3,
+     "t": "(I—Is this... The Golden Beagle...?)"
+    },
+    {
+     "s": 3,
+     "t": "(B—But why...)"
+    },
+    {
+     "s": 3,
+     "t": "(I—It's just a dream though... right? Come on, get a grip, Linnea. It's not real. None of this is real...)"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "\"It's been many long years since the Golden Beagle sank.\""
+    },
+    {
+     "s": 3,
+     "t": "(The diary again... How long is this terrible dream going to last?)"
+    },
+    {
+     "s": 3,
+     "t": "\"I'd love to say I'm over it now, but the truth is it still gets me down sometimes. It's like there's a heavy stone that's blocking up my heart, constantly weighing me down.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Maybe a walk in the courtyard will take my mind off things. Besides, my sister should be here soon. I can wait for her outside.\""
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 18,
+     "t": "Linnea!"
+    },
+    {
+     "s": 3,
+     "t": "(Huh? That voice sounds familiar...)"
+    },
+    {
+     "s": 18,
+     "t": "Over here. Did you get my letter, Linnea?"
+    },
+    {
+     "s": 18,
+     "t": "I'm so sorry to be the bearer of bad news. Come back to the tundra with me, so we can be with Mom and Dad one last time."
+    },
+    {
+     "s": 3,
+     "t": "(Celaeno? She's my sister!?)"
+    },
+    {
+     "s": 3,
+     "t": "(Mom and Dad? One last time?)"
+    },
+    {
+     "s": 18,
+     "t": "This is the natural circle of life. We don't live that much longer than humans — this day was always going to come."
+    },
+    {
+     "s": 18,
+     "t": "I... I can't pretend I'm not sad."
+    },
+    {
+     "s": 18,
+     "t": "But at the same time... I wonder how an ordinary person would react to hearing this news? At the very least, they wouldn't have to endure this horrid feeling of having tears they're unable to shed."
+    },
+    {
+     "s": 18,
+     "t": "After all... we've already seen how all of this would unfold, long before it ever came to pass."
+    },
+    {
+     "s": 18,
+     "t": "Remember? When you passed out during that competition? You saw it all as you lay there unconscious. <color=#37FFFF>At the time, you thought it was just a dream.</color>"
+    },
+    {
+     "s": 3,
+     "t": "(What is she talking about...?)"
+    },
+    {
+     "s": 3,
+     "t": "(No.... No, no, no... This can't be true...)"
+    },
+    {
+     "s": 18,
+     "t": "I understand how you feel. One moment, you're gazing into the future from the past, the next, you're there, looking back at where it all began... When these two perspectives collide, how can the journey not feel like a dream?"
+    },
+    {
+     "s": 18,
+     "t": "Time flies. One day, we too will grow old. Is it even possible to live a life without regrets?"
+    },
+    {
+     "s": 3,
+     "t": "\"A long, long time ago, my friends and I talked about our dreams.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Mine was to buy a research vessel and explore the mysteries of the world. Then, when too old for a life of adventure, I'd combine everything I'd learned into an illustrated atlas of nature.\""
+    },
+    {
+     "s": 3,
+     "t": "\"My entire life is recorded in these pages. Maybe one day, a long, long time from now, someone will open them and see that there are sections on the formation and evolution of certain creatures and environments that remain blank.\""
+    },
+    {
+     "s": 3,
+     "t": "\"Whoever you are, I entrust the task of filling those blank pages to you. The end of my time grows near, and I can no longer travel very far.\""
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 3,
+     "t": "(This feels like an illusion, yet at the same time, so real...)"
+    },
+    {
+     "s": 3,
+     "t": "(The end of life... So this is what death feels like.)"
+    },
+    {
+     "s": 3,
+     "t": "(I still feel some faint sensations in my stiffening body, but I... I can't so much as move a finger. As the warmth flows out of me, I feel no pain, just the emptiness that remains after everything else has slipped away...)"
+    },
+    {
+     "s": 3,
+     "t": "(So it wasn't a dream after all... It's all...)"
+    }
+   ],
+   "description": "Having completed the qualifiers successfully, Linnea suggests going to Speranza to celebrate properly…"
+  },
+  {
+   "title": "Tread the Right Path",
+   "dialogue": [
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 1,
+     "t": "Linnea! You're awake!"
+    },
+    {
+     "s": 1,
+     "t": "You were out for a long time. You must be starving! Do you want something to eat?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Linnea? Wh—Why are you crying?"
+    },
+    {
+     "s": 3,
+     "t": "What time is it? I..."
+    },
+    {
+     "s": 1,
+     "t": "It's evening... Uh, and it's the day after the quarterfinals."
+    },
+    {
+     "s": 1,
+     "t": "We were watching the match between Celaeno and Jahoda, when you ran over and grabbed Celaeno's arm. Then, you just passed out. Do you have any recollection?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "sit": "Did you have a nightmare?"
+    },
+    {
+     "sit": "What happened?"
+    },
+    {
+     "s": 3,
+     "t": "So many things came flooding into my head, one after another... The end of the competition, things from my future... Even the very end of my life, when I finally had to bid farewell to the world..."
+    },
+    {
+     "s": 3,
+     "t": "Some moments were joyful, others painful... All of it felt so, so real. I don't know how to describe it, but... it was terrifying."
+    },
+    {
+     "s": 2,
+     "t": "(After one of her matches, Linnea mentioned her mysterious intuition that helps her predict her opponent's moves.)"
+    },
+    {
+     "s": 2,
+     "t": "(Celaeno seemed to display a similar ability during her match with Jahoda. Could this have something to do with Linnea's dream?)"
+    },
+    {
+     "sit": "Perhaps Celaeno knows more."
+    },
+    {
+     "sit": "Should we ask Celaeno?"
+    },
+    {
+     "s": 1,
+     "t": "Good point — you passed out right after grabbing her. Plus, she said a load of cryptic-sounding stuff... She has to know something about what's going on."
+    },
+    {
+     "s": 1,
+     "t": "Still... Is it really a good idea to go looking for her? What if the same thing happens again?"
+    },
+    {
+     "s": 2,
+     "t": "Yeah, it could trigger more of those vivid dreams..."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Do you remember when we were at Speranza, and I told you guys about my childhood? Well... There were a few details I left out."
+    },
+    {
+     "s": 3,
+     "t": "I wasn't a very cheerful kid, nor was I all that brave. Before I told my human parents about being a fae, I spent so many sleepless nights tossing and turning."
+    },
+    {
+     "s": 3,
+     "t": "I knew what might happen once I told them. I desperately hoped they'd say, \"Linnea, even if you aren't our child, we still love you.\""
+    },
+    {
+     "s": 3,
+     "t": "But I knew that was impossible. Their own human child was out there somewhere, as were my fae parents. Our family was a lie — and all lies unravel with time."
+    },
+    {
+     "s": 3,
+     "t": "So, even though I was terrified, and even though I knew I might end up an unwanted child, I eventually mustered the courage to tell them."
+    },
+    {
+     "s": 3,
+     "t": "I did what I thought was right. I knew things might not turn out how I hoped, but I wasn't going back on my decision. The same applies this time — I have to see Celaeno."
+    },
+    {
+     "s": 1,
+     "t": "Oh, Linnea..."
+    },
+    {
+     "s": 3,
+     "t": "Uh... I'm now realizing that I have no idea where she is. Don't tell me I have to wait until the next round of the competition..."
+    },
+    {
+     "s": 7,
+     "t": "Rawr! Raaaawr!"
+    },
+    {
+     "s": 1,
+     "t": "Huh? Aguara, do you know where Celaeno is?"
+    },
+    {
+     "s": 2,
+     "t": "I think he wants us to follow..."
+    },
+    {
+     "s": 3,
+     "t": "Do you remember Celaeno's scent? That's amazing! You're the best, Aggie!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Phew... Alright! I think I'm about ready to do this. No use delaying it any longer — let's go!"
+    },
+    {
+     "s": 2,
+     "t": "Should we ask Celaeno?"
+    },
+    {
+     "s": 2,
+     "t": "What happened?"
+    },
+    {
+     "section": "Mualani"
+    },
+    {
+     "s": 8,
+     "t": "People seem to really dig the drinks here! I wonder if I should take some back for Granny Citlali?"
+    },
+    {
+     "section": "Knock on Door"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "After all that, Celaeno's staying in the room right next to ours? No wonder Aguara could pick up her scent!"
+    },
+    {
+     "s": 3,
+     "t": "Is anyone there?"
+    },
+    {
+     "s": 3,
+     "t": "...You're sure this is the right room?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Celaeno, I know you're in there. Please, I need to talk to you!"
+    },
+    {
+     "s": 3,
+     "t": "Celaeno..."
+    },
+    {
+     "s": 18,
+     "t": "I'm not here!"
+    },
+    {
+     "s": 3,
+     "t": "Are too!"
+    },
+    {
+     "s": 18,
+     "t": "Am not! Quit bothering me!"
+    },
+    {
+     "s": 3,
+     "t": "Not a chance! If you don't open the door, I'll be waiting right here outside until you change your mind."
+    },
+    {
+     "s": 3,
+     "t": "I have so many questions to ask you. Can you at least answer this one? Who are you to me? Are you... Are you my sister?"
+    },
+    {
+     "s": 18,
+     "t": "...!"
+    },
+    {
+     "s": 3,
+     "t": "OPEN THE DOOR!!!"
+    },
+    {
+     "s": 18,
+     "t": "Alright, stop yelling."
+    },
+    {
+     "s": 18,
+     "t": "...Come in."
+    },
+    {
+     "s": 3,
+     "t": "Hehe, that wasn't so hard now, was it?"
+    },
+    {
+     "s": 18,
+     "t": "Take a seat. Just to be clear, I wasn't expecting visitors, so I can't offer you much in the way of comfort."
+    },
+    {
+     "s": 18,
+     "t": "Curiosity is a dangerous trait, Linnea. You're gonna regret coming here — don't say I didn't warn you."
+    },
+    {
+     "s": 3,
+     "t": "You sure about that? 'Cause if I hadn't come here, I'd be regretting it already."
+    },
+    {
+     "s": 3,
+     "t": "Will you please answer me now? Why do we have the same wings on our heads? Why did I pass out when I touched you? And why did I see all those... those..."
+    },
+    {
+     "s": 18,
+     "t": "...Visions of your future?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "So... it wasn't a dream after all?"
+    },
+    {
+     "s": 18,
+     "t": "Of course not."
+    },
+    {
+     "s": 18,
+     "t": "Linnea, you're an avid student of the natural world. Surely you're aware of the six most common types of fae?"
+    },
+    {
+     "s": 3,
+     "t": "The Vila, Domovoy, Leshy, Volkodlak, Snegovik, and Jack Frosts."
+    },
+    {
+     "s": 18,
+     "t": "Right. Well, there are many less common varieties, too. The legendary Lantern Fae, the Sirens with their lilting songs... and us, the \"Augury Birds.\""
+    },
+    {
+     "s": 18,
+     "t": "\"We foretell both disaster and delight, gazing upon the past dawn and future night. Others fear and revere our might, while we alone detest our plight.\""
+    },
+    {
+     "s": 3,
+     "t": "...I've never heard of an Augury Bird before. Or the poem you just recited."
+    },
+    {
+     "s": 18,
+     "t": "That's hardly a surprise. You can count the number of Augury Birds alive today on one hand — and that includes you and me."
+    },
+    {
+     "s": 3,
+     "t": "So it's true then... We really are family."
+    },
+    {
+     "s": 18,
+     "t": "Family... Huh."
+    },
+    {
+     "s": 2,
+     "t": "(Celaeno didn't deny that they're family, but something about that word seems to trigger her. Clearly, she has conflicting emotions about her family.)"
+    },
+    {
+     "s": 18,
+     "t": "Augury Birds are born with a peculiar ability — we can see \"crossroads in the flow of fate.\" Immutable future events that all paths will lead to."
+    },
+    {
+     "s": 1,
+     "t": "Are you talking about... prophecies?"
+    },
+    {
+     "s": 2,
+     "t": "We've met other people with the ability to see the future."
+    },
+    {
+     "s": 18,
+     "t": "Doesn't surprise me. Humanity has many ways of observing fate — the stars, the Ley Lines... Our abilities are feeble in comparison."
+    },
+    {
+     "s": 18,
+     "t": "We can only see our own fates. If a friend wants to know their future, or someone is concerned about the destiny of the world, we're powerless to help."
+    },
+    {
+     "s": 18,
+     "t": "But the way it feels to witness your own fate... I trust you understand by now, Linnea."
+    },
+    {
+     "s": 3,
+     "t": "It certainly wasn't fun. Those prophecies brought a flood of emotions with them, from excitement, to frustration, to bitterness... By the end, all I was left with was a kind of numb emptiness."
+    },
+    {
+     "s": 3,
+     "t": "I had a goal in life... and before I even had the chance to start fighting for it, I saw how it would end. *sigh*... It's like someone spoiled the ending of a story I was really enjoying."
+    },
+    {
+     "s": 18,
+     "t": "Wait till you've tried to defy fate and found how powerless you are to change it... That's when the real suffering begins."
+    },
+    {
+     "s": 2,
+     "t": "(...)"
+    },
+    {
+     "s": 30,
+     "t": "Everything is transpiring as I foresaw, yet I am powerless to change it... Fate is an immutable force. I can but lament as the inevitable unfolds."
+    },
+    {
+     "s": 30,
+     "t": "I do wonder whether giving a man the power to see the future does nothing more for him than slowly crush his spirits..."
+    },
+    {
+     "s": 2,
+     "t": "(...\"The Visionary\" Vedrfolnir once said something similar.)"
+    },
+    {
+     "s": 2,
+     "t": "(If fate were easier to change, seeing the future would be a huge blessing. It would be a power desired by all.)"
+    },
+    {
+     "s": 2,
+     "t": "(But... if fate is set in stone, then knowing the future must be a heavy burden to bear.)"
+    },
+    {
+     "s": 18,
+     "t": "When you know every joy and every sorrow you'll ever experience, and there's nothing you can do to change it... Like you said, it leaves you with a numb emptiness."
+    },
+    {
+     "s": 18,
+     "t": "Generation after generation of Augury Birds lived with this burden... until you were born, and our parents found the only solution they could think of."
+    },
+    {
+     "s": 18,
+     "t": "\"If an Augury Bird is sent far from the fae to grow up among humans, the awakening of their prophetic abilities can be delayed.\""
+    },
+    {
+     "s": 3,
+     "t": "So that's how I became a changeling."
+    },
+    {
+     "s": 3,
+     "t": "What about the child I was switched with？ What happened to her?"
+    },
+    {
+     "s": 18,
+     "t": "Don't worry, she had the opposite problem to you — she needed to live among the fae. She was born with a strange, rare disease that humans cannot cure. If she hadn't been switched, she would have died a long time ago."
+    },
+    {
+     "s": 18,
+     "t": "Our parents saved her life, then raised her as their own. Eventually, her birth parents came to find her, and now they're living together in Snezhnograd."
+    },
+    {
+     "s": 3,
+     "t": "...I see. Wow."
+    },
+    {
+     "s": 3,
+     "t": "It all makes sense now. But there's still one thing you haven't explained... Those things you said before I fainted — what did you mean by all that?"
+    },
+    {
+     "s": 18,
+     "t": "I meant exactly what I said. I don't like you."
+    },
+    {
+     "s": 3,
+     "t": "But why?"
+    },
+    {
+     "s": 18,
+     "t": "No reason."
+    },
+    {
+     "s": 3,
+     "t": "So we're back to this? If you won't tell me, I'll have to guess myself."
+    },
+    {
+     "s": 3,
+     "t": "Celaeno... A—Are you jealous of me?"
+    },
+    {
+     "s": 18,
+     "t": "...!"
+    },
+    {
+     "s": 18,
+     "t": "Hah, good guess. But I wouldn't call it jealousy — more like resentment."
+    },
+    {
+     "s": 18,
+     "t": "By the time our parents came up with a solution for you and sent you off to live with the humans, I was already tormented by visions. If I'd been born just a few years later... *sigh* How cruel fate can be."
+    },
+    {
+     "s": 18,
+     "t": "Mom and Dad would sneak over to Nod-Krai to see you sometimes. They talked about you non-stop. Even that human child got more attention than me."
+    },
+    {
+     "s": 18,
+     "t": "I came with them once to Nod-Krai. When I saw you there in the distance, living your carefree life... I was torn apart by jealousy, but I had to pretend that nothing was wrong — even that I wished you well."
+    },
+    {
+     "s": 18,
+     "t": "Did no one ever consider how I felt? What was I to them — a reject? A failure? A pitiful wretch abandoned by fate?"
+    },
+    {
+     "s": 1,
+     "t": "Celaeno..."
+    },
+    {
+     "s": 18,
+     "t": "All of this led to me deciding, a long time ago, that when you were old enough, I'd come pay you a visit. My plan was to tell you the truth about everything. And then... you would share in my suffering."
+    },
+    {
+     "s": 18,
+     "t": "I know — what kind of horrible person would want to do that to someone? Someone like me, apparently."
+    },
+    {
+     "s": 3,
+     "t": "Then why did you hide from me?"
+    },
+    {
+     "s": 18,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "You really want me to keep guessing?"
+    },
+    {
+     "s": 18,
+     "t": "...It was because I found out the image of you I'd built up in my head — of happy-go-lucky Linnea, spoiled by her parents and coddled by fate — it was all just a fantasy."
+    },
+    {
+     "s": 18,
+     "t": "I overheard you in Speranza, talking about your past... desperately trying to hide the truth about who you were, somehow getting by with a rag-tag bunch of kids in the Conch Gang."
+    },
+    {
+     "s": 18,
+     "t": "You described it so nonchalantly, but it was eating me up inside."
+    },
+    {
+     "s": 18,
+     "t": "In that moment, I didn't want to see you suffer... And I couldn't go on resenting you any longer. I just wanted to hold you tight and tell you everything will be fine, that you still have a family..."
+    },
+    {
+     "s": 3,
+     "t": "Hey, Sis..."
+    },
+    {
+     "s": 3,
+     "t": "You're really not cut out to be a villain."
+    },
+    {
+     "s": 3,
+     "t": "So much for making me suffer, huh? Now you're the one crying, and I have to comfort you!"
+    },
+    {
+     "s": 3,
+     "t": "But I understand now. That feeling you had? It wasn't resentment... You were just lonely."
+    },
+    {
+     "s": 3,
+     "t": "I've always wondered about my real family... I'm so glad you were willing to see me, Sis."
+    },
+    {
+     "s": 18,
+     "t": "Thank you... all of you. This is not how I expected this to go."
+    },
+    {
+     "s": 1,
+     "t": "Don't mention it."
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks it's always best to get everything off your chest. That way, everyone can go back to being happy."
+    },
+    {
+     "s": 3,
+     "t": "Hehe, you're right, Paimon. I haven't been this happy in a long time."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "Hey, Celaeno, I was wondering... How did you end up with a Radiant Bladehorn as your partner? All the ones I've seen in the wild have been hyper-aggressive. They certainly wouldn't let me get close enough to touch them."
+    },
+    {
+     "s": 18,
+     "t": "We met that time when Mom and Dad brought me to see you in Nod-Krai. Haemus was still a baby then — must've gotten separated from his parents. I ended up looking after him for a while."
+    },
+    {
+     "s": 18,
+     "t": "I suppose our friendship was pre-ordained. Just like my upcoming victory in this competition — an immutable crossroads in the flow of fate."
+    },
+    {
+     "s": 3,
+     "t": "\"Immutable\"?"
+    },
+    {
+     "s": 18,
+     "t": "You're welcome to try to fight it if you want. Prepare to experience just how cruel fate can be."
+    },
+    {
+     "s": 18,
+     "t": "Leave this competition and fly somewhere far away. I promise you, something will happen to force you right back here."
+    },
+    {
+     "s": 18,
+     "t": "Or if you prefer, you could go all out and try to beat me. But I have both luck and superior strength on my side. It's a gulf you will never overcome."
+    },
+    {
+     "s": 18,
+     "t": "The prophecies we see are the meeting points of every possible path. There are many possible roads into the future, but they all lead to the same destination in the end."
+    },
+    {
+     "s": 3,
+     "t": "Now that I know the pain of seeing my own fate for myself, I have to ask... How have you kept going all these years?"
+    },
+    {
+     "s": 18,
+     "t": "I learned to submit to fate. I just have to accept what will happen — there's no other choice."
+    },
+    {
+     "s": 18,
+     "t": "Since the outcome can't be changed, how I get there doesn't matter in the grand scheme of things. Every crossroad I've foreseen is a curse, so the best I can do is chase a little happiness in the unknowns between them."
+    },
+    {
+     "s": 18,
+     "t": "But what about you, Linnea? What's your perspective?"
+    },
+    {
+     "s": 3,
+     "t": "I... I think I see things differently."
+    },
+    {
+     "s": 3,
+     "t": "How about we continue this conversation after the tournament? I'd rather give you my answer then."
+    },
+    {
+     "s": 18,
+     "t": "Alright, just don't get your hopes up about the future... I don't want to see the disappointment tear you apart."
+    },
+    {
+     "s": 3,
+     "t": "I'll be fine, trust me. Anyway, we'll leave it there for today — see you in the arena!"
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}... are you awake?"
+    },
+    {
+     "sit": "Yeah."
+    },
+    {
+     "sit": "I can't sleep..."
+    },
+    {
+     "s": 1,
+     "t": "Neither can Paimon... Linnea and Celaeno aren't the only ones with a big day tomorrow — you've got your semifinal match, too. We have no idea who your opponent could be, and Paimon's a little nervous..."
+    },
+    {
+     "s": 1,
+     "t": "Since we're both struggling to sleep, d'you wanna head out for a stroll? We could go grab something yummy, then take Aguara to check out the arena. Might be a good chance for our little warrior to get familiar with the lay of the land."
+    },
+    {
+     "s": 2,
+     "t": "I can't sleep..."
+    },
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 3,
+     "t": "Listen up, Lumi. I've seen Celaeno's Radiant Bladehorn in action, and it isn't just strong — it's fast, too."
+    },
+    {
+     "s": 3,
+     "t": "Her best way to exploit both of these traits will be to make her Radiant Bladehorn charge you. You'll have to find a way to dodge the attacks, then pick the right moment to counterattack..."
+    },
+    {
+     "s": 1,
+     "t": "Linnea!"
+    },
+    {
+     "s": 2,
+     "t": "Getting in some last-minute preparation?"
+    },
+    {
+     "s": 3,
+     "t": "Sure am! What are you guys doing here?"
+    },
+    {
+     "s": 3,
+     "t": "Lumi and I were just going over our strategy for tomorrow! Since you're here too, how about letting Aguara join Lumi in some friendly sparring?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Lure the enemy in and wait for an opening to strike... Yeah, looks like that's my best shot at victory."
+    },
+    {
+     "s": 3,
+     "t": "But Haemus is so powerful. Even if we do find an opening, I'm not sure Lumi's even strong enough to make it count. I need a better plan..."
+    },
+    {
+     "sit": "You've prepared as thoroughly as you can."
+    },
+    {
+     "sit": "Good luck."
+    },
+    {
+     "s": 3,
+     "t": "Thanks. Just because I've seen a future where I fail doesn't mean I'm willing to go down without a fight!"
+    },
+    {
+     "s": 3,
+     "t": "Fate is such a mysterious idea... Despite having it explained to me and having seen it with my own eyes, I still find it hard to wrap my head around it."
+    },
+    {
+     "s": 2,
+     "t": "What does fate mean to you?"
+    },
+    {
+     "s": 3,
+     "t": "Hmm? You're in a philosophical mood, huh? Well... I dunno if I'm the best person to ask. I've only just learned who I really am — I need some time to think."
+    },
+    {
+     "s": 3,
+     "t": "Besides, I'm an advisor, remember? It wouldn't be very professional for me to start spouting best-guesses and speculation. What if I led you in the wrong direction?"
+    },
+    {
+     "s": 2,
+     "t": "Relax. I'm just curious to hear your opinion."
+    },
+    {
+     "s": 3,
+     "t": "Alright, well... I think that knowing the future is a pretty lousy deal. But then, life's full of lousy situations."
+    },
+    {
+     "s": 3,
+     "t": "When I was a kid, my greatest suffering came from not knowing. I didn't know how my parents would react when I told them the truth, I didn't know where to go when they left..."
+    },
+    {
+     "s": 3,
+     "t": "Back then, I actually wanted to know the future. I dreamed of a day that fate would send me a sign... I just wanted some clear guidance on what I should do — something to give me the courage to go on."
+    },
+    {
+     "s": 3,
+     "t": "But fate didn't show me anything. It was my own stubborn will that got me through. Turned out that the only person I could rely on was me."
+    },
+    {
+     "s": 3,
+     "t": "...I've always known what it's like to be terrified of the unknown, and now I'm learning that knowing for sure isn't all it's cracked up to be, either. What's the big deal? The world hasn't ended, and I haven't changed. What do I have to fear?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Training session over! Feels like these two are really forming a close bond."
+    },
+    {
+     "s": 3,
+     "t": "Alright! I think we're as prepared as we can be. Time to get some shuteye."
+    },
+    {
+     "s": 3,
+     "t": "Tomorrow, we're gonna face our fate."
+    },
+    {
+     "s": 2,
+     "t": "Good luck."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 14,
+     "t": "Is everybody ready!? Prepare yourselves for the opening match of the semifinals!"
+    },
+    {
+     "s": 14,
+     "t": "Our contestants are ready and raring to go! On the one side, we have {NICKNAME} and his(her) partner Aguara, and on the other, we have Viliana and her partner Gorynishche!"
+    },
+    {
+     "s": 1,
+     "t": "You can do it, Aguara!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "sit": "Perhaps because of the last-minute training yesterday, Aguara is more fired up than usual and wins the match with style."
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 14,
+     "t": "We have a winner! Everyone, please take a short break. The second semifinal will begin shortly!"
+    },
+    {
+     "s": 1,
+     "t": "Great job, Aguara!"
+    },
+    {
+     "s": 1,
+     "t": "Hey {NICKNAME}, Linnea and Celaeno are up next! Come on, let's cheer them on!"
+    },
+    {
+     "s": 14,
+     "t": "Looks like our contestants and their partners are in position."
+    },
+    {
+     "s": 14,
+     "t": "On the one side, we have Linnea and her partner Lumi, and on the other side, we have Celaeno and her partner Haemus! Buckle up folks — the semi-finals are about to begin!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 21,
+     "t": "You can do it, old boss!"
+    },
+    {
+     "s": 1,
+     "t": "Go get 'em, Linnea!"
+    },
+    {
+     "s": 3,
+     "t": "Lumi..."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho..."
+    },
+    {
+     "s": 3,
+     "t": "You were amazing! I didn't know you could grow that big!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "s": 3,
+     "t": "You know, you look a little different after absorbing all that Geo... Wait a sec! Could that be it?"
+    },
+    {
+     "s": 1,
+     "t": "L—Linnea! Are you guys alright?"
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME}, Paimon, come quick!"
+    },
+    {
+     "s": 3,
+     "t": "I've figured out why Lumi is different from other Jack Frosts! After all the theories I've looked into, it turns out there was one possibility that never even occurred to me."
+    },
+    {
+     "s": 3,
+     "t": "What if Lumi wasn't born different at all? What if it's all a consequence of her diet? Surely, ingesting large amounts of rare ore could explain the development of her Geo features..."
+    },
+    {
+     "s": 3,
+     "t": "I mean, just look at vishaps! Depending on their element, vishaps can look wildly different, but from a biological perspective, they're still considered the same species."
+    },
+    {
+     "s": 3,
+     "t": "Lumi, you don't have to wait for evolution to catch up at all. You just have to find another Jack Frost who likes the same things as you do — then you'll have a true companion!"
+    },
+    {
+     "s": 3,
+     "t": "I'm so happy you unleashed your full power, Lumi. If you hadn't pushed yourself like that, I never would've had this Eureka moment!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 2,
+     "t": "(I thought Linnea would be disappointed after losing her match... but I guess this reaction is more her style.)"
+    },
+    {
+     "s": 18,
+     "t": "Linnea..."
+    },
+    {
+     "s": 18,
+     "t": "Why did you hold back?"
+    },
+    {
+     "s": 3,
+     "t": "What do you mean? If Lumi had landed that hit, you and Haemus would have been in serious danger."
+    },
+    {
+     "s": 18,
+     "t": "Even so..."
+    },
+    {
+     "s": 18,
+     "t": "(When that hammer started to fall, the future I once saw went blank before my eyes...)"
+    },
+    {
+     "s": 18,
+     "t": "(Did fear cause me to see a false vision? Or did she truly cheat fate for a brief moment?)"
+    },
+    {
+     "s": 18,
+     "t": "(...What does it matter? In the end, the pull of fate exerted its force all the same. The prophecy came to pass, as surely as the sun rises in the morning.)"
+    },
+    {
+     "s": 3,
+     "t": "What's on your mind, Sis?"
+    },
+    {
+     "s": 18,
+     "t": "I... I just think it's a shame. You gave your all in that battle, but it didn't change a thing."
+    },
+    {
+     "s": 18,
+     "t": "Whatever path you take, it always leads to the same place. Fate is so cruel."
+    },
+    {
+     "s": 3,
+     "t": "Celaeno, do you remember the question that you asked me? I told you I'd give you my answer after the tournament."
+    },
+    {
+     "s": 18,
+     "t": "I remember. And I'd still like to know what you think."
+    },
+    {
+     "s": 3,
+     "t": "You told me, \"there are many possible roads into the future, but they all lead to the same destination in the end.\" Well, I prefer to think of it the other way around: We might already know where we're headed, but we get to choose how we get there."
+    },
+    {
+     "s": 3,
+     "t": "Maybe fate will always lead us toward the same destination, but I never cared much about the outcome — I just want to walk my own path."
+    },
+    {
+     "s": 3,
+     "t": "So even if I was destined to lose to you, there was no way I wasn't gonna give it everything I had."
+    },
+    {
+     "s": 3,
+     "t": "And even if my ship ends up at the bottom of the ocean, I'm not gonna let that stop me from sailing it to every corner of the world first."
+    },
+    {
+     "s": 3,
+     "t": "If all people care about are outcomes, then why doesn't everyone give up on happiness and love? After all, the certainty of death is the one thing that every person knows about their fate."
+    },
+    {
+     "s": 3,
+     "t": "But my feelings, my thoughts, everything I've seen... all that exists beyond the reach of fate. They belong to me, and no one else controls them."
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "Lumi, sounds like you agree, right?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "s": 18,
+     "t": "Linnea..."
+    },
+    {
+     "s": 18,
+     "t": "...Ignorance really is bliss."
+    },
+    {
+     "s": 3,
+     "t": "Even when we're scared and uncertain, it's important to face the truth head-on."
+    },
+    {
+     "s": 3,
+     "t": "You sure about that? 'Cause if I hadn't come here, I'd be regretting it already."
+    },
+    {
+     "s": 18,
+     "t": "(How I envied your cheerful optimism when I first saw you... I thought your happiness was all thanks to your obliviousness to fate.)"
+    },
+    {
+     "s": 18,
+     "t": "(Yet, now you've witnessed your fate and experienced failure — and still, you haven't let it drag you down.)"
+    },
+    {
+     "s": 18,
+     "t": "(Perhaps I was wrong from the start... The difference between us was never about knowledge of our destinies — it's about having the courage to accept it.)"
+    },
+    {
+     "s": 3,
+     "t": "Celaeno, you okay? You're looking pretty zoned out!"
+    },
+    {
+     "s": 18,
+     "t": "Heh... Actually, I was just thinking... I'm happy for you."
+    },
+    {
+     "s": 18,
+     "t": "I claimed the victory promised to me by fate, and you found your answer — a truth that transcends fate itself."
+    },
+    {
+     "s": 3,
+     "t": "Sounds like I got the sweeter deal overall. But hey, mine and Lumi's journey isn't over yet!"
+    },
+    {
+     "s": 3,
+     "t": "So enjoy your victory, Celaeno. But don't get complacent... Otherwise, my partner here might just take it back from you one day."
+    },
+    {
+     "sit": "Y—You mean... me?"
+    },
+    {
+     "sit": "You'd better watch out!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr! Raaaawr!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 18,
+     "t": "Haha... That little thing?"
+    },
+    {
+     "s": 3,
+     "t": "That, plus our special bond!"
+    },
+    {
+     "s": 3,
+     "t": "Let's go, partner. This time, it's my turn to help you train!"
+    },
+    {
+     "s": 2,
+     "t": "You'd better watch out!"
+    },
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 3,
+     "t": "Hello Natlan, I'm back! Give me a moment to set up the tent. I bought this one the last time I was here."
+    },
+    {
+     "s": 1,
+     "t": "Oh! We'll lend you a hand!"
+    },
+    {
+     "s": 3,
+     "t": "Now then, Aggie, it's time for you to learn one of Lumi's signature finishers."
+    },
+    {
+     "s": 7,
+     "t": "Rrrawr?"
+    },
+    {
+     "s": 3,
+     "t": "Watch closely. Lumi, do the honors!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 2,
+     "t": "It's a rock hammer!"
+    },
+    {
+     "s": 1,
+     "t": "Uhhh... Linnea, do you seriously think Aguara can use a giant Geo hammer?"
+    },
+    {
+     "s": 3,
+     "t": "From what I've seen, Aguara's fighting style isn't that dissimilar to Lumi's. They both use agility to set up their opponents while searching for opportunities to attack."
+    },
+    {
+     "s": 3,
+     "t": "But Aguara isn't strong enough to break through Haemus's defenses. He needs a weapon to level the playing field."
+    },
+    {
+     "s": 3,
+     "t": "Aguara will need to channel Geo essence from the ground and fashion it into a powerful rock hammer. Simple enough in principle, but it might take some time to master. Aguara, wanna try it out?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr?"
+    },
+    {
+     "s": 3,
+     "t": "Don't worry. It's normal to fail on the first try. Just gotta keep trying."
+    },
+    {
+     "s": 3,
+     "t": "You'll get the hang of it! Lumi, it's up to you to show Aguara how it's done."
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "section": "Linnea, Lumi, Aguara"
+    },
+    {
+     "s": 3,
+     "t": "You'll get the hang of it! Lumi, it's up to you to show Aguara how it's done."
+    },
+    {
+     "section": "Linnea"
+    },
+    {
+     "s": 3,
+     "t": "Phew... Feels like I blinked and two whole days went by."
+    },
+    {
+     "s": 3,
+     "t": "I've heard it said that people can find their fates by studying the stars... I guess that means that fate's been looking down on us this whole time, huh?"
+    },
+    {
+     "s": 3,
+     "t": "*yawn*... I could really do with some sleep. Good night, you guys."
+    },
+    {
+     "s": 2,
+     "t": "(...)"
+    },
+    {
+     "s": 2,
+     "t": "(As a Descender, my fate is my own. I don't know what it's like to have my destiny anchored in place.)"
+    },
+    {
+     "s": 2,
+     "t": "(The rules of this world surely exist for a good reason, and the same must go for fate. But on this journey, I've witnessed far too many people who yearn to defy their fate.)"
+    },
+    {
+     "s": 2,
+     "t": "(Is anchoring fate in place truly the best solution? Maybe one day, I can—)"
+    },
+    {
+     "s": 7,
+     "t": "Rawr..."
+    },
+    {
+     "s": 7,
+     "t": "Rawr..."
+    },
+    {
+     "s": 31,
+     "t": "Rawr."
+    },
+    {
+     "s": 31,
+     "t": "Rawr!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "*yawn* Paimon slept really well."
+    },
+    {
+     "s": 1,
+     "t": "Huh? Whoa, look at all this Grainfruit! Aguara, did you pick these for us?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 1,
+     "t": "Wow! When did you learn to do that!?"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "Are you saying... you had help from another saurian? Hmm, who could that be?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 11,
+     "t": "The final is about to begin. Contestants, please take your positions. Spectators, we kindly ask you to wait outside the arena."
+    },
+    {
+     "s": 1,
+     "t": "Oh, it's finally here! Aguara, today's your time to shine!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 3,
+     "t": "It's all up to you now, partner. You've done the hard yards in training, now go out there and believe in yourself!"
+    },
+    {
+     "s": 3,
+     "t": "It's time to write your name in lights and show the world how hard we've worked. You've got this, Aguara!"
+    },
+    {
+     "sit": "We've got this."
+    },
+    {
+     "sit": "I'm not gonna lose!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-hoho..."
+    },
+    {
+     "s": 14,
+     "t": "Ladies and gentlemen, the wait is finally over! It's time for the Spirit Envoy Championship final!"
+    },
+    {
+     "s": 14,
+     "t": "You'll be very familiar with our contestants by now. Celaeno and her partner, the Radiant Bladehorn, Haemus, who seized their place in the final after a hard-won victory in the last round."
+    },
+    {
+     "s": 14,
+     "t": "Then we have {NICKNAME} and Aguara. This little Tepetlisaur might not look like the most ferocious beast, but this duo have fought courageously to reach the final stage."
+    },
+    {
+     "s": 14,
+     "t": "Who will be crowned champions today? In a few short moments, we will find out!"
+    },
+    {
+     "s": 18,
+     "t": "Back from training camp?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 18,
+     "t": "Then let's do this. Show me what you've got."
+    },
+    {
+     "s": 3,
+     "t": "You've got this, Aguara, don't be nervous!"
+    },
+    {
+     "s": 2,
+     "t": "I'm not gonna lose!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "sit": "(test)台词文本"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "Hiding underground, are we?"
+    },
+    {
+     "s": 18,
+     "t": "Keep charging, Haemus. Jolt him out of the hole!"
+    },
+    {
+     "s": 18,
+     "t": "Tch... Haemus, are you alright?"
+    },
+    {
+     "s": 27,
+     "t": "Raargh!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "...Predictable."
+    },
+    {
+     "s": 1,
+     "t": "Aguara hit him right in the belly... But it didn't seem to do anything."
+    },
+    {
+     "s": 18,
+     "t": "It was the obvious move. Haemus was well-prepared for an attack like that."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 2,
+     "t": "(Haemus seems to be running out of steam, but Aguara's already panting too...)"
+    },
+    {
+     "s": 2,
+     "t": "(Looks like it's time to end this!)"
+    },
+    {
+     "s": 2,
+     "t": "Aguara, just like we practiced!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 8,
+     "t": "Wait! Aguara's horn hasn't finished growing yet..."
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "Still hoping for an opening?"
+    },
+    {
+     "s": 18,
+     "t": "Don't give him time to think, Haemus."
+    },
+    {
+     "s": 7,
+     "t": "Rawr..."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 1,
+     "t": "Yes!!!"
+    },
+    {
+     "s": 3,
+     "t": "Well done! Keep it up, Aguara!"
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "Has fear robbed you of all reason?"
+    },
+    {
+     "s": 18,
+     "t": "Haemus, stamp down with all your might."
+    },
+    {
+     "s": 7,
+     "t": "Rawr..."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "Mm... Impressive."
+    },
+    {
+     "s": 18,
+     "t": "Haemus, summon Anemo energy on your horn and then charge."
+    },
+    {
+     "s": 18,
+     "t": "...Now you see what you're up against."
+    },
+    {
+     "section": "Start Competition"
+    },
+    {
+     "s": 18,
+     "t": "Now, Haemus. Trample him!"
+    },
+    {
+     "s": 18,
+     "t": "March to victory, and leave nothing standing."
+    },
+    {
+     "section": "Continue competing"
+    },
+    {
+     "s": 16,
+     "t": "...Haemus has lost the strength to fight on! It's all over folks! The champions are —"
+    },
+    {
+     "s": 16,
+     "t": "{NICKNAME} and his(her) partner Aguara!"
+    },
+    {
+     "s": 16,
+     "t": "Aguara! Aguara!"
+    },
+    {
+     "s": 18,
+     "t": "So, I lost..."
+    },
+    {
+     "s": 18,
+     "t": "You did superbly, Haemus. Get some good rest."
+    },
+    {
+     "s": 27,
+     "t": "Raargh..."
+    },
+    {
+     "s": 18,
+     "t": "Seems I underestimated your little partner. I'm impressed."
+    },
+    {
+     "s": 3,
+     "t": "Hehe, what did I say? Told you my partner would help me settle the score."
+    },
+    {
+     "sit": "You played a big part in this win!"
+    },
+    {
+     "sit": "It was all thanks to Lumi's secret weapon."
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    },
+    {
+     "s": 14,
+     "t": "Ladies and gentlemen, we will now take a short break to give our finalists a moment to recover. But don't go too far, because we'll be back very soon for the awards ceremony!"
+    },
+    {
+     "s": 14,
+     "t": "Thank you to all our contestants for your amazing performances! Now, we'll be interviewing our four top finishers!"
+    },
+    {
+     "s": 14,
+     "t": "First up, it's our champions, {NICKNAME} and Aguara!"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 14,
+     "t": "We can all see that Aguara is still a young slip of a tepetlisaur, and yet the fiercest of enemies couldn't stand in his way. So tell us, what's the secret to Aguara's success?"
+    },
+    {
+     "sit": "The secret is Aguara's special connections with his friends."
+    },
+    {
+     "sit": "The secret is hard work and practice."
+    },
+    {
+     "s": 14,
+     "t": "I see. It sounds like behind every champion is a dedicated group of supportive friends."
+    },
+    {
+     "s": 14,
+     "t": "I'm sure we're all looking forward to even more spectacular performances from Aguara in the future. Do you think you're up for the challenge, little one?"
+    },
+    {
+     "s": 7,
+     "t": "Rawr!"
+    },
+    {
+     "s": 14,
+     "t": "Next, we have our runner-up, Celaeno. Let me start by asking, what's next for you and Haemus? Will the two of you keep adventuring together in the future?"
+    },
+    {
+     "s": 18,
+     "t": "...No. Haemus doesn't belong with me. I'm hoping that soon, I can set him free to roam the wild."
+    },
+    {
+     "s": 18,
+     "t": "And of course... Since he's so friendly towards humans, I do hope any adventurers who run into Haemus in the future won't mistreat him."
+    },
+    {
+     "s": 14,
+     "t": "Sounds like Haemus is a real freedom-lover. If we have any adventurers in the crowd, please keep your eyes peeled and make sure not to hurt our friendly Radiant Bladehorn."
+    },
+    {
+     "s": 14,
+     "t": "Moving on now, we have some more familiar faces from the semifinals."
+    },
+    {
+     "s": 14,
+     "t": "This first question is for Linnea. During your match against Celaeno, you jumped in to stop your own partner Lumi's rampage, costing you a certain victory. Do you have any regrets?"
+    },
+    {
+     "s": 3,
+     "t": "I'd be lying if I said I didn't regret it even a little bit..."
+    },
+    {
+     "s": 3,
+     "t": "But who wouldn't? All we can do is live our best life and hope to look back with as few regrets as possible."
+    },
+    {
+     "s": 3,
+     "t": "And overall, I had a really great time in this competition! I've found my long-lost family, and we really care about one another."
+    },
+    {
+     "s": 14,
+     "t": "Inspiring words from Linnea. Now it's time for our final interviewee — please welcome Viliana, from Snezhnograd. Anything you'd like to share with the crowd?"
+    },
+    {
+     "s": 32,
+     "t": "Well, I've been really loving Nod-Krai. There's so much to see and do! I'm planning to stick around for a while, so if you see me around, come and say hey!"
+    },
+    {
+     "s": 14,
+     "t": "Great, enjoy your stay, Viliana! Well folks, we've heard from all four of our semifinalists. Now, to round things off, it's time for a group photo!"
+    },
+    {
+     "s": 14,
+     "t": "Thank you to everyone who took part in the \"Spirit Envoy Championship.\" We hope to see you next time!"
+    },
+    {
+     "s": 2,
+     "t": "The secret is hard work and practice."
+    },
+    {
+     "s": 14,
+     "t": "I see. Well, it seems like an indomitable will helped Aguara achieve the impossible."
+    },
+    {
+     "s": 2,
+     "t": "It was all thanks to Lumi's secret weapon."
+    },
+    {
+     "section": "Celaeno"
+    },
+    {
+     "s": 18,
+     "t": "Linnea, I gotta get going. I'll make sure to tell Mom and Dad how you're doing — I know they'll be so happy for you."
+    },
+    {
+     "s": 18,
+     "t": "Without me around, your prophetic abilities will be slow to develop. But you should know that since you've been to the tundra, and you've encountered others of your kind, it's only a matter of time before your abilities fully awaken."
+    },
+    {
+     "s": 3,
+     "t": "I'm sure you already know how I'm going to respond, Sis. I'm not afraid to know the future — all that scares me is the prospect of a life without you, Mom, and Dad."
+    },
+    {
+     "s": 18,
+     "t": "I know. Well, write me whenever you want to see me — I'll be there in a heartbeat."
+    },
+    {
+     "s": 18,
+     "t": "And when you're ready, come visit us in the tundra. I'll give you the address."
+    },
+    {
+     "s": 3,
+     "t": "Thanks, Celaeno. I can't wait to see you again!"
+    },
+    {
+     "s": 5,
+     "t": "Ya-ho!"
+    }
+   ],
+   "description": "After waking from her dream, Linnea decides to seek Celaeno out once more and uncover the whole truth."
+  }
+ ],
+ "speakers": [
+  "Katheryne",
+  "Paimon",
+  "Traveler",
+  "Linnea",
+  "Zelibrat",
+  "Lumi",
+  "Orvokki",
+  "Aguara",
+  "Mualani",
+  "Mamala",
+  "Arataki Itto",
+  "Voitto",
+  "Jahoda",
+  "Lauma",
+  "Czeslawa",
+  "Alzbeta",
+  "Slawomir",
+  "Ilze",
+  "Celaeno",
+  "Ushi",
+  "Maisie",
+  "Mikko",
+  "Jurva",
+  "Borzyslaw",
+  "Panu",
+  "Paavo",
+  "Haniyyah",
+  "Haemus",
+  "Reed Miller XIII",
+  "Kowalska",
+  "Vedrfolnir",
+  "{REALNAME[ID(2)|SHOWHOST(true)]}",
+  "Viliana"
+ ]
+}

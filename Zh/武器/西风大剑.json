@@ -1,0 +1,704 @@
+{
+  "name": "西风大剑",
+  "rarity": 4,
+  "type": "双手剑",
+  "base_atk": 41,
+  "passive": {
+    "name": "顺风而行",
+    "refinements": {
+      "R1": "攻击造成暴击时，有60%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每12秒只能触发一次。",
+      "R2": "攻击造成暴击时，有70%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每10.5秒只能触发一次。",
+      "R3": "攻击造成暴击时，有80%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每9秒只能触发一次。",
+      "R4": "攻击造成暴击时，有90%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每7.5秒只能触发一次。",
+      "R5": "攻击造成暴击时，有100%的几率产生少量元素微粒，能为角色恢复6点元素能量。该效果每6秒只能触发一次。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 41,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 2,
+      "base_atk": 44,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 3,
+      "base_atk": 47,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 4,
+      "base_atk": 51,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 5,
+      "base_atk": 54,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.5
+    },
+    {
+      "level": 6,
+      "base_atk": 57,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.5
+    },
+    {
+      "level": 7,
+      "base_atk": 60,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.5
+    },
+    {
+      "level": 8,
+      "base_atk": 63,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.5
+    },
+    {
+      "level": 9,
+      "base_atk": 66,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.5
+    },
+    {
+      "level": 10,
+      "base_atk": 69,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 11,
+      "base_atk": 72,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 12,
+      "base_atk": 75,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 13,
+      "base_atk": 78,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 14,
+      "base_atk": 81,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 15,
+      "base_atk": 84,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 16,
+      "base_atk": 87,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 17,
+      "base_atk": 90,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 18,
+      "base_atk": 93,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 19,
+      "base_atk": 96,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 20,
+      "base_atk": 99,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 21,
+      "base_atk": 128,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 22,
+      "base_atk": 131,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 23,
+      "base_atk": 134,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 24,
+      "base_atk": 137,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 25,
+      "base_atk": 140,
+      "substat": "Energy Recharge%",
+      "substat_value": 26.3
+    },
+    {
+      "level": 26,
+      "base_atk": 143,
+      "substat": "Energy Recharge%",
+      "substat_value": 26.3
+    },
+    {
+      "level": 27,
+      "base_atk": 146,
+      "substat": "Energy Recharge%",
+      "substat_value": 26.3
+    },
+    {
+      "level": 28,
+      "base_atk": 149,
+      "substat": "Energy Recharge%",
+      "substat_value": 26.3
+    },
+    {
+      "level": 29,
+      "base_atk": 152,
+      "substat": "Energy Recharge%",
+      "substat_value": 26.3
+    },
+    {
+      "level": 30,
+      "base_atk": 155,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.9
+    },
+    {
+      "level": 31,
+      "base_atk": 158,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.9
+    },
+    {
+      "level": 32,
+      "base_atk": 161,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.9
+    },
+    {
+      "level": 33,
+      "base_atk": 163,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.9
+    },
+    {
+      "level": 34,
+      "base_atk": 166,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.9
+    },
+    {
+      "level": 35,
+      "base_atk": 169,
+      "substat": "Energy Recharge%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 36,
+      "base_atk": 172,
+      "substat": "Energy Recharge%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 37,
+      "base_atk": 175,
+      "substat": "Energy Recharge%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 38,
+      "base_atk": 178,
+      "substat": "Energy Recharge%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 39,
+      "base_atk": 181,
+      "substat": "Energy Recharge%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 40,
+      "base_atk": 184,
+      "substat": "Energy Recharge%",
+      "substat_value": 34.3
+    },
+    {
+      "level": 41,
+      "base_atk": 213,
+      "substat": "Energy Recharge%",
+      "substat_value": 34.3
+    },
+    {
+      "level": 42,
+      "base_atk": 215,
+      "substat": "Energy Recharge%",
+      "substat_value": 34.3
+    },
+    {
+      "level": 43,
+      "base_atk": 218,
+      "substat": "Energy Recharge%",
+      "substat_value": 34.3
+    },
+    {
+      "level": 44,
+      "base_atk": 221,
+      "substat": "Energy Recharge%",
+      "substat_value": 34.3
+    },
+    {
+      "level": 45,
+      "base_atk": 224,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.0
+    },
+    {
+      "level": 46,
+      "base_atk": 227,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.0
+    },
+    {
+      "level": 47,
+      "base_atk": 230,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.0
+    },
+    {
+      "level": 48,
+      "base_atk": 233,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.0
+    },
+    {
+      "level": 49,
+      "base_atk": 236,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.0
+    },
+    {
+      "level": 50,
+      "base_atk": 238,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.7
+    },
+    {
+      "level": 51,
+      "base_atk": 267,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.7
+    },
+    {
+      "level": 52,
+      "base_atk": 270,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.7
+    },
+    {
+      "level": 53,
+      "base_atk": 273,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.7
+    },
+    {
+      "level": 54,
+      "base_atk": 276,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.7
+    },
+    {
+      "level": 55,
+      "base_atk": 278,
+      "substat": "Energy Recharge%",
+      "substat_value": 42.4
+    },
+    {
+      "level": 56,
+      "base_atk": 281,
+      "substat": "Energy Recharge%",
+      "substat_value": 42.4
+    },
+    {
+      "level": 57,
+      "base_atk": 284,
+      "substat": "Energy Recharge%",
+      "substat_value": 42.4
+    },
+    {
+      "level": 58,
+      "base_atk": 287,
+      "substat": "Energy Recharge%",
+      "substat_value": 42.4
+    },
+    {
+      "level": 59,
+      "base_atk": 290,
+      "substat": "Energy Recharge%",
+      "substat_value": 42.4
+    },
+    {
+      "level": 60,
+      "base_atk": 293,
+      "substat": "Energy Recharge%",
+      "substat_value": 45.1
+    },
+    {
+      "level": 61,
+      "base_atk": 321,
+      "substat": "Energy Recharge%",
+      "substat_value": 45.1
+    },
+    {
+      "level": 62,
+      "base_atk": 324,
+      "substat": "Energy Recharge%",
+      "substat_value": 45.1
+    },
+    {
+      "level": 63,
+      "base_atk": 327,
+      "substat": "Energy Recharge%",
+      "substat_value": 45.1
+    },
+    {
+      "level": 64,
+      "base_atk": 330,
+      "substat": "Energy Recharge%",
+      "substat_value": 45.1
+    },
+    {
+      "level": 65,
+      "base_atk": 333,
+      "substat": "Energy Recharge%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 66,
+      "base_atk": 335,
+      "substat": "Energy Recharge%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 67,
+      "base_atk": 338,
+      "substat": "Energy Recharge%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 68,
+      "base_atk": 341,
+      "substat": "Energy Recharge%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 69,
+      "base_atk": 344,
+      "substat": "Energy Recharge%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 70,
+      "base_atk": 347,
+      "substat": "Energy Recharge%",
+      "substat_value": 50.5
+    },
+    {
+      "level": 71,
+      "base_atk": 375,
+      "substat": "Energy Recharge%",
+      "substat_value": 50.5
+    },
+    {
+      "level": 72,
+      "base_atk": 378,
+      "substat": "Energy Recharge%",
+      "substat_value": 50.5
+    },
+    {
+      "level": 73,
+      "base_atk": 381,
+      "substat": "Energy Recharge%",
+      "substat_value": 50.5
+    },
+    {
+      "level": 74,
+      "base_atk": 384,
+      "substat": "Energy Recharge%",
+      "substat_value": 50.5
+    },
+    {
+      "level": 75,
+      "base_atk": 387,
+      "substat": "Energy Recharge%",
+      "substat_value": 53.2
+    },
+    {
+      "level": 76,
+      "base_atk": 389,
+      "substat": "Energy Recharge%",
+      "substat_value": 53.2
+    },
+    {
+      "level": 77,
+      "base_atk": 392,
+      "substat": "Energy Recharge%",
+      "substat_value": 53.2
+    },
+    {
+      "level": 78,
+      "base_atk": 395,
+      "substat": "Energy Recharge%",
+      "substat_value": 53.2
+    },
+    {
+      "level": 79,
+      "base_atk": 398,
+      "substat": "Energy Recharge%",
+      "substat_value": 53.2
+    },
+    {
+      "level": 80,
+      "base_atk": 401,
+      "substat": "Energy Recharge%",
+      "substat_value": 55.9
+    },
+    {
+      "level": 81,
+      "base_atk": 429,
+      "substat": "Energy Recharge%",
+      "substat_value": 55.9
+    },
+    {
+      "level": 82,
+      "base_atk": 432,
+      "substat": "Energy Recharge%",
+      "substat_value": 55.9
+    },
+    {
+      "level": 83,
+      "base_atk": 435,
+      "substat": "Energy Recharge%",
+      "substat_value": 55.9
+    },
+    {
+      "level": 84,
+      "base_atk": 438,
+      "substat": "Energy Recharge%",
+      "substat_value": 55.9
+    },
+    {
+      "level": 85,
+      "base_atk": 440,
+      "substat": "Energy Recharge%",
+      "substat_value": 58.6
+    },
+    {
+      "level": 86,
+      "base_atk": 443,
+      "substat": "Energy Recharge%",
+      "substat_value": 58.6
+    },
+    {
+      "level": 87,
+      "base_atk": 446,
+      "substat": "Energy Recharge%",
+      "substat_value": 58.6
+    },
+    {
+      "level": 88,
+      "base_atk": 449,
+      "substat": "Energy Recharge%",
+      "substat_value": 58.6
+    },
+    {
+      "level": 89,
+      "base_atk": 452,
+      "substat": "Energy Recharge%",
+      "substat_value": 58.6
+    },
+    {
+      "level": 90,
+      "base_atk": 454,
+      "substat": "Energy Recharge%",
+      "substat_value": 61.3
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "狮牙斗士的枷锁",
+          "id": 114009,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "混沌装置",
+          "id": 112023,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "新兵的徽记",
+          "id": 112032,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "狮牙斗士的铁链",
+          "id": 114010,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "混沌装置",
+          "id": 112023,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "新兵的徽记",
+          "id": 112032,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "狮牙斗士的铁链",
+          "id": 114010,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "混沌回路",
+          "id": 112024,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "士官的徽记",
+          "id": 112033,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "狮牙斗士的镣铐",
+          "id": 114011,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "混沌回路",
+          "id": 112024,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "士官的徽记",
+          "id": 112033,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "狮牙斗士的镣铐",
+          "id": 114011,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "混沌炉心",
+          "id": 112025,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "尉官的徽记",
+          "id": 112034,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "狮牙斗士的理想",
+          "id": 114012,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "混沌炉心",
+          "id": 112025,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "尉官的徽记",
+          "id": 112034,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

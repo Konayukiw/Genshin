@@ -1,0 +1,1471 @@
+{
+ "chapter": "Phantasmal Pals: Part I",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Forest Boar and the Little Witch",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Forest Boar and the Little Witch",
+   "dialogue": [
+    {
+     "section": "Homura"
+    },
+    {
+     "s": 0,
+     "t": "I heard there's a crazed Forest Boar wreaking havoc around the outskirts of Chinju Forest. Didn't you go for a walk there a few days ago? Did you see it?"
+    },
+    {
+     "s": 1,
+     "t": "Uh... Nope."
+    },
+    {
+     "s": 0,
+     "t": "Really? Then what about that weird kid? Word is, she's been asking around that same area about some... witch."
+    },
+    {
+     "s": 0,
+     "t": "The rumors about that place are just bizarre... We should head over and check it out for ourselves!"
+    },
+    {
+     "s": 1,
+     "t": "Count me out. I just finished working overtime. All I wanna do right now is head straight home and catch up on sleep."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, you look dead on your feet... I'd better stick with you till you get back. Don't want you passing out on the way."
+    },
+    {
+     "s": 2,
+     "t": "Did you hear that?"
+    },
+    {
+     "sit": "Yeah, what's up with that Forest Boar?"
+    },
+    {
+     "s": 2,
+     "t": "No, the part about the witch! What if it's one of the mages? C'mon, we gotta go check it out!"
+    },
+    {
+     "sit": "What happened to needing a break?"
+    },
+    {
+     "s": 2,
+     "t": "Meh, break shmake. Besides, Paimon doesn't believe for a second you're not curious about this."
+    },
+    {
+     "s": 2,
+     "t": "If there's a mage around here, something big must be going on! Maybe there's nothing to it, but if the rumor's true, we might be able to help out!"
+    },
+    {
+     "sit": "Got me there. Let's go."
+    },
+    {
+     "section": "Klee"
+    },
+    {
+     "s": 2,
+     "t": "Find any good toys to bring, Klee?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah! Mom made me this magic toy so that Dodoco and me can play with bombs together. I'm gonna bring it to the tea party so all the little witches can join in too!"
+    },
+    {
+     "s": 2,
+     "t": "You want everyone to... play with bombs together!? That's way too dangerous for a tea party!"
+    },
+    {
+     "s": 3,
+     "t": "It's not dangerous! The toy makes it so that Jumpy Dumpty doesn't explode, so I can use it all I want without getting sent to confinement. That's what Mom said!"
+    },
+    {
+     "s": 3,
+     "t": "You guys should come play too! Dodoco came to Inazuma with me and really wants to meet you!"
+    },
+    {
+     "s": 2,
+     "t": "Huh... But, you usually carry Dodoco with you, don't you? We met ages ago, remember?"
+    },
+    {
+     "s": 3,
+     "t": "No, not that Dodoco! The Dodo Clan has lots of Dodocos. Some are like me, and like going on exciting adventures in new places."
+    },
+    {
+     "s": 3,
+     "t": "But a lot of Dodocos live in a different place most of the time, so you haven't met them yet."
+    },
+    {
+     "s": 2,
+     "t": "A different place?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah! Back in Mondstadt, Prune showed me a picture book about it. She said that place is a... made-up world for kids, and Dodoco is my imaginary friend."
+    },
+    {
+     "s": 3,
+     "t": "But no matter where Dodocos come from, Mom always finds a way to bring them here to play. Like this time, she put Dodoco in a magic toy!"
+    },
+    {
+     "s": 2,
+     "t": "Yeah, we've seen all kinds of Dodocos at this point, but it still feels amazing every time..."
+    },
+    {
+     "sit": "Nothing like a bit of magic, huh..."
+    },
+    {
+     "s": 3,
+     "t": "So, you gonna play bombs with us? Please, please!"
+    },
+    {
+     "section": "Klee"
+    },
+    {
+     "s": 3,
+     "t": "Ready to play bombs with Dodoco?"
+    },
+    {
+     "sit": "Sure, let's go!"
+    },
+    {
+     "sit": "I'm gonna explore a little longer. Let's play later."
+    },
+    {
+     "section": "Yaoyao, Qiqi"
+    },
+    {
+     "s": 4,
+     "t": "Qiqi, you can't just drink sugary stuff. I told you how many glasses of water to have a day. Still remember?"
+    },
+    {
+     "s": 5,
+     "t": "One two three four. Two two three four... Um, no..."
+    },
+    {
+     "s": 4,
+     "t": "It's okay! That's what I'm for. Your personal... hydration assistant, hehe! No better time than the present. Here, have some now!"
+    },
+    {
+     "s": 2,
+     "t": "Aww... You really look out for Qiqi, huh, Yaoyao."
+    },
+    {
+     "s": 4,
+     "t": "{NICKNAME}, Paimon! Perfect timing! What kind of snacks do you like? Salty? Sweet? Let's see what we have..."
+    },
+    {
+     "s": 2,
+     "t": "Paimon's bag is full of snacks too. Pick out whatever you like!"
+    },
+    {
+     "s": 5,
+     "t": "Snacks and toys are meant for sharing. Here."
+    },
+    {
+     "s": 4,
+     "t": "Oh! This is the toy Auntie Cloud Retainer made for us. She built a lot of fun adeptal arts into it."
+    },
+    {
+     "s": 4,
+     "t": "After she heard from Master that we were coming to Inazuma, she lectured us all about being safe on our own."
+    },
+    {
+     "s": 4,
+     "t": "But, she didn't think telling us would be enough, so she made us this mechanism to play with. She said the most effective lessons are the ones combined with fun!"
+    },
+    {
+     "s": 5,
+     "t": "Be home before dark. Tuantuan and Yuegui go together. Qiqi and Yaoyao have to hold hands."
+    },
+    {
+     "s": 4,
+     "t": "Yep, that's what she said, huh! Nice remembering, Qiqi!"
+    },
+    {
+     "s": 4,
+     "t": "Auntie Cloud Retainer's adeptal arts are amazing! She made a whole domain where our imaginary friends can play. I even got to meet Qiqi's imaginary friend for the first time, too!"
+    },
+    {
+     "s": 4,
+     "t": "She's a cute little finch, just as adorable as Qiqi herself! Her name is Tuantuan."
+    },
+    {
+     "s": 2,
+     "t": "Qiqi's obsession with finches is suddenly starting to make a lot more sense..."
+    },
+    {
+     "s": 5,
+     "t": "Yuegui... is like the mechanical Yuegui, but different..."
+    },
+    {
+     "s": 4,
+     "t": "Oh, right. Just in case you're confused, Yuegui is also my imaginary friend. It all started after Auntie Cloud Retainer gave me the mechanical Yuegui. We've grown up a lot together since then."
+    },
+    {
+     "s": 5,
+     "t": "Tuantuan's grown too. She got chubbier, but she can also fly higher."
+    },
+    {
+     "s": 2,
+     "t": "Aw, that's awesome! Real or imaginary, it's nice to grow up with friends by your side."
+    },
+    {
+     "s": 4,
+     "t": "Oh, shoot! I almost forgot I'm supposed to be in charge of drinks! I'll be done soon! You guys should try out this mechanism in the meantime."
+    },
+    {
+     "section": "Yaoyao, Qiqi"
+    },
+    {
+     "s": 4,
+     "t": "If you're looking for something to pass the time, you two should try out this mechanism."
+    },
+    {
+     "sit": "Sure, let's do it!"
+    },
+    {
+     "sit": "I think I'll look around a bit more first."
+    },
+    {
+     "section": "Sayu"
+    },
+    {
+     "s": 6,
+     "t": "Zzz..."
+    },
+    {
+     "s": 2,
+     "t": "Sayuuu! You're sleeping again? Are you really that tired?"
+    },
+    {
+     "s": 6,
+     "t": "Yeah... I moved those chairs, and I had to give Gena all those directions... It was hard work, so I rewarded myself with a nap."
+    },
+    {
+     "s": 2,
+     "t": "\"Jina\"? Ohhh, like short for Mujina? Cute!"
+    },
+    {
+     "s": 6,
+     "t": "I knew it! I knew people were gonna think that. No, it's a name! A regular name! It's not short for anything!"
+    },
+    {
+     "s": 2,
+     "t": "Okay. Not short for anything. Got it."
+    },
+    {
+     "s": 6,
+     "t": "Oh, Gena's my imaginary friend by the way. She's invisible to people most of the time, so I never introduced you."
+    },
+    {
+     "s": 2,
+     "t": "Huh, Paimon never really thought about it before, but... of course you all have imaginary friends! That's what kids do, right?"
+    },
+    {
+     "s": 6,
+     "t": "Shh! Don't call me a \"kid,\" or you're gonna jinx my chances of getting taller! Soon, I'm gonna be a full-fledged ninja who can hold her own. I just know it."
+    },
+    {
+     "s": 6,
+     "t": "But before then, I guess it doesn't hurt to tackle things with a friend..."
+    },
+    {
+     "s": 6,
+     "t": "Besides, even if Gena helps me, it's not like most people would see. So, it would still look like I could hold my own."
+    },
+    {
+     "s": 2,
+     "t": "You know \"holding your own\" and \"being alone\" are two different things, right?"
+    },
+    {
+     "sit": "Haha, guess it's open to interpretation."
+    },
+    {
+     "sit": "I'm curious to see what Gena looks like."
+    },
+    {
+     "s": 6,
+     "t": "Really? Great! I have this ninjutsu device here that you can use to train with her!"
+    },
+    {
+     "s": 6,
+     "t": "I've been so busy with the other little witches, training has kind of taken a backseat..."
+    },
+    {
+     "s": 2,
+     "t": "Wait, you're not telling us this so you can slack off while we do it for you, right?"
+    },
+    {
+     "s": 6,
+     "t": "What? Um, no! It's not like that!"
+    },
+    {
+     "s": 6,
+     "t": "This device is for escape training. Sensei left it for me, but as you know, I'm already really good at running away."
+    },
+    {
+     "s": 6,
+     "t": "I don't need help with my own training assignments. I finished those ages ago."
+    },
+    {
+     "s": 6,
+     "t": "It's Gena... She's even lazier than me. If we're gonna make a break for it together, she has to be able to keep up. So she needs to finish her training."
+    },
+    {
+     "s": 6,
+     "t": "That's what I'm hoping to get some, um... help with."
+    },
+    {
+     "s": 2,
+     "t": "So... How is asking us to \"help\" not slacking off?"
+    },
+    {
+     "section": "Sayu"
+    },
+    {
+     "s": 6,
+     "t": "Please take over Gena's escape training. Help me slack off, just this once...?"
+    },
+    {
+     "sit": "Alright, we'll do it."
+    },
+    {
+     "sit": "Think I'll... slack off for once too. I'll help out later."
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "s": 7,
+     "t": "Leveraging Elemental combinations to boost damage output... Hm, it's clear that with the right strategy, no opponent is invincible — even a witch."
+    },
+    {
+     "s": 7,
+     "t": "The Cryo Whopperflower just now was nothing more than a plant mimic. It didn't seem like the kind of monster a witch would summon."
+    },
+    {
+     "s": 7,
+     "t": "Faced with its burrowing and Cryo spike attacks, evasive maneuvers are of particular importance. {NICKNAME}'s footwork alone is a revelation that deserves to be studied, not to mention his(her) combat moves... I'd better make some notes..."
+    },
+    {
+     "s": 7,
+     "t": "\"Hunting Training (Revised): Draft 16\"... Done!"
+    },
+    {
+     "s": 2,
+     "t": "Watcha writin' there, Prune?"
+    },
+    {
+     "s": 7,
+     "t": "Whoa, you scared me! You have to at least make a sound if you're gonna walk over here like that!"
+    },
+    {
+     "s": 2,
+     "t": "Um, Paimon doesn't walk. She flies."
+    },
+    {
+     "s": 7,
+     "t": "Well, whatever. Did you, um... hear all that just now?"
+    },
+    {
+     "sit": "Yeah, something about hunting training?"
+    },
+    {
+     "s": 7,
+     "t": "In that case, I need to tell you something. I know it's going to sound unbelievable, but just hear me out."
+    },
+    {
+     "s": 7,
+     "t": "See this book here? Alice gave it to me, but there were a few loose pages tucked inside... magical pages that transform whatever's written on them into a real place."
+    },
+    {
+     "s": 7,
+     "t": "I know it's hard to imagine, but think of it like... being able to go inside a fairytale."
+    },
+    {
+     "s": 2,
+     "t": "Oh, so like Simulanka? We went there ages ago."
+    },
+    {
+     "s": 7,
+     "t": "(Simu... what now? I've never heard of that place! Wait, does that mean there's actually a fairytale book that people can go inside...?)"
+    },
+    {
+     "s": 2,
+     "t": "So, what kind of fairytale did you write, Prune? Can we go inside and take a look?"
+    },
+    {
+     "s": 7,
+     "t": "Pfft, I'd never waste them on something so childish and unrealistic. There are only a few sheets of this paper. The obvious choice is to use them for my own benefit."
+    },
+    {
+     "s": 7,
+     "t": "So, after teaching myself all the material in this textbook, I wrote up a full combat training plan. With a little time, I'll be able to take down Alice with my own two hands!"
+    },
+    {
+     "s": 2,
+     "t": "Huh? Didn't you say you were friends? What's this about \"taking her down\"?"
+    },
+    {
+     "s": 7,
+     "t": "(Shoot! I got too excited and let it slip...)"
+    },
+    {
+     "s": 2,
+     "t": "Oh, wait a second..."
+    },
+    {
+     "s": 7,
+     "t": "(Oh no... Is the cat out of the bag?)"
+    },
+    {
+     "s": 2,
+     "t": "That just means you're super good friends, huh!"
+    },
+    {
+     "s": 7,
+     "t": "Huh?"
+    },
+    {
+     "s": 2,
+     "t": "We have a friend like that, too! Always challenging {NICKNAME} to a sparring match whenever there's a chance."
+    },
+    {
+     "s": 2,
+     "t": "{NICKNAME}'s got a pretty impressive reputation, after all! Y'know, Prune, if you're looking to improve your combat skills, you could always just ask him(her)."
+    },
+    {
+     "sit": "Volunteering me for things again, Paimon?"
+    },
+    {
+     "s": 7,
+     "t": "Of course! What am I doing copying down techniques in secret, when I could go straight to the source!"
+    },
+    {
+     "s": 7,
+     "t": "Would you join my practice session, {NICKNAME}? Seeing you in action would be an invaluable resource!"
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "s": 7,
+     "t": "Would you join my practice session, {NICKNAME}? Seeing you in action would be an invaluable resource!"
+    },
+    {
+     "sit": "Alright, I'll show you what I've got!"
+    },
+    {
+     "sit": "Not a problem. Let me just take care of something first."
+    },
+    {
+     "section": "Sayu"
+    },
+    {
+     "sit": "Alright, we'll do it."
+    },
+    {
+     "section": "Sayu"
+    },
+    {
+     "sit": "Think I'll... slack off for once too. I'll help out later."
+    },
+    {
+     "section": "Klee"
+    },
+    {
+     "sit": "Yeah, let's do it."
+    },
+    {
+     "section": "Klee"
+    },
+    {
+     "sit": "I'm gonna explore a little longer. Let's play later."
+    },
+    {
+     "section": "Yaoyao, Qiqi"
+    },
+    {
+     "sit": "Sure, let's do it!"
+    },
+    {
+     "section": "Yaoyao, Qiqi"
+    },
+    {
+     "sit": "I think I'll look around a bit more first."
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "sit": "Alright, I'll show you what I've got!"
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "sit": "Not a problem. Let me just take care of something first."
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "s": 2,
+     "t": "This should be the place. Let's see... Any Forest Boars or mages around?"
+    },
+    {
+     "s": 2,
+     "t": "Huh, guess not... Looks like it was a false alarm! Makes sense. Paimon doesn't recall ever seeing a Forest Boar here before..."
+    },
+    {
+     "s": 2,
+     "t": "And all that stuff about a \"witch\"? Why would they come all the way here, out into the middle of nowhere? They have way more important stuff to be doing."
+    },
+    {
+     "s": 7,
+     "t": "That's just a stereotype."
+    },
+    {
+     "s": 7,
+     "t": "A witch will do anything for her own amusement, even if it causes innocent people to suffer. That's why it's a Hunter's duty to—"
+    },
+    {
+     "s": 7,
+     "t": "Wait, you two... You're Alice's trusted confidants!"
+    },
+    {
+     "s": 7,
+     "t": "The renowned duo of {NICKNAME} and Paimon."
+    },
+    {
+     "s": 2,
+     "t": "Huh!?"
+    },
+    {
+     "sit": "A... Hunter?"
+    },
+    {
+     "s": 7,
+     "t": "H—Hold on, let me start over."
+    },
+    {
+     "s": 7,
+     "t": "My name's Prune, and I'm Alice's... friend! Yeah, friend. In fact, she invited me here to take care of a... um... \"witch-related incident.\""
+    },
+    {
+     "s": 7,
+     "t": "But we lost contact due to certain... uncontrollable circumstances, so..."
+    },
+    {
+     "s": 2,
+     "t": "Guessing this is the weird kid who was asking around about witches?"
+    },
+    {
+     "sit": "Looks like it."
+    },
+    {
+     "s": 7,
+     "t": "I heard that! And don't give me that look! I'm not some weird kid wandering around for no reason!"
+    },
+    {
+     "s": 7,
+     "t": "I'm here for a... professional investigation. The point is, I know Alice!"
+    },
+    {
+     "s": 2,
+     "t": "Uh huh. You don't sound super sure about that..."
+    },
+    {
+     "s": 7,
+     "t": "Don't believe me? Look, Alice gave me these. Witch's tools!"
+    },
+    {
+     "s": 7,
+     "t": "Surely you recognize the magical signature on them."
+    },
+    {
+     "s": 2,
+     "t": "A bell, a hammer, and... a tattered old book? Guess they could be special, but they're not exactly screaming \"witch.\""
+    },
+    {
+     "s": 7,
+     "t": "Huh, that's odd. Not recognizing the first two, I can understand. But, this Spantamad textbook really means nothing to you?"
+    },
+    {
+     "s": 7,
+     "t": "{NICKNAME}'s companion is supposed to be a well-read, high-level student at the Akademiya. According to the rumors at least..."
+    },
+    {
+     "s": 7,
+     "t": "Eighty years ago, this was the defining Spantamad text! It's a true classic."
+    },
+    {
+     "s": 2,
+     "t": "Wait, you mean companion as in... Paimon? Man, Paimon's academic cred is off the charts!"
+    },
+    {
+     "s": 2,
+     "t": "Ahem, which is to say... Yes, of course. That text is super, um... important and all that."
+    },
+    {
+     "s": 2,
+     "t": "Whoa! Why is the bell ringing all of a sudden!?"
+    },
+    {
+     "s": 7,
+     "t": "In theory, it detects \"localized abnormal magical fluctuations\"."
+    },
+    {
+     "s": 2,
+     "t": "Huh?"
+    },
+    {
+     "s": 7,
+     "t": "Unusual power surges. There must be one nearby!"
+    },
+    {
+     "s": 7,
+     "t": "Hah! I just know I'm right this time. It's gotta be a witch!"
+    },
+    {
+     "s": 2,
+     "t": "Wait, so you're saying it means a witch is nearby?"
+    },
+    {
+     "s": 7,
+     "t": "Just follow me. You'll see I'm right."
+    },
+    {
+     "section": "Prune"
+    },
+    {
+     "s": 2,
+     "t": "Nice one, {NICKNAME}!"
+    },
+    {
+     "s": 7,
+     "t": "You're just as good in battle as all the rumors say. Thanks for stepping in, and I apologize. I shouldn't have rushed in like that."
+    },
+    {
+     "s": 7,
+     "t": "But, I wasn't lying! Alice said that when the bell rings, a witch might appear... I just didn't realize the probability was so low."
+    },
+    {
+     "s": 2,
+     "t": "It's okay. We believe you."
+    },
+    {
+     "s": 2,
+     "t": "Besides, if it's one of Alice's gadgets, it must be able to do all sorts of weird things. We know all about that, don't we!"
+    },
+    {
+     "sit": "I'm sure Alice was telling the truth..."
+    },
+    {
+     "sit": "...But probably not the whole truth."
+    },
+    {
+     "s": 7,
+     "t": "...I knew it."
+    },
+    {
+     "s": 2,
+     "t": "Oh, hey! There's a card here."
+    },
+    {
+     "s": 2,
+     "t": "\"Calling all children with imaginary friends. Do you wanna accomplish something great together? If so, go off and find the Dough King.\""
+    },
+    {
+     "s": 2,
+     "t": "There's also a Forest Boar drawn on it... Could it be the one that's been running wild around here?"
+    },
+    {
+     "s": 7,
+     "t": "Hmph, another one of her schemes."
+    },
+    {
+     "s": 2,
+     "t": "Uh... Whaddaya mean?"
+    },
+    {
+     "s": 7,
+     "t": "...A plot to lure in children using the things they love the most."
+    },
+    {
+     "s": 7,
+     "t": "And using their own imaginary friends against them? It's despicable, reprehensible, and absolutely unforgivable!"
+    },
+    {
+     "s": 2,
+     "t": "You think it's that serious? Then, we've gotta do something!"
+    },
+    {
+     "sit": "Let's do some digging first. Could be a misunderstanding."
+    },
+    {
+     "sit": "But if not, we'll make them pay!"
+    },
+    {
+     "s": 2,
+     "t": "There it is again! Please don't let it be more monsters..."
+    },
+    {
+     "s": 7,
+     "t": "Considering what happened before, you're right to be cautious. I'm gonna go ahead, but I won't force you to come along."
+    },
+    {
+     "s": 2,
+     "t": "What should we do? We can't just leave her on her own."
+    },
+    {
+     "sit": "Let's follow."
+    },
+    {
+     "section": "Klee"
+    },
+    {
+     "s": 7,
+     "t": "There's no mistake this time! This has gotta be the witch's stronghold!"
+    },
+    {
+     "s": 3,
+     "t": "Da-duh-duh-da! Gonna blow them aaaalll up!"
+    },
+    {
+     "s": 8,
+     "t": "Blow it up! Haha! Blow it up!"
+    },
+    {
+     "sit": "Klee, watch out!"
+    },
+    {
+     "s": 2,
+     "t": "Guess the rumor about the Forest Boar is true... But, it talks? What is it planning to blow up? Isn't this kinda concerning?"
+    },
+    {
+     "s": 7,
+     "t": "Pretty sure what Klee said is just as concerning..."
+    },
+    {
+     "s": 3,
+     "t": "Huh? Honorary Knight! Paimon! And Prune!"
+    },
+    {
+     "s": 2,
+     "t": "Wait, you two know each other?"
+    },
+    {
+     "s": 3,
+     "t": "Yep! Prune moved to Mondstadt not too long ago. She taught me this game called, \"Answer or You're Toast.\" It's super fun!"
+    },
+    {
+     "s": 2,
+     "t": "Uh... what?"
+    },
+    {
+     "s": 7,
+     "t": "But hey! I told you not to tell anyone about that!"
+    },
+    {
+     "sit": "What did Klee do to you?"
+    },
+    {
+     "sit": "What did you do to Klee?"
+    },
+    {
+     "s": 7,
+     "t": "It's not like that! It's just a game where you answer questions, and in return, you get to eat toasted snacks!"
+    },
+    {
+     "s": 2,
+     "t": "Huh, that sounds right up Paimon's alley..."
+    },
+    {
+     "s": 3,
+     "t": "You should come next time, Paimon! The more people we have, the bigger we can make the fire, and the more fun it'll be!"
+    },
+    {
+     "s": 7,
+     "t": "Ahem! Never mind that for now! What are you doing here, Klee? This animal didn't hurt you, did he?"
+    },
+    {
+     "s": 3,
+     "t": "No, no! He wouldn't hurt me. We were just playing. This is Popcorn, my new friend."
+    },
+    {
+     "s": 2,
+     "t": "Wait... He looks exactly like the drawing on this card!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, yeah. That's the request for help that the Dough King drew! But don't worry, the Hexenzirkel's on the case!"
+    },
+    {
+     "s": 7,
+     "t": "The Hexenzirkel!? Do you know where the witches are, Klee? C'mon, you can tell me."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, they're inside this secret base. I'll go get them! Back in a flash!"
+    },
+    {
+     "s": 7,
+     "t": "Hah, I was right! I knew they had to be close this time!"
+    },
+    {
+     "s": 2,
+     "t": "Um, why do you look like you're gearing up to fight a monster?"
+    },
+    {
+     "s": 7,
+     "t": "Trust me, these witches are—"
+    },
+    {
+     "s": 3,
+     "t": "Ta-da!"
+    },
+    {
+     "s": 3,
+     "t": "The Little Hexenzirkel, reporting for duty!"
+    },
+    {
+     "s": 3,
+     "t": "We just talked it over, and Yaoyao said we should put the \"little\" in front because we all still have growing to do."
+    },
+    {
+     "s": 7,
+     "t": "(The Little Hexenzirkel!? What in the world is that? She never mentioned it before...)"
+    },
+    {
+     "s": 3,
+     "t": "Ahem, I'm little witch Klee. Oh, and the Little Hexenzirkel was my idea."
+    },
+    {
+     "s": 4,
+     "t": "Hehe, it's always a good day when I get to see you two again, {NICKNAME} and Paimon!"
+    },
+    {
+     "s": 4,
+     "t": "Oh, right! Klee mentioned she was bringing a new friend to the base. Guess we should introduce ourselves then."
+    },
+    {
+     "s": 4,
+     "t": "I'm little witch Yaoyao from Liyue. I just joined the Little Hexenzirkel, and I'm looking forward to learning a lot!"
+    },
+    {
+     "s": 7,
+     "t": "Oh, uh... Hi."
+    },
+    {
+     "s": 4,
+     "t": "Your turn, Qiqi. Nice and slow, just like we practiced, okay? Still remember what you wrote down?"
+    },
+    {
+     "s": 5,
+     "t": "Mhm. I am little witch Qiqi. That's all."
+    },
+    {
+     "s": 5,
+     "t": "{NICKNAME} and Paimon... are in my heart. I can remember them without writing things down."
+    },
+    {
+     "s": 5,
+     "t": "New friend is... a new face. I will... try to remember."
+    },
+    {
+     "s": 6,
+     "t": "*yawn*... Ah... My turn? Hello, you two. Oh, and our new friend here. I'm little witch Sayu."
+    },
+    {
+     "s": 7,
+     "t": "Um... Hello frie— Or, uh, witches. You can call me Prune."
+    },
+    {
+     "sit": "A Little Hexenzirkel! That's so cute!"
+    },
+    {
+     "s": 2,
+     "t": "Sure looks like the real deal! You even have introduction magic, just like Alice and Nicole!"
+    },
+    {
+     "s": 3,
+     "t": "Hehe, Mom's a super impressive witch. Guess I just take after her!"
+    },
+    {
+     "s": 2,
+     "t": "Wow, Prune! So, when you said there were witches around here, you were talking about Klee and the others?"
+    },
+    {
+     "s": 7,
+     "t": "Y—Yes, of course. A little witch is still a witch, after all."
+    },
+    {
+     "s": 7,
+     "t": "(Was this Alice's idea? Does this organization take orders from the main Hexenzirkel...?)"
+    },
+    {
+     "s": 3,
+     "t": "...Prune is the best! She's my friend. Oh, and Mom said she's her friend too!"
+    },
+    {
+     "s": 7,
+     "t": "What!? Your mom said we were... friends?"
+    },
+    {
+     "s": 2,
+     "t": "What's with the surprise? Didn't she just tell us herself she was Alice's friend...?"
+    },
+    {
+     "s": 3,
+     "t": "So, Paimon, Prune... Wanna join the Little Hexenzirkel?"
+    },
+    {
+     "s": 4,
+     "t": "Do it, do it! You can come into our secret hideout, and we can all share snacks and toys!"
+    },
+    {
+     "s": 3,
+     "t": "Plus, you get to share Mom's cool introduction magic too! She said I can use it on all the little witches!"
+    },
+    {
+     "s": 7,
+     "t": "I'll pass. I stopped playing pretend a long time ago."
+    },
+    {
+     "s": 2,
+     "t": "Unlimited snacks are one thing, but self-introduction magic too? That's so cool!"
+    },
+    {
+     "sit": "Sounds like Paimon's in!"
+    },
+    {
+     "s": 2,
+     "t": "Wait, no... Paimon's not ready! Alice also loves putting people through trials, remember? What if Klee inherited that trait too?"
+    },
+    {
+     "s": 2,
+     "t": "Paimon can't swear allegiance now. She'll look like such a joke if she doesn't pass the test..."
+    },
+    {
+     "sit": "Don't worry. You have me!"
+    },
+    {
+     "sit": "We'll make a little witch out of you yet!"
+    },
+    {
+     "s": 2,
+     "t": "Aw..."
+    },
+    {
+     "s": 2,
+     "t": "U—Um, so fellow little witches... Does Paimon need to pass some sort of trial to join the little Hexenzirkel?"
+    },
+    {
+     "s": 6,
+     "t": "Nope, all it takes is an invitation from Klee. That's how we joined."
+    },
+    {
+     "s": 3,
+     "t": "Yep!"
+    },
+    {
+     "s": 2,
+     "t": "Wow, that's a lot simpler than Paimon thought!"
+    },
+    {
+     "s": 7,
+     "t": "That's to be expected. A child's world is simple. Adults are the ones who make things complicated."
+    },
+    {
+     "s": 2,
+     "t": "So Paimon's a little witch now? Oooh, what's her introduction magic gonna be...?"
+    },
+    {
+     "s": 3,
+     "t": "Mom says the content of the introduction is super important, 'cause it's kinda like a first impression. So the person who knows the little witch best should decide."
+    },
+    {
+     "s": 3,
+     "t": "Just picture it in your head, then hold my hand, and the magic will transfer!"
+    },
+    {
+     "sit": "Let me decide then."
+    },
+    {
+     "s": 2,
+     "t": "Hehe, yeah! You definitely know Paimon best!"
+    },
+    {
+     "s": 2,
+     "t": "So, in your eyes, what kind of a little witch would Paimon be..."
+    },
+    {
+     "sit": "A true force to be reckoned with..."
+    },
+    {
+     "sit": "Cute and adorable beyond compare..."
+    },
+    {
+     "s": 3,
+     "t": "Okay, Paimon. Hold out your hand."
+    },
+    {
+     "s": 3,
+     "t": "Done! Alright little witch Paimon, go ahead and introduce yourself."
+    },
+    {
+     "s": 2,
+     "t": "Oh, that's it? Okay, here goes nothing. Ahem..."
+    },
+    {
+     "s": 2,
+     "t": "Hello everyone! Little witch Paimon reporting for duty!"
+    },
+    {
+     "s": 7,
+     "t": "Congratulations. Uh, but, um... Shouldn't we get down to business? Something doesn't seem right with this boar..."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, you said the Little Hexenzirkel is working on a quest, right, Klee? Now that Paimon's a member, she should get all caught up, huh..."
+    },
+    {
+     "s": 2,
+     "t": "So, what's the situation?"
+    },
+    {
+     "s": 6,
+     "t": "The whole Popcorn thing is super complicated... It's gonna take ages to explain. Can we at least find somewhere to sit down first? Standing is so tiring..."
+    },
+    {
+     "s": 3,
+     "t": "Oooh! Let's have a tea party, then! Tea parties are perfect for long conversations."
+    },
+    {
+     "s": 4,
+     "t": "Great idea. I'll be in charge of snacks and drinks!"
+    },
+    {
+     "s": 6,
+     "t": "Oh! I'll get the chairs."
+    },
+    {
+     "s": 3,
+     "t": "And I'll get some toys for us to play with."
+    },
+    {
+     "s": 5,
+     "t": "Um..."
+    },
+    {
+     "s": 4,
+     "t": "You can come with me, Qiqi. Help me pick out some good snacks."
+    },
+    {
+     "s": 3,
+     "t": "You're more than welcome to explore our secret base in the meantime, Honorary Knight and Prune!"
+    },
+    {
+     "s": 7,
+     "t": "Alright... Guess I can do some reading while I wait."
+    },
+    {
+     "section": "Sayu, Prune, Klee, Yaoyao, Qiqi, Popcorn"
+    },
+    {
+     "s": 3,
+     "t": "Ta-da! Welcome to the little witch's tea party!"
+    },
+    {
+     "s": 2,
+     "t": "Want something to drink, Prune? Too far to reach? Here, Paimon'll help."
+    },
+    {
+     "s": 7,
+     "t": "Ahem, thanks. I'll have a hot tea then. No sugar."
+    },
+    {
+     "s": 6,
+     "t": "Oh, we actually don't have tea here. It's too bitter. None of us like it."
+    },
+    {
+     "s": 5,
+     "t": "I don't like hot things. Dango Milk is cold, like coconut milk. I like it."
+    },
+    {
+     "s": 7,
+     "t": "Well, if there's no other option, then... I suppose I'll have Dango Milk."
+    },
+    {
+     "s": 2,
+     "t": "Kinda seems like you were eyeing that from the beginning..."
+    },
+    {
+     "s": 7,
+     "t": "Ahem, let's just get on with the meeting!"
+    },
+    {
+     "s": 7,
+     "t": "You were going to tell us what the deal is with this Forest Boar..."
+    },
+    {
+     "s": 3,
+     "t": "Right! Popcorn is an imaginary friend!"
+    },
+    {
+     "s": 7,
+     "t": "What!?"
+    },
+    {
+     "s": 7,
+     "t": "No, that can't be right. We shouldn't be able to see other people's imaginary friends in the real world."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, we were only able to meet your imaginary friends thanks to magic, adeptal arts, and ninjutsu."
+    },
+    {
+     "s": 2,
+     "t": "And before, we used Lisa's monocle detector thing..."
+    },
+    {
+     "s": 7,
+     "t": "What sort of evidence do you have that Popcorn is an imaginary friend?"
+    },
+    {
+     "s": 8,
+     "t": "Imaginary friend! Real friend!"
+    },
+    {
+     "s": 3,
+     "t": "Um... I don't know. But, I believe him!"
+    },
+    {
+     "s": 7,
+     "t": "Let's try a different question, then... How did you find him?"
+    },
+    {
+     "s": 4,
+     "t": "Oh, we were playing outside, and we found the Dough King's request for help! So, we followed the trail and found the Dough King and Popcorn."
+    },
+    {
+     "s": 3,
+     "t": "The Dough King's super nice! Popcorn was just wandering around. It was the Dough King who found him first!"
+    },
+    {
+     "s": 8,
+     "t": "Nice, haha. Nice!"
+    },
+    {
+     "s": 2,
+     "t": "Uh... Is Popcorn always like this? Doesn't really seem like he can hold a conversation..."
+    },
+    {
+     "s": 5,
+     "t": "Popcorn was in bad shape, wandering alone. Angry, running super fast... The Dough King looked worried."
+    },
+    {
+     "s": 5,
+     "t": "He's much better with us. Even talks and smiles sometimes."
+    },
+    {
+     "s": 7,
+     "t": "Well, most imaginary friends are dreamed up by kids, so it makes sense that he'd feel more comfortable around them."
+    },
+    {
+     "s": 2,
+     "t": "Yeah. So, to get this straight... The Dough King found Popcorn wandering around, lost..."
+    },
+    {
+     "s": 2,
+     "t": "Then teamed up with the Little Hexenzirkel to get to the bottom of it?"
+    },
+    {
+     "s": 3,
+     "t": "Yep! We're in charge of looking after Popcorn while the Dough King does some investigating. We're gonna meet up tomorrow."
+    },
+    {
+     "sit": "Guess we were wrong then."
+    },
+    {
+     "sit": "That card we found wasn't a trap."
+    },
+    {
+     "s": 7,
+     "t": "Well... I didn't say it one-hundred percent was. I was just hypothesizing."
+    },
+    {
+     "s": 2,
+     "t": "So, what's the Little Hexenzirkel planning to do next?"
+    },
+    {
+     "s": 3,
+     "t": "We're gonna do what little witches do best, and help him out!"
+    },
+    {
+     "s": 7,
+     "t": "How? By using the same kind of magic the big witches use?"
+    },
+    {
+     "s": 3,
+     "t": "I don't know. I've never been a witch before... What do you think we should do, Prune?"
+    },
+    {
+     "s": 7,
+     "t": "You're the witches, not me. How am I supposed to..."
+    },
+    {
+     "s": 7,
+     "t": "(Wait, this could be a chance to get some insider intel...)"
+    },
+    {
+     "s": 7,
+     "t": "Ahem, obviously, the best place to start is with... imitation! We need to learn from the big Hexenzirkel. So, it couldn't hurt to... go through the members and list their strengths."
+    },
+    {
+     "s": 3,
+     "t": "Oh, um... Well first, there's Mom. She's just like me and loves going on big adventures with her friends!"
+    },
+    {
+     "s": 3,
+     "t": "Then, there's my auntie who tells prophecies."
+    },
+    {
+     "s": 6,
+     "t": "If you ask me, Popcorn turned out this way because he didn't get enough sleep. Sleeping solves everything. In fact, I think the best idea is for all of us to just take a nap right now."
+    },
+    {
+     "s": 3,
+     "t": "...Oh, and another auntie who talks a lot."
+    },
+    {
+     "s": 4,
+     "t": "We shouldn't just jump to conclusions. We need to do our due vigilance... Or, uh, diligence? Point is, this is an important task."
+    },
+    {
+     "s": 4,
+     "t": "I'm not sure we can get to the bottom of it right now. But while we wait for news from the Dough King, we can at least play with Popcorn and keep him occupied. Y'know, so he doesn't go around scaring people."
+    },
+    {
+     "s": 3,
+     "t": "And another who loved writing stories."
+    },
+    {
+     "s": 5,
+     "t": "Crossing out \"sleep,\" but keeping \"adventures\" and \"playtime\"... Got it."
+    },
+    {
+     "s": 3,
+     "t": "Then, there's a super smart one, and... I forgot the rest."
+    },
+    {
+     "s": 2,
+     "t": "Ugh... Come on, brain! Work!"
+    },
+    {
+     "s": 2,
+     "t": "Wait, here's an idea! Imaginary friends don't exist without a kid thinking them up, right? So, why don't we try to ask about the kid he belongs to?"
+    },
+    {
+     "sit": "Good thinking, Paimon!"
+    },
+    {
+     "s": 2,
+     "t": "Popcorn? Where's your human? How did you guys get split up?"
+    },
+    {
+     "s": 8,
+     "t": "Oh! Ha! Smash smash smash! Homura is hurting. Gotta help her! You gotta help her!"
+    },
+    {
+     "s": 7,
+     "t": "Homura must be his human, then... What happened to her? How can we help?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "The Dough King said Popcorn probably has amnesia and can't remember much."
+    },
+    {
+     "s": 5,
+     "t": "Hm, like Qiqi. But Qiqi and Popcorn are also different, because Popcorn can't write."
+    },
+    {
+     "s": 8,
+     "t": "Homura can write!"
+    },
+    {
+     "s": 8,
+     "t": "Bring on the tear-bugs. Bring on the booger-beasts. Mean, or nasty, or in your face, one punch sends them to outer space!"
+    },
+    {
+     "s": 4,
+     "t": "Yeah... Popcorn's been repeating that a lot."
+    },
+    {
+     "s": 8,
+     "t": "Give them one great monstrous whack, then stuff 'em in a big ol' sack!"
+    },
+    {
+     "s": 2,
+     "t": "Did Homura write that? Huh. It's definitely got personality!"
+    },
+    {
+     "s": 8,
+     "t": "Blown away! Woo hoo!"
+    },
+    {
+     "s": 2,
+     "t": "Huh... maybe she's destined to be some kind of... new-age poet when she gets older?"
+    },
+    {
+     "s": 8,
+     "t": "Famous painter! Famous chef! World-famous filmmaker!"
+    },
+    {
+     "s": 7,
+     "t": "Hey, high expectations put a lot of pressure on a kid, you know. What if she doesn't live up to them?"
+    },
+    {
+     "s": 8,
+     "t": "Homura is the best! No matter what!"
+    },
+    {
+     "s": 7,
+     "t": "Can you tell us what she looks like? We'll help you find her."
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "Loves pigtails, floral dresses, smiling. And also... *boar noise*!"
+    },
+    {
+     "s": 7,
+     "t": "Yeah, this is getting us nowhere..."
+    },
+    {
+     "s": 2,
+     "t": "Guess that's all we can get for now. What's our next move?"
+    },
+    {
+     "sit": "You said the Dough King was also investigating..."
+    },
+    {
+     "sit": "Let's wait until tomorrow and we can combine our intel."
+    },
+    {
+     "s": 7,
+     "t": "Yeah, guess that's all we can do. Meeting adjourned, then?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah! Let's go play!"
+    },
+    {
+     "section": "Sayu, Klee, Yaoyao, Qiqi"
+    },
+    {
+     "s": 3,
+     "t": "Everyone, it's the Little Hexenzirkel's three-day anniversary! How many days 'till we reach 100... Um, not sure I can count that high..."
+    },
+    {
+     "s": 3,
+     "t": "But, but! I know there's 7 more days until day 10! Ten is such a big number, huh! You need all your fingers to count that much!"
+    },
+    {
+     "sit": "This has been fun."
+    },
+    {
+     "sit": "What brings the little witches to Inazuma, anyway?"
+    },
+    {
+     "s": 4,
+     "t": "Well, after Sayu, Klee, and I met on Dragonspine that one time, we promised to play together."
+    },
+    {
+     "s": 4,
+     "t": "So, when I got Sayu's invitation, I asked Master and Dr. Baizhu if I could bring Qiqi along. They thought it was a great chance for Qiqi to meet some new friends, so here we are."
+    },
+    {
+     "s": 5,
+     "t": "This is Qiqi's first time here. The sakura are pretty. The red girl smiles a lot. The sleepy girl, um... sleeps a lot."
+    },
+    {
+     "s": 2,
+     "t": "What about you, Klee? Did you come by yourself?"
+    },
+    {
+     "s": 3,
+     "t": "Yep! I've been to Inazuma before, so I knew the way! Mom said it's good to, um... broaden my horizons as I get older, so she was all for it!"
+    },
+    {
+     "s": 3,
+     "t": "Besides, Mr. Albedo and Durin were with me until I got on the boat. Then, there were a bunch of nice adventurers to keep me company! And as soon as I got off, Sayu was right there on the dock waiting for me!"
+    },
+    {
+     "s": 6,
+     "t": "Yep. This is my reward for completing a really tough mission for the Shuumatsuban. The boss gave me the time off and funds to invite some friends here, and the shrine maidens agreed to help host them."
+    },
+    {
+     "s": 2,
+     "t": "Awww. It's so nice seeing you guys having so much fun together..."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, it's like... being surrounded by Dodocos! I'm having a blast!"
+    },
+    {
+     "section": "Prune, Popcorn"
+    },
+    {
+     "s": 7,
+     "t": "So, Popcorn's the name, huh... Think hard, Popcorn. Were you captured by a woman? She would've been pretty. Almost too pretty..."
+    },
+    {
+     "s": 8,
+     "t": "No more tear-bugs! Blast 'em! Blast 'em all away!"
+    },
+    {
+     "s": 7,
+     "t": "Hah, I knew it! You're out for revenge too, huh. I wouldn't be surprised if she ends up being the Dough King."
+    },
+    {
+     "s": 8,
+     "t": "No more booger-beasts! Blast 'em! Blast 'em all away!"
+    },
+    {
+     "s": 7,
+     "t": "Hmm... How about this — have you seen a puppy around? Cute and small? He's an imaginary friend too!"
+    },
+    {
+     "s": 8,
+     "t": "Blast 'em! Blast 'em all away! Stuff 'em in a big ol' sack!"
+    },
+    {
+     "s": 7,
+     "t": "You... have no idea what I'm saying, do you..."
+    }
+   ],
+   "description": "After experiencing many things, you decide to go to Aisa Bathhouse to relax a bit…"
+  }
+ ],
+ "speakers": [
+  "Energetic Passerby",
+  "Homura",
+  "Paimon",
+  "Klee",
+  "Yaoyao",
+  "Qiqi",
+  "Sayu",
+  "Prune",
+  "Popcorn"
+ ]
+}

@@ -1,0 +1,812 @@
+{
+ "chapter": "The Stress of Changing Careers",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Stress of Changing Careers",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Stress of Changing Careers",
+   "dialogue": [
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "D—Dear guests! I am Vaino! Might I borrow just one minute of your precious time? I swear you'll leave with a smile!"
+    },
+    {
+     "s": 1,
+     "t": "This guy seems kinda weird... and Paimon heard him say \"guinea pigs\" just now. We should go, {NICKNAME}."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Do I really come across as weird? Small wonder everyone keeps running off... But that's word-for-word the pitch that Boncza taught me back in Nasha Town..."
+    },
+    {
+     "sit": "If your goal is to blurt out a sales pitch, of course, it's going to come off sounding weird..."
+    },
+    {
+     "s": 0,
+     "t": "Fair point. If someone ran up to me shouting, \"Dear guests!\" I'd probably avoid eye contact and hurry away too..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Turns out starting a new career at my age isn't easy... Darn it, I really thought being a boss meant kicking back and letting the money roll in."
+    },
+    {
+     "s": 1,
+     "t": "But hey, you did become a boss, right? Congratulations on that! But what made you want to change careers all of a sudden, Vaino?"
+    },
+    {
+     "s": 0,
+     "t": "I was a treasure hunter for so long, but, honestly, I'd been thinking about getting out of the game for a while."
+    },
+    {
+     "s": 0,
+     "t": "There's this classic joke in that line of work: Where's the only place a 35-year-old treasure hunter gets called \"young\"?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon has no idea..."
+    },
+    {
+     "s": 0,
+     "t": "At their funeral. Everyone's dabbing their eyes and saying, \"Poor thing, they died so young...\""
+    },
+    {
+     "s": 0,
+     "t": "I'm 34 this year... At last month's gathering in The Flagship, everyone was speaking to me with this weird, respectful tone..."
+    },
+    {
+     "s": 0,
+     "t": "And it's not like I ever found any of Reed Miller's old treasure or anything. So when they started speaking to me all reverent-like, it felt off. Then I looked around and realized..."
+    },
+    {
+     "s": 0,
+     "t": "Somehow, at some point, all the old dogs had disappeared and the room was filled with fresh-faced rookies. I suddenly realized I was the oldest one there!"
+    },
+    {
+     "s": 0,
+     "t": "There I was, in the middle of all that noise and cheer, and yet, this sudden chill gripped me tight. Like a voice whispering: \"You're next.\" It was downright terrifying..."
+    },
+    {
+     "s": 1,
+     "t": "But... if you look at it another way, you've actually been pretty lucky, right? After all, you've made it this far in one piece!"
+    },
+    {
+     "s": 0,
+     "t": "Luck doesn't hang around forever. That's why I wanted out of the business. But... *sigh* it's been rough! If things keep going like this, I'll have to start taking on commissions again..."
+    },
+    {
+     "s": 0,
+     "t": "If it really comes to that, I'll make sure next year's funeral invite reads: \"Look at me, no more rent, no more meals to worry about, and still so young, to boot! Jealous yet?\""
+    },
+    {
+     "sit": "Would anyone show up...?"
+    },
+    {
+     "sit": "Let's hold off on the funeral talk for now..."
+    },
+    {
+     "s": 0,
+     "t": "Eh? Who knows? Maybe a bunch of folks would show up just for the chance to punch me..."
+    },
+    {
+     "s": 1,
+     "t": "Then they might as well not come at all! Why would you even think about your funeral!?"
+    },
+    {
+     "s": 1,
+     "t": "Let's see if there's something we can do to help with your new career! You stopped us just now... Were you about to pitch us something?"
+    },
+    {
+     "s": 0,
+     "t": "I wanted to show you my training ground. Though, well, it's not serious training or anything. Just some light challenges, like shooting targets and dodging stuff."
+    },
+    {
+     "s": 1,
+     "t": "Ooh, that sounds kinda fun!"
+    },
+    {
+     "s": 0,
+     "t": "Right? I figured kids would love this kind of thing! And there are tons of kids in Nasha Town!"
+    },
+    {
+     "s": 0,
+     "t": "My old colleagues should love it too. And there are so many Fatui stationed in Nod-Krai... It feels like it should be drawing in more people."
+    },
+    {
+     "s": 0,
+     "t": "But it seems like no one's really interested... Maybe it's just not fun enough! Ugh, I just don't know what's wrong with my training ground!"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, I just don't know what's wrong with my shooting range!"
+    },
+    {
+     "s": 0,
+     "t": "You two look exactly like the kind of guests I had in mind. If you'd be up for testing it out, and maybe giving me some feedback..."
+    },
+    {
+     "s": 1,
+     "t": "We'd love to play— Uh, Paimon means help! We'd love to help!"
+    },
+    {
+     "s": 0,
+     "t": "Awesome! Then please follow the course I designed. Your first challenge is nearby. The second one's over that way. I marked the entrance to make it easy to spot."
+    },
+    {
+     "s": 0,
+     "t": "The last challenge still needs a bit of work. I'll go fix it up now and wait for you there!"
+    },
+    {
+     "s": 0,
+     "t": "As for the rest... well, there's definitely some technique to hitting targets, but for your first time, just go with your instincts. Too much explanation will only trip you up."
+    },
+    {
+     "s": 0,
+     "t": "Well then... have fun!"
+    },
+    {
+     "sit": "After briefly explaining the course, Vaino hurries off to finish setting up the final challenge."
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, that was quick! You've already finished the other challenges?"
+    },
+    {
+     "sit": "Not just yet..."
+    },
+    {
+     "sit": "Sorry, I got a little lost."
+    },
+    {
+     "sit": "I'm just looking around."
+    },
+    {
+     "s": 0,
+     "t": "In that case, how about finishing off the first two challenges on the route I planned? It's easier to give feedback after you've seen the whole thing..."
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "Those guys, honestly... It's just a job! Do they really have to hunt me down to the very end? I mean, life's full of way more interesting things..."
+    },
+    {
+     "s": 0,
+     "t": "Like hanging out at the training ground and doing a bit of target shooting."
+    },
+    {
+     "section": "Training Ground Sign"
+    },
+    {
+     "s": 1,
+     "t": "\"This is the second challenge! From here on, the terrain starts to play a role. Oh, and in the second half, the targets will start moving, so be ready to shoot on the run!\""
+    },
+    {
+     "s": 1,
+     "t": "...Doesn't this spoil the most exciting part of the challenge?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks she understands the problem now... Nothing feels like a surprise — there's no suspense."
+    },
+    {
+     "sit": "Oh! Something just flashed by over there!"
+    },
+    {
+     "sit": "Shh! Keep it down! Paimon, did you hear that...?"
+    },
+    {
+     "s": 1,
+     "t": "Huh? P—Paimon didn't see anything... Wh—What was it?"
+    },
+    {
+     "s": 1,
+     "t": "Hmph! {NICKNAME}, you're just messing with Paimon! Th—There's nothing there... r—right?"
+    },
+    {
+     "s": 1,
+     "t": "This isn't the type of surprise Paimon wanted... You're a meanie! Just for that, y—you're leading the way from now on!"
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 1,
+     "t": "Vaino, we've figured out what's wrong with the training ground!"
+    },
+    {
+     "s": 0,
+     "t": "That... um, that doesn't matter anymore. It's time I start getting my affairs in order..."
+    },
+    {
+     "s": 1,
+     "t": "Huh? What happened?"
+    },
+    {
+     "s": 0,
+     "t": "All my targets have vanished... again!"
+    },
+    {
+     "s": 1,
+     "t": "Maybe someone took them by accident?"
+    },
+    {
+     "s": 0,
+     "t": "Nah, it's happened before. I got new materials, made new ones, and hid them somewhere no one would think to look."
+    },
+    {
+     "s": 0,
+     "t": "But they've been taken again, which means someone's doing this on purpose!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon felt an eerie sensation in that cave just now... C—Could this have something to do with those sneaky thieves?"
+    },
+    {
+     "sit": "That was just me messing with you..."
+    },
+    {
+     "s": 0,
+     "t": "Wait... So you sensed it too? That feeling of being watched. My instincts are never wrong. And anyway, my targets aren't worth that much. Who'd want to steal them?"
+    },
+    {
+     "s": 0,
+     "t": "Even though I never took the really risky commissions when I was a treasure hunter, you don't spend that many years in a profession like mine without making a few enemies..."
+    },
+    {
+     "s": 0,
+     "t": "By taking the targets, they're sending me a sign: The next target is me."
+    },
+    {
+     "s": 0,
+     "t": "It looks like I should've changed careers much sooner. I never thought I'd be sacrificing my life for a job like that at such a young age..."
+    },
+    {
+     "s": 1,
+     "t": "Maybe you're overthinking it..."
+    },
+    {
+     "sit": "Once we catch the thief, everything will become clear."
+    },
+    {
+     "s": 0,
+     "t": "You two are... *sniff* so kind... If you have the time, please do attend my funeral!"
+    },
+    {
+     "s": 1,
+     "t": "Ugh, can we not keep bringing up your funeral!? There's still a chance we can fix this!"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, is that what they call the energy of babes...? Alright, I'll hang in there just a bit more."
+    },
+    {
+     "s": 0,
+     "t": "At the very least, I won't give up until they actually come knocking. After all, I poured almost all my savings into this training ground."
+    },
+    {
+     "s": 0,
+     "t": "Hmm, I've dealt with Treasure Hoarders before, and in my experience, if you want to catch them, the best way is to bait a trap."
+    },
+    {
+     "s": 0,
+     "t": "You can get target-making materials at the Krumkake Craftshop. I've been there a few times. Since they're after targets, let's use some to lure them out."
+    },
+    {
+     "s": 0,
+     "t": "Alright, I'll leave the thief to you two! As for me, I'll stay here and get started on fixing the third challenge they messed up."
+    },
+    {
+     "section": "Sisko"
+    },
+    {
+     "s": 1,
+     "t": "Hi there! Let Paimon introduce herself — Paimon is Paimon, and he(she)'s {NICKNAME}. We're here on Vaino's behalf to ask if you have any materials for making targets."
+    },
+    {
+     "s": 2,
+     "t": "Vaino...? Oh, you mean Uncle \"Young\"!"
+    },
+    {
+     "s": 2,
+     "t": "He's run out of targets again? He just picked up a new batch the other day. Sounds like his training ground is a roaring success."
+    },
+    {
+     "s": 1,
+     "t": "Actually, it's quite the opposite. Paimon thinks the only real customers are the two of us..."
+    },
+    {
+     "s": 2,
+     "t": "Huh... Wh—What happened?"
+    },
+    {
+     "sit": "The girl seems concerned, so you tell her about the missing targets."
+    },
+    {
+     "s": 2,
+     "t": "So things have been tough for him...? No wonder he looked so down. If you hadn't told me, we'd have had no idea..."
+    },
+    {
+     "s": 1,
+     "t": "Who do you mean by \"we\"...?"
+    },
+    {
+     "s": 2,
+     "t": "The kids around here. We all know Uncle \"Young\" needs target materials, so whenever we come across any, we collect them to sell to him."
+    },
+    {
+     "sit": "And then you go steal his targets afterward?"
+    },
+    {
+     "sit": "Did you know the targets were being stolen?"
+    },
+    {
+     "s": 1,
+     "t": "Oh! So if Vaino loses his targets, he'll come back to buy more materials... and then you take apart the targets and sell them back to him!?"
+    },
+    {
+     "s": 2,
+     "t": "W—Well... Y—Yes. B—But we never s—stole anything..."
+    },
+    {
+     "s": 2,
+     "t": "Sorry... We really didn't know Uncle Young's business wasn't doing well. We figured, if he kept buying that many targets, he must be kinda rich..."
+    },
+    {
+     "s": 1,
+     "t": "He's used up almost all his savings just to keep the training ground afloat."
+    },
+    {
+     "s": 2,
+     "t": "I'm really sorry... If there's anything I can do to help..."
+    },
+    {
+     "sit": "You could start by telling me who the real thief is?"
+    },
+    {
+     "s": 2,
+     "t": "Uh... well, I—I guess... It was The Hollowhands. But! They're not bad guys!"
+    },
+    {
+     "s": 1,
+     "t": "The Hollowhands... who are they?"
+    },
+    {
+     "s": 2,
+     "t": "I can't tell you that..."
+    },
+    {
+     "s": 1,
+     "t": "Vaino really needs our help right now! So no matter what, we have to find out who's been stealing those targets."
+    },
+    {
+     "s": 2,
+     "t": "Alright... but we don't really know who they are. They always vanish fast, and no one's ever seen them. I think they're like Reed Miller — a good kind of thief."
+    },
+    {
+     "s": 2,
+     "t": "We trade with them sometimes. No matter what we bring them, they always give us something really valuable in return."
+    },
+    {
+     "sit": "And that's how you've been getting the targets back?"
+    },
+    {
+     "sit": "You've traded with them, but never seen them?"
+    },
+    {
+     "s": 2,
+     "t": "Yeah. It's not always just targets though. They sometimes give us Mora or other valuable parts. They've really helped us a lot."
+    },
+    {
+     "s": 1,
+     "t": "Weird... What could The Hollowhands have against Vaino?"
+    },
+    {
+     "s": 2,
+     "t": "We just thought... thieves have their reasons for thieving. So we figured Uncle Young must be loaded or something... S—Sorry!"
+    },
+    {
+     "s": 2,
+     "t": "If you want to get his targets back, you could try trading them for some <color=#00E1FFFF>Old Portable Bearings</color>."
+    },
+    {
+     "s": 2,
+     "t": "I don't know if there's enough left, though... Uncle Young already bought some just a few days ago."
+    },
+    {
+     "s": 1,
+     "t": "It's not like we have any other ideas — let's give it a try!"
+    },
+    {
+     "section": "Bozena"
+    },
+    {
+     "s": 3,
+     "t": "Not a bad haul today, hehe!"
+    },
+    {
+     "sit": "Hello, do you have any materials for making targets?"
+    },
+    {
+     "sit": "Sorry to bother you."
+    },
+    {
+     "s": 3,
+     "t": "You're buying this too? I don't think I've seen you before... Looks like this stuff's pretty popular!"
+    },
+    {
+     "s": 3,
+     "t": "But I didn't get any today. Maybe try asking Sisko? She's right over there!"
+    },
+    {
+     "section": "Lalli"
+    },
+    {
+     "s": 4,
+     "t": "Better keep looking. This probably isn't enough to beat Bozena."
+    },
+    {
+     "sit": "Hello, do you have any materials for making targets?"
+    },
+    {
+     "sit": "Sorry to bother you."
+    },
+    {
+     "s": 4,
+     "t": "Nope, I sold all of mine a few days ago. Try asking Sisko — she might still have some."
+    },
+    {
+     "section": "Sisko"
+    },
+    {
+     "s": 2,
+     "t": "Did you find any? Hmm... This might not be enough. Try looking for a few more."
+    },
+    {
+     "section": "Sisko"
+    },
+    {
+     "s": 1,
+     "t": "We've got three of those Old Portable Bearings!"
+    },
+    {
+     "s": 2,
+     "t": "Hmm, this should be enough. So now..."
+    },
+    {
+     "s": 1,
+     "t": "It's time to trade, right? Where's the trading spot?"
+    },
+    {
+     "s": 2,
+     "t": "Is... is it okay if I'm the one to make the trade?"
+    },
+    {
+     "s": 2,
+     "t": "I promise, I'll tell them not to bother Uncle \"Young\" ever again!"
+    },
+    {
+     "sit": "We need to find out who they are."
+    },
+    {
+     "s": 1,
+     "t": "Sisko, you trust The Hollowhands even though they won't show you their faces, right? Then surely you can trust {NICKNAME} and Paimon too!"
+    },
+    {
+     "s": 2,
+     "t": "Okay, Paimon, you've got a point. I guess in a place like Nod-Krai, trusting others is never easy."
+    },
+    {
+     "s": 2,
+     "t": "To tell you the truth, I feel kinda scared every time I go to the cave to trade."
+    },
+    {
+     "s": 2,
+     "t": "It's pitch black in there, and you can hear this rustling sound. I always feel like there are a load of eyes staring at me..."
+    },
+    {
+     "s": 1,
+     "t": "Vaino said he felt like he was being watched too! It has to be them!"
+    },
+    {
+     "s": 2,
+     "t": "But they're not bad guys! Really!"
+    },
+    {
+     "s": 2,
+     "t": "Every time we walk up to the little trade box, we leave our stuff inside, then close our eyes and count to seventy-seven."
+    },
+    {
+     "s": 2,
+     "t": "And then, \"whoosh!\", it's gone! Replaced by a gift."
+    },
+    {
+     "s": 2,
+     "t": "It's been like that every single time! They've never hurt any of us."
+    },
+    {
+     "sit": "Why seventy-seven?"
+    },
+    {
+     "s": 2,
+     "t": "I heard it's because Reed Miller once stole seventy-seven treasures from the governor's palace! But Bozena says it's actually because he had seventy-seven loyal followers..."
+    },
+    {
+     "s": 1,
+     "t": "Or maybe it's because Reed Miller fell out of a window and did seventy-seven somersaults before hitting the ground..."
+    },
+    {
+     "s": 2,
+     "t": "If that was the case, I don't think he'd be remembered as a legendary thief..."
+    },
+    {
+     "sit": "I bet a monster shows up at seventy-eight and eats you?"
+    },
+    {
+     "sit": "You'll probably get sleepy if you count any further..."
+    },
+    {
+     "sit": "We can just open our eyes at seventy-six!"
+    },
+    {
+     "s": 1,
+     "t": "W—What!? {NICKNAME}, you're just messing with Paimon again, aren't you?"
+    },
+    {
+     "s": 2,
+     "t": "Anyway, everyone has a different story, but they all include the number seventy-seven. So who knows... maybe your version is the truth after all."
+    },
+    {
+     "s": 2,
+     "t": "Okay, good luck with the trade! And we'll tell everyone about Uncle Young, too! We'll also do our best to gather targets for him. N—No charge this time!"
+    },
+    {
+     "s": 2,
+     "t": "But first, we'd better go say sorry..."
+    },
+    {
+     "section": "Paimon, Sniffer Mole Leader"
+    },
+    {
+     "s": 1,
+     "t": "What are we supposed to do next? Start counting? And close our eyes...?"
+    },
+    {
+     "sit": "Start from one..."
+    },
+    {
+     "sit": "Seventy-seven!"
+    },
+    {
+     "sit": "Seventy... eight!"
+    },
+    {
+     "s": 1,
+     "t": "Alright! Let's close our eyes, and you can start counting."
+    },
+    {
+     "sit": "One..."
+    },
+    {
+     "sit": "Two..."
+    },
+    {
+     "sit": "Three..."
+    },
+    {
+     "sit": "Four..."
+    },
+    {
+     "sit": "Four, five, six, seven, eight, nine, ten..."
+    },
+    {
+     "s": 1,
+     "t": "A—Are you counting slowly on purpose? It's kinda scary not being able to see anything..."
+    },
+    {
+     "sit": "Alright, I'll count faster."
+    },
+    {
+     "sit": "As the count goes on, you feel Paimon tugging at your clothes more tightly."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Alright, that should be all the targets!"
+    },
+    {
+     "s": 1,
+     "t": "So they were using them as bedding all along? That's why they kept going after Vaino!"
+    },
+    {
+     "sit": "I thought their burrows looked a lot cozier than those targets..."
+    },
+    {
+     "sit": "It probably has something to do with the colors and patterns."
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks so too! Those burrows looked super comfy. As for Vaino's targets... maybe they've got some special appeal only a Sniffer Mole would understand."
+    },
+    {
+     "s": 1,
+     "t": "Still, even if we bring the targets back now, they'll probably just get stolen again in a few days... What should we do?"
+    },
+    {
+     "sit": "Let's give them something better."
+    },
+    {
+     "sit": "Let's head back and talk to Vaino."
+    },
+    {
+     "s": 1,
+     "t": "Great idea! We can leave a gift at the entrance to their \"treasure chamber.\" Let's head back and see Vaino."
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "Ah, you're back! I was just wondering if I should start getting my affairs... Umm, never mind. It's good to see you back in one piece!"
+    },
+    {
+     "s": 1,
+     "t": "You can rest easy, Vaino! Those sneaky target thieves are definitely not old enemies of yours!"
+    },
+    {
+     "s": 0,
+     "t": "Really? Actually, that girl Sisko came to apologize just now. She said the ones behind it are called The Hollowhands. They sound like a pretty serious organization..."
+    },
+    {
+     "sit": "They're a bunch of Sniffer Moles."
+    },
+    {
+     "s": 0,
+     "t": "Sniffer Moles!? Come to think of it... Though I did feel like I was being watched, it never felt ominous, not like all the times I've sensed real danger."
+    },
+    {
+     "s": 0,
+     "t": "But why would they want to steal my targets?"
+    },
+    {
+     "sit": "You tell Vaino everything you uncovered."
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, so that's what this was all about? I was this close to making arrangements for my funeral! Looks like I'll have to teach them a lesson!"
+    },
+    {
+     "s": 1,
+     "t": "B—But they didn't mean anything by it..."
+    },
+    {
+     "s": 0,
+     "t": "No, no, that's not what I meant. If a few Old Portable Bearings were enough to trade back the targets, that means..."
+    },
+    {
+     "s": 0,
+     "t": "The exchange rate's totally in our favor!"
+    },
+    {
+     "s": 1,
+     "t": "Uhm? You mean..."
+    },
+    {
+     "s": 0,
+     "t": "If I show up with all sorts of gifts next time, I might get something amazing in return!"
+    },
+    {
+     "s": 0,
+     "t": "Maybe I can make back all the losses from those stolen targets sooner than I thought."
+    },
+    {
+     "s": 1,
+     "t": "Those losses... weren't actually caused by The Hollowhands."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, I know, Sisko told me already. Still, I'm not going to ask those kids to repay anything."
+    },
+    {
+     "s": 0,
+     "t": "She was chirping away just now, giving me all sorts of feedback on the training ground. And she even promised to bring her friends to come play."
+    },
+    {
+     "s": 0,
+     "t": "Honestly, that's worth more to me than any amount of Mora."
+    },
+    {
+     "sit": "So we're back to exchange rates again, huh?"
+    },
+    {
+     "sit": "Textbook treasure hunter's instincts."
+    },
+    {
+     "s": 0,
+     "t": "Thanks a lot. I think I've figured out how to make this place more fun. I just hope more folks will want to stop by!"
+    },
+    {
+     "s": 0,
+     "t": "Wanna give it a shot? The final challenge! I promise it's way more fun than the first two!"
+    },
+    {
+     "sit": "Let's give it a go!"
+    },
+    {
+     "s": 1,
+     "t": "Like we'd ever say no to something fun!"
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "I've just finished adjusting the third challenge based on Sisko's suggestions — it should be really fun!"
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "You've been a big help! I'll keep what you and little Sisko said in mind. Here's hoping more and more folks come by!"
+    },
+    {
+     "section": "Vaino"
+    },
+    {
+     "s": 0,
+     "t": "Congratulations! You're the first team to complete all the challenges!"
+    },
+    {
+     "s": 1,
+     "t": "Hey, look! Even The Hollowhands came to cheer us on!"
+    },
+    {
+     "sit": "Maybe they're waiting for a chance to steal the targets."
+    },
+    {
+     "s": 0,
+     "t": "I've got to find them some comfier bedding material than those targets."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! I almost forgot your victory prize! This is some stuff I gathered back in the day. It's worth a decent amount!"
+    },
+    {
+     "s": 0,
+     "t": "But that was to Vaino, the treasure hunter. For Vaino, the training ground boss, it's not much use anymore."
+    },
+    {
+     "s": 0,
+     "t": "Please, take this as a token of my gratitude."
+    },
+    {
+     "s": 1,
+     "t": "Luckily, we're not training ground bosses, so we'll gladly take this treasure off your hands!"
+    },
+    {
+     "s": 0,
+     "t": "Come on now. My training ground will always be free for the two of you. Drop by anytime you like!"
+    }
+   ],
+   "description": "At the northern training ground, you’re suddenly stopped by a treasure hunter who seems very enthusiastic…"
+  }
+ ],
+ "speakers": [
+  "Vaino",
+  "Paimon",
+  "Sisko",
+  "Bozena",
+  "Lalli"
+ ]
+}

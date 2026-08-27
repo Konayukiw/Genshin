@@ -1,0 +1,704 @@
+{
+  "name": "Ring of Yaxche",
+  "rarity": 4,
+  "type": "Catalyst",
+  "base_atk": 42,
+  "passive": {
+    "name": "Echoes of the Plentiful Land",
+    "refinements": {
+      "R1": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.6% for 10s. Normal Attack DMG can be increased this way by a maximum of 16%.",
+      "R2": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.7% for 10s. Normal Attack DMG can be increased this way by a maximum of 20%.",
+      "R3": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.8% for 10s. Normal Attack DMG can be increased this way by a maximum of 24%.",
+      "R4": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 0.9% for 10s. Normal Attack DMG can be increased this way by a maximum of 28%.",
+      "R5": "Using an Elemental Skill grants the Jade-Forged Crown effect: Every 1,000 Max HP will increase the Normal Attack DMG dealt by the equipping character by 1% for 10s. Normal Attack DMG can be increased this way by a maximum of 32%."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 42,
+      "substat": "HP%",
+      "substat_value": 9.0
+    },
+    {
+      "level": 2,
+      "base_atk": 46,
+      "substat": "HP%",
+      "substat_value": 9.0
+    },
+    {
+      "level": 3,
+      "base_atk": 49,
+      "substat": "HP%",
+      "substat_value": 9.0
+    },
+    {
+      "level": 4,
+      "base_atk": 53,
+      "substat": "HP%",
+      "substat_value": 9.0
+    },
+    {
+      "level": 5,
+      "base_atk": 56,
+      "substat": "HP%",
+      "substat_value": 10.5
+    },
+    {
+      "level": 6,
+      "base_atk": 60,
+      "substat": "HP%",
+      "substat_value": 10.5
+    },
+    {
+      "level": 7,
+      "base_atk": 63,
+      "substat": "HP%",
+      "substat_value": 10.5
+    },
+    {
+      "level": 8,
+      "base_atk": 67,
+      "substat": "HP%",
+      "substat_value": 10.5
+    },
+    {
+      "level": 9,
+      "base_atk": 70,
+      "substat": "HP%",
+      "substat_value": 10.5
+    },
+    {
+      "level": 10,
+      "base_atk": 74,
+      "substat": "HP%",
+      "substat_value": 12.3
+    },
+    {
+      "level": 11,
+      "base_atk": 77,
+      "substat": "HP%",
+      "substat_value": 12.3
+    },
+    {
+      "level": 12,
+      "base_atk": 81,
+      "substat": "HP%",
+      "substat_value": 12.3
+    },
+    {
+      "level": 13,
+      "base_atk": 84,
+      "substat": "HP%",
+      "substat_value": 12.3
+    },
+    {
+      "level": 14,
+      "base_atk": 88,
+      "substat": "HP%",
+      "substat_value": 12.3
+    },
+    {
+      "level": 15,
+      "base_atk": 91,
+      "substat": "HP%",
+      "substat_value": 14.1
+    },
+    {
+      "level": 16,
+      "base_atk": 95,
+      "substat": "HP%",
+      "substat_value": 14.1
+    },
+    {
+      "level": 17,
+      "base_atk": 98,
+      "substat": "HP%",
+      "substat_value": 14.1
+    },
+    {
+      "level": 18,
+      "base_atk": 102,
+      "substat": "HP%",
+      "substat_value": 14.1
+    },
+    {
+      "level": 19,
+      "base_atk": 105,
+      "substat": "HP%",
+      "substat_value": 14.1
+    },
+    {
+      "level": 20,
+      "base_atk": 109,
+      "substat": "HP%",
+      "substat_value": 15.9
+    },
+    {
+      "level": 21,
+      "base_atk": 138,
+      "substat": "HP%",
+      "substat_value": 15.9
+    },
+    {
+      "level": 22,
+      "base_atk": 142,
+      "substat": "HP%",
+      "substat_value": 15.9
+    },
+    {
+      "level": 23,
+      "base_atk": 145,
+      "substat": "HP%",
+      "substat_value": 15.9
+    },
+    {
+      "level": 24,
+      "base_atk": 149,
+      "substat": "HP%",
+      "substat_value": 15.9
+    },
+    {
+      "level": 25,
+      "base_atk": 152,
+      "substat": "HP%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 26,
+      "base_atk": 156,
+      "substat": "HP%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 27,
+      "base_atk": 159,
+      "substat": "HP%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 28,
+      "base_atk": 163,
+      "substat": "HP%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 29,
+      "base_atk": 166,
+      "substat": "HP%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 30,
+      "base_atk": 170,
+      "substat": "HP%",
+      "substat_value": 19.5
+    },
+    {
+      "level": 31,
+      "base_atk": 173,
+      "substat": "HP%",
+      "substat_value": 19.5
+    },
+    {
+      "level": 32,
+      "base_atk": 177,
+      "substat": "HP%",
+      "substat_value": 19.5
+    },
+    {
+      "level": 33,
+      "base_atk": 180,
+      "substat": "HP%",
+      "substat_value": 19.5
+    },
+    {
+      "level": 34,
+      "base_atk": 184,
+      "substat": "HP%",
+      "substat_value": 19.5
+    },
+    {
+      "level": 35,
+      "base_atk": 187,
+      "substat": "HP%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 36,
+      "base_atk": 191,
+      "substat": "HP%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 37,
+      "base_atk": 194,
+      "substat": "HP%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 38,
+      "base_atk": 198,
+      "substat": "HP%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 39,
+      "base_atk": 201,
+      "substat": "HP%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 40,
+      "base_atk": 205,
+      "substat": "HP%",
+      "substat_value": 23.2
+    },
+    {
+      "level": 41,
+      "base_atk": 234,
+      "substat": "HP%",
+      "substat_value": 23.2
+    },
+    {
+      "level": 42,
+      "base_atk": 238,
+      "substat": "HP%",
+      "substat_value": 23.2
+    },
+    {
+      "level": 43,
+      "base_atk": 241,
+      "substat": "HP%",
+      "substat_value": 23.2
+    },
+    {
+      "level": 44,
+      "base_atk": 245,
+      "substat": "HP%",
+      "substat_value": 23.2
+    },
+    {
+      "level": 45,
+      "base_atk": 248,
+      "substat": "HP%",
+      "substat_value": 25.0
+    },
+    {
+      "level": 46,
+      "base_atk": 252,
+      "substat": "HP%",
+      "substat_value": 25.0
+    },
+    {
+      "level": 47,
+      "base_atk": 255,
+      "substat": "HP%",
+      "substat_value": 25.0
+    },
+    {
+      "level": 48,
+      "base_atk": 259,
+      "substat": "HP%",
+      "substat_value": 25.0
+    },
+    {
+      "level": 49,
+      "base_atk": 262,
+      "substat": "HP%",
+      "substat_value": 25.0
+    },
+    {
+      "level": 50,
+      "base_atk": 266,
+      "substat": "HP%",
+      "substat_value": 26.8
+    },
+    {
+      "level": 51,
+      "base_atk": 295,
+      "substat": "HP%",
+      "substat_value": 26.8
+    },
+    {
+      "level": 52,
+      "base_atk": 299,
+      "substat": "HP%",
+      "substat_value": 26.8
+    },
+    {
+      "level": 53,
+      "base_atk": 302,
+      "substat": "HP%",
+      "substat_value": 26.8
+    },
+    {
+      "level": 54,
+      "base_atk": 306,
+      "substat": "HP%",
+      "substat_value": 26.8
+    },
+    {
+      "level": 55,
+      "base_atk": 309,
+      "substat": "HP%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 56,
+      "base_atk": 313,
+      "substat": "HP%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 57,
+      "base_atk": 316,
+      "substat": "HP%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 58,
+      "base_atk": 320,
+      "substat": "HP%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 59,
+      "base_atk": 323,
+      "substat": "HP%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 60,
+      "base_atk": 327,
+      "substat": "HP%",
+      "substat_value": 30.4
+    },
+    {
+      "level": 61,
+      "base_atk": 356,
+      "substat": "HP%",
+      "substat_value": 30.4
+    },
+    {
+      "level": 62,
+      "base_atk": 360,
+      "substat": "HP%",
+      "substat_value": 30.4
+    },
+    {
+      "level": 63,
+      "base_atk": 363,
+      "substat": "HP%",
+      "substat_value": 30.4
+    },
+    {
+      "level": 64,
+      "base_atk": 367,
+      "substat": "HP%",
+      "substat_value": 30.4
+    },
+    {
+      "level": 65,
+      "base_atk": 370,
+      "substat": "HP%",
+      "substat_value": 32.3
+    },
+    {
+      "level": 66,
+      "base_atk": 374,
+      "substat": "HP%",
+      "substat_value": 32.3
+    },
+    {
+      "level": 67,
+      "base_atk": 377,
+      "substat": "HP%",
+      "substat_value": 32.3
+    },
+    {
+      "level": 68,
+      "base_atk": 381,
+      "substat": "HP%",
+      "substat_value": 32.3
+    },
+    {
+      "level": 69,
+      "base_atk": 384,
+      "substat": "HP%",
+      "substat_value": 32.3
+    },
+    {
+      "level": 70,
+      "base_atk": 388,
+      "substat": "HP%",
+      "substat_value": 34.1
+    },
+    {
+      "level": 71,
+      "base_atk": 417,
+      "substat": "HP%",
+      "substat_value": 34.1
+    },
+    {
+      "level": 72,
+      "base_atk": 421,
+      "substat": "HP%",
+      "substat_value": 34.1
+    },
+    {
+      "level": 73,
+      "base_atk": 424,
+      "substat": "HP%",
+      "substat_value": 34.1
+    },
+    {
+      "level": 74,
+      "base_atk": 428,
+      "substat": "HP%",
+      "substat_value": 34.1
+    },
+    {
+      "level": 75,
+      "base_atk": 431,
+      "substat": "HP%",
+      "substat_value": 35.9
+    },
+    {
+      "level": 76,
+      "base_atk": 435,
+      "substat": "HP%",
+      "substat_value": 35.9
+    },
+    {
+      "level": 77,
+      "base_atk": 438,
+      "substat": "HP%",
+      "substat_value": 35.9
+    },
+    {
+      "level": 78,
+      "base_atk": 442,
+      "substat": "HP%",
+      "substat_value": 35.9
+    },
+    {
+      "level": 79,
+      "base_atk": 445,
+      "substat": "HP%",
+      "substat_value": 35.9
+    },
+    {
+      "level": 80,
+      "base_atk": 449,
+      "substat": "HP%",
+      "substat_value": 37.7
+    },
+    {
+      "level": 81,
+      "base_atk": 478,
+      "substat": "HP%",
+      "substat_value": 37.7
+    },
+    {
+      "level": 82,
+      "base_atk": 482,
+      "substat": "HP%",
+      "substat_value": 37.7
+    },
+    {
+      "level": 83,
+      "base_atk": 485,
+      "substat": "HP%",
+      "substat_value": 37.7
+    },
+    {
+      "level": 84,
+      "base_atk": 489,
+      "substat": "HP%",
+      "substat_value": 37.7
+    },
+    {
+      "level": 85,
+      "base_atk": 492,
+      "substat": "HP%",
+      "substat_value": 39.5
+    },
+    {
+      "level": 86,
+      "base_atk": 496,
+      "substat": "HP%",
+      "substat_value": 39.5
+    },
+    {
+      "level": 87,
+      "base_atk": 499,
+      "substat": "HP%",
+      "substat_value": 39.5
+    },
+    {
+      "level": 88,
+      "base_atk": 503,
+      "substat": "HP%",
+      "substat_value": 39.5
+    },
+    {
+      "level": 89,
+      "base_atk": 506,
+      "substat": "HP%",
+      "substat_value": 39.5
+    },
+    {
+      "level": 90,
+      "base_atk": 510,
+      "substat": "HP%",
+      "substat_value": 41.3
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "Delirious Decadence of the Sacred Lord",
+          "id": 114065,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "Shard of a Shattered Will",
+          "id": 112107,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "Damaged Mask",
+          "id": 112005,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "Delirious Desolation of the Sacred Lord",
+          "id": 114066,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "Shard of a Shattered Will",
+          "id": 112107,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "Damaged Mask",
+          "id": 112005,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "Delirious Desolation of the Sacred Lord",
+          "id": 114066,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "Locus of a Clear Will",
+          "id": 112108,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "Stained Mask",
+          "id": 112006,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "id": 114067,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "Locus of a Clear Will",
+          "id": 112108,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "Stained Mask",
+          "id": 112006,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "Delirious Demeanor of the Sacred Lord",
+          "id": 114067,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "Sigil of a Striding Will",
+          "id": 112109,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "id": 112007,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "Delirious Divinity of the Sacred Lord",
+          "id": 114068,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "Sigil of a Striding Will",
+          "id": 112109,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "id": 112007,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

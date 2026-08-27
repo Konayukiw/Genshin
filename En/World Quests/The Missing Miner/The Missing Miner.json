@@ -1,0 +1,710 @@
+{
+ "chapter": "The Missing Miner",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Missing Miner",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Missing Miner",
+   "dialogue": [
+    {
+     "section": "Uncle He, Paimon"
+    },
+    {
+     "sit": "You suddenly hear whispering coming from behind you:<br/>\"Hee-hee... mushroom meat... Hee-hee...\""
+    },
+    {
+     "s": 0,
+     "t": "You... Hee-hee, what are you doing here?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! This guy looks terrible!"
+    },
+    {
+     "s": 1,
+     "t": "And he just popped up without making a single noise, {NICKNAME}..."
+    },
+    {
+     "s": 1,
+     "t": "Could he be..."
+    },
+    {
+     "sit": "Probably not."
+    },
+    {
+     "s": 0,
+     "t": "Hee-hee, wh—why are you here?"
+    },
+    {
+     "s": 0,
+     "t": "Have you run out of food as well?"
+    },
+    {
+     "sit": "Are you Uncle He?"
+    },
+    {
+     "s": 0,
+     "t": "Huh... Huh? Youngster, what are you saying? I can't hear you."
+    },
+    {
+     "s": 1,
+     "t": "I'm asking if you are Uncle He!"
+    },
+    {
+     "s": 0,
+     "t": "Oooh, yes. Hee-hee, that's me-hee-hee."
+    },
+    {
+     "s": 0,
+     "t": "Are you also trapped here like me? Did you run out of food too? *sigh* ... How unlucky."
+    },
+    {
+     "s": 0,
+     "t": "Hee-hee, but no worries. I've got some food here... You must be famished... Hee-hee..."
+    },
+    {
+     "s": 1,
+     "t": "Now that topic's making Paimon's tummy grumble."
+    },
+    {
+     "sit": "This \"mushroom meat\" stuff looks very suspicious!"
+    },
+    {
+     "sit": "Don't just chow on whatever suspicious stuff you find!"
+    },
+    {
+     "s": 1,
+     "t": "Uh... You're right. He seems a bit cooked in the head, and what's with that strange complexion? Paimon bets it has to do with the mushroom meat!"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat? Hee-hee, yes, it's delicious!"
+    },
+    {
+     "s": 0,
+     "t": "Here, would you like some?"
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, how do you like it? Mm... What—"
+    },
+    {
+     "s": 1,
+     "t": "What's the matter?"
+    },
+    {
+     "s": 0,
+     "t": "The mushroom meat is gone!"
+    },
+    {
+     "s": 1,
+     "t": "...Y'know what? Forget it, let's go back to the camp now!"
+    },
+    {
+     "s": 0,
+     "t": "I'm not going! I've run out of mushroom meat!"
+    },
+    {
+     "s": 0,
+     "t": "Without it, I won't even have the strength to walk. I'm not going anywhere... No mushroom meat... and no food anywhere else."
+    },
+    {
+     "s": 0,
+     "t": "But with mushroom meat, I can go anywhere!"
+    },
+    {
+     "s": 1,
+     "t": "Then, where can we find you some?"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Oh, hee-hee, I know where it is. Lemme find some for us. Let's fill our tummies and then we'll have the strength to work!"
+    },
+    {
+     "s": 0,
+     "t": "It should be around here..."
+    },
+    {
+     "s": 1,
+     "t": "Well, {NICKNAME}, Paimon guesses we can only do as he says."
+    },
+    {
+     "sit": "This does seem to be the only option now."
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Hee-hee... big mushroom meat..."
+    },
+    {
+     "section": "Paimon, Uncle He"
+    },
+    {
+     "s": 1,
+     "t": "He took them all out in a whoosh!"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! So strong!"
+    },
+    {
+     "s": 0,
+     "t": "Hee-hee... Mushroom meat, mushroom meat..."
+    },
+    {
+     "s": 0,
+     "t": "Ever since I started eating mushroom meat, my lower back pain left me and I got more strength. Hee-hee, it's like I've grown a few years younger!"
+    },
+    {
+     "s": 0,
+     "t": "And mushroom creatures are more delicious than mushroom meat! The bigger, the tastier... Hee-hee..."
+    },
+    {
+     "s": 1,
+     "t": "Could it be that Uncle He got so strong from eating mushroom meat?"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, since it might grant us more power, why don't we give it a whirl?"
+    },
+    {
+     "sit": "You sure it's \"more power\" that you're after, huh?"
+    },
+    {
+     "sit": "Please be less creative with your diet!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon just wants to see how it tastes!"
+    },
+    {
+     "s": 1,
+     "t": "But back on topic, Uncle He should be fine with following us back now, right?"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Hee-hee, yummy!"
+    },
+    {
+     "s": 1,
+     "t": "Uncle He, let's go back to the camp together!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? \"Together\"? Sure, let's have the mushroom meat together. Hee-hee, air-dried mushroom meat can be stored for a long, long time..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon means we're going back to the camp together!"
+    },
+    {
+     "s": 0,
+     "t": "The \"damp\"? What got damp? Oh, what does it matter? I'm fine with it... Hee-hee, now that I've eaten mushroom meat, damp or dry, I can go anywhere!"
+    },
+    {
+     "s": 1,
+     "t": "*sigh*"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, let's bring Uncle He back to see Jinwu."
+    },
+    {
+     "section": "Uncle He, Jinwu, Paimon, Khedive"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Hee-hee... A mushroom meal in my tummy, small mushrooms, mushroom creatures, big mushrooms... Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He? What's happened to your face?"
+    },
+    {
+     "s": 2,
+     "t": "*sigh*... I knew you were alive! To think that your family even invited me to your funeral! I refused to go, you know. Told them that nothing was certain yet without a body."
+    },
+    {
+     "s": 2,
+     "t": "Look at your face. It must've been tough for you, being trapped in the mine like that. But anyway, I'm glad that you're still alive!"
+    },
+    {
+     "s": 0,
+     "t": "Being alive is good, yes! Living, breathing mushrooms are delicious! Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He?"
+    },
+    {
+     "s": 1,
+     "t": "He was like this when we found him."
+    },
+    {
+     "s": 1,
+     "t": "He wasn't quite all there... and he kept saying that he wanted to eat mushrooms."
+    },
+    {
+     "s": 2,
+     "t": "Mushrooms..."
+    },
+    {
+     "s": 2,
+     "t": "The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things."
+    },
+    {
+     "s": 2,
+     "t": "But Uncle He's been trapped down here all these years with nothing else to eat."
+    },
+    {
+     "s": 2,
+     "t": "How am I supposed to face his family with him in this state?"
+    },
+    {
+     "sit": "Speaking of mushrooms..."
+    },
+    {
+     "sit": "Do you know anyone who does research on mushrooms?"
+    },
+    {
+     "s": 2,
+     "t": "Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms."
+    },
+    {
+     "s": 2,
+     "t": "Please wait here. I'll bring him over to check up on Uncle He."
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... mushroom meat..."
+    },
+    {
+     "s": 1,
+     "t": "*sigh* With how messed up Uncle He is, Paimon's really not sure if he can recover."
+    },
+    {
+     "s": 1,
+     "t": "If he goes back to his family like this, they'll still be pretty saddened..."
+    },
+    {
+     "s": 3,
+     "t": "You can't just kidnap me here while I was halfway through my report, Jinwu! I know you're in charge of the team's safety, but you can't just disturb my research like that..."
+    },
+    {
+     "s": 3,
+     "t": "I'm seriously considering cutting your budget as they proposed."
+    },
+    {
+     "s": 2,
+     "t": "Never mind the budget."
+    },
+    {
+     "s": 2,
+     "t": "Please check on this man here..."
+    },
+    {
+     "s": 0,
+     "t": "It's so itchy inside my earsies... Hee-hee..."
+    },
+    {
+     "s": 3,
+     "t": "Huh? Who is he? And why does he look like that?"
+    },
+    {
+     "s": 3,
+     "t": "Did you find him, {NICKNAME}? ...Seriously, how are you always able to stumble upon such peculiar events..."
+    },
+    {
+     "s": 3,
+     "t": "Then... How was he like when you found him?"
+    },
+    {
+     "sit": "You tell Khedive what happened to Uncle He...<br/>Khedive performs a careful examination on him."
+    },
+    {
+     "s": 3,
+     "t": "He's fine. It's not a big deal."
+    },
+    {
+     "s": 3,
+     "t": "You know how he always complains about the itchiness in his ears? That's because the spores of the fungi have entered his ears."
+    },
+    {
+     "s": 3,
+     "t": "Although long-term consumption of this type of fungus — I mean, mushroom — does impair one's sanity, it doesn't hurt the body."
+    },
+    {
+     "s": 2,
+     "t": "So you're saying he can recover?"
+    },
+    {
+     "s": 3,
+     "t": "I've already cleared his body of the fungi and made some medicine to treat his neurological disorder."
+    },
+    {
+     "s": 3,
+     "t": "He's very likely to recover if given ample rest."
+    },
+    {
+     "s": 2,
+     "t": "I see. Then, about the cost of the medicine..."
+    },
+    {
+     "s": 3,
+     "t": "None of the ingredients are expensive — they're only worth a month's meals at Xinyue Kiosk. It's not a big deal."
+    },
+    {
+     "s": 2,
+     "t": "Uh... I—I'll figure out some way to repay you..."
+    },
+    {
+     "s": 3,
+     "t": "No need to repay me — as a matter of fact, this incident gives me something new to write in my report."
+    },
+    {
+     "s": 3,
+     "t": "Ever since I came across these peculiar mushrooms in The Chasm, I've been curious about the long-term consequences of eating them, but I haven't found a willing assistant yet."
+    },
+    {
+     "sit": "An assistant?"
+    },
+    {
+     "sit": "\"Test subject\" is more the word, don't you think?"
+    },
+    {
+     "s": 3,
+     "t": "I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things."
+    },
+    {
+     "s": 3,
+     "t": "But... given how peculiar The Chasm is, the environment here could be another reason for his symptoms. Anyway, just have him take the medicine and get some rest. He's very likely to recover, even now."
+    },
+    {
+     "s": 2,
+     "t": "What a relief... I'll bring him up to the surface later."
+    },
+    {
+     "s": 2,
+     "t": "Once he's recovered, I'll bring him home and inform his friends as well."
+    },
+    {
+     "s": 2,
+     "t": "He's a veteran miner, and an agile one, too. He took very good care of youngsters who were new in the mine."
+    },
+    {
+     "s": 2,
+     "t": "When he went missing a few years back, everyone wondered why Rex Lapis didn't protect him. A good man's life shouldn't have ended that way, they said."
+    },
+    {
+     "s": 2,
+     "t": "I'm sure his friends will be much comforted by the news that he's back."
+    },
+    {
+     "section": "Uncle He"
+    },
+    {
+     "s": 0,
+     "t": "My ears aren't itchy anymore... But..."
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat, *sigh*, where can I find more?"
+    },
+    {
+     "section": "Uncle He, Jinwu, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Hee-hee... A mushroom meal in my tummy, small mushrooms, mushroom creatures, big mushrooms... Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He? What's happened to your face?"
+    },
+    {
+     "s": 2,
+     "t": "*sigh*... I knew you were alive! To think that your family even invited me to your funeral! I refused to go, you know. Told them that nothing was certain yet without a body."
+    },
+    {
+     "s": 2,
+     "t": "Look at your face. It must've been tough for you, being trapped in the mine like that. But anyway, I'm glad that you're still alive!"
+    },
+    {
+     "s": 0,
+     "t": "Being alive is good, yes! Living, breathing mushrooms are delicious! Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He?"
+    },
+    {
+     "s": 1,
+     "t": "He was like this when we found him."
+    },
+    {
+     "s": 1,
+     "t": "He wasn't quite all there... and he kept saying that he wanted to eat mushrooms."
+    },
+    {
+     "s": 2,
+     "t": "Mushrooms..."
+    },
+    {
+     "s": 2,
+     "t": "The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things."
+    },
+    {
+     "s": 2,
+     "t": "But Uncle He's been trapped down here all these years with nothing else to eat."
+    },
+    {
+     "s": 2,
+     "t": "How am I supposed to face his family with him in this state?"
+    },
+    {
+     "sit": "Speaking of mushrooms..."
+    },
+    {
+     "sit": "Do you know anyone who does research on mushrooms?"
+    },
+    {
+     "s": 2,
+     "t": "Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms."
+    },
+    {
+     "sit": "About Khedive..."
+    },
+    {
+     "s": 2,
+     "t": "He's still in the camp above. He said he wanted to organize his research materials and bring them down here..."
+    },
+    {
+     "s": 2,
+     "t": "We'll just have to wait till then to ask him about the situation."
+    },
+    {
+     "s": 1,
+     "t": "Paimon hopes that Uncle He will recover."
+    },
+    {
+     "s": 2,
+     "t": "He's a veteran miner, and an agile one, too. He took very good care of youngsters who were new in the mine."
+    },
+    {
+     "s": 2,
+     "t": "When he went missing a few years back, everyone wondered why Rex Lapis didn't protect him. A good man's life shouldn't have ended that way, they said."
+    },
+    {
+     "s": 2,
+     "t": "I'm sure everyone'll be elated to see him recover and return."
+    },
+    {
+     "s": 2,
+     "t": "{NICKNAME}, you have my thanks. Once Khedive is done checking on Uncle He, I'll get him out of The Chasm — I will, whatever happens."
+    },
+    {
+     "s": 2,
+     "t": "Thank you so much. I really don't know how I can repay you."
+    },
+    {
+     "section": "Uncle He, Jinwu, Paimon, Khedive"
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... Hee-hee... A mushroom meal in my tummy, small mushrooms, mushroom creatures, big mushrooms... Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He? What's happened to your face?"
+    },
+    {
+     "s": 2,
+     "t": "*sigh*... I knew you were alive! To think that your family even invited me to your funeral! I refused to go, you know. Told them that nothing was certain yet without a body."
+    },
+    {
+     "s": 2,
+     "t": "Look at your face. It must've been tough for you, being trapped in the mine like that. But anyway, I'm glad that you're still alive!"
+    },
+    {
+     "s": 0,
+     "t": "Being alive is good, yes! Living, breathing mushrooms are delicious! Hee-hee..."
+    },
+    {
+     "s": 2,
+     "t": "Uncle He?"
+    },
+    {
+     "s": 1,
+     "t": "He was like this when we found him."
+    },
+    {
+     "s": 1,
+     "t": "He wasn't quite all there... and he kept saying that he wanted to eat mushrooms."
+    },
+    {
+     "s": 2,
+     "t": "Mushrooms..."
+    },
+    {
+     "s": 2,
+     "t": "The Chasm is a dangerous place for ordinary people. Plants and fungi growing here could also be harmful to the human body. That's why Huishan Hall has set strict rules against eating these things."
+    },
+    {
+     "s": 2,
+     "t": "But Uncle He's been trapped down here all these years with nothing else to eat."
+    },
+    {
+     "s": 2,
+     "t": "How am I supposed to face his family with him in this state?"
+    },
+    {
+     "sit": "Speaking of mushrooms..."
+    },
+    {
+     "sit": "Do you know anyone who does research on mushrooms?"
+    },
+    {
+     "s": 2,
+     "t": "Now that you mention it, Khedive might be able to help. After all, he's a scholar from Sumeru. He must've conducted some research on mushrooms."
+    },
+    {
+     "s": 2,
+     "t": "Please wait here. I'll bring him over to check up on Uncle He."
+    },
+    {
+     "s": 0,
+     "t": "Mushroom meat... mushroom meat..."
+    },
+    {
+     "s": 1,
+     "t": "*sigh* With how messed up Uncle He is, Paimon's really not sure if he can recover."
+    },
+    {
+     "s": 1,
+     "t": "If he goes back to his family like this, they'll still be pretty saddened..."
+    },
+    {
+     "s": 3,
+     "t": "You can't just kidnap me here while I was halfway through my report, Jinwu! I know you're in charge of the team's safety, but you can't just disturb my research like that..."
+    },
+    {
+     "s": 3,
+     "t": "I'm seriously considering cutting your budget as they proposed."
+    },
+    {
+     "s": 2,
+     "t": "Never mind the budget."
+    },
+    {
+     "s": 2,
+     "t": "Please check on this man here..."
+    },
+    {
+     "s": 0,
+     "t": "It's itchy inside my earsies... Hee-hee..."
+    },
+    {
+     "s": 3,
+     "t": "Huh? Who is he? And why does he look like that?"
+    },
+    {
+     "s": 3,
+     "t": "Did you find him, {NICKNAME}? ...Seriously, how are you always able to stumble upon such peculiar events..."
+    },
+    {
+     "s": 3,
+     "t": "Then... How was he like when you found him?"
+    },
+    {
+     "sit": "You tell Khedive what happened to Uncle He...<br/>Khedive performs a careful examination on him."
+    },
+    {
+     "s": 3,
+     "t": "He's fine. It's not a big deal."
+    },
+    {
+     "s": 3,
+     "t": "You know how he always complains about the itchiness in his ears? That's because the spores of the fungi have entered his ears."
+    },
+    {
+     "s": 3,
+     "t": "Although long-term consumption of this type of fungus — I mean, mushroom — does impair one's sanity, it doesn't hurt the body."
+    },
+    {
+     "s": 2,
+     "t": "So you're saying he can recover?"
+    },
+    {
+     "s": 3,
+     "t": "I've already cleared his body of the fungi and made some medicine to treat his neurological disorder."
+    },
+    {
+     "s": 3,
+     "t": "He's very likely to recover if given ample rest."
+    },
+    {
+     "s": 2,
+     "t": "I see. Then, about the cost of the medicine..."
+    },
+    {
+     "s": 3,
+     "t": "None of the ingredients are expensive — they're only worth a month's meals at Xinyue Kiosk. It's not a big deal."
+    },
+    {
+     "s": 2,
+     "t": "Uh... I—I'll figure out some way to repay you..."
+    },
+    {
+     "s": 3,
+     "t": "No need to repay me — as a matter of fact, this incident gives me something new to write in my report."
+    },
+    {
+     "s": 3,
+     "t": "Ever since I came across these peculiar mushrooms in The Chasm, I've been curious about the long-term consequences of eating them, but I haven't found a willing assistant yet."
+    },
+    {
+     "sit": "An assistant?"
+    },
+    {
+     "sit": "\"Test subject\" is more the word, don't you think?"
+    },
+    {
+     "s": 3,
+     "t": "I mean, someone whose responsibility is to eat the mushrooms. Everyone seems to have reservations. Although they know that no great harm will come to them, they just don't dare to eat the things."
+    },
+    {
+     "s": 3,
+     "t": "But... given how peculiar The Chasm is, the environment here could be another reason for his symptoms. Anyway, just have him take the medicine and get some rest. He's very likely to recover, even now."
+    },
+    {
+     "s": 2,
+     "t": "What a relief... I'll bring him up to the surface later."
+    },
+    {
+     "s": 2,
+     "t": "Once he's recovered, I'll bring him home and inform his friends as well."
+    },
+    {
+     "s": 2,
+     "t": "He's a veteran miner, and an agile one, too. He took very good care of youngsters who were new in the mine."
+    },
+    {
+     "s": 2,
+     "t": "When he went missing a few years back, everyone wondered why Rex Lapis didn't protect him. A good man's life shouldn't have ended that way, they said."
+    },
+    {
+     "s": 2,
+     "t": "I'm sure his friends will be much comforted by the news that he's back."
+    }
+   ],
+   "description": "Uncle He, a veteran miner at The Chasm, went missing when the mine was previously evacuated. But due to a series of coincidences, you unearth evidence that he may still be alive…"
+  }
+ ],
+ "speakers": [
+  "Uncle He",
+  "Paimon",
+  "Jinwu",
+  "Khedive"
+ ]
+}

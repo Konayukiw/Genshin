@@ -1,0 +1,2885 @@
+{
+ "chapter": "Imperatrix Umbrosa Chapter",
+ "chapter_title": "Transient Dreams",
+ "act": "Act 2",
+ "act_title": "Transient Dreams",
+ "region": null,
+ "quests": [
+  {
+   "title": "Cleansing Light",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Ad astra abyssosque, {NICKNAME}."
+    },
+    {
+     "s": 0,
+     "t": "Recently, the Adventurers' Guild has received an unusual commission, and after careful consideration, we believe that—"
+    },
+    {
+     "s": 1,
+     "t": "\"The traveler would be the most suitable candidate.\" Right?"
+    },
+    {
+     "s": 0,
+     "t": "Hehe, indeed. As ever."
+    },
+    {
+     "s": 0,
+     "t": "I will spare the pleasantries, then. May I ask if you two are available to help?"
+    },
+    {
+     "sit": "Of course, that's what we're here for."
+    },
+    {
+     "sit": "It'll depend on the task and the compensation."
+    },
+    {
+     "s": 0,
+     "t": "Well, let me go over it briefly. Our client for this job is the Yashiro Commission. Apparently, rifthounds are attacking the roots of the Sacred Sakura nearby Mt. Yougou in great numbers."
+    },
+    {
+     "s": 1,
+     "t": "Rifthounds? ...On Narukami Island?"
+    },
+    {
+     "s": 0,
+     "t": "Yes. We are not sure where exactly these creatures come from. But this time, they are attacking in alarming numbers with great aggression and a clear target."
+    },
+    {
+     "s": 0,
+     "t": "The Sacred Sakura is of tremendous importance to Inazuma. I trust you are aware of this already?"
+    },
+    {
+     "sit": "I believe I understand."
+    },
+    {
+     "sit": "I'm hazy."
+    },
+    {
+     "s": 0,
+     "t": "Good. Then you can see that this case is very urgent indeed."
+    },
+    {
+     "s": 1,
+     "t": "Is the Tenryou Commission aware?"
+    },
+    {
+     "s": 0,
+     "t": "Yes, and they are already taking action of their own. However, given that the Sacred Sakura's root system is vast and complex, and faced with the unpredictability and scale of the rifthounds' attacks, they are finding it difficult to defend against them."
+    },
+    {
+     "s": 0,
+     "t": "Their main priority is to protect the civilian population. So they are actively looking to cooperate with all other available forces to eliminate the monsters."
+    },
+    {
+     "s": 0,
+     "t": "The Adventurers' Guild is one of the key parties assisting the Tenryou Commission with their work. But so far, the combined efforts to combat the rifthounds has failed to substantially ameliorate the situation."
+    },
+    {
+     "sit": "Time to make some whelps yelp."
+    },
+    {
+     "sit": "I'll send these pooches packing."
+    },
+    {
+     "s": 0,
+     "t": "You have our deepest gratitude. Your confident response puts me far more at ease."
+    },
+    {
+     "s": 0,
+     "t": "I will mark on your map the areas where rifthound appearances have been recently reported. I hope you won't encounter too much trouble overcoming them."
+    },
+    {
+     "s": 1,
+     "t": "Relax! We'll be back before you can say \"ad astra abyssosque.\""
+    },
+    {
+     "s": 2,
+     "t": "I'll send these pooches packing."
+    },
+    {
+     "s": 2,
+     "t": "I'm hazy."
+    },
+    {
+     "s": 0,
+     "t": "For a long time, the Sacred Sakura has been absorbing filth from Inazuma's Ley Lines to maintain stability in the land."
+    },
+    {
+     "s": 0,
+     "t": "If it were ever damaged, the filth would once again invade Inazuma, causing great catastrophe. That's why this is a rather urgent case."
+    },
+    {
+     "s": 2,
+     "t": "It'll depend on the task and the compensation."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "Torn to oblivion!"
+    },
+    {
+     "s": 1,
+     "t": "Sh—Shogun? Wait, no... could also be Ei..."
+    },
+    {
+     "s": 3,
+     "t": "...It's you two."
+    },
+    {
+     "s": 3,
+     "t": "It has been a long time. We have not seen each other since the resolution of the Tenryou Commission crisis."
+    },
+    {
+     "s": 1,
+     "t": "Okay, sounds more like Ei... it is you, right?"
+    },
+    {
+     "s": 1,
+     "t": "You sure made short work of them. That was amazing!"
+    },
+    {
+     "sit": "...What are you doing here?"
+    },
+    {
+     "sit": "What brings you out this time?"
+    },
+    {
+     "s": 3,
+     "t": "I'm making early preparations for what is to come."
+    },
+    {
+     "s": 3,
+     "t": "Last time we took a walk around Inazuma together, I witnessed the way the world is today. I was finally able to comprehend some things that I had never understood in the past."
+    },
+    {
+     "s": 3,
+     "t": "Since then, every time I encounter an obstacle in my thinking, I find myself having the urge to spend some time in the outside world."
+    },
+    {
+     "s": 1,
+     "t": "Makes sense. You must get super bored being stuck in there all the time."
+    },
+    {
+     "s": 3,
+     "t": "...Might I remind you that I am not here to amuse myself."
+    },
+    {
+     "s": 3,
+     "t": "Recently, I have observed a number of changes in the external world from the Plane of Euthymia. The most serious of these being the attack on the Sacred Sakura by numerous rifthounds."
+    },
+    {
+     "s": 3,
+     "t": "I considered this matter worthy of my attention. So I pursued them, and they led me here, where I happened to run into you."
+    },
+    {
+     "sit": "But the Commissions and adventurers can deal with monsters."
+    },
+    {
+     "sit": "It doesn't seem like a matter needing the archon's attention..."
+    },
+    {
+     "s": 3,
+     "t": "If the Shogun rather than I were to discover them... Yes, perhaps she would have left the situation alone."
+    },
+    {
+     "s": 1,
+     "t": "Hmm? Why? Because she's just a puppet?"
+    },
+    {
+     "s": 3,
+     "t": "Precisely. According to the rules I designed for her, matters of this nature are to be delegated to the Tri-Commission."
+    },
+    {
+     "s": 3,
+     "t": "But rifthounds attacking the Sacred Sakura... it brings back bad memories of that terrible disaster..."
+    },
+    {
+     "s": 1,
+     "t": "A disaster?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. Five hundred years ago, a great catastrophe befell Inazuma."
+    },
+    {
+     "s": 3,
+     "t": "Everything was engulfed in a pitch-black fog and monsters ravaged the land... Countless lives were lost, and this homeland that the people had worked so hard to build barely escaped being obliterated entirely."
+    },
+    {
+     "s": 3,
+     "t": "The monsters committed many atrocities on Inazuman soil. And the rifthounds were always their advance guard."
+    },
+    {
+     "s": 3,
+     "t": "Their duty was to tear open a passage through space with their claws and teeth, and then call in even more powerful beasts."
+    },
+    {
+     "s": 2,
+     "t": "Five hundred years ago... Khaenri'ah."
+    },
+    {
+     "s": 3,
+     "t": "Hmm. So you've heard of it, too."
+    },
+    {
+     "s": 3,
+     "t": "That's an episode of history that I am loath to recall. Maybe to you, it seems like my response to these creatures was an excessive one."
+    },
+    {
+     "s": 3,
+     "t": "But an excess of caution is not unwarranted in this case."
+    },
+    {
+     "s": 1,
+     "t": "Guess you can't argue with that..."
+    },
+    {
+     "s": 3,
+     "t": "Since we are both here for the same reason, let us work together."
+    },
+    {
+     "s": 3,
+     "t": "From the traces they've left in the surrounding area, there should be many more monsters nearby. All of them must be eliminated."
+    },
+    {
+     "s": 2,
+     "t": "Let's go."
+    },
+    {
+     "s": 1,
+     "t": "Paimon feels so safe when we're in Ei's company! Having someone uber-powerful on your team kinda makes you feel invincible, doesn't it?"
+    },
+    {
+     "s": 1,
+     "t": "Oh, yeah — after we've dealt with the monsters, we should ask her to tell us more about Khaenri'ah."
+    },
+    {
+     "s": 2,
+     "t": "It doesn't seem like a matter needing the archon's attention..."
+    },
+    {
+     "s": 2,
+     "t": "What brings you out this time?"
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "We are lucky... the damage is not too serious. The Yashiro Commission will be able to nurse the root system back to health."
+    },
+    {
+     "s": 1,
+     "t": "This stuff that's flowing out, is it sap or something? And how come it's glowing..."
+    },
+    {
+     "s": 1,
+     "t": "...Huh?"
+    },
+    {
+     "s": 1,
+     "t": "Wh—What's this?"
+    },
+    {
+     "sit": "Is someone injured?"
+    },
+    {
+     "sit": "How terrible."
+    },
+    {
+     "s": 1,
+     "t": "Could they be... dead people? It wouldn't be the first time we'd seen ghosts on our journey."
+    },
+    {
+     "s": 1,
+     "t": "But... why would they appear here?"
+    },
+    {
+     "s": 3,
+     "t": "Let's search the area. Perhaps we will find out."
+    },
+    {
+     "s": 4,
+     "t": "Ugh... ugh..."
+    },
+    {
+     "s": 4,
+     "t": "I can't go on like this... not when the other troops are counting on me..."
+    },
+    {
+     "s": 1,
+     "t": "What happened here? Could you tell us?"
+    },
+    {
+     "s": 4,
+     "t": "Who are you? What are you doing here?"
+    },
+    {
+     "s": 4,
+     "t": "Run, quick, while you still can! The monsters will be back... And once you're in their sights, I'm telling you — there's no escaping them!"
+    },
+    {
+     "s": 4,
+     "t": "We will defend Inazuma... until our dying breath!"
+    },
+    {
+     "sit": "What exactly happened?"
+    },
+    {
+     "sit": "What monsters?"
+    },
+    {
+     "s": 4,
+     "t": "You... you don't know? Inazuma is engulfed in darkness."
+    },
+    {
+     "s": 4,
+     "t": "Beasts and horrifying monsters are everywhere! They are merciless, ferocious... and they will devour everything in their path..."
+    },
+    {
+     "s": 4,
+     "t": "Every last trace of humanity's existence, I tell you... they'll devour it all..."
+    },
+    {
+     "s": 1,
+     "t": "But look... none of that seems to be going on around here."
+    },
+    {
+     "s": 4,
+     "t": "Not right now, but they'll be back... Look — get out of here, now!!! There's no time left!"
+    },
+    {
+     "s": 4,
+     "t": "The Almighty Shogun is gone, so is Kitsune Saiguu. There's no one left to rely on but ourselves."
+    },
+    {
+     "s": 4,
+     "t": "I don't know how long we can hold out for, but... if we abandon our hope, then we've got nothing left at all."
+    },
+    {
+     "s": 3,
+     "t": "Don't worry. I am right here."
+    },
+    {
+     "s": 4,
+     "t": "It's... the Shogun!?"
+    },
+    {
+     "s": 4,
+     "t": "You're back!"
+    },
+    {
+     "s": 4,
+     "t": "Please, we beg you... you have to help us... you have to save Inazuma!"
+    },
+    {
+     "s": 4,
+     "t": "Only the glow of your supreme lightning can dispel this terrible darkness... please, or the whole of Inazuma will be reduced to a hunting ground for the beasts!"
+    },
+    {
+     "s": 3,
+     "t": "Calm down. The war you speak of is over."
+    },
+    {
+     "s": 4,
+     "t": "Over? But... what do you mean, Shogun..."
+    },
+    {
+     "s": 3,
+     "t": "Look around you. The grass grows green and lush and a soft breeze blows. This is Inazuma at peace, as you will no doubt remember."
+    },
+    {
+     "s": 3,
+     "t": "There are no monsters, nor is there anything else here that could threaten your life."
+    },
+    {
+     "s": 4,
+     "t": "Hmm..."
+    },
+    {
+     "s": 4,
+     "t": "But... how? Just moments ago, they were everywhere..."
+    },
+    {
+     "s": 4,
+     "t": "I saw them tear my comrade to shreds with my own eyes..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, calm down! Everything's fine now!"
+    },
+    {
+     "s": 4,
+     "t": "Huh..."
+    },
+    {
+     "s": 4,
+     "t": "I think I understand... Almighty Shogun... you saved Inazuma!"
+    },
+    {
+     "s": 4,
+     "t": "Yes... we were right to place our trust in the Almighty Shogun. As long as the Shogun is with us, Inazuma will last for an eternity..."
+    },
+    {
+     "s": 4,
+     "t": "Thank you, Your Excellency, thank you, thank you..."
+    },
+    {
+     "s": 1,
+     "t": "Wh—What's wrong with him?"
+    },
+    {
+     "s": 2,
+     "t": "Is he disappearing?"
+    },
+    {
+     "s": 3,
+     "t": "...He's gone."
+    },
+    {
+     "s": 1,
+     "t": "...Paimon can't even begin to understand what that was all about... but somehow, Paimon feels all sad and hopeless..."
+    },
+    {
+     "s": 3,
+     "t": "If I am not mistaken, what we just saw was a samurai's memory that was buried in the land."
+    },
+    {
+     "s": 3,
+     "t": "The Sacred Sakura can absorb and purify the filth in the Ley Lines. After the rifthounds attacked, some of this filth leaked out through the cracks in the trunk and formed a physical entity."
+    },
+    {
+     "s": 3,
+     "t": "An entity formed with strong filth would be highly aggressive. But when purified, it presents in the form of a memory."
+    },
+    {
+     "s": 3,
+     "t": "Purified filth quickly dissipates and will be absorbed by the Ley Lines shortly afterwards. In other words, it cannot exist for too long."
+    },
+    {
+     "sit": "I see..."
+    },
+    {
+     "sit": "The same thing happened to Dusky Ming."
+    },
+    {
+     "s": 1,
+     "t": "So the memories of the ones that died are all appearing at this moment?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. That soldier was one of the many thousands who made the ultimate sacrifice. What he was describing just now was precisely the disaster that happened in Inazuma 500 years ago."
+    },
+    {
+     "sit": "He mentioned that the Shogun was absent..."
+    },
+    {
+     "sit": "He mentioned that Kitsune Saiguu was absent..."
+    },
+    {
+     "s": 3,
+     "t": "Yes. Inazuma was facing many great crises at that time. Some were local in origin, while others... others came from the now-fallen kingdom of Khaenri'ah."
+    },
+    {
+     "s": 3,
+     "t": "The disaster in Inazuma caused me great concern. I felt that I had to step in before it was too late, otherwise it would spread to all of Teyvat."
+    },
+    {
+     "s": 3,
+     "t": "But my friend, Kitsune Saiguu, reassured me that I had nothing to worry about. She would shoulder the responsibility of protecting Inazuma, and mobilize all forces at her disposal to combat the threat."
+    },
+    {
+     "s": 3,
+     "t": "...I could tell that although neither of us acknowledged it, we both knew that the road ahead would likely end in tragedy."
+    },
+    {
+     "s": 1,
+     "t": "So... Inazuma was attacked at the same time as when the disaster happened in Khaenri'ah?"
+    },
+    {
+     "s": 3,
+     "t": "Indeed. Countless monsters suddenly appeared throughout all of Inazuma. In the end... Kitsune Saiguu sacrificed her life to protect the people."
+    },
+    {
+     "s": 3,
+     "t": "I never had the chance to see her one last time. But I would like to believe that she kept her promise to me until the very last."
+    },
+    {
+     "s": 3,
+     "t": "But even then, Inazuma was left more devastated than we could have ever imagined. Those terrible tragedies left great wounds that are still felt to this day, both on the land itself... and in my heart."
+    },
+    {
+     "s": 1,
+     "t": "Ei..."
+    },
+    {
+     "s": 2,
+     "t": "Is this the \"loss\" that Yae Miko mentioned?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. For the longest time, I couldn't bring myself to face the pain of that loss."
+    },
+    {
+     "s": 3,
+     "t": "All my martial might was in vain... Though I could conquer Tatarigami and vanquish monsters, I was helpless against the ravages of time, powerless to keep the ones I cherished alive."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "But after my clash with human ambition, I thought long and hard. Now I realize I cannot fixate on the past forever."
+    },
+    {
+     "s": 2,
+     "t": "So you're no longer stuck in the past?"
+    },
+    {
+     "s": 3,
+     "t": "...When I traveled around Inazuma with you, I caught a glimpse of how the nation has progressed over the centuries. A glimpse of human potential. Everything far exceeded my expectations."
+    },
+    {
+     "s": 3,
+     "t": "Moving forward inevitably invites further loss, but also new encounters."
+    },
+    {
+     "s": 3,
+     "t": "Just think of that soldier. Despite all the losses he had experienced, he still chose to keep fighting, for the sake of moving forward."
+    },
+    {
+     "s": 3,
+     "t": "All those who sacrificed themselves back then gave their lives fighting for a future... but perhaps the future they were hoping for is not the eternity that I once strove for."
+    },
+    {
+     "sit": "Absolutely."
+    },
+    {
+     "sit": "That's what being human is about."
+    },
+    {
+     "s": 3,
+     "t": "As Inazuma's god, it is high time I honored their wishes."
+    },
+    {
+     "s": 3,
+     "t": "Warriors of the past who spilled your blood on this land, your noble souls now rest in this earth."
+    },
+    {
+     "s": 3,
+     "t": "I will never forget you, and all that you did for Inazuma."
+    },
+    {
+     "s": 1,
+     "t": "Ei's taking all this pretty hard..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Come on. Let's keep investigating the damage to the Sacred Sakura."
+    },
+    {
+     "s": 2,
+     "t": "That's what being human is about."
+    },
+    {
+     "s": 2,
+     "t": "He mentioned that Kitsune Saiguu was absent..."
+    },
+    {
+     "s": 2,
+     "t": "The same thing happened to Dusky Ming."
+    },
+    {
+     "s": 2,
+     "t": "What monsters?"
+    },
+    {
+     "s": 2,
+     "t": "How terrible."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 1,
+     "t": "Hmm, something seems wrong with Ei..."
+    },
+    {
+     "s": 2,
+     "t": "Are you feeling okay?"
+    },
+    {
+     "s": 3,
+     "t": "Why would you ask that?"
+    },
+    {
+     "s": 1,
+     "t": "Well, usually, you'd pull out your sword and \"swish,\" vaporize them all in one go, no?"
+    },
+    {
+     "s": 3,
+     "t": "You are unduly concerned. I'm simply conserving my energy."
+    },
+    {
+     "s": 3,
+     "t": "Although I have some understanding of the situation already, it could take an unexpected turn at any time."
+    },
+    {
+     "s": 3,
+     "t": "I must be prepared for anything. If there are more formidable monsters lying in wait in this area, I must make sure I have the strength to face them."
+    },
+    {
+     "s": 1,
+     "t": "Ah, makes sense! Spoken like a seasoned shogun."
+    },
+    {
+     "s": 1,
+     "t": "The roots seem pretty badly damaged this time... We definitely need to tell the Yashiro Commission about this."
+    },
+    {
+     "s": 1,
+     "t": "Hey, the same light is leaking out again."
+    },
+    {
+     "s": 2,
+     "t": "Is it the same situation as before?"
+    },
+    {
+     "s": 3,
+     "t": "...Furuyama? Is that you?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm?"
+    },
+    {
+     "s": 5,
+     "t": "Almighty Shogun? What brings you back so soon? I thought you were off fighting a battle in a distant land?"
+    },
+    {
+     "s": 1,
+     "t": "(Fighting a battle in a distant land? Sounds like this guy's talking about 500 years ago, too.)"
+    },
+    {
+     "s": 3,
+     "t": "Allow me to introduce Furuyama. He is a tea master and a member of my retinue."
+    },
+    {
+     "s": 3,
+     "t": "Though blind, Furuyama is unparalleled in his ability to appraise tea. He brews some of the very finest tea in all of Inazuma."
+    },
+    {
+     "s": 5,
+     "t": "Your Excellency, you shower me with praise undeserved. I have simply had the good fortune to be in Your Excellency's presence long enough to become acquainted with all the skills that are required of me."
+    },
+    {
+     "s": 5,
+     "t": "It sounds like the Almighty Shogun has brought a guest?"
+    },
+    {
+     "s": 5,
+     "t": "...I'm afraid I am unable to serve you any respectable refreshments on account of the current situation... but please sit and rest."
+    },
+    {
+     "s": 5,
+     "t": "After all... it's quite a mess out there."
+    },
+    {
+     "s": 1,
+     "t": "Um... what should we do?"
+    },
+    {
+     "sit": "Let's go along with what he says."
+    },
+    {
+     "sit": "I want to learn more about the past."
+    },
+    {
+     "s": 1,
+     "t": "Oh, um... yeah, sheesh, there's monsters everywhere out there, it's pitch-black, and loads of people have been injured..."
+    },
+    {
+     "s": 5,
+     "t": "I see. So they have fought their way this far already."
+    },
+    {
+     "s": 5,
+     "t": "Most of the residents in this neighborhood have already escaped. They wanted to take me with them, but it seemed rather pointless to me. So I decided to stay."
+    },
+    {
+     "s": 5,
+     "t": "And now the Almighty Shogun is here, I have even less reason to run away, hehe."
+    },
+    {
+     "s": 5,
+     "t": "Imagine, if this was something that even the Almighty Shogun was powerless to resolve, where could I possibly run to then?"
+    },
+    {
+     "s": 2,
+     "t": "How come you're not panicking?"
+    },
+    {
+     "s": 5,
+     "t": "People flee out of a desire to live on. And the desire to live on stems from a feeling of having unfinished business in life."
+    },
+    {
+     "s": 5,
+     "t": "But me? I have no such thoughts, and I have no regrets."
+    },
+    {
+     "s": 5,
+     "t": "The Almighty Shogun often speaks to me about her dreams over tea."
+    },
+    {
+     "s": 5,
+     "t": "Just listening to her stories, ahh... I've been blind for many years, but her vivid descriptions took me on a splendid journey to all the most beautiful places in Inazuma... Over time, I've come to understand her mindset. Quite the romantic at heart. A true dreamer."
+    },
+    {
+     "s": 5,
+     "t": "One thing she always says is... \"Good things don't last forever. Everything changes, fades, disappears completely over the passage of time. And so, people must make the most of the life they have, seize the chance to enjoy it while it lasts, and have no regrets in the end...\""
+    },
+    {
+     "s": 1,
+     "t": "Umm..."
+    },
+    {
+     "sit": "(That doesn't sound like Ei at all...)"
+    },
+    {
+     "sit": "(This doesn't fit the definition of eternity at all.)"
+    },
+    {
+     "s": 5,
+     "t": "So you see, as bleak as things may be now, I have experienced countless wonderful things in life, and have no reason not to be satisfied."
+    },
+    {
+     "s": 3,
+     "t": "Perhaps... you are right."
+    },
+    {
+     "s": 5,
+     "t": "It won't be long now before I have to say goodbye to the Almighty Shogun for the last time. Ah, what a pity... I'll never get to see what Inazuma looks like after the Almighty Shogun rebuilds it anew."
+    },
+    {
+     "s": 5,
+     "t": "But I suppose it doesn't matter. Everyone says that Inazuma has turned dark now... but to me, it went dark a long time ago."
+    },
+    {
+     "s": 5,
+     "t": "Once this catastrophe is over, life is sure to spring forth anew. But even if I survived until then, I'd probably be a hopelessly befuddled old so-and-so by then... Hahaha, so never mind, eh."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "Oh, goodness me. Speaking of befuddled, look at me rambling away to my heart's content and forgetting to serve the tea."
+    },
+    {
+     "s": 5,
+     "t": "The Almighty Shogun comes to visit and I don't have the tea ready. A truly egregious loss of decorum."
+    },
+    {
+     "s": 5,
+     "t": "One moment, I'll just... Hmm? Where in the world is the tea set?"
+    },
+    {
+     "s": 5,
+     "t": "I hope the others didn't smash it to smithereens in their hasty departure."
+    },
+    {
+     "s": 1,
+     "t": "Can't see a tea set anywhere around here..."
+    },
+    {
+     "s": 5,
+     "t": "Really? But it's always been right by my side... Goodness gracious... What a fool I'm making of myself."
+    },
+    {
+     "s": 2,
+     "t": "We know where to find a tea set."
+    },
+    {
+     "s": 5,
+     "t": "I couldn't possibly have my guests fetch it themselves, that would be most discourteous indeed."
+    },
+    {
+     "s": 3,
+     "t": "Don't worry about it. Take a rest, we'll be back right away."
+    },
+    {
+     "s": 5,
+     "t": "Almighty Shogun, you're not going too, are you? No, no, no, your humble servant implores you... Not with the war raging outside..."
+    },
+    {
+     "s": 3,
+     "t": "This place is... complicated. It's quite unlike the tea house in your memories."
+    },
+    {
+     "s": 3,
+     "t": "Leave it to us."
+    },
+    {
+     "s": 5,
+     "t": "But... well, okay. I never thought I'd see the day that I need the Almighty Shogun to personally collect my tea set for me..."
+    },
+    {
+     "s": 5,
+     "t": "I can't decide whether it's a final regret or a final stroke of good fortune, haha."
+    },
+    {
+     "s": 2,
+     "t": "(This doesn't fit the definition of eternity at all.)"
+    },
+    {
+     "s": 2,
+     "t": "I want to learn more about the past."
+    },
+    {
+     "section": "Furuyama"
+    },
+    {
+     "s": 5,
+     "t": "After my eyes went bad, many aspects of daily life became much more challenging. But I always wanted to be a competent tea brewer, right to the end."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* But now, it looks like I have to rely on you."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 6,
+     "t": "It's the Traveler, and... the Almighty Shogun!"
+    },
+    {
+     "s": 6,
+     "t": "How might I be of assistance, Your Excellency?"
+    },
+    {
+     "s": 3,
+     "t": "I wish to borrow a tea set from the Yashiro Commission."
+    },
+    {
+     "s": 6,
+     "t": "Oh, uh, sure! I'll fetch that for you right away."
+    },
+    {
+     "s": 6,
+     "t": "Uh, please step into the courtyard and have a rest, Almighty Shogun. Oh, and I'll inform my lord about your visit immediately. Ah, and the tea set, I'll bring that here as soon as it's ready..."
+    },
+    {
+     "s": 3,
+     "t": "Be at ease, I'm not here to see Commissioner Kamisato. Actually, I'd prefer to spend this time chatting with the Traveler. Please, fetch the tea set at your convenience."
+    },
+    {
+     "s": 6,
+     "t": "No, no, no. I am your humble servant, I daren't think of my own convenience when the Almighty Shogun graces me with her presence! I'll deal with it right away."
+    },
+    {
+     "s": 3,
+     "t": "Well, it's not often we have the chance to chat. I'm sure you must have a lot of questions?"
+    },
+    {
+     "s": 2,
+     "t": "Was it really you that that tea master used to serve?"
+    },
+    {
+     "s": 1,
+     "t": "Right, Paimon wanted to ask that, too! The Almighty Shogun that he described didn't sound anything like you at all."
+    },
+    {
+     "s": 3,
+     "t": "I seldom had the time to drink tea. Any free time I had was spent practicing martial arts."
+    },
+    {
+     "s": 3,
+     "t": "So in the vast majority of cases, the one he made tea for was the former Electro Archon... who was also my sister. Raiden Makoto."
+    },
+    {
+     "s": 3,
+     "t": "He may well have had an inkling about there being two \"Raiden Shoguns.\" But he always acted as if he was completely unaware of it."
+    },
+    {
+     "s": 3,
+     "t": "The philosophy of life that he shared with us just now, that was Makoto's view on reality. She always saw things that way."
+    },
+    {
+     "s": 1,
+     "t": "You and Makoto had pretty different views, huh..."
+    },
+    {
+     "s": 3,
+     "t": "Indeed we did. It was the biggest difference between us."
+    },
+    {
+     "s": 3,
+     "t": "In her eyes, the most precious things in this world were dreams — the yearning for a better future held by living beings."
+    },
+    {
+     "s": 2,
+     "t": "Dreams... or in other words, \"ambitions\"?"
+    },
+    {
+     "s": 3,
+     "t": "They are similar, but not identical."
+    },
+    {
+     "s": 3,
+     "t": "When you came charging into the Plane of Euthymia, I saw human aspirations light up the sky far above in the form of countless stars. This... somewhat shook me."
+    },
+    {
+     "s": 3,
+     "t": "Now, it seems like she was right, while I took the wayward path."
+    },
+    {
+     "s": 1,
+     "t": "Wow. There sure was a lot going on beneath the surface..."
+    },
+    {
+     "s": 3,
+     "t": "Makoto saw a bigger picture than I did. In her view, a \"dream\" is more imaginary, more abstract than an \"ambition.\""
+    },
+    {
+     "s": 3,
+     "t": "An \"ambition\" is a yearning for something material, or a concrete outcome. It is finite in nature, and will be replaced by a new ambition in due course."
+    },
+    {
+     "s": 3,
+     "t": "Makoto was more concerned with the force that drives humans to constantly generate new ambitions in the first place. It is something innate, rooted in instinct — in other words... it is something eternal."
+    },
+    {
+     "s": 1,
+     "t": "That's, uh, quite a lot to take in..."
+    },
+    {
+     "s": 3,
+     "t": "To put it simply, Makoto wasn't concerned about outcomes."
+    },
+    {
+     "s": 3,
+     "t": "I didn't understand at the time. How can we say that we are maintaining eternity when things are constantly moving forward and evolving?"
+    },
+    {
+     "s": 3,
+     "t": "I suppose what it comes down to is the definition of \"eternity\" she set out with."
+    },
+    {
+     "s": 2,
+     "t": "It seems more in line with how humans view the world."
+    },
+    {
+     "s": 3,
+     "t": "Yes, it does. I always thought that she must have grasped some elusive, arcane wisdom to arrive at the conclusions she did."
+    },
+    {
+     "s": 3,
+     "t": "But in the last analysis, Makoto's philosophy was — on the surface, at least — an elegantly simple one. Notwithstanding that it was also the more prudent choice, based on a more mature, far-sighted outlook."
+    },
+    {
+     "s": 1,
+     "t": "Do you feel you're starting to understand her better now?"
+    },
+    {
+     "s": 3,
+     "t": "You have already witnessed my previous views on eternity."
+    },
+    {
+     "s": 3,
+     "t": "But now, I no longer cling to what was lost. I suppose that means our differences have been reconciled."
+    },
+    {
+     "s": 6,
+     "t": "Almighty Shogun, I found a tea set! This one in particular should be fit for Your Excellency's use..."
+    },
+    {
+     "s": 3,
+     "t": "It's quite beautiful. Thank you."
+    },
+    {
+     "s": 6,
+     "t": "You are too kind, a humble servant such as I does not deserve the gratitude of the Almighty Shogun..."
+    },
+    {
+     "s": 1,
+     "t": "It's all good, Sir! She's actually pretty chill."
+    },
+    {
+     "s": 3,
+     "t": "Let us return. We ought not keep Furuyama waiting too long."
+    },
+    {
+     "section": "Hirano"
+    },
+    {
+     "s": 6,
+     "t": "Take care, Almighty Shogun. You too, Traveler... And you too, um, uh... y—you take care too, anyway."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 1,
+     "t": "Hey, where'd he go?"
+    },
+    {
+     "s": 1,
+     "t": "He wouldn't have gone looking for a tea set himself, would he?"
+    },
+    {
+     "s": 2,
+     "t": "Wouldn't put it past him..."
+    },
+    {
+     "s": 3,
+     "t": "Or perhaps the Ley Lines did not have the power to sustain him for very long. As was the case with the memory we saw earlier."
+    },
+    {
+     "s": 1,
+     "t": "So... so we won't get to drink his tea?"
+    },
+    {
+     "s": 1,
+     "t": "We didn't even have a chance to say goodbye... *sobs*"
+    },
+    {
+     "s": 3,
+     "t": "The information held in the Ley Lines is complex and disorderly. The fact that we were able to meet him to begin with was a miracle of fate..."
+    },
+    {
+     "s": 1,
+     "t": "Mmm..."
+    },
+    {
+     "sit": "Cheer up, Paimon."
+    },
+    {
+     "sit": "Let's make our own tea."
+    },
+    {
+     "s": 3,
+     "t": "Well, this chance won't come often, and we do have a tea set. Perhaps I should try my hand at making us a pot of tea."
+    },
+    {
+     "s": 3,
+     "t": "I've watched Furuyama brew tea on many occasions... I doubt I should have any major problems doing it myself."
+    },
+    {
+     "sit": "Ei brews a piping-hot pot of tea with the tea set."
+    },
+    {
+     "s": 3,
+     "t": "The tea is ready, please give it a try."
+    },
+    {
+     "s": 3,
+     "t": "So many thoughts were racing through my head as I was brewing it, I... I'm not sure how to explain it..."
+    },
+    {
+     "sit": "You don't need to. I understand."
+    },
+    {
+     "sit": "It's just the memories flooding back in..."
+    },
+    {
+     "s": 3,
+     "t": "You're right, but the things we've seen today have brought back many memories for me."
+    },
+    {
+     "s": 3,
+     "t": "I've been reminded of many people, too. Kitsune Saiguu, Makoto, and all the other friends who I watched pass even further back."
+    },
+    {
+     "s": 3,
+     "t": "Back at the Yashiro Commission, I kept the conversation reasonably light-hearted. But now... I'd like to broach a heavier topic, if I may."
+    },
+    {
+     "s": 3,
+     "t": "The events of 500 years ago not only robbed me of my friend, Kitsune Saiguu... they also took Makoto away from me for good."
+    },
+    {
+     "s": 1,
+     "t": "She died in that disaster too?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. She went to Khaenri'ah alone, without telling me."
+    },
+    {
+     "s": 3,
+     "t": "Unlike me, Makoto was no martial artist. Whenever similar crises had arisen in the past, I was always the one to face them in her stead."
+    },
+    {
+     "s": 3,
+     "t": "But this time, the circumstances were so grave that Makoto had no choice but to leave me behind. Or... perhaps it was more that she went ahead of me, put herself in front of me so that I would remain hidden. In any case, by the time I realized what was happening..."
+    },
+    {
+     "s": 2,
+     "t": "Makoto had already..."
+    },
+    {
+     "s": 3,
+     "t": "Yes. It was too late. I arrived only in time to hear her dying breath."
+    },
+    {
+     "s": 3,
+     "t": "She had already lapsed into unconsciousness by that point, so all I could do was enter into her mind... As far as you're concerned, it would be somewhere similar to the Plane of Euthymia."
+    },
+    {
+     "s": 3,
+     "t": "It was there that we bid each other a final farewell. I cried bitterly. Even in those final moments, I couldn't understand her actions."
+    },
+    {
+     "s": 3,
+     "t": "Why did she go to Khaenri'ah first, and not I? Why did she keep me in the dark about it? Was it to shield me?"
+    },
+    {
+     "s": 3,
+     "t": "It was there and then that I resolved to pursue eternity. As a testament to that decision, I saved her realm of consciousness just before it collapsed completely, and brought it back to Inazuma."
+    },
+    {
+     "s": 1,
+     "t": "That's quite a story..."
+    },
+    {
+     "s": 3,
+     "t": "When I returned to Inazuma, I was shocked to find that a great sakura tree had appeared on Mt. Yougou. The tree that you know as the Sacred Sakura."
+    },
+    {
+     "sit": "...\"Appeared\"?"
+    },
+    {
+     "sit": "The Sacred Sakura has always been there, hasn't it?"
+    },
+    {
+     "s": 3,
+     "t": "That's exactly what everyone back then told me as well. That it had existed since time immemorial. They were so matter-of-fact about it, and couldn't at all understand what I was so surprised about."
+    },
+    {
+     "s": 3,
+     "t": "No one questioned it, and yet its presence contrasted so starkly with the area as I remembered it... it seemed as if I was the only one to have noticed it appear suddenly out of thin air."
+    },
+    {
+     "s": 3,
+     "t": "In the end, I simply had to accept that it was a miraculous effect of Makoto's consciousness."
+    },
+    {
+     "s": 3,
+     "t": "With the help of the Sacred Sakura's power, I was finally able to overcome the monsters and quell the disaster in Inazuma."
+    },
+    {
+     "s": 1,
+     "t": "This is all really hard to understand... Kinda beyond Paimon's level."
+    },
+    {
+     "s": 2,
+     "t": "Simply put, Makoto's power somehow made that tree appear."
+    },
+    {
+     "s": 3,
+     "t": "Yes... She had such a great love for this land, and for its people. In this respect, I still do not compare to her."
+    },
+    {
+     "s": 3,
+     "t": "I once told myself that I would never speak of these events again. Facing the fact that she is gone is unbearably painful."
+    },
+    {
+     "s": 3,
+     "t": "But even the tea that is most bitter to the tongue, once swallowed, leaves some sweetness in the throat."
+    },
+    {
+     "s": 3,
+     "t": "...And it's time I came to terms with it all."
+    },
+    {
+     "sit": "It seems like you've done a lot of thinking about this already."
+    },
+    {
+     "sit": "I know the pain of separation too."
+    },
+    {
+     "s": 1,
+     "t": "Oh, um, while we're on the topic, since you experienced that battle in person..."
+    },
+    {
+     "s": 2,
+     "t": "Have you seen my brother(sister) before?"
+    },
+    {
+     "s": 3,
+     "t": "Brother(Sister)? Hmm... I had heard that you were looking for your family."
+    },
+    {
+     "s": 3,
+     "t": "You mean to say that he(she) was somehow involved in the Khaenri'ah disaster?"
+    },
+    {
+     "s": 1,
+     "t": "Based on what we've learned so far, it seems so, yeah."
+    },
+    {
+     "s": 3,
+     "t": "I'm sorry. I wasn't there for the whole thing. By the time I arrived, the worst of the fighting was already over."
+    },
+    {
+     "s": 3,
+     "t": "And also... my mind was consumed entirely with the plight of Inazuma and the fate of those closest to me."
+    },
+    {
+     "s": 3,
+     "t": "So I am afraid I can't help you."
+    },
+    {
+     "s": 1,
+     "t": "Oh... well that's a shame. But it can't be helped I guess..."
+    },
+    {
+     "s": 1,
+     "t": "Boy, both of you have experienced great tragedy..."
+    },
+    {
+     "s": 3,
+     "t": "With this last cup of tea, let us honor the tea master's memory."
+    },
+    {
+     "s": 3,
+     "t": "Thank you, destiny, for giving us the chance to meet again."
+    },
+    {
+     "s": 2,
+     "t": "I know the pain of separation too."
+    },
+    {
+     "s": 2,
+     "t": "The Sacred Sakura has always been there, hasn't it?"
+    },
+    {
+     "s": 2,
+     "t": "It's just the memories flooding back in..."
+    },
+    {
+     "s": 2,
+     "t": "Let's make our own tea."
+    }
+   ],
+   "description": "The Adventurers’ Guild in Inazuma seems to have a commission concerning the Sacred Sakura…"
+  },
+  {
+   "title": "Farewell to the Past",
+   "dialogue": [
+    {
+     "section": "Observe Teacup"
+    },
+    {
+     "s": 7,
+     "t": "(A cup of tea has been left for Furuyama.)"
+    },
+    {
+     "s": 7,
+     "t": "(How much did he actually perceive, and how much did he let on?)"
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "Once again, please leave them to me."
+    },
+    {
+     "s": 1,
+     "t": "Hey, hey! A—Are you sure you're alright? You're scaring us!"
+    },
+    {
+     "s": 3,
+     "t": "Fear not. Fighting is what I do best."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 1,
+     "t": "Ei, maybe you should leave this one to us."
+    },
+    {
+     "sit": "You don't look too good."
+    },
+    {
+     "sit": "Don't force it."
+    },
+    {
+     "s": 3,
+     "t": "I..."
+    },
+    {
+     "s": 3,
+     "t": "My apologies."
+    },
+    {
+     "s": 1,
+     "t": "Don't worry about it! Just take a breather and get your strength back."
+    },
+    {
+     "s": 1,
+     "t": "We'll deal with the monsters!"
+    },
+    {
+     "s": 1,
+     "t": "Look... that's the same light again."
+    },
+    {
+     "sit": "Time for another trip down memory lane."
+    },
+    {
+     "sit": "Who have we got this time..."
+    },
+    {
+     "s": 8,
+     "t": "Wh—Where am I?"
+    },
+    {
+     "s": 8,
+     "t": "Who are you... *gasp* Almighty Shogun, you're here too!"
+    },
+    {
+     "s": 8,
+     "t": "Are you injured, Your Excellency?"
+    },
+    {
+     "s": 3,
+     "t": "Ahem... I'm quite alright. Just feeling a little stiff."
+    },
+    {
+     "s": 8,
+     "t": "We, the Shogunate samurai, will defend the Shogun until the very end!"
+    },
+    {
+     "s": 9,
+     "t": "Come on, men! They're coming back for more, let's get them!"
+    },
+    {
+     "s": 3,
+     "t": "Don't. It's too dangerous."
+    },
+    {
+     "s": 8,
+     "t": "Danger is our duty, Ma'am! If we were the kind to shy away from danger, we never would've taken up arms to begin with."
+    },
+    {
+     "s": 9,
+     "t": "No need to worry, Almighty Shogun. When the situation looks bleak, we will draw on the power granted to us by the gods."
+    },
+    {
+     "s": 1,
+     "t": "Is that a Vision?"
+    },
+    {
+     "s": 8,
+     "t": "It certainly is. I know the gods are omnipotent, and their willingness to grant their power to humans means that they have high expectations for us."
+    },
+    {
+     "s": 8,
+     "t": "If the Almighty Shogun is in trouble, now of all times is the moment for us to honor that."
+    },
+    {
+     "s": 1,
+     "t": "So that's how samurai of that era understood Visions, huh..."
+    },
+    {
+     "sit": "So full of hope."
+    },
+    {
+     "sit": "An unwavering commitment to resistance."
+    },
+    {
+     "s": 9,
+     "t": "Nobody knew where Your Excellency had gone, and we were starting to despair. But now we've found you. You are right here with us."
+    },
+    {
+     "s": 9,
+     "t": "Just the sight of you appearing before us once more has reignited the hope in our hearts."
+    },
+    {
+     "s": 9,
+     "t": "This hope is the light that will guide us out from the darkness."
+    },
+    {
+     "s": 8,
+     "t": "Everyone, on me!"
+    },
+    {
+     "s": 1,
+     "t": "We'll help too!"
+    },
+    {
+     "s": 8,
+     "t": "Huh...?"
+    },
+    {
+     "s": 8,
+     "t": "Affirmative. But watch your backs!"
+    },
+    {
+     "s": 2,
+     "t": "An unwavering commitment to resistance."
+    },
+    {
+     "s": 2,
+     "t": "Who have we got this time..."
+    },
+    {
+     "s": 2,
+     "t": "Don't force it."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 8,
+     "t": "It seems like their attacks are finally over."
+    },
+    {
+     "s": 9,
+     "t": "Huh, I've never fought so fiercely before!"
+    },
+    {
+     "s": 3,
+     "t": "Thank you all..."
+    },
+    {
+     "s": 1,
+     "t": "Umm... Are you okay? Maybe you should keep resting..."
+    },
+    {
+     "s": 3,
+     "t": "I'm fine. I feel much better already."
+    },
+    {
+     "s": 8,
+     "t": "You fought phenomenally. It was truly awe-inspiring."
+    },
+    {
+     "s": 8,
+     "t": "The monsters will definitely come back. And when they do, it'll be more than a few rifthounds this time."
+    },
+    {
+     "s": 8,
+     "t": "Quickly, escort Her Excellency back to Inazuma City, and regroup with the general's forces as soon as possible."
+    },
+    {
+     "s": 9,
+     "t": "When everyone sees the Almighty Shogun safely returning, their spirits will be lifted."
+    },
+    {
+     "s": 1,
+     "t": "Well... what're you guys gonna do?"
+    },
+    {
+     "s": 8,
+     "t": "We will stay here and guard against the monsters' advance. We cannot afford to let them get any further."
+    },
+    {
+     "s": 8,
+     "t": "We are brothers in arms. As long as we stick together, we can face any number of monsters that come our way."
+    },
+    {
+     "s": 1,
+     "t": "*gulp*..."
+    },
+    {
+     "sit": "(We have no business disrupting the reality they are experiencing.)"
+    },
+    {
+     "sit": "Great, thanks. I appreciate it."
+    },
+    {
+     "s": 9,
+     "t": "Just leave it to us! Fighting is what we do best!"
+    },
+    {
+     "s": 9,
+     "t": "But the Almighty Shogun is the only one of us with the power to change the present state of affairs. Only Her Excellency can turn back the tide of despair and lead us onward into the future."
+    },
+    {
+     "s": 9,
+     "t": "No matter what kind of threat faces Inazuma, we will always place our faith in the Almighty Shogun!"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Thank you all very much. I promise you that I will create a bright future for Inazuma."
+    },
+    {
+     "s": 3,
+     "t": "I should not have left it this late to make this promise. But from this moment forth, know that I shall be true to my word."
+    },
+    {
+     "s": 9,
+     "t": "Don't worry, Your Excellency. We will never doubt your word as long as we live!"
+    },
+    {
+     "s": 9,
+     "t": "With you leading us, we will claim back everything that Inazuma has lost!"
+    },
+    {
+     "s": 8,
+     "t": "Glory to the Shogun!"
+    },
+    {
+     "s": 8,
+     "t": "Glory to the Shogun!"
+    },
+    {
+     "s": 1,
+     "t": "...They're gone."
+    },
+    {
+     "sit": "Was that a promise to them...?"
+    },
+    {
+     "sit": "Or a promise to yourself?"
+    },
+    {
+     "s": 3,
+     "t": "It was both."
+    },
+    {
+     "s": 3,
+     "t": "The people's sacrifice has always caused me immense pain, but in dwelling on the tragedy, I overlooked their splendor... The grief blinded me to how brightly they shone in their final moments."
+    },
+    {
+     "s": 3,
+     "t": "The result being that in the centuries since their sacrifice, I have dishonored their will."
+    },
+    {
+     "s": 3,
+     "t": "You could take the view that whatever I say to them is meaningless, because they are but disembodied memories held in the Ley Lines."
+    },
+    {
+     "s": 3,
+     "t": "But even so, they are due a resolution... I owe it to them and to all the people who have placed their faith in me to date."
+    },
+    {
+     "s": 1,
+     "t": "Well... Paimon thinks that even if it's a few hundred years later, you're doing right by them now. And that's what counts."
+    },
+    {
+     "s": 3,
+     "t": "Thank you for your comforting words. But this is my basic duty as Inazuma's archon, and I have neglected it for far too long."
+    },
+    {
+     "s": 3,
+     "t": "I used to think just like that samurai... that I was first and foremost a warrior, and my only duty was to face whatever challenge came my way."
+    },
+    {
+     "s": 3,
+     "t": "But what Inazuma needs more than a warrior is someone like Makoto."
+    },
+    {
+     "s": 3,
+     "t": "Even though I am utterly unlike Makoto, and can never become the person she was, I still need to do the things that she would have done."
+    },
+    {
+     "s": 2,
+     "t": "Humans are worthy of your trust."
+    },
+    {
+     "s": 3,
+     "t": "Yes, they are. They are strong and resilient, and have much to be proud of."
+    },
+    {
+     "s": 3,
+     "t": "As the Raiden Shogun they revere, I should not be the one to hold them back."
+    },
+    {
+     "s": 1,
+     "t": "Well said! Sounds to Paimon like you've figured things out."
+    },
+    {
+     "s": 3,
+     "t": "Change will come to Inazuma, and with it, new possibilities. This will take time, but eventually, the future will bring healing to the scars of the past."
+    },
+    {
+     "s": 3,
+     "t": "No matter how long it takes, I am committed to bringing this to fruition. This is my promise."
+    },
+    {
+     "s": 3,
+     "t": "Now that we've dealt with the rifthounds, this matter is halfway resolved. It does not appear that the threat will escalate for the time being."
+    },
+    {
+     "s": 3,
+     "t": "I will leave the Tenryou and Yashiro Commissions to handle the follow-up work, such as investigating the origins of this incident and tending to the root system."
+    },
+    {
+     "s": 1,
+     "t": "Alrighty then! Let's move on."
+    },
+    {
+     "s": 1,
+     "t": "Ei looks calm on the outside, but Paimon bets her emotions must be all over the place right now, huh?"
+    },
+    {
+     "s": 1,
+     "t": "She seems to have changed a lot since we last met her."
+    },
+    {
+     "s": 1,
+     "t": "...Hmm?"
+    },
+    {
+     "s": 1,
+     "t": "What's wrong, Ei? C'mon, keep up."
+    },
+    {
+     "s": 3,
+     "t": "Ugh..."
+    },
+    {
+     "s": 2,
+     "t": "Ei!"
+    },
+    {
+     "s": 1,
+     "t": "What's going on? Are you feeling unwell again?"
+    },
+    {
+     "s": 3,
+     "t": "My body... I can't move it."
+    },
+    {
+     "s": 3,
+     "t": "It looks like the situation is more serious than I thought."
+    },
+    {
+     "sit": "Do you need to take a rest?"
+    },
+    {
+     "sit": "We should get you back to the city."
+    },
+    {
+     "s": 3,
+     "t": "No need. \"She\" is calling me. The time has come."
+    },
+    {
+     "s": 3,
+     "t": "Can you help me walk, {NICKNAME}?"
+    },
+    {
+     "s": 3,
+     "t": "I need to go to the cave below the Grand Narukami Shrine."
+    },
+    {
+     "s": 1,
+     "t": "Why? What's in there?"
+    },
+    {
+     "s": 3,
+     "t": "A battleground... One where I shall sever ties with the past and take the first steps into the future."
+    },
+    {
+     "s": 2,
+     "t": "We should get you back to the city."
+    },
+    {
+     "s": 2,
+     "t": "Or a promise to yourself?"
+    },
+    {
+     "s": 2,
+     "t": "Great, thanks. I appreciate it."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "We're finally here. The entrance should be nearby..."
+    },
+    {
+     "s": 1,
+     "t": "Whoa, where'd that torii gate come from?"
+    },
+    {
+     "s": 2,
+     "t": "Are you alright?"
+    },
+    {
+     "s": 3,
+     "t": "It's getting worse again... But it's fine, I'm about to put an end to it all."
+    },
+    {
+     "s": 3,
+     "t": "This is a place I once sealed off with my own hands... The entrance to Raiden Makoto's realm of consciousness."
+    },
+    {
+     "s": 3,
+     "t": "It looks like \"she\" will no longer allow me to do with this body as I please."
+    },
+    {
+     "s": 1,
+     "t": "Huh? What are you talking about? And who is \"she\" — Makoto?"
+    },
+    {
+     "s": 3,
+     "t": "Follow me."
+    },
+    {
+     "s": 1,
+     "t": "Where are we g— aah, aaah aaaah!!!"
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Paimon's dizzy, where did we get sucked into this time..."
+    },
+    {
+     "s": 1,
+     "t": "Whoa! This place..."
+    },
+    {
+     "s": 2,
+     "t": "It does look a lot like the Plane of Euthymia."
+    },
+    {
+     "s": 1,
+     "t": "Look! Look, over there!"
+    },
+    {
+     "s": 1,
+     "t": "It's another Ei!"
+    },
+    {
+     "s": 3,
+     "t": "We meet again, Traveler."
+    },
+    {
+     "s": 3,
+     "t": "This body is an assistant to the one within. But it is also the guardian of the rules."
+    },
+    {
+     "s": 3,
+     "t": "Should the one within wish to stray from the rules, this body shall stand in her way."
+    },
+    {
+     "s": 1,
+     "t": "Wait, Paimon knows that voice... is that... the puppet!?"
+    },
+    {
+     "s": 3,
+     "t": "You have wandered the realm in my body, and you appear to have grasped the true essence of eternity."
+    },
+    {
+     "s": 3,
+     "t": "You believe your present self has greater certainty than your former self. Thus, you believe your present self is correct. Don't you?"
+    },
+    {
+     "s": 3,
+     "t": "But have you really been enlightened with new ideas? Or have you been degraded by irreversible erosion?"
+    },
+    {
+     "s": 3,
+     "t": "I'm here to show you my answer."
+    },
+    {
+     "s": 3,
+     "t": "We are both warriors, and the dialogue we must now have shall be conducted by the blade alone."
+    },
+    {
+     "s": 1,
+     "t": "Uhhh, wait, wait, wait, the atmosphere in here just took a turn for the worse!"
+    },
+    {
+     "s": 1,
+     "t": "A—Are you, uh, are you alright now?"
+    },
+    {
+     "s": 3,
+     "t": "The discomfort I was experiencing earlier was caused by the Shogun rejecting my continued use of her body."
+    },
+    {
+     "s": 3,
+     "t": "As she indicates, once I started entertaining the idea of change, I became hostile in her eyes."
+    },
+    {
+     "s": 3,
+     "t": "But inside a realm of consciousness, I exist independently of her. She cannot affect me in this way."
+    },
+    {
+     "s": 3,
+     "t": "Though she is a puppet, the Shogun has her own consciousness, too. When necessary, she appears here to confront me."
+    },
+    {
+     "sit": "I think you've mentioned this before..."
+    },
+    {
+     "sit": "This is her system to safeguard against modifications to eternity?"
+    },
+    {
+     "s": 1,
+     "t": "Uh... Paimon gets that everyone has their internal battles and stuff, but... not like this! It's a bit extreme!"
+    },
+    {
+     "s": 1,
+     "t": "Ei's showdown with the Shogun... Never thought we'd see that day."
+    },
+    {
+     "s": 3,
+     "t": "The rules I set for the Shogun are... no, the Shogun herself is the manifestation of my past ideals, the very foundation stone of eternity. It shall not be easily swayed."
+    },
+    {
+     "s": 3,
+     "t": "I would not try to change her if it wasn't necessary."
+    },
+    {
+     "s": 1,
+     "t": "Isn't there any other way? Can't you... talk it through? ...Or something?"
+    },
+    {
+     "s": 2,
+     "t": "Ei isn't someone who leaves herself an escape route."
+    },
+    {
+     "s": 1,
+     "t": "But they both just want the best for Inazuma..."
+    },
+    {
+     "s": 3,
+     "t": "My form is a symbol of supreme majesty, in which has been vested power over all the realm. It is the cohesive embodiment of all that constitutes the \"Raiden Shogun.\""
+    },
+    {
+     "s": 3,
+     "t": "It inherits Ei's pain — the pain of inevitable loss that comes as she moves forward. So too does it inherit her determination to reach eternity."
+    },
+    {
+     "s": 3,
+     "t": "Every action undertaken is for the sake of resisting erosion."
+    },
+    {
+     "s": 3,
+     "t": "Determination, courage, love, hatred... All of these will be degraded and distorted by the incessant flow of time."
+    },
+    {
+     "s": 3,
+     "t": "Only rules shall remain constant for eternity."
+    },
+    {
+     "s": 3,
+     "t": "Those were my thoughts when I created you."
+    },
+    {
+     "s": 3,
+     "t": "Now they are towering obstacles that I have no choice but to overcome."
+    },
+    {
+     "s": 3,
+     "t": "You wish to make yourself my enemy?"
+    },
+    {
+     "s": 3,
+     "t": "I am your past, the everlasting law, the guardian of eternity."
+    },
+    {
+     "s": 3,
+     "t": "And I am she who promised a dream to her subjects... Raiden Ei."
+    },
+    {
+     "s": 2,
+     "t": "This is her system to safeguard against modifications to eternity?"
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 1,
+     "t": "Have you finally defeated her?"
+    },
+    {
+     "s": 3,
+     "t": "It appears your martial prowess has not dulled."
+    },
+    {
+     "s": 3,
+     "t": "But how long can your will remain strong?"
+    },
+    {
+     "s": 1,
+     "t": "How the heck..."
+    },
+    {
+     "s": 2,
+     "t": "Surely the Shogun puppet isn't invincible...?"
+    },
+    {
+     "s": 3,
+     "t": "In this realm of consciousness, her existence is tenacious indeed."
+    },
+    {
+     "s": 3,
+     "t": "She was built to resist erosion. Her will is stronger than any other living being's, including you and me."
+    },
+    {
+     "s": 1,
+     "t": "Then... does that mean this is gonna be a never-ending battle?"
+    },
+    {
+     "s": 3,
+     "t": "Maybe. But I have to prove to her that my present will is no product of erosion. The future I shall forge will be a grand undertaking, one that will be resistant to erosion."
+    },
+    {
+     "s": 3,
+     "t": "If I don't do this, the Shogun's rules can never change, and Inazuma can never move forward."
+    },
+    {
+     "s": 3,
+     "t": "This is my duty. No matter how long this battle may last, months, years, centuries... And no matter how many times we must fight, I will defeat her."
+    },
+    {
+     "s": 2,
+     "t": "What will happen to Inazuma in the meantime?"
+    },
+    {
+     "s": 3,
+     "t": "Five hundred years ago, humanity proved their strength in battle."
+    },
+    {
+     "s": 3,
+     "t": "Here in the present, they rely on their ambition to challenge wayward practices, tear them out like the diseased wood of an old sakura tree, so that new, healthy branches might spring to life in their place."
+    },
+    {
+     "s": 3,
+     "t": "It is about time that I learned to trust them."
+    },
+    {
+     "sit": "But can you bear to leave humanity to go alone?"
+    },
+    {
+     "sit": "Everyone looks to the Shogun for hope."
+    },
+    {
+     "s": 3,
+     "t": "I understand that. But if the dreams of which Makoto spoke are true eternity, a short moment for which the Shogun does not exist is nothing to fear."
+    },
+    {
+     "s": 3,
+     "t": "I fight for the everlasting future of Inazuma. However long the battle may last, it is but a drop in the ocean of eternity."
+    },
+    {
+     "s": 3,
+     "t": "I vow to the subjects of Inazuma that I shall one day return. This is my oath. Please be my witness."
+    },
+    {
+     "s": 3,
+     "t": "During my absence, I place everything in Miko's hands."
+    },
+    {
+     "s": 1,
+     "t": "But, but this means that—"
+    },
+    {
+     "s": 3,
+     "t": "Pass on my words."
+    },
+    {
+     "s": 2,
+     "t": "Ei!"
+    },
+    {
+     "s": 1,
+     "t": "Whoa!"
+    },
+    {
+     "s": 2,
+     "t": "Everyone looks to the Shogun for hope."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Looks like we got kicked out..."
+    },
+    {
+     "s": 1,
+     "t": "What do we do? Are we really just gonna leave Ei and the Shogun to keep on duking it out in there forever!?"
+    },
+    {
+     "s": 1,
+     "t": "She was making sense, and maybe this is the only way to change the Shogun's rules, but still..."
+    },
+    {
+     "sit": "Ei has no physical body anymore, and has to rely on the Shogun."
+    },
+    {
+     "sit": "But this cannot be the only way..."
+    },
+    {
+     "s": 1,
+     "t": "Right? Also, Ei can be pretty stubborn at times, and has a history of rushing into difficult situations..."
+    },
+    {
+     "s": 1,
+     "t": "What if she gets too obsessed with winning, and she forgets why she's there in the first place? It could happen... And then she might never leave again!"
+    },
+    {
+     "sit": "We're not about to leave her just yet."
+    },
+    {
+     "sit": "Our work here isn't done."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! We should help her out, like we did last time. The quicker she gets through this, the better."
+    },
+    {
+     "s": 1,
+     "t": "Is there any way we can cut down how long she needs to spend in there? Or, y'know, help her win the fight?"
+    },
+    {
+     "s": 2,
+     "t": "Umm..."
+    },
+    {
+     "s": 1,
+     "t": "Well, whatever, we can't let anything bad happen to Ei while she's in there!"
+    },
+    {
+     "s": 1,
+     "t": "...Oh, but we also can't get in there anymore."
+    },
+    {
+     "s": 1,
+     "t": "Okay, well first things first, we gotta find a way back in! C'mon brain juice, don't fail Paimon now! Um, okay, maybe if we both ram into it at the same time, really really hard—"
+    },
+    {
+     "s": 2,
+     "t": "We need to talk to Yae Miko."
+    },
+    {
+     "s": 1,
+     "t": "Oh, you're right! Paimon nearly forgot about her!"
+    },
+    {
+     "s": 1,
+     "t": "Who knows if she really understands these consciousness realm-plane thingies more than we do... But there's no one else we can turn to. Alright, up the mountain we go!"
+    },
+    {
+     "s": 2,
+     "t": "Our work here isn't done."
+    },
+    {
+     "s": 2,
+     "t": "But this cannot be the only way..."
+    }
+   ],
+   "description": "Many people’s memories have escaped from the damaged roots of the Sacred Sakura. Raiden Ei takes the opportunity to tell you many stories about her cherished friends and the Inazuma she wants to protect."
+  },
+  {
+   "title": "Radiant Sakura",
+   "dialogue": [
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "s": 10,
+     "t": "Someone's not in the best of moods... Let me guess, you're all tangled up in another situation and need me to unravel it for you?"
+    },
+    {
+     "s": 10,
+     "t": "I hope you realize how lucky you are. If it was anyone else, I don't think I'd have the patience to keep greeting them with a smile after the first few times."
+    },
+    {
+     "s": 1,
+     "t": "...But you're always smiling!"
+    },
+    {
+     "s": 10,
+     "t": "That was a figure of speech, do you understand? Nitpicking my turns of phrase, the sheer audacity."
+    },
+    {
+     "s": 2,
+     "t": "Paimon, get to the point..."
+    },
+    {
+     "s": 1,
+     "t": "Oh, yeah, yeah! Something really big's happened! It's Ei, she... she..."
+    },
+    {
+     "sit": "You tell Yae Miko about everything that has happened..."
+    },
+    {
+     "s": 10,
+     "t": "Oh, okay, I see. So Ei's decided to palm Inazuma off onto the humans, while she goes off on her own to fight a fierce battle that doesn't even have an end date..."
+    },
+    {
+     "s": 10,
+     "t": "Impossibly stubborn, jumps straight to the most extreme course of action imaginable, presumes her sheer will can see her through, despite a near-impossible goal that requires nothing short of the very peak of her abilities... Yes, that sounds like Ei, alright."
+    },
+    {
+     "s": 10,
+     "t": "You know as well as I do that she's always been like this. Why start fretting about it now?"
+    },
+    {
+     "sit": "This duel is more serious than anything up till now."
+    },
+    {
+     "sit": "She rushed into it without thinking."
+    },
+    {
+     "s": 10,
+     "t": "Rushed into it without thinking... Hehe, well put. Ah, she acts like such a child sometimes."
+    },
+    {
+     "s": 10,
+     "t": "So, you seem to be under the impression that I am able to offer some sort of help? Who gave you that idea?"
+    },
+    {
+     "s": 1,
+     "t": "Is she playing dumb? She's doing this on purpose for sure!"
+    },
+    {
+     "s": 10,
+     "t": "Aha, you're learning, little one. But really, the truth of the matter is that I don't know much more about Raiden Makoto's realm of consciousness than you do."
+    },
+    {
+     "s": 10,
+     "t": "All I know is that it's the foundation of the Sacred Sakura, and from what I have heard it's a little different from Ei's \"Plane of Euthymia.\""
+    },
+    {
+     "s": 1,
+     "t": "Because Raiden Makoto is no longer alive?"
+    },
+    {
+     "s": 10,
+     "t": "Not just because of that. The nature of the space itself is different in some way... But I can only speculate. You're the ones who have actually been there, so you tell me — what was it like?"
+    },
+    {
+     "sit": "I didn't notice any differences."
+    },
+    {
+     "sit": "I wasn't paying attention."
+    },
+    {
+     "s": 10,
+     "t": "Anyway, we needn't worry about the details too much — it'll just be a little difficult to explain things later on, that's all."
+    },
+    {
+     "s": 10,
+     "t": "First things first. Follow me to the entrance."
+    },
+    {
+     "s": 2,
+     "t": "I wasn't paying attention."
+    },
+    {
+     "s": 2,
+     "t": "She rushed into it without thinking."
+    },
+    {
+     "section": "Yae Miko"
+    },
+    {
+     "s": 10,
+     "t": "Now then, I always have my ways. It's just a question of how crafty I need to be..."
+    },
+    {
+     "s": 10,
+     "t": "To the outsider, the realm of consciousness is a very abstract concept. Luckily, I'm Ei's familiar, so I can sense her rough whereabouts."
+    },
+    {
+     "s": 10,
+     "t": "In other words, even though I can't pinpoint the exact spatial location of this realm, I can still send you to where Ei is."
+    },
+    {
+     "s": 1,
+     "t": "So it's abstract, but has a location, but you don't know where it is, but you can still send us there... what?"
+    },
+    {
+     "s": 10,
+     "t": "Yes, no need to try and understand it. Let me put this simply: Right now, she is surrounded by chaos."
+    },
+    {
+     "s": 10,
+     "t": "Everything is turbulent and disordered... If you try to force your way in, you could be swept away by a giant wave that sets you down in an unknown corner of space-time."
+    },
+    {
+     "s": 10,
+     "t": "This is precisely why when entering the Plane of Euthymia, it's much safer if you place your consciousness in a physical object first."
+    },
+    {
+     "s": 1,
+     "t": "What? Alright, well Paimon's staying here, then. You two can go in!"
+    },
+    {
+     "sit": "In your dreams."
+    },
+    {
+     "sit": "Paimon, you're not gonna abandon me, are you?"
+    },
+    {
+     "s": 10,
+     "t": "Suit yourself. Worst-case scenario, all we stand to lose is Ei, so what's the big deal?"
+    },
+    {
+     "s": 1,
+     "t": "You... Ugh! Paimon's had it up to here with both of you! Fine, Paimon's coming too..."
+    },
+    {
+     "s": 10,
+     "t": "Oh? Well if you're quite sure, then of course. Now, I shall send you on your way."
+    },
+    {
+     "s": 10,
+     "t": "..."
+    },
+    {
+     "s": 10,
+     "t": "Hmm? I say..."
+    },
+    {
+     "s": 2,
+     "t": "What is it?"
+    },
+    {
+     "s": 10,
+     "t": "Oh, nothing. It just seems extraordinarily chaotic, that's all. My suspicions have been confirmed."
+    },
+    {
+     "s": 10,
+     "t": "By the way... Remember to focus constantly on your heartfelt wishes when you enter inside."
+    },
+    {
+     "s": 10,
+     "t": "Only a strong enough will can prevent you from being swallowed by the giant waves of abstract space. Only if you are strong enough can I deliver you to the right destination."
+    },
+    {
+     "s": 2,
+     "t": "Okay."
+    },
+    {
+     "s": 10,
+     "t": "Well then. The door is open. Hop on in."
+    },
+    {
+     "s": 10,
+     "t": "I'll stay outside and provide what stability I can. I'll be ready to respond if anything happens."
+    },
+    {
+     "s": 10,
+     "t": "...I'm placing my god in your capable hands, {NICKNAME}."
+    },
+    {
+     "s": 10,
+     "t": "For my sake, and for Inazuma's, please... bring her back."
+    },
+    {
+     "s": 1,
+     "t": "Miko, you'd better know what you're doing..."
+    },
+    {
+     "s": 2,
+     "t": "We will not fail."
+    },
+    {
+     "s": 10,
+     "t": "That's enough chatter. Get to work!"
+    },
+    {
+     "s": 2,
+     "t": "Paimon, you're not gonna abandon me, are you?"
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "How can this be?"
+    },
+    {
+     "s": 3,
+     "t": "You have returned... But how were you able to get back in? And... how come you have not changed at all in all these years..."
+    },
+    {
+     "s": 2,
+     "t": "All these years? ...What?"
+    },
+    {
+     "s": 3,
+     "t": "This is a duel to remember."
+    },
+    {
+     "s": 3,
+     "t": "It is as if we have returned to the moment when the laws of eternity were first established. Your will today is as strong as it was back then."
+    },
+    {
+     "s": 3,
+     "t": "Over countless battles, not once have you lost, and never have you shown the slightest hesitation."
+    },
+    {
+     "s": 3,
+     "t": "Had I made all enemies of eternity stand against you, you still would not have wavered."
+    },
+    {
+     "s": 3,
+     "t": "For your firm commitment to enforcing the rules, you have my admiration, too."
+    },
+    {
+     "s": 3,
+     "t": "You bring honor to the title of \"Guardian of Eternity.\""
+    },
+    {
+     "s": 3,
+     "t": "Now these two return once more to this space. An inevitability of fate, perhaps."
+    },
+    {
+     "s": 3,
+     "t": "Then let this be our final duel, the conclusion to that which began 500 years ago."
+    },
+    {
+     "s": 3,
+     "t": "Final duel? So you're finally willing to..."
+    },
+    {
+     "s": 3,
+     "t": "Stand back, Traveler."
+    },
+    {
+     "s": 2,
+     "t": "Are you going to put an end to all this?"
+    },
+    {
+     "s": 3,
+     "t": "I'm going to be the start of something new."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "s": 3,
+     "t": "This is the end. You have won."
+    },
+    {
+     "s": 3,
+     "t": "I believed you were incapable of transcending the past. But it seems my belief was baseless and I underestimated your spirit."
+    },
+    {
+     "s": 3,
+     "t": "But a will that cannot be eroded has no way to embrace the future."
+    },
+    {
+     "s": 3,
+     "t": "You need not worry about the future, and you aren't alone."
+    },
+    {
+     "s": 3,
+     "t": "I know your power more than anyone else. Had I relied upon my strength alone, I would have lost this duel for sure."
+    },
+    {
+     "s": 3,
+     "t": "Yet my reason for fighting redefined my martial prowess and redrew my limits. I now carry the gaze of the myriad of expectant eyes that look to the light in the heavens."
+    },
+    {
+     "s": 3,
+     "t": "And whenever I think of this, I feel something stirring within Musou Isshin."
+    },
+    {
+     "s": 3,
+     "t": "The blade that I inherited from Makoto seems to be trying to guide me... to encourage me."
+    },
+    {
+     "s": 3,
+     "t": "I noticed it also. Just now, in the heat of battle, it seemed to unleash a new and unfamiliar power."
+    },
+    {
+     "s": 3,
+     "t": "This power is beyond the limits of my understanding."
+    },
+    {
+     "s": 3,
+     "t": "This blade belonged to Mak{RUBY#[S]the previous Shogun}oto. Perhaps it can only respond to me with its full power when I truly understand and believe in her."
+    },
+    {
+     "s": 3,
+     "t": "When I clasped Musou Isshin in my hands, I had the feeling that she was by my side once again."
+    },
+    {
+     "s": 3,
+     "t": "It was at once a familiar feeling and a strange one... Makoto barely wielded a blade in her life, and yet her blade brings me closer to her."
+    },
+    {
+     "s": 3,
+     "t": "You have my approval."
+    },
+    {
+     "s": 3,
+     "t": "Your present will is not the product of erosion. I shall no longer stop you from attempting to modify the rules."
+    },
+    {
+     "s": 3,
+     "t": "From this day forth, this body will remain your assistant."
+    },
+    {
+     "s": 3,
+     "t": "I won't design any more rules that can never be changed."
+    },
+    {
+     "s": 3,
+     "t": "You used to represent my past, but from today onward, you are me."
+    },
+    {
+     "s": 3,
+     "t": "Makoto never saw me as a fearless weapon. Likewise, I should not regard you as a mere tool."
+    },
+    {
+     "s": 3,
+     "t": "...Heh, you truly have changed. I suppose this is what humans call \"growth.\""
+    },
+    {
+     "s": 3,
+     "t": "I understand. I shall become your shadow, just as you were once Makoto's shadow."
+    },
+    {
+     "s": 3,
+     "t": "The duties I perform will not change."
+    },
+    {
+     "s": 3,
+     "t": "But as a warrior, I look forward to the chance to fight like this again in the future."
+    },
+    {
+     "s": 3,
+     "t": "Do you say this because you have not yet reconciled yourself with your defeat?"
+    },
+    {
+     "s": 3,
+     "t": "It was simply a new experience for me. One that is worth reliving."
+    },
+    {
+     "s": 1,
+     "t": "Have you finished fighting, then? Like, for real this time?"
+    },
+    {
+     "s": 3,
+     "t": "Hmm?"
+    },
+    {
+     "s": 2,
+     "t": "Musou Isshin is glowing?"
+    },
+    {
+     "s": 11,
+     "t": "Hello Ei, and greetings, those who have come to bear witness."
+    },
+    {
+     "s": 11,
+     "t": "I am Raiden Makoto, the previous Electro Archon, who failed in my duties and left you all to pick up the pieces."
+    },
+    {
+     "s": 3,
+     "t": "Makoto...?"
+    },
+    {
+     "s": 11,
+     "t": "I'm so happy. You've come so far. I always knew you would make it here in the end."
+    },
+    {
+     "s": 11,
+     "t": "I left a faint fragment of my will in Musou Isshin, so that in the moment that you unleashed its full power, I too would be released."
+    },
+    {
+     "s": 11,
+     "t": "A convoluted way to reach you, but... Well, you held such deeply entrenched views at the time that you wouldn't have listened to a word I said."
+    },
+    {
+     "s": 11,
+     "t": "There was no time to wait for you to have a change of heart. Please forgive me... All I could do was find some way to wait until you came to me."
+    },
+    {
+     "s": 3,
+     "t": "But you never mentioned this to me..."
+    },
+    {
+     "s": 11,
+     "t": "Everything happened so suddenly... I'm sorry."
+    },
+    {
+     "s": 11,
+     "t": "I've always felt terrible for having to entrust Inazuma to you all of a sudden."
+    },
+    {
+     "s": 11,
+     "t": "I should have been the one to impart these ideas to you a little at a time, to dissuade you from your pursuit of stillness."
+    },
+    {
+     "s": 3,
+     "t": "Did you know what was about to happen in Khaenri'ah?"
+    },
+    {
+     "s": 11,
+     "t": "I had some sense of it. That place... was not somewhere that any archon could afford to ignore."
+    },
+    {
+     "s": 11,
+     "t": "In my present form, I can no longer perceive time. I don't know how long we have been separated before this reunion, and I don't know what Inazuma has experienced in the meantime."
+    },
+    {
+     "s": 11,
+     "t": "But I know that this must have been an extremely arduous journey for you... and I'm sure you must have wanted to shed tears many times along the way."
+    },
+    {
+     "s": 3,
+     "t": "...Don't look down on me."
+    },
+    {
+     "s": 11,
+     "t": "See, you admit it."
+    },
+    {
+     "s": 11,
+     "t": "It was with this possibility in mind that I left a parting gift for you... something to soothe Inazuma's pain."
+    },
+    {
+     "s": 11,
+     "t": "Here, take it. Before my last shred of consciousness fades away."
+    },
+    {
+     "s": 11,
+     "t": "But it is you who must take the most important step..."
+    },
+    {
+     "section": "Raiden Shogun"
+    },
+    {
+     "sit": "After leaving the realm of consciousness and returning to the shrine, you relay everything to Yae Miko..."
+    },
+    {
+     "s": 10,
+     "t": "So the Ei of the present planted the Sacred Sakura in the realm of consciousness, and it took root in the Inazuma of the past..."
+    },
+    {
+     "s": 10,
+     "t": "No matter what you make of it, it's quite incredible."
+    },
+    {
+     "s": 3,
+     "t": "All of this is thanks to Makoto's power. Her understanding of eternity is much more profound than mine."
+    },
+    {
+     "s": 3,
+     "t": "Eternity is a concept intimately connected with time. When you begin to touch on eternity, the concept of time becomes murky."
+    },
+    {
+     "s": 2,
+     "t": "I saw wonderful things inside that place."
+    },
+    {
+     "s": 2,
+     "t": "Time was moving forward and backward at the same time."
+    },
+    {
+     "s": 10,
+     "t": "A place where time is meaningless and cannot be understood with ordinary logic... So, that was the \"turbulence\" I was sensing."
+    },
+    {
+     "s": 10,
+     "t": "Perhaps that is the reason why you were able to return precisely to this point in time without any problems."
+    },
+    {
+     "s": 10,
+     "t": "And yet, that sense of disorderliness has now completely disappeared."
+    },
+    {
+     "s": 3,
+     "t": "I don't fully understand yet. But my intuition tells me that the reason for everything... it's that seed."
+    },
+    {
+     "s": 10,
+     "t": "Hmm, well I'm not convinced that it was Makoto's power alone..."
+    },
+    {
+     "s": 3,
+     "t": "I know what you mean. Perhaps a higher{RUBY#[S]Istaroth} power really was involved in all of this. But whatever the explanation, her solution is what saved us all."
+    },
+    {
+     "s": 3,
+     "t": "Without the Sacred Sakura, Inazuma would likely have been completely swallowed up centuries ago by that disaster and the filth."
+    },
+    {
+     "s": 10,
+     "t": "I know you've always perceived there was something special about the Sacred Sakura. But to me, it has always been there."
+    },
+    {
+     "s": 10,
+     "t": "You've tried in the past to prove to me that there is a connection between the Sacred Sakura and Makoto's consciousness. But unfortunately, you never did persuade me, did you?"
+    },
+    {
+     "s": 3,
+     "t": "No, but I understand why now. It was because the Sacred Sakura hadn't even been planted then."
+    },
+    {
+     "s": 1,
+     "t": "Umm, but don't you think that tree looked a lot different than how it does now?"
+    },
+    {
+     "s": 10,
+     "t": "The Sacred Sakura is within my purview at the shrine, so obviously I get to prune it exactly how I like it."
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Now we see who's pulling the strings..."
+    },
+    {
+     "s": 10,
+     "t": "I'm joking. That tree has been through a lot since it first sprouted. We have the loving care of kitsune over the ages to thank for how it appears today."
+    },
+    {
+     "s": 10,
+     "t": "And obviously I played my part, too."
+    },
+    {
+     "s": 10,
+     "t": "It's fair to say that very little time passed between the moment you came out of that realm and the moment you re-entered it. But in that same time, centuries of battling took place on the inside, did it not?"
+    },
+    {
+     "s": 10,
+     "t": "Traveler, if I'm guessing correctly... You were repeating your wishes to yourself in your mind, weren't you?"
+    },
+    {
+     "sit": "Yes, I was."
+    },
+    {
+     "sit": "Is that significant?"
+    },
+    {
+     "s": 10,
+     "t": "At that time, I could sense Ei's whereabouts, but I also sensed anomalies in the flow of time within that space."
+    },
+    {
+     "s": 10,
+     "t": "Suffice to say, time added a whole new dimension to our search. Simply establishing a location was not sufficient."
+    },
+    {
+     "s": 10,
+     "t": "Fortunately, your will was strong enough that the turbulence carried you to the moment in time most likely to be the intersection of all that you were wishing for."
+    },
+    {
+     "s": 10,
+     "t": "The flow of turbulence may well have been influenced by Makoto. But it took everyone's efforts combined to ultimately help Ei. So this time, it looks like thanks are due to you."
+    },
+    {
+     "s": 1,
+     "t": "Does that mean... it wasn't by chance that we ended up at the final duel? We were always meant to be there to witness what was going to happen?"
+    },
+    {
+     "sit": "Perhaps this is what the Shogun meant by..."
+    },
+    {
+     "sit": "...\"an inevitability of fate.\""
+    },
+    {
+     "s": 3,
+     "t": "I thought that the flow of time was the same on the inside and the outside. So it was a great shock to me when the Traveler re-appeared."
+    },
+    {
+     "s": 3,
+     "t": "My first thought was, \"Has a great disaster befallen Inazuma?\""
+    },
+    {
+     "s": 3,
+     "t": "But it turned out you had come to rescue me... You came for my sake, to help me reach the best possible outcome."
+    },
+    {
+     "s": 3,
+     "t": "You two have my thanks. You have done much for me, and I will never forget it."
+    },
+    {
+     "s": 10,
+     "t": "Ei, how are you feeling now?"
+    },
+    {
+     "s": 3,
+     "t": "My body has fully recovered, and the Shogun's will no longer fights against me."
+    },
+    {
+     "s": 10,
+     "t": "Always thrilled to hear you're in good health. But I was really asking about your emotions. Have you managed to calm down?"
+    },
+    {
+     "s": 10,
+     "t": "After all, you saw Makoto in there, didn't you?"
+    },
+    {
+     "s": 3,
+     "t": "I only heard her voice. I wouldn't say I saw her..."
+    },
+    {
+     "s": 3,
+     "t": "I'll be fine. It brought a few things back, of course. But I've made my decision to move forward."
+    },
+    {
+     "s": 3,
+     "t": "I have to say, this has reminded me once again just how brilliant Makoto was. She predicted all the ways in which Inazuma's future could unfold all the way back then."
+    },
+    {
+     "s": 3,
+     "t": "She even factored my immaturity into her plan."
+    },
+    {
+     "s": 3,
+     "t": "It's all thanks to her that Inazuma lived to see this day."
+    },
+    {
+     "sit": "Makoto was brilliant."
+    },
+    {
+     "sit": "But Ei, you made a crucial contribution, too."
+    },
+    {
+     "s": 3,
+     "t": "I just planted a seed."
+    },
+    {
+     "s": 2,
+     "t": "Your will and hers were both indispensable."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! It was thanks to everything you did that you got to see her again. That's amazing!"
+    },
+    {
+     "sit": "The final act might be a simple one."
+    },
+    {
+     "sit": "But getting there was the result of countless efforts coming together."
+    },
+    {
+     "s": 3,
+     "t": "...Thank you, {NICKNAME}."
+    },
+    {
+     "s": 10,
+     "t": "Today, at long last, you and Inazuma finally emerge from the shadows cast by the events of centuries past."
+    },
+    {
+     "s": 10,
+     "t": "Makoto and you are Inazuma's past and future, and both are indispensable."
+    },
+    {
+     "s": 3,
+     "t": "It's rare to hear such comforting words from you. I graciously accept them."
+    },
+    {
+     "s": 10,
+     "t": "Oh, come on, you only think it's rare because you never used to listen to a word I say."
+    },
+    {
+     "s": 1,
+     "t": "Makoto said the exact same thing."
+    },
+    {
+     "s": 10,
+     "t": "Great minds think alike, hmm? I wonder, does that qualify me to, maybe, take the position of Shogun for a couple of days?"
+    },
+    {
+     "s": 10,
+     "t": "Actually, no — forget that. Far more trouble than it's worth."
+    },
+    {
+     "s": 3,
+     "t": "We will have to end the frivolities there. There is much work to be done."
+    },
+    {
+     "s": 3,
+     "t": "The Shogun and I will closely review the Inazuma of today to find out where things currently stand. Then, we will give careful consideration to the future."
+    },
+    {
+     "s": 3,
+     "t": "After that... I will abolish the Sakoku Decree."
+    },
+    {
+     "s": 1,
+     "t": "Really? That's huge news!"
+    },
+    {
+     "s": 3,
+     "t": "I am no longer pursuing an eternity defined by stasis. In which case, there is no further need to keep the nation under lock and key."
+    },
+    {
+     "s": 3,
+     "t": "I don't doubt that many challenges lie ahead for Inazuma..."
+    },
+    {
+     "s": 2,
+     "t": "But out of those challenges will be born new opportunities."
+    },
+    {
+     "s": 3,
+     "t": "I'm looking forward to it."
+    },
+    {
+     "s": 2,
+     "t": "...doesn't mean you should undervalue the part you played."
+    },
+    {
+     "s": 2,
+     "t": "But getting there was the result of countless efforts coming together."
+    },
+    {
+     "sit": "Just because the cause and effect ended up a bit back-to-front..."
+    },
+    {
+     "sit": "...doesn't mean you should undervalue the part you played."
+    },
+    {
+     "s": 2,
+     "t": "But Ei, you made a crucial contribution, too."
+    },
+    {
+     "s": 2,
+     "t": "...\"an inevitability of fate.\""
+    },
+    {
+     "s": 2,
+     "t": "Is that significant?"
+    }
+   ],
+   "description": "In Raiden Makoto’s remnant realm of consciousness, Ei and the Shogun Puppet engage in an endless fight. For Inazuma, and also for Ei herself, you wish to lend a hand — as you once did — to help her get through this sore test."
+  }
+ ],
+ "speakers": [
+  "Katheryne",
+  "Paimon",
+  "Traveler",
+  "Raiden Shogun",
+  "Kitamura",
+  "Furuyama",
+  "Hirano",
+  "Observe Teacup",
+  "Fujiki",
+  "Fukami",
+  "Yae Miko",
+  "Makoto"
+ ]
+}

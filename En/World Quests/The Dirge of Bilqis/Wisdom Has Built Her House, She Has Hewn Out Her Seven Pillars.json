@@ -1,0 +1,1232 @@
+{
+ "chapter": "The Dirge of Bilqis",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars",
+ "region": null,
+ "quests": [
+  {
+   "title": "Wisdom Has Built Her House, She Has Hewn Out Her Seven Pillars",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Hello there. We have a letter for you — it's from Ms. Jeht."
+    },
+    {
+     "s": 1,
+     "t": "Eh? So you know Jeht, too, Katheryne? How's she doing?"
+    },
+    {
+     "s": 0,
+     "t": "The Adventurers' Guild has an open partnership with the Eremites, so it would be more surprising if I didn't know her. She looked quite happy when she arrived, and said she was looking forward to seeing you again."
+    },
+    {
+     "s": 1,
+     "t": "Interesting. Let's see what Jeht's written, {NICKNAME}!"
+    },
+    {
+     "s": 1,
+     "t": "Well... Looks like she's having a good time. Better than the last time we saw each other!"
+    },
+    {
+     "s": 1,
+     "t": "But, what's this? \"The Tanit camp\"? That name sorta rings a bell. Have we been there before?"
+    },
+    {
+     "s": 0,
+     "t": "The Tanit are the tribe from which Jeht hails. Their campsite is in the depths of Deshret Desert, amidst the ruins of what was once the city of Gurabad. If you don't mind, I'll mark it out on your map."
+    },
+    {
+     "s": 1,
+     "t": "Wow... Katheryne really is a walking, breathing encyclopedia..."
+    },
+    {
+     "sit": "Very impressive, as expected."
+    },
+    {
+     "sit": "Well, you'd expect this of the well-informed Adventurers' Guild."
+    },
+    {
+     "s": 0,
+     "t": "You flatter me, {NICKNAME}. In order to better serve adventurers, it is the duty of the Adventurers' Guild to provide such basic information whenever it is needed."
+    },
+    {
+     "s": 0,
+     "t": "And the Tanit have always had good commercial relations with the Adventurers' Guild. With Ms. Jeht as our point of contact, they have proven themselves reliable across many acts of cooperation."
+    },
+    {
+     "s": 1,
+     "t": "Well... The letter also says that she'd like to settle some unfinished business and has expressly asked us to come along. How mysterious... did she mention anything specific, Katheryne?"
+    },
+    {
+     "s": 0,
+     "t": "Well, I'm not at liberty to infringe upon the sender's privacy. I'm afraid the only way you'll find out is if you pay her a visit in person."
+    },
+    {
+     "s": 1,
+     "t": "So, there's information that even you can't get a hold of, huh?"
+    },
+    {
+     "s": 0,
+     "t": "Sorry. This isn't a matter of ability or lack thereof, but a matter of professionalism. We do not accept any complaints on this front."
+    },
+    {
+     "s": 0,
+     "t": "The Tanit campsite has been marked on your map for you. They'll be settling there for the next two or three years, as is the custom of tribal migration."
+    },
+    {
+     "s": 0,
+     "t": "If they happen to not be at this location, please do not hesitate to contact me. I will update you concerning their migratory pattern as soon as possible."
+    },
+    {
+     "s": 1,
+     "t": "Uh, that's real thoughtful of you, but Paimon doesn't think we're gonna wait two to three years to go look for Jeht..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, {NICKNAME}. Now that we know where Jeht is, what are we waiting for? Let's not keep her waiting!"
+    },
+    {
+     "s": 0,
+     "t": "In that case, do contact her for more specific information... Oh, sorry. I forgot to mention that this is not a guild commission. It should just be a meeting between friends..."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, ad astra abyssosque! May your reunion lead to new happy encounters and adventures!"
+    },
+    {
+     "section": "Mendas"
+    },
+    {
+     "s": 2,
+     "t": "Hey! Who are you?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! Bandits!"
+    },
+    {
+     "s": 2,
+     "t": "Bandits? How rude! I am Mendas, a scout! And this is Hugeweh."
+    },
+    {
+     "sit": "Jeht invited us here."
+    },
+    {
+     "s": 1,
+     "t": "Yes! Jeht sent us a letter, and that's why we're here!"
+    },
+    {
+     "s": 2,
+     "t": "A letter? Show me."
+    },
+    {
+     "sit": "You give Jeht's letter to the scout for review..."
+    },
+    {
+     "s": 2,
+     "t": "Well, if you're Jeht's friends, I won't stop you. You may move on. The tribe's campsite lies ahead."
+    },
+    {
+     "s": 2,
+     "t": "Jeht isn't back yet, but Aderfi, Masseira, and Yuften are in at the moment. They're pretty friendly to outsiders."
+    },
+    {
+     "s": 2,
+     "t": "Don't hesitate to seek them out... But if you dare deceive us, you will find us quite unfriendly indeed."
+    },
+    {
+     "section": "Mendas"
+    },
+    {
+     "s": 2,
+     "t": "Hey! Who are you?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! Bandits!"
+    },
+    {
+     "s": 2,
+     "t": "Bandits? How rude! I am Mendas, a scout! And this is Hugeweh."
+    },
+    {
+     "sit": "We are adventurers just passing by."
+    },
+    {
+     "s": 2,
+     "t": "Here... the Matriarch has forbidden us from harming foreign adventurers, you must hurry up and get out of here!"
+    },
+    {
+     "s": 2,
+     "t": "Gah. If only Jeht were here. She's better at dealing with outsiders..."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Did you say Jeht?"
+    },
+    {
+     "s": 2,
+     "t": "Well, what's the matter, then? She joined us some time back and is highly valued by the Matriarch."
+    },
+    {
+     "s": 2,
+     "t": "She's practically the Matriarch's shadow... Hmph, none of us tribespeople even come close to that kind of treatment."
+    },
+    {
+     "sit": "We actually kind of know her."
+    },
+    {
+     "sit": "We're supposed to be her friends."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "Well, if you're Jeht's friends, I won't stop you. You may move on. The tribe's campsite lies ahead."
+    },
+    {
+     "s": 2,
+     "t": "Jeht isn't back yet, but Aderfi, Masseira, and Yuften are in at the moment. They're pretty friendly to outsiders."
+    },
+    {
+     "s": 2,
+     "t": "You can look for them... But if you have lied to us, you will find us less merciful."
+    },
+    {
+     "section": "Aderfi"
+    },
+    {
+     "s": 3,
+     "t": "Hello, young ones. What do you need?"
+    },
+    {
+     "s": 1,
+     "t": "Well... We're here to see Jeht. Is she around?"
+    },
+    {
+     "s": 3,
+     "t": "Jeht? Yes... she's here. Why are you looking for her?"
+    },
+    {
+     "sit": "We're her friends."
+    },
+    {
+     "s": 3,
+     "t": "Friends...? Oh."
+    },
+    {
+     "s": 3,
+     "t": "She's mentioned you before, I think. Something about a \"brave and reliable young man(young woman).\" Hmph, she's been hanging around outside for too long, I see, to be making friends with rich people in fancy clothing and such."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, what's that supposed to mean!?"
+    },
+    {
+     "s": 3,
+     "t": "Sorry for speaking so rudely, but I care little for receiving outsiders. You should seek out Matriarch Babel instead."
+    },
+    {
+     "sit": "About Jeht..."
+    },
+    {
+     "sit": "What do you do here?"
+    },
+    {
+     "s": 3,
+     "t": "She's a good kid."
+    },
+    {
+     "s": 1,
+     "t": "So...?"
+    },
+    {
+     "s": 3,
+     "t": "What do you mean \"so\"? She's a good kid. I don't want to see her come under the bad influence of outsiders. Like I said before, if you need anything, seek out Matriarch Babel. Don't bother me."
+    },
+    {
+     "s": 3,
+     "t": "Well, I have nothing much else to say to you... Why don't you go find Masseira? He's a strange old man. Who knows, maybe you'll get a warmer welcome there."
+    },
+    {
+     "section": "Aderfi"
+    },
+    {
+     "s": 3,
+     "t": "Alright, alright. I've got my work to do, and you've got yours. There's no need to look around here anymore."
+    },
+    {
+     "section": "Masseira"
+    },
+    {
+     "s": 4,
+     "t": "Hello. {NICKNAME}, I presume?"
+    },
+    {
+     "sit": "Yes..."
+    },
+    {
+     "sit": "You already know my name?"
+    },
+    {
+     "s": 4,
+     "t": "Shh... Let me guess... You're here to find someone. Your friend, yes?"
+    },
+    {
+     "sit": "Yes, but..."
+    },
+    {
+     "s": 4,
+     "t": "Jeht is a good girl. I'm glad she has a friend like you."
+    },
+    {
+     "sit": "Thanks..."
+    },
+    {
+     "s": 4,
+     "t": "Hehe. Anyway, if you don't mind a little advice... You look like a real killer, that you do. But \"companions\"? Those will prove to be your undoing... Your fatal weakness."
+    },
+    {
+     "sit": "I don't understand what you're trying to say..."
+    },
+    {
+     "s": 4,
+     "t": "Then consider my words but a breeze in your ear. Hmm... Matriarch Babel's not back yet, so you can go talk to Yuften. He's right by the creek where we raise crocodiles. You can't miss it."
+    },
+    {
+     "section": "Masseira"
+    },
+    {
+     "s": 4,
+     "t": "If you need to see Jeht, you'll have to wait for Matriarch Babel... Why, you ask? Well, you'll see..."
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 5,
+     "t": "Hello, stranger. What d—do you need?"
+    },
+    {
+     "sit": "Hello there. I'm Jeht's friend."
+    },
+    {
+     "sit": "Hello... do you need any help?"
+    },
+    {
+     "s": 5,
+     "t": "Oh, the M—Matriarch told me about you. You're good folk."
+    },
+    {
+     "s": 5,
+     "t": "If you're looking for Jeht, sh—she's still out... Please go to meet Matriarch Babel first. She has b—been waiting for you for a long time."
+    },
+    {
+     "sit": "About Jeht..."
+    },
+    {
+     "s": 5,
+     "t": "She's a good kid."
+    },
+    {
+     "sit": "And...?"
+    },
+    {
+     "s": 5,
+     "t": "She's made friends, is very happy, and talks like a l—l—little antelope... I'm very... very happy for her."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, it's getting busy up there. Matriarch Babel has returned. O—okay, you should probably meet her. Please don't keep her w—waiting too long."
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 5,
+     "t": "G—Go see the Matriarch. I'm sure she and Jeht will be very h—happy to see you."
+    },
+    {
+     "section": "???, Babel, Jeht, Messenger"
+    },
+    {
+     "s": 6,
+     "t": "B—But... I don't know what those outsiders wanted... It's not my fault! Please let me explain, Matriarch Babel..."
+    },
+    {
+     "s": 7,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "Please... Please! Give me one more chance, Matriarch... My Lady! I will prove my loyalty to the Tanit... Please believe me... I would gladly offer my life..."
+    },
+    {
+     "s": 7,
+     "t": "Silence."
+    },
+    {
+     "s": 7,
+     "t": "She who knocked your teeth out can also remove your tongue."
+    },
+    {
+     "s": 6,
+     "t": "...! No, please don't..."
+    },
+    {
+     "s": 7,
+     "t": "I don't understand... If you're willing to give your life for the Tanit, why are you still standing before me, alive?"
+    },
+    {
+     "s": 7,
+     "t": "And another thing... Why did you address me as \"My Lady\"?"
+    },
+    {
+     "s": 7,
+     "t": "I don't speak the language of the snowlands, and I do not care for the sophistry of the so-called \"civilized world\"... There is no such thing as \"My Lady\" here."
+    },
+    {
+     "s": 7,
+     "t": "And do enlighten me. What makes you think I'm not your family anymore... but some \"Lady\"?"
+    },
+    {
+     "s": 7,
+     "t": "Your tongue is tainted with outsider poison, your mind stained by their gold. You cannot remain here."
+    },
+    {
+     "s": 7,
+     "t": "I shall speak no further. Lead him away... He was once one of us, so you know what to do."
+    },
+    {
+     "sit": "The weeping man is taken away, leaving an uneasy silence..."
+    },
+    {
+     "sit": "After a while, the crowd begins to disperse, making room for you to see the Matriarch."
+    },
+    {
+     "s": 1,
+     "t": "(Uh, what just happened...? Whatever it was, it sounded scary!)"
+    },
+    {
+     "sit": "(I'd hate to get on her bad side...)"
+    },
+    {
+     "sit": "(Shh...)"
+    },
+    {
+     "s": 7,
+     "t": "Hmm...?"
+    },
+    {
+     "s": 7,
+     "t": "Ah... My apologies, children. I was a little distracted. I forgot you were there."
+    },
+    {
+     "s": 7,
+     "t": "I'm terribly sorry that you had to see... that. I'm at fault. As the Matriarch of the Tanit, I'd like to make amends."
+    },
+    {
+     "s": 1,
+     "t": "Uh, n—no need! Y'know, what with that \"teeth and tongue\" stuff and all..."
+    },
+    {
+     "s": 7,
+     "t": "Heh... We were simply meting out punishment against a traitor. All the same, I am sorry for having given you such a terrible first impression as Matriarch."
+    },
+    {
+     "s": 7,
+     "t": "The city has its laws, and the tribe has its rules — please, do not pay it too much mind."
+    },
+    {
+     "s": 7,
+     "t": "So you two are {NICKNAME} and Paimon, yes? Jeht talks about you two a lot."
+    },
+    {
+     "sit": "We came at her invitation."
+    },
+    {
+     "sit": "We came to look for her."
+    },
+    {
+     "s": 1,
+     "t": "This doesn't seem like a good time, though."
+    },
+    {
+     "s": 7,
+     "t": "Ah, no need to be so polite! Indeed, I should say that you have impeccable timing."
+    },
+    {
+     "s": 7,
+     "t": "It was I who approved her invitation in the first place. That is how you got safely past the Tanit's hunting grounds."
+    },
+    {
+     "s": 7,
+     "t": "Hehe. While I do feel bad saying this... I invited you here to help Jeht with some unfinished business."
+    },
+    {
+     "s": 1,
+     "t": "\"Hunting Grounds\"?"
+    },
+    {
+     "s": 7,
+     "t": "Don't worry. We weren't trying to hunt you. You are an honored guest here. For so long as we remember our guests' faces, we shall never do them harm on our land."
+    },
+    {
+     "s": 1,
+     "t": "...That still isn't very reassuring..."
+    },
+    {
+     "s": 7,
+     "t": "Haha. Now then, don't let me spoil the fun for you young folks... Look, Jeht is here."
+    },
+    {
+     "s": 8,
+     "t": "Matriarch Babel, I have returned."
+    },
+    {
+     "s": 7,
+     "t": "How did it go with that fellow?"
+    },
+    {
+     "s": 8,
+     "t": "I made sure that he was given sufficient dignity."
+    },
+    {
+     "s": 7,
+     "t": "...That's good. But do not be proud of this deed, child. This was a tragic affair. He was my tribesman, and yours also."
+    },
+    {
+     "s": 8,
+     "t": "...I understand."
+    },
+    {
+     "s": 7,
+     "t": "Haha, alright. This is not a good day to preach. The friends you have been waiting for have finally arrived, so set your tears aside and greet them with joy."
+    },
+    {
+     "s": 8,
+     "t": "...Matriarch Babel? What do you..."
+    },
+    {
+     "sit": "Long time no see."
+    },
+    {
+     "s": 1,
+     "t": "Hey, Jeht! We're here to see you!"
+    },
+    {
+     "s": 8,
+     "t": "{NICKNAME}! And Paimon, too! You really did come!"
+    },
+    {
+     "s": 8,
+     "t": "Thank you, Matriarch Babel! I shouldn't have gotten mad at everyone about it..."
+    },
+    {
+     "s": 7,
+     "t": "Now, now, of course I'm happy to see you all together. Whatever it is that you want to see or do, I've already approved it. You can put your doubts to rest."
+    },
+    {
+     "s": 7,
+     "t": "A word of caution, however... The road ahead of you will be fraught with danger and intrigue, so be on your guard. Please stay safe..."
+    },
+    {
+     "s": 9,
+     "t": "Matriarch Babel, Azariq has sent me to deliver a message to you."
+    },
+    {
+     "s": 7,
+     "t": "Understood..."
+    },
+    {
+     "s": 7,
+     "t": "If you'll excuse me, I have tribal affairs to attend to. I'll leave you young ones to catch up."
+    },
+    {
+     "s": 8,
+     "t": "Thanks!"
+    },
+    {
+     "sit": "Babel hurries away together with the messenger."
+    },
+    {
+     "s": 1,
+     "t": "Jeht, you've changed a lot since we last saw you!"
+    },
+    {
+     "s": 8,
+     "t": "Hehe, got a good eye, haven't you, Paimon? So, what's different about me?"
+    },
+    {
+     "s": 1,
+     "t": "You look a little more tanned..."
+    },
+    {
+     "s": 8,
+     "t": "Hey! Mouthy as always, huh!?"
+    },
+    {
+     "sit": "You've matured."
+    },
+    {
+     "sit": "You've mellowed out."
+    },
+    {
+     "s": 8,
+     "t": "Is that so? Hehe, after all we've been through, one probably should mature, even if just a little.(I—Is that so? Uh, I thought you were gonna make fun of me or something...)"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}'s right. You look like you've really come into your own."
+    },
+    {
+     "s": 8,
+     "t": "Really? I just learned a lot of survival skills here, that's all. Been busy keeping myself alive, you know?"
+    },
+    {
+     "s": 8,
+     "t": "Matriarch Babel has taken good care of me all this time, and I've helped her out with a lot of things... I'm grateful that she's accepted me as a member of the tribe."
+    },
+    {
+     "sit": "And have you been doing well since we last met?"
+    },
+    {
+     "s": 8,
+     "t": "Hehe, did you think I was pining after you like some lovesick maiden?(Hardly. Not a moment has passed since then that I haven't thought of you.)"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! Hang on a moment! Where did you learn to say all that?"
+    },
+    {
+     "s": 8,
+     "t": "Hahahaha! Aw, and here I thought I'd get you to blush!"
+    },
+    {
+     "s": 8,
+     "t": "I'm kidding, I'm kidding. All the boys in the tribe are like that, talking nonsense like this... It's annoying. They can't beat me anyway."
+    },
+    {
+     "s": 8,
+     "t": "Ahem... To be honest, it's been tough living, but we're all looking out for each other and helping each other out, so we can all survive."
+    },
+    {
+     "s": 8,
+     "t": "Still, the first days were rough, and I occasionally thought about the days back when my father would teach and protect me... Hehe, and to think that I used to find him annoying when he was around."
+    },
+    {
+     "s": 8,
+     "t": "But the good old days won't put food on the table today, and Matriarch Babel and the rest of the Tanit have been taking good care of me... so it's better to look ahead."
+    },
+    {
+     "s": 8,
+     "t": "Since the Tanit have accepted me, I'm learning to make myself more useful to everyone."
+    },
+    {
+     "s": 8,
+     "t": "Anyway, let's not dally. I've got some errands to run, and since you're here, why not join me?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, is that what you do with old friends?"
+    },
+    {
+     "s": 8,
+     "t": "Hehe, sorry, sorry. People are just busy sometimes, you know?"
+    },
+    {
+     "s": 8,
+     "t": "Hmm... let me think. Yuften needs help feeding the crocodiles, so let's go there first!"
+    },
+    {
+     "section": "Aderfi"
+    },
+    {
+     "s": 3,
+     "t": "Ah, it's you..."
+    },
+    {
+     "s": 3,
+     "t": "You've already met the Matriarch? If you haven't gotten kicked out, that means you're our honored guest... Well, feel free to wander as you like, then."
+    },
+    {
+     "sit": "Are you a merchant?"
+    },
+    {
+     "sit": "What are you selling here, anyway?"
+    },
+    {
+     "s": 3,
+     "t": "Hmm? You've got a good eye, I must say. Yes, I am indeed a merchant. I sell the various things that the tribe lacks. Cosmetics, luxury items, costumes, toys, agricultural products, intricate tools..."
+    },
+    {
+     "s": 3,
+     "t": "What would you like? If you should need something, I'll have it. And if I don't, just tell me what you need, and I'll get it for you, whether it's from the city, or even from Fontaine!"
+    },
+    {
+     "s": 3,
+     "t": "Ah... Right, you're an outsider. Well, in that case, you have my apologies, but my shop is not open to you."
+    },
+    {
+     "s": 3,
+     "t": "Of course, you are our guest, so you can feel free to take whatever catches your eye here in my tent... Uh, as long as you don't take it all, anyway."
+    },
+    {
+     "sit": "You've got lots of books here. May I read them?"
+    },
+    {
+     "s": 3,
+     "t": "The books? Oh! Right, those are here at the request of Matriarch Babel. I'm sure you've heard, and seen, that the city people have taken to using this thing called the Akasha, which they mount on their ears."
+    },
+    {
+     "s": 3,
+     "t": "Their libraries have been emptied of a great number of obsolete books, and the Matriarch had me purchase and safe-keep them for everyone to read free of charge. Hmph... I operated at a loss there."
+    },
+    {
+     "s": 3,
+     "t": "As for the Akasha, we did ship a set in from another tribe, but it was... very inconvenient to use, not to mention quite arcane indeed. We could not disassemble or repair it, for the wiring was too centralized..."
+    },
+    {
+     "s": 3,
+     "t": "Whatever the case, I'd say that reading books on your own is far better than relying on some strange machine to stuff information into your brain."
+    },
+    {
+     "s": 3,
+     "t": "After all, who knows what back doors you might open if you just let people into the door of your mind?"
+    },
+    {
+     "sit": "See you."
+    },
+    {
+     "s": 3,
+     "t": "Don't let me get in your way."
+    },
+    {
+     "section": "Masseira"
+    },
+    {
+     "s": 4,
+     "t": "Spoken to Babel, have you? Ah, she's probably busying herself somewhere else again... You would sooner stop the wind than stop her."
+    },
+    {
+     "s": 4,
+     "t": "Haha... You know, youngster, speaking of the wind... I'd like to remind you of a kind of desert wind that we call \"Zibri.\""
+    },
+    {
+     "s": 4,
+     "t": "At first, you won't sense anything, until the sandstorm rises over the horizon, and the air itself begins to ascend and burn. Only then will you realize..."
+    },
+    {
+     "s": 4,
+     "t": "...That you can no longer smell anything, for the heated air has smothered your sense of smell, seared your nostrils..."
+    },
+    {
+     "s": 4,
+     "t": "By then... Heh. By then, it will be too late."
+    },
+    {
+     "sit": "I'm afraid I didn't catch your drift..."
+    },
+    {
+     "s": 4,
+     "t": "It's nothing... I just mean to say that you should be careful of the sandstorms."
+    },
+    {
+     "section": "Jeht, Yuften"
+    },
+    {
+     "s": 8,
+     "t": "I'm here, Yuften! And I've brought my friends, {NICKNAME} and Paimon."
+    },
+    {
+     "s": 5,
+     "t": "H—Hello, Jeht. Have you finished your b—b—business?"
+    },
+    {
+     "s": 8,
+     "t": "Yep, and that's why I thought I should come here to help you out, and brought my friends along to boot!"
+    },
+    {
+     "s": 5,
+     "t": "Oh? Thank you, Jeht. You r—r—remembered that I had something I needed your help with!"
+    },
+    {
+     "s": 5,
+     "t": "Haha. Back when Elder Bleda was around, you used to pester him to f—f—feed the crocodiles together with you..."
+    },
+    {
+     "s": 8,
+     "t": "Ahem...! Loose lips sink ships!"
+    },
+    {
+     "s": 5,
+     "t": "Um, alright... Here's the f—f—food. The meat's fresh. Take it."
+    },
+    {
+     "s": 8,
+     "t": "Okay! Let's go, {NICKNAME}!"
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 5,
+     "t": "Those crocodiles are a v—very gentle... Still, be careful when you feed them..."
+    },
+    {
+     "s": 5,
+     "t": "Watch your fingers..."
+    },
+    {
+     "section": "Jeht"
+    },
+    {
+     "s": 8,
+     "t": "Feeding crocodiles is pretty easy... You drop the meat, they follow the scent, and they eat it themselves."
+    },
+    {
+     "s": 1,
+     "t": "By the way, your Matriarch seems pretty fearsome..."
+    },
+    {
+     "s": 8,
+     "t": "Oh, you mean what happened just now? Well, it's nothing. We were just dealing with a traitor."
+    },
+    {
+     "s": 8,
+     "t": "I tracked him through the desert for half a month before bringing him back alive. He was crafty, and plenty fierce to boot. I had to knock some of his teeth out to subdue him... Argh, my hand still hurts..."
+    },
+    {
+     "s": 1,
+     "t": "Wow... that sounds scary..."
+    },
+    {
+     "s": 8,
+     "t": "So be careful what you say around me in the future, eh, Paimon?"
+    },
+    {
+     "s": 1,
+     "t": "Oh..."
+    },
+    {
+     "sit": "Watch your teeth, Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Eek!"
+    },
+    {
+     "s": 8,
+     "t": "Hahaha, don't be so serious! We're all friends here. I'm just kidding!"
+    },
+    {
+     "section": "Jeht"
+    },
+    {
+     "s": 1,
+     "t": "It does look like you're taken seriously around here... Everyone seems to respect you!"
+    },
+    {
+     "s": 8,
+     "t": "Well, here's the thing... Because of my previous experience with adventurers, I'm more perceptive about things that happen outside the tribe."
+    },
+    {
+     "s": 8,
+     "t": "So the Matriarch decided that it would be my job to track down outsiders and punish traitors to the tribe."
+    },
+    {
+     "sit": "She's taking good care of you."
+    },
+    {
+     "sit": "Why has she entrusted this work to you?"
+    },
+    {
+     "s": 8,
+     "t": "Since I wasn't born amongst the Tanit, it's okay for me to deal with criminals in a more aggressive way... That's what Matriarch Babel told me."
+    },
+    {
+     "s": 8,
+     "t": "Although I don't really care... I'm not sure if this is a special privilege or proof of our estrangement."
+    },
+    {
+     "s": 8,
+     "t": "Well, I wasn't born here, after all, and the Tanit tribe isn't a home I'm innately familiar with. I can only try my best to do everything well. As long as I can put some roots down, I think I'll be fine."
+    },
+    {
+     "sit": "Isn't that exhausting?"
+    },
+    {
+     "sit": "It's good to see that you've finally found a home."
+    },
+    {
+     "s": 8,
+     "t": "It's okay... I'm just trying to survive around here, and I've learned a lot, too."
+    },
+    {
+     "s": 8,
+     "t": "Alright, I think they've eaten their fill. Let's go!"
+    },
+    {
+     "section": "Yuften, Jeht"
+    },
+    {
+     "s": 5,
+     "t": "H—Have you finished, Jeht?"
+    },
+    {
+     "s": 8,
+     "t": "Yeah. I'm going to wash now! Your crocodile food stinks — smells of raw meat!"
+    },
+    {
+     "s": 5,
+     "t": "Haha... And d—does that or traitor-blood smell worse?"
+    },
+    {
+     "s": 8,
+     "t": "Hey! Not funny!"
+    },
+    {
+     "s": 5,
+     "t": "Thank you. By the way... th—there's one more thing that I want to a—ask of you..."
+    },
+    {
+     "s": 5,
+     "t": "This is the cured c—c—crocodile meat that I promised to give Aderfi previously. Pass it on to him for me, would you?"
+    },
+    {
+     "s": 8,
+     "t": "Sure, sure, I'll give your c—c—crocodile meat to Aderfi, no problem!"
+    },
+    {
+     "s": 5,
+     "t": "H—Hey! Th—that was uncalled for!"
+    },
+    {
+     "s": 8,
+     "t": "Hahaha, smell ya later!"
+    },
+    {
+     "section": "Yuften"
+    },
+    {
+     "s": 5,
+     "t": "Hello... Guest of Tanit..."
+    },
+    {
+     "s": 5,
+     "t": "J—J—Jeht mentions you often. She's a good kid."
+    },
+    {
+     "sit": "What are you up to?"
+    },
+    {
+     "sit": "Crocodiles, you say!?"
+    },
+    {
+     "s": 5,
+     "t": "Planting crops and f—feeding the fish. Sometimes, I also do some b—b—butchery. Crocodile skin and meat is v—very useful."
+    },
+    {
+     "s": 5,
+     "t": "We get clean spring water all year around h—here, so it's just right for raising crocodiles. Th—that's why we fenced this place up."
+    },
+    {
+     "s": 5,
+     "t": "Crocodiles are easy to care for, and they can be harvested for lots of skins and meat. Unfortunately, f—fields are a d—different story..."
+    },
+    {
+     "sit": "You have fields around here?"
+    },
+    {
+     "s": 5,
+     "t": "We do... but only for testing. Matriarch Babel invited some outsiders to c—c—come and provide us with Anahitian Blessing, and she got all these old books from the city..."
+    },
+    {
+     "s": 5,
+     "t": "S—s—so we've tried our hand at farming according to the contents of these books."
+    },
+    {
+     "s": 5,
+     "t": "But the oases in the canyon are too narrow and lack nutrients. We need to find a way to f—fertilize the soil."
+    },
+    {
+     "sit": "Tell me about the Anahitian Blessing..."
+    },
+    {
+     "s": 5,
+     "t": "The outsiders didn't want to reveal the fertilizer's composition. As such, we've had to rely on the people who provide it to f—fertilize the soil... which isn't good."
+    },
+    {
+     "s": 5,
+     "t": "Th—that's why the Matriarch wants me to d—do some research here to r—reverse engineer our own Anahitian Blessing."
+    },
+    {
+     "sit": "I shan't disturb you any longer."
+    },
+    {
+     "s": 5,
+     "t": "Th—that's alright. Please take some crocodile jerky, dear guest. It's just over there..."
+    },
+    {
+     "section": "Jeht, Aderfi"
+    },
+    {
+     "s": 8,
+     "t": "I'm here, Aderfi!"
+    },
+    {
+     "s": 3,
+     "t": "Oh? Here to show off your new outsider friends?"
+    },
+    {
+     "s": 8,
+     "t": "Sort of! By the way, here's the crocodile jerky from Yuften!"
+    },
+    {
+     "s": 3,
+     "t": "Ah, thanks. You're so considerate..."
+    },
+    {
+     "s": 8,
+     "t": "Hehe, no worries! By the way, about Benben... can you still fix it?"
+    },
+    {
+     "s": 3,
+     "t": "Don't worry, it's nothing serious. I'll be able to get it back to you in a couple of days."
+    },
+    {
+     "s": 8,
+     "t": "Oh... okay! Then I'll get going!"
+    },
+    {
+     "s": 3,
+     "t": "Stay safe."
+    },
+    {
+     "section": "Aderfi"
+    },
+    {
+     "s": 3,
+     "t": "Ah, it's you."
+    },
+    {
+     "s": 3,
+     "t": "Matriarch Babel mentioned you previously, honored guest. Please, have a look around."
+    },
+    {
+     "sit": "Are you a merchant?"
+    },
+    {
+     "sit": "What are you selling here, anyway?"
+    },
+    {
+     "sit": "About Benben..."
+    },
+    {
+     "s": 3,
+     "t": "Hmm...? I thought I had already introduced myself... I sell the various things that the tribe lacks. Cosmetics, luxury items, costumes, toys, agricultural products, intricate tools..."
+    },
+    {
+     "s": 3,
+     "t": "What would you like? If you should need something, I'll have it. And if I don't, just tell me what you need, and I'll get it for you, whether it's from the city, or even from Fontaine!"
+    },
+    {
+     "s": 3,
+     "t": "Ah... Right, you're an outsider. Well, in that case, you have my apologies, but my shop is not open to you."
+    },
+    {
+     "s": 3,
+     "t": "Of course, you are our guest, so you can feel free to take whatever catches your eye here in my tent... Uh, as long as you don't take it all, anyway."
+    },
+    {
+     "sit": "You've got lots of books here. May I read them?"
+    },
+    {
+     "s": 3,
+     "t": "Books? ...Oh, right, you mean the ones Matriarch Babel requested... See, it's been fashionable for city people to wear Akasha on their ears for some time. You must have seen them."
+    },
+    {
+     "s": 3,
+     "t": "Their libraries have been emptied of a great number of obsolete books, and the Matriarch had me purchase and safe-keep them for everyone to read free of charge. Hmph... I operated at a loss there."
+    },
+    {
+     "s": 3,
+     "t": "As for the Akasha, we did ship a set in from another tribe, but it was... very inconvenient to use, not to mention quite arcane indeed. We could not disassemble or repair it, for the wiring was too centralized..."
+    },
+    {
+     "s": 3,
+     "t": "Whatever the case, I'd say that reading books on your own is far better than relying on some strange machine to stuff information into your brain."
+    },
+    {
+     "s": 3,
+     "t": "After all, who knows what back doors you might open if you just let people into the door of your mind?"
+    },
+    {
+     "sit": "See you."
+    },
+    {
+     "s": 3,
+     "t": "Don't let me get in your way."
+    },
+    {
+     "section": "Jeht"
+    },
+    {
+     "s": 8,
+     "t": "Heh... running here and there really works up a sweat..."
+    },
+    {
+     "sit": "Are you always this busy?"
+    },
+    {
+     "sit": "Doesn't sound easy."
+    },
+    {
+     "s": 8,
+     "t": "Haha, it's fine. I don't like being idle, actually."
+    },
+    {
+     "s": 8,
+     "t": "Ah, but look at me. I didn't invite you guys here so you could come run errands with me!"
+    },
+    {
+     "s": 8,
+     "t": "Well, so here's the story: Matriarch Babel recently agreed to let me bring Dad's... my father's remains, and those of my mother, to be buried in the Eternal Oasis."
+    },
+    {
+     "s": 1,
+     "t": "Oh? So that's a real place? Paimon thought that it was just a myth."
+    },
+    {
+     "s": 8,
+     "t": "Well, the last time we parted, I was so lost... I honestly didn't know where to start looking for it. Matriarch Babel, however, seems very sure that the Eternal Oasis lies in the middle of this desert..."
+    },
+    {
+     "s": 8,
+     "t": "The Tanit tribe holds that the never-ending sandstorm at the heart of the desert conceals the Eternal Oasis."
+    },
+    {
+     "s": 8,
+     "t": "Unfortunately, that area has been sealed off by the tribe as a taboo place. No one can approach except scouts on patrol."
+    },
+    {
+     "s": 1,
+     "t": "Taboo...? Is it dangerous or something?"
+    },
+    {
+     "s": 8,
+     "t": "Yes. Some older folks believe that ancient spirits roam there, hungering for souls and flesh... But that's probably just a myth. I don't believe it."
+    },
+    {
+     "sit": "Sounds like a terrifying place..."
+    },
+    {
+     "sit": "Why has Babel given you special permission, if I might ask?"
+    },
+    {
+     "s": 8,
+     "t": "Yeah, but I'm not afraid. I've seen lots of spooky stuff in my time. As long as my blade can strike it, I'm not afraid of it."
+    },
+    {
+     "s": 8,
+     "t": "As for things my blade can't strike, we'll just have to outrun it."
+    },
+    {
+     "s": 8,
+     "t": "Basically, I can bypass the taboos of the elders and explore the Eternal Oasis."
+    },
+    {
+     "s": 8,
+     "t": "That'll let me fulfill a long-cherished wish of mine, and secure the future of the tribe too. They believe that this is where the secrets of the mistress of flowers lie."
+    },
+    {
+     "s": 8,
+     "t": "If these secrets can be discovered... They'll give the tribe a new lease on life!"
+    },
+    {
+     "s": 8,
+     "t": "I know that this is my duty and honor. But I've been thinking, and I've been getting this feeling that I should invite you to witness it with me."
+    },
+    {
+     "s": 8,
+     "t": "After all... since my father passed, that leaves you as my most trusted friends... the closest thing I have to family right now. That's why I wanted to ask you to join me on this wayward little trip of mine."
+    },
+    {
+     "s": 1,
+     "t": "Jeht... You can rest easy. Of course we'll help!"
+    },
+    {
+     "sit": "We won't let a friend down."
+    },
+    {
+     "sit": "We didn't come all this way just to leave, you know."
+    },
+    {
+     "s": 8,
+     "t": "Thanks so much, you guys!"
+    },
+    {
+     "s": 8,
+     "t": "Ahem... First, we need to go to the ruins of Gurabad to look for this \"Jinni Fragment\" thing..."
+    },
+    {
+     "s": 8,
+     "t": "I don't quite understand it, but the tribe's stories say that she's the only one who knows how to open the way to the Oasis, so we'll have to find her..."
+    },
+    {
+     "s": 8,
+     "t": "Umm... And that's all I can tell you, really. I think Azariq can tell you more. So... Shall we go?"
+    },
+    {
+     "sit": "Let's."
+    },
+    {
+     "sit": "I don't feel like leaving just yet..."
+    },
+    {
+     "s": 8,
+     "t": "Okay, then we're off! I have so many other things I wanna say!"
+    },
+    {
+     "section": "Jeht"
+    },
+    {
+     "s": 8,
+     "t": "Well? Are you ready to go?"
+    },
+    {
+     "sit": "Yes, let's go."
+    },
+    {
+     "sit": "Not yet. I still want to rest a bit."
+    },
+    {
+     "s": 8,
+     "t": "Okay, let's move out!"
+    }
+   ],
+   "description": "Katheryne of the Sumeru Adventurers’ Guild seems to be looking for you…"
+  }
+ ],
+ "speakers": [
+  "Katheryne",
+  "Paimon",
+  "Mendas",
+  "Aderfi",
+  "Masseira",
+  "Yuften",
+  "???",
+  "Babel",
+  "Jeht",
+  "Messenger"
+ ]
+}

@@ -1,0 +1,711 @@
+{
+ "chapter": "The Scattered Past",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "A Misplaced Conch",
+ "region": null,
+ "quests": [
+  {
+   "title": "A Misplaced Conch",
+   "dialogue": [
+    {
+     "section": "Agafya, Zakhar, Chevka"
+    },
+    {
+     "s": 0,
+     "t": "Yakov, Yakov... That was your favorite song."
+    },
+    {
+     "s": 0,
+     "t": "So, has Yakov woken up?"
+    },
+    {
+     "s": 1,
+     "t": "No, he's still not responding."
+    },
+    {
+     "s": 0,
+     "t": "Every time I sing the song, especially when I get to the line \"Midsummer passed, flowers faded. You'll sail away someday, but I'll be here, waiting...\""
+    },
+    {
+     "s": 0,
+     "t": "Every time I got to it, he'd look at me misty-eyed. Why didn't he react at all this time?"
+    },
+    {
+     "s": 0,
+     "t": "*sigh*..."
+    },
+    {
+     "s": 1,
+     "t": "I made him his favorite soup. It smelled so good that it made my mouth water, but he remained unconscious."
+    },
+    {
+     "s": 2,
+     "t": "I got it, Agafya! Yakov wants his father to come back more than anything else. How about I pretend to be his father?"
+    },
+    {
+     "s": 0,
+     "t": "Shut it, you. Don't talk to me! I should've never let Yakov go with you!"
+    },
+    {
+     "s": 2,
+     "t": "It wasn't my fault, you know. It was that experiment!"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Yakov. Poor Yakov..."
+    },
+    {
+     "s": 3,
+     "t": "Is Yakov still not responding?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, it's you. Well, as you can see, Yakov is still unresponsive."
+    },
+    {
+     "s": 0,
+     "t": "What should we do now? If he goes back to Snezhnaya like this, he'll probably be dismissed from the Fatui..."
+    },
+    {
+     "sit": "Wouldn't that be a blessing?"
+    },
+    {
+     "sit": "That sounds good to me."
+    },
+    {
+     "s": 0,
+     "t": "But he's all on his lonesome now. We've got our own duties to perform, so none of us can afford to take care of him. How will he survive if he gets dismissed?"
+    },
+    {
+     "s": 0,
+     "t": "Hey, {NICKNAME}. You know how to deal with situations like this, right?"
+    },
+    {
+     "s": 0,
+     "t": "Please, I'm begging you, just find a way to wake Yakov up!"
+    },
+    {
+     "s": 3,
+     "t": "But..."
+    },
+    {
+     "s": 0,
+     "t": "You want intel, right? We can trade! Even classified secrets such as..."
+    },
+    {
+     "s": 1,
+     "t": "Yes, such as \"we Fatui are secretly hunting for mysterious Medaka in the Golden Apple Archipelago\"!"
+    },
+    {
+     "s": 0,
+     "t": "Zakhar..."
+    },
+    {
+     "s": 1,
+     "t": "Sorry, that's all I can remember."
+    },
+    {
+     "s": 2,
+     "t": "Running errands is what we do. We don't know any classified secrets."
+    },
+    {
+     "s": 0,
+     "t": "Just shut up already, Chevka."
+    },
+    {
+     "s": 3,
+     "t": "Well, how do you feel about the intel that \"the Fatui are secretly hunting mysterious Medaka on Golden Apple Archipelago,\" {NICKNAME}?"
+    },
+    {
+     "sit": "It's news to us, at least..."
+    },
+    {
+     "sit": "It counts. Just barely, though..."
+    },
+    {
+     "s": 3,
+     "t": "Alright, it's a deal then. We'll help you."
+    },
+    {
+     "s": 0,
+     "t": "Thank you so much!"
+    },
+    {
+     "s": 3,
+     "t": "But how do we wake Yakov up, exactly?"
+    },
+    {
+     "s": 3,
+     "t": "They look like they've been staying at this camp this whole time... {NICKNAME}, why don't we rummage about and see what we can find?"
+    },
+    {
+     "section": "Agafya"
+    },
+    {
+     "s": 0,
+     "t": "Well, that's it. We've told you everything we know. Have you found some way to wake Yakov up?"
+    },
+    {
+     "sit": "About the signal testing..."
+    },
+    {
+     "sit": "About Zakhar..."
+    },
+    {
+     "sit": "About the photo..."
+    },
+    {
+     "sit": "We're still investigating..."
+    },
+    {
+     "s": 0,
+     "t": "Like I told you, I don't know much about it. They were probably just some simple tests, but running all over these islands was just... incredibly tiring."
+    },
+    {
+     "section": "Chevka"
+    },
+    {
+     "s": 2,
+     "t": "*sigh* Oh, what are we going to do about Yakov... Do you have any clues, {NICKNAME}?"
+    },
+    {
+     "sit": "Why did you join the Fatui?"
+    },
+    {
+     "sit": "About Yakov..."
+    },
+    {
+     "sit": "Nothing yet..."
+    },
+    {
+     "s": 2,
+     "t": "Why... I joined the Fatui?"
+    },
+    {
+     "s": 2,
+     "t": "Well, I did it to help realize the long-cherished wish of Her Royal Highness the Tsaritsa... and to bring more honor to my family. I was raised to fight for the Tsaritsa."
+    },
+    {
+     "section": "Yakov"
+    },
+    {
+     "s": 4,
+     "t": "Why... Why did you leave me alone, Father... Why..."
+    },
+    {
+     "sit": "(He still doesn't seem to be in his right mind...)"
+    },
+    {
+     "section": "Zakhar"
+    },
+    {
+     "s": 1,
+     "t": "Ah... How much longer till Yakov regains his wits?"
+    },
+    {
+     "s": 1,
+     "t": "Our instructors taught us that we Fatui are soldiers of Snezhnaya who should stand ready to sacrifice ourselves for a greater cause, and that we should not be too swayed by unnecessary emotions..."
+    },
+    {
+     "s": 1,
+     "t": "But we've spent so much time together as a team, day in and day out... I'm not the brightest spark, I know that, but can anyone truly feel nothing at all for their comrades?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "Hmm? Look at the conch on that crate, {NICKNAME}..."
+    },
+    {
+     "s": 3,
+     "t": "It feels like we've seen this sorta thing before, haven't we? Let's go have a look."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "Well, look who's back. Pfft. Well, at least you didn't wreck the device or anything."
+    },
+    {
+     "s": 3,
+     "t": "But..."
+    },
+    {
+     "s": 3,
+     "t": "Bah, it was just a signal reception test, not the end of the world."
+    },
+    {
+     "s": 3,
+     "t": "See? Chevka doesn't mind!"
+    },
+    {
+     "s": 3,
+     "t": "Well... Guess I'll make preparations. We'll head out later!"
+    },
+    {
+     "s": 3,
+     "t": "Ooh, so these conches can record images..."
+    },
+    {
+     "s": 3,
+     "t": "Hmm... it does feel like the snippets it gets are all over the place, though. It's like something's missing."
+    },
+    {
+     "s": 3,
+     "t": "Let's go ask those Fatui, {NICKNAME}."
+    },
+    {
+     "section": "Agafya, Chevka, Zakhar"
+    },
+    {
+     "s": 0,
+     "t": "So, did you find anything?"
+    },
+    {
+     "s": 3,
+     "t": "Well, it's not exactly a lead, but it has potential."
+    },
+    {
+     "sit": "You explain the function of the conches to the three Fatui..."
+    },
+    {
+     "s": 0,
+     "t": "Wow, I didn't expect that the conches affected by the strange machine would have such an effect."
+    },
+    {
+     "s": 0,
+     "t": "What you described sounds like what happened when I took Yakov, who feared a dressing down, to find Chevka."
+    },
+    {
+     "s": 2,
+     "t": "Now that you mention it, I do remember that incident."
+    },
+    {
+     "s": 0,
+     "t": "But that was quite a while back, and... uhh... My memory's still hazy from whatever it was that huge machine did to me."
+    },
+    {
+     "s": 0,
+     "t": "There are supposed to be four conches, though, so there should be <color=#00E1FFFF>three more</color>!"
+    },
+    {
+     "s": 3,
+     "t": "Your memory's hazy, yet you know that there are four conches?"
+    },
+    {
+     "s": 0,
+     "t": "While regrouping at the camp, we realized that we forgot to bring bowls for soup, so we used conches instead, one for each of us."
+    },
+    {
+     "s": 1,
+     "t": "Before we took off, however, Yakov left his on a box."
+    },
+    {
+     "s": 1,
+     "t": "The rest of us took ours!"
+    },
+    {
+     "sit": "What about the conches?"
+    },
+    {
+     "sit": "Where are they now?"
+    },
+    {
+     "s": 0,
+     "t": "Uh, we thought they were just ordinary shells, so we threw them away after using them..."
+    },
+    {
+     "s": 0,
+     "t": "Let me think, I had just gotten on the <color=#00E1FFFF>large island to the northwest</color>... Then I finished the soup and tossed the conch into a watery cave."
+    },
+    {
+     "s": 2,
+     "t": "I think I might've left mine on a mountain on <color=#00E1FFFF>the large island to the south</color>..."
+    },
+    {
+     "s": 1,
+     "t": "Hehe, I threw mine into a well on the <color=#00E1FFFF>large island to the northeast</color>."
+    },
+    {
+     "s": 3,
+     "t": "You guys sure scattered them everywhere, huh..."
+    },
+    {
+     "s": 3,
+     "t": "The northwestern island should be the one from Xinyan's dream, or Broken Isle."
+    },
+    {
+     "s": 3,
+     "t": "The large island to the south should be Minacious Isle. And as for the northeastern one..."
+    },
+    {
+     "sit": "Must be Twinning Isle."
+    },
+    {
+     "s": 3,
+     "t": "They were scattered on those three islands."
+    },
+    {
+     "sit": "We have to find all three conches."
+    },
+    {
+     "s": 3,
+     "t": "Yup, if we find these three conch shells, maybe we'll find a clue to helping Yakov wake up!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "By the way, {NICKNAME}, we saw strange conch images in all those places they mentioned."
+    },
+    {
+     "s": 3,
+     "t": "Those three conches we picked up might have something to do with that. We should put them on the box and see!"
+    },
+    {
+     "section": "Agafya"
+    },
+    {
+     "s": 0,
+     "t": "Can't find the conch? If I remember correctly, it should be in a watery cave on the<color=#00E1FFFF>big island to the northwest</color>."
+    },
+    {
+     "section": "Zakhar"
+    },
+    {
+     "s": 1,
+     "t": "My conch? Well, I threw it into a well on the <color=#00E1FFFF>great island to the northeast</color>. That was one deep well."
+    },
+    {
+     "section": "Chevka"
+    },
+    {
+     "s": 2,
+     "t": "I think I might've left that conch of mine on a mountain on <color=#00E1FFFF>the large island to the south</color>..."
+    },
+    {
+     "s": 2,
+     "t": "Gah. If I knew what those conchs could do, I wouldn't have taken mine out of the camp."
+    },
+    {
+     "section": "Yakov"
+    },
+    {
+     "s": 4,
+     "t": "Why... Why did you leave me alone, Father... Why..."
+    },
+    {
+     "sit": "(He still doesn't seem to be in his right mind...)"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "Hey, looks like those two people are lying on the ground... Are they stargazing?"
+    },
+    {
+     "s": 3,
+     "t": "To be honest, this image seems a bit weird..."
+    },
+    {
+     "s": 1,
+     "t": "Yakov, what did the commander say to you that's got you so down?"
+    },
+    {
+     "s": 4,
+     "t": "Well, the waves were really choppy, so I slipped and fell while carrying the device. Fortunately, I was quick enough to save it..."
+    },
+    {
+     "s": 4,
+     "t": "But the commander still gave me an earful and ordered our squad to do signal reception tests. I mean, ugh, that's the toughest job around..."
+    },
+    {
+     "s": 1,
+     "t": "Oh come on, don't feel so down. We've done this stuff a hundred times before. Hey, chin up! Go get yourself something to eat!"
+    },
+    {
+     "s": 3,
+     "t": "They're pointing towards something high up. Are they looking for something to eat?"
+    },
+    {
+     "s": 3,
+     "t": "Wait, is this conch crooked somehow?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "Huh, the projection is actually at the center of the stage."
+    },
+    {
+     "s": 3,
+     "t": "What are those two doing? One seems to be talking and the other is sitting on the ground."
+    },
+    {
+     "s": 3,
+     "t": "Ooh, Paimon knows! She must have been telling the person sitting on the ground a story before they went to bed. That's the kind of picture this is!"
+    },
+    {
+     "sit": "Do Fatui listen to bedtime stories too?"
+    },
+    {
+     "s": 3,
+     "t": "You never know."
+    },
+    {
+     "s": 4,
+     "t": "Agafya, Persikov has ordered us to perform some signal reception tests. Looks like all four of us have to go... Chevka will probably get mad at me."
+    },
+    {
+     "s": 0,
+     "t": "Come on, Yakov, orders are orders, and Chevka isn't going to blame you for them!"
+    },
+    {
+     "s": 0,
+     "t": "...You know what, if you're that scared, I'll go with you to talk to Chevka, alright?"
+    },
+    {
+     "s": 3,
+     "t": "Huh, so she wasn't telling a story after all..."
+    },
+    {
+     "s": 3,
+     "t": "But this snippet just kinda comes outta nowhere. We can't tell what's going on at all..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 3,
+     "t": "Seriously? That conch just floated up from inside the well..."
+    },
+    {
+     "sit": "Well, it is being affected by the Mirage..."
+    },
+    {
+     "sit": "There was probably a pocket of air inside the shell..."
+    },
+    {
+     "s": 3,
+     "t": "That's pretty amazing. Ooh, look, {NICKNAME}! Someone's bending over... Ah!"
+    },
+    {
+     "s": 3,
+     "t": "Don't move, {NICKNAME}, behind you...!"
+    },
+    {
+     "sit": "Uhh, should I be very concerned...?"
+    },
+    {
+     "sit": "This isn't the time for pranks, Paimon!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, wait, no. It's just the image projected from the conch. It just appeared behind you so suddenly..."
+    },
+    {
+     "s": 4,
+     "t": "Two signal testing sets..."
+    },
+    {
+     "s": 2,
+     "t": "You know, I honestly thought that he was in serious trouble this time. Who knew this was just about being assigned slightly more annoying work! So yeah, that was a relief."
+    },
+    {
+     "s": 0,
+     "t": "Hah! You should have seen how afraid he was of getting scolded by you. It was almost like watching a little brother cower at the thought of his older brother scolding him. Y'know... do you think he's just afraid of disappointing us?"
+    },
+    {
+     "s": 0,
+     "t": "I mean, we're just squad-mates... but it does sometimes feel like we're family as well..."
+    },
+    {
+     "s": 2,
+     "t": "Family, huh..."
+    },
+    {
+     "s": 3,
+     "t": "Um, Paimon gets the feeling that we just eavesdropped on something we really shouldn't have..."
+    },
+    {
+     "s": 3,
+     "t": "To be honest, these Fatui don't seem all that bad..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Yakov, what did the commander say to you that's got you so down?"
+    },
+    {
+     "s": 4,
+     "t": "Well, the waves were really choppy, so I slipped and fell while carrying the device. Fortunately, I was quick enough to save it..."
+    },
+    {
+     "s": 4,
+     "t": "But the commander still gave me an earful and ordered our squad to do signal reception tests. I mean, ugh, that's the toughest job around..."
+    },
+    {
+     "s": 1,
+     "t": "Oh come on, don't feel so down. We've done this stuff a hundred times before. Hey, chin up! Go get yourself something to eat!"
+    },
+    {
+     "s": 4,
+     "t": "Agafya, Researcher Persikov has ordered us to perform some signal reception tests. Looks like all four of us have to go... Chevka will probably get mad at me."
+    },
+    {
+     "s": 0,
+     "t": "Come on, Yakov, orders are orders, Chevka isn't going to blame you for them!"
+    },
+    {
+     "s": 0,
+     "t": "...You know what, if you're that scared, I'll go with you to talk to Chevka, alright?"
+    },
+    {
+     "s": 2,
+     "t": "Well, look who's back. Pfft. Well, at least you didn't wreck the device or anything."
+    },
+    {
+     "s": 4,
+     "t": "But..."
+    },
+    {
+     "s": 2,
+     "t": "Bah, it was just a signal reception test, not the end of the world."
+    },
+    {
+     "s": 0,
+     "t": "See? Chevka doesn't mind!"
+    },
+    {
+     "s": 4,
+     "t": "Well... Guess I'll make preparations. We'll head out later!"
+    },
+    {
+     "s": 4,
+     "t": "Two signal testing sets..."
+    },
+    {
+     "s": 2,
+     "t": "You know, I honestly thought that he was in serious trouble this time. Who knew this was just about being assigned slightly more annoying work! So yeah, that was a relief."
+    },
+    {
+     "s": 0,
+     "t": "Hah! You should have seen how afraid he was of getting scolded by you. It was almost like watching a little brother cower at the thought of his older brother scolding him. Y'know... do you think he's just afraid of disappointing us?"
+    },
+    {
+     "s": 0,
+     "t": "I mean, we're just squad-mates... but it does sometimes feel like we're family as well..."
+    },
+    {
+     "s": 2,
+     "t": "Family, huh..."
+    },
+    {
+     "s": 4,
+     "t": "Family... But I don't have any family now..."
+    },
+    {
+     "s": 4,
+     "t": "My father stayed behind so I could get away and return to Snezhnaya. After confirming that he didn't make it, they sent me that insignia..."
+    },
+    {
+     "s": 4,
+     "t": "But I don't want any accolades or honors. I... I just want my family back. Oh father, why did you leave me behind in this world?"
+    },
+    {
+     "s": 0,
+     "t": "Yakov."
+    },
+    {
+     "s": 4,
+     "t": "Ugh, my head hurts... What happened? Why are you here, Agafya? Weren't you in the other squad?"
+    },
+    {
+     "s": 0,
+     "t": "The experiment and our mission are both over, Yakov."
+    },
+    {
+     "s": 2,
+     "t": "So it was about \"family,\" huh? Well, at least I was half right!"
+    },
+    {
+     "s": 4,
+     "t": "Why are you all looking at me like that? Did I say something strange?"
+    },
+    {
+     "s": 0,
+     "t": "No, we just heard your true feelings, Yakov. By mistake, yes, but still... Family sometimes goes beyond blood, you know."
+    },
+    {
+     "s": 1,
+     "t": "Heh, if you ask me, I'd say that family is whoever you feel comfortable breaking bread with, day after day."
+    },
+    {
+     "s": 4,
+     "t": "I... Oh, I know..."
+    },
+    {
+     "s": 2,
+     "t": "You can think of me as your father if you want."
+    },
+    {
+     "s": 4,
+     "t": "Uh, I'll pass. That would be weird..."
+    },
+    {
+     "s": 3,
+     "t": "Ah, there we go! Yakov's regained his wits!"
+    },
+    {
+     "sit": "That's great news."
+    },
+    {
+     "s": 4,
+     "t": "...Wait a minute. I've read about you two in our internal files..."
+    },
+    {
+     "s": 3,
+     "t": "Actually, Paimon's been meaning to ask..."
+    },
+    {
+     "sit": "Internal files?"
+    },
+    {
+     "sit": "What's this internal file-communique-business, anyway?"
+    },
+    {
+     "s": 0,
+     "t": "Um, it's nothing. There's nothing all that important written there..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right, yes! Without their help, you might have been in a coma forever, Yakov!"
+    },
+    {
+     "s": 4,
+     "t": "Well, uh... I don't know what happened, but thank you all the same!"
+    },
+    {
+     "s": 3,
+     "t": "Hmm... Honestly, there's some stuff that Paimon still wants to know, but whatever. At least we've finished this \"errands for intel\" trade, eh?"
+    }
+   ],
+   "description": "The Fatui team members you’ve brought back to their senses have all returned to the camp on the central island. You wonder if the Geochanter Bracer named Yakov has regained his wits or not…"
+  }
+ ],
+ "speakers": [
+  "Agafya",
+  "Zakhar",
+  "Chevka",
+  "Paimon",
+  "Yakov"
+ ]
+}

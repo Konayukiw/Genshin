@@ -1,0 +1,2142 @@
+{
+ "chapter": "Chapter I",
+ "chapter_title": null,
+ "act": "Act I",
+ "act_title": "Of the Land Amidst Monoliths",
+ "region": "Liyue",
+ "quests": [
+  {
+   "title": "Rite of Descension",
+   "dialogue": [
+    {
+     "section": "Tianquan's Assistant"
+    },
+    {
+     "s": 0,
+     "t": "Halt. Those not involved in the proceedings are not permitted to go any further!"
+    },
+    {
+     "s": 1,
+     "t": "Pfft... Killjoy..."
+    },
+    {
+     "section": "Millelith Soldier"
+    },
+    {
+     "s": 2,
+     "t": "Halt. Those not involved in the proceedings are not permitted to go any further!"
+    },
+    {
+     "s": 1,
+     "t": "Pfft... Killjoy..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "If you wanna find the Geo Archon, this is the only chance you'll get all year."
+    },
+    {
+     "s": 1,
+     "t": "Guess it's a good thing Venti brought it up earlier, otherwise we definitely would've missed this year's Rite of Descension."
+    },
+    {
+     "sit": "Do you know when it is?"
+    },
+    {
+     "sit": "Do you know where it is?"
+    },
+    {
+     "s": 1,
+     "t": "Uhh... might be today, might also be tomorrow..."
+    },
+    {
+     "s": 1,
+     "t": "Look, we're already in Liyue so let's go ask some of the locals."
+    },
+    {
+     "s": 1,
+     "t": "Oh, right. About the Geo Archon, \"Morax...\""
+    },
+    {
+     "s": 1,
+     "t": "Did you know? The Mora that we use is named after this god."
+    },
+    {
+     "s": 1,
+     "t": "But it's seen as impolite for people from outside Liyue to refer to the Geo Archon by that name."
+    },
+    {
+     "s": 1,
+     "t": "So we should refer to the Geo Archon by the name Rex Lapis, like the people of Liyue do."
+    },
+    {
+     "section": "Guanhai"
+    },
+    {
+     "s": 3,
+     "t": "Oh! Are you also visitors here for the Rite of Descension?"
+    },
+    {
+     "s": 3,
+     "t": "To think I've lived in Liyue all these years and never come to see this before."
+    },
+    {
+     "s": 3,
+     "t": "I guess it's like they say. Locals never visit the tourist spots."
+    },
+    {
+     "s": 3,
+     "t": "I wish you well on your travels! Liyue always welcomes you!"
+    },
+    {
+     "section": "Guanhai"
+    },
+    {
+     "s": 1,
+     "t": "Thanks! So we wanna know where to go if we wanna see the Rite of Descension?"
+    },
+    {
+     "s": 3,
+     "t": "Hmm... You're not at all close. Not to mention that if I gave you directions, as outlanders, you'd get lost along the way."
+    },
+    {
+     "s": 3,
+     "t": "So better to head to Yujing Terrace, to the high ground."
+    },
+    {
+     "s": 3,
+     "t": "It's the highest place in the harbor — sounds like the best place for trying to communicate with deities, no?"
+    },
+    {
+     "section": "Linlang"
+    },
+    {
+     "s": 4,
+     "t": "Rite of Descension... Oh yeah, that reminds me, isn't that today?"
+    },
+    {
+     "s": 4,
+     "t": "Once a year, Rex Lapis bestows upon us his divine prediction, guiding us on how to run Liyue for the coming year."
+    },
+    {
+     "s": 4,
+     "t": "Last year it was the Yuheng of the Liyue Qixing that was given the honor of asking for the divine prediction."
+    },
+    {
+     "sit": "Liyue Qixing?"
+    },
+    {
+     "sit": "Yuheng?"
+    },
+    {
+     "s": 1,
+     "t": "Ooh! Paimon knows this one!"
+    },
+    {
+     "s": 1,
+     "t": "Mondstadt is to freedom as Liyue is to contracts. Liyue has a strong focus on business and trade."
+    },
+    {
+     "s": 1,
+     "t": "The Liyue Qixing — the seven leaders of the seven enterprises of Liyue — hold true control over Liyue."
+    },
+    {
+     "s": 4,
+     "t": "That's what foreigners always say."
+    },
+    {
+     "s": 4,
+     "t": "But true control over Liyue will always be held by Rex Lapis."
+    },
+    {
+     "s": 4,
+     "t": "The Qixing is comprised of mere mortals. Rex Lapis is a god. Mondstadt's god is nowhere to be seen, whilst our god is forever with us."
+    },
+    {
+     "s": 4,
+     "t": "Stay in Liyue long enough and you'll see..."
+    },
+    {
+     "s": 4,
+     "t": "Given that you just left your godless city, it's time you experienced what it's like to be in a city whose god has walked with it through all of history."
+    },
+    {
+     "section": "Linlang"
+    },
+    {
+     "s": 1,
+     "t": "Great! Then we can start our experience off with the Rite of Descension."
+    },
+    {
+     "s": 4,
+     "t": "Good choice. Then get going. To the high ground."
+    },
+    {
+     "section": "Bolai"
+    },
+    {
+     "s": 5,
+     "t": "You too wish to bear witness to the Rite of Descension? Me too, we all do!"
+    },
+    {
+     "s": 5,
+     "t": "As a businessman myself, how could I not take interest in Liyue's most important business trends?"
+    },
+    {
+     "s": 5,
+     "t": "The seventeen predictions given last year made more than a few ripples throughout the industry."
+    },
+    {
+     "s": 5,
+     "t": "What's more, there has been a rumor going around that the Tianquan herself, Ningguang, has been acting secretly in the shadows..."
+    },
+    {
+     "s": 5,
+     "t": "She wants the rocks created by Geo Vision holders to be exempt from taxation."
+    },
+    {
+     "s": 1,
+     "t": "Wow... that's some super professional legal stuff that is!"
+    },
+    {
+     "s": 5,
+     "t": "Haha. To be on the pulse of the predictions and the market is what makes this harbor what it is."
+    },
+    {
+     "s": 5,
+     "t": "Among The Seven, Rex Lapis is the oldest deity."
+    },
+    {
+     "s": 5,
+     "t": "His keen sense of strategy is well trusted among his people."
+    },
+    {
+     "s": 5,
+     "t": "Understanding the predictions as soon as possible can make all the difference in making your fortune!"
+    },
+    {
+     "section": "Bolai"
+    },
+    {
+     "s": 1,
+     "t": "F—Fortune! So where can we see this Rite of Descension anyway?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm... You're not at all close. Not to mention that if I gave you directions, as outlanders, you'd get lost along the way."
+    },
+    {
+     "s": 5,
+     "t": "So better to head to Yujing Terrace, to the high ground."
+    },
+    {
+     "s": 5,
+     "t": "It's the highest place in the harbor — sounds like the best place for trying to communicate with deities, no?"
+    },
+    {
+     "section": "Guanhai"
+    },
+    {
+     "s": 3,
+     "t": "Whatever goes on in the Rite of Descension makes no difference to a commoner like me."
+    },
+    {
+     "s": 3,
+     "t": "To be honest, I don't think I can be bothered going this year."
+    },
+    {
+     "section": "Linlang"
+    },
+    {
+     "s": 4,
+     "t": "Rex Lapis is like a father who takes care of everything for you."
+    },
+    {
+     "s": 4,
+     "t": "I guess Mondstadters are more like orphans in that sense — no father or mother to look after them... They must get lonely sometimes?"
+    },
+    {
+     "section": "Gentry De'an"
+    },
+    {
+     "s": 6,
+     "t": "Another year, another Rite of Descension... Good news for some, gloom and doom for others..."
+    },
+    {
+     "s": 6,
+     "t": "Huh... Nothing to do with me."
+    },
+    {
+     "section": "Bolai"
+    },
+    {
+     "s": 5,
+     "t": "Wonder if I should continue with the retail business for another year..."
+    },
+    {
+     "s": 5,
+     "t": "I should be able to make an informed decision once the results of the Rite of Descension are out..."
+    },
+    {
+     "section": "Fan Er'ye"
+    },
+    {
+     "s": 7,
+     "t": "Today is an important day in Liyue! You should get yourself up to Yujing Terrace and get involved."
+    },
+    {
+     "section": "Jifang"
+    },
+    {
+     "s": 8,
+     "t": "My husband's gone to take part, too. Says he wants to bear witness to this year in history..."
+    },
+    {
+     "s": 8,
+     "t": "How come he gets to go and have fun while I have to watch the shop?"
+    },
+    {
+     "section": "Guanhai"
+    },
+    {
+     "s": 3,
+     "t": "Whatever goes on in the Rite of Descension makes no difference to a commoner like me."
+    },
+    {
+     "s": 3,
+     "t": "To be honest, I don't think I can be bothered going this year."
+    },
+    {
+     "section": "Linlang"
+    },
+    {
+     "s": 4,
+     "t": "Rex Lapis is like a father who takes care of everything for you."
+    },
+    {
+     "s": 4,
+     "t": "I guess Mondstadters are more like orphans in that sense — no father or mother to look after them... They must get lonely sometimes?"
+    },
+    {
+     "section": "Gentry De'an"
+    },
+    {
+     "s": 6,
+     "t": "Another year, another Rite of Descension... Good news for some, gloom and doom for others..."
+    },
+    {
+     "s": 6,
+     "t": "Huh... Nothing to do with me."
+    },
+    {
+     "section": "Bolai"
+    },
+    {
+     "s": 5,
+     "t": "Wonder if I should continue with the retail business for another year..."
+    },
+    {
+     "s": 5,
+     "t": "I should be able to make an informed decision once the results of the Rite of Descension are out..."
+    },
+    {
+     "section": "Fan Er'ye"
+    },
+    {
+     "s": 7,
+     "t": "Today is an important day in Liyue! You should get yourself up to Yujing Terrace and get involved."
+    },
+    {
+     "section": "Jifang"
+    },
+    {
+     "s": 8,
+     "t": "My husband's gone to take part, too. Says he wants to bear witness to this year in history..."
+    },
+    {
+     "s": 8,
+     "t": "How come he gets to go and have fun while I have to watch the shop?"
+    },
+    {
+     "section": "Place incense in the censer"
+    },
+    {
+     "s": 9,
+     "t": "Oh, you also want a little adepti luck too?"
+    },
+    {
+     "s": 9,
+     "t": "Haha, seems you know a lot! Making a wish during this time is sure to get you the blessings of both the Adepti and Rex Lapis himself."
+    },
+    {
+     "s": 9,
+     "t": "I've already made my wish, so you can take this."
+    },
+    {
+     "s": 1,
+     "t": "Great, thanks!"
+    },
+    {
+     "sit": "I wish I could find my sister(brother) soon..."
+    },
+    {
+     "section": "Place incense in the censer"
+    },
+    {
+     "s": 1,
+     "t": "Great! Now that we're all done with the wishing, guess we can just wait here for things to get started."
+    },
+    {
+     "s": 1,
+     "t": "Hmm, who knows how long that Ms. Ningguang lady is gonna take."
+    },
+    {
+     "section": "Place incense in the censer"
+    },
+    {
+     "s": 10,
+     "t": "Your first time in Liyue? Actually, it's my first time to see the Rite of Descension too."
+    },
+    {
+     "s": 10,
+     "t": "Ah, look! That's Ms. Ningguang of the Liyue Qixing!"
+    },
+    {
+     "s": 10,
+     "t": "Only those who have control in Liyue can preside over the Rite of Descension."
+    },
+    {
+     "s": 10,
+     "t": "Oh yeah, not sure if you knew, but most of the adepti appear in the form of various beasts."
+    },
+    {
+     "s": 10,
+     "t": "I heard that when attending these kinds of formal occasions, Rex Lapis himself appears as a celestial cross between two of Liyue's ancient mythical creatures..."
+    },
+    {
+     "s": 10,
+     "t": "...Sorry, I shouldn't interrupt your wish. Please, take this."
+    },
+    {
+     "sit": "I wish I could get some leads from the Geo Archon..."
+    },
+    {
+     "section": "Place incense in the censer"
+    },
+    {
+     "s": 1,
+     "t": "Great! Now that we're all done with the wishing, guess we can just wait here for things to get started."
+    },
+    {
+     "s": 1,
+     "t": "Hmm, who knows how long that Ms. Ningguang lady is gonna take."
+    },
+    {
+     "section": "Changshun"
+    },
+    {
+     "s": 9,
+     "t": "May your wealth multiply in the year ahead!"
+    },
+    {
+     "section": "Ivanovich"
+    },
+    {
+     "s": 10,
+     "t": "Even for outsiders, the grandeur and solemnity of the proceedings and ceremony leaves a deep impression."
+    },
+    {
+     "section": "Changshun"
+    },
+    {
+     "s": 9,
+     "t": "May your wealth multiply in the year ahead!"
+    },
+    {
+     "section": "Ivanovich"
+    },
+    {
+     "s": 10,
+     "t": "Even for outsiders, the grandeur and solemnity of the proceedings and ceremony leaves a deep impression."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Wha... What's going on!?"
+    },
+    {
+     "s": 1,
+     "t": "Did she just say Rex Lapis is..."
+    },
+    {
+     "s": 1,
+     "t": "The Geo Archon... is... DEAD!?"
+    },
+    {
+     "s": 1,
+     "t": "Oh no, the Millelith! Looks like they're nabbing suspects who got too close."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's freaking out. The killer is amongst us!"
+    },
+    {
+     "s": 1,
+     "t": "Wait... we got close... are we suspects!?"
+    },
+    {
+     "s": 1,
+     "t": "Wait, where are you going?"
+    },
+    {
+     "sit": "(It was a god we faced off against when we first arrived in this world too...)"
+    },
+    {
+     "sit": "(We can't fall into their hands...)"
+    },
+    {
+     "section": "Childe"
+    },
+    {
+     "s": 1,
+     "t": "*panting* Phew... Paimon's exhausted..."
+    },
+    {
+     "sit": "I'm even more beat."
+    },
+    {
+     "sit": "Just what muscles does magical floating use exactly?"
+    },
+    {
+     "s": 1,
+     "t": "So insensitive! You have no idea just how tiring floating arou— Wait!"
+    },
+    {
+     "s": 1,
+     "t": "Just who are you exactly?"
+    },
+    {
+     "s": 11,
+     "t": "Call me Childe."
+    },
+    {
+     "s": 1,
+     "t": "Childe? What, so we're supposed to dote on you?"
+    },
+    {
+     "s": 11,
+     "t": "Haha, no no, not at all. It's an alias of sorts."
+    },
+    {
+     "s": 11,
+     "t": "In Mondstadt, I don't suppose you came across a \"Signora\" by any chance?"
+    },
+    {
+     "s": 1,
+     "t": "Signora... Childe..."
+    },
+    {
+     "s": 1,
+     "t": "You're Fatui! One of The Harbingers!"
+    },
+    {
+     "s": 11,
+     "t": "Oh, no. Don't worry, I'm not looking for a fight."
+    },
+    {
+     "s": 11,
+     "t": "Signora gave you quite the bad impression huh? Tsk, that woman... Can't say I'm a fan either."
+    },
+    {
+     "s": 11,
+     "t": "Right, let's forget all about her, shall we? I'm here to help you."
+    },
+    {
+     "sit": "Help?"
+    },
+    {
+     "sit": "I don't need help from the Fatui."
+    },
+    {
+     "sit": "Go. Leave."
+    },
+    {
+     "s": 11,
+     "t": "Yes. Help."
+    },
+    {
+     "s": 11,
+     "t": "I'm not a bad guy... Okay perhaps I'm kind of a bad guy, but I'm not here to give you any trouble."
+    },
+    {
+     "s": 11,
+     "t": "Would it be too much to ask for you to keep the sword sheathed?"
+    },
+    {
+     "s": 11,
+     "t": "Haha, I thank you for your knightly nobility, {NICKNAME}."
+    },
+    {
+     "s": 11,
+     "t": "I heard of your deeds in Mondstadt, so I couldn't help but notice you during the proceedings back there."
+    },
+    {
+     "s": 11,
+     "t": "And because I had my eye on you the whole time, I know it wasn't you. Someone else was clearly behind it."
+    },
+    {
+     "s": 11,
+     "t": "But... regrettably, given I'm a Fatui envoy from Snezhnaya... there's no way I'd be trusted after something of this magnitude."
+    },
+    {
+     "s": 11,
+     "t": "The ruling Qixing of Liyue has always been overly suspicious of us."
+    },
+    {
+     "s": 1,
+     "t": "Well can you honestly blame them?"
+    },
+    {
+     "s": 11,
+     "t": "Hahaha. Guess I shouldn't try to deny that."
+    },
+    {
+     "s": 11,
+     "t": "Okay, sure. Maintaining a distance between strangers is probably a good idea. Either way, I'm already used to it at this stage."
+    },
+    {
+     "s": 11,
+     "t": "But right now, if you want to clear yourselves of any suspicion — you need to get yourselves to Northland Bank."
+    },
+    {
+     "s": 11,
+     "t": "Staying here isn't an option. As the old Liyue saying goes: \"The walls have ears.\""
+    },
+    {
+     "section": "Childe"
+    },
+    {
+     "s": 1,
+     "t": "Northland Bank..."
+    },
+    {
+     "s": 11,
+     "t": "Correct. This bank was opened here in Liyue by Snezhnaya."
+    },
+    {
+     "s": 11,
+     "t": "Though everyone knows Liyue is the most enterprising in Teyvat, Snezhnaya is not short of change either."
+    },
+    {
+     "s": 1,
+     "t": "Yeah well, poorer nations don't seem the type to have diplomats that come around acting the way yours do towards the Knights of Favonius."
+    },
+    {
+     "s": 11,
+     "t": "Eh-hehehehe..."
+    },
+    {
+     "s": 11,
+     "t": "Here, let me give you this."
+    },
+    {
+     "s": 1,
+     "t": "This is a..."
+    },
+    {
+     "s": 11,
+     "t": "I'm not sure, exactly. Sometimes, all money can buy is \"things\" and not a name for oneself."
+    },
+    {
+     "s": 11,
+     "t": "All I know is that it's a sigil. A sigil to keep the \"mighty and illuminated adepti\" from bringing harm to you."
+    },
+    {
+     "s": 1,
+     "t": "Adepti?"
+    },
+    {
+     "s": 11,
+     "t": "If you head north from the harbor, then west from Guili Plains, you will eventually reach a stone forest known as Jueyun Karst."
+    },
+    {
+     "s": 11,
+     "t": "The people of Liyue believe it to be the abode of the adepti."
+    },
+    {
+     "sit": "They really believe that?"
+    },
+    {
+     "sit": "Isn't it just a legend?"
+    },
+    {
+     "s": 11,
+     "t": "Legend or not, they believe it. As such, offerings to the adepti are made at its borders. Nobody dares venture in."
+    },
+    {
+     "s": 11,
+     "t": "But I have no need for believing — not when I know for a fact that the adepti truly exist."
+    },
+    {
+     "s": 1,
+     "t": "Hate to admit it but your Fatui intel seems alright. But, why would we go looking for adepti anyway?"
+    },
+    {
+     "s": 11,
+     "t": "Ha, oh my little friend. There are plenty of reasons mortals seek the blessings of adepti."
+    },
+    {
+     "s": 11,
+     "t": "Money, health, love... But you... you will go for justice."
+    },
+    {
+     "s": 1,
+     "t": "Justice?"
+    },
+    {
+     "s": 11,
+     "t": "The Qixing will already have dispatched the Millelith. They'll be seeking out the assassin from amongst the onlookers."
+    },
+    {
+     "s": 11,
+     "t": "But how could a mere mortal kill a god that can sweep aside entire armies? Rex Lapis never gave up his power as a god."
+    },
+    {
+     "s": 11,
+     "t": "This level of crude response is beyond what is called for. How suspicious..."
+    },
+    {
+     "sit": "You think they're trying to hide the true culprit?"
+    },
+    {
+     "sit": "You think the Qixing did it and they're trying to pin it on someone else?"
+    },
+    {
+     "s": 11,
+     "t": "Or... to hide something else. Hard to say."
+    },
+    {
+     "s": 11,
+     "t": "Even now, the Northland Bank wouldn't be able to hold the Millelith off for long, but the adepti can clear you of any wrongdoing."
+    },
+    {
+     "s": 11,
+     "t": "Liyue was founded by the Geo Archon and the adepti — of course, it was built by force."
+    },
+    {
+     "s": 11,
+     "t": "Look for them. And be faster than the Qixing's messengers, so you may give your version of events first."
+    },
+    {
+     "s": 11,
+     "t": "If there is anyone that can help you in Liyue now, it can only be the mighty and illuminated adepti."
+    }
+   ],
+   "description": "In the land of Liyue by the sea, a city sits atop the solid bedrock. That city is Liyue Harbor, and it has flourished under the protection of its guardian Morax — also known as “Rex Lapis,” the Geo Archon you have been looking for. You could not have arrived at a more fortuitous time, as the annual “Rite of Descension” has just begun. Every year on this day, Rex Lapis graces this land with his prophecy, giving guidance on the economic path Liyue should follow in the coming year."
+  },
+  {
+   "title": "Absolute Territorial Domination",
+   "dialogue": [],
+   "description": "Absolute Territorial Domination",
+   "note": "No dialogue lines (battle/exploration-only quest)"
+  },
+  {
+   "title": "An Impromptu Change of Plan",
+   "dialogue": [
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 12,
+     "t": "And who might we be? Those that dare enter Jueyun Karst?"
+    },
+    {
+     "sit": "I was sent here."
+    },
+    {
+     "sit": "Please take a look at this."
+    },
+    {
+     "sit": "Please take a look at this."
+    },
+    {
+     "s": 12,
+     "t": "A Sigil of Permission... Many a season has passed since one was last in the presence of such an item."
+    },
+    {
+     "s": 12,
+     "t": "He before you is the mighty and illuminated adeptus, Moon Carver. Speak, traveler. What business have you here?"
+    },
+    {
+     "s": 1,
+     "t": "Actually..."
+    },
+    {
+     "s": 13,
+     "t": "It's the assassin! They dared to flee here to Jueyun Karst!"
+    },
+    {
+     "s": 2,
+     "t": "Sir, we've already stepped too far into Jueyun Karst ourselves..."
+    },
+    {
+     "s": 13,
+     "t": "We... Argh, there's no choice. Apprehending the assassin is top priority, we must press on!"
+    },
+    {
+     "s": 12,
+     "t": "...disturbing our borders."
+    },
+    {
+     "s": 12,
+     "t": "See them gone. One will not have interruption."
+    },
+    {
+     "section": "Moon Carver"
+    },
+    {
+     "s": 12,
+     "t": "We've digressed. State your purpose, traveler."
+    },
+    {
+     "s": 1,
+     "t": "Well..."
+    },
+    {
+     "s": 12,
+     "t": "Preposterous..."
+    },
+    {
+     "s": 12,
+     "t": "PREPOSTEROUS!!!"
+    },
+    {
+     "s": 12,
+     "t": "The Liyue Qixing... utterly disappointing."
+    },
+    {
+     "s": 12,
+     "t": "How could someone possibly assassinate Rex Lapis during the Rite of Descension..."
+    },
+    {
+     "s": 12,
+     "t": "And then place suspicion upon the attendees!?"
+    },
+    {
+     "s": 12,
+     "t": "..."
+    },
+    {
+     "s": 12,
+     "t": "Traveler, of the unjust accusations placed upon you, one has become aware."
+    },
+    {
+     "s": 12,
+     "t": "The mind knows its answer. Though one must consult with one's fellows, lest the mind be misguided."
+    },
+    {
+     "s": 12,
+     "t": "Go. Take your Sigil of Permission, carry with you a message."
+    },
+    {
+     "sit": "Who should I look for?"
+    },
+    {
+     "sit": "Where should I go?"
+    },
+    {
+     "sit": "Where should I go?"
+    },
+    {
+     "s": 12,
+     "t": "Mountain Shaper and Cloud Retainer can be found here. Only fate will decide if you shall find them — only fate."
+    },
+    {
+     "s": 12,
+     "t": "There exists a Conqueror of Demons, a Guardian Yaksha. Go to Wangshu Inn. There you shall seek him."
+    }
+   ],
+   "description": "During the rite, the appointed moment arrived. Yet when the clouds parted, a divine carcass crashed down to earth, knocking all the offerings over. Amid the chaos and confusion, the Qixing ordered that the assassin be arrested. Unable to prove your innocence, you were forced to accept the help of Childe of the Fatui, and as suggested by him, you are now headed for Jueyun Karst, a hidden abode where the adepti dwell…"
+  },
+  {
+   "title": "Appearance control logic",
+   "dialogue": [],
+   "description": "Appearance control logic",
+   "note": "No dialogue lines (battle/exploration-only quest)"
+  },
+  {
+   "title": "Wangshu",
+   "dialogue": [
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 14,
+     "t": "A Sigil of Permission? You came prepared."
+    },
+    {
+     "s": 14,
+     "t": "Though this only prevents me from hurting you myself. Doesn't stop you from getting hurt in other ways."
+    },
+    {
+     "s": 1,
+     "t": "Uhh... Paimon doesn't get it..."
+    },
+    {
+     "s": 14,
+     "t": "Too much contact with our world is breaking the rules."
+    },
+    {
+     "s": 14,
+     "t": "Mortal souls are not as robust as those of adepti, nor can your blood carry this level of adeptal energy."
+    },
+    {
+     "s": 14,
+     "t": "It's for your own good. Leave. Now."
+    },
+    {
+     "s": 1,
+     "t": "Wait a sec, we came here to..."
+    },
+    {
+     "s": 1,
+     "t": "Argh! Paimon's... peeved! All he does is think about himself!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon wants to give him an ugly nickname... but if you tick off an adeptus, the only thing you'll probably ever find in treasure chests is cabbages! Bleurgh!"
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Guess we should go ask the boss lady of the inn about just how she manages to talk to adepti."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 14,
+     "t": "Oh. It's you two."
+    },
+    {
+     "s": 1,
+     "t": "We meet again! Hiya!"
+    },
+    {
+     "s": 14,
+     "t": "Why do you insist on getting involved in the world of demons and adepti? You're breaking the rules too often."
+    },
+    {
+     "s": 14,
+     "t": "Mortal souls are not as robust as those of adepti, nor can your blood carry this level of adeptal energy."
+    },
+    {
+     "s": 14,
+     "t": "It's for your own good. Leave. Now."
+    },
+    {
+     "s": 1,
+     "t": "Wait a sec, we came here to..."
+    },
+    {
+     "s": 1,
+     "t": "Argh! Paimon's... peeved! All he does is think about himself!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon wants to give him an ugly nickname... but if you tick off an adeptus, the only thing you'll probably ever find in treasure chests is cabbages! Bleurgh!"
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Guess we should go ask the boss lady of the inn about just how she manages to talk to adepti."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "sit": "Tell me about that adeptus"
+    },
+    {
+     "s": 15,
+     "t": "Oh? You've already met Xiao?"
+    },
+    {
+     "s": 15,
+     "t": "Not bad. Not often he's in a good enough mood to agree to see people."
+    },
+    {
+     "s": 1,
+     "t": "That's his good mood?"
+    },
+    {
+     "s": 15,
+     "t": "Oh yes, the adepti are very hard to come by. Many people go their whole lives praying to them, never once actually getting to see one."
+    },
+    {
+     "s": 15,
+     "t": "When the Geo Archon built Liyue, he borrowed power from the adepti."
+    },
+    {
+     "s": 15,
+     "t": "But most of them only know how to protect Liyue by fighting."
+    },
+    {
+     "s": 15,
+     "t": "So for many millennia, it has instead been humans who have led Liyue, whilst the adepti have lived hidden away on the outskirts."
+    },
+    {
+     "s": 1,
+     "t": "You really know a lot, huh boss lady."
+    },
+    {
+     "s": 15,
+     "t": "It's not \"boss lady,\" it's just boss..."
+    },
+    {
+     "s": 15,
+     "t": "Anyway, seen as you have the favor of the adepti, things should be a lot easier."
+    },
+    {
+     "s": 15,
+     "t": "Well... If you wanna know my opinion... If you keep Xiao in a good mood, things should be okay."
+    },
+    {
+     "s": 1,
+     "t": "Good mood? Can't really imagine what a \"good mood\" looks like for that \"Vigilant Yaksha.\""
+    },
+    {
+     "s": 15,
+     "t": "Haha! Will be interesting, won't it?"
+    },
+    {
+     "s": 15,
+     "t": "(Come to think of it, I've never seen him smile either...)"
+    },
+    {
+     "s": 15,
+     "t": "How 'bout this — you go see the chef for a bowl of Almond Tofu, and a plate of whatever it is you are best at making."
+    },
+    {
+     "s": 15,
+     "t": "Almond Tofu is one of the few human foods Xiao likes. The other dish is up to you."
+    },
+    {
+     "s": 1,
+     "t": "Up to us, eh...? {NICKNAME}, what do you think you're the best at cooking?"
+    },
+    {
+     "sit": "Satisfying Salad I guess?"
+    },
+    {
+     "sit": "Perhaps a Maha Manjusaka Hot Pyro Slime?"
+    },
+    {
+     "s": 1,
+     "t": "Really hard to screw that one up, right?"
+    },
+    {
+     "s": 1,
+     "t": "But, if we're gonna be cooking for an adeptus, perhaps the Satisfying Salad would be the safer choice..."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 15,
+     "t": "Hello! ...A distinctive but elusive dress sense, defined yet atypical facial features, and followed around everywhere by a floating elf companion. Hmm... nope. Can't place you."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "sit": "Who are you?"
+    },
+    {
+     "s": 15,
+     "t": "My name is Goldet and I come from Mondstadt. I am the boss here at the Wangshu Inn."
+    },
+    {
+     "s": 15,
+     "t": "Lest you think I was the boss' wife."
+    },
+    {
+     "s": 15,
+     "t": "I'm the boss, with a capital \"B-O-S-S.\""
+    },
+    {
+     "sit": "I've heard the rumors..."
+    },
+    {
+     "sit": "Whose is this kitty?"
+    },
+    {
+     "s": 15,
+     "t": "Hahaha, well I'd hardly be able to operate an inn in this location without connections with the Qixing."
+    },
+    {
+     "s": 15,
+     "t": "What I mean is I obviously need their approval."
+    },
+    {
+     "s": 15,
+     "t": "All that other nonsense is just rumors, though."
+    },
+    {
+     "s": 15,
+     "t": "Speaking of which, have you got any interesting news to share?"
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "sit": "Tell me about your husband."
+    },
+    {
+     "s": 15,
+     "t": "Over there. He's the innkeeper."
+    },
+    {
+     "s": 15,
+     "t": "Don't be led astray by the cheeky grin on his face. He is a rather formidable martial artist."
+    },
+    {
+     "s": 15,
+     "t": "I also practice martial arts, as do the kitchen staff. It is a hiring requirement."
+    },
+    {
+     "s": 15,
+     "t": "You have to have nimble use of your hands and feet when you're serving guests, don't you think?"
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "sit": "Goodbye."
+    },
+    {
+     "s": 15,
+     "t": "Safe travels."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 15,
+     "t": "Opportunities to meet an adeptus are rare and fleeting. Make the most of it."
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "Can't you see I'm on a break kid? Scram."
+    },
+    {
+     "sit": "Excuse me, we'd like an Almond To—"
+    },
+    {
+     "s": 16,
+     "t": "Scram!"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, this chef guy's service is about as good as that Wagner guy's back in Mondstadt."
+    },
+    {
+     "sit": "It's for the boss, Goldet."
+    },
+    {
+     "s": 16,
+     "t": "..."
+    },
+    {
+     "s": 16,
+     "t": "I see. If it's for the boss, then guess I don't have a choice now, do I?"
+    },
+    {
+     "s": 16,
+     "t": "But my heart's not really in it right now, not enough to make a dessert as painstaking as Almond Tofu."
+    },
+    {
+     "s": 1,
+     "t": "And why is that?"
+    },
+    {
+     "s": 16,
+     "t": "A fencer's hand must be steady, so too must the hand of a chef."
+    },
+    {
+     "s": 16,
+     "t": "But my hands, I'm... they're not steady..."
+    },
+    {
+     "s": 16,
+     "t": "Because ahh, a traveler once told me that this inn... is haunted."
+    },
+    {
+     "s": 16,
+     "t": "And then, just now — just now! In the kitchen... I saw something... something not right."
+    },
+    {
+     "s": 1,
+     "t": "(This chef looks so intimidating, but speak of ghosts and he becomes weak.)"
+    },
+    {
+     "s": 16,
+     "t": "I keep thinking... even Wangshu Inn isn't safe. I—I can't keep a steady hand for something like Almond Tofu."
+    },
+    {
+     "s": 1,
+     "t": "Alright {NICKNAME}. In the name of high-quality Almond Tofu, we need to go check this kitchen out."
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "If the bosses hadn't been so good to me, there's no way I'd be putting up with this..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Doesn't seem to be anyth—"
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "#@&%*!"
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 15,
+     "t": "Opportunities to meet an adeptus are rare and fleeting. Make the most of it."
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "What!? You saw it too! There really is a ghost!"
+    },
+    {
+     "s": 16,
+     "t": "What... How can I..."
+    },
+    {
+     "s": 1,
+     "t": "Okay, so he's useless now. What do we do?"
+    },
+    {
+     "s": 1,
+     "t": "Forget it. Let's just go see the boss lady again."
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 15,
+     "t": "Hehe... Scared of something so insignificant. Hard to believe he was once a notorious bandit."
+    },
+    {
+     "s": 1,
+     "t": "You don't seem that afraid of ghosts, boss lady."
+    },
+    {
+     "s": 15,
+     "t": "Gods and ghosts, I've seen it all before."
+    },
+    {
+     "s": 1,
+     "t": "Come to think of it, others don't seem to know there's an adeptus here at the inn, except for the boss lady..."
+    },
+    {
+     "s": 15,
+     "t": "Shh!"
+    },
+    {
+     "s": 15,
+     "t": "Say any more and you'll be divulging my little secret."
+    },
+    {
+     "s": 15,
+     "t": "Right. Best you two be off. Go see to it that little ghost doesn't go scaring anybody else."
+    },
+    {
+     "s": 15,
+     "t": "Not that I'm ordering you around. It's like the adeptus said, mortal souls are not as robust as those of the adepti."
+    },
+    {
+     "s": 15,
+     "t": "So as to not be harmed when dealing with the adepti, you can start by practicing with that ghost."
+    },
+    {
+     "sit": "Sounds good."
+    },
+    {
+     "sit": "But how should we persuade the ghost?"
+    },
+    {
+     "s": 1,
+     "t": "But how should we persuade the ghost?"
+    },
+    {
+     "s": 15,
+     "t": "There is a calligraphy painting in the inn known as the Witness Sigil. It's been in circulation for over a thousand years. Go take a look at it."
+    },
+    {
+     "s": 15,
+     "t": "Once you have, look for a place outside where you can see the exact same Witness Sigil formation."
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "May the G—Geo Lord protect you... May all the deities protect you!"
+    },
+    {
+     "section": "Verr Goldet"
+    },
+    {
+     "s": 15,
+     "t": "Ghosts are just another form of life on earth. It's certainly possible to deal with them on their own terms."
+    },
+    {
+     "section": "Dusky Ming"
+    },
+    {
+     "s": 17,
+     "t": "♪ Silly-churl, billy-churl ♪..."
+    },
+    {
+     "s": 1,
+     "t": "Phew... Finally caught you. Paimon's pooped."
+    },
+    {
+     "s": 17,
+     "t": "♪ Silly-billy hilichurl ♪ ..."
+    },
+    {
+     "s": 1,
+     "t": "Haunting things isn't nice! Little girl, are you listening?"
+    },
+    {
+     "s": 17,
+     "t": "♪ Chilly-churl, frilly-churl ♪ ..."
+    },
+    {
+     "s": 1,
+     "t": "Now listen here young lady!"
+    },
+    {
+     "s": 17,
+     "t": "..."
+    },
+    {
+     "s": 17,
+     "t": "Okay."
+    },
+    {
+     "s": 17,
+     "t": "Dusky Ming won't tease the travelers at the inn anymore."
+    },
+    {
+     "s": 17,
+     "t": "Next time {NICKNAME} can come play with Dusky Ming."
+    },
+    {
+     "s": 17,
+     "t": "If you don't come and play, Dusky Ming will come find you~"
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "Wh-What... You really got the ghost to promise to stop haunting the inn?"
+    },
+    {
+     "s": 16,
+     "t": "Wow... You really are something..."
+    },
+    {
+     "s": 16,
+     "t": "I am in your debt."
+    },
+    {
+     "s": 16,
+     "t": "Please wait a moment. I'll make you the smoothest, silkiest bowl of Almond Tofu."
+    },
+    {
+     "s": 16,
+     "t": "Haha, my hands are steadier than ever now that she's gone."
+    },
+    {
+     "section": "Xiao"
+    },
+    {
+     "s": 14,
+     "t": "...You two again."
+    },
+    {
+     "s": 1,
+     "t": "Wait! Don't go disappearing again."
+    },
+    {
+     "s": 14,
+     "t": "What's this?"
+    },
+    {
+     "s": 1,
+     "t": "It's your favorite, Almond Tofu! As well as this distant traveler's best dish — a Satisfying Salad."
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}! Quick! Tell him everything before he finishes eating!"
+    },
+    {
+     "s": 14,
+     "t": "Rex Lapis... How could this be?"
+    },
+    {
+     "s": 14,
+     "t": "I... can't imagine it. Though times have changed, I've never imagined a Liyue without him."
+    },
+    {
+     "s": 14,
+     "t": "The ruling Qixing... Just what role have they played in this?"
+    },
+    {
+     "s": 14,
+     "t": "..."
+    },
+    {
+     "s": 14,
+     "t": "I will seek Moon Carver, Mountain Shaper, and Cloud Retainer. It is time they too made their decisions."
+    },
+    {
+     "sit": "Will the adepti take over his role in Liyue?"
+    },
+    {
+     "sit": "Will the adepti interrogate the Qixing?"
+    },
+    {
+     "s": 14,
+     "t": "Adepti do not turn on their responsibilities."
+    },
+    {
+     "s": 14,
+     "t": "I have my reasons to not want to be tainted by the mortal realm, but... responsibilities are responsibilities."
+    },
+    {
+     "s": 14,
+     "t": "Our god is the God of Contracts after all."
+    },
+    {
+     "s": 1,
+     "t": "Wait! Paimon still has one last question."
+    },
+    {
+     "s": 14,
+     "t": "Hmm?"
+    },
+    {
+     "s": 1,
+     "t": "That... Dusky Ming. She's..."
+    },
+    {
+     "s": 14,
+     "t": "When conquering demons, on occasion, you can come across spirits who have never hurt anyone, yet are also not yet able to be moved on."
+    },
+    {
+     "s": 14,
+     "t": "So I asked the innkeeper and the boss if they could keep her here for a time."
+    },
+    {
+     "s": 1,
+     "t": "So really, Wangshu Inn was looking after her! Really keeping a wide range of business going, huh!"
+    },
+    {
+     "section": "Smiley Yanxiao"
+    },
+    {
+     "s": 16,
+     "t": "I haven't enjoyed something so much in a long time. That dish was pure perfection."
+    }
+   ],
+   "description": "You came across an adeptus, “Moon Carver.” Seeing the keepsake you bore, he lent you his aid and protected you from the Millelith soldiers pursuing you. Upon learning of Rex Lapis’ passing and the unjust accusations laid against you, Moon Carver expressed disdain for the Qixing’s actions and began to suspect that they were behind what happened. He has sent you to find several other adepti and deliver a message to them."
+  },
+  {
+   "title": "Moulder of Mountains",
+   "dialogue": [
+    {
+     "section": "Li Ding"
+    },
+    {
+     "s": 18,
+     "t": "Have mercy, O mighty adeptus! I beg you... Show mercy upon me and my brother... Spare our lives!"
+    },
+    {
+     "sit": "What's wrong?"
+    },
+    {
+     "s": 18,
+     "t": "Who are you? What's going on?"
+    },
+    {
+     "s": 1,
+     "t": "We asked you first!"
+    },
+    {
+     "s": 18,
+     "t": "...Oh! You enjoy safe passage in Jueyun Karst... It can only mean one thing!"
+    },
+    {
+     "s": 18,
+     "t": "You must be adepti messengers! Sent here to rescue me and my brother!"
+    },
+    {
+     "s": 1,
+     "t": "What is he talking about?"
+    },
+    {
+     "s": 18,
+     "t": "...Oh, have mercy, mighty messengers of the illuminated adepti! I beg you to save us... My brother and I, we only came here because our family is poor, and we heard tell of treasures hidden in the amber of Mt. Hulao."
+    },
+    {
+     "s": 18,
+     "t": "It was stupid of us... but all we wanted to do was find enough treasure to sell and support our family..."
+    },
+    {
+     "s": 18,
+     "t": "We followed <color=#00E1FFFF>the path up the mountain</color>, but suddenly, the amber... it swallowed up my brother, Li Dang!"
+    },
+    {
+     "s": 18,
+     "t": "I ran away, and made it this far before it dawned on me: We were trespassers in the abode of the adepti, and this was our punishment..."
+    },
+    {
+     "s": 18,
+     "t": "I had no idea how to rescue my brother, so I just started praying for the adepti to have mercy, right here on the spot. And now, at long last, two messengers come to my aid..."
+    },
+    {
+     "s": 1,
+     "t": "What? We're not adepti messengers... We just wanna find the adepti, like everyone else!"
+    },
+    {
+     "s": 18,
+     "t": "No no no, you must be messengers... You have to be!"
+    },
+    {
+     "s": 18,
+     "t": "I have no idea which amber trapped him... Please, you have to rescue him! I beg you, show me some adepti mercy!"
+    },
+    {
+     "sit": "Oh, fine. I'll go have a look..."
+    },
+    {
+     "sit": "Of your transgression, your predicament, and your repentance, one has become aware."
+    },
+    {
+     "s": 18,
+     "t": "Thank you, thank you! O mighty messengers of the illuminated adepti, I promise that we will never be so foolish again..."
+    },
+    {
+     "section": "Li Ding"
+    },
+    {
+     "s": 18,
+     "t": "Please, help me rescue my brother. I don't know which amber it was that took him..."
+    },
+    {
+     "s": 18,
+     "t": "All I know is that we kept to <color=#00E1FFFF>the path the whole way up the mountain</color>. So the amber won't be far from the path."
+    },
+    {
+     "s": 18,
+     "t": "O mighty messengers of the illuminated adepti, please rescue him, I beg of you..."
+    },
+    {
+     "section": "Li Ding"
+    },
+    {
+     "s": 18,
+     "t": "Thank you for rescuing my brother, O mighty messengers of the illuminated adepti."
+    },
+    {
+     "sit": "Have you ever seen the adeptus here?"
+    },
+    {
+     "s": 18,
+     "t": "What? No... I mean, like everyone else, we've heard that there's an adeptus living in Mt. Hulao."
+    },
+    {
+     "s": 18,
+     "t": "But regular folks like us would never have the chance to meet them. No way."
+    },
+    {
+     "s": 18,
+     "t": "Unlike you guys... You're adepti messengers, so it's a whole different story."
+    },
+    {
+     "s": 18,
+     "t": "Anyway, we have trespassed in the realm of the adeptus for long enough. We should get going. Thank you, mighty adepti messengers..."
+    },
+    {
+     "s": 19,
+     "t": "Yes, thank you, messengers..."
+    },
+    {
+     "s": 1,
+     "t": "...Boy, it'd be super helpful if we actually were adepti messengers."
+    },
+    {
+     "s": 1,
+     "t": "'Cause it seems like this adeptus has got a real temper problem..."
+    },
+    {
+     "s": 1,
+     "t": "But it's not like we've done anything wrong, so... hopefully we'll be okay... hehe..."
+    },
+    {
+     "s": 20,
+     "t": "Who dares trespass on my mountain? Who is it that frees the thief from his incarceration?"
+    },
+    {
+     "s": 20,
+     "t": "Foolish mortal, come forth and receive your punishment at once!"
+    },
+    {
+     "section": "Li Ding"
+    },
+    {
+     "s": 18,
+     "t": "My brother told me everything... Thank you both so much for rescuing him!"
+    },
+    {
+     "s": 18,
+     "t": "*sigh* Our family has nothing to live on... We heard tell of treasures hidden in the amber of Mt. Hulao, and with nowhere else to turn, we came looking for them..."
+    },
+    {
+     "s": 19,
+     "t": "We weren't thinking straight... We thought that we could sneak up into the mountain and grab just enough treasure to sell and support our family with."
+    },
+    {
+     "s": 19,
+     "t": "As you can see, the adeptus punished us for our greed. The amber swallowed me up, and if you hadn't come to my rescue, who knows when I would've gotten out."
+    },
+    {
+     "s": 18,
+     "t": "Luckily, the adeptus was merciful. They sent you two as their messengers to save us..."
+    },
+    {
+     "sit": "...Messengers?"
+    },
+    {
+     "sit": "Of your transgression, your predicament, and your repentance, one has become aware."
+    },
+    {
+     "s": 18,
+     "t": "Yes! You two saved my brother just as I was praying for the adeptus' forgiveness, right here on top of the mountain."
+    },
+    {
+     "s": 19,
+     "t": "You are adepti messengers, no doubt about it."
+    },
+    {
+     "s": 18,
+     "t": "We are truly blessed to receive the mercy of the adeptus. We promise that we will change our ways and make an honest living from now on. Even if it means sweating it out down at the docks."
+    },
+    {
+     "s": 18,
+     "t": "Anyway, we have trespassed in the realm of the adeptus for long enough. We should get going. Thank you, mighty adepti messengers..."
+    },
+    {
+     "s": 19,
+     "t": "Yes, thank you, messengers..."
+    },
+    {
+     "s": 1,
+     "t": "...Boy, it'd be super helpful if we actually were adepti messengers."
+    },
+    {
+     "s": 1,
+     "t": "'Cause it seems like this adeptus has got a real temper problem..."
+    },
+    {
+     "s": 1,
+     "t": "But it's not like we've done anything wrong, so... hopefully we'll be okay... hehe..."
+    },
+    {
+     "s": 20,
+     "t": "Who dares trespass on my mountain? Who is it that frees the thief from his incarceration?"
+    },
+    {
+     "s": 20,
+     "t": "Foolish mortal, come forth and receive your punishment at once!"
+    },
+    {
+     "section": "Mountain Shaper"
+    },
+    {
+     "s": 20,
+     "t": "...You intrude upon the sanctity of Mt. Hulao, you destroy the amber of my mountain, and you free a thief whose freedom is not yours to give."
+    },
+    {
+     "s": 20,
+     "t": "The thieves' ignorance was an affront to the adepti... but your actions are an abomination of the highest order!"
+    },
+    {
+     "s": 1,
+     "t": "Wait! We can explain..."
+    },
+    {
+     "sit": "Here, look at this..."
+    },
+    {
+     "sit": "Moon Carver sent us..."
+    },
+    {
+     "s": 20,
+     "t": "...A Sigil of Permission? One was unaware that such things still exist in the mortal realm."
+    },
+    {
+     "s": 20,
+     "t": "Is this... a Sigil of Permission? One is surprised to find that such things still exist in the mortal realm."
+    },
+    {
+     "s": 20,
+     "t": "In the beginning, Rex Lapis cast them for the mortals with his own hand. Few were made then, and thousands of years on, fewer still remain..."
+    },
+    {
+     "s": 20,
+     "t": "Speak. One shall listen to the matter which brings you here, then one shall verify the truth thereof."
+    },
+    {
+     "s": 20,
+     "t": "You would be wise to speak the truth, for Liyue is not so far from here that one would be easily deceived."
+    },
+    {
+     "s": 20,
+     "t": "Rex Lapis... Assassinated?"
+    },
+    {
+     "s": 20,
+     "t": "At the Rite of Descension!?"
+    },
+    {
+     "s": 20,
+     "t": "What mortal in Liyue— nay, in all the world, would conspire to commit such foul treason? Or perhaps the more pertinent question is, what power in this world could aspire to achieve it?"
+    },
+    {
+     "s": 20,
+     "t": "Rex Lapis charged the adepti with the protection of Liyue, and we have always honored this duty. As the people have prospered, so have we gradually withdrawn into the mountains. Indeed, this was a gesture of good will towards humanity."
+    },
+    {
+     "s": 20,
+     "t": "But now... Alas! Rex Lapis, gone..."
+    },
+    {
+     "s": 20,
+     "t": "Traveler, of the matter you have relayed, one has become aware. One now knows why Moon Carver has sent for us."
+    },
+    {
+     "s": 20,
+     "t": "Once one has dealt with certain matters here that require my attention, one shall convene with the other adepti."
+    },
+    {
+     "sit": "Can someone explain the amber situation to me?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon can! Adepti always have magical powers in storybooks, seems it's true in real life too."
+    },
+    {
+     "s": 1,
+     "t": "You know, like how grass is actually adepti hair, and rivers are actually adepti saliva... There must be something similar going on with the amber."
+    },
+    {
+     "sit": "So is rain... adepti tears?"
+    },
+    {
+     "sit": "Amber must be crystallized adepti... ew, gross."
+    },
+    {
+     "s": 20,
+     "t": "...Your nonsense knows no bounds. This amber is produced by a flower that one has planted here, called the karst crawler."
+    },
+    {
+     "s": 20,
+     "t": "The majority of the plant is hidden underground. When stepped on, it produces amber to trap the invader."
+    },
+    {
+     "s": 20,
+     "t": "After taking up residence here, one planted many karst crawlers to ensure that the tranquility of the mountain would remain undisturbed. Over the years, they have helped to prevent many disturbances, but in the process they have also trapped many curious things..."
+    },
+    {
+     "s": 1,
+     "t": "Oh, so the amber is... alive?"
+    },
+    {
+     "s": 20,
+     "t": "Correct. Thus, one may not leave this place in its current state, for fear of the risk to innocent lives in one's absence."
+    },
+    {
+     "s": 20,
+     "t": "One will depart as soon as one has attended to this matter. One trusts that the manner of your departure will be swifter in nature."
+    }
+   ],
+   "description": "Following the instructions of Moon Carver, you arrive at Mt. Hulao in order to meet with Mountain Shaper."
+  },
+  {
+   "title": "Custodian of Clouds",
+   "dialogue": [
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Hey, who put this table here? They've even set it ready for dinner, there's a wine jug and everything..."
+    },
+    {
+     "s": 1,
+     "t": "Ooh, they even have the guests' names carved into the seats! \"Here sits Retainer...\""
+    },
+    {
+     "s": 1,
+     "t": "\"Here sits Guizhong...\" \"Here sits Rex...\""
+    },
+    {
+     "s": 1,
+     "t": "Maybe \"Rex\" is short for \"Rex Lapis\"? But Paimon has no idea about \"Guizhong.\""
+    },
+    {
+     "s": 1,
+     "t": "As for \"Retainer,\" hmm... That's it! When Moon Carver was going through the names of his adepti buddies, he said there was one called \"Cloud Retainer.\""
+    },
+    {
+     "s": 1,
+     "t": "So, this must be where Cloud Retainer and the other adepti have their dinner parties!"
+    },
+    {
+     "s": 1,
+     "t": "Hehe, how about we cook up some extra-special dishes for the adepti? We're sure to get Cloud Retainer's attention that way!"
+    },
+    {
+     "s": 1,
+     "t": "But... What do adepti even eat, anyway? Paimon has no idea..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm, people must make offerings here all the time. Guess all we can do is look around the area for any leftovers, maybe that'll give us some ideas."
+    },
+    {
+     "s": 1,
+     "t": "Um, do you think maybe it's at all possible that the adepti might like to try some... Sticky Honey Roast?"
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "Someone has definitely cooked here before. D'you think they were making an offering?"
+    },
+    {
+     "s": 1,
+     "t": "Looks like they didn't use all the ingredients. Let's see here... we got some Snapdragon, some Lotus Heads, some Tofu... Whatever they were cooking, it sounds complicated!"
+    },
+    {
+     "s": 1,
+     "t": "Hey, look over there... They left some notes, too."
+    },
+    {
+     "s": 1,
+     "t": "Yep, it's a doozy! Paimon's not surprised they had to write it all down, it's a lot to remember... We should read it carefully."
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "What would you call a dish that's made from Snapdragon, Lotus Heads, and Tofu? Hmm..."
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "Whoa... The ground is covered in flour. Tsk... What a messy chef..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm, seems there's meat in this pot, but Paimon can't tell which kind."
+    },
+    {
+     "s": 1,
+     "t": "Do you think whoever cooked this made it as an offering to the adepti?"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... Paimon can't quite imagine an offering made of flour and meat..."
+    },
+    {
+     "s": 1,
+     "t": "Huh? Our messy chef dropped a piece of paper on the floor... Ew, and there's a huge footprint on it too..."
+    },
+    {
+     "s": 1,
+     "t": "But footprint aside, maybe it has something to do with this mystery dish?"
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "Paimon's so curious, what kind of dish uses only flour and meat?"
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "It's very clean here. Whoever cooked here last obviously likes to keep things neat and tidy..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon bets they were making an offering to the adepti..."
+    },
+    {
+     "s": 1,
+     "t": "Looks like we got us some Matsutake and some Raw Meat..."
+    },
+    {
+     "s": 1,
+     "t": "And what do you know, the recipe is right here. This chef was a super organized person..."
+    },
+    {
+     "section": "Examine traces of cooking"
+    },
+    {
+     "s": 1,
+     "t": "What do you get if you cross Matsutake and Raw Meat? Hmm..."
+    },
+    {
+     "section": "Cloud Retainer"
+    },
+    {
+     "s": 21,
+     "t": "（test）此处预留地城。"
+    },
+    {
+     "section": "Cloud Retainer"
+    },
+    {
+     "s": 21,
+     "t": "One is most impressed. The path that leads through this abode defies those of ordinary abilities."
+    },
+    {
+     "s": 21,
+     "t": "The one before you is the adeptus, Cloud Retainer. Now, speak of the matter which brings you here."
+    },
+    {
+     "sit": "Did you build this whole place?"
+    },
+    {
+     "sit": "Did you design all those mechanisms?"
+    },
+    {
+     "s": 21,
+     "t": "You surmise correctly. This place did oneself build, as did one design the mechanisms within."
+    },
+    {
+     "s": 21,
+     "t": "In fact, even Guizhong and Rex Lapis themselves found one's technological accomplishments to be worthy of commendation."
+    },
+    {
+     "s": 1,
+     "t": "This place is huge! And there are so many mechanisms... Do you really have this whole place to yourself?"
+    },
+    {
+     "s": 1,
+     "t": "What's it even for? Did you build it as your private mechanism workshop or something?"
+    },
+    {
+     "s": 1,
+     "t": "It's just like the stories say. The adepti leave the human world, find somewhere to go be a hermit, and then they research and invent all these amazing things..."
+    },
+    {
+     "s": 21,
+     "t": "One is simply not partial to the tedium of social interaction, and wished to find some peace and quiet."
+    },
+    {
+     "s": 21,
+     "t": "Find it one did... Shortly after which, you arrived bearing your Sigil of Permission..."
+    },
+    {
+     "s": 21,
+     "t": "But enough! State the matter which brings you here, at once! You have disturbed the tranquility of this place for long enough."
+    },
+    {
+     "s": 21,
+     "t": "Rex Lapis... Assassinated!?"
+    },
+    {
+     "s": 21,
+     "t": "How can this be!? Such a heinous crime... Who would dare?"
+    },
+    {
+     "s": 21,
+     "t": "The notion is so preposterous as to be unbelievable... one shall have to verify the truth of the matter independently..."
+    },
+    {
+     "s": 21,
+     "t": "...Perhaps one shall quash Liyue first, then convene with the other adepti—"
+    },
+    {
+     "sit": "...Excuse me!?"
+    },
+    {
+     "s": 1,
+     "t": "Wait, what!? Did you just say \"squash Liyue Harbor\"? Are you seriously gonna wipe out the whole city?"
+    },
+    {
+     "s": 21,
+     "t": "Only a response of sufficient magnitude can negate the possibility of further incidents."
+    },
+    {
+     "sit": "But the adepti are sworn to protect the city..."
+    },
+    {
+     "sit": "Aren't you supposed to protect the people there?"
+    },
+    {
+     "s": 21,
+     "t": "It is as you say. We have protected Liyue Harbor under the leadership of Rex Lapis for 37 centuries. But in the face of this coup by nefarious actors... exceptional measures must be taken."
+    },
+    {
+     "s": 21,
+     "t": "It is precisely because one does not wish to see further suffering that exceptional measures are deemed necessary at this exceptional time."
+    },
+    {
+     "s": 1,
+     "t": "Yikes! Quick, you gotta think of something! She wants to squash Liyue flat, and it doesn't seem like she's bluffing!"
+    },
+    {
+     "sit": "You accepted our offering, that makes this a contract."
+    },
+    {
+     "s": 1,
+     "t": "Exactly what Paimon was gonna say! We made all that delicious food, and gave every last bit of it to you!"
+    },
+    {
+     "s": 1,
+     "t": "We were hoping you might help Liyue out... not wipe Liyue out!"
+    },
+    {
+     "s": 1,
+     "t": "...Or at least let's... y'know, discuss it first? Can't hurt for you to get a second opinion."
+    },
+    {
+     "s": 21,
+     "t": "\"Contract...\" A cruel irony that you should appeal to the notion after the merciless murder of the God of Contracts himself."
+    },
+    {
+     "s": 21,
+     "t": "The people of Liyue seem quite content to dispense with their contracts. They are quite adept at taking that which is composed of black and white, and turning it gray..."
+    },
+    {
+     "s": 21,
+     "t": "Nevertheless... Since you come here in the name of contracts, far be it from one to abandon one's own contractual obligations."
+    },
+    {
+     "s": 21,
+     "t": "Least of all when you come bearing a Sigil of Permission... *sigh* Rex Lapis infused these sigils with adeptal power when he first cast them. That power once aided humans in battle."
+    },
+    {
+     "s": 21,
+     "t": "Most of the sigil's power has long since worn off... It is but a keepsake now."
+    },
+    {
+     "s": 21,
+     "t": "This keepsake cannot be taken as proof of your trustworthiness. One must investigate the claims that you make independently."
+    },
+    {
+     "s": 21,
+     "t": "This, no doubt, is Moon Carver's very reason for summoning us."
+    },
+    {
+     "s": 21,
+     "t": "Your audience with the adeptus before you is now concluded. Leave at once, and disturb me no further."
+    }
+   ],
+   "description": "Following Moon Carver’s instructions, you arrive at Mt. Aocang in order to seek out Cloud Retainer."
+  },
+  {
+   "title": "Dust to Dust",
+   "dialogue": [
+    {
+     "section": "Childe"
+    },
+    {
+     "s": 11,
+     "t": "You've finally returned. How was your journey to Jueyun Karst?"
+    },
+    {
+     "s": 11,
+     "t": "...I see."
+    },
+    {
+     "section": "Childe"
+    },
+    {
+     "s": 11,
+     "t": "You've finally returned. How was your journey to Jueyun Karst?"
+    },
+    {
+     "s": 11,
+     "t": "...I see."
+    }
+   ],
+   "description": "Having sought out the adepti and completed the task Moon Carver entrusted to you, you return again to Liyue Harbor to look for Childe. He tells you that the Liyue Qixing’s response to the archon’s passing has given him some food for thought…"
+  }
+ ],
+ "speakers": [
+  "Tianquan's Assistant",
+  "Paimon",
+  "Millelith Soldier",
+  "Guanhai",
+  "Linlang",
+  "Bolai",
+  "Gentry De'an",
+  "Fan Er'ye",
+  "Jifang",
+  "Changshun",
+  "Ivanovich",
+  "Childe",
+  "Moon Carver",
+  "Millelith Sergeant",
+  "Xiao",
+  "Verr Goldet",
+  "Smiley Yanxiao",
+  "Dusky Ming",
+  "Li Ding",
+  "Li Dang",
+  "Mountain Shaper",
+  "Cloud Retainer"
+ ],
+ "hhw_source": "https://gensh.honeyhunterworld.com/ch_1101/?lang=EN"
+}

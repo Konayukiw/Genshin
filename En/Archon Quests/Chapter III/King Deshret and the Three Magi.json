@@ -1,0 +1,4619 @@
+{
+ "chapter": "Chapter III",
+ "chapter_title": null,
+ "act": "Act IV",
+ "act_title": "King Deshret and the Three Magi",
+ "region": "Sumeru",
+ "quests": [
+  {
+   "title": "The Missing Village Keepers",
+   "dialogue": [
+    {
+     "section": "Kazan"
+    },
+    {
+     "s": 0,
+     "t": "Excuse me, did you happen to see where the missing scholars went?"
+    },
+    {
+     "s": 1,
+     "t": "You mean the Village Keepers? Hmm, let me think..."
+    },
+    {
+     "s": 1,
+     "t": "When I was eating dinner the other day, I saw one of them by the side of the road, muttering away and eating mushrooms and tree roots... They shouldn't go around eating that kind of stuff!"
+    },
+    {
+     "s": 0,
+     "t": "Uh, okay, did you notice anything else?"
+    },
+    {
+     "s": 1,
+     "t": "Anything else, hmm... No, I think that's all I have to tell you, sorry."
+    },
+    {
+     "section": "（test）须弥主线-激进派阿如村村民$UNRELEASED"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "section": "Shani"
+    },
+    {
+     "s": 3,
+     "t": "The scholars that have gone missing, have you seen them?"
+    },
+    {
+     "s": 4,
+     "t": "Whaaa! Those eyes, those fierce eyes! Y—You look like a real fighter..."
+    },
+    {
+     "s": 3,
+     "t": "Don't change the subject."
+    },
+    {
+     "s": 4,
+     "t": "R—Right! You were asking about the Vil— I mean, the mad scholars. I think it's been a few days since I last saw them? I usually go to bed pretty early, so I'm not too familiar with what goes on at night."
+    },
+    {
+     "s": 4,
+     "t": "But honestly, I feel quite sympathetic towards them. Even though they act a little strange, they've helped me in the past. If it weren't for them, my house would've collapsed long ago."
+    },
+    {
+     "s": 5,
+     "t": "Do you also think Grandpa and the others are good people?"
+    },
+    {
+     "s": 4,
+     "t": "Grandpa? Oh, hello there, it's little Isak! You mean that nice man who looks like your grandpa's long-lost twin, right?"
+    },
+    {
+     "s": 4,
+     "t": "Haha, he was actually the one who protected my house! I saw it with my own eyes. He happened to be staying near my house that day and was doing something with his hands on the ground."
+    },
+    {
+     "s": 4,
+     "t": "It still feels pretty surreal now that I think back on it... Did someone teach them how to do that?"
+    },
+    {
+     "s": 4,
+     "t": "Well, whatever the case, I'll always be thankful to him and whoever taught him to look out for others. I'm pretty sure that if I ever went mad, I wouldn't be able to do anything like that..."
+    },
+    {
+     "s": 5,
+     "t": "Gotcha! Thank you!"
+    },
+    {
+     "section": "Jabari"
+    },
+    {
+     "s": 5,
+     "t": "Sir, have you seen my grandpa recently? You know, the one who likes to sit and space out near the village entrance..."
+    },
+    {
+     "s": 6,
+     "t": "Oh, well if it isn't Isak! Your grandpa, huh? Hmm... it's been a while."
+    },
+    {
+     "s": 6,
+     "t": "The last time I saw him, he was spacing out by the road as usual. I went and asked him if he'd like any of the food I had prepared, despite my wife's protests. Like many people, she's really quite terrified of them..."
+    },
+    {
+     "s": 6,
+     "t": "*sigh* And speaking of my wife, she's still always complaining about how I don't make enough Mora... That might explain why she's always mad at me..."
+    },
+    {
+     "s": 5,
+     "t": "Oh, thank you... Thank you for taking care of him."
+    },
+    {
+     "s": 6,
+     "t": "Haha, it was nothing! You're looking for him, right? Did he go for a walk and get lost?"
+    },
+    {
+     "s": 5,
+     "t": "Yeah..."
+    },
+    {
+     "s": 6,
+     "t": "Oof, that's no good... Well, once you've found him, come by my place again and I'll cook a little something for the both of you."
+    },
+    {
+     "s": 6,
+     "t": "I've known you since you were very young, so as far as I'm concerned, you're family. Please feel free to come by anytime."
+    },
+    {
+     "s": 0,
+     "t": "Wow, what a nice guy..."
+    },
+    {
+     "s": 5,
+     "t": "Okay, thank you, sir."
+    },
+    {
+     "s": 3,
+     "t": "...!"
+    },
+    {
+     "sit": "Hmm? What's wrong, Cyno? Did something happen?"
+    },
+    {
+     "s": 3,
+     "t": "Don't say anything for now."
+    },
+    {
+     "s": 3,
+     "t": "Hmm... Isak, stay here."
+    },
+    {
+     "s": 3,
+     "t": "Let's head over there. Stay quiet as you move."
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 3,
+     "t": "Listen, see if you can make out what they're saying."
+    },
+    {
+     "s": 7,
+     "t": "Have you heard? The mighty King Deshret, the sovereign of our faith, will soon return to this world!"
+    },
+    {
+     "s": 8,
+     "t": "Yes, of course I have. King Deshret is the one and only true ruler of this land. I've never believed in any other gods!"
+    },
+    {
+     "s": 8,
+     "t": "Still, you say he's coming back, but... it sure doesn't feel like life's about to change around here anytime soon. What's your proof?"
+    },
+    {
+     "s": 7,
+     "t": "Haven't you noticed? The village has been getting more deranged scholars than ever!"
+    },
+    {
+     "s": 7,
+     "t": "Delavar was saying that many people also went insane just before the fall of King Deshret's civilization in ancient times. We don't quite know why, but it seems like there's some sort of a connection between insanity and King Deshret."
+    },
+    {
+     "s": 7,
+     "t": "Isn't it a sign of King Deshret's power that all the mad scholars have disappeared? If you ask me, they must have been chosen as the final sacrifice for King Deshret's resurrection!"
+    },
+    {
+     "s": 8,
+     "t": "Huh, now that you say it, that does make some sense! Haha, does this mean our lives are finally going to take a turn for the better?"
+    },
+    {
+     "s": 7,
+     "t": "Exactly! Those city folks will get what's coming to them!"
+    },
+    {
+     "s": 3,
+     "t": "Now, repeat everything you've just said from the very beginning."
+    },
+    {
+     "s": 7,
+     "t": "Huh!?"
+    },
+    {
+     "s": 8,
+     "t": "Wh—Who are you!? Where did you come from?"
+    },
+    {
+     "s": 3,
+     "t": "My patience is running thin. You heard what I asked."
+    },
+    {
+     "s": 7,
+     "t": "Ah! B—Bro, this guy's something else. Just look at his eyes... One wrong move and he's gonna flay us alive..."
+    },
+    {
+     "s": 8,
+     "t": "Let's not get on his bad side, okay? I'm no match for this guy..."
+    },
+    {
+     "s": 7,
+     "t": "O—Okay, good sir, wh—what is it you would like to know?"
+    },
+    {
+     "s": 3,
+     "t": "Tell me about King Deshret's resurrection."
+    },
+    {
+     "s": 7,
+     "t": "Well, I... I only know a few things from hearsay. I went for a drink the other day, and heard others talking about a rumor that the madmen will disappear, and that King Deshret will return to this land. I'm not making this up, I swear..."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "Hey, go on, keep talking!"
+    },
+    {
+     "s": 7,
+     "t": "It's true, it's all true, sir! We desert folk have had more than enough of those people at the Akademiya... They keep sending us all their mad scholars and won't let us have a good life..."
+    },
+    {
+     "s": 7,
+     "t": "Would you want to live like this if you were in our place? The Radicals were even more thrilled than me when they heard the news... We're all praying for King Deshret's speedy return."
+    },
+    {
+     "s": 7,
+     "t": "Delavar also said that once King Deshret returns to our side, it's only a matter of time before we conquer the land on the other side of the Wall. They're all willing to serve under King Deshret and fight for a share of the glory..."
+    },
+    {
+     "s": 3,
+     "t": "Is that so..."
+    },
+    {
+     "s": 8,
+     "t": "Uh, seems like he still wants to know more, keep talking!"
+    },
+    {
+     "s": 7,
+     "t": "Ah, g—got it! I uh... at first, I told myself it was just the drink talking. But then, all the mad scholars vanished without a trace... just as the rumors said!"
+    },
+    {
+     "s": 7,
+     "t": "P—Please don't beat me up just for mentioning these rumors! I—If I'm guilty, then everyone else around here is also guilty! I'm just saying what the others said!"
+    },
+    {
+     "s": 0,
+     "t": "The people here really like King Deshret, but dislike the Dendro Archon..."
+    },
+    {
+     "sit": "The Akademiya is probably the true target of their hatred."
+    },
+    {
+     "s": 3,
+     "t": "Where is this \"radical\" person you talked about?"
+    },
+    {
+     "s": 7,
+     "t": "I haven't run into him over the past few days, so he probably hasn't been around the village... What about you, man — have you seen him at all?"
+    },
+    {
+     "s": 8,
+     "t": "Uh, no, not at all! We wouldn't dare lie to you. He's really not here right now!"
+    },
+    {
+     "s": 3,
+     "t": "Sounds like you're not too close with the Radicals."
+    },
+    {
+     "s": 8,
+     "t": "No, of course not! All we know are their names."
+    },
+    {
+     "s": 3,
+     "t": "I have many ways to stop you from talking, and many others to stop you from sending warning messages."
+    },
+    {
+     "s": 3,
+     "t": "So you'd best just stay home and hope I don't hear of you trying to contact anybody."
+    },
+    {
+     "s": 3,
+     "t": "Don't do anything until I've gotten to the bottom of this. Try something foolish, and even Candace won't be able to protect you."
+    },
+    {
+     "s": 7,
+     "t": "Yes, yes, got it! We'll do just as you say!"
+    },
+    {
+     "s": 0,
+     "t": "Whew, that scared Paimon half to death! Cyno is pretty terrifying..."
+    },
+    {
+     "sit": "Good thing I'm not one of your enemies."
+    },
+    {
+     "s": 3,
+     "t": "Mhm."
+    },
+    {
+     "s": 0,
+     "t": "He didn't try to reassure us at all... It's like he's used to hearing that. Paimon bets lots of people have told him that before..."
+    },
+    {
+     "sit": "All the more reason for you to not get on his bad side..."
+    },
+    {
+     "s": 3,
+     "t": "I heard that."
+    },
+    {
+     "s": 0,
+     "t": "Ahh, sorry!!!"
+    },
+    {
+     "sit": "Sorry."
+    },
+    {
+     "s": 3,
+     "t": "It's part of being a matra."
+    },
+    {
+     "s": 3,
+     "t": "The rumor we heard just now seems like a strong lead. But we need to check a few more places."
+    },
+    {
+     "sit": "Maybe we could check the scholars' homes?"
+    },
+    {
+     "sit": "Maybe we'll find something there."
+    },
+    {
+     "s": 3,
+     "t": "Very well."
+    },
+    {
+     "s": 0,
+     "t": "Isak!"
+    },
+    {
+     "s": 5,
+     "t": "Ah, I'm here!"
+    },
+    {
+     "s": 3,
+     "t": "Where's your grandpa's house?"
+    },
+    {
+     "s": 5,
+     "t": "I can take you there. Just follow me."
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 5,
+     "t": "This is where Grandpa usually stays."
+    },
+    {
+     "s": 0,
+     "t": "There sure isn't much here..."
+    },
+    {
+     "sit": "Hm? What's that smell..."
+    },
+    {
+     "sit": "Cyno, did you catch a faint whiff of incense?"
+    },
+    {
+     "s": 3,
+     "t": "No."
+    },
+    {
+     "s": 0,
+     "t": "Incense? Ahh! Please don't say it's that same one as before!"
+    },
+    {
+     "sit": "It's definitely that one."
+    },
+    {
+     "s": 0,
+     "t": "But are you okay!? Are you getting dizzy or need to lie down?"
+    },
+    {
+     "s": 3,
+     "t": "There's a scent that you can sense, but I can't...?"
+    },
+    {
+     "s": 0,
+     "t": "A certain Traveler here once passed out from that smell. Thankfully, Tighnari saved the day... and then he gave us a long lecture to explain all about how it worked..."
+    },
+    {
+     "s": 3,
+     "t": "...So you know Tighnari."
+    },
+    {
+     "s": 0,
+     "t": "Huh? You know him too? Are you two friends?"
+    },
+    {
+     "s": 3,
+     "t": "Yes."
+    },
+    {
+     "s": 3,
+     "t": "...Hmm, now that I concentrate, I can also make out the scent of incense."
+    },
+    {
+     "s": 0,
+     "t": "...Wait, surely Tighnari didn't lecture you, too?"
+    },
+    {
+     "s": 3,
+     "t": "No. No need."
+    },
+    {
+     "sit": "I can't handle this scent very well..."
+    },
+    {
+     "s": 3,
+     "t": "Did you first encounter this scent at Tighnari's house?"
+    },
+    {
+     "sit": "No, it was in the forest where a scholar was meditating."
+    },
+    {
+     "s": 3,
+     "t": "In the forest... from a scholar..."
+    },
+    {
+     "sit": "Let's keep looking for more clues."
+    },
+    {
+     "sit": "It'd be more efficient if we split up."
+    },
+    {
+     "section": "Isak"
+    },
+    {
+     "s": 5,
+     "t": "*sigh* Where did Grandpa go... Please come home, Grandpa..."
+    },
+    {
+     "section": "Observe Tent"
+    },
+    {
+     "sit": "(Looks like someone has been living in here this entire time...)"
+    },
+    {
+     "section": "Observe Footprints"
+    },
+    {
+     "sit": "(These footprints are at least rather clear...)"
+    },
+    {
+     "section": "Observe Goods"
+    },
+    {
+     "sit": "(These are all daily necessities...)"
+    },
+    {
+     "section": "Observe Cave"
+    },
+    {
+     "sit": "(It seems impossible to climb up from here...)"
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "What are you looking for, Cyno?"
+    },
+    {
+     "s": 3,
+     "t": "Here it is."
+    },
+    {
+     "s": 3,
+     "t": "Take a look right here."
+    },
+    {
+     "s": 0,
+     "t": "Erm... Paimon doesn't see anything."
+    },
+    {
+     "s": 3,
+     "t": "Although the traces have been completely buried in the sand, there are footprints here."
+    },
+    {
+     "s": 3,
+     "t": "From the size and shape, they belong to an adult male. This pattern is a common one from this area. Local shoes... This was probably someone from the village."
+    },
+    {
+     "s": 3,
+     "t": "The scent is quite faint... but still extant. The footprints head in that direction."
+    },
+    {
+     "sit": "You mean someone else has been here?"
+    },
+    {
+     "s": 5,
+     "t": "But who would come looking for Grandpa? He doesn't have any friends."
+    },
+    {
+     "s": 3,
+     "t": "We'd have to ask whoever lured him away with the incense."
+    },
+    {
+     "sit": "Lured him away... So that's what happened!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? So you can lure someone away with just a scent?"
+    },
+    {
+     "sit": "You get lured away by food all the time."
+    },
+    {
+     "sit": "You fall for that kind of thing all the time, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Hey, what's wrong with liking good food!? Everyone's got something they love in life!"
+    },
+    {
+     "s": 3,
+     "t": "Exactly. Most scholars are fond of incense, since the smell supposedly helps them clear their minds and discover new knowledge."
+    },
+    {
+     "s": 3,
+     "t": "Even deep within the clutches of madness, they still yearn for their knowledge-seeking days, and will follow the scent whenever it presents itself."
+    },
+    {
+     "s": 5,
+     "t": "No... Grandpa..."
+    },
+    {
+     "s": 0,
+     "t": "So someone's taking advantage of their weakness, huh... Still, why would anyone wanna abduct all the scholars?"
+    },
+    {
+     "sit": "Is it to resurrect King Deshret?"
+    },
+    {
+     "s": 0,
+     "t": "Are the rumors really true?"
+    },
+    {
+     "sit": "That's the only lead we have so far."
+    },
+    {
+     "s": 0,
+     "t": "Could the disappearance of all the mad scholars have something to do with the Radicals?"
+    },
+    {
+     "s": 3,
+     "t": "It's highly likely."
+    },
+    {
+     "s": 5,
+     "t": "Please, you have to save my grandpa! Grandpa's never done anything wrong. Please help him!"
+    },
+    {
+     "s": 0,
+     "t": "Sounds like we'd better help get him back! Don't you worry, Isak, we won't let whoever took him get away with it!"
+    },
+    {
+     "s": 3,
+     "t": "Let's head to Aaru Village and inform Candace and the others about what we learned here. After that, we'll set off to find the scholars."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 9,
+     "t": "...Right, the dark fabric definitely looks a lot better. That'd be my choice, too..."
+    },
+    {
+     "s": 0,
+     "t": "We're back, Candace! We've got a lot to tell you!"
+    },
+    {
+     "s": 9,
+     "t": "Ah, welcome back!"
+    },
+    {
+     "s": 10,
+     "t": "Heh, sounds like everyone's friends already."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Dehya's here too!"
+    },
+    {
+     "s": 10,
+     "t": "You bet! So, everything go smoothly?"
+    },
+    {
+     "s": 3,
+     "t": "Reasonably."
+    },
+    {
+     "s": 10,
+     "t": "Hmm? Alhaitham didn't go with you?"
+    },
+    {
+     "s": 0,
+     "t": "We haven't seen him at all!"
+    },
+    {
+     "s": 10,
+     "t": "Huh, I saw him around the village entrance earlier and figured he was investigating with you... I guess he must have gone off on his own."
+    },
+    {
+     "s": 9,
+     "t": "Did you find out anything useful?"
+    },
+    {
+     "sit": "You tell Candace and Dehya everything you've learned..."
+    },
+    {
+     "s": 9,
+     "t": "I see. So, someone used a kind of incense to lead the exiled scholars away from the village..."
+    },
+    {
+     "s": 10,
+     "t": "The resurrection of King Deshret? First I've heard of it..."
+    },
+    {
+     "s": 10,
+     "t": "Far as I know, the kind of incense you just mentioned is only popular beyond the wall."
+    },
+    {
+     "s": 10,
+     "t": "Scholars are fond of it, but as you can see, there aren't many scholars still studying around these parts. No seller would be able to make a profit here."
+    },
+    {
+     "s": 10,
+     "t": "Not to mention, making incense is a labor-intensive process. You won't see anybody in the desert with the patience to make or sell something that requires that kind of effort."
+    },
+    {
+     "s": 10,
+     "t": "It seems someone from beyond the wall must have been supporting this."
+    },
+    {
+     "s": 3,
+     "t": "Makes sense."
+    },
+    {
+     "s": 0,
+     "t": "Hmm, so what should we do then? Do we go back to the Akademiya and search for leads there?"
+    },
+    {
+     "s": 10,
+     "t": "If it was any other day, that would be your next logical step. But today, you've got me on your team, so you get an extra tip."
+    },
+    {
+     "s": 10,
+     "t": "Didn't you say that the villager got his news from the tavern? Well, I also like to drink at the tavern, so I know a thing or two about these radicals he mentioned."
+    },
+    {
+     "s": 0,
+     "t": "If Paimon remembers correctly, the leader of the Radicals is some guy called Delavar!"
+    },
+    {
+     "s": 10,
+     "t": "Ah yeah, Delavar the \"Scar-Riddled Bandit,\" Engur the \"Wide-Eyed Butcher,\" and Jabari the \"Ducktail-Bearded Crook.\" The whole lot of 'em are known around these parts."
+    },
+    {
+     "sit": "(I feel like I've heard these names somewhere before...)"
+    },
+    {
+     "s": 10,
+     "t": "These guys have one thing in common, and that's being broke. The rougher life gets, the more they wanna believe in King Deshret. Way they see it, King Deshret's resurrection is their only chance at overthrowing the Akademiya."
+    },
+    {
+     "s": 10,
+     "t": "Throwing all of Sumeru into chaos is the only way to change the way of life here in the desert. Anyway, that's my guess why they've chosen to become radicals."
+    },
+    {
+     "s": 0,
+     "t": "Dehya, you're amazing! You really know this place inside and out!"
+    },
+    {
+     "sit": "But Dehya, I..."
+    },
+    {
+     "sit": "(Huh? Dehya's winking at me... Maybe I should stay quiet for now?)"
+    },
+    {
+     "s": 10,
+     "t": "Hahaha, no merc can afford to slack off on gathering intelligence! Every Mora I've spent in the tavern has been a valuable investment."
+    },
+    {
+     "s": 3,
+     "t": "Let's head out."
+    },
+    {
+     "s": 10,
+     "t": "Now hold on. You're staying right here, Cyno."
+    },
+    {
+     "s": 3,
+     "t": "Why?"
+    },
+    {
+     "s": 10,
+     "t": "Aaru Village is not a big place. Outsiders stand out here like a sore thumb. I'd bet word about you has already gotten out."
+    },
+    {
+     "s": 10,
+     "t": "The desert is unforgiving, so the way of life here is also a lot tougher than on the other side of the wall. You survive on making connections out here."
+    },
+    {
+     "s": 10,
+     "t": "Compared to you, mercs like me are just third-rate amateurs... I've got no actual fighting skills to speak of. But that also makes it a whole lot easier for me to gain the locals' trust."
+    },
+    {
+     "sit": "(...?)"
+    },
+    {
+     "s": 10,
+     "t": "I need to go around and ask some questions, but it'll be difficult if you're with me."
+    },
+    {
+     "s": 3,
+     "t": "Fine."
+    },
+    {
+     "s": 10,
+     "t": "Good, then we've got a plan. The Traveler and Paimon will go to Caravan Ribat with me, and we'll try our best to figure out where the mad scholars have been taken. Cyno, you'll have to stay in the village and continue investigating on your own."
+    },
+    {
+     "s": 0,
+     "t": "Alright, sounds like a plan!"
+    },
+    {
+     "section": "Candace, Cyno"
+    },
+    {
+     "s": 9,
+     "t": "Cyno, please don't take offense. I'm sure Dehya just wants to help everyone solve their problem as quickly as possible. That's why she can be so straightforward at times."
+    },
+    {
+     "s": 3,
+     "t": "I don't mind."
+    },
+    {
+     "s": 9,
+     "t": "Ah, I see... Well, from the way you were staring out into the distance, I thought you might have been mulling over Dehya's words."
+    },
+    {
+     "s": 3,
+     "t": "No. I'm used to being treated that way."
+    },
+    {
+     "s": 3,
+     "t": "It's natural to fear strength. I take no objection to it."
+    },
+    {
+     "section": "Dehya"
+    },
+    {
+     "s": 0,
+     "t": "Well, here we are again."
+    },
+    {
+     "s": 10,
+     "t": "Sounds like you're starting to get familiar with the area."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's amazed every time we see the Wall of Samiel. How can a wall this tall even exist? It's almost... unreal."
+    },
+    {
+     "s": 10,
+     "t": "I know what you mean. I had the same question every time I walked this way when I was a kid."
+    },
+    {
+     "s": 10,
+     "t": "Also, why is this high wall here? And can a wall really block sandstorms?"
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 10,
+     "t": "It was only after I grew up that I realized... the Wall of Samiel isn't just there to keep out the sandstorms. It serves a more important purpose — keeping out people like us."
+    },
+    {
+     "s": 10,
+     "t": "Sumeru is run by wise and mighty sages. To them, us desert-dwellers are nothing but tools that can be used and discarded at their whim."
+    },
+    {
+     "s": 10,
+     "t": "We're cheap labor. Like livestock, but easier to control... Nothing more."
+    },
+    {
+     "s": 10,
+     "t": "Even if a child from the desert got the chance to obtain an Akasha Terminal, almost all their requests for knowledge would be denied. The Akademiya believes we're undeserving."
+    },
+    {
+     "s": 10,
+     "t": "Geniuses like Setaria are one in a million. The other children never get a single chance to try and rewrite their fate... Even though the Akademiya knows very well that we're humans, just as they are."
+    },
+    {
+     "s": 0,
+     "t": "That's terrible..."
+    },
+    {
+     "s": 10,
+     "t": "I would tear down this wall with my own hands if I could."
+    },
+    {
+     "sit": "(I understand how she feels...)"
+    },
+    {
+     "sit": "(But I hope she doesn't do anything drastic here...)"
+    },
+    {
+     "s": 0,
+     "t": "Hey Dehya, uh, you're not thinking about doing anything scary, are you?"
+    },
+    {
+     "s": 10,
+     "t": "Uh, no, not at all. This place just... gets me thinking, that's all."
+    },
+    {
+     "s": 10,
+     "t": "Besides, we're here to procure information, aren't we?"
+    },
+    {
+     "s": 0,
+     "t": "Yep! We gotta catch those—"
+    },
+    {
+     "s": 10,
+     "t": "Shhh!"
+    },
+    {
+     "s": 10,
+     "t": "Caravan Ribat is crawling with people, so be careful what you say. We don't want anyone to find out what we're here for."
+    },
+    {
+     "s": 10,
+     "t": "Our mission started the moment we arrived here."
+    },
+    {
+     "s": 10,
+     "t": "Let's go check out the tavern. Maybe we'll find someone I know."
+    },
+    {
+     "section": "Zaki"
+    },
+    {
+     "s": 10,
+     "t": "Just our luck... None of them are here today."
+    },
+    {
+     "s": 0,
+     "t": "You mean, you don't see anyone you know?"
+    },
+    {
+     "s": 11,
+     "t": "Dehya, is that you? Haha, what a coincidence! You're here for a drink, too?"
+    },
+    {
+     "s": 10,
+     "t": "Hmm, Zaki? Finally, a friendly face!"
+    },
+    {
+     "s": 11,
+     "t": "Oh? And who do you have with you here? Guests from another land?"
+    },
+    {
+     "sit": "Hello, nice to meet you."
+    },
+    {
+     "s": 11,
+     "t": "Hello, hello! I'm Zaki, Dehya's... How would you put it? Drinking buddy?"
+    },
+    {
+     "s": 10,
+     "t": "Haha, we've had drinks together a few times. You could say we go back a ways."
+    },
+    {
+     "s": 10,
+     "t": "Anyway, as far as my friends here, they aren't too shabby, are they? You rarely see any outlanders so friendly and respectful nowadays."
+    },
+    {
+     "s": 11,
+     "t": "Absolutely, much better than those people on the other side of the wall. So, Dehya, are you looking for someone?"
+    },
+    {
+     "s": 10,
+     "t": "Yeah, have you seen Engur, Delavar, or Jabari recently?"
+    },
+    {
+     "s": 11,
+     "t": "Of course I have. Matter of fact, we were all here drinking together just a few days ago."
+    },
+    {
+     "s": 10,
+     "t": "I've got a spice-trading deal from another nation... I thought maybe Delavar and his friends might be interested. Know where I could find him?"
+    },
+    {
+     "s": 11,
+     "t": "Ah, how thoughtful of you. Then I assume you also know that Delavar's been having a hard time making ends meet these days. So, you came here to help him out?"
+    },
+    {
+     "s": 10,
+     "t": "Hey, keep it down. Let's just say I'd prefer to keep this deal a secret. Y'all at Caravan Ribat are like family. If there's Mora to be made, why not do it together? Besides, Delavar and his friends have muscle. They'd be a good fit for escorting the goods."
+    },
+    {
+     "s": 11,
+     "t": "Hahaha, yes, how considerate of you. Delavar's my friend too, so of course I can take you to him. Come with me."
+    },
+    {
+     "section": "Zaki, Delavar"
+    },
+    {
+     "s": 10,
+     "t": "Are we there yet?"
+    },
+    {
+     "s": 11,
+     "t": "Yep, this is the place."
+    },
+    {
+     "s": 10,
+     "t": "This place is practically deserted... What are they doing in a place like this?"
+    },
+    {
+     "s": 11,
+     "t": "Hahaha, why don't you take a guess? Go on, a wild stab in the dark... Hehe, you're like lambs to the slaughter!"
+    },
+    {
+     "s": 10,
+     "t": "...!"
+    },
+    {
+     "s": 0,
+     "t": "Oh no, it's an ambush!"
+    },
+    {
+     "s": 10,
+     "t": "What's all this about, Zaki?"
+    },
+    {
+     "s": 11,
+     "t": "C'mon Dehya, you really think we didn't hear about what you said back in Aaru Village? The boys have kept a close eye on you from the moment you set foot there."
+    },
+    {
+     "s": 11,
+     "t": "Not only do I know that you're looking for Delavar, I also know that you've teamed up with people from the Akademiya to look for the missing scholars."
+    },
+    {
+     "s": 10,
+     "t": "So you've been watching us from the very beginning?"
+    },
+    {
+     "s": 0,
+     "t": "Uh oh... Paimon knew leaving Cyno behind was a mistake!"
+    },
+    {
+     "s": 11,
+     "t": "Heh, and you left the strongest one in the village, didn't ya? Who do you think you are? You really thought we'd fall for your little \"business deal\" nonsense?"
+    },
+    {
+     "s": 10,
+     "t": "Tch."
+    },
+    {
+     "s": 10,
+     "t": "So you and Delavar have been partners all along."
+    },
+    {
+     "s": 11,
+     "t": "Hahaha, Dehya, I guess it's only natural for a traveling mercenary like you to be out of the loop. Those of us who hang around the tavern have stronger bonds than you think."
+    },
+    {
+     "s": 11,
+     "t": "But you got one thing right... We're all looking forward to an uprising in Sumeru. There's nothing more we'd like to see than the desert folk overthrowing the Akademiya."
+    },
+    {
+     "s": 10,
+     "t": "If that's the case, then I'm sure Delavar wouldn't miss a second of it."
+    },
+    {
+     "s": 12,
+     "t": "I'll be honest with you. If it weren't for what you said in the village, your little monologue about the Wall of Samiel would have convinced me that you're one of us."
+    },
+    {
+     "s": 10,
+     "t": "Delavar... and Engur. You're here, too, huh."
+    },
+    {
+     "s": 13,
+     "t": "Long time no see, Miss Mercenary. You should've known that traitors are what us followers of King Deshret despise the most."
+    },
+    {
+     "s": 12,
+     "t": "Dehya, I thought that you, a fellow desert-dweller, would understand why King Deshret is greater than the Dendro Archon. Little did I know... you don't deserve to join us."
+    },
+    {
+     "s": 10,
+     "t": "Yeah, gee, what a missed opportunity... Adopting radical views and kidnapping innocent scholars? All because of some baseless rumors? Anything else I'm missing out on?"
+    },
+    {
+     "s": 12,
+     "t": "See? There you have it... Mercenaries are just a bunch of faithless scum with only one thing on their minds... Mora. Pathetic, you're all like a pack of street rats."
+    },
+    {
+     "s": 10,
+     "t": "You're not wrong. Mercenaries are driven by Mora, and my faith lies with whoever's paying me. As long as there's a profit to be made, anyone can become my friend."
+    },
+    {
+     "s": 11,
+     "t": "Enough talking. Get 'em!"
+    },
+    {
+     "s": 10,
+     "t": "Hmph, just as I expected. Let's teach 'em a lesson, Traveler!"
+    },
+    {
+     "section": "Zaki"
+    },
+    {
+     "s": 11,
+     "t": "Impossible! H—How could you..."
+    },
+    {
+     "s": 10,
+     "t": "So, what do you think about your meticulous network now, Zaki? How did you say it... \"It's only natural for a traveling mercenary like me to be out of the loop.\""
+    },
+    {
+     "s": 10,
+     "t": "I'm guessing your informant told you that I'm just an incompetent merc with no real fighting skills, correct? I mean, that is what I said, after all."
+    },
+    {
+     "s": 10,
+     "t": "And of course you would believe everything he reported. The only thing you know about me is that I'm a mercenary, but you've never seen me in action."
+    },
+    {
+     "s": 10,
+     "t": "Even though you heard we went to handle monsters together, you believed that Candace was the only one doing all the real fighting."
+    },
+    {
+     "s": 10,
+     "t": "\"That so-called Flame-Mane is just a fraud! She admitted it herself: She just uses her connections to gain the trust of others.\""
+    },
+    {
+     "s": 10,
+     "t": "That's what you thought, right?"
+    },
+    {
+     "s": 11,
+     "t": "Ugh, you lied in the village because you figured that we'd have people watching you..."
+    },
+    {
+     "s": 10,
+     "t": "And you were stupid enough to fall for it. I figured as much the first time we drank together. You all thought you were so smart. Pathetic."
+    },
+    {
+     "sit": "With one swift kick, Dehya knocks Zaki unconscious."
+    },
+    {
+     "s": 10,
+     "t": "Okay, that should be all of 'em."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, so you've been planning this since we were in Aaru Village?"
+    },
+    {
+     "s": 10,
+     "t": "No task can be done without preparation. I just happened to notice a couple suspicious-looking people while you were out investigating."
+    },
+    {
+     "s": 0,
+     "t": "Oh... But instead of catching them right away, you let them report back..."
+    },
+    {
+     "s": 10,
+     "t": "Those two who were snooping around were just a couple small fries. If we wanna get the real catch, we have to be patient and give it some time."
+    },
+    {
+     "sit": "So, those names you mentioned..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean the funny names she mentioned back in Uncle Anpu's house? The Wide-Eyed Butcher, Scar-Riddled Bandit... Uh, Paimon can't remember them all."
+    },
+    {
+     "s": 10,
+     "t": "That's just a bunch of drunk talk. Engur and Delavar like to talk themselves up when they're drinking. \"Engur the Wide-Eyed Butcher\" and \"Delavar the Scar-Riddled Bandit\" are the nicknames they came up with for themselves."
+    },
+    {
+     "s": 10,
+     "t": "Alcohol has a way of making people share what they really think, so Engur and Delavar are always rambling in the tavern about how King Deshret is a superior deity."
+    },
+    {
+     "s": 0,
+     "t": "What about Zaki?"
+    },
+    {
+     "s": 10,
+     "t": "He's just a numbskull who fell right into our trap. Zaki was probably the best hidden of them all. My initial plan was to find Delavar first, and then try to track him down."
+    },
+    {
+     "sit": "So who is the \"Ducktail-Bearded Crook\"?"
+    },
+    {
+     "s": 10,
+     "t": "That's what you wanted to ask when we were at Uncle Anpu's house, right? Jabari's one of the villagers you talked to. You know — the one who wanted to treat Isak and his grandpa to some food."
+    },
+    {
+     "s": 0,
+     "t": "Wait, so he's a Radical, too!?"
+    },
+    {
+     "s": 10,
+     "t": "No, he isn't. I just needed to tack on a random villager name to make the eavesdropper think that I was making some wild guesses based on my impressions."
+    },
+    {
+     "s": 0,
+     "t": "Wow, what a genius idea! Well, that's an expert mercenary for ya!"
+    },
+    {
+     "s": 10,
+     "t": "Ah, you're too kind. It was straight from the usual playbook, if I'm honest."
+    },
+    {
+     "s": 0,
+     "t": "So, that thing you were saying before... is it really true?"
+    },
+    {
+     "s": 10,
+     "t": "Hmm? About what?"
+    },
+    {
+     "s": 0,
+     "t": "About how mercenaries only care about Mora, and that anyone's a friend as long as there's a profit..."
+    },
+    {
+     "s": 10,
+     "t": "Does that bother you?"
+    },
+    {
+     "sit": "I don't think you're that kind of person."
+    },
+    {
+     "s": 10,
+     "t": "What makes you so sure?"
+    },
+    {
+     "sit": "Because even without an employer, you're still helping us out."
+    },
+    {
+     "s": 10,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Dehya, do you dislike the Dendro Archon like the other desert folk?"
+    },
+    {
+     "s": 10,
+     "t": "Heh, you two are pretty sharp. No, I don't have anything against the Dendro Archon."
+    },
+    {
+     "s": 10,
+     "t": "I've heard a lot of nice things about the Lesser Lord from Dunyarzad. I can understand her devotion and gratitude."
+    },
+    {
+     "s": 10,
+     "t": "Dunyarzad's just an ordinary person. There's no way a god would be so involved in the lives of everyday people unless they were truly compassionate."
+    },
+    {
+     "s": 10,
+     "t": "I've begun to realize that the sages are behind everything that's happened recently. The Radicals' blind belief in King Deshret, making the Dendro Archon out to be an enemy... It's all the Akademiya's trickery."
+    },
+    {
+     "s": 10,
+     "t": "But I see through it all. And unlike them, I could never be hostile towards anyone who's never done anything wrong."
+    },
+    {
+     "s": 0,
+     "t": "Dehya..."
+    },
+    {
+     "s": 10,
+     "t": "Anyway, looks like we're done with business here. Traveler, lend me a hand. Let's tie 'em up and bring 'em to the village."
+    },
+    {
+     "section": "Dehya"
+    },
+    {
+     "s": 10,
+     "t": "This should be all of 'em. I'll let you take it from here."
+    },
+    {
+     "s": 9,
+     "t": "Alright. I'll be in touch. Until then, please stand by."
+    },
+    {
+     "s": 0,
+     "t": "Candace, do you need any help?"
+    },
+    {
+     "s": 10,
+     "t": "Candace will be okay on her own. I trust her, so you can too."
+    },
+    {
+     "s": 10,
+     "t": "She's been guarding Aaru Village for quite some time now. If anyone is qualified to question the offenders, it's her."
+    },
+    {
+     "s": 9,
+     "t": "While I'm questioning them, why don't you pass some time by exploring the area?"
+    },
+    {
+     "s": 10,
+     "t": "I'll meet you back here tomorrow morning, Traveler."
+    },
+    {
+     "sit": "Sounds good."
+    },
+    {
+     "s": 10,
+     "t": "As for these idiots... Let's just hope they live to see another day."
+    },
+    {
+     "section": "Eavesdrop"
+    },
+    {
+     "s": 9,
+     "t": "You heard the question. Now answer me."
+    },
+    {
+     "s": 12,
+     "t": "Arrghh!!!"
+    },
+    {
+     "section": "Dehya"
+    },
+    {
+     "s": 10,
+     "t": "Candace is an expert at dealing with people like this. All we have to do is wait for her word."
+    },
+    {
+     "section": "Dehya"
+    },
+    {
+     "s": 0,
+     "t": "Hey Dehya!"
+    },
+    {
+     "s": 10,
+     "t": "Right on time."
+    },
+    {
+     "sit": "Did we learn anything from the criminals?"
+    },
+    {
+     "s": 10,
+     "t": "We'll know any moment now."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's been wondering... You seem to know Candace pretty well. Have you been friends for a long time?"
+    },
+    {
+     "s": 10,
+     "t": "We've known each other for some time now. She's a pretty interesting person. Even though she's an extremely strong warrior, she never misuses her power against others."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon knows what you mean. Like a lot of martial artists say: \"Never take the fight outside the ring.\""
+    },
+    {
+     "s": 10,
+     "t": "Yep, I guess you can put it that way. It takes strong convictions to be as dedicated as she is and shoulder that kind of responsibility."
+    },
+    {
+     "s": 10,
+     "t": "Us mercs, on the other hand... We pretty much live from one day to the next."
+    },
+    {
+     "s": 0,
+     "t": "Well, Paimon thinks you're great too!"
+    },
+    {
+     "s": 10,
+     "t": "Really? Thanks for that."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Ooh, Cyno's here! And he's pretty early too!"
+    },
+    {
+     "s": 3,
+     "t": "Yes. I was here yesterday to help out a little."
+    },
+    {
+     "s": 0,
+     "t": "To help out? By doing what?"
+    },
+    {
+     "s": 3,
+     "t": "Sharing some interrogation techniques."
+    },
+    {
+     "s": 0,
+     "t": "Oh... You mean, you taught Candace some more... persuasive methods?"
+    },
+    {
+     "s": 3,
+     "t": "Right."
+    },
+    {
+     "s": 9,
+     "t": "Come on in, everyone."
+    },
+    {
+     "s": 10,
+     "t": "C'mon, let's go inside."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 0,
+     "t": "Candace, we're... Whoa! You look furious!"
+    },
+    {
+     "s": 9,
+     "t": "Do I? Huh... What gave it away?"
+    },
+    {
+     "s": 10,
+     "t": "Oh, there's no mask that can hide true bloodlust. Cover up your eyes and it'll still show itself at the corners of your mouth."
+    },
+    {
+     "s": 9,
+     "t": "Perhaps I need to work on my composure..."
+    },
+    {
+     "s": 9,
+     "t": "Still, it's perfectly understandable why I'm angry — I'm sure everyone present would agree?"
+    },
+    {
+     "s": 12,
+     "t": "Ah yes, yes M—Ma'am..."
+    },
+    {
+     "s": 13,
+     "t": "Please don't beat us anymore... We're gonna die..."
+    },
+    {
+     "s": 0,
+     "t": "Well, looks like Cyno taught her well..."
+    },
+    {
+     "sit": "She mastered it really quickly too..."
+    },
+    {
+     "sit": "Now she's just as terrifying as he is..."
+    },
+    {
+     "s": 9,
+     "t": "You fear death yourselves, yet you do not hesitate to place the lives of others at risk. The absurdity is mind-boggling."
+    },
+    {
+     "s": 9,
+     "t": "The ones you call \"mad scholars\" are known to us as \"the Village Keepers.\" They are vital members of our community, and some even count them as family..."
+    },
+    {
+     "s": 9,
+     "t": "You come here, to my village, and treat my people as nothing more than stepping stones towards your goal... Tell me, what would you do in my position?"
+    },
+    {
+     "s": 11,
+     "t": "Ah! Mercy, please have mercy!"
+    },
+    {
+     "s": 10,
+     "t": "You've made your bed."
+    },
+    {
+     "s": 9,
+     "t": "We may both be desert-dwellers, but there is one thing I understand better than you. The resurrection of King Deshret will only result in war... and war serves no one."
+    },
+    {
+     "s": 9,
+     "t": "The people of Aaru Village care little about which god is in power. Life may be tough and tiring, but we wish to preserve our way of life."
+    },
+    {
+     "s": 9,
+     "t": "A war would only cause us to lose all that we have, and that is not a responsibility that you can afford to shoulder."
+    },
+    {
+     "s": 11,
+     "t": "Ah, we understand! We're sorry!"
+    },
+    {
+     "s": 11,
+     "t": "I'll tell you everything I know! Please, just let us go..."
+    },
+    {
+     "s": 9,
+     "t": "I'm listening."
+    },
+    {
+     "s": 11,
+     "t": "Uh, you might not believe this, but it wasn't us who came up with this idea. Someone was spreading rumors in the tavern. That's how we ended up hearing about King Deshret's resurrection."
+    },
+    {
+     "s": 11,
+     "t": "Some mystery man told us that mad scholars will make the perfect sacrifice to usher in King Deshret's resurrection. They give their lives, and we can get anything we wish for."
+    },
+    {
+     "s": 3,
+     "t": "They're called Village Keepers. Slip up again and you'll regret it."
+    },
+    {
+     "s": 11,
+     "t": "Ah, yes, sorry!"
+    },
+    {
+     "s": 11,
+     "t": "It was all that mystery man's doing! He told us to spread the word about King Deshret's resurrection, and talked us into helping him... In return, he said he'll help facilitate the resurrection process."
+    },
+    {
+     "sit": "Where are the Village Keepers now?"
+    },
+    {
+     "s": 11,
+     "t": "I—I'm not sure..."
+    },
+    {
+     "s": 3,
+     "t": "That's one."
+    },
+    {
+     "s": 11,
+     "t": "Huh? ...One what?"
+    },
+    {
+     "s": 3,
+     "t": "Strike. You get a total of three, then you die by my hand."
+    },
+    {
+     "s": 11,
+     "t": "Wait, I'm telling the truth! We don't know anything, it was all him!"
+    },
+    {
+     "s": 3,
+     "t": "Two."
+    },
+    {
+     "s": 11,
+     "t": "H—He got us to lure them out of their houses in the night with some kind of incense. We take them to a junction outside the village, then the mystery guy takes 'em from there!"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 11,
+     "t": "You gotta believe me, please! I'm telling the truth, I swear! J—Just ask them if you don't believe me!"
+    },
+    {
+     "s": 3,
+     "t": "That was indeed the truth. Traveler, go on."
+    },
+    {
+     "sit": "Do you have any idea who that mysterious person might be?"
+    },
+    {
+     "s": 11,
+     "t": "You have to believe me! If I knew that, I woulda told you his name right away! I'm not risking another beating to keep his secrets, no way!"
+    },
+    {
+     "s": 11,
+     "t": "He, um, that guy, he wears a cloak, and he's always careful to cover his face... Uh, he calls himself King Deshret's envoy."
+    },
+    {
+     "s": 14,
+     "t": "I believe I may know what's going on."
+    },
+    {
+     "s": 9,
+     "t": "Uncle Anpu? What do you mean?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "sit": "Cyno strikes the three crooks unconscious with one swift move."
+    },
+    {
+     "s": 10,
+     "t": "Heh, smooth!"
+    },
+    {
+     "s": 3,
+     "t": "Okay, speak."
+    },
+    {
+     "s": 14,
+     "t": "If my suspicions are correct, this mystery man they speak of could be from the Akademiya."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 14,
+     "t": "Some time ago, people from the Akademiya attempted to take the Village Keepers away. I refused, insisting that they are a part of our community."
+    },
+    {
+     "s": 14,
+     "t": "It strikes me now that this secretive character shares the same goal they had."
+    },
+    {
+     "s": 10,
+     "t": "Which means... it's highly likely that the Akademiya was purposely spreading a false rumor to trick the Radicals into delivering the Village Keepers right into their hands."
+    },
+    {
+     "s": 10,
+     "t": "Huh, they were the ones who brought them here to begin with... Now they're trying to take them back? We aren't gonna let that happen."
+    },
+    {
+     "s": 3,
+     "t": "...Not the Akademiya again."
+    },
+    {
+     "sit": "In Sumeru City, Setaria also mentioned..."
+    },
+    {
+     "sit": "King Deshret's resurrection is just the Akademiya's misinformation campaign."
+    },
+    {
+     "s": 10,
+     "t": "Just as I thought."
+    },
+    {
+     "s": 10,
+     "t": "But what could they want with the Village Keepers...?"
+    },
+    {
+     "s": 3,
+     "t": "People are nothing but tools in the eyes of the Akademiya. A change in their plans likely means they've found another way to exploit the scholars."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "Regardless, our top priority now is locating the Village Keepers."
+    },
+    {
+     "s": 9,
+     "t": "You're right. Isak is still waiting for news on his grandpa..."
+    },
+    {
+     "s": 10,
+     "t": "Time to go. Let's leave the village and try to track them down."
+    },
+    {
+     "s": 3,
+     "t": "Yes. Pack up and get ready to leave."
+    },
+    {
+     "s": 10,
+     "t": "You got it. Candace, I'll let you deal with the Radicals. Leave everything outside the village to us."
+    },
+    {
+     "s": 9,
+     "t": "Alright."
+    },
+    {
+     "s": 0,
+     "t": "Let's meet back here once everyone's ready!"
+    }
+   ],
+   "description": "Entrusted by Isak, a resident of Aaru Village, you and Cyno begin looking for clues about the Village Keepers…"
+  },
+  {
+   "title": "Cry From the Eleazar Hospital",
+   "dialogue": [
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 0,
+     "t": "Let's get some food in us, and then we'll— Whoa!"
+    },
+    {
+     "s": 0,
+     "t": "Where did you come from?"
+    },
+    {
+     "s": 15,
+     "t": "Well, as you can see, I am merely sitting here and reviewing what we have deduced thus far."
+    },
+    {
+     "s": 0,
+     "t": "You were gone for ages, and now you're suddenly sitting here musing to yourself? Where have you been, anyway?"
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Hey, what's with the silence!"
+    },
+    {
+     "s": 15,
+     "t": "You never think things through before asking questions. I'm giving you some time to make up for that."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? Argh, Paimon's so mad! Paimon's gonna give you an ugly nickname!"
+    },
+    {
+     "sit": "Go ahead, I won't stop you."
+    },
+    {
+     "s": 0,
+     "t": "Uh, um... Never mind, Paimon's got nothing..."
+    },
+    {
+     "s": 0,
+     "t": "There's just nothing super obvious to pick with this guy... It makes it so hard."
+    },
+    {
+     "s": 15,
+     "t": "Well, you've heard nothing to suggest I left this whole time. So clearly, I stayed in the village to investigate."
+    },
+    {
+     "s": 15,
+     "t": "Anyway. You plan to leave Aaru Village and keep searching for the truth of this matter, yes?"
+    },
+    {
+     "s": 0,
+     "t": "Yep, we're not gonna find out anything more by staying here. So we thought that we might as well take the search elsewhere."
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Enough with the silent treatment!"
+    },
+    {
+     "sit": "Maybe he's giving us time to think..."
+    },
+    {
+     "s": 15,
+     "t": "No, I'm just surprised that you decided to team up with him."
+    },
+    {
+     "s": 3,
+     "t": "Alhaitham, you haven't helped us out at all ever since we arrived at Aaru Village. Bold of you to question our choices."
+    },
+    {
+     "sit": "That's true."
+    },
+    {
+     "s": 0,
+     "t": "Yeah! You're all talk!"
+    },
+    {
+     "s": 15,
+     "t": "While you were investigating, I had my own work to do, which I've now finished."
+    },
+    {
+     "s": 0,
+     "t": "Really? Paimon doesn't believe you."
+    },
+    {
+     "s": 15,
+     "t": "To be honest, we aren't really a team, so I have no obligation to inform you of my whereabouts."
+    },
+    {
+     "s": 15,
+     "t": "Not to mention that going separate ways allowed me to find some important information that you all had missed."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Right here in the village?"
+    },
+    {
+     "s": 15,
+     "t": "Correct."
+    },
+    {
+     "s": 3,
+     "t": "What did you learn?"
+    },
+    {
+     "s": 15,
+     "t": "I'm going to take you to someone. But before that, you need to understand where she's coming from."
+    },
+    {
+     "s": 0,
+     "t": "What does that mean?"
+    },
+    {
+     "s": 15,
+     "t": "How do you think the residents of Aaru Village feel about what we're doing?"
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 15,
+     "t": "In other words, do you truly believe every single word the villagers tell us?"
+    },
+    {
+     "sit": "...!"
+    },
+    {
+     "s": 0,
+     "t": "You mean... some of them lied to us?"
+    },
+    {
+     "s": 15,
+     "t": "Hiding the truth does not necessarily equate to lying. Again, these people have their reasons."
+    },
+    {
+     "s": 15,
+     "t": "Remember what Candace said? Most people in Aaru Village don't necessarily care which deity is in charge of Sumeru. That's because whether King Deshret or the Dendro Archon has power is of little significance to them."
+    },
+    {
+     "s": 15,
+     "t": "By contrast, the perils of their daily lives are ever-present concerns. They won't simply share everything they know with you without good reason. That's why you believed there was no further information to be found in this village."
+    },
+    {
+     "sit": "So you're saying we can find new info from someone we've already spoken to."
+    },
+    {
+     "s": 15,
+     "t": "Glad you're following along."
+    },
+    {
+     "s": 15,
+     "t": "Among those you have talked to, there's someone who was consciously keeping you out of the loop. In fact, she's been observing your every move since you arrived."
+    },
+    {
+     "s": 15,
+     "t": "The reason being... To someone who only wants to live their life in peace, any external factors introduce unpredictability into the equation."
+    },
+    {
+     "s": 4,
+     "t": "Whaaa! Those eyes, those fierce eyes! Y—You look like a real fighter..."
+    },
+    {
+     "s": 3,
+     "t": "Don't change the subject."
+    },
+    {
+     "s": 15,
+     "t": "It's quite obvious that she's intimidated by Cyno's authority and strength."
+    },
+    {
+     "s": 4,
+     "t": "R—Right! You were asking about the Vil— I mean, the mad scholars."
+    },
+    {
+     "s": 15,
+     "t": "She corrected herself mid-sentence because she's aware that there are King Deshret fanatics in the village. If she sounds too friendly towards the Village Keepers, she could easily make herself the Radicals' next target."
+    },
+    {
+     "s": 4,
+     "t": "I think it's been a few days since I last saw them? I usually go to bed pretty early, so I'm not too familiar with what goes on at night."
+    },
+    {
+     "s": 15,
+     "t": "Remember? She made a point of denying her involvement in anything that occurs at night."
+    },
+    {
+     "s": 4,
+     "t": "But honestly, I feel quite sympathetic towards them. Even though they act a little strange, they've helped me in the past. If it weren't for them, my house would've collapsed long ago."
+    },
+    {
+     "s": 15,
+     "t": "After speaking to the village chief, it became clear that the Village Keepers had protected Aaru Village at night. In other words, the young miss was very much awake during that time."
+    },
+    {
+     "s": 0,
+     "t": "Then why would she lie?"
+    },
+    {
+     "s": 15,
+     "t": "By getting involved with an outsider, she risks drawing unwanted attention to herself. As for why she might be so wary about all this... Maybe you should ask her."
+    },
+    {
+     "s": 3,
+     "t": "I'll pass on this one."
+    },
+    {
+     "s": 3,
+     "t": "You said that she is afraid of me. If so, it's best if I stay out of this."
+    },
+    {
+     "s": 0,
+     "t": "We're on it!"
+    },
+    {
+     "section": "Dehya, Candace"
+    },
+    {
+     "s": 10,
+     "t": "You look worried. Thinking about the Village Keepers?"
+    },
+    {
+     "s": 9,
+     "t": "Yes... I'd look for them myself if I could... As members of our village, each one of them is very important to me."
+    },
+    {
+     "s": 10,
+     "t": "You have a strong sense of belonging here... I guess I'm the opposite. Mercs are stray dogs wherever they go."
+    },
+    {
+     "s": 9,
+     "t": "Dehya, don't say that. You can be a part of this community, too."
+    },
+    {
+     "s": 10,
+     "t": "Haha, thanks. I'll let you know when I feel like joining."
+    },
+    {
+     "section": "Uncle Anpu"
+    },
+    {
+     "s": 14,
+     "t": "*sigh* I just hope everyone's alright."
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 3,
+     "t": "What scheme is the Akademiya brewing now?"
+    },
+    {
+     "section": "Knock on Door"
+    },
+    {
+     "s": 15,
+     "t": "Miss Shani, as we discussed earlier, I've brought someone with me."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "Mr. Alhaitham, I'm aware of where you stand, but... How can I make sure that your friends think the same as you?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? What do you mean? We need to clarify our stance or something?"
+    },
+    {
+     "s": 15,
+     "t": "Go ahead and talk to her. You'll get the answers you want."
+    },
+    {
+     "s": 15,
+     "t": "Go on, earn her trust."
+    },
+    {
+     "s": 0,
+     "t": "Is it really that simple...?"
+    },
+    {
+     "s": 4,
+     "t": "Um, may I call you \"Traveler\"?"
+    },
+    {
+     "sit": "Sure thing. Hi, Miss Shani."
+    },
+    {
+     "s": 4,
+     "t": "Hi, Traveler. I want to ask you something."
+    },
+    {
+     "s": 4,
+     "t": "Do you think the resurrection of King Deshret can truly change Sumeru for the better?"
+    },
+    {
+     "sit": "...No."
+    },
+    {
+     "s": 4,
+     "t": "Why's that?"
+    },
+    {
+     "sit": "Because it'll only result in conflict."
+    },
+    {
+     "s": 4,
+     "t": "That's very similar to what Miss Candace says. I know you two are friends. That's why I'm willing to talk to you, even though I do have some reservations."
+    },
+    {
+     "s": 4,
+     "t": "Before, I wouldn't even have the courage to ask something like this."
+    },
+    {
+     "s": 4,
+     "t": "Traveler, do you believe our lives will get better?"
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "sit": "I can't promise anything. But I'll do the best I can."
+    },
+    {
+     "s": 0,
+     "t": "Yeah! We came here from another nation, so it isn't wrong of you to be wary. And... we aren't really residents of any one nation..."
+    },
+    {
+     "s": 0,
+     "t": "But even so, we've met lots of people from different places and we've always fought for what we believed in."
+    },
+    {
+     "s": 0,
+     "t": "We have friends in Sumeru, and we want to help them... That's why we decided to stay here for a while."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 4,
+     "t": "I... want to trust you."
+    },
+    {
+     "s": 4,
+     "t": "My apologies for posing my questions like that. To be honest, I didn't expect you to come back for more information."
+    },
+    {
+     "s": 0,
+     "t": "Alhaitham told us you have your reasons. It's okay, we understand!"
+    },
+    {
+     "s": 4,
+     "t": "The fact is that I'm... Only one side of my family is desert folk. I don't really fit in anywhere in Sumeru."
+    },
+    {
+     "s": 4,
+     "t": "Some believe in the Dendro Archon, while others believe in King Deshret. I don't belong to either side, and neither side would want me."
+    },
+    {
+     "s": 0,
+     "t": "Speaking of which, the Radicals mentioned that they despise traitors... Do they just think that anyone who's different from them is a traitor?"
+    },
+    {
+     "s": 4,
+     "t": "Yeah... Some people can be so narrow-minded when it comes to bloodline and beliefs... It makes no difference what I say or how I behave, I'll always be suspected of having ulterior motives."
+    },
+    {
+     "s": 4,
+     "t": "Slowly, I just stopped talking to people. I pretended not to hear or see anything. All I want is to live my life in peace..."
+    },
+    {
+     "s": 4,
+     "t": "...And then it happened. The Village Keepers who had helped me disappeared with no explanation, and I didn't dare breathe a word about it to anyone... until now."
+    },
+    {
+     "s": 15,
+     "t": "You can tell them. I'm sure she(he)'ll keep your secret."
+    },
+    {
+     "s": 4,
+     "t": "Alright. I'll tell you what I told Alhaitham."
+    },
+    {
+     "s": 4,
+     "t": "I actually have a sharper sense of hearing than most. Sometimes... I hear strange crying sounds in the night."
+    },
+    {
+     "s": 0,
+     "t": "Eek! There are ghosts!?"
+    },
+    {
+     "s": 4,
+     "t": "Perhaps. I'm not sure. It's faint, but it's definitely the sound of crying. It comes from far away in the distance, and always carries very raw emotion."
+    },
+    {
+     "s": 4,
+     "t": "It used to be louder and more frequent, but ever since you arrived in the village, it doesn't seem to happen as often, and when it does, it's much quieter. I have to focus really hard to make it out."
+    },
+    {
+     "s": 15,
+     "t": "I confirmed this with the guards on night duty. They also have someone with a good ear, and he's heard similar sounds at night."
+    },
+    {
+     "s": 15,
+     "t": "But because we're in the middle of a desert, he would rather believe that they are the cries of beasts than ghosts."
+    },
+    {
+     "sit": "Could you make out where the sounds were coming from?"
+    },
+    {
+     "s": 4,
+     "t": "There's really nothing around these parts... except for an old hospital not far from the village."
+    },
+    {
+     "s": 15,
+     "t": "I think they used to use it for treating Eleazar... But it's been abandoned for years."
+    },
+    {
+     "sit": "We need to check out that hospital!"
+    },
+    {
+     "s": 0,
+     "t": "Yeah, let's go!"
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 3,
+     "t": "（test）赛诺留在原地对话"
+    },
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 0,
+     "t": "Phew... They were easier to deal with than Paimon had expected."
+    },
+    {
+     "sit": "What were you even expecting?"
+    },
+    {
+     "s": 0,
+     "t": "Uh... super strong bandits? Or monsters taller than buildings dropping out of the sky? Or y'know, something like that."
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "He looks super serious... We gotta stay on our A-game, too!"
+    },
+    {
+     "s": 15,
+     "t": "...This is the one."
+    },
+    {
+     "s": 0,
+     "t": "Aaaah!"
+    },
+    {
+     "s": 15,
+     "t": "Let's go in and take a look."
+    },
+    {
+     "sit": "You carefully search the abandoned hospital..."
+    },
+    {
+     "s": 0,
+     "t": "Heeey! Alhaitham, we haven't found squat! Are you sure we aren't wasting our time here?"
+    },
+    {
+     "s": 15,
+     "t": "Patience. Shani says she only hears the crying at night. We have time to burn."
+    },
+    {
+     "s": 15,
+     "t": "Until then..."
+    },
+    {
+     "s": 15,
+     "t": "I'm taking a break."
+    },
+    {
+     "s": 0,
+     "t": "And just like that, he sits down... Wait, he even brought a book to read!?"
+    },
+    {
+     "s": 0,
+     "t": "What are you reading? Let Paimon see!"
+    },
+    {
+     "s": 15,
+     "t": "Okay, sure."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Umm... \"The 'natural position,' which is the positional propensity of an entity in 'natural motion,' in contrast with an object in 'forced motion'... Huh? When free from external influences, every entity... displays the tendency to follow its natural trajectory...\""
+    },
+    {
+     "s": 15,
+     "t": "So, you got that?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon gives up! You keep reading your book... See ya!"
+    },
+    {
+     "s": 0,
+     "t": "How is he so relaxed? Look at him, reading an impossible book in a creepy place like this."
+    },
+    {
+     "sit": "You know, it wouldn't kill you to read a book once in a while, either."
+    },
+    {
+     "sit": "Maybe it's time to spread your wings and become learned."
+    },
+    {
+     "s": 0,
+     "t": "Hey, Paimon's your Teyvat travel guide! Paimon knows plenty of useful stuff already!"
+    },
+    {
+     "s": 0,
+     "t": "And anyway, it's not Paimon's fault that the books people read in Sumeru are so complicated..."
+    },
+    {
+     "sit": "Okay, okay, Paimon's the best."
+    },
+    {
+     "s": 0,
+     "t": "*yawn* Paimon's getting so sleepy..."
+    },
+    {
+     "sit": "...!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? What was that sound?"
+    },
+    {
+     "s": 15,
+     "t": "There it is."
+    },
+    {
+     "s": 15,
+     "t": "It's coming from that direction."
+    },
+    {
+     "s": 0,
+     "t": "Is the sound coming from here? Paimon's not seeing anything."
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 15,
+     "t": "It's from below."
+    },
+    {
+     "s": 0,
+     "t": "Huh?! But there's no way we can get down there!"
+    },
+    {
+     "s": 15,
+     "t": "Something is off about the interior here."
+    },
+    {
+     "s": 15,
+     "t": "Hmm..."
+    },
+    {
+     "s": 15,
+     "t": "As I thought. There's a hidden structure."
+    },
+    {
+     "s": 0,
+     "t": "Whoa... It's like they tucked another hospital into this one..."
+    },
+    {
+     "s": 0,
+     "t": "It looks like there are other mechanisms around here. Let's keep exploring!"
+    },
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 15,
+     "t": "（test）爱尔海森留在原地等你"
+    },
+    {
+     "section": "Razak"
+    },
+    {
+     "s": 0,
+     "t": "Look, there's someone over there!"
+    },
+    {
+     "sit": "We need to be careful!"
+    },
+    {
+     "s": 0,
+     "t": "Good idea, let's approach him slowly without alarming him..."
+    },
+    {
+     "s": 15,
+     "t": "Wait..."
+    },
+    {
+     "s": 15,
+     "t": "You're..."
+    },
+    {
+     "s": 16,
+     "t": "Ugh... Argh..."
+    },
+    {
+     "s": 0,
+     "t": "He can't speak, and his eyes are unfocused... But he looks too young to be anyone's grandfather."
+    },
+    {
+     "s": 0,
+     "t": "Also, why's he the only one here?"
+    },
+    {
+     "s": 15,
+     "t": "Didn't expect to see him here."
+    },
+    {
+     "s": 0,
+     "t": "...You know him?"
+    },
+    {
+     "s": 15,
+     "t": "He's Razak, a senior of mine at the Akademiya."
+    },
+    {
+     "s": 0,
+     "t": "He's a scholar, too? Is he the kind that holes up in a forest and mumbles stuff about training?"
+    },
+    {
+     "s": 15,
+     "t": "No, and that's the problem."
+    },
+    {
+     "s": 15,
+     "t": "Razak was never involved in any of those things. He never trained in the forest, let alone reached Satyavada Life."
+    },
+    {
+     "sit": "So how did he become like this?"
+    },
+    {
+     "s": 15,
+     "t": "Leaving that question aside for the moment... him being here alone means that we might be too late."
+    },
+    {
+     "s": 15,
+     "t": "Looks like they've already taken everyone away. For whatever reason, they left Razak here — perhaps they simply didn't have time to come back for him."
+    },
+    {
+     "s": 15,
+     "t": "Hmm..."
+    },
+    {
+     "s": 15,
+     "t": "There are drag marks on the ground. They're clearer by the doorway. Someone was forcefully drawing a cart that was loaded with something heavy."
+    },
+    {
+     "s": 0,
+     "t": "...Loaded with... people?"
+    },
+    {
+     "s": 15,
+     "t": "That is one possibility. It looks like they were in a hurry, as if they were afraid of being caught. In their haste, they failed to notice Razak hiding in a corner."
+    },
+    {
+     "s": 16,
+     "t": "Aah... Ugh, uhh..."
+    },
+    {
+     "s": 15,
+     "t": "The symptoms are identical. Looks like we've found \"living proof.\""
+    },
+    {
+     "s": 0,
+     "t": "Huh, why do you say that?"
+    },
+    {
+     "s": 15,
+     "t": "Allow me to jog your memory. Recall your time at Port Ormos."
+    },
+    {
+     "s": 15,
+     "t": "Don't you think his symptoms look familiar?"
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 17,
+     "t": "Aaagh!!!"
+    },
+    {
+     "sit": "...! The Eremite guy who went mad!"
+    },
+    {
+     "s": 0,
+     "t": "Oh! Now that you mention it... They're acting the same way!"
+    },
+    {
+     "s": 15,
+     "t": "Correct. The Akademiya is behind all of this."
+    },
+    {
+     "s": 15,
+     "t": "It isn't difficult to deduce their rationale."
+    },
+    {
+     "s": 15,
+     "t": "First, the Akademiya spread a false rumor of King Deshret's resurrection, emphasizing the role of the Village Keepers — the mad scholars who were exiled to Aaru Village."
+    },
+    {
+     "s": 15,
+     "t": "These rumors were all the persuasion that the Radicals needed, and those based in Aaru Village leapt into action. Unbeknownst to them, of course, through rounding up the scholars, they were actually helping the Akademiya."
+    },
+    {
+     "s": 15,
+     "t": "As well as being able to exploit the Radicals for their own ends, this scheme has one further advantage to the Akademiya: All the risks and responsibilities are offloaded onto King Deshret's followers."
+    },
+    {
+     "s": 15,
+     "t": "Life for the desert-dwellers has been brutal ever since King Deshret's death all those years ago. Beneath the surface, feelings of desperation are widespread."
+    },
+    {
+     "s": 15,
+     "t": "Many would give everything they have for the prospect of something better. Anyone looking to exploit that for their own ends simply needs to make a few empty promises."
+    },
+    {
+     "s": 15,
+     "t": "Even if complications arise, people will see that those involved are all followers of King Deshret, and look for no further explanation than differences of belief. A deep-seated mistrust of the desert and everyone in it by the rest of Sumeru will make sure of that."
+    },
+    {
+     "s": 15,
+     "t": "The notion of an Akademiya plot wouldn't even cross their minds. It may seem like a simple strategy, but it is able to work wonders under Sumeru's current circumstances."
+    },
+    {
+     "s": 0,
+     "t": "Ohhh, that makes a lot of sense. It's in line with the village chief's theory, too!"
+    },
+    {
+     "s": 0,
+     "t": "But there's still one very important question... Wasn't it the Akademiya that brought the scholars to Aaru Village in the first place? Why does it want them back now?"
+    },
+    {
+     "s": 15,
+     "t": "Throughout this process, one thing has changed: the scholars' identity."
+    },
+    {
+     "s": 15,
+     "t": "First, they were \"scholars.\" Then, they became \"lunatics.\" After that, they were \"exiles,\" and finally... they become \"missing persons.\""
+    },
+    {
+     "sit": "I see..."
+    },
+    {
+     "s": 15,
+     "t": "An exile is still patently a living, breathing human being, but when someone becomes a missing person... that is brought into question."
+    },
+    {
+     "s": 15,
+     "t": "If you can't find someone, you have no way of knowing what exactly happened to them. That makes missing people an ideal resource."
+    },
+    {
+     "s": 0,
+     "t": "\"Resource\"? For what, exactly?"
+    },
+    {
+     "s": 15,
+     "t": "One possibility is that the information in their brains could be extracted into Knowledge Capsules."
+    },
+    {
+     "s": 0,
+     "t": "Extracted... You mean Canned Knowledge comes from people's brains!?"
+    },
+    {
+     "s": 15,
+     "t": "With the technology of the Sumeru Akademiya, it's entirely possible."
+    },
+    {
+     "s": 15,
+     "t": "Perhaps the process caused them great suffering, which is why they cry out in the dead of night, when no one is watching them."
+    },
+    {
+     "s": 0,
+     "t": "So the human brain— Nope, nuh-uh, Paimon doesn't wanna think about this..."
+    },
+    {
+     "sit": "How did you learn of this technology?"
+    },
+    {
+     "s": 15,
+     "t": "I'm the Akademiya's scribe, after all. I'm familiar with their projects."
+    },
+    {
+     "s": 15,
+     "t": "Anyway, judging by Razak's state, the contents of a Divine Knowledge Capsule were extracted from his mind, but something went wrong in the process..."
+    },
+    {
+     "s": 15,
+     "t": "Or perhaps, his curiosity got the better of him, and he used such a capsule for himself."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's a little confused... Can they just use anyone's brain?"
+    },
+    {
+     "sit": "(No, that can't be right. Most of the mad scholars had made contact with the \"divine consciousness\" in the forest... That's what the Akademiya is after.)"
+    },
+    {
+     "sit": "(It's also safe to assume that... this knowledge has something to do with the Fatui, The Doctor, and also The Balladeer. They're using Divine Knowledge Capsules to turn The Balladeer into a god.)"
+    },
+    {
+     "s": 15,
+     "t": "The look on your face tells me you've realized the answer."
+    },
+    {
+     "sit": "The Akademiya needs people who have been exposed to the \"divine consciousness.\""
+    },
+    {
+     "s": 15,
+     "t": "That's right. To some scholars, gaining knowledge about the gods is their entire life's pursuit. Extracting Canned Knowledge is just one of the extreme measures they turn to."
+    },
+    {
+     "s": 15,
+     "t": "However, I can't help but wonder: What do they seek to gain from divine knowledge?"
+    },
+    {
+     "s": 15,
+     "t": "The Akademiya is going out of their way to look for forbidden knowledge, but what is their ultimate goal?"
+    },
+    {
+     "s": 15,
+     "t": "I've spent quite some time trying to analyze the contents of the Divine Knowledge Capsule, but to no avail. It seems like my way of thinking is too different from theirs."
+    },
+    {
+     "s": 0,
+     "t": "You mean, you're not even slightly interested in getting your hands on this forbidden stuff?"
+    },
+    {
+     "s": 15,
+     "t": "All scholars seek to expand the horizons of knowledge. But I'm not particularly interested in gods, so I don't share their degree of zealotry."
+    },
+    {
+     "s": 15,
+     "t": "Extracting information from people as if they were lifeless objects... If this is the direction of academic progress, then the Akademiya may as well shut its doors."
+    },
+    {
+     "s": 0,
+     "t": "Sounds like you're really against all this..."
+    },
+    {
+     "s": 15,
+     "t": "Of course. The Akademiya's actions run contrary to their rules."
+    },
+    {
+     "s": 15,
+     "t": "Whether it be academics or knowledge, everything has its boundaries. If those lines are crossed, the rules and order that govern everything in the world will be destroyed."
+    },
+    {
+     "s": 15,
+     "t": "This matter needs to be corrected, just like fixing a typo in a book."
+    },
+    {
+     "s": 0,
+     "t": "Wait, didn't you step in to help because you felt sympathy for those poor people?"
+    },
+    {
+     "s": 15,
+     "t": "Not to be callous, but no. My criteria are a little more restrictive than that."
+    },
+    {
+     "s": 15,
+     "t": "There is no shortage of suffering in Sumeru, and the same can be said for the rest of Teyvat as well. What do you plan to do about that? Save every last person?"
+    },
+    {
+     "s": 0,
+     "t": "Um... Probably not... Paimon's not sure..."
+    },
+    {
+     "sit": "Your motives are more specific and personal."
+    },
+    {
+     "s": 15,
+     "t": "You can say that. Simply put, I don't blindly place my faith into strength or heroism. I do what I want."
+    },
+    {
+     "s": 15,
+     "t": "The Divine Knowledge Capsule is something I want to investigate in full. That doesn't mean I'm willing to take action for the sake of a few strangers."
+    },
+    {
+     "sit": "(...Though he rejects the notion of greater moral responsibility, he justifies his actions because they are true to his personal motivations.)"
+    },
+    {
+     "sit": "(Someone like him... might actually make for a better ally.)"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's been wanting to say this for a while. There are a lot of bad guys in the Akademiya, but you're not one of them... You're their weirdo!"
+    },
+    {
+     "s": 15,
+     "t": "...You're probably right."
+    },
+    {
+     "s": 15,
+     "t": "Though I must say, I quite enjoy this feeling of being the odd one out."
+    },
+    {
+     "s": 15,
+     "t": "Uniqueness is also an asset, is it not?"
+    },
+    {
+     "s": 0,
+     "t": "Wow, that's a great way to think about it. Paimon's really impressed! If only Miss Shani had a similar mindset, her life would definitely be a lot easier..."
+    },
+    {
+     "s": 15,
+     "t": "I'm just a more likable person than her in general. There's nothing more to it than that."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "sit": "Uh, so what do we do with him?"
+    },
+    {
+     "s": 15,
+     "t": "He won't last long if we leave him here. Let's take him with us."
+    },
+    {
+     "s": 15,
+     "t": "We'll work out our next step after we return to Aaru Village."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 0,
+     "t": "We're back!"
+    },
+    {
+     "s": 9,
+     "t": "You must be tired. You should rest, and take some water."
+    },
+    {
+     "s": 3,
+     "t": "What's the situation?"
+    },
+    {
+     "s": 9,
+     "t": "Hmm? Who's this?"
+    },
+    {
+     "s": 15,
+     "t": "Unfortunately, somebody who is too young to take on the role of Isak's grandfather. Nevertheless, he's one of the people we're trying to find."
+    },
+    {
+     "sit": "You tell everyone what you saw in the abandoned hospital and share your current theory."
+    },
+    {
+     "s": 3,
+     "t": "So, at one point in time, the abandoned Eleazar hospital served as the Akademiya's site for extracting Divine Canned Knowledge."
+    },
+    {
+     "s": 0,
+     "t": "Yep, pretty much."
+    },
+    {
+     "s": 3,
+     "t": "Their plan must have been implemented at some point before we arrived at Aaru Village, since Divine Canned Knowledge has been in circulation for a while now."
+    },
+    {
+     "s": 3,
+     "t": "Yet, they fled once we were headed to the village, almost as if they knew we were on their trail. Why is that?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, yeah, why is that...?"
+    },
+    {
+     "s": 9,
+     "t": "We may have a mole in our midst."
+    },
+    {
+     "s": 9,
+     "t": "One of us could be secretly revealing our whereabouts to the Akademiya."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Are our friendships that shallow?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 15,
+     "t": "Looks like none of you have realized wherein lies the issue."
+    },
+    {
+     "sit": "Care to share your thoughts?"
+    },
+    {
+     "s": 15,
+     "t": "Cyno, you're the reason why they can predict our movements."
+    },
+    {
+     "s": 0,
+     "t": "Wait, what's that supposed to mean!?"
+    },
+    {
+     "s": 3,
+     "t": "Choose your next words very carefully."
+    },
+    {
+     "s": 15,
+     "t": "It is simply a logical inference. I have my reasons."
+    },
+    {
+     "s": 9,
+     "t": "So what you're saying is... Cyno's the mole?"
+    },
+    {
+     "s": 9,
+     "t": "Interesting. And here I thought you were the most suspicious one, Alhaitham, since you were always acting alone."
+    },
+    {
+     "s": 15,
+     "t": "I know. You have a point, but I realized something as we were returning from the hospital — Cyno isn't like any of us."
+    },
+    {
+     "s": 3,
+     "t": "...What are you trying to say?"
+    },
+    {
+     "s": 15,
+     "t": "Do you still remember who you are, General Mahamatra?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 15,
+     "t": "As a matra, you are no doubt privy to certain kinds of information. Before you can take action against someone, you are required to have all the facts available, including the less-than-savory details."
+    },
+    {
+     "s": 15,
+     "t": "Simply put, the Akademiya has traditionally allowed you access to a wealth of sensitive information. Knowing their modus operandi, wouldn't you expect them to take precautions against you?"
+    },
+    {
+     "s": 15,
+     "t": "If you want to raise a vicious wolf, you need to make sure that you can avoid its bite."
+    },
+    {
+     "s": 3,
+     "t": "The Akademiya is monitoring me?"
+    },
+    {
+     "s": 15,
+     "t": "It's not that simple. The Akademiya has eyes all over Sumeru, but they have a special protocol for dealing with you."
+    },
+    {
+     "s": 15,
+     "t": "Every so often comes a Jnagarbha Day. On this day, the Akademiya enters new information into the Akasha through Knowledge Capsules."
+    },
+    {
+     "s": 15,
+     "t": "I remember seeing the thick notebook next to the control panel once. Its contents were all about the General Mahamatra — his activities throughout the day, preferred methods of enacting judgment... everything."
+    },
+    {
+     "s": 3,
+     "t": "You're saying that the Akademiya entered my information into the Akasha, too?"
+    },
+    {
+     "s": 3,
+     "t": "...But what's the point in doing that? My actions aren't important enough to be added into the Akasha."
+    },
+    {
+     "s": 15,
+     "t": "The Akasha is capable of computation."
+    },
+    {
+     "s": 3,
+     "t": "...!"
+    },
+    {
+     "s": 15,
+     "t": "The Akasha's algorithms are entirely capable of predicting your movements using the data entered. When you would depart, the route you would follow, your destination... it knew all of this."
+    },
+    {
+     "s": 3,
+     "t": "It predicted my every move...!"
+    },
+    {
+     "s": 15,
+     "t": "The Akademiya has been watching you longer than you think. However, the fact that you resigned is proof that their suspicions were well-founded."
+    },
+    {
+     "s": 9,
+     "t": "So that's how it is... Cyno adheres to his principles so strongly that he's actually a thorn in their side."
+    },
+    {
+     "s": 9,
+     "t": "Tenacity of will and steadfast faith are worthless to the Akademiya. They need scholars who are easily pliable and mindlessly go after anything they can profit from."
+    },
+    {
+     "s": 9,
+     "t": "Cyno, don't take it to heart. This just proves how much of a trustworthy ally you are."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "They escaped because of me."
+    },
+    {
+     "s": 0,
+     "t": "Don't blame yourself! It's not like any of us would've known!"
+    },
+    {
+     "sit": "Exactly."
+    },
+    {
+     "s": 3,
+     "t": "...I have an idea."
+    },
+    {
+     "s": 3,
+     "t": "If they've predicted my movements... then I might be able to guess where they went."
+    },
+    {
+     "s": 10,
+     "t": "Whoa, you bounced back fast!"
+    },
+    {
+     "s": 15,
+     "t": "There is always an opportunity for safety after danger passes."
+    },
+    {
+     "s": 0,
+     "t": "Ooh, so that's how it is! Paimon gets it now!"
+    },
+    {
+     "s": 0,
+     "t": "If the Akademiya is trying to avoid Cyno, then the safest place would be..."
+    },
+    {
+     "sit": "One step behind him."
+    },
+    {
+     "s": 0,
+     "t": "Yep, that's right!"
+    },
+    {
+     "s": 3,
+     "t": "They'll want to proceed in the direction opposite of where I'm going."
+    },
+    {
+     "sit": "You're getting smarter, Paimon!"
+    },
+    {
+     "s": 3,
+     "t": "I must go."
+    },
+    {
+     "s": 15,
+     "t": "There's also something I want to investigate."
+    },
+    {
+     "s": 0,
+     "t": "Let's go, guys! After 'em!"
+    },
+    {
+     "s": 5,
+     "t": "Please, wait! I wanna go, too!"
+    },
+    {
+     "s": 9,
+     "t": "Hmm, you want to go, too? If so... you have to promise you'll stay safe."
+    },
+    {
+     "s": 5,
+     "t": "I wanna find Grandpa! I promise I'll be careful and not cause any trouble."
+    },
+    {
+     "s": 9,
+     "t": "Everyone, I leave him in your hands."
+    },
+    {
+     "sit": "Alright."
+    },
+    {
+     "s": 0,
+     "t": "Yay, let's go! Remember to pack some food with you!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon feels like we're missing someone though... Hmm..."
+    },
+    {
+     "section": "Uncle Anpu"
+    },
+    {
+     "s": 14,
+     "t": "Please stay safe, everyone."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 9,
+     "t": "I'll be awaiting your good news."
+    },
+    {
+     "section": "Cyno"
+    },
+    {
+     "s": 0,
+     "t": "So, where do we go from here?"
+    },
+    {
+     "sit": "Cyno, do you remember the route you took?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. After leaving the village, we should head straight toward the desert."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 9,
+     "t": "（test）坎蒂丝留家里闲置"
+    },
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 3,
+     "t": "There's something here."
+    },
+    {
+     "s": 3,
+     "t": "What's this...?"
+    },
+    {
+     "s": 15,
+     "t": "It's buried in the sand... Looks like we'll need to roll up our sleeves and do some work."
+    },
+    {
+     "s": 0,
+     "t": "And Paimon thought running around everywhere was already enough work!"
+    },
+    {
+     "sit": "Now isn't the time for complaining, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Okay, okay... So we have to dig it out? Whatever's down there looks like it's buried really deep."
+    },
+    {
+     "sit": "With some effort, you manage to retrieve the buried objects."
+    },
+    {
+     "s": 15,
+     "t": "These are likely fragments of an Akademiya-developed device, something akin to a headset."
+    },
+    {
+     "s": 15,
+     "t": "Looks like there were more than one Village Keeper. They must have been escorted this way, because there are device fragments scattered around here..."
+    },
+    {
+     "s": 15,
+     "t": "Let's split up and search the area. Chances are that we'll find other things nearby."
+    },
+    {
+     "sit": "Everyone goes in different directions and starts digging in the sand."
+    },
+    {
+     "sit": "After a short while, you dig up another device nearby."
+    },
+    {
+     "s": 0,
+     "t": "Is this what we're searching for? It looks kinda scary..."
+    },
+    {
+     "s": 15,
+     "t": "This is definitely a device used to extract divine knowledge."
+    },
+    {
+     "s": 3,
+     "t": "How did it end up buried in the sand? That can't have been part of the plan."
+    },
+    {
+     "s": 3,
+     "t": "They must've been attacked along the way."
+    },
+    {
+     "s": 0,
+     "t": "Wait, what!?"
+    },
+    {
+     "s": 5,
+     "t": "Grandpa... I hope you're okay..."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, your grandpa's gonna be fine!"
+    },
+    {
+     "s": 15,
+     "t": "Razak didn't display any signs of starvation or dehydration, which means that they left fairly recently."
+    },
+    {
+     "s": 3,
+     "t": "We should be able to catch up."
+    },
+    {
+     "s": 15,
+     "t": "One more thing: Given that the device had been entirely covered by sand..."
+    },
+    {
+     "s": 15,
+     "t": "I believe the attack must have happened prior to the sandstorm."
+    },
+    {
+     "sit": "I agree."
+    },
+    {
+     "s": 3,
+     "t": "Let's keep going. They can't have gone far."
+    },
+    {
+     "section": "Dehya"
+    },
+    {
+     "s": 3,
+     "t": "Don't get any closer. They'll notice us."
+    },
+    {
+     "s": 15,
+     "t": "Dehya's talking with the Eremites? Heh, very interesting... Let's listen in."
+    },
+    {
+     "s": 10,
+     "t": "...If you had informed me sooner, there'd be plenty of room for us to..."
+    },
+    {
+     "s": 18,
+     "t": "...You're one of us... We would never lie..."
+    },
+    {
+     "s": 10,
+     "t": "Scholars... You don't know as much as I do... Need me to..."
+    },
+    {
+     "s": 18,
+     "t": "Haha, I knew it... That's our Dehya..."
+    },
+    {
+     "s": 5,
+     "t": "Dehya... Why would you..."
+    },
+    {
+     "s": 5,
+     "t": "Dehya!!!"
+    },
+    {
+     "s": 0,
+     "t": "Hey! What are you doing!?"
+    },
+    {
+     "s": 10,
+     "t": "Huh?"
+    },
+    {
+     "s": 5,
+     "t": "Didn't you say you'd help me find Grandpa!? Wh—Why are you on their side?"
+    },
+    {
+     "s": 18,
+     "t": "Haha, well, look who's here. Ain't that something."
+    },
+    {
+     "s": 10,
+     "t": "Ugh, this complicates things."
+    },
+    {
+     "s": 3,
+     "t": "...You've betrayed Aaru Village?"
+    },
+    {
+     "s": 18,
+     "t": "So, this is the great General Mahamatra. Haha."
+    },
+    {
+     "s": 18,
+     "t": "Dehya, you'd be better off as my assistant than hanging around with this motley crew. You've seen for yourself — I have the means and methods, and my ideals are far more admirable than theirs."
+    },
+    {
+     "s": 10,
+     "t": "I'm not the type that's easily swayed, Rahman. You of all people should know that."
+    },
+    {
+     "s": 0,
+     "t": "Wait, what's going on, Dehya? Whose side are you on here?"
+    },
+    {
+     "s": 10,
+     "t": "Shut it, Paimon."
+    },
+    {
+     "s": 18,
+     "t": "It doesn't matter. Whichever side you pick, nothing can deter us from the grand mission of resurrecting King Deshret. Once our lord of old returns to this land, we will have a new beginning."
+    },
+    {
+     "s": 10,
+     "t": "Face the facts, Rahman — it's not gonna happen. You should understand that more than anyone. Have all your years as a merc taught you nothing about placing hopes in a ruler?"
+    },
+    {
+     "s": 18,
+     "t": "I'm a desert-dweller, and a proud follower of King Deshret. Whether I live by the edge of the sword or in peaceful comfort, my soul will always carry this conviction."
+    },
+    {
+     "s": 10,
+     "t": "It's not too late yet. The Village Kee— ...mad scholars aren't gonna bring King Deshret back to life."
+    },
+    {
+     "s": 18,
+     "t": "You don't understand, my dear lady. Pursuing our faith is our purpose in life. Even if the chance of success is one in a million, we must be willing to give everything we have."
+    },
+    {
+     "s": 10,
+     "t": "Even if it'll expose you to the Akademiya? Even if they end up disbanding the Eremites? YOUR Eremites, which you've worked so hard for all these years?"
+    },
+    {
+     "s": 18,
+     "t": "Yes."
+    },
+    {
+     "s": 18,
+     "t": "We've waited a long time for this day to come... The sun and the moon no longer shine here. All you see now is cracks in this desiccated land. But, fate has finally dealt me a hand to play against the Akademiya."
+    },
+    {
+     "s": 18,
+     "t": "With these scholars in our custody, we'll stomp the Akademiya's forces and fight our way beyond the Wall of Samiel."
+    },
+    {
+     "s": 10,
+     "t": "...Ridiculous. Think about it, the Akademiya controls the entirety of Sumeru. Your powers are negligible in comparison."
+    },
+    {
+     "s": 10,
+     "t": "If you still don't believe me, then try asking these two men. They're also against the Akademiya, but neither of them are as arrogant as you are."
+    },
+    {
+     "s": 18,
+     "t": "Hah, they look more like pawns of the Akademiya to me. Why would I listen to anything the people of Greater Lord Rukkhadevata have to say?"
+    },
+    {
+     "s": 18,
+     "t": "Filthy traitors... Your god abandoned all honor and betrayed King Deshret. We desert-dwellers will never trust the likes of you."
+    },
+    {
+     "s": 3,
+     "t": "It's impossible to communicate with someone so hostile."
+    },
+    {
+     "s": 3,
+     "t": "Perhaps we should..."
+    },
+    {
+     "s": 15,
+     "t": "Do you really believe that by kidnapping the scholars, you'll be able to negotiate with the Akademiya?"
+    },
+    {
+     "sit": "Huh? Alhaitham?"
+    },
+    {
+     "s": 15,
+     "t": "These people have no value as bargaining chips, but I could be persuaded to take their place as your next hostage."
+    },
+    {
+     "s": 15,
+     "t": "These scholars were exiled from the Akademiya. I, on the other hand, am their current scribe and will be a much greater asset to you."
+    },
+    {
+     "s": 10,
+     "t": "Wait, you can't be serious."
+    },
+    {
+     "s": 18,
+     "t": "So, you wanna trade places with the hostages, do ya?"
+    },
+    {
+     "s": 15,
+     "t": "Precisely. Any wise person would gladly accept my offer."
+    },
+    {
+     "s": 0,
+     "t": "What're you thinking!? What if they decide to kill you instead?"
+    },
+    {
+     "s": 15,
+     "t": "Well, that would be bad luck for me."
+    },
+    {
+     "s": 15,
+     "t": "However, I'd get the chance to observe the scholars — perhaps even find out the truth."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 18,
+     "t": "Think you can talk me over with that confident look of yours?"
+    },
+    {
+     "s": 15,
+     "t": "I'm not trying to persuade you. I'm using this as a means of joining forces against the Akademiya."
+    },
+    {
+     "s": 18,
+     "t": "You are their scribe. What do you have against the Akademiya?"
+    },
+    {
+     "s": 15,
+     "t": "Not all desert-dwellers believe in King Deshret, and the same applies to the Akademiya. Why must all knowledge-seekers approve of the Akademiya's way of doing things?"
+    },
+    {
+     "s": 18,
+     "t": "Hah... hahaha!"
+    },
+    {
+     "s": 18,
+     "t": "You Akademiya scum! Every last one of you is nothing but a hypocrite, just like everyone else on the other side of that wall! I've made myself clear enough... I won't listen to another word from the Dendro Archon's people."
+    },
+    {
+     "s": 10,
+     "t": "Not so fast."
+    },
+    {
+     "s": 10,
+     "t": "Alhaitham, do you stand by everything you just said?"
+    },
+    {
+     "s": 15,
+     "t": "I never make empty promises."
+    },
+    {
+     "s": 10,
+     "t": "You know you're making a dangerous decision, right?"
+    },
+    {
+     "s": 15,
+     "t": "I do."
+    },
+    {
+     "s": 10,
+     "t": "Good! Rahman, hear me out. These people are my friends. Maybe you can't take the followers of the Dendro Archon at their word, but what about me? Do you trust me?"
+    },
+    {
+     "s": 18,
+     "t": "We've known each other for years. Of course I do."
+    },
+    {
+     "s": 10,
+     "t": "In that case, I'm willing to vouch for their honesty with my right arm."
+    },
+    {
+     "s": 18,
+     "t": "..."
+    },
+    {
+     "s": 10,
+     "t": "Come on, Rahman, don't be a coward. If you're serious about taking on the Akademiya, you need to steel yourself. You can't be afraid."
+    },
+    {
+     "s": 18,
+     "t": "Ha! An arm from the Flame-Mane? You've piqued my interest."
+    },
+    {
+     "s": 18,
+     "t": "But what if you refuse to oblige? What should I do then? No one's a fool here, Dehya. We're mercs. And mercs don't tend to live long unless they have their wits about them."
+    },
+    {
+     "s": 10,
+     "t": "You're not wrong, but this is different. I promised my friends that we'd bring back the Village Keepers together."
+    },
+    {
+     "s": 18,
+     "t": "Hah! Let's do it right here then. Give me your right arm as proof of your resolve."
+    },
+    {
+     "s": 10,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Don't listen to him! He's not even trying to negotiate, he just wants to make things more difficult!"
+    },
+    {
+     "s": 10,
+     "t": "...That's fine."
+    },
+    {
+     "s": 0,
+     "t": "Are you crazy!?"
+    },
+    {
+     "s": 10,
+     "t": "We came here to save lives. One arm for that many people is still a pretty good deal if you ask me. Rahman, I'm holding up my end of the deal here. You'd better not let me down."
+    },
+    {
+     "s": 18,
+     "t": "Sure. Go ahead and cut off her right arm."
+    },
+    {
+     "s": 5,
+     "t": "No!!!"
+    },
+    {
+     "s": 0,
+     "t": "Dehya! What are you gonna do? Think of something!"
+    },
+    {
+     "s": 15,
+     "t": "...You don't have to go this far."
+    },
+    {
+     "s": 10,
+     "t": "That's not for you to decide."
+    },
+    {
+     "s": 18,
+     "t": "Do it!"
+    },
+    {
+     "sit": "Dehya!"
+    },
+    {
+     "s": 0,
+     "t": "Dehya, run!"
+    },
+    {
+     "s": 3,
+     "t": "...Huh!"
+    },
+    {
+     "s": 10,
+     "t": "..."
+    },
+    {
+     "s": 18,
+     "t": "Stop!"
+    },
+    {
+     "s": 10,
+     "t": "...What's wrong? Can't do it?"
+    },
+    {
+     "s": 18,
+     "t": "Flame-Mane, you and I are both desert folk. Cutting off your arm is no different than cutting off my own fingers. Where's the sense in cutting my own kin to pieces?"
+    },
+    {
+     "s": 3,
+     "t": "Tch."
+    },
+    {
+     "s": 18,
+     "t": "You've shown me that you're serious. Go on now, take your friends and leave. Meet me in the desert at noon tomorrow."
+    },
+    {
+     "s": 10,
+     "t": "...Phew!"
+    },
+    {
+     "s": 10,
+     "t": "I was really counting on him not going through with it."
+    },
+    {
+     "s": 5,
+     "t": "Dehya!"
+    },
+    {
+     "s": 0,
+     "t": "That was crazy! Have you all lost your minds!? What if he'd actually cut your arm off!"
+    },
+    {
+     "s": 10,
+     "t": "Hmm, then I'd just have to hold my claymore with my left arm."
+    },
+    {
+     "sit": "Please don't do that ever again!"
+    },
+    {
+     "sit": "I'll be worried about you!"
+    },
+    {
+     "s": 10,
+     "t": "Okay, I'm sorry... But sometimes when you're out on a limb, you gotta double down to seal the deal, you know?"
+    },
+    {
+     "s": 3,
+     "t": "Don't ever make a promise like that again. I can deal with the likes of them."
+    },
+    {
+     "s": 3,
+     "t": "If it came down to it, you would not lose to them either."
+    },
+    {
+     "s": 10,
+     "t": "I don't doubt it, Cyno, but this is about more than me and them... There's a lot more where they came from."
+    },
+    {
+     "s": 10,
+     "t": "Even if we got rid of one bunch of radicals, there are others out there. Wiping them out would do more harm than good."
+    },
+    {
+     "s": 3,
+     "t": "Ah... As you wish."
+    },
+    {
+     "s": 5,
+     "t": "I'm sorry, Dehya! I should've stayed put and listened... I should've trusted you..."
+    },
+    {
+     "s": 10,
+     "t": "It's okay. I promised you I'd help find your grandpa, so I'll do whatever it takes."
+    },
+    {
+     "s": 15,
+     "t": "Whatever it takes? You just might be scholar material."
+    },
+    {
+     "s": 10,
+     "t": "Huh? Are you serious?"
+    },
+    {
+     "s": 15,
+     "t": "The Eremites once said that I was a lunatic. Perhaps a little madness is essential to be successful in research."
+    },
+    {
+     "s": 10,
+     "t": "Why does it feel like he's using his praise for me as an excuse to brag about himself?"
+    },
+    {
+     "sit": "I think he was just stating the truth."
+    },
+    {
+     "sit": "That's just how he is."
+    },
+    {
+     "s": 10,
+     "t": "Okay, let's get moving. We should head back to the village and rest up. Today was just a trial run — noon tomorrow is gonna be the hard part."
+    },
+    {
+     "sit": "You all return to Aaru Village and rest in your rooms in preparation for tomorrow's hostage exchange."
+    },
+    {
+     "sit": "But what are the chances of success? What are the stakes? There is no way of knowing..."
+    }
+   ],
+   "description": "After arresting the Radicals together with Dehya, you escorted them back to Aaru Village. The testimony revealed the involvement of a mysterious man and his forces. At the same time, Alhaitham has appeared in front of the village chief’s house…"
+  },
+  {
+   "title": "Secret of the Scorching Desert",
+   "dialogue": [
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 0,
+     "t": "You're all here so early!"
+    },
+    {
+     "s": 10,
+     "t": "Looks like we have everyone here. ...Isak, are you sure you want to come with us?"
+    },
+    {
+     "s": 5,
+     "t": "I'll watch from a safe distance. Dehya... I wanna be there to bring Grandpa home."
+    },
+    {
+     "s": 10,
+     "t": "Okay. Let's go then."
+    },
+    {
+     "s": 9,
+     "t": "Dehya, wait."
+    },
+    {
+     "s": 10,
+     "t": "What's the matter?"
+    },
+    {
+     "s": 9,
+     "t": "I heard that you were quite reckless yesterday... No more of that today, understood? Or I'll be very upset with you."
+    },
+    {
+     "s": 10,
+     "t": "*sigh* Fine."
+    },
+    {
+     "section": "Rahman"
+    },
+    {
+     "s": 15,
+     "t": "Heh, they got here before us."
+    },
+    {
+     "s": 0,
+     "t": "Uh-oh, is it because Paimon overslept by five minutes and held everyone up?"
+    },
+    {
+     "sit": "You didn't have to admit to that."
+    },
+    {
+     "s": 18,
+     "t": "Is everything ready?"
+    },
+    {
+     "s": 15,
+     "t": "Absolutely. Although..."
+    },
+    {
+     "s": 15,
+     "t": "...You brought fewer people than I imagined."
+    },
+    {
+     "s": 18,
+     "t": "Bring him over."
+    },
+    {
+     "s": 5,
+     "t": "Grandpa!"
+    },
+    {
+     "s": 0,
+     "t": "Why is there only one of them?"
+    },
+    {
+     "s": 10,
+     "t": "Rahman, I've always thought of you as a man of his word. What's this about?"
+    },
+    {
+     "s": 18,
+     "t": "It's a one-for-one exchange. Sounds fair, don't ya think?"
+    },
+    {
+     "s": 18,
+     "t": "Or lemme put it this way... Agreeing to any kind of deal with the Dendro Archon's people is already a huge compromise on my part. Don't you think you've asked enough?"
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 10,
+     "t": "...Uh-uh, you stay right there!"
+    },
+    {
+     "section": "Rahman"
+    },
+    {
+     "s": 0,
+     "t": "Uhh... Paimon's dizzy..."
+    },
+    {
+     "sit": "Mmph..."
+    },
+    {
+     "sit": "Is everyone okay!?"
+    },
+    {
+     "s": 10,
+     "t": "Ugh, this day's going just great..."
+    },
+    {
+     "s": 15,
+     "t": "Hmph, what a nuisance."
+    },
+    {
+     "s": 3,
+     "t": "The sand dune collapsed."
+    },
+    {
+     "s": 3,
+     "t": "I saw an energy field... The Village Keeper protected us."
+    },
+    {
+     "s": 3,
+     "t": "It glowed green with Dendro. Just like you said, it may well have been the remains of Lesser Lord Kusanali's power inside the scholar's body."
+    },
+    {
+     "sit": "No doubt."
+    },
+    {
+     "sit": "You finally believe me."
+    },
+    {
+     "s": 3,
+     "t": "...The Dendro Archon... The present one."
+    },
+    {
+     "s": 5,
+     "t": "Grandpa? Grandpa? Oh no, he's getting confused again..."
+    },
+    {
+     "s": 15,
+     "t": "Hey, look around you."
+    },
+    {
+     "s": 10,
+     "t": "Did there use to be a... temple here?"
+    },
+    {
+     "s": 15,
+     "t": "It seems that when the sand dune collapsed, it exposed these underground structures."
+    },
+    {
+     "s": 15,
+     "t": "The symbols on the gate belong to King Deshret's civilization. This structure must be ancient... Over time, the sandstorms completely buried it, and left it in the state we see now."
+    },
+    {
+     "s": 15,
+     "t": "...It could have been an underground palace in the distant past."
+    },
+    {
+     "s": 18,
+     "t": "Ohhh... A miracle! Praise King Deshret!"
+    },
+    {
+     "s": 0,
+     "t": "What's he doing here!? And his men, too?"
+    },
+    {
+     "s": 10,
+     "t": "They must have fallen down here with us. Pretty lucky if you ask me."
+    },
+    {
+     "s": 19,
+     "t": "Ugh... Oh..."
+    },
+    {
+     "s": 10,
+     "t": "Most of them seem in really bad shape, except for him. He got off lightly."
+    },
+    {
+     "s": 18,
+     "t": "...Hmph."
+    },
+    {
+     "s": 3,
+     "t": "Mind your head."
+    },
+    {
+     "s": 18,
+     "t": "No no, this isn't the time for conflict... Our exalted lord has shown us the way to his sacred palace."
+    },
+    {
+     "s": 0,
+     "t": "He's not actually gonna go in there, is he..."
+    },
+    {
+     "s": 15,
+     "t": "As it happens, I want to take a look inside, too."
+    },
+    {
+     "s": 0,
+     "t": "What are you doing!?"
+    },
+    {
+     "s": 15,
+     "t": "Don't you think it's curious? One minute, Lesser Lord Kusanali's power protects us from harm, and the next... remnants of King Deshret's civilization appear."
+    },
+    {
+     "s": 15,
+     "t": "Two major deities are vying to showcase their power to us. It would be a shame not to witness them both."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thought you weren't interested in gods!"
+    },
+    {
+     "s": 15,
+     "t": "Indeed. In my view, gods are just a higher form of living being... or \"creature,\" you could say."
+    },
+    {
+     "s": 15,
+     "t": "New discoveries are always worth investigating. Whether they have anything to do with gods is neither here nor there."
+    },
+    {
+     "s": 10,
+     "t": "Rahman, what are you gonna do about your men?"
+    },
+    {
+     "s": 18,
+     "t": "I'll just let them lay here — King Deshret will take care of his people... Right now, I'm going inside."
+    },
+    {
+     "section": "Eremite Mercenary"
+    },
+    {
+     "s": 19,
+     "t": "Ugh... Oh..."
+    },
+    {
+     "s": 10,
+     "t": "Most of them seem in really bad shape, except for him. He got off lightly."
+    },
+    {
+     "s": 18,
+     "t": "...Hmph."
+    },
+    {
+     "s": 3,
+     "t": "Mind your head."
+    },
+    {
+     "s": 18,
+     "t": "No no, this isn't the time for conflict... Our exalted lord has shown us the way to his sacred palace."
+    },
+    {
+     "s": 0,
+     "t": "He's not actually gonna go in there, is he..."
+    },
+    {
+     "s": 15,
+     "t": "As it happens, I want to take a look inside, too."
+    },
+    {
+     "s": 0,
+     "t": "What are you doing!?"
+    },
+    {
+     "s": 15,
+     "t": "Don't you think it's curious? One minute, Lesser Lord Kusanali's power protects us from harm, and the next... remnants of King Deshret's civilization appear."
+    },
+    {
+     "s": 15,
+     "t": "Two major deities are vying to showcase their power to us. It would be a shame not to witness them both."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thought you weren't interested in gods!"
+    },
+    {
+     "s": 15,
+     "t": "Indeed. In my view, gods are just a higher form of living being... or \"creature,\" you could say."
+    },
+    {
+     "s": 15,
+     "t": "New discoveries are always worth investigating. Whether they have anything to do with gods is neither here nor there."
+    },
+    {
+     "s": 10,
+     "t": "Rahman, what are you gonna do about your men?"
+    },
+    {
+     "s": 18,
+     "t": "I'll just let them lay here — King Deshret will take care of his people... Right now, I'm going inside."
+    },
+    {
+     "section": "Isak"
+    },
+    {
+     "s": 5,
+     "t": "Grandpa? Grandpa? Oh no, he's getting confused again..."
+    },
+    {
+     "s": 15,
+     "t": "Hey, look around you."
+    },
+    {
+     "s": 10,
+     "t": "Did there use to be a... temple here?"
+    },
+    {
+     "s": 15,
+     "t": "It seems that when the sand dune collapsed, it exposed these underground structures."
+    },
+    {
+     "s": 15,
+     "t": "The symbols on the gate belong to King Deshret's civilization. This structure must be ancient... Over time, the sandstorms completely buried it, and left it in the state we see now."
+    },
+    {
+     "s": 15,
+     "t": "...It could have been an underground palace in the distant past."
+    },
+    {
+     "s": 18,
+     "t": "Ohhh... A miracle! Praise King Deshret!"
+    },
+    {
+     "s": 0,
+     "t": "What's he doing here!? And his men, too?"
+    },
+    {
+     "s": 10,
+     "t": "They must have fallen down here with us. Pretty lucky if you ask me."
+    },
+    {
+     "s": 19,
+     "t": "Ugh... Oh..."
+    },
+    {
+     "s": 10,
+     "t": "Most of them seem in really bad shape, except for him. He got off lightly."
+    },
+    {
+     "s": 18,
+     "t": "...Hmph."
+    },
+    {
+     "s": 3,
+     "t": "Mind your head."
+    },
+    {
+     "s": 18,
+     "t": "No no, this isn't the time for conflict... Our exalted lord has shown us the way to his sacred palace."
+    },
+    {
+     "s": 0,
+     "t": "He's not actually gonna go in there, is he..."
+    },
+    {
+     "s": 15,
+     "t": "As it happens, I want to take a look inside, too."
+    },
+    {
+     "s": 0,
+     "t": "What are you doing!?"
+    },
+    {
+     "s": 15,
+     "t": "Don't you think it's curious? One minute, Lesser Lord Kusanali's power protects us from harm, and the next... remnants of King Deshret's civilization appear."
+    },
+    {
+     "s": 15,
+     "t": "Two major deities are vying to showcase their power to us. It would be a shame not to witness them both."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thought you weren't interested in gods!"
+    },
+    {
+     "s": 15,
+     "t": "Indeed. In my view, gods are just a higher form of living being... or \"creature,\" you could say."
+    },
+    {
+     "s": 15,
+     "t": "New discoveries are always worth investigating. Whether they have anything to do with gods is neither here nor there."
+    },
+    {
+     "s": 10,
+     "t": "Rahman, what are you gonna do about your men?"
+    },
+    {
+     "s": 18,
+     "t": "I'll just let them lay here — King Deshret will take care of his people... Right now, I'm going inside."
+    },
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 3,
+     "t": "It's full of life here."
+    },
+    {
+     "s": 3,
+     "t": "This defies comprehension... It looked completely desolate from the outside, yet it flows with energy inside."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, and there's so many plants. It's so pretty."
+    },
+    {
+     "s": 15,
+     "t": "Sir Rahman."
+    },
+    {
+     "s": 18,
+     "t": "...Huh? Me?"
+    },
+    {
+     "s": 15,
+     "t": "Do you see another Rahman here?"
+    },
+    {
+     "s": 18,
+     "t": "Are you mocking me? What do you mean, \"Sir\"?"
+    },
+    {
+     "s": 15,
+     "t": "Interpret it however you want, but there's something I'd like to draw your attention to. While this structure is clearly left over from King Deshret's civilization, the energy that flows in here is that of the Dendro Archon."
+    },
+    {
+     "s": 18,
+     "t": "..."
+    },
+    {
+     "s": 18,
+     "t": "Whatever you say. It's not like I have a Vision."
+    },
+    {
+     "s": 15,
+     "t": "There's nothing to be angry about. Think of this as an academic journey."
+    },
+    {
+     "s": 10,
+     "t": "It does seem kinda strange. If that's true, then... we might have to explore this whole area to find an explanation."
+    },
+    {
+     "section": "Ceremonial Guide"
+    },
+    {
+     "s": 20,
+     "t": "Look up at the hall as a mortal and listen to King Deshret's holy guidance."
+    },
+    {
+     "section": "Mysterious Message"
+    },
+    {
+     "s": 21,
+     "t": "After six days infiltrating the temple, I finally understand the priests' parlor tricks."
+    },
+    {
+     "s": 21,
+     "t": "<color=#00E1FFFF>The elevator will descend to the ground. Get on top of it before it starts ascending again to reach the dome.</color>"
+    },
+    {
+     "s": 21,
+     "t": "Nonsense like \"Forbidden ground ahead, mortals shall not pass\" or whatever are just made up by the priests to hoodwink us."
+    },
+    {
+     "s": 21,
+     "t": "I leave this method here in hopes that the people of King Deshret who shall travel here in the future shall freely enjoy the privilege of witnessing his sacred presence."
+    },
+    {
+     "section": "Alhaitham"
+    },
+    {
+     "s": 3,
+     "t": "Wait."
+    },
+    {
+     "s": 3,
+     "t": "What's that?"
+    },
+    {
+     "s": 0,
+     "t": "A load of flowers... And it looks like there's something among them..."
+    },
+    {
+     "sit": "It looks like a tomb."
+    },
+    {
+     "s": 18,
+     "t": "These are King Deshret runes..."
+    },
+    {
+     "s": 15,
+     "t": "They left something behind... Yes, it's an elegy written in an ancient script."
+    },
+    {
+     "s": 10,
+     "t": "What does it say?"
+    },
+    {
+     "s": 15,
+     "t": "\"Here lies our faithful priest, Kasala.\""
+    },
+    {
+     "s": 15,
+     "t": "\"His wisdom is a miracle among the people, deserving of high praise and admiration.\""
+    },
+    {
+     "s": 18,
+     "t": "You can read ancient King Deshret script?"
+    },
+    {
+     "s": 15,
+     "t": "Of course. Every student needs to master at least 20 languages before they graduate."
+    },
+    {
+     "s": 0,
+     "t": "He's not serious, right?"
+    },
+    {
+     "s": 3,
+     "t": "There's still something off about this place... The elemental energy here is too concentrated."
+    },
+    {
+     "s": 3,
+     "t": "The scent of life... Is it trying to tell us something?"
+    },
+    {
+     "s": 15,
+     "t": "Hm..."
+    },
+    {
+     "s": 15,
+     "t": "Is this it?"
+    },
+    {
+     "s": 22,
+     "t": "Analyzing..."
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "s": 15,
+     "t": "There seems to be a hidden message among these skeletal remains."
+    },
+    {
+     "s": 15,
+     "t": "Excellent. There's a device from King Deshret's civilization in this gravesite. I'll transmit the information over and project it for everyone to see."
+    },
+    {
+     "s": 18,
+     "t": "Isn't sharing knowledge against the Akademiya's rules?"
+    },
+    {
+     "s": 15,
+     "t": "Yes. However, under the circumstances, I'd prefer you to see this for yourself."
+    },
+    {
+     "s": 15,
+     "t": "You'll understand after watching it."
+    },
+    {
+     "s": 10,
+     "t": "What was that...?"
+    },
+    {
+     "s": 15,
+     "t": "The priest's memories."
+    },
+    {
+     "s": 18,
+     "t": "No... no! Impossible!"
+    },
+    {
+     "s": 3,
+     "t": "Greater Lord Rukkhadevata... So the former Dendro Archon and King Deshret were never enemies at all..."
+    },
+    {
+     "s": 18,
+     "t": "But... this doesn't make any sense! The Dendro Archon's followers... they're clearly..."
+    },
+    {
+     "s": 0,
+     "t": "Was that the former Dendro Archon? She became so tiny in the end..."
+    },
+    {
+     "sit": "(...)"
+    },
+    {
+     "sit": "(Greater Lord Rukkhadevata came to the rescue of King Deshret and his people, but eradicating the forbidden knowledge took so much of her power...)"
+    },
+    {
+     "sit": "(The two deities' followers have resented each other all this time, completely unaware that their gods stuck by each other through life and death.)"
+    },
+    {
+     "s": 15,
+     "t": "You might be distrustful of the Akasha, but there's no reason for you to doubt King Deshret's technology."
+    },
+    {
+     "s": 15,
+     "t": "You've just witnessed his priest's last words."
+    },
+    {
+     "s": 18,
+     "t": "I've... never heard about any of this before..."
+    },
+    {
+     "s": 18,
+     "t": "The surviving followers of King Deshret all gathered in Aaru Village. Our god did not make mistakes... We refused to believe any of the rumors."
+    },
+    {
+     "s": 18,
+     "t": "King Deshret's death, the all-but-total annihilation of our civilization... It was all Greater Lord Rukkhadevata's doing!"
+    },
+    {
+     "s": 18,
+     "t": "We saw her as nothing more than a traitor, who stabbed us in the back in our moment of crisis... Just like us humans, fighting, feuding, double-crossing each other to survive in the desert."
+    },
+    {
+     "s": 3,
+     "t": "You were blinded by your prejudice."
+    },
+    {
+     "s": 18,
+     "t": "Hah... haha... If I hadn't seen this for myself... If I hadn't witnessed his last words with my own eyes, ears, and heart..."
+    },
+    {
+     "s": 18,
+     "t": "How could I ever begin to accept this? The truth is so far from what I've always known. Am I really supposed to believe that after all these years... All this time seeking revenge... Suddenly now my enemy is my savior!?"
+    },
+    {
+     "s": 10,
+     "t": "Rahman... That's enough."
+    },
+    {
+     "s": 10,
+     "t": "Give it a rest. You're starting to make a fool of yourself."
+    },
+    {
+     "s": 18,
+     "t": "...Dehya, tell me..."
+    },
+    {
+     "s": 18,
+     "t": "My Eremites and I... What are we even fighting for?"
+    },
+    {
+     "sit": "Rahman takes some time to collect his thoughts, while the rest of the party continues to explore the temple."
+    },
+    {
+     "sit": "Rahman's reaction is nothing strange. To any believer, the truth he had just witnessed would have been difficult to accept."
+    },
+    {
+     "s": 10,
+     "t": "Hey, how're you doing?"
+    },
+    {
+     "s": 18,
+     "t": "...I'll live, heh. Thanks."
+    },
+    {
+     "s": 18,
+     "t": "I should probably go. I can't just stay here forever."
+    },
+    {
+     "s": 10,
+     "t": "What's your next move gonna be?"
+    },
+    {
+     "s": 18,
+     "t": "I know what you're going to ask... I feel deeply ashamed of everything I've done. You'll get everything you're asking for."
+    },
+    {
+     "s": 18,
+     "t": "But please, give me some time. After everything that's happened here today... Somehow, I need to explain it to the others."
+    },
+    {
+     "s": 10,
+     "t": "It's not gonna be easy."
+    },
+    {
+     "s": 18,
+     "t": "Well, I guess that's for me to deal with. Dehya, this is where our camp's located. Make a note of it."
+    },
+    {
+     "s": 10,
+     "t": "When would be a good time for us to go?"
+    },
+    {
+     "s": 18,
+     "t": "Tomorrow. I'll convince everyone that we're all on the same side."
+    },
+    {
+     "s": 18,
+     "t": "And I'll return every last one of your mad— Sorry, your Village Keepers. We'll share our other resources with you, too."
+    },
+    {
+     "s": 3,
+     "t": "You seem to finally understand that our true enemy is the sages."
+    },
+    {
+     "s": 18,
+     "t": "Yes. The gods never gave up on anyone. It's the people responsible for all this that need to face the consequences of their actions."
+    },
+    {
+     "s": 0,
+     "t": "That must've been rough, but he seems to have figured things out now."
+    },
+    {
+     "s": 10,
+     "t": "*sigh* Rahman's no fool. Being the leader of your own faction in the desert is no easy feat."
+    },
+    {
+     "s": 10,
+     "t": "It's too bad he was held back by his belief in King Deshret, but now that that's changed, I guess we have a few more people on our side."
+    },
+    {
+     "sit": "This is a turn for the better."
+    },
+    {
+     "s": 15,
+     "t": "The outcome, at least, is favorable."
+    },
+    {
+     "s": 0,
+     "t": "We should get going too. Let's head back, have a proper meal, and a nice, long sleep! We'll need all our energy tomorrow."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Cynooooo! We're leaving!"
+    },
+    {
+     "s": 3,
+     "t": "...Stop yelling."
+    },
+    {
+     "section": "Rahman"
+    },
+    {
+     "s": 10,
+     "t": "Rahman, we're here."
+    },
+    {
+     "s": 18,
+     "t": "Everything's been arranged. Someone will bring the Village Keepers back to Aaru Village shortly."
+    },
+    {
+     "s": 10,
+     "t": "I guess all I can say now is... thanks for agreeing to help."
+    },
+    {
+     "s": 18,
+     "t": "Don't mention it. I think we can both agree you went to hell and back for it."
+    },
+    {
+     "s": 18,
+     "t": "But we share a common cause now. From here on out, we're allies."
+    },
+    {
+     "s": 3,
+     "t": "Where are the perpetrators?"
+    },
+    {
+     "s": 18,
+     "t": "I'll bring you to them. Follow me."
+    },
+    {
+     "s": 15,
+     "t": "So these are the people who kidnapped the Village Keepers."
+    },
+    {
+     "s": 23,
+     "t": "Oh no, it's the scribe!?"
+    },
+    {
+     "s": 15,
+     "t": "There's no need to yell. No one can help you now."
+    },
+    {
+     "s": 0,
+     "t": "We've been all over the desert trying to find you!"
+    },
+    {
+     "s": 3,
+     "t": "That's right."
+    },
+    {
+     "s": 23,
+     "t": "General Mahamatra!? No, no! M—Make it quick, please! Swift and painless..."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, the moment they set eyes on Cyno, they turn pale like they've seen a ghost..."
+    },
+    {
+     "s": 3,
+     "t": "You should've known that I would be coming for you."
+    },
+    {
+     "s": 23,
+     "t": "W—Wait! We were just following orders! You know what I'm talking about, right? Th—There's no way we could've done all this by ourselves!"
+    },
+    {
+     "s": 24,
+     "t": "No, not Cyno... He's gonna tear us limb from limb!"
+    },
+    {
+     "s": 3,
+     "t": "I could do worse."
+    },
+    {
+     "s": 23,
+     "t": "P—Please have mercy!"
+    },
+    {
+     "s": 3,
+     "t": "Start talking. Otherwise, I'll have to resort to... other methods."
+    },
+    {
+     "s": 15,
+     "t": "So... Your superiors have kept you quite busy recently. Why? What are they trying to accomplish?"
+    },
+    {
+     "s": 24,
+     "t": "Um... they, um, wanted to extract Canned Knowledge..."
+    },
+    {
+     "s": 15,
+     "t": "Don't play dumb. You know what I'm really asking."
+    },
+    {
+     "s": 15,
+     "t": "They extract Divine Canned Knowledge... then what?"
+    },
+    {
+     "s": 23,
+     "t": "I... I, uh, really don't know how to explain it..."
+    },
+    {
+     "s": 0,
+     "t": "Well, you better start talking, or you'll be sorry!"
+    },
+    {
+     "s": 10,
+     "t": "You don't wanna make things any more difficult for yourself, do ya?"
+    },
+    {
+     "sit": "May I ask them a question?"
+    },
+    {
+     "s": 3,
+     "t": "Be my guest."
+    },
+    {
+     "sit": "The sages are trying to create a new god, aren't they?"
+    },
+    {
+     "s": 3,
+     "t": "!"
+    },
+    {
+     "s": 15,
+     "t": "Huh?"
+    },
+    {
+     "s": 10,
+     "t": "Huh? That sure didn't sound like a fancy metaphor or anything... You're serious, aren't you?"
+    },
+    {
+     "s": 23,
+     "t": "How did you know?"
+    },
+    {
+     "s": 24,
+     "t": "There's no use hiding it now... Yes, you're right."
+    },
+    {
+     "s": 24,
+     "t": "The Akademiya is working on an important and potentially world-changing project. They are creating a new god... a god that will belong to them, and to the people of Sumeru."
+    },
+    {
+     "s": 24,
+     "t": "It may seem as if Sumeru's academics are thriving, but ever since the death of Greater Lord Rukkhadevata, scholarly breakthroughs have been few and far between."
+    },
+    {
+     "s": 24,
+     "t": "The withering of Irminsul has been getting worse recently. The sages have tried everything they could think of, but nothing's worked. I'm always hearing them say things like, \"If only Greater Lord Rukkhadevata was still with us...\""
+    },
+    {
+     "s": 3,
+     "t": "...Continue."
+    },
+    {
+     "s": 24,
+     "t": "And then, someone from the Fatui showed up. They called him \"The Doctor\"... He brought a... a \"Gnosis,\" and said he wanted to borrow the Akademiya's research facilities."
+    },
+    {
+     "s": 24,
+     "t": "The Doctor was previously expelled from the Akademiya. At first, the sages looked down at him in disdain... But when he said those words, everyone's expression changed."
+    },
+    {
+     "s": 24,
+     "t": "He asked them: \"Do you wish to create a god?\""
+    },
+    {
+     "s": 15,
+     "t": "...This is what the arrogant ignorance at the extreme end of academia looks like."
+    },
+    {
+     "s": 24,
+     "t": "First, the Akademiya spent a long time constructing a \"divine vessel,\" which was based on an exquisite humanoid puppet."
+    },
+    {
+     "s": 24,
+     "t": "After that, they harvested dreams via the Sabzeruz Festival samsara, maximizing the Akasha's output..."
+    },
+    {
+     "s": 24,
+     "t": "With The Doctor's help, and the Akasha now functioning at maximum efficiency, they were able to use it to extract the power from the Gnosis and convert it into a \"divine core.\""
+    },
+    {
+     "s": 24,
+     "t": "Next, they decided that their new god needed to possess \"divine wisdom.\" For that to happen... they needed a huge quantity of Divine Canned Knowledge."
+    },
+    {
+     "s": 10,
+     "t": "...It adds up."
+    },
+    {
+     "s": 15,
+     "t": "But how do you determine whether the knowledge extracted is of divine origin?"
+    },
+    {
+     "s": 23,
+     "t": "Call it an educated guess... The Akademiya has been trying to figure out the exact source of the scholars' madness for centuries, but to no avail..."
+    },
+    {
+     "s": 23,
+     "t": "Nobody can explain the cause of this phenomenon. Surely you can see what that implies, Scribe Alhaitham?"
+    },
+    {
+     "s": 23,
+     "t": "If it's knowledge no mortal can comprehend, then it must be something only gods are able to decipher. In other words... it's the source of the God of Wisdom's omniscience and omnipotence."
+    },
+    {
+     "s": 15,
+     "t": "..."
+    },
+    {
+     "sit": "But the sages' end product won't be Greater Lord Rukkhadevata..."
+    },
+    {
+     "sit": "It will be The Balladeer."
+    },
+    {
+     "s": 15,
+     "t": "You must have noticed by now — the Akademiya doesn't care about who their god is. It's the ability to exercise control over knowledge and wisdom that matters."
+    },
+    {
+     "s": 15,
+     "t": "It is as if they are cursed with a desire for omniscience and omnipotence that burns in their blood."
+    },
+    {
+     "s": 15,
+     "t": "Some organisms demonstrate phototaxis, and thus orient their entire lives in respect to sources of light. For the sages, their only source of hope is the existence of a deity who embodies the acme of wisdom."
+    },
+    {
+     "s": 15,
+     "t": "This is but a form of phototaxis. For many scholars, the absence of a God of Wisdom means stumbling in the darkness for the duration of their lives."
+    },
+    {
+     "s": 3,
+     "t": "Then what does Lesser Lord Kusanali mean to you?"
+    },
+    {
+     "s": 3,
+     "t": "Is she not a true god present in this world? If you already have a new god, why try to create another one?"
+    },
+    {
+     "s": 23,
+     "t": "...From the beginning, the Akademiya has never treated her as a god."
+    },
+    {
+     "s": 23,
+     "t": "When the Akademiya first discovered Lesser Lord Kusanali, the newborn God of Wisdom, the sages hoped that she would be as wise as Greater Lord Rukkhadevata. But upon evaluation..."
+    },
+    {
+     "s": 23,
+     "t": "They found that, at that time, she possessed no more intelligence than any ordinary human child. The sages never had a ruder awakening... This forced them to accept that Greater Lord Rukkhadevata had indeed passed away."
+    },
+    {
+     "s": 23,
+     "t": "Not to mention that Lesser Lord Kusanali's Gnosis has been used to power the Akasha this entire time. By herself, she has neither an archon's raw power, nor the spectacular insight expected of a God of Wisdom..."
+    },
+    {
+     "s": 23,
+     "t": "Slowly but surely, people began to forget about her existence."
+    },
+    {
+     "s": 3,
+     "t": "So... this is the path the sages have chosen?"
+    },
+    {
+     "sit": "(Even now, they still refuse to acknowledge Lesser Lord Kusanali...)"
+    },
+    {
+     "sit": "(...I never imagined a god could be subjected to such cruelty.)"
+    },
+    {
+     "s": 10,
+     "t": "Alright, let's try to keep our cool. If everyone's in a bad mood, then let's change up our scenery."
+    },
+    {
+     "s": 10,
+     "t": "Rahman, give me a few men to help us escort the Village Keepers back to the village. And these two scholars — they're coming too."
+    },
+    {
+     "s": 18,
+     "t": "Sure, as you wish."
+    },
+    {
+     "section": "Candace"
+    },
+    {
+     "s": 9,
+     "t": "The Village Keepers you found have all been returned to their homes, and each one has a dedicated caregiver to look after them. The two new scholars are being kept under close supervision, too. Really great work, everyone."
+    },
+    {
+     "s": 0,
+     "t": "Uh... the atmosphere's so heavy..."
+    },
+    {
+     "sit": "(It's hard to not feel weighed down by what we just learned.)"
+    },
+    {
+     "sit": "(Despite everything Lesser Lord Kusanali has done for her people, the Akademiya has abandoned her in the Sanctuary of Surasthana like a lost cause...)"
+    },
+    {
+     "sit": "(Even those she's protected have never realized there's such a small and childlike god in the world.)"
+    },
+    {
+     "s": 0,
+     "t": "Hey, say something! Stop spacing out!"
+    },
+    {
+     "s": 10,
+     "t": "C'mon, is there... nothing left to talk about? In that case, let's all get some water and try to think about something else."
+    },
+    {
+     "s": 9,
+     "t": "Or, I can go fetch some snacks..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon's so coming with you!"
+    },
+    {
+     "s": 3,
+     "t": "Do you have any plans, Traveler?"
+    },
+    {
+     "s": 10,
+     "t": "Gods above, you're not talking about work, are you..."
+    },
+    {
+     "sit": "I want to share everything I know with all of you."
+    },
+    {
+     "s": 15,
+     "t": "Hm, so you were still witholding some information?"
+    },
+    {
+     "sit": "Yes, I'm sorry. I had my reasons..."
+    },
+    {
+     "sit": "But now I know we're all in this together."
+    },
+    {
+     "sit": "In between the conversations, Candace and Paimon bring over snacks and tea."
+    },
+    {
+     "sit": "Dehya's expression is relaxed, as if her mood hasn't been affected by the heavy conversation at all."
+    },
+    {
+     "sit": "Cyno has a firm and solemn expression on his face. It looks like he's made up his mind about something.<br/>The core of his beliefs, his motivation to pursue the right course of action... everything is now clear to him."
+    },
+    {
+     "sit": "The core of his beliefs, his motivation to pursue the right course of action... everything is now clear to him."
+    },
+    {
+     "sit": "Alhaitham also turns towards the crowd. He wants to listen, too."
+    },
+    {
+     "sit": "...After that, the whole story comes out.<br/>All the experiences, feelings, and secrets are shared freely with everyone.<br/>To share everything means to consider everyone as allies. From today on, everyone will fight for the same goal."
+    },
+    {
+     "sit": "All the experiences, feelings, and secrets are shared freely with everyone."
+    },
+    {
+     "sit": "To share everything means to consider everyone as allies. From today on, everyone will fight for the same goal."
+    },
+    {
+     "s": 0,
+     "t": "Even though we lived through all of this firsthand, it still feels super surreal to hear you talk about it again."
+    },
+    {
+     "sit": "...That's everything we've experienced so far in Sumeru."
+    },
+    {
+     "s": 10,
+     "t": "What a whirlwind of a story! I felt like I was holding my breath the whole time."
+    },
+    {
+     "s": 15,
+     "t": "...It seems like there will be more issues to face in the days ahead than I had anticipated."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 10,
+     "t": "Still, now's a good time to make our next move. Now that Rahman's joined us, we'll be an even stronger team."
+    },
+    {
+     "s": 3,
+     "t": "It's time to make a plan."
+    },
+    {
+     "s": 15,
+     "t": "Indeed. These events are a flagrant transgression of the rules in every sense. We cannot allow it to continue."
+    },
+    {
+     "s": 9,
+     "t": "So, everyone, are we on the same page?"
+    },
+    {
+     "s": 3,
+     "t": "Crush the sages, and rescue our god... that is our ultimate goal."
+    },
+    {
+     "sit": "No matter what lies ahead..."
+    },
+    {
+     "sit": "I will do my utmost."
+    },
+    {
+     "s": 15,
+     "t": "Well, let's brainstorm a little more about what other resources we can draw on."
+    },
+    {
+     "s": 10,
+     "t": "The next time we gather here, we must have a solid plan."
+    },
+    {
+     "s": 0,
+     "t": "Yep! It'll work out for sure!"
+    }
+   ],
+   "description": "As agreed, you go to the place designated by Rahman to exchange hostages…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Kazan",
+  "（test）须弥主线-激进派阿如村村民$UNRELEASED",
+  "Cyno",
+  "Shani",
+  "Isak",
+  "Jabari",
+  "Sharkan",
+  "Makan",
+  "Candace",
+  "Dehya",
+  "Zaki",
+  "Delavar",
+  "Engur",
+  "Uncle Anpu",
+  "Alhaitham",
+  "Razak",
+  "Mizri",
+  "Rahman",
+  "Eremite Mercenary",
+  "Ceremonial Guide",
+  "Mysterious Message",
+  "System Sound",
+  "Morghi",
+  "Judar"
+ ],
+ "hhw_source": "https://gensh.honeyhunterworld.com/ch_1304/?lang=EN"
+}

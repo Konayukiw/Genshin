@@ -1,0 +1,704 @@
+{
+  "name": "Otherworldly Story",
+  "rarity": 3,
+  "type": "Catalyst",
+  "base_atk": 39,
+  "passive": {
+    "name": "Energy Shower",
+    "refinements": {
+      "R1": "Picking up an Elemental Energy Orb/Particle recovers 1% HP.",
+      "R2": "Each Elemental Orb or Particle collected restores 1.25% HP.",
+      "R3": "Each Elemental Orb or Particle collected restores 1.5% HP.",
+      "R4": "Each Elemental Orb or Particle collected restores 1.75% HP.",
+      "R5": "Each Elemental Orb or Particle collected restores 2% HP."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 39,
+      "substat": "Energy Recharge%",
+      "substat_value": 8.5
+    },
+    {
+      "level": 2,
+      "base_atk": 42,
+      "substat": "Energy Recharge%",
+      "substat_value": 8.5
+    },
+    {
+      "level": 3,
+      "base_atk": 45,
+      "substat": "Energy Recharge%",
+      "substat_value": 8.5
+    },
+    {
+      "level": 4,
+      "base_atk": 48,
+      "substat": "Energy Recharge%",
+      "substat_value": 8.5
+    },
+    {
+      "level": 5,
+      "base_atk": 50,
+      "substat": "Energy Recharge%",
+      "substat_value": 9.9
+    },
+    {
+      "level": 6,
+      "base_atk": 53,
+      "substat": "Energy Recharge%",
+      "substat_value": 9.9
+    },
+    {
+      "level": 7,
+      "base_atk": 56,
+      "substat": "Energy Recharge%",
+      "substat_value": 9.9
+    },
+    {
+      "level": 8,
+      "base_atk": 59,
+      "substat": "Energy Recharge%",
+      "substat_value": 9.9
+    },
+    {
+      "level": 9,
+      "base_atk": 62,
+      "substat": "Energy Recharge%",
+      "substat_value": 9.9
+    },
+    {
+      "level": 10,
+      "base_atk": 65,
+      "substat": "Energy Recharge%",
+      "substat_value": 11.6
+    },
+    {
+      "level": 11,
+      "base_atk": 68,
+      "substat": "Energy Recharge%",
+      "substat_value": 11.6
+    },
+    {
+      "level": 12,
+      "base_atk": 71,
+      "substat": "Energy Recharge%",
+      "substat_value": 11.6
+    },
+    {
+      "level": 13,
+      "base_atk": 74,
+      "substat": "Energy Recharge%",
+      "substat_value": 11.6
+    },
+    {
+      "level": 14,
+      "base_atk": 77,
+      "substat": "Energy Recharge%",
+      "substat_value": 11.6
+    },
+    {
+      "level": 15,
+      "base_atk": 79,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 16,
+      "base_atk": 82,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 17,
+      "base_atk": 85,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 18,
+      "base_atk": 88,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 19,
+      "base_atk": 91,
+      "substat": "Energy Recharge%",
+      "substat_value": 13.3
+    },
+    {
+      "level": 20,
+      "base_atk": 94,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 21,
+      "base_atk": 116,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 22,
+      "base_atk": 119,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 23,
+      "base_atk": 122,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 24,
+      "base_atk": 125,
+      "substat": "Energy Recharge%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 25,
+      "base_atk": 127,
+      "substat": "Energy Recharge%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 26,
+      "base_atk": 130,
+      "substat": "Energy Recharge%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 27,
+      "base_atk": 133,
+      "substat": "Energy Recharge%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 28,
+      "base_atk": 136,
+      "substat": "Energy Recharge%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 29,
+      "base_atk": 139,
+      "substat": "Energy Recharge%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 30,
+      "base_atk": 141,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 31,
+      "base_atk": 144,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 32,
+      "base_atk": 147,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 33,
+      "base_atk": 150,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 34,
+      "base_atk": 153,
+      "substat": "Energy Recharge%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 35,
+      "base_atk": 155,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.2
+    },
+    {
+      "level": 36,
+      "base_atk": 158,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.2
+    },
+    {
+      "level": 37,
+      "base_atk": 161,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.2
+    },
+    {
+      "level": 38,
+      "base_atk": 164,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.2
+    },
+    {
+      "level": 39,
+      "base_atk": 166,
+      "substat": "Energy Recharge%",
+      "substat_value": 20.2
+    },
+    {
+      "level": 40,
+      "base_atk": 169,
+      "substat": "Energy Recharge%",
+      "substat_value": 21.9
+    },
+    {
+      "level": 41,
+      "base_atk": 191,
+      "substat": "Energy Recharge%",
+      "substat_value": 21.9
+    },
+    {
+      "level": 42,
+      "base_atk": 194,
+      "substat": "Energy Recharge%",
+      "substat_value": 21.9
+    },
+    {
+      "level": 43,
+      "base_atk": 197,
+      "substat": "Energy Recharge%",
+      "substat_value": 21.9
+    },
+    {
+      "level": 44,
+      "base_atk": 200,
+      "substat": "Energy Recharge%",
+      "substat_value": 21.9
+    },
+    {
+      "level": 45,
+      "base_atk": 202,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 46,
+      "base_atk": 205,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 47,
+      "base_atk": 208,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 48,
+      "base_atk": 211,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 49,
+      "base_atk": 213,
+      "substat": "Energy Recharge%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 50,
+      "base_atk": 216,
+      "substat": "Energy Recharge%",
+      "substat_value": 25.3
+    },
+    {
+      "level": 51,
+      "base_atk": 238,
+      "substat": "Energy Recharge%",
+      "substat_value": 25.3
+    },
+    {
+      "level": 52,
+      "base_atk": 241,
+      "substat": "Energy Recharge%",
+      "substat_value": 25.3
+    },
+    {
+      "level": 53,
+      "base_atk": 244,
+      "substat": "Energy Recharge%",
+      "substat_value": 25.3
+    },
+    {
+      "level": 54,
+      "base_atk": 246,
+      "substat": "Energy Recharge%",
+      "substat_value": 25.3
+    },
+    {
+      "level": 55,
+      "base_atk": 249,
+      "substat": "Energy Recharge%",
+      "substat_value": 27.0
+    },
+    {
+      "level": 56,
+      "base_atk": 252,
+      "substat": "Energy Recharge%",
+      "substat_value": 27.0
+    },
+    {
+      "level": 57,
+      "base_atk": 255,
+      "substat": "Energy Recharge%",
+      "substat_value": 27.0
+    },
+    {
+      "level": 58,
+      "base_atk": 257,
+      "substat": "Energy Recharge%",
+      "substat_value": 27.0
+    },
+    {
+      "level": 59,
+      "base_atk": 260,
+      "substat": "Energy Recharge%",
+      "substat_value": 27.0
+    },
+    {
+      "level": 60,
+      "base_atk": 263,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.8
+    },
+    {
+      "level": 61,
+      "base_atk": 285,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.8
+    },
+    {
+      "level": 62,
+      "base_atk": 288,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.8
+    },
+    {
+      "level": 63,
+      "base_atk": 290,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.8
+    },
+    {
+      "level": 64,
+      "base_atk": 293,
+      "substat": "Energy Recharge%",
+      "substat_value": 28.8
+    },
+    {
+      "level": 65,
+      "base_atk": 296,
+      "substat": "Energy Recharge%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 66,
+      "base_atk": 298,
+      "substat": "Energy Recharge%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 67,
+      "base_atk": 301,
+      "substat": "Energy Recharge%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 68,
+      "base_atk": 304,
+      "substat": "Energy Recharge%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 69,
+      "base_atk": 306,
+      "substat": "Energy Recharge%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 70,
+      "base_atk": 309,
+      "substat": "Energy Recharge%",
+      "substat_value": 32.2
+    },
+    {
+      "level": 71,
+      "base_atk": 331,
+      "substat": "Energy Recharge%",
+      "substat_value": 32.2
+    },
+    {
+      "level": 72,
+      "base_atk": 334,
+      "substat": "Energy Recharge%",
+      "substat_value": 32.2
+    },
+    {
+      "level": 73,
+      "base_atk": 337,
+      "substat": "Energy Recharge%",
+      "substat_value": 32.2
+    },
+    {
+      "level": 74,
+      "base_atk": 339,
+      "substat": "Energy Recharge%",
+      "substat_value": 32.2
+    },
+    {
+      "level": 75,
+      "base_atk": 342,
+      "substat": "Energy Recharge%",
+      "substat_value": 33.9
+    },
+    {
+      "level": 76,
+      "base_atk": 345,
+      "substat": "Energy Recharge%",
+      "substat_value": 33.9
+    },
+    {
+      "level": 77,
+      "base_atk": 347,
+      "substat": "Energy Recharge%",
+      "substat_value": 33.9
+    },
+    {
+      "level": 78,
+      "base_atk": 350,
+      "substat": "Energy Recharge%",
+      "substat_value": 33.9
+    },
+    {
+      "level": 79,
+      "base_atk": 353,
+      "substat": "Energy Recharge%",
+      "substat_value": 33.9
+    },
+    {
+      "level": 80,
+      "base_atk": 355,
+      "substat": "Energy Recharge%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 81,
+      "base_atk": 377,
+      "substat": "Energy Recharge%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 82,
+      "base_atk": 380,
+      "substat": "Energy Recharge%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 83,
+      "base_atk": 383,
+      "substat": "Energy Recharge%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 84,
+      "base_atk": 385,
+      "substat": "Energy Recharge%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 85,
+      "base_atk": 388,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.3
+    },
+    {
+      "level": 86,
+      "base_atk": 391,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.3
+    },
+    {
+      "level": 87,
+      "base_atk": 393,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.3
+    },
+    {
+      "level": 88,
+      "base_atk": 396,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.3
+    },
+    {
+      "level": 89,
+      "base_atk": 399,
+      "substat": "Energy Recharge%",
+      "substat_value": 37.3
+    },
+    {
+      "level": 90,
+      "base_atk": 401,
+      "substat": "Energy Recharge%",
+      "substat_value": 39.0
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "Fetters of the Dandelion Gladiator",
+          "id": 114009,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "Chaos Device",
+          "id": 112023,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "Damaged Mask",
+          "id": 112005,
+          "count": 1,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "Chains of the Dandelion Gladiator",
+          "id": 114010,
+          "count": 2,
+          "rank": 3
+        },
+        {
+          "name": "Chaos Device",
+          "id": 112023,
+          "count": 8,
+          "rank": 2
+        },
+        {
+          "name": "Damaged Mask",
+          "id": 112005,
+          "count": 5,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "Chains of the Dandelion Gladiator",
+          "id": 114010,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "Chaos Circuit",
+          "id": 112024,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "Stained Mask",
+          "id": 112006,
+          "count": 4,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "Shackles of the Dandelion Gladiator",
+          "id": 114011,
+          "count": 2,
+          "rank": 4
+        },
+        {
+          "name": "Chaos Circuit",
+          "id": 112024,
+          "count": 8,
+          "rank": 3
+        },
+        {
+          "name": "Stained Mask",
+          "id": 112006,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 25000,
+      "items": [
+        {
+          "name": "Shackles of the Dandelion Gladiator",
+          "id": 114011,
+          "count": 4,
+          "rank": 4
+        },
+        {
+          "name": "Chaos Core",
+          "id": 112025,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "id": 112007,
+          "count": 4,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "Dream of the Dandelion Gladiator",
+          "id": 114012,
+          "count": 3,
+          "rank": 5
+        },
+        {
+          "name": "Chaos Core",
+          "id": 112025,
+          "count": 12,
+          "rank": 4
+        },
+        {
+          "name": "Ominous Mask",
+          "id": 112007,
+          "count": 8,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

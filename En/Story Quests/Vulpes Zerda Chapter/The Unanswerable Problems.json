@@ -1,0 +1,2933 @@
+{
+ "chapter": "Vulpes Zerda Chapter",
+ "chapter_title": "The Unanswerable Problems",
+ "act": "Act 1",
+ "act_title": "The Unanswerable Problems",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Start of Contamination",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Traveler, you've come at a good time."
+    },
+    {
+     "s": 1,
+     "t": "Wait, this sounds like... another commission?"
+    },
+    {
+     "s": 0,
+     "t": "Hehe, it is as you say. The commission this time around is of high importance. It pertains to the safety of the Avidya Forest's inhabitants."
+    },
+    {
+     "s": 1,
+     "t": "Huh? What happened?"
+    },
+    {
+     "s": 0,
+     "t": "Not long ago, we received word that a section of the Avidya Forest seems to have become \"contaminated.\""
+    },
+    {
+     "s": 1,
+     "t": "Contaminated? You mean... a new Withering Zone?"
+    },
+    {
+     "s": 0,
+     "t": "I don't know about the specifics, but I hear that strange things are happening to people who cross through that region."
+    },
+    {
+     "s": 0,
+     "t": "The Avidya Forest's inhabitants won't leave their home so easily. If we allow this contaminated region to expand, the consequences could be unimaginable."
+    },
+    {
+     "s": 0,
+     "t": "That's why I want to ask you to investigate the situation. Even if all you can do is stop the contamination from spreading, that will still save many people."
+    },
+    {
+     "s": 1,
+     "t": "This is forest business... Hmm, maybe Tighnari will know something. Let's go find him!"
+    },
+    {
+     "section": "Tighnari, Yara"
+    },
+    {
+     "s": 1,
+     "t": "This is where you've been, Tighnari! Hm? That's—"
+    },
+    {
+     "s": 2,
+     "t": "Shh... Keep your voice down."
+    },
+    {
+     "s": 3,
+     "t": "Tighnari... Everything's spinning..."
+    },
+    {
+     "s": 3,
+     "t": "Am I going to die? *sniff* Tell Mom that I should've listened to her..."
+    },
+    {
+     "s": 3,
+     "t": "And tell Suna that I'm sorry for breaking her toy. I didn't tell her because I was scared that she wouldn't play with me anymore..."
+    },
+    {
+     "s": 3,
+     "t": "Tighnari, I heard that people turn into birds after they die. Is that true? I feel like I'm getting lighter..."
+    },
+    {
+     "s": 1,
+     "t": "What happened...? Tighnari, is he..."
+    },
+    {
+     "s": 2,
+     "t": "Okay, okay, enough nonsense."
+    },
+    {
+     "s": 2,
+     "t": "You just have a small fever. Take your medication and rest. You'll be bouncing off the walls in no time."
+    },
+    {
+     "s": 3,
+     "t": "Really? Then... Can you keep the thing about the toy a secret for now?"
+    },
+    {
+     "s": 2,
+     "t": "No can do. You're a big kid now. Once you've recovered, go and apologize. Keeping secrets to yourself won't solve anything."
+    },
+    {
+     "s": 3,
+     "t": "Aw..."
+    },
+    {
+     "s": 2,
+     "t": "Hey, let me ask you something... I recall that you're usually pretty healthy. How did you get this sick all of a sudden?"
+    },
+    {
+     "s": 3,
+     "t": "I don't know, either... Mom's been telling me not to play in the forest. I just wanted to look inside..."
+    },
+    {
+     "s": 3,
+     "t": "It's different from before... I got lost and went around in a huge circle."
+    },
+    {
+     "s": 3,
+     "t": "After I got out, I started feeling dizzy..."
+    },
+    {
+     "s": 1,
+     "t": "Could it be..."
+    },
+    {
+     "s": 4,
+     "t": "The contaminated region?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "So that's how this whole mess happened. Anyway, go rest. No running around until I say so, got it?"
+    },
+    {
+     "s": 2,
+     "t": "{NICKNAME}, Paimon, let's step out for now."
+    },
+    {
+     "sit": "You leave the room with Tighnari..."
+    },
+    {
+     "s": 5,
+     "t": "Mr. Forest Watcher, how is my son?"
+    },
+    {
+     "s": 2,
+     "t": "I gave him some antipyretics. Let him rest here for a while."
+    },
+    {
+     "s": 2,
+     "t": "I told him that he would feel better after some medicine and rest, but I only said that to comfort him."
+    },
+    {
+     "s": 2,
+     "t": "His symptoms resemble a fever, but something else is causing them. They seem more akin to a disruption in his psyche. Antipyretics won't be of much use."
+    },
+    {
+     "s": 5,
+     "t": "What do we do? Mr. Forest Watcher, you have to help him!"
+    },
+    {
+     "s": 2,
+     "t": "If memory serves, a plant called Vasanti Grass can help soothe the mind."
+    },
+    {
+     "s": 2,
+     "t": "A small number grow in arid deserts. They usually look like shriveled weeds, but can be revitalized with a splash of water."
+    },
+    {
+     "s": 2,
+     "t": "They're expensive and unable to grow in the Avidya Forest's climate, so I don't have any on hand."
+    },
+    {
+     "s": 2,
+     "t": "I'll ask the caravans. Go find Collei, have her prepare medicinal tools, and a set of traveling gear for me."
+    },
+    {
+     "s": 5,
+     "t": "Alright! Thank you!"
+    },
+    {
+     "s": 2,
+     "t": "Contaminated region, huh... Is that why you two are also here?"
+    },
+    {
+     "s": 1,
+     "t": "Yep. Is it a new Withering Zone?"
+    },
+    {
+     "s": 2,
+     "t": "Doesn't seem like one. Whether you look at scale, internal conditions, or resultant effects, they're completely different."
+    },
+    {
+     "s": 2,
+     "t": "The only thing they have in common is that they aren't welcome. This nuisance made itself home in the Avidya Forest, so I can't turn a blind eye."
+    },
+    {
+     "s": 1,
+     "t": "We feel the same way!"
+    },
+    {
+     "s": 2,
+     "t": "Alright, let's contact the caravans first and purchase some Vasanti Grass. We can also ask about the contaminated region."
+    },
+    {
+     "s": 2,
+     "t": "There's no time to waste. We have to move quickly. Let's go."
+    },
+    {
+     "section": "Tighnari, Mahir"
+    },
+    {
+     "s": 2,
+     "t": "Excuse me, I'd like to purchase some Vasanti Grass. Do you have any?"
+    },
+    {
+     "s": 6,
+     "t": "I'm sorry, Mr. Forest Watcher, but we've been closed for the past few days."
+    },
+    {
+     "s": 2,
+     "t": "Closed? Now that's odd. It's my first time hearing you say something like that."
+    },
+    {
+     "s": 6,
+     "t": "*sigh* It's a long story... Some of our goods were stolen recently."
+    },
+    {
+     "s": 6,
+     "t": "They were mechanical parts that we got from the Akademiya. Although they're old models, they still fetch a good price on the market."
+    },
+    {
+     "s": 6,
+     "t": "Our caravans had to pool together Mora to afford those parts. Now that they've been lost, we'll likely come up short this trip."
+    },
+    {
+     "s": 6,
+     "t": "All the merchants talked it over, and we decided to raise the prices of our remaining inventory. Until this plan takes effect, none of us can privately sell anything."
+    },
+    {
+     "s": 2,
+     "t": "I don't get it. If these goods are so important, then why not think of a way to get them back?"
+    },
+    {
+     "s": 2,
+     "t": "Raising prices won't solve anything. At best, you're shoving the consequences of the robbery onto your customers."
+    },
+    {
+     "s": 6,
+     "t": "Mr. Forest Watcher, it's not that we don't want to, it's just the thief disappeared into the deepest parts of the forest."
+    },
+    {
+     "s": 6,
+     "t": "We asked around, and apparently the forest has been very unusual as of late. Anyone who goes in experiences mental anomalies."
+    },
+    {
+     "s": 6,
+     "t": "We can't keep waiting out here for the thief to come out. All we could do is come up with another solution."
+    },
+    {
+     "s": 2,
+     "t": "So the bandit hid in the contaminated region after stealing those mechanical parts?"
+    },
+    {
+     "s": 2,
+     "t": "How many people were there in total? Were they not affected by the contaminated region?"
+    },
+    {
+     "s": 6,
+     "t": "That crook CAME from the contaminated region! As for how many... Err... There weren't any \"people.\""
+    },
+    {
+     "s": 1,
+     "t": "No people?"
+    },
+    {
+     "s": 6,
+     "t": "*sigh* Even if I tell you, you might not believe me. *sigh* Fine, the thief that stole our parts was a huge, mechanical crab!"
+    },
+    {
+     "s": 1,
+     "t": "What the heck!? The Avidya Forest has creatures like that?"
+    },
+    {
+     "sit": "Is it that \"crab\"?"
+    },
+    {
+     "sit": "Didn't see any in the Avidya Forest Field Guide..."
+    },
+    {
+     "s": 6,
+     "t": "To be honest, I'd rather not think about it... It moved too skillfully to be new at this."
+    },
+    {
+     "s": 6,
+     "t": "It came out of nowhere. Before we could react, it swiped our goods and ran away."
+    },
+    {
+     "s": 6,
+     "t": "We were all shocked. By the time we came to our senses, the thief was already long gone."
+    },
+    {
+     "s": 2,
+     "t": "I see. If we help you retrieve your stolen goods, then business will return to normal?"
+    },
+    {
+     "s": 6,
+     "t": "Oh, but of course."
+    },
+    {
+     "s": 6,
+     "t": "Not only that, but you'll become one of our caravan's VIPs. On all future purchases of any—"
+    },
+    {
+     "s": 2,
+     "t": "Enough. Tell me something that's actually useful. Any leads on that mechanical crab?"
+    },
+    {
+     "s": 6,
+     "t": "Maybe one? After our goods were stolen, we specifically got someone to assess the situation."
+    },
+    {
+     "s": 6,
+     "t": "If you're interested, you can go and talk to them."
+    },
+    {
+     "s": 2,
+     "t": "Alright, we'll go and have a word."
+    },
+    {
+     "s": 4,
+     "t": "Didn't see any in the Avidya Forest Field Guide..."
+    },
+    {
+     "section": "Yara"
+    },
+    {
+     "s": 3,
+     "t": "*sob* My head's still spinning..."
+    },
+    {
+     "section": "Akarsh"
+    },
+    {
+     "s": 7,
+     "t": "After the goods were stolen, I made multiple inquiries with nearby caravans and residents."
+    },
+    {
+     "s": 7,
+     "t": "Turns out that many others have also been robbed by that crooked crab."
+    },
+    {
+     "s": 7,
+     "t": "However, the crab only seems to be interested in machinery. It doesn't even bat an eye at other valuables."
+    },
+    {
+     "s": 7,
+     "t": "A caravan carrying a large amount of Mora had an uneventful trip, but another caravan had a child whose metal toy was taken."
+    },
+    {
+     "s": 7,
+     "t": "Whatever the case, that thing is a scourge! We'll eventually think of a way to get rid of it!"
+    },
+    {
+     "section": "Akarsh"
+    },
+    {
+     "s": 7,
+     "t": "We can't let it get away..."
+    },
+    {
+     "section": "Abdo"
+    },
+    {
+     "s": 8,
+     "t": "That mechanical crab is fast, strong, and a pain to deal with."
+    },
+    {
+     "s": 8,
+     "t": "Ten of us might not even be able to take that thing head-on."
+    },
+    {
+     "s": 8,
+     "t": "Didn't the Akademiya ban research on mechanical life forms years ago? Where did that thing come from?"
+    },
+    {
+     "s": 8,
+     "t": "Our salaries even got slashed because of it... *sigh* Who would've thought that the robber wasn't a human, but a mechanical crab? This is rough..."
+    },
+    {
+     "section": "Abdo"
+    },
+    {
+     "s": 8,
+     "t": "*sigh* What a disaster..."
+    },
+    {
+     "section": "Kadin, Tighnari"
+    },
+    {
+     "s": 9,
+     "t": "I heard from the caravaners that there have been a lot of robberies lately, but we haven't been affected."
+    },
+    {
+     "s": 9,
+     "t": "We don't normally see the mechanical crab, and it doesn't disturb our daily lives."
+    },
+    {
+     "s": 9,
+     "t": "It only shows up when the caravans are here, and it runs back to the contaminated region after it's done making a mess."
+    },
+    {
+     "s": 2,
+     "t": "You haven't tried capturing it?"
+    },
+    {
+     "s": 9,
+     "t": "We have, but it's too agile and fast."
+    },
+    {
+     "s": 9,
+     "t": "However, we did unexpectedly learn something the last time we tried to capture it."
+    },
+    {
+     "s": 9,
+     "t": "It apparently lives in the deepest part of the forest, so instead of immediately moving its spoils, it first hides them nearby."
+    },
+    {
+     "s": 9,
+     "t": "Once its stash grows large enough, it moves everything in one go. You'll have to move fast if you want those goods back."
+    },
+    {
+     "section": "Kadin"
+    },
+    {
+     "s": 9,
+     "t": "You know, I always thought it looked kinda familiar..."
+    },
+    {
+     "section": "Mahir"
+    },
+    {
+     "s": 6,
+     "t": "How's it going? Figured out a solution?"
+    },
+    {
+     "section": "Mahir, Tighnari"
+    },
+    {
+     "s": 6,
+     "t": "How are things? Did you make any progress?"
+    },
+    {
+     "s": 2,
+     "t": "We learned of its behaviors, but much still remains unclear."
+    },
+    {
+     "s": 2,
+     "t": "Assuming normal operational status, mechanical constructs generally act according to their given commands."
+    },
+    {
+     "s": 2,
+     "t": "If I were its owner, I'd command it to steal more valuable things... or the Mora you made. That would be the most efficient method."
+    },
+    {
+     "s": 2,
+     "t": "But it only goes after mechanical components. This doesn't make any sense."
+    },
+    {
+     "s": 1,
+     "t": "Right! It's really weird!"
+    },
+    {
+     "s": 6,
+     "t": "So you all found a way to retrieve our goods?"
+    },
+    {
+     "s": 2,
+     "t": "Do you have any more mechanical parts with you?"
+    },
+    {
+     "s": 6,
+     "t": "Yes, I still have a small bag of samples. They weren't taken since I keep them on me at all times."
+    },
+    {
+     "s": 6,
+     "t": "Oh, are you planning to—"
+    },
+    {
+     "s": 2,
+     "t": "Under constant external conditions, organisms rarely initiate changes in their habits."
+    },
+    {
+     "s": 2,
+     "t": "Here's what we know so far: It has a mechanical composition; it lives in the contaminated region; and it comes out to steal mechanical components."
+    },
+    {
+     "s": 2,
+     "t": "If we have said components, we can lure it out, capture it, and then make observations for further conclusions."
+    },
+    {
+     "s": 2,
+     "t": "Well... Chatting like this won't get us anywhere. We're only wasting time."
+    },
+    {
+     "s": 6,
+     "t": "You're right. We don't have any other options right now... This bag of samples is all yours, Mr. Forest Watcher. If you can get our goods back, the caravans will reward you generously."
+    },
+    {
+     "s": 2,
+     "t": "We don't need anything in return, but I'll be keeping this bag. I may have other uses for it later."
+    },
+    {
+     "s": 2,
+     "t": "We'll also need to borrow a Sumpter Beast. Our act has to be convincing if we want the crab to fall for it."
+    },
+    {
+     "s": 6,
+     "t": "Oh yeah, no problem at all! If it means getting our things back, you can even borrow me to do whatever you need!"
+    },
+    {
+     "s": 2,
+     "t": "I'll have to decline that offer. Anyway, we'll use the mechanical components and Sumpter Beast to pose as a transiting caravan and lure out the crab."
+    },
+    {
+     "s": 2,
+     "t": "Once it appears, capture it. I leave the timing to you."
+    },
+    {
+     "s": 1,
+     "t": "Don't worry! We're professionals!"
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "Looking at the trade routes and the contaminated region's current perimeter, the goods were likely stolen somewhere around here."
+    },
+    {
+     "s": 1,
+     "t": "Then let's get to it! We'll definitely capture that criminal crab!"
+    },
+    {
+     "s": 2,
+     "t": "Okay. We'll start from here and have the Sumpter Beast, with the components on-board, lead the way."
+    },
+    {
+     "s": 2,
+     "t": "This Sumpter Beast isn't familiar with us yet, so be calm and take your time with it."
+    },
+    {
+     "section": "Mahir"
+    },
+    {
+     "s": 6,
+     "t": "*sigh* Trading sure is dangerous. Not only do you have to contend with the wits of others, but you have to be ready to deal with anything and everything..."
+    },
+    {
+     "section": "Yara"
+    },
+    {
+     "s": 3,
+     "t": "*sob* My head's still spinning..."
+    },
+    {
+     "section": "Karkata, Tighnari"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 1,
+     "t": "Did you hear something—"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "Waaah! Is that the mechanical crab the caravan was talking about? It's charging straight at us!"
+    },
+    {
+     "s": 2,
+     "t": "It looks strong. Be careful!"
+    },
+    {
+     "section": "Karkata, Tighnari"
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 1,
+     "t": "Hmph, just try to escape this time, you naughty, caravan-robbing crab!"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 1,
+     "t": "Hey, playing dumb won't save you! Spill it! Why are you stealing so many mechanical parts?"
+    },
+    {
+     "s": 4,
+     "t": "It doesn't seem to understand us..."
+    },
+    {
+     "s": 2,
+     "t": "Hmm, it doesn't seem capable of comprehending complex questions. Keep an eye on it. I'll search around the area for the caravans' goods."
+    },
+    {
+     "sit": "After some searching, Tighnari finds the goods that the mechanical crab stole..."
+    },
+    {
+     "s": 2,
+     "t": "I don't know why you're stealing mechanical parts, but they don't belong to you."
+    },
+    {
+     "s": 2,
+     "t": "Stolen items must be returned to their rightful owners. Any objections?"
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 4,
+     "t": "It looks sad..."
+    },
+    {
+     "s": 2,
+     "t": "You came from the depths of the contaminated region, right? How about you help us with something?"
+    },
+    {
+     "s": 2,
+     "t": "If you take us there, I'll give you some mechanical parts as a reward."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "It reacted!"
+    },
+    {
+     "s": 4,
+     "t": "Does it understand us?"
+    },
+    {
+     "s": 2,
+     "t": "We can't be certain yet. Its excitement may be a simple, programmed response upon seeing mechanical components."
+    },
+    {
+     "s": 1,
+     "t": "Okay, so you want the crab to lead us into the contaminated region?"
+    },
+    {
+     "s": 2,
+     "t": "That's right. The contaminated region has a large and currently expanding perimeter, so it would be difficult to conduct a thorough search."
+    },
+    {
+     "s": 2,
+     "t": "If we charge straight in, we'll get lost like headless pigeons. Also, our new friend here seems to be full of secrets."
+    },
+    {
+     "s": 2,
+     "t": "I've been studying this contaminated region recently, and I have a hypothesis of my own. So to be absolutely safe, it would be best to have a \"guide\" lead the way."
+    },
+    {
+     "s": 1,
+     "t": "Paimon gets it now! Does this scuttler understand what you're saying?"
+    },
+    {
+     "s": 2,
+     "t": "It doesn't have to, as long as it isn't hostile towards us."
+    },
+    {
+     "s": 2,
+     "t": "I gave it some components that it will definitely take back to the contaminated region. So long as it doesn't attack us, we can simply follow along."
+    },
+    {
+     "s": 10,
+     "t": "Kalu!"
+    },
+    {
+     "s": 1,
+     "t": "It seems to be really happy..."
+    },
+    {
+     "s": 2,
+     "t": "Listen to me. Wait for us here. No running off."
+    },
+    {
+     "s": 2,
+     "t": "We'll be back soon. If you're still here when we return, I'll give you another mechanical part as a reward. Understood?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 4,
+     "t": "Does that count as understanding us?"
+    },
+    {
+     "s": 2,
+     "t": "I'm not sure, but our priorities are to retrieve the mechanical components, and to purchase Vasanti Grass to make medicine with."
+    },
+    {
+     "s": 2,
+     "t": "We should return, but before we do, we need to set up a few \"traps.\" Can't have that crab escaping."
+    },
+    {
+     "section": "Mahir, Tighnari"
+    },
+    {
+     "s": 6,
+     "t": "Oh, oh!"
+    },
+    {
+     "s": 6,
+     "t": "These are the mechanical parts that were stolen! You really got them back for us!"
+    },
+    {
+     "s": 6,
+     "t": "Thank you all so very much! I don't know how I can repay you... Wait, didn't you want to purchase Vasanti Grass?"
+    },
+    {
+     "s": 6,
+     "t": "Don't worry about the price — they're on the house! How many do you need?"
+    },
+    {
+     "s": 2,
+     "t": "Two is enough."
+    },
+    {
+     "s": 6,
+     "t": "No, that won't do. Here, I'll throw in some Mora—"
+    },
+    {
+     "s": 2,
+     "t": "No need. I've already received a reward from you."
+    },
+    {
+     "s": 6,
+     "t": "Reward...? You mean that bag of mechanical parts? Ah, they aren't worth much compared to this merchandise."
+    },
+    {
+     "s": 2,
+     "t": "But those parts are very useful to me, just like the Vasanti Grass."
+    },
+    {
+     "s": 2,
+     "t": "I retrieved the things you needed, and you gave me what I needed in return. We're even."
+    },
+    {
+     "s": 2,
+     "t": "Oh, and before we go, just a reminder, the forest has an intricate and biodiverse ecosystem. Even if there were no mechanical crabs, other dangers are still present. Take caution on this route."
+    },
+    {
+     "s": 6,
+     "t": "Noted! Thank you all ever so much!"
+    },
+    {
+     "s": 2,
+     "t": "Let's return to the village. The earlier we can give the child medicine, the sooner he'll start feeling better."
+    },
+    {
+     "section": "Akarsh, Abdo, Kadin"
+    },
+    {
+     "s": 7,
+     "t": "In the end, the goods got stolen because you all didn't guard them properly."
+    },
+    {
+     "s": 8,
+     "t": "You're not wrong, but it's not entirely our fault. No one said we'd have to go up against a mechanical crab..."
+    },
+    {
+     "s": 8,
+     "t": "You guys are in charge of caravan affairs, yet you didn't scout the trade route beforehand... Hey, you, here to help us settle this?"
+    },
+    {
+     "s": 9,
+     "t": "Umm... I'm still more interested in the whereabouts of that mechanical crab..."
+    },
+    {
+     "section": "Karkata"
+    },
+    {
+     "s": 10,
+     "t": "(The mechanical crab looks quite well-behaved and does not intend to run away.)"
+    },
+    {
+     "section": "Collei, Tighnari"
+    },
+    {
+     "s": 11,
+     "t": "Oh, hi there, {NICKNAME} and Paimon."
+    },
+    {
+     "s": 11,
+     "t": "Master, I prepared the pharmaceutical equipment. Do you need me to help grind the medicine?"
+    },
+    {
+     "s": 2,
+     "t": "No need. A precise dosage is required this time, so I'll do it myself."
+    },
+    {
+     "s": 11,
+     "t": "Oh, okay..."
+    },
+    {
+     "s": 2,
+     "t": "But once I'm done, you can deliver the medication to the child."
+    },
+    {
+     "s": 2,
+     "t": "He gets a little nervous when I'm around for too long. I don't think he finds me very approachable."
+    },
+    {
+     "s": 2,
+     "t": "I'll go prepare the medication. {NICKNAME}, give me a hand."
+    },
+    {
+     "sit": "After you and Tighnari prepare the medicine, Collei gives it to Yara."
+    },
+    {
+     "s": 1,
+     "t": "How is he? Doing any better?"
+    },
+    {
+     "s": 11,
+     "t": "I feel like he's doing a lot better, and his temperature is returning to normal."
+    },
+    {
+     "s": 1,
+     "t": "That's wonderful!"
+    },
+    {
+     "s": 11,
+     "t": "Oh yeah, he asked me to tell you that Suna came by earlier, and he told her everything about the toy."
+    },
+    {
+     "s": 11,
+     "t": "Suna didn't get mad, so he wanted to thank you. Can I ask what happened?"
+    },
+    {
+     "s": 2,
+     "t": "It's nothing. Did you prepare the traveling gear that I asked you to?"
+    },
+    {
+     "s": 11,
+     "t": "Of course I did! Are you going somewhere far away?"
+    },
+    {
+     "s": 2,
+     "t": "Yes, we're going to the contaminated region. Judging by its size, we will likely have to stay overnight."
+    },
+    {
+     "s": 2,
+     "t": "I'm leaving everything to you while I'm gone."
+    },
+    {
+     "s": 11,
+     "t": "Huh? But I... I can't even begin to compare to you..."
+    },
+    {
+     "s": 2,
+     "t": "Many things are learned by doing, and once they've been done, you'll realize that they weren't as difficult as you once thought they were."
+    },
+    {
+     "s": 2,
+     "t": "Deal with problems as you yourself see fit. You don't have to emulate me."
+    },
+    {
+     "s": 1,
+     "t": "That's right! You'll do great, Collei!"
+    },
+    {
+     "s": 11,
+     "t": "Alright, then I'll do my best!"
+    },
+    {
+     "s": 11,
+     "t": "Master, {NICKNAME}, Paimon, take care of yourselves."
+    },
+    {
+     "sit": "Don't worry."
+    },
+    {
+     "sit": "Everything will be fine with Tighnari around."
+    },
+    {
+     "s": 2,
+     "t": "I'm sure we'll be fine. I think you'll understand why once we arrive at the contaminated region."
+    },
+    {
+     "s": 2,
+     "t": "Let's return and find that crab."
+    },
+    {
+     "s": 4,
+     "t": "Everything will be fine with Tighnari around."
+    },
+    {
+     "s": 2,
+     "t": "You put too much confidence in me. Anyway, like you said, things will likely be uneventful."
+    },
+    {
+     "section": "Mahir"
+    },
+    {
+     "s": 6,
+     "t": "Thank you all for your help. If it weren't for you, we would've lost a fortune."
+    }
+   ],
+   "description": "You haven’t gone to see Katheryne in a while. Why don’t you go have a look?"
+  },
+  {
+   "title": "Into the Hinterland",
+   "dialogue": [
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "We're here! This should be... Huh? Where's the crab?"
+    },
+    {
+     "s": 1,
+     "t": "Did it secretly scuttle away?"
+    },
+    {
+     "s": 2,
+     "t": "The traps weren't triggered, so it should still be here... Odd..."
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 4,
+     "t": "It's here!"
+    },
+    {
+     "s": 2,
+     "t": "You honored our agreement and waited here until we returned."
+    },
+    {
+     "s": 2,
+     "t": "As such, I'll hold up my end and give you another mechanical part. Keep it safe. I'm not giving you another one if you lose it."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "Glad you're satisfied. If you want more mechanical parts, take us deeper into the contaminated region."
+    },
+    {
+     "s": 2,
+     "t": "I want to see what happened there — what caused the Avidya Forest to become like this."
+    },
+    {
+     "section": "Yara"
+    },
+    {
+     "s": 3,
+     "t": "Thank you. I feel much better now."
+    },
+    {
+     "section": "Collei"
+    },
+    {
+     "s": 11,
+     "t": "I can do this. I can do this..."
+    },
+    {
+     "section": "Asha"
+    },
+    {
+     "s": 5,
+     "t": "(Murmuring to herself, Asha seems to be praying for her son's recovery.)"
+    },
+    {
+     "section": "Tighnari, Affected Sumeru Rose"
+    },
+    {
+     "s": 1,
+     "t": "So this is the contaminated region that everyone's been talking about... It definitely looks different from normal!"
+    },
+    {
+     "s": 1,
+     "t": "It's like... really creepy and suffocating..."
+    },
+    {
+     "s": 2,
+     "t": "Do you feel unwell at all?"
+    },
+    {
+     "s": 4,
+     "t": "Doing fine so far."
+    },
+    {
+     "s": 2,
+     "t": "Good. It's as I predicted: Elemental power confers a degree of resistance against the contaminated region's influence."
+    },
+    {
+     "s": 1,
+     "t": "How do you know that?"
+    },
+    {
+     "s": 2,
+     "t": "I haven't entered the contaminated region for a proper investigation, but I've conducted quite a few controlled experiments."
+    },
+    {
+     "s": 2,
+     "t": "My observations during our time here have all but confirmed my hypothesis. Look at these flowers. How are they different from normal?"
+    },
+    {
+     "sit": "They're more colorful?"
+    },
+    {
+     "sit": "They're brighter?"
+    },
+    {
+     "s": 2,
+     "t": "This flower species is formally known as the \"Sumeru Rose,\" but it is also known as the \"Ley Line Lodestar.\""
+    },
+    {
+     "s": 2,
+     "t": "They're sensitive to Ley Lines and emit varying amounts of light in response. Excessive brightness indicates a dangerous level of Ley Line activity in the surrounding area."
+    },
+    {
+     "s": 2,
+     "t": "From the looks of things, the Ley Lines around here are already out of control."
+    },
+    {
+     "s": 1,
+     "t": "You're saying that the contamination here is coming from Ley Lines?"
+    },
+    {
+     "s": 2,
+     "t": "I can't confirm that right now, but I think that is the case."
+    },
+    {
+     "s": 2,
+     "t": "Let's take another look around and see if we can discover more clues."
+    },
+    {
+     "s": 4,
+     "t": "They're brighter?"
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "You know, we haven't seen any animals this entire time!"
+    },
+    {
+     "s": 1,
+     "t": "The birds used to chirp really loudly, and there were a lot of foxes..."
+    },
+    {
+     "s": 2,
+     "t": "The contaminated region currently appears to have a critical efflux of Ley Line energy, which is probably the root cause of the patients' cognitive disturbances."
+    },
+    {
+     "s": 2,
+     "t": "Some animals have keen awareness. They sensed something abnormal in this area and fled."
+    },
+    {
+     "s": 1,
+     "t": "Leaky Ley Lines sure can cause a lot of damage, huh?"
+    },
+    {
+     "s": 2,
+     "t": "Like how plants have preferred growth conditions, we also gradually habituate to our surrounding environment."
+    },
+    {
+     "s": 2,
+     "t": "Climate, temperature, humidity, intensity of Ley Line energies. When people live under fixed conditions, they reach a sort of \"homeostasis\" with their environment."
+    },
+    {
+     "s": 2,
+     "t": "This equilibrium is broken when the surrounding environment abruptly changes, causing people's bodies to react in abnormal ways."
+    },
+    {
+     "s": 2,
+     "t": "If normal fluctuations in temperature occur, then our bodies automatically adjust. However, the average person cannot adapt to changes in Ley Line energy, and so they fall ill."
+    },
+    {
+     "s": 4,
+     "t": "Ah, I see."
+    },
+    {
+     "s": 1,
+     "t": "Then why are we okay?"
+    },
+    {
+     "s": 2,
+     "t": "I'm not sure why you are, but {NICKNAME} and I are fine because our elemental capabilities allow us to adapt to this kind of change."
+    },
+    {
+     "s": 2,
+     "t": "Of course, it's not a good idea to spend too much time in areas with concentrated Ley Line energy. The only one who can freely traverse this place is probably the mechanical crab."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 2,
+     "t": "That's about it for the investigation. Help me find an open space. I want to test something."
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 2,
+     "t": "Environment... No wind... Target parameters... Normal..."
+    },
+    {
+     "s": 2,
+     "t": "Setup complete. Excellent — looks like it's working."
+    },
+    {
+     "s": 1,
+     "t": "What's this?"
+    },
+    {
+     "s": 2,
+     "t": "A Purification Device I made. It can absorb excess Ley Line energy and temporarily stabilize an area."
+    },
+    {
+     "s": 1,
+     "t": "What a neat thing! Let's set up more and cover the entire region!"
+    },
+    {
+     "s": 2,
+     "t": "I wouldn't mind if that would actually work. Unfortunately, once this \"contamination\" is present, it isn't something that a few Purification Devices can fix."
+    },
+    {
+     "s": 2,
+     "t": "The Purification Devices have their limits. At best, they can only prevent the contaminated region from expanding temporarily."
+    },
+    {
+     "s": 2,
+     "t": "If we want to permanently eradicate the contamination from the Ley Line effluence, we'll need to tackle the source."
+    },
+    {
+     "s": 4,
+     "t": "At the heart of the contaminated region?"
+    },
+    {
+     "s": 2,
+     "t": "That's right."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "Huh? The mechanical crab is acting a little strange."
+    },
+    {
+     "s": 2,
+     "t": "Something's approaching..."
+    },
+    {
+     "s": 2,
+     "t": "So that's it. Now that the Ley Line energy has stabilized, the monsters that had left are starting to return."
+    },
+    {
+     "s": 2,
+     "t": "Get rid of them quickly! Don't let them get close to the Purification Device!"
+    },
+    {
+     "section": "Karkata"
+    },
+    {
+     "s": 1,
+     "t": "Whew... That's all of them."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "Hey, where are you— Wait for us!"
+    },
+    {
+     "s": 1,
+     "t": "Let's hurry and keep up, {NICKNAME}!"
+    },
+    {
+     "section": "Jasar, Tighnari, Karkata"
+    },
+    {
+     "s": 12,
+     "t": "Aaah... Spare me, please spare me!"
+    },
+    {
+     "s": 1,
+     "t": "Hey, are you okay?"
+    },
+    {
+     "s": 2,
+     "t": "These injuries are superficial. Don't move. I'll patch you up."
+    },
+    {
+     "s": 12,
+     "t": "Who are you all? What happened to those mechanical monsters?"
+    },
+    {
+     "s": 1,
+     "t": "Don't worry, we took care of them!"
+    },
+    {
+     "s": 12,
+     "t": "Good. Haha... That's good..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 12,
+     "t": "Aaah, it's a monster! Hurry, attack it!"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 1,
+     "t": "How do we explain this? Crabby here isn't a bad guy."
+    },
+    {
+     "s": 1,
+     "t": "It heard you shouting for help and brought us here to rescue you."
+    },
+    {
+     "s": 12,
+     "t": "It's faking it — it has to be! Maybe it's gonna partner up with the other mechanical monsters and kill me!"
+    },
+    {
+     "s": 12,
+     "t": "Do you know what's inside the forest? It's all... It's all crawling with mechanical freaks!"
+    },
+    {
+     "s": 12,
+     "t": "I just came here to pick herbs, but I accidentally went into the contaminated region and almost died."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 12,
+     "t": "I gotta get out of here. Yes... Yes, I have to escape..."
+    },
+    {
+     "s": 12,
+     "t": "Be careful. These mechanical life forms are up to no good. It'd be best if you stayed far, far away from them!"
+    },
+    {
+     "s": 12,
+     "t": "No wonder the Akademiya wanted to completely ban the existence of mechanical life forms. Those things should be annihilated..."
+    },
+    {
+     "s": 1,
+     "t": "Are you okay?"
+    },
+    {
+     "s": 2,
+     "t": "His inarticulate speech and bodily tremors indicate psyche disruption. He's been inside the contaminated region for too long."
+    },
+    {
+     "s": 2,
+     "t": "We've purified the Ley Line energy over there. Follow this path out and you'll soon see the village."
+    },
+    {
+     "s": 2,
+     "t": "When he gets to the village, someone will bring him to Collei for help. I already prepared medication that will return him to normal."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "sit": "It looks like it's..."
+    },
+    {
+     "sit": "Expecting something?"
+    },
+    {
+     "s": 2,
+     "t": "Hmm... So you think you did a \"good job\" and want a part as your reward?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "It's so hard to understand..."
+    },
+    {
+     "s": 2,
+     "t": "Alright, regardless of what you're thinking, you did some real good this time."
+    },
+    {
+     "s": 2,
+     "t": "That's why I'll give you another mechanical part. Need any help with it?"
+    },
+    {
+     "s": 10,
+     "t": "Kelukulo."
+    },
+    {
+     "s": 2,
+     "t": "Guess not. Well, make sure to hang on to it. What was going through your owner's mind when he made you, I wonder? You're like a giant mechanical crab on the outside and a fluffy little hamster on the inside."
+    },
+    {
+     "s": 2,
+     "t": "And also, how do you feel about that person saying that you're as evil as the other mechanical life forms?"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 1,
+     "t": "Okay, it definitely doesn't understand you."
+    },
+    {
+     "s": 2,
+     "t": "It seems like it possesses limited understanding only towards matters related to mechanical components."
+    },
+    {
+     "s": 2,
+     "t": "\"Help others to get parts.\" That's probably its thought process. As for why it — rather, its owner — is collecting so many components, I'm not sure."
+    },
+    {
+     "s": 2,
+     "t": "It's getting late. Let's set up camp for the night. We'll explore further tomorrow after a night's rest."
+    },
+    {
+     "s": 4,
+     "t": "Expecting something?"
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 2,
+     "t": "Let's set up camp here."
+    },
+    {
+     "s": 1,
+     "t": "Alright! Paimon also thinks it's a good spot!"
+    },
+    {
+     "s": 2,
+     "t": "Oh? Any particular reason?"
+    },
+    {
+     "s": 1,
+     "t": "This place is perfect to put up a big tent!"
+    },
+    {
+     "s": 1,
+     "t": "We can also set up a cooking pot and cook tons of delicious food!"
+    },
+    {
+     "s": 4,
+     "t": "A very Paimon reason."
+    },
+    {
+     "s": 2,
+     "t": "You're not wrong, but the primary reason for choosing this place is because its higher elevation keeps us away from the water vapor below."
+    },
+    {
+     "s": 2,
+     "t": "Rainforests are very wet. You should always be careful when spending the night in damp places."
+    },
+    {
+     "s": 2,
+     "t": "For the next tasks at hand, let's divide and conquer. I'll set up the tent, you'll be in charge of making the fire, and Paimon will forage for edibles nearby."
+    },
+    {
+     "s": 1,
+     "t": "Leave it to Paimon! Paimon's a pro!"
+    },
+    {
+     "s": 2,
+     "t": "I'm not expecting that much. Just do what you can."
+    },
+    {
+     "sit": "Thanks to Tighnari's guidance, you safely start a fire..."
+    },
+    {
+     "s": 2,
+     "t": "That's right. You can use rushes to start a fire in the wilderness."
+    },
+    {
+     "s": 2,
+     "t": "Their piths are relatively dry and can be readily set aflame. The downside is that they produce a lot of smoke."
+    },
+    {
+     "s": 1,
+     "t": "*sob* {NICKNAME}, Tighnari... Paimon couldn't find any food."
+    },
+    {
+     "s": 1,
+     "t": "Paimon didn't know that rainforests had so many interesting plants until we came here! There were all sorts of weird-looking mushrooms, but Paimon didn't know which ones were edible."
+    },
+    {
+     "s": 1,
+     "t": "Paimon also saw wild berries on the ground, and Paimon was gonna fly over and pick them up, but the dead leaves on top suddenly started moving! It freaked Paimon out!"
+    },
+    {
+     "s": 2,
+     "t": "Those were probably Deadleaf Butterflies. They camouflage as dead leaves to evade predators."
+    },
+    {
+     "s": 2,
+     "t": "My guess is that they mistook you for a bird when you flew over, so they fled. Little did they know that you were more scared than they were."
+    },
+    {
+     "s": 2,
+     "t": "Never mind. The tent's up, so you two go rest. I'll forage for food."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "Oh? You found some already."
+    },
+    {
+     "sit": "You have my gratitude."
+    },
+    {
+     "sit": "It's more useful than Paimon."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon understands it this time! It wants mechanical parts again!"
+    },
+    {
+     "s": 2,
+     "t": "Sorry, no part this time."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 2,
+     "t": "That task wasn't important enough. If every little thing resulted in a reward, then it might start to take advantage of the system."
+    },
+    {
+     "s": 2,
+     "t": "I'll note little things like this and give a cumulative reward at a later time."
+    },
+    {
+     "s": 4,
+     "t": "Are you running low on parts...?"
+    },
+    {
+     "s": 2,
+     "t": "Ahem, that is one reason."
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 1,
+     "t": "It looks really sad..."
+    },
+    {
+     "s": 2,
+     "t": "...After some further thought, it might come up with some weird misunderstanding if I don't give it something. Alright, here's another for you."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "I'm off to prepare dinner. We'll take shifts on lookout duty tonight. You two can sleep first. I'll wake you up later."
+    },
+    {
+     "s": 1,
+     "t": "We need lookouts?"
+    },
+    {
+     "s": 2,
+     "t": "Yes."
+    },
+    {
+     "s": 2,
+     "t": "Even though most animals fled because of the Ley Lines, we can't completely let down our guard."
+    },
+    {
+     "s": 2,
+     "t": "It's settled, then. I'll set up some pest-repelling devices so poisonous insects don't come crawling into the tent."
+    },
+    {
+     "s": 2,
+     "t": "Have a good night. Not too good, though."
+    },
+    {
+     "s": 4,
+     "t": "It's more useful than Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Hey!"
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 1,
+     "t": "Paimon's getting sleepy... Ah! Is this because of the Ley Lines?"
+    },
+    {
+     "s": 1,
+     "t": "It's been a while since we camped outside like this!"
+    },
+    {
+     "s": 1,
+     "t": "Hehe... This feels like when we just started adventuring together! Nighty night! {NICKNAME}!"
+    },
+    {
+     "sit": "Paimon gradually falls asleep while reminiscing..."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "Hm? You're still awake?"
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 2,
+     "t": "Hm? You're awake earlier than I expected. Did you sleep well?"
+    },
+    {
+     "sit": "Very well."
+    },
+    {
+     "sit": "I'm still a little sleepy."
+    },
+    {
+     "s": 2,
+     "t": "That's good. I was worried that you two wouldn't be able to sleep, so I used two of my homemade incenses."
+    },
+    {
+     "s": 2,
+     "t": "Don't worry, they're made from all-natural ingredients. They have a light fragrance and aren't harmful to the body."
+    },
+    {
+     "s": 2,
+     "t": "Speaking of which, have you seen the crab?"
+    },
+    {
+     "s": 2,
+     "t": "It was scampering around over there just now, but I don't know where it went."
+    },
+    {
+     "s": 4,
+     "t": "Are you wary of it?"
+    },
+    {
+     "s": 2,
+     "t": "So you can tell. My suspicion is less towards the crab, and more directed to its unrevealed owner."
+    },
+    {
+     "s": 2,
+     "t": "A Ley Line effluence of this magnitude occurred without any warning. Someone probably disrupted the natural flow of the Ley Lines."
+    },
+    {
+     "s": 2,
+     "t": "Until we fully understand the situation, take extra caution. The Akademiya has banned mechanical life form research for years, so the origin of these creatures is very suspect."
+    },
+    {
+     "sit": "Banned research?"
+    },
+    {
+     "sit": "The Akademiya previously conducted research on mechanical life forms?"
+    },
+    {
+     "s": 2,
+     "t": "Topics related to mechanical life forms were popular in the Spantamad for a time. Some of my juniors had also thrown themselves into such research."
+    },
+    {
+     "s": 2,
+     "t": "They proposed an intriguing idea: Use our knowledge to create a \"new and practical\" life form that could help humanity \"conquer nature.\""
+    },
+    {
+     "s": 2,
+     "t": "However, no matter which modules or parts are installed, a machine is innately a construct that receives and executes commands. They can never possess self-awareness like us or other living organisms."
+    },
+    {
+     "s": 2,
+     "t": "In their pursuit to discover the differences between mechanical and biological life forms, zealous researchers performed unregulated vivisections and other absurdly cruel experiments on animals. Research on mechanical life forms was thus banned."
+    },
+    {
+     "s": 2,
+     "t": "The irony is that the researchers became even more impetuous afterward. Who knows, maybe the subject will be unbanned in a few years."
+    },
+    {
+     "s": 4,
+     "t": "Do you not like this area of research?"
+    },
+    {
+     "s": 2,
+     "t": "Hmm... That's a difficult question to answer."
+    },
+    {
+     "s": 2,
+     "t": "I'm interested in the topic of mechanical life, but I don't like the researchers' attitudes."
+    },
+    {
+     "sit": "Anything in particular, or...?"
+    },
+    {
+     "sit": "Because the \"conquest of nature\" is bad?"
+    },
+    {
+     "s": 2,
+     "t": "It's just my personal opinion."
+    },
+    {
+     "s": 2,
+     "t": "My ancestors and the Valuka Shuna of the desert coexisted together and supported one another. The bloodline of my people was born from this symbiotic relationship."
+    },
+    {
+     "s": 2,
+     "t": "So to me, all life is important. To understand life, you must first respect it."
+    },
+    {
+     "s": 2,
+     "t": "Life is not an expendable commodity, and knowledge should not be wielded like a scepter. These are the points of contention I have with some researchers, and why I left the Akademiya."
+    },
+    {
+     "s": 2,
+     "t": "Once you start placing yourself above other life forms, I mean... What kind of results do you expect to get from researching pure life with impure intentions?"
+    },
+    {
+     "s": 4,
+     "t": "I understand what you mean."
+    },
+    {
+     "s": 2,
+     "t": "Really? Well, I'm glad to hear it."
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "Coffee? Did you prepare this for us?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 4,
+     "t": "It looks like it wants a reward again..."
+    },
+    {
+     "s": 2,
+     "t": "Alright, seeing that you're working so hard to help out, I'll give you another part."
+    },
+    {
+     "s": 2,
+     "t": "You're not planning on using it? Many of your own parts are critically degraded, and you're running low on power."
+    },
+    {
+     "s": 10,
+     "t": "Kelukulo."
+    },
+    {
+     "s": 2,
+     "t": "Alright, suit yourself. Oh and thanks for the coffee, but I'm about to go to sleep. Leave it with {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "The night watch is yours. Stay safe."
+    },
+    {
+     "s": 1,
+     "t": "S—Sorry, {NICKNAME}, Paimon slept through the entire night..."
+    },
+    {
+     "sit": "It's okay."
+    },
+    {
+     "sit": "Your punishment is solo watch duty."
+    },
+    {
+     "s": 1,
+     "t": "Really? You're not mad?"
+    },
+    {
+     "s": 2,
+     "t": "Good morning, {NICKNAME} and Paimon. Quick question, do you feel off at all?"
+    },
+    {
+     "s": 4,
+     "t": "I'm a little dizzy."
+    },
+    {
+     "s": 2,
+     "t": "Me too. The farther in we go, the closer we get to the source of the Ley Line effluence. We'll be heading out earlier today. I'll take down the tent."
+    },
+    {
+     "s": 1,
+     "t": "Is there something we can do?"
+    },
+    {
+     "s": 2,
+     "t": "Extinguish our fire so we don't set the entire forest aflame."
+    },
+    {
+     "s": 2,
+     "t": "Also, retrieve the pest-repelling devices from last night. We don't want to affect the ecosystem here."
+    },
+    {
+     "s": 1,
+     "t": "Got it! Paimon will take care of the fire!"
+    },
+    {
+     "s": 4,
+     "t": "I'll retrieve the pest-repelling devices."
+    },
+    {
+     "s": 2,
+     "t": "Alright. Let's meet back here later."
+    },
+    {
+     "s": 4,
+     "t": "Your punishment is solo watch duty."
+    },
+    {
+     "s": 1,
+     "t": "Hehe. Don't worry, Paimon will be sure to stay awake next time!"
+    },
+    {
+     "s": 4,
+     "t": "Because the \"conquest of nature\" is bad?"
+    },
+    {
+     "s": 4,
+     "t": "The Akademiya previously conducted research on mechanical life forms?"
+    },
+    {
+     "s": 4,
+     "t": "I'm still a little sleepy."
+    },
+    {
+     "s": 2,
+     "t": "You have to maintain constant vigilance in dangerous places like this. Yawning all the time like that is no good."
+    },
+    {
+     "s": 2,
+     "t": "If you can't stay awake, it's okay. Go sleep some more. I'm not tired yet."
+    },
+    {
+     "s": 4,
+     "t": "I can manage."
+    },
+    {
+     "s": 2,
+     "t": "Really? You don't need to push yourself. I'm used to staying up all night because many plant and animal species can only be observed during nighttime."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "Guess it'll have to wait until we return."
+    },
+    {
+     "s": 4,
+     "t": "What's going on?"
+    },
+    {
+     "s": 2,
+     "t": "I also just remembered that I forgot to apply essential oil to my tail. You probably noticed that it isn't as glossy as usual."
+    },
+    {
+     "s": 4,
+     "t": "...Nope, I don't see it."
+    },
+    {
+     "s": 2,
+     "t": "Hmm... Perhaps one night doesn't make too much of a difference."
+    },
+    {
+     "s": 2,
+     "t": "I'll make a new blend when we get back. It should make up for last night. I should have some leftover herbs from last month..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "How do you put out a fire...?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Alright! Now that the fire's out, we just need to pack up the cooking pot..."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "sit": "Last night's pest-repelling devices are recovered..."
+    },
+    {
+     "s": 2,
+     "t": "Alright, it's about time to head out. As we go further in, we may encounter more berserk machines."
+    },
+    {
+     "s": 2,
+     "t": "The effects of the Ley Lines will also increase. If you're struggling, it would be wise to avoid conflict."
+    },
+    {
+     "s": 2,
+     "t": "Try to conserve as much energy as possible until we reach the source of the contamination."
+    }
+   ],
+   "description": "With the mechanical crab as your guide, it is time to head to the contaminated region."
+  },
+  {
+   "title": "Heart of the Machine",
+   "dialogue": [
+    {
+     "section": "Karkata, Tighnari"
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "It stopped here!"
+    },
+    {
+     "s": 2,
+     "t": "Upon closer inspection, the plants here are really different."
+    },
+    {
+     "s": 2,
+     "t": "Ley Line energies are also stronger here. This may be the place we've been looking for."
+    },
+    {
+     "s": 2,
+     "t": "Ready yourselves. We're going in."
+    },
+    {
+     "section": "Tighnari, Paimon"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 1,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "s": 2,
+     "t": "n/a"
+    },
+    {
+     "s": 1,
+     "t": "n/a"
+    },
+    {
+     "s": 4,
+     "t": "n/a"
+    },
+    {
+     "section": "Tighnari, Karkata, Extraction Device"
+    },
+    {
+     "s": 1,
+     "t": "What is this?"
+    },
+    {
+     "sit": "I've never seen a machine like this before..."
+    },
+    {
+     "sit": "I don't feel too well..."
+    },
+    {
+     "s": 2,
+     "t": "Ley Line energy is spilling out from here."
+    },
+    {
+     "s": 2,
+     "t": "This device... It's extracting energy from the Ley Lines without end."
+    },
+    {
+     "s": 2,
+     "t": "Who in the world would do this without considering the consequences? The Ley Lines won't be able to repair themselves if their flow is perpetually disrupted like this."
+    },
+    {
+     "s": 1,
+     "t": "That's terrible... We have to stop it!"
+    },
+    {
+     "s": 1,
+     "t": "Let Paimon see... Ugh, Paimon doesn't see controls anywhere!"
+    },
+    {
+     "s": 4,
+     "t": "I'm starting to get dizzy..."
+    },
+    {
+     "s": 2,
+     "t": "Standing here is equivalent to being directly showered in Ley Line energy, which may cause irreversible damage to your body."
+    },
+    {
+     "s": 2,
+     "t": "{NICKNAME}, take Paimon and get out of here. I'll see if I can find a way to turn this thing off."
+    },
+    {
+     "s": 1,
+     "t": "But... You're also vulnerable to the Ley Lines, right?"
+    },
+    {
+     "s": 1,
+     "t": "We're staying. We can't leave you here by yourself!"
+    },
+    {
+     "s": 2,
+     "t": "Then let's look for it together. If there is no control unit here, then there must be a \"trapdoor\" somewhere—"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 10,
+     "t": "Kalu! Kalu!"
+    },
+    {
+     "s": 1,
+     "t": "You know where it is? Hey, wait for us!"
+    },
+    {
+     "s": 4,
+     "t": "I don't feel too well..."
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "Look! Someone's here!"
+    },
+    {
+     "s": 1,
+     "t": "Are you the one that's taking the Ley Lines' energy? Turn off that machine now!"
+    },
+    {
+     "s": 1,
+     "t": "Why aren't you saying anything? Too ashamed?"
+    },
+    {
+     "s": 2,
+     "t": "...His body is cold."
+    },
+    {
+     "s": 2,
+     "t": "It's emaciated, and his eyes are sunken, likely from chronic malnourishment and stress. He collapsed and never got back up. What exactly happened here?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "...Almost forgot about you. Here, this is the last one."
+    },
+    {
+     "s": 10,
+     "t": "Kalu! Kalu!"
+    },
+    {
+     "s": 1,
+     "t": "What is it doing?"
+    },
+    {
+     "s": 2,
+     "t": "I'm not sure. Judging by this room's layout, this place was a laboratory. We should find a repository of research documents if we keep going."
+    },
+    {
+     "s": 2,
+     "t": "The file room will definitely give us some clues, so let's go take a look. Maybe we can piece together what happened here."
+    },
+    {
+     "section": "Tighnari, Abattouy, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "Did you two find anything?"
+    },
+    {
+     "s": 2,
+     "t": "There are a lot of lab notes, but it would take way too long to read through them all. I found a tape recording used for an experiment, and based on its serial number, it's from two years ago."
+    },
+    {
+     "s": 1,
+     "t": "Tape recording?"
+    },
+    {
+     "s": 2,
+     "t": "Yes. The Spantamad created a device that visually records experiments and consolidates the final production into a tape."
+    },
+    {
+     "s": 2,
+     "t": "However, these devices are expensive to make and aren't entirely stable. That's why they are only used in some laboratories and do not see wider usage."
+    },
+    {
+     "s": 1,
+     "t": "C'mon, let's watch it!"
+    },
+    {
+     "s": 2,
+     "t": "Hold on, let me figure out how to play the tape. Okay, this should do it."
+    },
+    {
+     "sit": "After inserting the tape, the projector gradually begins to display a recording of the past..."
+    },
+    {
+     "s": 13,
+     "t": "Karkata? Karkata? Seriously, I look away for one second and you're gone?"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "There you are! Look here — this is our new home!"
+    },
+    {
+     "s": 13,
+     "t": "I, Abattouy, will unleash my talents here and amaze those ancient fossils at the Akademiya!"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "Oh? You're also quite happy! Karkata, do you know what we're about to do?"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "Hahaha... Yes, I thought not."
+    },
+    {
+     "s": 13,
+     "t": "Listen up, Karkata. I'm going to make a mechanical life form that can be mass-produced. The technology will be unlike anything else that exists."
+    },
+    {
+     "s": 13,
+     "t": "I'll use mechanical organs, and electric currents will course through them like blood. A steel-cast heart that will beat forever, and a brain of myriad components that can think like mine."
+    },
+    {
+     "s": 13,
+     "t": "Inspiration from the ruins, and the research that the Akademiya had banned... I hope everything can start anew from this place."
+    },
+    {
+     "s": 13,
+     "t": "When you can understand our language and live among us, you will no longer be a boring machine, but a truly living being!"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "It's fine. You will understand. One day, you will understand me..."
+    },
+    {
+     "sit": "The recording ends here."
+    },
+    {
+     "s": 1,
+     "t": "Karkata is the mechanical crab, right?"
+    },
+    {
+     "s": 1,
+     "t": "And that researcher named Abattouy said he wanted to prove something to the Akademiya?"
+    },
+    {
+     "s": 4,
+     "t": "Banned research..."
+    },
+    {
+     "s": 2,
+     "t": "I remember now. I had a junior researcher named Abattouy. He was expelled from the Akademiya for researching mechanical life forms."
+    },
+    {
+     "s": 1,
+     "t": "\"Junior researcher\"?"
+    },
+    {
+     "s": 4,
+     "t": "\"Junior researcher\"?"
+    },
+    {
+     "s": 2,
+     "t": "Yeah, what's wrong?"
+    },
+    {
+     "s": 1,
+     "t": "Nothing, Paimon was just wondering... Doesn't Abattouy look older than you?"
+    },
+    {
+     "s": 2,
+     "t": "He is, but academic progression isn't tied to age. I finished my studies a while ago, so subsequent students generally considered me as their senior."
+    },
+    {
+     "s": 1,
+     "t": "Ohhh!"
+    },
+    {
+     "s": 2,
+     "t": "Of course, age can be an issue. For a while, people always dragged me into pictures. I felt like some kind of animal on display..."
+    },
+    {
+     "s": 2,
+     "t": "Ahem, that isn't important. Let's go and see if we can find other tape recordings."
+    },
+    {
+     "section": "Karkata"
+    },
+    {
+     "s": 10,
+     "t": "(The mechanical crab stands in front of the machine, as if thinking about something.)"
+    },
+    {
+     "section": "Tighnari, Abattouy, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "Look, look! Paimon found another tape!"
+    },
+    {
+     "s": 1,
+     "t": "A date is written on it! Let Paimon see... It's from half a year ago!"
+    },
+    {
+     "s": 2,
+     "t": "That's quite the time gap. I wonder what happened in between..."
+    },
+    {
+     "sit": "After inserting the tape, the projector gradually begins to display a recording of the past..."
+    },
+    {
+     "s": 13,
+     "t": "It's rare that you malfunction because of an operational error."
+    },
+    {
+     "s": 13,
+     "t": "Seems that making coffee is still somewhat difficult for you. Or is there an issue with my set parameters?"
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 13,
+     "t": "Alright, there you go."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "Water entered the chela and caused it to short-circuit, so it couldn't receive signals from the ganglion..."
+    },
+    {
+     "s": 13,
+     "t": "Look at me, talking to you like this. You can't understand me anyway, can you? It's fine. I swapped in some new parts, so you should be alright now."
+    },
+    {
+     "s": 13,
+     "t": "Try moving around. Everything in working order?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "Be more careful next time! We're tight on money right now, so we don't have a lot of parts or power to spare."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "I'm glad. Karkata, did you know? Yesterday, I dreamed that you could talk."
+    },
+    {
+     "s": 13,
+     "t": "Aren't the bunch at the Akademiya always saying things like \"mechanical intelligence is just an extension of statistics\"? They were blown away when they saw us talking with each other."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "Too bad it was just a dream. Forget holding a conversation with me — you're so simple that you probably wouldn't even notice if I died."
+    },
+    {
+     "s": 13,
+     "t": "Never mind, I should probably be worrying about next month's power..."
+    },
+    {
+     "sit": "The recording ends here."
+    },
+    {
+     "s": 2,
+     "t": "After Abattouy left the Akademiya, everyone lost contact with him."
+    },
+    {
+     "s": 2,
+     "t": "I thought he was so despondent that he gave up on researching mechanical life forms. Instead, he had holed up here and continued his experiments."
+    },
+    {
+     "s": 1,
+     "t": "Paimon doesn't feel like he's a bad person. He even changed out Karkata's broken parts. Why would he mess with Ley Lines?"
+    },
+    {
+     "s": 4,
+     "t": "He mentioned something about \"power.\""
+    },
+    {
+     "s": 2,
+     "t": "Let's keep looking around."
+    },
+    {
+     "section": "Karkata"
+    },
+    {
+     "s": 10,
+     "t": "(Karkata stands in front of the machine, as if thinking about something.)"
+    },
+    {
+     "section": "Tighnari, Karkata, Abattouy"
+    },
+    {
+     "s": 2,
+     "t": "Following the serial numbers, the next recording should be here."
+    },
+    {
+     "s": 2,
+     "t": "The writing is sloppy. Perhaps his state of mind had changed."
+    },
+    {
+     "s": 2,
+     "t": "There's also an undated tape in the wrong spot. It doesn't seem like Abattouy put it there."
+    },
+    {
+     "s": 1,
+     "t": "Maybe Karkata helped him with sorting?"
+    },
+    {
+     "s": 2,
+     "t": "It's hard to say. These are the last two tape recordings. Let's watch them."
+    },
+    {
+     "sit": "After inserting the tape, the projector gradually begins to display a recording of the past..."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 10,
+     "t": "Kuli..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "Sorry, Karkata. I was just thinking about something. Today might become a special day."
+    },
+    {
+     "s": 13,
+     "t": "In my recent experiments, I successfully gave you a living being's \"instincts.\""
+    },
+    {
+     "s": 13,
+     "t": "When you're low on power or if one of your parts is damaged, you will prioritize your \"survival\" command and proactively recharge or replace your parts."
+    },
+    {
+     "s": 13,
+     "t": "That is a very dangerous thing. And today, I did something even more dangerous."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "I've officially activated the third generation Ley Line Extractor. The Ley Lines will serve as our power source from now on."
+    },
+    {
+     "s": 13,
+     "t": "Conducting research on mechanical life forms requires a large amount of power. Even if I scrimped and saved, the Mora I have wouldn't last for long."
+    },
+    {
+     "s": 13,
+     "t": "I'm also getting tired, Karkata. I don't know what's driving me to continue with this research anymore."
+    },
+    {
+     "s": 13,
+     "t": "They say that even if it simulates the operation of a living creature's organs, a machine is still an ice-cold tool. I want to prove them wrong. I want to turn you into a living, breathing, and talking being..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "I'm not talking about anything cheerful, Karkata."
+    },
+    {
+     "s": 13,
+     "t": "Modules for language, emotion, and movement... I've been working my absolute hardest to augment and refine your functionalities, but I've never seen an effective response."
+    },
+    {
+     "s": 13,
+     "t": "You are my finest success, but even you can't understand me. All you can do is execute limited responses based on preset commands or keywords."
+    },
+    {
+     "s": 13,
+     "t": "Karkata, I wish you could speak to me, even just once..."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "*sigh* Yes. You cannot understand me, so you cannot answer me, either."
+    },
+    {
+     "s": 13,
+     "t": "It is what it is. In a few days, I'll sell the failed Ley Line Extractor for some Mora and continue my experiments. Life goes on, and I have to as well — I don't have any other choice."
+    },
+    {
+     "sit": "The recording ends here. Tighnari quietly inserts the next tape."
+    },
+    {
+     "s": 13,
+     "t": "This is new."
+    },
+    {
+     "s": 13,
+     "t": "If I place another two control modules here to simulate the brain's thalamus..."
+    },
+    {
+     "s": 13,
+     "t": "Agh... Of course my heart decides to act up now. Why did I cut medication from our expenses...? Karkata? Come help me— *cough*"
+    },
+    {
+     "s": 13,
+     "t": "Strange... I feel weak..."
+    },
+    {
+     "s": 13,
+     "t": "Oh no, I have to shut down the extractor..."
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 13,
+     "t": "Shut them off... *cough* *cough* If we let them recharge indefinitely... they'll... go out of control..."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "Right... I never input a command to shut down the extractor, so you don't understand what I'm saying..."
+    },
+    {
+     "s": 13,
+     "t": "In the end, it's just like the Akademiya said: Mechanical life forms only bring danger. My research... Was there any point to it at all?"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 13,
+     "t": "I'm sorry, Karkata... In the end, I still wasn't able to turn you... into a true mechanical life form..."
+    },
+    {
+     "sit": "The last recording ends here."
+    },
+    {
+     "s": 2,
+     "t": "I see, so the Ley Line effluence was an accident."
+    },
+    {
+     "s": 2,
+     "t": "After Abattouy's unexpected death, the mechanical monsters were driven by their \"instincts\" and continuously drew out power from the Ley Line Extractor. This eventually resulted in severe damage to the Ley Lines."
+    },
+    {
+     "s": 4,
+     "t": "Then, Karkata..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon understands, then why didn't Karkata go haywire like the other machines?"
+    },
+    {
+     "s": 2,
+     "t": "Because Karkata is different from the other machines."
+    },
+    {
+     "s": 2,
+     "t": "To Abattouy, for a machine to truly be considered a mechanical life form, it must possess features similar to any other living organism... It should be structured similarly, it must be able to cry and laugh, and it must have the capacity for independent thought..."
+    },
+    {
+     "s": 2,
+     "t": "Perhaps only by building such a machine could he have the Akademiya acknowledge his protracted research."
+    },
+    {
+     "s": 2,
+     "t": "But if he had slowed down and saw Karkata as a friend instead of as an experimental product, he would have noticed."
+    },
+    {
+     "s": 2,
+     "t": "Karkata can't speak, and yet it cares about Abattouy far more than it does about itself."
+    },
+    {
+     "s": 1,
+     "t": "What does that mean?"
+    },
+    {
+     "s": 2,
+     "t": "You'll see in a bit. But before that, we have a more urgent task at hand."
+    },
+    {
+     "s": 2,
+     "t": "First, let's find the control unit for the Ley Line Extractor and shut it down."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "...This should be the control unit."
+    },
+    {
+     "s": 2,
+     "t": "Once we turn it off, the Ley Line Extractor should also shut down."
+    },
+    {
+     "s": 2,
+     "t": "Without an external force damaging the Ley Lines, they should start to slowly repair themselves."
+    },
+    {
+     "s": 2,
+     "t": "Oh, but I bet you two are more worried about Karkata. Let's head back."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 1,
+     "t": "So... Karkata has been collecting parts because it thinks doing so will \"fix\" its owner?"
+    },
+    {
+     "s": 2,
+     "t": "Karkata is unable to understand the concept of \"death.\""
+    },
+    {
+     "s": 2,
+     "t": "However, it probably remembers when Abattouy replaced its parts when it malfunctioned, and how that restored it to an operational state."
+    },
+    {
+     "s": 2,
+     "t": "It's true that Karkata isn't able to think or understand many topics, but it is like a small child that imitates what adults do."
+    },
+    {
+     "s": 1,
+     "t": "So that's why it kept stealing mechanical parts... But, it can't repair its owner, no matter how hard it tries."
+    },
+    {
+     "s": 2,
+     "t": "Yes, but the important thing is that it formed the thought of \"wanting to repair Abattouy.\""
+    },
+    {
+     "s": 2,
+     "t": "Who knows how this thought came to be... but it has even suppressed the \"instincts\" that Abattouy had installed."
+    },
+    {
+     "s": 2,
+     "t": "If it really is as we've predicted, this research truly will make waves in the Akademiya. It might've been possible to achieve this with ancient technology, but no one has been able to do the same with modern tools."
+    },
+    {
+     "s": 1,
+     "t": "Karkata? Karkata?"
+    },
+    {
+     "s": 1,
+     "t": "Can you hear Paimon? Tighnari says you're awesome!"
+    },
+    {
+     "s": 4,
+     "t": "It's not responding..."
+    },
+    {
+     "s": 2,
+     "t": "It reached its limit. It hasn't recharged this entire time, nor has it replaced its severely damaged parts."
+    },
+    {
+     "s": 2,
+     "t": "It's truly a miracle that it managed to hang on for so long."
+    },
+    {
+     "s": 2,
+     "t": "I'm going to go confirm that the Ley Line Extractor has shut down. Come with me."
+    },
+    {
+     "s": 2,
+     "t": "Let them... be alone for a while."
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "The Ley Line Extractor has ceased operations."
+    },
+    {
+     "s": 2,
+     "t": "Traces of Ley Line energy are still in the atmosphere, but the effluence's source has been stopped. The Purification Devices will handle the rest."
+    },
+    {
+     "s": 2,
+     "t": "Moving on, those affected by the Ley Lines need immediate care. We'll put up an announcement on the bulletin board about the dangers of entering the contaminated region, and for symptomatic individuals to find Collei."
+    },
+    {
+     "sit": "Karkata..."
+    },
+    {
+     "sit": "Abattouy's research..."
+    },
+    {
+     "s": 2,
+     "t": "According to the Akademiya's policies, we need to bring everything back."
+    },
+    {
+     "s": 2,
+     "t": "Research materials related to mechanical life forms will be destroyed, and Karkata will be disassembled and sealed away."
+    },
+    {
+     "s": 1,
+     "t": "What the heck!"
+    },
+    {
+     "s": 2,
+     "t": "You two should return first. I'll take care of things here."
+    },
+    {
+     "s": 2,
+     "t": "Although we've stopped the source of the effluence, the Ley Line energy in the air exceeds normal values. Your bodies won't be able to hold up if you continue to stay here."
+    },
+    {
+     "s": 1,
+     "t": "B—But..."
+    },
+    {
+     "s": 2,
+     "t": "Listen, {NICKNAME} hasn't rested very well, right?"
+    },
+    {
+     "s": 2,
+     "t": "Also, it'll take some time to pack up all the research documents. You're not familiar with this research after all, so you won't be of much use here."
+    },
+    {
+     "s": 2,
+     "t": "Tell the Adventurers' Guild that the incident has been resolved, and then get some sleep. We can discuss matters tomorrow."
+    },
+    {
+     "sit": "Tighnari marks out Pardis Dhyai on the map. He usually goes there when doing research."
+    },
+    {
+     "s": 2,
+     "t": "Oh, and... Don't talk about Abattouy. The fewer that know about mechanical life form research, the better."
+    },
+    {
+     "s": 1,
+     "t": "Alright... Then, let's go back to Katheryne..."
+    },
+    {
+     "s": 4,
+     "t": "Abattouy's research..."
+    },
+    {
+     "section": "Observe"
+    },
+    {
+     "s": 14,
+     "t": "(Before you lies a non-operational Karkata and a lifeless Abattouy.)"
+    },
+    {
+     "section": "Tighnari"
+    },
+    {
+     "s": 2,
+     "t": "Why are you still here?"
+    },
+    {
+     "s": 2,
+     "t": "I'll take care of this. Go and report to the Adventurers' Guild, and then get some rest."
+    }
+   ],
+   "description": "The mechanical crab has stopped at a certain point. The source of the contamination seems to be within."
+  },
+  {
+   "title": "Garden Memories",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 1,
+     "t": "...Anyway, so the contaminated region turned out to be a Ley Line effluence deep in the forest. Things are already getting back to normal."
+    },
+    {
+     "s": 0,
+     "t": "I see. Thank you for your hard work."
+    },
+    {
+     "s": 0,
+     "t": "Once the excess Ley Line energy dissipates from the air, we should be able to make an announcement for residents to resume their normal activities."
+    },
+    {
+     "s": 0,
+     "t": "This is the stipulated reward. Please accept it."
+    },
+    {
+     "sit": "After leaving the Adventurers' Guild, Paimon takes you to a quiet place..."
+    },
+    {
+     "s": 1,
+     "t": "Is Karkata... going to be sent back to the Akademiya?"
+    },
+    {
+     "s": 1,
+     "t": "It's already damaged, but Paimon feels sad thinking about it getting disassembled."
+    },
+    {
+     "s": 4,
+     "t": "Me too."
+    },
+    {
+     "s": 1,
+     "t": "Oh! Then how about we find Tighnari tomorrow and ask him to not do that?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon really wants to go right now, but Tighnari said that we would \"discuss matters tomorrow.\" We'll probably make him mad if we go now, huh?"
+    },
+    {
+     "s": 4,
+     "t": "Probably."
+    },
+    {
+     "s": 1,
+     "t": "Alright then! We'll find Tighnari tomorrow and tell him not to disassemble Karkata!"
+    },
+    {
+     "section": "Tighnari, Karkata"
+    },
+    {
+     "s": 1,
+     "t": "Tighnari—"
+    },
+    {
+     "s": 2,
+     "t": "Shh, keep your voice down."
+    },
+    {
+     "s": 2,
+     "t": "The Lilac Daphne, a daphne of the genus Thymelaeaceae, has a strong anticonvulsant effect. It can also be made into an anesthetic powder..."
+    },
+    {
+     "s": 2,
+     "t": "Extrapolating from these two data sets, it would be particularly potent against piscine species... Hey, make sure you're getting all this down."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 1,
+     "t": "Karkata!?"
+    },
+    {
+     "s": 10,
+     "t": "Kalu! Kalu!"
+    },
+    {
+     "s": 2,
+     "t": "I thought I told you all to keep your voices low. Plants aren't afraid of noise, but your shouting is making my ears ring."
+    },
+    {
+     "s": 1,
+     "t": "Y—You didn't disassemble Karkata?"
+    },
+    {
+     "s": 2,
+     "t": "Why would I do that?"
+    },
+    {
+     "s": 1,
+     "t": "But Paimon thought you said, \"According to the Akademiya's policies\"..."
+    },
+    {
+     "s": 2,
+     "t": "So that's why you two barged in like barbarians at this hour. Fine, I suppose I wasn't clear enough about this yesterday."
+    },
+    {
+     "s": 2,
+     "t": "What I meant was, according to the Akademiya's policies, all products of research must be destroyed. That's why we can't let the Akademiya discover that place."
+    },
+    {
+     "s": 4,
+     "t": "So the real reason you stayed back was to..."
+    },
+    {
+     "s": 2,
+     "t": "Anyway, the first thing I did was repair Karkata. During my time at the Akademiya, I took an elective course at the Spantamad. Who knew it would prove useful one day."
+    },
+    {
+     "s": 2,
+     "t": "We then buried Abattouy together. After organizing the research materials, I kept some as a souvenir, most of it was burned to hide the evidence."
+    },
+    {
+     "s": 2,
+     "t": "I'm not with the Akademiya, so what do their policies have to do with me? On the other hand, I am the Forest Watcher of the Avidya Forest. I have a duty to protect all life in the forest."
+    },
+    {
+     "s": 2,
+     "t": "All life brought forth in this world has meaning, and Karkata is no exception. If it exists, then it shouldn't be carelessly abandoned or destroyed."
+    },
+    {
+     "s": 1,
+     "t": "Hehe, that's great!"
+    },
+    {
+     "s": 10,
+     "t": "Kulilu?"
+    },
+    {
+     "s": 1,
+     "t": "Wait, you just said \"life form.\" You recognize Karkata as a true living being now?"
+    },
+    {
+     "s": 2,
+     "t": "The possibility exists is all. It's hard to explain Karkata's efforts to \"repair\" Abattouy."
+    },
+    {
+     "s": 2,
+     "t": "Abattouy only left behind a small portion of his research. Who knows how many commands he installed."
+    },
+    {
+     "s": 2,
+     "t": "Maybe a conflict between all those commands resulted in this sort of behavior."
+    },
+    {
+     "s": 2,
+     "t": "From a more rigorous perspective, it is impossible to conclude that Karkata is a real life form, but the possibility exists — I am willing to believe in that."
+    },
+    {
+     "s": 10,
+     "t": "Kolu!"
+    },
+    {
+     "s": 2,
+     "t": "By the way, I'm not interested in continuing research on this subject. I'm just letting it hang out here because this place is relatively secluded."
+    },
+    {
+     "s": 2,
+     "t": "But as things stand now, it wouldn't be a bad idea to make it my research assistant. At the very least, it can record my experiments."
+    },
+    {
+     "s": 2,
+     "t": "What do you think?"
+    },
+    {
+     "s": 10,
+     "t": "Kalu! Kalu!"
+    },
+    {
+     "section": "Early Photo"
+    },
+    {
+     "s": 15,
+     "t": "（test）放在一边的照片..."
+    },
+    {
+     "s": 15,
+     "t": "（test）看上去提纳里正在溜号。"
+    },
+    {
+     "section": "Early Photo"
+    },
+    {
+     "s": 15,
+     "t": "（test）放在卡卡塔身边的照片..."
+    },
+    {
+     "s": 15,
+     "t": "（test）是提纳里和学弟的合影..."
+    }
+   ],
+   "description": "Now that you’ve left the lab, you should inform Katheryne that the contamination issue has been resolved."
+  }
+ ],
+ "speakers": [
+  "Katheryne",
+  "Paimon",
+  "Tighnari",
+  "Yara",
+  "Traveler",
+  "Asha",
+  "Mahir",
+  "Akarsh",
+  "Abdo",
+  "Kadin",
+  "Karkata",
+  "Collei",
+  "Jasar",
+  "Abattouy",
+  "Observe",
+  "Early Photo"
+ ]
+}

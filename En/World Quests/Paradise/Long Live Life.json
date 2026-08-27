@@ -1,0 +1,994 @@
+{
+ "chapter": "Paradise",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Long Live Life",
+ "region": null,
+ "quests": [
+  {
+   "title": "Long Live Life",
+   "dialogue": [
+    {
+     "s": 0,
+     "t": "It won't open. {NICKNAME}, how about giving it a hard kick?"
+    },
+    {
+     "sit": "(Kick forcefully)"
+    },
+    {
+     "s": 0,
+     "t": "How is it?"
+    },
+    {
+     "sit": "I can't feel my leg."
+    },
+    {
+     "s": 0,
+     "t": "Pfff..."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 0,
+     "t": "It won't open. {NICKNAME}, how about giving it a real nasty kick?"
+    },
+    {
+     "sit": "(Kick forcefully)"
+    },
+    {
+     "s": 0,
+     "t": "How is it?"
+    },
+    {
+     "sit": "I can't feel my leg."
+    },
+    {
+     "s": 0,
+     "t": "Pfff..."
+    },
+    {
+     "section": "Daozi"
+    },
+    {
+     "s": 1,
+     "t": "Reach out your hand and touch the painting. Break this veil of illusion, and the world beyond shall receive you once more."
+    },
+    {
+     "s": 0,
+     "t": "Huh? What are you talking about?"
+    },
+    {
+     "s": 1,
+     "t": "In simpler terms, touch the painting, and you'll be able to return. Though the world outside is just another illusion."
+    },
+    {
+     "section": "Daozi, Zeitlind"
+    },
+    {
+     "s": 1,
+     "t": "Hahaha! Mountains cannot crush the buried spirit; through riven clouds, the sky at last appears. I'm free!"
+    },
+    {
+     "s": 1,
+     "t": "Hilda, Dex, and my new friends, please, accept my thanks."
+    },
+    {
+     "s": 2,
+     "t": "I'm her younger sister, Zeitlind."
+    },
+    {
+     "s": 1,
+     "t": "Oh? Why, you two look so alike!"
+    },
+    {
+     "s": 2,
+     "t": "Yes, I've been told that a lot."
+    },
+    {
+     "s": 1,
+     "t": "And who are these two?"
+    },
+    {
+     "s": 0,
+     "t": "My name's Paimon! And this is {NICKNAME}. It was Istoria's commission that brought us here."
+    },
+    {
+     "s": 1,
+     "t": "In that case, let's dispense with the introductions. Do you possess any degree of martial skill? Preferably of the sort that might see off a Legatus of Remuria."
+    },
+    {
+     "s": 0,
+     "t": "Just how did you come up with that description?"
+    },
+    {
+     "s": 1,
+     "t": "Ah, this goes back to how a certain border fortress rose to prominence when Remuria was destroyed."
+    },
+    {
+     "s": 1,
+     "t": "One day, after much time had passed, an old man arrived at its gates, claiming to be the acting master of the Guhua Clan."
+    },
+    {
+     "s": 1,
+     "t": "One day, the two sides fell to arguing."
+    },
+    {
+     "s": 1,
+     "t": "When the Remurian commander said that he was in charge of music in the army, the acting master thought him weak."
+    },
+    {
+     "s": 1,
+     "t": "But in truth, the greater your musical mastery, the higher your rank in the Remurian military. And this commander, why, he had already undergone petrification!"
+    },
+    {
+     "s": 1,
+     "t": "By the way, I don't know if you've heard of this, but everyone in the Remurian inner circles was transformed into \"Ichor,\" becoming semi-immortal golems."
+    },
+    {
+     "s": 1,
+     "t": "So, when the acting master channeled his inner energies into a single strike, he only wound up hurting his own hand."
+    },
+    {
+     "s": 0,
+     "t": "Uhhh..."
+    },
+    {
+     "s": 1,
+     "t": "He then spoke harshly, lamenting a lack of successors to the Guhua Clan's secret arts and the withering of talent on the vine in his era. Why, so he claimed, he didn't even possess a Vision!"
+    },
+    {
+     "s": 1,
+     "t": "— Of course, he wouldn't have been selected if he had one in the first place."
+    },
+    {
+     "s": 1,
+     "t": "After enduring the Apathic Interval, we could no longer receive Visions... But anyway, back to our story."
+    },
+    {
+     "s": 1,
+     "t": "The commander shot back with choice words of his own, claiming that the Legati of Remuria were far more terrifying than he could ever be."
+    },
+    {
+     "s": 0,
+     "t": "Eh, sure. Cool story, Paimon supposes? Also, don't worry. {NICKNAME}'s one thousand percent got what it takes to defeat a Legatus."
+    },
+    {
+     "sit": "With both hands tied behind my back, even!"
+    },
+    {
+     "sit": "Best that I keep a low profile, eh?"
+    },
+    {
+     "s": 1,
+     "t": "Hahaha, that's great."
+    },
+    {
+     "s": 0,
+     "t": "By the way, why were you in the painting? And what are those humanoid ink blots?"
+    },
+    {
+     "s": 1,
+     "t": "This is how Melanta delivers punishment: Sealing people into paintings and smushing them into ink blots."
+    },
+    {
+     "s": 1,
+     "t": "Just like my cage, which was encased in layers of paintings."
+    },
+    {
+     "s": 0,
+     "t": "So the ink blots we saw back there were actually... people?"
+    },
+    {
+     "s": 1,
+     "t": "Yes."
+    },
+    {
+     "s": 1,
+     "t": "Now, a word to the wise."
+    },
+    {
+     "s": 1,
+     "t": "The more realistic a painting is, the more fitting a cage it is to ensconce your spirit. After all, its essence may be grasped at a glance."
+    },
+    {
+     "s": 1,
+     "t": "As such, expect hidden secrets lurking behind any realistic paintings you find here."
+    },
+    {
+     "s": 0,
+     "t": "And what should we do next?"
+    },
+    {
+     "s": 1,
+     "t": "This is not the right place for such talk. Let's head back first."
+    },
+    {
+     "s": 1,
+     "t": "(test)去花鸟区寻找下一幅画吧"
+    },
+    {
+     "section": "Zeitlind, Daozi"
+    },
+    {
+     "s": 0,
+     "t": "Huh. We sure made it back quickly!"
+    },
+    {
+     "s": 2,
+     "t": "This place truly is full of wonders."
+    },
+    {
+     "s": 1,
+     "t": "It is indeed fabulous, comparable to the finishing touch from Rex Lapis's hand, which brought stone to life."
+    },
+    {
+     "s": 1,
+     "t": "And with the power of your heart and mind, you can really turn those lifelike paintings into reality."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, what's our next plan of action?"
+    },
+    {
+     "s": 1,
+     "t": "The key to restoring the entire library lies in completing that final, illuminating stroke. But before we do that, we must first restore this painting."
+    },
+    {
+     "s": 1,
+     "t": "\"Once the Heavenly Heart Emerges, the Four Horizons Fade to White.\""
+    },
+    {
+     "s": 0,
+     "t": "Wh—What a commanding name."
+    },
+    {
+     "s": 1,
+     "t": "That's Inazuman preferences in painting names for you."
+    },
+    {
+     "s": 1,
+     "t": "Theoretically, we should be able to complete the missing part of the painting in the Tower of Radiant Light."
+    },
+    {
+     "s": 1,
+     "t": "But with our path barred, it seems we can only head to the Abode of Resplendent Talent to see if we can reach the Tower of Radiant Light from there."
+    },
+    {
+     "s": 0,
+     "t": "Wait, it was behind this door the whole time?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon had {NICKNAME} kick this thing, full force! {NICKNAME}'s strong enough to level mountains, but the door didn't even budge."
+    },
+    {
+     "s": 1,
+     "t": "Is your foot numb?"
+    },
+    {
+     "sit": "Yeah..."
+    },
+    {
+     "s": 1,
+     "t": "Probably because this door was manifested from the painting through the mind. As such, it doesn't exist as physical matter as we know it."
+    },
+    {
+     "s": 1,
+     "t": "Istoria once mentioned that he had a teacher named Aristocles, who was always saying that \"mind prevails over matter.\" I guess this is what they meant."
+    },
+    {
+     "s": 1,
+     "t": "But leveling mountains, you say... That would make you just as powerful as Azhdaha. Speaking of which..."
+    },
+    {
+     "s": 1,
+     "t": "Yu Huangyi from the Mahavaipulya Chamber told me that Azhdaha already existed back in his era."
+    },
+    {
+     "s": 1,
+     "t": "As such, the so-called \"finishing touch\" that brought the dragon to life was nothing more than a legend, the invention of later generations. A fine story all the same, of course."
+    },
+    {
+     "s": 0,
+     "t": "And did you realize something from that?"
+    },
+    {
+     "s": 1,
+     "t": "I just told him, \"You've ruined a precious memory, you know that?\""
+    },
+    {
+     "s": 2,
+     "t": "I can relate."
+    },
+    {
+     "s": 1,
+     "t": "*sigh* Never mind, just take it as a fun little anecdote. Anyway, since the door was born from a painting, a painter must open it. Allow me to do that for you."
+    },
+    {
+     "s": 2,
+     "t": "You don't seem very surprised."
+    },
+    {
+     "s": 0,
+     "t": "That's because {NICKNAME}'s been through even crazier stuff."
+    },
+    {
+     "s": 2,
+     "t": "Lots of extraordinary adventures, huh? Guess I shouldn't even be surprised if you've saved the world before."
+    },
+    {
+     "s": 0,
+     "t": "She(He) and her brother(his sister) were separated by an awful god."
+    },
+    {
+     "s": 0,
+     "t": "The main goal of our adventure is to find her(his) lost sibling."
+    },
+    {
+     "s": 0,
+     "t": "So {NICKNAME} can understand how you feel."
+    },
+    {
+     "s": 2,
+     "t": "I hope you find your sibling, and may you live a life of peace and happiness."
+    },
+    {
+     "s": 0,
+     "t": "Oh... Paimon's sorry. She forgot that you won't..."
+    },
+    {
+     "s": 2,
+     "t": "Ah, please, don't apologize. It was my fault for bringing it up. Also, that's not what I meant."
+    },
+    {
+     "s": 2,
+     "t": "I really hope that your wish comes true."
+    },
+    {
+     "sit": "Thank you, Zeitlind."
+    },
+    {
+     "s": 1,
+     "t": "Alright. Open sesame!"
+    },
+    {
+     "s": 0,
+     "t": "Let's get moving, then!"
+    },
+    {
+     "section": "Zeitlind, Daozi"
+    },
+    {
+     "s": 2,
+     "t": "These photos..."
+    },
+    {
+     "s": 1,
+     "t": "Ah, they were painted using a Kamera, yes?"
+    },
+    {
+     "s": 1,
+     "t": "Back then, your sister told us of something capable of creating pictures even more lifelike than the most realistic paintings."
+    },
+    {
+     "s": 1,
+     "t": "We all wondered what it would be like."
+    },
+    {
+     "s": 1,
+     "t": "It's a shame that she didn't have a Kamera, nor did she have a picture painted by it on hand."
+    },
+    {
+     "s": 1,
+     "t": "Now that I've seen one myself, it does look incredibly lifelike."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, how's that for feeling smug? Machines have taken realism to its natural end, but there's still room for imagination, y'know?"
+    },
+    {
+     "s": 1,
+     "t": "Not exactly. No matter how realistic the painting, it still carries the painter's emotions and aesthetic sense."
+    },
+    {
+     "s": 1,
+     "t": "Though some of the colors can't be found in the real world, you can really feel the painter's heart from the way said colors are used."
+    },
+    {
+     "s": 1,
+     "t": "Even the most realistic painting carries within it minor details of fiction, exaggeration, and blur. That's where the artist's aesthetics and craft come into play."
+    },
+    {
+     "s": 0,
+     "t": "Okay... It's not like Paimon doesn't get it. Paimon just wanted to compliment you so she could ask you to, y'know, maybe draw something for us later...?"
+    },
+    {
+     "sit": "Don't you already have Albedo's painting of you?"
+    },
+    {
+     "sit": "Could we take it with us?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon wants to see what a more expressive version of her would look like, though!"
+    },
+    {
+     "s": 2,
+     "t": "Thank you so much."
+    },
+    {
+     "s": 0,
+     "t": "Zeitlind, could Paimon have a look?"
+    },
+    {
+     "s": 2,
+     "t": "Sure. These photos were taken during my sister's vacation."
+    },
+    {
+     "s": 2,
+     "t": "The passerby she asked was really bad at photography, so some photos only show the top of her head poking out from the bottom."
+    },
+    {
+     "s": 1,
+     "t": "But I can tell that she's smiling happily all the same."
+    },
+    {
+     "s": 2,
+     "t": "Sorry to let you see that. The lighting and composition of these photos are terrible. There's no sense of depth or layering at all."
+    },
+    {
+     "s": 1,
+     "t": "It's not that bad. I think these are the best... uh, pho-toes."
+    },
+    {
+     "s": 1,
+     "t": "If your sister hadn't insisted on only showing her head, these would've been the worst of scenic paintings... I mean, scenic photos."
+    },
+    {
+     "s": 1,
+     "t": "But thanks to her, they have become memories and proof of her presence there."
+    },
+    {
+     "s": 2,
+     "t": "...I think I get what you mean."
+    },
+    {
+     "s": 2,
+     "t": "I've found my stuff. Let's keep helping Daozi out, shall we?"
+    },
+    {
+     "s": 1,
+     "t": "I think the painting there leads to the Abode of Resplendent Talent. See if you can find a way to the Tower of Radiant Light from there."
+    },
+    {
+     "s": 1,
+     "t": "That said, I won't be joining you for your next journey."
+    },
+    {
+     "s": 1,
+     "t": "I'll head back to the central area to let others know we're safe. Then I'll be back in no time."
+    },
+    {
+     "s": 1,
+     "t": "Whether I succeed or not, I should have enough time to see you again on my way back."
+    },
+    {
+     "section": "\"Maukie\""
+    },
+    {
+     "s": 3,
+     "t": "Hello, my name is Escher. I'm a painter."
+    },
+    {
+     "s": 0,
+     "t": "Oh, so you're the \"Maukie\" that Istoria was talking about? The one who did all those amazing paintings?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah. My birth name was Escher, though."
+    },
+    {
+     "s": 3,
+     "t": "Anyway, please come with me, I'll take you somewhere safe."
+    },
+    {
+     "s": 0,
+     "t": "But we're not looking for a safe place. We're here to solve the problem."
+    },
+    {
+     "s": 3,
+     "t": "If that's the case, you should also come with me. I'll take you where you need to go."
+    },
+    {
+     "section": "\"Maukie\""
+    },
+    {
+     "s": 3,
+     "t": "Hello, my name is Escher. I'm a painter."
+    },
+    {
+     "s": 0,
+     "t": "Oh, so you're the \"Maukie\" that Istoria was talking about? The one who did all those amazing paintings?"
+    },
+    {
+     "s": 0,
+     "t": "Wait, Paimon just remembered... Have we met before?"
+    },
+    {
+     "s": 3,
+     "t": "No, and Escher was my birth name, so..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, really? Do you have any brothers who suddenly disappeared?"
+    },
+    {
+     "s": 3,
+     "t": "I'm afraid not."
+    },
+    {
+     "s": 3,
+     "t": "Anyway, please come with me, I'll take you somewhere safe."
+    },
+    {
+     "s": 0,
+     "t": "But we're not looking for a safe place. We're here to solve the problem."
+    },
+    {
+     "s": 3,
+     "t": "If that's the case, you should also come with me. I'll take you where you need to go."
+    },
+    {
+     "s": 0,
+     "t": "Hmm. Weird guy. Eh, whatever. Let's follow him and see what he's up to."
+    },
+    {
+     "section": "Daozi"
+    },
+    {
+     "s": 1,
+     "t": "Oh, sorry to keep you waiting. Looks like things went smoothly for you guys, too."
+    },
+    {
+     "s": 0,
+     "t": "Daozi, can you believe it? We ran into a fake Escher!"
+    },
+    {
+     "sit": "You fill Daozi in about what just happened..."
+    },
+    {
+     "s": 1,
+     "t": "Hmph. This must be Melanta working from behind the curtain."
+    },
+    {
+     "s": 1,
+     "t": "To him, names are nothing but a string of numbers slapped onto us when we arrive here."
+    },
+    {
+     "s": 1,
+     "t": "How would he know that \"Maukie\" was a nickname that Escher's grandfather and father gave him in his childhood?"
+    },
+    {
+     "s": 0,
+     "t": "But as it turned out, everyone here gets along so well that you all call him that now."
+    },
+    {
+     "s": 1,
+     "t": "Just because we were somewhat... unsettled by his paintings doesn't mean we dislike him."
+    },
+    {
+     "s": 1,
+     "t": "It's just that messing with space is a grave issue around here."
+    },
+    {
+     "s": 0,
+     "t": "That only makes Paimon want to see his work even more."
+    },
+    {
+     "s": 1,
+     "t": "You'll get the chance to see it, I'm sure."
+    },
+    {
+     "s": 1,
+     "t": "Now that we've got the whole set of paintings, one stroke is all we need to connect them. Allow my clumsy hand to provide that finishing touch."
+    },
+    {
+     "s": 1,
+     "t": "After all, I did coach Kanou on his Liyue landscape paintings. He won't mind me adding a little something."
+    },
+    {
+     "s": 1,
+     "t": "Through this painting, you should be able to reach the Pavilion of Paintings at the center."
+    },
+    {
+     "s": 1,
+     "t": "Once you're inside, try reaching out and plucking the heavenly heart."
+    },
+    {
+     "s": 1,
+     "t": "It just occurred to me — \"adding feet to a dragon\" and \"dotting the eyes of a dragon\" are both sayings concerning dragons."
+    },
+    {
+     "s": 1,
+     "t": "But their meanings are worlds apart."
+    },
+    {
+     "s": 0,
+     "t": "They sure are."
+    },
+    {
+     "section": "Daozi"
+    },
+    {
+     "s": 1,
+     "t": "Touching this screen should do it."
+    },
+    {
+     "s": 1,
+     "t": "Then, try to pluck the star."
+    },
+    {
+     "section": "Yoshitoshi"
+    },
+    {
+     "s": 4,
+     "t": "Speaking of which, I haven't seen Maukie anywhere. Did he end up trapped in the Desert Pavilion?"
+    },
+    {
+     "s": 1,
+     "t": "That's on you lot. Why did you lure him into the construction site anyway?"
+    },
+    {
+     "s": 4,
+     "t": "We weren't excluding him or anything! We just wanted him to show the people from the \"Desert Pavilion\" how shocking the spatial distortion is. After all, they're the ones who are so obsessed with space."
+    },
+    {
+     "s": 1,
+     "t": "Messing with space might break the rules around here. He's probably been \"forcibly exiled\" by Melanta by now."
+    },
+    {
+     "section": "Daozi, Kanou, Yoshitoshi, Bosch, Zeitlind"
+    },
+    {
+     "s": 1,
+     "t": "Kanou, Yoshitoshi, Bosch, you've all come back to life!"
+    },
+    {
+     "s": 5,
+     "t": "Ah, yeah. And I never want to paint another screen again."
+    },
+    {
+     "s": 1,
+     "t": "Good to have you back, {NICKNAME}, Paimon, and our young Zeitlind."
+    },
+    {
+     "s": 4,
+     "t": "I owe you all a great deal."
+    },
+    {
+     "s": 6,
+     "t": "You really look like Hilda."
+    },
+    {
+     "s": 2,
+     "t": "She's my older sister."
+    },
+    {
+     "s": 6,
+     "t": "I know, I know... This old man's still got an eye for people."
+    },
+    {
+     "s": 6,
+     "t": "Speaking of which... Zeitlind, come here for a moment."
+    },
+    {
+     "section": "Bosch"
+    },
+    {
+     "s": 0,
+     "t": "These melons..."
+    },
+    {
+     "s": 6,
+     "t": "Mm-hmm."
+    },
+    {
+     "s": 0,
+     "t": "Are they ripe?"
+    },
+    {
+     "s": 6,
+     "t": "Huh?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon means, are you sure they're ready to eat?"
+    },
+    {
+     "s": 6,
+     "t": "That doesn't matter."
+    },
+    {
+     "s": 6,
+     "t": "Zeitlind, the two of us used to teach your sister how to draw."
+    },
+    {
+     "s": 2,
+     "t": "That's her signature..."
+    },
+    {
+     "s": 6,
+     "t": "And since it's her stuff, you should be the one to keep them and take them away from this place."
+    },
+    {
+     "s": 2,
+     "t": "What do you think of this painting?"
+    },
+    {
+     "s": 6,
+     "t": "How should I put it? Some people can paint on par with masters in their teenage years, and so they spent the rest of their lives searching for paintings imbued with childlike innocence."
+    },
+    {
+     "s": 6,
+     "t": "I can neither discern a masterful temper nor childlike innocence from Hilda's painting."
+    },
+    {
+     "s": 6,
+     "t": "Instead, it is tinged with sadness."
+    },
+    {
+     "s": 0,
+     "t": "Isn't the sadness conveyed by painting the fruit impressive enough?"
+    },
+    {
+     "s": 7,
+     "t": "Really? Are you telling me this painting is devoid of childlike charm and doesn't look like a master's work?"
+    },
+    {
+     "s": 1,
+     "t": "Talent and diligent practice are prerequisites for cultivating the spirit of a master."
+    },
+    {
+     "s": 1,
+     "t": "So, uh, why don't you forget what we've taught and do another painting?"
+    },
+    {
+     "s": 7,
+     "t": "You guys are hilarious."
+    },
+    {
+     "s": 7,
+     "t": "I'm not doing another painting. I've experienced it once already, and I find it quite interesting."
+    },
+    {
+     "s": 7,
+     "t": "But just as a canvas, once colored, cannot return to pristine white, how could I possibly forget what I've learned?"
+    },
+    {
+     "s": 7,
+     "t": "Let the mediocre piece be as it is."
+    },
+    {
+     "s": 2,
+     "t": "Is that so? So it's just a mediocre piece."
+    },
+    {
+     "s": 2,
+     "t": "And yet... she still signed her name on it."
+    },
+    {
+     "s": 6,
+     "t": "Yes. When we artists take commissions, we always use secret signatures to sign our work."
+    },
+    {
+     "s": 6,
+     "t": "So she named the painting \"Long Live Life\"... and then she left."
+    },
+    {
+     "s": 4,
+     "t": "What do you think? Are you going to take her painting with you?"
+    },
+    {
+     "s": 2,
+     "t": "No, let it stay where it belongs."
+    },
+    {
+     "s": 2,
+     "t": "Such paintings may become lost and destroyed in less than a hundred years if brought outside. Better let it repose in eternal peace here with you."
+    },
+    {
+     "s": 1,
+     "t": "I see."
+    },
+    {
+     "section": "Istoria, Zeitlind"
+    },
+    {
+     "s": 8,
+     "t": "Looks like everything's going smoothly."
+    },
+    {
+     "s": 0,
+     "t": "Istoria! What are you doing here?"
+    },
+    {
+     "s": 8,
+     "t": "Daozi told me that you had arrived at Luyang Academy, so I came along with him."
+    },
+    {
+     "s": 8,
+     "t": "How's the search going? Have you found what you were looking for this time, Zeitlind?"
+    },
+    {
+     "s": 2,
+     "t": "I have."
+    },
+    {
+     "s": 8,
+     "t": "Could you tell me what it was that landed in Luyang Academy this time? This is the place of painters, after all."
+    },
+    {
+     "s": 8,
+     "t": "And to tell the truth, I haven't a foggiest what it might be."
+    },
+    {
+     "s": 2,
+     "t": "Photos from my sister's Kamera."
+    },
+    {
+     "s": 8,
+     "t": "A Kamera... I've heard people talking about such devices before."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, you're falling behind. The painters have all heard about Kameras from Zeitlind's sister."
+    },
+    {
+     "s": 8,
+     "t": "That's because people here focus on the visual arts. It's normal that she'd talk to them about it."
+    },
+    {
+     "s": 8,
+     "t": "The thing I discussed most with Hilda was... philosophy."
+    },
+    {
+     "s": 0,
+     "t": "Philosophy!"
+    },
+    {
+     "s": 2,
+     "t": "It's hard to imagine my sister talking about this with someone as knowledgeable as you."
+    },
+    {
+     "s": 8,
+     "t": "Oh, you flatter me. We weren't getting into any deep or complex debates. We were just chatting about how to look at the everyday things around us."
+    },
+    {
+     "s": 8,
+     "t": "For example, the most fundamental question of philosophy is whether one should or shouldn't end it all tomorrow."
+    },
+    {
+     "s": 0,
+     "t": "Huh?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "Allow me to explain. In a sense, our inquiry into the world is a search for the very meaning of our existence within it."
+    },
+    {
+     "s": 8,
+     "t": "Whether we are the children seated upon the gods' knees, or merely echoes in the winds of inconstant time..."
+    },
+    {
+     "s": 8,
+     "t": "All of that is too far removed. How can an ordinary person weigh themselves against the universe? For most, the \"world\" is no more than their own life."
+    },
+    {
+     "s": 8,
+     "t": "If we one day discover that everything is destined to return to nothingness in the far future, would our lives now still hold meaning?"
+    },
+    {
+     "s": 8,
+     "t": "Or, should our lives be a shoreless sea of suffering to begin with, then the world may in truth be but a collection of agonies."
+    },
+    {
+     "s": 8,
+     "t": "In either case, there is no difference between living and not. In the latter, death might even be called a release."
+    },
+    {
+     "s": 0,
+     "t": "Paimon... Paimon doesn't think that's right. Not that she knows how to argue against you, though."
+    },
+    {
+     "s": 2,
+     "t": "And what was my sister's response?"
+    },
+    {
+     "s": 8,
+     "t": "Never mind that. I was the one arguing that even if life is inherently meaningless, we should still choose to live it."
+    },
+    {
+     "s": 2,
+     "t": "Ah, it seems you haven't heard."
+    },
+    {
+     "s": 2,
+     "t": "I saw my sister's tombstone back at the sanatorium."
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "Thanks for trying to save her in the end."
+    },
+    {
+     "s": 8,
+     "t": "What's written on her epitaph?"
+    },
+    {
+     "s": 2,
+     "t": "\"One lifetime doesn't count.\""
+    },
+    {
+     "s": 8,
+     "t": "Is that what it says?"
+    },
+    {
+     "s": 8,
+     "t": "I see."
+    },
+    {
+     "s": 0,
+     "t": "Zeitlind..."
+    },
+    {
+     "s": 8,
+     "t": "I can hardly believe it myself, and I wish I could say something to take your pain away."
+    },
+    {
+     "s": 8,
+     "t": "Give me some time, though."
+    },
+    {
+     "s": 2,
+     "t": "You don't have to say anything."
+    },
+    {
+     "s": 2,
+     "t": "I thought I'd cry the moment I saw her tombstone, but as it turned out, I was unusually calm."
+    },
+    {
+     "s": 2,
+     "t": "It would have been better if I had cried."
+    },
+    {
+     "s": 8,
+     "t": "That's not what I meant."
+    },
+    {
+     "s": 8,
+     "t": "Anyway... you'll understand later."
+    }
+   ],
+   "description": "Strange ink blots wander around the Luyang Academy…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Daozi",
+  "Zeitlind",
+  "\"Maukie\"",
+  "Yoshitoshi",
+  "Kanou",
+  "Bosch",
+  "Raumhilda",
+  "Istoria"
+ ]
+}

@@ -1,0 +1,580 @@
+{
+ "chapter": "A Certain Stamp",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "A Certain Stamp",
+ "region": null,
+ "quests": [
+  {
+   "title": "A Certain Stamp",
+   "dialogue": [
+    {
+     "section": "Iaune"
+    },
+    {
+     "s": 0,
+     "t": "The wording here needs to be reconsidered... Now, what's the best way to phrase it...?"
+    },
+    {
+     "section": "Iaune"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "sit": "Iaune?"
+    },
+    {
+     "sit": "Are... you done writing?"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "sit": "Iaune!"
+    },
+    {
+     "s": 0,
+     "t": "Ah!? What!? Yes, yes, I finished, I finished writing!"
+    },
+    {
+     "sit": "It's me! Did you finish writing it?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, it's you... I... I must have fallen asleep. Sorry."
+    },
+    {
+     "s": 0,
+     "t": "Mr. Roialte and Mr. Semaine stayed with me half the night. With their guidance, I finally managed to finish the proposal."
+    },
+    {
+     "s": 0,
+     "t": "But I was just too tired, I thought I'd just close my eyes for a bit, I never thought I'd sleep until now..."
+    },
+    {
+     "s": 0,
+     "t": "I need to go find Mr. Thales first, and have him stamp this proposal with the official seal of the Maison Gestion, and then take the proposal to Mr. Difor for his stamp, and then we can begin officially printing it... and then we'll be done with this!"
+    },
+    {
+     "sit": "Sounds simple enough."
+    },
+    {
+     "sit": "At least it's not as complicated as before."
+    },
+    {
+     "s": 0,
+     "t": "Yeah. In any case, I've heard that Mr. Thales has introduced a brand-new type of machine for affixing stamps. They say that it's convenient and made with confidentiality in mind, and that they plan to use it throughout the entire Maison Gestion."
+    },
+    {
+     "s": 0,
+     "t": "Take a look, Mr. Roialte even gave me a key! Every department must use this key to activate the stamping machine... Anyway, it all sounds pretty formal and official."
+    },
+    {
+     "s": 1,
+     "t": "Why don't you take another nap? It looks like you can barely walk straight."
+    },
+    {
+     "s": 1,
+     "t": "Anyway, it's just getting a document stamped, and there's that... stamping machine to do it, there's no need to rush."
+    },
+    {
+     "s": 0,
+     "t": "No! We cannot afford any more delays. Let us go right away, like you said, it's only a stamp, it shouldn't take too much time."
+    },
+    {
+     "section": "Thales"
+    },
+    {
+     "s": 2,
+     "t": "This machine sure is hard to use... *sigh*"
+    },
+    {
+     "section": "Thales"
+    },
+    {
+     "s": 0,
+     "t": "Thales, can I get my documents stamped now?"
+    },
+    {
+     "s": 2,
+     "t": "Yes! Of course you can. Did you bring the key? And please, sign here too."
+    },
+    {
+     "s": 0,
+     "t": "I thought we wouldn't need to sign now that we've got the machine."
+    },
+    {
+     "s": 2,
+     "t": "Well, about that... The machine must still be operated by someone, so you still have to sign in, don'cha? It's a guarantee."
+    },
+    {
+     "s": 2,
+     "t": "But this machine is perfect for maintaining secrecy! Without a key, even I can't start it up!"
+    },
+    {
+     "s": 2,
+     "t": "Put the documents there, and make sure they are properly aligned. Then insert the key into the keyhole."
+    },
+    {
+     "s": 1,
+     "t": "Is this that... automatic stamping machine? It looks really... ordinary..."
+    },
+    {
+     "s": 0,
+     "t": "Like this? And just turn the key..."
+    },
+    {
+     "s": 2,
+     "t": "Wait a second! Just hold that pose, don't move! I'll take a picture."
+    },
+    {
+     "sit": "Not afraid of leaks?"
+    },
+    {
+     "sit": "Why do you want to take a photo?"
+    },
+    {
+     "s": 2,
+     "t": "When we first deployed these machines, Mr. Carsix specifically specified that we must use a Kamera to make a record of everyone that came to get documents stamped..."
+    },
+    {
+     "s": 2,
+     "t": "I need to move... Can't have this document in the frame."
+    },
+    {
+     "s": 2,
+     "t": "Recently, someone said that there's going to be a new document promulgated here at the Maison Gestion, that specifically addresses secrets leaked through Kameras. I don't want to be the first one to be made an example of..."
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, let's go wait outside. If we're in the photo, maybe we'll get sucked into some kind of baloney involving \"leaked secrets.\""
+    },
+    {
+     "sit": "Thales carefully takes a picture..."
+    },
+    {
+     "s": 2,
+     "t": "...Okay, I've taken the photo. Please start up the machine."
+    },
+    {
+     "s": 0,
+     "t": "I turned the key already! Why isn't it responding?"
+    },
+    {
+     "s": 2,
+     "t": "That's impossible! I just repaired it. It can't be broken again already!"
+    },
+    {
+     "sit": "Thales begins to inspect the machine..."
+    },
+    {
+     "s": 2,
+     "t": "That's odd, there's nothing wrong with it..."
+    },
+    {
+     "sit": "Reinsert the key and try again?"
+    },
+    {
+     "s": 0,
+     "t": "Okay, here goes..."
+    },
+    {
+     "sit": "Iaune takes out the key, puts it back in, and the machine still doesn't move..."
+    },
+    {
+     "s": 0,
+     "t": "It's not working, Thales, think of something!"
+    },
+    {
+     "s": 2,
+     "t": "Maybe you didn't align the document properly? You need to fit the document to the markings, there are hidden trigger mechanisms inside."
+    },
+    {
+     "sit": "Does the document have anything to do with the machine not starting?"
+    },
+    {
+     "s": 2,
+     "t": "Of course it does! Otherwise, how could the machine know there are documents waiting to be stamped? This is an automatic machine, after all, I'm not operating it manually!"
+    },
+    {
+     "s": 0,
+     "t": "Oh for the love of... Fine, fine! I'll make sure it's properly aligned with all the markings."
+    },
+    {
+     "sit": "Iaune takes out the document and places it back. The machine still sits there, silently..."
+    },
+    {
+     "s": 0,
+     "t": "It's no good! It still isn't working."
+    },
+    {
+     "s": 2,
+     "t": "How could this be? Though last time I gave it a little smack, and then it started working properly again."
+    },
+    {
+     "sit": "Then I'll give it a whack."
+    },
+    {
+     "s": 0,
+     "t": "It appears we have no choice but to try it... Are we getting close to the point where we resort to prayer to try and fix it?"
+    },
+    {
+     "s": 2,
+     "t": "That's true, we can still pray, can't we?"
+    },
+    {
+     "sit": "(Lightly tap the machine.)"
+    },
+    {
+     "s": 0,
+     "t": "(The machine replies to you with complete silence...)"
+    },
+    {
+     "sit": "(Put a bit more oomph into this tap.)"
+    },
+    {
+     "s": 0,
+     "t": "(The machine seems like it's too lazy to even care about your efforts.)"
+    },
+    {
+     "sit": "(Smack it so hard that its later iterations will feel it!)"
+    },
+    {
+     "s": 0,
+     "t": "(The machine breaks its silence, and lets out a rusty, annoyed sound, as though a very sleepy person just fell out of bed...)"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! What's that sound? Don't tell Paimon the machine completely broke down!"
+    },
+    {
+     "s": 0,
+     "t": "(...And then, as if the machine sleepily found its slippers and stumbled over to turn on the light, it begins to operate with a whirr and a clunk)."
+    },
+    {
+     "s": 1,
+     "t": "I—It's finally working..."
+    },
+    {
+     "sit": "The autostamper is well-worn, but it works slowly and methodically.<br/>With several people on the brink of despair gazing at it intently, the machine slowly drops a stamp downward, with all the speed of an elderly Tent Tortoise climbing a cliff. The stamp, having taken its first step onto the paper, seems to stagger around on the document, before meandering slowly about, and finally settling down to rest. Finally, the machine shivers and shudders, and begins to slowly retract the stamp..."
+    },
+    {
+     "s": 2,
+     "t": "Haha, I TOLD you it would work!"
+    },
+    {
+     "s": 0,
+     "t": "I truly don't understand just what's so great about this machine. It's called \"automatic,\" but it's far slower than just doing it by hand."
+    },
+    {
+     "s": 2,
+     "t": "But it is perfect for maintaining confidentiality and secrecy! Look around! Even if we wanted to, we couldn't take the stamp out and use it for our own private purposes without permission!"
+    },
+    {
+     "s": 0,
+     "t": "Don't act so smug! What if the machine completely breaks down, and Mr. Carsix isn't here either? What then?"
+    },
+    {
+     "s": 2,
+     "t": "Hmm... Well, it'll still be okay. I have a backup key."
+    },
+    {
+     "s": 0,
+     "t": "To open up this machine?"
+    },
+    {
+     "s": 2,
+     "t": "No, to open up a box in Mr. Carsix's office. There's a backup stamp in there."
+    },
+    {
+     "s": 0,
+     "t": "...Traveler, let's hurry up! We must bind and staple the document so we can deliver it to Mr. Difor."
+    },
+    {
+     "s": 0,
+     "t": "I can't wait to be free from this nightmare."
+    },
+    {
+     "section": "Iaune"
+    },
+    {
+     "s": 0,
+     "t": "Okay! We have all the stamps, the document has been bound and stapled, and all that's left is to give it to Mr. Difor, and we'll finally be done!"
+    },
+    {
+     "s": 0,
+     "t": "Today, I'm going to get a good night's sleep, and forget about all of this. Then I'll take a day off, and go find Estelle..."
+    },
+    {
+     "s": 3,
+     "t": "Mr. Iaune, do you have a moment?"
+    },
+    {
+     "s": 0,
+     "t": "Yes, what is it? No way did the reimbursement get approved so quickly."
+    },
+    {
+     "s": 3,
+     "t": "That it did not, but... Monsieur Neuvillette sent someone to me, and had me come ask you... Why are you expensing a single keycap, and not an entire typewriter?"
+    },
+    {
+     "s": 0,
+     "t": "Because... well, because a single keycap fell off, that's all! Why would I need to expense an entire new typewriter?"
+    },
+    {
+     "s": 1,
+     "t": "Y'know, that does make sense."
+    },
+    {
+     "s": 3,
+     "t": "Perhaps, but our list of items eligible for reimbursement includes typewriters, not individual keycaps. As such, keycaps are a brand-new payment item."
+    },
+    {
+     "s": 3,
+     "t": "Therefore, you must submit a written document to Monsieur Neuvillette, and explain in detail why you are expensing that single keycap..."
+    },
+    {
+     "s": 1,
+     "t": "Why does it feel like some kind of bad joke, and not actual government business..."
+    },
+    {
+     "sit": "Is that really necessary?"
+    },
+    {
+     "sit": "That seems kinda ridiculous..."
+    },
+    {
+     "s": 0,
+     "t": "So, you want me to... to write a separate report to the Chief Justice, explaining how I lost a single keycap?"
+    },
+    {
+     "s": 3,
+     "t": "The Maison Cardinalice said that it was a request from Monsieur Neuvillette himself."
+    },
+    {
+     "s": 0,
+     "t": "As if! The Maison Cardinalice says everything is \"a request from Monsieur Neuvillette himself\"!"
+    },
+    {
+     "s": 4,
+     "t": "But no one dares test the waters and see if that's actually the truth. Come now, Iaune, calm down and listen to me."
+    },
+    {
+     "s": 4,
+     "t": "As a Gestionnaire of the Maison Gestion, orders from the Chief Justice are an imperative, carrying the full weight of the administration. Simply put, you have no choice but to write it."
+    },
+    {
+     "s": 4,
+     "t": "Not that this is a bad thing, you know! You can use this chance to show off your handwriting to him. Not everyone gets a chance to make a separate report to him!"
+    },
+    {
+     "s": 0,
+     "t": "But, I..."
+    },
+    {
+     "sit": "Uh-oh..."
+    },
+    {
+     "s": 5,
+     "t": "Hello! Friends, good news! We just caught someone leaking secrets with a Kamera red-handed! A sterling example of negative behavior that we shall conclude in the proposal."
+    },
+    {
+     "s": 5,
+     "t": "And as for this criminal who knew the law yet knowingly violated it, is in fact the very person who reminded everyone not to use Kameras lest they expose secrets, Mr. Carsix."
+    },
+    {
+     "s": 1,
+     "t": "Him...! It's because of him that Iaune was up all night writing the proposal! And now he's been caught breaking the rules first, no less!"
+    },
+    {
+     "s": 5,
+     "t": "He used a Kamera to take multiple photos of his office, and then distributed them to reporters."
+    },
+    {
+     "s": 5,
+     "t": "One of the photos included his own minutes from meetings. And the public has now discovered, the contents of the minutes are wildly different from what he said in his previous speeches."
+    },
+    {
+     "s": 5,
+     "t": "Rumors are swirling like mad, and it appears that Mr. Carsix's office is about to become the biggest joke in Fontaine... again."
+    },
+    {
+     "s": 1,
+     "t": "Wait a minute! What do the minutes have to do with the speech?"
+    },
+    {
+     "s": 5,
+     "t": "Almost all of the contents of the speech were agreed upon in the meetings recorded by those minutes. Of course they're related."
+    },
+    {
+     "sit": "So why are they so different?"
+    },
+    {
+     "s": 5,
+     "t": "Oh, that's actually quite normal. The purpose of the meetings and the minutes is to tell us exactly what content cannot appear in the speech."
+    },
+    {
+     "s": 5,
+     "t": "Carsix himself hasn't got the foggiest notion of what he's going to say, and doesn't even have his own ideas. He is completely reliant on being reminded by his subordinates."
+    },
+    {
+     "s": 0,
+     "t": "Wait, so where is Mr. Carsix now?"
+    },
+    {
+     "s": 5,
+     "t": "He's awaiting investigation in my office. After all, not only did he leak secret documents, but he also caused quite the storm in the city... I think he may have to stay in there awhile."
+    },
+    {
+     "s": 0,
+     "t": "But what about my document!? I finished writing it, it's all stamped up and ready and... I... *cough* *cough* *cough*"
+    },
+    {
+     "s": 1,
+     "t": "H—Hey now, it's okay, you wrote it, it'll get sent out eventually."
+    },
+    {
+     "sit": "It wasn't a waste, calm down."
+    },
+    {
+     "sit": "Please, relax, there's always a way."
+    },
+    {
+     "s": 6,
+     "t": "Iaune! Iaune, are you there?"
+    },
+    {
+     "s": 0,
+     "t": "Mr. Semaine, you're finally here! Please, help me think of something!"
+    },
+    {
+     "s": 6,
+     "t": "Don't talk about that now! Your keycap, have you already expensed it?"
+    },
+    {
+     "s": 0,
+     "t": "You think? I even have to write a report to Monsieur Neuvillette himself about it."
+    },
+    {
+     "s": 6,
+     "t": "Oh... Drat."
+    },
+    {
+     "s": 6,
+     "t": "Take a look. Is this that keycap?"
+    },
+    {
+     "s": 0,
+     "t": "You... Where did you find it?"
+    },
+    {
+     "s": 6,
+     "t": "It was under my desk. Just as the cleaning staff was sweeping, they accidentally swept it over. Someone saw it and put it on my desk."
+    },
+    {
+     "s": 6,
+     "t": "I thought it was a keycap from my own typewriter at first, so I put it away. But today, I took a look and... I realized my typewriter wasn't missing a single keycap, so..."
+    },
+    {
+     "s": 0,
+     "t": "This nightmare... when will it end..."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, what, really, is the meaning behind my work..."
+    },
+    {
+     "sit": "Iaune falls to the ground in a faint..."
+    },
+    {
+     "s": 6,
+     "t": "Iaune? Iaune!"
+    },
+    {
+     "sit": "Iaune is rushed to the doctor..."
+    },
+    {
+     "s": 6,
+     "t": "Ah, this is all my fault! If only I'd found the keycap earlier, things wouldn't have turned out like this."
+    },
+    {
+     "sit": "How is this issue about the keycap, hello!?"
+    },
+    {
+     "s": 1,
+     "t": "That's right! Everything's a complete mess. Iaune didn't even know what to do!"
+    },
+    {
+     "s": 1,
+     "t": "Gattineo and Difor have also just vanished... What's going on with these guys, anyway?"
+    },
+    {
+     "sit": "Iaune cares about the meaning of his work."
+    },
+    {
+     "sit": "Iaune doesn't know what the point of his work is."
+    },
+    {
+     "s": 4,
+     "t": "*sigh* That kid's always thinking about those sorts of things."
+    },
+    {
+     "s": 4,
+     "t": "\"The point of work\"... Such a grand topic can't be easily explained in just a few words."
+    },
+    {
+     "s": 4,
+     "t": "You'll only heap more pressure on yourself by constantly worrying about such issues."
+    },
+    {
+     "sit": "Well, do you know the answer, then?"
+    },
+    {
+     "s": 6,
+     "t": "No. I've never even considered it. I just work."
+    },
+    {
+     "s": 4,
+     "t": "As for me... While I do think about it now and then, I have my own way to deal with stress."
+    },
+    {
+     "s": 4,
+     "t": "If you really want to find the answer, perhaps we could find some time to talk more."
+    },
+    {
+     "s": 4,
+     "t": "But right now, I've got to buy some fruit and go see Iaune."
+    },
+    {
+     "s": 6,
+     "t": "Now that's the main matter, and no mistake. I'm also going to go help Iaune apply for sick leave. He really needs to rest."
+    },
+    {
+     "s": 4,
+     "t": "Great, we each have our tasks. That's the way to get things done."
+    },
+    {
+     "s": 4,
+     "t": "We'll see you later then, {NICKNAME}."
+    },
+    {
+     "s": 6,
+     "t": "Huh? That's weird... Where did I put that sick leave form...?"
+    }
+   ],
+   "description": "Iaune from the Maison Gestion is hard at work…"
+  }
+ ],
+ "speakers": [
+  "Iaune",
+  "Paimon",
+  "Thales",
+  "Cornelia",
+  "Roialte",
+  "Gattineo",
+  "Semaine"
+ ]
+}

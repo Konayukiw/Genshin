@@ -1,0 +1,704 @@
+{
+  "name": "王の近侍",
+  "rarity": 4,
+  "type": "弓",
+  "base_atk": 41,
+  "passive": {
+    "name": "迷宮の王の教え",
+    "refinements": {
+      "R1": "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+60。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力100%分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。",
+      "R2": "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+80。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力120%分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。",
+      "R3": "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+100。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力140%分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。",
+      "R4": "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+120。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力160%分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。",
+      "R5": "元素スキルまたは元素爆発を発動すると、継続時間12秒の「森の教え」効果を獲得し、元素熟知+140。この効果はキャラクターを切り替えるとクリアされる。「森の教え」効果の継続時間終了またはクリア時に、近くの敵1体に攻撃力180%分のダメージを与える。「森の教え」効果は20秒毎に1回のみ獲得できる。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 41,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 2,
+      "base_atk": 44,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 3,
+      "base_atk": 47,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 4,
+      "base_atk": 51,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 5,
+      "base_atk": 54,
+      "substat": "ATK%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 6,
+      "base_atk": 57,
+      "substat": "ATK%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 7,
+      "base_atk": 60,
+      "substat": "ATK%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 8,
+      "base_atk": 63,
+      "substat": "ATK%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 9,
+      "base_atk": 66,
+      "substat": "ATK%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 10,
+      "base_atk": 69,
+      "substat": "ATK%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 11,
+      "base_atk": 72,
+      "substat": "ATK%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 12,
+      "base_atk": 75,
+      "substat": "ATK%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 13,
+      "base_atk": 78,
+      "substat": "ATK%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 14,
+      "base_atk": 81,
+      "substat": "ATK%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 15,
+      "base_atk": 84,
+      "substat": "ATK%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 16,
+      "base_atk": 87,
+      "substat": "ATK%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 17,
+      "base_atk": 90,
+      "substat": "ATK%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 18,
+      "base_atk": 93,
+      "substat": "ATK%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 19,
+      "base_atk": 96,
+      "substat": "ATK%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 20,
+      "base_atk": 99,
+      "substat": "ATK%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 21,
+      "base_atk": 128,
+      "substat": "ATK%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 22,
+      "base_atk": 131,
+      "substat": "ATK%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 23,
+      "base_atk": 134,
+      "substat": "ATK%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 24,
+      "base_atk": 137,
+      "substat": "ATK%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 25,
+      "base_atk": 140,
+      "substat": "ATK%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 26,
+      "base_atk": 143,
+      "substat": "ATK%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 27,
+      "base_atk": 146,
+      "substat": "ATK%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 28,
+      "base_atk": 149,
+      "substat": "ATK%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 29,
+      "base_atk": 152,
+      "substat": "ATK%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 30,
+      "base_atk": 155,
+      "substat": "ATK%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 31,
+      "base_atk": 158,
+      "substat": "ATK%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 32,
+      "base_atk": 161,
+      "substat": "ATK%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 33,
+      "base_atk": 163,
+      "substat": "ATK%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 34,
+      "base_atk": 166,
+      "substat": "ATK%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 35,
+      "base_atk": 169,
+      "substat": "ATK%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 36,
+      "base_atk": 172,
+      "substat": "ATK%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 37,
+      "base_atk": 175,
+      "substat": "ATK%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 38,
+      "base_atk": 178,
+      "substat": "ATK%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 39,
+      "base_atk": 181,
+      "substat": "ATK%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 40,
+      "base_atk": 184,
+      "substat": "ATK%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 41,
+      "base_atk": 213,
+      "substat": "ATK%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 42,
+      "base_atk": 215,
+      "substat": "ATK%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 43,
+      "base_atk": 218,
+      "substat": "ATK%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 44,
+      "base_atk": 221,
+      "substat": "ATK%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 45,
+      "base_atk": 224,
+      "substat": "ATK%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 46,
+      "base_atk": 227,
+      "substat": "ATK%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 47,
+      "base_atk": 230,
+      "substat": "ATK%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 48,
+      "base_atk": 233,
+      "substat": "ATK%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 49,
+      "base_atk": 236,
+      "substat": "ATK%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 50,
+      "base_atk": 238,
+      "substat": "ATK%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 51,
+      "base_atk": 267,
+      "substat": "ATK%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 52,
+      "base_atk": 270,
+      "substat": "ATK%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 53,
+      "base_atk": 273,
+      "substat": "ATK%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 54,
+      "base_atk": 276,
+      "substat": "ATK%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 55,
+      "base_atk": 278,
+      "substat": "ATK%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 56,
+      "base_atk": 281,
+      "substat": "ATK%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 57,
+      "base_atk": 284,
+      "substat": "ATK%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 58,
+      "base_atk": 287,
+      "substat": "ATK%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 59,
+      "base_atk": 290,
+      "substat": "ATK%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 60,
+      "base_atk": 293,
+      "substat": "ATK%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 61,
+      "base_atk": 321,
+      "substat": "ATK%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 62,
+      "base_atk": 324,
+      "substat": "ATK%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 63,
+      "base_atk": 327,
+      "substat": "ATK%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 64,
+      "base_atk": 330,
+      "substat": "ATK%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 65,
+      "base_atk": 333,
+      "substat": "ATK%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 66,
+      "base_atk": 335,
+      "substat": "ATK%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 67,
+      "base_atk": 338,
+      "substat": "ATK%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 68,
+      "base_atk": 341,
+      "substat": "ATK%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 69,
+      "base_atk": 344,
+      "substat": "ATK%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 70,
+      "base_atk": 347,
+      "substat": "ATK%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 71,
+      "base_atk": 375,
+      "substat": "ATK%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 72,
+      "base_atk": 378,
+      "substat": "ATK%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 73,
+      "base_atk": 381,
+      "substat": "ATK%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 74,
+      "base_atk": 384,
+      "substat": "ATK%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 75,
+      "base_atk": 387,
+      "substat": "ATK%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 76,
+      "base_atk": 389,
+      "substat": "ATK%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 77,
+      "base_atk": 392,
+      "substat": "ATK%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 78,
+      "base_atk": 395,
+      "substat": "ATK%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 79,
+      "base_atk": 398,
+      "substat": "ATK%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 80,
+      "base_atk": 401,
+      "substat": "ATK%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 81,
+      "base_atk": 429,
+      "substat": "ATK%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 82,
+      "base_atk": 432,
+      "substat": "ATK%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 83,
+      "base_atk": 435,
+      "substat": "ATK%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 84,
+      "base_atk": 438,
+      "substat": "ATK%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 85,
+      "base_atk": 440,
+      "substat": "ATK%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 86,
+      "base_atk": 443,
+      "substat": "ATK%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 87,
+      "base_atk": 446,
+      "substat": "ATK%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 88,
+      "base_atk": 449,
+      "substat": "ATK%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 89,
+      "base_atk": 452,
+      "substat": "ATK%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 90,
+      "base_atk": 454,
+      "substat": "ATK%",
+      "substat_value": 55.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "烈日権威の残響",
+          "id": 114045,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "キノコンの衰菌核",
+          "id": 112062,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "牢固な矢先",
+          "id": 112011,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "烈日権威の残光",
+          "id": 114046,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "キノコンの衰菌核",
+          "id": 112062,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "牢固な矢先",
+          "id": 112011,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "烈日権威の残光",
+          "id": 114046,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "キノコンの眠菌核",
+          "id": 112063,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "鋭利な矢先",
+          "id": 112012,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "烈日権威の夢想",
+          "id": 114047,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "キノコンの眠菌核",
+          "id": 112063,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "鋭利な矢先",
+          "id": 112012,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "烈日権威の夢想",
+          "id": 114047,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "キノコンの壮菌核",
+          "id": 112064,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "歴戦の矢先",
+          "id": 112013,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "烈日権威の往日",
+          "id": 114048,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "キノコンの壮菌核",
+          "id": 112064,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "歴戦の矢先",
+          "id": 112013,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

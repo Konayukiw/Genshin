@@ -1,0 +1,920 @@
+{
+ "chapter": "True Tales of the Violet Garden: Act I",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Strange Tale of Suikou's Tipsy Tincture",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Strange Tale of Suikou's Tipsy Tincture",
+   "dialogue": [
+    {
+     "section": "Lyra"
+    },
+    {
+     "s": 0,
+     "t": "Hello! You must be here to take part in the Irodori Festival? We're the festival guides and will show you around."
+    },
+    {
+     "s": 1,
+     "t": "Yes, that's right. We are bards from Mondstadt."
+    },
+    {
+     "s": 1,
+     "t": "Word has it that Inazuma has undergone many changes of late. We hope to find fresh inspiration here."
+    },
+    {
+     "sit": "Uh, Paimon? What are you doing?"
+    },
+    {
+     "s": 0,
+     "t": "These guests are all bards, aren't they? Well, where's Tone-Deaf Bard then?"
+    },
+    {
+     "s": 0,
+     "t": "Strange, he is pretty famous in Mondstadt... Do you think he didn't receive an invitation?"
+    },
+    {
+     "sit": "Even if he was invited, there's a chance he still wouldn't show up."
+    },
+    {
+     "s": 0,
+     "t": "Huh, why's that?"
+    },
+    {
+     "sit": "Well, you know. Venti's an..."
+    },
+    {
+     "s": 0,
+     "t": "Oh... Paimon sees what you're getting at. Even though Venti no longer rules over Mondstadt, he's still an archon."
+    },
+    {
+     "s": 0,
+     "t": "If he came rushing to Inazuma at the first mention of a festival, not only would it seem a little childish, it would also sorta be shameless of him, too."
+    },
+    {
+     "s": 2,
+     "t": "Miss(Mr.) Honorary Knight! Paimon!"
+    },
+    {
+     "s": 0,
+     "t": "It's Klee! Were you also invited to the Irodori Festival?"
+    },
+    {
+     "s": 2,
+     "t": "No, Albedo's the one who received the invitation."
+    },
+    {
+     "s": 2,
+     "t": "But because everyone in the Knights of Favonius has been really busy these days, Albedo arranged for someone here to issue me a Dependant Pass."
+    },
+    {
+     "s": 3,
+     "t": "Greetings, {NICKNAME} and Paimon. After hearing that Inazuma was making preparations for the Irodori Festival, I predicted that I might run into you here."
+    },
+    {
+     "s": 0,
+     "t": "Hah, Paimon knew it! Albedo's the one they've invited to paint The Five Kasen."
+    },
+    {
+     "s": 3,
+     "t": "It seems that you already know why I'm here. Just so you're aware, I'll be using my pen name in Inazuma, Calx."
+    },
+    {
+     "s": 3,
+     "t": "By the way, do you know where the International Trade Association is? I'll be meeting with the editorial director of the Yae Publishing House there."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, the International Trade Association is where you'll be staying in Inazuma. We'll be heading there, too."
+    },
+    {
+     "s": 3,
+     "t": "Great, let's get going then."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 2,
+     "t": "Wow, it's so beautiful here. So many things I've never seen before!"
+    },
+    {
+     "s": 3,
+     "t": "Slow down, Klee. Please, be careful not to bump into others."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* Telling Klee so many stories about Inazuma during the trip was probably not the best idea."
+    },
+    {
+     "s": 3,
+     "t": "As a result, she could hardly sleep all the way here. It appears she's even more excited now that we've arrived."
+    },
+    {
+     "sit": "That's how kids are."
+    },
+    {
+     "sit": "Nothing wrong with a little excitement."
+    },
+    {
+     "s": 3,
+     "t": "Strange... It seems that the editorial director, Mr. Hirayama, isn't here yet. I'm certain he said that he'd be sure to arrive before me. This might be a problem."
+    },
+    {
+     "sit": "What's wrong?"
+    },
+    {
+     "s": 3,
+     "t": "Well, Mr. Hirayama was supposed to meet with me and give me some reference materials about The Five Kasen today. That way, I could better visualize the content for my paintings."
+    },
+    {
+     "s": 0,
+     "t": "You mean you had no idea what you'd be painting before you arrived in Inazuma?"
+    },
+    {
+     "s": 3,
+     "t": "I only know of The Five Kasen by name. Because of the sheer age of the tale, very little has been passed down to this day, so Mr. Hirayama decided to help me collect some more information."
+    },
+    {
+     "s": 3,
+     "t": "I'm the type of painter who can complete a painting quickly as long as I'm inspired. So I agreed on only receiving the details today."
+    },
+    {
+     "s": 0,
+     "t": "So when do the paintings have to be done by?"
+    },
+    {
+     "s": 3,
+     "t": "According to the festival plans, the portraits will be revealed one at a time throughout the various stages of the Irodori Festival. The first one depicting Suikou will need to be done before the festival's official opening ceremony, which is the day after tomorrow."
+    },
+    {
+     "s": 0,
+     "t": "The day after tomorrow!? Then you're already running out of time!"
+    },
+    {
+     "s": 3,
+     "t": "There's no need to panic. When I was working on light novel illustrations, because the manuscripts are shipped by boat, things were always tight and finished at the last minute."
+    },
+    {
+     "s": 3,
+     "t": "Just last month, to ensure the latest book of A Legend of Sword would be finished for the Irodori Festival, I had to complete the final chapter's illustrations the same day I received the manuscript."
+    },
+    {
+     "s": 3,
+     "t": "I heard that my illustrations were sent to print as soon as they arrived in Inazuma. I still don't know how well they turned out."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Paimon isn't sure if she should feel sympathetic for your working conditions, or compliment you on your artistic genius."
+    },
+    {
+     "s": 3,
+     "t": "Of course, I would still prefer to receive any possible reference materials in advance so that I can be better prepared."
+    },
+    {
+     "sit": "Speaking of which, Miko did mention..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! The editors of the Yae Publishing House will all be around the Outlander Affairs Agency these next few days."
+    },
+    {
+     "s": 0,
+     "t": "Who knows, maybe Mr. Hirayama's over there too. We'll take you over there to see if we can find him, Albedo!"
+    },
+    {
+     "s": 3,
+     "t": "Alright, it's worth a try. Klee, you haven't slept for a while now. Please stay at our residence in the International Trade Association and get some rest. We will be back soon."
+    },
+    {
+     "s": 2,
+     "t": "Okey-dokey. Don't worry, Albedo, I'll be on my best behavior!"
+    },
+    {
+     "section": "Murata"
+    },
+    {
+     "s": 4,
+     "t": "This can't be happening! The moment we need to contact Onodera is when he's on special leave."
+    },
+    {
+     "s": 4,
+     "t": "Kuroda and I will go back to Inazuma City for an emergency printing run. The demand for this book is so high though, even with the emergency prints it still might not be enough."
+    },
+    {
+     "s": 5,
+     "t": "Despite everything, we're still lucky that we found out today. If this had happened a few days later, then we'd really be in boiling water."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* Hey, do you think that the suspicious guy they found in the warehouse has anything to do with this?"
+    },
+    {
+     "s": 6,
+     "t": "Well, the editorial director is on his way over there to investigate the situation as we speak."
+    },
+    {
+     "s": 0,
+     "t": "Uh, sorry to interrupt, but what's going on here?"
+    },
+    {
+     "s": 5,
+     "t": "Oh, hey Traveler. Don't worry, it's nothing. Just an internal issue, that's all. How can I help you?"
+    },
+    {
+     "s": 3,
+     "t": "I'm looking for the editorial director, Mr. Hirayama. Does anyone know where he is now?"
+    },
+    {
+     "s": 5,
+     "t": "Mr. Hirayama is currently at the warehouse down by the harbor..."
+    },
+    {
+     "s": 6,
+     "t": "Hold on a second, Murata."
+    },
+    {
+     "s": 6,
+     "t": "Uh, excuse me, but you must be Calx, the one who was invited to paint The Five Kasen for the festival?"
+    },
+    {
+     "s": 3,
+     "t": "Yes, that's me."
+    },
+    {
+     "s": 6,
+     "t": "My name is Kuroda. You must be inquiring about information regarding The Five Kasen."
+    },
+    {
+     "s": 6,
+     "t": "I do apologize, but please make yourself comfortable at the International Trade Association, and I will let Mr. Hirayama know to send you the materials right away."
+    },
+    {
+     "s": 0,
+     "t": "Oh, no need! You guys look super busy, so we can go find him ourselves."
+    },
+    {
+     "s": 6,
+     "t": "Ah well, a—about that..."
+    },
+    {
+     "s": 3,
+     "t": "Excuse me, but is there something wrong with the latest volume of A Legend of Sword?"
+    },
+    {
+     "s": 6,
+     "t": "Huh! How did you know?"
+    },
+    {
+     "s": 3,
+     "t": "Since you were all aware that Mr. Hirayama needed to send me some supporting materials, that means the editorial director didn't forget about it. Instead, something urgent must've cropped up."
+    },
+    {
+     "s": 3,
+     "t": "To add to that, despite being aware that I am Calx, you are still unwilling to let me go to Mr. Hirayama directly."
+    },
+    {
+     "s": 3,
+     "t": "After considering these factors, the only reason you would try to stall me is if something happened to A Legend of Sword, which I did the illustrations for."
+    },
+    {
+     "s": 6,
+     "t": "Well, uh... *sigh* I'm very sorry. The situation is just as you said, Calx. I suppose it doesn't hurt to tell you now..."
+    },
+    {
+     "s": 6,
+     "t": "Earlier today, someone spotted a suspicious outlander sneaking around inside the Irodori Festival warehouse down by the docks, so they promptly alerted the Tenryou Commission."
+    },
+    {
+     "s": 6,
+     "t": "The Tenryou Commission was concerned about potential cargo theft, so they contacted everyone who was renting space in the warehouse. It was then that we realized that the latest copies of A Legend of Sword had suddenly gone missing!"
+    },
+    {
+     "s": 0,
+     "t": "What? The books are missing!?"
+    },
+    {
+     "s": 6,
+     "t": "Shh... Not so loud!"
+    },
+    {
+     "s": 6,
+     "t": "Not only is this book an eagerly anticipated release in the last phase of the Irodori Festival, but the author, Zhenyu, will be personally attending the release party as well."
+    },
+    {
+     "s": 5,
+     "t": "Because of the dire situation, Mr. Hirayama immediately hurried to the warehouse to determine whether the theft was related to that suspicious outlander."
+    },
+    {
+     "s": 3,
+     "t": "I see. It would be a great misfortune if A Legend of Sword would not be released on schedule, and quite the disappointment for Zhenyu as well."
+    },
+    {
+     "s": 3,
+     "t": "If Mr. Hirayama has gone to the warehouse at the docks, then I'll go down to see if I can be of any help."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "So the author of A Legend of Sword is Zhenyu, sounds familiar... Hey, isn't that Xingqiu's pen name?"
+    },
+    {
+     "s": 3,
+     "t": "Oh? Do you know him?"
+    },
+    {
+     "sit": "We've met on a couple of occasions."
+    },
+    {
+     "s": 0,
+     "t": "Xingqiu would definitely be upset if he discovers that his books are missing... Let's accompany Albedo to the warehouse, too."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Zhenyu... Hmm, sounds like a name from Liyue. Albedo, what kind of person is the author of this book?"
+    },
+    {
+     "s": 3,
+     "t": "I have not met him personally, but the editors said that he is actually the second son of the Feiyun Commerce Guild family in Liyue."
+    },
+    {
+     "sit": "The second son of the Feiyun Commerce Guild?"
+    },
+    {
+     "sit": "Isn't that Xingqiu?"
+    },
+    {
+     "s": 3,
+     "t": "Oh? Do you know him?"
+    },
+    {
+     "sit": "We've met on a couple of occasions."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, that's a real twist! Paimon never would have guessed that Xingqiu would be publishing a light novel together with Albedo!"
+    },
+    {
+     "s": 0,
+     "t": "But enough about that, Xingqiu would definitely be upset if he discovers that his books are missing."
+    },
+    {
+     "s": 0,
+     "t": "Let's accompany Albedo to the warehouse, too."
+    },
+    {
+     "section": "Murata"
+    },
+    {
+     "s": 5,
+     "t": "Aratani and Kuroda are going back to Inazuma City to start printing extra copies of A Legend of Sword. I'll stay here and hold down the fort."
+    },
+    {
+     "s": 5,
+     "t": "Of course, I still hope those novels can be found soon and that things won't take a turn for the worse."
+    },
+    {
+     "section": "Venti"
+    },
+    {
+     "s": 7,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? It's you...! Why are you here!?"
+    },
+    {
+     "s": 7,
+     "t": "I'm here on behalf of the Tenryou Commission, of course. Is that surprising?"
+    },
+    {
+     "s": 0,
+     "t": "No, Sara, Paimon wasn't talking about you..."
+    },
+    {
+     "s": 0,
+     "t": "So, Tone-Deaf Bard... The suspicious outlander in the warehouse wouldn't happen to be you, would it?"
+    },
+    {
+     "s": 8,
+     "t": "Ehe... Considering the evidence, it appears that the suspicious outlander is... indeed me."
+    },
+    {
+     "s": 7,
+     "t": "As I have told you, you are a suspect. Before your allegations of theft and illegal entry as a stowaway are cleared, you are to remain silent. Don't make me say it again."
+    },
+    {
+     "s": 7,
+     "t": "Traveler, Paimon, do you know this self-proclaimed bard from Mondstadt?"
+    },
+    {
+     "sit": "Well, I can't say he's a complete stranger..."
+    },
+    {
+     "sit": "You could say we're quite familiar..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, listen Sara... Knowing him, it's safe to say that he wasn't behind the theft. But, what's this about being a stowaway?"
+    },
+    {
+     "s": 7,
+     "t": "Although he claims to be a special guest for the Irodori Festival, he's failed to present his Invitation Letter. Therefore, we can only suspect that he might've entered the country illegally."
+    },
+    {
+     "s": 7,
+     "t": "And just a moment ago, we caught him in a Dandelion Wine crate near the Sailing Breeze."
+    },
+    {
+     "sit": "Could we ask him a few questions?"
+    },
+    {
+     "s": 7,
+     "t": "If it would help shed any light on the situation, then please, be my guest."
+    },
+    {
+     "s": 0,
+     "t": "Uh, Venti... You didn't really come here illegally, did you?"
+    },
+    {
+     "s": 8,
+     "t": "Ouch, your words wound me... We've been apart for so long, and the moment we meet again, all I'm greeted with is grilling questions and suspicious glares."
+    },
+    {
+     "s": 8,
+     "t": "*sigh* You arrived in Inazuma via similar means, or, so I heard... You of all people should be more understanding, don't you think?"
+    },
+    {
+     "s": 7,
+     "t": "\"Similar means\"?"
+    },
+    {
+     "sit": "Let's not bring up past now!"
+    },
+    {
+     "sit": "We had no choice!"
+    },
+    {
+     "s": 8,
+     "t": "Haha, I merely jest. Fear not, for the person who sent me the invitation is none other than Kamisato Ayato of Yashiro Commission. It's unlikely that someone acquainted with the likes of him would ever be here illegally, right?"
+    },
+    {
+     "s": 0,
+     "t": "But why weren't you on the same ship as the other bards?"
+    },
+    {
+     "s": 8,
+     "t": "Well, once I received the Invitation Letter, I couldn't help but want to come to Inazuma a little early. It was then that I happened upon a cargo ship bound for Inazuma transporting Dandelion Wine, so, naturally, I decided to set sail with them."
+    },
+    {
+     "s": 8,
+     "t": "Once aboard, I found the captain to be a kindred spirit, and I was treated to an abundance of fine liquor along the way. Uh, I must have fallen asleep in the cargo crate while carefully comparing the tastes of Dandelion Wine and Inazuman sake."
+    },
+    {
+     "s": 8,
+     "t": "And when I woke up, I found myself in this warehouse with a Tenryou Commission general glaring at me from atop the crate."
+    },
+    {
+     "s": 0,
+     "t": "Coming from Venti, this story is quite believable. But, it still feels a bit..."
+    },
+    {
+     "sit": "Childish..."
+    },
+    {
+     "sit": "Shameless..."
+    },
+    {
+     "s": 9,
+     "t": "Excuse me, I'm the owner of the stolen goods from the Yae Publishing House, and there are some questions I would like to ask you."
+    },
+    {
+     "s": 9,
+     "t": "Based on what you just said, it seems you've been in the warehouse for some time now. If that's the case, did you happen to hear anything unusual?"
+    },
+    {
+     "s": 8,
+     "t": "Actually, I did hear some faint footsteps around me a couple of times. But I didn't consider the sound anything out of the ordinary."
+    },
+    {
+     "s": 9,
+     "t": "Hmm? But if you clearly heard something, why didn't you feel it was unusual?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, I seem to understand now."
+    },
+    {
+     "s": 0,
+     "t": "Huh? What did you notice, Albedo?"
+    },
+    {
+     "s": 3,
+     "t": "When it comes to burglars, they are generally associated with prying or rummaging through things. What Venti means is that he did not hear anything unusual like that."
+    },
+    {
+     "s": 3,
+     "t": "As for the sound of footsteps, because this is a warehouse where many goods are coming in and out each day, it is quite normal for people to be walking around."
+    },
+    {
+     "s": 9,
+     "t": "I see, but if that's the case, then we're back to square one regarding the stolen books."
+    },
+    {
+     "s": 3,
+     "t": "No, not quite. From the facts that have been presented to us, we can draw at least three conclusions now."
+    },
+    {
+     "s": 3,
+     "t": "First, whoever took the novels is not a spur-of-the-moment burglar, they had their sights on the books from the very beginning. Second, the culprit was very familiar with the warehouse and might even have a key. And third..."
+    },
+    {
+     "sit": "There must be more than one criminal involved."
+    },
+    {
+     "s": 3,
+     "t": "I knew you'd catch on, {NICKNAME}. One person couldn't possibly transport so many heavy books in such a short window of time, it must have been a team effort."
+    },
+    {
+     "s": 3,
+     "t": "It goes without saying that Venti clearly does not match up with our culprits."
+    },
+    {
+     "s": 7,
+     "t": "Yes, I agree with your reasoning."
+    },
+    {
+     "s": 7,
+     "t": "Mr. Hirayama, the Tenryou Commission will continue by investigating the warehouse staff. If you come across any further clues, please notify us immediately."
+    },
+    {
+     "s": 9,
+     "t": "Yes, understood. I'll leave it to you, then."
+    },
+    {
+     "s": 8,
+     "t": "Hee hee, I suppose I'm free as a bird then..."
+    },
+    {
+     "s": 7,
+     "t": "Not so fast. Even though we've cleared the theft allegations, we still haven't ascertained whether your arrival in Inazuma was legal or not."
+    },
+    {
+     "s": 8,
+     "t": "Aw, 'tis a shame! I thought surely after my honest account you might let me off the hook."
+    },
+    {
+     "s": 0,
+     "t": "Sara's quite the meticulous one. So where's your Invitation Letter, Venti?"
+    },
+    {
+     "s": 8,
+     "t": "Yes, the Invitation Letter. Eh-he, I'm truly sorry. I can't seem to remember where I may have put it."
+    },
+    {
+     "s": 0,
+     "t": "Ugh... How could you lose something so important!?"
+    },
+    {
+     "s": 8,
+     "t": "Don't be mistaken, I was well aware of how important it was. But I didn't bring any luggage with me, and the letter was too big to fit in my pocket, so I kept it in my hand the whole trip."
+    },
+    {
+     "s": 8,
+     "t": "Strange... Though I had a little too much to drink, I know that I kept it in a secure place. I even recall being most pleased at coming up with a good idea at the time."
+    },
+    {
+     "s": 0,
+     "t": "If you were holding the invitation in your hand the whole time, then why did you put it down?"
+    },
+    {
+     "s": 8,
+     "t": "Well, to properly compare the taste of Mondstadt wine and Inazuman sake, I had to hold a glass in each hand."
+    },
+    {
+     "s": 8,
+     "t": "I couldn't both hold the invitation and a glass at the same time. But surely I wouldn't put it in just any random place, it could easily be misplaced."
+    },
+    {
+     "s": 3,
+     "t": "In which case, I believe there's only one place it could be. Have you figured it out, {NICKNAME}?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? You're way ahead of Paimon! Do you two already know where the Invitation Letter is?"
+    },
+    {
+     "section": "Venti"
+    },
+    {
+     "sit": "In his shoe?"
+    },
+    {
+     "s": 0,
+     "t": "Huh, that doesn't sound right. The invitation is pretty big, isn't it? And, if it's in his shoe, he would feel it when he's walking!"
+    },
+    {
+     "s": 8,
+     "t": "Haha, drinking too much may occasionally render the tongue a little numb, but it's true, it certainly wouldn't affect the feet."
+    },
+    {
+     "section": "Venti"
+    },
+    {
+     "sit": "In his cape?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Are you sure? His cape doesn't even have any pockets to put stuff. But hey, a cape with pockets isn't a bad idea, you should try and get it tailored sometime, Venti."
+    },
+    {
+     "s": 8,
+     "t": "Well, people do often claim that capes and the like serve no real purpose other than aesthetics, I suppose a cape with pockets would really turn the tables on that crowd."
+    },
+    {
+     "section": "Venti"
+    },
+    {
+     "sit": "In his hat?"
+    },
+    {
+     "s": 8,
+     "t": "Ah yes, I remember now. I knew you'd help me find it, {NICKNAME}."
+    },
+    {
+     "sit": "Venti finds the Invitation Letter stuffed under his hat..."
+    },
+    {
+     "s": 7,
+     "t": "Hmm. This is indeed an Invitation Letter issued by the Yashiro Commission. Now that we've confirmed this guest's identity, I have no further questions."
+    },
+    {
+     "s": 7,
+     "t": "However, starting tonight, I would advise you to stay at the International Trade Association."
+    },
+    {
+     "s": 7,
+     "t": "Now, if you'll excuse me, I'll be leaving now."
+    },
+    {
+     "section": "Hirayama"
+    },
+    {
+     "s": 0,
+     "t": "There goes Sara. Alright, let's go talk to Mr. Hirayama about Albedo's reference materials."
+    },
+    {
+     "s": 3,
+     "t": "Mr. Hirayama, I'm Calx. We had originally arranged to meet today."
+    },
+    {
+     "s": 9,
+     "t": "Ah, yes, so you are Calx! I'm very sorry that you've arrived in Inazuma only to find such a mess."
+    },
+    {
+     "s": 9,
+     "t": "These are the materials regarding The Five Kasen. All the information that we could find is compiled here."
+    },
+    {
+     "s": 3,
+     "t": "Let's see here... Yes, it's just as I had suspected. Monikers such as \"Suikou\" and \"Aoi no Okina\" aren't the real names of The Five Kasen."
+    },
+    {
+     "s": 3,
+     "t": "\"Though there were once many stories regarding each of The Five Kasen, the validity of their contents can no longer be verified in present times.\" ...Alas, what a shame."
+    },
+    {
+     "s": 3,
+     "t": "But at the very least we know that most of the stories were written according to a similar style, so there is still something we may glean from this."
+    },
+    {
+     "s": 0,
+     "t": "So is the info useful for your paintings, Albedo?"
+    },
+    {
+     "s": 3,
+     "t": "To some extent, yes. However, I must admit that it is still lacking, and fails to fulfill the most crucial element... inspiration."
+    },
+    {
+     "s": 9,
+     "t": "I am sorry that this information is not as exhaustive as you'd hoped. However, it is not possible to gather anything more at the moment."
+    },
+    {
+     "s": 9,
+     "t": "Though, Lady Yae did say that there are many variations of the stories about The Five Kasen, and everyone has a different story in their heart."
+    },
+    {
+     "s": 9,
+     "t": "So all you need to do is to follow through with what's in your own heart and create something that you yourself find interesting."
+    },
+    {
+     "s": 0,
+     "t": "That does sound like something Miko would say."
+    },
+    {
+     "s": 3,
+     "t": "Thank you, Mr. Hirayama. No need to worry, I'll find inspiration for the portraits."
+    },
+    {
+     "s": 9,
+     "t": "Great. I'll leave it to you then, Calx. Oh, and there's one more thing I need to ask of everyone."
+    },
+    {
+     "s": 9,
+     "t": "Tomorrow morning Mr. Zhenyu, the author of A Legend of Sword, will be arriving in Inazuma by boat. If you see him, please do not mention the stolen novels for the time being."
+    },
+    {
+     "s": 9,
+     "t": "Whether the stolen books are eventually recovered or not, the Yae Publishing House will do its best to ensure that the novel's release is a success!"
+    },
+    {
+     "sit": "I get it now."
+    },
+    {
+     "s": 9,
+     "t": "You have my gratitude. I'll be going, then."
+    },
+    {
+     "s": 0,
+     "t": "Well, seems there's nothing more we can do here. Let's go."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Venti? What are you doing over there? You don't want us to leave you behind, do you?"
+    },
+    {
+     "s": 8,
+     "t": "{NICKNAME}, Albedo, would you mind coming over here for a moment? There's something peculiar that I think you should see."
+    },
+    {
+     "section": "Venti"
+    },
+    {
+     "s": 0,
+     "t": "What is it, Venti? A piece of paper?"
+    },
+    {
+     "s": 8,
+     "t": "Indeed. When I awakened to find myself in the warehouse this morning, I discovered this paper in the cargo crate where I was sleeping."
+    },
+    {
+     "s": 8,
+     "t": "I didn't think much of it then, I thought it was merely a scrap piece of paper that had fallen into the cargo. After a quick glance, I stuffed it into a place nearby."
+    },
+    {
+     "s": 8,
+     "t": "But on second thought, I think it's worth having you take a look at what's written on it."
+    },
+    {
+     "s": 0,
+     "t": "Let me see... \"Suikou Chapter\"? Wait a minute, isn't Suikou the name of one of The Five Kasen?"
+    },
+    {
+     "s": 8,
+     "t": "The story told in this poem roughly boils down to Suikou getting tipsy and letting some poems that were meant for the Shogun get stolen."
+    },
+    {
+     "s": 8,
+     "t": "Huh, this story sounds familiar to my ear, where have I heard it..."
+    },
+    {
+     "s": 0,
+     "t": "Seriously!? It's literally the same story you just experienced yesterday!"
+    },
+    {
+     "s": 8,
+     "t": "Ahahaha. Indeed, it is. Interesting, isn't it?"
+    },
+    {
+     "sit": "It almost seems related to the stolen novels."
+    },
+    {
+     "s": 3,
+     "t": "Yes, I concur. The person who left this paper could quite possibly be the criminal or even a witness to the theft."
+    },
+    {
+     "s": 3,
+     "t": "But why leave the paper here in such a fashion? And if the one who left it here was a witness, why didn't they attempt to stop the burglary?"
+    },
+    {
+     "s": 8,
+     "t": "All right, let's not get ahead of ourselves."
+    },
+    {
+     "s": 8,
+     "t": "Meeting together in Inazuma like this is a most rare occasion. Since we've been busy from the start of the day, let us find an inn with good drink to keep our thirst at bay!"
+    },
+    {
+     "s": 0,
+     "t": "Hey! You just sobered up and you're already thinking about more drinks?"
+    },
+    {
+     "s": 0,
+     "t": "And let's not forget that Albedo still has a portrait to complete. We don't have time to be slacking off!"
+    },
+    {
+     "s": 3,
+     "t": "No, it's fine. Let's all go for a drink together. It'll be my treat."
+    },
+    {
+     "s": 0,
+     "t": "Wait a minute, what about your portrait?"
+    },
+    {
+     "s": 3,
+     "t": "As I mentioned before, I'm the kind of artist who can work quickly once I'm inspired. And now, it seems I've found my source of inspiration."
+    },
+    {
+     "s": 3,
+     "t": "If I use a model as reference for the piece, we must pay him back with the appropriate recompense."
+    },
+    {
+     "s": 8,
+     "t": "Haha, in that case, we'll need to order more dishes!"
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Wow, you really came through, Albedo. You were able to complete the first portrait before the opening ceremony."
+    },
+    {
+     "s": 8,
+     "t": "Yes, it really is a sight to behold. Not only does it hearken to the traditional style of Inazuma, but it also makes use of modern aesthetics. My figure is particularly striking, even though I'm sound asleep in the portrait, I still appear as glorious as always."
+    },
+    {
+     "s": 0,
+     "t": "Hey, don't get too full of yourself, Tone-Deaf Bard! You were just a model, the person in the artwork isn't actually you."
+    },
+    {
+     "s": 0,
+     "t": "Well, Albedo, who will be your next portrait?"
+    },
+    {
+     "s": 3,
+     "t": "The next one will be Aoi no Okina of The Five Kasen."
+    },
+    {
+     "s": 8,
+     "t": "Albedo, might I suggest waiting a little before starting on the next one? Who knows, you might soon discover another story."
+    },
+    {
+     "s": 0,
+     "t": "Another story?"
+    },
+    {
+     "s": 3,
+     "t": "I believe he's referring to the possibility of finding another paper with tales of The Five Kasen. According to the reference materials I was given, we've only found the first of a total of four chapters."
+    },
+    {
+     "s": 0,
+     "t": "Do you think the mysterious person who left the first paper will strike again?"
+    },
+    {
+     "s": 3,
+     "t": "It certainly is a possibility. Also, there are some points regarding the stories of The Five Kasen that have left me rather curious."
+    },
+    {
+     "s": 3,
+     "t": "For example, the reference materials make mention of five legendary figures, yet all the popular stories only consist of four parts."
+    },
+    {
+     "s": 3,
+     "t": "It appears that throughout all the stories, there is never a chapter dedicated to Kuronushi."
+    },
+    {
+     "s": 8,
+     "t": "Yes, I'm also curious about these stories myself. But who knows, they may merely be akin to the old saying in Mondstadt: \"Seeds of stories, brought by the wind and cultivated by time.\""
+    },
+    {
+     "s": 8,
+     "t": "So, for now, we need but just wait patiently."
+    }
+   ]
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Lyra",
+  "Klee",
+  "Albedo",
+  "Aratani",
+  "Murata",
+  "Kuroda",
+  "Kujou Sara",
+  "Venti",
+  "Hirayama"
+ ]
+}

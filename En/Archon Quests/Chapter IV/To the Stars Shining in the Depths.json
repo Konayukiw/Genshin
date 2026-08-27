@@ -1,0 +1,5585 @@
+{
+ "chapter": "Chapter IV",
+ "chapter_title": null,
+ "act": "Act III",
+ "act_title": "To the Stars Shining in the Depths",
+ "region": "Fontaine",
+ "quests": [
+  {
+   "title": "A Tea Party Most Thorny",
+   "dialogue": [
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 0,
+     "t": "Yep, here's the room, and it's empty and waiting for us as promised! Navia is such a good person."
+    },
+    {
+     "s": 0,
+     "t": "Now that the serial disappearances case has been solved, no one's going to come after us for anything. Even without Silver standing guard, we can just completely relax!"
+    },
+    {
+     "s": 0,
+     "t": "Why don't we stay and rest up here for a while? Even machines in Fontaine need to stop and recharge now and then."
+    },
+    {
+     "sit": "If we wanted to rest..."
+    },
+    {
+     "sit": "Couldn't we pick somewhere with a decent view?"
+    },
+    {
+     "s": 0,
+     "t": "C'mon, this place isn't that bad. Besides, how often do we get to stay in an actual base?"
+    },
+    {
+     "sit": "The truth, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Oh, fine, fine!"
+    },
+    {
+     "s": 0,
+     "t": "Remember that detective story Paimon read before? Well, the author is about to release a new book, so Paimon wanted to buy it as soon as it came out and have a quiet place to read it..."
+    },
+    {
+     "sit": "Fair enough."
+    },
+    {
+     "sit": "Just don't spoil the ending for me this time."
+    },
+    {
+     "s": 0,
+     "t": "Yipee! Then it's agreed! Come on, let's get some sleep. We'll need to be up first thing in the morning to get in line and buy a copy!"
+    },
+    {
+     "sit": "You and Paimon relax for a while at Spina di Rosula's base in the Court of Fontaine..."
+    },
+    {
+     "section": "Madeleine"
+    },
+    {
+     "s": 1,
+     "t": "Please use the elevator to proceed below."
+    },
+    {
+     "section": "Isadora"
+    },
+    {
+     "s": 0,
+     "t": "Paimon didn't expect that style at all! Even though it's a detective novel, it's also like a social documentary... hmm, it's actually pretty good."
+    },
+    {
+     "sit": "You just finished it?"
+    },
+    {
+     "sit": "You're a pretty slow reader, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "N—No... Paimon just spends a bit more time sleeping than you, that's all!"
+    },
+    {
+     "s": 2,
+     "t": "Excuse me... But do you know if {NICKNAME} and Paimon are lodging here?"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Who're you? Paimon doesn't recall seeing you before... Wait, you're not here to give us trouble, are you?"
+    },
+    {
+     "s": 2,
+     "t": "A blond traveler and a chatty little fairy... Whew, looks like I've found the place. Good thing I asked the Spina di Rosula, seems they sent me the right way."
+    },
+    {
+     "s": 0,
+     "t": "Hey, what do you mean by \"chatty\"!? Paimon's always careful not to talk too much! ...Most of the time, anyway..."
+    },
+    {
+     "s": 2,
+     "t": "It's an honor to meet you both. I was sent from the Palais Mermonia. Monsieur Neuvillette wishes to see you. It seems he has something important to discuss in person."
+    },
+    {
+     "s": 0,
+     "t": "Neuvillette? He wants to see us again already? We talked so much the last time we met, has something happened since then?"
+    },
+    {
+     "s": 2,
+     "t": "I am not privy to the details. It would be best if you came to the Palais Mermonia and asked Monsieur Neuvillette in person."
+    },
+    {
+     "s": 0,
+     "t": "If you say so... But Paimon has a bad feeling about this..."
+    },
+    {
+     "s": 2,
+     "t": "Now that I've delivered the message, I'll take my leave."
+    },
+    {
+     "s": 0,
+     "t": "Thanks! We haven't left the room for a few days, so we'll head over once we've freshened up a bit."
+    },
+    {
+     "section": "Neuvillette, Furina, The Knave"
+    },
+    {
+     "s": 0,
+     "t": "Neuvillette! We're here! Did you want to see us about something?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Why were you just standing there? You daydreaming, or thinking something over?"
+    },
+    {
+     "s": 3,
+     "t": "Yes... I did send someone to fetch you. But as for what I'd like to discuss next... Well, I still have some reservations..."
+    },
+    {
+     "s": 0,
+     "t": "Given that we've already made the trip here, you should just tell us! Bet you need us to help you with something, right?"
+    },
+    {
+     "s": 3,
+     "t": "I do indeed have something I'd like to ask you to do, however... you should wait until after I tell you the details, then decide for yourselves whether you'd like to help or not."
+    },
+    {
+     "s": 3,
+     "t": "The situation is this..."
+    },
+    {
+     "s": 3,
+     "t": "...If I am understanding you correctly, the Snezhnayan Harbinger known as The Knave has essentially requested a diplomatic meeting with you, correct?"
+    },
+    {
+     "s": 3,
+     "t": "I heard that she was originally from Fontaine, but for her to suddenly arrive here and abruptly request such a meeting like this..."
+    },
+    {
+     "s": 3,
+     "t": "I sincerely advise you to refuse her invitation outright."
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "I'm sure you're aware that her purpose is most likely related to Childe's recent predicament..."
+    },
+    {
+     "s": 3,
+     "t": "We convicted one of the Snezhnayan Harbingers in a court of law, but we have yet to provide any form of detailed report on the matter. This does indeed provide an opportunity for Snezhnaya to put pressure on us."
+    },
+    {
+     "s": 3,
+     "t": "I believe we should adopt an evasive stance until we can provide a proper explanation and have a preliminary plan on how to deal with the matter."
+    },
+    {
+     "s": 4,
+     "t": "No... we shouldn't... I think we should agree to the meeting."
+    },
+    {
+     "s": 3,
+     "t": "Oh?"
+    },
+    {
+     "s": 4,
+     "t": "Well, you see... we are the ones that owe an explanation. If we keep putting off the meeting, it could easily result in the problem escalating, right?"
+    },
+    {
+     "s": 4,
+     "t": "It's like... like a fight between two friends. If they don't agree to see each other and talk in person, isn't it possible that the friendship could end entirely?"
+    },
+    {
+     "s": 3,
+     "t": "Though diplomatic relations between Fontaine and Snezhnaya could be considered as friendly, it is only superficially so. You wouldn't go so far as to say that our nations are \"friends\" as you did in your example."
+    },
+    {
+     "s": 4,
+     "t": "*sigh* It was just an analogy... an analogy, okay?"
+    },
+    {
+     "s": 3,
+     "t": "Moreover, even if we were to talk in person, if we don't have sufficient information prepared, it is quite possible the result wouldn't be restored relations, but a complete falling-out."
+    },
+    {
+     "s": 4,
+     "t": "Hmm, I don't think we should overthink those possibilities yet... *ahem* Even if the logic of the divine is not immediately apparent, its wisdom will only be revealed with time."
+    },
+    {
+     "s": 4,
+     "t": "Besides, you'll be at the meeting! If any problems do pop up, you'll have no problem navigating them."
+    },
+    {
+     "s": 3,
+     "t": "I must clarify that interacting and communicating with people outside of court is not my cup of tea. It seems you think too much of me."
+    },
+    {
+     "s": 3,
+     "t": "But more importantly... When did I agree to join the meeting with you?"
+    },
+    {
+     "s": 4,
+     "t": "Eeeeh!? You mean you won't come? No... no no no, that won't do! I can't go to the meeting alone, you have to accompany me, I must take you with me..."
+    },
+    {
+     "s": 3,
+     "t": "Lady Furina, could there be something else regarding this matter that is being kept from me?"
+    },
+    {
+     "s": 4,
+     "t": "No, not at all... Look, I am the Hydro Archon of Fontaine, Focalors. The God of Justice, who is loved and adored by many..."
+    },
+    {
+     "s": 4,
+     "t": "So, I only hope that justice will be served in this matter. Don't overthink it... I'll go find someone to arrange the meeting..."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "sit": "The time for the meeting with The Knave that Lady Furina insisted upon arrives..."
+    },
+    {
+     "s": 5,
+     "t": "Though it could officially be considered a diplomatic conference, I prefer to see our meeting today as an ordinary tea party."
+    },
+    {
+     "s": 5,
+     "t": "I assume you see it the same way, Miss Furina?"
+    },
+    {
+     "s": 4,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "Lady Furina?"
+    },
+    {
+     "s": 4,
+     "t": "Ah? Oh... yes, yes, that's right! Just like you said, a tea party. I should thank you for providing the pastries, they look delectable."
+    },
+    {
+     "s": 4,
+     "t": "To make this tea party even more lively, I've invited someone else to join us today..."
+    },
+    {
+     "s": 5,
+     "t": "It's a pleasure to meet you, Monsieur Neuvillette. I was born in Fontaine, so naturally, there's no need to introduce the nation's revered Iudex to me."
+    },
+    {
+     "s": 3,
+     "t": "Hello, the pleasure is also mine."
+    },
+    {
+     "s": 5,
+     "t": "First, I would like to thank the two of you. I'm often away on business outside of Fontaine, and I'm told that the children of the House of the Hearth have been well taken care of by you."
+    },
+    {
+     "s": 4,
+     "t": "Uh..."
+    },
+    {
+     "s": 5,
+     "t": "Oh, I'm not referring to when my children Lyney and Lynette were falsely accused by you, please don't misunderstand."
+    },
+    {
+     "s": 5,
+     "t": "The children of the House of the Hearth are often misunderstood, perhaps due to the reputation of the Fatui. There's no getting around that."
+    },
+    {
+     "s": 5,
+     "t": "All I meant to say is that Fontaine has been stable in recent years. The people are well off and the children lead happy, fulfilled lives."
+    },
+    {
+     "s": 5,
+     "t": "That is something truly worth cherishing, and no one wishes to disrupt such peace..."
+    },
+    {
+     "s": 3,
+     "t": "Now then. You have come regarding the matter of Childe, correct?"
+    },
+    {
+     "s": 5,
+     "t": "Well, yes... It appears the ever-busy Iudex Neuvillette doesn't wish to waste time with diplomatic pleasantries and hopes that we can get straight to the point of our talk."
+    },
+    {
+     "s": 5,
+     "t": "Yes, as you surmised, understanding Childe's situation is indeed one of the goals of this trip."
+    },
+    {
+     "s": 5,
+     "t": "As we are both diplomats from Snezhnaya as well as Fatui Harbingers, Childe and I have always been colleagues..."
+    },
+    {
+     "s": 5,
+     "t": "Were anything to happen in Fontaine, each of us would serve as the other's attorney to resolve the issue."
+    },
+    {
+     "s": 5,
+     "t": "So now, in my capacity as his attorney, I request that Childe be turned over to Snezhnaya. We have a responsibility to cooperate with Fontaine and resolve what has happened to him together."
+    },
+    {
+     "s": 3,
+     "t": "The rules governing attorneys only apply before a trial has concluded. Since a verdict has already been rendered, we see the case as settled. I apologize for being unable to grant your request."
+    },
+    {
+     "s": 5,
+     "t": "An outright refusal... Very well. I respect all the rules of Fontaine's courts, just as I respect you as Chief Justice."
+    },
+    {
+     "s": 5,
+     "t": "Okay, why don't we back up a step?"
+    },
+    {
+     "s": 5,
+     "t": "You don't need to transfer Childe to us. I only request to enter the Fortress of Meropide to see Childe and confirm his condition."
+    },
+    {
+     "s": 5,
+     "t": "It's not like you couldn't even manage to fulfill a simple request like that, right, Miss Furina?"
+    },
+    {
+     "s": 4,
+     "t": "Uh, um, about th—that..."
+    },
+    {
+     "s": 3,
+     "t": "The Fortress of Meropide has always been completely autonomous. Even we have no authority to interfere there, and diplomatic issues do not suffice as an excuse."
+    },
+    {
+     "s": 3,
+     "t": "However, if you absolutely must confirm the situation of the Harbinger, I have a proposal..."
+    },
+    {
+     "section": "Neuvillette"
+    },
+    {
+     "s": 0,
+     "t": "The Knave showed up already? Well, Lyney did say that \"Father will be returning soon\"..."
+    },
+    {
+     "s": 0,
+     "t": "We didn't even know that Lyney was from the House of the Hearth at the time, so we kinda overlooked that information."
+    },
+    {
+     "sit": "Please be careful, Neuvillette."
+    },
+    {
+     "sit": "The Knave won't be easy to deal with."
+    },
+    {
+     "s": 3,
+     "t": "Yes, thank you for your kind advice. I'm well aware of the situation."
+    },
+    {
+     "s": 3,
+     "t": "I also noticed that Lady Furina acts a little odd and unnatural whenever I bring up matters related to The Knave..."
+    },
+    {
+     "s": 0,
+     "t": "Could The Knave be threatening Lady Furina or something?"
+    },
+    {
+     "s": 3,
+     "t": "If that were the case, then why wouldn't Lady Furina inform me? And what means could The Knave possibly have to twist the arm of an archon?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, so maybe that's not very likely... Even though Furina can act a little weird at times, she's still an Archon..."
+    },
+    {
+     "s": 3,
+     "t": "In reality, this problem is even more thorny than it appears. According to reports from the Fortress of Meropide, Childe recently disappeared under mysterious circumstances."
+    },
+    {
+     "sit": "Disappeared?"
+    },
+    {
+     "sit": "Did he escape?"
+    },
+    {
+     "s": 3,
+     "t": "The details are still unclear. We cannot rule out an escape, but there have also been no reports of him outside of the Fortress of Meropide."
+    },
+    {
+     "s": 3,
+     "t": "Special guards oversee the Fortress, and its internal systems are extensive. Combined with the special characteristics of the surrounding terrain, an escape should not be possible. I suspect that there's something else behind Childe's disappearance."
+    },
+    {
+     "s": 3,
+     "t": "I was only willing to share this information with you because you are friends of Childe, and it is my duty to see justice done."
+    },
+    {
+     "s": 0,
+     "t": "So this is what you wanted to see us about before..."
+    },
+    {
+     "s": 3,
+     "t": "Yes. I would like you to go to the Fortress of Meropide and investigate Childe's disappearance."
+    },
+    {
+     "s": 3,
+     "t": "This was my proposal during our meeting with The Knave. Rather than allowing her to intervene, I offered to send someone to find out about Childe's situation and report back to her in detail."
+    },
+    {
+     "s": 3,
+     "t": "The Knave did not seem satisfied by my proposal, but she still agreed to go along with it for the time being. Her words were, \"We will talk more once we have that report.\""
+    },
+    {
+     "s": 0,
+     "t": "So that means we bought ourselves some time."
+    },
+    {
+     "sit": "But why do you want us to go?"
+    },
+    {
+     "sit": "Wouldn't it be more convenient to have an official from Fontaine do this?"
+    },
+    {
+     "s": 3,
+     "t": "Firstly, you're already acquainted with Childe. Your eyes may discern relevant details there that others would miss."
+    },
+    {
+     "s": 3,
+     "t": "And secondly is the consideration of the unique nature of the Fortress of Meropide..."
+    },
+    {
+     "s": 0,
+     "t": "Isn't it just Fontaine's prison?"
+    },
+    {
+     "s": 3,
+     "t": "I would not define it so crudely. The Fortress of Meropide is not affiliated with the court system of Fontaine on paper. It has always existed as an \"autonomous\" entity."
+    },
+    {
+     "s": 3,
+     "t": "Early in Fontaine's history, criminals were punished with exile, not imprisonment. Even today, sentences against convicted criminals still include exile, just as before."
+    },
+    {
+     "s": 3,
+     "t": "The Fortress of Meropide may seem like a prison, but it should in fact be regarded as a gathering place for exiles."
+    },
+    {
+     "s": 3,
+     "t": "All we do is dispatch guards to keep watch and help maintain security, but we have no right to get involved with any other matters."
+    },
+    {
+     "s": 3,
+     "t": "Although I do have a personal relationship with the administrator there, neither myself nor the courts have the right to be directly involved with the investigation, no matter how serious the grounds."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon gets it now! That's why you need us to conduct our own investigation as a third party, right?"
+    },
+    {
+     "s": 3,
+     "t": "Correct. I will arrange false charges against you so that you may secretly investigate inside the fortress during your detention. This will save us a lot of unnecessary trouble."
+    },
+    {
+     "s": 3,
+     "t": "So, are you two willing to accept my proposal?"
+    },
+    {
+     "sit": "Since you're in such a tough spot..."
+    },
+    {
+     "sit": "Well, Childe is our friend, after all..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, no matter how you look at it, it seems we're the best choice. Alright, we hereby accept this difficult task... uh, reluctantly!"
+    },
+    {
+     "s": 3,
+     "t": "You two have my sincere thanks. This matter is of critical importance to Fontaine's current situation. Also, I hope that both of you can keep this operation a secret."
+    },
+    {
+     "s": 3,
+     "t": "We will rendezvous at the Fortress of Meropide's entrance on Erinnyes once you've prepared yourselves. I will arrange for someone to take you inside."
+    },
+    {
+     "s": 0,
+     "t": "Prepared ourselves...? Uh, is there something we need to prepare?"
+    },
+    {
+     "s": 3,
+     "t": "Perhaps you could enjoy a good meal and have a nice bath. I'm afraid that living conditions inside the Fortress are nothing like those on the outside world."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! Even though we'll be there on trumped-up charges, we'll be in prison for real..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, on second thought... Is it too late to back out?"
+    },
+    {
+     "sit": "You didn't even consider the fact we'd be prisoners?"
+    },
+    {
+     "sit": "We've already agreed, Paimon. Just accept it."
+    },
+    {
+     "s": 3,
+     "t": "Please, do not worry. Since you are sacrificing both your time and quality of life for the sake of delivering this report..."
+    },
+    {
+     "s": 3,
+     "t": "You will be compensated according to the highest standards permitted to legal staff, regardless of the outcome."
+    },
+    {
+     "s": 0,
+     "t": "Now that's more like it... C'mon {NICKNAME}, let's go eat the best meal we can find! We'll eat so much that we won't need to eat another meal for a whole month, your treat!"
+    },
+    {
+     "s": 3,
+     "t": "Are you leaving now? In that case, please take this cake as a token of my personal gratitude."
+    },
+    {
+     "section": "Charlotte"
+    },
+    {
+     "s": 0,
+     "t": "Paimon'll have that, and that... Oh! And one of those too! And no Fonta! Thank you!"
+    },
+    {
+     "sit": "You sure ordered a lot..."
+    },
+    {
+     "sit": "Didn't you just finish eating the cake that Neuvillette gave us?"
+    },
+    {
+     "s": 0,
+     "t": "That cake was pretty good, but as soon as Paimon remembered that we're about to go to prison, Paimon's stomach suddenly became completely empty!"
+    },
+    {
+     "s": 0,
+     "t": "Now that Paimon thinks about it, we've always been super careful ever since we arrived in Fontaine, just to avoid breaking any strange laws here..."
+    },
+    {
+     "s": 0,
+     "t": "But here we are, about to willingly send ourselves off to the Fortress of Meropide... Maybe this is what they call fate."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Let's just try our best to investigate everything quickly once we get there... Paimon doesn't want to stay in prison too long..."
+    },
+    {
+     "s": 6,
+     "t": "Oh, what is that I hear? Is it the taste of a breaking story?"
+    },
+    {
+     "s": 0,
+     "t": "Hey, you can't hear a taste! And what are you doing here, Charlotte?"
+    },
+    {
+     "s": 6,
+     "t": "Ugh, don't remind me... I invited an eyewitness to a case to eat here, and I was planning to get some great material out of him... But he didn't even show up!"
+    },
+    {
+     "s": 6,
+     "t": "*sigh* Calm down, calm down... This is nothing new, as a journalist, you should be used to this by now... as long as you can score some juicy tidbits from {NICKNAME}, you might still be able to recover the cost of the meal..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, you know we can still hear you, Charlotte..."
+    },
+    {
+     "s": 6,
+     "t": "Hahaha! Never mind, it's nothing... I just heard you mention the Fortress of Meropide. You didn't commit a crime, did you? Please tell me all about it..."
+    },
+    {
+     "s": 0,
+     "t": "No way, we would never! We're just going there to..."
+    },
+    {
+     "sit": "Ahem...!"
+    },
+    {
+     "sit": "ACHOO!"
+    },
+    {
+     "s": 0,
+     "t": "...Uh... um... to..."
+    },
+    {
+     "s": 0,
+     "t": "Oh no, Paimon almost forgot that Neuvillette told us to keep it a secret..."
+    },
+    {
+     "sit": "We're going to serve our sentences and redeem ourselves..."
+    },
+    {
+     "sit": "For spoiling the ending of a detective novel in public."
+    },
+    {
+     "s": 6,
+     "t": "Huh? You're being arrested for that?"
+    },
+    {
+     "s": 6,
+     "t": "Oh... But now that I think about it, I suppose that's not completely unreasonable. That's pretty despicable, almost as offensive as committing theft."
+    },
+    {
+     "s": 0,
+     "t": "Oh...? You mean Paimon really did something that serious?"
+    },
+    {
+     "sit": "See? I told you, Paimon."
+    },
+    {
+     "sit": "You didn't even think anything of it at the time."
+    },
+    {
+     "s": 0,
+     "t": "Sorry! Paimon really messed up!"
+    },
+    {
+     "s": 6,
+     "t": "Hmm, in that case, it's nothing particularly newsworthy after all... How disappointing..."
+    },
+    {
+     "s": 6,
+     "t": "Oh, right, there's still a chance... Since you're going to be at the Fortress of Meropide... Would you be willing to help me gather some material for a story?"
+    },
+    {
+     "s": 0,
+     "t": "Uh, about that... Paimon doesn't think we'll have any time..."
+    },
+    {
+     "s": 6,
+     "t": "Ah, it's nothing difficult. All you have to do is think of a way to get some time face to face with the warden of the fortress."
+    },
+    {
+     "s": 6,
+     "t": "He was awarded the honorary title of \"Duke\" in Fontaine. Sounds really cool huh? Only those who have made significant contributions to the nation have been conferred this title, it's incredibly rare."
+    },
+    {
+     "s": 6,
+     "t": "On top of that, the Fortress of Meropide has never been under the jurisdiction of the courts. Practically nobody, including journalists like me, knows anything about the person in charge there."
+    },
+    {
+     "s": 6,
+     "t": "If I could write an exclusive article about him, I bet it would sell a boatload of papers!"
+    },
+    {
+     "s": 0,
+     "t": "You make it sound easy, but it really depends..."
+    },
+    {
+     "s": 6,
+     "t": "Of course, I wouldn't ask you to do it for free, so this meal is on me!"
+    },
+    {
+     "s": 0,
+     "t": "Alright, you've got a deal! We'll do anything you want!"
+    },
+    {
+     "s": 6,
+     "t": "Hehe, then it's settled! The food should be here any second, right? Huh!? Wait, just how much did you order!?"
+    },
+    {
+     "sit": "After completely stuffing yourselves, you prepare to go to the Fortress of Meropide..."
+    },
+    {
+     "section": "Neuvillette"
+    },
+    {
+     "s": 3,
+     "t": "Oh, no need to thank me for it. Just be sure to enjoy it."
+    },
+    {
+     "section": "Neuvillette, Madeleine"
+    },
+    {
+     "s": 0,
+     "t": "Alright Neuvillette, we're ready. Is this where the entrance is?"
+    },
+    {
+     "s": 3,
+     "t": "You have come, just as promised. Yes, this is the one and only entrance to the Fortress of Meropide from Erinnyes."
+    },
+    {
+     "s": 3,
+     "t": "Careful, you may want to step back a bit."
+    },
+    {
+     "s": 0,
+     "t": "Whoa! So you have to go down from here... is the prison underwater?"
+    },
+    {
+     "s": 3,
+     "t": "Utilizing both the barrier of the water as well as the fear humans have of the depths, the Fortress of Meropide is naturally the perfect place to confine and guard criminals."
+    },
+    {
+     "s": 3,
+     "t": "But do not worry, it's not nearly as frightening inside as you may think. You will see for yourselves once you're down there."
+    },
+    {
+     "s": 0,
+     "t": "Uh, Paimon hopes you're right... Dunno about you, but just thinking about being at the bottom of the sea like that gives Paimon the heebie-jeebies!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, and there's one more thing... I mentioned that I have had personal dealings with the administrator of the Fortress, Wriothesley... He's a very... shrewd fellow."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, we've heard about him too. He's that \"Duke,\" right?"
+    },
+    {
+     "s": 3,
+     "t": "Correct. He is the highest ranking manager of the underwater prison. Even though you are going there to investigate at my behest, it would behoove you to avoid any confrontation with him or any of his subordinates."
+    },
+    {
+     "s": 3,
+     "t": "The Duke rarely ever leaves the Fortress of Meropide, but that does not mean he is not privy to all that's happening inside and outside the fortress. He is \"quiet,\" but not \"unaware,\" so please bear that in mind."
+    },
+    {
+     "sit": "The Duke, Wriothesley..."
+    },
+    {
+     "sit": "I'll keep that in mind."
+    },
+    {
+     "s": 3,
+     "t": "Alright, that's about all the time that we have to talk privately. I am counting on you two."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, we won't let you down!"
+    },
+    {
+     "s": 3,
+     "t": "Good. Madeleine..."
+    },
+    {
+     "s": 1,
+     "t": "I'm here, Monsieur Neuvillette. These two are the newest convicts, I presume? Don't worry, they won't escape on my watch."
+    },
+    {
+     "s": 0,
+     "t": "Hmph, like we would try!"
+    },
+    {
+     "s": 1,
+     "t": "Please follow me, you two. I'll process your paperwork for entering the Fortress of Meropide."
+    },
+    {
+     "section": "Charlotte"
+    },
+    {
+     "s": 6,
+     "t": "I had no idea you could eat so much! That didn't go according to plan... Please, please don't forget about the material for my news article!"
+    },
+    {
+     "section": "Deakin"
+    },
+    {
+     "sit": "Ride the elevator"
+    },
+    {
+     "section": "Marette, Madeleine, Deakin"
+    },
+    {
+     "s": 7,
+     "t": "*yawn* Oh, it's you Madeleine. Why'd they make you make the trip down here today?"
+    },
+    {
+     "s": 1,
+     "t": "Monsieur Neuvillette personally requested I escort these two convicts. I suppose he was concerned others might not be up to the task."
+    },
+    {
+     "s": 7,
+     "t": "*sigh* Well now, aren't you the lucky one... Must be nice to be on good terms with the big shots like the Chief Justice. The only people I get to see every day are the new inmates."
+    },
+    {
+     "s": 1,
+     "t": "Well, have you tried \"service with a smile\"? Who knows, it might help your professional reputation."
+    },
+    {
+     "s": 7,
+     "t": "Yeah right, as if. Every criminal comes through here looking miserable. How can I smile with such a toxic work environment?"
+    },
+    {
+     "s": 7,
+     "t": "And even if I did smile at them, the convicts would probably just think that I'm some freak getting some kind of twisted enjoyment from their pain."
+    },
+    {
+     "s": 0,
+     "t": "Oh, she's got a point."
+    },
+    {
+     "s": 1,
+     "t": "Well, I've finished transferring you. You two will register here, and Marette will guide you through the remaining procedures."
+    },
+    {
+     "s": 7,
+     "t": "*sigh* Yep, I'll take it from here. You head on back to that bright and sunny world above."
+    },
+    {
+     "s": 7,
+     "t": "Okay, let me see... You are {NICKNAME} and Paimon, correct?"
+    },
+    {
+     "sit": "Present."
+    },
+    {
+     "sit": "That's right."
+    },
+    {
+     "s": 0,
+     "t": "That would be us."
+    },
+    {
+     "s": 7,
+     "t": "Let me confirm your charges and sentence. Let's see, you two are charged with..."
+    },
+    {
+     "s": 7,
+     "t": "...Eating a cake specially prepared for the archon by a Snezhnayan envoy without the archon's permission, thereby incapacitating the political center of Fontaine for a brief period. Sentence: 45 days...?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Wait, you mean the cake that Neuvillette gave us was..."
+    },
+    {
+     "s": 7,
+     "t": "Just looking at the charges... It seems you two are capable of causing some serious trouble."
+    },
+    {
+     "s": 7,
+     "t": "And considering how fond Lady Furina is of sweets, this crime is tantamount to trying to assassinate the Hydro Archon herself."
+    },
+    {
+     "sit": "You flatter us."
+    },
+    {
+     "sit": "You really have an eye for criminals."
+    },
+    {
+     "s": 7,
+     "t": "Now I've seen everything... Anyway, we still need to finish processing you before you can enter the Fortress of Meropide."
+    },
+    {
+     "s": 7,
+     "t": "Please stand in front of the board over there. I'll take your mug shots with my Kamera."
+    },
+    {
+     "s": 0,
+     "t": "Oh, alright... But be sure to catch Paimon's good side!"
+    },
+    {
+     "sit": "Under Marette's guidance, you complete all the required procedures..."
+    },
+    {
+     "s": 7,
+     "t": "...And we're done. Thank you for your cooperation. Next, someone will be along to guide you inside the fortress. Please be sure to cherish this opportunity for rebirth."
+    },
+    {
+     "s": 0,
+     "t": "Huh? \"Rebirth\"? Isn't that a little much? We're only going to be here for 45 days."
+    },
+    {
+     "s": 8,
+     "t": "You two are the new inmates, right? Follow me."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay. Paimon is Paimon, and this is {NICKNAME}..."
+    },
+    {
+     "s": 8,
+     "t": "Save it, it's not like I'll remember your names. Move it."
+    }
+   ],
+   "description": "Now that the serial disappearances case has been solved, you decide to rest up for a while, but something is stirring in the dark…"
+  },
+  {
+   "title": "Fortress of Meropide",
+   "dialogue": [
+    {
+     "section": "Deakin"
+    },
+    {
+     "s": 0,
+     "t": "So... are you one of the guards here? Is there anything we should be careful of while we're here?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Uh... did Paimon already ask something she wasn't supposed to?"
+    },
+    {
+     "s": 8,
+     "t": "Why should I tell you anything? What's in it for me?"
+    },
+    {
+     "sit": "You sure don't seem like a guard."
+    },
+    {
+     "sit": "Why were you sent to bring us in?"
+    },
+    {
+     "s": 8,
+     "t": "*sigh* This is exactly why I can't stand new fish. I wouldn't even be doing this if it weren't for the Credit Coupons."
+    },
+    {
+     "s": 0,
+     "t": "Credit Coupons?"
+    },
+    {
+     "s": 8,
+     "t": "Alright, seeing as you're not the annoying kind that's getting dragged in here crying and blubbering, I guess I can tell you a few things... But next time, it'll cost you some coupons."
+    },
+    {
+     "s": 8,
+     "t": "Mora means nothing here. Here, we use Credit Coupons."
+    },
+    {
+     "s": 8,
+     "t": "Coupons can get you almost anything in the Fortress of Meropide. Desires? Fulfilled. You want power? No problem. Coupons can even change fate itself."
+    },
+    {
+     "s": 0,
+     "t": "So Credit Coupons are a currency that can only be used here?"
+    },
+    {
+     "s": 8,
+     "t": "It's not as simple as that. Like Marette said, everyone gets a chance at \"rebirth.\""
+    },
+    {
+     "s": 8,
+     "t": "No matter how much money or power you had before, it means nothing once you set foot inside the Fortress of Meropide. You have to start over and earn your coupons."
+    },
+    {
+     "s": 8,
+     "t": "Everyone starts from the same place, and you have a chance at a new, less terrible life..."
+    },
+    {
+     "s": 8,
+     "t": "I guess that's the real purpose of the coupons. They symbolize true fairness and true justice!"
+    },
+    {
+     "s": 8,
+     "t": "And this is also exactly why so many criminals choose not to return to the outside world even after they've served their sentence."
+    },
+    {
+     "s": 0,
+     "t": "Oh, so that's what the Fortress of Meropide is like... Paimon was under the impression that it'd be more like a prison..."
+    },
+    {
+     "s": 8,
+     "t": "It certainly ain't all sunshine and roses here, but it's also not the worst place to be... You'd better take a good look at the scenery now, it'll be the last chance you get for a while."
+    },
+    {
+     "s": 8,
+     "t": "After being away from the sunlight for so long, even the terrifying depths of the sea start to feel like home... it just stops feeling oppressive, you know?"
+    },
+    {
+     "s": 8,
+     "t": "Oh, I'm actually an inmate like you two. Welcoming newcomers is a job I've picked up to earn some extra coupons."
+    },
+    {
+     "sit": "Have you ever seen the Duke?"
+    },
+    {
+     "sit": "Have you seen a Harbinger from Snezhnaya?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Eh? Why aren't you answering us again?"
+    },
+    {
+     "s": 8,
+     "t": "I've told you enough for free. Any more info is gonna cost ya."
+    },
+    {
+     "s": 0,
+     "t": "So all you care about is Mora... Wait, no, coupons!?"
+    },
+    {
+     "s": 8,
+     "t": "Almost there, it's down through here. Your turn to give it a try."
+    },
+    {
+     "section": "【废弃】$UNRELEASED"
+    },
+    {
+     "s": 9,
+     "t": "（test）跟电梯互动，警卫还是揣兜里吧，没法做上下电梯的表现。"
+    },
+    {
+     "section": "Deakin, Wriothesley"
+    },
+    {
+     "s": 0,
+     "t": "So this is the actual entrance to the Fortress of Meropide."
+    },
+    {
+     "s": 0,
+     "t": "It looks like there are other new arrivals, too. They sure don't look happy... Maybe we look too relaxed for fresh convicts?"
+    },
+    {
+     "sit": "Hurry up and think about something sad."
+    },
+    {
+     "sit": "You're probably the only one who doesn't fit in."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right... we're on someone else's territory now. We need to think of a good way to act like criminals to get by..."
+    },
+    {
+     "s": 0,
+     "t": "If we're discovered, even Neuvillette might not be able to rescue us..."
+    },
+    {
+     "sit": "If we ever get found out..."
+    },
+    {
+     "sit": "Then maybe we'd become criminals for real."
+    },
+    {
+     "s": 0,
+     "t": "H—Hey, don't scare Paimon! Oooh, Paimon's not ready for all this..."
+    },
+    {
+     "s": 8,
+     "t": "Uh, look, I don't really know you, and I have no idea what kind of crime you committed, but... You wouldn't have happened to anger someone important, did you?"
+    },
+    {
+     "s": 0,
+     "t": "Uh... Someone important? Paimon... doesn't think so? Wait, why are you suddenly trying to talk to us now?"
+    },
+    {
+     "s": 8,
+     "t": "Now's not the time to worry about that. Anyway, it's over there, so... you just go on over by yourselves. I've done my job, so... good luck!"
+    },
+    {
+     "s": 0,
+     "t": "What was that all about? Eh? Wait a second, are there usually so many Gardemeks around here?"
+    },
+    {
+     "sit": "Apparently not..."
+    },
+    {
+     "sit": "Does this mean that..."
+    },
+    {
+     "s": 0,
+     "t": "Th—They're already on to us!?"
+    },
+    {
+     "sit": "Get ready to fight."
+    },
+    {
+     "s": 10,
+     "t": "Prisoners number 7459 and 7560, welcome. No need to be anxious, these Gardemeks aren't here to attack you. In fact, they're here as your \"honor guard.\""
+    },
+    {
+     "s": 10,
+     "t": "When I heard that you were friends of Monsieur Neuvillette, I had the Gardemeks come and wait in formation."
+    },
+    {
+     "s": 0,
+     "t": "Wait, you know about our connection with Neuvillette?"
+    },
+    {
+     "s": 10,
+     "t": "The seafloor isn't as cut off from the world as you might imagine. However, I'm afraid that I know nothing more than that you are friends of the Iudex."
+    },
+    {
+     "s": 10,
+     "t": "And as you can see, committing a crime means being sentenced here, even if you're friends with the Chief Justice. Quite fair."
+    },
+    {
+     "sit": "So, you must be..."
+    },
+    {
+     "s": 8,
+     "t": "Th—The Duke! Greetings, Your Grace! L—Lovely weather today, isn't it?"
+    },
+    {
+     "s": 10,
+     "t": "Greetings, my good fellow. I'm willing to imagine that the weather is as good outside the sea as you say it is. Ah, how great it would have been if only the Fortress of Meropide had been built on the coast. It would have been so convenient to enjoy a nice chat in the sunshine."
+    },
+    {
+     "s": 8,
+     "t": "Ah! My profuse apologies, I just got so nervous when I saw you, I just..."
+    },
+    {
+     "s": 0,
+     "t": "So this is the Duke... He sure looks a lot younger than Paimon imagined!"
+    },
+    {
+     "s": 10,
+     "t": "{NICKNAME} and Paimon, correct? Mr. Deakin here was responsible for your welcome. I trust you were satisfied with his guidance?"
+    },
+    {
+     "section": "Deakin, Wriothesley"
+    },
+    {
+     "sit": "It was okay. His attitude could use some work, though."
+    },
+    {
+     "s": 10,
+     "t": "I see. In that case, I regret to announce that Deakin here has just missed the best opportunity in his prison career to be promoted."
+    },
+    {
+     "s": 8,
+     "t": "I... uh, I admit that I was only thinking about the coupons... I'm sorry to have disappointed you, Your Grace. I originally... I once hoped for a chance to do some higher-level work."
+    },
+    {
+     "s": 8,
+     "t": "*sigh* I had no idea you two were big shots who were worthy of speaking with His Grace... Losing out on such a big opportunity because I couldn't see past my own nose..."
+    },
+    {
+     "s": 10,
+     "t": "Plenty of time ahead, Deakin. There will be more opportunities."
+    },
+    {
+     "s": 10,
+     "t": "Well, I believe that concludes the introductions. We've already taken enough time here. Deakin, if you would."
+    },
+    {
+     "s": 8,
+     "t": "Yes! Your Grace, I'll take my leave now!"
+    },
+    {
+     "s": 10,
+     "t": "Please, follow me. To make you feel more welcome, I'll show you around the various facilities of the Fortress of Meropide. I hope it will help you adjust to life here."
+    },
+    {
+     "s": 0,
+     "t": "He's going to personally give us a tour? Paimon can't figure out what this guy's thinking at all..."
+    },
+    {
+     "sit": "Let's just roll with it for now."
+    },
+    {
+     "sit": "But I hope he doesn't know too much already."
+    },
+    {
+     "s": 0,
+     "t": "No wonder Charlotte's so interested in him! He's one of those mysterious types. Alright, let's keep up with him."
+    },
+    {
+     "section": "Deakin, Wriothesley"
+    },
+    {
+     "sit": "He's taken great care of us. Splendid chap, really."
+    },
+    {
+     "s": 10,
+     "t": "Outstanding. Well, Deakin, I recall we discussed fate during our last work meeting. I believe that fate will reward all those who take every aspect of their work and life seriously."
+    },
+    {
+     "s": 10,
+     "t": "When you return to your bunk, you'll find the guards have issued some extra Credit Coupons to you."
+    },
+    {
+     "s": 8,
+     "t": "Oh, thank you... Thank you, Your Grace! Oh, and you two! I can't believe you gave me such praise. If you need anything in the future, anything, please come find me anytime! No Credit Coupons necessary!"
+    },
+    {
+     "s": 10,
+     "t": "Well, I believe that concludes the introductions. We've already taken enough time here. Deakin, if you would."
+    },
+    {
+     "s": 8,
+     "t": "Yes! Your Grace, I'll take my leave now!"
+    },
+    {
+     "s": 10,
+     "t": "Please, follow me. To make you feel more welcome, I'll show you around the various facilities of the Fortress of Meropide. I hope it will help you adjust to life here."
+    },
+    {
+     "s": 0,
+     "t": "He's going to personally give us a tour? Paimon can't figure out what this guy's thinking at all..."
+    },
+    {
+     "sit": "Let's just roll with it for now."
+    },
+    {
+     "sit": "But I hope he doesn't know too much already."
+    },
+    {
+     "s": 0,
+     "t": "No wonder Charlotte's so interested in him! He's one of those mysterious types. Alright, let's keep up with him."
+    },
+    {
+     "section": "Wriothesley"
+    },
+    {
+     "s": 10,
+     "t": "There's no need to be so reserved. The label of criminal is nothing but one of many identities, and being criminally inclined here at the Fortress is just one of many ways to survive."
+    },
+    {
+     "s": 0,
+     "t": "Is it really okay for the warden to think like that? We're real criminals, you know! What if we're too difficult to handle?"
+    },
+    {
+     "s": 10,
+     "t": "Well then, maybe you'll be able to carve out a name and a place for yourselves in this underwater world, hm?"
+    },
+    {
+     "s": 10,
+     "t": "But before you go in swinging, please remember that in the Fortress of Meropide, it's better to not cause trouble for yourself... or for the guards."
+    },
+    {
+     "s": 10,
+     "t": "Now, we've arrived at a very important place: the Coupon Cafeteria. You can come here and claim one welfare meal each day."
+    },
+    {
+     "s": 0,
+     "t": "Welfare meal? You mean... it doesn't cost anything?"
+    },
+    {
+     "s": 10,
+     "t": "That's right. Criminals are essential to fortress operations, so we must guarantee that they at least have the basic means to survive."
+    },
+    {
+     "s": 11,
+     "t": "Haha, but that's not how it was! Back in the day, it'd cost you Credit Coupons just to get a cup of water here."
+    },
+    {
+     "s": 11,
+     "t": "For fish like you who'd just arrived with nothing, you'd have to go to work hungry until you earned enough coupons to eat."
+    },
+    {
+     "s": 11,
+     "t": "It was only after His Grace became the administrator that we got the free meal rule."
+    },
+    {
+     "s": 11,
+     "t": "Now everyone gets a square meal every day, even no-good slackers who've never picked up a wrench in their whole lives. Nobody starves to death here."
+    },
+    {
+     "s": 10,
+     "t": "In the Fortress of Meropide, Credit Coupons are the only currency, and everything must be purchased. In some sense, you could say using the coupons is a form of trade."
+    },
+    {
+     "s": 10,
+     "t": "But trade is always conducted by people, so if we want trade here to prosper, we need everyone to work hard and live their lives."
+    },
+    {
+     "s": 10,
+     "t": "If nobody could even afford a meal, then the whole fortress would be up in arms. That would only make things more difficult for me."
+    },
+    {
+     "s": 10,
+     "t": "So rather than saying that we're giving everyone a free meal here, you should say that everyone's hard work has improved the living conditions in the Fortress of Meropide."
+    },
+    {
+     "s": 11,
+     "t": "Your Grace's reasoning is correct, but what I said is also true."
+    },
+    {
+     "s": 11,
+     "t": "Whatever the case, hard work is rewarded here. You'd be hard-pressed to find anywhere else as fair and reasonable."
+    },
+    {
+     "s": 0,
+     "t": "Right, Paimon sees your point. By that logic, this place doesn't seem so bad after all."
+    },
+    {
+     "s": 0,
+     "t": "Wait, no! We shouldn't drop our guard so quickly... But it seems the inmates really respect the Duke because of his attitude, right? Hmm, we should still try to verify the truth with our own eyes."
+    },
+    {
+     "s": 10,
+     "t": "Let's continue, this way."
+    },
+    {
+     "section": "Wriothesley"
+    },
+    {
+     "s": 10,
+     "t": "This place is known as the \"Pankration Ring.\""
+    },
+    {
+     "s": 10,
+     "t": "Sometimes we have criminals who have more energy than they know what to do with... their daily work alone isn't enough of an outlet for them."
+    },
+    {
+     "s": 10,
+     "t": "So, instead of leaving them to their own devices, we've provided them with this dedicated venue. This way, nobody will get involved unless they want to be."
+    },
+    {
+     "s": 0,
+     "t": "Pankration matches... And you can earn extra coupons! What do you think, {NICKNAME}? Interested?"
+    },
+    {
+     "s": 10,
+     "t": "But I must warn you that your sentence will be extended if you fail to restrain yourself and end up seriously injuring or killing your opponent."
+    },
+    {
+     "sit": "In that case, I'll pass..."
+    },
+    {
+     "sit": "Seems you know me too well."
+    },
+    {
+     "s": 0,
+     "t": "So, did you set this place up too?"
+    },
+    {
+     "s": 10,
+     "t": "No, actually. I just granted approval for the organizer to use this area to build the ring, and I collect a portion of the proceeds in return."
+    },
+    {
+     "s": 10,
+     "t": "Of course, the fees are also quite useful."
+    },
+    {
+     "s": 0,
+     "t": "Oh... Do you mind if we ask what they're used for?"
+    },
+    {
+     "s": 10,
+     "t": "Sure. Ensuring personal safety, maintaining the arena, and resolving any conflicts that arise... Why? Are you interested in how to manage a Pankration Ring?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, no no! Paimon was just wondering if that's how you paid for everyone's welfare meals..."
+    },
+    {
+     "s": 10,
+     "t": "A reasonable guess. I see you have a talent for entrepreneurship."
+    },
+    {
+     "s": 0,
+     "t": "You hear that? Paimon has a talent! So, we can start a business here?"
+    },
+    {
+     "s": 10,
+     "t": "That is something you can discuss between yourselves later. Let's move on for now."
+    },
+    {
+     "section": "Wriothesley, Lyney"
+    },
+    {
+     "s": 12,
+     "t": "Ah, Y—Your Grace! Good morning... I mean, good afternoon! ...No wait, what time is it again?"
+    },
+    {
+     "s": 10,
+     "t": "What time indeed. Time waits for no one, so it's best to keep an eye on it."
+    },
+    {
+     "s": 12,
+     "t": "Ah, m—my apologies, Your Grace! *panting*"
+    },
+    {
+     "s": 0,
+     "t": "Geez, that guy's so nervous he almost forgot to breathe..."
+    },
+    {
+     "s": 12,
+     "t": "*deep breath* Sorry, forgive my manners..."
+    },
+    {
+     "s": 10,
+     "t": "These are the dormitories, which is where inmates sleep. The guards will inform you where your bunk is later."
+    },
+    {
+     "s": 10,
+     "t": "In the Fortress of Meropide, criminals usually spend most of their time in either the production zone or the sleeping areas."
+    },
+    {
+     "s": 0,
+     "t": "The production zone... what does it produce? Is that where we'll be working?"
+    },
+    {
+     "s": 10,
+     "t": "Not necessarily. Though working in the production zone is the most reliable way to earn Credit Coupons, if you have other skills, you can skip your shifts to earn them in other ways."
+    },
+    {
+     "s": 0,
+     "t": "Wow... Wait, you're the manager of this place and you're just telling us to our faces that it's okay to skip work!?"
+    },
+    {
+     "s": 10,
+     "t": "The fact that the Fortress of Meropide has continued operating completely autonomously is proof enough that most people are willing to work honestly and earn a stable income."
+    },
+    {
+     "s": 10,
+     "t": "As for what we produce... many of the clockwork machines seen all over Fontaine originate from our workshop."
+    },
+    {
+     "s": 10,
+     "t": "Therefore, the Fortress of Meropide is not only a place where criminals serve their sentences, but also a giant machine factory."
+    },
+    {
+     "s": 10,
+     "t": "There's no need for me to get into specifics about the production process now. You'll experience it all firsthand when you report for work tomorrow."
+    },
+    {
+     "sit": "Thank you, Your Grace!"
+    },
+    {
+     "sit": "You got it, Boss!"
+    },
+    {
+     "s": 10,
+     "t": "Let's move on. The tour continues over this way."
+    },
+    {
+     "s": 13,
+     "t": "..."
+    },
+    {
+     "sit": "!?"
+    },
+    {
+     "s": 13,
+     "t": "!!!"
+    },
+    {
+     "s": 0,
+     "t": "O—Oh..."
+    },
+    {
+     "s": 13,
+     "t": "Oh! You really scared me there... I didn't expect to see you here, Your Grace. I thought maybe I was so tired from work that I was starting to see things."
+    },
+    {
+     "s": 10,
+     "t": "The only thing you should be seeing is the work in front of you. Stay focused and keep up the pace."
+    },
+    {
+     "s": 10,
+     "t": "Oh? Is something the matter?"
+    },
+    {
+     "s": 0,
+     "t": "Hehehe, it's nothing... Paimon's just worried about how hard we'll have to work tomorrow, hehe..."
+    },
+    {
+     "section": "Sigewinne, Wriothesley"
+    },
+    {
+     "s": 14,
+     "t": "Your Grace? What are you doing in the infirmary at a time like this? Oh no, you didn't injure yourself, did you?"
+    },
+    {
+     "s": 10,
+     "t": "Not yet, unfortunately for you. But thank you for your concern, Sigewinne."
+    },
+    {
+     "s": 14,
+     "t": "Hehe, then you must be here for those two."
+    },
+    {
+     "s": 10,
+     "t": "Allow me to introduce you. This is the infirmary, and Sigewinne here is the Fortress of Meropide's head nurse."
+    },
+    {
+     "s": 14,
+     "t": "Hello, new faces! They call me the head nurse, but I actually handle all the nurse-related work all by myself down here!"
+    },
+    {
+     "s": 10,
+     "t": "Since you seem to have some rare downtime with no patients, perhaps you could find the time to join us for dinner?"
+    },
+    {
+     "s": 14,
+     "t": "Oooh, then these two must be some important convicts. Sure, I'll join the welcome party!"
+    },
+    {
+     "s": 10,
+     "t": "Thank you. Your presence will be the piece de resistance for today's tour."
+    },
+    {
+     "s": 0,
+     "t": "Oh, so the tour part is over now?"
+    },
+    {
+     "s": 10,
+     "t": "I believe I've already covered the primary aspects of life here in the fortress. As for your work, there'll be someone else to guide you through the details. Hmm, is there anything else...?"
+    },
+    {
+     "s": 10,
+     "t": "I seldom conduct tours, so why don't you just ask if you have any questions?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, uh, well... This is our first time here, Paimon's not sure what to ask..."
+    },
+    {
+     "s": 10,
+     "t": "Then let's head back to the Coupon Cafeteria. Maybe a meal will help you think up some questions."
+    },
+    {
+     "s": 14,
+     "t": "You should at least try to be excited. Our free meals are actually pretty good here."
+    },
+    {
+     "section": "Sigewinne, Wriothesley"
+    },
+    {
+     "s": 14,
+     "t": "What do you think of the food? Does it meet your expectations?"
+    },
+    {
+     "s": 0,
+     "t": "Wow, it looks delicious... Neuvillette made it sound like living conditions in the Fortress of Meropide weren't very good. Who woulda guessed that criminals get to eat tasty food like this every day!"
+    },
+    {
+     "sit": "The main thing is that it's free."
+    },
+    {
+     "sit": "Mine's pretty good, too."
+    },
+    {
+     "s": 14,
+     "t": "Isn't that the meal box that only super lucky people manage to draw? Seems like you two are quite fortunate."
+    },
+    {
+     "s": 10,
+     "t": "It actually has nothing to do with luck in this case. I had a word with Wolsey so you didn't have to draw lots like everyone else."
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean the meals are random?"
+    },
+    {
+     "s": 14,
+     "t": "Yes, what you get to eat depends completely on your luck. You could say that it's a... distasteful little game that Chef Wolsey likes to play here in the cafeteria."
+    },
+    {
+     "s": 0,
+     "t": "Paimon knew it! If criminals got to eat tasty food like this every meal, the crime rate in Fontaine would skyrocket for sure!"
+    },
+    {
+     "s": 14,
+     "t": "Excuse me, did I hear you mention Neuvillette just now? I've been wondering how he's doing. Is he busy with work? Has he been taking care of his health?"
+    },
+    {
+     "s": 0,
+     "t": "He seems healthy no matter how you look at him, but he works so hard all the time, so it must be really tiring..."
+    },
+    {
+     "s": 10,
+     "t": "Sounds like he hasn't changed a bit. Looks like you can stop worrying so much, Sigewinne."
+    },
+    {
+     "s": 14,
+     "t": "That's good... but I still feel like it's been too long since I've heard any news about him."
+    },
+    {
+     "s": 10,
+     "t": "No news is good news."
+    },
+    {
+     "s": 10,
+     "t": "Maybe the next time I've got something to discuss with him, I can invite you to accompany us."
+    },
+    {
+     "s": 0,
+     "t": "Hmm? But isn't the Fortress of Meropide independent from Fontaine's court system? What do you two have to discuss?"
+    },
+    {
+     "s": 10,
+     "t": "Well, we provide all kinds of mechanical products for official use, and some essential goods have to be obtained from the overworld, so we naturally have to stay in touch about this and that."
+    },
+    {
+     "s": 10,
+     "t": "Monsieur Neuvillette's character is unimpeachable. No matter the question, you can discuss it openly and freely with him. Talking with him feels quite effortless."
+    },
+    {
+     "s": 10,
+     "t": "In light of that, I am quite willing to go out of my way to show respect and accommodate him."
+    },
+    {
+     "s": 10,
+     "t": "In fact, right now I'm treating you two as guests invited by Monsieur Neuvillette, but unfortunately, I can only do so until the end of this meal."
+    },
+    {
+     "s": 10,
+     "t": "After this, you two will just be inmates here."
+    },
+    {
+     "sit": "Understood."
+    },
+    {
+     "sit": "Thank you for your hospitality."
+    },
+    {
+     "s": 10,
+     "t": "You're very welcome. Well, your new life awaits."
+    },
+    {
+     "section": "Fielding"
+    },
+    {
+     "s": 15,
+     "t": "{NICKNAME} and Paimon, right? Listen up. As new inmates, the only thing you need to worry about is what to do and when to do it. Don't make any extra trouble for yourself."
+    },
+    {
+     "s": 15,
+     "t": "Your bunks are right over there. Follow me."
+    },
+    {
+     "s": 0,
+     "t": "Whew, so this is where we'll be sleeping from now on...? Paimon can't believe this! *sigh* The days of staying home and reading detective stories are like a dream now..."
+    },
+    {
+     "s": 0,
+     "t": "By the way, {NICKNAME}, we saw a lot of things worth investigating just now..."
+    },
+    {
+     "s": 0,
+     "t": "Even though the Duke didn't say it too directly, judging from what he said at the end, it seems that he was only welcoming because we know Neuvillette..."
+    },
+    {
+     "s": 0,
+     "t": "We are criminals, and Paimon did eat that cake... But we're actually here to help Neuvillette."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... Is it possible that he knows we're here on a mission? Or is Paimon overthinking things?"
+    },
+    {
+     "sit": "It's very possible..."
+    },
+    {
+     "sit": "He probably knows more than he's letting on."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, Paimon thinks so, too. He probably knew why we came here from the very beginning and intentionally wanted to send us a message..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe something like, \"Hey, I have my eyes on you, so don't try anything funny!\""
+    },
+    {
+     "sit": "But there's nothing we can do about that."
+    },
+    {
+     "sit": "We're already here, after all."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, you're right. It's not like we can go back to Neuvillette empty-handed and say, \"The Duke looked scary, so we gave up.\""
+    },
+    {
+     "s": 0,
+     "t": "Uh... And besides, the Duke said that he was willing to go out of his way to show his respect for Neuvillette, right?"
+    },
+    {
+     "s": 0,
+     "t": "So we at least need to try! But Paimon hasn't got a clue where we should start our investigation..."
+    },
+    {
+     "sit": "There was one other important thing..."
+    },
+    {
+     "s": 0,
+     "t": "You mean..."
+    },
+    {
+     "sit": "Lyney's presence here."
+    },
+    {
+     "s": 0,
+     "t": "Yeah! That's what Paimon was thinking, too! Paimon almost spilled the beans when we ran into him."
+    },
+    {
+     "s": 0,
+     "t": "Fortunately, based on his attitude, it looks like the Duke sees Lyney as just another inmate."
+    },
+    {
+     "s": 0,
+     "t": "We worked so hard to help clear Lyney and Lynette's names, and yet we turn around and bam! He's in prison anyway?"
+    },
+    {
+     "sit": "If I had to guess..."
+    },
+    {
+     "sit": "I'd say he's here for the same reason we are."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! Lyney and Lynette are from the House of the Hearth! They work for The Knave, so they could be here to investigate, too!"
+    },
+    {
+     "sit": "And look, there's something over there..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Oh, it's a card! Paimon didn't notice it earlier..."
+    },
+    {
+     "s": 0,
+     "t": "It looks like a magician's prop, Lyney must have left it here! He's in prison and still doing his little tricks, huh... Let Paimon have a look!"
+    },
+    {
+     "s": 0,
+     "t": "It was nice to bump into you again. Let's catch up in the production zone tomorrow."
+    },
+    {
+     "s": 0,
+     "t": "What in the world? It's written like he's greeting a buddy on the street... Paimon thought he'd write something important."
+    },
+    {
+     "sit": "This proves that he's up to something here, too."
+    },
+    {
+     "s": 0,
+     "t": "If you say so... We can ask him what's going on tomorrow. Let's get some rest now."
+    },
+    {
+     "sit": "With a bit of trepidation, you and Paimon spend your first night in the Fortress of Meropide..."
+    },
+    {
+     "s": 0,
+     "t": "Hey, you're finally awake."
+    },
+    {
+     "sit": "You're up early today, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Well, it's Paimon's first day as a prisoner... Last night Paimon dreamed about getting interrogated by the guards until Paimon told them everything, and then Paimon woke up..."
+    },
+    {
+     "sit": "You told them everything?"
+    },
+    {
+     "s": 0,
+     "t": "Hey, c'mon! It's just a dream, okay? Paimon wouldn't really squeal... maybe..."
+    },
+    {
+     "s": 15,
+     "t": "Hey, lazybones! What're you still doing here? If you don't want to starve, then get yourselves over to the production zone!"
+    },
+    {
+     "s": 0,
+     "t": "Ah! Sorry, we're going right away!"
+    },
+    {
+     "sit": "You set off as soon as possible after asking Fielding about the location of the Production Zone."
+    },
+    {
+     "section": "Wriothesley"
+    },
+    {
+     "s": 10,
+     "t": "Are you finished eating? Then I recommend that you return to the dormitories and rest. You have work to do tomorrow."
+    },
+    {
+     "s": 10,
+     "t": "Perhaps you were hoping to ask for some special privileges? Sorry, you'll have to use Credit Coupons like everyone else. It's not as comfy here as you might imagine."
+    },
+    {
+     "section": "Sigewinne"
+    },
+    {
+     "s": 14,
+     "t": "Now that I've gotten a good look at you two, I think you're very cute."
+    },
+    {
+     "s": 14,
+     "t": "After all, heavy is the head that wears the cutesie crown. I guess I just want to say, just take care of yourself and don't get hurt."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Ah, you must be the catch of the day. Looks like you've got some luck, getting assigned this space..."
+    },
+    {
+     "s": 0,
+     "t": "Yep, we just arrived yesterday and..."
+    },
+    {
+     "s": 16,
+     "t": "Don't interrupt me when I'm speaking!"
+    },
+    {
+     "s": 0,
+     "t": "Yessir!"
+    },
+    {
+     "s": 16,
+     "t": "Listen carefully to my instructions. I don't want any mishaps. Every machine here is worth more than the both of you!"
+    },
+    {
+     "s": 16,
+     "t": "Working around these machines can be very dangerous. Do your job well, and you can eat in the cafeteria after your shift. Get sloppy, and you dine in the infirmary."
+    },
+    {
+     "s": 16,
+     "t": "Anyway, the Fortress of Meropide doesn't want to lose a single one of its machines, and it also doesn't want to waste the production potential of any inmate. You got that?"
+    },
+    {
+     "s": 0,
+     "t": "Got it!"
+    },
+    {
+     "s": 16,
+     "t": "Your job is to use the machine over there to process widgets."
+    },
+    {
+     "s": 16,
+     "t": "Watch carefully and make sure you step on the pedal at the right time. If the machine gets jammed, then give it a little \"maintenance\" with your fist."
+    },
+    {
+     "s": 16,
+     "t": "Here, take this."
+    },
+    {
+     "s": 16,
+     "t": "Bring me the processed widgets and I'll give you some Credit Coupons in exchange."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Bring me the processed widgets and I'll give you some Credit Coupons in exchange."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Hmm, this one is... tolerable... though since the processing is done by machine, the product is all pretty much the same anyway."
+    },
+    {
+     "s": 16,
+     "t": "Alright, I'll pass you for now, and we'll count up how many Credit Coupons you've earned."
+    },
+    {
+     "s": 0,
+     "t": "Whew, Paimon's exhausted! We're done now, right? Oh, that foreman! He's so scary that Paimon couldn't even speak..."
+    },
+    {
+     "s": 0,
+     "t": "Ugh... even though Paimon's starving and wants to head straight to the Coupon Cafeteria... we still need to meet Lyney first, right?"
+    },
+    {
+     "s": 0,
+     "t": "He probably just finished up his work too, he should be around here somewhere..."
+    },
+    {
+     "section": "Lyney, Lynette"
+    },
+    {
+     "s": 13,
+     "t": "Hey! Over here!"
+    },
+    {
+     "s": 0,
+     "t": "Wha—! You scared Paimon! How did you appear out of nowhere like that!?"
+    },
+    {
+     "s": 13,
+     "t": "Oh? You scare so easily now? Is there something worrying you these days?"
+    },
+    {
+     "s": 0,
+     "t": "You little... The only thing we were worried about was trying to find you!"
+    },
+    {
+     "s": 13,
+     "t": "Hehe, sorry, sorry! Come over here, and keep it down..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Lynette! You're here too! You two really are inseparable."
+    },
+    {
+     "s": 17,
+     "t": "That's right, my brother simply can't stand to be away from me."
+    },
+    {
+     "s": 13,
+     "t": "Uh, it's not just Lynette, Freminet is also here. Do you still remember him?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean that diver from the House of the Hearth, right? Paimon remembers seeing him in the Court of Fontaine before."
+    },
+    {
+     "s": 0,
+     "t": "Now hurry up and tell us, how did you end up as criminals this time? We fought so hard at court to prove you were innocent, but now it looks like our incredible court battle was for nothing!"
+    },
+    {
+     "s": 13,
+     "t": "Sadly, even the tiniest of things can land you in prison these days, you know. I put together a street performance and used the popularity we gained from the opera house incident to attract a big crowd."
+    },
+    {
+     "s": 0,
+     "t": "And then...?"
+    },
+    {
+     "s": 13,
+     "t": "Next, I invited several audience members to participate in the show. And then, with the entire audience watching... their wallets suddenly disappeared!"
+    },
+    {
+     "s": 17,
+     "t": "My brother was charged with theft, and I was charged as his accomplice, having assisted him in his crime."
+    },
+    {
+     "s": 13,
+     "t": "It isn't really that bad... The missing wallets are all in the leftmost drawer of the Maison Gardiennage's big filing cabinet. We just need to see how long it takes to discover them."
+    },
+    {
+     "s": 17,
+     "t": "Yes, we should be released then."
+    },
+    {
+     "s": 13,
+     "t": "In terms of the magic trick itself, I think the performance went perfectly."
+    },
+    {
+     "s": 0,
+     "t": "...Leave it to Lyney to magic himself into prison."
+    },
+    {
+     "sit": "That's not the point, Lyney..."
+    },
+    {
+     "sit": "The question is, what are you two really doing here?"
+    },
+    {
+     "s": 13,
+     "t": "Indeed. Last time I hid my identity from you, I promised that I'd tell you absolutely everything if you were angry about it, no more secrets."
+    },
+    {
+     "s": 13,
+     "t": "So I don't plan on keeping anything from you this time, either. At the moment, the House of the Hearth's interests don't conflict with yours at all."
+    },
+    {
+     "s": 13,
+     "t": "We were instructed by the \"Father\" of our House, The Knave, to come here and conduct an investigation."
+    },
+    {
+     "s": 0,
+     "t": "Told you so! See, Paimon guessed right."
+    },
+    {
+     "s": 13,
+     "t": "As for what we're investigating... Perhaps you haven't heard, but the Fortress of Meropide hides a secret."
+    },
+    {
+     "s": 13,
+     "t": "Some even say that the entire fortress exists just to protect it."
+    },
+    {
+     "s": 13,
+     "t": "The House of the Hearth has been investigating this for a very long time, trying to uncover its mysteries..."
+    },
+    {
+     "s": 13,
+     "t": "But recently all of our informants, including the ones that had infiltrated the guards, suddenly vanished and have not been heard from since."
+    },
+    {
+     "s": 13,
+     "t": "We believe that this is a direct provocation, and it's the reason why we came here."
+    },
+    {
+     "sit": "Why is the House so interested about this secret?"
+    },
+    {
+     "s": 13,
+     "t": "\"Father\" has somehow managed to confirm that Focalors does not have Fontaine's Gnosis."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? How did she manage to learn information that important?"
+    },
+    {
+     "s": 17,
+     "t": "\"Father\" has her ways... Many of them are beyond our imagination, and we've never had the chance to see her at work. But we trust her conclusions."
+    },
+    {
+     "s": 13,
+     "t": "It was this information that led us to suspect that Fontaine's Gnosis might be in the Fortress of Meropide, and is related to that \"secret.\""
+    },
+    {
+     "s": 0,
+     "t": "So it's all about the Gnosis again."
+    },
+    {
+     "s": 13,
+     "t": "Well, that's about it from our side, how about you two? Did Monsieur Neuvillette send you here?"
+    },
+    {
+     "s": 0,
+     "t": "Bingo! The Knave has been applying a lot of pressure. She wants to know what happened to Childe, so we came here to investigate..."
+    },
+    {
+     "s": 0,
+     "t": "...Ah! {NICKNAME}... Are we allowed to tell them?"
+    },
+    {
+     "sit": "You've already said everything..."
+    },
+    {
+     "sit": "Consider it an exchange of information."
+    },
+    {
+     "s": 13,
+     "t": "Hehe, you don't need to worry too much about that. She's just asking for a report on Master Childe's predicament as a means of pressuring you."
+    },
+    {
+     "s": 13,
+     "t": "\"Father\" used the situation as a pretext to negotiate with two high-ranking officials in the Court of Fontaine. She actually just wants to be able to make concessions on this matter for gains elsewhere, almost like a bargaining chip."
+    },
+    {
+     "s": 17,
+     "t": "Sometimes, you need an excuse to do things you otherwise couldn't, and a Harbinger is more valuable than you might imagine."
+    },
+    {
+     "s": 13,
+     "t": "Of course, it's not a complete farce. If we do manage to find out what happened to Master Childe too, then diplomatic relations with Fontaine could improve, and Snezhnaya might even be able to adjust its stance a bit."
+    },
+    {
+     "s": 0,
+     "t": "Is it just Paimon, or does it feel like we're the only ones who actually care about Childe's situation... The relationships between the Harbingers must be as bad as ever."
+    },
+    {
+     "s": 13,
+     "t": "I wouldn't go that far... \"Father\" just has different standards than we do when it comes to what can be sacrificed for an advantage. By the way, I have a suggestion. Why don't we team up?"
+    },
+    {
+     "s": 13,
+     "t": "Even though we have different objectives, we're both here to investigate the Fortress of Meropide. It would be more efficient for us to work together."
+    },
+    {
+     "s": 13,
+     "t": "As you know, the House of the Hearth has many reasons to seek the Gnosis, but our highest priority remains resolving the prophesized crisis. You can trust us on that."
+    },
+    {
+     "sit": "Sorry, I must refuse."
+    },
+    {
+     "s": 17,
+     "t": "See? I told you."
+    },
+    {
+     "s": 13,
+     "t": "Is that so... Sure enough, it won't be easy to convince them to cooperate with us..."
+    },
+    {
+     "s": 0,
+     "t": "Lyney seems to be thinking pretty hard about something..."
+    },
+    {
+     "s": 17,
+     "t": "Of course he is! Lyney has been looking forward to a chance to reach an understanding with you ever since last we met."
+    },
+    {
+     "s": 17,
+     "t": "Or I should say, we were really looking forward to teaming up with you this time."
+    },
+    {
+     "s": 13,
+     "t": "Lynette! Just tell them everything, why don't you..."
+    },
+    {
+     "s": 17,
+     "t": "It's okay to open up a little..."
+    },
+    {
+     "sit": "If all we're doing is sharing info... fine."
+    },
+    {
+     "sit": "But I may reconsider if things get serious."
+    },
+    {
+     "s": 13,
+     "t": "Very prudent of you, and consistent with your behavior since we first met. That's reasonable enough, and I agree to cooperate on these terms as well."
+    },
+    {
+     "s": 13,
+     "t": "I was prepared for the worst, but you were actually more agreeable than I anticipated. Alright then, there's no time to lose. I have some information to share, so listen carefully."
+    },
+    {
+     "s": 13,
+     "t": "Since Lynette and I arrived here, our investigation uncovered the fact that the Fortress of Meropide has a \"forbidden zone.\""
+    },
+    {
+     "s": 13,
+     "t": "Most people just clammed up and wouldn't talk, but after asking the right questions, we were able to confirm the existence of the forbidden zone from the guards."
+    },
+    {
+     "s": 13,
+     "t": "You should be aware of that while you're investigating."
+    },
+    {
+     "s": 0,
+     "t": "A forbidden zone...? Could that be where Childe disappeared to? You're right, we'll definitely keep that in mind."
+    },
+    {
+     "s": 13,
+     "t": "Good. That's the most suspicious thing about the fortress that we know of so far. We have a few other unanswered questions, and we'll be investigating those as quickly as we can. Anyway, I hope you find our information useful, at least."
+    },
+    {
+     "s": 13,
+     "t": "Oh, look at the time! You two must be hungry. You should go to the Coupon Cafeteria and get something to eat. I'll use my cards to get in touch with you again in the future."
+    },
+    {
+     "s": 0,
+     "t": "That's just what Paimon wanted to hear! Paimon's starving after all that work today! We can talk more about the investigation later, let's go get some grub!"
+    },
+    {
+     "section": "Vidoc"
+    },
+    {
+     "s": 0,
+     "t": "He wasn't kidding. Today's meal is nowhere near as good as last time. *sigh* Who knows how long it'll be until we're lucky enough to get that super tasty meal again..."
+    },
+    {
+     "sit": "As long as you're here long enough..."
+    },
+    {
+     "sit": "It'll only be a matter of time before you get it again."
+    },
+    {
+     "s": 0,
+     "t": "Eh, forget about it then. We'll just deal with the regular food for the time being. Let's just get out of here as soon as possible."
+    },
+    {
+     "s": 0,
+     "t": "But life here doesn't seem all that bad, other than the foreman being kinda mean and the work being pretty tiring..."
+    },
+    {
+     "s": 18,
+     "t": "You think so, mate? Ah, if I had a coupon for every fish who's said that..."
+    },
+    {
+     "s": 18,
+     "t": "Seems you fishies still haven't learned your lessons from your life up on the surface..."
+    },
+    {
+     "s": 18,
+     "t": "If you take things at face value, then by the time you reach a dead end, you won't even know how you ended up on that road in the first place."
+    },
+    {
+     "sit": "Have some advice for us, old timer?"
+    },
+    {
+     "s": 18,
+     "t": "Heh, I like your attitude. I can let you in on a little something..."
+    },
+    {
+     "s": 18,
+     "t": "Everyone's been telling you to just follow the rules and not cause any trouble for yourself, am I right?"
+    },
+    {
+     "s": 18,
+     "t": "But what they don't tell you is that the rules aren't exactly what they pretend to be — the rules for being a prisoner."
+    },
+    {
+     "s": 18,
+     "t": "The truth is, this place has a lot of \"hidden rules\"..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? \"Hidden rules\"? ...What do you mean?"
+    },
+    {
+     "s": 18,
+     "t": "Not everyone knows about those rules, but whether you know 'em or not, once you break one... you might encounter something even worse than death."
+    },
+    {
+     "s": 0,
+     "t": "R—Really...? Ooh, now you're really scaring poor Paimon, don't joke around like that..."
+    },
+    {
+     "sit": "Have some advice for us, old timer?"
+    },
+    {
+     "s": 18,
+     "t": "Of course, and I'd say that just disappearing would be one of the better outcomes."
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean that if there really are \"hidden rules,\" then Childe's disappearance might have something to do with that?"
+    },
+    {
+     "s": 0,
+     "t": "Uh, in that case... Would you tell us some hidden rules? We definitely want to avoid breaking them..."
+    },
+    {
+     "s": 18,
+     "t": "Hehe... C'mon mate, this is valuable information, the difference between life and death. D'you really think you can just ask and I would tell you?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon understands... But we don't have many Credit Coupons yet..."
+    },
+    {
+     "s": 18,
+     "t": "Yeah, yeah, I know... Not like I'm going anywhere. Just come talk to me after you've saved enough."
+    },
+    {
+     "s": 18,
+     "t": "Moreover, you're new fish, freshly caught, and completely out of your element... What'd be the point in even telling you anything before you've gotten a handle on your new lives? Come and find me once you've been here longer."
+    },
+    {
+     "s": 18,
+     "t": "I'm usually around the Rag and Bone Shop. Just call me Vidoc. Bye bye now."
+    },
+    {
+     "s": 0,
+     "t": "He left, just like that? Do you think he's just trying to scare us into buying fake information from him?"
+    },
+    {
+     "sit": "Is it possible that someone would just disappear?"
+    },
+    {
+     "sit": "But I'm still interested."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, it might be a good place to start in our investigation. \"Hidden rules,\" huh..."
+    },
+    {
+     "s": 0,
+     "t": "But like he said, we don't have any coupons, and we're still not very familiar with this place. There's nothing we can do about it now."
+    },
+    {
+     "s": 0,
+     "t": "Ah! We were so busy talking, we almost forgot to eat! Even if it's not the best, it's probably better while it's warm. C'mon, dig in before it gets cold!"
+    },
+    {
+     "sit": "After your meal, you spend some time getting familiar with the fortress. Before long, it's nighttime..."
+    },
+    {
+     "section": "Rest"
+    },
+    {
+     "s": 0,
+     "t": "So, Paimon just confirmed with the guards that our shift is set for every morning, and we're free to do whatever we want all afternoon..."
+    },
+    {
+     "s": 0,
+     "t": "...But it seems like most of the other inmates choose to continue working through the afternoon to earn more Credit Coupons."
+    },
+    {
+     "s": 0,
+     "t": "Oh, and they also said that you can use coupons to skip work in the morning and free up your time."
+    },
+    {
+     "s": 0,
+     "t": "They weren't kidding... Credit Coupons really can be used to do anything here..."
+    },
+    {
+     "s": 0,
+     "t": "*yawn* Paimon's so tired... and we'll need to wake up and go to work in the morning. Without any Credit Coupons, it's not like we can really do anything else."
+    },
+    {
+     "s": 0,
+     "t": "Nighty night, {NICKNAME}. Paimon hopes we can keep making progress on our investigation tomorrow."
+    },
+    {
+     "sit": "\"I hear... someone calling me...\""
+    }
+   ],
+   "description": "At Neuvillette’s behest, you are sent to Fortress of Meropide on trumped-up charges to secretly investigate. Your life behind bars is about to begin…"
+  },
+  {
+   "title": "The Proscribed, Hidden in Plain Sight",
+   "dialogue": [
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "sit": "It's time for a rest."
+    },
+    {
+     "s": 0,
+     "t": "Alright... By the way, it seems like we still haven't found all the clues regarding the strange liquid."
+    },
+    {
+     "s": 0,
+     "t": "No more strange packages are gonna show up... right?"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "sit": "It's time for a rest."
+    },
+    {
+     "s": 0,
+     "t": "Alright... By the way, it seems like we still haven't found all the clues regarding the strange meal box."
+    },
+    {
+     "s": 0,
+     "t": "Paimon hopes tomorrow's food will be a little more normal..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's end the shift."
+    },
+    {
+     "s": 0,
+     "t": "Alright... By the way, it seems like we still haven't found all the clues regarding the strange liquid."
+    },
+    {
+     "s": 0,
+     "t": "No more strange packages are gonna show up... right?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's end the shift."
+    },
+    {
+     "s": 0,
+     "t": "Alright... By the way, it seems like we haven't found all the clues regarding the strange meal box."
+    },
+    {
+     "s": 0,
+     "t": "Paimon just hopes to get some normal food today."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "s": 0,
+     "t": "Since we have time now, let's focus on investigating some more."
+    },
+    {
+     "s": 0,
+     "t": "Okay! Let's see if we can find any new leads."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, Paimon felt like some of the people here were a little strange the moment she saw them..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "If you want a job done right, you have to do it yourself."
+    },
+    {
+     "s": 0,
+     "t": "Wow! Impressive philosophy. Could that be the secret sauce behind the blond Traveler's success?"
+    },
+    {
+     "section": "Vidoc"
+    },
+    {
+     "s": 18,
+     "t": "Well? Have you gotten used to prison life yet?"
+    },
+    {
+     "s": 18,
+     "t": "Shh... Save the questions for now. I don't like to give away information for no reason, you know."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "If you want a job done right, you have to do it yourself."
+    },
+    {
+     "s": 0,
+     "t": "Wow! Impressive philosophy. Could that be the secret sauce behind the blond Traveler's success?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "I'm no quitter."
+    },
+    {
+     "s": 0,
+     "t": "Wow, giving it your all even when it's just a game. That's {NICKNAME} for ya!"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should work at the Production Zone more often to see if we can discover anything unexpected...)"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should work at the Production Zone more often to see if we can discover anything unexpected...)"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Investigate the clues you discovered (-400 Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "Let's go! Credit Coupons, here we come!"
+    },
+    {
+     "s": 0,
+     "t": "Right, we just need to keep at it..."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon really hopes the foreman will be in a better mood today..."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Though it feels nice to slack off a little, less work means less coupons... Let's make the most of our morning!"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "*stretching* Are you awake, {NICKNAME}?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm? What's wrong? You seem to have something on your mind... Did you dream about something last night?"
+    },
+    {
+     "sit": "I dreamed of Childe..."
+    },
+    {
+     "sit": "Rather, in the dream, I was Childe..."
+    },
+    {
+     "s": 0,
+     "t": "Is that even possible? Unless... It wasn't an ordinary dream?"
+    },
+    {
+     "s": 0,
+     "t": "Ah.... Childe's Vision! So you had it with you this whole time..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe the Vision connected Childe's consciousness to yours?"
+    },
+    {
+     "sit": "Maybe I can use his Vision..."
+    },
+    {
+     "sit": "To see everything he experienced from his perspective."
+    },
+    {
+     "s": 0,
+     "t": "And our investigation has its first major breakthrough! Good thing you brought the Vision with you here."
+    },
+    {
+     "s": 0,
+     "t": "So what did you see in the dream? Do you know where Childe went?"
+    },
+    {
+     "sit": "The dream was a little hazy..."
+    },
+    {
+     "sit": "And I didn't see anything particularly useful."
+    },
+    {
+     "s": 0,
+     "t": "Huh, okay... Well, hopefully it'll be a bit more helpful in the future."
+    },
+    {
+     "s": 0,
+     "t": "What's more important now is that it's the start of another new day as prisoners. Let's do our best to earn more Credit Coupons!"
+    },
+    {
+     "s": 0,
+     "t": "What's the plan for today?"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "sit": "Let's spend some coupons to skip work."
+    },
+    {
+     "s": 0,
+     "t": "Let's go, it's time to start working. If that guard Fielding catches us skulking about, he's sure to give us an earful."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 15,
+     "t": "Hey, Traveler, Paimon! Package here for ya."
+    },
+    {
+     "s": 15,
+     "t": "The next time you buy something, go pick it up yourself. I'm not a deliveryman, you know."
+    },
+    {
+     "s": 0,
+     "t": "Huh? A package... For us? Did you buy something, {NICKNAME}? *yawn* Paimon's not quite awake yet, so why don't you go take a look..."
+    },
+    {
+     "sit": "I didn't buy anything."
+    },
+    {
+     "sit": "Unless, this is..."
+    },
+    {
+     "s": 0,
+     "t": "Ah, right! Yesterday we broke the \"hidden rule\" and bought tickets for both boxers. Maybe this package is the \"bad thing\" that Collins said would happen..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, Paimon suddenly feels wide awake! Wait, maybe let Paimon go hide somewhere first. Just call for Paimon AFTER you've opened it!"
+    },
+    {
+     "s": 0,
+     "t": "Hey, wait, wait! Paimon's still here, don't open it! Ahh!"
+    },
+    {
+     "sit": "Doesn't seem especially scary."
+    },
+    {
+     "sit": "But there is something a little odd inside."
+    },
+    {
+     "s": 0,
+     "t": "Huh? What is it? Are you okay?"
+    },
+    {
+     "s": 0,
+     "t": "L—Let Paimon take a peek too..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, it's just a small bottle... but the color of the liquid inside looks so wrong, almost like..."
+    },
+    {
+     "sit": "Hmm, rumor has it that a boxer went missing..."
+    },
+    {
+     "sit": "And the liquid in the bottle obviously looks like blood..."
+    },
+    {
+     "s": 0,
+     "t": "Alright, that's enough of that! No need to say it out loud, Paimon already knows what you're trying to say..."
+    },
+    {
+     "sit": "Do you want to give it a sniff?"
+    },
+    {
+     "sit": "Do you want to give it a taste?"
+    },
+    {
+     "s": 0,
+     "t": "Blegh, no way! Get that stuff away from Paimon!"
+    },
+    {
+     "sit": "Seems we'll have to investigate."
+    },
+    {
+     "sit": "This place is chock-full of strange happenings after all..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thinks we shouldn't open the bottle until we've figured out what's going on. Just trust Paimon on this one, okay!?"
+    },
+    {
+     "s": 0,
+     "t": "What do you plan on doing now?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "After working here so long, we're really starting to get the hang of it."
+    },
+    {
+     "s": 0,
+     "t": "But doing the same thing all the time can get old pretty quickly. How are you holding up, {NICKNAME}?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's see if there's any really easy work..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, it's good to kick back and relax once in a while."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "Let's go! Credit Coupons, here we come!"
+    },
+    {
+     "s": 0,
+     "t": "Right, we just need to keep at it..."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon really hopes the foreman will be in a better mood today..."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Investigate the clues you discovered (-400 Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Though it feels nice to slack off a little, less work means less coupons... Let's make the most of our morning!"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Investigate the clues you discovered (-400 Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Though it feels nice to slack off a little, less work means less coupons... Let's make the most of our morning!"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Investigate the clues you discovered (-400 Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "We don't have enough coupons to skip work, let's go earn some more before trying to take any time off."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Ah, the dawn of a new day! Paimon feels like we're getting used to life as convicts. Uh, is that a good thing or a bad thing?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon doesn't want to get up... Paimon still feels completely exhausted from yesterday..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we can make some progress in our investigation today."
+    },
+    {
+     "s": 0,
+     "t": "What do you have planned for us?"
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "Let's spend some coupons to skip work. (-400 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Though it feels nice to slack off a little, less work means less coupons... Let's make the most of our morning!"
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Look who decided to show up! Get your butts in gear and get to work, time's a-wasting!"
+    },
+    {
+     "sit": "Already on it!"
+    },
+    {
+     "sit": "Could you explain the job to me again?"
+    },
+    {
+     "s": 16,
+     "t": "Good, here you go! Remember to give me the widget once you're finished processing it."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Why aren't you louts working? And don't go walking around with the widgets!"
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Let me have a look... Hmm, not bad. Right, here's your Credit Coupons."
+    },
+    {
+     "section": "Grainville, Rowan"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's beat... but after so many shifts, it seems we're really getting the hang of it now."
+    },
+    {
+     "sit": "It does seem to be getting easier."
+    },
+    {
+     "sit": "All you do is float around telling me what to do."
+    },
+    {
+     "s": 19,
+     "t": "Hey there, fellow shift-mates! I saw you just finished your work so I thought I'd come over and say hi."
+    },
+    {
+     "s": 0,
+     "t": "Oh, hey there! We've seen you before, your assigned workspace is really close, isn't it?"
+    },
+    {
+     "s": 19,
+     "t": "Haha, that's right. The name's Rowan. These past few days I couldn't help but notice the new faces working nearby, I guess we were destined to meet."
+    },
+    {
+     "s": 19,
+     "t": "I've been working here for almost 15 years. Even the foreman, Grainville, always calls me \"Chief.\""
+    },
+    {
+     "s": 0,
+     "t": "Whoa, you've been working here a long time, Chief!"
+    },
+    {
+     "sit": "Hey, Chief."
+    },
+    {
+     "sit": "In other words, you haven't managed any improvement in 15 years."
+    },
+    {
+     "s": 19,
+     "t": "Hahaha... If there's anything you'd like to know, just ask me. I know the work here in the production zone better than the back of my hand."
+    },
+    {
+     "s": 0,
+     "t": "Alright, Chief! We'll be sure to come to you first!"
+    },
+    {
+     "sit": "I think I've got the work more or less down pat..."
+    },
+    {
+     "sit": "We just haven't quite learned all the \"rules.\""
+    },
+    {
+     "s": 19,
+     "t": "..."
+    },
+    {
+     "s": 19,
+     "t": "Did you just ask about... the \"rules\"?"
+    },
+    {
+     "s": 19,
+     "t": "Heh, pretty sharp for newcomers. You've already heard about the \"rules,\" huh? ...Who'd you hear it from?"
+    },
+    {
+     "sit": "I don't think you need to know that."
+    },
+    {
+     "sit": "The \"hidden rules\"... That's what they're called, right?"
+    },
+    {
+     "s": 19,
+     "t": "Hmm... Alright, seeing as I'm the one who came over here and you're already callin' me \"Chief,\" I guess I can tell you a little."
+    },
+    {
+     "s": 19,
+     "t": "Truth is, you two keep workin' like this, you might be puttin' yourselves in danger."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Wait, there's even a rule about that? What would've happened if you never told us about this...?"
+    },
+    {
+     "s": 19,
+     "t": "Well, it's usually not that easy to break one on accident... The conditions of the \"hidden rules\" are usually pretty specific, but once you do break one, bad things happen."
+    },
+    {
+     "sit": "So the conditions in this case are...?"
+    },
+    {
+     "s": 19,
+     "t": "If you work continuously in the production zone for three days, and if all you do besides eating and sleeping is just work..."
+    },
+    {
+     "s": 19,
+     "t": "Then something bad will happen during lunch on the third day."
+    },
+    {
+     "s": 0,
+     "t": "Huh! Like what!? Oooh, don't scare Paimon!"
+    },
+    {
+     "s": 19,
+     "t": "Heh, if I knew that, then I wouldn't be standing here talking to you, now would I?"
+    },
+    {
+     "s": 0,
+     "t": "You mean, even you have never tried working three days like that before?"
+    },
+    {
+     "s": 19,
+     "t": "There's actually a legend about this rule..."
+    },
+    {
+     "s": 19,
+     "t": "They say that there was a worker who worked way harder than me. He was both efficient and eager on the job, and most other workers couldn't hold a candle to him."
+    },
+    {
+     "s": 19,
+     "t": "One time, he tried to test his limits and worked as long as he could. Then, during lunch on the third day..."
+    },
+    {
+     "s": 19,
+     "t": "He disappeared into thin air, as if he'd evaporated. Later, some people went and asked some of his past friends about him, but they said... \"Never heard of the guy.\""
+    },
+    {
+     "s": 0,
+     "t": "What the...!? How could that happen?"
+    },
+    {
+     "sit": "What did that worker look like?"
+    },
+    {
+     "sit": "Did you ever see him?"
+    },
+    {
+     "s": 19,
+     "t": "Unfortunately, we were assigned different production zones. I never saw for myself what he looked like."
+    },
+    {
+     "s": 0,
+     "t": "Wait, are you thinking that it was..."
+    },
+    {
+     "sit": "Thank you very much for the information."
+    },
+    {
+     "sit": "We'll give it a try..."
+    },
+    {
+     "s": 0,
+     "t": "Huh!?"
+    },
+    {
+     "s": 19,
+     "t": "Oh?"
+    },
+    {
+     "s": 19,
+     "t": "You... *sigh* Listen, kid, this ain't the kind of thing you should be curious about. Let me tell you, you're better off forgetting about it and looking after yourself. Now I kinda regret ever telling you..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, I agree with Chief here... Do you really want to try?"
+    },
+    {
+     "sit": "It sounds like a good lead to me."
+    },
+    {
+     "sit": "Nothing ventured, nothing gained."
+    },
+    {
+     "s": 0,
+     "t": "Oh, alright... If you insist..."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "sit": "You apply with Grainville to do some of the simpler processing tasks, and get some Credit Coupons without breaking a sweat."
+    },
+    {
+     "sit": "As your concentration begins to slip and you rely more on muscle memory to complete the work, the quality of the finished widgets has dropped and you receive fewer coupons."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Look who decided to show up! Get your butts in gear and get to work, time's a-wasting!"
+    },
+    {
+     "sit": "If possible..."
+    },
+    {
+     "sit": "I'd like to apply for three continuous working days."
+    },
+    {
+     "s": 16,
+     "t": "Oh? What's with suddenly wanting to work so hard? You need coupons that badly?"
+    },
+    {
+     "s": 0,
+     "t": "S—Sure? Let's just say we really want to test our limits."
+    },
+    {
+     "sit": "To investigate the \"hidden rules,\" you and Paimon start working despite the lack of clarity..."
+    },
+    {
+     "s": 0,
+     "t": "Nice, we did well today! Let's keep it up!"
+    },
+    {
+     "s": 0,
+     "t": "Whew, Paimon's had it... Who knew that processing these widgets would be so tiring?"
+    },
+    {
+     "s": 0,
+     "t": "That's it... Paimon doesn't even have the energy to talk anymore... Is it time to eat yet?"
+    },
+    {
+     "sit": "C'mon. Lunchtime for Paimon."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Huh, we ended up here without even thinking about it... Wanna grab something to eat?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's end the shift."
+    },
+    {
+     "s": 0,
+     "t": "Alright, but remember that we bought this time with coupons, so let's make better use of it next time."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "It's not time yet."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay then..."
+    },
+    {
+     "section": "Deakin"
+    },
+    {
+     "s": 8,
+     "t": "Hey! It's {NICKNAME} and Paimon!"
+    },
+    {
+     "sit": "Oh, so now you remember our names?"
+    },
+    {
+     "s": 8,
+     "t": "Haha, no need to tease me, okay? I won't trip on the same step twice."
+    },
+    {
+     "s": 8,
+     "t": "Just like His Grace said, paying attention to every little detail is the key to prosperity. Hmm, maybe this is the true meaning of \"rebirth,\" not just earning Credit Coupons..."
+    },
+    {
+     "section": "Deakin"
+    },
+    {
+     "s": 8,
+     "t": "Hey! It's {NICKNAME} and Paimon!"
+    },
+    {
+     "sit": "Oh, so now you remember our names?"
+    },
+    {
+     "s": 8,
+     "t": "Haha, no need to tease me, okay? I won't trip on the same step twice."
+    },
+    {
+     "s": 8,
+     "t": "Listen, I feel ashamed about last time... Thank you for praising me in front of His Grace. Here are the extra Credit Coupons he gave me. I'd like you to have them."
+    },
+    {
+     "s": 0,
+     "t": "Huh? No, we couldn't take them. They're your reward, after all..."
+    },
+    {
+     "s": 8,
+     "t": "But when I was welcoming you, I didn't do anything but give you the stink eye..."
+    },
+    {
+     "s": 8,
+     "t": "*sigh* C'mon, I insist. These coupons are nothing compared to getting the attention of His Grace. I won't take no for an answer, haha."
+    },
+    {
+     "section": "Fitzroy"
+    },
+    {
+     "s": 12,
+     "t": "Oh, h—hello... Y—You two are the ones who were with His Grace..."
+    },
+    {
+     "s": 0,
+     "t": "No need to be so nervous!"
+    },
+    {
+     "s": 12,
+     "t": "Sorry, I couldn't help but think of His Grace once I saw you, and I—I..."
+    },
+    {
+     "sit": "Are you that scared of him?"
+    },
+    {
+     "s": 12,
+     "t": "It's hard to say... Maybe I am. He's got a very overwhelming presence. It makes me feel like I'm just some insignificant little bug..."
+    },
+    {
+     "s": 0,
+     "t": "Wait, seriously?"
+    },
+    {
+     "s": 12,
+     "t": "I'm always indecisive, and I tend to make a mess of things... It's like a reflex, I just instantly start to tense up the moment I see a smart and capable person like His Grace..."
+    },
+    {
+     "sit": "Oh, I get it, you want to take his place."
+    },
+    {
+     "s": 12,
+     "t": "What!? P—Please, d—don't say anything like that out loud... How could you possibly think something like that!?"
+    },
+    {
+     "section": "Leonide"
+    },
+    {
+     "s": 20,
+     "t": "Sorry, I don't know who you're talking about. Are you sure they're an inmate here?"
+    },
+    {
+     "section": "Alexis"
+    },
+    {
+     "s": 21,
+     "t": "Haha, there's no one here that's anywhere near as strong as what you're describing. Believe me, I'd know if there was."
+    },
+    {
+     "section": "Poirier"
+    },
+    {
+     "s": 22,
+     "t": "I'm not very good at remembering people's appearances... Anyway, no one comes to mind based on your description."
+    },
+    {
+     "section": "Vidoc"
+    },
+    {
+     "s": 18,
+     "t": "Well? Have you gotten used to prison life yet?"
+    },
+    {
+     "s": 18,
+     "t": "Shh... Save the questions for now. I don't like to give away information for no reason, you know."
+    },
+    {
+     "section": "Promoter"
+    },
+    {
+     "s": 23,
+     "t": "I just don't want to be stuck here forever..."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Oh, it's you. Heh, you must be absolutely loaded with coupons if you have time to stroll around like this."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "What're you two doing here? Don't know how to take a day off?"
+    },
+    {
+     "s": 0,
+     "t": "No, no, not at all! Not working really agrees with us!"
+    },
+    {
+     "section": "Deakin"
+    },
+    {
+     "s": 8,
+     "t": "Just like His Grace said, paying attention to every little detail is the key to prosperity. Hmm, maybe this is the true meaning of \"rebirth,\" not just earning Credit Coupons..."
+    },
+    {
+     "section": "Fitzroy"
+    },
+    {
+     "s": 12,
+     "t": "In the eyes of His Grace, I'm probably just a lowly, ordinary person... *sigh* I guess I need to start working on my nerves."
+    },
+    {
+     "section": "Fielding"
+    },
+    {
+     "s": 15,
+     "t": "If I were you, I'd make the most of my time here. You might not believe me, but I can promise you that you'll miss this place once you're out."
+    },
+    {
+     "section": "Sigewinne"
+    },
+    {
+     "s": 0,
+     "t": "Sigewinne? Aren't you supposed to be in the infirmary? What are you doing in the production zone?"
+    },
+    {
+     "s": 14,
+     "t": "Hello, {NICKNAME}, Paimon."
+    },
+    {
+     "s": 14,
+     "t": "Everyone's usually busy around now, and we don't have any patients to look after in the infirmary, I thought I'd come here and enjoy the sight of everyone hard at work."
+    },
+    {
+     "s": 0,
+     "t": "Enjoy? What's there to enjoy here...?"
+    },
+    {
+     "s": 14,
+     "t": "It's really worth watching... I often stand here and observe everyone. Humans are just so interesting and adorable, I like to watch your expressions while you work."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Are you talking about pets or people?"
+    },
+    {
+     "sit": "Do you also happen to be a veterinarian as well as head nurse?"
+    },
+    {
+     "s": 14,
+     "t": "Oh... I can see why you'd think that, but you shouldn't jump to conclusions."
+    },
+    {
+     "s": 14,
+     "t": "See, we Melusines are a different species, and we see the world very differently from humans. It's very easy for me to observe everyone's condition. All it takes is one look and I can tell which workers are exhausted."
+    },
+    {
+     "s": 0,
+     "t": "Wait, Melusines can see that? Huh, that does sound useful for being a nurse."
+    },
+    {
+     "s": 14,
+     "t": "Yes, running around tending to everyone's health is very fulfilling, but I'd much prefer it if you were all happy and free from exhaustion and pain in the first place."
+    },
+    {
+     "s": 14,
+     "t": "Take care of your body and make sure you eat well. Always rest when you're tired from work and don't push yourself too hard."
+    },
+    {
+     "s": 0,
+     "t": "We'll definitely take care of ourselves, thanks for the reminder!"
+    },
+    {
+     "section": "Lost Research Notes"
+    },
+    {
+     "s": 0,
+     "t": "Hey look, there's something here... looks like a research notebook."
+    },
+    {
+     "s": 0,
+     "t": "That suspicious guy peeking into the infirmary just now... Is he a fan of Sigewinne?"
+    },
+    {
+     "s": 0,
+     "t": "He must have dropped this. Let Paimon read it real quick..."
+    },
+    {
+     "s": 0,
+     "t": "...The Melusine perceive the world very differently from humans, there are significant deviations..."
+    },
+    {
+     "s": 0,
+     "t": "...As a result, their sense of aesthetics and beauty is also very different from that of humans. This must be taken into consideration when giving gifts."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, this all sounds pretty serious... He sure did his homework."
+    },
+    {
+     "sit": "Won't he object to us looking through his notes?"
+    },
+    {
+     "sit": "We should thank him for the intel."
+    },
+    {
+     "s": 0,
+     "t": "And as for the notebook... Let's take it."
+    },
+    {
+     "section": "Rowan"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Rowan? What are you doing here, Chief?"
+    },
+    {
+     "s": 19,
+     "t": "Oh, uh... I was injured a bit just now. Nothing major, I think I just pulled something. Little mishaps like this are unavoidable at work, y'know..."
+    },
+    {
+     "s": 0,
+     "t": "Huh, Paimon wouldn't have thought someone as experienced as the Chief would still get hurt on the job..."
+    },
+    {
+     "s": 19,
+     "t": "Tch, I just knew you would say that... This is pretty embarrassing... *sigh* Ugh, where is Sigewinne when you need her anyway? The one time I need to make a quick trip to the infirmary..."
+    },
+    {
+     "s": 0,
+     "t": "Oh? You mean she wasn't in the infirmary?"
+    },
+    {
+     "s": 19,
+     "t": "Yeah, the rumors say that there's never anybody in the infirmary in the half hour before lunch, and nobody knows where Sigewinne gets off to."
+    },
+    {
+     "s": 0,
+     "t": "Huh, that's actually really strange. Sigewinne's always super dedicated to her work, where else would she possibly go...?"
+    },
+    {
+     "s": 19,
+     "t": "*sigh* Forget it, I can take care of a small sprain like this on my own anyway, no need to trouble her."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "I heard you crazy fools really did it, you bought tickets to support both fighters, didn't ya? Well? Did anything happen?"
+    },
+    {
+     "s": 0,
+     "t": "Well, the next day we received a mysterious package, but we still haven't made any sense of the contents..."
+    },
+    {
+     "s": 24,
+     "t": "So it is real... You didn't become cursed or anything like that, did ya? Are you both still okay? Wait, are you sure that it's still you controlling your bodies right now?"
+    },
+    {
+     "s": 0,
+     "t": "Uh, Paimon's not sure... What do you think, {NICKNAME}? Is Paimon still Paimon?"
+    },
+    {
+     "sit": "Only you'd ever ask such a question, so I'm pretty sure you're fine."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay... well, that's good!"
+    },
+    {
+     "s": 24,
+     "t": "Yeah, you two don't seem to have changed at all, but I wouldn't let your guard down just yet..."
+    },
+    {
+     "s": 24,
+     "t": "Still, I didn't expect you would actually do it. You'd actually throw away coupons like that, just to satisfy your curiosity?"
+    },
+    {
+     "s": 0,
+     "t": "Even if we bought tickets like everybody else, it's not like we could hope to earn any coupons..."
+    },
+    {
+     "s": 0,
+     "t": "When it comes to things like this, it's always the organizer who makes the real profits."
+    },
+    {
+     "s": 24,
+     "t": "Hey, just what are you trying to imply? The Pankration Ring is an honest business, and we really don't make much from selling tickets..."
+    },
+    {
+     "s": 24,
+     "t": "We make so little that even the current tournaments can only be held thanks to funding from the producer of Fonta."
+    },
+    {
+     "s": 0,
+     "t": "Oh, so it's the company that manufactures Fonta sponsoring the events? Paimon thought all of this was thanks to the Duke's support."
+    },
+    {
+     "s": 24,
+     "t": "Let's just say it's a mutually beneficial arrangement... They reached out to us first, hoping to promote Fonta products in the Fortress of Meropide."
+    },
+    {
+     "sit": "I understand."
+    },
+    {
+     "sit": "That's some important info."
+    },
+    {
+     "s": 24,
+     "t": "*sigh* Anyway, you try and take extra good care of yourselves these next few days, you hear?"
+    },
+    {
+     "section": "Scattered Papers"
+    },
+    {
+     "s": 0,
+     "t": "Hey, what are these papers scattered all over the ground? Are they registration forms or something?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, maybe not... Every page has the Fonta Co. symbol on it. Maybe it's some flyers from the company?"
+    },
+    {
+     "sit": "Let's take a look before anyone else shows up."
+    },
+    {
+     "s": 0,
+     "t": "Uh, okay. But if someone catches us, they could accuse us of trying to steal the company's secrets, couldn't they?"
+    },
+    {
+     "sit": "What're you afraid of? We're already convicted criminals."
+    },
+    {
+     "s": 0,
+     "t": "Oh, hehe, you're right! Guess there's nothing to worry about then, let Paimon have a look here..."
+    },
+    {
+     "s": 0,
+     "t": "...Without assistance from the Fontaine Research Institute, development of the new product has been slow, and some researchers on the project have voiced concerns."
+    },
+    {
+     "s": 0,
+     "t": "We have no choice but to let the new product undergo the first phase of promotional trials without a designated name or packaging. We will adjust the direction of future development according to feedback..."
+    },
+    {
+     "s": 0,
+     "t": "We have decided to only conduct closed, small-scale trials for the time being..."
+    },
+    {
+     "s": 0,
+     "t": "Sure doesn't seem like anything unusual... The company is just trying to develop some new products besides Fonta, but it sounds like things aren't going well at all."
+    },
+    {
+     "s": 0,
+     "t": "Let's put these papers back where we found them, and make it look like nobody went through them... Okay, good."
+    },
+    {
+     "section": "Promoter"
+    },
+    {
+     "s": 23,
+     "t": "*sigh* If there's no way to send it all out, then maybe I'll never get a chance to leave..."
+    },
+    {
+     "s": 0,
+     "t": "Uh, who are you? We've never seen you before, and you don't look like a fellow convict."
+    },
+    {
+     "s": 23,
+     "t": "I'm not! Of course I'm not. Please don't mistake me for a criminal, I'm a good, law-abiding citizen."
+    },
+    {
+     "s": 0,
+     "t": "Then what are you doing here? You sure seem anxious about something."
+    },
+    {
+     "s": 23,
+     "t": "I'm a promoter for Fonta Co., and I'm usually responsible for promoting our drink products. I thought I could complete my task here quickly and return to headquarters, but I've been here way longer than I anticipated..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, a promoter from Fonta Co.! So what kind of problem did you run into?"
+    },
+    {
+     "s": 23,
+     "t": "Ugh, I'm so upset... It's all because of that Duke."
+    },
+    {
+     "s": 23,
+     "t": "After discussing the company's promotional plans with him, he told me outright that my project was worthless."
+    },
+    {
+     "s": 23,
+     "t": "However, in light of our long history of successful collaboration, I still tried to patiently explain the details. However, to my surprise, he just cut me off while I was speaking!"
+    },
+    {
+     "s": 23,
+     "t": "Let me take a moment and recall his exact words..."
+    },
+    {
+     "s": 23,
+     "t": "I'm just gonna stop you there and say no. If anything, I'm saving you time."
+    },
+    {
+     "s": 23,
+     "t": "It seems you don't fully understand the value of Credit Coupons here, nor do you understand the value of your own products. The former is because you are from the overworld, that's understandable and I don't blame you for that."
+    },
+    {
+     "s": 23,
+     "t": "But as for the latter, only someone monumentally stupid, so breathtakingly stupid that they were completely ignorant of the value of Credit Coupons despite living in the underworld would ever possibly consider buying your drink. Let's just forget it."
+    },
+    {
+     "s": 23,
+     "t": "Anyway, that's how he rejected my proposal and asked me to come up with another solution with the condition that it doesn't cause any trouble for him. Can you believe that guy...?"
+    },
+    {
+     "s": 0,
+     "t": "Uh, well, he is the head honcho here. Not much you can do about that. We met him too and could tell that he's the kind of guy that's hard to pin down."
+    },
+    {
+     "s": 23,
+     "t": "Fine, fine, I should just let it go... I'm on his turf, after all. His house, his rules."
+    },
+    {
+     "section": "Lynette"
+    },
+    {
+     "s": 17,
+     "t": "Oh wonderful! I was worried that you'd be busy trying to earn Credit Coupons all the time, but it seems like you haven't neglected your investigation work after all."
+    },
+    {
+     "s": 0,
+     "t": "Paimon likes having more coupons, but no one wants to work all the time."
+    },
+    {
+     "s": 0,
+     "t": "Have you also been investigating the area, Lynette?"
+    },
+    {
+     "s": 17,
+     "t": "No, I was just slacking off and you happened to catch me."
+    },
+    {
+     "sit": "And how's Lyney holding up?"
+    },
+    {
+     "s": 17,
+     "t": "My brother is still obsessed with anything remotely related to the \"forbidden zone.\" But knowing him, it won't be long before we get more leads."
+    },
+    {
+     "s": 17,
+     "t": "Oh, before I forget, this is for you."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Credit Coupons? Why are you giving us these?"
+    },
+    {
+     "s": 17,
+     "t": "I've been here longer than you. Coupons aren't a resource in particularly short supply. What is in short supply are interesting people to talk with."
+    },
+    {
+     "s": 0,
+     "t": "Aw, that's so nice of you, Lynette. We'll be sure to make good use of these coupons then. Thanks a bunch!"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring. (-300 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Sure! If we're not gonna go to work, then let's kill some time at the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we'll be able to find some leads there."
+    },
+    {
+     "s": 0,
+     "t": "Knowing Childe, he must've been there all the time..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring. (-300 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, it costs 300 Credit Coupons to enter the ring."
+    },
+    {
+     "s": 0,
+     "t": "Let's save enough coupons first, and do something else for now."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Isn't this the super lucky meal!? Looks like hard work really does get rewarded!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's going to take her time and savor every bite!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... Just a regular meal set. Guess Paimon shouldn't get her hopes up..."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What is this garbage!? Ugh, it looks disgusting... Aw, Paimon misses your cooking now, {NICKNAME}..."
+    },
+    {
+     "s": 0,
+     "t": "What would you like to do this afternoon?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "Let's go! Credit Coupons, here we come!"
+    },
+    {
+     "s": 0,
+     "t": "Right, we just need to keep at it..."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon really hopes the foreman will be in a better mood today..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring. (-300 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Sure! If we're not gonna go to work, then let's kill some time at the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we'll be able to find some leads there."
+    },
+    {
+     "s": 0,
+     "t": "Knowing Childe, he must've been there all the time..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's exhausted, it's just work, work, and more work... Paimon's little body can't handle this much longer..."
+    },
+    {
+     "s": 0,
+     "t": "Wait a sec, now that Paimon thinks about it... Haven't we been working nonstop for three days now? And now it's lunchtime!"
+    },
+    {
+     "sit": "Mm."
+    },
+    {
+     "sit": "You're just realizing that now?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon feels a shiver going down her spine! What's going to happen?"
+    },
+    {
+     "s": 0,
+     "t": "But it doesn't seem like anything's changed at all... And we made it to the Coupon Cafeteria safely."
+    },
+    {
+     "s": 0,
+     "t": "Are the so-called \"hidden rules\" only a rumor, after all?"
+    },
+    {
+     "sit": "Don't get your hopes up."
+    },
+    {
+     "sit": "That would be quite a disappointment."
+    },
+    {
+     "s": 0,
+     "t": "Well, there's no use just guessing all day. Paimon's stomach has been grumbling the whole time, let's just eat already..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon wonders what we'll get today! Maybe we'll get the super lucky meal..."
+    },
+    {
+     "s": 0,
+     "t": "Wait, what!?"
+    },
+    {
+     "sit": "Huh!?"
+    },
+    {
+     "sit": "This is..."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What in the world is this!? What's with Paimon's food? And yours is the same..."
+    },
+    {
+     "s": 0,
+     "t": "Is this stuff... meat? But it looks and feels so bizarre... What kind of chef would make food like this?"
+    },
+    {
+     "sit": "I've never seen a welfare meal like this."
+    },
+    {
+     "sit": "There's something wrong with this \"meat.\""
+    },
+    {
+     "s": 0,
+     "t": "What do you think is going on, {NICKNAME}? Is this the \"bad thing\" that Rowan was talking about?"
+    },
+    {
+     "sit": "Someone went missing before..."
+    },
+    {
+     "sit": "And now our meals have this \"strange meat\"..."
+    },
+    {
+     "s": 0,
+     "t": "N—no, stop right there, Paimon gets what you mean! Just don't say it!"
+    },
+    {
+     "s": 0,
+     "t": "Hey, isn't that Wolsey over there? He must've made the food, right? So let's just ask him about the food and be done with it!"
+    },
+    {
+     "s": 0,
+     "t": "Hey, Wolsey! Have a moment?"
+    },
+    {
+     "s": 11,
+     "t": "Hmm, what is it? I'm about to go report the numbers for today's free meal, so you'd better make it quick."
+    },
+    {
+     "s": 0,
+     "t": "Uh, it's about the meat in our meals. Look, does it seem... normal to you?"
+    },
+    {
+     "s": 11,
+     "t": "The meat? Oh, that... It looks perfectly fine to me, totally normal. You'd better hurry up and chow down."
+    },
+    {
+     "s": 0,
+     "t": "H—How could THIS be fine? Hey! Don't leave! You barely even looked at it... HEY!"
+    },
+    {
+     "s": 0,
+     "t": "What should we do now? Wolsey wouldn't even give us the time of day... is he trying to hide something?"
+    },
+    {
+     "sit": "Looks like we'll have to investigate it ourselves."
+    },
+    {
+     "sit": "The plot thickens."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, looks like we have no other choice. Paimon was positively famished a minute ago, but now she's lost her appetite..."
+    },
+    {
+     "s": 0,
+     "t": "What would you like to do this afternoon?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "s": 0,
+     "t": "Since we have time now, let's focus on investigating some more."
+    },
+    {
+     "s": 0,
+     "t": "Okay! Let's see if we can find any new leads."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, Paimon felt like some of the people here were a little strange the moment she saw them..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Isn't this the super lucky meal!? Looks like hard work really does get rewarded!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's going to take her time and savor every bite!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... Just a regular meal set. Guess Paimon shouldn't get her hopes up..."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What is this garbage!? Ugh, it looks disgusting... Aw, Paimon misses your cooking now, {NICKNAME}..."
+    },
+    {
+     "s": 0,
+     "t": "What would you like to do this afternoon?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Isn't this the super lucky meal!? Looks like hard work really does get rewarded!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's going to take her time and savor every bite!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... Just a regular meal set. Guess Paimon shouldn't get her hopes up..."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What is this garbage!? Ugh, it looks disgusting... Aw, Paimon misses your cooking now, {NICKNAME}..."
+    },
+    {
+     "s": 0,
+     "t": "What would you like to do this afternoon?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's see if there's any really easy work..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, it's good to kick back and relax once in a while."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Sure! If we're not gonna go to work, then let's kill some time at the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we'll be able to find some leads there."
+    },
+    {
+     "s": 0,
+     "t": "Knowing Childe, he must've been there all the time..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring. (-300 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, it costs 300 Credit Coupons to enter the ring."
+    },
+    {
+     "s": 0,
+     "t": "Let's save enough coupons first, and do something else for now."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "Let's go! Credit Coupons, here we come!"
+    },
+    {
+     "s": 0,
+     "t": "Right, we just need to keep at it..."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon really hopes the foreman will be in a better mood today..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Investigate the clues we discovered."
+    },
+    {
+     "s": 0,
+     "t": "Since we have time now, let's focus on investigating some more."
+    },
+    {
+     "s": 0,
+     "t": "Okay! Let's see if we can find any new leads."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, Paimon felt like some of the people here were a little strange the moment she saw them..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go work in the production zone."
+    },
+    {
+     "s": 0,
+     "t": "After working here so long, we're really starting to get the hang of it."
+    },
+    {
+     "s": 0,
+     "t": "But doing the same thing all the time can get old pretty quickly. How are you holding up, {NICKNAME}?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go to the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Seems you're really getting the hang of things at the Pankration Ring now."
+    },
+    {
+     "s": 0,
+     "t": "But just playing the same game over and over... it's getting kinda tiring."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Maybe there's another way..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, why don't we have Collins lower the difficulty a little? You know, so we can just breeze through each level!"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Isn't this the super lucky meal!? Looks like hard work really does get rewarded!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's going to take her time and savor every bite!"
+    },
+    {
+     "s": 0,
+     "t": "Oh... Just a regular meal set. Guess Paimon shouldn't get her hopes up..."
+    },
+    {
+     "s": 0,
+     "t": "Wh—What is this garbage!? Ugh, it looks disgusting... Aw, Paimon misses your cooking now, {NICKNAME}..."
+    },
+    {
+     "s": 0,
+     "t": "What would you like to do this afternoon?"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Time to go to the Pankration Ring (-3,000 Credit Coupons)"
+    },
+    {
+     "s": 0,
+     "t": "Sure! If we're not gonna go to work, then let's kill some time at the Pankration Ring."
+    },
+    {
+     "s": 0,
+     "t": "Maybe we'll be able to find some leads there."
+    },
+    {
+     "s": 0,
+     "t": "Knowing Childe, he must've been there all the time..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Let's go investigate."
+    },
+    {
+     "sit": "(I don't think there are any more clues to be found here. Perhaps we should check the Production Zone or the Pankration Ring out...)"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "Investigate the clues we discovered."
+    },
+    {
+     "s": 0,
+     "t": "Since we have time now, let's focus on investigating some more."
+    },
+    {
+     "s": 0,
+     "t": "Okay! Let's see if we can find any new leads."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, Paimon felt like some of the people here were a little strange the moment she saw them..."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Let me have a look... Hmm, not bad. Right, here's your Credit Coupons."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's beat... but after so many shifts, it seems we're really getting the hang of it now."
+    },
+    {
+     "sit": "It does seem to be getting easier."
+    },
+    {
+     "sit": "All you do is float around telling me what to do."
+    },
+    {
+     "s": 19,
+     "t": "Hey there, fellow shift-mates! I saw you just finished your work so I thought I'd come over and say hi."
+    },
+    {
+     "s": 0,
+     "t": "Oh, hey there! We've seen you before, your assigned workspace is really close, isn't it?"
+    },
+    {
+     "s": 19,
+     "t": "Haha, that's right. The name's Rowan. These past few days I couldn't help but notice the new faces working nearby, I guess we were destined to meet."
+    },
+    {
+     "s": 19,
+     "t": "I've been working here for almost 15 years. Even the foreman, Grainville, always calls me \"Chief.\""
+    },
+    {
+     "s": 0,
+     "t": "Whoa, you've been working here a long time, Chief!"
+    },
+    {
+     "sit": "Hey, Chief."
+    },
+    {
+     "sit": "In other words, you haven't managed any improvement in 15 years."
+    },
+    {
+     "s": 19,
+     "t": "Hahaha... If there's anything you'd like to know, just ask me. I know the work here in the production zone better than the back of my hand."
+    },
+    {
+     "s": 0,
+     "t": "Alright, Chief! We'll be sure to come to you first!"
+    },
+    {
+     "sit": "I think I've got the work more or less down pat..."
+    },
+    {
+     "sit": "We just haven't quite learned all the \"rules.\""
+    },
+    {
+     "s": 19,
+     "t": "..."
+    },
+    {
+     "s": 19,
+     "t": "Did you just ask about... the \"rules\"?"
+    },
+    {
+     "s": 19,
+     "t": "Heh, pretty sharp for newcomers. You've already heard about the \"rules,\" huh? ...Who'd you hear it from?"
+    },
+    {
+     "sit": "I don't think you need to know that."
+    },
+    {
+     "sit": "The \"hidden rules\"... That's what they're called, right?"
+    },
+    {
+     "s": 19,
+     "t": "Hmm... Alright, seeing as I'm the one who came over here and you're already callin' me \"Chief,\" I guess I can tell you a little."
+    },
+    {
+     "s": 19,
+     "t": "Truth is, you two keep workin' like this, you might be puttin' yourselves in danger."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Wait, there's even a rule about that? What would've happened if you never told us about this...?"
+    },
+    {
+     "s": 19,
+     "t": "Well, it's usually not that easy to break one on accident... The conditions of the \"hidden rules\" are usually pretty specific, but once you do break one, bad things happen."
+    },
+    {
+     "sit": "So the conditions in this case are...?"
+    },
+    {
+     "s": 19,
+     "t": "If you work continuously in the production zone for three days, and if all you do besides eating and sleeping is just work..."
+    },
+    {
+     "s": 19,
+     "t": "Then something bad will happen during lunch on the third day."
+    },
+    {
+     "s": 0,
+     "t": "Huh! Like what!? Oooh, don't scare Paimon!"
+    },
+    {
+     "s": 19,
+     "t": "Heh, if I knew that, then I wouldn't be standing here talking to you, now would I?"
+    },
+    {
+     "s": 0,
+     "t": "You mean, even you have never tried working three days like that before?"
+    },
+    {
+     "s": 19,
+     "t": "There's actually a legend about this rule..."
+    },
+    {
+     "s": 19,
+     "t": "They say that there was a worker who worked way harder than me. He was both efficient and eager on the job, and most other workers couldn't hold a candle to him."
+    },
+    {
+     "s": 19,
+     "t": "One time, he tried to test his limits and worked as long as he could. Then, during lunch on the third day..."
+    },
+    {
+     "s": 19,
+     "t": "He disappeared into thin air, as if he'd evaporated. Later, some people went and asked some of his past friends about him, but they said... \"Never heard of the guy.\""
+    },
+    {
+     "s": 0,
+     "t": "What the...!? How could that happen?"
+    },
+    {
+     "sit": "What did that worker look like?"
+    },
+    {
+     "sit": "Did you ever see him?"
+    },
+    {
+     "s": 19,
+     "t": "Unfortunately, we were assigned different production zones. I never saw for myself what he looked like."
+    },
+    {
+     "s": 0,
+     "t": "Wait, are you thinking that it was..."
+    },
+    {
+     "sit": "Thank you very much for the information."
+    },
+    {
+     "sit": "We'll give it a try..."
+    },
+    {
+     "s": 0,
+     "t": "Huh!?"
+    },
+    {
+     "s": 19,
+     "t": "Oh?"
+    },
+    {
+     "s": 19,
+     "t": "You... *sigh* Listen, kid, this ain't the kind of thing you should be curious about. Let me tell you, you're better off forgetting about it and looking after yourself. Now I kinda regret ever telling you..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, I agree with Chief here... Do you really want to try?"
+    },
+    {
+     "sit": "It sounds like a good lead to me."
+    },
+    {
+     "sit": "Nothing ventured, nothing gained."
+    },
+    {
+     "s": 0,
+     "t": "Oh, alright... If you insist..."
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "You apply with Grainville to do some of the simpler processing tasks, and get some Credit Coupons without breaking a sweat."
+    },
+    {
+     "sit": "As your concentration begins to slip and you rely more on muscle memory to complete the work, the quality of the finished widgets has dropped and you receive fewer coupons."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Oh, back for another try? I hope you've brought enough Credit Coupons this time."
+    },
+    {
+     "sit": "Of course."
+    },
+    {
+     "s": 24,
+     "t": "Alright, then get ready to play!"
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Oh? You must be {NICKNAME}, huh? Sorry, mate, but competitors as strong as you are prohibited from participating. I don't make the rules, mind you, but I was given very specific instructions..."
+    },
+    {
+     "s": 24,
+     "t": "Even convicts value their lives, don't they? I hope you can understand, haha..."
+    },
+    {
+     "s": 24,
+     "t": "But we have a game here that'll let you show off your strength, and you'll even earn some Credit Coupons in the process. What do you think? Interested?"
+    },
+    {
+     "s": 0,
+     "t": "And if we lose the game? Will it cost us Credit Coupons?"
+    },
+    {
+     "s": 24,
+     "t": "Of course! That's the cruel reality facing every competitor in a place like the Pankration Ring."
+    },
+    {
+     "sit": "Alright, I'll give it a try."
+    },
+    {
+     "s": 24,
+     "t": "Great, let me walk you through the rules."
+    },
+    {
+     "s": 24,
+     "t": "The targets in front of you will pop up one after another."
+    },
+    {
+     "s": 24,
+     "t": "You'll need to hit the targets in the same order that they popped up. If you can complete a few rounds in a row with no mistakes, then you'll win Credit Coupons."
+    },
+    {
+     "s": 24,
+     "t": "But the second you mess up the order, you lose. Game over."
+    },
+    {
+     "s": 24,
+     "t": "The game costs 300 Credit Coupons to have a go. So, you up for it?"
+    },
+    {
+     "sit": "Sure, got your coupons right here."
+    },
+    {
+     "s": 24,
+     "t": "Thanks for your patronage, mate. Now let the game begin!"
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Oh? You must be {NICKNAME}, huh? Sorry, mate, but competitors as strong as you are prohibited from participating. I don't make the rules, mind you, but I was given very specific instructions..."
+    },
+    {
+     "s": 24,
+     "t": "Even convicts value their lives, don't they? I hope you can understand, haha..."
+    },
+    {
+     "s": 24,
+     "t": "But we have a game here that'll let you show off your strength, and you'll even earn some Credit Coupons in the process. What do you think? Interested?"
+    },
+    {
+     "s": 0,
+     "t": "And if we lose the game? Will it cost us Credit Coupons?"
+    },
+    {
+     "s": 24,
+     "t": "Of course! That's the cruel reality facing every competitor in a place like the Pankration Ring."
+    },
+    {
+     "sit": "Alright, I'll give it a try."
+    },
+    {
+     "s": 24,
+     "t": "OK. Great, let me walk you through the rules."
+    },
+    {
+     "s": 24,
+     "t": "The targets in front of you will pop up one after another."
+    },
+    {
+     "s": 24,
+     "t": "You'll need to hit the targets in the same order that they popped up. If you can complete a few rounds in a row with no mistakes, then you'll win Credit Coupons."
+    },
+    {
+     "s": 24,
+     "t": "But the second you mess up the order, you lose. Game over."
+    },
+    {
+     "s": 24,
+     "t": "The game costs 300 Credit Coupons to have a go. So, you up for it?"
+    },
+    {
+     "sit": "I don't have enough coupons..."
+    },
+    {
+     "s": 24,
+     "t": "Then come back once you've got enough coupons, I'll still be here to start the game for ya."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Machine's started, good luck!"
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Not bad, not bad at all... Here, the coupons you won. Be sure not to lose 'em."
+    },
+    {
+     "s": 24,
+     "t": "I'll be... they weren't exaggerating about how strong you are. Don't worry, I wouldn't dream of shortchanging you... Here're the Credit Coupons you won, put 'em somewhere safe."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Your strength really shouldn't be underestimated. Now I get why you're prohibited from participating in any official fights."
+    },
+    {
+     "s": 24,
+     "t": "Nobody who values their life would be willing to get in the ring with you."
+    },
+    {
+     "sit": "You flatter me."
+    },
+    {
+     "sit": "Can't know for sure if you don't let me have a go."
+    },
+    {
+     "s": 24,
+     "t": "However... You two haven't tried betting on the outcome of a pankration match yet, have ya?"
+    },
+    {
+     "s": 24,
+     "t": "Just go talk to Roussimoff. Buy a ticket for whichever fighter you think will win. There's a big payout if the fighter you support comes out on top."
+    },
+    {
+     "s": 0,
+     "t": "But we don't know anything about the fighters! How can we possibly know who to support..."
+    },
+    {
+     "s": 24,
+     "t": "That's normal, just watch a few matches and get a feel for the fighters. It won't be long before you can pick winners in your sleep."
+    },
+    {
+     "s": 0,
+     "t": "He's got a point... Why don't we give it a try? If we have enough coupons, we could probably bet at random until we figure everything out!"
+    },
+    {
+     "s": 24,
+     "t": "Bet at random, huh? Uh... Well, how should I put it? It's not like you can't do that, but I'd advise you to give it some more thought first, you wouldn't want to get too carried away, eh?"
+    },
+    {
+     "s": 0,
+     "t": "Huh? We shouldn't get carried away? What's the problem?"
+    },
+    {
+     "sit": "Could it be that..."
+    },
+    {
+     "sit": "There's some sort of \"rule\" here?"
+    },
+    {
+     "s": 24,
+     "t": "..."
+    },
+    {
+     "s": 24,
+     "t": "Never even picked a boxer before and you already know about the \"rules\"? You're not just strong fighters, seems you're pretty perceptive, too."
+    },
+    {
+     "sit": "Just a guess, that's all."
+    },
+    {
+     "sit": "The \"hidden rules\"... That's what they're called, right?"
+    },
+    {
+     "s": 24,
+     "t": "Ah, might as well tell you about it, since you already know that much... Plus, I think you've got the potential to be one of my greatest customers, I think I can let you in a bit."
+    },
+    {
+     "s": 24,
+     "t": "Besides, I don't want to risk ever losing a customer like you..."
+    },
+    {
+     "s": 0,
+     "t": "Huh, is it that serious?"
+    },
+    {
+     "s": 24,
+     "t": "OK, the \"hidden rule\" here is... If you buy both boxers' tickets and support them both..."
+    },
+    {
+     "s": 24,
+     "t": "Something bad will happen the next morning..."
+    },
+    {
+     "s": 0,
+     "t": "So the rule is that we shouldn't pick both boxers in the same fight? But if anyone actually did that, wouldn't they be guaranteed to lose coupons... Who would do that anyway?"
+    },
+    {
+     "s": 0,
+     "t": "And what do you mean by \"something bad will happen\"?"
+    },
+    {
+     "s": 24,
+     "t": "How would I know? Not like I'm stupid enough to do that."
+    },
+    {
+     "s": 24,
+     "t": "But I've heard a story about the rule..."
+    },
+    {
+     "s": 24,
+     "t": "According to the rumor, there was a masked boxer who possessed incredible skill and power. None of his opponents even stood a chance against him..."
+    },
+    {
+     "s": 24,
+     "t": "However, in the final match, the organizers told him to take off his mask. He refused, and never showed up to the fight."
+    },
+    {
+     "s": 24,
+     "t": "And after that, he was never seen again. Some say he died, or that he was taken care of by the event's organizers. But everyone remembers that he was someone who cherished honor above all else..."
+    },
+    {
+     "s": 24,
+     "t": "In his eyes, supporting both boxers in a match would dishonor the competition itself."
+    },
+    {
+     "s": 0,
+     "t": "So, you mean... It's like a curse? He'll take vengeance on anyone who does that?"
+    },
+    {
+     "sit": "Do you know anything about him?"
+    },
+    {
+     "sit": "Have you seen what he really looks like?"
+    },
+    {
+     "s": 24,
+     "t": "No, he was always wearing a mask, like he was intentionally trying to hide his identity. I don't even know anything about his past."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, do you think that boxer was..."
+    },
+    {
+     "sit": "Thank you very much for the information."
+    },
+    {
+     "sit": "We'll give it a try..."
+    },
+    {
+     "s": 0,
+     "t": "Huh! We will!?"
+    },
+    {
+     "s": 24,
+     "t": "You're not serious, are you?"
+    },
+    {
+     "s": 24,
+     "t": "Look, here I was just trying to be nice and warn you, yet here you are trying to break it on purpose?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah, it sounds pretty scary to Paimon..."
+    },
+    {
+     "sit": "It sounds like a good lead to me."
+    },
+    {
+     "sit": "Nothing ventured, nothing gained."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Seems you've made up your mind... Just be sure to protect Paimon, okay?"
+    },
+    {
+     "s": 24,
+     "t": "Betting on both fighters will set you back about 3,000 Credit Coupons. If you have enough, then go ahead and give it a try... Just don't come running back to me if something happens."
+    },
+    {
+     "section": "Collins"
+    },
+    {
+     "s": 24,
+     "t": "Pity, mate, you lost... that's too bad. I bet you'll get it next time though, won't ya?"
+    },
+    {
+     "s": 24,
+     "t": "You lost, mate... An off day for you, innit? You'll do better next time."
+    },
+    {
+     "section": "Roussimoff"
+    },
+    {
+     "s": 25,
+     "t": "Hmm? Are you two here to buy tickets? Better be quick about it, another match is about to start!"
+    },
+    {
+     "s": 0,
+     "t": "Who are the boxers in the next round?"
+    },
+    {
+     "s": 25,
+     "t": "We have the reigning champ, \"Le Grappleur,\" versus a contender from the eastern prison block, \"Demon Horde.\""
+    },
+    {
+     "s": 0,
+     "t": "Are those their nicknames? Or did they choose those names themselves... either way, suuuper weird."
+    },
+    {
+     "s": 25,
+     "t": "Since you're new around here, I'll help you out and give you a little suggestion. Even though Le Grappleur is the crowd favorite, Demon Horde is a first-class dark horse with incredible potential..."
+    },
+    {
+     "s": 25,
+     "t": "Anyway, for this match, I recommend that you pick..."
+    },
+    {
+     "sit": "We'll buy tickets for both fighters."
+    },
+    {
+     "s": 25,
+     "t": "Huh? F—For both fighters?"
+    },
+    {
+     "s": 25,
+     "t": "Uh, I could tell you're new to this, but I didn't think you were completely clueless..."
+    },
+    {
+     "s": 25,
+     "t": "Maybe you don't quite understand the rules, no? Let me try to explain again for you, more clearly. You see..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, no need, no need... We're aware that we're going to lose coupons."
+    },
+    {
+     "s": 25,
+     "t": "...Alright, then, if you're absolutely sure. Remember, no refunds once you buy the tickets."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, yeah, we got it. Just shut up and take our coupons!"
+    },
+    {
+     "section": "Eat"
+    },
+    {
+     "sit": "After persuading Collins to lower the difficulty, you easily clear the challenge."
+    },
+    {
+     "sit": "Collins lowers the difficulty and you cruise through the game, but you receive fewer coupons."
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "Oh? You want to stop investigating and go rest?"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "sit": "It's time for a rest."
+    },
+    {
+     "s": 0,
+     "t": "Okay, you should rest up. We'll be back at it tomorrow!"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "sit": "It's not time yet."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay then..."
+    },
+    {
+     "section": "Grainville"
+    },
+    {
+     "s": 16,
+     "t": "Then what the blazes are you doing here? Your time would be better spent earning coupons. You afraid of suffering from success?"
+    },
+    {
+     "section": "Rowan"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Rowan? What are you doing here, Chief?"
+    },
+    {
+     "s": 19,
+     "t": "Oh, uh... I was injured a bit just now. Nothing major, I think I just pulled something. Little mishaps like this are unavoidable at work, y'know..."
+    },
+    {
+     "s": 0,
+     "t": "Huh, Paimon wouldn't have thought someone as experienced as the Chief would still get hurt on the job..."
+    },
+    {
+     "s": 19,
+     "t": "Tch, I just knew you would say that... This is pretty embarrassing... *sigh* Ugh, where is Sigewinne when you need her anyway? The one time I need to make a quick trip to the infirmary..."
+    },
+    {
+     "s": 0,
+     "t": "Oh? You mean she wasn't in the infirmary?"
+    },
+    {
+     "s": 19,
+     "t": "Yeah, the rumors say that there's never anybody in the infirmary in the half hour before lunch, and nobody knows where Sigewinne gets off to."
+    },
+    {
+     "s": 0,
+     "t": "Huh, that's actually really strange. Sigewinne's always super dedicated to her work, where else would she possibly go...?"
+    },
+    {
+     "s": 19,
+     "t": "*sigh* Forget it, I can take care of a small sprain like this on my own anyway, no need to trouble her."
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Looks like we won't get a chance to sleep in as long as we're here. Let's get to bed early."
+    },
+    {
+     "s": 0,
+     "t": "*yawn* We woke up so early today that Paimon's been nodding off all afternoon... Good thing it's finally time for bed."
+    },
+    {
+     "s": 0,
+     "t": "Seems we had a productive day. Hope we can make even more progress tomorrow!"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "So after working for a few days straight, we got some strange meat in our lunch... What was that all about?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, has our investigation turned up anything useful recently?"
+    },
+    {
+     "sit": "I think I've got something..."
+    },
+    {
+     "sit": "But unfortunately, it's not related to Childe."
+    },
+    {
+     "s": 0,
+     "t": "Really? Then it looks like that part of the investigation has hit a dead end."
+    },
+    {
+     "s": 0,
+     "t": "Well, we'll keep searching for more clues tomorrow. Good night, {NICKNAME}."
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "A mysterious box, a bottle of crimson liquid... Paimon still doesn't know what to make of it."
+    },
+    {
+     "s": 0,
+     "t": "Do you have any ideas, {NICKNAME}?"
+    },
+    {
+     "sit": "I think I've got something..."
+    },
+    {
+     "sit": "But unfortunately, it's not related to Childe."
+    },
+    {
+     "s": 0,
+     "t": "Really? Then it looks like that part of the investigation led us nowhere..."
+    },
+    {
+     "s": 0,
+     "t": "Well, maybe we'll have better luck tomorrow. Good night, {NICKNAME}."
+    }
+   ],
+   "description": "Although you met a familiar face, you have obtained no leads on Childe so far. Did you miss something that’s hidden in plain sight?"
+  },
+  {
+   "title": "Lost in Deep Seas",
+   "dialogue": [
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Okay, so we've investigated two of the \"hidden rules.\" Paimon didn't think this prison would have... so many weird things going on."
+    },
+    {
+     "s": 0,
+     "t": "We'd better pick up the pace with our investigation. Otherwise, we'll never get anywhere."
+    },
+    {
+     "sit": "Let's spend some coupons to skip our shifts so we can go investigate."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, let's skip work for now and put our time to good use!"
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "Okay... Well, it's about time for us to get moving. Just be careful to avoid the patrolling guards."
+    },
+    {
+     "section": "Decide the morning schedule"
+    },
+    {
+     "s": 0,
+     "t": "Okay, so we've investigated two of the \"hidden rules.\" Paimon didn't think this prison would have... so many weird things going on."
+    },
+    {
+     "s": 0,
+     "t": "We'd better pick up the pace with our investigation. Otherwise, we'll never get anywhere."
+    },
+    {
+     "sit": "But I don't have enough Credit Coupons."
+    },
+    {
+     "s": 0,
+     "t": "Huh? We already used up all our coupons?"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, fine... Paimon secretly stashed some coupons away to buy some souvenirs and stuff, but it sounds like we really need them now."
+    },
+    {
+     "sit": "Where did you get coupons?"
+    },
+    {
+     "s": 0,
+     "t": "Hey, Paimon's been working too, you know! Paimon just doesn't earn much, that's all..."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, let's use these coupons to get out of work so we have time to investigate!"
+    },
+    {
+     "section": "Vidoc"
+    },
+    {
+     "s": 18,
+     "t": "Oho, seeing you at this time must mean you've already saved up a lot of Credit Coupons. Or at least enough to skip work... Heh, seems you're getting into the swing of things around here."
+    },
+    {
+     "sit": "We're getting by."
+    },
+    {
+     "sit": "My goal is to become the next Duke!"
+    },
+    {
+     "s": 18,
+     "t": "Impressive... Very impressive..."
+    },
+    {
+     "s": 0,
+     "t": "So, now can you tell us about the hidden rules you know?"
+    },
+    {
+     "s": 18,
+     "t": "Ah, if that's what you what to know, I guess you couldn't have come at a better time."
+    },
+    {
+     "s": 0,
+     "t": "Huh, what do you mean it's a good time?"
+    },
+    {
+     "s": 18,
+     "t": "Leonide and those other pesky broke urchins have all gone to work in the production zone. I wouldn't want them listening in without paying up."
+    },
+    {
+     "s": 0,
+     "t": "We get it, just tell us already!"
+    },
+    {
+     "s": 18,
+     "t": "So, you know those pipes that make strange sounds? Don't ever, ever go near them at night. Even if you manage to avoid the guards, you might find something even more terrible there..."
+    },
+    {
+     "s": 0,
+     "t": "Something even more terrible? Like what?"
+    },
+    {
+     "s": 18,
+     "t": "A group of cannibals."
+    },
+    {
+     "s": 0,
+     "t": "Cannibals!? In the Fortress of Meropide!?"
+    },
+    {
+     "s": 18,
+     "t": "Every month, they meet a few times in the dead of night. Rumor has it that they might be connected to the people that've disappeared here."
+    },
+    {
+     "s": 18,
+     "t": "But what's even scarier is that they have a \"special\" proclivity..."
+    },
+    {
+     "s": 18,
+     "t": "Since they have no way to dispose of the leftover remains, they have ways to transform them into other forms and keep them in the Fortress forever."
+    },
+    {
+     "s": 0,
+     "t": "Uh, Paimon might already know what you mean by \"other forms\"... So that's what's going on here. Ugh, Paimon's stomach doesn't feel so good..."
+    },
+    {
+     "sit": "Is that really true?"
+    },
+    {
+     "sit": "There's still a chance that what we saw isn't connected to cannibals."
+    },
+    {
+     "s": 18,
+     "t": "Hehe, you two look pretty skeptical. No matter, learning the truth behind dark secrets isn't necessarily a good thing."
+    },
+    {
+     "s": 18,
+     "t": "I've got things to do too. I suggest you just act like I never told you anything."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, can we just trust him on this one? Oh, Paimon doesn't want her blood and flesh entombed here for all eternity..."
+    },
+    {
+     "sit": "Even if it's true..."
+    },
+    {
+     "sit": "Do you really think cannibals could take me in a fight?"
+    },
+    {
+     "s": 0,
+     "t": "Oh... So that's how you see the situation... Huh. Y'know, Paimon does feel a little better about it now."
+    },
+    {
+     "sit": "Alright, then just like before..."
+    },
+    {
+     "sit": "Let's get ready to investigate another hidden rule."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* When will all the secrets end?"
+    },
+    {
+     "sit": "Brimming with curiosity, you and Paimon eat lunch and head out to investigate this new \"hidden rule\"..."
+    },
+    {
+     "section": "Fielding"
+    },
+    {
+     "s": 15,
+     "t": "Using coupons to skip work doesn't bring freedom, but only pulls you closer to the abyss of degeneracy... That's what an old guard here used to say, you'd do well to remember it."
+    },
+    {
+     "section": "Leonide"
+    },
+    {
+     "s": 20,
+     "t": "...What are you talking about? Listen, you should keep your nose out of other people's business."
+    },
+    {
+     "section": "Alexis"
+    },
+    {
+     "s": 21,
+     "t": "What!? What are you saying!? You shouldn't go around saying stuff like that."
+    },
+    {
+     "section": "Poirier"
+    },
+    {
+     "s": 22,
+     "t": "..."
+    },
+    {
+     "s": 22,
+     "t": "Just stay away from me."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Their attitude sure is suspicious, like they're trying to avoid us..."
+    },
+    {
+     "sit": "It's pretty obvious that they're hiding something..."
+    },
+    {
+     "sit": "Could they be connected to the cannibals?"
+    },
+    {
+     "s": 0,
+     "t": "But if they're being so obvious about acting weirdly, do you think they might just be trying to lure us in?"
+    },
+    {
+     "s": 0,
+     "t": "This is all getting way too creepy for Paimon..."
+    },
+    {
+     "sit": "Let's approach it from a different angle."
+    },
+    {
+     "sit": "We'll probably never get anything out of these guys."
+    },
+    {
+     "s": 0,
+     "t": "So you mean we still need to investigate some more? Okay... If you say so..."
+    },
+    {
+     "section": "Fielding"
+    },
+    {
+     "s": 0,
+     "t": "Hello, Fielding."
+    },
+    {
+     "s": 15,
+     "t": "Whaddaya want? Criminals like you oughta be working right now, catch my drift?"
+    },
+    {
+     "s": 0,
+     "t": "We just want to ask you a simple question..."
+    },
+    {
+     "s": 0,
+     "t": "Have you ever discovered anything odd during your nighttime patrols?"
+    },
+    {
+     "s": 15,
+     "t": "Why're you asking about something like that? Whatever happens at night isn't your concern. All you need to worry about is getting enough sleep."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Well..."
+    },
+    {
+     "sit": "You see, sometimes..."
+    },
+    {
+     "sit": "We hear strange noises at night."
+    },
+    {
+     "s": 0,
+     "t": "R—Right, we've heard it happens a few times every month. Paimon has sensitive ears, so it makes it hard to sleep!"
+    },
+    {
+     "s": 15,
+     "t": "Really? I see... but it's not like I'm on duty every night."
+    },
+    {
+     "s": 15,
+     "t": "Now that you mention it, I recall my colleagues talking about something like that before. They say that strange things tend to happen at night on pipe-cleaning days. Lots of us don't willingly take those shifts."
+    },
+    {
+     "s": 0,
+     "t": "So what happens at night on pipe-cleaning days?"
+    },
+    {
+     "s": 15,
+     "t": "They just conduct regular cleaning of the Fortress' drainage facilities."
+    },
+    {
+     "s": 15,
+     "t": "There are three pipe-cleaning days per month... And it just so happens that today is one of the scheduled days. You can try to confirm the sounds tonight if you want, and if they're real, then I can report the issue to my superiors for you."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay. Then we'll keep both ears out tonight!"
+    },
+    {
+     "s": 15,
+     "t": "If that's all, then I'll be leaving now. I'd advise you not to try anything funny, though. Even if I'm not on duty tonight, someone will still be watching you."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, we don't want any time added to our sentences!"
+    },
+    {
+     "s": 0,
+     "t": "He left... So, what do you think about the pipe-cleaning days he mentioned?"
+    },
+    {
+     "sit": "Those might be the days when the cannibals are active."
+    },
+    {
+     "sit": "But it might also be nothing, just the pipes being cleaned."
+    },
+    {
+     "s": 0,
+     "t": "Right, both are a possibility. But Fielding did say that tonight is a cleaning night..."
+    },
+    {
+     "sit": "No reason not to find out the truth for ourselves."
+    },
+    {
+     "s": 0,
+     "t": "Paimon knew you would say that. Alright, sounds like we'll be up all night tonight then... Paimon just hopes the guards don't catch us."
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "*yawn* Paimon's so tired... But we can't sleep yet. They'll be cleaning the pipes tonight, so it's the perfect chance for us to investigate..."
+    },
+    {
+     "sit": "We just need to wait until everyone else has fallen asleep..."
+    },
+    {
+     "sit": "If we miss our chance tonight, it'll be a while before we get another opportunity."
+    },
+    {
+     "s": 0,
+     "t": "Whatever, just be sure to wake Paimon if she dozes off... Paimon's worried something might happen if you go alone..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? {NICKNAME}? Did you fall asleep already!?"
+    },
+    {
+     "sit": "\"Something is calling me, I have to go.\""
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}! C'mon, wake up!"
+    },
+    {
+     "sit": "I..."
+    },
+    {
+     "sit": "I saw Childe in my dream again."
+    },
+    {
+     "s": 0,
+     "t": "Oh! It looked like you were just peacefully sleeping to Paimon... Well, what did you see this time?"
+    },
+    {
+     "sit": "Investigating the pipes tonight is the right call."
+    },
+    {
+     "sit": "Childe escaped via the pipes."
+    },
+    {
+     "s": 0,
+     "t": "Really? So we're finally starting to figure out what actually happened... But what about the cannibals? How do you explain them?"
+    },
+    {
+     "sit": "I'm sure we'll find out soon enough."
+    },
+    {
+     "s": 0,
+     "t": "Okay... Well, it's about time for us to get moving. Just be careful to avoid the patrolling guards."
+    },
+    {
+     "section": "Night Watch"
+    },
+    {
+     "s": 0,
+     "t": "Uh oh! They spotted us!"
+    },
+    {
+     "section": "Night Watch"
+    },
+    {
+     "s": 0,
+     "t": "Uh oh! They spotted us!"
+    },
+    {
+     "section": "Night Watch"
+    },
+    {
+     "s": 0,
+     "t": "Uh oh! They spotted us!"
+    },
+    {
+     "section": "Night Watch"
+    },
+    {
+     "s": 0,
+     "t": "Uh oh! They spotted us!"
+    },
+    {
+     "section": "Leonide, Alexis, Poirier"
+    },
+    {
+     "s": 20,
+     "t": "I know you... You were the ones we saw..."
+    },
+    {
+     "s": 21,
+     "t": "Hmph, you've got guts showing up here. You know who we are, right?"
+    },
+    {
+     "s": 22,
+     "t": "You'd better leave now, ain't nobody coming here to save you!"
+    },
+    {
+     "sit": "Enough with the theatrics..."
+    },
+    {
+     "s": 21,
+     "t": "What you say!?"
+    },
+    {
+     "sit": "All those rumors about cannibals and hidden rules..."
+    },
+    {
+     "sit": "Were started by you, weren't they?"
+    },
+    {
+     "s": 21,
+     "t": "Yeah, so what if they were? If you push us, we can make those rumors a reality at any time!"
+    },
+    {
+     "s": 0,
+     "t": "Hey! What's the point of all those rumors anyway? What exactly are you trying to do?"
+    },
+    {
+     "s": 20,
+     "t": "I don't have to tell you anything. If you turn around, go back to the dormitories, and act like you never saw anything, then I'll pretend that you never showed up here!"
+    },
+    {
+     "s": 22,
+     "t": "Yeah, scram. Nothing worth seeing here..."
+    },
+    {
+     "sit": "\"There's something calling me...\""
+    },
+    {
+     "sit": "\"I have to go.\""
+    },
+    {
+     "s": 22,
+     "t": "Huh...? What did you say?"
+    },
+    {
+     "s": 21,
+     "t": "Isn't that exactly what boss said when he left?"
+    },
+    {
+     "s": 20,
+     "t": "Hey, do you know our boss?"
+    },
+    {
+     "sit": "Yeah, \"Childe\" Tartaglia?"
+    },
+    {
+     "sit": "One of Snezhnaya's Fatui Harbingers."
+    },
+    {
+     "s": 20,
+     "t": "Whoa, we had no idea our boss was such a big deal... he always kept his identity a secret."
+    },
+    {
+     "s": 20,
+     "t": "So, did he have you come here to find us?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, so you're Childe's crew here? Seems like he had no problem fitting in..."
+    },
+    {
+     "sit": "I'm a friend of his."
+    },
+    {
+     "sit": "We came here to learn what happened to him."
+    },
+    {
+     "s": 21,
+     "t": "We're the only ones who heard him say those words when he left that night... So unless he somehow told you those exact same words after that..."
+    },
+    {
+     "s": 21,
+     "t": "Hmm... Alright, I guess that's proof enough for me. I believe you."
+    },
+    {
+     "s": 0,
+     "t": "Wow, those dreams of yours sure come in handy."
+    },
+    {
+     "s": 20,
+     "t": "We gave him the business for a while and would always give him a hard time when he first came to the Fortress of Meropide."
+    },
+    {
+     "s": 20,
+     "t": "But here in the Fortress, the strong will always earn respect."
+    },
+    {
+     "s": 20,
+     "t": "He was working the longest hours and racking up wins in the Pankration Ring..."
+    },
+    {
+     "s": 20,
+     "t": "You could always see how amazing he was, even when he was teaching us a lesson..."
+    },
+    {
+     "s": 20,
+     "t": "So eventually, we all decided to follow him."
+    },
+    {
+     "s": 21,
+     "t": "But one day, he suddenly told us that he had to find a way to escape this place, no matter the cost. He said it was because he heard that call again..."
+    },
+    {
+     "s": 21,
+     "t": "And as his crew, if the boss wants something, then it's our job to get it done."
+    },
+    {
+     "s": 21,
+     "t": "So... We got to work and used the \"hidden rules\" that were here to make up and spread the rumor about the \"cannibal rule\"..."
+    },
+    {
+     "s": 21,
+     "t": "We just wanted to give him a better chance of escaping on a night after the pipes had been cleaned."
+    },
+    {
+     "s": 0,
+     "t": "Oh... Thanks to your rumor, nobody would want to come anywhere near here, prisoner or guard! Wow, it sure is easy to exploit people's fear of the unknown."
+    },
+    {
+     "s": 0,
+     "t": "But hasn't Childe already escaped? Why are you all still coming here after pipe-cleaning day?"
+    },
+    {
+     "s": 22,
+     "t": "Because as far as we know, the pipe he went into isn't actually an exit... It should be a dead end."
+    },
+    {
+     "s": 22,
+     "t": "It leads to an abandoned factory area, and even if there were a way to escape from there into the sea, we're still way too deep. No-one could ever reach the surface alive."
+    },
+    {
+     "s": 22,
+     "t": "But Boss still insisted on going in, it was like he was obsessed about it."
+    },
+    {
+     "s": 22,
+     "t": "So we told him that we'd pretend as if he never existed while he was gone."
+    },
+    {
+     "s": 22,
+     "t": "And that if he wanted to come back, he should wait for nighttime on a pipe-cleaning day. That way, we could meet him here and help cover the whole thing up."
+    },
+    {
+     "s": 0,
+     "t": "So you come and wait here through the night a few times a month just because of that promise?"
+    },
+    {
+     "s": 20,
+     "t": "Yeah, but it's been so long now, we already know in our hearts that he must have managed to escape somehow."
+    },
+    {
+     "s": 0,
+     "t": "Uh, is it also possible that something... unfortunate happened to him?"
+    },
+    {
+     "s": 21,
+     "t": "Nothing could ever defeat Boss or slow him down. That's one thing we know for sure!"
+    },
+    {
+     "s": 0,
+     "t": "Okay, okay... Paimon was just brainstorming possibilities..."
+    },
+    {
+     "sit": "Can you take us there...?"
+    },
+    {
+     "sit": "We want to go to the spot where he left."
+    },
+    {
+     "s": 20,
+     "t": "Alright, keep quiet and follow us."
+    },
+    {
+     "section": "Poirier, Leonide, Alexis"
+    },
+    {
+     "s": 22,
+     "t": "The way up from here has been sealed off. It's impossible to get through."
+    },
+    {
+     "s": 22,
+     "t": "Boss left by going down from here. It wasn't full of water at the time..."
+    },
+    {
+     "s": 22,
+     "t": "Later, we came back hoping to have a look. That's when we found out it had been completely flooded."
+    },
+    {
+     "s": 22,
+     "t": "It's impossible to navigate unless you're an extremely skilled diver."
+    },
+    {
+     "s": 0,
+     "t": "Do you think Childe got trapped by the water?"
+    },
+    {
+     "s": 20,
+     "t": "Not likely, we all know that boss was an incredible swimmer."
+    },
+    {
+     "sit": "I know a good diver."
+    },
+    {
+     "s": 21,
+     "t": "Really? Then have him come investigate, pronto! Just be sure to tell us if you get any news about Boss."
+    },
+    {
+     "s": 22,
+     "t": "It's getting late. We should leave before the guards come this way."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, we learned a lot about what happened to Childe here. Let's get going."
+    },
+    {
+     "section": "Sleep"
+    },
+    {
+     "s": 0,
+     "t": "Whew... We finally learned some key information. Seems all of our investigative work has finally started to pay off!"
+    },
+    {
+     "s": 0,
+     "t": "When you said you knew a diver, you were talking about Freminet, right? If we ask Lyney, he'll definitely have Freminet help us."
+    },
+    {
+     "s": 0,
+     "t": "Argh! Why is Childe like this... What was he doing going into the pipes? Not making our jobs easier, that's for sure."
+    },
+    {
+     "s": 0,
+     "t": "Fortunately, though, it seems like it's only a matter of time now before we find out what really happened."
+    },
+    {
+     "s": 0,
+     "t": "Now that we can finally relax, Paimon's starting to feel super sleepy. Let's try to get some rest while we still can. Nighty-night, {NICKNAME}."
+    }
+   ],
+   "description": "You’ve been looking into the Fortress’ “hidden rules” and seem to have obtained many leads on Childe. You are certain this trip will not be in vain."
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Madeleine",
+  "Isadora",
+  "Neuvillette",
+  "Furina",
+  "The Knave",
+  "Charlotte",
+  "Marette",
+  "Deakin",
+  "Razor",
+  "Wriothesley",
+  "Wolsey",
+  "Fitzroy",
+  "Lyney",
+  "Sigewinne",
+  "Fielding",
+  "Grainville",
+  "Lynette",
+  "Vidoc",
+  "Rowan",
+  "Leonide",
+  "Alexis",
+  "Poirier",
+  "Promoter",
+  "Collins",
+  "Roussimoff"
+ ],
+ "hhw_source": "https://gensh.honeyhunterworld.com/ch_1403/?lang=EN"
+}

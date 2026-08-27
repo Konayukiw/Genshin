@@ -1,0 +1,704 @@
+{
+  "name": "旅行剑",
+  "rarity": 3,
+  "type": "单手剑",
+  "base_atk": 40,
+  "passive": {
+    "name": "旅程",
+    "refinements": {
+      "R1": "获得元素晶球或元素微粒时，恢复1%生命值。",
+      "R2": "获得元素晶球或元素微粒时，恢复1.25%生命值。",
+      "R3": "获得元素晶球或元素微粒时，恢复1.5%生命值。",
+      "R4": "获得元素晶球或元素微粒时，恢复1.75%生命值。",
+      "R5": "获得元素晶球或元素微粒时，恢复2%生命值。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 40,
+      "substat": "DEF%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 2,
+      "base_atk": 43,
+      "substat": "DEF%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 3,
+      "base_atk": 46,
+      "substat": "DEF%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 4,
+      "base_atk": 50,
+      "substat": "DEF%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 5,
+      "base_atk": 53,
+      "substat": "DEF%",
+      "substat_value": 7.4
+    },
+    {
+      "level": 6,
+      "base_atk": 56,
+      "substat": "DEF%",
+      "substat_value": 7.4
+    },
+    {
+      "level": 7,
+      "base_atk": 59,
+      "substat": "DEF%",
+      "substat_value": 7.4
+    },
+    {
+      "level": 8,
+      "base_atk": 63,
+      "substat": "DEF%",
+      "substat_value": 7.4
+    },
+    {
+      "level": 9,
+      "base_atk": 66,
+      "substat": "DEF%",
+      "substat_value": 7.4
+    },
+    {
+      "level": 10,
+      "base_atk": 69,
+      "substat": "DEF%",
+      "substat_value": 8.7
+    },
+    {
+      "level": 11,
+      "base_atk": 72,
+      "substat": "DEF%",
+      "substat_value": 8.7
+    },
+    {
+      "level": 12,
+      "base_atk": 76,
+      "substat": "DEF%",
+      "substat_value": 8.7
+    },
+    {
+      "level": 13,
+      "base_atk": 79,
+      "substat": "DEF%",
+      "substat_value": 8.7
+    },
+    {
+      "level": 14,
+      "base_atk": 82,
+      "substat": "DEF%",
+      "substat_value": 8.7
+    },
+    {
+      "level": 15,
+      "base_atk": 86,
+      "substat": "DEF%",
+      "substat_value": 10.0
+    },
+    {
+      "level": 16,
+      "base_atk": 89,
+      "substat": "DEF%",
+      "substat_value": 10.0
+    },
+    {
+      "level": 17,
+      "base_atk": 92,
+      "substat": "DEF%",
+      "substat_value": 10.0
+    },
+    {
+      "level": 18,
+      "base_atk": 95,
+      "substat": "DEF%",
+      "substat_value": 10.0
+    },
+    {
+      "level": 19,
+      "base_atk": 99,
+      "substat": "DEF%",
+      "substat_value": 10.0
+    },
+    {
+      "level": 20,
+      "base_atk": 102,
+      "substat": "DEF%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 21,
+      "base_atk": 125,
+      "substat": "DEF%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 22,
+      "base_atk": 128,
+      "substat": "DEF%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 23,
+      "base_atk": 131,
+      "substat": "DEF%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 24,
+      "base_atk": 135,
+      "substat": "DEF%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 25,
+      "base_atk": 138,
+      "substat": "DEF%",
+      "substat_value": 12.5
+    },
+    {
+      "level": 26,
+      "base_atk": 141,
+      "substat": "DEF%",
+      "substat_value": 12.5
+    },
+    {
+      "level": 27,
+      "base_atk": 144,
+      "substat": "DEF%",
+      "substat_value": 12.5
+    },
+    {
+      "level": 28,
+      "base_atk": 148,
+      "substat": "DEF%",
+      "substat_value": 12.5
+    },
+    {
+      "level": 29,
+      "base_atk": 151,
+      "substat": "DEF%",
+      "substat_value": 12.5
+    },
+    {
+      "level": 30,
+      "base_atk": 154,
+      "substat": "DEF%",
+      "substat_value": 13.8
+    },
+    {
+      "level": 31,
+      "base_atk": 158,
+      "substat": "DEF%",
+      "substat_value": 13.8
+    },
+    {
+      "level": 32,
+      "base_atk": 161,
+      "substat": "DEF%",
+      "substat_value": 13.8
+    },
+    {
+      "level": 33,
+      "base_atk": 164,
+      "substat": "DEF%",
+      "substat_value": 13.8
+    },
+    {
+      "level": 34,
+      "base_atk": 168,
+      "substat": "DEF%",
+      "substat_value": 13.8
+    },
+    {
+      "level": 35,
+      "base_atk": 171,
+      "substat": "DEF%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 36,
+      "base_atk": 174,
+      "substat": "DEF%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 37,
+      "base_atk": 177,
+      "substat": "DEF%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 38,
+      "base_atk": 181,
+      "substat": "DEF%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 39,
+      "base_atk": 184,
+      "substat": "DEF%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 40,
+      "base_atk": 187,
+      "substat": "DEF%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 41,
+      "base_atk": 210,
+      "substat": "DEF%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 42,
+      "base_atk": 213,
+      "substat": "DEF%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 43,
+      "base_atk": 217,
+      "substat": "DEF%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 44,
+      "base_atk": 220,
+      "substat": "DEF%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 45,
+      "base_atk": 223,
+      "substat": "DEF%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 46,
+      "base_atk": 226,
+      "substat": "DEF%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 47,
+      "base_atk": 230,
+      "substat": "DEF%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 48,
+      "base_atk": 233,
+      "substat": "DEF%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 49,
+      "base_atk": 236,
+      "substat": "DEF%",
+      "substat_value": 17.7
+    },
+    {
+      "level": 50,
+      "base_atk": 239,
+      "substat": "DEF%",
+      "substat_value": 19.0
+    },
+    {
+      "level": 51,
+      "base_atk": 262,
+      "substat": "DEF%",
+      "substat_value": 19.0
+    },
+    {
+      "level": 52,
+      "base_atk": 266,
+      "substat": "DEF%",
+      "substat_value": 19.0
+    },
+    {
+      "level": 53,
+      "base_atk": 269,
+      "substat": "DEF%",
+      "substat_value": 19.0
+    },
+    {
+      "level": 54,
+      "base_atk": 272,
+      "substat": "DEF%",
+      "substat_value": 19.0
+    },
+    {
+      "level": 55,
+      "base_atk": 275,
+      "substat": "DEF%",
+      "substat_value": 20.3
+    },
+    {
+      "level": 56,
+      "base_atk": 279,
+      "substat": "DEF%",
+      "substat_value": 20.3
+    },
+    {
+      "level": 57,
+      "base_atk": 282,
+      "substat": "DEF%",
+      "substat_value": 20.3
+    },
+    {
+      "level": 58,
+      "base_atk": 285,
+      "substat": "DEF%",
+      "substat_value": 20.3
+    },
+    {
+      "level": 59,
+      "base_atk": 288,
+      "substat": "DEF%",
+      "substat_value": 20.3
+    },
+    {
+      "level": 60,
+      "base_atk": 292,
+      "substat": "DEF%",
+      "substat_value": 21.6
+    },
+    {
+      "level": 61,
+      "base_atk": 314,
+      "substat": "DEF%",
+      "substat_value": 21.6
+    },
+    {
+      "level": 62,
+      "base_atk": 318,
+      "substat": "DEF%",
+      "substat_value": 21.6
+    },
+    {
+      "level": 63,
+      "base_atk": 321,
+      "substat": "DEF%",
+      "substat_value": 21.6
+    },
+    {
+      "level": 64,
+      "base_atk": 324,
+      "substat": "DEF%",
+      "substat_value": 21.6
+    },
+    {
+      "level": 65,
+      "base_atk": 327,
+      "substat": "DEF%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 66,
+      "base_atk": 331,
+      "substat": "DEF%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 67,
+      "base_atk": 334,
+      "substat": "DEF%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 68,
+      "base_atk": 337,
+      "substat": "DEF%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 69,
+      "base_atk": 341,
+      "substat": "DEF%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 70,
+      "base_atk": 344,
+      "substat": "DEF%",
+      "substat_value": 24.1
+    },
+    {
+      "level": 71,
+      "base_atk": 367,
+      "substat": "DEF%",
+      "substat_value": 24.1
+    },
+    {
+      "level": 72,
+      "base_atk": 370,
+      "substat": "DEF%",
+      "substat_value": 24.1
+    },
+    {
+      "level": 73,
+      "base_atk": 373,
+      "substat": "DEF%",
+      "substat_value": 24.1
+    },
+    {
+      "level": 74,
+      "base_atk": 376,
+      "substat": "DEF%",
+      "substat_value": 24.1
+    },
+    {
+      "level": 75,
+      "base_atk": 380,
+      "substat": "DEF%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 76,
+      "base_atk": 383,
+      "substat": "DEF%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 77,
+      "base_atk": 386,
+      "substat": "DEF%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 78,
+      "base_atk": 390,
+      "substat": "DEF%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 79,
+      "base_atk": 393,
+      "substat": "DEF%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 80,
+      "base_atk": 396,
+      "substat": "DEF%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 81,
+      "base_atk": 419,
+      "substat": "DEF%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 82,
+      "base_atk": 422,
+      "substat": "DEF%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 83,
+      "base_atk": 425,
+      "substat": "DEF%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 84,
+      "base_atk": 429,
+      "substat": "DEF%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 85,
+      "base_atk": 432,
+      "substat": "DEF%",
+      "substat_value": 28.0
+    },
+    {
+      "level": 86,
+      "base_atk": 435,
+      "substat": "DEF%",
+      "substat_value": 28.0
+    },
+    {
+      "level": 87,
+      "base_atk": 438,
+      "substat": "DEF%",
+      "substat_value": 28.0
+    },
+    {
+      "level": 88,
+      "base_atk": 442,
+      "substat": "DEF%",
+      "substat_value": 28.0
+    },
+    {
+      "level": 89,
+      "base_atk": 445,
+      "substat": "DEF%",
+      "substat_value": 28.0
+    },
+    {
+      "level": 90,
+      "base_atk": 448,
+      "substat": "DEF%",
+      "substat_value": 29.3
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "狮牙斗士的枷锁",
+          "id": 114009,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "混沌装置",
+          "id": 112023,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "导能绘卷",
+          "id": 112008,
+          "count": 1,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "狮牙斗士的铁链",
+          "id": 114010,
+          "count": 2,
+          "rank": 3
+        },
+        {
+          "name": "混沌装置",
+          "id": 112023,
+          "count": 8,
+          "rank": 2
+        },
+        {
+          "name": "导能绘卷",
+          "id": 112008,
+          "count": 5,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "狮牙斗士的铁链",
+          "id": 114010,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "混沌回路",
+          "id": 112024,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "封魔绘卷",
+          "id": 112009,
+          "count": 4,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "狮牙斗士的镣铐",
+          "id": 114011,
+          "count": 2,
+          "rank": 4
+        },
+        {
+          "name": "混沌回路",
+          "id": 112024,
+          "count": 8,
+          "rank": 3
+        },
+        {
+          "name": "封魔绘卷",
+          "id": 112009,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 25000,
+      "items": [
+        {
+          "name": "狮牙斗士的镣铐",
+          "id": 114011,
+          "count": 4,
+          "rank": 4
+        },
+        {
+          "name": "混沌炉心",
+          "id": 112025,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "禁咒绘卷",
+          "id": 112010,
+          "count": 4,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "狮牙斗士的理想",
+          "id": 114012,
+          "count": 3,
+          "rank": 5
+        },
+        {
+          "name": "混沌炉心",
+          "id": 112025,
+          "count": 12,
+          "rank": 4
+        },
+        {
+          "name": "禁咒绘卷",
+          "id": 112010,
+          "count": 8,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

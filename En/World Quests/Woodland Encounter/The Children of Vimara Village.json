@@ -1,0 +1,1678 @@
+{
+ "chapter": "Woodland Encounter",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Children of Vimara Village",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Children of Vimara Village",
+   "dialogue": [
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "When you're ready, I'll take you to Vimara Village. It's smooth sailing from there to either Sumeru City or Port Ormos."
+    },
+    {
+     "s": 0,
+     "t": "I'm a Forest Watcher, after all. Escorting travelers is my job."
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "sit": "I've got something else on the table right now."
+    },
+    {
+     "s": 0,
+     "t": "Okay, follow me!"
+    },
+    {
+     "section": "Alphonso"
+    },
+    {
+     "s": 1,
+     "t": "The mission... I don't want to do it... What should I do? If the kids... Rana..."
+    },
+    {
+     "sit": "(Let's leave quietly.)"
+    },
+    {
+     "s": 0,
+     "t": "Come on, {NICKNAME}, let's go whenever you are ready!"
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "sit": "I need to take care of some things first."
+    },
+    {
+     "s": 0,
+     "t": "Sure! It's not far to the west."
+    },
+    {
+     "section": "Bahram"
+    },
+    {
+     "s": 2,
+     "t": "Welcome. The kids are excited to see visitors too."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "It's only been a few days and a new Withering Zone has popped up already. So close to the main road, too..."
+    },
+    {
+     "s": 3,
+     "t": "Ah, Withering Zone again..."
+    },
+    {
+     "sit": "We handled one with Tighnari before."
+    },
+    {
+     "sit": "We heard about one before."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME} and Tighnari disposed of a Withering Zone before? I won't go into how dangerous it is, then."
+    },
+    {
+     "s": 0,
+     "t": "Regardless, lemme mark down the location and radius of effect for now. After I take you to Vimara Village, I'll go to Gandharva Ville and bring Tighnari over to help."
+    },
+    {
+     "s": 3,
+     "t": "No need, Rana, just leave it to us."
+    },
+    {
+     "s": 0,
+     "t": "No way! The Withering Zone is lethal, even veteran Forest Watchers wouldn't approach it unless absolutely necessary."
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME} can manipulate the elements, and it should somewhat stave off the Withering's effects!"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Now that I think about it, you did show such ability when fending off the Fungi..."
+    },
+    {
+     "s": 0,
+     "t": "But still, you shouldn't do that. We can't have you injured by the Withering after coming all this way."
+    },
+    {
+     "s": 3,
+     "t": "Don't worry, Rana! {NICKNAME} has proven to be very reliable in the many encounters throughout our journey."
+    },
+    {
+     "sit": "Leave it to me. It's a piece of cake."
+    },
+    {
+     "sit": "Be right back."
+    },
+    {
+     "sit": "I don't like this Withering Zone. Let me deal with it."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* All right, I understand. I'll wait here. If it's too much to handle, get out of there or call for help, and I'll be there."
+    },
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "It's only been a few days and a new Withering Zone has popped up already. So close to the main road, too..."
+    },
+    {
+     "sit": "Withering Zone?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, that's a \"disaster\" unique to Sumeru. It's a force that emerges in an area and kills all living things within."
+    },
+    {
+     "s": 3,
+     "t": "It's true, all of the plants died."
+    },
+    {
+     "s": 0,
+     "t": "Yeah. Tighnari would be able to eliminate it if he was around. But for someone like me, who doesn't have a Vision and cannot control the elements, it's very dangerous to go into a Withering Zone."
+    },
+    {
+     "s": 0,
+     "t": "Regardless, lemme mark down the location and radius of effect for now. After I take you to Vimara Village, I'll go to Gandharva Ville and bring Tighnari over to help."
+    },
+    {
+     "sit": "Great, I don't have a Vision."
+    },
+    {
+     "sit": "It's tough being a Forest Watcher."
+    },
+    {
+     "sit": "I can control the elements."
+    },
+    {
+     "s": 3,
+     "t": "But can't you control the elements? What was it? Oh yeah, \"Prepare to be blown away!\""
+    },
+    {
+     "s": 3,
+     "t": "Since you can control the elements, you should be able to help!"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Now that I think about it, you did show such ability when fending off the Fungi..."
+    },
+    {
+     "s": 0,
+     "t": "But we still shouldn't try. Withering Zones are lethal, and even veteran Forest Watchers wouldn't approach one unless absolutely necessary."
+    },
+    {
+     "s": 3,
+     "t": "That might be the case, but {NICKNAME} has proven to be very reliable in the many encounters throughout our journey."
+    },
+    {
+     "sit": "Leave it to me. It's a piece of cake."
+    },
+    {
+     "sit": "Be right back."
+    },
+    {
+     "sit": "I don't like this Withering Zone. Let me deal with it."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* All right, I understand. I'll wait here. If it's too much to handle, get out of there or call for help, and I'll be there."
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, I'll wait here. If it's too much to handle, get out of there or call for help, and I'll be there."
+    },
+    {
+     "section": "Paimon, Rana"
+    },
+    {
+     "s": 3,
+     "t": "{NICKNAME} is impressive, right?"
+    },
+    {
+     "s": 0,
+     "t": "You're amazing! Incredibly amazing!"
+    },
+    {
+     "sit": "Thanks."
+    },
+    {
+     "sit": "Take it down a notch."
+    },
+    {
+     "s": 3,
+     "t": "You're getting too excited, Rana."
+    },
+    {
+     "s": 0,
+     "t": "Pardon me... Ahem, {NICKNAME}... Uh, Mr.(Miss)..."
+    },
+    {
+     "sit": "You don't have to be so formal..."
+    },
+    {
+     "sit": "It's okay to just speak your mind, Miss Rana."
+    },
+    {
+     "s": 0,
+     "t": "Okay... So, I wonder if you guys are interested in joining us? I can vouch for you both."
+    },
+    {
+     "s": 0,
+     "t": "It would be great to get powerful, dedicated people like {NICKNAME} and Paimon on our side!"
+    },
+    {
+     "s": 0,
+     "t": "With you guys, we can better control the spread of The Withering... Sure, you're probably not familiar with the woods, but that shouldn't be too much of a problem..."
+    },
+    {
+     "sit": "Wait..."
+    },
+    {
+     "sit": "Calm down..."
+    },
+    {
+     "s": 3,
+     "t": "Oh, yeah, speaking of the forest, Paimon's got a question..."
+    },
+    {
+     "s": 3,
+     "t": "Do you remember the wondrous creatures we saw before?"
+    },
+    {
+     "s": 0,
+     "t": "Wondrous creatures...?"
+    },
+    {
+     "sit": "You quickly describe the wondrous creatures you met previously."
+    },
+    {
+     "s": 0,
+     "t": "Oh, they sound like the mythical Aranara! Small, round, plantlike fairies. They are denizens of the woods and guardians of trees."
+    },
+    {
+     "s": 0,
+     "t": "But we generally dismiss them as just a tale. You sure those weren't just some Shroomboars you saw, {NICKNAME}?"
+    },
+    {
+     "s": 3,
+     "t": "Shroomboars?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah, that's an animal you'll see only in the forests of Sumeru! They are round, green beasts that live in the forest. We'd use them to find precious mushrooms."
+    },
+    {
+     "sit": "Really?"
+    },
+    {
+     "sit": "I don't think they're the same."
+    },
+    {
+     "sit": "Sounds delicious..."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, in all my years in the woods, I've never seen an Aranara."
+    },
+    {
+     "s": 0,
+     "t": "However, you can ask the kids after you get to Vimara Village. They seem to be very into the legend of Aranara."
+    },
+    {
+     "s": 0,
+     "t": "Although children always try to hide their thoughts from adults, you can read their minds like a book."
+    },
+    {
+     "sit": "Just like Paimon."
+    },
+    {
+     "s": 3,
+     "t": "Hey, that's because we're buddies and know each other very well!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "（test)这里就到了。"
+    },
+    {
+     "s": 0,
+     "t": "（test)我们出发吧。"
+    },
+    {
+     "section": "Rana, Amadhiah, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "I'm back, Grandpa Amadhiah!"
+    },
+    {
+     "s": 4,
+     "t": "Rana! You know, the job of a Forest Watcher is important, but you should come around more often."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, I know. I patrol the forest so that those \"tiger cubs\" can hang out in the woods safely. It was just a mess right now."
+    },
+    {
+     "s": 3,
+     "t": "There are tigers in Vimara Village?"
+    },
+    {
+     "s": 4,
+     "t": "\"Tiger cubs\" refers to Iotham and his friends. By the way, your voice... I don't think I've ever met you. Do we have visitors?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, yes, Grandpa Amadhiah. These two are..."
+    },
+    {
+     "sit": "Rana gives Amadhiah a brief rundown."
+    },
+    {
+     "s": 4,
+     "t": "Ah, I see. Welcome to Vimara Village, and thanks for helping Rana out."
+    },
+    {
+     "s": 0,
+     "t": "I plan to form a nightwatch, getting Alphonso, Bahram, and Aurelius to safeguard the perimeter as a group."
+    },
+    {
+     "s": 4,
+     "t": "That's a great plan. It's for the good of the children, after all."
+    },
+    {
+     "sit": "Has something happened in Vimara Village lately?"
+    },
+    {
+     "s": 3,
+     "t": "Oh? Could it be related to the round plantlike creatures we saw before?"
+    },
+    {
+     "s": 4,
+     "t": "What are you talking about? That sounded like a cabbage from your description."
+    },
+    {
+     "s": 0,
+     "t": "It's okay. We're just a little uneasy from some recent events."
+    },
+    {
+     "s": 4,
+     "t": "I've spent my whole life in Vimara Village and never saw anything like this. *sigh*"
+    },
+    {
+     "s": 4,
+     "t": "I won't bore you with my stories. Please watch over Rana. She's always been a troublemaker since she was little."
+    },
+    {
+     "s": 4,
+     "t": "She got lost in the woods once when she was seven or eight, for a couple of days..."
+    },
+    {
+     "s": 0,
+     "t": "Hey now, Grandpa Amadhiah!"
+    },
+    {
+     "s": 4,
+     "t": "Fine, fine. You be a good host now, Rana. Don't let our guests down."
+    },
+    {
+     "s": 0,
+     "t": "For sure!"
+    },
+    {
+     "section": "Amadhiah"
+    },
+    {
+     "s": 4,
+     "t": "Ah, friends of Rana, sorry about before. I must apologize for my aging eyes."
+    },
+    {
+     "sit": "About the mysterious creatures we saw before..."
+    },
+    {
+     "sit": "About Rana..."
+    },
+    {
+     "sit": "See you."
+    },
+    {
+     "s": 4,
+     "t": "You mean the round little plantlike fairies? I think I saw them before, but when and what was it...?"
+    },
+    {
+     "sit": "Are they called Aranara?"
+    },
+    {
+     "s": 4,
+     "t": "Aranara... Probably. I might have heard stories before, but I'm too old to remember for sure."
+    },
+    {
+     "s": 4,
+     "t": "The forests of Sumeru are very big, teeming with countless wondrous creatures. But one won't miss what they're destined to find."
+    },
+    {
+     "s": 4,
+     "t": "However, if I was destined, I shouldn't have forgotten about them, either. So when was it...?"
+    },
+    {
+     "section": "Iosaphat"
+    },
+    {
+     "s": 5,
+     "t": "It's you! Welcome. Come over for a meal with Rana and the cubs if you get a chance. Got a nice catch today."
+    },
+    {
+     "section": "Alphonso, Paimon, Iotham, Kavus, Sudabeh"
+    },
+    {
+     "s": 0,
+     "t": "Allow me to introduce these two impressive travelers who have helped me a lot. And this here is Alphonso, just about the most dependable person in Vimara Village!"
+    },
+    {
+     "s": 1,
+     "t": "You flatter me, Rana. Anyway, nice to meet you two, and thanks for looking after Rana."
+    },
+    {
+     "s": 3,
+     "t": "You don't look like a local, Alphonso. Are you a traveler, too?"
+    },
+    {
+     "s": 1,
+     "t": "Hahaha, you're an experienced traveler indeed, saw right through me at a glance."
+    },
+    {
+     "s": 1,
+     "t": "I came as an apprentice from Fontaine, but ended up staying because I really like it here."
+    },
+    {
+     "s": 0,
+     "t": "And it's been years since! Alphonso is practically one of us now!"
+    },
+    {
+     "s": 0,
+     "t": "Anyway, how are the kids? They're not running around, are they? I mean, it's not a good time right now..."
+    },
+    {
+     "s": 1,
+     "t": "They're in the village, waiting for you to return. After Kavus came back..."
+    },
+    {
+     "s": 1,
+     "t": "Is it really okay to talk about that in front of our guests? Maybe we should talk about it later..."
+    },
+    {
+     "s": 3,
+     "t": "Is it something important? We can come back later..."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry. They saved my life, after all!"
+    },
+    {
+     "sit": "Actually, you could've made it on your own..."
+    },
+    {
+     "sit": "I fight very well."
+    },
+    {
+     "s": 0,
+     "t": "Time is life to me. You saved me time, so you saved my life!"
+    },
+    {
+     "s": 0,
+     "t": "Anyway, some of the children in Vimara Village have gone missing recently."
+    },
+    {
+     "sit": "That warrants much more than just an \"Anyway\"!"
+    },
+    {
+     "sit": "Is someone abducting the kids?"
+    },
+    {
+     "s": 3,
+     "t": "This is a very serious problem! Have you notified the sheriff in Sumeru City yet? Is there anything we can help with?"
+    },
+    {
+     "s": 0,
+     "t": "Wait, wait, just listen to me! The missing children always came back in a few days, though they don't remember what happened."
+    },
+    {
+     "s": 1,
+     "t": "I'd round up a search party every time. Sometimes, we'd run into wild animals, sometimes a Withering Zone, other times, outsiders obviously too tough for us to handle."
+    },
+    {
+     "s": 1,
+     "t": "However, we could never find the kids since the woods are simply too big to search, even for Rana."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, but in the end they would suddenly return when no one was paying attention, and couldn't recall anything when asked."
+    },
+    {
+     "sit": "Paimon does that, too."
+    },
+    {
+     "sit": "They remembered nothing at all?"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, so it's normal for kids?"
+    },
+    {
+     "s": 3,
+     "t": "Hey, quit it, you two!"
+    },
+    {
+     "s": 0,
+     "t": "Hahahaha! Sorry to digress."
+    },
+    {
+     "sit": "They remembered nothing at all?"
+    },
+    {
+     "s": 1,
+     "t": "I'm not sure. I think they just don't want to tell us \"adults.\""
+    },
+    {
+     "s": 1,
+     "t": "*sigh* Even though I'm only a few years older than them."
+    },
+    {
+     "s": 3,
+     "t": "Still, that's pretty concerning."
+    },
+    {
+     "s": 0,
+     "t": "Right, so I've been patrolling nearby recently, looking out for anything unusual. That's also why I just spoke to Amadhiah about forming a nightwatch."
+    },
+    {
+     "s": 0,
+     "t": "I also asked Alphonso to keep an eye on the kids..."
+    },
+    {
+     "s": 1,
+     "t": "Sorry."
+    },
+    {
+     "s": 0,
+     "t": "It's okay. I'd be more concerned if they actually stay put!"
+    },
+    {
+     "s": 0,
+     "t": "I'm going to have a word with Iosaphat later. It's his job to watch after Kavus and Sudabeh!"
+    },
+    {
+     "s": 1,
+     "t": "You ought to take it easy for a while here, Rana. You're the only one who can get through to the kids."
+    },
+    {
+     "s": 1,
+     "t": "It's dangerous outside lately. Withering Zone aside, you got the Fatui from Snezhnaya with their armed mercenaries operating in the forest. If something goes wrong..."
+    },
+    {
+     "sit": "Fatui?"
+    },
+    {
+     "s": 0,
+     "t": "I know, I'll be careful, but I should be on the ball because it is dangerous!"
+    },
+    {
+     "s": 1,
+     "t": "But even if you could deal with the wild animals, the Fatui are more than you can handle, Rana."
+    },
+    {
+     "s": 3,
+     "t": "It sounds like Alphonso knows the Fatui very well."
+    },
+    {
+     "s": 1,
+     "t": "Oh, I learned about them from the travelers shuttling between Sumeru City and Port Ormos."
+    },
+    {
+     "s": 6,
+     "t": "It's Rana! Rana is back! With Alphonso too!"
+    },
+    {
+     "s": 0,
+     "t": "Hee, here comes trouble!"
+    },
+    {
+     "s": 1,
+     "t": "Anyway, think it over, Rana."
+    },
+    {
+     "s": 6,
+     "t": "I picked a bunch of Starshrooms for you, Rana!"
+    },
+    {
+     "s": 0,
+     "t": "Iotham, didn't you promise me to never wander outside the village? The Rishboland Raja will come and get you if you don't behave!"
+    },
+    {
+     "s": 6,
+     "t": "I'm big now and I'm not scared of anything!"
+    },
+    {
+     "s": 7,
+     "t": "Did you catch the Gator Raja this time, Rana?"
+    },
+    {
+     "s": 8,
+     "t": "I want to hear some tales from the woods, Rana!"
+    },
+    {
+     "s": 0,
+     "t": "Well, I didn't see the Gator Raja this time, but I brought you a golden lion and a silver..."
+    },
+    {
+     "s": 0,
+     "t": "Silver what, though...?"
+    },
+    {
+     "sit": "Another lion?"
+    },
+    {
+     "sit": "Weasel Thief?"
+    },
+    {
+     "sit": "Whopperflower."
+    },
+    {
+     "s": 3,
+     "t": "Aroo! Hehe, our colors match pretty well."
+    },
+    {
+     "s": 6,
+     "t": "Silver Dusk Bird!"
+    },
+    {
+     "s": 7,
+     "t": "Silver Bass!"
+    },
+    {
+     "s": 8,
+     "t": "Super Silver Specter!"
+    },
+    {
+     "s": 3,
+     "t": "???"
+    },
+    {
+     "sit": "Calm down, Paimon."
+    },
+    {
+     "sit": "A Specter is too much..."
+    },
+    {
+     "s": 1,
+     "t": "All right, stop picking on them. {NICKNAME} and Paimon are my friends."
+    },
+    {
+     "s": 3,
+     "t": "*exhale* Paimon's not going to get mad at kids... Regardless, you know a lot of animals!"
+    },
+    {
+     "s": 6,
+     "t": "That's right! Rana would tell us stories every time she's back. She told us about a huge, huge gator last time, and the Sumpter Beastlord!"
+    },
+    {
+     "s": 8,
+     "t": "And the Rishboland Raja that couldn't be caught!"
+    },
+    {
+     "s": 0,
+     "t": "That's right, and it will come and get you if you don't behave!"
+    },
+    {
+     "s": 6,
+     "t": "Oh no!"
+    },
+    {
+     "s": 3,
+     "t": "(Everyone in the village sure seems to get along!)"
+    },
+    {
+     "sit": "(If only it could always be like this...)"
+    },
+    {
+     "sit": "(Hope the children can stay safe.)"
+    },
+    {
+     "s": 0,
+     "t": "Anyway, my friends here came from a place far far away! Why don't we let them tell a story today?"
+    },
+    {
+     "sit": "Sure, I guess..."
+    },
+    {
+     "sit": "Me?"
+    },
+    {
+     "s": 3,
+     "t": "Sure, our trip to Sumeru has been a very eventful one!"
+    },
+    {
+     "s": 7,
+     "t": "Yay! Let's all go to Rana's house!"
+    },
+    {
+     "s": 6,
+     "t": "The last one there is a Specter!"
+    },
+    {
+     "s": 1,
+     "t": "Be careful going over the bridge, don't fall into the water!"
+    },
+    {
+     "s": 0,
+     "t": "Let's go!"
+    },
+    {
+     "section": "Jehiet"
+    },
+    {
+     "s": 9,
+     "t": "Hey, it's the visitor Rana brought. Welcome."
+    },
+    {
+     "s": 9,
+     "t": "We don't have much in the village except a quiet life, so put your feet up and relax."
+    },
+    {
+     "section": "Alphonso"
+    },
+    {
+     "s": 1,
+     "t": "Welcome to Vimara Village, {NICKNAME}. Everyone is family here. If you stay, Iotham and his friends will treat you like a real brother(sister)."
+    },
+    {
+     "sit": "How do you know my name?"
+    },
+    {
+     "s": 1,
+     "t": "Rana probably mentioned it. Anyway, hope you'll enjoy your time in Vimara Village."
+    },
+    {
+     "section": "Paimon, Rana, Iotham, Sudabeh, Kavus"
+    },
+    {
+     "s": 3,
+     "t": "These kids ran faster than birds could fly..."
+    },
+    {
+     "s": 0,
+     "t": "You guys are getting good at running. It's going to worry me sick if you run away someday."
+    },
+    {
+     "s": 6,
+     "t": "We won't run if Rana's here!"
+    },
+    {
+     "s": 8,
+     "t": "I'm going to marry Rana when I grow up!"
+    },
+    {
+     "s": 7,
+     "t": "Wait, didn't you promise to marry me? Liar!"
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, we'll sort this out later! You'll meet more people when you grow up, people more impressive and better than me."
+    },
+    {
+     "s": 0,
+     "t": "For instance, Mr. Blond(Miss Blonde) here is way mightier than me, and has met many great people along their journey from far away, right?"
+    },
+    {
+     "sit": "Indeed, I have."
+    },
+    {
+     "sit": "Well, not exactly..."
+    },
+    {
+     "sit": "It's true, such as Paimon."
+    },
+    {
+     "s": 7,
+     "t": "Have you been traveling a long time?"
+    },
+    {
+     "s": 8,
+     "t": "Rana said you'd tell us stories!"
+    },
+    {
+     "sit": "Sure, I guess..."
+    },
+    {
+     "sit": "I've got a lot of stories."
+    },
+    {
+     "s": 0,
+     "t": "You got the tiger cubs, then. I have a meeting to go to. You kids be good to him(her) and stay put till I come back."
+    },
+    {
+     "s": 6,
+     "t": "Okay!"
+    },
+    {
+     "s": 3,
+     "t": "All right, on to the stories... You're Iotham, right? What story would you like to hear?"
+    },
+    {
+     "s": 6,
+     "t": "Stories about dragons! Alphonso said they are ancient and very powerful!"
+    },
+    {
+     "s": 7,
+     "t": "Sea monsters! I heard there's a lot of big monsters in the sea!"
+    },
+    {
+     "s": 8,
+     "t": "I want stories about a distinguished lady who is smart and powerful!"
+    },
+    {
+     "sit": "This girl...(I'm smart and powerful!)"
+    },
+    {
+     "sit": "You all want different stories..."
+    },
+    {
+     "s": 8,
+     "t": "I want to be like Rana when I grow up, so I want to hear stories like that!(Yeah, you are powerful, and very pretty too! But I'm going to be Rana's bride, so I have to be stronger than you!)"
+    },
+    {
+     "s": 3,
+     "t": "They all want different stories..."
+    },
+    {
+     "s": 3,
+     "t": "Hey... Isn't there someone that knows stories of the eight-headed hydras, silver-haired banshees, and the wicked abyss dragon? Paimon thinks everyone would be happy if that person was here."
+    },
+    {
+     "s": 3,
+     "t": "How about this, we know a lot of stories, and we'll tell them all!"
+    },
+    {
+     "sit": "(We can ask them about the mysterious creatures while at it.)"
+    },
+    {
+     "sit": "(We can ask them about how they went missing while at it.)"
+    },
+    {
+     "s": 3,
+     "t": "(True, these kids might know things adults don't, and about how they went missing...)"
+    },
+    {
+     "s": 3,
+     "t": "As a trade, Iotham, Kavus, and Sudabeh, you'll tell us what you know too."
+    },
+    {
+     "s": 6,
+     "t": "Sure!"
+    },
+    {
+     "section": "Iotham, Paimon"
+    },
+    {
+     "s": 6,
+     "t": "I want dragon stories! Alphonso told me they exist in the world! He said a huge, evil dragon lives in a place called Mondstadt!"
+    },
+    {
+     "sit": "Alphonso sure has his ears on the ground."
+    },
+    {
+     "sit": "We know the story."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, we know about that!"
+    },
+    {
+     "s": 6,
+     "t": "So what is that dragon like? Alphonso said it is terrifying and pillages Mondstadt!"
+    },
+    {
+     "s": 3,
+     "t": "Hmm... How should Paimon put it?"
+    },
+    {
+     "sit": "\"This is a tale of friends resolving their misunderstanding...\""
+    },
+    {
+     "sit": "\"This is a tale of heroes triumphing over evil...\""
+    },
+    {
+     "s": 3,
+     "t": "Ahem, here it goes: A long, long time ago, in a kingdom faraway, a big dragon with huge wings and sharp fangs laid in deep slumber."
+    },
+    {
+     "sit": "\"When the dragon woke up, it saw the world had changed.\"<br/>\"Growl!\" The dragon announced. \"I'm mad now and I'm going to wreck your little houses and keeps!\"<br/>\"The dragon wasn't actually bad but was tricked by an evil sorcerer into thinking everyone's bad.\"<br/>\"Then one day, two travelers arrived...\""
+    },
+    {
+     "sit": "Paimon tells the story of the azure-blue dragon in a way that really engages the kids."
+    },
+    {
+     "s": 3,
+     "t": "...So, with everyone's help, the travelers removed the curse from the dragon and helped it find its friend."
+    },
+    {
+     "s": 6,
+     "t": "Wow, I had thought dragons were terrible and would eat Sumpter Beasts and people!"
+    },
+    {
+     "s": 6,
+     "t": "How big is the dragon, though? Big like a house?"
+    },
+    {
+     "sit": "Big enough to swallow Paimon in one bite."
+    },
+    {
+     "sit": "Big enough to swallow Vimara Village in one bite."
+    },
+    {
+     "s": 6,
+     "t": "If Paimon is the white lady? I guess the dragon isn't that big, after all."
+    },
+    {
+     "s": 3,
+     "t": "Hey, Paimon might be short, but she's got a big brain!"
+    },
+    {
+     "sit": "And a big appetite too."
+    },
+    {
+     "s": 3,
+     "t": "Hmph, Paimon can swallow the whole Vimara Village in one bite, just like the dragon!"
+    },
+    {
+     "s": 6,
+     "t": "Wow! If that's true, we can fly around inside a dragon's belly!"
+    },
+    {
+     "s": 6,
+     "t": "When it gets hot, we'll go to the Snezhnaya that Alphonso talked about, where it snows! When it's rainy season, we'll go to Valuka, where Granny Jehiet is from!"
+    },
+    {
+     "s": 3,
+     "t": "Valuka?"
+    },
+    {
+     "s": 6,
+     "t": "Oh, that's a desert! Anyway, when I grow up, I want to travel everywhere like you!"
+    },
+    {
+     "s": 3,
+     "t": "That's right! Travel and make friends. Just like how we traveled and got to know you! Can we ask you a few questions, Iotham?"
+    },
+    {
+     "sit": "Ask about the mysterious creatures in the forest."
+    },
+    {
+     "s": 3,
+     "t": "Rana told us they could be Aranara. Have you heard anything about them, Iotham?"
+    },
+    {
+     "s": 6,
+     "t": "Uh, about that..."
+    },
+    {
+     "s": 6,
+     "t": "No, I heard nothing about Aranara."
+    },
+    {
+     "sit": "They look like cabbages."
+    },
+    {
+     "sit": "They look like Shroomboars."
+    },
+    {
+     "s": 6,
+     "t": "On second thought, yeah, they do! Hahaha!"
+    },
+    {
+     "s": 3,
+     "t": "Eh? So you've seen Aranara before?"
+    },
+    {
+     "s": 6,
+     "t": "Actually, I've heard about them in Granny Jehiet's stories!"
+    },
+    {
+     "sit": "Can we ask Granny Jehiet?"
+    },
+    {
+     "sit": "Let's ask about something else..."
+    },
+    {
+     "s": 6,
+     "t": "No..."
+    },
+    {
+     "s": 3,
+     "t": "All right, we'll drop it. Rana and others are very worried about you kids, Iotham. Have you gotten lost in the woods recently?"
+    },
+    {
+     "s": 6,
+     "t": "No, I know the woods very well. There's no way I can get lost!"
+    },
+    {
+     "s": 6,
+     "t": "But Sudabeh and Kavus did. Everyone was worried, but not me, because I know Arana would take them home."
+    },
+    {
+     "s": 3,
+     "t": "Arana? Who's that?"
+    },
+    {
+     "s": 6,
+     "t": "Uh, I mean Rana! Rana would find them and take them home!"
+    },
+    {
+     "s": 3,
+     "t": "(That's suspicious, but Paimon doesn't think we can find out more...)"
+    },
+    {
+     "s": 3,
+     "t": "Let's change the topic! Why are you interested in dragon stories, Iotham?"
+    },
+    {
+     "s": 6,
+     "t": "I want to be great like a dragon, then I can help Rana and Alphonso. They work very hard. It always takes a long time for Rana to patrol the woods."
+    },
+    {
+     "s": 6,
+     "t": "Alphonso goes out there when no one's looking too. I can help them as soon as I grow up, so they can spend more time in the village."
+    },
+    {
+     "s": 3,
+     "t": "Paimon gets it! You're a great kid, Iotham!"
+    },
+    {
+     "section": "Iotham"
+    },
+    {
+     "s": 6,
+     "t": "So dragons don't eat people or Sumpter Beasts! I have to let Alphonso know next time."
+    },
+    {
+     "section": "Kavus, Paimon"
+    },
+    {
+     "s": 7,
+     "t": "Sea monsters! I heard there's a lot of big and peculiar monsters in the sea!"
+    },
+    {
+     "s": 7,
+     "t": "Like the fish that's as large as an island, or the squid as long as a river, and the story about the puppet and the whale! Also, the turtle carrying an elephant on its back!"
+    },
+    {
+     "s": 3,
+     "t": "You've heard a lot of stories! Why the interest in sea monsters?"
+    },
+    {
+     "s": 7,
+     "t": "When I grow up, I want to be a sailor, going on seven voyages and discovering uncharted islands and lands! That's why I want to learn about sea monsters. This way, I can defeat them one day!"
+    },
+    {
+     "sit": "We ran across some pirates before."
+    },
+    {
+     "sit": "We ran across the grandson of some pirate."
+    },
+    {
+     "s": 7,
+     "t": "Wow! That's so cool! Did they find any treasure? Any tales of adventure?"
+    },
+    {
+     "s": 3,
+     "t": "Not sure, but Paimon does have a sea-monster story."
+    },
+    {
+     "s": 3,
+     "t": "Ahem. Once upon a time, there was a sea serpent with many heads living in the ocean! It was taller than a mountain when it stretched out its neck..."
+    },
+    {
+     "sit": "\"The serpent didn't behave, so a god trapped it on the sea floor under rocks to prevent it from making waves and destroying the harbor.\"<br/>\"After a long while, the serpent woke up and griped, 'Curse you, despicable god!'\"<br/>\"'I'll wash all your houses and treasures out to the sea and make them mine! Roar!'\"<br/>\"Then it rose up to higher than the mountains and caused a tidal wave...\""
+    },
+    {
+     "sit": "Paimon tells the story of the people in the flying castle fighting the sea hydra together in a way that really engages the kids."
+    },
+    {
+     "s": 3,
+     "t": "And that was how everybody worked together to defeat the serpent and protect the city!"
+    },
+    {
+     "s": 7,
+     "t": "So the serpent has been defeated? What a shame, I wanted to beat it myself when I grew up!"
+    },
+    {
+     "sit": "That's the spirit!"
+    },
+    {
+     "sit": "You'll face other \"monsters\" when you grow up."
+    },
+    {
+     "s": 7,
+     "t": "Of course! I'm older than Iotham and Sudar, I have to be stronger than them so I can protect them."
+    },
+    {
+     "s": 7,
+     "t": "I promised to tell you what I know after hearing your story. So, what would you like to know?"
+    },
+    {
+     "sit": "About the mysterious creatures in the woods..."
+    },
+    {
+     "s": 7,
+     "t": "Oh, there's a lot of them in the forest! Like the legendary Sumpter Beastlord — it isn't like any ordinary Sumpter Beast and will attack intruders!"
+    },
+    {
+     "s": 7,
+     "t": "And the Rishboland Raja that snatches bad children away! But I'm old enough to know Rana made that up to scare the kids."
+    },
+    {
+     "s": 3,
+     "t": "They all sound interesting, but we'd like to know about the round, plantlike fairies called Aranara. Do you know about them?"
+    },
+    {
+     "s": 7,
+     "t": "Oh, Aranara..."
+    },
+    {
+     "s": 7,
+     "t": "Never heard of them, but I know about the Gator Raja! It's a very, very big gator in the woods that has lived for a long, long time and is very, very cunning. There was this one time..."
+    },
+    {
+     "s": 3,
+     "t": "(That didn't sound convincing...)"
+    },
+    {
+     "sit": "(Never mind...)"
+    },
+    {
+     "sit": "(Just ask about something else.)"
+    },
+    {
+     "s": 3,
+     "t": "Wow, Paimon can't believe there's a gator like that! Do you go into the woods often, Kavus?"
+    },
+    {
+     "s": 7,
+     "t": "Yeah, I used to, but not lately, since I got lost in there once. At least that's what the adults said."
+    },
+    {
+     "sit": "\"That's what the adults said?\""
+    },
+    {
+     "s": 7,
+     "t": "Because I don't remember anything. I went into the forest to see my friend and share stories about my sister, then... I just can't remember what happened."
+    },
+    {
+     "s": 7,
+     "t": "When I came to my senses, I was back in the village already. My father held me tightly while everyone was around me, asking me if I was hurt, hungry, or thirsty. Then they wouldn't let me go there again."
+    },
+    {
+     "sit": "You should listen and not go there."
+    },
+    {
+     "sit": "You went into the forest to see your friend?"
+    },
+    {
+     "s": 3,
+     "t": "Mm... But you have a friend in the forest? Doesn't everyone live in the village?"
+    },
+    {
+     "s": 7,
+     "t": "Yeah, a friend to everyone, lives in the forest. Taught us many things, like what wild fruits we shouldn't eat, and which trees would let us climb on them."
+    },
+    {
+     "s": 3,
+     "t": "Mm-hmm, so what is that friend like?"
+    },
+    {
+     "s": 7,
+     "t": "Well..."
+    },
+    {
+     "s": 7,
+     "t": "I can't tell you. I'm sorry. Although we're friends, I made a pact with Sudabeh and Iotham."
+    },
+    {
+     "s": 3,
+     "t": "(Paimon guesses it's a secret between the kids...)"
+    },
+    {
+     "sit": "(I think we just hit a dead end.)"
+    },
+    {
+     "s": 3,
+     "t": "Okay, we understand. Now, be a good boy and don't play outside the village!"
+    },
+    {
+     "s": 7,
+     "t": "Of course! I'll be a good big brother to Sudabeh and Iotham!"
+    },
+    {
+     "section": "Kavus"
+    },
+    {
+     "s": 7,
+     "t": "When I grow up, I want to be a great sailor like Sinbadacus!"
+    },
+    {
+     "section": "Paimon, Sudabeh"
+    },
+    {
+     "s": 3,
+     "t": "What story would you like to hear, Sudabeh?"
+    },
+    {
+     "s": 8,
+     "t": "Any story will do! But I'd like it to have a distinguished lady who is smart and powerful. Well, she doesn't have to be a distinguished lady, but the character's got to be determined and loving."
+    },
+    {
+     "s": 8,
+     "t": "Like Princess Cinnamon who left her palace with a tiger in the fairytale!"
+    },
+    {
+     "sit": "That's a lot of demands..."
+    },
+    {
+     "s": 3,
+     "t": "Well, Paimon knows several ladies who fit that description, but somehow they all have connections to Electro..."
+    },
+    {
+     "s": 8,
+     "t": "Electro is good. It makes plants stronger and bear more fruit."
+    },
+    {
+     "s": 3,
+     "t": "You know a lot, Sudabeh! So, where should Paimon start..."
+    },
+    {
+     "sit": "\"In a place far away, there was a library...\""
+    },
+    {
+     "sit": "\"A general and a shrine maiden...\""
+    },
+    {
+     "s": 3,
+     "t": "Paimon can go with the story of Miss Lisa, but Paimon'd prefer another one..."
+    },
+    {
+     "s": 3,
+     "t": "Ahem. In a place far away, on the other side of the ocean, there was a lady general and a shrine maiden."
+    },
+    {
+     "s": 3,
+     "t": "Oh yeah, making the shrine maiden a priestess, and the general a queen should help you understand it better."
+    },
+    {
+     "s": 8,
+     "t": "Are they both distinguished ladies?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah, they both are!"
+    },
+    {
+     "sit": "\"Once upon a time, in a kingdom far away, there was a very beautiful and powerful queen. But war came, and although the queen won, she also lost many friends.\"<br/>\"She cried and cried, '*sob* I'm going to make a robot and have it work for me. Then I shall live alone in the palace forever and not make any more friends so I won't lose them!'\"<br/>\"'Beep. Copy that. Working now,' replied the robot, who then began running the kingdom for the queen. Then some bad guys started to scheme!\""
+    },
+    {
+     "s": 8,
+     "t": "Where does the priestess come in?"
+    },
+    {
+     "sit": "\"Ahem. The queen had a pretty and powerful priestess friend, who couldn't bear to see the queen go on this way.\"<br/>\"That was when a traveler came to the kingdom. He(She) and his(her) companion were both smart and brave.\"<br/>\"So the priestess thought, 'Ack-ack-ack! They are agile and resilient. If they're willing to help...'\""
+    },
+    {
+     "sit": "Paimon tells the story of the queen and the priestess (both of whom are distinguished ladies) in a way that really engages the kids."
+    },
+    {
+     "s": 3,
+     "t": "...In the end, the lonely robot was still working hard, but that's another story."
+    },
+    {
+     "s": 8,
+     "t": "Everyone was so awesome! Even though that traveler wasn't a distinguished lady, she(he) was still strong. That's what I want to be when I grow up."
+    },
+    {
+     "s": 3,
+     "t": "Paimon's sure you can do it! But if you don't behave and get lost out there, then none of that will happen!"
+    },
+    {
+     "sit": "Very smooth of you, Paimon."
+    },
+    {
+     "sit": "Very sly of you, Paimon."
+    },
+    {
+     "s": 8,
+     "t": "Yes, I'll behave and won't wander outside."
+    },
+    {
+     "sit": "What happened when you got lost before?"
+    },
+    {
+     "s": 8,
+     "t": "I don't remember. I just went into the woods to gather herbs."
+    },
+    {
+     "s": 3,
+     "t": "Herbs?"
+    },
+    {
+     "s": 8,
+     "t": "Yeah. Alphonso said there's a herb to improve grandpa's eyesight. He has trouble seeing things lately and can't even see people coming his way. So I wanted to help grandpa."
+    },
+    {
+     "sit": "Did Alphonso send you?"
+    },
+    {
+     "s": 8,
+     "t": "No. He warned me not to wander into the forest too, but I wanted to help, so I sneaked off. Then I don't remember the rest."
+    },
+    {
+     "s": 3,
+     "t": "Nothing at all?"
+    },
+    {
+     "s": 8,
+     "t": "Nothing. When I came round, I was already home. My brother said everyone was worried. I know what I did was wrong and will never sneak off into the woods again."
+    },
+    {
+     "s": 3,
+     "t": "That's right, good girl. Speaking of the forest..."
+    },
+    {
+     "sit": "About the mysterious creatures in the woods..."
+    },
+    {
+     "s": 8,
+     "t": "I don't know anything about them!"
+    },
+    {
+     "s": 3,
+     "t": "Whoa, that was fast!"
+    },
+    {
+     "s": 8,
+     "t": "What do you mean by \"mysterious\"? If I know what they are, they're not mysterious. If I don't, I wouldn't be able to tell you. Sorry..."
+    },
+    {
+     "s": 3,
+     "t": "That actually makes a lot of sense... But what Paimon wanted to ask about is round, plantlike fairies..."
+    },
+    {
+     "s": 8,
+     "t": "Round and plantlike... Oh!"
+    },
+    {
+     "s": 3,
+     "t": "Did that ring a bell, Sudabeh?"
+    },
+    {
+     "s": 8,
+     "t": "Uh, no! That sounds mysterious!"
+    },
+    {
+     "s": 3,
+     "t": "Hmm... That's a shame, because Rana said she would love to know what an Aranara is!"
+    },
+    {
+     "s": 8,
+     "t": "Oh, she wants to know too? Then..."
+    },
+    {
+     "s": 3,
+     "t": "She does! Also, didn't the priestess in the story say, \"Ack-ack-ack! Don't be a tantrum-throwing child who refuses to talk to others!\""
+    },
+    {
+     "sit": "\"Ack-ack-ack!\""
+    },
+    {
+     "s": 8,
+     "t": "Okay... The priestess and the queen are really great friends."
+    },
+    {
+     "s": 8,
+     "t": "But like how they trust each other, I think Rana would understand why I can't say it."
+    },
+    {
+     "s": 8,
+     "t": "When I'm old enough to understand a lot more, I'll tell Rana and you two. But no, not now."
+    },
+    {
+     "sit": "Well, I hope you can grow up healthy and happy."
+    },
+    {
+     "sit": "I'll be old by then."
+    },
+    {
+     "s": 8,
+     "t": "Thanks!"
+    },
+    {
+     "s": 3,
+     "t": "Alright, then, we won't ask more questions. Just be a good girl and don't wander around."
+    },
+    {
+     "s": 8,
+     "t": "Mm-hmm! Thank you for the story, I love it very much. I'm going to be smart, pretty, and strong just like the priestess!"
+    },
+    {
+     "s": 8,
+     "t": "Then I'll marry Rana!"
+    },
+    {
+     "section": "Sudabeh"
+    },
+    {
+     "s": 8,
+     "t": "When I grow up, I want to be strong, smart, very pretty, and take Rana as my bride."
+    },
+    {
+     "section": "Paimon, Rana, Iotham, Kavus, Sudabeh"
+    },
+    {
+     "s": 3,
+     "t": "*sigh* It seems they know about the mysterious creatures but just don't want to tell us..."
+    },
+    {
+     "sit": "Should we divide and conquer them?"
+    },
+    {
+     "sit": "Should we get the adults in town to pressure them?"
+    },
+    {
+     "sit": "Just treat it as a secret between these kids."
+    },
+    {
+     "s": 3,
+     "t": "Come on, they're kids, not villains! Just treat it as a secret they don't want the adults to know."
+    },
+    {
+     "s": 3,
+     "t": "We're staying in Sumeru for a while and will have time to look into it."
+    },
+    {
+     "s": 0,
+     "t": "I'm back! How did it go? Was it fun?"
+    },
+    {
+     "s": 6,
+     "t": "It was fun! They told us a story. Dragons actually don't eat people, Rana!"
+    },
+    {
+     "s": 0,
+     "t": "Oh yeah? That's good to hear. I was worried a dragon might fly over here and eat you all some day!"
+    },
+    {
+     "s": 6,
+     "t": "Oh no!"
+    },
+    {
+     "s": 3,
+     "t": "Storytelling is kinda fun!"
+    },
+    {
+     "sit": "I think so too."
+    },
+    {
+     "sit": "I'm beat."
+    },
+    {
+     "s": 0,
+     "t": "Okay, you should go home now. It's about time to eat. Iosaphat said he caught good stuff in the water today!"
+    },
+    {
+     "s": 7,
+     "t": "Come with us, Rana! And both of you too!"
+    },
+    {
+     "s": 0,
+     "t": "We've got business to tend to, but thanks for the invite."
+    },
+    {
+     "s": 8,
+     "t": "I want to eat with Rana..."
+    },
+    {
+     "s": 0,
+     "t": "I'll be there next time! Come on, you've got to go now or Iosaphat is going to finish it all by himself!"
+    },
+    {
+     "s": 6,
+     "t": "Okay! Bye, Rana, bye, you two!"
+    },
+    {
+     "s": 0,
+     "t": "Stick around for a minute, Iotham. I want to talk to you."
+    },
+    {
+     "s": 0,
+     "t": "I'm concerned about you. The forest hasn't been the same lately. The animals are getting aggressive and more Fungi have popped up. Same with the Withering Zones, which keep appearing."
+    },
+    {
+     "s": 0,
+     "t": "Don't go picking mushrooms anymore, okay, Iotham?"
+    },
+    {
+     "s": 6,
+     "t": "Don't worry, I know where's safe and not safe. What's more, Starshrooms are tasty, and they give you the energy to keep working hard."
+    },
+    {
+     "s": 0,
+     "t": "No, Granny Jehiet and I are both worried. Promise me that you won't run around out there before I figure out what's going on."
+    },
+    {
+     "s": 6,
+     "t": "Okay..."
+    },
+    {
+     "s": 0,
+     "t": "That's a good boy, Iotham. You'll be great when you grow up. All right, go eat with Kavus and others."
+    },
+    {
+     "s": 6,
+     "t": "Got it."
+    },
+    {
+     "s": 0,
+     "t": "I hope they'll grow up safe and sound."
+    },
+    {
+     "s": 0,
+     "t": "What do you think about these kids, {NICKNAME}?"
+    },
+    {
+     "sit": "I've seen worse."
+    },
+    {
+     "sit": "They're good kids."
+    },
+    {
+     "sit": "Paimon's better."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, I understand. Regardless, I hope they'll grow up safe and sound."
+    },
+    {
+     "s": 0,
+     "t": "My patrol is actually not done yet. I've still got to check out the west, and..."
+    },
+    {
+     "s": 0,
+     "t": "And I have a favor to ask. {NICKNAME} and Paimon, would you mind coming with me?"
+    },
+    {
+     "s": 3,
+     "t": "Eh? Why?"
+    },
+    {
+     "s": 0,
+     "t": "I spotted some Withering Zones there with no one to check them. I'm very worried about kids wandering into one. {NICKNAME}, now that you're here, will you give me a hand with that?"
+    },
+    {
+     "s": 0,
+     "t": "Please, though I have nothing to repay you with..."
+    },
+    {
+     "sit": "I'll take that nice axe of yours."
+    },
+    {
+     "sit": "Piece of cake."
+    },
+    {
+     "sit": "We have nothing else to do anyway."
+    },
+    {
+     "s": 3,
+     "t": "Hey! He(She) is only joking. We don't need payment, right, {NICKNAME}?"
+    },
+    {
+     "s": 0,
+     "t": "So you will help? I really appreciate it! I don't know how I can make it up to you. You've done so much for me..."
+    },
+    {
+     "s": 3,
+     "t": "Well, we're not going to ignore those in need."
+    },
+    {
+     "s": 0,
+     "t": "Mm! Let's go, then!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "The best thing about my house is that I can sneak out of it without anyone noticing. That's how I've been running off all the time since I was a kid."
+    },
+    {
+     "s": 0,
+     "t": "Alright, back to business. {NICKNAME}, let's go whenever you are ready!"
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "sit": "I need to take care of some things first."
+    },
+    {
+     "s": 0,
+     "t": "Sure! It's not far to the west."
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Come on, {NICKNAME}, let's go whenever you are ready!"
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "sit": "I need to take care of some things first."
+    },
+    {
+     "s": 0,
+     "t": "Sure! It's not far to the west."
+    }
+   ],
+   "description": "The woman who goes by the name of Rana seems to be a Forest Watcher of Sumeru. Accept her invitation and travel to Vimara Village."
+  }
+ ],
+ "speakers": [
+  "Rana",
+  "Alphonso",
+  "Bahram",
+  "Paimon",
+  "Amadhiah",
+  "Iosaphat",
+  "Iotham",
+  "Kavus",
+  "Sudabeh",
+  "Jehiet"
+ ]
+}

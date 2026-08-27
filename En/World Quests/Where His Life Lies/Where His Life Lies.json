@@ -1,0 +1,665 @@
+{
+ "chapter": "Where His Life Lies",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Where His Life Lies",
+ "region": null,
+ "quests": [
+  {
+   "title": "Where His Life Lies",
+   "dialogue": [
+    {
+     "section": "Lutong, Garcia"
+    },
+    {
+     "s": 0,
+     "t": "...Sir, perhaps we should go to Petrichor Village first."
+    },
+    {
+     "s": 0,
+     "t": "Though Messrs. Xavier and Félix are not there, Messrs. Mécantre and Babisse should still be in the village."
+    },
+    {
+     "s": 0,
+     "t": "Mayhap they can give you some suggestions or inspire you. Even in the worst-case scenario, you'll have two receptacles to pour your troubles into."
+    },
+    {
+     "s": 1,
+     "t": "No, my dear Lutong, no... Mécantre and Babisse's research is now blazing brightly, blazing a trail like a wildfire through dry tinder."
+    },
+    {
+     "s": 1,
+     "t": "In their last letter to me, they indicated that an intelligent man from the Fontaine Research Institute had arrived in Petrichor."
+    },
+    {
+     "s": 1,
+     "t": "This Mr. Bossuet fellow is quite knowledgeable and perceptive, and helped them resolve a number of issues..."
+    },
+    {
+     "s": 1,
+     "t": "And as for me... *sigh*"
+    },
+    {
+     "sit": "Garcia?"
+    },
+    {
+     "sit": "You've returned to Fontaine?"
+    },
+    {
+     "s": 0,
+     "t": "Truly an unexpected meeting, {NICKNAME}. We never imagined we'd see you in Fontaine."
+    },
+    {
+     "s": 0,
+     "t": "Though... your timing is... as impeccable as always."
+    },
+    {
+     "s": 1,
+     "t": "Indeed, truly impeccable timing... But still, we are happy to see you, {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "Whoa, they look exhausted! Such dark circles around their eyes... It's like they don't have any energy left at all!"
+    },
+    {
+     "sit": "What's wrong, Garcia?"
+    },
+    {
+     "s": 0,
+     "t": "Our... erm... His research encountered some... unprecedented problems."
+    },
+    {
+     "s": 0,
+     "t": "But it's a very long story... Now, we're planning to go to the Opera Epiclese to help them close their books."
+    },
+    {
+     "s": 0,
+     "t": "After our work is done, we can all find a quiet place to sit down and have a chat."
+    },
+    {
+     "sit": "You still have other work to do?"
+    },
+    {
+     "s": 0,
+     "t": "It can't really be called work. Just being hired here and there to assist with various calculations."
+    },
+    {
+     "s": 0,
+     "t": "The Opera Epiclese recently hosted a whole host of troupes, and urgently need to settle their accounts."
+    },
+    {
+     "s": 0,
+     "t": "So, to earn enough to cover the costs of returning to Petrichor, we... I, in place of Mr. Garcia, will accept the commission."
+    },
+    {
+     "s": 1,
+     "t": "Tch! It's like using a cannon to eradicate an anthill! \"Calculations\" like those are so simple a child could do them. I could do it all in an afternoon even without using the Numbering Machine!"
+    },
+    {
+     "s": 0,
+     "t": "So this is an excellent way to raise funds. Let's set off right away, Sir."
+    },
+    {
+     "s": 0,
+     "t": "By the way, {NICKNAME}, could I trouble you to accompany us?"
+    },
+    {
+     "s": 0,
+     "t": "With your reputation preceding us on the road, perhaps we'll manage to avoid running into any unnecessary trouble."
+    },
+    {
+     "s": 0,
+     "t": "Rest assured, we'll pay you appropriate remuneration for the trouble."
+    },
+    {
+     "sit": "Alright then."
+    },
+    {
+     "sit": "You shouldn't run into any trouble in the city."
+    },
+    {
+     "s": 0,
+     "t": "If I were you, I wouldn't make any hasty assumptions... hehe. At any rate, we should get going."
+    },
+    {
+     "section": "Lutong, Garcia, Kaia"
+    },
+    {
+     "s": 0,
+     "t": "Though it must be said, this opera house is magnificent. It must bring in quite the pretty sum..."
+    },
+    {
+     "s": 1,
+     "t": "The opera house... *sigh* Let's set off and get to work. Once we're done, we'll return to Petrichor Village."
+    },
+    {
+     "s": 1,
+     "t": "When we're back, I'll open up a bakery there and never touch another Numbering Machine again."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Sir..."
+    },
+    {
+     "s": 1,
+     "t": "What's wrong, Lutong? You look like you've seen a ghost!"
+    },
+    {
+     "s": 1,
+     "t": "It really is... a ghost..."
+    },
+    {
+     "s": 3,
+     "t": "Garcia...?"
+    },
+    {
+     "s": 2,
+     "t": "Ms. Kaia!? What's she doing here?"
+    },
+    {
+     "sit": "Isn't this quite the coincidence..."
+    },
+    {
+     "s": 0,
+     "t": "Sir, what you just said wasn't particularly polite."
+    },
+    {
+     "s": 1,
+     "t": "Oh, shut it, Lutong."
+    },
+    {
+     "s": 3,
+     "t": "Garcia... Such a pleasure to bump into you, and you too, {NICKNAME}. Let me guess, you've come to help the opera house settle their accounts?"
+    },
+    {
+     "sit": "Could it be that the account he's planning to settle is..."
+    },
+    {
+     "s": 3,
+     "t": "Of course not! Our troupe has never performed here."
+    },
+    {
+     "s": 3,
+     "t": "From what I know of Garcia though, he's not the type to watch opera in his spare time."
+    },
+    {
+     "s": 3,
+     "t": "So the only reason he'd come to the opera house would be... because he was hired to work here, no?"
+    },
+    {
+     "s": 0,
+     "t": "From the bottom of my heart, I feel you are more suitable to accompany this gentleman than I am, Ms. Kaia."
+    },
+    {
+     "s": 3,
+     "t": "Every one of us is irreplaceable, my dear Lutong."
+    },
+    {
+     "s": 1,
+     "t": "I... uh... I'm very happy to see you Kaia, I..."
+    },
+    {
+     "s": 3,
+     "t": "...You don't look all that happy, I must say. I presume your research hit a snag?"
+    },
+    {
+     "sit": "How'd you figure that out?"
+    },
+    {
+     "s": 3,
+     "t": "Well, he certainly wouldn't be unhappy to see me, or because of you or Lutong..."
+    },
+    {
+     "s": 3,
+     "t": "The only thing that could make him this unhappy is that Numbering Machine."
+    },
+    {
+     "s": 2,
+     "t": "How do you know Garcia so well, Ms. Kaia? You haven't seen each other for so long..."
+    },
+    {
+     "sit": "Perhaps it's her intuition."
+    },
+    {
+     "sit": "Perhaps Garcia's not the toughest nut to crack."
+    },
+    {
+     "s": 0,
+     "t": "Perhaps we should find a café where we can sit down and have a nice leisurely chat? This isn't really something that can be explained in just a few words."
+    },
+    {
+     "s": 1,
+     "t": "I still need to... Uh, I mean, I'm very happy... But we..."
+    },
+    {
+     "s": 0,
+     "t": "Relax, Sir. Those calculations are quite simple, I can handle them all myself."
+    },
+    {
+     "s": 0,
+     "t": "...After all, you can't just make Ms. Kaia stand there and wait for us to finish, can you?"
+    },
+    {
+     "s": 3,
+     "t": "Thank you, Lutong, you're very considerate. We'll bring you back a cup of coffee."
+    },
+    {
+     "s": 0,
+     "t": "Thank you, Miss. Enjoy your drink with Mr. Garcia."
+    },
+    {
+     "sit": "Kaia and Garcia leave together..."
+    },
+    {
+     "s": 2,
+     "t": "So they're off for coffee, just like that...? This whole thing had nothing to do with us from the start!"
+    },
+    {
+     "sit": "Nothing to do with us at all..."
+    },
+    {
+     "sit": "...So what are we even doing here?"
+    },
+    {
+     "s": 0,
+     "t": "Not so, {NICKNAME}. What comes next is your actual commission."
+    },
+    {
+     "sit": "Do I have to fetch cooking ingredients?"
+    },
+    {
+     "sit": "Do I have to fetch parts?"
+    },
+    {
+     "sit": "Why don't I go take some pictures for them?"
+    },
+    {
+     "s": 0,
+     "t": "Very amusing. But I don't intend to waste your time."
+    },
+    {
+     "s": 0,
+     "t": "Mr. Garcia and I... We're actually in danger right now."
+    },
+    {
+     "s": 2,
+     "t": "Eh... Eh!?"
+    },
+    {
+     "s": 0,
+     "t": "Let's discuss it over there."
+    },
+    {
+     "section": "Lutong"
+    },
+    {
+     "s": 0,
+     "t": "...We should be fine here."
+    },
+    {
+     "s": 0,
+     "t": "Let me start from the beginning. Since you helped us with the Numbering Machine in Sumeru, its performance has come on leaps and bounds."
+    },
+    {
+     "s": 0,
+     "t": "Naturally, Mr. Garcia was very excited, and wanted to continue improving it. But as he said, the transmission structure of traditional mechanisms is actually quite limited..."
+    },
+    {
+     "s": 0,
+     "t": "We were no longer making any new performance breakthroughs with this Numbering Machine, so we decided to return to Fontaine to search for new inspiration and research ideas."
+    },
+    {
+     "s": 0,
+     "t": "But after we returned, Mr. Garcia was approached by a strange fellow."
+    },
+    {
+     "s": 0,
+     "t": "He claimed he could provide research funds, and even help Mr. Garcia find other research partners."
+    },
+    {
+     "s": 0,
+     "t": "But there was a catch — he wanted Mr. Garcia to share all of his designs and data with him."
+    },
+    {
+     "sit": "There's no way Garcia would accept that."
+    },
+    {
+     "sit": "Sounds like he was up to no good."
+    },
+    {
+     "s": 2,
+     "t": "Yeah! Asking someone to hand over their research findings right from the get-go, surely that's just theft plain and simple!?"
+    },
+    {
+     "s": 0,
+     "t": "Exactly. So Mr. Garcia emphatically refused the offer."
+    },
+    {
+     "s": 0,
+     "t": "But afterwards, it seemed as though there was someone following us."
+    },
+    {
+     "s": 0,
+     "t": "Someone even broke into our room while we were out and searched our belongings."
+    },
+    {
+     "s": 0,
+     "t": "They took great care to put everything back in place as it was, but Mr. Garcia discovered traces of their actions."
+    },
+    {
+     "s": 2,
+     "t": "S—Scary... So because you wouldn't give it to him, now he just wants to take it!?"
+    },
+    {
+     "s": 0,
+     "t": "After we discovered our room had been searched like that, we decided to raise enough money to get out of here and return to Petrichor as soon as possible."
+    },
+    {
+     "s": 0,
+     "t": "Once we arrive, our plan is to contact the other esteemed gentlemen of the Daydream Club and find a way to solve this problem together."
+    },
+    {
+     "s": 0,
+     "t": "And Petrichor is... hehe, well let's just say it's Mr. Garcia's home turf."
+    },
+    {
+     "s": 0,
+     "t": "For him, there's no safer place to be."
+    },
+    {
+     "s": 0,
+     "t": "Today is the day that we planned to set off for Petrichor, so we hoped you would come along as protection."
+    },
+    {
+     "s": 0,
+     "t": "We never thought we'd run into Ms. Kaia here... For safety's sake, all I could do was have Mr. Garcia take her back to the city."
+    },
+    {
+     "sit": "What can I do?"
+    },
+    {
+     "sit": "How can I help?"
+    },
+    {
+     "s": 0,
+     "t": "It appears we must delay our departure. Please go find Mr. Garcia, and quickly. Just like I said before..."
+    },
+    {
+     "s": 0,
+     "t": "With your reputation preceding us on the road, perhaps we'll manage to avoid running into any unnecessary trouble."
+    },
+    {
+     "sit": "I'll go over there right away."
+    },
+    {
+     "sit": "They're not in any real danger, are they?"
+    },
+    {
+     "s": 0,
+     "t": "Mr. Garcia will apprise Ms. Kaia of the situation. As for what comes next... that will be for Ms. Kaia to decide."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, we should head back to the city as soon as possible."
+    },
+    {
+     "section": "Lutong"
+    },
+    {
+     "s": 0,
+     "t": "...As expected, they're keeping a close eye on Mr. Garcia."
+    },
+    {
+     "s": 0,
+     "t": "See the man with the hat in front of him, beside that table next to the counter."
+    },
+    {
+     "s": 0,
+     "t": "I'm certain that he's the one who's been following us these past few days."
+    },
+    {
+     "sit": "I'll go call the Gardes."
+    },
+    {
+     "sit": "Seriously, just call the Gardes."
+    },
+    {
+     "s": 0,
+     "t": "That sounds like the wisest course of action... and there just so happens to be a Garde nearby."
+    },
+    {
+     "s": 0,
+     "t": "We reported this case to Garde Menthe before, so she already knows what's been going on."
+    },
+    {
+     "s": 0,
+     "t": "I'm sure she'll be willing to help us. With a member of the Gardes present, I doubt they'll try anything too extreme."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, please have a word with Garde Menthe. I'll go speak with Mr. Garcia."
+    },
+    {
+     "s": 0,
+     "t": "Let's get going then."
+    },
+    {
+     "section": "Menthe"
+    },
+    {
+     "s": 4,
+     "t": "Hello, how may I help you?"
+    },
+    {
+     "sit": "Well, long story short..."
+    },
+    {
+     "sit": "You tell Officer Menthe all that has happened..."
+    },
+    {
+     "s": 4,
+     "t": "Ah, so it's about Mr. Garcia. I understand, let's head over together."
+    },
+    {
+     "s": 4,
+     "t": "At the very least, let's scare off that suspicious fellow first."
+    },
+    {
+     "section": "Lutong"
+    },
+    {
+     "s": 0,
+     "t": "At your service, dear {NICKNAME}."
+    },
+    {
+     "sit": "What do you plan to do next?"
+    },
+    {
+     "sit": "Anyway, isn't Garcia's research at a dead end?"
+    },
+    {
+     "sit": "Goodbye."
+    },
+    {
+     "s": 0,
+     "t": "It appears we must ascertain the identity of those people."
+    },
+    {
+     "s": 0,
+     "t": "Although we've already reported the case to the Gardes, there's little they can do without any leads to follow up."
+    },
+    {
+     "s": 0,
+     "t": "Plus, the Court of Fontaine is far too large for the Gardes to protect us everywhere we go."
+    },
+    {
+     "s": 0,
+     "t": "And now that we've gotten Kaia involved... it's become even more complicated."
+    },
+    {
+     "s": 0,
+     "t": "I hope Mr. Garcia can convince Ms. Kaia to leave Fontaine. That way, we can proceed with our original plan."
+    },
+    {
+     "section": "Kaia, Garcia"
+    },
+    {
+     "s": 3,
+     "t": "...What's up? Why do you look so upset?"
+    },
+    {
+     "s": 1,
+     "t": "I... I'm just... It's nothing. Perhaps this coffee is a bit too strong..."
+    },
+    {
+     "section": "Suspicious Man"
+    },
+    {
+     "s": 5,
+     "t": "...What is it? Has something happened?"
+    },
+    {
+     "section": "Garcia, Menthe, Lutong, Kaia"
+    },
+    {
+     "s": 1,
+     "t": "...Thank you, Garde Menthe. That scoundrel left as soon as he caught sight of you."
+    },
+    {
+     "s": 4,
+     "t": "I was merely doing my job."
+    },
+    {
+     "s": 0,
+     "t": "Sir, it appears we must vacate this city quickly, and return to Petrichor with all due haste."
+    },
+    {
+     "s": 0,
+     "t": "I believe they're gradually losing their patience and may... resort to drastic measures."
+    },
+    {
+     "s": 4,
+     "t": "I shall escalate this matter to my superiors. You should have a response within a few days."
+    },
+    {
+     "s": 4,
+     "t": "Ideally, we'll be able to assign a few officers to escort you."
+    },
+    {
+     "s": 4,
+     "t": "Unfortunately, however, our resources are limited and we have affairs to take care of within the city. So we'll only be able to escort you part of the route, not all the way to Petrichor..."
+    },
+    {
+     "s": 4,
+     "t": "Also, you should find somewhere safe to stay before you leave. Discussing this matter... may take some time."
+    },
+    {
+     "sit": "Leave the escorting to me."
+    },
+    {
+     "sit": "I can protect them."
+    },
+    {
+     "s": 0,
+     "t": "Thank you. With you by our side, they won't dare do anything too rash."
+    },
+    {
+     "s": 2,
+     "t": "But doesn't Kaia work with the troupe? If you guys go to Petrichor, then what about her?"
+    },
+    {
+     "s": 3,
+     "t": "I shall go with them."
+    },
+    {
+     "s": 1,
+     "t": "What!?"
+    },
+    {
+     "s": 0,
+     "t": "Miss, I mean this sincerely, from the bottom of my heart. Please, don't..."
+    },
+    {
+     "s": 3,
+     "t": "My dear Lutong, don't even bother. I'm just like your boss, you know — I simply can't be persuaded."
+    },
+    {
+     "s": 1,
+     "t": "B—But we have no idea what kind of dangers we may encounter..."
+    },
+    {
+     "s": 3,
+     "t": "All the more reason for me to come with you! Or are you intending to abandon me again like last time, left holding nothing but a composition with neither beginning nor end?"
+    },
+    {
+     "s": 3,
+     "t": "Moreover, our troupe director is quite curious about your machine-generated music..."
+    },
+    {
+     "s": 3,
+     "t": "I'm sure he'd be in favor of my coming along. Very well then, I've said my piece. Where shall we go next?"
+    },
+    {
+     "s": 2,
+     "t": "J—Just like in Sumeru, Kaia completely steamrolled Garcia..."
+    },
+    {
+     "sit": "Garcia doesn't stand a chance against her..."
+    },
+    {
+     "s": 0,
+     "t": "Perhaps it's because Mr. Garcia doesn't even want to win..."
+    },
+    {
+     "s": 1,
+     "t": "*cough* Lutong! Let us hurry, we must find a suitable place to stay! Preferably somewhere with lots of people."
+    },
+    {
+     "s": 0,
+     "t": "Somewhere with lots of people... Perhaps we could try..."
+    },
+    {
+     "s": 3,
+     "t": "The hotel where our troupe is staying? It's quite busy, and we all know each other."
+    },
+    {
+     "s": 3,
+     "t": "If any strangers try to sneak into our midst, they'll be discovered immediately. Also, our troupe director will certainly want to learn more about your Numbering Machine."
+    },
+    {
+     "s": 1,
+     "t": "Uh..."
+    },
+    {
+     "s": 0,
+     "t": "Then it's settled! Excellent, all of our problems have been solved."
+    },
+    {
+     "s": 1,
+     "t": "All of our problems!?"
+    },
+    {
+     "s": 0,
+     "t": "That's that then. {NICKNAME}, please take this. Consider it an advance deposit for your services."
+    },
+    {
+     "s": 0,
+     "t": "I don't know when we'll be able to set off... but when the time comes, I'm counting on you."
+    },
+    {
+     "s": 1,
+     "t": "But... Why do I feel like we have even more problems than before!?"
+    }
+   ],
+   "description": "You see a familiar face in the Court of Fontaine…"
+  }
+ ],
+ "speakers": [
+  "Lutong",
+  "Garcia",
+  "Paimon",
+  "Kaia",
+  "Menthe",
+  "Suspicious Man"
+ ]
+}

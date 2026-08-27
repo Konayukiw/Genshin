@@ -1,0 +1,3278 @@
+{
+ "chapter": "Animula Choragi Chapter",
+ "chapter_title": "“The Little Oceanid”",
+ "act": "Act 1",
+ "act_title": "“The Little Oceanid”",
+ "region": null,
+ "quests": [
+  {
+   "title": "To Yesterday",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Hey, Katheryne, it's us! Got any new commissions? Specifically, one with a huge Mora tag, perhaps...?"
+    },
+    {
+     "sit": "You didn't have to be so direct..."
+    },
+    {
+     "sit": "The more lucrative, the better!"
+    },
+    {
+     "s": 0,
+     "t": "Eh, Paimon's just being enthusiastic. We're old friends now, she gets it!"
+    },
+    {
+     "s": 1,
+     "t": "Hehe, it's always a pleasure to see our two most avid adventurers again. Looking for the next challenge, I see."
+    },
+    {
+     "s": 1,
+     "t": "Actually, we do in fact have a rather urgent commission that is still open. Having read the details, however, I don't believe you'd consider it to be \"lucrative\"..."
+    },
+    {
+     "s": 0,
+     "t": "Um, don't worry about that. We were just kidding. So what's the situation?"
+    },
+    {
+     "s": 1,
+     "t": "To put it simply, the requester is looking for a temporary replacement actress for their musical. The original cast member ran into some issues, and is currently unable to perform the role."
+    },
+    {
+     "s": 1,
+     "t": "But the troupe has also been experiencing some financial difficulties, so unfortunately they cannot afford to pay the replacement actress..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... That does sound like a tricky situation. So basically, they're looking for a volunteer?"
+    },
+    {
+     "s": 1,
+     "t": "That's right. Our adventurers reached out to many actresses, but none of them were willing to take the job."
+    },
+    {
+     "s": 1,
+     "t": "There are only a few days left until the performance. If they can't find someone in time, they'll probably have to postpone the show. And delays tend to create all sorts of new problems..."
+    },
+    {
+     "s": 0,
+     "t": "Got it... Oh... This one's a doozy. What do you think, {NICKNAME}? Any ideas?"
+    },
+    {
+     "s": 0,
+     "t": "Even if we took the commission, neither of us have any experience starring in musicals..."
+    },
+    {
+     "s": 2,
+     "t": "Very true..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm... If you're interested in helping, why not start by having a chat with the requester? He's right over there."
+    },
+    {
+     "s": 1,
+     "t": "Maybe you can't fill the role yourselves, but you might be able to help him figure out another solution. Maybe there's something he hasn't thought of."
+    },
+    {
+     "s": 0,
+     "t": "Ohh, it's that guy, huh? No wonder he looks like he just ate a sour lemon."
+    },
+    {
+     "sit": "Got it."
+    },
+    {
+     "sit": "We'll go talk to him."
+    },
+    {
+     "s": 0,
+     "t": "Paimon approves. Let's go!"
+    },
+    {
+     "s": 0,
+     "t": "Hello there! Are you the guy looking for a new actress?"
+    },
+    {
+     "s": 3,
+     "t": "Wait... I know you two! Are you really willing to act in my musical!?"
+    },
+    {
+     "s": 0,
+     "t": "Wow, sounds like we're pretty famous in Fontaine already! Heehee."
+    },
+    {
+     "s": 0,
+     "t": "Uh... But to answer your question, neither of us have any experience in musicals... But we heard that you're in a bit of a bind, so we figured we could at least try to help you think of a solution."
+    },
+    {
+     "s": 3,
+     "t": "Ah, I see... It's okay, I knew that asking for a volunteer was a long shot."
+    },
+    {
+     "s": 3,
+     "t": "If we can't find someone to step in, we'll have no choice but to cancel the show... It would be such a shame."
+    },
+    {
+     "s": 2,
+     "t": "Can't you cover the budget for a new actress with ticket fees?"
+    },
+    {
+     "s": 3,
+     "t": "*sigh* That's the thing... We're not some high-profile theater troupe. Just a group of amateur enthusiasts."
+    },
+    {
+     "s": 3,
+     "t": "All our sets and props are very crude. We're grateful enough just to get an audience, never mind ticket fees."
+    },
+    {
+     "s": 3,
+     "t": "If we had a way to make this profitable, things might've turned out differently... But now it looks inevitable that we'll disband."
+    },
+    {
+     "s": 0,
+     "t": "Disband? You're splitting up the troupe?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, I guess the lady at the Adventurers' Guild didn't tell you? Yeah... This is supposed to be our final show together as a troupe."
+    },
+    {
+     "s": 3,
+     "t": "One last show, and after that, we go our separate ways. So we were really hoping to end on a high note."
+    },
+    {
+     "s": 3,
+     "t": "Nobody wants things to just... fizzle out. Not after all the time and effort we've invested into it."
+    },
+    {
+     "s": 2,
+     "t": "Katheryne mentioned that one of your actresses can't make it?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah... the leading lady, in fact. She's been dealing with a chronic illness ever since childhood, and unfortunately it flared up again recently. It really drains all her energy, so she's in no state to perform."
+    },
+    {
+     "s": 3,
+     "t": "The show just won't be the same without her... But for everyone else's sake, I still hope we can find a way to hold the performance on schedule."
+    },
+    {
+     "s": 0,
+     "t": "Got it. We have a clearer picture now... Um... Let's see if we can come up with any ideas."
+    },
+    {
+     "s": 0,
+     "t": "Uh... What if we sponsored the show? Um... Traveler, how much Mora are you carrying?"
+    },
+    {
+     "s": 3,
+     "t": "Ah, please, there's no need to go that far. I wouldn't feel right asking such a huge favor, and I can't promise that we'd ever be able to pay you back."
+    },
+    {
+     "sit": "Mora isn't the biggest problem..."
+    },
+    {
+     "sit": "How do we find someone who's a good fit for the role?"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, good point. If the actress just goes through the motions for the Mora, that's not exactly rescuing the show."
+    },
+    {
+     "s": 0,
+     "t": "We should find someone who'll put on the best performance possible. Hmm... Ooh, wait! What about you-know-who...?"
+    },
+    {
+     "s": 2,
+     "t": "Great minds think alike. I was just thinking that."
+    },
+    {
+     "s": 0,
+     "t": "Haha, that's how you know we're the best of partners! Anyway, she should have all the free time in the world right now."
+    },
+    {
+     "s": 0,
+     "t": "She's really good at performing, and she was once super popular with the crowd... performing in a musical should be a piece of cake for her!"
+    },
+    {
+     "s": 3,
+     "t": "Who are you thinking of? Sounds like someone famous...?"
+    },
+    {
+     "s": 2,
+     "t": "Furina."
+    },
+    {
+     "s": 3,
+     "t": "Her!? You're... That was a joke, right?"
+    },
+    {
+     "s": 0,
+     "t": "Um... Nope. Paimon doesn't actually know if she's performed on stage before, but Paimon's pretty confident that she'd be really good at it."
+    },
+    {
+     "s": 3,
+     "t": "You're not wrong there... She has actually performed in a number of big-name shows before. They were one of the reasons she was so popular..."
+    },
+    {
+     "s": 3,
+     "t": "But even if she's no longer the Hydro Archon, it's not like she's suddenly a commoner."
+    },
+    {
+     "s": 3,
+     "t": "She's still an idol to many people in Fontaine, including myself... I just think Lady Furina might feel a bit out of place in an amateur troupe like ours."
+    },
+    {
+     "sit": "You want the show to go ahead, don't you?"
+    },
+    {
+     "sit": "Are you prepared to do whatever it takes?"
+    },
+    {
+     "s": 3,
+     "t": "Well yes, but... but..."
+    },
+    {
+     "s": 3,
+     "t": "Huh... Fair enough, I mean, if she was actually willing to, then of course I'd be honored to have Lady Furina star in our show. I'm sure the rest of the troupe would be delighted too."
+    },
+    {
+     "s": 3,
+     "t": "I'm sure everyone in our troupe has probably dreamt of performing on stage with her one day."
+    },
+    {
+     "s": 3,
+     "t": "Of course, it all depends on whether she's interested... She might consider this opportunity beneath her..."
+    },
+    {
+     "s": 0,
+     "t": "No point stressing about that. We'll only know if we ask her."
+    },
+    {
+     "s": 0,
+     "t": "And besides, things are different now. There's no reason for her to be all high and mighty anymore."
+    },
+    {
+     "s": 2,
+     "t": "Let's go. It'll be good to check in on her anyway."
+    },
+    {
+     "s": 3,
+     "t": "Thank you for your help... I guess I'll just stay here and wait for the good news. Good luck!"
+    },
+    {
+     "s": 0,
+     "t": "...Wait, where does Furina actually live nowadays? She used to live in luxury at the Palais Mermonia, but she's, uh... moved out, right?"
+    },
+    {
+     "s": 1,
+     "t": "As it happens, I have her current address here. I can provide it to you."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, when did you get here!?"
+    },
+    {
+     "s": 1,
+     "t": "Hehe, I came over when things were starting to sound more promising. I thought I should be at the ready in case my assistance is needed."
+    },
+    {
+     "s": 1,
+     "t": "It is my duty to support commissioners in any way I can."
+    },
+    {
+     "s": 3,
+     "t": "Thank you, Ma'am... Thank you so much."
+    },
+    {
+     "s": 0,
+     "t": "Well, now that we've got the address, we'll go find Furina. Back in a jiffy!"
+    },
+    {
+     "s": 2,
+     "t": "Are you prepared to do whatever it takes?"
+    },
+    {
+     "s": 2,
+     "t": "How do we find someone who's a good fit for the role?"
+    },
+    {
+     "s": 2,
+     "t": "We'll go talk to him."
+    },
+    {
+     "s": 2,
+     "t": "The more lucrative, the better!"
+    },
+    {
+     "s": 0,
+     "t": "You know we're worth it! For quality work and speedy results, choose the Paimon and the Traveler!"
+    },
+    {
+     "section": "Furina"
+    },
+    {
+     "s": 0,
+     "t": "Uhh... Did Katheryne really give us the right address? She lives... here?"
+    },
+    {
+     "s": 0,
+     "t": "N—Not that there's anything wrong with this place, it's just, uh... a bit of a step down from the Palais Mermonia."
+    },
+    {
+     "s": 4,
+     "t": "You know, it's common courtesy to make sure the homeowner isn't in earshot when you're denigrating their abode."
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Okay, when did popping out of thin air become all the rage!? First Katheryne, and now you..."
+    },
+    {
+     "s": 4,
+     "t": "I was just out on a shopping trip. I ran out of macaroni, so I went to grab a few more bags."
+    },
+    {
+     "s": 4,
+     "t": "I used to have a much wider range of choices when it came to food, but now, I'm finding that simple, traditional home cooking can be quite delicious too."
+    },
+    {
+     "s": 2,
+     "t": "...Don't you get sick of macaroni every day?"
+    },
+    {
+     "s": 4,
+     "t": "Not at all. As long as you have different kinds of sauces in, you can have macaroni and tomato sauce one week, macaroni and bolognese the next..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, sounds like you're really struggling to cope..."
+    },
+    {
+     "s": 2,
+     "t": "Is it because you have to do all your own cooking now?"
+    },
+    {
+     "s": 4,
+     "t": "How rude! Questioning my cooking skills, the audacity!"
+    },
+    {
+     "s": 4,
+     "t": "It's not like I have a very eventful life these days. Actually, I barely leave the house. So I don't see how it's unusual that my meals are a little simpler now too."
+    },
+    {
+     "s": 4,
+     "t": "Besides, I'm sure I could master dishes like \"La Lettre a Focalors\" or \"Blubber Profiteroles\" in no time. If I felt so inclined."
+    },
+    {
+     "s": 0,
+     "t": "Ah, there it is. You don't know how to cook!"
+    },
+    {
+     "s": 4,
+     "t": "Pff, not yet, maybe, but... Anyway! What are you even doing here? I do hope you didn't come here just to ogle at my fall from grace?"
+    },
+    {
+     "s": 4,
+     "t": "Let me first be clear that I'm not taking guests at this time. So if you're just here to clown around, then please be on your way! Shoo!"
+    },
+    {
+     "s": 0,
+     "t": "Sorry, we're sorry! Please don't be mad!"
+    },
+    {
+     "s": 2,
+     "t": "Paimon was just showing concern for your wellbeing."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, exactly. What {NICKNAME} said! Paimon wasn't trying to make fun of you."
+    },
+    {
+     "s": 0,
+     "t": "...Hang on a sec, you weren't exactly holding back either!"
+    },
+    {
+     "sit": "That's not important."
+    },
+    {
+     "sit": "We actually came here to ask you for your help..."
+    },
+    {
+     "s": 4,
+     "t": "My help, hmm? Well, maybe you're forgetting that I'm no longer the mighty Hydro Archon. I don't even have a Vision, you know."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry, it's nothing that serious! It's just very specific, and you're the one with the power to help."
+    },
+    {
+     "sit": "If not you, then no one."
+    },
+    {
+     "sit": "You're the only person for the job."
+    },
+    {
+     "s": 4,
+     "t": "Oh? Well, if that's the case, then... fine, I'll spare you the lecture about your attitude just now."
+    },
+    {
+     "s": 4,
+     "t": "So tell me. What, specifically, makes this matter so... specific?"
+    },
+    {
+     "sit": "You tell Furina about the troupe's plans for its final performance."
+    },
+    {
+     "s": 4,
+     "t": "Ah, I see... I knew you couldn't have come all this way just to amuse yourselves at my expense."
+    },
+    {
+     "s": 4,
+     "t": "After all, I was once the brightest star in all of Fontaine, well-versed in all the various performing arts. A mere musical is well within my capabilities..."
+    },
+    {
+     "s": 4,
+     "t": "...But given the present circumstances, I'm afraid I must regretfully decline your casting request."
+    },
+    {
+     "s": 0,
+     "t": "How come? It sounds like this'd be a breeze for you."
+    },
+    {
+     "s": 4,
+     "t": "True, but I have made a decision to retire from the stage."
+    },
+    {
+     "s": 4,
+     "t": "Although I am no longer required to play the role of the Hydro Archon, the time I spent inhabiting that character has left an indelible mark on me."
+    },
+    {
+     "s": 4,
+     "t": "Centuries of pretending to be a different person changes you completely. I'm not the same person I once was."
+    },
+    {
+     "s": 4,
+     "t": "Of course, that can't be undone now. It's too late, and I have no intention of reinventing myself all over again."
+    },
+    {
+     "s": 4,
+     "t": "But at least I can say that I no longer desire to play any new roles."
+    },
+    {
+     "s": 2,
+     "t": "So that's how you really feel..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon can understand..."
+    },
+    {
+     "s": 0,
+     "t": "But this is just a one-off part to fill in for someone who's sick. Surely that's okay?"
+    },
+    {
+     "s": 4,
+     "t": "Whether it's a one-off or not, it's a boundary that I've committed to no longer cross."
+    },
+    {
+     "s": 4,
+     "t": "If I make an exception to the rule now, I'm just leaving a backdoor for myself. Which would be the same as not having a boundary in the first place."
+    },
+    {
+     "s": 4,
+     "t": "So I'm not going to perform, and that is that."
+    },
+    {
+     "s": 0,
+     "t": "Okay, guess there's no convincing you... Well, is there anything else we can do to help out the troupe? Otherwise, they'll just have to disband without any fanfare..."
+    },
+    {
+     "s": 0,
+     "t": "Do you know any other actors who might be interested in the role?"
+    },
+    {
+     "s": 4,
+     "t": "Nope."
+    },
+    {
+     "s": 0,
+     "t": "Short and to the point, okay..."
+    },
+    {
+     "s": 4,
+     "t": "I've never been great at maintaining relationships. Besides, anyone I've ever worked with probably couldn't wait to get rid of me..."
+    },
+    {
+     "s": 4,
+     "t": "Since I'm just an ordinary person now. They'll probably just laugh in my face if I go asking them for help..."
+    },
+    {
+     "sit": "You shouldn't assume the worst of people."
+    },
+    {
+     "sit": "What's wrong with making one exception?"
+    },
+    {
+     "s": 4,
+     "t": "True, but.. I mean, could you even blame them? I show up out of the blue, begging and groveling for their help with a show they won't even get paid for? ...*shudders* No way, I'm dying from embarassment just thinking about it. Nope, not happening!"
+    },
+    {
+     "s": 0,
+     "t": "Well... Is there anything else we can do? This performance really means a lot to the guy we're working for..."
+    },
+    {
+     "s": 4,
+     "t": "Have I not made myself clear? You're barking up the wrong tree. I don't want this job, nor do I know of anyone else who would."
+    },
+    {
+     "s": 4,
+     "t": "...Sorry, I didn't mean for that to sound so harsh. I wish I could help, really. But if I thought I had the answer to this problem, I would've said so by now."
+    },
+    {
+     "s": 0,
+     "t": "It's alright, Furina. Paimon just wanted to make sure we tried everything. *sigh* Everyone in the troupe will be so disappointed..."
+    },
+    {
+     "s": 2,
+     "t": "Let's try to come up with a plan B."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, guess that's all we can do now. Alright then, we'll see you around, Furina..."
+    },
+    {
+     "s": 4,
+     "t": "Toodle-oo to you too. I'm going home to take a rest now."
+    },
+    {
+     "s": 2,
+     "t": "What's wrong with making one exception?"
+    },
+    {
+     "s": 4,
+     "t": "Look, I'm sorry, okay!? I'm sorry I drew a line in the sand without thinking about every possible grain on the other side!"
+    },
+    {
+     "s": 2,
+     "t": "You're the only person for the job."
+    },
+    {
+     "s": 2,
+     "t": "We actually came here to ask you for your help..."
+    },
+    {
+     "section": "Lauwick, Katheryne"
+    },
+    {
+     "s": 3,
+     "t": "I can't believe they're seriously asking Lady Furina. Seems a little over the top..."
+    },
+    {
+     "s": 1,
+     "t": "Try not to worry. May I pour you a glass of water?"
+    },
+    {
+     "section": "Lauwick"
+    },
+    {
+     "s": 0,
+     "t": "Huh? What's going on? Are they arguing?"
+    },
+    {
+     "s": 5,
+     "t": "...That's besides the point. I'll ask you again. Why did you start looking for a replacement without my consent? When did I tell you I'm going to take a step back?"
+    },
+    {
+     "s": 3,
+     "t": "You didn't need to say it... We've known each other for how long now? We know the signs. But you never tell us about your illness even when it's clearly flaring up."
+    },
+    {
+     "s": 5,
+     "t": "And that gives you the right to make a decision on my behalf?"
+    },
+    {
+     "s": 1,
+     "t": "Shortly after you left, the troupe's lead actress came to the Adventurers' Guild. She believes that she's healthy enough to perform."
+    },
+    {
+     "s": 1,
+     "t": "Excuse me, but can you both take a moment to discuss something else for now? The adventurer assigned to your commission has returned."
+    },
+    {
+     "s": 3,
+     "t": "Sorry, I was just dealing with a little misunderstanding. So, how did your conversation with Furina go?"
+    },
+    {
+     "s": 0,
+     "t": "Sadly, it's a no from her. We tried to persuade her, but she wasn't having it. She doesn't want to play the role, for personal reasons."
+    },
+    {
+     "s": 3,
+     "t": "I see... Well, circumstances have changed a little, so maybe that's not such bad news after all."
+    },
+    {
+     "s": 3,
+     "t": "You see, our leading lady has just informed me that she's well enough to make it to the show after all. Staging the musical with the full original cast was always the dream, of course."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right... Sounds like everything worked itself out then."
+    },
+    {
+     "sit": "Imagine if we had managed to convince Furina to join..."
+    },
+    {
+     "sit": "...Only for her to find out she's no longer needed."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, she'd be livid! We'd get the scolding of a lifetime!"
+    },
+    {
+     "s": 5,
+     "t": "Geez... Is Lady Furina really so harsh with people?"
+    },
+    {
+     "s": 0,
+     "t": "Only joking, calm down! ...So, uh, guess we can consider this case closed now, huh?"
+    },
+    {
+     "s": 0,
+     "t": "Despite the fact that we failed to complete the commission... We were still racking our brains for ideas on the way back here, hehe."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* Look, there's no point arguing with you about this any more. You've made yourself very clear, so I'll stop looking for a replacement."
+    },
+    {
+     "s": 3,
+     "t": "This is the last chance we have, though. If your illness flares up again, there won't be time to find anyone to replace you."
+    },
+    {
+     "s": 3,
+     "t": "So, are you absolutely sure you'll be able to handle it? The whole team is putting everything they have into this final performance. We have to make sure it goes ahead."
+    },
+    {
+     "s": 5,
+     "t": "Yes, I'm completely confident. I've been taking a new medication from the doctor, and it's working brilliantly. I'll definitely be able to tough it out until the performance day."
+    },
+    {
+     "s": 5,
+     "t": "I share everyone's desire to commemorate all our years as a troupe with a proper farewell show. So the last thing I want is to be left out."
+    },
+    {
+     "s": 5,
+     "t": "Every one of us thinks of this troupe as their home. Myself included."
+    },
+    {
+     "s": 3,
+     "t": "You're right. I'm sorry — I let myself get too worried about the show. I should have asked for your permission first."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, all's well that ends well! Sounds like the show will go on."
+    },
+    {
+     "s": 2,
+     "t": "Paimon, wait here a second."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Sure."
+    },
+    {
+     "s": 4,
+     "t": "Hey, how did you... I—I was just passing by because... I realized I forgot a couple of items on my shopping list!"
+    },
+    {
+     "s": 4,
+     "t": "...Alright, alright, I'm coming. No need to drag me!"
+    },
+    {
+     "s": 4,
+     "t": "Uh... Ahem, hello one and all. I couldn't help but overhear your conversation just now..."
+    },
+    {
+     "s": 0,
+     "t": "Furina!? Didn't you say you were gonna take a rest at home? What are you doing here?"
+    },
+    {
+     "s": 4,
+     "t": "I... I was just ever so slightly concerned about the situation you mentioned. Yes. A teensy bit concerned, that's all."
+    },
+    {
+     "s": 4,
+     "t": "When you came to talk with me earlier, I jumped right to explaining my position, and said some strongly worded things."
+    },
+    {
+     "s": 4,
+     "t": "And all before I even had a full grasp of the situation... Anyway, I just feel a bit bad about how it went down."
+    },
+    {
+     "s": 4,
+     "t": "I'm sorry, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Oh, it's totally fine! Paimon didn't take any of that personally!"
+    },
+    {
+     "s": 2,
+     "t": "Then why didn't you just show yourself?"
+    },
+    {
+     "s": 4,
+     "t": "...You really have a knack for asking the most uncomfortable questions, don't you..."
+    },
+    {
+     "s": 4,
+     "t": "I felt very sheepish, having had a change of heart after flatly refusing you. And then, to make matters worse, you caught me..."
+    },
+    {
+     "s": 4,
+     "t": "But in any case, it sounds like the issue has already been resolved?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah... When they said they were gonna ask for your help, I almost had a heart attack. I mean, how could we be worthy of having Lady Furina star in our show?"
+    },
+    {
+     "s": 4,
+     "t": "There's no need to think like that, and no need to keep addressing me as \"Lady.\" Just \"Furina\" is fine."
+    },
+    {
+     "s": 4,
+     "t": "I was wondering... if this troupe is so important to all of you, why does it have to disband?"
+    },
+    {
+     "s": 4,
+     "t": "If the difficulties are purely financial, then there must be a solution. You could put the shows on pause while you look for a sponsor, for instance."
+    },
+    {
+     "s": 4,
+     "t": "Everyone seems so devoted to the troupe. I'm sure if you keep chipping away, you'll find a way through."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* We all want to believe that, but... Some things are just beyond our control."
+    },
+    {
+     "s": 5,
+     "t": "...Everything's been going downhill ever since we lost our director. She was the heart and soul of our troupe. She kept us going."
+    },
+    {
+     "s": 3,
+     "t": "Her name was Aurelie, and she was the founder as well as the artistic director of our troupe. And tragically, she... was a victim in the serial disappearances case."
+    },
+    {
+     "s": 4,
+     "t": "What?"
+    },
+    {
+     "s": 3,
+     "t": "That's actually how I recognized these two. It was all thanks to their efforts that the true culprit was brought to justice."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* But still... No sentence can bring our director back to us."
+    },
+    {
+     "s": 5,
+     "t": "She was a loyal fan of your performances, Lady— Uh, Miss Furina. They were what first inspired her to get into musical theater."
+    },
+    {
+     "s": 5,
+     "t": "She rallied many people around her who were destitute or had lost their sense of purpose in life, and convinced them to join her troupe. She wrote her own scripts, acted on stage, and mentored each and every one of us."
+    },
+    {
+     "s": 5,
+     "t": "People loved our performances back then... We seemed to be going from strength to strength. Things were really looking up for us..."
+    },
+    {
+     "s": 4,
+     "t": "And then, disaster struck..."
+    },
+    {
+     "s": 3,
+     "t": "Yeah. After that, the entire troupe fell into disarray."
+    },
+    {
+     "s": 3,
+     "t": "None of us know anything about scriptwriting, let alone how to handle the business side of things. We've been doing the best we can, but despite our efforts, things are slowly but surely falling apart."
+    },
+    {
+     "s": 3,
+     "t": "It's agonizing, but ultimately, we'd rather end things now on our own terms than stick it out to the bitter end and watch all our dreams turn to dust."
+    },
+    {
+     "s": 0,
+     "t": "Oh..."
+    },
+    {
+     "s": 2,
+     "t": "That's so sad..."
+    },
+    {
+     "s": 4,
+     "t": "What a terrible waste... A gifted artist from humble beginnings, who achieved so much and no doubt had much more to give... and then her life was so cruelly taken."
+    },
+    {
+     "s": 4,
+     "t": "I suppose it's fair to say, then, that this final show, besides being your farewell to the stage, is also your final gift for her?"
+    },
+    {
+     "s": 5,
+     "t": "Yes, exactly. We all miss her terribly."
+    },
+    {
+     "s": 4,
+     "t": "Well, good thing I followed the Traveler here. After hearing this tragic tale, I can no longer stand by and do nothing."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Furina?"
+    },
+    {
+     "s": 4,
+     "t": "I know what you're thinking, but I by no means plan to cross the boundary I've set for myself. Besides, they're no longer looking for a replacement anyway."
+    },
+    {
+     "s": 4,
+     "t": "I can, however, provide some artistic guidance from the vantage point of a highly experienced audience member."
+    },
+    {
+     "s": 4,
+     "t": "But only if you feel this is something that would help, of course."
+    },
+    {
+     "s": 5,
+     "t": "Oh, most definitely! We'll take any guidance that you can give!"
+    },
+    {
+     "s": 3,
+     "t": "We unfortunately don't have any budget for a consultant, though... Will that be a problem?"
+    },
+    {
+     "s": 4,
+     "t": "I don't need any compensation. All I'd ask in return, if you're willing, is that you tell me some more about the life and work of your late director."
+    },
+    {
+     "s": 4,
+     "t": "Something I've begun to realize since my departure from the Opera Epiclese is that there's a lot you don't see when you observe everything from on high."
+    },
+    {
+     "s": 4,
+     "t": "The law only judges criminal behavior, and does not weigh human emotion. The court's verdict can settle the question of criminal liability, but..."
+    },
+    {
+     "s": 4,
+     "t": "What about all the unresolved emotions of the parties involved? What happens to them?"
+    },
+    {
+     "sit": "A verdict can bring emotional catharsis."
+    },
+    {
+     "sit": "They come pouring out, and flow away into infinity."
+    },
+    {
+     "s": 4,
+     "t": "An interesting answer. But if you ask me, I think all emotion shall ultimately return home to the heart, and slowly settle with the passage of time."
+    },
+    {
+     "s": 4,
+     "t": "Take, par exemple, how this troupe pines for their late director... Things such as this I have never witnessed before. And so, I should like to observe, perchance to understand."
+    },
+    {
+     "s": 0,
+     "t": "Uhh... Still a fan of your old dramatic monologues then, huh?"
+    },
+    {
+     "s": 0,
+     "t": "You just wanna get back in on the action, don't you?"
+    },
+    {
+     "s": 4,
+     "t": "No, no, no, this is a completely different situation! Hmph, pearls before swine..."
+    },
+    {
+     "s": 0,
+     "t": "The name's not \"Swine,\" it's Paimon!"
+    },
+    {
+     "s": 4,
+     "t": "Would you be willing to join me? C'mon, take a break from adventuring to listen to a story."
+    },
+    {
+     "sit": "Since it's you, I'll do it."
+    },
+    {
+     "sit": "Especially since it's related to the serial disappearances case."
+    },
+    {
+     "s": 3,
+     "t": "Thank you all so much. Our director was a huge fan of Miss Furina's performances... as, of course, we all are."
+    },
+    {
+     "s": 3,
+     "t": "Alright, follow me. We'll go to our usual practice space. Please excuse the size — it's a little on the smaller side."
+    },
+    {
+     "s": 2,
+     "t": "Especially since it's related to the serial disappearances case."
+    },
+    {
+     "s": 2,
+     "t": "They come pouring out, and flow away into infinity."
+    },
+    {
+     "s": 2,
+     "t": "...Only for her to find out she's no longer needed."
+    },
+    {
+     "section": "Lauwick"
+    },
+    {
+     "s": 6,
+     "t": "Huh? L—Lady Furina!?"
+    },
+    {
+     "s": 7,
+     "t": "What's Lady Furina doing here?"
+    },
+    {
+     "s": 3,
+     "t": "Hello, all. Allow me to explain. As of today, La— Uh, Miss Furina will be supporting our production of \"The Little Oceanid\" in the role of artistic consultant."
+    },
+    {
+     "s": 3,
+     "t": "These two over here are the ones that made it possible — they kindly reached out to Miss Furina on our behalf. I'm sure they need no introduction."
+    },
+    {
+     "s": 6,
+     "t": "You bet! That was the trial of the century!"
+    },
+    {
+     "s": 7,
+     "t": "You helped bring our director's murderer to justice. We can't thank you enough."
+    },
+    {
+     "s": 0,
+     "t": "Oh, please don't mention it. We're just here to join in on the fun."
+    },
+    {
+     "s": 4,
+     "t": "So, you were saying — \"The Little Oceanid\"...?"
+    },
+    {
+     "s": 5,
+     "t": "Yeah, that's the name of our final show. It's an unfinished script left behind by our director."
+    },
+    {
+     "s": 5,
+     "t": "One of our greatest regrets is that she never got to complete it. So if we can bring it to the stage and make it a successful show, we can all take some solace in that."
+    },
+    {
+     "s": 0,
+     "t": "Wait, but if it's not finished, then..."
+    },
+    {
+     "s": 2,
+     "t": "Finding an actress was the least of your problems..."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, we've been battling issues on every front trying to realize this dream... Anyway, let me give you a quick summary of what the story's all about."
+    },
+    {
+     "s": 3,
+     "t": "The protagonist of the story is a young Oceanid who transforms herself into human form, despite the protests of her family."
+    },
+    {
+     "s": 3,
+     "t": "She longed to live just like any other human. And sure enough, she found friendship and even love. Everything seemed perfect."
+    },
+    {
+     "s": 3,
+     "t": "But one day, her true identity was exposed, and her world came crashing down around her..."
+    },
+    {
+     "s": 4,
+     "t": "So far, so good. A classic tale. What happened after that?"
+    },
+    {
+     "s": 5,
+     "t": "That's one of the issues we've been trying to deal with... Unfortunately, this was as far as the director got with her script."
+    },
+    {
+     "s": 5,
+     "t": "We need a proper ending so we can bring this musical to the stage, but people have different opinions on which direction to take it in."
+    },
+    {
+     "s": 3,
+     "t": "We still haven't decided between a happy ending or a true-to-life tragedy."
+    },
+    {
+     "s": 4,
+     "t": "By true-to-life, you mean... the director's sudden disappearance?"
+    },
+    {
+     "s": 5,
+     "t": "Yeah. Like they say, truth is stranger than fiction."
+    },
+    {
+     "s": 5,
+     "t": "But then there's the question of whether we really want to use the stage to pass our raw pain onto the audience."
+    },
+    {
+     "s": 3,
+     "t": "Exactly. A lot of the time, people come to watch a show just hoping for some light entertainment. We have to consider their emotional stake in this, not just our own."
+    },
+    {
+     "s": 3,
+     "t": "And one last thing — we're still waiting on confirmation from two of our main actors."
+    },
+    {
+     "s": 3,
+     "t": "The first is Pauleau, who plays the protagonist's lover. He's locked himself away to focus on writing an ending for the script. But the deadline's past and we still haven't heard from him."
+    },
+    {
+     "s": 3,
+     "t": "The other is Vilmant, who plays the main antagonist. He took the director's death pretty hard. Hasn't set foot in the city since."
+    },
+    {
+     "s": 3,
+     "t": "He did write to us, promising that he'll be there for the final performance, but we haven't seen or heard from him since. So we're not really sure what to make of that."
+    },
+    {
+     "s": 5,
+     "t": "Although... Now that we have Miss Furina helping us, maybe we should take the opportunity to get everyone back together?"
+    },
+    {
+     "s": 4,
+     "t": "What opportunity? What do you mean?"
+    },
+    {
+     "s": 5,
+     "t": "Hehe, maybe you're unaware, but your name has always been like a rallying cry for us."
+    },
+    {
+     "s": 3,
+     "t": "Our director was constantly singing your praises. All of us look up to you as a role model."
+    },
+    {
+     "s": 4,
+     "t": "Oh stop, you're making me all flustered. Although... hehe, not in a bad way."
+    },
+    {
+     "s": 4,
+     "t": "I suspect the reason they're dragging their feet is that they have their doubts about whether the show will really go ahead, considering all the issues you've been facing."
+    },
+    {
+     "s": 4,
+     "t": "But one by one, all the obstacles are being removed. Now is the time to rally the troops."
+    },
+    {
+     "s": 5,
+     "t": "Makes sense... Okay, priority number one — let's check in with Pauleau and see where he's at with the ending."
+    },
+    {
+     "s": 5,
+     "t": "He went back to Poisson a few days ago. Said that staying in a friend's home might help him to relax and escape the feeling of isolation."
+    },
+    {
+     "s": 3,
+     "t": "I thought the last thing his friend would want right now would be to take visitors, given that Poisson was flooded not too long ago. But I guess it's the opposite — a friend in need and all that."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, maybe he could use some company."
+    },
+    {
+     "s": 4,
+     "t": "Poisson..."
+    },
+    {
+     "s": 2,
+     "t": "Uh, is something wrong?"
+    },
+    {
+     "s": 4,
+     "t": "Nothing... I suppose my presence will be indispensable if we are to restore his faith in the show."
+    },
+    {
+     "s": 4,
+     "t": "So, allons-y! To Poisson!"
+    }
+   ],
+   "description": "One day, you and Paimon arrive at the Adventurers’ Guild to check out the commissions there…"
+  },
+  {
+   "title": "Whither Should the Water Flow?",
+   "dialogue": [
+    {
+     "section": "Pauleau"
+    },
+    {
+     "s": 3,
+     "t": "If I remember correctly, this is where he's staying."
+    },
+    {
+     "s": 8,
+     "t": "Who is it?"
+    },
+    {
+     "s": 3,
+     "t": "It's me. Is the script ready?"
+    },
+    {
+     "s": 8,
+     "t": "...You came all the way here for that?"
+    },
+    {
+     "s": 3,
+     "t": "Ugh, alright, forget that for now. Just come on out, we've got some great news."
+    },
+    {
+     "s": 8,
+     "t": "Hmph, nice try... Look, just gimme some time, okay? I'm just wrapping up this last part of the script. I'll be out once I'm done."
+    },
+    {
+     "s": 3,
+     "t": "Okay then. Looking forward to your masterpiece."
+    },
+    {
+     "s": 4,
+     "t": "So... as expected, he's missed the deadline."
+    },
+    {
+     "s": 5,
+     "t": "The ending is one of the most important parts of the show..."
+    },
+    {
+     "s": 5,
+     "t": "Even once he's done, it isn't final until we've all had the chance to read through and make sure we agree on it."
+    },
+    {
+     "s": 9,
+     "t": "Someone told me they'd just seen you in Poisson. I assumed it was a case of mistaken identity, but sure enough, here you are... and Furina, too."
+    },
+    {
+     "s": 4,
+     "t": "Ah... I was wondering if we might run into her..."
+    },
+    {
+     "s": 9,
+     "t": "So, you're here for Pauleau? Looks like he could be a while, so feel free to take a stroll around town in the meantime. I've made all the arrangements already."
+    },
+    {
+     "s": 3,
+     "t": "Oh, it's okay, we can just wait h—"
+    },
+    {
+     "s": 5,
+     "t": "Thank you for being so considerate, Miss Navia! That sounds wonderful. We'll take that stroll!"
+    },
+    {
+     "s": 5,
+     "t": "Get over here, you! How oblivious are you!?"
+    },
+    {
+     "s": 4,
+     "t": "How are things in Poisson now? Any better?"
+    },
+    {
+     "s": 9,
+     "t": "Things are on the mend, but it's a slow process. Some people may never recover from the trauma they experienced."
+    },
+    {
+     "s": 4,
+     "t": "I'm... sorry to hear that. I wish there was something I could do..."
+    },
+    {
+     "s": 9,
+     "t": "Please... Must our conversations take such a depressing turn every time we meet?"
+    },
+    {
+     "s": 9,
+     "t": "We all have painful memories, but we don't have to let them cloud everything we do."
+    },
+    {
+     "s": 9,
+     "t": "And if you're trying to make a new start, perhaps it's best if you don't bring up the past all the time."
+    },
+    {
+     "s": 4,
+     "t": "Thank you for your words of comfort. You make a very good point."
+    },
+    {
+     "s": 4,
+     "t": "But for now, at least... I think I should stay with the way I'm feeling for a while longer."
+    },
+    {
+     "s": 9,
+     "t": "It's okay. These things take time. Moving on from a painful experience is easier said than done."
+    },
+    {
+     "s": 9,
+     "t": "Which brings me to why I'm here... I thought you should probably know that not everyone here is ready to forgive and forget after the Hydro Archon's inaction in the face of catastrophe."
+    },
+    {
+     "s": 9,
+     "t": "To avoid upsetting the peace, I told the townspeople that everyone here is a member of the theater troupe... and that you are just an actress playing the role of Furina."
+    },
+    {
+     "s": 9,
+     "t": "It's not a perfect solution, but hopefully it means you won't have to lie low while you're here."
+    },
+    {
+     "s": 0,
+     "t": "That's so thoughtful of you, Navia!"
+    },
+    {
+     "s": 9,
+     "t": "Well, what do you expect? I am the courageous and considerate president of Spina di Rosula, after all, like my father before me."
+    },
+    {
+     "s": 9,
+     "t": "Anyway, that was all. Look after her, now."
+    },
+    {
+     "sit": "Got it, Navia."
+    },
+    {
+     "sit": "Thank you."
+    },
+    {
+     "s": 4,
+     "t": "Off we go then... Let's take a look up there."
+    },
+    {
+     "s": 4,
+     "t": "I don't have any friends that I can be frank and honest with, so maybe she's right. You're the closest thing to friends that I have."
+    },
+    {
+     "s": 2,
+     "t": "Thank you."
+    },
+    {
+     "section": "Buraud"
+    },
+    {
+     "s": 6,
+     "t": "Pressure's on now... We gotta make sure we're fully prepared."
+    },
+    {
+     "section": "Elain"
+    },
+    {
+     "s": 7,
+     "t": "You're off to Poisson to find Pauleau, right? Have a safe trip! We'll take care of the troupe while you're gone."
+    },
+    {
+     "section": "Furina"
+    },
+    {
+     "s": 4,
+     "t": "I'm so grateful that Miss Navia was so understanding. To be perfectly honest, I didn't know if I was ready to meet her."
+    },
+    {
+     "s": 4,
+     "t": "It's always easiest to just run away from your problems. But that never fixes anything. You can't get around the obstacles without facing them."
+    },
+    {
+     "s": 0,
+     "t": "So that's why you were nervous when they brought up Poisson..."
+    },
+    {
+     "s": 4,
+     "t": "Yeah. I'd be lying if I said I wasn't scared of coming back here."
+    },
+    {
+     "s": 4,
+     "t": "Still, I felt it was something I had to do. As I was saying before, I want to see for myself the things that I never could in the past."
+    },
+    {
+     "s": 4,
+     "t": "I'd be overjoyed if the people here could find it in their hearts to forgive me. But they're more likely to unleash a tirade of vitriol against me, which of course I completely understand and accept."
+    },
+    {
+     "s": 2,
+     "t": "I'm sure some people didn't buy Navia's lie."
+    },
+    {
+     "s": 4,
+     "t": "Yeah... I can tell people are watching me."
+    },
+    {
+     "s": 4,
+     "t": "I'm sure some people here see the idea of someone coming to Poisson dressed as the Hydro Archon as extremely disrespectful."
+    },
+    {
+     "s": 4,
+     "t": "I used to be terrified of the gaze of other people, especially when they had suspicion or resentment in their eyes."
+    },
+    {
+     "s": 4,
+     "t": "...*sigh* I guess I wasn't quite ready for this after all."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's surprised you're making yourself go through all of this."
+    },
+    {
+     "sit": "Maybe you've taken on a bit too much in one go?"
+    },
+    {
+     "sit": "Me too. It's not like you."
+    },
+    {
+     "s": 4,
+     "t": "I can't let myself see only the things I want to see. How would that make me any different from before?"
+    },
+    {
+     "s": 0,
+     "t": "Look... There seems to be a crowd gathering over there."
+    },
+    {
+     "s": 2,
+     "t": "They're not staying quiet, either."
+    },
+    {
+     "s": 4,
+     "t": "Probably time we made a move."
+    },
+    {
+     "s": 4,
+     "t": "How about we check out Spina di Rosula's ship? We should have a view of the whole of Poisson from there."
+    },
+    {
+     "s": 2,
+     "t": "Me too. It's not like you."
+    },
+    {
+     "s": 4,
+     "t": "What do you mean by that? You expected me to just keep running and hiding from my responsibility forever?"
+    },
+    {
+     "section": "Lauwick, Dulphy"
+    },
+    {
+     "s": 3,
+     "t": "Ah, there you are. We were just buying some fish. There's a clearance sale right now, and the prices are much better than in the city."
+    },
+    {
+     "s": 5,
+     "t": "Who said anything about buying them? You're really gonna carry a huge fish around all day while we're out visiting Pauleau and Vilmant?"
+    },
+    {
+     "s": 3,
+     "t": "Ah... You're right. We don't have anywhere to put it..."
+    },
+    {
+     "section": "Furina"
+    },
+    {
+     "s": 4,
+     "t": "I'm sorry, you probably just wanted a relaxing stroll, and here I am dumping all this heavy stuff on you."
+    },
+    {
+     "s": 0,
+     "t": "We don't mind! It's actually refreshing to see a different side of you."
+    },
+    {
+     "s": 4,
+     "t": "Great. Well, I appreciate your company, so please don't disappear just yet."
+    },
+    {
+     "s": 4,
+     "t": "I don't know whether you can tell, but... the years of suffering and loneliness aren't the only reason I have a hard time facing up to who I used to be."
+    },
+    {
+     "s": 4,
+     "t": "As I stand here by the ship, I can't get the images of the rising water out of my mind..."
+    },
+    {
+     "s": 4,
+     "t": "One after another, people were taken by the water... All those treasured lives and memories, washed out of existence in an instant."
+    },
+    {
+     "s": 4,
+     "t": "They thought their god would protect them. They had absolute faith that when disaster struck, a divine power would save them from harm."
+    },
+    {
+     "s": 4,
+     "t": "And all the while, I played my part to perfection to convince them that was true..."
+    },
+    {
+     "s": 4,
+     "t": "But then the flood waters finally came. And the \"Hydro Archon\" did nothing."
+    },
+    {
+     "s": 0,
+     "t": "You shouldn't look at it like that. You were only doing your duty."
+    },
+    {
+     "s": 2,
+     "t": "Don't be so harsh on yourself."
+    },
+    {
+     "s": 4,
+     "t": "I've had to go through so many moments like that for the sake of protecting the truth. As time went on, it got harder and harder to bear, and I became more lonely and isolated."
+    },
+    {
+     "s": 4,
+     "t": "Eventually, I realized I had nothing left except the truth. I became terrified of completely failing in my task, and was haunted by the thought of being left all alone, weeping on my throne."
+    },
+    {
+     "s": 4,
+     "t": "Fortunately, we were able to avoid the worst-case scenario thanks to the help of heroic individuals such as yourselves."
+    },
+    {
+     "s": 4,
+     "t": "Everyone rose to their responsibilities. And I finally regained my freedom..."
+    },
+    {
+     "s": 4,
+     "t": "But on some level, freedom also means no longer being needed. I have no further use to people."
+    },
+    {
+     "s": 0,
+     "t": "Huh. Paimon would've never imagined you'd see it that way."
+    },
+    {
+     "s": 2,
+     "t": "Think of your freedom as your reward."
+    },
+    {
+     "s": 4,
+     "t": "Reward?"
+    },
+    {
+     "sit": "Because now, you can finally speak your heart."
+    },
+    {
+     "sit": "You don't have to be anguished and alone anymore."
+    },
+    {
+     "s": 4,
+     "t": "...I guess so."
+    },
+    {
+     "s": 4,
+     "t": "Back then, I didn't even dare to dream about having someone to confide in."
+    },
+    {
+     "s": 4,
+     "t": "I was scared of someone recognizing me for who I truly was, and exposing the secret I swore to protect."
+    },
+    {
+     "s": 4,
+     "t": "\"Believe in the Furina you see on stage. She is the one you can trust.\""
+    },
+    {
+     "s": 4,
+     "t": "I had to keep all my feelings, all my curiosity about life to myself. No-one could be allowed to know..."
+    },
+    {
+     "s": 4,
+     "t": "That's what I really meant when I said I'm no good at maintaining relationships."
+    },
+    {
+     "s": 0,
+     "t": "So that's where you were coming from... Paimon totally thought you were just a bit of a diva at heart."
+    },
+    {
+     "s": 4,
+     "t": "Could you please get off my case!? I don't know what's gotten into you today. I'm making an effort here, you could at least try to do the same."
+    },
+    {
+     "sit": "What Paimon meant to say was, she doesn't like to see you so down."
+    },
+    {
+     "sit": "Do you feel better, having gotten all this off your chest?"
+    },
+    {
+     "s": 4,
+     "t": "I do. I once had nothing but the truth, and now, I'm finally free to live my own life again. And even though I have no idea where I'm going right now..."
+    },
+    {
+     "s": 4,
+     "t": "At least the choice is in my hands."
+    },
+    {
+     "s": 4,
+     "t": "Alright, it's about time to head back. Pauleau should have finished the ending by now."
+    },
+    {
+     "s": 0,
+     "t": "Sure. Okay, let's head back and check it out."
+    },
+    {
+     "s": 2,
+     "t": "Do you feel better, having gotten all this off your chest?"
+    },
+    {
+     "s": 2,
+     "t": "You don't have to be anguished and alone anymore."
+    },
+    {
+     "section": "Lauwick"
+    },
+    {
+     "s": 5,
+     "t": "Didn't you say you needed to watch what you eat? You're supposed to be cutting down on fried foods, not wolfing down copious quantities of fish and chips, y'know?"
+    },
+    {
+     "s": 3,
+     "t": "Ah, c'mon, it's not every day we get to dine at Spina di Rosula's expense... Can you believe how generous she is? I'm not about to pass on free food..."
+    },
+    {
+     "s": 3,
+     "t": "Anyway, my character doesn't need to be slim and good-looking. That's your job."
+    },
+    {
+     "s": 5,
+     "t": "Are you kidding me right now? It's not your character's health I'm worried about! It's yours!"
+    },
+    {
+     "s": 5,
+     "t": "I've spent my whole life battling the effects of ill health, and it kills me to watch you willingly ruin yours by filling yourself up with junk all the time."
+    },
+    {
+     "s": 0,
+     "t": "Oh no, looks like they're arguing again."
+    },
+    {
+     "s": 0,
+     "t": "We're back! Could you maybe put your differences aside for a moment?"
+    },
+    {
+     "s": 3,
+     "t": "Ah, you're back. We've been enjoying Spina di Rosula's VIP treatment in your stead, hehe."
+    },
+    {
+     "s": 3,
+     "t": "Pauleau's nearly done. We shouldn't have to wait too much longer."
+    },
+    {
+     "s": 0,
+     "t": "Great. So, you were discussing your characters, right? We heard she's playing the oceanid who turns into a human girl — what about you?"
+    },
+    {
+     "s": 3,
+     "t": "Me? I'm an oceanid, too."
+    },
+    {
+     "s": 5,
+     "t": "He was originally supposed to take the form of a crane, but he... ahem, outgrew that role. Well, the costume, at least. So now he's playing the boar instead."
+    },
+    {
+     "s": 0,
+     "t": "Pff... Sorry, sorry..."
+    },
+    {
+     "s": 4,
+     "t": "The boar's not a bad character, actually. He's the one who raises the little oceanid, yes?"
+    },
+    {
+     "s": 3,
+     "t": "That's right. He has some pretty memorable lines, too, like when he imparts some solemn words of wisdom to the little oceanid:"
+    },
+    {
+     "s": 3,
+     "t": "\"If you become human, you can reveal your secret to no one. You will face suffering and loneliness... Is this truly what you want?\""
+    },
+    {
+     "s": 0,
+     "t": "Wait, that sounds kinda familiar..."
+    },
+    {
+     "s": 5,
+     "t": "It's the most important line in the whole script. I think it's a symbolic statement about our director's life and legacy."
+    },
+    {
+     "s": 5,
+     "t": "She kept quiet about all the trials and tribulations she faced in running our troupe, allowing us to devote ourselves fully to performing."
+    },
+    {
+     "s": 5,
+     "t": "It was only after she was gone that we realized how tough her job really was."
+    },
+    {
+     "s": 4,
+     "t": "You mentioned earlier that the troupe was like your \"home\"..."
+    },
+    {
+     "s": 5,
+     "t": "Yeah. I was born with an incurable illness, and once my family found out it couldn't be treated, they decided they didn't want me anymore."
+    },
+    {
+     "s": 5,
+     "t": "I spent some years taking whatever work I could find and trying to manage my illness with various medicines. But whenever I had a bad flare-up, I'd be lying in an alleyway for days at a time."
+    },
+    {
+     "s": 5,
+     "t": "It was like that until the director found me one day. She told me I had a great voice, and asked if I was interested in studying singing from her. I said yes."
+    },
+    {
+     "s": 5,
+     "t": "She took me under her wing. Taught me to both sing and act, helped me find Mora for my meds, took care of me when my condition decided to flare up... I know it was all a huge burden on her."
+    },
+    {
+     "s": 0,
+     "t": "She sounds like a really incredible person."
+    },
+    {
+     "s": 3,
+     "t": "She really was. She gave everything she had to her troupe and the people in it. All of us were so proud to call her our director."
+    },
+    {
+     "s": 3,
+     "t": "I was a lost child, too, when she found me. As the child of a murderer, my parents weren't around when I was little, so I got sent to an orphanage."
+    },
+    {
+     "s": 3,
+     "t": "The other kids were always picking fights with me... They'd say things like, \"C'mon, you must be pretty tough if you're the son of a murderer!\" It was just to taunt me, though. I was an easy target, and they knew it."
+    },
+    {
+     "s": 3,
+     "t": "One day, I got beaten up so bad that I just couldn't take it anymore, so I ran away. I'd lost all faith in humanity by that point. Thought the whole world was out to get me."
+    },
+    {
+     "s": 4,
+     "t": "Hm, let me guess... Fortunately, the next person you ran into was the director."
+    },
+    {
+     "s": 3,
+     "t": "Yeah. For the first time in my life, I was somewhere I felt safe, and I promised myself I'd stay here until the day the group parted ways."
+    },
+    {
+     "s": 8,
+     "t": "The day you hoped would never come... *sigh* How times change."
+    },
+    {
+     "s": 3,
+     "t": "Oh, you're finally done? Get your butt over here, there's someone I need to introduce you to. This is our new artistic consultant, Miss Furina."
+    },
+    {
+     "s": 8,
+     "t": "...Furina? THE Furina? Oh my god! How did you manage to wrangle that!?"
+    },
+    {
+     "s": 4,
+     "t": "Please, the honor is all mine. I was profoundly moved to hear about your troupe and your wonderful director. I just wanted to do something to help."
+    },
+    {
+     "s": 0,
+     "t": "Same here!"
+    },
+    {
+     "s": 8,
+     "t": "Even so, this is just... wow... I'm sorry. I'll try to calm down. Now, where was I..."
+    },
+    {
+     "s": 8,
+     "t": "Ah yes, the script, of course! Let me give you a rundown of how the story unfolds in my version of the script."
+    },
+    {
+     "s": 8,
+     "t": "I'm sure you're already familiar with the beginning of the story: A little Oceanid decides she wants to become a human, against the wishes of her family."
+    },
+    {
+     "s": 8,
+     "t": "She finds love and friendship in the bustling city. But then, disaster strikes..."
+    },
+    {
+     "s": 8,
+     "t": "The people start to notice that all the fresh water in the surrounding area is slowly disappearing. The soil is becoming arid, plants and flowers are withering, and the people begin to panic."
+    },
+    {
+     "s": 8,
+     "t": "The little Oceanid, Clio, and her lover decide to do something about it, and investigate the truth of the matter together."
+    },
+    {
+     "s": 8,
+     "t": "In the end, they discover that all the waste and pollution created by humans over the years has caused the fresh water to flee the land, as if driven by a consciousness of its own."
+    },
+    {
+     "s": 5,
+     "t": "Consciousness? You mean... the water is sentient?"
+    },
+    {
+     "s": 4,
+     "t": "Water as a conscious entity... There's actually quite a few stories that explore this theme."
+    },
+    {
+     "s": 8,
+     "t": "Since the little Oceanid is a water spirit, she immediately understands how the water is feeling. She then tells her lover about her true identity, as well as the truth behind the crisis."
+    },
+    {
+     "s": 8,
+     "t": "Her lover accepts her for who she is, and works with her to find a way to bring the water back. However, unbeknownst to them, there were some people eavesdropping when she revealed her secret..."
+    },
+    {
+     "s": 8,
+     "t": "The little Oceanid is accused of being directly responsible for driving the water away, and faces the greatest dilemma of her life..."
+    },
+    {
+     "s": 4,
+     "t": "And then...?"
+    },
+    {
+     "s": 8,
+     "t": "In the end, she makes the brave decision to sacrifice herself to save her lover and the rest of humanity..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? But didn't they all treat Clio like a villain? Why would she want to save them after that?"
+    },
+    {
+     "s": 8,
+     "t": "Well, she mainly wanted to save her lover, plus everyone who'd stood up for her."
+    },
+    {
+     "s": 4,
+     "t": "Through her love for her human partner, she was able to find an even greater love — one that extended to all of humanity. Surely the biggest strength of Clio's character."
+    },
+    {
+     "s": 5,
+     "t": "There's actually something else that bothers me..."
+    },
+    {
+     "s": 5,
+     "t": "You know the protagonist is supposed to represent the director, right? And she never had the chance to become a hero in our world."
+    },
+    {
+     "s": 5,
+     "t": "If we're serious about dedicating this show to her memory, we should make the ending as true-to-life as possible."
+    },
+    {
+     "s": 5,
+     "t": "What about if... the little Oceanid is hounded to death by people who hate her, her lover makes sure her secret never gets out, and humanity continues down the path to extinction?"
+    },
+    {
+     "s": 4,
+     "t": "...That sounds like too cruel of an ending to me. And perhaps a little irresponsible to present to the audience."
+    },
+    {
+     "s": 8,
+     "t": "That ending would be a perfect mirror to Director Aurelie's death. Both arbitrary and meaningless."
+    },
+    {
+     "s": 8,
+     "t": "On the day when she went missing, Director Aurelie had instructed us all — somewhat out the blue — to leave the Court of Fontaine and wait for her outside the city."
+    },
+    {
+     "s": 8,
+     "t": "We waited and waited at the rendezvous point, but she never came. By the time we returned to the city, she'd disappeared without a trace."
+    },
+    {
+     "s": 8,
+     "t": "We looked for her, the Gardemeks looked for her, but she was nowhere to be found. Increasingly, all the signs seemed to point to her being the latest victim in the serial disappearances case."
+    },
+    {
+     "s": 5,
+     "t": "The Director was the kindest soul in the world... Yet she was senselessly sacrificed for the sake of a so-called experiment, by someone who had nothing to do with her at all..."
+    },
+    {
+     "s": 4,
+     "t": "Hmm... But doesn't the way she suddenly told you to leave the city suggest that maybe she had some sense of what was about to happen? It almost seems as if she was moving you to safety."
+    },
+    {
+     "s": 8,
+     "t": "I've been trying to follow up on that ever since, but all my efforts so far have turned up nothing... Vilmant might know something, but he won't open up to me."
+    },
+    {
+     "s": 4,
+     "t": "Vilmant? The one who's playing the role of the villain?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah. He's been overwhelmed by grief — I think the director's death hit him hardest of all."
+    },
+    {
+     "s": 8,
+     "t": "Grief? Hmph, guilt, more like. Also, I... have a hard time imagining that anyone took it harder than me."
+    },
+    {
+     "s": 8,
+     "t": "Because... Well, speaking of the play being true-to-life, I... I was deeply, madly in love with Aurelie."
+    },
+    {
+     "s": 5,
+     "t": "What? You... You kept that one quiet..."
+    },
+    {
+     "s": 8,
+     "t": "It's time to be upfront with you all. No more keeping secrets from each other, we'll never be able to agree on the ending if we can't be honest about how we feel."
+    },
+    {
+     "s": 8,
+     "t": "I did tell her how I felt once, but she turned me down pretty much straight away."
+    },
+    {
+     "s": 8,
+     "t": "She said that we were all like brothers and sisters to her, and she'd never considered us as potential romantic partners."
+    },
+    {
+     "s": 8,
+     "t": "Not that it came as a shock or anything — it was what I was expecting to hear. So I told her I'd always be there for the troupe, and I'd always be there for her."
+    },
+    {
+     "s": 8,
+     "t": "I said, maybe one day in the future, when everyone's settled in to their own lives and on the up and up, and managing the troupe no longer required her constant attention..."
+    },
+    {
+     "s": 8,
+     "t": "Well, maybe then she could... reconsider what she really wanted in her life."
+    },
+    {
+     "s": 8,
+     "t": "...And now, that day will never come."
+    },
+    {
+     "s": 3,
+     "t": "Oh, Pauleau..."
+    },
+    {
+     "s": 8,
+     "t": "So if I'm the one writing this ending, then I'm gonna make sure it does right by Aurelie. I won't let anyone get in the way of that."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* In that case, you have to straighten things out with Vilmant once and for all. Face to face."
+    },
+    {
+     "s": 5,
+     "t": "We've all had our differences of opinion over the ending, but those two have never seen eye to eye on anything. One of them has to compromise if we're ever going to reach a final decision."
+    },
+    {
+     "s": 0,
+     "t": "Well, if that's where we're at, looks like it's time to go visit Vilmant."
+    },
+    {
+     "s": 4,
+     "t": "Are you ready to face the truth?"
+    },
+    {
+     "s": 8,
+     "t": "Honestly? I'm slightly terrified. But for the sake of our final performance, I'll do whatever it takes..."
+    },
+    {
+     "s": 8,
+     "t": "Funny you should ask, though... You really do get what I'm going through right now..."
+    },
+    {
+     "s": 4,
+     "t": "I certainly do."
+    },
+    {
+     "s": 4,
+     "t": "Come on, everyone. Allons-y."
+    }
+   ],
+   "description": "Having met with the troupe, you learn two critical members have yet to return. First is Pauleau, who is responsible for completing the script. He is in Poisson."
+  },
+  {
+   "title": "This Life, Just Like a Light Trickle of Song",
+   "dialogue": [
+    {
+     "section": "Furina"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, as if this journey wasn't tough enough already without a roadblock!"
+    },
+    {
+     "s": 4,
+     "t": "Don't worry, we should all be fine with {NICKNAME} here. We don't need to take a detour."
+    },
+    {
+     "s": 4,
+     "t": "...Wait, wh—why are you all looking at me? You're not seriously expecting me to fight, are you!?"
+    },
+    {
+     "s": 5,
+     "t": "We're just curious, that's all. I don't think anyone's ever seen Furina in a fight before..."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, but... Don't you remember why? The Hydro Archon willingly gave up all of her power so it could be converted into Indemnitium. Miss Furina said so herself."
+    },
+    {
+     "s": 4,
+     "t": "Precisely! Heh... And I'm not even the Hydro Archon anymore, so all my power is gone anyway."
+    },
+    {
+     "s": 4,
+     "t": "As much as it pains me, unfortunately, I should just stay put. I'm more like... a damsel in distress more than anything."
+    },
+    {
+     "s": 0,
+     "t": "That sounded so smug! Ugh, the second-hand embarrassment is unbearable..."
+    },
+    {
+     "sit": "Eh, c'est la vie."
+    },
+    {
+     "sit": "This doesn't require god-level powers. Don't you know any self-defense?"
+    },
+    {
+     "s": 4,
+     "t": "C'est la vie indeed! Alas, I am forced to watch on helplessly as a more brave and seasoned adventurer than I swoops in to save the day."
+    },
+    {
+     "s": 5,
+     "t": "Ah, too bad... I was so pumped to feast my eyes on fight-mode Furina."
+    },
+    {
+     "s": 3,
+     "t": "Sorry to leave all the heavy lifting to you."
+    },
+    {
+     "s": 0,
+     "t": "Don't worry — piece of cake!"
+    },
+    {
+     "s": 2,
+     "t": "This doesn't require god-level powers. Don't you know any self-defense?"
+    },
+    {
+     "s": 4,
+     "t": "Hey, lay off, alright! My bluff is hanging from a thread here."
+    },
+    {
+     "s": 4,
+     "t": "I'm sorry, I'm sorry... I got carried away. Please help us out, would you?"
+    },
+    {
+     "section": "Vilmant"
+    },
+    {
+     "s": 3,
+     "t": "Vilmant, are you there?"
+    },
+    {
+     "s": 10,
+     "t": "Huh? It's you guys... Wait, what's Lady Furina doing here!?"
+    },
+    {
+     "s": 5,
+     "t": "I can explain... We've been rounding up the whole troupe. We now have everyone except you."
+    },
+    {
+     "sit": "Dulphy explains the whole sequence of events so far to Vilmant."
+    },
+    {
+     "s": 10,
+     "t": "So, you think knowing the truth about the director's disappearance will help you write an ending to the script that pleases everyone?"
+    },
+    {
+     "s": 10,
+     "t": "*sigh* I care just as much as everyone else about making The Little Oceanid a success. That's why I wanted to wait until after the show."
+    },
+    {
+     "s": 10,
+     "t": "If I open this can of worms now... I just don't want to make things difficult between us. We're supposed to be a unit when we're on stage."
+    },
+    {
+     "s": 8,
+     "t": "Vilmant... Avoiding the truth will not help anyone."
+    },
+    {
+     "s": 8,
+     "t": "Unless you mean to suggest that Aurelie's death had something to do with you?"
+    },
+    {
+     "s": 10,
+     "t": "I don't want to talk about it."
+    },
+    {
+     "s": 8,
+     "t": "Listen, Vilmant. I used to think that my love for Aurelie was a point of shame. I never brought it up to anyone..."
+    },
+    {
+     "s": 8,
+     "t": "But now, I've made up my mind to put it all on the table. I'm prepared to face everything — to sacrifice everything — for the sake of the show."
+    },
+    {
+     "s": 8,
+     "t": "\"The Little Oceanid\" cannot be complete unless we do justice to Aurelie on an emotional level."
+    },
+    {
+     "s": 10,
+     "t": "...*sigh* This is why people think of you as not being the smart one."
+    },
+    {
+     "s": 10,
+     "t": "As you all know already, the troupe was kept afloat not from ticket sales, but donations from the audience. Of course, that was nowhere near enough..."
+    },
+    {
+     "s": 10,
+     "t": "We took on side jobs when we weren't performing, but even then, the troupe's financial situation was pretty dire..."
+    },
+    {
+     "s": 10,
+     "t": "So anyway, one day after a show, a merchant came to me and offered us a huge sponsorship. In return, we just had to provide the audience with their drinks during performances."
+    },
+    {
+     "s": 10,
+     "t": "It seemed like a win-win, so I said yes to it on the spot without consulting the director. It was only when the merchant came to deliver the goods that I realized..."
+    },
+    {
+     "s": 10,
+     "t": "The drink in question was... Sinthe."
+    },
+    {
+     "s": 4,
+     "t": "...Isn't that the drink peddled by the culprit behind the serial disappearances case?"
+    },
+    {
+     "sit": "I remember that it induces a state of euphoria."
+    },
+    {
+     "sit": "But it also causes significant harm to the body."
+    },
+    {
+     "s": 10,
+     "t": "I... I freaked out when I saw the boxes, and I told the director everything right away. She was completely shocked as well..."
+    },
+    {
+     "s": 10,
+     "t": "But she didn't reprimand me for making the decision without consulting her. Instead, she contacted the merchant, and stated that the troupe could not agree to this collaboration."
+    },
+    {
+     "s": 10,
+     "t": "The merchant was furious, berated us for going back on our word, and threatened to sue us for damages. The amount was astronomical... There was no way we'd be able to pay..."
+    },
+    {
+     "s": 8,
+     "t": "A—And then...?"
+    },
+    {
+     "s": 10,
+     "t": "I was going to sort it on my own, but the director stopped me. She said that this was an issue for the whole troupe, and it wasn't my fault."
+    },
+    {
+     "s": 10,
+     "t": "But things only got worse from there. The Sinthe merchant just wouldn't let up. Then, suddenly the director told us all to leave the city one day... I knew then that things must have reached a boiling point..."
+    },
+    {
+     "s": 10,
+     "t": "I admit it, this whole thing was my mistake. I didn't dare to tell any of you the truth back then, and after the director disappeared, I was even more afraid to say anything."
+    },
+    {
+     "sit": "You brought the director to the attention of the Sinthe dealers."
+    },
+    {
+     "sit": "Your mistake gave them a motive to kidnap and murder her."
+    },
+    {
+     "s": 10,
+     "t": "Yeah. I got Aurelie killed — there, I said it. Happy now?"
+    },
+    {
+     "s": 5,
+     "t": "Hey, don't say that..."
+    },
+    {
+     "s": 8,
+     "t": "You traitor!!! You knew Aurelie was in danger! Why in god's name didn't you tell us!?"
+    },
+    {
+     "s": 8,
+     "t": "What do you mean, you were \"afraid\"!? This was a life-and-death situation, we could have saved her!"
+    },
+    {
+     "s": 8,
+     "t": "How could you be so stupid!?"
+    },
+    {
+     "s": 3,
+     "t": "Please, try not to get too worked up..."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, listen to him! You need to stay calm!"
+    },
+    {
+     "s": 8,
+     "t": "Stay calm? How can I stay calm? This guy got Aurelie murdered! She was the love of my life!"
+    },
+    {
+     "s": 8,
+     "t": "And he has the gall to try and high-road us, claiming that he kept his mouth shut for the sake of the show! How about taking some responsibility for what he's done?"
+    },
+    {
+     "s": 10,
+     "t": "All I can say is I'm sorry. Truly. I wanted to apologize... to everyone in the troupe. But that won't bring back the director. What good is my apology now?"
+    },
+    {
+     "s": 10,
+     "t": "I'm just a coward who made an awful, terrible mistake that I can never take back. Beat me up if you want — kill me if you prefer. It's what I deserve."
+    },
+    {
+     "s": 10,
+     "t": "End my life! So I can meet the director and apologize to her in person!"
+    },
+    {
+     "s": 8,
+     "t": "Get out of my sight! Go, get lost! I don't ever want to see your face again!"
+    },
+    {
+     "s": 4,
+     "t": "That's enough! You've screamed and shouted at each other for long enough. Now pipe down, both of you!"
+    },
+    {
+     "s": 4,
+     "t": "Can you stop conflating the show on stage with your real-life relationships in the troupe?"
+    },
+    {
+     "s": 4,
+     "t": "You keep saying that you want to use this final performance to pay tribute to your director and celebrate her life. How can you do that if you're just using it as an excuse to vent your own emotions?"
+    },
+    {
+     "s": 8,
+     "t": "...You're right."
+    },
+    {
+     "s": 10,
+     "t": "I'm sorry."
+    },
+    {
+     "s": 4,
+     "t": "On stage, the lead role is the focal point of the audience's attention, and you're all used to seeing the director as the heart of the troupe."
+    },
+    {
+     "s": 4,
+     "t": "But in her own life, her greatest desire wasn't to be the center of attention... I can tell how much she loved you all, and how much she loved the troupe."
+    },
+    {
+     "s": 4,
+     "t": "What she wanted was to build a warm home for all of her brothers and sisters. To shield you all from the storms that rage in the world outside. That's how you should remember her, and that's what you should be celebrating."
+    },
+    {
+     "s": 4,
+     "t": "I understand why you're trying to make her the hero of the story, but... isn't she your hero already? After everything she did for you?"
+    },
+    {
+     "s": 3,
+     "t": "Yeah."
+    },
+    {
+     "s": 4,
+     "t": "So think hard about what that means. And then think again about what you hope to achieve by arguing with each other."
+    },
+    {
+     "s": 4,
+     "t": "If you really hate each other, and can't reconcile your differences, then you could just call it quits now. Why bother with a final performance if the group is already fractured?"
+    },
+    {
+     "s": 4,
+     "t": "But you can't bring yourself to do that, can you? You care too much about Director Aurelie and the home she built you all to let go."
+    },
+    {
+     "s": 5,
+     "t": "Hehe."
+    },
+    {
+     "s": 4,
+     "t": "What are you laughing at? I don't see what's so funny."
+    },
+    {
+     "s": 5,
+     "t": "Sorry, I didn't mean it that way. It's just that... for a moment there, I... It felt like our director was back with us again."
+    },
+    {
+     "s": 5,
+     "t": "If she'd seen Pauleau and Vilmant at each other's throats like that, she would have scolded them exactly like you did, in that same stern voice."
+    },
+    {
+     "s": 0,
+     "t": "Really? But she sounded like such a gentle person..."
+    },
+    {
+     "s": 5,
+     "t": "Of course she was. Even her harshest lectures came from a place of kindness, and it showed. She really was a truly outstanding person."
+    },
+    {
+     "s": 8,
+     "t": "I... What you said, it... really puts everything into perspective."
+    },
+    {
+     "s": 10,
+     "t": "I'm truly sorry. I really meant for this to be a genuine apology, but... I ended up making it all about me and my self-pity."
+    },
+    {
+     "s": 3,
+     "t": "It's alright. Let's save all this for after the performance."
+    },
+    {
+     "s": 0,
+     "t": "Sooo... The ending. What are we gonna do about it?"
+    },
+    {
+     "s": 4,
+     "t": "Clearly, everyone needs to take a step back for now, and reflect on what really matters. When emotions are running high, things get lost in the fray."
+    },
+    {
+     "s": 4,
+     "t": "The end of the story needs to focus back on Aurelie herself. She's the true star of the show."
+    },
+    {
+     "s": 2,
+     "t": "It might actually be possible to find out more about her fate."
+    },
+    {
+     "s": 0,
+     "t": "What do you mean?"
+    },
+    {
+     "s": 4,
+     "t": "The Traveler is right. You once investigated that underwater Sinthe base, and recovered items belonging to the victims."
+    },
+    {
+     "s": 4,
+     "t": "If you could find anything that Aurelie left behind... Perhaps we can get a better sense of what she went through in her final days."
+    },
+    {
+     "s": 8,
+     "t": "You really think that's possible?"
+    },
+    {
+     "s": 4,
+     "t": "I trust that nobody would object to the ending of the story being based on Aurelie's true feelings?"
+    },
+    {
+     "s": 10,
+     "t": "No..."
+    },
+    {
+     "s": 3,
+     "t": "Well, we'll leave this in your capable hands."
+    },
+    {
+     "s": 4,
+     "t": "Come, let's pay a visit to the Palais Mermonia. The rest of you, head back to the rehearsal location for now, and wait for our good news."
+    },
+    {
+     "s": 2,
+     "t": "Your mistake gave them a motive to kidnap and murder her."
+    },
+    {
+     "s": 2,
+     "t": "But it also causes significant harm to the body."
+    },
+    {
+     "section": "Sedene"
+    },
+    {
+     "s": 11,
+     "t": "...You want to review some recovered items connected to victims of the serial disappearances case? But... that case has been closed for quite a while now."
+    },
+    {
+     "s": 11,
+     "t": "Still, since you were the ones who discovered and submitted the evidence in the first place, you don't actually have to submit an application... Okay. Please hold on — I'll have someone dig them out."
+    },
+    {
+     "sit": "Sedene sends a staff member to retrieve the box of Aurelie's former belongings."
+    },
+    {
+     "s": 4,
+     "t": "So this is all Aurelie left behind... Just whatever she was carrying on her person, and this tattered old notebook."
+    },
+    {
+     "s": 0,
+     "t": "Hey, it's full of script lines... and sketches, too. Looks like they show where the different props should be placed on-stage."
+    },
+    {
+     "s": 4,
+     "t": "Let me take a look. Maybe there's something in here from after she was kidnapped..."
+    },
+    {
+     "s": 4,
+     "t": "Aha! I found something. \"To whoever discovers this diary\"... Let's see..."
+    },
+    {
+     "s": 4,
+     "t": "Looks like she kept a detailed record of her captor's actions. She even mentions the truth behind the \"experiments\" on dissolving young women."
+    },
+    {
+     "s": 4,
+     "t": "If we'd had the chance to examine this notebook carefully back then, it would have been a conclusive piece of evidence, proving Vacher's guilt."
+    },
+    {
+     "s": 0,
+     "t": "Vacher took so many lives... It's still so unthinkable, how many victims he had."
+    },
+    {
+     "s": 4,
+     "t": "I guess Aurelie must have written all of this down in the hope that her records would one day be of use to investigators."
+    },
+    {
+     "s": 4,
+     "t": "Wait... it cuts off..."
+    },
+    {
+     "s": 2,
+     "t": "Uh, is something wrong?"
+    },
+    {
+     "s": 4,
+     "t": "Her handwriting here gets patchier and more illegible by the line... She probably didn't have much strength left."
+    },
+    {
+     "s": 4,
+     "t": "Her final words are... I'll let you read them for yourselves."
+    },
+    {
+     "s": 0,
+     "t": "She was so terrified..."
+    },
+    {
+     "sit": "She watched a girl get dissolved right in front of her..."
+    },
+    {
+     "sit": "And had to wait for her own death in silence..."
+    },
+    {
+     "s": 4,
+     "t": "She may have been a mighty hero in the eyes of her troupe, but... at the end of the day, she was only human."
+    },
+    {
+     "s": 4,
+     "t": "I can't bear to think how painful and lonely her final days must have been..."
+    },
+    {
+     "s": 4,
+     "t": "Wait, this part on the last page sounds strangely familiar..."
+    },
+    {
+     "s": 4,
+     "t": "\"If you become human... You can reveal your secret to no one. You will face suffering and loneliness. Is this truly what you want?\""
+    },
+    {
+     "s": 0,
+     "t": "Isn't that the most important line in \"The Little Oceanid\"?"
+    },
+    {
+     "s": 4,
+     "t": "\"Because I am an older sister to them.\""
+    },
+    {
+     "s": 0,
+     "t": "Ohhhhhh..."
+    },
+    {
+     "s": 4,
+     "t": "So she didn't regret her decision. Even as she sat in silence, waiting for death to come."
+    },
+    {
+     "s": 4,
+     "t": "I'm sure this is what the troupe would have hoped to hear as well."
+    },
+    {
+     "s": 4,
+     "t": "She had their utmost trust, admiration, and love... And she truly deserved it."
+    },
+    {
+     "s": 4,
+     "t": "Let's go. It's time for them to learn Director Aurelie's final thoughts."
+    },
+    {
+     "s": 2,
+     "t": "And had to wait for her own death in silence..."
+    },
+    {
+     "section": "Lauwick"
+    },
+    {
+     "sit": "After reading through the notebook, some are lost for words, some weep bitterly, and some grind their teeth and howl with rage..."
+    },
+    {
+     "sit": "A long time passes before the group is able to calmly come together and finally make a decision."
+    },
+    {
+     "s": 8,
+     "t": "She deserves a hero's farewell. If that's the only way to convey to the audience the courage and selflessness that she showed in the face of death, then it's a meaningful way to end the story."
+    },
+    {
+     "s": 3,
+     "t": "Even in the last moments of her life, she was still leaving a trail for others to follow."
+    },
+    {
+     "s": 5,
+     "t": "She did her best to protect as many people as possible, even if it meant sacrificing herself..."
+    },
+    {
+     "s": 5,
+     "t": "We know what choice our \"Little Oceanid\" would have made now. I don't think any more discussion is necessary."
+    },
+    {
+     "s": 5,
+     "t": "Well, Vilmant? If we put the past aside for now, do you think you can bring yourself to go ahead with the show?"
+    },
+    {
+     "s": 10,
+     "t": "...I will channel all my regret and put it into my performance, to make this a show worthy of our director."
+    },
+    {
+     "s": 10,
+     "t": "I won't ask for your forgiveness, and you don't need to worry about my feelings. This final farewell show should be about director Aurelie, and her alone."
+    },
+    {
+     "s": 4,
+     "t": "Then it seems like we've reached a consensus. I have a feeling that this will turn out to be the most mesmerizing performance of your lives."
+    },
+    {
+     "s": 0,
+     "t": "...Really? How can you be so sure when you've never even seen them perform before?"
+    },
+    {
+     "s": 4,
+     "t": "Hehe, don't underestimate my experience. After watching a countless number of musicals, I've learned one important thing."
+    },
+    {
+     "s": 4,
+     "t": "If you want to move the audience with your music, you must fully commit and immerse yourself in your role, pouring all your emotion into your performance."
+    },
+    {
+     "s": 4,
+     "t": "And aren't human emotions — love, hate, regret, and hope — just the most mesmerizing things in this world?"
+    },
+    {
+     "s": 4,
+     "t": "I don't believe anybody could be more committed to bringing this story to life on the stage than they are now."
+    },
+    {
+     "s": 5,
+     "t": "Thank you for the vote of confidence, Miss Furina. And thank you for supporting us through all this."
+    },
+    {
+     "s": 8,
+     "t": "Then let's not delay things any longer. We need to discuss the details of the ending, and get it nailed down once and for all."
+    },
+    {
+     "s": 5,
+     "t": "Actually, before that, I'd like to make a proposal."
+    },
+    {
+     "s": 5,
+     "t": "During the curtain call, please allow me to use the director's name instead of my own."
+    },
+    {
+     "s": 3,
+     "t": "Eh? But then..."
+    },
+    {
+     "s": 5,
+     "t": "After all, this role was originally meant to be played by the director. I'm just filling in for her."
+    },
+    {
+     "s": 5,
+     "t": "Besides, a role commemorating her life should be associated with her name."
+    },
+    {
+     "s": 8,
+     "t": "Well... If you're sure you're okay with that, I have no objection to it."
+    },
+    {
+     "s": 4,
+     "t": "Hehe, now we're talking like a serious acting troupe!"
+    },
+    {
+     "s": 4,
+     "t": "Alright, I'll leave you to fine-tune your musical while I go and procure a stage."
+    },
+    {
+     "s": 0,
+     "t": "Procure a stage?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, it's okay. Our usual place doesn't need a reservation..."
+    },
+    {
+     "s": 4,
+     "t": "That place? Don't be silly! For an extraordinary show, we need an extraordinary stage... By which I of course mean, the Opera Epiclese."
+    },
+    {
+     "s": 5,
+     "t": "Whoa, wait... what?"
+    },
+    {
+     "s": 10,
+     "t": "No, no, no... That's never going to work. It's far too fancy for the likes of us..."
+    },
+    {
+     "s": 4,
+     "t": "What are you afraid of? Surely you don't think that Aurelie's story is unworthy of the grandest stage in Fontaine?"
+    },
+    {
+     "s": 10,
+     "t": "Uh... No, that's not what I meant..."
+    },
+    {
+     "s": 0,
+     "t": "It is supposed to be your grand finale, right?"
+    },
+    {
+     "sit": "Believe in yourselves."
+    },
+    {
+     "sit": "Go big or go home!"
+    },
+    {
+     "s": 5,
+     "t": "I have no problem with it then, how about the rest of you?"
+    },
+    {
+     "s": 5,
+     "t": "...I'll take your silence as a yes! Haha. Thank you for giving us this opportunity... It really is a dream come true."
+    },
+    {
+     "s": 4,
+     "t": "Well, then don't disappoint me!"
+    },
+    {
+     "s": 4,
+     "t": "If you mess this up, it'll reflect poorly on me, too!"
+    },
+    {
+     "s": 4,
+     "t": "Come on. We'll need to get the go-ahead from Neuvillette — I know just where to find him."
+    },
+    {
+     "s": 2,
+     "t": "Go big or go home!"
+    },
+    {
+     "section": "Neuvillette"
+    },
+    {
+     "s": 4,
+     "t": "I knew you'd be here."
+    },
+    {
+     "s": 12,
+     "t": "I am here merely for a short break. It has been a while, Miss Furina. And you too, Traveler and Paimon. What might I assist you with today?"
+    },
+    {
+     "s": 4,
+     "t": "I would like to book the Opera Epiclese for an event. You see..."
+    },
+    {
+     "sit": "You share the story of \"The Little Oceanid\" with Neuvillette, along with the backstory."
+    },
+    {
+     "s": 12,
+     "t": "I understand. Hmm, the process for booking the Opera Epiclese is complex and can be somewhat cumbersome... But given that the request is coming from the three of you, I see no reason to make things unduly difficult."
+    },
+    {
+     "s": 12,
+     "t": "The story of the \"The Little Oceanid\" is most fascinating. I am looking forward to seeing it performed onstage."
+    },
+    {
+     "s": 12,
+     "t": "I will say, however, that I am surprised to see your passion for the performing arts rekindled after all that has happened."
+    },
+    {
+     "s": 4,
+     "t": "Huh? What do you mean? ...Do I look excited?"
+    },
+    {
+     "s": 12,
+     "t": "Yes. And this is the first time that I've seen you like this since your departure from deityhood."
+    },
+    {
+     "s": 4,
+     "t": "At first, I just felt bad about rejecting them, so I wanted to learn a little bit more about their situation. But one thing led to another, and... Well, here we are."
+    },
+    {
+     "s": 4,
+     "t": "In the past, we sat in our high chairs in the court, giving our opinions on isolated cases, all while knowing very little about the human stories behind each and every one."
+    },
+    {
+     "s": 4,
+     "t": "Maybe it's because I've finally become an ordinary person, and gained my freedom, that I've developed a great sense of curiosity about their lives."
+    },
+    {
+     "s": 12,
+     "t": "I am truly delighted to see you find a new lease on life."
+    },
+    {
+     "s": 12,
+     "t": "Now that you've regained some confidence, have you had any thoughts regarding a return to the stage?"
+    },
+    {
+     "s": 4,
+     "t": "...Why would you suddenly ask a question like that?"
+    },
+    {
+     "s": 12,
+     "t": "Well, if \"The Little Oceanid\" turns out to be a great success, it will no doubt become a classic. Many theatre companies are certain to add it to their repertoire."
+    },
+    {
+     "s": 12,
+     "t": "The experiences and decisions of the protagonist, Clio, are all modeled after your own. Naturally, this makes you eminently suited to playing the leading role."
+    },
+    {
+     "s": 12,
+     "t": "It would truly be a shame if you did not take this opportunity to allow audiences to enjoy your outstanding acting talents once more."
+    },
+    {
+     "s": 4,
+     "t": "Haven't I already made myself clear? I won't act or perform in any role ever again. No exceptions."
+    },
+    {
+     "s": 4,
+     "t": "Nor do I think it is any great shame. There is no lack of fine actors or inspirational stories, either on or off the stage."
+    },
+    {
+     "s": 4,
+     "t": "This experience is a case in point. I feel like I've learned a lot, and it has already been well worth the price of admission."
+    },
+    {
+     "s": 4,
+     "t": "I must admit, though, I'm a little envious... They're quite fortunate to be able to bid farewell to their past in such a magnificent manner."
+    },
+    {
+     "s": 12,
+     "t": "I see. Well, I'm glad to learn that you have found a role to play that you enjoy, be it on the stage or not."
+    },
+    {
+     "s": 12,
+     "t": "I sincerely hope the show will serve as the grandest of finales. I will have my staff book the date, and mail the relevant paperwork to the troupe once the details are confirmed."
+    },
+    {
+     "s": 0,
+     "t": "Thanks, Neuvillette!"
+    },
+    {
+     "s": 12,
+     "t": "You're very welcome."
+    },
+    {
+     "section": "Lauwick, Dulphy"
+    },
+    {
+     "s": 3,
+     "t": "First Miss Furina, now the Opera Epiclese... If only the director was still with us."
+    },
+    {
+     "s": 5,
+     "t": "Hey, come on. There's no point in dwelling on that now. We have a lot of work to do."
+    },
+    {
+     "s": 3,
+     "t": "Yeah, you're right. Now's not the time to get all melancholy."
+    },
+    {
+     "section": "Vilmant"
+    },
+    {
+     "s": 10,
+     "t": "...Best of luck to you."
+    },
+    {
+     "section": "Pauleau"
+    },
+    {
+     "s": 8,
+     "t": "During the final scene... Maybe we should stop the music just before Clio takes the stage?"
+    },
+    {
+     "section": "Lauwick"
+    },
+    {
+     "s": 4,
+     "t": "Good news, everyone — it's done! The Opera Epiclese is booked."
+    },
+    {
+     "s": 4,
+     "t": "Thanks to my eloquent and impassioned speech, Monsieur Neuvillette was moved to provide us with a fitting stage for this special performance."
+    },
+    {
+     "s": 4,
+     "t": "We've had to fight every step of the way for this opportunity, but we now have all of the ingredients necessary to stage a truly spectacular performance:"
+    },
+    {
+     "s": 4,
+     "t": "A touching story, a magnificent venue, and last but not least, a passionate and dedicated cast!"
+    },
+    {
+     "s": 4,
+     "t": "Now, let's work together, and make this show the best it can be!"
+    },
+    {
+     "s": 5,
+     "t": "Hehe, this is truly wonderful."
+    },
+    {
+     "s": 8,
+     "t": "The sooner we can finalize the ending, the more time we'll have to rehearse."
+    },
+    {
+     "s": 8,
+     "t": "Vilmant and I just went over some parts of the script and tweaked a few things. I think it's really going to resonate with the audience now."
+    },
+    {
+     "s": 0,
+     "t": "Wow, you two had a constructive conversation? That's great!"
+    },
+    {
+     "s": 10,
+     "t": "Communication is vital to any good performance."
+    },
+    {
+     "s": 3,
+     "t": "Haha... Look at us! We've come so far. I never could've pictured this scene a few days ago..."
+    },
+    {
+     "s": 0,
+     "t": "It's amazing... Even though Furina's still being a bit of a drama queen about it all, she's really fired everyone up!"
+    },
+    {
+     "s": 2,
+     "t": "I'm really looking forward to the final production."
+    },
+    {
+     "s": 3,
+     "t": "Please feel free to give us any comments or suggestions you have. We really value your input."
+    },
+    {
+     "s": 5,
+     "t": "Hey, Lauwick, get over here. Time to practice the opening number."
+    },
+    {
+     "section": "Neuvillette"
+    },
+    {
+     "s": 12,
+     "t": "Many people were once enthralled by Lady Furina's performances, myself included."
+    },
+    {
+     "s": 12,
+     "t": "I hope that one day, she'll be able to understand that our appreciation was always sincere."
+    },
+    {
+     "section": "Pauleau"
+    },
+    {
+     "s": 10,
+     "t": "That cursed Clio, she stole the waters of life from us! She's a fraud, and she must pay for her crimes!"
+    },
+    {
+     "s": 8,
+     "t": "This has nothing to do with her! The ignorance and hatred of our people is to blame. How can we hope to win back the water's favor if we don't change our ways?"
+    },
+    {
+     "s": 10,
+     "t": "This guy could be useful... Take him hostage! If Clio wants him back, she'll have to show herself..."
+    },
+    {
+     "s": 8,
+     "t": "Leave this place, O Little Oceanid, and never, ever look back!"
+    },
+    {
+     "s": 8,
+     "t": "*clap*"
+    },
+    {
+     "s": 4,
+     "t": "Everyone's really throwing themselves into their roles. I haven't seen such a fine performance in a long time."
+    },
+    {
+     "s": 4,
+     "t": "*sigh* If only..."
+    },
+    {
+     "s": 0,
+     "t": "What should we do? It's almost time for her to take the stage..."
+    },
+    {
+     "s": 5,
+     "t": "Ugh... Why, why does it have to be now..."
+    },
+    {
+     "s": 3,
+     "t": "Hey, what's going on? You're due on stage any second now..."
+    },
+    {
+     "s": 3,
+     "t": "Oh no, not again... But why? What about your new meds? Did they stop working?"
+    },
+    {
+     "s": 5,
+     "t": "They've... been getting less and less effective over time. I've had to keep increasing my dose..."
+    },
+    {
+     "s": 3,
+     "t": "What!? I thought they cure it... So they were only managing your symptoms?"
+    },
+    {
+     "s": 5,
+     "t": "I figured... whatever it took to get me through this final performance..."
+    },
+    {
+     "s": 3,
+     "t": "How could you do this to yourself? And after that lecture you gave me about not looking after my health!"
+    },
+    {
+     "s": 5,
+     "t": "...I'm sorry. I've let everyone down."
+    },
+    {
+     "s": 3,
+     "t": "You... *sigh* This is a conversation for another time. How can the show go on without its star performer?"
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "Miss Furina... I'd like to make a request of you."
+    },
+    {
+     "s": 4,
+     "t": "Say no more. If you're sick, you need to rest. I know what you're going to ask."
+    },
+    {
+     "s": 4,
+     "t": "Lauwick, your character has no more scenes, correct?"
+    },
+    {
+     "s": 3,
+     "t": "Oh, uh... Yeah, I think my scenes are all done. Although... I do have one more line, but I guess another guy in the troupe with a similar voice register could take it. Why?"
+    },
+    {
+     "s": 4,
+     "t": "Please take Dulphy back to her place to rest. I'll sing the finale."
+    },
+    {
+     "s": 4,
+     "t": "...*sigh* From the sublime to the ridiculous... After all that, everything's come full circle."
+    },
+    {
+     "s": 5,
+     "t": "Thank you, Miss Furina... I'm so sorry to put you in this position after everything you said..."
+    },
+    {
+     "s": 4,
+     "t": "Never mind, what's done is done. It's really my own fault for getting in too deep, hehe."
+    },
+    {
+     "s": 4,
+     "t": "No one likes regrets, myself included."
+    },
+    {
+     "s": 4,
+     "t": "Leave it to me. I've watched you rehearse so many times that I've learned Clio's part by heart."
+    },
+    {
+     "s": 5,
+     "t": "I do not doubt your acting skills, but please allow me to ask just one more question. After all, this show is dedicated to the life and legacy of our director..."
+    },
+    {
+     "s": 5,
+     "t": "What, in your opinion, is the reason Clio shines so brightly?"
+    },
+    {
+     "s": 4,
+     "t": "...It's her pure heart."
+    },
+    {
+     "s": 4,
+     "t": "Despite all the pain and loneliness she had to endure... She never once stopped believing in the beauty in this world."
+    },
+    {
+     "s": 5,
+     "t": "...Well said."
+    },
+    {
+     "s": 5,
+     "t": "I leave Director Aurelie in your hands."
+    },
+    {
+     "s": 13,
+     "t": "Is it just me, or... was that Lady Furina on the stage just now?"
+    },
+    {
+     "s": 14,
+     "t": "She hasn't been seen for a while now, and she just appears out of nowhere..."
+    },
+    {
+     "s": 14,
+     "t": "Gotta say, though, her acting skills are as superb as ever!"
+    },
+    {
+     "s": 8,
+     "t": "The Little Oceanid, Clio. Played by Aurelie Fumeau."
+    },
+    {
+     "s": 13,
+     "t": "Wait, that's not her name. What's going on?"
+    },
+    {
+     "s": 14,
+     "t": "I dunno. Maybe it's just a doppelganger?"
+    },
+    {
+     "s": 4,
+     "t": "(I've spent a lot of time out of the spotlight, and they didn't use my name during the curtain call either. Hopefully, not too many people recognized me...)"
+    },
+    {
+     "s": 4,
+     "t": "(It's too bad that I had to break the one clear rule I'd managed to make for myself... Even if I had no choice...)"
+    },
+    {
+     "s": 4,
+     "t": "(Still, I have to admit that, despite everything...)"
+    },
+    {
+     "s": 4,
+     "t": "(...It felt good to be back on the stage again.)"
+    },
+    {
+     "s": 8,
+     "t": "Finally, we would like to give a special thanks to our artistic consultant and event coordinator, Miss Furina!"
+    },
+    {
+     "s": 4,
+     "t": "Hey! That's not what we agreed on!"
+    },
+    {
+     "s": 13,
+     "t": "Ooooh, so it was Furina after all!"
+    },
+    {
+     "s": 14,
+     "t": "She's back!"
+    },
+    {
+     "s": 4,
+     "t": "Aaaah! Ugh, honestly, what is he doing! He should have run that by me first..."
+    },
+    {
+     "section": "Furina"
+    },
+    {
+     "s": 8,
+     "t": "Alright, calm down, don't be mad. This was a group decision. We just didn't want your contributions to go unacknowledged."
+    },
+    {
+     "s": 8,
+     "t": "After all, it's been the rule in Fontaine since ancient times that everyone's work, visible or invisible, is equally deserving of recognition."
+    },
+    {
+     "s": 4,
+     "t": "Yes, I know the rule, but... but... Ugh, it should still be applied on a case-by-case basis! I wasn't ready for this yet!"
+    },
+    {
+     "s": 0,
+     "t": "Ah, it's no big deal. What's the worst that could happen?"
+    },
+    {
+     "s": 2,
+     "t": "At most, you might be asked to sign a few autographs later."
+    },
+    {
+     "s": 4,
+     "t": "Oh yeah? Well, since you think it's so easy, you can sign them for me."
+    },
+    {
+     "s": 0,
+     "t": "This is a great chat and all, but can we talk about that crazy thing that happened during the show? It nearly gave Paimon a heart attack!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon flew over to where she was supposed to be, and was about to drop the prop Vision, and then suddenly... a real one popped out of thin air!"
+    },
+    {
+     "s": 4,
+     "t": "Oh, that..."
+    },
+    {
+     "s": 4,
+     "t": "I've got no idea what happened there, either. But hey, it worked pretty well, didn't it?"
+    },
+    {
+     "s": 4,
+     "t": "I'll bet the audience has never seen such a realistic prop."
+    },
+    {
+     "s": 8,
+     "t": "Wait, what about Dulphy? I wonder how she's doing."
+    },
+    {
+     "s": 10,
+     "t": "Let's go check on her as soon as we finish clearing the stage."
+    },
+    {
+     "s": 4,
+     "t": "Yes. Plus, she'll definitely want to hear how the end of the show went..."
+    },
+    {
+     "s": 4,
+     "t": "If nothing else, we can safely say that we accomplished what we set out to do."
+    },
+    {
+     "section": "Veillas, Gignac"
+    },
+    {
+     "s": 13,
+     "t": "What a surprise, seeing Miss Furina on the stage... This ticket was money well spent."
+    },
+    {
+     "s": 14,
+     "t": "Yeah, I agree... Say what you want about her, but she's flawless when she's on stage."
+    },
+    {
+     "section": "Sabine, Tussaud"
+    },
+    {
+     "s": 15,
+     "t": "I thought Clio's actress sang very well... Why did they swap her out at the end?"
+    },
+    {
+     "s": 16,
+     "t": "I dunno. Maybe that's just how it was scripted?"
+    },
+    {
+     "section": "Kirimoto"
+    },
+    {
+     "s": 17,
+     "t": "Did anyone see where Miss Furina went? I want to get her autograph, but I can't find her anywhere..."
+    },
+    {
+     "section": "Connie, Evra"
+    },
+    {
+     "s": 18,
+     "t": "I wasn't expecting such an incredible performance from an amateur troupe. They didn't seem out of place on the big stage at all."
+    },
+    {
+     "s": 19,
+     "t": "Yeah. Their technique could use some polish, but the performance in general felt very believable. Hit all the right emotional notes. I think it'll stay with me for a while."
+    },
+    {
+     "section": "Dulphy"
+    },
+    {
+     "s": 3,
+     "t": "Ah, you're back."
+    },
+    {
+     "s": 3,
+     "t": "She's doing okay. Her condition stabilized after taking some of her original medication. From experience, though, I'd say she still needs a few more days of rest."
+    },
+    {
+     "s": 5,
+     "t": "How did the performance go? Was it a success? Did the audience like it?"
+    },
+    {
+     "s": 0,
+     "t": "You'll be glad to know it was fantastic! Also, you're not gonna believe what happened while Furina was on the stage... You'll probably be able to read all about it in the Steambird first thing tomorrow morning."
+    },
+    {
+     "s": 5,
+     "t": "That's wonderful..."
+    },
+    {
+     "s": 5,
+     "t": "I'm so sorry I failed to see it through to the end. I guess I was wrong to try and tough it out to begin with."
+    },
+    {
+     "s": 4,
+     "t": "Don't worry about it. Like they told me after announcing my name during the curtain call — everyone's work deserves recognition."
+    },
+    {
+     "s": 4,
+     "t": "Even though you couldn't see it through to the final scene, the audience was very impressed by your performance. It's safe to say that you made your mark on this memorial show."
+    },
+    {
+     "s": 5,
+     "t": "Mm. Well, one way or another, we did it."
+    },
+    {
+     "s": 5,
+     "t": "I've had bad luck ever since I was born, so I never expect things to go smoothly in life... I'm just happy to know that we went out on a high note. That's all that matters."
+    },
+    {
+     "s": 3,
+     "t": "Blaming your bad luck again, are we? Maybe if you didn't push yourself past your limits so much, your illness wouldn't be flaring up all the time."
+    },
+    {
+     "s": 5,
+     "t": "Oh, don't you start... I don't have the energy to argue with you right now."
+    },
+    {
+     "s": 0,
+     "t": "Aww, you two clearly care a lot about each other."
+    },
+    {
+     "s": 3,
+     "t": "Hmph, I don't know what you're talking about."
+    },
+    {
+     "s": 5,
+     "t": "You mean, we never stop arguing with each other."
+    },
+    {
+     "s": 4,
+     "t": "So. Any plans for the next step?"
+    },
+    {
+     "s": 4,
+     "t": "After the brilliant performance you put on, the reputation of your troupe is sure to spread through Fontaine like wildfire. You won't have to disband if you don't want to."
+    },
+    {
+     "s": 4,
+     "t": "You could capitalize on the rave reviews and license out \"The Little Oceanid\" to the bigger theater troupes out there. That would do wonders for your financial situation."
+    },
+    {
+     "s": 5,
+     "t": "No, we should still disband."
+    },
+    {
+     "s": 3,
+     "t": "Yeah. It's what we all agreed to."
+    },
+    {
+     "s": 10,
+     "t": "After all that's happened, I should give you guys some space. But maybe our paths will cross again one day."
+    },
+    {
+     "s": 0,
+     "t": "Hey, don't just walk off! Ugh..."
+    },
+    {
+     "s": 8,
+     "t": "I still want to keep performing, so I might join another troupe."
+    },
+    {
+     "s": 8,
+     "t": "After watching Miss Furina's performance, I think I'm starting to understand our director's infatuation with musicals."
+    },
+    {
+     "s": 5,
+     "t": "Hehe, you should do it. It suits you. I'd originally hoped to keep performing too, but... I don't know if my health will allow me to."
+    },
+    {
+     "s": 3,
+     "t": "Oh, so now you've finally got your priorities in order... *sigh* I guess I'll hold off until you've properly recovered as well."
+    },
+    {
+     "s": 3,
+     "t": "What about you, Miss Furina? Any future plans?"
+    },
+    {
+     "s": 4,
+     "t": "Well, frankly, I think a return to obscurity is no longer an option for me. I'm sure a slew of consultancy requests will hound me wherever I go, until I finally acquiesce."
+    },
+    {
+     "s": 4,
+     "t": "You rather sealed my fate there, with your \"special thanks\" at the end of the show."
+    },
+    {
+     "s": 8,
+     "t": "Sorry..."
+    },
+    {
+     "s": 4,
+     "t": "It's quite alright. No need to apologize. What I meant to say is that... This whole experience has shown me that perhaps I'm not as averse to a return to the stage as I'd previously imagined."
+    },
+    {
+     "s": 4,
+     "t": "Maybe Neuvillette was right... Maybe \"Clio\" is the right role for me."
+    },
+    {
+     "s": 4,
+     "t": "I still don't wish to pretend to be someone else, but I do have a desire to express myself... So maybe the show will go on for me after all."
+    },
+    {
+     "sit": "There's no need to draw lines in the sand."
+    },
+    {
+     "sit": "Just do whatever feels right to you."
+    },
+    {
+     "s": 4,
+     "t": "Yeah. There was once a time when I was an actress in a masquerade, seeking only to hide the truth..."
+    },
+    {
+     "s": 4,
+     "t": "But from now on, I want to spend my time learning real stories about real people, and how they touch the lives of others around them."
+    },
+    {
+     "s": 4,
+     "t": "I want to watch them blossom and wither, see them refined on the page, retold on the stage, and remembered long into the future."
+    },
+    {
+     "s": 4,
+     "t": "I'm sure this is what captivated Director Aurelie as well."
+    },
+    {
+     "s": 0,
+     "t": "Sounds like you're ready to stop running from your true calling."
+    },
+    {
+     "s": 0,
+     "t": "The more you get out into the world, the more you'll discover what a fascinating place it is."
+    },
+    {
+     "s": 2,
+     "t": "Next time, I'll invite you to join me."
+    },
+    {
+     "s": 4,
+     "t": "Hehe, then it's a deal."
+    },
+    {
+     "s": 4,
+     "t": "If a Vision is a gift from the gods..."
+    },
+    {
+     "s": 4,
+     "t": "Then I should do my best to honor it."
+    },
+    {
+     "s": 2,
+     "t": "Just do whatever feels right to you."
+    }
+   ],
+   "description": "The members of the troupe do not see eye to eye on the ending of the script, and everyone believes they should hear what the last member, Vilmant, has to say on it. So, you set off from Poisson…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Katheryne",
+  "Traveler",
+  "Lauwick",
+  "Furina",
+  "Dulphy",
+  "Buraud",
+  "Elain",
+  "Pauleau",
+  "Navia",
+  "Vilmant",
+  "Sedene",
+  "Neuvillette",
+  "Veillas",
+  "Gignac",
+  "Sabine",
+  "Tussaud",
+  "Kirimoto",
+  "Connie",
+  "Evra"
+ ]
+}

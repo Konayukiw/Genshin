@@ -1,0 +1,535 @@
+{
+ "chapter": "The Call of Mystical Martial Arts",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Call of Mystical Martial Arts",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Call of Mystical Martial Arts",
+   "dialogue": [
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "Phew... Saved at last... Thank you so much!"
+    },
+    {
+     "s": 0,
+     "t": "I am called Gesine. As you can see, I am an Adventurer."
+    },
+    {
+     "s": 0,
+     "t": "Someone as skilled as you is surely no ordinary person! Are you a well-meaning knight? Or perhaps an errant hero(heroine), wandering the land?"
+    },
+    {
+     "sit": "I am but a passing traveler."
+    },
+    {
+     "sit": "I would prefer not to reveal my identity..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's name is Paimon, and he's(she's) {NICKNAME}, who also happens to be a member of the Adventurers' Guild!"
+    },
+    {
+     "s": 0,
+     "t": "So you are an adventurer after all, and quite the experienced one at that! You were able to dispose of such powerful monsters so easily... there really always is a bigger fish."
+    },
+    {
+     "s": 0,
+     "t": "Whereas for me... In training, I can easily remember what to do, but the second I have to do it for real, my body just doesn't listen to me..."
+    },
+    {
+     "s": 0,
+     "t": "Do I really have to train for another three to five years like my teacher said? But it'll be totally humiliating if I go back empty-handed like this... *sobs*"
+    },
+    {
+     "s": 1,
+     "t": "Aww, it's probably just because we have more experience! It took us a long time and a lot of battles before we got this strong!"
+    },
+    {
+     "sit": "First, you need to be able to stay calm."
+    },
+    {
+     "sit": "It's also important to judge the situation."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! Rookies often panic when they get into a real fight, so they tend to perform way worse than they might have otherwise."
+    },
+    {
+     "s": 1,
+     "t": "No matter how strong the enemy looks, you've gotta keep a cool head while you observe them and find their weak point!"
+    },
+    {
+     "s": 1,
+     "t": "And then you can take 'em down in a flash with a good ol' one-two, whap, ka-pow!"
+    },
+    {
+     "s": 0,
+     "t": "I see... Now that's experience talking! It seems I still need to hone my skills as I travel."
+    },
+    {
+     "sit": "Are you on a journey as well?"
+    },
+    {
+     "s": 0,
+     "t": "Yes... I'm planning a trip to <color=#00E1FFFF>Liyue</color>."
+    },
+    {
+     "s": 0,
+     "t": "Have you heard of the martial arts of Liyue? I've heard people can fly from rooftop to rooftop and run up walls, harden their skin so weapons can't pierce them, and even split iron like it was kindling!"
+    },
+    {
+     "s": 0,
+     "t": "If I could find a master to teach me a thing or two, I bet this whole adventuring thing would be a lot easier for me."
+    },
+    {
+     "s": 0,
+     "t": "But to be perfectly honest, though I've been a member of the Adventurers' Guild for quite some time now, this is my first time going on a long trip."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* And no sooner had I left the city than I found my way blocked by monsters. Can I really make it to Liyue in one piece...?"
+    },
+    {
+     "sit": "We're on our way to Liyue too."
+    },
+    {
+     "sit": "Care to join us?"
+    },
+    {
+     "s": 0,
+     "t": "Really? Or is it possible someone as experienced as you is also seeking someone of great prowess?"
+    },
+    {
+     "s": 1,
+     "t": "Not really! We're just traveling across all the nations of Teyvat for... reasons."
+    },
+    {
+     "s": 1,
+     "t": "Though we don't know Liyue all that well, we were planning on going there sooner or later anyway!"
+    },
+    {
+     "s": 1,
+     "t": "Since we're heading the same way, we can watch each others' backs!"
+    },
+    {
+     "s": 0,
+     "t": "Wow! I never imagined I'd be able to work with an adventurer as accomplished as yourself... There's hope for my journey after all!"
+    },
+    {
+     "s": 0,
+     "t": "Let me lead the way then. I studied the map carefully before I left, so there's no way I'll get lost!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "Phew... Saved at last... Thank you so much!"
+    },
+    {
+     "s": 0,
+     "t": "I am called Gesine. As you can see, I am an Adventurer."
+    },
+    {
+     "s": 0,
+     "t": "Someone as skilled as you is surely no ordinary person! Are you a well-meaning knight? Or perhaps an errant hero(heroine), wandering the land?"
+    },
+    {
+     "sit": "I am but a passing traveler."
+    },
+    {
+     "sit": "I would prefer not to reveal my identity."
+    },
+    {
+     "s": 1,
+     "t": "Paimon's name is Paimon, and he's(she's) {NICKNAME}, who also happens to be a member of the Adventurers' Guild!"
+    },
+    {
+     "s": 0,
+     "t": "So you are an adventurer after all, and quite the experienced one at that! You were able to dispose of such powerful monsters so easily... there really always is a bigger fish."
+    },
+    {
+     "s": 0,
+     "t": "Whereas for me... In training, I can easily remember what to do, but the second I have to do it for real, my body just doesn't listen to me..."
+    },
+    {
+     "s": 0,
+     "t": "Do I really have to train for another three to five years like my teacher said? But it'll be totally humiliating if I go back empty-handed like this... *sobs*"
+    },
+    {
+     "s": 1,
+     "t": "Aww, it's probably just because we have more experience! It took us a long time and a lot of battles before we got this strong!"
+    },
+    {
+     "sit": "First, you need to be able to stay calm."
+    },
+    {
+     "sit": "It's also important to judge the situation."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! Rookies often panic when they get into a real fight, so they tend to perform way worse than they might have otherwise."
+    },
+    {
+     "s": 1,
+     "t": "No matter how strong the enemy looks, you've gotta keep a cool head while you observe them and find their weak point!"
+    },
+    {
+     "s": 1,
+     "t": "And then you can take 'em down in a flash with a good ol' one-two, whap, ka-pow!"
+    },
+    {
+     "s": 0,
+     "t": "I see... Now that's experience talking! It seems I still need to hone my skills as I travel."
+    },
+    {
+     "sit": "Are you on a journey as well?"
+    },
+    {
+     "s": 0,
+     "t": "Yes... I'm planning a trip to <color=#00E1FFFF>Liyue</color>."
+    },
+    {
+     "s": 0,
+     "t": "Have you heard of the martial arts of Liyue? I've heard people can fly from rooftop to rooftop and run up walls, harden their skin so weapons can't pierce them, and even split iron like it was kindling!"
+    },
+    {
+     "s": 0,
+     "t": "If I could find a master to teach me a thing or two, I bet this whole adventuring thing would be a lot easier for me."
+    },
+    {
+     "s": 0,
+     "t": "But to be perfectly honest, though I've been a member of the Adventurers' Guild for quite some time now, this is my first time going on a long trip."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* And no sooner had I left the city than I found my way blocked by monsters. Can I really make it to Liyue in one piece...?"
+    },
+    {
+     "sit": "We've been to Liyue."
+    },
+    {
+     "sit": "C'mon, we'll take you."
+    },
+    {
+     "s": 0,
+     "t": "Wow! To have such a legendary colleague looking after me... There's hope for my journey after all!"
+    },
+    {
+     "s": 0,
+     "t": "Still, you must be really busy, for you to take the time to do this for me..."
+    },
+    {
+     "sit": "Fighting for justice is just part of my daily routine."
+    },
+    {
+     "sit": "Helping the next generation of heroes is part of my job, too."
+    },
+    {
+     "s": 0,
+     "t": "In that case, allow me to thank you in advance for putting up with me, for a while at least! I studied the map carefully before setting out, so I'll do my best not to slow you down!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "Sorry! Can you wait here for a moment?"
+    },
+    {
+     "sit": "What is it?"
+    },
+    {
+     "s": 1,
+     "t": "Did you forget something?"
+    },
+    {
+     "s": 0,
+     "t": "No, that I didn't. But looking at the map, if we go any further, we'll have left Mondstadt."
+    },
+    {
+     "s": 0,
+     "t": "And there's no way to know when I'll return... When my teacher sees my message, he'll flip his lid..."
+    },
+    {
+     "sit": "You've mentioned your teacher before..."
+    },
+    {
+     "sit": "Is he an Adventurer too?"
+    },
+    {
+     "s": 0,
+     "t": "Yes... When he first became an Adventurer, he ran into some Mitachurls out in the wild. During the melee, he let his guard down and got knocked out by an axe."
+    },
+    {
+     "s": 0,
+     "t": "He was lucky a passing Knight saved him and took him back."
+    },
+    {
+     "s": 0,
+     "t": "He was so ashamed, he decided to train his combat skills to the absolute max before he went out again. He's now been training for a decade..."
+    },
+    {
+     "s": 0,
+     "t": "He always says the basics are the most important, but I just can't stand hacking away at wooden dummies every day!"
+    },
+    {
+     "s": 0,
+     "t": "So I went out alone, without telling him..."
+    },
+    {
+     "sit": "Go back once you're stronger."
+    },
+    {
+     "sit": "Do something he'd be proud of."
+    },
+    {
+     "s": 0,
+     "t": "Yeah! That's exactly what I was thinking."
+    },
+    {
+     "s": 0,
+     "t": "Ah, I've got it..."
+    },
+    {
+     "sit": "Gesine takes out some Dandelion Seeds from her pack, placing them on her palm. She speaks softly to them, and then releases them to be scattered by the wind..."
+    },
+    {
+     "s": 0,
+     "t": "According to our customs, Dandelions can carry wishes."
+    },
+    {
+     "s": 0,
+     "t": "I just wished that everything will go smoothly on my journey, that I'll reach my goals, and that my teacher will understand me."
+    },
+    {
+     "sit": "I am certain the Anemo Archon has heard your wish."
+    },
+    {
+     "s": 0,
+     "t": "Yeah! Time to forge ahead!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "That's <color=#00E1FFFF>Dihua Marsh</color> up ahead, right? It's so beautiful! You won't see anything like this in Mondstadt."
+    },
+    {
+     "s": 0,
+     "t": "I knew that going on a journey was the right decision!"
+    },
+    {
+     "s": 0,
+     "t": "Oh, right! This doesn't happen every day, so let's take a picture together as a keepsake!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "I'll treasure this photo of us together!"
+    },
+    {
+     "s": 0,
+     "t": "Ah! I didn't realize how hungry I was until I relaxed..."
+    },
+    {
+     "s": 1,
+     "t": "Now you mention it, Paimon's tummy is starting to rumble too..."
+    },
+    {
+     "sit": "Let's find a place to rest."
+    },
+    {
+     "sit": "Paimon, light a fire and start cooking!"
+    },
+    {
+     "s": 1,
+     "t": "Let's take a look around, find a place we can score some food!"
+    },
+    {
+     "s": 0,
+     "t": "There don't seem to be any suitable restaurants nearby... Given how much you've helped and how much I look up to you, I'd feel bad eating at just any old place."
+    },
+    {
+     "s": 0,
+     "t": "Speaking of food, might that building on top of that giant rock up ahead be the famous <color=#00E1FFFF>Wangshu Inn</color>?"
+    },
+    {
+     "s": 0,
+     "t": "I heard from a Liyue merchant who does business in Mondstadt that the food there is simply superb!"
+    },
+    {
+     "s": 0,
+     "t": "Let me treat you to a feast as thanks!"
+    },
+    {
+     "s": 1,
+     "t": "Woo-hoo! Let's go get some food!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "I've heard that Liyue cuisine has a holistic focus on appearance, smell, and taste! It really does look so different."
+    },
+    {
+     "s": 1,
+     "t": "And Paimon's mouth is watering just looking at it!"
+    },
+    {
+     "sit": "Together, you savor the delicacies of Wangshu Inn..."
+    },
+    {
+     "s": 1,
+     "t": "Wowowow, this is delicious too, and this, and that... Ahhh, I'm too stuffed to eat another bite!"
+    },
+    {
+     "sit": "Now that was great!"
+    },
+    {
+     "sit": "I'm completely recovered from traveling!"
+    },
+    {
+     "s": 0,
+     "t": "Thank you so much for everything you've done! If it weren't for you, I can't imagine how much more difficult it would've been for me to get here."
+    },
+    {
+     "s": 0,
+     "t": "One of the staff here told me that if I stay on this road, <color=#00E1FFFF>Liyue Harbor</color> will be just up ahead."
+    },
+    {
+     "s": 0,
+     "t": "I plan to rest here for a few days, and ask around about where I can find legendary experts, then decide where I should go next."
+    },
+    {
+     "s": 0,
+     "t": "Though I really enjoyed traveling with you, I can't keep imposing on you like this."
+    },
+    {
+     "s": 0,
+     "t": "Moving forward, it's up to me to get stronger, so that I can become an Adventurer just as reliable as you!"
+    },
+    {
+     "s": 1,
+     "t": "Hehe, though we didn't spend that much time together, we had a good time too!"
+    },
+    {
+     "s": 1,
+     "t": "I hope we'll meet again sometime!"
+    },
+    {
+     "sit": "May we meet again."
+    },
+    {
+     "sit": "I hope you find what you're looking for!"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! You too, I hope your travels go well!"
+    },
+    {
+     "sit": "Gesine waves goodbye."
+    },
+    {
+     "s": 1,
+     "t": "Well, since we're here, why don't we take a look around the area?"
+    },
+    {
+     "s": 1,
+     "t": "Maybe there are more exciting encounters awaiting us!"
+    },
+    {
+     "s": 1,
+     "t": "Gesine said <color=#00E1FFFF>Liyue Harbor</color> was just up ahead. We should go check it out when we have time!"
+    },
+    {
+     "section": "Gesine"
+    },
+    {
+     "s": 0,
+     "t": "I've heard that Liyue cuisine has a holistic focus on appearance, smell, and taste! It really does look so different."
+    },
+    {
+     "s": 1,
+     "t": "And Paimon's mouth is watering just looking at it!"
+    },
+    {
+     "sit": "Together, you savor the delicacies of Wangshu Inn..."
+    },
+    {
+     "s": 1,
+     "t": "Wowowow, this is delicious too, and this, and that... Ahhh, I'm too stuffed to eat another bite!"
+    },
+    {
+     "sit": "Now that was great!"
+    },
+    {
+     "sit": "I'm completely recovered from traveling!"
+    },
+    {
+     "s": 0,
+     "t": "Thank you so much for everything you've done! If it weren't for you, I can't imagine how much more difficult it would've been for me to get here."
+    },
+    {
+     "s": 0,
+     "t": "One of the staff here told me that if I stay on this road, <color=#00E1FFFF>Liyue Harbor</color> will be just up ahead."
+    },
+    {
+     "s": 0,
+     "t": "I plan to rest here for a few days, and ask around about where I can find legendary experts, then decide where I should go next."
+    },
+    {
+     "s": 0,
+     "t": "Though I really enjoyed traveling with you, I can't keep imposing on you like this."
+    },
+    {
+     "s": 0,
+     "t": "Moving forward, it's up to me to get stronger, so that I can become an Adventurer just as reliable as you!"
+    },
+    {
+     "s": 1,
+     "t": "Hehe, though we didn't spend that much time together, we had a good time too!"
+    },
+    {
+     "s": 1,
+     "t": "I hope we'll meet again sometime!"
+    },
+    {
+     "sit": "May we meet again."
+    },
+    {
+     "sit": "I hope you find what you're looking for!"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! You too, I hope your travels go well!"
+    },
+    {
+     "sit": "Gesine waves goodbye."
+    },
+    {
+     "s": 1,
+     "t": "Well, since we're here, why don't we take a look around the area?"
+    },
+    {
+     "s": 1,
+     "t": "Maybe there are more exciting encounters awaiting us!"
+    }
+   ],
+   "description": "An Adventurer wants to seek out the legendary martial arts of Liyue, yet no sooner had they set foot on the road than they ran into mortal danger…"
+  }
+ ],
+ "speakers": [
+  "Gesine",
+  "Paimon"
+ ]
+}

@@ -1,0 +1,999 @@
+{
+ "chapter": "Treasure Voyage",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Treasure Voyage",
+ "region": null,
+ "quests": [
+  {
+   "title": "Treasure Voyage",
+   "dialogue": [
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 0,
+     "t": "Ahoy there! You're finally here. I've been waiting for a long time. Even my deck is getting burrs."
+    },
+    {
+     "s": 0,
+     "t": "But this boat... does this boat even have a deck? This is a dinghy at most, haha."
+    },
+    {
+     "s": 0,
+     "t": "Who would've thought that I, the notorious pirate ship commanded by Ako Domeki would one day end up like this."
+    },
+    {
+     "s": 1,
+     "t": "So you're a big pirate ship? But who's Ako Domeki?"
+    },
+    {
+     "s": 0,
+     "t": "What? You don't even know who Ako Domeki is?"
+    },
+    {
+     "sit": "Never heard of them."
+    },
+    {
+     "sit": "I... may have heard of them?"
+    },
+    {
+     "s": 0,
+     "t": "Ako Domeki Zaemon? Defender of Seirai? The name of the most feared pirate ever to sail the seas... *sigh* Who would've thought..."
+    },
+    {
+     "s": 1,
+     "t": "Nope, the name doesn't ring a bell... Alright Miitoboru, you told us to come here, so tell us... What is this all about?"
+    },
+    {
+     "s": 0,
+     "t": "It feels so weird being called that all of a sudden. Ugh... You see, as I said, I'm here because I drifted here..."
+    },
+    {
+     "s": 0,
+     "t": "So I'm thinking my original body must be nearby... It feels strange using the word \"body,\" haha... but I do need to find it as soon as possible."
+    },
+    {
+     "s": 0,
+     "t": "I've lost track of how long I've been sleeping here, but I'm certain my companions will still be waiting for me. I need to find my body, get shipshape, and return to them as soon as possible!"
+    },
+    {
+     "s": 1,
+     "t": "Right..."
+    },
+    {
+     "s": 0,
+     "t": "Aye, but I can't make it there on my own. After all, a talking ship is just a ship. It still needs someone at the wheel."
+    },
+    {
+     "s": 0,
+     "t": "Let's make a deal. You help me find my body, and I will help you find treasure in return!"
+    },
+    {
+     "s": 1,
+     "t": "Treasure!"
+    },
+    {
+     "s": 0,
+     "t": "I'm a pirate ship after all! Call it a pirate ship's intuition, or some kind of sixth sense — either way, the moment I woke up, I could sense that this area is filled with valuable treasures."
+    },
+    {
+     "s": 0,
+     "t": "You have my word, a pirate ship always finds its treasure, argh! Or may I be blighted with barnacles! What say ye, me hearties — do we have an accord?"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, let's help Miitoboru. If he finds his body and we get treasure in return, everybody wins!"
+    },
+    {
+     "sit": "He had you at \"treasure,\" huh?"
+    },
+    {
+     "sit": "I had a feeling that might swing it for you."
+    },
+    {
+     "s": 1,
+     "t": "Hee-hee... {NICKNAME}..."
+    },
+    {
+     "s": 0,
+     "t": "So, {NICKNAME}... Will you help me, or not?"
+    },
+    {
+     "sit": "We'd be delighted."
+    },
+    {
+     "s": 0,
+     "t": "Great! Well, there's a place I wanted to go to as soon as I woke up. Based on my pirate ship's intuition, there's be some big treasure hidden there! Argh! Let's head there and search for it!"
+    },
+    {
+     "s": 1,
+     "t": "Time to set sail!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Is this really the right place? There's nothing here but a shipwreck..."
+    },
+    {
+     "s": 1,
+     "t": "Miitoboru had better not be lying to us... Guess it's time to go back and ask our friend a couple of questions, {NICKNAME}!"
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 0,
+     "t": "How did it go? Did you find anything valuable?"
+    },
+    {
+     "s": 1,
+     "t": "Hmph, Miitoboru!"
+    },
+    {
+     "sit": "Hmph, Miitoboru!"
+    },
+    {
+     "s": 1,
+     "t": "There is nothing on this island except for a shipwreck. What kind of intuition is that?"
+    },
+    {
+     "s": 0,
+     "t": "What? No, impossible..."
+    },
+    {
+     "s": 0,
+     "t": "Ah, I know! It must be because I have been sleeping for too long, and my intuition is not as sharp as it once was. Uhhh, as the saying goes, nobody's perfect, and certainly no boat's perfect either, right? Cut me a little slack, huh..."
+    },
+    {
+     "s": 0,
+     "t": "The next place will be the one... I'm sure the next place will be full of treasure..."
+    },
+    {
+     "s": 1,
+     "t": "It'd better be! No more playing tricks on us this time!"
+    },
+    {
+     "s": 0,
+     "t": "You have my word! ...But, um... the next place is a little far away, and I'm not sure of the precise location. All I know is that... it's somewhere northwest of here..."
+    },
+    {
+     "s": 1,
+     "t": "But there are so many islands in the northwest! You gotta give us a little more than that!"
+    },
+    {
+     "s": 1,
+     "t": "Wait a minute... If you mean one of the larger islands, there are only two of them in the northwest."
+    },
+    {
+     "sit": "The island full of raven statues..."
+    },
+    {
+     "sit": "The island where musical flowers grow..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... Now that you mention it, I do sense the cawing of ravens coming from over there..."
+    },
+    {
+     "s": 0,
+     "t": "But not just the sound of ravens, no... there be music as well..."
+    },
+    {
+     "s": 0,
+     "t": "To be precise, the \"cawing\" is coming from the east, and the \"music\" is coming from the southwest."
+    },
+    {
+     "s": 1,
+     "t": "So you're hearing two sounds? Ugh... where could this darn treasure be..."
+    },
+    {
+     "s": 1,
+     "t": "But where can you hear the sounds from both islands at the same time...?"
+    },
+    {
+     "sit": "Somewhere in between the two."
+    },
+    {
+     "s": 1,
+     "t": "Oh, you're right, {NICKNAME}... Yup! That's exactly what Paimon was thinking too!"
+    },
+    {
+     "sit": "Excellent work, Paimon."
+    },
+    {
+     "s": 0,
+     "t": "Argh! Then let's go over and take a look! Hahahaha..."
+    },
+    {
+     "s": 0,
+     "t": "You know... I must say, it seems you two are quite close."
+    },
+    {
+     "s": 1,
+     "t": "You bet! We've been on loads of adventures together and found lots of treasure before!"
+    },
+    {
+     "sit": "Paimon is the best companion one could ask for!"
+    },
+    {
+     "sit": "Paimon is the best guide in all of Teyvat!"
+    },
+    {
+     "s": 0,
+     "t": "Argh... if only I'd been able to speak back when we were sailing on the sea, then maybe I would've been able to communicate with my companions just like you two..."
+    },
+    {
+     "s": 0,
+     "t": "You seem to have so much fun together, I'm a little jealous."
+    },
+    {
+     "s": 1,
+     "t": "Hee-hee..."
+    },
+    {
+     "s": 0,
+     "t": "Alright! Time to find the center location of these two big islands!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Well, surprise, surprise... There's nothing here either, except yet another shipwreck... well, half a shipwreck, anyway."
+    },
+    {
+     "s": 1,
+     "t": "Was there no treasure this whole time? Um... Oh... But wait, both times Miitoboru thought he was sensing treasure, it turned out to be shipwrecks... Does that mean this is his body!?"
+    },
+    {
+     "sit": "Maybe boats have a special platonic bond that draws them together."
+    },
+    {
+     "sit": "It is possible."
+    },
+    {
+     "s": 1,
+     "t": "What does that mean? ...Ohhh, like they're ship-friends?"
+    },
+    {
+     "s": 1,
+     "t": "Hey, {NICKNAME}, why don't we take a picture of the boat and show it to Miitoboru..."
+    },
+    {
+     "s": 1,
+     "t": "Then he can confirm whether it's his body or not!"
+    },
+    {
+     "section": "Start Taking Photos"
+    },
+    {
+     "s": 2,
+     "t": "Photograph Placeholder"
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 1,
+     "t": "Miitoboru!"
+    },
+    {
+     "s": 0,
+     "t": "There you are, how did it go? Did you find something? Let me guess, you found a huge—"
+    },
+    {
+     "s": 0,
+     "t": "*sigh* A huge load of nothing? Ugh... I dropped the cannonball again, didn't I?"
+    },
+    {
+     "s": 1,
+     "t": "Same as last time. Just another shipwreck."
+    },
+    {
+     "s": 1,
+     "t": "Maybe they're parts of your body? We took pictures of them, take a look!"
+    },
+    {
+     "sit": "(Show the picture of the shipwreck...)"
+    },
+    {
+     "s": 0,
+     "t": "Is this a painting? I didn't know you two could paint so well. Just look at the detail, down to the smallest blade of grass... It's just like the real thing!"
+    },
+    {
+     "s": 1,
+     "t": "We didn't paint this. We took it using a Kamera."
+    },
+    {
+     "s": 0,
+     "t": "So it was drawn by a machine, through some high-speed mechanism..."
+    },
+    {
+     "s": 1,
+     "t": "So, even the mighty pirate ship has never seen a Kamera before!"
+    },
+    {
+     "s": 0,
+     "t": "What are you trying to say? It's not like I haven't seen similar things before. It's just like the Hell Paintings in all those legends."
+    },
+    {
+     "s": 0,
+     "t": "But anyway, what's that thing in the middle of this... picture?"
+    },
+    {
+     "s": 1,
+     "t": "That's the shipwreck we found... Take a look! Could it be... your body?"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Ha, impossible! Where did this sorry ship come from? It's a total wreck."
+    },
+    {
+     "s": 0,
+     "t": "You may not know this, but I'm considered as the mightiest pirate ship of the Ako Domeki fleet. My hull is made of the best wood found on Seirai Island."
+    },
+    {
+     "s": 0,
+     "t": "The edges of my frame boards were refined with folding saws so that the pieces fit together perfectly. Then they were joined together and reinforced with large rivets, making me indestructible... There's no way I could end up like this!"
+    },
+    {
+     "s": 1,
+     "t": "But your intuition led us to shipwrecks twice in a row..."
+    },
+    {
+     "s": 0,
+     "t": "It's probably because of the special bond between all boats that draws us to one another. Before they ran aground, these ships may well have been self-aware too. The remnants of their spirit is most likely what I sensed."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, this can't be my body... My body is probably docked at a hidden port somewhere in these waters."
+    },
+    {
+     "s": 0,
+     "t": "You'll see... My side panels are painted with the finest lacquer. Argh, what a majestic sight I used to be."
+    },
+    {
+     "s": 0,
+     "t": "Once we find it, you'll realize how different I am from this shipwreck in your picture."
+    },
+    {
+     "s": 1,
+     "t": "That sounds great! We should go for a cruise together sometime."
+    },
+    {
+     "s": 0,
+     "t": "Argh, that's for sure!"
+    },
+    {
+     "s": 0,
+     "t": "I can't believe I sensed the wrong thing twice in a row... The lack of maintenance has really taken the wind out of my sails as far as my intuition goes."
+    },
+    {
+     "s": 0,
+     "t": "You have to apply caulk once in a while if you want a long-lasting voyage. That goes for people, too."
+    },
+    {
+     "s": 1,
+     "t": "What the heck is \"caulk\"? Is it the glue that holds all the parts of the ship together?"
+    },
+    {
+     "s": 1,
+     "t": "Haha, Paimon, you're a funny one, aren't you. No, but you're not that far off!"
+    },
+    {
+     "s": 0,
+     "t": "Caulk is the stuff we use to fill the gaps between the planks to stop water from leaking into the ship. It's made of rubber or something. Every once in a while, you gotta caulk the gaps as part of the maintenance!"
+    },
+    {
+     "sit": "Just like how people need a good rest once in a while."
+    },
+    {
+     "s": 0,
+     "t": "Exactly. Which reminds me, I got some good rest when you two went on that little adventure, I'm sure I'll be able to sense where the real treasure is now!"
+    },
+    {
+     "s": 0,
+     "t": "Third time's the charm! Time to get serious. We'll definitely find something this time!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon sure hopes so... Anything will do at this point..."
+    },
+    {
+     "s": 0,
+     "t": "What's wrong, Paimon? You don't sound like you believe me..."
+    },
+    {
+     "s": 0,
+     "t": "Anyway... This time, I sense something in the southeast, on the sea surface. It doesn't feel like something very big. And that raises the chances of it being a small but valuable item, hahaha."
+    },
+    {
+     "s": 0,
+     "t": "Come on, let's go!"
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 0,
+     "t": "Surely you found something this time!"
+    },
+    {
+     "s": 0,
+     "t": "Have I finally convinced you of this mighty pirate ship's razor-sharp treasure-hunting senses!"
+    },
+    {
+     "s": 1,
+     "t": "All there was was a bird's nest..."
+    },
+    {
+     "s": 1,
+     "t": "So yeah, technically there were a couple of eggs... but that was all."
+    },
+    {
+     "s": 0,
+     "t": "Oh... just, uh, just the two, you say?"
+    },
+    {
+     "s": 1,
+     "t": "Really? So this is the valuable treasure you were talking about?"
+    },
+    {
+     "s": 0,
+     "t": "Ahem, Paimon, you may not be aware, but the mightier the pirate ship, the longer its voyage at sea, you see... Eventually, the only food available onboard is dry fish..."
+    },
+    {
+     "s": 0,
+     "t": "At times like this, a couple of bird eggs on a reef nearby can easily become the most valuable treasure to a crew."
+    },
+    {
+     "s": 1,
+     "t": "Miitoboru..."
+    },
+    {
+     "sit": "Your excuses are so lame..."
+    },
+    {
+     "sit": "That's nonsense."
+    },
+    {
+     "s": 0,
+     "t": "Okay, fine... But how the heck did I end up sensing eggs? How strange..."
+    },
+    {
+     "s": 0,
+     "t": "I swear I sensed something!"
+    },
+    {
+     "s": 1,
+     "t": "But there's nothing else on the reef..."
+    },
+    {
+     "s": 1,
+     "t": "Could it be these two planks? Seems like they were used as a shelter. Paimon wonders where they came from..."
+    },
+    {
+     "sit": "Wait, this plank..."
+    },
+    {
+     "s": 1,
+     "t": "What happened? What was that?"
+    },
+    {
+     "sit": "Was that someone's memory?"
+    },
+    {
+     "s": 0,
+     "t": "*sigh*..."
+    },
+    {
+     "s": 0,
+     "t": "I know where this plank comes from. {NICKNAME}, Paimon, what you saw just now was my own memory."
+    },
+    {
+     "s": 0,
+     "t": "It was my first time sailing on the sea after I was built. The crew used greased planks to create a slipway, then launched me into the water..."
+    },
+    {
+     "s": 0,
+     "t": "The thing is, it's really hard to control the angle at which the bow launches onto the water. It could very well break if you're not careful, which is why most people choose to launch the ship sideways instead."
+    },
+    {
+     "s": 0,
+     "t": "These two planks... Or should I say, these two side panels... They must have been the first parts of my body to make contact with the water."
+    },
+    {
+     "s": 1,
+     "t": "Miitoboru... If your side panels are here, does that mean..."
+    },
+    {
+     "s": 0,
+     "t": "...Maybe I crashed into the reef here and was shattered to pieces long ago... And maybe the sensation I had when I woke up wasn't some kind of treasure-hunting intuition after all, but me responding to my own body..."
+    },
+    {
+     "s": 0,
+     "t": "There I was, making fun of that shipwreck, blissfully unaware that I was actually making fun of my own body. Haha... Ah, how embarrassing."
+    },
+    {
+     "s": 1,
+     "t": "We don't know that for sure! Maybe... maybe your body is still in one piece! Yeah, these two planks are probably just, um... part of your... family tree!"
+    },
+    {
+     "sit": "You mean they're... wood-relatives?"
+    },
+    {
+     "s": 1,
+     "t": "Yup, could share the same roots! Even it's if not, there are loads of shipwrecks around here. These planks probably just belong to one of them."
+    },
+    {
+     "s": 0,
+     "t": "But..."
+    },
+    {
+     "sit": "Paimon is right."
+    },
+    {
+     "sit": "There are other possibilities."
+    },
+    {
+     "s": 0,
+     "t": "I... *sigh* Thank you, both of you..."
+    },
+    {
+     "s": 1,
+     "t": "By the way, Miitoboru, wasn't there something about your name mentioned in that memory? Do you remember your name now?"
+    },
+    {
+     "s": 0,
+     "t": "...It's a pity, but I'm afraid I didn't see much more than you did. I still can't recall my name..."
+    },
+    {
+     "s": 1,
+     "t": "Oh, that's a shame..."
+    },
+    {
+     "s": 0,
+     "t": "It's not too bad! You and {NICKNAME} can keep calling me Miitoboru. It's a good name!"
+    },
+    {
+     "s": 1,
+     "t": "Hee-hee, of course it is, Paimon picked it, after all. So, Miitoboru, is there anywhere else you want to go?"
+    },
+    {
+     "s": 0,
+     "t": "Although I can sense two more places... I fear it will be the same situation as before. No treasures, only some driftwood..."
+    },
+    {
+     "s": 1,
+     "t": "It doesn't matter!"
+    },
+    {
+     "s": 0,
+     "t": "Argh... but I swore there'd be treasure in this deal for you..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, it's okay, Miitoboru... we're friends now!"
+    },
+    {
+     "sit": "Friends don't do deals."
+    },
+    {
+     "s": 0,
+     "t": "Well, in that case... Whether it's treasure or not, let's hope you two can find something rather than nothing there."
+    },
+    {
+     "sit": "It's fine either way."
+    },
+    {
+     "sit": "Whatever the booty, we'll take it!"
+    },
+    {
+     "s": 0,
+     "t": "Haha, good! Let's go to the closer location first!"
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 1,
+     "t": "Sure enough, no treasure here..."
+    },
+    {
+     "sit": "Does that really matter?"
+    },
+    {
+     "sit": "Treasure isn't the be-all and end-all..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon knows that! ...Paimon just can't help feeling a little disappointed, that's all..."
+    },
+    {
+     "s": 1,
+     "t": "There's a wooden sword here. It looks like a children's toy..."
+    },
+    {
+     "sit": "Then it's perfect for Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Hey!"
+    },
+    {
+     "s": 0,
+     "t": "The thing I sensed... Could it be this wooden sword?"
+    },
+    {
+     "s": 1,
+     "t": "Surely it couldn't be a wooden sword..."
+    },
+    {
+     "sit": "I think it actually might be the wooden sword..."
+    },
+    {
+     "s": 1,
+     "t": "Wow, that lightning was really powerful! What's this memory about?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon can still feel her head spinning..."
+    },
+    {
+     "s": 0,
+     "t": "Shiver me timbers!!! I remember now. The sea battle between Ako Domeki and the Shogunate. And then the lightning that came at the end of the battle..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh*... What could it have been?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon has no idea. It was really scary, though."
+    },
+    {
+     "s": 0,
+     "t": "Wait... So that thunderstorm was the reason I... the reason I drifted here. Aye, I was terribly injured in that storm. My whole body was falling apart..."
+    },
+    {
+     "s": 0,
+     "t": "It took all my strength to get here."
+    },
+    {
+     "s": 1,
+     "t": "Aw, Miitoboru... But what about the wooden sword? What does this have to do with it?"
+    },
+    {
+     "s": 0,
+     "t": "Zaemon once seized a sword-wielding Maguu with his barbed spear. The Maguu drifted here with us. The wooden sword was probably crafted by local children, imitating the Maguu's sword..."
+    },
+    {
+     "s": 0,
+     "t": "The body of the mighty pirate ship that once fought against the Shogunate, now reduced to a children's toy, of all things... Argh... my mind is awash with strange and complex feelings."
+    },
+    {
+     "s": 1,
+     "t": "So Miitoboru, should we take this with us? After all... it is a part of you..."
+    },
+    {
+     "s": 0,
+     "t": "...No, there's no point taking this now. Hmph, young scallywags... the little landlubbers got me this time!"
+    },
+    {
+     "s": 0,
+     "t": "...*sigh* Although it's disappointing now that I remember the truth, somehow I feel relieved, too... At least I know what happened. I won't be deceiving myself with my wishful thinking any longer."
+    },
+    {
+     "s": 0,
+     "t": "The only thing I'm worried about now is my old mateys who drifted here with me... I wish I could know how they're doing."
+    },
+    {
+     "sit": "I'm sure they'll be fine."
+    },
+    {
+     "s": 0,
+     "t": "Aye, let's hope so... Okay, there's one last place..."
+    },
+    {
+     "s": 0,
+     "t": "I can feel it... it's the last piece of my body."
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 1,
+     "t": "Sure enough, no treasure here..."
+    },
+    {
+     "sit": "Does that really matter?"
+    },
+    {
+     "sit": "Treasure isn't the be-all and end-all..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon knows that! ...Paimon just can't help feeling a little disappointed, that's all..."
+    },
+    {
+     "s": 1,
+     "t": "There's a wooden sword here. It looks like a children's toy..."
+    },
+    {
+     "sit": "Then it's perfect for Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Hey!"
+    },
+    {
+     "s": 0,
+     "t": "The thing I sensed... Could it be this wooden sword?"
+    },
+    {
+     "s": 1,
+     "t": "Surely it couldn't be a wooden sword..."
+    },
+    {
+     "sit": "I think it actually might be the wooden sword..."
+    },
+    {
+     "s": 1,
+     "t": "Wow, that lightning was really powerful! What's this memory about?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon can still feel her head spinning..."
+    },
+    {
+     "s": 0,
+     "t": "Shiver me timbers!!! I remember now. The sea battle between Ako Domeki and the Shogunate. And then the lightning that came at the end of the battle..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh*... What could it have been?"
+    },
+    {
+     "sit": "What's left of the Thunderbird's wrath..."
+    },
+    {
+     "s": 0,
+     "t": "Well blow me down... Just a fraction of the Thunderbird's wrath, and yet still so powerful..."
+    },
+    {
+     "s": 0,
+     "t": "Wait! But the lightning came from Seirai Island... {NICKNAME}, have you ever been there? Do you know what happened to the island after that?"
+    },
+    {
+     "s": 0,
+     "t": "No... I can't believe it... It was a truly terrible thunderstorm, it was... ah, I don't have the words to describe the horror of it."
+    },
+    {
+     "s": 0,
+     "t": "We stood up against the Shogunate precisely because we did not want our homeland to be ruled by them. We wanted to protect the people of Seirai Island..."
+    },
+    {
+     "s": 0,
+     "t": "We made an enemy of the Shogunate for the sake of Seirai Island, and in the end... Oh, Shrine Maiden... Why..."
+    },
+    {
+     "s": 0,
+     "t": "Wait... So that thunderstorm was the reason I... the reason I drifted here. Aye, I was terribly injured in that storm. My whole body was falling apart..."
+    },
+    {
+     "s": 0,
+     "t": "It took all my strength to get here."
+    },
+    {
+     "s": 1,
+     "t": "Aw, Miitoboru... But what about the wooden sword? What does this have to do with it?"
+    },
+    {
+     "s": 0,
+     "t": "This wooden sword... is made from my broken timber..."
+    },
+    {
+     "s": 0,
+     "t": "Zaemon once seized a sword-wielding Maguu with his barbed spear. The Maguu drifted here with us. The wooden sword was probably crafted by local children, imitating the Maguu's sword..."
+    },
+    {
+     "s": 0,
+     "t": "The body of the mighty pirate ship that once fought against the Shogunate, now reduced to a children's toy, of all things... Argh... my mind is awash with strange and complex feelings."
+    },
+    {
+     "s": 1,
+     "t": "So Miitoboru, should we take this with us? After all... it is a part of you..."
+    },
+    {
+     "s": 0,
+     "t": "...No, there's no point taking this now. Hmph, young scallywags... the little landlubbers got me this time!"
+    },
+    {
+     "s": 0,
+     "t": "...*sigh* Although it's disappointing now that I remember the truth, somehow I feel relieved, too... At least I know what happened. I won't be deceiving myself with my wishful thinking any longer."
+    },
+    {
+     "s": 0,
+     "t": "The only thing I'm worried about now is my old mateys who drifted here with me... I wish I could know how they're doing."
+    },
+    {
+     "sit": "I'm sure they'll be fine."
+    },
+    {
+     "s": 0,
+     "t": "Aye, let's hope so... Okay, there's one last place..."
+    },
+    {
+     "s": 0,
+     "t": "I can feel it... it's the last piece of my body."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "There are a lot of wooden planks on this conch house... But they don't look like what we're after..."
+    },
+    {
+     "s": 1,
+     "t": "Oh! Could it be the one on the stone?"
+    },
+    {
+     "s": 1,
+     "t": "What is it, though? A board nailed onto two wooden strips, with a wooden mallet next to it..."
+    },
+    {
+     "sit": "This is a musical instrument..."
+    },
+    {
+     "sit": "I think you hit the wooden strips with the mallet..."
+    },
+    {
+     "s": 1,
+     "t": "This? Is a musical instrument? Can it really make a decent sound?"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, why don't we try it out first before giving it to Miitoboru?"
+    },
+    {
+     "s": 1,
+     "t": "(The intact wood strips made a cool and crisp sound, while the damaged wood strips only made a muffled, heavy sound like ordinary wood...)"
+    },
+    {
+     "s": 1,
+     "t": "Paimon's pretty sure this instrument hasn't been repaired in a looong time..."
+    },
+    {
+     "s": 1,
+     "t": "Well, {NICKNAME}, this must be the last fragment of Miitoboru's body. Come on, let's go tell him!"
+    },
+    {
+     "section": "Miitoboru"
+    },
+    {
+     "s": 0,
+     "t": "You're back. How did it go? Did you find anything?"
+    },
+    {
+     "sit": "(Show the wooden musical instrument...)"
+    },
+    {
+     "s": 0,
+     "t": "This is indeed my last piece... But what the festering fishbait have they turned me into this time?"
+    },
+    {
+     "s": 1,
+     "t": "We think it's a musical instrument! But it hasn't been fixed for a while, so you can't really play anything with it..."
+    },
+    {
+     "s": 0,
+     "t": "It that so? Argh, a pity, to be sure. Musical instrument... Hehe, I never imagine that my broken body could be used to play music..."
+    },
+    {
+     "s": 0,
+     "t": "It makes me think of my old mates... They used to sing when the mood took them..."
+    },
+    {
+     "s": 0,
+     "t": "They'd sit by the beach, facing the campfire... Hey, what kind of sound does this instrument make? Why don't you give it a try. {NICKNAME}?"
+    },
+    {
+     "s": 1,
+     "t": "Uh... it hasn't been caulked for a long time, so it might not sound as good as you're hoping."
+    },
+    {
+     "s": 0,
+     "t": "It doesn't matter. Satisfy my curiosity! Just strike it and see what happens, {NICKNAME}."
+    },
+    {
+     "sit": "(Strike the intact part of the musical instrument...)"
+    },
+    {
+     "s": 0,
+     "t": "Argh..."
+    },
+    {
+     "s": 1,
+     "t": "So they found a way back..."
+    },
+    {
+     "s": 0,
+     "t": "Aye... But since I was so badly damaged, it was the most I could do to bring them here. There was no way I could go back with them."
+    },
+    {
+     "s": 0,
+     "t": "Ah... It gladdens my heart to know that they are safe, but I... Even though I said goodbye to them, I still can't help thinking, what if I could have gone back with them..."
+    },
+    {
+     "s": 0,
+     "t": "Oh, how I wish we had returned together. With them, I would have been willing to go anywhere, no matter how dangerous..."
+    },
+    {
+     "s": 0,
+     "t": "There are so many grand adventures for us to go on, so many treasures out there in the world, waiting for us to discover them."
+    },
+    {
+     "s": 0,
+     "t": "Why did I have to be left here, abandoned like this? I could do nothing but watch them leave and embark on a new journey... without me."
+    },
+    {
+     "sit": "That's how partings go, I guess..."
+    },
+    {
+     "sit": "But they said goodbye to you with a smile..."
+    },
+    {
+     "s": 0,
+     "t": "Aye... I still feel the sadness now that I remember it, even after all this time."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, thank you for helping me remember all of this, thank you kindly. I'm afraid, though, that they seem to have taken most of the treasure with them when they left..."
+    },
+    {
+     "sit": "It doesn't matter."
+    },
+    {
+     "sit": "Finding your memory is the most important thing."
+    },
+    {
+     "s": 1,
+     "t": "Yeah! In a way, all the things you sensed really were invaluable treasures — to you, at least!"
+    },
+    {
+     "s": 0,
+     "t": "Aye, it's true. Tis a shame I can't repay your kindness... As a ship, there's only so much I can do..."
+    },
+    {
+     "s": 0,
+     "t": "But, um... In the future, if I ever need your help again..."
+    },
+    {
+     "s": 1,
+     "t": "We'll be here for you whenever you need us, Miitoboru! Right, {NICKNAME}?"
+    },
+    {
+     "sit": "Of course!"
+    },
+    {
+     "s": 0,
+     "t": "Fantastic, thank you both! And if you ever voyage in these seas again, I will be your trusty companion!"
+    }
+   ],
+   "description": "Miitoboru, a waverider who claims to be a mighty pirate ship, seems to have something to discuss with you…"
+  }
+ ],
+ "speakers": [
+  "Miitoboru",
+  "Paimon",
+  "Start Taking Photos"
+ ]
+}

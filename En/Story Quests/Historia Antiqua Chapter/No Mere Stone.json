@@ -1,0 +1,2670 @@
+{
+ "chapter": "Historia Antiqua Chapter",
+ "chapter_title": "No Mere Stone",
+ "act": "Act 2",
+ "act_title": "No Mere Stone",
+ "region": null,
+ "quests": [
+  {
+   "title": "Strange Sights, Stolen Souls",
+   "dialogue": [
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 0,
+     "t": "Hi Katheryne, it's us! Any new commissions?"
+    },
+    {
+     "s": 1,
+     "t": "As a matter of fact, there's one that looks perfect for you two."
+    },
+    {
+     "s": 1,
+     "t": "Uncle Dai is one of the foremen at Huishan Hall over in Liyue Harbor. He's hoping the Adventurers' Guild can spare some manpower."
+    },
+    {
+     "s": 0,
+     "t": "What is it we have to do exactly?"
+    },
+    {
+     "s": 1,
+     "t": "I believe you'll be looking for workers."
+    },
+    {
+     "s": 0,
+     "t": "Ooh, looking for people? Awesome, we're good at that!"
+    },
+    {
+     "s": 1,
+     "t": "I have no reason to doubt your abilities."
+    },
+    {
+     "s": 1,
+     "t": "I'm sure the details can be worked out face to face. If you're willing to accept this commission, head over to the dock and talk to Uncle Dai."
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 0,
+     "t": "Hey! Are you Uncle Dai?"
+    },
+    {
+     "s": 2,
+     "t": "I am indeed."
+    },
+    {
+     "s": 2,
+     "t": "Ahh, now then, you must be the adventurers assigned by the Guild."
+    },
+    {
+     "s": 0,
+     "t": "Huh? How could you tell!?"
+    },
+    {
+     "s": 2,
+     "t": "By the clothes on your back and the look on your face. Experienced adventurers at that, I'll wager."
+    },
+    {
+     "s": 0,
+     "t": "Right again! You're pretty perceptive!"
+    },
+    {
+     "s": 2,
+     "t": "Hahaha. In this trade, you need a sharp eye for people, not just rocks. Uncle Dai can see what you're made of from a long way off."
+    },
+    {
+     "s": 2,
+     "t": "Alright, my assistant should be arriving soon so let's just wait here a moment."
+    },
+    {
+     "s": 0,
+     "t": "Whoa whoa, that's why we're here! Now there's someone else taking a cut?"
+    },
+    {
+     "s": 2,
+     "t": "Well, to tell you the truth, this is a very difficult matter. Too much for adventurers alone to handle, I fear..."
+    },
+    {
+     "s": 0,
+     "t": "Hmph! So there is someone else!"
+    },
+    {
+     "s": 0,
+     "t": "Do you think we're not up to the job?"
+    },
+    {
+     "sit": "Steady, Paimon..."
+    },
+    {
+     "sit": "Paimon, you're getting competitive again..."
+    },
+    {
+     "s": 2,
+     "t": "It just occurred to me that you don't have all the facts. The incident in question happened in a mine, and it's a little out of the ordinary, to say the least. Mines are dangerous places, as I'm sure you're aware. As such, I've enlisted an industry expert to cover all contingencies."
+    },
+    {
+     "s": 2,
+     "t": "Last time I checked, adventurers weren't experts in ore appraisal or geological analysis. With a professional by your side, everything should run smoothly."
+    },
+    {
+     "s": 2,
+     "t": "Besides, this guy is the best in his field. No matter the rock, he'll tell you its value to the nearest Mora at a glance."
+    },
+    {
+     "s": 2,
+     "t": "I'd go as far to say that there's not a soul in Teyvat that knows rocks better than him. I'd be a fool to not enlist an expert of his caliber!"
+    },
+    {
+     "s": 0,
+     "t": "You're a fool if you think you found Teyvat's number one rock expert!"
+    },
+    {
+     "s": 2,
+     "t": "Oh? And why might that be?"
+    },
+    {
+     "s": 0,
+     "t": "Because Teyvat's number one rock expert happens to be a friend of ours..."
+    },
+    {
+     "s": 3,
+     "t": "You must be talking about..."
+    },
+    {
+     "s": 3,
+     "t": "(Perfect, I was planning to ask him a few questions.)"
+    },
+    {
+     "s": 0,
+     "t": "Haha~ Didn't expect that, did you! Wait here, we'll go fetch him."
+    },
+    {
+     "s": 3,
+     "t": "Paimon, you're getting competitive again..."
+    },
+    {
+     "section": "Zhongli"
+    },
+    {
+     "s": 4,
+     "t": "In our last tale, Rex Lapis..."
+    },
+    {
+     "s": 0,
+     "t": "Zhongli! There you are!"
+    },
+    {
+     "s": 5,
+     "t": "Oh!"
+    },
+    {
+     "s": 5,
+     "t": "Here for a few tales? I didn't know you two were connoisseurs."
+    },
+    {
+     "s": 0,
+     "t": "Oh, no no! We're here for you! Um... do you have time?"
+    },
+    {
+     "s": 5,
+     "t": "Ah... something I'm rarely short of."
+    },
+    {
+     "sit": "We've accepted a commission..."
+    },
+    {
+     "sit": "We have a special task..."
+    },
+    {
+     "s": 0,
+     "t": "We need someone who understands geology and ore."
+    },
+    {
+     "s": 5,
+     "t": "Hmm... someone who understands geology and ore..."
+    },
+    {
+     "s": 0,
+     "t": "Ugh... Take a look around! Is there anyone in Teyvat more qualified?"
+    },
+    {
+     "s": 0,
+     "t": "The requester claims to have enlisted Teyvat's number one rock expert, but Paimon doesn't believe a word of it. Nobody understands rocks better than you!"
+    },
+    {
+     "s": 5,
+     "t": "You appear to have taken his claim quite personally on my behalf."
+    },
+    {
+     "s": 0,
+     "t": "Oh, no no... it's just... Uncle Dai doesn't know what he's talking about!"
+    },
+    {
+     "s": 0,
+     "t": "Paimon just wants to... enlighten him..."
+    },
+    {
+     "s": 5,
+     "t": "Hahaha, I see. Well then, it will be my pleasure to accompany you."
+    },
+    {
+     "s": 0,
+     "t": "Really!?"
+    },
+    {
+     "s": 5,
+     "t": "But I should inform you that despite my expertise... I cannot necessarily claim to be a leading authority."
+    },
+    {
+     "s": 5,
+     "t": "We are at all times adrift in a sea of learning — new knowledge should be welcomed with open arms. Still, I imagine I will be of help to you in this endeavor. If we do encounter an expert, I look forward to broadening my own understandings."
+    },
+    {
+     "s": 0,
+     "t": "Ugh... stop being so modest, Zhongli."
+    },
+    {
+     "s": 0,
+     "t": "Well, we got him! Let's head back to Uncle Dai!"
+    },
+    {
+     "s": 3,
+     "t": "We have a special task..."
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 2,
+     "t": "Your rock expert... what does he look like?"
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 0,
+     "t": "Uncle Dai! We're back!"
+    },
+    {
+     "s": 2,
+     "t": "Oh! And this must be the friend you spoke of?"
+    },
+    {
+     "s": 0,
+     "t": "Yup! Paimon doesn't know who your rock expert is, but he's got nothing on our guy!"
+    },
+    {
+     "s": 5,
+     "t": "Haha, let's not get ahead of ourselves. Still, I do have a claim to some experience in this field."
+    },
+    {
+     "s": 2,
+     "t": "Uh-huh, so you say. Wait till my guy gets here, then we'll see."
+    },
+    {
+     "s": 2,
+     "t": "It's no use me singing his praises. You'll have to see for yourselves."
+    },
+    {
+     "s": 6,
+     "t": "Uh... is this the place?"
+    },
+    {
+     "s": 2,
+     "t": "Aha! Speak of the devil! Allow me to introduce my assistant, Kun Jun."
+    },
+    {
+     "s": 2,
+     "t": "Young Kun, these are two adventurers assigned to us. And as for this gentleman..."
+    },
+    {
+     "s": 6,
+     "t": "Hm...?"
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "This is Zhongli, a consultant from the funeral parlor."
+    },
+    {
+     "s": 2,
+     "t": "Wangsheng Funeral Parlor's consultant... Mr. Zhongli! I've heard about you. They say you're a man of great knowledge and many talents. I had no idea I'd be meeting you in person today."
+    },
+    {
+     "s": 6,
+     "t": "I... I'm sure I recognize you... Have we met at the parlor? Wait, I've never been to the parlor..."
+    },
+    {
+     "s": 0,
+     "t": "Uncle Dai, aren't you going to test them?"
+    },
+    {
+     "s": 3,
+     "t": "So that's what you were planning."
+    },
+    {
+     "s": 2,
+     "t": "Huh? I... I wouldn't know where to start..."
+    },
+    {
+     "s": 0,
+     "t": "Then they can figure out a way to test each other! If Zhongli wins, he's the assistant. If Zhongli loses, uh... N—Never mind, Zhongli won't lose!"
+    },
+    {
+     "s": 6,
+     "t": "A contest? Why, it would be my pleasure!"
+    },
+    {
+     "s": 5,
+     "t": "I admire your enthusiasm, good sir."
+    },
+    {
+     "s": 6,
+     "t": "Haha! I must say, you certainly have the look of an industry expert about you. It'll be interesting to see which one of us wins."
+    },
+    {
+     "s": 0,
+     "t": "Stop talking the talk and start walking the walk!"
+    },
+    {
+     "s": 6,
+     "t": "I'm just saying it like I see it, haha... Which is incidentally the only skill I have worth talking about."
+    },
+    {
+     "s": 5,
+     "t": "So you're an appraiser, Mr. Kun Jun?"
+    },
+    {
+     "s": 6,
+     "t": "Well, no... actually I've already forgotten what I'm in Liyue Harbor for... I was standing by the side of the road one day when Uncle Dai called me over."
+    },
+    {
+     "s": 6,
+     "t": "He saw me holding a rock and asked me a few questions. He seemed incredibly excited, even followed me for a while. We arranged to meet here."
+    },
+    {
+     "s": 0,
+     "t": "Huh? How could you forget something like that?"
+    },
+    {
+     "s": 2,
+     "t": "I saw him on my way over to Liyue Harbor, poring over rocks and muttering to himself. He looked to be very familiar with them."
+    },
+    {
+     "s": 2,
+     "t": "I asked him a few questions out of curiosity. To my surprise, he knew more than me, an old mining foreman! In any case, he didn't have any pressing matters, and agreed to help me."
+    },
+    {
+     "s": 0,
+     "t": "So... do you have a poor memory?"
+    },
+    {
+     "s": 6,
+     "t": "Not exactly... Anyway, if it's rocks you need help with, I can most certainly lend a hand."
+    },
+    {
+     "s": 6,
+     "t": "Mr. Zhongli, what do you make of this rock?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm..."
+    },
+    {
+     "s": 5,
+     "t": "A glossy exterior, with a fissure that could only have been left in the wake of a volcanic eruption. If I'm not mistaken, this is a rough gem from another nation."
+    },
+    {
+     "s": 6,
+     "t": "Ah... a keen eye!"
+    },
+    {
+     "s": 5,
+     "t": "It's no ordinary rough gem. Fragile surface layer, black veining... My intuition tells me that there's high-quality crystal ore inside."
+    },
+    {
+     "s": 6,
+     "t": "Remarkable. This rock does indeed hail from the vicinity of a volcano. I came across it in a market and snapped it straight up. The seller thought it was some leftover industrial remnant. They had no inkling of the treasure that lay within."
+    },
+    {
+     "sit": "Isn't Crystal Ore found everywhere?"
+    },
+    {
+     "sit": "What makes this one so special?"
+    },
+    {
+     "s": 6,
+     "t": "Purity and geological rarity alone aren't enough to make a treasure. Some of the most precious crystals contain deposits of water or sand."
+    },
+    {
+     "s": 6,
+     "t": "In the moment of its formation, the crystal hidden within this stone shell captured a pocket of water. For water to be hidden in its depths, like a moon concealed within a mountain, reflecting shafts of daylight that make it through... Now that's a rare treasure."
+    },
+    {
+     "s": 0,
+     "t": "Such a detailed description, almost like he saw it with his own two eyes..."
+    },
+    {
+     "s": 0,
+     "t": "Say... you're not trying to hoodwink us are you? After all, we haven't even seen what's inside yet!"
+    },
+    {
+     "s": 5,
+     "t": "Everything he said is true."
+    },
+    {
+     "s": 5,
+     "t": "Most crystals are born in high-temperature environments. Heat and water aren't natural bedfellows of course, which is why crystals with water deposits are so sought-after. Moreover, this particular crystal contains mountain lake water. A rare find indeed."
+    },
+    {
+     "s": 0,
+     "t": "Well if Zhongli says so, it must be true..."
+    },
+    {
+     "s": 6,
+     "t": "I've yet to encounter anyone with a judgment as shrewd as yours, Mr. Zhongli. How did you know exactly what lay within?"
+    },
+    {
+     "s": 5,
+     "t": "I've seen many such stones in my time, I recognized it immediately. I hope you didn't mind me flaunting my experience, Mr. Kun Jun?"
+    },
+    {
+     "s": 6,
+     "t": "Of course not! I feel I've met a kindred spirit here today. I hope you will accept my friendship."
+    },
+    {
+     "s": 6,
+     "t": "Uncle Dai, it would be a mistake for Mr. Zhongli not to join us! Trust me when I say that his level of expertise is unrivaled in the trade. You won't come across another of his caliber in your lifetime."
+    },
+    {
+     "s": 2,
+     "t": "Very well, there is strength in numbers after all! Everyone, follow me to The Chasm. There are men counting on you to find them."
+    },
+    {
+     "s": 3,
+     "t": "What makes this one so special?"
+    }
+   ],
+   "description": "Katheryne of the Adventurers’ Guild in Liyue Harbor has a new commission for you. You and Paimon decide to find out what it’s all about."
+  },
+  {
+   "title": "Truth in the Stones",
+   "dialogue": [
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, this mine is huge..."
+    },
+    {
+     "s": 2,
+     "t": "This is where the incident occurred."
+    },
+    {
+     "s": 2,
+     "t": "Six days ago, a group of us left the site to attend to other matters. When we returned, the four men we'd left behind had vanished."
+    },
+    {
+     "s": 2,
+     "t": "I led a team around the entire mine but found no trace. That's when I decided to enlist help."
+    },
+    {
+     "s": 5,
+     "t": "So four miners have disappeared."
+    },
+    {
+     "s": 2,
+     "t": "Yes. There were ten of us. We lost Long, Bold Cen, Brave Cen, and Mao. I worked with all of them."
+    },
+    {
+     "s": 5,
+     "t": "Workers in this trade are usually young men in the prime of their lives. Could it be that the four of them left for another mine?"
+    },
+    {
+     "s": 2,
+     "t": "Unlikely. There's no other lodging for miles around, and we didn't pass any other mines on the way over."
+    },
+    {
+     "s": 6,
+     "t": "Huh... such a huge mine. Did you really manage to explore every corner?"
+    },
+    {
+     "s": 2,
+     "t": "Underground, overground... we left no stone unturned. We tried everything short of digging further into the earth itself. How could four sturdy young men just vanish into the bedrock?"
+    },
+    {
+     "s": 5,
+     "t": "We'll need to explore the site ourselves before extracting any conclusions."
+    },
+    {
+     "s": 2,
+     "t": "Very well, I'll wait here, please proceed wherever you'd like. If you come across any clues, let me know straight away."
+    },
+    {
+     "section": "Bravo"
+    },
+    {
+     "s": 7,
+     "t": "Where did my friends disappear to? Ugh... I tremble just thinking about it."
+    },
+    {
+     "section": "???"
+    },
+    {
+     "s": 0,
+     "t": "Over here! What's this?"
+    },
+    {
+     "s": 0,
+     "t": "A pile of shirts, some trousers..."
+    },
+    {
+     "s": 5,
+     "t": "A few everyday items, they must belong to Uncle Dai and his men."
+    },
+    {
+     "s": 0,
+     "t": "One, two, three, four..."
+    },
+    {
+     "s": 0,
+     "t": "Huh... that seems right. Ten shirts, ten pairs of trousers."
+    },
+    {
+     "s": 0,
+     "t": "These must be spares, right? Look, Uncle Dai's clothes are identical."
+    },
+    {
+     "s": 5,
+     "t": "The four of them have been gone for six days without a change of clothes."
+    },
+    {
+     "s": 0,
+     "t": "There's also a few handkerchiefs and some soap lying around... Oh, and some tool belts."
+    },
+    {
+     "s": 5,
+     "t": "Items for washing one's face before the dawn shift... mining equipment..."
+    },
+    {
+     "s": 0,
+     "t": "So... they didn't take any supplies..."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, correct."
+    },
+    {
+     "sit": "Maybe they didn't need them?"
+    },
+    {
+     "sit": "Maybe they just forgot them?"
+    },
+    {
+     "s": 5,
+     "t": "Improbable."
+    },
+    {
+     "s": 5,
+     "t": "There are four pickaxes missing. It seems likely they left with the tools of their trade."
+    },
+    {
+     "s": 5,
+     "t": "They had time to take their tools, but not their everyday items? Curious."
+    },
+    {
+     "s": 0,
+     "t": "Huh... why would someone set off with their tools, but leave their luggage behind?"
+    },
+    {
+     "s": 5,
+     "t": "One: They were working close by and didn't need to move their personal effects. But seeing as they've yet to return, this seems an unlikely hypothesis."
+    },
+    {
+     "s": 5,
+     "t": "Or, two: They were forced to leave and had no time to think about their supplies."
+    },
+    {
+     "s": 0,
+     "t": "Oh...!"
+    },
+    {
+     "s": 3,
+     "t": "Do you think... someone kidnapped them?"
+    },
+    {
+     "s": 5,
+     "t": "It's certainly a possibility. We'll need more clues before any further inference can be made."
+    },
+    {
+     "s": 0,
+     "t": "If they didn't leave, maybe they were made to leave... Let's make a note and let Uncle Dai know."
+    },
+    {
+     "s": 3,
+     "t": "Maybe they just forgot them?"
+    },
+    {
+     "section": "Kun Jun"
+    },
+    {
+     "s": 6,
+     "t": "We'll work more efficiently if we split up. I'll start my investigations here."
+    },
+    {
+     "s": 6,
+     "t": "Hmm... let's start with the details... what type of rocks do we have here..."
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 2,
+     "t": "I'll leave the investigations to you."
+    },
+    {
+     "section": "Kun Jun"
+    },
+    {
+     "s": 0,
+     "t": "Kun Jun, what do you have there?"
+    },
+    {
+     "s": 6,
+     "t": "Oh, right on time."
+    },
+    {
+     "s": 5,
+     "t": "Did you find anything?"
+    },
+    {
+     "s": 6,
+     "t": "There's a chunk of ore here, perhaps there are clues within."
+    },
+    {
+     "s": 0,
+     "t": "Ore? What does it have to do with the disappearance?"
+    },
+    {
+     "s": 6,
+     "t": "Let's find out. I'll give it a try. A moment please."
+    },
+    {
+     "s": 6,
+     "t": "... Okay..."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "Uh... Looks like he's concentrating really hard. What's he up to?"
+    },
+    {
+     "s": 6,
+     "t": "I see... four men... following someone out of the mine... it looks like a child."
+    },
+    {
+     "s": 0,
+     "t": "A child? What's a child doing in a mine!?"
+    },
+    {
+     "s": 6,
+     "t": "I'm not sure..."
+    },
+    {
+     "s": 0,
+     "t": "Also, how did you \"see\" anything exactly?"
+    },
+    {
+     "s": 6,
+     "t": "Oh! I don't mean \"see\" in the traditional sense... I—I would appreciate it if what I'm about to tell you remained a secret. It's a little odd... I've never dared to tell anyone before."
+    },
+    {
+     "s": 6,
+     "t": "I can... perceive the memories of ore."
+    },
+    {
+     "s": 0,
+     "t": "Huh—!?"
+    },
+    {
+     "s": 5,
+     "t": "\"Perceive?\" So there's no... conjecture at work?"
+    },
+    {
+     "s": 0,
+     "t": "You mean you can put your hand on a rock and — boom! It just happens?"
+    },
+    {
+     "s": 6,
+     "t": "I've always sensed that ore contains \"memories.\" Sometimes it records events that occur in the surrounding area. All I have to do is touch one and focus my attention, and the memories come to me."
+    },
+    {
+     "s": 0,
+     "t": "Amazing! So you can find out everything that ever happened there!"
+    },
+    {
+     "s": 6,
+     "t": "It depends on the ore. Some ores have astounding memories. Others, like Iron Ore and White Iron Ore aren't up to much. Their memories are hazy."
+    },
+    {
+     "s": 6,
+     "t": "Cor Lapis and crystal memories are much stronger. They record more events and in greater detail."
+    },
+    {
+     "s": 5,
+     "t": "Stone-seeing... fascinating. A rare ability indeed. It was prudent of Uncle Dai to recruit you, Mr. Kun Jun."
+    },
+    {
+     "s": 6,
+     "t": "Haha, I'm glad I can be of assistance."
+    },
+    {
+     "s": 6,
+     "t": "Based on what I saw, I believe they followed this path."
+    },
+    {
+     "s": 5,
+     "t": "This will take us north, away from the mine."
+    },
+    {
+     "s": 0,
+     "t": "North... another clue for Uncle Dai! Let's make a note of it."
+    },
+    {
+     "section": "Bravo"
+    },
+    {
+     "s": 5,
+     "t": "Excuse me sir, are you one of the workers here?"
+    },
+    {
+     "s": 7,
+     "t": "Ah! Yes, yes! You must be here about the disappearance. Please find them if you can!"
+    },
+    {
+     "s": 7,
+     "t": "I... I don't know what happened. The weather was gloomy that day, the foreman left with a few men."
+    },
+    {
+     "s": 7,
+     "t": "I stayed behind with the other four. After a while I decided to take a break... just to catch my breath!"
+    },
+    {
+     "s": 7,
+     "t": "I ended up falling asleep in the shelter inside. When I woke up, there was no sight of them! I'd only just been speaking with them and suddenly... they'd vanished..."
+    },
+    {
+     "s": 7,
+     "t": "Maybe... maybe I'm next..."
+    },
+    {
+     "s": 5,
+     "t": "So the men that were out working disappeared, with the only one left to tell the tale having been asleep in a shelter."
+    },
+    {
+     "s": 5,
+     "t": "Perhaps an accident occurred on-site."
+    },
+    {
+     "s": 0,
+     "t": "Oh... What a scary thought..."
+    },
+    {
+     "s": 0,
+     "t": "An on-site accident... We should note that down too."
+    },
+    {
+     "section": "Observe Stone"
+    },
+    {
+     "s": 8,
+     "t": "(It looks like... some sort of Cor Lapis?)"
+    },
+    {
+     "s": 8,
+     "t": "(It was able to record the information we needed. A curious stone, indeed.)"
+    },
+    {
+     "section": "Kun Jun"
+    },
+    {
+     "s": 6,
+     "t": "Could it be that the child I saw kidnapped them? Hmm..."
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 2,
+     "t": "You're back! How are the investigations going?"
+    },
+    {
+     "s": 5,
+     "t": "We found three clues in the vicinity."
+    },
+    {
+     "s": 5,
+     "t": "First, there are four missing pickaxes, yet everyday items are still in their place. This suggests that your men didn't leave of their own accord, but were forced to."
+    },
+    {
+     "s": 2,
+     "t": "Forced to!? But... who would kidnap miners?"
+    },
+    {
+     "s": 5,
+     "t": "Who, indeed. Second, there were five workers at the mine. One of them left the site to take respite. When he awoke, his colleagues had disappeared without a trace."
+    },
+    {
+     "s": 5,
+     "t": "Those who kept working all disappeared. The one who left early emerged safe and sound. It would appear that the incident occurred on-site."
+    },
+    {
+     "s": 2,
+     "t": "Now that you mention it, I recall Bravo saying that he took a break."
+    },
+    {
+     "s": 2,
+     "t": "Could someone have entered the site and simply walked away with them!?"
+    },
+    {
+     "s": 5,
+     "t": "This leads me to my third point. Mr. Kun Jun here made good use of his... expert techniques... to arrive at a conclusion. It was a child that took your men away."
+    },
+    {
+     "s": 2,
+     "t": "A child!? But there are no settlements here for miles around! There's no way a child would have made it over to the mine!"
+    },
+    {
+     "s": 0,
+     "t": "Unlikely as it sounds, that's our conclusion. Your men were following a child."
+    },
+    {
+     "s": 2,
+     "t": "Where did they go?"
+    },
+    {
+     "s": 5,
+     "t": "We believe that they followed the road north, away from the mine and toward the ruins."
+    },
+    {
+     "s": 2,
+     "t": "North! Right, I'll rally my men and head in pursuit."
+    },
+    {
+     "s": 3,
+     "t": "Do you need help?"
+    },
+    {
+     "s": 2,
+     "t": "You've been invaluable to the investigation, but leave the legwork to us. If we set off now and make haste, we might be able to catch them."
+    },
+    {
+     "s": 5,
+     "t": "Not so fast. The incident occurred six days ago. Even if they set out on foot, they will have covered a lot of ground by now."
+    },
+    {
+     "s": 2,
+     "t": "*sigh* You're right... New plan. I'll lead my search party over to the settlements further out and make some inquiries."
+    },
+    {
+     "s": 2,
+     "t": "There are only a few settlements around here with lodging for the night. We'll go investigate and see if we can come up with anything."
+    },
+    {
+     "s": 2,
+     "t": "In the meantime you could keep looking for clues. If we don't see each other, let's reconvene at Wangshu Inn tomorrow evening."
+    },
+    {
+     "s": 5,
+     "t": "Agreed."
+    },
+    {
+     "s": 2,
+     "t": "Alright, me and my men will get going!"
+    },
+    {
+     "s": 0,
+     "t": "So... they're gonna talk to the people over at the settlements, while we keep investigating here..."
+    },
+    {
+     "s": 5,
+     "t": "Correct."
+    },
+    {
+     "s": 0,
+     "t": "But... there aren't any more clues at the mine... Shouldn't we go north?"
+    },
+    {
+     "s": 5,
+     "t": "Wait... I believe we're missing someone."
+    },
+    {
+     "s": 0,
+     "t": "Huh?"
+    },
+    {
+     "s": 0,
+     "t": "Oh yeah, where's Kun Jun? Paimon bets he's still investigating. Let's go find him!"
+    },
+    {
+     "section": "Kun Jun"
+    },
+    {
+     "s": 0,
+     "t": "Kun Jun! What are you searching for? We're all out of clues! Let's get going!"
+    },
+    {
+     "s": 6,
+     "t": "Ah, apologies, I'm conducting a quick search for my own benefit. I'm looking for a precious stone known as Dragonfall."
+    },
+    {
+     "s": 5,
+     "t": "Dragonfall?"
+    },
+    {
+     "sit": "Never heard of it."
+    },
+    {
+     "sit": "Not my area of expertise."
+    },
+    {
+     "s": 5,
+     "t": "Dragonfall is often used in forging. What use do you have for it?"
+    },
+    {
+     "s": 6,
+     "t": "I... I don't know."
+    },
+    {
+     "s": 6,
+     "t": "I—I'm sorry, I don't recall why I'm seeking it... I've been feeling very... absent lately. Name and address aside, I'm having trouble remembering things."
+    },
+    {
+     "s": 6,
+     "t": "In fact, I've been feeling extremely... anxious... as if there's something I've forgotten to finish. It's... an unpleasant sensation."
+    },
+    {
+     "s": 0,
+     "t": "Oh, Paimon knows that feeling! When you know you've forgotten something but you can't remember exactly what it is."
+    },
+    {
+     "s": 6,
+     "t": "Ugh... I don't even know where to start with it, I've been... aimlessly wandering. That day at the market, I overheard a conversation while I was buying something. They mentioned Dragonfall."
+    },
+    {
+     "s": 6,
+     "t": "It sounded so familiar to me, as if whatever it was I had to do was linked to that stone... So I decided to look for some."
+    },
+    {
+     "s": 6,
+     "t": "Perhaps if I can retrieve some, I'll remember what it is I have to do."
+    },
+    {
+     "s": 5,
+     "t": "I see... If I am able to during our endeavour, I will help you look for this stone."
+    },
+    {
+     "s": 6,
+     "t": "Really? Oh, thank you Mr. Zhongli! You're too kind!"
+    },
+    {
+     "s": 5,
+     "t": "Think nothing of it."
+    },
+    {
+     "s": 0,
+     "t": "Shouldn't we get going?"
+    },
+    {
+     "s": 5,
+     "t": "Heading north from The Chasm, we'll reach Lingju Pass. If this is indeed the path they chose, there will be traces."
+    },
+    {
+     "s": 0,
+     "t": "Great! Let's have a look!"
+    },
+    {
+     "s": 3,
+     "t": "Not my area of expertise."
+    }
+   ],
+   "description": "You arrive at the mine, the scene of the incident, and begin your investigation. A series of clues makes clear that there is nothing ordinary about this disappearance. What is the connection between the mysterious person behind this incident and the missing miners? Where did the missing miners disappear to? You have to know the truth."
+  },
+  {
+   "title": "Shifting Earth and Lost Threads Come to Light",
+   "dialogue": [
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 0,
+     "t": "Wait, there are tracks here!"
+    },
+    {
+     "s": 0,
+     "t": "These must have been left by the miners!"
+    },
+    {
+     "s": 5,
+     "t": "Let us make our way to the end of Lingju Pass. If there are no footprints there, it would suggest that the miners are still within the pass itself. However, if we find new tracks, we can follow them wherever they may lead."
+    },
+    {
+     "section": "Observe Stone"
+    },
+    {
+     "s": 8,
+     "t": "(It looks like... some sort of Cor Lapis?)"
+    },
+    {
+     "s": 8,
+     "t": "(It was able to record the information we needed. A curious stone, indeed.)"
+    },
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 0,
+     "t": "Hey! Footprints!"
+    },
+    {
+     "s": 5,
+     "t": "It would appear that they made their way through Lingju Pass and kept moving."
+    },
+    {
+     "s": 0,
+     "t": "If we follow their footprints, we should be able to find where they went!"
+    },
+    {
+     "section": "Yonggui"
+    },
+    {
+     "s": 0,
+     "t": "Hi there, have you seen anyone dressed like a miner around here?"
+    },
+    {
+     "s": 9,
+     "t": "A miner? I'm afraid not."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Let's try someone else."
+    },
+    {
+     "section": "Yonggui"
+    },
+    {
+     "s": 9,
+     "t": "*sigh* My legs don't work like they used to... Guess my age is catching up with me..."
+    },
+    {
+     "section": "Wei"
+    },
+    {
+     "s": 10,
+     "t": "You again... I'm busy!"
+    },
+    {
+     "section": "Wei"
+    },
+    {
+     "s": 0,
+     "t": "Hello! Have you seen any miners nearby? About this tall — four of them?"
+    },
+    {
+     "s": 10,
+     "t": "Stop bothering me! Can't you see I'm cloud-watching?"
+    },
+    {
+     "s": 0,
+     "t": "Geez! A little grumpy, aren't we?"
+    },
+    {
+     "s": 0,
+     "t": "Whatever, let's go ask someone else."
+    },
+    {
+     "section": "Ling"
+    },
+    {
+     "s": 0,
+     "t": "Hey there, seen any miners?"
+    },
+    {
+     "s": 11,
+     "t": "...It must have been about four or five days ago. There were a few men who came through here carrying baskets and picks... I guess that could have been them?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! That's them!"
+    },
+    {
+     "s": 5,
+     "t": "Four or five days ago? It appears that they were moving slower than we'd anticipated. Traversing the geography of Lingju Pass must have held them up."
+    },
+    {
+     "s": 11,
+     "t": "It was so strange! Four big guys with lifeless expressions... It was like they were in some sort of trance! And there was a child staggering in front of them..."
+    },
+    {
+     "s": 5,
+     "t": "Huh, this child... Did you see what they look like?"
+    },
+    {
+     "s": 11,
+     "t": "I caught a glimpse... blue hair, short. I think... I think it was a girl! She wasn't smiling, in fact she looked very serious."
+    },
+    {
+     "s": 5,
+     "t": "And they took this road?"
+    },
+    {
+     "s": 11,
+     "t": "Yes, they followed it straight from here."
+    },
+    {
+     "s": 0,
+     "t": "Let's go after them!"
+    },
+    {
+     "section": "Ling"
+    },
+    {
+     "s": 11,
+     "t": "I've never seen anything like it... Were they sleepwalking? So bizarre..."
+    },
+    {
+     "section": "Wanyu"
+    },
+    {
+     "s": 12,
+     "t": "Those monsters were so aggressive — they must have noticed me walking through! Before I knew it they were all over me... Thank you all for saving me."
+    },
+    {
+     "s": 12,
+     "t": "My name is Wanyu, I belong to Liyue's Shenglu Hall. I head up our human culture and civilization research."
+    },
+    {
+     "s": 0,
+     "t": "Huh? You sure you're not... a miner?"
+    },
+    {
+     "s": 12,
+     "t": "A miner?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah. We're looking for a group of four strong fellas carrying mining equipment."
+    },
+    {
+     "s": 12,
+     "t": "I... I think I saw those people."
+    },
+    {
+     "s": 0,
+     "t": "Really!?"
+    },
+    {
+     "s": 12,
+     "t": "Yes. I set off from Nantianmen the day before yesterday heading for Lingju Pass. About halfway there I came across some people — a few men and a child."
+    },
+    {
+     "s": 3,
+     "t": "Can you be a bit more specific?"
+    },
+    {
+     "s": 12,
+     "t": "I was in a hurry, I didn't get a good look. I'm afraid I'm not even sure what they looked like... apologies."
+    },
+    {
+     "s": 5,
+     "t": "I think that's all we needed to hear. Thank you."
+    },
+    {
+     "s": 12,
+     "t": "I hope it's useful to you!"
+    },
+    {
+     "s": 12,
+     "t": "I'd better get going, there's a conference I need to attend. Again, thank you all for your help."
+    },
+    {
+     "s": 0,
+     "t": "According to this scholar, the miners were heading for Nantianmen."
+    },
+    {
+     "s": 6,
+     "t": "Can we be absolutely sure that it was the men that we're looking for?"
+    },
+    {
+     "s": 0,
+     "t": "A child with a group of adults! Sounds pretty close to Paimon!"
+    },
+    {
+     "s": 3,
+     "t": "It could easily have been a different group."
+    },
+    {
+     "s": 0,
+     "t": "Uh... but..."
+    },
+    {
+     "s": 6,
+     "t": "Hey, perhaps that rock over there can tell us more!"
+    },
+    {
+     "s": 0,
+     "t": "Aha! Paimon nearly forgot about our secret weapon!"
+    },
+    {
+     "s": 6,
+     "t": "It looks promising, I'll do my best."
+    },
+    {
+     "s": 6,
+     "t": "Hmm..."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "It's the same group alright. They followed this road."
+    },
+    {
+     "s": 5,
+     "t": "Haha, Mr. Kun Jun, your stone-seeing is something I won't forget in a hurry."
+    },
+    {
+     "s": 6,
+     "t": "I suppose it is an asset, though I rarely find a use for it. But praise from Mr. Zhongli is high praise indeed."
+    },
+    {
+     "s": 0,
+     "t": "It's a good thing we brought our \"Kun Jun compass\" along! We would've lost all sense of direction a long time ago."
+    },
+    {
+     "s": 6,
+     "t": "Hahaha, you think so? I guess it's been a worthwhile trip then."
+    },
+    {
+     "s": 6,
+     "t": "It feels like... like we're cracking a criminal case. It's a lot of fun."
+    },
+    {
+     "s": 5,
+     "t": "Be that as it may, we would do well to keep our guards high."
+    },
+    {
+     "s": 5,
+     "t": "Four fully-grown men in a trance-like state... walking ceaselessly day and night... over hills and mountains... led by a child... This is no ordinary incident."
+    },
+    {
+     "s": 6,
+     "t": "Oh! You're quite right, Mr. Zhongli. We should have our wits about us."
+    },
+    {
+     "s": 5,
+     "t": "That's not all. Our scholar was attacked by Geovishap Hatchlings, but the level of aggression they exhibited was... unusual."
+    },
+    {
+     "s": 5,
+     "t": "We have encountered many clues along the way. So far they've pointed us in the right direction."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, the miners headed in the direction of Nantianmen the day before yesterday. From here they would have had to navigate a perilous mountain road. If their destination is indeed Nantianmen, we should be able to catch up with them."
+    },
+    {
+     "s": 0,
+     "t": "Great! No time to lose!"
+    },
+    {
+     "s": 5,
+     "t": "I left a mark in the vicinity just now. If Uncle Dai does pass through here, it should guide him to us."
+    },
+    {
+     "s": 0,
+     "t": "Clever thinking! A classic Zhongli move."
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 6,
+     "t": "There's a basket lying here too... This must be one of the miners."
+    },
+    {
+     "s": 0,
+     "t": "Hey! Hello? Can you hear us?"
+    },
+    {
+     "s": 5,
+     "t": "Judging by his appearance, he must have collapsed from exhaustion."
+    },
+    {
+     "s": 0,
+     "t": "Should we wake him up?"
+    },
+    {
+     "s": 13,
+     "t": "I can... I can still dig..."
+    },
+    {
+     "s": 0,
+     "t": "*gasp* Sounds like he's whispering something..."
+    },
+    {
+     "sit": "He looks like he's struggling..."
+    },
+    {
+     "sit": "He looks like he's trying to stand up."
+    },
+    {
+     "s": 5,
+     "t": "It seems that he thinks he still has work to do. Something's not right."
+    },
+    {
+     "s": 5,
+     "t": "There's a camp nearby. We should take him there and monitor his condition before deciding our next move."
+    },
+    {
+     "s": 3,
+     "t": "He looks like he's trying to stand up."
+    },
+    {
+     "section": "Observe Stone"
+    },
+    {
+     "s": 8,
+     "t": "(This rock is no different from ordinary Cor Lapis... and yet, Kun Jun was able to see a memory through it.)"
+    },
+    {
+     "s": 8,
+     "t": "(It was thanks to this sort of rock that we were able to find some clues.)"
+    },
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "How is he? H—He won't die, right?"
+    },
+    {
+     "s": 5,
+     "t": "He's worked himself into a stupor. Thankfully, he's not in serious danger."
+    },
+    {
+     "s": 3,
+     "t": "How did he get so exhausted?"
+    },
+    {
+     "s": 0,
+     "t": "Paimon heard him talking about digging for something. Did he dig himself into this state?"
+    },
+    {
+     "s": 5,
+     "t": "It's certainly a possibility."
+    },
+    {
+     "sit": "Strange..."
+    },
+    {
+     "sit": "Wasn't he brought here?"
+    },
+    {
+     "s": 6,
+     "t": "Hm? It looks like there's something in his pocket..."
+    },
+    {
+     "s": 6,
+     "t": "Are these... ore fragments?"
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "I just witnessed the memories within these ore fragments. This person brought these fragments out of the mine. He's one of the four that we're searching for."
+    },
+    {
+     "s": 5,
+     "t": "How he came to be here is what we need to understand."
+    },
+    {
+     "s": 0,
+     "t": "So he was kidnapped, and then... abandoned here..."
+    },
+    {
+     "s": 0,
+     "t": "But if they didn't need him, why bring him all the way out here?"
+    },
+    {
+     "s": 5,
+     "t": "Unless something happened... something that led him to fall behind."
+    },
+    {
+     "s": 0,
+     "t": "Ugh..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's had enough! This is too mysterious!"
+    },
+    {
+     "s": 6,
+     "t": "Oh! Wait a moment! Seeing these fragments has jogged my memory — I have something for you."
+    },
+    {
+     "s": 0,
+     "t": "What is it? Ooh! Is it a present?"
+    },
+    {
+     "s": 5,
+     "t": "Something... for us?"
+    },
+    {
+     "s": 6,
+     "t": "As I mentioned, before I met Uncle Dai I was in a daze. After setting out with you on this case, it feels like a fog is lifting."
+    },
+    {
+     "s": 6,
+     "t": "I was so happy when Uncle Dai enlisted you to help. I would never have managed to track down these clues by myself."
+    },
+    {
+     "s": 6,
+     "t": "These are some crystals that I bought from the market. Not any old crystals mind you — this purity is extraordinarily rare! One for each of you. A memory, if you will."
+    },
+    {
+     "s": 0,
+     "t": "It's beautiful... Oh — and the colors change as you turn it! It's like a different crystal from each angle."
+    },
+    {
+     "sit": "Looks expensive..."
+    },
+    {
+     "sit": "Can I really keep this?"
+    },
+    {
+     "s": 6,
+     "t": "But of course, take it."
+    },
+    {
+     "s": 6,
+     "t": "And this one is for Mr. Zhongli."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "Huh? I—Is something wrong? Not to your liking?"
+    },
+    {
+     "s": 5,
+     "t": "On the contrary... I just hadn't anticipated receiving a gift during the current circumstances."
+    },
+    {
+     "s": 5,
+     "t": "But, thank you. I will take good care of it."
+    },
+    {
+     "s": 6,
+     "t": "I'm pleased you like them. It's nice to be able to give a gift that others can appreciate."
+    },
+    {
+     "s": 6,
+     "t": "Oh! I see more rocks over there. You should all get some rest, I'm going to walk awhile — perhaps there are more memories to uncover."
+    },
+    {
+     "s": 0,
+     "t": "You sure like rocks, huh Kun Jun..."
+    },
+    {
+     "s": 6,
+     "t": "Ores are the crystals of the earth, the sediment of time itself. I feel at peace among them."
+    },
+    {
+     "s": 6,
+     "t": "Get some rest, and call me when you're ready to set off. I won't be far."
+    },
+    {
+     "s": 3,
+     "t": "He'll be okay on his own, right?"
+    },
+    {
+     "s": 5,
+     "t": "Rest easy, I surveyed the area. There's no danger here."
+    },
+    {
+     "s": 5,
+     "t": "Oh, however, there is something I wanted to discuss with you."
+    },
+    {
+     "s": 0,
+     "t": "Huh? What's with the seriousness all of a sudden?"
+    },
+    {
+     "s": 5,
+     "t": "Traveler... Does Dragonfall mean anything to you?"
+    },
+    {
+     "s": 3,
+     "t": "No."
+    },
+    {
+     "s": 0,
+     "t": "You mean the ore that Kun Jun's looking for? What's so special about it?"
+    },
+    {
+     "s": 5,
+     "t": "Dragonfall is an incredibly rare ore used in forging. The majority of regular crystals are formed in high-temperature environments. Dragonfall, on the other hand, is formed as a product of elemental reactions."
+    },
+    {
+     "s": 0,
+     "t": "Elemental reactions can produce material objects?"
+    },
+    {
+     "s": 5,
+     "t": "Indeed they can. However, only a minority can survive for long periods of time."
+    },
+    {
+     "s": 5,
+     "t": "Dragonfall first emerged in the midst of a great battle, thousands of years ago. Powerful clashes of elemental energy gave birth to elemental crystals. When the fighting ceased, these geological remnants were miraculously preserved."
+    },
+    {
+     "s": 0,
+     "t": "Cooool..."
+    },
+    {
+     "s": 5,
+     "t": "And yet they are crystal creations all the same, few and far between, relatively unknown. A few hundred years ago, they were virtually mined into obscurity."
+    },
+    {
+     "s": 5,
+     "t": "Why is it then, that a citizen of Liyue now wishes to strike upon ore that has long since vanished from the earth?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! If he knows of its existence, surely he knows all of it's already been mined?"
+    },
+    {
+     "s": 0,
+     "t": "Weird... Paimon doesn't get it..."
+    },
+    {
+     "s": 5,
+     "t": "There are those in the mining trade who retain a keen interest in Dragonfall. But for someone like Mr. Kun Jun... whose motivations for seeking it are unclear even unto himself... it's practically unheard-of."
+    },
+    {
+     "s": 3,
+     "t": "Perhaps he has ulterior motives."
+    },
+    {
+     "s": 0,
+     "t": "Ulterior motives... *gasp* Is he a villain!?"
+    },
+    {
+     "s": 5,
+     "t": "A conclusion that is presently impossible to reach. We must watch... and wait."
+    },
+    {
+     "s": 5,
+     "t": "Don't forget, rescuing those miners is the primary objective. As for anything else... Sooner or later the tide will reveal the lie of the land."
+    },
+    {
+     "s": 5,
+     "t": "We're drawing closer to our goal. I believe we should continue to follow this road through. Now that we've found one, the others won't be far away."
+    },
+    {
+     "s": 5,
+     "t": "When you're well-rested, call Mr. Kun Jun over to us. We still have more investigation ahead."
+    },
+    {
+     "s": 5,
+     "t": "We should ensure this miner is settled here at the camp. Once we've brought this matter to a close, we can return and attend to him. I suggest we leave a note for Uncle Dai. If he does find the camp he'll know what to do."
+    },
+    {
+     "s": 3,
+     "t": "Can I really keep this?"
+    },
+    {
+     "s": 3,
+     "t": "Wasn't he brought here?"
+    }
+   ],
+   "description": "The evidence at the mining site suggests that the miners followed the road north. You follow the trail, gradually closing in on them."
+  },
+  {
+   "title": "Amidst Chaos, the Rock Is Unmoved",
+   "dialogue": [
+    {
+     "section": "Kun Jun"
+    },
+    {
+     "s": 0,
+     "t": "Kun Jun! We need to get going!"
+    },
+    {
+     "s": 6,
+     "t": "No problem! I'm done here."
+    },
+    {
+     "s": 5,
+     "t": "Any results, Mr. Kun Jun?"
+    },
+    {
+     "s": 6,
+     "t": "There are many beautiful rocks here, but nothing out of the ordinary. I couldn't find any clues."
+    },
+    {
+     "s": 6,
+     "t": "Then again, the memories of ore can shift with the passage of time and the changing of the environment."
+    },
+    {
+     "s": 3,
+     "t": "Is there a pattern to it?"
+    },
+    {
+     "s": 6,
+     "t": "Hmm, difficult to say... I feel that ore memories tend to be from the recent past."
+    },
+    {
+     "s": 0,
+     "t": "So there's never any ancient memories?"
+    },
+    {
+     "s": 6,
+     "t": "Rocks endure, but as eons pass their memories are erased. Those memories that survive are rooted in powerful emotion or thought."
+    },
+    {
+     "s": 0,
+     "t": "That makes sense — it is the same for people!"
+    },
+    {
+     "s": 6,
+     "t": "Indeed... Let's keep going."
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 13,
+     "t": "Ugh... Oh..."
+    },
+    {
+     "s": 13,
+     "t": "(He looks exhausted.)"
+    },
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 6,
+     "t": "Wow, such an immense tree!"
+    },
+    {
+     "s": 0,
+     "t": "And there's so many mysterious-looking crystals up there too... amazing."
+    },
+    {
+     "s": 5,
+     "t": "This ancient tree..."
+    },
+    {
+     "s": 5,
+     "t": "Let's conduct separate investigations. I'll take that area, perhaps you could survey this section."
+    },
+    {
+     "sit": "Sure."
+    },
+    {
+     "sit": "Be careful."
+    },
+    {
+     "s": 5,
+     "t": "Alright then."
+    },
+    {
+     "s": 0,
+     "t": "Kun Jun, can you see anything worth investigating?"
+    },
+    {
+     "s": 6,
+     "t": "Well... there is this stone tablet here."
+    },
+    {
+     "s": 0,
+     "t": "Doesn't seem very interesting... Paimon's gonna look over there."
+    },
+    {
+     "s": 6,
+     "t": "Huh? It's worth a try, surely. Let me see..."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "...!"
+    },
+    {
+     "s": 6,
+     "t": "(This is...)"
+    },
+    {
+     "s": 0,
+     "t": "Hey! What's wrong?"
+    },
+    {
+     "s": 6,
+     "t": "...Just a bit light-headed... It's passed, nothing to worry about."
+    },
+    {
+     "s": 3,
+     "t": "Did you see anything?"
+    },
+    {
+     "s": 6,
+     "t": "Not... hmm... not yet..."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Whatever, Paimon's going to investigate over there. Why don't you climb the tree and have a look, {NICKNAME}?"
+    },
+    {
+     "s": 3,
+     "t": "You're sure there'll be clues in the tree?"
+    },
+    {
+     "s": 0,
+     "t": "If you don't try you don't know! Anyway, you'll be able to get a good look at our surroundings from up there!"
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "Oh! Uh... you think so?"
+    },
+    {
+     "s": 0,
+     "t": "When has Paimon ever come up with a bad idea, hmm?"
+    },
+    {
+     "s": 0,
+     "t": "Wait a minute... Paimon can fly! *sigh* Alright, Paimon will go, you wait here, Paimon will—"
+    },
+    {
+     "s": 5,
+     "t": "All of you, come here."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Zhongli's voice came from... behind the tree. Did he find another clue?"
+    },
+    {
+     "s": 0,
+     "t": "Quick, let's go see! Maybe he found another miner!"
+    },
+    {
+     "s": 3,
+     "t": "Be careful."
+    },
+    {
+     "section": "Zhongli"
+    },
+    {
+     "s": 5,
+     "t": "This has been newly dug. It would appear our answer is up ahead."
+    },
+    {
+     "s": 0,
+     "t": "Is that a voice coming from the tunnel? Eek! Someone else go first!"
+    },
+    {
+     "s": 5,
+     "t": "Compose yourselves. I will lead us in."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly."
+    },
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 5,
+     "t": "This has been newly dug. It would appear our answer is up ahead."
+    },
+    {
+     "s": 0,
+     "t": "Is that a voice coming from the tunnel? Eek! Someone else go first!"
+    },
+    {
+     "s": 5,
+     "t": "Compose yourselves. I will lead us in."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "There is an unusual presence emanating from inside the tunnel. Prepare yourselves, and tread lightly."
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 13,
+     "t": "Ugh... Oh..."
+    },
+    {
+     "s": 13,
+     "t": "(He looks exhausted.)"
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 13,
+     "t": "Ugh... ugh..."
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 13,
+     "t": "Oh..."
+    },
+    {
+     "section": "Miner"
+    },
+    {
+     "s": 13,
+     "t": "Argh..."
+    },
+    {
+     "section": "(test)???"
+    },
+    {
+     "s": 14,
+     "t": "Morax! A thousand years after you sealed me underground... you return for the second time..."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "You should call it by its name, Azhdaha... fate."
+    },
+    {
+     "s": 14,
+     "t": "Fate?"
+    },
+    {
+     "s": 14,
+     "t": "Fate!!! Hahahaha!"
+    },
+    {
+     "s": 14,
+     "t": "So here lies the wisdom of the gods? Destroy all deemed redundant, enlist tyrants to ravage the wilderness!"
+    },
+    {
+     "s": 6,
+     "t": "No. You have forgotten."
+    },
+    {
+     "s": 0,
+     "t": "...That... that voice..."
+    },
+    {
+     "s": 5,
+     "t": "Azhdaha..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Kun Jun!?"
+    },
+    {
+     "s": 6,
+     "t": "Morax. It's been a while."
+    },
+    {
+     "s": 14,
+     "t": "Y—You're..."
+    },
+    {
+     "s": 6,
+     "t": "Azhdaha... the very same."
+    },
+    {
+     "s": 5,
+     "t": "During the battle... you embued us with your power..."
+    },
+    {
+     "s": 6,
+     "t": "Haha... yes. It was all I could manage."
+    },
+    {
+     "sit": "Then... which one is the real Azhdaha?"
+    },
+    {
+     "sit": "You're not Kun Jun?"
+    },
+    {
+     "s": 6,
+     "t": "Forgive me for concealing the truth, Traveler. There were things that only became clear to me upon reaching this tree."
+    },
+    {
+     "s": 6,
+     "t": "Allow me to elaborate. I am not Azhdaha the whole... but a fragment."
+    },
+    {
+     "s": 6,
+     "t": "Heaven and earth, yin and yang, opposing forces... You can consider the existence of me and the Azhdaha you see there, to be a reflection of such polarities. \"We\" are a schism of the will... the will of Azhdaha."
+    },
+    {
+     "s": 0,
+     "t": "So... so there are two Azhdahas!?"
+    },
+    {
+     "s": 14,
+     "t": "No! It can't be! That's impossible...!"
+    },
+    {
+     "s": 6,
+     "t": "When the seal loosened, your power manifested in this world as a child. With this new identity, you were able to vent about the forces that suppressed you... but would anyone listen... would they even care?"
+    },
+    {
+     "s": 6,
+     "t": "That's when it occurred to you. The loosening of the seal constituted an opportunity to strike back. Kidnapping the miners was all in aid of digging to the entrance to the seal itself. Your plan was to launch an attack on both ends. From outside... and within. Thereby fully destroying the seal."
+    },
+    {
+     "s": 14,
+     "t": "The audacity! Are you insane!? If you truly are a part of me, how is it you find yourself standing on the side of the betrayer!?"
+    },
+    {
+     "s": 6,
+     "t": "I was another power awakened with the loosening of the seal. Too weak to reincarnate, but strong enough to possess a human body."
+    },
+    {
+     "s": 6,
+     "t": "I was barely conscious... I couldn't remember who I was. Only the past would elicit a reaction from me... But my aim was clear: Find Morax... and aid him in stopping you."
+    },
+    {
+     "s": 5,
+     "t": "I had sensed that something was amiss when you mentioned Dragonfall. Had your power been but a little stronger, I would've recognized you."
+    },
+    {
+     "s": 6,
+     "t": "Don't blame yourself, I have changed beyond all recognition. Only when I touched the stone tablet... did I truly remember."
+    },
+    {
+     "s": 6,
+     "t": "It's been so long. A secret beyond all comprehension, of youthful humanity and ancient dragon-kind... Morax, do you want to tell the tale?"
+    },
+    {
+     "s": 5,
+     "t": "There would be no harm in it. The decision is yours."
+    },
+    {
+     "s": 6,
+     "t": "Haha, you haven't changed. Then allow me."
+    },
+    {
+     "s": 6,
+     "t": "Azhdaha was once a friend and ally of the Geo Archon, Morax, with a lifespan far exceeding that of mankind. However, that which is derived of the earth is no more or less than the earth itself..."
+    },
+    {
+     "s": 6,
+     "t": "The memories of rocks do not last long. Those memories that survive are rooted in powerful emotion. But as time passes, so these memories fade into obscurity. Erosion is the world's greatest destroyer of memories."
+    },
+    {
+     "s": 3,
+     "t": "Erosion...?"
+    },
+    {
+     "s": 6,
+     "t": "Erosion ground Azhdaha's consciousness into oblivion. Slowly, he forgot the face of his old friend, and his memories of defending Liyue Harbor disintegrated."
+    },
+    {
+     "s": 6,
+     "t": "Azhdaha, now incomplete, became irascible... aggressive."
+    },
+    {
+     "s": 14,
+     "t": "What would you expect!? It was humanity that attacked the Ley Lines that sustained me!"
+    },
+    {
+     "s": 6,
+     "t": "This much is true. Which is why \"you\" attacked The Chasm... why \"you\" waged war against Morax."
+    },
+    {
+     "s": 6,
+     "t": "In the beginning, in order to open up new territory and increase production, the citizens of Liyue came to the mountains to mine. Overexploitation caused the Ley Lines to quake, which brought untold suffering to \"us.\""
+    },
+    {
+     "s": 6,
+     "t": "Erosion made \"us\" even more savage. No matter how we struggled, we lost the ability to coexist with humanity... we lost all reason."
+    },
+    {
+     "s": 6,
+     "t": "Morax shared with us some of his power, to prevent further erosion. But... it was futile. Everything returns to dust. It is the natural order, an unstoppable force."
+    },
+    {
+     "s": 6,
+     "t": "And so, \"we\" became \"you.\" And from your will... \"I\" emerged."
+    },
+    {
+     "s": 14,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "I am your final contract. Witness the promise between Azhdaha and Morax. You can hate me... but you cannot deny me."
+    },
+    {
+     "s": 14,
+     "t": "No... no..."
+    },
+    {
+     "s": 6,
+     "t": "I am the remnants of Azhdaha's benevolence, the echo of a contract set in stone. I harbor a willingness to go further, a willingness to coexist peacefully with mankind."
+    },
+    {
+     "s": 14,
+     "t": "No, no! It is I, Azhdaha, forged of elemental crystal, bearer of the weight and memories of the earth, older than the mountains and the oceans that decides! I will not swear allegiance to this insect!"
+    },
+    {
+     "s": 6,
+     "t": "Morax is not an insect."
+    },
+    {
+     "s": 14,
+     "t": "A lord over insects is nothing but an insect in turn!"
+    },
+    {
+     "s": 6,
+     "t": "You forgot yourself. Nobody held Morax in higher regard than you or I."
+    },
+    {
+     "s": 6,
+     "t": "That which you have forgotten, I hold here in my heart. If you are the memory of the earth... then I am the memory of coexistence... of coexistence with humanity."
+    },
+    {
+     "s": 6,
+     "t": "All powers under heaven, rise and fall of land and sea..."
+    },
+    {
+     "s": 14,
+     "t": "...A star appears within the wild... a sun ascends as bright as... jade..."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 14,
+     "t": "Strange... What... what is this feeling? And all this..."
+    },
+    {
+     "s": 6,
+     "t": "You are spent, and I will soon disappear. Before I do, heed these words."
+    },
+    {
+     "s": 6,
+     "t": "In the wilderness, snow falls on a spring day. In an instant it will melt. Even where it is fleeting and leaves no trace. Even where it will never fall again..."
+    },
+    {
+     "s": 14,
+     "t": "No, that isn't true! I don't accept this as fate!"
+    },
+    {
+     "s": 6,
+     "t": "Perhaps it isn't. But it remains... an inevitable misfortune."
+    },
+    {
+     "s": 14,
+     "t": "Mor... ax..."
+    },
+    {
+     "s": 0,
+     "t": "The little girl vanished..."
+    },
+    {
+     "sit": "Sealed away?"
+    },
+    {
+     "sit": "Eroded?"
+    },
+    {
+     "s": 5,
+     "t": "Are you satisfied, Azhdaha?"
+    },
+    {
+     "s": 6,
+     "t": "I had to make amends. Satisfaction had no part in it."
+    },
+    {
+     "s": 6,
+     "t": "So, Morax... you call yourself Zhongli these days?"
+    },
+    {
+     "s": 5,
+     "t": "I do."
+    },
+    {
+     "s": 6,
+     "t": "Well, I'm afraid old habits die hard. To me, you're Morax."
+    },
+    {
+     "s": 5,
+     "t": "As you please."
+    },
+    {
+     "s": 6,
+     "t": "I never did forget your gift of sight."
+    },
+    {
+     "s": 5,
+     "t": "I hardly lifted a finger. Think nothing of it."
+    },
+    {
+     "s": 6,
+     "t": "And yet you could see. You wouldn't know the yearning of a blind dragon, searching for the sun. A pair of eyes, from Morax to Azhdaha. This... I will remember this."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "Your power is nearly spent."
+    },
+    {
+     "s": 6,
+     "t": "...Perceptive as always, my friend."
+    },
+    {
+     "s": 5,
+     "t": "Shall we get going, you and I?"
+    },
+    {
+     "s": 6,
+     "t": "Surely the pressing matter is still that of the miners trapped outside the seal?"
+    },
+    {
+     "s": 5,
+     "t": "Indeed. Hence the need to get going, to fix the damage left in your wake."
+    },
+    {
+     "s": 6,
+     "t": "Ha... straight down to business, as always. Let's go."
+    },
+    {
+     "s": 3,
+     "t": "Eroded?"
+    },
+    {
+     "s": 3,
+     "t": "You're not Kun Jun?"
+    },
+    {
+     "section": "Uncle Dai"
+    },
+    {
+     "s": 2,
+     "t": "So there you are! My men and I found your clues and followed them straight here."
+    },
+    {
+     "s": 2,
+     "t": "We found Mao in a tent at the campsite unconscious! It seems he'll be okay. Sadly, we found no trace of the other three..."
+    },
+    {
+     "s": 2,
+     "t": "Huh? Young Kun, wh—what is...?"
+    },
+    {
+     "s": 6,
+     "t": "Nothing, pay it no mind. Those three miners are over in that cave there."
+    },
+    {
+     "s": 2,
+     "t": "Cave? What happened!?"
+    },
+    {
+     "s": 5,
+     "t": "They're exhausted, but not in danger. Don't worry."
+    },
+    {
+     "s": 2,
+     "t": "R—Right, well... Thank you, all of you! I better go and see how they're doing."
+    },
+    {
+     "s": 6,
+     "t": "So you're taking them back to Liyue Harbor?"
+    },
+    {
+     "s": 2,
+     "t": "That's right!"
+    },
+    {
+     "s": 6,
+     "t": "Can I come with you?"
+    },
+    {
+     "s": 2,
+     "t": "No problem! You rescued my men. I'll be happy to assist all of you in any way I can. I'll be back soon, I need to assess their condition."
+    },
+    {
+     "s": 0,
+     "t": "Kun Jun... Oh, uh... we should be calling you Azhdaha... You're coming back to Liyue Harbor too, right?"
+    },
+    {
+     "s": 6,
+     "t": "Not I, merely this body."
+    },
+    {
+     "s": 6,
+     "t": "Once I'm gone, the true owner will accompany the miners back to Liyue. Kun Jun hails from a family of famous artisans — he too will be famous in time. It would be a shame for someone of his talent to go missing."
+    },
+    {
+     "s": 5,
+     "t": "You always did have a great admiration for blacksmiths."
+    },
+    {
+     "s": 6,
+     "t": "Curious how swords and daggers are blind, yet their creators see so much. Perhaps empathy is mankind's proudest achievement after all?"
+    },
+    {
+     "s": 5,
+     "t": "Azhdaha. I am no longer the Geo Archon."
+    },
+    {
+     "s": 6,
+     "t": "...I can sense it."
+    },
+    {
+     "s": 5,
+     "t": "Today I am just an ordinary citizen of Liyue."
+    },
+    {
+     "s": 6,
+     "t": "Even you met such a fate... Let's get the difficult part out of the way. I cannot guarantee that I won't be awoken a second time."
+    },
+    {
+     "s": 5,
+     "t": "No matter. If that day comes to pass, Liyue must prepare itself to face you."
+    },
+    {
+     "s": 6,
+     "t": "And how will Liyue fare without Rex Lapis?"
+    },
+    {
+     "s": 5,
+     "t": "Even without a god above, this remains a nation of men. I was once their god, I ought to be here to witness their rise and fall."
+    },
+    {
+     "s": 6,
+     "t": "All life is shaped and then ground away by the endless flow of time. You were always the strongest among us, yet it would seem that even you have been eroded..."
+    },
+    {
+     "s": 6,
+     "t": "That's unimportant... fate is ordained by heaven. Even if our mission had already concluded, it would be cowardly not to strike out on the road of departure."
+    },
+    {
+     "s": 6,
+     "t": "You may live forever, doomed to a lonely existence... yet even this is temporary. When you reach the end of time, those people, those past and future relationships predetermined by fate... They will be waiting for you."
+    },
+    {
+     "s": 5,
+     "t": "I do not pretend to match your rhetoric when it comes to the subject of a life long-lived. I fear that the life of an elemental being is longer than any in this world."
+    },
+    {
+     "s": 6,
+     "t": "Were it not so, you would have killed me long ago, and would not be having to face me again now."
+    },
+    {
+     "s": 5,
+     "t": "You've brought a smile to my face. When all is said and done, a reunion between old friends is an auspicious occasion."
+    },
+    {
+     "s": 6,
+     "t": "That day in The Chasm? Did you hesitate?"
+    },
+    {
+     "s": 5,
+     "t": "A heart of stone is a heart nonetheless. But I am the God of Contracts, and was, for a time, a god of the people of Liyue."
+    },
+    {
+     "s": 6,
+     "t": "You chose justice, but did not forsake your kindness. You came to me not as an assassin, and so I was willingly sealed away."
+    },
+    {
+     "s": 5,
+     "t": "The movements of the Earth Dragon can tremble the earth and shake the heavens. With your abilities, even at my full strength, I struggled to confront you, let alone seal you away."
+    },
+    {
+     "s": 6,
+     "t": "Hence \"my\" inception."
+    },
+    {
+     "s": 6,
+     "t": "Do not forget that I was there with Liyue's founder. The face may have changed, but the content of the contract remains intact."
+    },
+    {
+     "s": 6,
+     "t": "Old friend, God of Contracts. I hereby honor our agreement."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "Thank you, Azhdaha."
+    },
+    {
+     "s": 6,
+     "t": "My life is nigh on eternal. I will go on with the infinite flow of time. And you, Morax... You too will live for many a day to come."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "You're leaving?"
+    },
+    {
+     "s": 6,
+     "t": "If it is fated, Morax... we will meet again."
+    },
+    {
+     "s": 0,
+     "t": "Huh!?"
+    },
+    {
+     "s": 3,
+     "t": "So is this..."
+    },
+    {
+     "s": 3,
+     "t": "...the real Kun Jun?"
+    },
+    {
+     "s": 5,
+     "t": "Yes. Don't be alarmed, he's only asleep."
+    },
+    {
+     "s": 0,
+     "t": "Whoa... that was so weird. It was like he... suddenly became another person."
+    },
+    {
+     "s": 5,
+     "t": "In fact... we have yet to meet the real Kun Jun."
+    },
+    {
+     "s": 3,
+     "t": "But what about Azhdaha..."
+    },
+    {
+     "s": 3,
+     "t": "He was a great friend of yours."
+    },
+    {
+     "s": 5,
+     "t": "He was."
+    },
+    {
+     "s": 5,
+     "t": "Centuries may have passed since then... but events from a thousand years ago... remain crystal clear in my mind."
+    },
+    {
+     "section": "Zhongli"
+    },
+    {
+     "s": 5,
+     "t": "A thousand years ago, Azhdaha attacked The Chasm. I tried to obstruct him, fighting him tooth and nail down the length and breadth of the mine. Finally, I brought him down, and sealed him underground."
+    },
+    {
+     "s": 5,
+     "t": "During that battle, Dragonfall was born. Azhdaha could sense the stone. Subconsciously, he wanted to use it to find me."
+    },
+    {
+     "s": 5,
+     "t": "Despite being the victor, I could not claim to be stronger than he. And in his heart, he still retained an ounce of good will towards me... towards Liyue... towards life above ground."
+    },
+    {
+     "s": 5,
+     "t": "He was willing to be sealed away. But as the erosion set in... he forgot."
+    },
+    {
+     "sit": "The power of erosion is... scary."
+    },
+    {
+     "sit": "Have you also been affected by erosion?"
+    },
+    {
+     "s": 5,
+     "t": "Even I cannot avoid it. But there is something I understand better than most: When the door opens, it is time to leave."
+    },
+    {
+     "s": 5,
+     "t": "The greater the power, the greater the danger erosion may bring about. The millennia may come and go, but even a stone may tire."
+    },
+    {
+     "sit": "Is that why you chose to leave...?"
+    },
+    {
+     "sit": "Is that why you chose to step down as the Geo Archon...?"
+    },
+    {
+     "s": 5,
+     "t": "Personally sealing away an old friend... this is just one form of erosion I have endured."
+    },
+    {
+     "s": 5,
+     "t": "People abandon and surrender the things they love to pursue the right path. Perhaps this is the erosion imposed on me by the Heavenly Principles."
+    },
+    {
+     "s": 5,
+     "t": "But I was a god of mankind. My identity may change, but my eyes will bear witness to the history of humanity."
+    },
+    {
+     "s": 0,
+     "t": "You still care a lot about Liyue..."
+    },
+    {
+     "s": 5,
+     "t": "Call it... part of my duty."
+    },
+    {
+     "s": 5,
+     "t": "I must thank you both."
+    },
+    {
+     "s": 0,
+     "t": "No worries!"
+    },
+    {
+     "s": 3,
+     "t": "Hold on."
+    },
+    {
+     "s": 3,
+     "t": "I want to ask you something."
+    },
+    {
+     "s": 5,
+     "t": "Oh? About what?"
+    },
+    {
+     "s": 3,
+     "t": "About my brother(sister)."
+    },
+    {
+     "s": 0,
+     "t": "Oh yeah! Paimon nearly forgot!"
+    },
+    {
+     "s": 0,
+     "t": "So, not long ago we met a guy called Dain."
+    },
+    {
+     "s": 0,
+     "t": "He told us about Khaenri'ah and the punishment of the gods... That's when we realized that those events... were connected to the person we're searching for."
+    },
+    {
+     "sit": "My sibling."
+    },
+    {
+     "sit": "This is crucial for me."
+    },
+    {
+     "s": 0,
+     "t": "Zhongli, you're a god. You've lived through thousands of years of history. Surely you experienced the incident."
+    },
+    {
+     "s": 5,
+     "t": "..."
+    },
+    {
+     "s": 5,
+     "t": "......"
+    },
+    {
+     "s": 5,
+     "t": "I cannot say."
+    },
+    {
+     "s": 0,
+     "t": "Why!?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 0,
+     "t": "You can't even give us a thread of information? This is so important to us!"
+    },
+    {
+     "s": 5,
+     "t": "I understand, but I must apologize. This is my contract."
+    },
+    {
+     "s": 0,
+     "t": "You mean, another past grievance? Like the incident with Azhdaha? Too painful to talk about?"
+    },
+    {
+     "s": 5,
+     "t": "It was signed before it all began. I have always honored the contract... and kept my silence."
+    },
+    {
+     "s": 0,
+     "t": "...How can you be like that...!?"
+    },
+    {
+     "s": 5,
+     "t": "You two are friends to me. I can assure it brings me no pleasure to disappoint you. But as the God of Contracts, I cannot go back on my word."
+    },
+    {
+     "sit": "Well, it's not out of character."
+    },
+    {
+     "sit": "I believe you."
+    },
+    {
+     "s": 0,
+     "t": "Would you be ready to find out?"
+    },
+    {
+     "s": 3,
+     "t": "Perhaps."
+    },
+    {
+     "s": 5,
+     "t": "It appears your understanding of this world continues to grow."
+    },
+    {
+     "s": 5,
+     "t": "There are many events of ages past... many secrets that lie hidden..."
+    },
+    {
+     "s": 5,
+     "t": "They have been eroded by time, forgotten by the people... abandoned."
+    },
+    {
+     "s": 5,
+     "t": "But you are capable of finding them and bringing them into the light."
+    },
+    {
+     "s": 5,
+     "t": "Those who come to witness... will witness. Those who are born to remember... will remember."
+    },
+    {
+     "s": 5,
+     "t": "If you take the same road as that person, there may be more difficulties ahead. But as long as you firmly believe that you are on the right path... everything has meaning."
+    },
+    {
+     "s": 3,
+     "t": "I believe you."
+    },
+    {
+     "s": 3,
+     "t": "This is crucial for me."
+    },
+    {
+     "s": 3,
+     "t": "Is that why you chose to step down as the Geo Archon...?"
+    },
+    {
+     "s": 3,
+     "t": "Have you also been affected by erosion?"
+    }
+   ],
+   "description": "Finally, you reach Nantianmen. A curious ancient tree has quietly stood here throughout the ages, bearing witness to all that has come to pass. To rescue the miners and solve this puzzle once and for all, you proceed to the ancient site that holds all the answers…"
+  },
+  {
+   "title": "| Genshin Impact Database Wiki - Honey Hunter World",
+   "dialogue": [
+    {
+     "section": "Zhongli"
+    },
+    {
+     "s": 5,
+     "t": "This tablet was erected by Mountain Shaper. It names Azhdaha as a terrible dragon, and serves as a warning for later generations to stay away from this place... from the seal."
+    },
+    {
+     "s": 5,
+     "t": "It's a shame... There is a fine line between good and evil. If the good and evil within him could be summarized in a single sentence... well, never mind."
+    },
+    {
+     "s": 3,
+     "t": "(You gaze quietly at Zhongli as he stands beneath the tree...)"
+    },
+    {
+     "s": 5,
+     "t": "(Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)"
+    },
+    {
+     "s": 5,
+     "t": "(A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)"
+    },
+    {
+     "section": "Zhongli"
+    },
+    {
+     "s": 5,
+     "t": "(Amidst the quiet, only the soft sound of the wind can be heard. Time seems to transform into an invisible river, trickling away...)"
+    },
+    {
+     "s": 5,
+     "t": "(A fleeting moment, a thousand years in the mortal world. The rocks feel it, and so too does the earth and the gods.)"
+    }
+   ]
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Katheryne",
+  "Uncle Dai",
+  "Traveler",
+  "Iron Tongue Tian",
+  "Zhongli",
+  "Kun Jun",
+  "Bravo",
+  "Observe Stone",
+  "Yonggui",
+  "Wei",
+  "Ling",
+  "Wanyu",
+  "Miner",
+  "Jiu"
+ ]
+}

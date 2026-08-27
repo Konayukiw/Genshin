@@ -1,0 +1,587 @@
+{
+ "chapter": "Unreconciled Stars - IV",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Where Ancient Stars Align",
+ "region": null,
+ "quests": [
+  {
+   "title": "Where Ancient Stars Align",
+   "dialogue": [
+    {
+     "section": "Mona, Fischl"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Is Fischl waiting for us?"
+    },
+    {
+     "s": 1,
+     "t": "The time has finally come. Though it brings mein Fräulein no joy to do so, there is something she must announce to the assembled populous."
+    },
+    {
+     "s": 2,
+     "t": "My loyal servants, one must bid you adieu till such time as I beckon you once more. Though we have faced many trials and tribulations together, you have all shown commendable courage in the course of duty. I feel a breeze now blows upon this place... and I feel that it blows in your honor."
+    },
+    {
+     "s": 0,
+     "t": "Whaaaat? You're just gonna bail on us!?"
+    },
+    {
+     "sit": "Fischl, are you leaving?"
+    },
+    {
+     "s": 1,
+     "t": "With the arrival of this giant meteorite, many more people have succumbed to the slumber. Strong as the soldiers may be, they are struggling to cope, and there is demand for volunteers everywhere we turn."
+    },
+    {
+     "s": 1,
+     "t": "Mein Fräulein and I shall tend to the victims on the soldiers' behalf. The rest of this investigation we place in your capable hands."
+    },
+    {
+     "s": 2,
+     "t": "...Goodbye, {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "You are a good listener. ...I enjoy chatting with you."
+    },
+    {
+     "s": 2,
+     "t": "To be honest, most of the other adventurers in the Guild only ever talk to me when they wanna hear Oz's reconnaissance reports..."
+    },
+    {
+     "s": 2,
+     "t": "This little journey we had... it was a great adventure. I'm just sorry that it has to end so abruptly..."
+    },
+    {
+     "s": 0,
+     "t": "Huh? You're talking a little weirder than you normally do..."
+    },
+    {
+     "s": 2,
+     "t": "!!!"
+    },
+    {
+     "s": 2,
+     "t": "(Yikes!!! What am I doing? I totally broke form...)"
+    },
+    {
+     "s": 1,
+     "t": "What mein Fräulein means to say, is... is... is that the mystical mysteries that vex and perplex are bound to be effortlessly extinguished by the advent of your commendable courage and wondrous wisdom."
+    },
+    {
+     "s": 0,
+     "t": "Uh... And now Oz's translation is the one that sounds all kooky."
+    },
+    {
+     "s": 1,
+     "t": "Ahem... Mein Fräulein simply wishes to say that she has every confidence that you will arrive at the truth of this matter."
+    },
+    {
+     "s": 2,
+     "t": "Ahem! Most indeed... My dear attendants, I hereby charge the Ritter der Verurteilung with leading you out from the darkness, back into the realm of light."
+    },
+    {
+     "s": 3,
+     "t": "Who are you calling your \"attendant...\""
+    },
+    {
+     "sit": "Thank you Oz, and thank you Fischl."
+    },
+    {
+     "s": 1,
+     "t": "We will meet again. Once this matter is concluded, I propose that we all get a drink together."
+    },
+    {
+     "s": 3,
+     "t": "Well, now we're two people short."
+    },
+    {
+     "s": 3,
+     "t": "But let's not get hung up about that. The good news is, I've found something else out."
+    },
+    {
+     "s": 3,
+     "t": "I shaved some dust off the meteorite and used it to do another reading. It was actually really effective!"
+    },
+    {
+     "s": 3,
+     "t": "These rocks have been around for hundreds, maybe even thousands of years. Leonard must have lived a very long time ago."
+    },
+    {
+     "s": 3,
+     "t": "The meteorites carry his will, and can pass it on to others. In other words, centuries on from Leonard's life, and the strength of his will has not diminished one bit."
+    },
+    {
+     "s": 3,
+     "t": "A guy from the distant past with a burning ambition to scale the highest mountain... I'd be willing to bet that he was an adventurer, just like you."
+    },
+    {
+     "s": 0,
+     "t": "An adventurer? That does explain his obsession with mountain climbing!"
+    },
+    {
+     "s": 3,
+     "t": "Our approach so far has been too passive, and time has been against us every step of the way. We need to change our strategy, and we need to attack this problem at its source."
+    },
+    {
+     "s": 0,
+     "t": "Paimon agrees! From now on, we need to put Leonard at the center of everything we do."
+    },
+    {
+     "s": 3,
+     "t": "Yes... Because if the meteorites carry Leonard's will with them, then it's precisely as Fischl said: the rocks are, in a sense, a curse..."
+    },
+    {
+     "s": 3,
+     "t": "I'm a little incredulous, but it turns out her blind guess was actually spot on... Ugh, no, I'm a respectable astrologist, and I shouldn't stoop to that kind of criticism."
+    },
+    {
+     "s": 3,
+     "t": "Anyway. All we need to do now is remove the curse."
+    },
+    {
+     "sit": "Come on Paimon, let's go."
+    },
+    {
+     "s": 0,
+     "t": "Okie-dokie!"
+    },
+    {
+     "s": 0,
+     "t": "Since we've got a historical adventurer on our hands, Paimon thinks we should pay a visit to the <color=#00E1FFFF>Adventurers' Guild</color>."
+    },
+    {
+     "section": "Katheryne"
+    },
+    {
+     "s": 4,
+     "t": "Our records show that there have been many adventurers by that name over the years, it is impossible to know which one you refer to."
+    },
+    {
+     "s": 4,
+     "t": "However, I do recall that there is a book in the library authored by someone called Leonard. Perhaps you should take a look?"
+    },
+    {
+     "s": 4,
+     "t": "However, I do recall that there is a book in the <color=#00E1FFFF>library</color> authored by someone called Leonard. Perhaps you should take a look?"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Author, Leonard... Where are you, Leonard... Aha! Gotcha!"
+    },
+    {
+     "s": 0,
+     "t": "The index says that Leonard's book should be in the <color=#00E1FFFF>north-west corner</color> on the <color=#00E1FFFF>first floor</color> of the library."
+    },
+    {
+     "s": 0,
+     "t": "North-west corner... Should be right over there."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Found it! \"Of Mountains and Seas,\" A Guide for Adventurers, written by Leonard!"
+    },
+    {
+     "s": 0,
+     "t": "But the words have faded and there are even pages missing... Paimon's got no hope of reading this."
+    },
+    {
+     "s": 0,
+     "t": "Darn... Maybe we're just wasting our time on this one?"
+    },
+    {
+     "sit": "Don't give up. Let's see what Mona says."
+    },
+    {
+     "s": 0,
+     "t": "Oh, right, yeah! Mona! She might have a better idea."
+    },
+    {
+     "section": "Mona"
+    },
+    {
+     "s": 0,
+     "t": "Look what we found, Leonard wrote a book!"
+    },
+    {
+     "s": 3,
+     "t": "Ooh, let me see!"
+    },
+    {
+     "sit": "It's quite incoherent as there is lots missing."
+    },
+    {
+     "s": 3,
+     "t": "Hm! I could have predicted as much..."
+    },
+    {
+     "s": 3,
+     "t": "Your average astrologist would definitely give up at this point."
+    },
+    {
+     "s": 3,
+     "t": "But I am Mona, progenitor of the future of astrology. Nothing can stand in my way."
+    },
+    {
+     "s": 3,
+     "t": "I simply need to deduce the missing portions with my astrolabe, write them in, and then decipher the text..."
+    },
+    {
+     "s": 3,
+     "t": "Phew! Finished at last..."
+    },
+    {
+     "s": 0,
+     "t": "So what does it say?"
+    },
+    {
+     "s": 3,
+     "t": "Just as I thought, Leonard was an adventurer who lived two thousand years ago."
+    },
+    {
+     "s": 3,
+     "t": "His lifelong dream was to reach the summit of a mountain called Pilos Peak."
+    },
+    {
+     "s": 0,
+     "t": "Two thousand years? So the constellation that caused the meteorites is from two thousand years ago!?"
+    },
+    {
+     "s": 3,
+     "t": "Somehow, for some reason, this constellation was summoned down from the sky. I suspect that the Fatui have something to do with that part."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thinks so too. Whenever something shady happens, you can bet the Fatui are involved."
+    },
+    {
+     "s": 3,
+     "t": "The meteorites harbor elemental energy, which radiates out and lulls people to sleep by some means akin to hypnosis."
+    },
+    {
+     "s": 3,
+     "t": "And if I'm guessing correctly, there should be some sort of core meteorite among the bunch, within which is a crystal that harbors Leonard's spirit."
+    },
+    {
+     "sit": "How will we find it?"
+    },
+    {
+     "s": 3,
+     "t": "Well, if I were Leonard, I would want to make sure the core lands right on the snowy summit that I never made it to while I was alive."
+    },
+    {
+     "s": 0,
+     "t": "So the core should be at the top of Pilos Peak? Where is that? Paimon's never heard of it before."
+    },
+    {
+     "s": 3,
+     "t": "It's the first I'd heard of it too, so I compared the map from the book against the current topography of Mondstadt. Apparently, Pilos Peak no longer exists."
+    },
+    {
+     "s": 0,
+     "t": "Are you trying to say that the tallest mountain Paimon's never heard of just... disappeared!?"
+    },
+    {
+     "s": 3,
+     "t": "I once read somewhere that the Anemo Archon, Barbatos, once used his divine power to mobilize the winds and blow the ice and snow from the face of the earth. The whole landscape of Mondstadt was changed in the process."
+    },
+    {
+     "s": 3,
+     "t": "The mountains of that age were replaced by the vast stretch of ocean we see today. Still, a mountain that high? Drop it into the ocean and it'll still leave a trace."
+    },
+    {
+     "s": 3,
+     "t": "The summit still reaches just above the water's surface. So, the place known as Pilos Peak in Leonard's day is today known..."
+    },
+    {
+     "s": 3,
+     "t": "...as <color=#00E1FFFF>\"Musk Reef.\"</color>"
+    },
+    {
+     "section": "The Balladeer"
+    },
+    {
+     "s": 3,
+     "t": "Ho? So this is Pilos Peak? Not much to show for itself now, eh?"
+    },
+    {
+     "s": 0,
+     "t": "Looks like someone beat us here... Is this, like, a popular tourist spot, or..."
+    },
+    {
+     "s": 0,
+     "t": "Ah! It's you!"
+    },
+    {
+     "s": 5,
+     "t": "Ugh... Huh? You again?"
+    },
+    {
+     "sit": "How did you find this place?"
+    },
+    {
+     "sit": "Have you just woken up?"
+    },
+    {
+     "s": 0,
+     "t": "Look at the state he's in... Was he in that dream just now?"
+    },
+    {
+     "s": 3,
+     "t": "He managed to extricate himself from the dream on his own strength? How is that possible?"
+    },
+    {
+     "s": 5,
+     "t": "Hah! Just because you are powerless to do something does not mean that I am."
+    },
+    {
+     "s": 5,
+     "t": "You're too late, anyway. I've finished my research."
+    },
+    {
+     "s": 0,
+     "t": "We knew it! This was all a dirty trick by the Fatui!"
+    },
+    {
+     "s": 5,
+     "t": "Save it. No more fun and games for me today. I'll come for you when I'm good and ready."
+    },
+    {
+     "sit": "Wait! What are you trying to achieve?"
+    },
+    {
+     "s": 3,
+     "t": "You entered the dream they've all been having, didn't you? How much do you know about Leonard?"
+    },
+    {
+     "s": 5,
+     "t": "Leonard? Who's Leonard? ...Ugh, whatever! I have bigger fish to fry!"
+    },
+    {
+     "s": 5,
+     "t": "I've discovered something far more important... and far more terrifying."
+    },
+    {
+     "s": 0,
+     "t": "What?"
+    },
+    {
+     "sit": "What is it?"
+    },
+    {
+     "s": 5,
+     "t": "The stars, the sky... It's all a gigantic hoax. A lie."
+    },
+    {
+     "s": 3,
+     "t": "The stars are a lie? What are you talking about?"
+    },
+    {
+     "s": 0,
+     "t": "Is this some kind of astrological debate between you and Mona? Because if so, surely you can come up with a better argument than \"The stars are a lie.\""
+    },
+    {
+     "s": 0,
+     "t": "Seriously, who's gonna fall for that one when you can just lift your head up at night and see them up there, twinkling away?"
+    },
+    {
+     "s": 5,
+     "t": "Hah... Hahahahaha! Oh, you are so naive, it kills me!"
+    },
+    {
+     "s": 5,
+     "t": "Still... Can't really blame you. After all, I used to believe the same thing myself — up until a few moments ago, that is..."
+    },
+    {
+     "s": 3,
+     "t": "A few moments ago? You mean..."
+    },
+    {
+     "s": 5,
+     "t": "Look — I really don't have the time to do this right now."
+    },
+    {
+     "s": 5,
+     "t": "What was the Jester thinking? He must have had some inkling of what we might discover on this mission... Would it really have been so difficult to give me a little forewarning? Hmph, or maybe he just wanted to give me a fright..."
+    },
+    {
+     "s": 5,
+     "t": "Time for me to go out and find the truth. So long, suckers!"
+    },
+    {
+     "section": "Mona"
+    },
+    {
+     "s": 0,
+     "t": "Wow, you fought so fiercely!"
+    },
+    {
+     "s": 3,
+     "t": "Told you! That's what happens when you disrespect me!"
+    },
+    {
+     "sit": "Mona, you are a force to be reckoned with."
+    },
+    {
+     "s": 3,
+     "t": "You bet I am! Paimon, you agree too, right? Did I show those Fatui who's boss or what?"
+    },
+    {
+     "s": 0,
+     "t": "Sure did! Without you here, those guys would have caused us a whole lot more trouble!"
+    },
+    {
+     "s": 3,
+     "t": "See! How do you like that, Harbinger! Scumbag..."
+    },
+    {
+     "s": 3,
+     "t": "He seemed genuinely shaken, though. I don't think he was lying. I was always taught to talk about the \"false sky\" during astrological readings... Could there be more to such phrases than I have been led to believe?"
+    },
+    {
+     "s": 3,
+     "t": "...Ahem. I digress. Come on, let's finish the job we came to do."
+    },
+    {
+     "s": 0,
+     "t": "The <color=#00E1FFFF>core</color> has gotta be round here somewhere!"
+    },
+    {
+     "section": "Mona"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, this must be the core... It looks totally different from all the other meteorites! It's way more... shiny."
+    },
+    {
+     "s": 3,
+     "t": "This stone harbors an unbelievable amount of elemental energy, and human desire. It's the core alright."
+    },
+    {
+     "sit": "Should we... destroy it?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. Otherwise, the victims will never wake up... This core is the root cause of everything that has happened."
+    },
+    {
+     "s": 0,
+     "t": "Do it, {NICKNAME}!"
+    },
+    {
+     "s": 3,
+     "t": "Wow. Well, that was unexpected..."
+    },
+    {
+     "sit": "A climber, determined to reach the highest peak."
+    },
+    {
+     "sit": "Determination so strong, he wished to pass it on to others."
+    },
+    {
+     "s": 3,
+     "t": "Who would have thought that human will can survive in the skies for millennia on end..."
+    },
+    {
+     "s": 3,
+     "t": "Astrology really is an incredible thing!"
+    },
+    {
+     "s": 0,
+     "t": "...What makes you say that?"
+    },
+    {
+     "s": 3,
+     "t": "The ability to communicate with the stars can give you access to all the secrets from throughout human history... Though of course, very few astrologists ever reach that level."
+    },
+    {
+     "sit": "Mona, thank you ever so much for all of your assistance."
+    },
+    {
+     "s": 3,
+     "t": "Uh... What's with the formal tone all of a sudden?"
+    },
+    {
+     "s": 3,
+     "t": "And speaking of formal tone... What is the deal with that girl, Fischl? She's a curious one."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thinks so, too! She's soooo... How to put this..."
+    },
+    {
+     "sit": "She's full of weird and wonderful thoughts."
+    },
+    {
+     "sit": "She has a wild imagination."
+    },
+    {
+     "s": 0,
+     "t": "Yeah... Although, if you think about it... Seems she was right all along."
+    },
+    {
+     "s": 0,
+     "t": "Is she one of these people who uses the wrong method but still gets the right answer?"
+    },
+    {
+     "s": 3,
+     "t": "You may well be right."
+    },
+    {
+     "s": 0,
+     "t": "Even so, Paimon thinks that the most surprising thing of all was how Pilos Peak turned into a teeny-tiny little island!"
+    },
+    {
+     "s": 3,
+     "t": "A mountain of yesteryear now sits as an island in the sea. Almost anyone from Mondstadt could reach it now, just by jumping in a boat."
+    },
+    {
+     "s": 0,
+     "t": "In other words, everyone can climb Pilos Peak now."
+    },
+    {
+     "sit": "Everyone can stand on top of the mountain."
+    },
+    {
+     "s": 0,
+     "t": "D'you think Leonard would be happy about it? The situation with Pilos Peak might be a bit of a shock... but now, with the help of the Anemo Archon, the people of Mondstadt are able to glide."
+    },
+    {
+     "s": 0,
+     "t": "With wings, people can travel further and higher than ever before, and explore new and unknown places."
+    },
+    {
+     "sit": "(Leonard, is your wish now fulfilled?)"
+    },
+    {
+     "s": 0,
+     "t": "The victims should finally start waking up now that we've dealt with the core."
+    },
+    {
+     "s": 0,
+     "t": "And we have finally finished our commission from the Adventurers' Guild!"
+    },
+    {
+     "sit": "I wish everyone a speedy recovery."
+    }
+   ],
+   "description": "The meteorites that have rained down were once, in fact, part of someone’s constellation. Why did this ancient array of stars fall from the sky? What goal were their extinguished flames chasing? Armed with the courage to face the answers, you march onward."
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Oz",
+  "Fischl",
+  "Mona",
+  "Katheryne",
+  "The Balladeer"
+ ]
+}

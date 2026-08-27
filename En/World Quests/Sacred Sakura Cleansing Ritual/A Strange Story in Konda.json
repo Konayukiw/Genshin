@@ -1,0 +1,990 @@
+{
+ "chapter": "Sacred Sakura Cleansing Ritual",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "A Strange Story in Konda",
+ "region": null,
+ "quests": [
+  {
+   "title": "A Strange Story in Konda",
+   "dialogue": [
+    {
+     "section": "???"
+    },
+    {
+     "s": 0,
+     "t": "Excuse me, busy Traveler, but I have a favor to ask."
+    },
+    {
+     "s": 0,
+     "t": "Please, look at the Sky Kitsune Statue over there."
+    },
+    {
+     "s": 0,
+     "t": "There is a ward within it that they say can only be removed by someone who has courage, values friendship, and who is favored by the might of <color=#00E1FFFF>Electro</color>."
+    },
+    {
+     "s": 1,
+     "t": "（test）这个村庄果然有古怪"
+    },
+    {
+     "s": 1,
+     "t": "（test）笔记写了河对岸的废屋有蹊跷"
+    },
+    {
+     "s": 1,
+     "t": "（test）我们直接过去看看吧"
+    },
+    {
+     "section": "Well Lock"
+    },
+    {
+     "s": 2,
+     "t": "(The dry well is locked and looks like it could be opened with the corresponding key...)"
+    },
+    {
+     "section": "???"
+    },
+    {
+     "s": 0,
+     "t": "I was right. You are the \"Destined One.\""
+    },
+    {
+     "s": 0,
+     "t": "With your skills and experience... Mm, this shouldn't be a problem."
+    },
+    {
+     "s": 3,
+     "t": "Excuse my rudeness. My name is Hanachirusato, and I am a shrine maiden."
+    },
+    {
+     "s": 1,
+     "t": "Do shrine maidens usually wear masks?"
+    },
+    {
+     "s": 3,
+     "t": "...I have my reasons for that."
+    },
+    {
+     "s": 3,
+     "t": "The village in front of you is named Konda Village, and there is a... barrier within it that needs to be lifted."
+    },
+    {
+     "s": 3,
+     "t": "That barrier is hidden behind a certain secret. I'd like to entrust you with a little investigation, and with lifting that barrier."
+    },
+    {
+     "sit": "Investigation?"
+    },
+    {
+     "sit": "Will there be a reward for that?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end."
+    },
+    {
+     "s": 1,
+     "t": "Well, that sounds like a lot of work. Will there be payment?"
+    },
+    {
+     "s": 3,
+     "t": "Hehe... Of course."
+    },
+    {
+     "s": 3,
+     "t": "\"To those who seek shall just reward be given in proportion to their wisdom and work.\""
+    },
+    {
+     "s": 3,
+     "t": "...That's what she used to say. So no, there is no need to worry."
+    },
+    {
+     "sit": "\"She\"?"
+    },
+    {
+     "sit": "I see. I'll get a move on, then."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "I shall be counting on you for this investigation, Destined One."
+    },
+    {
+     "section": "???"
+    },
+    {
+     "s": 0,
+     "t": "There is a ward within it that they say can only be removed by someone who has courage, values friendship, and who is favored by the might of <color=#00E1FFFF>Electro</color>."
+    },
+    {
+     "section": "???"
+    },
+    {
+     "s": 0,
+     "t": "You were able to retrieve the ward... That means that you really are the \"Destined One.\""
+    },
+    {
+     "s": 0,
+     "t": "With your skills and experience... Mm, this shouldn't be a problem."
+    },
+    {
+     "s": 3,
+     "t": "Excuse my rudeness. My name is Hanachirusato, and I am a shrine maiden."
+    },
+    {
+     "s": 1,
+     "t": "Do shrine maidens usually wear masks?"
+    },
+    {
+     "s": 3,
+     "t": "...I have my reasons for that."
+    },
+    {
+     "s": 3,
+     "t": "The village in front of you is named Konda Village, and there is a... barrier within it that needs to be lifted."
+    },
+    {
+     "s": 3,
+     "t": "That barrier is hidden behind a certain secret. I'd like to entrust you with a little investigation, and with lifting that barrier."
+    },
+    {
+     "sit": "Investigation?"
+    },
+    {
+     "sit": "Will there be a reward for that?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. It may take some time and trouble, but I'm sure that you will reveal the truth in the end."
+    },
+    {
+     "s": 1,
+     "t": "Well, that sounds like a lot of work. Will there be payment?"
+    },
+    {
+     "s": 3,
+     "t": "Hehe... Of course."
+    },
+    {
+     "s": 3,
+     "t": "\"To those who seek shall just reward be given in proportion to their wisdom and work.\""
+    },
+    {
+     "s": 3,
+     "t": "...That's what she used to say. So no, there is no need to worry."
+    },
+    {
+     "sit": "\"She\"?"
+    },
+    {
+     "sit": "I see. I'll get a move on, then."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "I shall be counting on you for this investigation, Destined One."
+    },
+    {
+     "section": "Hanachirusato"
+    },
+    {
+     "s": 3,
+     "t": "Greetings."
+    },
+    {
+     "sit": "About Konda Village..."
+    },
+    {
+     "sit": "About the barrier..."
+    },
+    {
+     "sit": "Goodbye."
+    },
+    {
+     "s": 3,
+     "t": "Konda Village has a long history. In the distant past, its people were once charged with the duty of guarding a certain barrier."
+    },
+    {
+     "s": 3,
+     "t": "But too many things have been lost to time, and this barrier has now become something that must be removed."
+    },
+    {
+     "s": 3,
+     "t": "I wish you all the best."
+    },
+    {
+     "section": "Takeru"
+    },
+    {
+     "s": 4,
+     "t": "Amazing, you climbed up so easily!"
+    },
+    {
+     "s": 4,
+     "t": "Hmmm...? Looking at you, mister(lady), you should be an outlander, right?"
+    },
+    {
+     "s": 4,
+     "t": "It's been a super long time since I've seen an outlander!"
+    },
+    {
+     "s": 4,
+     "t": "Well then, speak: What can Konda Takeru do for you, O outlander from afar?"
+    },
+    {
+     "s": 1,
+     "t": "What an arrogant little kid..."
+    },
+    {
+     "sit": "Have you noticed anything strange lately?"
+    },
+    {
+     "s": 4,
+     "t": "*shh* Keep your voice down... I can tell you, but promise me you won't get scared!"
+    },
+    {
+     "s": 4,
+     "t": "During thunderstorms..."
+    },
+    {
+     "s": 4,
+     "t": "...things get spooky around here!"
+    },
+    {
+     "s": 4,
+     "t": "There's a strange spooky ghost lady!"
+    },
+    {
+     "sit": "Ooh."
+    },
+    {
+     "sit": "I'll say hi to her when I see her..."
+    },
+    {
+     "s": 4,
+     "t": "Huh, how can you be so calm after I told you something like that?"
+    },
+    {
+     "s": 4,
+     "t": "When I told Grandpa Densuke, he didn't believe me either. He said that I must have been mistaken..."
+    },
+    {
+     "sit": "Any other unusual things going on?"
+    },
+    {
+     "s": 4,
+     "t": "I guess that would be the <color=#00E1FFFF>broken cart</color> at the entrance of the village. I wonder who left it there?"
+    },
+    {
+     "s": 4,
+     "t": "See, that's it over there. There are hilichurls digging at it, too!"
+    },
+    {
+     "section": "Futaba"
+    },
+    {
+     "s": 5,
+     "t": "Hello, strange big sis(big bro)! What's up?"
+    },
+    {
+     "sit": "Have you encountered anything strange lately?"
+    },
+    {
+     "s": 5,
+     "t": "Strange? Uh... I don't get it. What kinds of things would you consider strange?"
+    },
+    {
+     "sit": "Anything out of the ordinary."
+    },
+    {
+     "sit": "Like something that is hard to explain."
+    },
+    {
+     "s": 5,
+     "t": "Hmm... Hmm..."
+    },
+    {
+     "s": 5,
+     "t": "I know!"
+    },
+    {
+     "s": 1,
+     "t": "Did something come to mind?"
+    },
+    {
+     "s": 5,
+     "t": "There's a weirdly dressed outlander and a floating white... thing talking to me!"
+    },
+    {
+     "sit": "That is indeed strange."
+    },
+    {
+     "s": 5,
+     "t": "I know, right?"
+    },
+    {
+     "s": 1,
+     "t": "Hey! You two!"
+    },
+    {
+     "s": 5,
+     "t": "Okay, I'll be serious. One night, it suddenly started raining very heavily. Then, I heard a strange sound outside the house that accompanied the sound of the rain."
+    },
+    {
+     "sit": "Strange sound?"
+    },
+    {
+     "s": 5,
+     "t": "Yes, it was like an intermittent clicking, clacking sound!"
+    },
+    {
+     "s": 5,
+     "t": "The next day, I went to check it out! Then I saw some <color=#00E1FFFF>floating bags</color> in the village gully."
+    },
+    {
+     "s": 5,
+     "t": "I left them alone because I didn't know who had put them there..."
+    },
+    {
+     "s": 5,
+     "t": "They might have washed away by now. You can take a look along the gully!"
+    },
+    {
+     "sit": "Were there any other clues?"
+    },
+    {
+     "s": 5,
+     "t": "Other than that... I can't think of any."
+    },
+    {
+     "s": 5,
+     "t": "You can go ask my dad! He knows a lot of things."
+    },
+    {
+     "sit": "Your dad?"
+    },
+    {
+     "s": 5,
+     "t": "<color=#00E1FFFF>Konda Densuke</color>, the chief of Konda Village."
+    },
+    {
+     "s": 1,
+     "t": "Huh? That old man is your dad?"
+    },
+    {
+     "s": 5,
+     "t": "Actually, I was adopted. He adopted me, so now I'm his daughter."
+    },
+    {
+     "s": 5,
+     "t": "Oh! You can also go ask my nephew, Takeru."
+    },
+    {
+     "s": 1,
+     "t": "Wait a second. Nephew...?"
+    },
+    {
+     "sit": "I see. He is the village chief's grandson."
+    },
+    {
+     "sit": "\"Nephew\"?"
+    },
+    {
+     "s": 5,
+     "t": "That's right. <color=#00E1FFFF>Takeru likes high places</color>, so maybe he's seen something from there..."
+    },
+    {
+     "s": 1,
+     "t": "This family's pretty complicated..."
+    },
+    {
+     "sit": "I see. Thank you."
+    },
+    {
+     "s": 5,
+     "t": "Hehe. Glad that I could help!"
+    },
+    {
+     "s": 5,
+     "t": "*sigh* Why isn't Takeru here yet? We were supposed to hang out today."
+    },
+    {
+     "s": 5,
+     "t": "Did he go up to the roof again...?"
+    },
+    {
+     "section": "Saimon Eri"
+    },
+    {
+     "s": 6,
+     "t": "Hello, youngster. Are you here to listen to this old woman's stories?"
+    },
+    {
+     "sit": "Have you encountered anything strange lately?"
+    },
+    {
+     "s": 6,
+     "t": "The strangest thing is how we haven't heard from Jirou for such a long time..."
+    },
+    {
+     "s": 6,
+     "t": "My old husband's even put up a search notice in Inazuma City."
+    },
+    {
+     "s": 6,
+     "t": "*sigh* Jirou used to hang out with the young gangsters in the village."
+    },
+    {
+     "s": 6,
+     "t": "We urged him to join the army because they were together from morning to night and were always up to no good."
+    },
+    {
+     "s": 6,
+     "t": "Maybe the kid's broken off contact because we pushed him too hard..."
+    },
+    {
+     "s": 6,
+     "t": "Speaking of which, it seems like I haven't seen any of those punks for a while, either."
+    },
+    {
+     "sit": "Anything else out of the ordinary?"
+    },
+    {
+     "s": 6,
+     "t": "Out of the ordinary... Let's see..."
+    },
+    {
+     "s": 6,
+     "t": "In the past, traders and tourists from various countries would disembark at Ritou, and they would pass through our village on their way to Inazuma City."
+    },
+    {
+     "s": 6,
+     "t": "The village was always busy and we would open our doors for outlanders. But that hasn't happened for a long time. That's unusual, isn't it?"
+    },
+    {
+     "s": 6,
+     "t": "Mr. Imatani never worried much about the kids in the past, nor would Jirou ever have fought any war no matter who told him to. This is also very abnormal."
+    },
+    {
+     "s": 6,
+     "t": "And the deserted shrine at the foot of the mountain would never have fallen into disrepair in the past like it has now. I've heard that the statue of the Great Fox occasionally sheds tears. That's not normal either, is it?"
+    },
+    {
+     "s": 6,
+     "t": "The Konda family's well is always dry, even though there is plenty of water all around. Someone locked the well up the other night, and not a soul knows who did it. This kind of thing isn't normal either, right?"
+    },
+    {
+     "s": 6,
+     "t": "Little Takeru even said that he saw a ghostly woman during a stormy night. But who or what would haunt such a peaceful village? This too is very abnormal, yes?"
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "Hehehe... There are just too many strange goings-on for an old woman like me. Are these what you wanted to know?"
+    },
+    {
+     "sit": "So, about the punks you mentioned earlier..."
+    },
+    {
+     "s": 1,
+     "t": "Do you know where they are, Granny?"
+    },
+    {
+     "s": 6,
+     "t": "They're a band of troublemaking brats. They most likely went somewhere new to make trouble."
+    },
+    {
+     "s": 6,
+     "t": "As long as Jirou isn't influenced by them, I couldn't care less."
+    },
+    {
+     "s": 6,
+     "t": "Still, you just reminded me of something..."
+    },
+    {
+     "s": 6,
+     "t": "I've heard that for a while, there was a lot of Mora scattered inside <color=#00E1FFFF>the dry well behind the village chief's house</color>."
+    },
+    {
+     "s": 6,
+     "t": "But a group of ronin came to the village later and took almost all of it."
+    },
+    {
+     "s": 6,
+     "t": "That's all I know. If you want to know more, you can go ask our village chief."
+    },
+    {
+     "section": "Konda Densuke"
+    },
+    {
+     "s": 7,
+     "t": "What can I do for you, youngster?"
+    },
+    {
+     "sit": "You are...?"
+    },
+    {
+     "s": 7,
+     "t": "My name is Konda Densuke, and I am the village chief."
+    },
+    {
+     "s": 7,
+     "t": "From the way you dress, you must be an outsi— I mean, outlander, right? It's been a long time since an outlander has come to the village."
+    },
+    {
+     "s": 7,
+     "t": "How can I help you? Need a place to rest your feet? Or do you need help to find your way up the mountain?"
+    },
+    {
+     "sit": "I'm looking for a place to rest."
+    },
+    {
+     "sit": "I want to go up the mountain."
+    },
+    {
+     "s": 1,
+     "t": "No! We're here to ask about the secret of Konda Village!"
+    },
+    {
+     "sit": "...Oh boy."
+    },
+    {
+     "s": 7,
+     "t": "Secret? Konda Village doesn't have any secrets."
+    },
+    {
+     "s": 7,
+     "t": "Although the economy isn't good these days, all the taxes that should be paid to the police station are paid regularly, regardless."
+    },
+    {
+     "s": 7,
+     "t": "There are only a few families in our village, all with a long history. And we know each other's roots. How could we have any secrets?"
+    },
+    {
+     "sit": "Calm down a little..."
+    },
+    {
+     "s": 7,
+     "t": "Konda Village is simple and peaceful. There are no secrets here."
+    },
+    {
+     "s": 7,
+     "t": "If you're looking for secrets, why don't you just go to the Grand Narukami Shrine and learn the secrets of deciphering fortune slips? Or how about you go to Chinju Forest and see if you can hear the \"tanuki-bayashi,\" huh!?"
+    },
+    {
+     "s": 7,
+     "t": "Phew... Sorry, I might have overreacted."
+    },
+    {
+     "s": 7,
+     "t": "Konda Village is a peaceful place. Youngster, are you sure you don't have the wrong village?"
+    },
+    {
+     "s": 1,
+     "t": "But..."
+    },
+    {
+     "s": 7,
+     "t": "If you don't believe me, <color=#00E1FFFF>you can look around yourself</color>. I, Konda Densuke, will not stand in your way."
+    },
+    {
+     "section": "Saimon Eri"
+    },
+    {
+     "s": 6,
+     "t": "Ah, it's you, youngster."
+    },
+    {
+     "s": 6,
+     "t": "Thank you so much for helping us with Jirou."
+    },
+    {
+     "sit": "How is he doing?"
+    },
+    {
+     "s": 6,
+     "t": "He's doing well, thanks to you. But considering his situation, it's best that he doesn't come out to greet you for now."
+    },
+    {
+     "s": 6,
+     "t": "Anyway, I'm glad that he came back alive. He told me what he went through... and it's a blessing that he met you."
+    },
+    {
+     "sit": "Have you encountered anything strange lately?"
+    },
+    {
+     "s": 6,
+     "t": "If I must say so, Jirou being as peaceable as his is now is most strange."
+    },
+    {
+     "s": 6,
+     "t": "This is thanks to you, too."
+    },
+    {
+     "s": 6,
+     "t": "*sigh* He used to hang out with the young gangsters in the village."
+    },
+    {
+     "s": 6,
+     "t": "We urged him to join the army because they were together from morning to night and were always up to no good."
+    },
+    {
+     "s": 6,
+     "t": "I thought that he would learn how to deal with people in the army, or at least understand how to be sincere with people, and stop giving others troubles."
+    },
+    {
+     "s": 6,
+     "t": "He failed to learn any of that in the army, but his experience with you sure showed him a thing or two. Hehe..."
+    },
+    {
+     "s": 6,
+     "t": "If he gets restless again... I'll teach him a lesson."
+    },
+    {
+     "s": 1,
+     "t": "Whoa, so scary!"
+    },
+    {
+     "sit": "Anything else out of the ordinary?"
+    },
+    {
+     "s": 6,
+     "t": "Out of the ordinary... Let's see..."
+    },
+    {
+     "s": 6,
+     "t": "In the past, traders and tourists from various countries would disembark at Ritou, and they would pass through our village on their way to Inazuma City."
+    },
+    {
+     "s": 6,
+     "t": "The village was always busy and we would open our doors for outlanders. But that hasn't happened for a long time. That's unusual, isn't it?"
+    },
+    {
+     "s": 6,
+     "t": "Mr. Imatani never worried much about the kids in the past, nor would Jirou ever have fought any war no matter who told him to. This is also very abnormal."
+    },
+    {
+     "s": 6,
+     "t": "And the deserted shrine at the foot of the mountain would never have fallen into disrepair in the past like it has now. I've heard that the statue of the Great Fox occasionally sheds tears. That's not normal either, is it?"
+    },
+    {
+     "s": 6,
+     "t": "The Konda family's well is always dry, even though there is plenty of water all around. Someone locked the well up the other night, and not a soul knows who did it. This kind of thing isn't normal either, right?"
+    },
+    {
+     "s": 6,
+     "t": "Little Takeru even said that he saw a ghostly woman during a stormy night. But who or what would haunt such a peaceful village? This too is very abnormal, yes?"
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 6,
+     "t": "Hehehe... There are just too many strange goings-on for an old woman like me. Are these what you wanted to know?"
+    },
+    {
+     "sit": "So, about the punks you mentioned earlier..."
+    },
+    {
+     "s": 1,
+     "t": "Do you know where they are, Granny?"
+    },
+    {
+     "s": 6,
+     "t": "They're a band of troublemaking brats. They most likely went somewhere new to make trouble."
+    },
+    {
+     "s": 6,
+     "t": "As long as Jirou is no longer influenced by them, I couldn't care less."
+    },
+    {
+     "s": 6,
+     "t": "Still, you just reminded me of something..."
+    },
+    {
+     "s": 6,
+     "t": "I heard that several bags of Mora were found in the dry well behind the village chief's house."
+    },
+    {
+     "s": 6,
+     "t": "But a group of ronin came to the village later and took almost all of it."
+    },
+    {
+     "s": 6,
+     "t": "That's all I know. If you want to know more, you can go ask our village chief."
+    },
+    {
+     "section": "Saimon Eri"
+    },
+    {
+     "s": 6,
+     "t": "Ah, look at this old lady, only focusing on talking about her own son..."
+    },
+    {
+     "s": 6,
+     "t": "Well, if you're interested in what's going on, go over to <color=#00E1FFFF>the dried-up well</color> and check it out."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "This should be Konda Village."
+    },
+    {
+     "s": 1,
+     "t": "Secrets... Hmm, yes, Paimon smells something suspicious!"
+    },
+    {
+     "sit": "Paimon's nose is better than a dog's..."
+    },
+    {
+     "sit": "Well done, Paimon."
+    },
+    {
+     "s": 1,
+     "t": "How rude! Paimon was just saying the obvious."
+    },
+    {
+     "s": 1,
+     "t": "Hehe. It might look very peaceful here, but Paimon's sure that there's gotta be something dark going on."
+    },
+    {
+     "sit": "Really?"
+    },
+    {
+     "s": 1,
+     "t": "There's gotta be some secrets here! Miss Masked Maiden said so."
+    },
+    {
+     "s": 1,
+     "t": "Anyway, let's talk to the locals first. Maybe we can find something out..."
+    },
+    {
+     "sit": "Find out what?"
+    },
+    {
+     "sit": "A dark secret?"
+    },
+    {
+     "s": 1,
+     "t": "Hehehe, the secret that the people of Konda Village are trying to hide!"
+    },
+    {
+     "section": "Konda Densuke"
+    },
+    {
+     "s": 7,
+     "t": "I've told you, there's nothing wrong here."
+    },
+    {
+     "s": 7,
+     "t": "If you don't believe me, just check it out for yourself."
+    },
+    {
+     "section": "Konda Densuke"
+    },
+    {
+     "s": 7,
+     "t": "*sigh* You again..."
+    },
+    {
+     "sit": "The villagers have told us everything..."
+    },
+    {
+     "s": 7,
+     "t": "They did? What did they say?"
+    },
+    {
+     "s": 7,
+     "t": "Don't you think you can fool an old man like me with these baseless accusations..."
+    },
+    {
+     "section": "Takeru"
+    },
+    {
+     "s": 4,
+     "t": "How can I convince Grandpa Densuke that there really is a ghost..."
+    },
+    {
+     "sit": "Tell him something weird..."
+    },
+    {
+     "s": 4,
+     "t": "Besides the ghost? That would be <color=#00E1FFFF>the broken cart at the entrance of the village</color>!"
+    },
+    {
+     "section": "Futaba"
+    },
+    {
+     "s": 5,
+     "t": "Are you looking for those bags, big sis(big bro)? <color=#00E1FFFF>If you follow the gully</color>, you might find them!"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 1,
+     "t": "This must be the broken cart Takeru mentioned!"
+    },
+    {
+     "s": 1,
+     "t": "But other than some tattered paper, Paimon doesn't see anything special here."
+    },
+    {
+     "s": 1,
+     "t": "Let's see... The contents of this piece of paper are... a Shogunate ledger of goods and payments..."
+    },
+    {
+     "s": 1,
+     "t": "The goods are... \"this book\" blah blah blah... \"participating in\" blah blah... and the number is something-something volumes?"
+    },
+    {
+     "s": 1,
+     "t": "It says \"volumes,\" which must refer to things made of paper, right?"
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... This must be one of the \"floating bags\" that Futaba mentioned!"
+    },
+    {
+     "s": 1,
+     "t": "Hee-hee, let's see what's inside..."
+    },
+    {
+     "section": "Investigate"
+    },
+    {
+     "s": 1,
+     "t": "It's tightly locked, just like Granny said..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm? There seems to be something here..."
+    },
+    {
+     "s": 1,
+     "t": "Wow! It's a marked coin pouch!"
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, are you thinking what Paimon's thinking?"
+    },
+    {
+     "sit": "What's on your mind?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon's thinking about buying lots and lots of snacks with this Mora!"
+    },
+    {
+     "sit": "I'm thinking that there shouldn't be a coin pouch here."
+    },
+    {
+     "s": 1,
+     "t": "Ah! You mean that we should make it disappear, right?"
+    },
+    {
+     "s": 1,
+     "t": "Just kidding. Hmm, a coin pouch by the well... That means..."
+    },
+    {
+     "sit": "Someone is hiding something."
+    },
+    {
+     "s": 1,
+     "t": "...And this well's in the village chief's yard."
+    },
+    {
+     "s": 1,
+     "t": "（test）我们捡个东西带回去问问那个嘴硬的村长吧"
+    },
+    {
+     "s": 1,
+     "t": "（test）我们把这捡回去给村长看看吧"
+    },
+    {
+     "s": 1,
+     "t": "（test）我们把这捡回去给村长看看吧"
+    },
+    {
+     "section": "Konda Densuke's Notes"
+    },
+    {
+     "s": 8,
+     "t": "(Most of the notes are illegible due to their exposure to the elements.)"
+    },
+    {
+     "s": 8,
+     "t": "\"...But the lies and cover-up of this thievery weigh heavily on me. Therefore, I decide to leave these notes...\""
+    },
+    {
+     "s": 8,
+     "t": "\"...The group attacked the public drunkenly, stealing no small amount of goods and some pouches of Mora...\""
+    },
+    {
+     "s": 8,
+     "t": "\"...After much discussion, it was decided that this matter should be covered up... The cart was destroyed in the night. The goods and coin pouches were dumped down an empty well...\""
+    },
+    {
+     "s": 8,
+     "t": "\"...The well was sealed and locked, and the key was hidden in <color=#00E1FFFF>a broken house across the gully on the east side of the village</color>... Legend has it that it was built by Douin. Sadly, it's now so desolate that it proved a fitting choice to hide such a key...\""
+    },
+    {
+     "s": 8,
+     "t": "\"...Konda Village should've been prosperous. The Konda Clan should've thrived... I hope... for the sake of Takeru and Futaba... this village shall remain free of mishaps...\""
+    },
+    {
+     "s": 9,
+     "t": "（test）道路上有车辙印，虽然现在被雨水冲刷的很淡了"
+    },
+    {
+     "s": 9,
+     "t": "（test）但能看出曾经很深"
+    },
+    {
+     "section": "Konda Densuke"
+    },
+    {
+     "s": 7,
+     "t": "I wrote down all the events at that time and the location of the key before throwing the notes onto the roof. You can read it yourself."
+    },
+    {
+     "s": 7,
+     "t": "After entrusting the secret to a kind young person like you, I'm more relieved now..."
+    },
+    {
+     "s": 7,
+     "t": "*sigh* Did Konda Village become like this because I couldn't fulfill my duty to the gods?"
+    }
+   ],
+   "description": "A mysterious, masked shrine maiden is by the strange fox statue, seemingly with something to request of you…"
+  }
+ ],
+ "speakers": [
+  "???",
+  "Paimon",
+  "Well Lock",
+  "Hanachirusato",
+  "Takeru",
+  "Futaba",
+  "Saimon Eri",
+  "Konda Densuke",
+  "Konda Densuke's Notes",
+  "Investigate"
+ ]
+}

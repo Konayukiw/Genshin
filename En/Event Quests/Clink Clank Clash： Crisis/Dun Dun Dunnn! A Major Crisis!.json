@@ -1,0 +1,900 @@
+{
+ "chapter": "Clink Clank Clash: Crisis",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Dun Dun Dunnn! A Major Crisis!",
+ "region": null,
+ "quests": [
+  {
+   "title": "Dun Dun Dunnn! A Major Crisis!",
+   "dialogue": [
+    {
+     "section": "Check"
+    },
+    {
+     "s": 0,
+     "t": "Huh... There's so much space on this thing, but only one post. Let's see here..."
+    },
+    {
+     "s": 0,
+     "t": "Wait, Ineffa needs help? Uh oh... What's this about a \"major crisis\" and \"ruin\"?"
+    },
+    {
+     "sit": "Sounds serious..."
+    },
+    {
+     "sit": "Could it be a prank?"
+    },
+    {
+     "s": 0,
+     "t": "We should still head over and check on things, just in case!"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 0,
+     "t": "Ineffa! We saw your notice, and we're here to help! ...Hello? Anybody here?"
+    },
+    {
+     "s": 0,
+     "t": "Huh, she's gone... Does that mean she really ran into trouble she couldn't handle?"
+    },
+    {
+     "s": 1,
+     "t": "Ah, Paimon and {NICKNAME} are the first to arrive. Sincere apologies, I am unable to come down and greet you at the present moment. I will have to converse from up here."
+    },
+    {
+     "s": 0,
+     "t": "Ineffa!? What the..."
+    },
+    {
+     "sit": "Is this the major crisis?"
+    },
+    {
+     "sit": "Is this a prank?"
+    },
+    {
+     "s": 0,
+     "t": "What happened? Did someone attack you?"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... The logic of your conclusion is sound, but I would not use that word. After all, Aino is the one who did this."
+    },
+    {
+     "s": 0,
+     "t": "Wait, so Aino's the one who did this?"
+    },
+    {
+     "sit": "Before we hash this out..."
+    },
+    {
+     "sit": "Let's get Ineffa down from there."
+    },
+    {
+     "s": 0,
+     "t": "Ah, good idea. Does this giant magnet have a switch or something?"
+    },
+    {
+     "s": 1,
+     "t": "Request is not feasible. Aino has locked down the control system. Analyzing further options... Conclusion: The priority level of certain rules must be lowered."
+    },
+    {
+     "s": 1,
+     "t": "Decision: I will temporarily override one of Aino's rules and inform you about the hidden control system. But first, I must be certain you will keep it a secret."
+    },
+    {
+     "s": 0,
+     "t": "Okay, um... Paimon didn't really understand any of that, hehe... But, don't worry! You can trust us for sure!"
+    },
+    {
+     "s": 1,
+     "t": "Sufficient grounds for override... Please proceed to the path to the side of the workshop and locate the robots scattered over there."
+    },
+    {
+     "s": 1,
+     "t": "Once you have located all the specific robots, you can unlock the control system. This is the backdoor Aino established for herself, as she often forgets the password."
+    },
+    {
+     "s": 0,
+     "t": "Okay, so we just need to collect all the bots! We've got this!"
+    },
+    {
+     "section": "Check"
+    },
+    {
+     "s": 2,
+     "t": "Beep-beep."
+    },
+    {
+     "s": 2,
+     "t": "Zing-Zap Mechanical Claw backup control system now online. Enter a command."
+    },
+    {
+     "sit": "Shut down the Zing-Zap Mechanical Claw."
+    },
+    {
+     "s": 2,
+     "t": "Command confirmed. Shutting down Zing-Zap Mechanical Claw Number 1."
+    },
+    {
+     "s": 0,
+     "t": "You okay, Ineffa?"
+    },
+    {
+     "s": 1,
+     "t": "Inspection in progress... All functions normal. I am unharmed. Aino adjusted the kuuvahki strength to make sure of that."
+    },
+    {
+     "s": 0,
+     "t": "So, what exactly happened?"
+    },
+    {
+     "s": 1,
+     "t": "Compiling relevant data... Simplification in progress... In short, Aino created a new robot companion not too long ago, but yesterday, someone stole it from the workshop."
+    },
+    {
+     "s": 0,
+     "t": "Oh, that explains it..."
+    },
+    {
+     "sit": "So, this is the \"major crisis\"?"
+    },
+    {
+     "s": 1,
+     "t": "I used that term because Aino intends to unleash the force of her entire fleet of combat robots against those suspected of the theft."
+    },
+    {
+     "s": 0,
+     "t": "What!?"
+    },
+    {
+     "s": 1,
+     "t": "If Aino manages to use her genius for destructive purposes, all of Nod-Krai will be facing a crisis the likes of which has never been seen before."
+    },
+    {
+     "s": 1,
+     "t": "When I attempted to stop her, she trapped me with that device. Fortunately, I was prepared for that possibility, and was able to post a request for help in advance."
+    },
+    {
+     "s": 0,
+     "t": "Oh, you mean that notice board in the middle of the square?"
+    },
+    {
+     "s": 1,
+     "t": "Correct. According to my calculations, posting that notice had a 94% chance of success, much higher than all other plans."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, it was pretty hard to miss..."
+    },
+    {
+     "s": 1,
+     "t": "Fortunately, you arrived just in time. Aino and her robot fleet should still be at the workshop. Please follow me."
+    },
+    {
+     "s": 0,
+     "t": "You got it! Lead the way!"
+    },
+    {
+     "section": "Aino"
+    },
+    {
+     "s": 3,
+     "t": "Clink Clank Legion, it's time to move out!"
+    },
+    {
+     "s": 4,
+     "t": "Move out!"
+    },
+    {
+     "s": 3,
+     "t": "Our objective is simple: Track down the thief and save our comrade!"
+    },
+    {
+     "s": 4,
+     "t": "Track down the thief! Save our comrade!"
+    },
+    {
+     "s": 1,
+     "t": "Aino, you have to stop this."
+    },
+    {
+     "s": 3,
+     "t": "Ineffa? How did you get free? I thought the kuuvahki would be more than strong enough..."
+    },
+    {
+     "s": 0,
+     "t": "You can't do this, Aino!"
+    },
+    {
+     "s": 3,
+     "t": "Aha, so you had help! Well, don't even think of trying to stop me! I don't care if I have to search all of Nod-Krai — I will find the person who did this!"
+    },
+    {
+     "s": 3,
+     "t": "And I have to go now, or \"Krum-Clank 70% Sweet\" will get dismantled and sold for parts!"
+    },
+    {
+     "s": 3,
+     "t": "Clink Clank Legion, move out!"
+    },
+    {
+     "s": 4,
+     "t": "Move out!"
+    },
+    {
+     "s": 0,
+     "t": "What do we do? It's not like we can resort to physical force!"
+    },
+    {
+     "s": 1,
+     "t": "Aino's sugar intake has already exceeded normal levels this month, but given the present situation... Are either of you carrying anything sweet with you?"
+    },
+    {
+     "sit": "Why are we talking about dessert all of a sudden?"
+    },
+    {
+     "s": 1,
+     "t": "Desserts are the only thing that can get Aino to calm down, and I have already used up the allotment I had prepared."
+    },
+    {
+     "s": 0,
+     "t": "...Okay, what's with the staring? Paimon's not one to leave leftovers, you know..."
+    },
+    {
+     "s": 0,
+     "t": "Fine... Paimon does have some she was saving for later."
+    },
+    {
+     "s": 1,
+     "t": "Aino, why don't you calm down for a second and have some dessert?"
+    },
+    {
+     "s": 3,
+     "t": "Hmph, still treating me like a kid, huh!"
+    },
+    {
+     "s": 0,
+     "t": "At least it worked..."
+    },
+    {
+     "s": 3,
+     "t": "Listen... I know you guys think I'm making a big deal out of nothing... But, this wasn't just some scrap parts you can sell on the black market!"
+    },
+    {
+     "s": 3,
+     "t": "This was a robot I was about to add to the workshop, just like Ineffa... And as the boss of this place, it's my job to look out for these bots!"
+    },
+    {
+     "s": 3,
+     "t": "Even though I'm the one who gets looked after most of the time... But, still! Not letting a bot get carted off right under my nose is the least I can do!"
+    },
+    {
+     "s": 3,
+     "t": "It's a disgrace... I don't want to be that kind of boss..."
+    },
+    {
+     "s": 0,
+     "t": "Aino..."
+    },
+    {
+     "sit": "None of us think you were making a big deal out of nothing..."
+    },
+    {
+     "sit": "I probably would've done the same."
+    },
+    {
+     "s": 3,
+     "t": "Really?"
+    },
+    {
+     "sit": "But, rushing into action..."
+    },
+    {
+     "sit": "Often just makes the situation worse."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "We can come up with a plan together. We'll help you get \"Krum-Clank 70% Sweet\" back safe and sound."
+    },
+    {
+     "s": 3,
+     "t": "Thanks. And, um, about earlier... I'm sorry, Ineffa."
+    },
+    {
+     "s": 0,
+     "t": "Phew... Looks like the military escapade's on hold for now."
+    },
+    {
+     "s": 1,
+     "t": "Let's go back to the workshop."
+    },
+    {
+     "section": "Clink Clank Legion"
+    },
+    {
+     "s": 4,
+     "t": "On standby. Waiting for command."
+    },
+    {
+     "section": "Ineffa"
+    },
+    {
+     "s": 1,
+     "t": "Job well done, everyone. Please enjoy some tea and dessert while we devise a plan of action."
+    },
+    {
+     "s": 0,
+     "t": "Okay, so how is theft handled in Nod-Krai? Do we call the police or something?"
+    },
+    {
+     "s": 1,
+     "t": "Unfortunately, Nod-Krai is a largely autonomous region. There is no unified law enforcement organization."
+    },
+    {
+     "s": 1,
+     "t": "Which means, \"calling the police\" is theoretically impossible."
+    },
+    {
+     "s": 3,
+     "t": "See? That's why we have to take it into our own hands!"
+    },
+    {
+     "s": 0,
+     "t": "Still, turning all of Nod-Krai upside down seems a bit..."
+    },
+    {
+     "s": 3,
+     "t": "What choice do I have? The thief somehow dodged my whole security system. I don't even know where to start searching."
+    },
+    {
+     "s": 1,
+     "t": "Analyzing options... If their goal is Mora, the thief will likely head to Nasha Town to search for a buyer. I believe there will be useful clues there."
+    },
+    {
+     "s": 3,
+     "t": "Nasha Town, huh... But, there are so many shady people there! Not the kind of people that like answering questions..."
+    },
+    {
+     "s": 1,
+     "t": "Hm, it is not the best idea for you to interact with adults like that, Aino... I will handle the investigation instead."
+    },
+    {
+     "s": 1,
+     "t": "Perhaps you can get started on the workshop's order backlog in the meantime. Keeping customers waiting too long could have a negative impact on our reputation."
+    },
+    {
+     "s": 3,
+     "t": "About that... Krum-Clank's core was built using a special kind of power... one that incorporates kuuvahki."
+    },
+    {
+     "s": 3,
+     "t": "I wanted to test it out, so I took orders that I knew would require Krum-Clank's help to complete."
+    },
+    {
+     "s": 3,
+     "t": "But with Krum-Clank missing, there's no way I can get them done... Hmph, curse that rotten thief!"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... Analyzing other solutions... All foreseeable results are anticipated to have a negative effect on the workshop."
+    },
+    {
+     "s": 0,
+     "t": "Kuuvahki... Wait, {NICKNAME} can use that too!"
+    },
+    {
+     "s": 3,
+     "t": "What? How is that possible?"
+    },
+    {
+     "s": 1,
+     "t": "Calculations complete. Adequate solution identified."
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}, I would like to enlist your services to help Aino clear the workshop backlog. You will, of course, be generously compensated for your labor."
+    },
+    {
+     "s": 0,
+     "t": "C'mon, no need for that! We're all friends here, right? We'd be more than happy to help! Besides, it might give us a chance to learn more about Nod-Krai!"
+    },
+    {
+     "s": 1,
+     "t": "Much appreciated! Then, in the meantime, I will take care of the investigation in Nasha Town."
+    },
+    {
+     "s": 3,
+     "t": "...Nope! I'm gonna do that, too! With {NICKNAME}'s help, I'm confident I can do both!"
+    },
+    {
+     "s": 1,
+     "t": "Aino?"
+    },
+    {
+     "s": 3,
+     "t": "I need you here, Ineffa. Someone needs to watch over the workshop and make sure nothing else gets stolen. You're the only one I trust to do that."
+    },
+    {
+     "s": 3,
+     "t": "Besides, rescuing our stolen comrade is a job for the boss of this place. And that happens to be me!"
+    },
+    {
+     "s": 1,
+     "t": "...Then I will defer to you, boss."
+    },
+    {
+     "s": 3,
+     "t": "Alright, Clink Clank Legion! Move out!"
+    },
+    {
+     "s": 0,
+     "t": "Aino sure is determined, huh..."
+    },
+    {
+     "s": 1,
+     "t": "Well, she is the boss of the workshop, and a capable one at that. Please have faith in her abilities and... look out for her if she needs help."
+    },
+    {
+     "s": 0,
+     "t": "No problem! Just leave it to us!"
+    },
+    {
+     "section": "Aino"
+    },
+    {
+     "s": 0,
+     "t": "Let's see. Who around here looks like a thief? Huh... A lot of people, actually..."
+    },
+    {
+     "s": 0,
+     "t": "We haven't actually been in Nod-Krai that long, so we don't know much about this place. Where do we even start?"
+    },
+    {
+     "sit": "What do you think, Aino?"
+    },
+    {
+     "s": 0,
+     "t": "Yeah, you must know this place like the back of your hand! Got any ideas?"
+    },
+    {
+     "s": 3,
+     "t": "Hmm... We could yell out, \"which one of you is the rotten thief who stole from the Clink-Clank Krumkake Craftshop?\" Then, we see who starts to sweat, and we grab 'em!"
+    },
+    {
+     "s": 0,
+     "t": "Honestly? Terrible idea."
+    },
+    {
+     "sit": "A lot of adults out there do bad things..."
+    },
+    {
+     "sit": "And don't even feel guilty about it."
+    },
+    {
+     "s": 3,
+     "t": "No way! Sometimes I sneak a dessert when I'm not supposed to, and I always feel super guilty, even if Ineffa doesn't catch on."
+    },
+    {
+     "s": 3,
+     "t": "Maybe we should ask Ineffa what to do... But, I really wanna do this on my own..."
+    },
+    {
+     "s": 0,
+     "t": "Guess you don't really interact with people outside the workshop, huh..."
+    },
+    {
+     "s": 0,
+     "t": "Well, don't worry! Let's just start asking around. We're bound to find some clues that way!"
+    },
+    {
+     "s": 3,
+     "t": "...Okay."
+    },
+    {
+     "section": "Ineffa"
+    },
+    {
+     "s": 1,
+     "t": "I will watch over things here. I leave Aino to you."
+    },
+    {
+     "section": "Tarno"
+    },
+    {
+     "s": 0,
+     "t": "The Voynich Guild... If we wanna see if a transaction took place, it couldn't hurt to ask around here, right?"
+    },
+    {
+     "s": 5,
+     "t": "Welcome to the Voynich Guild! Heavens above, if it isn't the owner of the Clink-Clank Krumkake Craftshop herself. What an honor this is!"
+    },
+    {
+     "s": 5,
+     "t": "And quite a rare one at that... We're always sending orders out to your workshop, but rarely do we have the pleasure of doing business in person!"
+    },
+    {
+     "s": 5,
+     "t": "Are you looking to sell one of your pieces? I'm sure we can land on a price that'll leave you satisfied."
+    },
+    {
+     "s": 3,
+     "t": "Sell? One of my bots? You wish!"
+    },
+    {
+     "s": 0,
+     "t": "Actually, um, one of Aino's bots was stolen, so we wanted to see if the Guild had any record of a sale or something."
+    },
+    {
+     "s": 5,
+     "t": "I see. This bot must mean a great deal to you, Miss Aino."
+    },
+    {
+     "s": 3,
+     "t": "Duh!"
+    },
+    {
+     "s": 5,
+     "t": "I wish the Voynich Guild could offer you some sort of consolation... But I'm afraid I have no recollection of such a sale."
+    },
+    {
+     "s": 0,
+     "t": "Oh, okay. We'll get out of your hair then. C'mon, let's keep asking around."
+    },
+    {
+     "section": "Tarno"
+    },
+    {
+     "s": 5,
+     "t": "Ah, here's a thought. If you could provide me with a detailed description of your lost item, I could keep an eye out for you."
+    },
+    {
+     "section": "Kudratov"
+    },
+    {
+     "s": 0,
+     "t": "Wait, is that a Fatui Agent over there? Maybe our thief got mixed up with them! Let's go see if he knows anything!"
+    },
+    {
+     "s": 3,
+     "t": "But... Ineffa says most Fatui Agents are bad guys."
+    },
+    {
+     "sit": "It's okay. I've got your back."
+    },
+    {
+     "s": 0,
+     "t": "Hello..."
+    },
+    {
+     "s": 6,
+     "t": "Stop right there! I don't do business out in the open, so we'll talk like this. Introduce yourselves first. What faction are you affiliated with?"
+    },
+    {
+     "s": 3,
+     "t": "Faction? I don't belong to a faction. I'm the boss of the Clink-Clank Krumkake Craftshop."
+    },
+    {
+     "s": 6,
+     "t": "Ah, so someone we don't want to mess with... Is there a conflict between us that I don't know about? I've never trespassed on your property, as far as I can recall."
+    },
+    {
+     "s": 0,
+     "t": "Oh, um... We're not here to settle a score or anything. We just want to know if anyone's tried to use a stolen bot to pay off a debt?"
+    },
+    {
+     "s": 6,
+     "t": "Of course not. I don't accept stolen property. If the owner comes knocking, it becomes my problem, doesn't it?"
+    },
+    {
+     "s": 0,
+     "t": "True... Guess we'll just have to keep looking."
+    },
+    {
+     "section": "Kudratov"
+    },
+    {
+     "s": 6,
+     "t": "How am I supposed to collect debts when there are so many people around here that I can't afford to cross...?"
+    },
+    {
+     "section": "Lyulka"
+    },
+    {
+     "s": 0,
+     "t": "Hmm... If the thief's plan was to sell your bot, maybe we should start by asking the local blacksmiths? After all, blacksmiths need all kinds of raw materials."
+    },
+    {
+     "s": 3,
+     "t": "Oh, good point!"
+    },
+    {
+     "s": 7,
+     "t": "You're looking for a blacksmith? To be honest, I consider myself more a researcher motivated by personal interest... Wait, Aino? You're here in person? That's a first!"
+    },
+    {
+     "s": 3,
+     "t": "Something terrible has happened, so I had to come! One of my bots was stolen! Has anyone come by to sell it?"
+    },
+    {
+     "s": 7,
+     "t": "Wow, someone had the nerve to steal from your workshop? Let me think..."
+    },
+    {
+     "s": 0,
+     "t": "Maybe you should describe what \"Krum-Clank 70% Sweet\" looks like, Aino. Might help jog her memory."
+    },
+    {
+     "s": 7,
+     "t": "Oh, no need. I know Aino's style. I'd recognize it anywhere."
+    },
+    {
+     "s": 7,
+     "t": "But the only thing that's come my way recently is boring scrap metal. Nothing that looked even remotely like your work..."
+    },
+    {
+     "s": 7,
+     "t": "Hmm... Maybe the thief hasn't pawned it off yet."
+    },
+    {
+     "s": 0,
+     "t": "Yeah, maybe... Well, thanks for the help. We'll keep looking."
+    },
+    {
+     "section": "Lyulka"
+    },
+    {
+     "s": 7,
+     "t": "Does your stolen bot use kuuvahki by any chance? Bots like that have been super popular on the market lately..."
+    },
+    {
+     "section": "Urwa"
+    },
+    {
+     "s": 3,
+     "t": "Ineffa told me about it. \"If you can pay, there's a way.\" That's what it's famous for."
+    },
+    {
+     "s": 8,
+     "t": "Welcome! Please feel free to peruse our Sumeru specialties. I'm more than happy to assist with any additional requests as well."
+    },
+    {
+     "s": 0,
+     "t": "Wait, isn't this Dori's shop? Okay, this actually isn't a bad idea... You never know what kind of stuff Dori's got stashed away."
+    },
+    {
+     "s": 8,
+     "t": "Can I help you with something?"
+    },
+    {
+     "s": 3,
+     "t": "One of my bots was stolen yesterday, and I wanna know if the thief sold it to your shop!"
+    },
+    {
+     "s": 8,
+     "t": "Hmm, is it valuable? We only accept goods that we can use to turn a profit."
+    },
+    {
+     "s": 0,
+     "t": "That's Dori's business acumen for ya..."
+    },
+    {
+     "s": 3,
+     "t": "Turn a profit... I don't like to think about my bots that way, but, well... Merchants usually find them pretty valuable."
+    },
+    {
+     "s": 8,
+     "t": "In that case, let me check..."
+    },
+    {
+     "s": 8,
+     "t": "Ah, apologies. We have no record of any transactions, over the past two days, involving mechanical constructs."
+    },
+    {
+     "s": 3,
+     "t": "*sigh* I thought we'd find something here, for sure..."
+    },
+    {
+     "s": 0,
+     "t": "It's okay, Aino! We'll think of something. Maybe we could ask this guy to check again, or..."
+    },
+    {
+     "s": 9,
+     "t": "Oho, well if it isn't Aino and her two outlander friends. Asking around Nasha Town for intel, are we? You're lucky you didn't get swindled six ways from Sunday."
+    },
+    {
+     "s": 0,
+     "t": "Jahoda!"
+    },
+    {
+     "s": 3,
+     "t": "Oh, dumpster-diver. It's you."
+    },
+    {
+     "s": 9,
+     "t": "Okay, now that was just uncalled for. I've got a name, pipsqueak — use it. Now, listen. Word on the street is, someone stole one of your constructs..."
+    },
+    {
+     "s": 3,
+     "t": "It's not a construct. It's a companion!"
+    },
+    {
+     "s": 0,
+     "t": "How did you know?"
+    },
+    {
+     "s": 9,
+     "t": "Your, uh, \"intelligence mission\" or whatever... Yeah, you weren't exactly being subtle. Word's spread throughout all of Nasha Town, I bet."
+    },
+    {
+     "s": 9,
+     "t": "But you're in luck, Aino, because the best bounty hunter in the land has decided to take up your cause."
+    },
+    {
+     "s": 9,
+     "t": "Smart as a whip, she navigates the major factions with ease, always with her finger on the pulse of all the goings on in Nod-Krai. If you wanna get back what you lost, she's your best bet."
+    },
+    {
+     "s": 3,
+     "t": "Uh... Who is?"
+    },
+    {
+     "s": 9,
+     "t": "Who!? Ugh, me, of course!"
+    },
+    {
+     "s": 3,
+     "t": "...Krum-Clank is doomed!"
+    },
+    {
+     "s": 9,
+     "t": "(What was with that reaction? Does she think I'm a liability or something?)"
+    },
+    {
+     "s": 9,
+     "t": "Hey, with me on your side, there's still hope! But first, we gotta agree on terms. My services don't come cheap, you know."
+    },
+    {
+     "s": 3,
+     "t": "You're really gonna charge us? I don't charge you when you just swing by and help yourself to my desserts — well, technically Ineffa's desserts, seeing as she's the one who makes them..."
+    },
+    {
+     "s": 9,
+     "t": "(Why is she bringing that up all of a sudden? I mean it's true, but still... There goes my chances of making some easy cash. Now, I just look ungrateful...)"
+    },
+    {
+     "s": 9,
+     "t": "Well, if you're not gonna pay, then—"
+    },
+    {
+     "s": 0,
+     "t": "Jahoda, you really look out for the kid, don't you? Coming over to help like this... It means a lot! Aino really cares about this bot, y'know! Paimon knows you're not the type to abandon a friend in need!"
+    },
+    {
+     "s": 9,
+     "t": "(That's it, I'm done for. There's no backing out now.)"
+    },
+    {
+     "s": 9,
+     "t": "...Heh, you know me. C'mon, this way."
+    },
+    {
+     "section": "Aino"
+    },
+    {
+     "s": 9,
+     "t": "Alright, we're here."
+    },
+    {
+     "s": 3,
+     "t": "I don't see Krum-Clank anywhere! Did you lie to me again, dumpster-diver?"
+    },
+    {
+     "s": 9,
+     "t": "Have some patience, and hear the professional out. Now, Aino's style is super unique. When one of her creations shows up for sale, you can be sure that people will know who it belongs to."
+    },
+    {
+     "s": 9,
+     "t": "You might look like an easy target, but everyone knows you've got me and my boss behind you. Point is, there's not a single person in Nod-Krai who'd steal one of your bots and go sell it on the regular black market."
+    },
+    {
+     "s": 9,
+     "t": "Not an above-board one, anyway. But an illegal black market like this... That's another matter."
+    },
+    {
+     "s": 0,
+     "t": "Wait, but... aren't all black markets illegal?"
+    },
+    {
+     "s": 9,
+     "t": "Maybe, but that doesn't mean there aren't any rules. My boss sets 'em, and there are people who follow them and people who don't. And that market over there? Yeah, that's where the rule-breakers go to make deals."
+    },
+    {
+     "s": 9,
+     "t": "And based on the intel I have, this market deals almost exclusively in mechanical constructs. Ring any bells?"
+    },
+    {
+     "s": 0,
+     "t": "You're a genius, Jahoda! But, um... There's no one here..."
+    },
+    {
+     "s": 9,
+     "t": "The key to a market like this is operating in secret. There's no chance it runs every day. I asked around my circle, and it seems like our next chance to check it out is in two days' time."
+    },
+    {
+     "s": 3,
+     "t": "We have to wait two days?"
+    },
+    {
+     "s": 9,
+     "t": "Eh, that's nothin'. Even if your bot's on its last legs, two days ain't gonna change much."
+    },
+    {
+     "s": 3,
+     "t": "Now, you listen up! Krum-Clank belongs to my workshop! I'm the boss, and no bot of mine is getting hurt on my watch!"
+    },
+    {
+     "s": 9,
+     "t": "(Sheesh, this kid's got a temper. Maybe I should apologize? No, wait. I'm not about to be intimidated by some little squirt...)"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, where did that come from?"
+    },
+    {
+     "s": 9,
+     "t": "It's alright. I mean, it's understandable..."
+    },
+    {
+     "s": 9,
+     "t": "The kid built up the Clink-Clank Krumkake Craftshop all on her own, and she has more interactions with robots than people most days."
+    },
+    {
+     "s": 9,
+     "t": "I'm sure, for her, these bots are everything."
+    },
+    {
+     "sit": "Sitting around for two days doing nothing..."
+    },
+    {
+     "sit": "Is going to be really hard for her."
+    },
+    {
+     "s": 9,
+     "t": "Yeah, I know that. But, that's the only lead I can give you right now."
+    },
+    {
+     "s": 0,
+     "t": "...Aino, Jahoda's just trying to help. You know that, right? At least think about it."
+    },
+    {
+     "s": 3,
+     "t": "...Fine. If we have to wait, then... we'll wait. Get it together, Aino — you're the boss. You need to keep your cool."
+    },
+    {
+     "s": 9,
+     "t": "Well, that took some convincing... Alright, then. Let's meet here in two days."
+    }
+   ],
+   "description": "As you travel through Nod-Krai, you decide to take a stroll around Nasha Town…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Ineffa",
+  "Robot",
+  "Aino",
+  "Clink Clank Legion",
+  "Tarno",
+  "Kudratov",
+  "Lyulka",
+  "Urwa",
+  "Jahoda"
+ ]
+}

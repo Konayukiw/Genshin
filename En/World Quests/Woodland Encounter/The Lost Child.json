@@ -1,0 +1,591 @@
+{
+ "chapter": "Woodland Encounter",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Lost Child",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Lost Child",
+   "dialogue": [
+    {
+     "section": "Rana, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "I'm so glad you both could come with me. Still, I'll need to report the expansion of the nearby Withering Zone to Tighnari."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Is that... the kid from Vimara Village?"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Iotham! Wait up!"
+    },
+    {
+     "section": "Rana, Fatui Sergeant, Fatui Sergeant"
+    },
+    {
+     "s": 2,
+     "t": "...Who are you people? Don't get in our way."
+    },
+    {
+     "s": 0,
+     "t": "Hmph, I should be asking you that question! I'm a Forest Watcher here, and I'm in the middle of searching for a missing child. State your names!"
+    },
+    {
+     "sit": "It's the Fatui! Where did they come from?"
+    },
+    {
+     "sit": "It's the Fatui. Be careful."
+    },
+    {
+     "s": 0,
+     "t": "Huh? So, these are the Fatui that Alphonso mentioned? State your business."
+    },
+    {
+     "s": 2,
+     "t": "Alphonso...? Whatever, don't think you'll be getting out of here without a fight!"
+    },
+    {
+     "s": 0,
+     "t": "Well, looks like we're not gonna be able to talk this one out!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Thank goodness you were here, {NICKNAME}..."
+    },
+    {
+     "sit": "Don't worry."
+    },
+    {
+     "sit": "You fought well."
+    },
+    {
+     "s": 0,
+     "t": "Looks like Alphonso wasn't kidding, these Fatui guys are dangerous..."
+    },
+    {
+     "s": 0,
+     "t": "Anyway, we can talk more about that later. Iotham must be somewhere deeper in the cave. We'd better keep moving."
+    },
+    {
+     "section": "Rana, Iotham, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Iotham... What happened..."
+    },
+    {
+     "s": 3,
+     "t": "Wah, Rana... and {NICKNAME}..."
+    },
+    {
+     "s": 1,
+     "t": "Eh? What're you doing in... a Withering Zone... And there are so many monsters..."
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "sit": "I'll take care of this."
+    },
+    {
+     "sit": "What's that green thing...?"
+    },
+    {
+     "s": 0,
+     "t": "No... There's no time..."
+    },
+    {
+     "s": 0,
+     "t": "Darn it! {NICKNAME}, let's do this together!"
+    },
+    {
+     "s": 0,
+     "t": "Iotham, wait here and don't move! We're coming to rescue you!"
+    },
+    {
+     "section": "Rana, Iotham, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Whew... Hah... Finally..."
+    },
+    {
+     "s": 3,
+     "t": "Rana... Waaah..."
+    },
+    {
+     "s": 0,
+     "t": "Iotham... It's okay, little man, there's nothing to cry about. Look... If I can tell them about what I felt in the Withering Zone... to those Akademiya researchers... they'll be able to take care of The Withering for good..."
+    },
+    {
+     "s": 0,
+     "t": "And... did you see... me fight? No... did you see {NICKNAME} fight? Be sure to thank him(her)..."
+    },
+    {
+     "s": 1,
+     "t": "Rana..."
+    },
+    {
+     "sit": "Please, that's enough."
+    },
+    {
+     "sit": "I'll go get help."
+    },
+    {
+     "s": 1,
+     "t": "Rana, you'd better rest now..."
+    },
+    {
+     "s": 0,
+     "t": "Ha... haha... it's fine. I just feel a little dizzy, that's all. And a little tired..."
+    },
+    {
+     "s": 3,
+     "t": "Rana... I'm sorry..."
+    },
+    {
+     "s": 0,
+     "t": "Wh... What are you talking about? You're my little tiger, so no more crying! You're okay, aren't you? Does anything hurt, Iotham...? Do you feel dizzy, weak, or..."
+    },
+    {
+     "s": 3,
+     "t": "I'm fine, but Rana, you..."
+    },
+    {
+     "s": 0,
+     "t": "It's nothing... I'll be fine. I'm a battle-hardened Forest Watcher, after all! Let's go!"
+    },
+    {
+     "section": "Rana, Paimon, Iotham"
+    },
+    {
+     "s": 0,
+     "t": "I'm sorry... {NICKNAME}, Paimon, I need to rest... Wait for me, Iotham."
+    },
+    {
+     "s": 1,
+     "t": "Rana, are you really okay...?"
+    },
+    {
+     "sit": "We'll go get help..."
+    },
+    {
+     "s": 0,
+     "t": "No, no, it's fine... I just need... a little rest..."
+    },
+    {
+     "s": 3,
+     "t": "I'm sorry, Rana... I'm sorry..."
+    },
+    {
+     "s": 0,
+     "t": "Really... How many times do I have to say it? I'm fine! But I'm very angry..."
+    },
+    {
+     "s": 0,
+     "t": "You promised me... that you wouldn't go into the forest. Once I'm all rested up, I'll teach you a lesson about breaking promises... you little rascal..."
+    },
+    {
+     "s": 3,
+     "t": "Waaah... Alphonso said that the mushrooms here are huge! And I just wanted to bring you some fresh mushrooms to eat... to give you energy..."
+    },
+    {
+     "s": 0,
+     "t": "Dummy... You didn't need to do that. Just thinking of you guys gives me energy..."
+    },
+    {
+     "s": 0,
+     "t": "Still, hahaha... the mushrooms here really are huge... They'd definitely taste great in a curry..."
+    },
+    {
+     "sit": "Did Alphonso let you come here?"
+    },
+    {
+     "s": 3,
+     "t": "No... Alphonso also told me not to go running off. But I wanted to give Rana something tasty to eat, so I..."
+    },
+    {
+     "s": 0,
+     "t": "Alphonso wouldn't do that, he's Iotham's big brother..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon understands... But Iotham, how did you get stuck in the Withering Zone?"
+    },
+    {
+     "s": 3,
+     "t": "When I was in the forest, I thought someone was following me... I got scared, I thought it was Marana's Avatar... So, I just kept running... *sob*"
+    },
+    {
+     "s": 3,
+     "t": "And I ended up running into Marana..."
+    },
+    {
+     "s": 1,
+     "t": "?"
+    },
+    {
+     "sit": "\"Marana\"?"
+    },
+    {
+     "sit": "\"Marana's Avatar\"?"
+    },
+    {
+     "s": 0,
+     "t": "That's... The Withering."
+    },
+    {
+     "s": 3,
+     "t": "Oh... Yeah, The Withering."
+    },
+    {
+     "sit": "\"Marana's Avatar\"?"
+    },
+    {
+     "s": 3,
+     "t": "Uh-huh. It does bad things in the world for Marana... It's a big black thing..."
+    },
+    {
+     "s": 1,
+     "t": "Marana... What a strange name."
+    },
+    {
+     "s": 0,
+     "t": "Mm... How did I know that Marana is The Withering...? Dang it... everything's spinning..."
+    },
+    {
+     "s": 0,
+     "t": "Iotham, what was that green thing just now?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "That was Ararakalari... It can protect people from the corrosion of Marana."
+    },
+    {
+     "sit": "More and more things I don't understand..."
+    },
+    {
+     "s": 0,
+     "t": "This is... a kind of forest magic. It's also a kind of music... It's an Ara..."
+    },
+    {
+     "sit": "What is it?"
+    },
+    {
+     "sit": "Don't worry about that right now, rest up."
+    },
+    {
+     "s": 1,
+     "t": "Don't worry about that, Rana, you need to rest!"
+    },
+    {
+     "s": 0,
+     "t": "It's on the tip of my tongue, but..."
+    },
+    {
+     "s": 3,
+     "t": "I'm sorry, Rana, I'm sorry... I'll never run off like that again, I'll be good and stay home..."
+    },
+    {
+     "s": 0,
+     "t": "I know. You'll become smart, healthy, and you'll know right from wrong... It's just like knowing which mushrooms you can eat, and which you can't..."
+    },
+    {
+     "s": 3,
+     "t": "I know... I know... I'm sorry..."
+    },
+    {
+     "s": 0,
+     "t": "Know that Marana is bad, and... the forest is good... Become a strong and good person, help people who need help... just like {NICKNAME} and Paimon..."
+    },
+    {
+     "s": 0,
+     "t": "And don't forget... the forest will remember..."
+    },
+    {
+     "s": 1,
+     "t": "Wah, this is bad, Paimon thinks Rana's condition is getting worse!"
+    },
+    {
+     "sit": "I'll go get help."
+    },
+    {
+     "sit": "Rana, wait for us."
+    },
+    {
+     "s": 0,
+     "t": "Eh? Oh... I'm fine, really... I just need to rest for a little while..."
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, please... take Iotham back for me..."
+    },
+    {
+     "s": 1,
+     "t": "Okay. Let's go, Iotham. Don't move, Rana! We'll be right back!"
+    },
+    {
+     "section": "Rana"
+    },
+    {
+     "s": 0,
+     "t": "Don't worry about me... You guys go ahead."
+    },
+    {
+     "section": "Alphonso, Paimon, Iotham"
+    },
+    {
+     "s": 4,
+     "t": "Iotham? Why are you... and {NICKNAME}..."
+    },
+    {
+     "s": 1,
+     "t": "It's urgent, so we'll make this quick..."
+    },
+    {
+     "sit": "You quickly explain what happened."
+    },
+    {
+     "s": 4,
+     "t": "...I see. Iotham, you go rest up."
+    },
+    {
+     "s": 3,
+     "t": "Okay. I'm sorry, Alphonso..."
+    },
+    {
+     "s": 4,
+     "t": "It's fine, what matters is that you're okay... Wait here a moment, {NICKNAME}. I'll go with you as soon as I prepare some medicine."
+    },
+    {
+     "sit": "There's no time. This is the location, head there as soon as you can."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, we have to hurry back to look after Rana..."
+    },
+    {
+     "s": 4,
+     "t": "Eh? Wait..."
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "...Eh? Paimon's sure this was the place..."
+    },
+    {
+     "s": 1,
+     "t": "Rana! Can you hear Paimon?"
+    },
+    {
+     "sit": "Rana!"
+    },
+    {
+     "sit": "What are these traces..."
+    },
+    {
+     "s": 1,
+     "t": "No answer... Darn it! What happened?"
+    },
+    {
+     "s": 1,
+     "t": "Hm...? These traces..."
+    },
+    {
+     "s": 1,
+     "t": "We'd better follow them... Maybe they're clues left for us by Rana."
+    },
+    {
+     "section": "Rana, Arana, Rana"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Hey! Rana! Can you hear Paimon?"
+    },
+    {
+     "s": 0,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "What's going on here...? Could it be that Ara-thing Iotham and Rana were talking about? What was it called again?"
+    },
+    {
+     "sit": "\"Ararakalari\"?"
+    },
+    {
+     "sit": "What was that again?"
+    },
+    {
+     "s": 1,
+     "t": "Ah, yes, right, that was it! Paimon thinks they said it could resist the Marana corrosion or something..."
+    },
+    {
+     "s": 5,
+     "t": "Yes. Nara smart. Ararakalari can resist Marana."
+    },
+    {
+     "s": 1,
+     "t": "Woah!"
+    },
+    {
+     "s": 5,
+     "t": "Woah!"
+    },
+    {
+     "sit": "Isn't this the thing we saw before...?"
+    },
+    {
+     "sit": "Vegetable..."
+    },
+    {
+     "s": 1,
+     "t": "Phew... You scared Paimon! Paimon thought you were a talking vegetable..."
+    },
+    {
+     "s": 5,
+     "t": "Not vegetable, Arana. Arana is friend, Aranara."
+    },
+    {
+     "sit": "\"Aranara\"..."
+    },
+    {
+     "sit": "\"Arana\"..."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Did you say Aranara? Now that Paimon's really looking at you, Paimon thinks we really have seen you before..."
+    },
+    {
+     "sit": "\"Arana\"..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks we heard this name when Iotham was telling that story before..."
+    },
+    {
+     "s": 5,
+     "t": "Yes. Nara Iotham is Arana's friend."
+    },
+    {
+     "s": 5,
+     "t": "Aranara are children of the forest, we live with trees. Not like you, Nara {NICKNAME}. You are the child of dandelion, always traveling."
+    },
+    {
+     "s": 1,
+     "t": "How do you know {NICKNAME}'s name?"
+    },
+    {
+     "s": 5,
+     "t": "How Arana knows, not important. But Arana wants to help Narana, this very important."
+    },
+    {
+     "sit": "Narana... That's almost a tongue-twister."
+    },
+    {
+     "sit": "What do you need me to do?"
+    },
+    {
+     "s": 1,
+     "t": "You want to help Rana? What do you need us to do?"
+    },
+    {
+     "s": 5,
+     "t": "Thank you, you good Nara. She is Arana's very important friend. So, Arana will protect her."
+    },
+    {
+     "s": 5,
+     "t": "But that is not enough. To heal Narana, we need Bija. Nara {NICKNAME} must go to Vanarana and ask everyone to help get Bija."
+    },
+    {
+     "sit": "Bija..."
+    },
+    {
+     "sit": "What's that?"
+    },
+    {
+     "s": 5,
+     "t": "Narana got corroded by Marana, very serious. Bad bugs are biting tree roots. Trees will wither, fruits will rot."
+    },
+    {
+     "s": 5,
+     "t": "Nara's life is like tree, bad bugs, like Marana. Only Bija can make Narana better."
+    },
+    {
+     "s": 1,
+     "t": "Uh... So, we need to go somewhere called \"Vanarana\" and come up with a way to get this Bija, right? Then we can heal Rana?"
+    },
+    {
+     "s": 5,
+     "t": "Mm-hmm."
+    },
+    {
+     "sit": "Then Rana's current condition..."
+    },
+    {
+     "sit": "Got it. How do we get there?"
+    },
+    {
+     "s": 5,
+     "t": "No worry. Arana will be here and fight Marana corrosion. So, Rana will not get worse."
+    },
+    {
+     "s": 5,
+     "t": "But with no Bija, Rana will not get better either."
+    },
+    {
+     "s": 5,
+     "t": "Follow the forest path, keep going towards where water comes from, then you will reach Vanarana."
+    },
+    {
+     "s": 5,
+     "t": "Then sing."
+    },
+    {
+     "sit": "Sing?"
+    },
+    {
+     "sit": "That'll attract Whopperflowers..."
+    },
+    {
+     "sit": "(A melody is rising up in my mind...)"
+    },
+    {
+     "s": 5,
+     "t": "This is the Rhythm of the Great Dream. Sing it to enter Vanarana."
+    },
+    {
+     "s": 5,
+     "t": "Enter our dreams, our world."
+    }
+   ],
+   "description": "You have taken care of the Withering Zones marked by Rana as well as the Spinocrocodiles. The children at Vimara Village should be safe now. Head back with Rana."
+  }
+ ],
+ "speakers": [
+  "Rana",
+  "Paimon",
+  "Fatui Sergeant",
+  "Iotham",
+  "Alphonso",
+  "Arana"
+ ]
+}

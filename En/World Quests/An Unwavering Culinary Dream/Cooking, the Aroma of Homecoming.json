@@ -1,0 +1,530 @@
+{
+ "chapter": "An Unwavering Culinary Dream",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Cooking, the Aroma of Homecoming",
+ "region": null,
+ "quests": [
+  {
+   "title": "Cooking, the Aroma of Homecoming",
+   "dialogue": [
+    {
+     "section": "Leaf With Careless Penmanship"
+    },
+    {
+     "s": 0,
+     "t": "(A huge leaf. Someone has written on it with messy handwriting...)"
+    },
+    {
+     "s": 0,
+     "t": "\"...The 17th time frost covered the leaves. After some tests, I noticed that water from tributaries is filled with sand and mud. It has an earthen taste. Not acceptable.\""
+    },
+    {
+     "s": 0,
+     "t": "\"...The 30th time frost covered the leaves. It's raining again. Not acceptable.\""
+    },
+    {
+     "s": 0,
+     "t": "\"...The 60th time frost covered the leaves. After some tests, I noticed that water from a river's main stem makes much more aromatic soup, but it still isn't enough. Not acceptable.\""
+    },
+    {
+     "s": 0,
+     "t": "\"...The 80th time frost covered the leaves. It rained as soon as I finished my soup. Luckily, I wore a hat. Hmm, the quality of this water isn't bad.\""
+    },
+    {
+     "section": "Investigate, Paimon, Arapas"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, what's cooking in there? Paimon's mouth is watering from just a whiff of it!"
+    },
+    {
+     "s": 1,
+     "t": "It looks like some kind of soup. Hmm... Paimon can't tell what's inside..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, {NICKNAME}..."
+    },
+    {
+     "sit": "What is it?"
+    },
+    {
+     "s": 1,
+     "t": "The person cooking it isn't here, and it smells so good. Let's have a mouthful while it's left unattended."
+    },
+    {
+     "sit": "Let's do it..."
+    },
+    {
+     "sit": "We shouldn't..."
+    },
+    {
+     "s": 1,
+     "t": "Yay!"
+    },
+    {
+     "sit": "The pot is smaller than it looks.<br/>The soup within it is all gone just like that."
+    },
+    {
+     "s": 1,
+     "t": "Ahh... Huh? It smells good, but why doesn't Paimon taste anything?"
+    },
+    {
+     "s": 2,
+     "t": "Great Aramuhukunda! What are you Nara doing!?"
+    },
+    {
+     "s": 1,
+     "t": "A—Aranara? Where did you come from?"
+    },
+    {
+     "s": 2,
+     "t": "From underground! Forget that, why are you drinking my soup? Arapas worked very hard on that!"
+    },
+    {
+     "sit": "Sorry..."
+    },
+    {
+     "sit": "It... It was Paimon..."
+    },
+    {
+     "s": 1,
+     "t": "Sorry..."
+    },
+    {
+     "s": 2,
+     "t": "Hmph! You stole my soup! Sorry won't cut it!"
+    },
+    {
+     "s": 2,
+     "t": "Do you know how difficult it is to make soup here? One minute it's rainy; one minute it's sunny."
+    },
+    {
+     "s": 2,
+     "t": "I finally managed to make this pot of soup, but while I was away picking Fresh Harra Fruits, you..."
+    },
+    {
+     "s": 1,
+     "t": "It smelled too good to resist..."
+    },
+    {
+     "s": 1,
+     "t": "But if it's that difficult, why are you cooking here?"
+    },
+    {
+     "s": 2,
+     "t": "Hmph! The key to cooking must be collected every day, which is..."
+    },
+    {
+     "sit": "Your pride as a chef?"
+    },
+    {
+     "sit": "The will to never forget your dreams?"
+    },
+    {
+     "s": 2,
+     "t": "Water! It's water! Water has a huge impact on the aroma of my soup. So it has to be made with the best water!"
+    },
+    {
+     "s": 2,
+     "t": "I've been collecting water throughout Apam Woods to make soup with. After collecting water samples as numerous as the leaves on a tree, I finally found the best \"Living Spring.\""
+    },
+    {
+     "s": 2,
+     "t": "It's the only water source fit for Festival Utsava's supreme delicacy! You wouldn't get it even if I told you... Only that Nara from before..."
+    },
+    {
+     "s": 1,
+     "t": "Speaking of which, Arapacati sent us..."
+    },
+    {
+     "sit": "You bring Arapas up to speed on the events so far..."
+    },
+    {
+     "s": 2,
+     "t": "Ah, you're Nara friends of my sister! And Festival Utsava is coming!"
+    },
+    {
+     "s": 2,
+     "t": "It's fine. I've found Living Spring, and my Supreme Delicacy is complete. It's in this pot... Oh, right..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 1,
+     "t": "Eh-hehe... Don't be sad, at least your soup was really aromatic..."
+    },
+    {
+     "s": 2,
+     "t": "Ah! My Living Spring! \"Apshvaana\" live at its source. I waited so long for them to leave and only collected a pot of it..."
+    },
+    {
+     "s": 2,
+     "t": "No! You must get me another pot of Living Spring!"
+    },
+    {
+     "s": 1,
+     "t": "\"Apshvaana\"? What's that?"
+    },
+    {
+     "s": 2,
+     "t": "Hmph! You Nara really know nothing about the forest. They live in the water, and they have four legs, a tail, and they bite."
+    },
+    {
+     "s": 1,
+     "t": "...Dogs?"
+    },
+    {
+     "sit": "Dogs don't live in the water."
+    },
+    {
+     "sit": "Perhaps Oceanid Dogs?"
+    },
+    {
+     "s": 1,
+     "t": "Ah, right. Then what's an \"Apshvaana\"?"
+    },
+    {
+     "s": 2,
+     "t": "Forget that! I want my water! And I want Living Spring from there in particular!"
+    },
+    {
+     "s": 1,
+     "t": "Alright, alright... {NICKNAME}, we don't have a choice here. Let's go..."
+    },
+    {
+     "sit": "Right."
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "s": 2,
+     "t": "It must be Living Spring and no other!"
+    },
+    {
+     "section": "Investigate, Paimon, Arapas"
+    },
+    {
+     "s": 1,
+     "t": "Whoa, what's cooking in there? Paimon's mouth is watering from just a whiff of it!"
+    },
+    {
+     "s": 1,
+     "t": "It looks like some kind of soup. Hmm... Paimon can't tell what's inside..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, {NICKNAME}..."
+    },
+    {
+     "sit": "What is it?"
+    },
+    {
+     "s": 1,
+     "t": "The person cooking it isn't here, and it smells so good. Let's have a mouthful while it's left unattended."
+    },
+    {
+     "sit": "Let's do it..."
+    },
+    {
+     "sit": "We shouldn't..."
+    },
+    {
+     "s": 1,
+     "t": "Yay!"
+    },
+    {
+     "sit": "The pot is smaller than it looks.<br/>The soup within it is all gone just like that."
+    },
+    {
+     "s": 1,
+     "t": "Ahh... Huh? It smells good, but why doesn't Paimon taste anything?"
+    },
+    {
+     "s": 2,
+     "t": "Great Aramuhukunda! What are you Nara doing!?"
+    },
+    {
+     "s": 1,
+     "t": "Ar—Aranara? Where on earth did you come from?"
+    },
+    {
+     "s": 2,
+     "t": "From underground! Forget that, why are you drinking my soup? Arapas worked very hard on that!"
+    },
+    {
+     "sit": "Sorry..."
+    },
+    {
+     "sit": "It... It was Paimon..."
+    },
+    {
+     "s": 1,
+     "t": "Sorry..."
+    },
+    {
+     "s": 2,
+     "t": "Hmph! You stole my soup! Sorry won't cut it!"
+    },
+    {
+     "s": 2,
+     "t": "Do you know how difficult it is to make soup here? One minute it's rainy; one minute it's sunny."
+    },
+    {
+     "s": 2,
+     "t": "Hmm... Speaking of which, Varuna Contraption has been much more stable lately, and the weather has become normal again..."
+    },
+    {
+     "s": 1,
+     "t": "Actually, it was us..."
+    },
+    {
+     "s": 2,
+     "t": "Hmph! I'm sure it was a good Nara like that Nara who repaired Varuna Contraption! It wasn't soup thieves like the two of you..."
+    },
+    {
+     "s": 1,
+     "t": "Hey, don't be so mean! It just smelled too good to resist..."
+    },
+    {
+     "s": 1,
+     "t": "But if it's that difficult, why are you cooking here?"
+    },
+    {
+     "s": 2,
+     "t": "Hmph! The key to cooking must be collected every day, which is..."
+    },
+    {
+     "sit": "Your pride as a chef?"
+    },
+    {
+     "sit": "The will to never forget your dreams?"
+    },
+    {
+     "s": 2,
+     "t": "Water! It's water! Water has a huge impact on the aroma of my soup. So it has to be made with the best water!"
+    },
+    {
+     "s": 2,
+     "t": "I've been collecting water throughout Apam Woods to make soup with. After collecting water samples as numerous as the leaves on a tree, I finally found the best \"Living Spring.\""
+    },
+    {
+     "s": 2,
+     "t": "It's the only water source fit for Festival Utsava's supreme delicacy! You wouldn't get it even if I told you... Only that Nara from before..."
+    },
+    {
+     "s": 1,
+     "t": "Speaking of which, Arapacati sent us..."
+    },
+    {
+     "sit": "You bring Arapas up to speed on the events so far..."
+    },
+    {
+     "s": 2,
+     "t": "Ah, you're Nara friends of my sister! And Festival Utsava is coming!"
+    },
+    {
+     "s": 2,
+     "t": "It's fine. I've found Living Spring, and my Supreme Delicacy is complete. It's in this pot... Oh, right..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 1,
+     "t": "Eh-hehe... Don't be sad, at least your soup was really aromatic..."
+    },
+    {
+     "s": 2,
+     "t": "Ah! My Living Spring! \"Apshvaana\" live at its source. I waited so long for them to leave and only collected a pot of it..."
+    },
+    {
+     "s": 2,
+     "t": "No! You must get me another pot of Living Spring!"
+    },
+    {
+     "s": 1,
+     "t": "\"Apshvaana\"? What's that?"
+    },
+    {
+     "s": 2,
+     "t": "Hmph! You Nara really know nothing about the forest. They live in the water, and they have four legs, a tail, and they bite."
+    },
+    {
+     "s": 1,
+     "t": "...Dogs?"
+    },
+    {
+     "sit": "Dogs don't live in the water."
+    },
+    {
+     "sit": "Perhaps Oceanid Dogs?"
+    },
+    {
+     "s": 1,
+     "t": "Ah, right. Then what's an \"Apshvaana\"?"
+    },
+    {
+     "s": 2,
+     "t": "Forget that! I want my water! And I want Living Spring from there in particular!"
+    },
+    {
+     "s": 1,
+     "t": "Alright, alright... {NICKNAME}, we don't have a choice here. Let's go..."
+    },
+    {
+     "sit": "Right."
+    },
+    {
+     "sit": "Let's go."
+    },
+    {
+     "s": 2,
+     "t": "It must be Living Spring and no other!"
+    },
+    {
+     "section": "Arapas"
+    },
+    {
+     "s": 2,
+     "t": "My soup... *sob* How could this happen..."
+    },
+    {
+     "sit": "(Leave quietly...)"
+    },
+    {
+     "section": "Arapas"
+    },
+    {
+     "s": 2,
+     "t": "Hmph! Both of you are bad Nara! Don't even think about tricking me with water from somewhere else!"
+    },
+    {
+     "section": "Arapas, Paimon"
+    },
+    {
+     "s": 2,
+     "t": "Hmm... It is the water from the river's source. The Living Spring that's cold and clean, just like moonlight."
+    },
+    {
+     "s": 2,
+     "t": "Arachatora, Arasaka, and Araphala wouldn't be so stupid if they grew up drinking this water. Only Arapacati, my sister..."
+    },
+    {
+     "s": 1,
+     "t": "Well, what's next..."
+    },
+    {
+     "s": 2,
+     "t": "Huh? Oh. Next up, you have to make me a new pot of soup..."
+    },
+    {
+     "sit": "Receiving guidance from Arapas, you add some fruits and vegetables into the water and start cooking.<br/>A rather nice aroma slowly emerges from the pot."
+    },
+    {
+     "sit": "Once you're done, you taste the fresh soup together.<br/>It sort of lives up to your expectations. It does carry the aroma of the ingredients...<br/>But a soup without any condiments is just too plain.<br/>It has no flavor at all."
+    },
+    {
+     "s": 2,
+     "t": "Mmm, this is how the supreme delicacy should smell!"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... What do you think, {NICKNAME}?"
+    },
+    {
+     "sit": "It can quench thirst as soups should."
+    },
+    {
+     "sit": "It's too healthy for me, I think..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon thinks it would be better with some salt and pepper."
+    },
+    {
+     "sit": "Everything is better with salt and pepper."
+    },
+    {
+     "s": 2,
+     "t": "Great Aramuhukunda! You want to add salt? What a horrifying idea!"
+    },
+    {
+     "s": 2,
+     "t": "Land with salt is land without life, and Aranara will be forced to shrink into seeds. Yet Nara wish to add salt!?"
+    },
+    {
+     "s": 2,
+     "t": "Soups are supposed to be bland! How do you Nara not even understand that!?"
+    },
+    {
+     "s": 2,
+     "t": "That Nara from before told us a story after having a bowl of my soup:"
+    },
+    {
+     "s": 2,
+     "t": "\"When we Nara children come home, the aroma of soup is the first thing we smell. As such, aroma is all a soup needs.\""
+    },
+    {
+     "s": 2,
+     "t": "After that, he(she) complimented the aroma of the soup I made. I've never forgotten that. That's why I won't believe a word you say!"
+    },
+    {
+     "s": 1,
+     "t": "But just aroma isn't enough..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "Hmph! But since you're the Nara of this Festival Utsava, I'm sure you've received approval from Araja and Arapacati. So... I'll try making a soup with taste."
+    },
+    {
+     "s": 2,
+     "t": "Next time, I'll look for even better water, so we can make even better soup!"
+    },
+    {
+     "sit": "...I don't think water is the problem."
+    },
+    {
+     "s": 2,
+     "t": "Really? Anyway, my cooking training has concluded. Alright, let's see what we can do about this at Festival Utsava!"
+    },
+    {
+     "s": 2,
+     "t": "I've taught you how to make the soup. It's a soup approved by the Great Nara, so do give it a few more tries. But make sure you don't forget to use good water!"
+    },
+    {
+     "s": 1,
+     "t": "({NICKNAME}, let's add some seasoning next time. It should be pretty good after that...)"
+    },
+    {
+     "section": "Arapas"
+    },
+    {
+     "s": 2,
+     "t": "Is there water that can give taste to soup?"
+    }
+   ],
+   "description": "According to Arachatora, his brother Arapas is doing “cooking training” close to Apam Woods. Look for a pillar of smoke near Apam Woods!"
+  }
+ ],
+ "speakers": [
+  "Leaf With Careless Penmanship",
+  "Paimon",
+  "Arapas"
+ ]
+}

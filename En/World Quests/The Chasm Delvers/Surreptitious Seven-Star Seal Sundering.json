@@ -1,0 +1,720 @@
+{
+ "chapter": "The Chasm Delvers",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Surreptitious Seven-Star Seal Sundering",
+ "region": null,
+ "quests": [
+  {
+   "title": "Surreptitious Seven-Star Seal Sundering",
+   "dialogue": [
+    {
+     "section": "Muning"
+    },
+    {
+     "s": 0,
+     "t": "If you understood what I said at all, please stop hanging around this place."
+    },
+    {
+     "s": 0,
+     "t": "If not..."
+    },
+    {
+     "sit": "If not...?"
+    },
+    {
+     "s": 0,
+     "t": "*sigh* If not nothing, really. All I can do is write weekly reports."
+    },
+    {
+     "sit": "Weekly reports?"
+    },
+    {
+     "s": 0,
+     "t": "Just a somewhat bothersome, meaningless, but nonetheless necessary document."
+    },
+    {
+     "sit": "Why don't you just stop writing them?"
+    },
+    {
+     "s": 0,
+     "t": "That won't do. I have to at least inform people that you've shown up here, you know?"
+    },
+    {
+     "s": 0,
+     "t": "The last report was sent out yesterday. In other words, the Ministry of Civil Affairs should get word of your presence here in a couple of days."
+    },
+    {
+     "s": 0,
+     "t": "When that happens, someone might actually drop by and forcibly get you to leave."
+    },
+    {
+     "s": 0,
+     "t": "So you're free to act before then, got it?"
+    },
+    {
+     "sit": "Got it."
+    },
+    {
+     "s": 0,
+     "t": "That's good. Hmph, if it wasn't for your great deeds in Liyue's service... Eh, you know what? Forget it."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 1,
+     "t": "Huh, so there are stories about us too..."
+    },
+    {
+     "s": 2,
+     "t": "Of course! They are very popular in the city, you know? If you ask me, I'd say that Tea Master Liu Su and Iron Tongue Tian are both good in their own way, but I just prefer Iron..."
+    },
+    {
+     "sit": "*cough*"
+    },
+    {
+     "sit": "Um, I'm not too familiar with the storytelling tradition..."
+    },
+    {
+     "s": 2,
+     "t": "Oh, don't worry, I get it, I get it. Iron Tongue Tian's style is definitely not for everyone. I do sometimes find that his choice of words and phrases features too much slang..."
+    },
+    {
+     "s": 2,
+     "t": "But as for Liu Su... He takes a while to get going, you know? Sometimes, you're there for two hours before you start going \"oh hey, this is pretty good!\" Some people like that style, but I find it uninteresting..."
+    },
+    {
+     "s": 2,
+     "t": "And if you mean to say that \"this is just a story, it won't get stale,\" let me just say this — if this were food or drink we were talking about, it would surely go bad if we wrapped it up and covered it for half a day without opening it up..."
+    },
+    {
+     "sit": "*cough*"
+    },
+    {
+     "sit": "I think I said that I wasn't all that interested in storytelling."
+    },
+    {
+     "s": 2,
+     "t": "Oh, are you alright? Something wrong with your throat?"
+    },
+    {
+     "s": 1,
+     "t": "No, no... It's probably just a case of too much information."
+    },
+    {
+     "s": 2,
+     "t": "Uh... Um, sorry. I got a bit too excited there and didn't really consider if you were interested in what I was saying. Hehe..."
+    },
+    {
+     "s": 2,
+     "t": "Still, since you're here, {NICKNAME}, are you here at the Qixing's behest? Did Muning end up revealing some other information to you? Um, you know, like..."
+    },
+    {
+     "s": 2,
+     "t": "\"Don't touch the Bedrock Keys! There's nothing under The Chasm! Zhiqiong won't help you!\" You know, stuff like that, repeated over and over?"
+    },
+    {
+     "sit": "Muning did indeed tell us all that."
+    },
+    {
+     "s": 1,
+     "t": "Hah! Well, he didn't scare us!"
+    },
+    {
+     "s": 2,
+     "t": "Hehe, indeed, he wasn't doing that at all."
+    },
+    {
+     "s": 1,
+     "t": "Eh?"
+    },
+    {
+     "sit": "So all the things he mentioned are true?"
+    },
+    {
+     "sit": "So, what did he intend to say?"
+    },
+    {
+     "s": 2,
+     "t": "*cough* Well, Muning is, in the end, a specialist hired by the Ministry of Civil Affairs. Even if he wanted to ask for help, there's a lot that he's not allowed to reveal in public."
+    },
+    {
+     "s": 2,
+     "t": "So he can only \"warn\" us, and thus impart the means of getting into The Chasm to you in a roundabout way. In essence, when he says \"you shouldn't,\" he really means that \"you can.\""
+    },
+    {
+     "s": 1,
+     "t": "What a weird guy..."
+    },
+    {
+     "s": 2,
+     "t": "In any case, you also mentioned that he wrote you a certification and told you to come find me."
+    },
+    {
+     "s": 2,
+     "t": "That note which you now carry means that you have the authorization to travel through The Chasm without any obstruction. Of course, barring any personal intervention by the Qixing."
+    },
+    {
+     "s": 2,
+     "t": "And the fact that he suggested that you find me means that I should tell you the way into the depths of The Chasm!"
+    },
+    {
+     "s": 1,
+     "t": "Eh!?"
+    },
+    {
+     "sit": "That Muning..."
+    },
+    {
+     "sit": "What a convoluted way of hinting..."
+    },
+    {
+     "s": 2,
+     "t": "Hahaha! Well, for what it's worth, I apologize for all the covering-up that we're doing. But trust me, we have very good reasons for doing so."
+    },
+    {
+     "s": 2,
+     "t": "While the \"thing\" that they dug up under The Chasm is truly abnormal, our investigations cannot be done with too much pomp and ceremony, lest the people be alarmed... That is the Qixing's standing order."
+    },
+    {
+     "s": 2,
+     "t": "As such, we can only function under the cover of a no-entry order, secretly gathering explorers and scholars to enter The Chasm and conduct investigations."
+    },
+    {
+     "s": 2,
+     "t": "This is all to, if necessary and where possible, stave off the crisis that festers beneath the earth."
+    },
+    {
+     "sit": "So all the people at the encampment were...?"
+    },
+    {
+     "s": 2,
+     "t": "That's right. They were all brought on as support staff. They're all pretty reliable... uh, well, mostly."
+    },
+    {
+     "s": 2,
+     "t": "That you came here is also no coincidence. More than one big shot in the Qixing has already recommended that we enlist your aid. And honestly? We've little reason not to comply."
+    },
+    {
+     "s": 2,
+     "t": "In any case, it is also said that your aid is not necessarily difficult to enlist..."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Doesn't that mean that we were tricked?"
+    },
+    {
+     "sit": "Well, Paimon, time to leave."
+    },
+    {
+     "sit": "Oh, is that how it is? See ya then."
+    },
+    {
+     "s": 1,
+     "t": "Hmph, that's right! Don't you treat us like a bunch of idiots!"
+    },
+    {
+     "s": 2,
+     "t": "Uh, please wait! I was just passing on my superior's message. Those were her words, not mine! Just, uh, let me take those words back, alright?"
+    },
+    {
+     "sit": "Byeee!"
+    },
+    {
+     "sit": "Hmph."
+    },
+    {
+     "s": 2,
+     "t": "Come now, this is the Qixing we're talking about! They won't short-change you for your aid!"
+    },
+    {
+     "sit": "It's not as if I'm short on Mora or anything..."
+    },
+    {
+     "sit": "I don't exactly need help putting up missing person posters this time."
+    },
+    {
+     "s": 1,
+     "t": "Paimon too...! Well, that said, having more Mora isn't a bad thing..."
+    },
+    {
+     "s": 2,
+     "t": "*cough* Well, if we could mitigate the safety hazards in The Chasm, any underground treasures or valuables will be given to the one who discovers them."
+    },
+    {
+     "s": 2,
+     "t": "This is a special privilege given by the Qixing, just to the two of you."
+    },
+    {
+     "s": 1,
+     "t": "Really? No tricks now!"
+    },
+    {
+     "sit": "Well, in that case..."
+    },
+    {
+     "sit": "And Paimon's Treasure Time begins once again..."
+    },
+    {
+     "s": 1,
+     "t": "That's right! Treasure!"
+    },
+    {
+     "s": 2,
+     "t": "Haha, alright, alright. Can we safely say that you've accepted this commission, then?"
+    },
+    {
+     "sit": "Alright, we'll do it for the treasure."
+    },
+    {
+     "sit": "Alright, I'll do it for you, Paimon."
+    },
+    {
+     "s": 1,
+     "t": "Woohoo! New treasure!"
+    },
+    {
+     "s": 2,
+     "t": "Alright! Here's to a new adventure, then!"
+    },
+    {
+     "s": 2,
+     "t": "Again, let me apologize for wasting your time on all these other things. Let's get down to business, shall we?"
+    },
+    {
+     "s": 2,
+     "t": "If we wish to enter The Chasm, we first need to find an Adjuvant made from a material known as Lumenstone. Only with it can we move in the dark down there."
+    },
+    {
+     "s": 2,
+     "t": "Only those with Visions can use this Adjuvant, but considering that you can use elemental energies without a Vision, it's my guess that you should have no problem making use of the Adjuvant."
+    },
+    {
+     "sit": "So, where do we find this thing?"
+    },
+    {
+     "s": 2,
+     "t": "It's in a warehouse to the south. The warehouse is well-guarded, so it should be pretty secure. Just come back once you've gotten ahold of the catalyst."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Ah, it's you! Hello there!"
+    },
+    {
+     "sit": "Muning was the one who introduced me. This is his..."
+    },
+    {
+     "s": 2,
+     "t": "Yes, yes, forget that sheet of paper. I already know who you are just fine!"
+    },
+    {
+     "s": 2,
+     "t": "That Muning... All he does is put on airs and write papers. Everything's gotta follow this or that procedure and all that tripe. You know, stuff that makes you look important. I couldn't care less for that stuff..."
+    },
+    {
+     "s": 2,
+     "t": "In any case, your name is already well-known throughout the Adventurers' Guild, never mind any of your other contributions to Liyue."
+    },
+    {
+     "sit": "I'm that famous?"
+    },
+    {
+     "sit": "Well, this is me we're talking about."
+    },
+    {
+     "s": 2,
+     "t": "Of course, many new recruits at the Guild have heard of your exploits on Dragonspine from Iris. Hehe, that includes me, you know?"
+    },
+    {
+     "s": 2,
+     "t": "Piercing the frigid blizzard to open a path, discovering an ancient, forgotten kingdom beneath the ice and frost, reaching the perilous summit, confronting the great change that came over that place with a mortal form..."
+    },
+    {
+     "s": 2,
+     "t": "The things you've experienced, the obstacles you've overcome, the truths you've uncovered... They can be summed up in one word: adventure! True adventure!"
+    },
+    {
+     "sit": "Precisely!"
+    },
+    {
+     "sit": "Ah, someone give me a compass..."
+    },
+    {
+     "s": 1,
+     "t": "Wow. This is actually quite a shock to Paimon. Are we really that awesome?"
+    },
+    {
+     "s": 2,
+     "t": "Haha! And this isn't even mentioning the great battle you had with that sea monster on the Jade Chamber. Now, I wasn't there to witness it, mind you, but I haven't missed a single telling of that story!"
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Ah, it's you! Hello there!"
+    },
+    {
+     "sit": "Muning was the one who introduced me. This is his..."
+    },
+    {
+     "s": 2,
+     "t": "Yes, yes, forget that sheet of paper. I already know who you are just fine!"
+    },
+    {
+     "s": 2,
+     "t": "That Muning... All he does is put on airs and write papers. Everything's gotta follow this or that procedure and all that tripe. You know, stuff that makes you look important. I couldn't care less for that stuff..."
+    },
+    {
+     "s": 2,
+     "t": "In any case, your name is already well-known throughout the Adventurers' Guild, never mind any of your other contributions to Liyue."
+    },
+    {
+     "sit": "I'm that famous?"
+    },
+    {
+     "sit": "Well, this is me we're talking about."
+    },
+    {
+     "s": 2,
+     "t": "Haha! I mean, you had that great battle with that sea monster on the Jade Chamber. Now, I wasn't there to witness the event, mind you, but I haven't missed a single telling of that story!"
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Don't worry, I won't run off. Just retrieve the Lumenstone Adjuvant, and things should go fine."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 1,
+     "t": "We're back, you big liar!"
+    },
+    {
+     "s": 2,
+     "t": "Eh? Me? What happened?"
+    },
+    {
+     "sit": "No one was guarding the warehouse at all!"
+    },
+    {
+     "sit": "There were even Treasure Hoarders over there!"
+    },
+    {
+     "s": 1,
+     "t": "What do you mean, \"it's well-guarded\"?"
+    },
+    {
+     "s": 2,
+     "t": "Huh? That... shouldn't be the case. When I was guarding the place, the Treasure Hoarders wouldn't even dare come near it."
+    },
+    {
+     "s": 1,
+     "t": "...Wait a moment. Who did you say was guarding the warehouse, again?"
+    },
+    {
+     "s": 2,
+     "t": "Uh, me?"
+    },
+    {
+     "sit": "Well, are you guarding it right now?"
+    },
+    {
+     "s": 2,
+     "t": "Well, come on now. Which adventurer in their right mind would let themselves get tied down with such a boring task, am I right?"
+    },
+    {
+     "s": 2,
+     "t": "...!"
+    },
+    {
+     "s": 2,
+     "t": "Ah. Right."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "s": 1,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "sit": "Well, putting your dereliction of duty to one side for the time being..."
+    },
+    {
+     "sit": "Let's talk about how we'll undo the array instead, shall we..."
+    },
+    {
+     "s": 2,
+     "t": "R—Right."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Honestly, I'm not too sure about how the Bedrock Key works, but you could start from looking into those cage-shaped Geo elemental formations over there."
+    },
+    {
+     "sit": "What is that?"
+    },
+    {
+     "s": 2,
+     "t": "These strange formations have been puzzling the Ministry of Civil Affairs for some time now. They seem to have grown up from the bedrock of The Chasm over the last two years, and their properties are very similar to those of the \"thing\" underground."
+    },
+    {
+     "s": 2,
+     "t": "We say this because they can undergo some kind of disintegration when under the influence of the anomalies."
+    },
+    {
+     "s": 2,
+     "t": "Later, Huishan Hall's investigations revealed that they have been absorbing Geo elemental energy from the surroundings, slowly eroding the structure of the Bedrock Keys..."
+    },
+    {
+     "s": 2,
+     "t": "It is a most ominous phenomenon, almost like something is consciously trying to break the sealing array."
+    },
+    {
+     "s": 2,
+     "t": "We have to clear them out twice every month, but they will always grow back quickly... and they have only grown back quicker over time."
+    },
+    {
+     "s": 2,
+     "t": "Perhaps that \"thing\" below is growing restless... and that is why the Qixing has sent us to investigate."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Huh, you destroy— I mean, undid the bindings on the Bedrock Key so easily! Guess we were right to put our faith in you two!"
+    },
+    {
+     "sit": "I'm quite sure we just damaged public property..."
+    },
+    {
+     "sit": "Won't the Qixing investigate this matter...?"
+    },
+    {
+     "s": 2,
+     "t": "Eh, Muning has already sent a damage report ahead of us. So technically, the Bedrock Keys were damaged *before* we arrived, not after."
+    },
+    {
+     "s": 2,
+     "t": "Well, that leaves four more that we need to handle. Ah, yes, I've drawn a basic diagram that shows where three of the four are. I hope it'll be of use to you."
+    },
+    {
+     "s": 2,
+     "t": "As for the last one... Honestly, I'm not very sure where that is anymore. After the miners were dismissed, there was a seepage incident in that mine, causing the cylinder to be submerged under the waters..."
+    },
+    {
+     "s": 2,
+     "t": "In any case, just settle the other three sites. We'll meet up after that and think about what to do next..."
+    },
+    {
+     "sit": "Not coming along with us?"
+    },
+    {
+     "s": 2,
+     "t": "Not this time... I mean, I was originally assigned to guard the warehouse, but thanks to my slip-up, I nearly let the Treasure Hoarders in there. Honestly, I'm already in your debt for not reporting my error..."
+    },
+    {
+     "s": 2,
+     "t": "Things could get bad if Muning catches me and puts me on the trail of some errands again, so I'll just stand guard as I should... For now."
+    },
+    {
+     "s": 2,
+     "t": "Still, I believe that this riddle will be no match for the two of you at all!"
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Please don't talk to me for the time being, or I'll get in trouble again..."
+    },
+    {
+     "sit": "\"Again\"...?"
+    },
+    {
+     "s": 2,
+     "t": "Uh, just don't sweat that..."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 1,
+     "t": "We're back! The three Bedrock Keys have all been destroyed."
+    },
+    {
+     "s": 2,
+     "t": "Shh!"
+    },
+    {
+     "s": 1,
+     "t": "...What's up all of a sudden?"
+    },
+    {
+     "sit": "What happened?"
+    },
+    {
+     "sit": "Are there enemies nearby?"
+    },
+    {
+     "s": 2,
+     "t": "Don't start! It's nothing much... just the earth shaking, that's all. Perhaps the mountain rocks are being destabilized by the loosening of the seal... Do you feel it?"
+    },
+    {
+     "s": 1,
+     "t": "Not at all..."
+    },
+    {
+     "sit": "You fly, so of course you don't."
+    },
+    {
+     "sit": "I didn't either."
+    },
+    {
+     "s": 1,
+     "t": "Huh. That's a good point..."
+    },
+    {
+     "s": 2,
+     "t": "I guess it's just a miner's instinct. If you grew up in a mine since you were young, you'd know a thing or two about the language of the stones."
+    },
+    {
+     "s": 2,
+     "t": "Wait... Watch out!"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! The ground really is shaking! Paimon's having trouble standing straight!"
+    },
+    {
+     "sit": "You don't stand at all!"
+    },
+    {
+     "sit": "How does that even happen to you again?"
+    },
+    {
+     "s": 1,
+     "t": "Aaaahhh! Eh... the shaking... stopped?"
+    },
+    {
+     "s": 2,
+     "t": "Phew... Looks like it's over for now. Thankfully, we were above ground. If we were in the mines when this earthquake happened..."
+    },
+    {
+     "s": 2,
+     "t": "Hopefully, Muning and the others don't blame this on us."
+    },
+    {
+     "s": 2,
+     "t": "But now, the sealing array's power has been greatly decreased. We just need to deal with that last Bedrock Key. Let's go!"
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 2,
+     "t": "Very impressive! That should be the last one. With this, the array sealing The Chasm has dissipated, and we can explore the area underground."
+    },
+    {
+     "s": 2,
+     "t": "That said... We should probably go and pay Muning a visit first. Hmph, not that he's going to do anything other than scold us, though."
+    },
+    {
+     "section": "Muning, Zhiqiong"
+    },
+    {
+     "s": 0,
+     "t": "See? What did I say? You weren't guarding the warehouse as you should've at all!"
+    },
+    {
+     "s": 0,
+     "t": "You've really done it this time, Zhiqiong. How are we going to resolve this matter, huh? Are you going to take responsibility for undoing the array of your own accord? Can you?"
+    },
+    {
+     "s": 0,
+     "t": "Ah, you're here. *sigh* So... how are you going to explain destroying the Bedrock Keys?"
+    },
+    {
+     "sit": "From an aesthetic point of view, this place looks better without them."
+    },
+    {
+     "sit": "If you really wanted to stop me, you'd have chased me off some time ago now."
+    },
+    {
+     "s": 0,
+     "t": "You...! Ugh, alright! You're taking responsibility for this. As for the rest, we'll wait for the Qixing to make their judgment first."
+    },
+    {
+     "s": 2,
+     "t": "Hehe, don't you worry, Muning only gets mad at people who don't care. Otherwise, he's just a worrywart — not a bad person."
+    },
+    {
+     "s": 2,
+     "t": "Well, let's leave his stubborn temper aside first. Once you're ready, I'll round everyone up to follow you down into the mines."
+    },
+    {
+     "s": 2,
+     "t": "Our purpose this time is to reach the deepest level of The Chasm, map it, and... uh, investigate the source of the anomalies."
+    },
+    {
+     "s": 2,
+     "t": "Ah, yes, I almost forgot — welcome to the Chasm Exploration Team!"
+    },
+    {
+     "s": 2,
+     "t": "If you'll allow me a bit of your time, let me introduce you to the team."
+    },
+    {
+     "s": 2,
+     "t": "This is Khedive, a scholar specifically called in from Sumeru. His specialties are ores and biology. He's this exploration team's leading man... well, in scientific and financial matters, at least."
+    },
+    {
+     "s": 2,
+     "t": "This is Jinwu, who's in charge of safety. The repair and maintenance of any facilities we use and our security is ensured by her."
+    },
+    {
+     "s": 2,
+     "t": "And this is... Taliesin. He's a bard from Mondstadt... and goodness knows why he insisted on coming down here with us."
+    },
+    {
+     "s": 2,
+     "t": "Also, perhaps you'll discover new allies once you get down into the mines, eh? Haha, who knows?"
+    },
+    {
+     "s": 2,
+     "t": "And last but not least, you have me, the super hands-on surveyor! My job is to help scout the way forward and draw maps, which I'll share with you all, of course!"
+    },
+    {
+     "s": 2,
+     "t": "Well, please head over to the crane by the mines once you're ready. Originally, it was meant to transport goods, but it can also bring a few people up and down the mines, no problem!"
+    },
+    {
+     "s": 2,
+     "t": "Hmm, that said, since you have your wind glider, I suppose that you'd be fine even without the crane, eh?"
+    }
+   ],
+   "description": "You have accepted a commission that requires you to pay The Chasm a visit. Who knows what the situation in the long-sealed mines might be like…"
+  }
+ ],
+ "speakers": [
+  "Muning",
+  "Paimon",
+  "Zhiqiong"
+ ]
+}

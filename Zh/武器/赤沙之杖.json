@@ -1,0 +1,704 @@
+{
+  "name": "赤沙之杖",
+  "rarity": 5,
+  "type": "长柄武器",
+  "base_atk": 44,
+  "passive": {
+    "name": "蜃气尽头的热梦",
+    "refinements": {
+      "R1": "基于装备者元素精通的52%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的28%，获得攻击力加成，该效果至多叠加3层。",
+      "R2": "基于装备者元素精通的65%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的35%，获得攻击力加成，该效果至多叠加3层。",
+      "R3": "基于装备者元素精通的78%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的42%，获得攻击力加成，该效果至多叠加3层。",
+      "R4": "基于装备者元素精通的91%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的49%，获得攻击力加成，该效果至多叠加3层。",
+      "R5": "基于装备者元素精通的104%，获得攻击力加成。元素战技命中敌人时，将产生持续10秒的「赤沙之梦」效果：基于装备者元素精通的56%，获得攻击力加成，该效果至多叠加3层。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 44,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 2,
+      "base_atk": 48,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 3,
+      "base_atk": 51,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 4,
+      "base_atk": 55,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 5,
+      "base_atk": 58,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 6,
+      "base_atk": 62,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 7,
+      "base_atk": 65,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 8,
+      "base_atk": 69,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 9,
+      "base_atk": 72,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 10,
+      "base_atk": 76,
+      "substat": "CRIT Rate%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 11,
+      "base_atk": 79,
+      "substat": "CRIT Rate%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 12,
+      "base_atk": 83,
+      "substat": "CRIT Rate%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 13,
+      "base_atk": 86,
+      "substat": "CRIT Rate%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 14,
+      "base_atk": 90,
+      "substat": "CRIT Rate%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 15,
+      "base_atk": 93,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 16,
+      "base_atk": 96,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 17,
+      "base_atk": 100,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 18,
+      "base_atk": 103,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 19,
+      "base_atk": 107,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 20,
+      "base_atk": 110,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 21,
+      "base_atk": 145,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 22,
+      "base_atk": 148,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 23,
+      "base_atk": 152,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 24,
+      "base_atk": 155,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 25,
+      "base_atk": 158,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 26,
+      "base_atk": 162,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 27,
+      "base_atk": 165,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 28,
+      "base_atk": 169,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 29,
+      "base_atk": 172,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 30,
+      "base_atk": 176,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 31,
+      "base_atk": 179,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 32,
+      "base_atk": 182,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 33,
+      "base_atk": 186,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 34,
+      "base_atk": 189,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 35,
+      "base_atk": 193,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 36,
+      "base_atk": 196,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 37,
+      "base_atk": 199,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 38,
+      "base_atk": 203,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 39,
+      "base_atk": 206,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 40,
+      "base_atk": 210,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 41,
+      "base_atk": 244,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 42,
+      "base_atk": 248,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 43,
+      "base_atk": 251,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 44,
+      "base_atk": 255,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 45,
+      "base_atk": 258,
+      "substat": "CRIT Rate%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 46,
+      "base_atk": 262,
+      "substat": "CRIT Rate%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 47,
+      "base_atk": 265,
+      "substat": "CRIT Rate%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 48,
+      "base_atk": 268,
+      "substat": "CRIT Rate%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 49,
+      "base_atk": 272,
+      "substat": "CRIT Rate%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 50,
+      "base_atk": 275,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 51,
+      "base_atk": 310,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 52,
+      "base_atk": 314,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 53,
+      "base_atk": 317,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 54,
+      "base_atk": 321,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 55,
+      "base_atk": 324,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 56,
+      "base_atk": 327,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 57,
+      "base_atk": 331,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 58,
+      "base_atk": 334,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 59,
+      "base_atk": 338,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 60,
+      "base_atk": 341,
+      "substat": "CRIT Rate%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 61,
+      "base_atk": 376,
+      "substat": "CRIT Rate%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 62,
+      "base_atk": 380,
+      "substat": "CRIT Rate%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 63,
+      "base_atk": 383,
+      "substat": "CRIT Rate%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 64,
+      "base_atk": 387,
+      "substat": "CRIT Rate%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 65,
+      "base_atk": 390,
+      "substat": "CRIT Rate%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 66,
+      "base_atk": 394,
+      "substat": "CRIT Rate%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 67,
+      "base_atk": 397,
+      "substat": "CRIT Rate%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 68,
+      "base_atk": 401,
+      "substat": "CRIT Rate%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 69,
+      "base_atk": 404,
+      "substat": "CRIT Rate%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 70,
+      "base_atk": 408,
+      "substat": "CRIT Rate%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 71,
+      "base_atk": 442,
+      "substat": "CRIT Rate%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 72,
+      "base_atk": 446,
+      "substat": "CRIT Rate%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 73,
+      "base_atk": 450,
+      "substat": "CRIT Rate%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 74,
+      "base_atk": 453,
+      "substat": "CRIT Rate%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 75,
+      "base_atk": 457,
+      "substat": "CRIT Rate%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 76,
+      "base_atk": 460,
+      "substat": "CRIT Rate%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 77,
+      "base_atk": 464,
+      "substat": "CRIT Rate%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 78,
+      "base_atk": 467,
+      "substat": "CRIT Rate%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 79,
+      "base_atk": 471,
+      "substat": "CRIT Rate%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 80,
+      "base_atk": 475,
+      "substat": "CRIT Rate%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 81,
+      "base_atk": 509,
+      "substat": "CRIT Rate%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 82,
+      "base_atk": 513,
+      "substat": "CRIT Rate%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 83,
+      "base_atk": 516,
+      "substat": "CRIT Rate%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 84,
+      "base_atk": 520,
+      "substat": "CRIT Rate%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 85,
+      "base_atk": 524,
+      "substat": "CRIT Rate%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 86,
+      "base_atk": 527,
+      "substat": "CRIT Rate%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 87,
+      "base_atk": 531,
+      "substat": "CRIT Rate%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 88,
+      "base_atk": 535,
+      "substat": "CRIT Rate%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 89,
+      "base_atk": 538,
+      "substat": "CRIT Rate%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 90,
+      "base_atk": 542,
+      "substat": "CRIT Rate%",
+      "substat_value": 44.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "绿洲花园的追忆",
+          "id": 114041,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "混沌容器",
+          "id": 112068,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "蕈兽孢子",
+          "id": 112059,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "绿洲花园的恩惠",
+          "id": 114042,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "混沌容器",
+          "id": 112068,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "蕈兽孢子",
+          "id": 112059,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "绿洲花园的恩惠",
+          "id": 114042,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "混沌模块",
+          "id": 112069,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "荧光孢粉",
+          "id": 112060,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "绿洲花园的哀思",
+          "id": 114043,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "混沌模块",
+          "id": 112069,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "荧光孢粉",
+          "id": 112060,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "绿洲花园的哀思",
+          "id": 114043,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "混沌锚栓",
+          "id": 112070,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "孢囊晶尘",
+          "id": 112061,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "绿洲花园的真谛",
+          "id": 114044,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "混沌锚栓",
+          "id": 112070,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "孢囊晶尘",
+          "id": 112061,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

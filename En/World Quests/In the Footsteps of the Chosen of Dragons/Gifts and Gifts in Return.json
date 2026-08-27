@@ -1,0 +1,379 @@
+{
+ "chapter": "In the Footsteps of the Chosen of Dragons",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Gifts and Gifts in Return",
+ "region": null,
+ "quests": [
+  {
+   "title": "Gifts and Gifts in Return",
+   "dialogue": [
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}"
+    },
+    {
+     "s": 0,
+     "t": "Paimon had a guess when she saw the pillars outside, but she really didn't expect to end up here..."
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Looks like you like this place, at least! Though it does make sense, after all, you must've spent a lot of time here before you met us..."
+    },
+    {
+     "s": 0,
+     "t": "Paimon wonders if those glowing pillars will disappear after we leave this time... Still, let's clean up a bit first, then rest for a while!"
+    },
+    {
+     "sit": "You, {REALNAME[ID(2)|SHOWHOST(true)]}, and Paimon tidy up the place together."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, now it's looking pretty good!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, you're pretty excited, aren't 'cha, {REALNAME[ID(2)|SHOWHOST(true)]}? Do you have something you wanna tell us?"
+    },
+    {
+     "s": 1,
+     "t": "Wrroh... Rrrawr..."
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Do you want us to turn around?"
+    },
+    {
+     "s": 0,
+     "t": "You didn't prepare a surprise for us, did you? Heehee, you're as easy to read as an open book!"
+    },
+    {
+     "s": 0,
+     "t": "Alright, then, we'll play along!"
+    },
+    {
+     "sit": "You and Paimon turn around, and all you can hear is the continuous clinking and jingling.<br/>It sounds like {REALNAME[ID(2)|SHOWHOST(true)]} is tinkering with something...<br/>After a short while, {REALNAME[ID(2)|SHOWHOST(true)]} lets out a \"Rawr rawr!\". It's probably time to turn back around..."
+    },
+    {
+     "s": 0,
+     "t": "Whoa, that's a lot of stuff!"
+    },
+    {
+     "s": 0,
+     "t": "Let Paimon have a look! Let's see, a super straight branch, a really round rock... And some strange food with a weird color and smell. Well, that's probably been left out for who knows how many days..."
+    },
+    {
+     "s": 0,
+     "t": "You carefully selected and collected all these, didn't you? Are they gifts for us?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Still, we can't eat food that's been left out for too long! Whoever eats it — and that includes you — would get an upset stomach! So we've gotta deal with that first..."
+    },
+    {
+     "s": 1,
+     "t": "Arroooo... Rooooawr..."
+    },
+    {
+     "sit": "But this branch is really something!"
+    },
+    {
+     "sit": "This rock is really round!"
+    },
+    {
+     "s": 0,
+     "t": "Yeah! It feels like it'd be every bit as impressive as a master sword when you wave it around!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Mmmhmm, we'll happily take it all! Hehe, just put it all in Paimon's secret stash's backpack pouch! Maybe they'll come in handy someday!"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, since {REALNAME[ID(2)|SHOWHOST(true)]} gave us a gift, we should give him a gift in return."
+    },
+    {
+     "s": 0,
+     "t": "Let Paimon see what she's got in her secret stash..."
+    },
+    {
+     "sit": "Wow. Your seldom-seen generous side makes an appearance..."
+    },
+    {
+     "sit": "Just what have you squirreled away, Paimon?"
+    },
+    {
+     "s": 0,
+     "t": "{REALNAME[ID(2)|SHOWHOST(true)]} went out of his way to show us how much he cares, that's not something to take lightly! Also, if it gets too heavy, Paimon can't really fly, so maybe Paimon can give him some..."
+    },
+    {
+     "s": 0,
+     "t": "Ta-da! It's a super shiny gem! Do you like it, {REALNAME[ID(2)|SHOWHOST(true)]}?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Ooh! Guess Paimon's picked just the thing, huh? Hey, be careful now! Don't drop it..."
+    },
+    {
+     "s": 0,
+     "t": "...Oh boy. Why does Paimon feel like you'll lose the gem if you hold onto it like that...?"
+    },
+    {
+     "s": 0,
+     "t": "Why don't we go find the Children of Echoes? If anyone's got gemsmiths who could shape it for us, it'd be them!"
+    },
+    {
+     "section": "Imix"
+    },
+    {
+     "s": 2,
+     "t": "Welcome to our shop! If you'd like us to cut a gemstone, you're in the right place!"
+    },
+    {
+     "s": 0,
+     "t": "Hey there! We do have a gemstone here, and we'd like to have it custom-processed. It's for our little Tepetlisaurus companion, ta-da! Here it is—"
+    },
+    {
+     "s": 2,
+     "t": "Wow! This gem is of truly exceptional quality! Look at the size, and how clear it is... If you'd like a custom job, the processing will be quite difficult..."
+    },
+    {
+     "s": 0,
+     "t": "Now that sounds familiar. So what's next, extra fees?"
+    },
+    {
+     "s": 2,
+     "t": "No! Of course not! Just what kind of person do you think I am!?"
+    },
+    {
+     "s": 2,
+     "t": "Our shop specializes in the art of cutting and polishing gemstones. If we run into a good one, we'd rather polish it for free, and let its beauty speak for our quality as it carries our name out into the world. We'd never set high prices willy-nilly!"
+    },
+    {
+     "s": 2,
+     "t": "But just as a good artisan seeks the best materials to work with, so do the best gemstones require a suitable artisan to work them. I know just such a \"Gem Master,\" and he would be perfect for doing this one justice!"
+    },
+    {
+     "s": 0,
+     "t": "Whoa, that's amazing! Quick, call the Gem Master out!"
+    },
+    {
+     "s": 2,
+     "t": "Aha, but you might need to make an appointment in advance if you'd like to see him. If you don't, chances are he'll be out seeking inspiration..."
+    },
+    {
+     "sit": "Seeking inspiration?"
+    },
+    {
+     "s": 2,
+     "t": "Yeah! Master Kulahaw is pretty unusual even among master craftsmen. He doesn't believe that artisans should just polish a gemstone according to blueprints, but that they should understand how to observe all the beauty the natural world has to offer."
+    },
+    {
+     "s": 2,
+     "t": "For example, learning polishing techniques from the tiny ripples on a lake's surface, or fretwork patterns from the shifting and billowing clouds... he calls it gathering inspiration!"
+    },
+    {
+     "s": 0,
+     "t": "Uh... Sounds kinda complicated..."
+    },
+    {
+     "s": 2,
+     "t": "Still, if you're in a hurry, you can go out and find him wherever he happens to be gathering inspiration from! Let me mark where he said he was going for you."
+    },
+    {
+     "section": "Kulahaw"
+    },
+    {
+     "s": 0,
+     "t": "Excuse me... Um, are you Master Kulahaw?"
+    },
+    {
+     "s": 3,
+     "t": "That is, in fact, my name..."
+    },
+    {
+     "s": 0,
+     "t": "Hehe, so you're the Gem Master who is looking for inspiration! We came looking for you based on Imix's recommendation. We noticed you were staring at the tree just now. Were you in the middle of mining for gems of creativity?"
+    },
+    {
+     "s": 3,
+     "t": "Uh, actually... Forget it. It's not important anymore... *sigh* Is there something I can help you with?"
+    },
+    {
+     "s": 0,
+     "t": "We've brought a beautiful gemstone, and we were hoping you'd process it for {REALNAME[ID(2)|SHOWHOST(true)]}!"
+    },
+    {
+     "s": 0,
+     "t": "Hehe, c'mon, {REALNAME[ID(2)|SHOWHOST(true)]}, show him!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr—"
+    },
+    {
+     "s": 0,
+     "t": "Ehhh!?"
+    },
+    {
+     "sit": "You hear the fluttering of avian wings by your ears...<br/>By the time you recover, the gem has vanished from {REALNAME[ID(2)|SHOWHOST(true)]}'s claws without a trace."
+    },
+    {
+     "s": 1,
+     "t": "Raaaaah! Roaaaargh!"
+    },
+    {
+     "s": 0,
+     "t": "Wha— Waitasec, where's the gem? Where could such a huge gem have gone off to?"
+    },
+    {
+     "sit": "Seems like a bird nicked it..."
+    },
+    {
+     "s": 0,
+     "t": "What the heck? The birds here steal stuff? Rude!"
+    },
+    {
+     "s": 1,
+     "t": "Roooawr! Rooooawr!"
+    },
+    {
+     "s": 3,
+     "t": "Actually, what I was about to say was, even if the gem hadn't just been stolen, I still couldn't help you cut it..."
+    },
+    {
+     "s": 3,
+     "t": "...Since all my tools were also stolen by those damn birds! I was actually just carefully looking at those birds, going over them one by one, to see which one of them had their dirty claws on my tools."
+    },
+    {
+     "s": 0,
+     "t": "Is... Is that even possible? These birds are just the worst! C'mon, {NICKNAME}, let's go get that gem back!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 3,
+     "t": "And don't forget about my tools too—"
+    },
+    {
+     "section": "Kulahaw"
+    },
+    {
+     "s": 3,
+     "t": "They're all perched up there on the tree... Could they be planning to build a nest with my tools?"
+    },
+    {
+     "s": 3,
+     "t": "My brave friends, it's all up to you! Ah, the pain of being without the means to earn my own bread..."
+    },
+    {
+     "section": "Kulahaw"
+    },
+    {
+     "s": 3,
+     "t": "Can this be!? My tools are back! Oh, this is amazing!"
+    },
+    {
+     "s": 3,
+     "t": "I didn't get a good look before, but I must say, now that's one pretty gem! It's got the same fleshy yellow as a bird's tarsus... Bah! I shan't use those blasted scoundrels in my analogies."
+    },
+    {
+     "s": 3,
+     "t": "Like the sky just brightening at dawn, like the first rays of the sun, that kind of early morning sky color... Yeah, that's a good description..."
+    },
+    {
+     "sit": "For a master, your metaphors aren't very masterful..."
+    },
+    {
+     "sit": "So that's the meaning of \"gathering inspiration\"?"
+    },
+    {
+     "s": 3,
+     "t": "Hey, I'm no storyteller! Really, all I need to do is remember the beautiful colors of nature... Using pretty words to describe them isn't my forte."
+    },
+    {
+     "s": 3,
+     "t": "Either way, just leave the gem to me. As I said before, I'll process it for free. Consider it a gift for your help in retrieving my tools. As for how long it'll take... Drop by the Gemporium in two days' time!"
+    },
+    {
+     "section": "Imix"
+    },
+    {
+     "s": 2,
+     "t": "Ah, you're here. Master Kulahaw has already left your processed gem in the shop, leaving instructions that I personally deliver it to you."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Master Kulahaw isn't here today either?"
+    },
+    {
+     "s": 2,
+     "t": "That's right, he's out gathering inspiration yet again. By the way, he also made a set of locks to carry with him, saying it was to prevent his tools from being stolen... Which is weird... Would anyone want to steal our cutting tools and sell them?"
+    },
+    {
+     "s": 0,
+     "t": "Of course they wouldn't! It's becau—"
+    },
+    {
+     "s": 0,
+     "t": "(...So Imix still doesn't know they were stolen by birds... Let's spare Kulahaw the embarrassment!)"
+    },
+    {
+     "s": 0,
+     "t": "Because... Because there's someone who thinks they can steal his skills that way too, haha..."
+    },
+    {
+     "s": 0,
+     "t": "Forget it... Anyway, we'll take the gem! The shape is so pretty. That's what you'd call a \"masterwork,\" huh?"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "Looks like {REALNAME[ID(2)|SHOWHOST(true)]} really likes it too!"
+    },
+    {
+     "sit": "Allow me to thank you on {REALNAME[ID(2)|SHOWHOST(true)]}'s behalf."
+    },
+    {
+     "s": 2,
+     "t": "Hey now, as long as your little Saurian likes it! I'll be sure to pass on your compliments to Master Kulahaw, please come again!"
+    }
+   ],
+   "description": "Your Saurian companion gifts you the treasures it had been carefully collecting. Now, what would make a good thank-you gift…?"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "{REALNAME[ID(2)|SHOWHOST(true)]}",
+  "Imix",
+  "Kulahaw"
+ ]
+}

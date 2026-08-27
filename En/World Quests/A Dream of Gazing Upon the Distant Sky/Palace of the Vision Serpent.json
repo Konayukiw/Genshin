@@ -1,0 +1,656 @@
+{
+ "chapter": "A Dream of Gazing Upon the Distant Sky",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Palace of the Vision Serpent",
+ "region": null,
+ "quests": [
+  {
+   "title": "Palace of the Vision Serpent",
+   "dialogue": [
+    {
+     "section": "Bona"
+    },
+    {
+     "s": 0,
+     "t": "We'll leave the area below to you. Thanks for doing this."
+    },
+    {
+     "s": 0,
+     "t": "Whatever you find down there, you have to come back and find me, alright?"
+    },
+    {
+     "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Paimon, Investigate"
+    },
+    {
+     "s": 1,
+     "t": "Rrooh..."
+    },
+    {
+     "s": 2,
+     "t": "Ugh, the exterior's been corroded by the Abyss. Looks like it might fall off anytime. Is this what Coco was pointing at?"
+    },
+    {
+     "s": 2,
+     "t": "And we don't know what's inside, either, though Paimon's pretty sure it's not the Altar..."
+    },
+    {
+     "sit": "\"Rigid logic won't get us anywhere...\""
+    },
+    {
+     "s": 2,
+     "t": "Paimon gets it now. Coco didn't want to come in because of the Abyss."
+    },
+    {
+     "sit": "We have to do something about the Abyss."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, and that must be why Coco didn't want to come in. We have to get rid of it!"
+    },
+    {
+     "sit": "Let's go, {REALNAME[ID(2)|SHOWHOST(true)]}!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Wait, what about Paimon? Rude!"
+    },
+    {
+     "s": 2,
+     "t": "Anyway, let's get rid of all this filth first!"
+    },
+    {
+     "section": "Paimon, Investigate"
+    },
+    {
+     "s": 2,
+     "t": "Phew... It's finally over."
+    },
+    {
+     "s": 2,
+     "t": "The Secret Source Automaton protecting it has also calmed down."
+    },
+    {
+     "s": 2,
+     "t": "Now let's see what's inside!"
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Paimon hopes it won't let her down... Huh, another Pyrophosphorite chunk? There's more than one?"
+    },
+    {
+     "s": 2,
+     "t": "Wait, the woven scrolls wrapped around it look familiar. They're just like the notes we found in the tower outside the ruins..."
+    },
+    {
+     "s": 1,
+     "t": "Rawr... Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "That's pretty strange. Don't you think so too, {REALNAME[ID(2)|SHOWHOST(true)]}? {NICKNAME}, what's written on them?"
+    },
+    {
+     "s": 2,
+     "t": "Wow, these notes really were left behind by the same adventurer. So this must be the Core of Chu'ulel, then?"
+    },
+    {
+     "sit": "There are other possibilities."
+    },
+    {
+     "sit": "There are too many things here that make little sense."
+    },
+    {
+     "s": 2,
+     "t": "True, and we did find a new hunk o' Pyrophosphorite here. Maybe there are more to be found elsewhere."
+    },
+    {
+     "sit": "There are too many things here that make little sense."
+    },
+    {
+     "s": 2,
+     "t": "True, and Coco did point us here. Did he know there was a Pyrophosphorite chunk and wanted us to have it? Paimon doesn't get it."
+    },
+    {
+     "s": 1,
+     "t": "Rroo..."
+    },
+    {
+     "sit": "We should head back first."
+    },
+    {
+     "s": 2,
+     "t": "You're right, Coco probably knows what's going on, and we did promise Bona that we'd go back no matter what we found."
+    },
+    {
+     "sit": "Let's take this back to Bona."
+    },
+    {
+     "s": 2,
+     "t": "You're right, maybe Bona will know what's going on, and we did promise her that we'd go back no matter what we found."
+    },
+    {
+     "s": 2,
+     "t": "Let's get out of here, and quick."
+    },
+    {
+     "section": "Bona, Paimon, Cocouik"
+    },
+    {
+     "s": 0,
+     "t": "Hey! You're finally back!"
+    },
+    {
+     "s": 0,
+     "t": "What did you find down there? Tell me all about it!"
+    },
+    {
+     "s": 2,
+     "t": "Actually..."
+    },
+    {
+     "sit": "You tell Bona about everything that transpired below."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? You found another piece of Pyrophosphorite? Wow, and here I thought that the one I have was the only one in the world."
+    },
+    {
+     "s": 0,
+     "t": "Wait, could mine be a counterfeit? ... Hmm, that might be why I haven't noticed anything special about it all these years."
+    },
+    {
+     "sit": "That can't be..."
+    },
+    {
+     "s": 2,
+     "t": "The one we found down there looks ordinary too, other than the patterns on it."
+    },
+    {
+     "sit": "We also discovered that..."
+    },
+    {
+     "s": 2,
+     "t": "Right, we found some strange notes left behind by an adventurer. Do you want to see 'em?"
+    },
+    {
+     "s": 0,
+     "t": "Adventurer's notes? The ones who came to this cursed city are likely here for the Jade of Return anyway, so... Yeah, no need, I think."
+    },
+    {
+     "s": 2,
+     "t": "But there were mentions of Pyrophosphorite and the Altar. Maybe..."
+    },
+    {
+     "s": 0,
+     "t": "I know. That's exactly why I don't want to look at the notes before I find the Jade."
+    },
+    {
+     "s": 2,
+     "t": "Eh? Why?"
+    },
+    {
+     "s": 0,
+     "t": "Over the years, many adventurers have set off to find the Tonatiuh and the Jade..."
+    },
+    {
+     "s": 0,
+     "t": "But they all failed, and no one has been able to prove the existence of the vessel in the sky."
+    },
+    {
+     "s": 0,
+     "t": "Most think it's just a dream, an illusion. A fantasy that people suffering due to the Abyss find solace in."
+    },
+    {
+     "s": 0,
+     "t": "So their adventures were never recorded by storytellers, and their deeds were never lauded."
+    },
+    {
+     "s": 0,
+     "t": "If we cannot find the Tonatiuh and retrieve the Jade of Return, then everything they did would have been in vain."
+    },
+    {
+     "sit": "The journey itself is significant."
+    },
+    {
+     "s": 0,
+     "t": "You really think so? It's rare to find adventurers who emphasize the journey in Natlan."
+    },
+    {
+     "s": 0,
+     "t": "Adventurers with no accomplishments do exist, but most adventurers need something to prove themselves, no?"
+    },
+    {
+     "sit": "The experience is important."
+    },
+    {
+     "s": 0,
+     "t": "Your point assumes that the ship actually exists. What if it's just a story?"
+    },
+    {
+     "s": 0,
+     "t": "That's why we must succeed. For my old man, and for the adventurers who lost their lives while trying."
+    },
+    {
+     "s": 0,
+     "t": "As for the notes you found... Regardless of its origin, they won't have any significance until we board the Tonatiuh."
+    },
+    {
+     "s": 0,
+     "t": "So, if we do find the vessel and return safely, make sure you two tell everyone at the Adventurers' Guild about what we've done, alright?"
+    },
+    {
+     "sit": "Don't worry, Paimon has a knack for such things."
+    },
+    {
+     "s": 2,
+     "t": "What, are you trying to say that Paimon is good at exaggerating? Anyway, if we really do find the legendary ship, telling Katheryne will be as good as telling all of Teyvat!"
+    },
+    {
+     "sit": "Leave it to me."
+    },
+    {
+     "s": 2,
+     "t": "Hehe, we are legendary adventurers, after all. Just give any journalist our story and we'll be all over the headlines!"
+    },
+    {
+     "sit": "{REALNAME[ID(2)|SHOWHOST(true)]} will take care of it."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Paimon's happy it agreed, but even if it wanted to say something, it can only talk to other Saurian adventurers, right? ...Wait, are Saurian adventurers even a thing?"
+    },
+    {
+     "s": 0,
+     "t": "Anyway... You haven't shown me the Pyrophosphorite that you found yet!"
+    },
+    {
+     "s": 2,
+     "t": "Right! {NICKNAME}, show them the Pyrophosphorite! Maybe Coco will remember something when it sees the stone."
+    },
+    {
+     "s": 3,
+     "t": "Kulu..."
+    },
+    {
+     "s": 1,
+     "t": "Rooo... Rawr..."
+    },
+    {
+     "s": 2,
+     "t": "Wh—What's going on? The light! It stings!"
+    },
+    {
+     "s": 3,
+     "t": "Chee! Kucheep!"
+    },
+    {
+     "s": 2,
+     "t": "Huh! Coco suddenly looks... invigorated!"
+    },
+    {
+     "sit": "Looks like firing the \"Super Awesomesauce Laser\" shouldn't be a problem."
+    },
+    {
+     "s": 2,
+     "t": "Uh... How did you remember such a frivolous name?"
+    },
+    {
+     "s": 2,
+     "t": "But still, could this be the same phenomenon as the energy scraps we found before? As in, that energy can be stored in Pyrophosphorite?"
+    },
+    {
+     "sit": "Looks like Pyrophosphorites contain the energy as well."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, it's the same as what happened with those energy scraps from before..."
+    },
+    {
+     "s": 2,
+     "t": "And Coco, in turn, uses the energy stored within to fight the Abyss."
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, look!"
+    },
+    {
+     "s": 2,
+     "t": "Whoa, what's happening!? The mural looks different now!"
+    },
+    {
+     "s": 0,
+     "t": "So this was covered up by the mural that we saw before..."
+    },
+    {
+     "sit": "We've seen this in another, previous mural..."
+    },
+    {
+     "s": 2,
+     "t": "Isn't that the big black dragon on the mural in the ruins where we got the first Golden Entreaty?"
+    },
+    {
+     "s": 2,
+     "t": "But in this painting, it looks like the black dragon is the master of this place."
+    },
+    {
+     "sit": "The dragon entrenches itself above the city..."
+    },
+    {
+     "s": 2,
+     "t": "This painting sure does make it look like the evil dragon is the master of this place."
+    },
+    {
+     "s": 3,
+     "t": "Cheep... Ku!"
+    },
+    {
+     "s": 2,
+     "t": "Coco? What is it? Do you know anything about this mural?"
+    },
+    {
+     "s": 3,
+     "t": "Yee!"
+    },
+    {
+     "s": 2,
+     "t": "Huh. The light's pointing toward the sky this time..."
+    },
+    {
+     "s": 3,
+     "t": "Ku-ku!"
+    },
+    {
+     "s": 0,
+     "t": "Right, this is it. The Altar of Primal Flame must be in that direction, at the highest point of the ancient city!"
+    },
+    {
+     "s": 2,
+     "t": "Are you sure? Paimon gets worried whenever you sound so confident about something..."
+    },
+    {
+     "s": 0,
+     "t": "Just trust me once more, would ya? I have a good feeling about this!"
+    },
+    {
+     "s": 2,
+     "t": "Is that what we're relying on nowadays? Well, not that we have anything else to trust in, so... let's get up there."
+    },
+    {
+     "section": "Bona, Paimon, Cocouik"
+    },
+    {
+     "s": 0,
+     "t": "Hey! You're finally back!"
+    },
+    {
+     "s": 0,
+     "t": "What did you find down there? Tell me all about it!"
+    },
+    {
+     "s": 2,
+     "t": "Actually..."
+    },
+    {
+     "sit": "You tell Bona about everything that transpired below."
+    },
+    {
+     "s": 0,
+     "t": "Huh!? You found another piece of Pyrophosphorite? Wow, and here I thought that the one I have was the only one in the world."
+    },
+    {
+     "s": 0,
+     "t": "Wait, could mine be a counterfeit? ... Hmm, that might be why I haven't noticed anything special about it all these years."
+    },
+    {
+     "sit": "That can't be..."
+    },
+    {
+     "s": 2,
+     "t": "The one we found down there looks ordinary too, other than the patterns on it."
+    },
+    {
+     "sit": "We also discovered that..."
+    },
+    {
+     "s": 2,
+     "t": "Right, we found some strange notes left behind by an adventurer. Do you want to see 'em?"
+    },
+    {
+     "s": 0,
+     "t": "Adventurer's notes? The ones who came to this cursed city are likely here for the Jade of Return anyway, so... Yeah, no need, I think."
+    },
+    {
+     "s": 2,
+     "t": "But there were mentions of Pyrophosphorite and the Altar. Maybe..."
+    },
+    {
+     "s": 0,
+     "t": "I know. That's exactly why I don't want to look at the notes before I find the Jade."
+    },
+    {
+     "s": 2,
+     "t": "Eh? Why?"
+    },
+    {
+     "s": 0,
+     "t": "Over the years, many adventurers have set off to find the Tonatiuh and the Jade..."
+    },
+    {
+     "s": 0,
+     "t": "But they all failed, and no one has been able to prove the existence of the vessel in the sky."
+    },
+    {
+     "s": 0,
+     "t": "Most think it's just a dream, an illusion. A fantasy that people suffering due to the Abyss find solace in."
+    },
+    {
+     "s": 0,
+     "t": "So their adventures were never recorded by storytellers, and their deeds were never lauded."
+    },
+    {
+     "s": 0,
+     "t": "If we cannot find the Tonatiuh and retrieve the Jade of Return, then everything they did would have been in vain."
+    },
+    {
+     "sit": "The journey itself is significant."
+    },
+    {
+     "s": 0,
+     "t": "You really think so? It's rare to find adventurers who emphasize the journey in Natlan."
+    },
+    {
+     "s": 0,
+     "t": "Adventurers with no accomplishments do exist, but most adventurers need something to prove themselves, no?"
+    },
+    {
+     "sit": "The experience is important."
+    },
+    {
+     "s": 0,
+     "t": "Your point assumes that the ship actually exists. What if it's just a story?"
+    },
+    {
+     "s": 0,
+     "t": "That's why we must succeed. For my old man, and for the adventurers who lost their lives while trying."
+    },
+    {
+     "s": 0,
+     "t": "As for the notes you found... Regardless of its origin, they won't have any significance until we board the Tonatiuh."
+    },
+    {
+     "s": 0,
+     "t": "So, if we do find the vessel and return safely, make sure you two tell everyone at the Adventurers' Guild about what we've done, alright?"
+    },
+    {
+     "sit": "Don't worry, Paimon has a knack for such things."
+    },
+    {
+     "s": 2,
+     "t": "What, are you trying to say that Paimon is good at exaggerating? Anyway, if we really do find the legendary ship, telling Katheryne will be as good as telling all of Teyvat!"
+    },
+    {
+     "sit": "Leave it to me."
+    },
+    {
+     "s": 2,
+     "t": "Hehe, we are legendary adventurers, after all. Just give any journalist our story and we'll be all over the headlines!"
+    },
+    {
+     "sit": "{REALNAME[ID(2)|SHOWHOST(true)]} will take care of it."
+    },
+    {
+     "s": 1,
+     "t": "Rawr!"
+    },
+    {
+     "s": 2,
+     "t": "Paimon's happy it agreed, but even if it wanted to say something, it can only talk to other Saurian adventurers, right? ...Wait, are Saurian adventurers even a thing?"
+    },
+    {
+     "s": 0,
+     "t": "Anyway... You haven't shown me the Pyrophosphorite that you found yet!"
+    },
+    {
+     "s": 2,
+     "t": "Right! {NICKNAME}, show them the Pyrophosphorite! Maybe Coco will remember something when it sees the stone."
+    },
+    {
+     "s": 3,
+     "t": "Kulu..."
+    },
+    {
+     "s": 1,
+     "t": "Rooo... Rawr..."
+    },
+    {
+     "s": 2,
+     "t": "Wh—What's going on? The light! It stings!"
+    },
+    {
+     "s": 3,
+     "t": "Chee! Kucheep!"
+    },
+    {
+     "s": 2,
+     "t": "Huh! Coco suddenly looks... invigorated!"
+    },
+    {
+     "sit": "Looks like firing the \"Super Awesomesauce Laser\" shouldn't be a problem."
+    },
+    {
+     "s": 2,
+     "t": "Uh... How did you remember such a frivolous name?"
+    },
+    {
+     "s": 2,
+     "t": "But still, could this be the same phenomenon as the energy scraps we found before? As in, that energy can be stored in Pyrophosphorite?"
+    },
+    {
+     "sit": "Looks like Pyrophosphorites contain the energy as well."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, it's the same as what happened with those energy scraps from before..."
+    },
+    {
+     "s": 2,
+     "t": "And Coco, in turn, uses the energy stored within to fight the Abyss."
+    },
+    {
+     "s": 1,
+     "t": "Rawr! Rawr!"
+    },
+    {
+     "s": 0,
+     "t": "{NICKNAME}, look!"
+    },
+    {
+     "s": 2,
+     "t": "Whoa, what's happening!? The mural looks different now!"
+    },
+    {
+     "s": 0,
+     "t": "So this was covered up by the mural that we saw before..."
+    },
+    {
+     "sit": "We've seen this in another, previous mural..."
+    },
+    {
+     "s": 2,
+     "t": "Isn't that the big black dragon on the mural in the ruins where we got the first Golden Entreaty?"
+    },
+    {
+     "s": 2,
+     "t": "But in this painting, it looks like the black dragon is the master of this place."
+    },
+    {
+     "sit": "The dragon entrenches itself above the city..."
+    },
+    {
+     "s": 2,
+     "t": "This painting sure does make it look like the evil dragon is the master of this place."
+    },
+    {
+     "s": 3,
+     "t": "Cheep... Ku!"
+    },
+    {
+     "s": 2,
+     "t": "Coco? What is it? Do you know anything about this mural?"
+    },
+    {
+     "s": 3,
+     "t": "Yee!"
+    },
+    {
+     "s": 2,
+     "t": "Huh. The light's pointing toward the sky this time..."
+    },
+    {
+     "s": 3,
+     "t": "Ku-ku!"
+    },
+    {
+     "s": 0,
+     "t": "Right, this is it. The Altar of Primal Flame must be in that direction, at the highest point of the ancient city!"
+    },
+    {
+     "s": 2,
+     "t": "Are you sure? Paimon gets worried whenever you sound so confident about something..."
+    },
+    {
+     "s": 0,
+     "t": "Just trust me once more, would ya? I have a good feeling about this!"
+    },
+    {
+     "s": 2,
+     "t": "Is that what we're relying on nowadays? Well, not that we have anything else to trust in, so... let's get up there."
+    }
+   ],
+   "description": "Following Cocouik’s guidance, you come to the palace ruins on Ochkanatlan’s upper levels. There seems to be something hidden beneath these ruins…"
+  }
+ ],
+ "speakers": [
+  "Bona",
+  "{REALNAME[ID(2)|SHOWHOST(true)]}",
+  "Paimon",
+  "Cocouik"
+ ]
+}

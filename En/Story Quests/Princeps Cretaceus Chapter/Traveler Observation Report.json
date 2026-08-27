@@ -1,0 +1,2513 @@
+{
+ "chapter": "Princeps Cretaceus Chapter",
+ "chapter_title": "Traveler Observation Report",
+ "act": "Act 1",
+ "act_title": "Traveler Observation Report",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Rumored Alchemist",
+   "dialogue": [
+    {
+     "section": "Sucrose"
+    },
+    {
+     "s": 0,
+     "t": "Huh, looks like Timaeus isn't here today..."
+    },
+    {
+     "s": 1,
+     "t": "(Customers!?)"
+    },
+    {
+     "s": 1,
+     "t": "Oh! Um... Pardon me, are you looking for Timaeus?"
+    },
+    {
+     "s": 0,
+     "t": "No no! Just strange for him to not be around. Paimon always sees him standing here."
+    },
+    {
+     "s": 1,
+     "t": "I see. He was called away by Albedo a little while ago. I was called over to attend to the store."
+    },
+    {
+     "s": 1,
+     "t": "I'm Sucrose, Albedo's assistant. If you have any alchemy-related queries, you could always ask me. I'd... do my best to help."
+    },
+    {
+     "sit": "Again, with confidence."
+    },
+    {
+     "sit": "No need to be nervous."
+    },
+    {
+     "s": 1,
+     "t": "I... Actually, I'm not very good at this kind of thing."
+    },
+    {
+     "s": 1,
+     "t": "M—My apologies, I don't get out too often. I'm usually in the laboratory, where there aren't many others to talk to."
+    },
+    {
+     "s": 1,
+     "t": "If you need any help, just call my name. If not, I'll... I'll be reading a book — over there. Mm."
+    },
+    {
+     "s": 0,
+     "t": "Mm-hmm, thanks! No worries, we're all clued up on the basics of alchemy, aren't we, {NICKNAME}?"
+    },
+    {
+     "sit": "Mm-hmm, no need to trouble you."
+    },
+    {
+     "sit": "I... might need a refresher."
+    },
+    {
+     "s": 1,
+     "t": "{NICKNAME}... Hey, aren't you the legendary Traveler? The one who repelled Stormterror?"
+    },
+    {
+     "sit": "\"Legendary\" is a bit much."
+    },
+    {
+     "sit": "And I don't even charge for autographs."
+    },
+    {
+     "s": 1,
+     "t": "I've heard so many stories about you! Always wanted an opportunity to research you up close!"
+    },
+    {
+     "s": 0,
+     "t": "Uhh, what do you mean, \"research\"!?"
+    },
+    {
+     "s": 1,
+     "t": "Ah! Sorry, don't mind me, what am I saying..."
+    },
+    {
+     "s": 1,
+     "t": "Still, you'd definitely be able to help Albedo. It is you after all."
+    },
+    {
+     "s": 0,
+     "t": "There's that name again! \"Albedo.\" Is he also an alchemist in Mondstadt?"
+    },
+    {
+     "sit": "Not a name I'm familiar with."
+    },
+    {
+     "sit": "Think I might have heard of him."
+    },
+    {
+     "s": 1,
+     "t": "Apologies, I never introduced him. Albedo is the Knights of Favonius' Chief Alchemist. He's also Timaeus' and my teacher."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon's only ever seen Timaeus teaching alchemy. So that means... Albedo is a teacher-teacher?"
+    },
+    {
+     "s": 1,
+     "t": "Yes, he's dedicated himself to investigating the truth of this world, and has made many an important breakthrough."
+    },
+    {
+     "s": 1,
+     "t": "We often get alchemists coming to Mondstadt from all over Teyvat, seeking his help. They say that the subtlest of guidance from Mr. Albedo helps them to solve the most unfathomable of problems."
+    },
+    {
+     "s": 0,
+     "t": "Wow, Paimon didn't know he was such a big deal!"
+    },
+    {
+     "s": 1,
+     "t": "Mm-hmm. Still, it seems that he's encountered a problem in his research recently. Every time I see him, he has a concerned look on his face."
+    },
+    {
+     "sit": "I'm not sure someone as smart as him could use my help."
+    },
+    {
+     "sit": "My knowledge of alchemy stops at basic crafting."
+    },
+    {
+     "s": 1,
+     "t": "I'm sure that Albedo would love to hear about your incredible exploits. I know it would bring him lots of new inspiration."
+    },
+    {
+     "s": 1,
+     "t": "Albedo is a true gentleman. He'll be sure to pay you back in equal measure for helping him out."
+    },
+    {
+     "sit": "Can he make me stronger?"
+    },
+    {
+     "sit": "Can he make Paimon stronger?"
+    },
+    {
+     "s": 1,
+     "t": "I don't see why not. Testing the limits of living beings' capabilities is one of Albedo's areas of research after all."
+    },
+    {
+     "s": 1,
+     "t": "Albedo and Timaeus will be conducting research in the mountains right now. I'd love to take you both to see him, but somebody has to attend to the store."
+    },
+    {
+     "s": 1,
+     "t": "I'm afraid you'll have to go to the entrance to the pass and look for him by yourselves. Look out for a refined gentleman with the presence of a true scholar, and... umm..."
+    },
+    {
+     "s": 1,
+     "t": "...Sorry, that's the best I can do. You'll have to do your best."
+    },
+    {
+     "s": 0,
+     "t": "Hey, stop worrying! We got this!"
+    },
+    {
+     "s": 2,
+     "t": "Can he make Paimon stronger?"
+    },
+    {
+     "s": 0,
+     "t": "Uhh, Paimon doesn't need any help in that department. But if Albedo wants to pay Paimon back for helping him, a few Mora might settle the score. Tee-hee!"
+    },
+    {
+     "s": 2,
+     "t": "My knowledge of alchemy stops at basic crafting."
+    },
+    {
+     "s": 2,
+     "t": "Think I might have heard of him."
+    },
+    {
+     "s": 2,
+     "t": "And I don't even charge for autographs."
+    },
+    {
+     "s": 1,
+     "t": "Ah! Thank you!"
+    },
+    {
+     "s": 2,
+     "t": "I... might need a refresher."
+    },
+    {
+     "s": 2,
+     "t": "No need to be nervous."
+    },
+    {
+     "s": 1,
+     "t": "Huh? D—Do I look nervous?"
+    },
+    {
+     "section": "Sucrose"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Looks like Timaeus isn't here today..."
+    },
+    {
+     "s": 1,
+     "t": "(Hm? Wait, are these two...)"
+    },
+    {
+     "s": 1,
+     "t": "Oh! Um... Hello, {NICKNAME} and Paimon. Pardon me, are you looking for Timaeus?"
+    },
+    {
+     "s": 0,
+     "t": "No no! Just strange for him to not be around. Paimon always sees him standing here."
+    },
+    {
+     "s": 1,
+     "t": "I see. He was called away by Albedo a little while ago. I was called over to attend to the store."
+    },
+    {
+     "s": 1,
+     "t": "If you need any help, just call my name. If not, I'll... I'll be reading a book — over there."
+    },
+    {
+     "s": 0,
+     "t": "Mm-hmm, thanks! No worries, we're all clued up on the basics of alchemy, aren't we, {NICKNAME}?"
+    },
+    {
+     "s": 2,
+     "t": "Mm-hmm, no need to trouble you."
+    },
+    {
+     "s": 1,
+     "t": "I guess it's no surprise coming from the one who repelled Stormterror..."
+    },
+    {
+     "s": 1,
+     "t": "Actually, since it's you... I bet you're someone who'd be able to help Albedo."
+    },
+    {
+     "s": 0,
+     "t": "There's that name again: \"Albedo.\" You and Timaeus mentioned him the last time we met, right? Is he also an alchemist in Mondstadt?"
+    },
+    {
+     "sit": "Not a name I'm familiar with."
+    },
+    {
+     "sit": "Think I might have heard of him."
+    },
+    {
+     "s": 1,
+     "t": "Apologies, I never introduced him. Albedo is the Knights of Favonius' Chief Alchemist. He's also Timaeus' and my teacher."
+    },
+    {
+     "s": 0,
+     "t": "But Paimon's only ever seen Timaeus teaching alchemy. So that means... Albedo is a teacher-teacher?"
+    },
+    {
+     "s": 1,
+     "t": "Yes, he's dedicated himself to investigating the truth of this world, and has made many an important breakthrough."
+    },
+    {
+     "s": 1,
+     "t": "We often get alchemists coming to Mondstadt from all over Teyvat, seeking his help. They say that the subtlest of guidance from Mr. Albedo helps them to solve the most unfathomable of problems."
+    },
+    {
+     "s": 0,
+     "t": "Wow, Paimon didn't know he was such a big deal!"
+    },
+    {
+     "s": 1,
+     "t": "Mm-hmm. Still, it seems that he's encountered a problem in his research recently. Every time I see him, he has a concerned look on his face."
+    },
+    {
+     "sit": "I'm not sure someone as smart as him could use my help."
+    },
+    {
+     "sit": "My knowledge of alchemy stops at basic crafting."
+    },
+    {
+     "s": 1,
+     "t": "I'm sure that Albedo would love to hear about your incredible exploits. I know it would bring him lots of new inspiration."
+    },
+    {
+     "s": 1,
+     "t": "Albedo is a true gentleman. He'll be sure to pay you back in equal measure for helping him out."
+    },
+    {
+     "sit": "Can he make me stronger?"
+    },
+    {
+     "sit": "Can he make Paimon stronger?"
+    },
+    {
+     "s": 1,
+     "t": "I don't see why not. Testing the limits of living beings' capabilities is one of Albedo's areas of research after all."
+    },
+    {
+     "s": 1,
+     "t": "Albedo and Timaeus will be conducting research in the mountains right now. I'd love to take you both to see him, but somebody has to attend to the store."
+    },
+    {
+     "s": 1,
+     "t": "I'm afraid you'll have to go to the entrance to the pass and look for him by yourselves. Look out for a refined gentleman with the presence of a true scholar, and... umm..."
+    },
+    {
+     "s": 1,
+     "t": "...Sorry, that's the best I can do. You'll have to do your best."
+    },
+    {
+     "s": 0,
+     "t": "Hey, stop worrying! We got this!"
+    },
+    {
+     "s": 2,
+     "t": "Can he make Paimon stronger?"
+    },
+    {
+     "s": 0,
+     "t": "Uhh, Paimon doesn't need any help in that department. But if Albedo wants to pay Paimon back for helping him, a few Mora might settle the score. Tee-hee!"
+    },
+    {
+     "s": 2,
+     "t": "My knowledge of alchemy stops at basic crafting."
+    },
+    {
+     "s": 2,
+     "t": "Think I might have heard of him."
+    },
+    {
+     "section": "Sucrose"
+    },
+    {
+     "s": 1,
+     "t": "My apologies, I don't really know how else to describe him..."
+    },
+    {
+     "s": 1,
+     "t": "If I could sketch you his portrait I would, but my pencil strokes are no match for his."
+    },
+    {
+     "section": "Rosaria"
+    },
+    {
+     "s": 3,
+     "t": "S—Sister Rosaria, so here you are! Choir practice is about to—"
+    },
+    {
+     "s": 4,
+     "t": "I've told you already, I don't go in for that kind of thing. I've got more important matters to attend to."
+    },
+    {
+     "s": 3,
+     "t": "But... this event has commemorative significance. The church hopes that all sisters will be present..."
+    },
+    {
+     "s": 4,
+     "t": "\"Hopes\"!? That's odd, 'cause I don't recall a \"fulfill the hopes of others\" clause in my job description."
+    },
+    {
+     "s": 3,
+     "t": "I— I mean sure, but..."
+    },
+    {
+     "s": 4,
+     "t": "But what? You're the event organizer, aren't you? Do you not find it the least bit odd...?"
+    },
+    {
+     "s": 3,
+     "t": "Wh—What do you mean?"
+    },
+    {
+     "s": 4,
+     "t": "This far out from Mondstadt, at this hour? Even if you set out right now, I'll wager you'd still miss the opening ceremony."
+    },
+    {
+     "s": 4,
+     "t": "Who knows? Maybe this is someone's grand plan to make a fool out of you."
+    },
+    {
+     "s": 3,
+     "t": "Huh!? Th—That can't be! People aren't like that!"
+    },
+    {
+     "s": 4,
+     "t": "Hah! Evidence decides what people are like, not your feelings. *sigh* Maybe you're a little too trusting of other people."
+    },
+    {
+     "s": 4,
+     "t": "Don't fret, nobody's gonna blame you if you go back empty-handed. I can't imagine anyone else was delusional enough to think I was gonna show up."
+    },
+    {
+     "s": 4,
+     "t": "But if you dally any longer, you really won't make it."
+    },
+    {
+     "s": 3,
+     "t": "...You're right! It's a very important commemorative event. If I'm late, then... R—Right, I've got to get going!"
+    },
+    {
+     "s": 0,
+     "t": "Hmm, seems like that sister's an expert in making people believe anything she wants."
+    },
+    {
+     "s": 4,
+     "t": "I thought I heard something — who are you, and why are you eavesdropping?"
+    },
+    {
+     "s": 0,
+     "t": "We'd better watch out! She seems like a dangerous villain... Or a trickster at best."
+    },
+    {
+     "s": 4,
+     "t": "Oh really? I'm a member of the long-standing Favonius Church. You're an eavesdropping pixie from who knows where, and you think I'M the trickster?"
+    },
+    {
+     "s": 0,
+     "t": "Wait, she heard that!? But Paimon was whispering so quietly..."
+    },
+    {
+     "s": 4,
+     "t": "And as for this outlander you seem to be following... Huh — so it's you."
+    },
+    {
+     "s": 4,
+     "t": "The Honorary Knight that saved us from Stormterror. Well, then, given your status, I won't press you on your reasons for eavesdropping."
+    },
+    {
+     "s": 4,
+     "t": "Otherwise, depending on your answer, I could've arrested you on the spot."
+    },
+    {
+     "s": 0,
+     "t": "What!? Do the sisters of Mondstadt have the authority to arrest people now?"
+    },
+    {
+     "s": 4,
+     "t": "We can't go turning a blind eye to hidden dangers can we? Why shouldn't Sisters have a sense of justice?"
+    },
+    {
+     "s": 0,
+     "t": "Hmph, that doesn't sound right. But Paimon can't think of a good comeback..."
+    },
+    {
+     "s": 4,
+     "t": "Let's talk about you. What are you doing in the mountains?"
+    },
+    {
+     "sit": "We're looking for Albedo."
+    },
+    {
+     "sit": "We're investigating the truth of this world."
+    },
+    {
+     "s": 4,
+     "t": "If it's him you're after, I made a point of noting his tracks."
+    },
+    {
+     "s": 4,
+     "t": "Many people have made their way up after the snowstorm. Let's hope they're still there."
+    },
+    {
+     "s": 0,
+     "t": "So... are you also looking for him?"
+    },
+    {
+     "s": 4,
+     "t": "No, this is just a professional habit of mine. I sensed elemental traces in these tracks. Never hurts to be vigilant."
+    },
+    {
+     "sit": "As far as sisters go, you're fairly mysterious."
+    },
+    {
+     "sit": "You're more like a detective."
+    },
+    {
+     "s": 4,
+     "t": "I couldn't care what you think. Come on then, I'd like to see what he's up to anyway."
+    },
+    {
+     "s": 2,
+     "t": "You're more like a detective."
+    },
+    {
+     "s": 2,
+     "t": "We're investigating the truth of this world."
+    },
+    {
+     "s": 4,
+     "t": "But you're only a traveler, I doubt you have any great skill in alchemy."
+    },
+    {
+     "s": 4,
+     "t": "Whatever, I had a notion of who you were seeking."
+    }
+   ],
+   "description": "You arrive at Timaeus’ alchemy store in Mondstadt one day to stock up on adventuring supplies. But here, you encounter someone altogether unexpected…"
+  },
+  {
+   "title": "The Genius Researcher and the Seed of Another World",
+   "dialogue": [
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Is that Albedo? Why would he hang around a place like this?"
+    },
+    {
+     "s": 4,
+     "t": "The word on the street is he loves painting. He'll hang around anywhere for a good landscape."
+    },
+    {
+     "s": 4,
+     "t": "The views and scenery here are pretty good, potential paintings everywhere you look."
+    },
+    {
+     "s": 0,
+     "t": "But... can't he see those hilichurls? Isn't he in danger?"
+    },
+    {
+     "s": 0,
+     "t": "Eek!"
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Who are you? Why did you alarm them?"
+    },
+    {
+     "s": 5,
+     "t": "Thank the gods I'd already completed my painting. Would've been a shame to leave these particular hilichurls unfinished."
+    },
+    {
+     "sit": "You were painting hilichurls?"
+    },
+    {
+     "sit": "I thought you were painting a landscape."
+    },
+    {
+     "s": 0,
+     "t": "What's up with painting hilichurls? What makes them so interesting?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm, I'm afraid the answer isn't easy to explain. If you'd like to have a look at my painting, it may give you a clue."
+    },
+    {
+     "sit": "Uh..."
+    },
+    {
+     "sit": "Very... avant-garde."
+    },
+    {
+     "s": 0,
+     "t": "Wow, look at the detail! But some of it seems to have been done in a hurry."
+    },
+    {
+     "s": 5,
+     "t": "You can find these hilichurls anywhere, quite boring in fact, not worth closer inspection."
+    },
+    {
+     "s": 5,
+     "t": "But take a look at this specimen. The build, the coat... And there's a distinct force at work here."
+    },
+    {
+     "s": 5,
+     "t": "In the cyclical lives of such primitive communities, such unique attributes are an indication of evolution at work. Evolution, the transition from nothing into existence, from the known to the un—"
+    },
+    {
+     "s": 4,
+     "t": "Hold your horses. Ugh, something tells me we're in for a thesis, and I haven't got the stamina."
+    },
+    {
+     "s": 4,
+     "t": "We've found your man, I'm headed back."
+    },
+    {
+     "s": 0,
+     "t": "What!? Don't you have any questions for him? Hey!"
+    },
+    {
+     "s": 0,
+     "t": "Ugh, what a weirdo."
+    },
+    {
+     "s": 5,
+     "t": "So Sister Rosaria brought you? Surprising. And I didn't have time to thank her."
+    },
+    {
+     "s": 5,
+     "t": "But back to the point. From her words, it seems that you were looking for me?"
+    },
+    {
+     "s": 0,
+     "t": "Mm-hmm, we met a girl in Mondstadt, Sucrose! She said you were stuck with your research."
+    },
+    {
+     "s": 5,
+     "t": "I see, so Sucrose sent you here."
+    },
+    {
+     "s": 5,
+     "t": "Then, if I'm not mistaken, you must be the Honorary Knight. You've got the whole of Mondstadt talking."
+    },
+    {
+     "s": 5,
+     "t": "I've heard a bit of everything: your actions during Stormterror's attack, your elemental control, and quite a few other mysterious things..."
+    },
+    {
+     "s": 5,
+     "t": "I'll skip to the conclusion, there's only one possibility after all. You came from afar — from another world. Correct?"
+    },
+    {
+     "sit": "Correct."
+    },
+    {
+     "sit": "You are worthy of your scholarly reputation."
+    },
+    {
+     "s": 5,
+     "t": "Excellent. If I could procure your assistance, I think my research would benefit enormously."
+    },
+    {
+     "sit": "Your research?"
+    },
+    {
+     "sit": "I'm not sure I understand."
+    },
+    {
+     "s": 5,
+     "t": "Ah — forgive me, this must be confusing. Where should I begin? Hmm... The essence of life?"
+    },
+    {
+     "s": 0,
+     "t": "Whoa whoa, you want to start with that!?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm... You're right. Giving a demonstration would be better than trying to explain."
+    },
+    {
+     "s": 5,
+     "t": "For example, awakening life. Breathing new life into fallen leaves."
+    },
+    {
+     "s": 0,
+     "t": "You can do that!?"
+    },
+    {
+     "sit": "Alchemy really is miraculous."
+    },
+    {
+     "sit": "Alchemy really is useful."
+    },
+    {
+     "s": 5,
+     "t": "However, I have a particular seed in my possession. The method I'm talking about has produced no results."
+    },
+    {
+     "s": 5,
+     "t": "It's like you, in that it hails from another world. Helping it to grow — to bloom... That's the problem my research is up against. That's where I'd need your assistance."
+    },
+    {
+     "s": 0,
+     "t": "Well, if you're struggling to figure it out, Paimon's not sure we're gonna be much assistance."
+    },
+    {
+     "s": 5,
+     "t": "I beg to differ. I'm unable to comprehend the intricacies of life outside of the known world."
+    },
+    {
+     "s": 5,
+     "t": "But you're not from the known world. By observing and researching you, I may just be able to find a way to get the seed to sprout."
+    },
+    {
+     "s": 2,
+     "t": "So I'm an... object of research?"
+    },
+    {
+     "s": 0,
+     "t": "Uh... Shall we just get outta here, {NICKNAME}? This sounds a little freaky."
+    },
+    {
+     "sit": "Is there any danger?"
+    },
+    {
+     "sit": "What's in it for me?"
+    },
+    {
+     "s": 5,
+     "t": "It's possible. But I will do everything in my control to ensure your safety."
+    },
+    {
+     "s": 5,
+     "t": "Time for a change of surroundings, we should be going. There's research to do!"
+    },
+    {
+     "s": 4,
+     "t": "(test)镜头转到远处的罗莎莉亚，对话不中断"
+    },
+    {
+     "s": 4,
+     "t": "Albedo and that Traveler seem to have hit it off."
+    },
+    {
+     "s": 4,
+     "t": "Takes a weirdo to know one I guess. I wonder... Does this constitute a risk to Mondstadt?"
+    },
+    {
+     "s": 2,
+     "t": "What's in it for me?"
+    },
+    {
+     "s": 5,
+     "t": "Mora, knowledge. And the answer to the question you are seeking. It happens to be an answer that I can provide. How does that sound?"
+    },
+    {
+     "s": 2,
+     "t": "Alchemy really is useful."
+    },
+    {
+     "s": 2,
+     "t": "I'm not sure I understand."
+    },
+    {
+     "s": 2,
+     "t": "You are worthy of your scholarly reputation."
+    },
+    {
+     "s": 2,
+     "t": "Very... avant-garde."
+    },
+    {
+     "s": 2,
+     "t": "I thought you were painting a landscape."
+    }
+   ],
+   "description": "While searching for Albedo, you encounter an odd-looking sister named Rosaria. She claims to know where Albedo is and expresses her willingness to show you the way."
+  },
+  {
+   "title": "The First Experiment: Elements",
+   "dialogue": [
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Paimon has a question. After the seed sprouts, will it grow into anything?"
+    },
+    {
+     "s": 5,
+     "t": "I don't know, but I feel the importance will lie in the method, not the end point."
+    },
+    {
+     "s": 5,
+     "t": "Using alchemy to awaken otherworldy life in Teyvat would constitute a big leap in my understanding of the essence of life."
+    },
+    {
+     "s": 5,
+     "t": "After awakening, even creation may be possible."
+    },
+    {
+     "s": 0,
+     "t": "Uhh..."
+    },
+    {
+     "s": 5,
+     "t": "Aha... Still a little difficult to understand?"
+    },
+    {
+     "s": 0,
+     "t": "N—No! Paimon's got a brain! But what's the seed gonna become? Isn't that more interesting than whatever it was you were saying?"
+    },
+    {
+     "sit": "Doesn't seem like you understood."
+    },
+    {
+     "sit": "That's what I want to know."
+    },
+    {
+     "s": 5,
+     "t": "Well, if it turns out to be a delicious fruit, dinner's on me."
+    },
+    {
+     "s": 0,
+     "t": "Yay! Paimon's holding you to it!"
+    },
+    {
+     "sit": "You sure know how to keep Paimon on board."
+    },
+    {
+     "sit": "You've seen through Paimon's ulterior motives."
+    },
+    {
+     "s": 5,
+     "t": "Well, let's just say I... occasionally have to look after a child. Another lengthy explanation I'm afraid. I suppose it's one of the few non-alchemy-related disciplines I'm any good at."
+    },
+    {
+     "s": 5,
+     "t": "The subject of my first research was the elements. In this world, manipulating the elements requires a Vision, though I can't see anything resembling one on your person."
+    },
+    {
+     "s": 5,
+     "t": "How you're able to freely manipulate elemental power is something I'd like to ascertain. I've got a few questions in that regard."
+    },
+    {
+     "s": 5,
+     "t": "Firstly, do you have any extra organs? A second heart, a fourth stomach... things of that nature."
+    },
+    {
+     "sit": "No."
+    },
+    {
+     "sit": "Not that I'm aware of."
+    },
+    {
+     "s": 5,
+     "t": "Fascinating. And this floating child is... connected to your body in some way?"
+    },
+    {
+     "s": 0,
+     "t": "What a stupid question! Can't you see the gap between us?"
+    },
+    {
+     "s": 0,
+     "t": "And another thing, it's PAIMON! Not \"floating child\"!"
+    },
+    {
+     "s": 5,
+     "t": "I was merely considering the possibility that you were an external organ. Perhaps there is some invisible force connecting you."
+    },
+    {
+     "sit": "I met Paimon on my travels."
+    },
+    {
+     "sit": "I caught Paimon with a fishing rod."
+    },
+    {
+     "s": 5,
+     "t": "Oh, that rules out that possibility. I wonder, did Paimon guide the elemental power to you?"
+    },
+    {
+     "s": 5,
+     "t": "But that would mean that Paimon's elemental power would be enough to break through mountain rock at least ten meters thick. Or cause the waterfall south of Springvale to flow backwards."
+    },
+    {
+     "s": 5,
+     "t": "Hmm. No, that definitely can't be it..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! How would you know anyway!?"
+    },
+    {
+     "s": 5,
+     "t": "In that case, it would appear that there's no obvious difference between the composition of your body, and that of the humans in this world."
+    },
+    {
+     "s": 5,
+     "t": "Given that there's clearly a discrepancy in the research, it seems that only experimentation will yield the answers."
+    },
+    {
+     "s": 5,
+     "t": "Firstly, this mysterious elemental power. I'd like to examine exactly how it manifests externally."
+    },
+    {
+     "s": 5,
+     "t": "Let me lure a few slimes to the area. Perhaps you'd be able to defeat them, using whatever method comes most naturally to you."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Doesn't seem very sciencey..."
+    },
+    {
+     "s": 5,
+     "t": "Direct and clear observation are imperative to a good experiment. This is just a simple exercise."
+    },
+    {
+     "s": 5,
+     "t": "Naturally, if you require a greater challenge, we could bring in six oceanids."
+    },
+    {
+     "s": 0,
+     "t": "Slimes! Slimes are fine!"
+    },
+    {
+     "sit": "I don't follow. This seems like a hassle."
+    },
+    {
+     "sit": "As long as I'm not being batted around by Hydro mimics."
+    },
+    {
+     "s": 5,
+     "t": "Well, prepare yourself. The slimes will be here any moment."
+    },
+    {
+     "s": 2,
+     "t": "As long as I'm not being batted around by Hydro mimics."
+    },
+    {
+     "s": 2,
+     "t": "I caught Paimon with a fishing rod."
+    },
+    {
+     "s": 2,
+     "t": "Not that I'm aware of."
+    },
+    {
+     "s": 2,
+     "t": "You've seen through Paimon's ulterior motives."
+    },
+    {
+     "s": 2,
+     "t": "That's what I want to know."
+    },
+    {
+     "section": "Timaeus"
+    },
+    {
+     "s": 6,
+     "t": "An elemental life form from another world! As soon as we have strong evidence, this may end up subverting a lot of alchemical theories."
+    },
+    {
+     "s": 6,
+     "t": "Albedo's research will see huge progress!"
+    },
+    {
+     "section": "Timaeus"
+    },
+    {
+     "s": 6,
+     "t": "An elemental life form from another world! As soon as we have strong evidence, this may end up subverting a lot of alchemical theories."
+    },
+    {
+     "s": 6,
+     "t": "Albedo's research will see huge progress!"
+    },
+    {
+     "section": "Timaeus"
+    },
+    {
+     "s": 6,
+     "t": "An elemental life form from another world! As soon as we have strong evidence, this may end up subverting a lot of alchemical theories."
+    },
+    {
+     "s": 6,
+     "t": "Albedo's research will see huge progress!"
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Great work. Did you feel anything out of the ordinary?"
+    },
+    {
+     "s": 5,
+     "t": "If you're injured, I have a few emergency potions ready."
+    },
+    {
+     "sit": "Not a scratch."
+    },
+    {
+     "sit": "Just a bit cold."
+    },
+    {
+     "s": 5,
+     "t": "Excellent. According to my observations, the manifestation of the external elemental flow is as expected, elemental reactions are normal. There's nothing out of the ordinary."
+    },
+    {
+     "s": 5,
+     "t": "Now that we know that the external flow is manifesting normally, let's test the internal flow."
+    },
+    {
+     "s": 0,
+     "t": "Internal flow... How do you test that?"
+    },
+    {
+     "s": 5,
+     "t": "It's very simple. I can use alchemy to create a potion that will extract elemental power."
+    },
+    {
+     "s": 5,
+     "t": "If the elemental power is stored or accumulated physically within your body, this potion may elicit an elemental reaction."
+    },
+    {
+     "sit": "Will it make my stomach Swirl?"
+    },
+    {
+     "sit": "Will it Crystallize in my stomach?"
+    },
+    {
+     "s": 0,
+     "t": "Sounds kinda terrifying!"
+    },
+    {
+     "s": 5,
+     "t": "Don't worry, in the normal course of events you'd feel some temporary queasiness, no bodily injury."
+    },
+    {
+     "s": 0,
+     "t": "And in the abnormal course of events?"
+    },
+    {
+     "s": 5,
+     "t": "If anything unexpected occurs, I've made the necessary preparations. Try not to worry."
+    },
+    {
+     "s": 2,
+     "t": "That's not hugely reassuring..."
+    },
+    {
+     "s": 5,
+     "t": "Well, it's not that there aren't any risks involved. But if there is anything blocking your elemental flow, we'll be able to locate it with this test."
+    },
+    {
+     "s": 5,
+     "t": "Just a warning: if an internal elemental reaction occurs for any other reason, that's a bad sign."
+    },
+    {
+     "s": 2,
+     "t": "This is like a health checkup."
+    },
+    {
+     "s": 5,
+     "t": "Yes! That's an excellent way to think about it. Before we get started, the potion we'll use for the test is missing a catalyst. We'll need to find it."
+    },
+    {
+     "s": 5,
+     "t": "It's a type of ore known as Starsilver, but unfortunately not all of it is suitable."
+    },
+    {
+     "s": 5,
+     "t": "I'll take you to my campsite. We can gather some Starsilver Ore on the way. I'll point out any likely contenders."
+    },
+    {
+     "s": 5,
+     "t": "All going to plan, we should be able to begin concocting the potion when we get to the campsite."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's still got a few safety concerns, but seems like there's a silver lining."
+    },
+    {
+     "s": 0,
+     "t": "Let's keep our eyes open!"
+    },
+    {
+     "s": 2,
+     "t": "Will it Crystallize in my stomach?"
+    },
+    {
+     "s": 2,
+     "t": "Just a bit cold."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "This is my campsite. I've added the materials we collected to the concoction."
+    },
+    {
+     "s": 5,
+     "t": "While we are waiting, have a look over here."
+    },
+    {
+     "s": 5,
+     "t": "My assistant Timaeus here is helping me with my research. I'm guessing you may have met in Mondstadt already?"
+    },
+    {
+     "s": 6,
+     "t": "Hello, I've just gotten hold of the data from your experiment. The report is already up on the board there."
+    },
+    {
+     "s": 0,
+     "t": "Whoa! Look at all the data! You got all these results from one slime battle?"
+    },
+    {
+     "s": 6,
+     "t": "Haha, I wouldn't call them results. Inferences, and a few daring guesses perhaps."
+    },
+    {
+     "s": 6,
+     "t": "I think the most rational direction would be to expound on the phylogenetic relationship between this Traveler and the slimes."
+    },
+    {
+     "sit": "Rational?"
+    },
+    {
+     "sit": "I would've thought even Paimon and I were more closely related."
+    },
+    {
+     "s": 6,
+     "t": "Hmm, consider: You don't have a Vision, but you can manipulate elemental energy. The slimes don't have Visions either, yet they, too, are able to manipulate the elements."
+    },
+    {
+     "s": 6,
+     "t": "Following this line of thought, I'm sure we'll be able to establish a basis in fact."
+    },
+    {
+     "s": 5,
+     "t": "Not bad for a point of entry, but strictly speaking, slimes are elemental life forms. In other words, beings consisting entirely of the elements."
+    },
+    {
+     "s": 5,
+     "t": "A Cryo Regisvine, or even a Whopperflower might be a better analogy. But tracing back the phylogenetic relationships between plants and animals... You might have to trace back to the world's origins."
+    },
+    {
+     "s": 5,
+     "t": "In that sense, things might get difficult, don't you think?"
+    },
+    {
+     "s": 6,
+     "t": "Uh! Yes sir. That sounds correct."
+    },
+    {
+     "s": 5,
+     "t": "After all, we've got our primary data already. This Traveler is a visitor from another world."
+    },
+    {
+     "s": 5,
+     "t": "If it turned out that he(she) did have a phylogenetic relationship with this world... Now that really would be something, wouldn't it?"
+    },
+    {
+     "s": 6,
+     "t": "Ahhhh, it would! Apologies, I was so excited to get the data. I'll slow down a bit next time."
+    },
+    {
+     "s": 6,
+     "t": "Speaking of data — to complete our research, we'll need some more. I'll be conducting analysis here for the time being. If you're keen for an update, just come and find me!"
+    },
+    {
+     "s": 5,
+     "t": "Great, I'll leave you to it."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, looks like the potion's ready. I'll try a little first. If all goes well, I'll hand it over to you."
+    },
+    {
+     "s": 2,
+     "t": "I would've thought even Paimon and I were more closely related."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "I've just tried some, it's in line with my expectations."
+    },
+    {
+     "s": 5,
+     "t": "Remember to keep calm at all times, and breathe deeply if you feel unwell."
+    },
+    {
+     "s": 5,
+     "t": "I'll be noting down all observable results and data points."
+    },
+    {
+     "section": "Timaeus"
+    },
+    {
+     "s": 6,
+     "t": "Doesn't sound very rigorous, surely there's another approach..."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Tasty? You've got a funny look on your face, {NICKNAME}!"
+    },
+    {
+     "sit": "It's... burning a bit."
+    },
+    {
+     "sit": "You drank this!?"
+    },
+    {
+     "s": 0,
+     "t": "You said you tried some already! You sure it was ready? What happened to him(her)?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm? Oh, this was the result I was expecting, and a very positive one at that."
+    },
+    {
+     "s": 5,
+     "t": "This potion channels elemental power into the body. Under normal circumstances, a repelling reaction is to be expected."
+    },
+    {
+     "s": 5,
+     "t": "But if the internal elemental flow is unimpeded, you'll only experience momentary discomfort. Once the flow is complete, there won't be any other effects."
+    },
+    {
+     "s": 0,
+     "t": "So you knew you'd be sick and still drank some?"
+    },
+    {
+     "s": 5,
+     "t": "Eh-he, it was my own concoction of course, only natural for me to be the guinea pig."
+    },
+    {
+     "sit": "Out of... consideration for the test subject?"
+    },
+    {
+     "sit": "What about the risk to you!"
+    },
+    {
+     "s": 5,
+     "t": "But of course! You're my assistant, by all sense and reason it would be wrong of me to place that risk onto you."
+    },
+    {
+     "s": 5,
+     "t": "In conclusion, I'd say we have our conclusion! As far as elemental energy is concerned, you're no different from anyone else in this world, nothing peculiar."
+    },
+    {
+     "s": 0,
+     "t": "Aw, Paimon wanted something cooler to happen..."
+    },
+    {
+     "s": 5,
+     "t": "Then again, better an ordinary result than a peculiar result. Peculiar results have a tendency to be of the... undesirable variety."
+    },
+    {
+     "s": 2,
+     "t": "I feel like you're referring to something in particular..."
+    },
+    {
+     "s": 5,
+     "t": "The good thing about \"ordinary\" is that everything is an object of reference, and everyone understands you."
+    },
+    {
+     "s": 5,
+     "t": "People are the same, they can understand, empathize, encourage, and support one another."
+    },
+    {
+     "s": 5,
+     "t": "When you're sick, a doctor can diagnose you because they are you. When something goes wrong, you can ask people who've made the same mistake for their experience, because you are them."
+    },
+    {
+     "s": 5,
+     "t": "But a peculiar person... They don't have much recourse for the things we take for granted. The essence of their life is fundamentally different."
+    },
+    {
+     "s": 5,
+     "t": "For example... A human can't understand the life of a Pyro Regisvine, or an Eye of the Storm. Have I explained it clearly enough?"
+    },
+    {
+     "sit": "I think I'm getting it."
+    },
+    {
+     "sit": "Still seems... like there's another layer of meaning to your words."
+    },
+    {
+     "s": 5,
+     "t": "To sum up, this has been a positive outcome. Going forward, you can use your elemental power without fear."
+    },
+    {
+     "s": 5,
+     "t": "Timaeus, the results of the new experiment are out. If you could see to collating them..."
+    },
+    {
+     "s": 6,
+     "t": "Just a moment, Sir! I'll handle it!"
+    },
+    {
+     "s": 6,
+     "t": "You gave me a lot to consider, really stretched my limits. I'm thinking a lot clearer now."
+    },
+    {
+     "s": 6,
+     "t": "Having you down as an animal wasn't very precise of me, but starting with the premise of an elemental life form!? Now that was—"
+    },
+    {
+     "s": 5,
+     "t": "Not bad, I think it's an interesting line of inquiry. Whatever the truth of the matter, I'd like your research at the fore as opposed to my judgment."
+    },
+    {
+     "s": 6,
+     "t": "You can count on me, Sir! I'll extract a result satisfactory to all!"
+    },
+    {
+     "s": 0,
+     "t": "Is he trying to join the Knights? He's starting to sound like a suck-up..."
+    },
+    {
+     "s": 0,
+     "t": "Uh... What Paimon meant to say was... That's the spirit! Mr. Albedo, say something..."
+    },
+    {
+     "s": 5,
+     "t": "Hmm... Before we can proceed with our research, I need to... prepare something. Wait one moment."
+    },
+    {
+     "s": 5,
+     "t": "If you're interested, why not have a look around? It may help to pass the time."
+    },
+    {
+     "s": 2,
+     "t": "Still seems... like there's another layer of meaning to your words."
+    },
+    {
+     "s": 2,
+     "t": "What about the risk to you!"
+    },
+    {
+     "s": 5,
+     "t": "Perhaps it's just scholarly self-assurance, and it certainly speeds things up."
+    },
+    {
+     "s": 2,
+     "t": "You drank this!?"
+    }
+   ],
+   "description": "After finding Albedo, Rosaria leaves on her own. You chat with Albedo and discover the objective of his research: to use alchemy to cause a seed from another world to sprout and flourish. To better understand otherworldly lifeforms, Albedo states his desire to observe you and to perform some experiments in the process."
+  },
+  {
+   "title": "The Third Experiment: Life",
+   "dialogue": [
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 0,
+     "t": "You... You want us to jump!? From up here!?"
+    },
+    {
+     "s": 5,
+     "t": "Not necessarily — not if you know of a better method, that is."
+    },
+    {
+     "sit": "We'd better have a better method."
+    },
+    {
+     "sit": "That's not very reassuring."
+    },
+    {
+     "s": 5,
+     "t": "Whichever method you choose, the experiment will end when you reach the opposite shore of the lake."
+    },
+    {
+     "s": 5,
+     "t": "I will factor the time expended and your top speed into my comparative analysis."
+    },
+    {
+     "s": 0,
+     "t": "The opposite side of the lake... So... We're gonna be swimming?"
+    },
+    {
+     "s": 5,
+     "t": "Without limitations, we complete tasks intuitively using the method that seems most rational to us."
+    },
+    {
+     "s": 5,
+     "t": "Some of us would be unable to stand the icy waters... Others might find the whole thing rather refreshing."
+    },
+    {
+     "s": 5,
+     "t": "No matter what choice you make, it's all a part of the experiment. For me, every detail is invaluable to the research."
+    },
+    {
+     "sit": "My kind of experiment."
+    },
+    {
+     "sit": "This is actually less stressful than the superpower part."
+    },
+    {
+     "s": 5,
+     "t": "Then if you would, please. I eagerly await the results."
+    },
+    {
+     "s": 2,
+     "t": "This is actually less stressful than the superpower part."
+    },
+    {
+     "s": 2,
+     "t": "That's not very reassuring."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Without limitations, we complete tasks intuitively using the method that seems most rational to us."
+    },
+    {
+     "s": 5,
+     "t": "Some of us would be unable to stand the icy waters... Others might find the whole thing rather refreshing."
+    },
+    {
+     "s": 5,
+     "t": "No matter what choice you make, it's all a part of the experiment. For me, every detail is invaluable to the research."
+    },
+    {
+     "sit": "My kind of experiment."
+    },
+    {
+     "sit": "This is actually less stressful than the superpower part."
+    },
+    {
+     "s": 5,
+     "t": "Then if you would, please. I eagerly await the results."
+    },
+    {
+     "s": 2,
+     "t": "This is actually less stressful than the superpower part."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Great work, I've never seen a performance quite like it."
+    },
+    {
+     "s": 5,
+     "t": "Your reputation precedes you, Traveler. The data shows that you're easily outperforming the average citizen in Mondstadt."
+    },
+    {
+     "s": 0,
+     "t": "But you followed us the whole way without breaking a sweat!"
+    },
+    {
+     "s": 5,
+     "t": "Me? Actually, I used alchemy to cheat a little, but anyway."
+    },
+    {
+     "s": 5,
+     "t": "If it turns out that the natural laws of Teyvat do not affect you, I should be able to make various inferences about the otherworldly civilization you belong to."
+    },
+    {
+     "s": 5,
+     "t": "If the natural laws of Teyvat do affect you, then I shall be able to make inferences into the kind of evolution that would occur under the absence of such effects."
+    },
+    {
+     "s": 5,
+     "t": "The innumerable possibilities that this could present, the captivating insights... It will be something to savor again and agai—"
+    },
+    {
+     "s": 0,
+     "t": "Buuuut how does this help your RESEARCH?"
+    },
+    {
+     "s": 5,
+     "t": "You've helped me to unravel many of the problems that were holding it back. When we return to the campsite, I should be able to show you something interesting."
+    },
+    {
+     "s": 2,
+     "t": "What else have you researched this thoroughly?"
+    },
+    {
+     "s": 5,
+     "t": "I may be about to make some analogies between you and a few... unusual specimens. I hope you won't be offended."
+    },
+    {
+     "s": 5,
+     "t": "Gold, Petrified Trees, a sun eight times the size of our own..."
+    },
+    {
+     "s": 5,
+     "t": "The essence of the investigative process is enthralling, but such feelings are inevitably fleeting in nature."
+    },
+    {
+     "s": 5,
+     "t": "I'm willing to pour all my energy into research, and yet specimens are finite. As the unknown transitions into the realm of scientific understanding, the feeling of enlightenment is lost."
+    },
+    {
+     "s": 5,
+     "t": "All these things that start out as objects of fascination end up possessing the prosaic mundanity of a Sunsettia or a Sweet Flower. They cease to be noteworthy."
+    },
+    {
+     "s": 0,
+     "t": "Oh... So that's why you wanted to paint those hilichurls? Because you got to see something new and interesting in the differences between them?"
+    },
+    {
+     "s": 5,
+     "t": "Precisely. To quote my exact words from earlier, these creatures are, for the most part, \"quite boring... not worth closer inspection.\" There is precious little about them that serves to pique my curiosity now."
+    },
+    {
+     "s": 0,
+     "t": "So after all these experiments, are we gonna be, like, boring to you? Like some basic draft of a sketch?"
+    },
+    {
+     "s": 5,
+     "t": "Of course not. You have been of great assistance to me, and I will remember this friendship for a lifetime."
+    },
+    {
+     "s": 5,
+     "t": "Now, before we head back to the campsite, there's one more experiment: intelligence."
+    },
+    {
+     "s": 5,
+     "t": "Follow me, there are some other ruins nearby."
+    }
+   ],
+   "description": "After the elemental flow tests, Albedo asks you to display any special, otherworldly abilities you may have, though nothing comes of this. Still, Albedo’s interest in you has not waned in the least…"
+  },
+  {
+   "title": "The Second Experiment: The World",
+   "dialogue": [
+    {
+     "section": "Observe Shelf"
+    },
+    {
+     "s": 7,
+     "t": "(A shelf packed with books and potions. Looks like the owner has a habit of reading and researching potions simultaneously.)"
+    },
+    {
+     "section": "Observe Table"
+    },
+    {
+     "s": 8,
+     "t": "(Looks like an alchemy work table. Some potions and other apparatus are laid out here. Are these what Albedo uses to investigate the world?)"
+    },
+    {
+     "s": 8,
+     "t": "(It wouldn't hurt to touch it... would it?)"
+    },
+    {
+     "section": "Observe Record Board"
+    },
+    {
+     "s": 8,
+     "t": "(A board with some incomprehensible experimental reports stuck onto it.)"
+    },
+    {
+     "s": 8,
+     "t": "(Still, you can tell that progress is being made on those experiments.)"
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "I'm back. Did you see anything interesting?"
+    },
+    {
+     "sit": "Couldn't make heads or tails of anything."
+    },
+    {
+     "sit": "Your things aren't very organized."
+    },
+    {
+     "s": 5,
+     "t": "Not to worry, they're all for alchemical purposes, you'd be hard pressed to find an everyday use for them."
+    },
+    {
+     "s": 5,
+     "t": "Well, on with the research."
+    },
+    {
+     "s": 5,
+     "t": "There may be significant differences between different worlds."
+    },
+    {
+     "s": 5,
+     "t": "Take Teyvat, for example. Here, those with Visions can manipulate the elements."
+    },
+    {
+     "s": 5,
+     "t": "But worlds may well exist where only one person is able to do so, or even everyone."
+    },
+    {
+     "s": 5,
+     "t": "So, leaving elements to one side... Do you possess any... unique abilities, {NICKNAME}? Ones that don't exist in this world?"
+    },
+    {
+     "s": 5,
+     "t": "I think answering this question calls for the same methodology as last time. In other words, time for the next experiment."
+    },
+    {
+     "sit": "Am I battling slimes again?"
+    },
+    {
+     "sit": "I drank my fill, thanks..."
+    },
+    {
+     "s": 5,
+     "t": "No, no! You shan't be required to exert quite so much effort this time around."
+    },
+    {
+     "s": 5,
+     "t": "Now, see this pillar here. Use your willpower to try and break it."
+    },
+    {
+     "sit": "Sorry, I just can't do it."
+    },
+    {
+     "sit": "Paimon, you give it a shot."
+    },
+    {
+     "s": 5,
+     "t": "That was your best effort? Hmm... Well, can't be helped, I suppose."
+    },
+    {
+     "s": 0,
+     "t": "What's with the disappointment!? Isn't that, like, impossible?"
+    },
+    {
+     "s": 5,
+     "t": "Ah! Have you tried using your elemental power with food? I don't mean for cooking as such — rather, channeling your power into the ingredients themselves."
+    },
+    {
+     "s": 5,
+     "t": "I'm curious to see how the taste and texture respond. It may even help with... proliferation..."
+    },
+    {
+     "sit": "Alchemists certainly have active imaginations."
+    },
+    {
+     "sit": "Sure you're not just peckish?"
+    },
+    {
+     "s": 5,
+     "t": "Haha, I suppose I have a curiosity for things that others find surprising."
+    },
+    {
+     "s": 5,
+     "t": "Anyway, why don't you cook us up a Sunshine Sprat? I've just finished preparing the recipe."
+    },
+    {
+     "s": 0,
+     "t": "Cooking? Paimon was looking forward to more mad scientist stuff!"
+    },
+    {
+     "s": 5,
+     "t": "Not only is this recipe a staple for me, it's also worth experimenting with and highly nutritious!"
+    },
+    {
+     "s": 0,
+     "t": "Hmph, Paimon bets you're just hungry!"
+    },
+    {
+     "s": 0,
+     "t": "It does sound yummy though... Okay, Paimon approves!"
+    },
+    {
+     "sit": "I know what you're getting at."
+    },
+    {
+     "sit": "I'll save you a fin or two."
+    },
+    {
+     "s": 0,
+     "t": "Mm-hmm, good buddies are always on the same page!"
+    },
+    {
+     "s": 5,
+     "t": "I'll leave you to it, then. Looking forward to the results."
+    },
+    {
+     "s": 5,
+     "t": "If there's anything left over, maybe Timaeus can finish the last morsels."
+    },
+    {
+     "s": 0,
+     "t": "Uhh... Paimon doesn't think we'll have that problem."
+    },
+    {
+     "s": 2,
+     "t": "I'll save you a fin or two."
+    },
+    {
+     "s": 2,
+     "t": "Sure you're not just peckish?"
+    },
+    {
+     "s": 2,
+     "t": "Paimon, you give it a shot."
+    },
+    {
+     "s": 0,
+     "t": "You think Paimon knows how to do that stuff?"
+    },
+    {
+     "s": 5,
+     "t": "That was your best effort? Hmm... Well, can't be helped, I suppose."
+    },
+    {
+     "s": 2,
+     "t": "I drank my fill, thanks..."
+    },
+    {
+     "s": 2,
+     "t": "Your things aren't very organized."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, agreed. I'd love to find a moment to put them all in order. Still, experiments come first..."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Mm! An average outcome experimentally, but you've really brought out the flavor. You seem well-versed in the science of gastronomy."
+    },
+    {
+     "s": 5,
+     "t": "As far as the proliferation hypothesis is concerned, we've come up short. Seems like food presents the same headaches in your world as it does ours."
+    },
+    {
+     "s": 5,
+     "t": "Unless... Could it be that the natural laws of this world are limiting your unique abilities?"
+    },
+    {
+     "s": 0,
+     "t": "We just didn't know how to channel elemental power into the food. It's a little more complicated than adding herbs and spices, y'know!"
+    },
+    {
+     "s": 5,
+     "t": "Not to worry, at least we put some food to good use, no need to feel disheartened."
+    },
+    {
+     "s": 5,
+     "t": "And here's your portion, enjoy! I can box it up if you like."
+    },
+    {
+     "s": 0,
+     "t": "Woohoo, thanks! Glad you were paying attention."
+    },
+    {
+     "sit": "You're Paimon's new favorite."
+    },
+    {
+     "sit": "Not often that Paimon gets this much attention."
+    },
+    {
+     "s": 5,
+     "t": "I can tell that you're good friends. Paimon was keeping an eye on you and your safety during the whole experiment."
+    },
+    {
+     "s": 5,
+     "t": "Not that Paimon would have been able to do much if things had gone wrong, but anyway..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! You were being nice a second ago!"
+    },
+    {
+     "s": 0,
+     "t": "But you do have tasty recipes, so Paimon forgives you."
+    },
+    {
+     "s": 0,
+     "t": "And you're right, we are good friends. You have good friends too, right? Good students?"
+    },
+    {
+     "s": 5,
+     "t": "...Uh, yes! I'm fortunate too, I suppose. Anyway, moving on to the next experiment."
+    },
+    {
+     "s": 5,
+     "t": "There are all manner of alchemical items here, keeping them in their proper place is a challenge at the best of times. A while ago, I had the misfortune of misplacing a batch."
+    },
+    {
+     "s": 5,
+     "t": "I managed to retrieve the majority, but two vials have been evading me: Anemo Crystalfly elemental extract and Electro Hypostasis powder."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's barely finished eating and you want us to go gathering again?"
+    },
+    {
+     "s": 5,
+     "t": "Don't worry if you can't locate them. I was planning to replace them anyway, though finding them would save me the hassle."
+    },
+    {
+     "s": 5,
+     "t": "If you had, say, a \"superpower,\" like night vision, or vibratory sensing, lost property would be a thing of the past."
+    },
+    {
+     "s": 5,
+     "t": "I must have dropped them somewhere in the area where you were looking just now."
+    },
+    {
+     "s": 0,
+     "t": "So... guess we'd better take a look?"
+    },
+    {
+     "s": 2,
+     "t": "There should be some elemental traces on the lost items."
+    },
+    {
+     "s": 0,
+     "t": "Oh yeah! You could use Elemental Sight!"
+    },
+    {
+     "s": 2,
+     "t": "Not often that Paimon gets this much attention."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Hmm, an average outcome for a fine dish."
+    },
+    {
+     "s": 5,
+     "t": "As far as the proliferation hypothesis is concerned, we've come up short. Seems like food presents the same headaches in your world as it does ours."
+    },
+    {
+     "s": 5,
+     "t": "Unless... Could it be that the natural laws of this world are limiting your unique abilities?"
+    },
+    {
+     "s": 0,
+     "t": "We just didn't know how to channel elemental power into the food. It's a little more complicated than adding herbs and spices, y'know!"
+    },
+    {
+     "s": 5,
+     "t": "Not to worry, at least we put some food to good use, no need to feel disheartened."
+    },
+    {
+     "s": 5,
+     "t": "And here's your portion, enjoy! I can box it up if you like."
+    },
+    {
+     "s": 0,
+     "t": "Woohoo, thanks! Glad you were paying attention."
+    },
+    {
+     "sit": "You're Paimon's new favorite."
+    },
+    {
+     "sit": "Not often that Paimon gets this much attention."
+    },
+    {
+     "s": 5,
+     "t": "I can tell that you're good friends. Paimon was keeping an eye on you and your safety during the whole experiment."
+    },
+    {
+     "s": 5,
+     "t": "Not that Paimon would have been able to do much if things had gone wrong, but anyway..."
+    },
+    {
+     "s": 0,
+     "t": "Hey! You were being nice a second ago!"
+    },
+    {
+     "s": 0,
+     "t": "But you do have tasty recipes, so Paimon forgives you."
+    },
+    {
+     "s": 0,
+     "t": "And you're right, we are good friends. You have good friends too, right? Good students?"
+    },
+    {
+     "s": 5,
+     "t": "...Uh, yes! I'm fortunate too, I suppose. Anyway, moving on to the next experiment."
+    },
+    {
+     "s": 5,
+     "t": "There are all manner of alchemical items here, keeping them in their proper place is a challenge at the best of times. A while ago, I had the misfortune of misplacing a batch."
+    },
+    {
+     "s": 5,
+     "t": "I managed to retrieve the majority, but two vials have been evading me: Anemo Crystalfly elemental extract and Electro Hypostasis powder."
+    },
+    {
+     "s": 0,
+     "t": "Paimon's barely finished eating and you want us to go gathering again?"
+    },
+    {
+     "s": 5,
+     "t": "Don't worry if you can't locate them. I was planning to replace them anyway, though finding them would save me the hassle."
+    },
+    {
+     "s": 5,
+     "t": "If you had, say, a \"superpower,\" like night vision, or vibratory sensing, lost property would be a thing of the past."
+    },
+    {
+     "s": 5,
+     "t": "I must have dropped them somewhere in the area where you were looking just now."
+    },
+    {
+     "s": 0,
+     "t": "So... guess we'd better take a look?"
+    },
+    {
+     "s": 2,
+     "t": "There should be some elemental traces on the lost items."
+    },
+    {
+     "s": 0,
+     "t": "Oh yeah! You could use Elemental Sight!"
+    },
+    {
+     "s": 2,
+     "t": "Not often that Paimon gets this much attention."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "That was fast! Looking forward to tasting — I mean, testing — the results..."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Hmm, an interesting term... Compelling."
+    },
+    {
+     "s": 5,
+     "t": "See what you can find, I'll be over here."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "Goodness, you managed to find them? Incredible, a thousand thanks."
+    },
+    {
+     "s": 5,
+     "t": "I'm wondering, this Elemental Sight... This is what allowed you to locate the items, and find me here in the mountains, correct?"
+    },
+    {
+     "s": 0,
+     "t": "Yup! Guess it does sorta count as a superpower, huh..."
+    },
+    {
+     "s": 5,
+     "t": "Unfortunately, though Elemental Sight is seldom seen, it is not unheard of in Teyvat."
+    },
+    {
+     "s": 5,
+     "t": "Only a never-before-seen, otherworldly power would be of benefit to my research."
+    },
+    {
+     "s": 0,
+     "t": "You mean... We failed again...?"
+    },
+    {
+     "s": 5,
+     "t": "Don't be disheartened, this falls entirely within my expectations. Besides, getting these items back? I'd call this a very worthwhile experiment."
+    },
+    {
+     "s": 5,
+     "t": "I have to commend your deduction that the items would contain elemental traces."
+    },
+    {
+     "s": 5,
+     "t": "Right then. Up until now, our research has focused on your otherworldly identity. Our research on your identity as one of us is just beginning."
+    },
+    {
+     "sit": "With you to the end."
+    },
+    {
+     "sit": "...How do I get off this train?"
+    },
+    {
+     "s": 5,
+     "t": "In essence, the differences between humans are reflected in our intellectual and physical capabilities. Let's start with physical."
+    },
+    {
+     "s": 5,
+     "t": "Looking out from where we're standing, can you see what Sucrose is doing?"
+    },
+    {
+     "s": 2,
+     "t": "Nope."
+    },
+    {
+     "s": 5,
+     "t": "And if you jumped from here and landed on that cliff — the one over there — could you see her then?"
+    },
+    {
+     "s": 2,
+     "t": "Nope."
+    },
+    {
+     "s": 5,
+     "t": "So what about if you planted a single blow on the mountain face here and it burst into a million fragments? Then could you see her?"
+    },
+    {
+     "sit": "Nope."
+    },
+    {
+     "sit": "Sounds like we're still on the superpower test."
+    },
+    {
+     "s": 5,
+     "t": "Hmm, then I shouldn't get too excited. Still, we'll gain a more thorough understanding with an experiment."
+    },
+    {
+     "s": 5,
+     "t": "I know of a location that will be perfect for a physical test. Please, follow me."
+    },
+    {
+     "s": 2,
+     "t": "Sounds like we're still on the superpower test."
+    },
+    {
+     "s": 2,
+     "t": "...How do I get off this train?"
+    }
+   ],
+   "description": "After the experiment begins, Albedo first checks your elemental flow. The result is that both your internal and external elemental flows run smoothly and that there is nothing unusual about them. These results seem very normal indeed, but according to Albedo, this is something to be happy about."
+  },
+  {
+   "title": "The Final Experiment: Withering Glory",
+   "dialogue": [
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "I imagine you must have encountered more than a few conundrums during your travels."
+    },
+    {
+     "s": 5,
+     "t": "I'd like to observe your intelligence by means of a practical test of your capabilities — much as we did for the physical test."
+    },
+    {
+     "sit": "No problem."
+    },
+    {
+     "sit": "Wouldn't a written test suffice...?"
+    },
+    {
+     "s": 5,
+     "t": "I'd like you to explore these ruins and return with your findings."
+    },
+    {
+     "s": 5,
+     "t": "There are two puzzles located at the far ends of the ruins. After completion, you should be able to activate the mechanism in the center."
+    },
+    {
+     "s": 5,
+     "t": "As with the physical test, there are no restrictions. Everything you do is an action I wish to observe."
+    },
+    {
+     "sit": "I'm getting good at these."
+    },
+    {
+     "sit": "Where there's a will, there's a way."
+    },
+    {
+     "s": 5,
+     "t": "A tried and tested adventurer I see."
+    },
+    {
+     "s": 5,
+     "t": "So, let's see you in action. Start wherever you like."
+    },
+    {
+     "s": 2,
+     "t": "Where there's a will, there's a way."
+    },
+    {
+     "s": 5,
+     "t": "Remember that this is a test of intellect. So should you get lucky in any way, that won't be factored in as part of the test."
+    },
+    {
+     "s": 2,
+     "t": "Wouldn't a written test suffice...?"
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "What's this?"
+    },
+    {
+     "sit": "Unfamiliar patterns."
+    },
+    {
+     "sit": "I feel like I've seen these before..."
+    },
+    {
+     "s": 5,
+     "t": "To the best of my knowledge, these belong to a script of some kind. They can be found all over Teyvat, but they've never given up their secrets."
+    },
+    {
+     "s": 5,
+     "t": "There's still a lot to learn about them, and as for why they should ever have come to rest here... A true mystery."
+    },
+    {
+     "s": 5,
+     "t": "Let me make a copy first. I'll make time to go over them in greater detail after our research."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Another thing for the \"don't understand\" list. Unsolvable mystery this, weird experiment that... It'd be nice to get some cool results for once."
+    },
+    {
+     "s": 0,
+     "t": "Seems like if you want the reward, you gotta pay the price."
+    },
+    {
+     "s": 5,
+     "t": "I've truly gained a lot from all this. Comparatively, the little reward I can offer is too small to mention."
+    },
+    {
+     "s": 5,
+     "t": "Let me return to the campsite first. By the time you get back, I may just have a fleeting miracle for you to witness."
+    },
+    {
+     "sit": "See you soon."
+    },
+    {
+     "sit": "(I take it I passed the intelligence test.)"
+    },
+    {
+     "s": 0,
+     "t": "Paimon's kinda looking forward to seeing the result of all this brain ache..."
+    },
+    {
+     "s": 0,
+     "t": "Unless you can think of anything better to do, let's head back to the campsite."
+    },
+    {
+     "s": 0,
+     "t": "(test)阿贝多离场"
+    },
+    {
+     "s": 4,
+     "t": "Not so fast. You're not leaving until I'm convinced that nothing dangerous is going on here."
+    },
+    {
+     "s": 0,
+     "t": "Wah! You! You didn't leave the mountain!?"
+    },
+    {
+     "s": 4,
+     "t": "I most certainly did not. And I've witnessed everything that you and Albedo have been up to."
+    },
+    {
+     "s": 4,
+     "t": "I must say, you let your guards down. Or maybe you were drawn in by his compelling-sounding hypothesis and friendly demeanor?"
+    },
+    {
+     "sit": "What do you mean?"
+    },
+    {
+     "sit": "He has ulterior motives?"
+    },
+    {
+     "s": 4,
+     "t": "Taking orders from a complete stranger, drinking anonymous potions, participating in all kinds of strange experiments?"
+    },
+    {
+     "s": 4,
+     "t": "I'd sooner believe you were tricked than that you would be so naive. Or perhaps... you were colluding from the beginning?"
+    },
+    {
+     "s": 0,
+     "t": "Sister Rosaria's guard's so high, she can't even see over the top of it!"
+    },
+    {
+     "sit": "I was just helping him with his research."
+    },
+    {
+     "sit": "I don't think he's a bad person."
+    },
+    {
+     "s": 4,
+     "t": "It doesn't matter what you think, he could be a saint for all you know. But I understand him a little better than you, Outlander."
+    },
+    {
+     "s": 4,
+     "t": "I'm only concerned with one thing: whether his alchemy has transformed you into something more sinister."
+    },
+    {
+     "s": 0,
+     "t": "No way! Paimon would've sensed it. And anyway, he didn't even use any alchemy..."
+    },
+    {
+     "s": 4,
+     "t": "With an alchemist of his level, you wouldn't sense a thing."
+    },
+    {
+     "s": 4,
+     "t": "In any case, I'm not about to let a potential threat back into Mondstadt."
+    },
+    {
+     "s": 0,
+     "t": "So, what're you gonna do?"
+    },
+    {
+     "s": 2,
+     "t": "You came here to be sure, so you must have your ways of assuring yourself."
+    },
+    {
+     "s": 4,
+     "t": "I've gotta hand it to you, you have your moments. If I can be sure that nothing you came into contact with is dangerous, that's good enough for me."
+    },
+    {
+     "s": 4,
+     "t": "I've investigated everything else. The only items left on the agenda are these symbols."
+    },
+    {
+     "s": 0,
+     "t": "But we don't even know what they mean!"
+    },
+    {
+     "s": 4,
+     "t": "Hmm... That much is true, not to mention... Seems like there's nothing more to them."
+    },
+    {
+     "s": 4,
+     "t": "But for insurance purposes, I'd better make a copy... Hmm. This is now a location of interest — regular patrols should be set up here."
+    },
+    {
+     "s": 4,
+     "t": "Now then. All things considered, I deem that you pose no immediate threat."
+    },
+    {
+     "s": 4,
+     "t": "Which is what I was hoping. I would have been one very unhappy Sister if you'd made me work overtime on your account."
+    },
+    {
+     "s": 0,
+     "t": "...Overtime?"
+    },
+    {
+     "s": 4,
+     "t": "Before we go our separate ways, Outlander, a word of advice. Don't be so quick to trust Albedo, and don't repeat the same mistakes that you did this time. You made a lot of rash decisions today."
+    },
+    {
+     "s": 0,
+     "t": "She's gone. So stubborn!"
+    },
+    {
+     "s": 0,
+     "t": "Mondstadt doesn't have many people like that."
+    },
+    {
+     "sit": "Maybe she just lacks security."
+    },
+    {
+     "sit": "Maybe she's just sensitive."
+    },
+    {
+     "s": 0,
+     "t": "Huh, never mind her. Let's go see Albedo!"
+    },
+    {
+     "s": 2,
+     "t": "Maybe she's just sensitive."
+    },
+    {
+     "s": 2,
+     "t": "I don't think he's a bad person."
+    },
+    {
+     "s": 2,
+     "t": "He has ulterior motives?"
+    },
+    {
+     "s": 2,
+     "t": "(I take it I passed the intelligence test.)"
+    },
+    {
+     "s": 2,
+     "t": "I feel like I've seen these before..."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 5,
+     "t": "You're back! Good timing, I've just about reached a conclusion."
+    },
+    {
+     "s": 5,
+     "t": "You took quite a while. Did you get held up on the way back?"
+    },
+    {
+     "sit": "Not really."
+    },
+    {
+     "sit": "Quite literally, by a sister no less."
+    },
+    {
+     "s": 5,
+     "t": "Time for the results. We got a myriad of data today, and it was very difficult to finish all the research in one go."
+    },
+    {
+     "s": 5,
+     "t": "But the integral preliminary conclusion that I can offer you is... You're very much like a human from this world."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "sit": "That's it?"
+    },
+    {
+     "s": 0,
+     "t": "You couldn't tell that just by looking?"
+    },
+    {
+     "s": 0,
+     "t": "We spent all day working our butts off for that!?"
+    },
+    {
+     "s": 5,
+     "t": "Please, I understand that this may have seemed self-evident to you, but in fact nothing in this world should be taken for granted."
+    },
+    {
+     "s": 5,
+     "t": "Have you ever considered that the world of Teyvat may have a natural hostility to outlanders?"
+    },
+    {
+     "sit": "Only the gods would know."
+    },
+    {
+     "sit": "Perhaps."
+    },
+    {
+     "s": 5,
+     "t": "I mentioned the natural laws of this world. You're able to converse with me here without consequence, and nothing seems amiss. But it's arguably a small miracle."
+    },
+    {
+     "s": 5,
+     "t": "The only other life form that, like you, has come here from afar, is the seed that I mentioned. Under the effects of Teyvat's natural laws, it isn't even able to sprout, let alone bloom."
+    },
+    {
+     "s": 5,
+     "t": "But after I observed you, I had another idea."
+    },
+    {
+     "s": 5,
+     "t": "Imitating you helped to inspire my alchemy, and so..."
+    },
+    {
+     "s": 0,
+     "t": "Whoa! It looks like — something's appearing!"
+    },
+    {
+     "s": 5,
+     "t": "The transition from nothing into something, from shoot to stem... And now to fruition."
+    },
+    {
+     "s": 5,
+     "t": "Is not nurturing otherworldly life also nurturing the world itself?"
+    },
+    {
+     "s": 0,
+     "t": "Aww..."
+    },
+    {
+     "sit": "It was beautiful."
+    },
+    {
+     "sit": "It was so short-lived."
+    },
+    {
+     "s": 5,
+     "t": "*sigh* It would seem that that's as far as we go. A transient bloom of incomparable beauty... Life's proudest achievement."
+    },
+    {
+     "s": 0,
+     "t": "Paimon thought, with all our efforts, it might have bloomed forever. And it didn't even have any fruit..."
+    },
+    {
+     "s": 5,
+     "t": "Life is a manifold tapestry of free entities, its value shouldn't derive from how long it stays with us. Even a momentary burst is precious."
+    },
+    {
+     "s": 5,
+     "t": "A short life can be well-lived. A life lived efficiently, lived to perfection, is necessarily one unburdened by loneliness."
+    },
+    {
+     "s": 5,
+     "t": "So, do you understand what I meant about us conversing here arguably being a small miracle?"
+    },
+    {
+     "sit": "Well, I haven't withered just yet."
+    },
+    {
+     "sit": "(I wonder how my brother(sister) is...)"
+    },
+    {
+     "s": 0,
+     "t": "Eh? Things feel a little heavy right now..."
+    },
+    {
+     "s": 0,
+     "t": "Hehehe, don't be sad, {NICKNAME}, you've got Paimon to look after you."
+    },
+    {
+     "s": 0,
+     "t": "Albedo, Paimon really wants to be your friend."
+    },
+    {
+     "s": 5,
+     "t": "...Thank you both. Even if dispelling loneliness is not essential for life, it certainly doesn't hurt."
+    },
+    {
+     "s": 5,
+     "t": "Your help inspired me to discover the means to make a flower bloom, {NICKNAME}."
+    },
+    {
+     "s": 2,
+     "t": "So I'm a helpful specimen?"
+    },
+    {
+     "s": 5,
+     "t": "I mean that the time that I've spent traveling with you in the mountains was a valuable journey for me."
+    },
+    {
+     "s": 5,
+     "t": "In the future... If the need arises... Can I solicit your help again?"
+    },
+    {
+     "s": 2,
+     "t": "Sure, even if you just want some company, find me anytime."
+    },
+    {
+     "s": 5,
+     "t": "Well... Glad I can count on you."
+    },
+    {
+     "s": 5,
+     "t": "(test)主角离开，镜头切回阿贝多"
+    },
+    {
+     "s": 5,
+     "t": "I made a point throughout of telling him(her) how ordinary the results were..."
+    },
+    {
+     "s": 5,
+     "t": "But what was that sediment I saw forming at the bottom of the vial? It should not have been there... What could it mean?"
+    },
+    {
+     "s": 5,
+     "t": "Those born of earth are bound by its imperfections, but those born of chalk are free of impurities... You and I are alike, both composed of a substance that has yet to be fully defined..."
+    },
+    {
+     "s": 5,
+     "t": "If one day, I lose control... destroy Mondstadt... destroy everything..."
+    },
+    {
+     "s": 5,
+     "t": "Can I rely on you to stop me?"
+    },
+    {
+     "s": 2,
+     "t": "(I wonder how my brother(sister) is...)"
+    },
+    {
+     "s": 2,
+     "t": "It was so short-lived."
+    },
+    {
+     "s": 2,
+     "t": "Perhaps."
+    },
+    {
+     "s": 2,
+     "t": "That's it?"
+    },
+    {
+     "s": 2,
+     "t": "Quite literally, by a sister no less."
+    },
+    {
+     "s": 5,
+     "t": "Aha, I wouldn't worry, she's just doing her job."
+    },
+    {
+     "section": "Timaeus"
+    },
+    {
+     "s": 6,
+     "t": "Sorry, there's been a lot of issues with the research, many of the inferences I collated just don't tally with the data from the experiments."
+    },
+    {
+     "s": 6,
+     "t": "On the other hand, some of the conclusions that Albedo derived from his own intuition have been borne out by the facts."
+    },
+    {
+     "s": 6,
+     "t": "I'm just glad that we've seen some progress, so uh... No reason to be dejected! Albedo said I did a good job!"
+    },
+    {
+     "s": 6,
+     "t": "If you want to hear the results in detail, you'd be better talking to him. I've got work to do."
+    }
+   ],
+   "description": "As the experiments proceed, Albedo obtains more and more data related to you, and the alchemy he envisages begins to take shape. Finally, after a simple test of your physical capabilities, the experiments draw to a close…"
+  }
+ ],
+ "speakers": [
+  "Paimon",
+  "Sucrose",
+  "Traveler",
+  "Barbara",
+  "Rosaria",
+  "Albedo",
+  "Timaeus",
+  "Examine Statue",
+  "Examine Salinized Adherent"
+ ]
+}

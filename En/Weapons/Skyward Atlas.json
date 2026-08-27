@@ -1,0 +1,704 @@
+{
+  "name": "Skyward Atlas",
+  "rarity": 5,
+  "type": "Catalyst",
+  "base_atk": 48,
+  "passive": {
+    "name": "Wandering Clouds",
+    "refinements": {
+      "R1": "Increases Elemental DMG Bonus by 12%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 160% ATK DMG. Can only occur once every 30s.",
+      "R2": "Increases Elemental DMG Bonus by 15%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 200% ATK DMG. Can only occur once every 30s.",
+      "R3": "Increases Elemental DMG Bonus by 18%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 240% ATK DMG. Can only occur once every 30s.",
+      "R4": "Increases Elemental DMG Bonus by 21%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 280% ATK DMG. Can only occur once every 30s.",
+      "R5": "Increases Elemental DMG Bonus by 24%. Normal Attack hits have a 50% chance to earn the favor of the clouds, which actively seek out nearby opponents to attack for 15s, dealing 320% ATK DMG. Can only occur once every 30s."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 48,
+      "substat": "ATK%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 2,
+      "base_atk": 52,
+      "substat": "ATK%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 3,
+      "base_atk": 56,
+      "substat": "ATK%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 4,
+      "base_atk": 61,
+      "substat": "ATK%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 5,
+      "base_atk": 65,
+      "substat": "ATK%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 6,
+      "base_atk": 69,
+      "substat": "ATK%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 7,
+      "base_atk": 74,
+      "substat": "ATK%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 8,
+      "base_atk": 78,
+      "substat": "ATK%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 9,
+      "base_atk": 83,
+      "substat": "ATK%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 10,
+      "base_atk": 87,
+      "substat": "ATK%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 11,
+      "base_atk": 92,
+      "substat": "ATK%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 12,
+      "base_atk": 96,
+      "substat": "ATK%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 13,
+      "base_atk": 101,
+      "substat": "ATK%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 14,
+      "base_atk": 106,
+      "substat": "ATK%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 15,
+      "base_atk": 110,
+      "substat": "ATK%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 16,
+      "base_atk": 115,
+      "substat": "ATK%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 17,
+      "base_atk": 119,
+      "substat": "ATK%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 18,
+      "base_atk": 124,
+      "substat": "ATK%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 19,
+      "base_atk": 129,
+      "substat": "ATK%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 20,
+      "base_atk": 133,
+      "substat": "ATK%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 21,
+      "base_atk": 169,
+      "substat": "ATK%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 22,
+      "base_atk": 174,
+      "substat": "ATK%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 23,
+      "base_atk": 179,
+      "substat": "ATK%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 24,
+      "base_atk": 183,
+      "substat": "ATK%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 25,
+      "base_atk": 188,
+      "substat": "ATK%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 26,
+      "base_atk": 193,
+      "substat": "ATK%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 27,
+      "base_atk": 197,
+      "substat": "ATK%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 28,
+      "base_atk": 202,
+      "substat": "ATK%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 29,
+      "base_atk": 207,
+      "substat": "ATK%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 30,
+      "base_atk": 212,
+      "substat": "ATK%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 31,
+      "base_atk": 217,
+      "substat": "ATK%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 32,
+      "base_atk": 221,
+      "substat": "ATK%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 33,
+      "base_atk": 226,
+      "substat": "ATK%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 34,
+      "base_atk": 231,
+      "substat": "ATK%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 35,
+      "base_atk": 236,
+      "substat": "ATK%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 36,
+      "base_atk": 241,
+      "substat": "ATK%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 37,
+      "base_atk": 246,
+      "substat": "ATK%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 38,
+      "base_atk": 251,
+      "substat": "ATK%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 39,
+      "base_atk": 256,
+      "substat": "ATK%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 40,
+      "base_atk": 261,
+      "substat": "ATK%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 41,
+      "base_atk": 297,
+      "substat": "ATK%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 42,
+      "base_atk": 302,
+      "substat": "ATK%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 43,
+      "base_atk": 306,
+      "substat": "ATK%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 44,
+      "base_atk": 311,
+      "substat": "ATK%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 45,
+      "base_atk": 316,
+      "substat": "ATK%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 46,
+      "base_atk": 321,
+      "substat": "ATK%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 47,
+      "base_atk": 326,
+      "substat": "ATK%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 48,
+      "base_atk": 331,
+      "substat": "ATK%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 49,
+      "base_atk": 336,
+      "substat": "ATK%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 50,
+      "base_atk": 341,
+      "substat": "ATK%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 51,
+      "base_atk": 378,
+      "substat": "ATK%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 52,
+      "base_atk": 383,
+      "substat": "ATK%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 53,
+      "base_atk": 388,
+      "substat": "ATK%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 54,
+      "base_atk": 393,
+      "substat": "ATK%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 55,
+      "base_atk": 398,
+      "substat": "ATK%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 56,
+      "base_atk": 403,
+      "substat": "ATK%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 57,
+      "base_atk": 408,
+      "substat": "ATK%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 58,
+      "base_atk": 413,
+      "substat": "ATK%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 59,
+      "base_atk": 418,
+      "substat": "ATK%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 60,
+      "base_atk": 423,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 61,
+      "base_atk": 460,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 62,
+      "base_atk": 465,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 63,
+      "base_atk": 470,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 64,
+      "base_atk": 475,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 65,
+      "base_atk": 480,
+      "substat": "ATK%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 66,
+      "base_atk": 485,
+      "substat": "ATK%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 67,
+      "base_atk": 491,
+      "substat": "ATK%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 68,
+      "base_atk": 496,
+      "substat": "ATK%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 69,
+      "base_atk": 501,
+      "substat": "ATK%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 70,
+      "base_atk": 506,
+      "substat": "ATK%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 71,
+      "base_atk": 543,
+      "substat": "ATK%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 72,
+      "base_atk": 548,
+      "substat": "ATK%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 73,
+      "base_atk": 553,
+      "substat": "ATK%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 74,
+      "base_atk": 558,
+      "substat": "ATK%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 75,
+      "base_atk": 563,
+      "substat": "ATK%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 76,
+      "base_atk": 569,
+      "substat": "ATK%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 77,
+      "base_atk": 574,
+      "substat": "ATK%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 78,
+      "base_atk": 579,
+      "substat": "ATK%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 79,
+      "base_atk": 585,
+      "substat": "ATK%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 80,
+      "base_atk": 590,
+      "substat": "ATK%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 81,
+      "base_atk": 626,
+      "substat": "ATK%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 82,
+      "base_atk": 632,
+      "substat": "ATK%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 83,
+      "base_atk": 637,
+      "substat": "ATK%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 84,
+      "base_atk": 642,
+      "substat": "ATK%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 85,
+      "base_atk": 648,
+      "substat": "ATK%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 86,
+      "base_atk": 653,
+      "substat": "ATK%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 87,
+      "base_atk": 658,
+      "substat": "ATK%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 88,
+      "base_atk": 664,
+      "substat": "ATK%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 89,
+      "base_atk": 669,
+      "substat": "ATK%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 90,
+      "base_atk": 674,
+      "substat": "ATK%",
+      "substat_value": 33.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Milk Tooth",
+          "id": 114005,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Dead Ley Line Branch",
+          "id": 112020,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Firm Arrowhead",
+          "id": 112011,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Cracked Tooth",
+          "id": 114006,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "Dead Ley Line Branch",
+          "id": 112020,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "Firm Arrowhead",
+          "id": 112011,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Cracked Tooth",
+          "id": 114006,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Dead Ley Line Leaves",
+          "id": 112021,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "id": 112012,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Broken Fang",
+          "id": 114007,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "Dead Ley Line Leaves",
+          "id": 112021,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "Sharp Arrowhead",
+          "id": 112012,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Broken Fang",
+          "id": 114007,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "Ley Line Sprout",
+          "id": 112022,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "id": 112013,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "Boreal Wolf's Nostalgia",
+          "id": 114008,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "Ley Line Sprout",
+          "id": 112022,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "Weathered Arrowhead",
+          "id": 112013,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

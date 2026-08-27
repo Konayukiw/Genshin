@@ -1,0 +1,488 @@
+{
+ "chapter": "The Chasm Delvers",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Chasm Spelunkers",
+ "region": null,
+ "quests": [
+  {
+   "title": "Chasm Spelunkers",
+   "dialogue": [
+    {
+     "section": "Zhiqiong, Jinwu, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Phew, this air sure is familiar! It's been a long time since I came down into these mines."
+    },
+    {
+     "s": 1,
+     "t": "Don't get careless, Qiong. I for one smell something unfamiliar."
+    },
+    {
+     "s": 0,
+     "t": "I mean, we couldn't jump straight down. Maybe we were just distracted by the swaying of the crane."
+    },
+    {
+     "s": 1,
+     "t": "You... You've spent too much time above ground."
+    },
+    {
+     "s": 2,
+     "t": "Paimon didn't smell anything at all... Do all of you miners have such keen noses?"
+    },
+    {
+     "s": 0,
+     "t": "Haha! A lack of a good nose could forfeit you your life down here! That said, we should still be fine. The finches are still quite lively."
+    },
+    {
+     "s": 1,
+     "t": "Look, the Lumenspar has grown all the way down here too. That wasn't the case the last time we came down here."
+    },
+    {
+     "s": 0,
+     "t": "Wow, that really did happen! Let's go have a look!"
+    },
+    {
+     "s": 2,
+     "t": "Y'know... it feels like someone just stole Paimon's thunder."
+    },
+    {
+     "section": "Jinwu, Zhiqiong, Paimon"
+    },
+    {
+     "s": 1,
+     "t": "To think that Lumenspar would appear so close to the surface. I was always of the opinion that these things could not appear in more structurally vulnerable locations."
+    },
+    {
+     "s": 0,
+     "t": "They are fragments of that \"thing\" underground, traveling up the veins of the rock before finally arriving here."
+    },
+    {
+     "s": 1,
+     "t": "Hey! Stop spouting nonsense. They were originally rocks from the local area, which is why they became like this. They just underwent some kind of transformation process and formed crystals, that's all."
+    },
+    {
+     "s": 1,
+     "t": "The analyses that the Qixing commissioned us to conduct reveal that they are by and large made of ore from the local area. They've just been affected by some outside force, thus creating these strange crystals."
+    },
+    {
+     "s": 2,
+     "t": "Huh, look over there! That crystal looks just like the Adjuvant you have with you, {NICKNAME}!"
+    },
+    {
+     "s": 2,
+     "t": "Why don't you take the Lumenstone Adjuvant and have a look, {NICKNAME}?"
+    },
+    {
+     "s": 1,
+     "t": "That's right. The Adjuvant is made of the same material as these crystals. These formations will thus naturally react to one another on account of that similarity."
+    },
+    {
+     "sit": "How very strange..."
+    },
+    {
+     "sit": "That's pretty amazing..."
+    },
+    {
+     "s": 2,
+     "t": "Hey, is that all you have to say?"
+    },
+    {
+     "s": 1,
+     "t": "Um, don't fight, you two..."
+    },
+    {
+     "sit": "We're not fighting..."
+    },
+    {
+     "s": 2,
+     "t": "Yeah, we're not..."
+    },
+    {
+     "s": 1,
+     "t": "What I mean to say is that it doesn't matter whether you're fighting or not. Zhiqiong and I need to set up a temporary camp up ahead, so don't run off while we're doing that."
+    },
+    {
+     "s": 1,
+     "t": "The crystals we discovered will be very useful for our subsequent exploration. If you find anything after this, please make sure to contact me."
+    },
+    {
+     "s": 1,
+     "t": "My skills haven't rusted away just yet, so I can help you process some of the raw ore. I believe that it'll prove quite useful to you in your adventures."
+    },
+    {
+     "s": 1,
+     "t": "And, um, also... don't fight, alright?"
+    },
+    {
+     "s": 2,
+     "t": "Got it, got it!"
+    },
+    {
+     "sit": "Understood."
+    },
+    {
+     "s": 1,
+     "t": "That's a good pair of kiddos. I'll get you some candy later. Anyway, if you find anything strange nearby, please report it in a timely fashion."
+    },
+    {
+     "s": 0,
+     "t": "Actually, do you remember what Jinwu said the last time about Uncle He..."
+    },
+    {
+     "s": 1,
+     "t": "I haven't forgotten. And since you're here, {NICKNAME}, could you help me out once again?"
+    },
+    {
+     "s": 1,
+     "t": "Uncle He is our senior here in the mines. Several years ago, he was one of those who went missing when we Chasm miners were dispersed. He's hard of hearing, and may not have heard the alerts."
+    },
+    {
+     "s": 1,
+     "t": "The pensions from Huishan Hall and Shenglu Hall are quite generous, and his family has already long arranged for his funeral... But although I'm not much of a believer in the supernatural, I can't help but feel that he's still alive down here somewhere."
+    },
+    {
+     "s": 1,
+     "t": "He really was an old hand. Whether it be avoiding disasters in the mine, how to escape, how to wait for rescue... He knew it all. Taught me a lot of it, too."
+    },
+    {
+     "s": 1,
+     "t": "That's why I believe that he must be alive in here somewhere, even now... I won't give up searching for him."
+    },
+    {
+     "s": 1,
+     "t": "I'll point you to a few places where he was sighted before we dispersed... Who knows? You might still be able to find some clues there."
+    },
+    {
+     "s": 0,
+     "t": "As for me, I'll be exploring the deeper parts of the mining caverns."
+    },
+    {
+     "s": 1,
+     "t": "Oh yes, don't forget your candy, now!"
+    },
+    {
+     "sit": "You're not coming with us?"
+    },
+    {
+     "sit": "Stay safe."
+    },
+    {
+     "s": 1,
+     "t": "She still needs to help us draw some maps. The pathways of The Chasm's underground mines are intricate and complex, and we won't get very far at all without those maps."
+    },
+    {
+     "section": "Jinwu"
+    },
+    {
+     "s": 1,
+     "t": "I believe that Zhiqiong should more or less be done with the map by the time you return."
+    },
+    {
+     "s": 1,
+     "t": "However, I still need to wait for the transport team above ground to shift our tools down here, so you're free to explore for the time being."
+    },
+    {
+     "section": "Jinwu"
+    },
+    {
+     "s": 1,
+     "t": "Oh, you're back."
+    },
+    {
+     "sit": "Uncle He left this behind."
+    },
+    {
+     "s": 1,
+     "t": "Huh? He did, did he? Go on then, tell me!"
+    },
+    {
+     "sit": "You tell Jinwu about what you found earlier."
+    },
+    {
+     "s": 1,
+     "t": "Umm... Black Magma... Lumenstone... and mushrooms?"
+    },
+    {
+     "s": 1,
+     "t": "Huh. That's weird, and a familiar sort of weird, too. Let's head back to the encampment. It would be best not to linger here."
+    },
+    {
+     "section": "Jinwu, Paimon"
+    },
+    {
+     "s": 1,
+     "t": "Here we are. Strange... where'd Zhiqiong run off to..."
+    },
+    {
+     "s": 1,
+     "t": "Hey! Zhiqiong! Zhiqiong!"
+    },
+    {
+     "s": 1,
+     "t": "*sigh* I'll wager she's gone running off to some other corner of this place to draw her maps again..."
+    },
+    {
+     "sit": "What's up?"
+    },
+    {
+     "sit": "Is Zhiqiong in danger?"
+    },
+    {
+     "s": 1,
+     "t": "She drew this just after you left."
+    },
+    {
+     "s": 1,
+     "t": "She's probably gone deeper in to explore. Please tell her for me that she should quit leaving everyone else behind to go running off by herself."
+    },
+    {
+     "s": 1,
+     "t": "If anything bad happens, we're all gonna get dragged down with her. Jinwu's fist will know no mercy, I tell you."
+    },
+    {
+     "s": 2,
+     "t": "That sounds... scary..."
+    },
+    {
+     "sit": "Pretty scary indeed."
+    },
+    {
+     "s": 1,
+     "t": "Alright, then. Less idle talk, more action. You can either help me set up here, or you can go scout ahead."
+    },
+    {
+     "s": 1,
+     "t": "Sorry if I'm not the most courteous character. I just want the things I do to be of use to everyone."
+    },
+    {
+     "s": 1,
+     "t": "Ah yes, by the way, if you see some raw Lumenstone ore along the way, bring some to me."
+    },
+    {
+     "s": 1,
+     "t": "I will find some way to turn them into more effective Adjuvants. As far as my experience can tell me, these things will be very useful down in the mines."
+    },
+    {
+     "section": "Zhiqiong, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Ah, it's you, {NICKNAME}! You're here!"
+    },
+    {
+     "sit": "Jinwu has some words for you..."
+    },
+    {
+     "sit": "What are you doing here again?"
+    },
+    {
+     "s": 0,
+     "t": "It's that whole spiel about safety again, isn't it? I'm sick of hearing it already."
+    },
+    {
+     "s": 0,
+     "t": "I grew up in the mines too. What wouldn't I know about the hazards down here, huh?"
+    },
+    {
+     "s": 0,
+     "t": "As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead."
+    },
+    {
+     "s": 0,
+     "t": "I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?"
+    },
+    {
+     "s": 0,
+     "t": "If Iris was able to scare you off climbing Dragonspine just by giving you the standard safety talk, you would've missed out on so much adventure!"
+    },
+    {
+     "s": 0,
+     "t": "Alright, stop trying to persuade me. I don't want to argue with you over something this dumb. Can we just, you know, change the topic?"
+    },
+    {
+     "s": 0,
+     "t": "I mean, look over here. I'm currently studying the terrain over here, all the better to draw our maps..."
+    },
+    {
+     "s": 0,
+     "t": "It's just that... I found that the way ahead is blocked by some... strange stuff."
+    },
+    {
+     "s": 0,
+     "t": "If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased."
+    },
+    {
+     "s": 0,
+     "t": "I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!"
+    },
+    {
+     "s": 0,
+     "t": "Also, there are a few other spots... Yup. Here, and here. I found the tracks of Treasure Hoarders in these areas..."
+    },
+    {
+     "s": 2,
+     "t": "Sorry, which place is where now? Paimon didn't understand you at all!"
+    },
+    {
+     "sit": "You just drew a bunch of Xs and lines..."
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography."
+    },
+    {
+     "s": 0,
+     "t": "But it's alright, I will follow you and show the way ahead."
+    },
+    {
+     "s": 0,
+     "t": "We can approach any of these few locations first, so pick whichever you like."
+    },
+    {
+     "sit": "In that case, let's go."
+    },
+    {
+     "sit": "Be careful while we're on the move."
+    },
+    {
+     "section": "Zhiqiong, Paimon"
+    },
+    {
+     "s": 0,
+     "t": "Ah, it's you, {NICKNAME}! You're here!"
+    },
+    {
+     "sit": "Jinwu has some words for you..."
+    },
+    {
+     "sit": "What are you doing here again?"
+    },
+    {
+     "s": 0,
+     "t": "It's that whole spiel about safety again, isn't it? I'm sick of hearing it already."
+    },
+    {
+     "s": 0,
+     "t": "I grew up in the mines too. What wouldn't I know about the hazards down here, huh?"
+    },
+    {
+     "s": 0,
+     "t": "As for any unknown dangers... Eh, our seniors always used to use their experience to judge whether things were dangerous or not. And in the end, they'd use the results to rationalize their experiences instead."
+    },
+    {
+     "s": 0,
+     "t": "I've had it up to here with their arrogance. I'm sure you feel similarly as a senior adventurer, don't you?"
+    },
+    {
+     "s": 0,
+     "t": "Alright, stop trying to persuade me. I don't want to argue with you over something this dumb. Can we just, you know, change the topic?"
+    },
+    {
+     "s": 0,
+     "t": "I mean, look over here. I'm currently studying the terrain over here, all the better to draw our maps..."
+    },
+    {
+     "s": 0,
+     "t": "It's just that... I found that the way ahead is blocked by some... strange stuff."
+    },
+    {
+     "s": 0,
+     "t": "If you could take some samples or pictures of it, I'm sure that both the Ministry of Civil Affairs and the Adventurers' Guild would be quite pleased."
+    },
+    {
+     "s": 0,
+     "t": "I would have done it, but... I dropped my Kamera while descending into the mines, so I can only rely on you now, hehe!"
+    },
+    {
+     "s": 0,
+     "t": "Also, there are a few other spots... Yup. Here, and here. I found the tracks of Treasure Hoarders in these areas..."
+    },
+    {
+     "s": 2,
+     "t": "Sorry, which place is where now? Paimon didn't understand you at all!"
+    },
+    {
+     "sit": "You just drew a bunch of Xs and lines..."
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, sorry... Just a force of habit. I always forget that not everyone is born with a natural instinct for cartography."
+    },
+    {
+     "s": 0,
+     "t": "But it's alright, I will follow you and show the way ahead."
+    },
+    {
+     "s": 0,
+     "t": "We can approach any of these few locations first, so pick whichever you like."
+    },
+    {
+     "sit": "In that case, let's go."
+    },
+    {
+     "sit": "Be careful while we're on the move."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 0,
+     "t": "This is all thanks to you. Please, take this."
+    },
+    {
+     "sit": "Thank you."
+    },
+    {
+     "s": 0,
+     "t": "Ah, come on, there's no need to be so polite. I mean, Khedive's the one forking out the Mora! Oh, wait, shh... Best we be quiet, lest that stingy scholar from Sumeru hears us."
+    },
+    {
+     "s": 0,
+     "t": "*cough* Ahem. Shall we go and look for Jinwu? We can probably probe her experienced mind concerning some of the questions we had on the way."
+    },
+    {
+     "s": 0,
+     "t": "Alright, I won't keep you any longer."
+    },
+    {
+     "section": "Zhiqiong"
+    },
+    {
+     "s": 0,
+     "t": "This is all thanks to you. Please, take this."
+    },
+    {
+     "sit": "Thanks."
+    },
+    {
+     "s": 0,
+     "t": "Ah, come on, there's no need to be so polite. I mean, Khedive's the one forking out the Mora! Oh, wait, shh... Best we be quiet, lest that stingy scholar from Sumeru hears us."
+    },
+    {
+     "s": 0,
+     "t": "*cough* Ahem. Shall we go and look for Jinwu? We can probably probe her experienced mind concerning some of the questions we had on the way."
+    },
+    {
+     "s": 0,
+     "t": "You know something? Jinwu doesn't like talking about this, but just like how you're famous for your exploits on Dragonspine, she was also quite the famous figure down at the mines... *cough*"
+    },
+    {
+     "s": 0,
+     "t": "I heard that she helped to guide the Millelith search parties, and that they saved a lot of people together. Still, those things are in the past now. I shan't mention them too much, lest she gets mad again."
+    },
+    {
+     "s": 0,
+     "t": "Alright, I won't keep you any longer."
+    }
+   ],
+   "description": "Now that you have destroyed the Bedrock Keys, the seal on The Chasm has now come undone. It is time to venture into the depths below."
+  }
+ ],
+ "speakers": [
+  "Zhiqiong",
+  "Jinwu",
+  "Paimon"
+ ]
+}

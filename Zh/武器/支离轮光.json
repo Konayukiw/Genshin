@@ -1,0 +1,704 @@
+{
+  "name": "支离轮光",
+  "rarity": 5,
+  "type": "长柄武器",
+  "base_atk": 46,
+  "passive": {
+    "name": "洁霜的玉冕",
+    "refinements": {
+      "R1": "施放元素战技或元素爆发后的20秒内，攻击力提升24%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升40%。",
+      "R2": "施放元素战技或元素爆发后的20秒内，攻击力提升30%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升50%。",
+      "R3": "施放元素战技或元素爆发后的20秒内，攻击力提升36%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升60%。",
+      "R4": "施放元素战技或元素爆发后的20秒内，攻击力提升42%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升70%。",
+      "R5": "施放元素战技或元素爆发后的20秒内，攻击力提升48%。持续期间内，若装备者创造了护盾，则接下来的20秒内，还会获得「流电圣敕」效果：队伍中附近所有角色触发的月感电反应造成的伤害提升80%。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 46,
+      "substat": "CRIT DMG%",
+      "substat_value": 14.4
+    },
+    {
+      "level": 2,
+      "base_atk": 50,
+      "substat": "CRIT DMG%",
+      "substat_value": 14.4
+    },
+    {
+      "level": 3,
+      "base_atk": 54,
+      "substat": "CRIT DMG%",
+      "substat_value": 14.4
+    },
+    {
+      "level": 4,
+      "base_atk": 58,
+      "substat": "CRIT DMG%",
+      "substat_value": 14.4
+    },
+    {
+      "level": 5,
+      "base_atk": 62,
+      "substat": "CRIT DMG%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 6,
+      "base_atk": 66,
+      "substat": "CRIT DMG%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 7,
+      "base_atk": 70,
+      "substat": "CRIT DMG%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 8,
+      "base_atk": 74,
+      "substat": "CRIT DMG%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 9,
+      "base_atk": 78,
+      "substat": "CRIT DMG%",
+      "substat_value": 16.7
+    },
+    {
+      "level": 10,
+      "base_atk": 82,
+      "substat": "CRIT DMG%",
+      "substat_value": 19.6
+    },
+    {
+      "level": 11,
+      "base_atk": 86,
+      "substat": "CRIT DMG%",
+      "substat_value": 19.6
+    },
+    {
+      "level": 12,
+      "base_atk": 90,
+      "substat": "CRIT DMG%",
+      "substat_value": 19.6
+    },
+    {
+      "level": 13,
+      "base_atk": 94,
+      "substat": "CRIT DMG%",
+      "substat_value": 19.6
+    },
+    {
+      "level": 14,
+      "base_atk": 98,
+      "substat": "CRIT DMG%",
+      "substat_value": 19.6
+    },
+    {
+      "level": 15,
+      "base_atk": 102,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.5
+    },
+    {
+      "level": 16,
+      "base_atk": 106,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.5
+    },
+    {
+      "level": 17,
+      "base_atk": 110,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.5
+    },
+    {
+      "level": 18,
+      "base_atk": 114,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.5
+    },
+    {
+      "level": 19,
+      "base_atk": 118,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.5
+    },
+    {
+      "level": 20,
+      "base_atk": 122,
+      "substat": "CRIT DMG%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 21,
+      "base_atk": 157,
+      "substat": "CRIT DMG%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 22,
+      "base_atk": 161,
+      "substat": "CRIT DMG%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 23,
+      "base_atk": 165,
+      "substat": "CRIT DMG%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 24,
+      "base_atk": 169,
+      "substat": "CRIT DMG%",
+      "substat_value": 25.4
+    },
+    {
+      "level": 25,
+      "base_atk": 173,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.4
+    },
+    {
+      "level": 26,
+      "base_atk": 177,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.4
+    },
+    {
+      "level": 27,
+      "base_atk": 181,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.4
+    },
+    {
+      "level": 28,
+      "base_atk": 185,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.4
+    },
+    {
+      "level": 29,
+      "base_atk": 190,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.4
+    },
+    {
+      "level": 30,
+      "base_atk": 194,
+      "substat": "CRIT DMG%",
+      "substat_value": 31.3
+    },
+    {
+      "level": 31,
+      "base_atk": 198,
+      "substat": "CRIT DMG%",
+      "substat_value": 31.3
+    },
+    {
+      "level": 32,
+      "base_atk": 202,
+      "substat": "CRIT DMG%",
+      "substat_value": 31.3
+    },
+    {
+      "level": 33,
+      "base_atk": 206,
+      "substat": "CRIT DMG%",
+      "substat_value": 31.3
+    },
+    {
+      "level": 34,
+      "base_atk": 210,
+      "substat": "CRIT DMG%",
+      "substat_value": 31.3
+    },
+    {
+      "level": 35,
+      "base_atk": 214,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.2
+    },
+    {
+      "level": 36,
+      "base_atk": 219,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.2
+    },
+    {
+      "level": 37,
+      "base_atk": 223,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.2
+    },
+    {
+      "level": 38,
+      "base_atk": 227,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.2
+    },
+    {
+      "level": 39,
+      "base_atk": 231,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.2
+    },
+    {
+      "level": 40,
+      "base_atk": 235,
+      "substat": "CRIT DMG%",
+      "substat_value": 37.1
+    },
+    {
+      "level": 41,
+      "base_atk": 270,
+      "substat": "CRIT DMG%",
+      "substat_value": 37.1
+    },
+    {
+      "level": 42,
+      "base_atk": 275,
+      "substat": "CRIT DMG%",
+      "substat_value": 37.1
+    },
+    {
+      "level": 43,
+      "base_atk": 279,
+      "substat": "CRIT DMG%",
+      "substat_value": 37.1
+    },
+    {
+      "level": 44,
+      "base_atk": 283,
+      "substat": "CRIT DMG%",
+      "substat_value": 37.1
+    },
+    {
+      "level": 45,
+      "base_atk": 287,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.0
+    },
+    {
+      "level": 46,
+      "base_atk": 292,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.0
+    },
+    {
+      "level": 47,
+      "base_atk": 296,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.0
+    },
+    {
+      "level": 48,
+      "base_atk": 300,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.0
+    },
+    {
+      "level": 49,
+      "base_atk": 304,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.0
+    },
+    {
+      "level": 50,
+      "base_atk": 308,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.9
+    },
+    {
+      "level": 51,
+      "base_atk": 344,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.9
+    },
+    {
+      "level": 52,
+      "base_atk": 348,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.9
+    },
+    {
+      "level": 53,
+      "base_atk": 352,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.9
+    },
+    {
+      "level": 54,
+      "base_atk": 357,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.9
+    },
+    {
+      "level": 55,
+      "base_atk": 361,
+      "substat": "CRIT DMG%",
+      "substat_value": 45.8
+    },
+    {
+      "level": 56,
+      "base_atk": 365,
+      "substat": "CRIT DMG%",
+      "substat_value": 45.8
+    },
+    {
+      "level": 57,
+      "base_atk": 370,
+      "substat": "CRIT DMG%",
+      "substat_value": 45.8
+    },
+    {
+      "level": 58,
+      "base_atk": 374,
+      "substat": "CRIT DMG%",
+      "substat_value": 45.8
+    },
+    {
+      "level": 59,
+      "base_atk": 378,
+      "substat": "CRIT DMG%",
+      "substat_value": 45.8
+    },
+    {
+      "level": 60,
+      "base_atk": 382,
+      "substat": "CRIT DMG%",
+      "substat_value": 48.7
+    },
+    {
+      "level": 61,
+      "base_atk": 418,
+      "substat": "CRIT DMG%",
+      "substat_value": 48.7
+    },
+    {
+      "level": 62,
+      "base_atk": 422,
+      "substat": "CRIT DMG%",
+      "substat_value": 48.7
+    },
+    {
+      "level": 63,
+      "base_atk": 427,
+      "substat": "CRIT DMG%",
+      "substat_value": 48.7
+    },
+    {
+      "level": 64,
+      "base_atk": 431,
+      "substat": "CRIT DMG%",
+      "substat_value": 48.7
+    },
+    {
+      "level": 65,
+      "base_atk": 435,
+      "substat": "CRIT DMG%",
+      "substat_value": 51.6
+    },
+    {
+      "level": 66,
+      "base_atk": 440,
+      "substat": "CRIT DMG%",
+      "substat_value": 51.6
+    },
+    {
+      "level": 67,
+      "base_atk": 444,
+      "substat": "CRIT DMG%",
+      "substat_value": 51.6
+    },
+    {
+      "level": 68,
+      "base_atk": 448,
+      "substat": "CRIT DMG%",
+      "substat_value": 51.6
+    },
+    {
+      "level": 69,
+      "base_atk": 453,
+      "substat": "CRIT DMG%",
+      "substat_value": 51.6
+    },
+    {
+      "level": 70,
+      "base_atk": 457,
+      "substat": "CRIT DMG%",
+      "substat_value": 54.5
+    },
+    {
+      "level": 71,
+      "base_atk": 492,
+      "substat": "CRIT DMG%",
+      "substat_value": 54.5
+    },
+    {
+      "level": 72,
+      "base_atk": 497,
+      "substat": "CRIT DMG%",
+      "substat_value": 54.5
+    },
+    {
+      "level": 73,
+      "base_atk": 501,
+      "substat": "CRIT DMG%",
+      "substat_value": 54.5
+    },
+    {
+      "level": 74,
+      "base_atk": 506,
+      "substat": "CRIT DMG%",
+      "substat_value": 54.5
+    },
+    {
+      "level": 75,
+      "base_atk": 510,
+      "substat": "CRIT DMG%",
+      "substat_value": 57.4
+    },
+    {
+      "level": 76,
+      "base_atk": 515,
+      "substat": "CRIT DMG%",
+      "substat_value": 57.4
+    },
+    {
+      "level": 77,
+      "base_atk": 519,
+      "substat": "CRIT DMG%",
+      "substat_value": 57.4
+    },
+    {
+      "level": 78,
+      "base_atk": 523,
+      "substat": "CRIT DMG%",
+      "substat_value": 57.4
+    },
+    {
+      "level": 79,
+      "base_atk": 528,
+      "substat": "CRIT DMG%",
+      "substat_value": 57.4
+    },
+    {
+      "level": 80,
+      "base_atk": 532,
+      "substat": "CRIT DMG%",
+      "substat_value": 60.3
+    },
+    {
+      "level": 81,
+      "base_atk": 568,
+      "substat": "CRIT DMG%",
+      "substat_value": 60.3
+    },
+    {
+      "level": 82,
+      "base_atk": 572,
+      "substat": "CRIT DMG%",
+      "substat_value": 60.3
+    },
+    {
+      "level": 83,
+      "base_atk": 577,
+      "substat": "CRIT DMG%",
+      "substat_value": 60.3
+    },
+    {
+      "level": 84,
+      "base_atk": 581,
+      "substat": "CRIT DMG%",
+      "substat_value": 60.3
+    },
+    {
+      "level": 85,
+      "base_atk": 586,
+      "substat": "CRIT DMG%",
+      "substat_value": 63.2
+    },
+    {
+      "level": 86,
+      "base_atk": 590,
+      "substat": "CRIT DMG%",
+      "substat_value": 63.2
+    },
+    {
+      "level": 87,
+      "base_atk": 595,
+      "substat": "CRIT DMG%",
+      "substat_value": 63.2
+    },
+    {
+      "level": 88,
+      "base_atk": 599,
+      "substat": "CRIT DMG%",
+      "substat_value": 63.2
+    },
+    {
+      "level": 89,
+      "base_atk": 604,
+      "substat": "CRIT DMG%",
+      "substat_value": 63.2
+    },
+    {
+      "level": 90,
+      "base_atk": 608,
+      "substat": "CRIT DMG%",
+      "substat_value": 66.2
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "贡祭炽心的惶恐",
+          "id": 114061,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "冷裂壳块",
+          "id": 112119,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "稚嫩的尖齿",
+          "id": 112101,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "贡祭炽心的踌躇",
+          "id": 114062,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "冷裂壳块",
+          "id": 112119,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "稚嫩的尖齿",
+          "id": 112101,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "贡祭炽心的踌躇",
+          "id": 114062,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "蕴热的背壳",
+          "id": 112120,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "老练的坚齿",
+          "id": 112102,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "贡祭炽心的决绝",
+          "id": 114063,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "蕴热的背壳",
+          "id": 112120,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "老练的坚齿",
+          "id": 112102,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "贡祭炽心的决绝",
+          "id": 114063,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "明燃的棱状壳",
+          "id": 112121,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "横行霸者的利齿",
+          "id": 112103,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "贡祭炽心的荣膺",
+          "id": 114064,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "明燃的棱状壳",
+          "id": 112121,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "横行霸者的利齿",
+          "id": 112103,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ]
+}

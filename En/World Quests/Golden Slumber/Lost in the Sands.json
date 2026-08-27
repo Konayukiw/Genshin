@@ -1,0 +1,1854 @@
+{
+ "chapter": "Golden Slumber",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "Lost in the Sands",
+ "region": null,
+ "quests": [
+  {
+   "title": "Lost in the Sands",
+   "dialogue": [
+    {
+     "section": "Paimon, Bonifaz"
+    },
+    {
+     "s": 0,
+     "t": "Oh! Hello there! Judging from your attire, I take it you're not from around here? We don't get a lot of other outsiders here, I clocked you as being from somewhere else the moment I laid eyes on you."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* Making a living here is tough for outsiders."
+    },
+    {
+     "s": 1,
+     "t": "From what you're saying... You're also from somewhere else, aren't you?"
+    },
+    {
+     "s": 0,
+     "t": "You can tell? My name's Bonifaz. My associate and I traveled to Sumeru City from Mondstadt to trade in some supplies. We're in the desert on the request of a researcher from the Akademiya."
+    },
+    {
+     "s": 1,
+     "t": "You came to the desert from Mondstadt to do business...?"
+    },
+    {
+     "s": 0,
+     "t": "Of course. Since you managed to make your way to a place as remote as this, you two must have been around the block too, I suppose?"
+    },
+    {
+     "s": 1,
+     "t": "Of course! And we know your hometown pretty well too!"
+    },
+    {
+     "s": 0,
+     "t": "Well now! Then speaking of which, you must also know what sets us Mondstadters apart from others."
+    },
+    {
+     "sit": "Freedom."
+    },
+    {
+     "sit": "You drink like fish."
+    },
+    {
+     "s": 0,
+     "t": "That's right! What we Mondstadters value most of all is freedom."
+    },
+    {
+     "s": 0,
+     "t": "How does that saying go again?"
+    },
+    {
+     "sit": "\"Go with the wind\"!"
+    },
+    {
+     "s": 1,
+     "t": "...Come on, it's actually \"let the wind lead\"!"
+    },
+    {
+     "s": 0,
+     "t": "Yes, right, right! That's the one!"
+    },
+    {
+     "s": 0,
+     "t": "When the north wind began to blow, some dandelion seeds were blown across the sea to Inazuma, while others were swept away to Liyue."
+    },
+    {
+     "s": 0,
+     "t": "As for me, I guess I was favored by the Anemo Archon. I didn't stop at Liyue and got blown all the way to Sumeru."
+    },
+    {
+     "s": 0,
+     "t": "The climate and way of life here might be a far cry from that of Mondstadt, but I'm here, and I intend to make the best of things."
+    },
+    {
+     "s": 1,
+     "t": "Paimon gets it... But you just said that it's hard for outsiders to make a living here, right? Did something happen?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, well, I accepted that Akademiya researcher's commission, didn't I...?"
+    },
+    {
+     "s": 0,
+     "t": "Tirzad — that's the researcher's name. He took two mercenaries with him to look for some ruins, probably for some archaeological research. I don't really know much about Akademiya stuff."
+    },
+    {
+     "s": 0,
+     "t": "In addition to providing them with some supplies, my associate and I also rented a few Sumpter Beasts out to them."
+    },
+    {
+     "s": 0,
+     "t": "Nachtigal, my associate, was worried that they'd struggle to steer the Sumpter Beasts, so he decided to go with them."
+    },
+    {
+     "s": 0,
+     "t": "We originally arranged to use a Dusk Bird to send messages every once in a while, so that I could be informed of their progress or raise supplies to send to them as the situation required."
+    },
+    {
+     "s": 0,
+     "t": "We did exchange messages this way at first, but I haven't heard a peep from them for the last two days..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon hopes there wasn't any sort of accident..."
+    },
+    {
+     "s": 0,
+     "t": "That's what I've been worrying about! That's why I was thinking about posting a commission with the Adventurers' Guild, but as they say, what good's a distant well when you're already parched..."
+    },
+    {
+     "s": 1,
+     "t": "Oh? Well, isn't this a coincidence!"
+    },
+    {
+     "sit": "We're licensed adventurers."
+    },
+    {
+     "sit": "\"Ad astra abyssosque...\""
+    },
+    {
+     "s": 0,
+     "t": "So, you're young adventurers! But the desert is still a dangerous place. Wouldn't it be better for locals or adventurers with more experience to do this..."
+    },
+    {
+     "s": 1,
+     "t": "Are you underestimating us? Hmph! You've left Mondstadt, so maybe you're out of the loop..."
+    },
+    {
+     "s": 1,
+     "t": "But you should know that {NICKNAME} isn't just any ordinary adventurer. She's(He's) an Honorary Knight of the Knights of Favonius!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Wait. Then you must be... the celebrated {NICKNAME}...?"
+    },
+    {
+     "s": 1,
+     "t": "Oh! Then you have heard? That's right, this is the renowned {NICKNAME}! And Paimon is the famed Paimon!"
+    },
+    {
+     "s": 0,
+     "t": "Goodness gracious! Please excuse my rudeness! I never expected to meet a big hero in a place like this! And... And a little hero, too!"
+    },
+    {
+     "s": 0,
+     "t": "In that case, I have nothing more to say. I just worry that you may have some other important missions at hand, like saving a city or something, and don't have the time for a menial commission like this one..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... It's not like we're always doing over-the-top stuff like that... We take ordinary commissions, too!"
+    },
+    {
+     "s": 0,
+     "t": "You mean you'll take this commission? That's fantastic! I knew heroes had hearts of gold. Of course you wouldn't turn your backs on someone at death's very door!"
+    },
+    {
+     "s": 1,
+     "t": "We haven't agreed to anything yet... And anyway, don't just throw \"death\" around like that, you'll jinx people!"
+    },
+    {
+     "s": 0,
+     "t": "Ah... Then I'll just have to return to the city alone and submit a commission to the Adventurers' Guild... But by the time someone accepts the commission, those four could already be... Alas..."
+    },
+    {
+     "s": 1,
+     "t": "Hmm..."
+    },
+    {
+     "s": 0,
+     "t": "If you two could take a little time out of your busy schedules to take this commission, I'll definitely come up with some way to make it worth your while! Right, that researcher from the Akademiya is also quite the generous client..."
+    },
+    {
+     "s": 0,
+     "t": "I can picture it now: Just as they run into some trouble, {NICKNAME}, a true hero, descends from the heavens to save them!"
+    },
+    {
+     "s": 0,
+     "t": "That should secure you double the payment, right? This deal is a sure bet!"
+    },
+    {
+     "s": 1,
+     "t": "Hm... What do you think we should do, {NICKNAME}?"
+    },
+    {
+     "sit": "If they're in danger, we have to help them."
+    },
+    {
+     "sit": "We'll do it for the Mora."
+    },
+    {
+     "s": 0,
+     "t": "Great, fantastic! There's hope for my Cyrus yet!"
+    },
+    {
+     "s": 1,
+     "t": "...\"Cyrus\"?"
+    },
+    {
+     "s": 0,
+     "t": "Yes, Cyrus is the name of one of the Sumpter Beasts I rented to them."
+    },
+    {
+     "s": 1,
+     "t": "Huh? \"Cyrus\"? But isn't that..."
+    },
+    {
+     "sit": "Does the actual Cyrus know about this?"
+    },
+    {
+     "s": 0,
+     "t": "...Huh? W—Well..."
+    },
+    {
+     "s": 0,
+     "t": "...Haha, it's fine, just don't tell him! No one will know!"
+    },
+    {
+     "s": 0,
+     "t": "Ahem, anyway, the researcher and the others left the village and headed west. The trails here are a bit hard to make out, but you should be able to find them by following the footprints."
+    },
+    {
+     "s": 0,
+     "t": "I'll leave the rest to you two!"
+    },
+    {
+     "section": "Omid"
+    },
+    {
+     "s": 2,
+     "t": "I just wanted to make some easy Mora so that I could start a business, but the job almost cost me my life..."
+    },
+    {
+     "section": "Mirsad"
+    },
+    {
+     "s": 3,
+     "t": "I thought it'd be a short and even bland trip into the desert. But we instead got ourselves into something so crazy. It was a little scary, but I can't say I dislike it."
+    },
+    {
+     "section": "Bonifaz"
+    },
+    {
+     "s": 0,
+     "t": "Nachtigal doesn't worry me so much, but I do hope Cyrus comes back safe and sound..."
+    },
+    {
+     "section": "Katheryne, Paimon"
+    },
+    {
+     "s": 4,
+     "t": "{NICKNAME}, Paimon, it's good to see you! I've got an urgent commission I'd like to give you two."
+    },
+    {
+     "s": 4,
+     "t": "The commissioner is a Mondstadt merchant who is currently in Aaru Village. According to him, his associate and the Sumpter Beasts they leased out to an Akademiya researcher have been missing in the desert for a while now..."
+    },
+    {
+     "s": 4,
+     "t": "He's hoping that a highly experienced adventurer can take this commission and confirm the status of his associate and the Sumpter Beasts."
+    },
+    {
+     "s": 4,
+     "t": "You're both highly experienced adventurers, so a commission like this should be a cinch for you, I hope?"
+    },
+    {
+     "s": 1,
+     "t": "Missing in the desert... That certainly is worrying. Let's go take a look, {NICKNAME}."
+    },
+    {
+     "s": 4,
+     "t": "The commissioner is named Bonifaz, and he's still in Aaru Village now. He can fill you in on the specifics. Safe travels, you two."
+    },
+    {
+     "section": "Paimon, Bonifaz"
+    },
+    {
+     "s": 1,
+     "t": "Excuse me, are you Bonifaz? We're with the Adventurers' Guild..."
+    },
+    {
+     "s": 0,
+     "t": "Oh! Hello there! But looking at your attire, you aren't locals, are you? I was under the impression that the Adventurers' Guild would send local adventurers who might be better apprised of the situation."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* That said, I'm not from around here either. Making a living here is tough for outsiders."
+    },
+    {
+     "s": 0,
+     "t": "My associate and I are both Mondstadters. We originally traveled to Sumeru City to trade in supplies, and only came here at the request of a researcher from the Akademiya."
+    },
+    {
+     "s": 1,
+     "t": "You came all the way from Mondstadt to the desert to do business...?"
+    },
+    {
+     "s": 0,
+     "t": "Of course. Since you came somewhere as remote as this desert, you two must have been around the block too, I suppose?"
+    },
+    {
+     "s": 1,
+     "t": "Of course! And we know your hometown pretty well too!"
+    },
+    {
+     "s": 0,
+     "t": "Well now! Then speaking of which, you must also know what sets us Mondstadters apart from others."
+    },
+    {
+     "sit": "Freedom."
+    },
+    {
+     "sit": "You drink like fish."
+    },
+    {
+     "s": 0,
+     "t": "That's right! What we Mondstadters value most of all is freedom."
+    },
+    {
+     "s": 0,
+     "t": "Right — what I meant to say was that what we Mondstadters value most is freedom."
+    },
+    {
+     "s": 0,
+     "t": "How does that saying go again?"
+    },
+    {
+     "sit": "\"Go with the wind\"!"
+    },
+    {
+     "s": 1,
+     "t": "...Come on, it's actually \"let the wind lead\"!"
+    },
+    {
+     "s": 0,
+     "t": "Yes, right, right! That's the one!"
+    },
+    {
+     "s": 0,
+     "t": "When the north wind began to blow, some dandelion seeds were blown across the sea to Inazuma, while others were swept away to Liyue."
+    },
+    {
+     "s": 0,
+     "t": "As for me, I guess I was favored by the Anemo Archon. I didn't stop at Liyue and got blown all the way to Sumeru."
+    },
+    {
+     "s": 0,
+     "t": "The climate and way of life here might be a far cry from that of Mondstadt, but I'm here, and I intend to make the best of things."
+    },
+    {
+     "s": 1,
+     "t": "So that's how it is... Still, could you tell us more about the commission you posted at the Adventurers' Guild?"
+    },
+    {
+     "s": 0,
+     "t": "Oh, well, I accepted that Akademiya researcher's commission, didn't I...?"
+    },
+    {
+     "s": 0,
+     "t": "Tirzad — that's the researcher's name. He took two mercenaries with him to look for some ruins, probably for some archaeological research. I don't really know much about Akademiya stuff."
+    },
+    {
+     "s": 0,
+     "t": "In addition to providing them with some supplies, my associate and I also rented a few Sumpter Beasts out to them."
+    },
+    {
+     "s": 0,
+     "t": "Nachtigal, my associate, was worried that they'd struggle to steer the Sumpter Beasts, so he decided to go with them."
+    },
+    {
+     "s": 0,
+     "t": "We originally arranged to use a Dusk Bird to send messages every once in a while, so that I could be informed of their progress or raise supplies to send to them as the situation required."
+    },
+    {
+     "s": 0,
+     "t": "We did exchange messages this way at first, but I haven't heard a peep from them for the last two days..."
+    },
+    {
+     "s": 1,
+     "t": "Paimon hopes there wasn't any sort of accident..."
+    },
+    {
+     "s": 0,
+     "t": "That's what I've been worrying about! And that's why I decided to post a commission with the Adventurers' Guild — and well, here you are."
+    },
+    {
+     "s": 0,
+     "t": "But the desert is very dangerous, and you two seem so... young. Are you sure you can handle a place like this desert?"
+    },
+    {
+     "s": 1,
+     "t": "Are you underestimating us? Hmph! You've left Mondstadt, so maybe you're out of the loop..."
+    },
+    {
+     "s": 1,
+     "t": "But you should know that {NICKNAME} isn't just any ordinary adventurer. She's(He's) an Honorary Knight of the Knights of Favonius!"
+    },
+    {
+     "s": 0,
+     "t": "Huh? Wait. Then you must be... the celebrated {NICKNAME}...?"
+    },
+    {
+     "s": 1,
+     "t": "Oh! Then you have heard, after all! That's right, this is the renowned {NICKNAME}! And Paimon is the famed Paimon!"
+    },
+    {
+     "s": 0,
+     "t": "Goodness gracious! Please excuse my rudeness! I never expected to meet a big hero in a place like this! And... And a little hero, too!"
+    },
+    {
+     "s": 0,
+     "t": "In that case, I have nothing more to say. I just worry that you may have some other important missions at hand, like saving a city or something, and don't have the time for a menial commission like this one..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... It's not like we're always doing over-the-top stuff like that... We take ordinary commissions, too! Besides, we've already accepted your commission, haven't we?"
+    },
+    {
+     "s": 0,
+     "t": "Well, that's great! Right, as for your payment... I'll definitely think of something! That researcher from the Akademiya has also been quite generous..."
+    },
+    {
+     "s": 0,
+     "t": "I can picture it now: just as they run into some trouble, {NICKNAME}, a true hero, descends from the heavens to save them!"
+    },
+    {
+     "s": 0,
+     "t": "That should secure you double the payment, right? This deal is a sure bet!"
+    },
+    {
+     "s": 1,
+     "t": "Hmm... What do you think, {NICKNAME}?"
+    },
+    {
+     "sit": "If they're in danger, we have to help them."
+    },
+    {
+     "sit": "We'll do it for the Mora."
+    },
+    {
+     "s": 0,
+     "t": "Great, fantastic! There's hope for my Cyrus yet!"
+    },
+    {
+     "s": 1,
+     "t": "...\"Cyrus\"?"
+    },
+    {
+     "s": 0,
+     "t": "Yes, Cyrus is the name of one of the Sumpter Beasts I rented to them."
+    },
+    {
+     "s": 1,
+     "t": "Huh? \"Cyrus\"? But isn't that..."
+    },
+    {
+     "sit": "Does the actual Cyrus know about this?"
+    },
+    {
+     "s": 0,
+     "t": "...Huh? W—Well..."
+    },
+    {
+     "s": 0,
+     "t": "...Haha, it's fine, just don't tell him! No one will know!"
+    },
+    {
+     "s": 0,
+     "t": "Ahem, anyway, the researcher and the others left the village and headed west. The trails here are a bit hard to make out, but you should be able to find them by following the footprints."
+    },
+    {
+     "s": 0,
+     "t": "I'll leave the rest to you two!"
+    },
+    {
+     "section": "Paimon"
+    },
+    {
+     "s": 1,
+     "t": "There's a cavern here. C'mon, let's check it out."
+    },
+    {
+     "section": "Tirzad"
+    },
+    {
+     "s": 5,
+     "t": "Who are you? *hic* Thanks, but I'll pass. I can't manage another sip."
+    },
+    {
+     "section": "Jebrael"
+    },
+    {
+     "s": 6,
+     "t": "If there's nothing else, leave as soon as possible."
+    },
+    {
+     "section": "Nachtigal"
+    },
+    {
+     "s": 7,
+     "t": "*whimper*"
+    },
+    {
+     "section": "Paimon, Tirzad"
+    },
+    {
+     "s": 1,
+     "t": "(He's dressed like an Akademiya researcher, but why does he reek of booze...?)"
+    },
+    {
+     "s": 5,
+     "t": "Th—Think you can mess with me and scam me?! *hic*"
+    },
+    {
+     "s": 5,
+     "t": "J—Jebrael, you useless dolt! How long have we been going? You know... only to get stuck..."
+    },
+    {
+     "s": 5,
+     "t": "Ugh... If it wasn't for this busted stone slate..."
+    },
+    {
+     "s": 1,
+     "t": "(Whoa, Paimon thinks he's drunk! There's no way we can talk with him now. Let's go ask someone else.)"
+    },
+    {
+     "section": "Paimon, Jebrael"
+    },
+    {
+     "s": 1,
+     "t": "Hello, we're..."
+    },
+    {
+     "s": 6,
+     "t": "Did you guys... also fall down here?"
+    },
+    {
+     "s": 6,
+     "t": "The desert's no place for outsiders. If you have a way back, I suggest you take it as soon as possible."
+    },
+    {
+     "s": 1,
+     "t": "(Looks like talking to us is the last thing he wants to do... Let's try someone else.)"
+    },
+    {
+     "section": "Paimon, Nachtigal"
+    },
+    {
+     "s": 1,
+     "t": "(Could this be Nachtigal, the associate that Bonifaz was telling us about?)"
+    },
+    {
+     "s": 7,
+     "t": "Uh..."
+    },
+    {
+     "s": 1,
+     "t": "(Oh? He doesn't seem well. Paimon thinks he's resting... Let's not disturb him...)"
+    },
+    {
+     "section": "Paimon, Jeht"
+    },
+    {
+     "s": 1,
+     "t": "Hello?"
+    },
+    {
+     "s": 8,
+     "t": "Oh? Are you the newly fallen?"
+    },
+    {
+     "s": 1,
+     "t": "Huh? What do you mean \"newly fallen\"?"
+    },
+    {
+     "s": 8,
+     "t": "Oh? Do you have a way out?"
+    },
+    {
+     "s": 1,
+     "t": "Huh? We accepted Bonifaz's commission to come look for Tirzad's archaeological team..."
+    },
+    {
+     "s": 8,
+     "t": "Bonifaz? That merchant from Mondstadt? I know him. So, you want to find the archaeological team, huh? Let me think... Oh, isn't that us? I'm Jeht. Tirzad... sort of hired me."
+    },
+    {
+     "s": 1,
+     "t": "He said that he hadn't gotten any word from you guys in a while, and he was worried that something might have happened to you, so he asked us to come and check things out."
+    },
+    {
+     "sit": "I'm worried about Nachtigal."
+    },
+    {
+     "sit": "I'm really worried about Cyrus."
+    },
+    {
+     "s": 1,
+     "t": "Paimon wonders if he was the one who was taking a break..."
+    },
+    {
+     "s": 8,
+     "t": "Are all Mondstadters so paranoid? What do you mean \"a while\"? It's only been a day..."
+    },
+    {
+     "s": 8,
+     "t": "If it weren't for that bad fall and the heatstroke that Nachtigal had, we'd also be trying to find a way out."
+    },
+    {
+     "s": 1,
+     "t": "So, this pit is..."
+    },
+    {
+     "s": 8,
+     "t": "That's right, the desert is an incredible place. One minute, you're looking at solid ground, the next, you step directly into a trap. And as you can see, we're trapped here now."
+    },
+    {
+     "s": 8,
+     "t": "Did you guys just get here? Or do you have another way out? Still, we've searched all over this place, and there doesn't seem to be any way back to the surface."
+    },
+    {
+     "sit": "We have a wind glider."
+    },
+    {
+     "s": 8,
+     "t": "A wind glider! I heard Nachtigal talk about them before. They sound pretty great! To be honest, I'd love to give flying a try too! Wait a minute, now that I think about it, your lil' friend here doesn't seem to even need a wind glider to fly!"
+    },
+    {
+     "s": 8,
+     "t": "Can you teach me, lil' friend? How can I be as footloose and free as you? Er... I mean, as floaty?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon is nobody's \"lil' friend\"! Even Bonifaz knows that Paimon is famous!"
+    },
+    {
+     "s": 1,
+     "t": "And {NICKNAME} here is just as famous as Paimon!"
+    },
+    {
+     "s": 8,
+     "t": "All right, my renowned lil' friend Paimon, can you teach me? What do I have to do to float freely through the air like you?"
+    },
+    {
+     "s": 1,
+     "t": "Uh, Paimon doesn't really have an answer for you there... {NICKNAME}...?"
+    },
+    {
+     "sit": "If you practice hard enough, maybe a miracle will happen."
+    },
+    {
+     "sit": "Everyone has their own special talents. There's no need to force it."
+    },
+    {
+     "s": 1,
+     "t": "You can't just wake up one morning to find yourself floating!"
+    },
+    {
+     "s": 8,
+     "t": "I see, so you must've hired Paimon to teach you how to fly, didn't you, {NICKNAME}? But since you're still using a wind glider, I suppose you haven't trained enough, huh..."
+    },
+    {
+     "s": 8,
+     "t": "Once you train enough, I'm sure you'll finally be able to fly freely without needing a wind glider!"
+    },
+    {
+     "s": 8,
+     "t": "You seem like a really good teacher, Paimon! Can I hire you to teach me, too? Hey, {NICKNAME}, how much Mora will I need to hire Paimon?"
+    },
+    {
+     "s": 1,
+     "t": "Wow... You've got a wild imagination, huh? We don't have that sort of relationship."
+    },
+    {
+     "s": 8,
+     "t": "Huh? But isn't it just like how Tirzad hired my father and me? And Nachtigal too! Surely I can also hire you as long as I have the Mora to spend?"
+    },
+    {
+     "sit": "Paimon is my companion."
+    },
+    {
+     "sit": "If Paimon's willing..."
+    },
+    {
+     "s": 1,
+     "t": "That's right! Paimon won't leave {NICKNAME}'s side."
+    },
+    {
+     "s": 8,
+     "t": "Oh, that's a shame, then."
+    },
+    {
+     "s": 8,
+     "t": "By the way, have you seen Tirzad and my father?"
+    },
+    {
+     "s": 1,
+     "t": "We have, but..."
+    },
+    {
+     "sit": "You explain the situation with the others to Jeht."
+    },
+    {
+     "s": 8,
+     "t": "Haha, I see. As I said before, Nachtigal must be having a tough time, what with the bad fall he took plus the heatstroke."
+    },
+    {
+     "s": 8,
+     "t": "As for my father, well, he's got a nasty temper — don't take it personally. And as for Tirzad, he's basically been throwing a tantrum since things stopped going smoothly."
+    },
+    {
+     "s": 1,
+     "t": "That said, grouchy kids don't usually get that drunk..."
+    },
+    {
+     "s": 8,
+     "t": "You're not wrong, Paimon! Haha. Sometimes father will have a few glasses as well, but I've never seen him get drunk before."
+    },
+    {
+     "s": 8,
+     "t": "How about this? We can go back together and I'll explain everything to my father. You guys don't wanna stay here too long, do you?"
+    },
+    {
+     "section": "Nachtigal"
+    },
+    {
+     "s": 7,
+     "t": "It's a good thing nothing happened to Cyrus, or Bonifaz would be a weeping wreck."
+    },
+    {
+     "section": "Jeht, Paimon, Tirzad, Nachtigal, Jebrael"
+    },
+    {
+     "s": 8,
+     "t": "Father, I'm back! Oh? Is Nachtigal doing better?"
+    },
+    {
+     "s": 8,
+     "t": "Right, Paimon and {NICKNAME} told me all about what happened! How can you just ignore people, father? Really, when is that temperament of yours ever going to change?"
+    },
+    {
+     "sit": "Jeht explains the situation to the three of them."
+    },
+    {
+     "s": 1,
+     "t": "That means we've completed Bonifaz's commission, right? After all, he only asked us to confirm the safety of the archaeology team as well as that of the Sumpter Beasts..."
+    },
+    {
+     "s": 5,
+     "t": "Bonifaz!"
+    },
+    {
+     "s": 1,
+     "t": "Wh—What happened!?"
+    },
+    {
+     "s": 5,
+     "t": "Bonifaz and Nachtigal are colluding to blackmail me... *sob*... That despicable Mondstadter came all the way to Sumeru just to extort me, I swear..."
+    },
+    {
+     "s": 1,
+     "t": "Is he still drunk...?"
+    },
+    {
+     "s": 7,
+     "t": "Mr. Tirzad, was the price not already agreed upon after our discussion? You even confirmed it yourself, so why are you telling a different story now?"
+    },
+    {
+     "s": 5,
+     "t": "I usually have my hands full with research matters, and I've never dealt with business people such as you before. How was I supposed to know the rules around pricing..."
+    },
+    {
+     "s": 5,
+     "t": "If Jeht hadn't told me that you highballed me, I'd still be foolish enough to think that I scored a great deal!"
+    },
+    {
+     "s": 7,
+     "t": "Well..."
+    },
+    {
+     "s": 8,
+     "t": "*sigh* I'm really sorry, Nachtigal. Father had told me after the fact that I shouldn't have shared it with Tirzad."
+    },
+    {
+     "s": 6,
+     "t": "Eh..."
+    },
+    {
+     "s": 1,
+     "t": "Oof... Why's Paimon getting the feeling that Jeht managed to offend all three people by saying that?"
+    },
+    {
+     "s": 5,
+     "t": "That's it! I'm... I'm laying you all off! There's a limit to how much bullying I'll take! *sob*"
+    },
+    {
+     "s": 8,
+     "t": "That's not fair, Tirzad! Nachtigal and Bonifaz are in the wrong here, but father and I didn't do anything wrong!"
+    },
+    {
+     "s": 8,
+     "t": "Besides, didn't we only get stuck in this place because you insisted on coming here? Then you started throwing tantrums after that fall and drank even though you clearly can't hold your liquor..."
+    },
+    {
+     "s": 8,
+     "t": "You might have the body of an adult, but you've been acting like a little baby. Haha."
+    },
+    {
+     "s": 5,
+     "t": "You... You!"
+    },
+    {
+     "s": 1,
+     "t": "Jeht, that's enough. Tirzad looks like he might faint from rage! Now isn't the time to fight. What we should be doing is putting our heads together so we can get ourselves out of this mess."
+    },
+    {
+     "s": 5,
+     "t": "Ooh! Someone's talking sense... So, that crook Bonifaz commissioned you to come look for me? And you're famous adventurers, you say?"
+    },
+    {
+     "s": 5,
+     "t": "Well, I'd like to hire you to get me out of this archon-forsaken place. At this rate, forget my research, even my very life will be cut short!"
+    },
+    {
+     "s": 5,
+     "t": "Since you're famous adventurers, surely you're more reliable than they are?"
+    },
+    {
+     "s": 1,
+     "t": "(Is this the double payment Bonifaz mentioned...? What should we do, {NICKNAME}?)"
+    },
+    {
+     "sit": "Now's not the time for bickering. Let's focus on getting out of here first."
+    },
+    {
+     "s": 1,
+     "t": "You're right, finding a way out together is what's most important right now. Any other complaints can be addressed once we're somewhere safe."
+    },
+    {
+     "s": 8,
+     "t": "That's right. See, Tirzad? If you could think as sensibly as Paimon, we wouldn't have gotten ourselves stuck in this situation."
+    },
+    {
+     "s": 1,
+     "t": "Jeht..."
+    },
+    {
+     "s": 8,
+     "t": "I just explored a little bit up ahead and found what looks to be ruins. Maybe there's an exit leading to the surface in there?"
+    },
+    {
+     "s": 5,
+     "t": "Desert ruins don't constitute a safe place! And I'm not going anywhere with such unreliable people..."
+    },
+    {
+     "s": 1,
+     "t": "But you're a researcher, aren't you? Shouldn't you be thrilled to have ruins to investigate?"
+    },
+    {
+     "s": 5,
+     "t": "I—I'm an Indoorsology researcher! I should be working indoors and poring over documents... Unlike some adventurers who go stark raving bananas when they see a pile of old ruins..."
+    },
+    {
+     "s": 8,
+     "t": "Oh, you..."
+    },
+    {
+     "s": 6,
+     "t": "Don't waste your breath on him, Jeht. Just let him stay here if he wants to."
+    },
+    {
+     "s": 8,
+     "t": "But father..."
+    },
+    {
+     "s": 6,
+     "t": "He's our employer, so he has the right to decide what he does and doesn't want to do. We just have to do our jobs."
+    },
+    {
+     "s": 1,
+     "t": "Ah, there he goes..."
+    },
+    {
+     "s": 8,
+     "t": "We'll come back after father and I find a safe path. If he doesn't want to come with us, then he can just wait here!"
+    },
+    {
+     "s": 1,
+     "t": "And now there goes Jeht... What should we do?"
+    },
+    {
+     "sit": "We can't just wait here."
+    },
+    {
+     "s": 1,
+     "t": "You're right, let's go find a way out of here."
+    },
+    {
+     "s": 5,
+     "t": "Are... Are you going to ditch me? The payment for the commission is negotiable, so don't leave me here with this crook from Mondstadt..."
+    },
+    {
+     "s": 7,
+     "t": "I've kept quiet up until now, but Bonifaz and I are not crooks. What shady businessmen would offer such comprehensive after-sales care?"
+    },
+    {
+     "s": 7,
+     "t": "Think about it, Mr. Tirzad, we could have simply received our payment and left it at that. But instead, we let ourselves end up in the same boat as you!"
+    },
+    {
+     "s": 5,
+     "t": "...I guess that makes sense? But I'm not staying here either way — I'd feel more comfortable in the company of experienced adventurers."
+    },
+    {
+     "s": 1,
+     "t": "But you're still rip-roaring drunk... Why don't you stay here and sleep it off first?"
+    },
+    {
+     "s": 5,
+     "t": "I am not drunk! I'm fine! I'm coming with you guys! Don't leave me behind... *sob*"
+    },
+    {
+     "s": 1,
+     "t": "Uh... Th—Then we should get going. We should be able to catch up with Jeht and the others."
+    },
+    {
+     "s": 7,
+     "t": "I'll wait here for now — I doubt the road ahead will be suitable for the Sumpter Beasts. Good luck."
+    },
+    {
+     "section": "Paimon, Jeht, Tirzad, Jebrael"
+    },
+    {
+     "s": 1,
+     "t": "We're here! Tirzad decided to come exploring with us."
+    },
+    {
+     "s": 8,
+     "t": "What now? You mean that researcher actually changed his mind?"
+    },
+    {
+     "s": 5,
+     "t": "Ugh..."
+    },
+    {
+     "s": 6,
+     "t": "He knows the pros and cons, so naturally, he came along."
+    },
+    {
+     "s": 8,
+     "t": "All right, well, you'll get the chance to show off your skills soon enough! How should we enter the interior of the ruins? This is a researcher's specialty, right?"
+    },
+    {
+     "s": 8,
+     "t": "This should be a piece of cake for you, right, Tirzad?"
+    },
+    {
+     "s": 5,
+     "t": "O—Of course! I might be an Indoorsology researcher, but something as basic as this can't be too different from what's written in the books..."
+    },
+    {
+     "s": 5,
+     "t": "Watch this!"
+    },
+    {
+     "s": 5,
+     "t": "...Hmm, this is... There! That should do it..."
+    },
+    {
+     "s": 1,
+     "t": "Whoa, the door really opened!"
+    },
+    {
+     "s": 8,
+     "t": "Well, that's Mr. Tirzad for you!"
+    },
+    {
+     "s": 5,
+     "t": "Heh, that's what sets us professionals apart from the amateurs."
+    },
+    {
+     "s": 1,
+     "t": "Paimon wonders what it's like inside. Let's go in and take a look!"
+    },
+    {
+     "section": "Tirzad, Jeht, Paimon, Jebrael"
+    },
+    {
+     "s": 5,
+     "t": "We've been walking around for a while without making any progress, so why don't we take a little rest?"
+    },
+    {
+     "s": 8,
+     "t": "Are you kidding? It's hardly been any time at all and you're already thinking of resting?!"
+    },
+    {
+     "s": 5,
+     "t": "I said it before, didn't I? I'm an Indoorsology researcher! I should never have come out into the middle of nowhere like this..."
+    },
+    {
+     "s": 1,
+     "t": "Wait a minute, Paimon's confused. Wasn't the archaeology mission your idea?"
+    },
+    {
+     "s": 1,
+     "t": "Jeht, Jebrael, and Nachtigal only came because you hired them, right?"
+    },
+    {
+     "s": 5,
+     "t": "Yes, that's correct."
+    },
+    {
+     "s": 1,
+     "t": "Huh? So it was your idea, then why have you been dragging your feet this whole time?"
+    },
+    {
+     "s": 1,
+     "t": "If we didn't know the truth, Paimon would think that Jebrael must've kidnapped you to get some legendary treasure in the ruins or something."
+    },
+    {
+     "s": 8,
+     "t": "Haha, you're funny, Paimon! My father may be a grump, but he'd never do something like that."
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "...D—Don't get mad at Paimon. Paimon's only telling it like it is!"
+    },
+    {
+     "sit": "Don't bully Paimon."
+    },
+    {
+     "s": 8,
+     "t": "I'm sorry. My father really isn't a bad guy, believe me."
+    },
+    {
+     "s": 1,
+     "t": "Then why is Tirzad so unmotivated?"
+    },
+    {
+     "s": 5,
+     "t": "*sigh* It's because I don't care for the topic at all. If it wasn't for this accursed stone slate..."
+    },
+    {
+     "s": 5,
+     "t": "I'm always told to be original in my research and to find material that no one has ever worked on before."
+    },
+    {
+     "s": 5,
+     "t": "\"What's the value or meaning of research if everyone is just following the herd or reproducing each other's work?\" — or so I've been told."
+    },
+    {
+     "s": 5,
+     "t": "But what am I compared to such a long-standing academic tradition and all my seniors in research? I'm no academic genius, so what can I think of that others can't?"
+    },
+    {
+     "s": 5,
+     "t": "There are no academic gaps left these days that I can identify and fill..."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Paimon doesn't really get academic stuff either, but since this is your job, you should take it seriously."
+    },
+    {
+     "s": 5,
+     "t": "I do! I give it my all! Why else would I have spent so much Mora to come to this archon-forsaken place..."
+    },
+    {
+     "s": 5,
+     "t": "Heh, it's funny, but this Scarlet Sand Slate was actually the research project of a relative of mine..."
+    },
+    {
+     "s": 5,
+     "t": "She was originally a young researcher with limitless promise, but one day, she left the family behind and eloped with some wild boy from who knows where."
+    },
+    {
+     "s": 5,
+     "t": "I heard that they fled into this desert back in those days. Unfortunately, I was a kid then and only saw her a few times. I can't even remember what she looked like."
+    },
+    {
+     "s": 8,
+     "t": "All the more reason to buck up! Since you're researching the same thing, there's a chance for a reunion, isn't there?"
+    },
+    {
+     "s": 8,
+     "t": "Fate is an unpredictable thing, after all."
+    },
+    {
+     "s": 5,
+     "t": "Haha... Even if we really did meet again, and even if we really recognized each other, how could I even face her?"
+    },
+    {
+     "s": 5,
+     "t": "The way I am now, I'm no different from a stray dog, living off the scraps thrown away by others..."
+    },
+    {
+     "s": 5,
+     "t": "Since I'm incapable of constructing any new theories, all I could do was take my chances in the field and see if I could dig up any new materials to base my paper on."
+    },
+    {
+     "s": 5,
+     "t": "Though, when it comes to King Deshret, the academic community has long since concluded that he was just another self-destructive tyrant..."
+    },
+    {
+     "s": 5,
+     "t": "Speaking of which, she must have left this stone slate behind when she left back then because even she knew this lousy thing had no research value."
+    },
+    {
+     "s": 5,
+     "t": "Haha, and yet I took it to be a treasure! Haha! This silly stone slate! I must have been out of my mind to think I'd really be able to stumble upon something."
+    },
+    {
+     "s": 1,
+     "t": "Uh... Still, Paimon doesn't think you should lose heart!"
+    },
+    {
+     "s": 1,
+     "t": "Because... Because, um, we often make surprising discoveries while exploring ruins like these! Right, {NICKNAME}?"
+    },
+    {
+     "sit": "There will at least be treasure chests, for sure."
+    },
+    {
+     "sit": "It's also good to see everything with your own eyes."
+    },
+    {
+     "s": 1,
+     "t": "Although those might not be much use to Tirzad..."
+    },
+    {
+     "s": 5,
+     "t": "None of you have ever done serious academic research. How could you possibly understand me or the difficulties of being a researcher..."
+    },
+    {
+     "s": 6,
+     "t": "Stop talking like a child. The Akademiya might control the path to academic publication, but they don't have a monopoly on knowledge itself."
+    },
+    {
+     "s": 6,
+     "t": "If this is all you know about King Deshret, then you should have abandoned academia from the very beginning, because it's clear you won't get any results."
+    },
+    {
+     "s": 8,
+     "t": "Father..."
+    },
+    {
+     "s": 5,
+     "t": "You? You're just a paid mercenary, what right do you have to comment on my ideas?"
+    },
+    {
+     "s": 6,
+     "t": "So far, you seem to have very little in the way of professional credentials as a researcher. That much you already admitted yourself."
+    },
+    {
+     "s": 5,
+     "t": "Me? I'm—! You... You!"
+    },
+    {
+     "sit": "Tirzad gets so worked up that the blood rushes to his head, causing him to faint..."
+    },
+    {
+     "s": 1,
+     "t": "Uh-oh, what happened? Will he be okay...?"
+    },
+    {
+     "s": 8,
+     "t": "We should keep a closer eye on him after this and not let him drink any more. He must not have completely sobered up yet when father made him so mad that all the blood rushed to his head."
+    },
+    {
+     "s": 8,
+     "t": "That was weird, though. Why'd you have to get so mad at him?"
+    },
+    {
+     "s": 6,
+     "t": "...We can't stop just because he keeps dragging his feet."
+    },
+    {
+     "s": 1,
+     "t": "Huh? But we can't just leave him here either..."
+    },
+    {
+     "s": 6,
+     "t": "I'll stay behind to keep him safe. Meanwhile, you and Jeht keep looking for an exit."
+    },
+    {
+     "s": 1,
+     "t": "Well... what should we do now, {NICKNAME}?"
+    },
+    {
+     "sit": "Time's a-wastin'."
+    },
+    {
+     "s": 1,
+     "t": "You're right... Let's keep exploring, then!"
+    },
+    {
+     "s": 8,
+     "t": "Leave Tirzad to my father, you'll have nothing to worry about. I'll come with you guys!"
+    },
+    {
+     "section": "Tirzad"
+    },
+    {
+     "s": 5,
+     "t": "(He looks like he's in a lot of pain, we probably shouldn't wake him up...)"
+    },
+    {
+     "section": "Jebrael"
+    },
+    {
+     "s": 6,
+     "t": "Let's get a move on, enough dawdling."
+    },
+    {
+     "section": "Paimon, Benben, Jeht"
+    },
+    {
+     "s": 1,
+     "t": "How familiar!"
+    },
+    {
+     "s": 9,
+     "t": "Beep?"
+    },
+    {
+     "s": 1,
+     "t": "Whoa! It's moving!"
+    },
+    {
+     "s": 8,
+     "t": "Hmm? Looks a lot like the one we just knocked down. Still... it doesn't look like it's going to attack us."
+    },
+    {
+     "s": 8,
+     "t": "On second thought, it can float in the air just like Paimon. Does that make them distant relatives?"
+    },
+    {
+     "s": 1,
+     "t": "Paimon would sooner be related to a pigeon!"
+    },
+    {
+     "s": 9,
+     "t": "Beep... Beep?"
+    },
+    {
+     "s": 1,
+     "t": "This thing's making weird noises again... Where's that sound coming from, anyway? And is it really not going to turn on us out of the blue? {NICKNAME}, don't let your guard down."
+    },
+    {
+     "s": 8,
+     "t": "Can you try talking to it, Paimon? Look, you two are about the same size, so you should be able to talk to each other, right?"
+    },
+    {
+     "s": 1,
+     "t": "How is Paimon supposed to talk to it?! Oh! You're messing with Paimon on purpose, aren't you?"
+    },
+    {
+     "s": 8,
+     "t": "Tee-hee."
+    },
+    {
+     "s": 9,
+     "t": "Beep-boop. Beep."
+    },
+    {
+     "sit": "It looks like some sort of device."
+    },
+    {
+     "s": 1,
+     "t": "Sh—Should we pick it up and try using it?"
+    },
+    {
+     "s": 9,
+     "t": "Beep...!!"
+    },
+    {
+     "s": 1,
+     "t": "Eek! Gah, you scared Paimon!"
+    },
+    {
+     "s": 8,
+     "t": "It doesn't seem to want to do that."
+    },
+    {
+     "s": 1,
+     "t": "Eh? Can you understand it, Jeht?"
+    },
+    {
+     "s": 8,
+     "t": "Um... I can't understand the meaning, but I can get... the feeling?"
+    },
+    {
+     "s": 1,
+     "t": "Wh—What a weird thing..."
+    },
+    {
+     "s": 9,
+     "t": "Beep-beep, beep."
+    },
+    {
+     "s": 8,
+     "t": "Oh? I think it's a lot like you, Paimon. You both look really cute!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon told you, we're nothing alike!"
+    },
+    {
+     "s": 8,
+     "t": "Well, yeah, you're round and cute, Paimon, and it seems a little... pokey? But it's still very cute!"
+    },
+    {
+     "s": 1,
+     "t": "Ugh... Paimon totally doesn't get your standards for \"cute\"..."
+    },
+    {
+     "sit": "I think Paimon's cute, too."
+    },
+    {
+     "sit": "I don't get it either..."
+    },
+    {
+     "s": 1,
+     "t": "Now isn't the time for this, {NICKNAME}."
+    },
+    {
+     "s": 8,
+     "t": "The way I see it, Paimon doesn't get it, but {NICKNAME} does."
+    },
+    {
+     "s": 8,
+     "t": "I don't know why it's here or what it's used for... But maybe Tirzad will understand if we can get him to take a look at it."
+    },
+    {
+     "s": 8,
+     "t": "You... Hmm? What should I call you anyhow?"
+    },
+    {
+     "s": 9,
+     "t": "Beep-boop?"
+    },
+    {
+     "s": 8,
+     "t": "Paimon floats, but you're a little lower off from the ground, so... I'll call you Benben!"
+    },
+    {
+     "s": 9,
+     "t": "Beep-beep!"
+    },
+    {
+     "s": 8,
+     "t": "You like this name, too? That's great!"
+    },
+    {
+     "s": 1,
+     "t": "How do those two even communicate..."
+    },
+    {
+     "sit": "Jeht's amazing."
+    },
+    {
+     "sit": "Jeht's a strange one."
+    },
+    {
+     "s": 1,
+     "t": "She is amazing, in a weird sort of way."
+    },
+    {
+     "s": 8,
+     "t": "Benben, it must be boring hanging around here by yourself. Why don't you come with us? Needless to say, {NICKNAME} is pretty great, too."
+    },
+    {
+     "s": 8,
+     "t": "As for Paimon... She might act a little superior, but she's a good kid who thinks about her companions. You'll definitely come to like her in time."
+    },
+    {
+     "s": 1,
+     "t": "Paimon doesn't act super-anything! Anyway, Paimon's not gonna fly lower for anyone! Otherwise, Paimon will breathe in a whole load of sand..."
+    },
+    {
+     "s": 8,
+     "t": "Come look for my father with us. He may look mean, but actually... Well, he actually is kind of mean. But that's just how he is with outsiders! He's nice once you get to know him!"
+    },
+    {
+     "s": 8,
+     "t": "And even though Tirzad's a useless researcher, he's not actually a bad guy. Right, and you might even be able to save his research, Benben!"
+    },
+    {
+     "s": 9,
+     "t": "Beep-boop?"
+    },
+    {
+     "s": 8,
+     "t": "Well? Wanna come with us, Benben?"
+    },
+    {
+     "s": 9,
+     "t": "Beep... Bee-eep!"
+    },
+    {
+     "s": 8,
+     "t": "That's great! It said yes!"
+    },
+    {
+     "s": 1,
+     "t": "Really? Are you guys really talking to each other?"
+    },
+    {
+     "s": 8,
+     "t": "Don't worry, Paimon. Benben and I are already joined at the hip! Right, Benben?"
+    },
+    {
+     "s": 9,
+     "t": "Beep-beep!"
+    },
+    {
+     "s": 8,
+     "t": "Hehe, well, let's go back to where my father is. Maybe Tirzad has already woken up."
+    },
+    {
+     "s": 1,
+     "t": "Provided he doesn't open up his eyes only to see Jebrael and get so mad that he passes out again..."
+    },
+    {
+     "s": 8,
+     "t": "Haha, you never know!"
+    },
+    {
+     "section": "Jeht, Benben, Tirzad, Paimon, Jebrael"
+    },
+    {
+     "s": 8,
+     "t": "Father, I brought another new friend back! Look, this is the friend we just met, its name is Benben."
+    },
+    {
+     "s": 9,
+     "t": "Beep."
+    },
+    {
+     "s": 8,
+     "t": "Oh, Tirzad's awake. Looks like things are going well with father."
+    },
+    {
+     "s": 5,
+     "t": "I don't know how you came to that ridiculous conclusion, but... let's not discuss that for now. What I'm most concerned about now is, what is that thing?"
+    },
+    {
+     "s": 8,
+     "t": "Didn't I just introduce you? This is our new friend, Benben."
+    },
+    {
+     "s": 5,
+     "t": "This doesn't seem like something that could be classified as a \"friend,\" could it?! Doesn't this look a little like the same thing that just attacked us?"
+    },
+    {
+     "s": 8,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "You don't have a lot of friends, do you, Tirzad?"
+    },
+    {
+     "s": 5,
+     "t": "No, I don't... Wait, what does that have to do with this?"
+    },
+    {
+     "s": 8,
+     "t": "You're way too uptight! You just need an open mind, and you'll be swimming in friends in no time. Isn't that right, Benben?"
+    },
+    {
+     "s": 9,
+     "t": "Beep."
+    },
+    {
+     "s": 5,
+     "t": "And you're too lax!"
+    },
+    {
+     "s": 1,
+     "t": "So, you don't know what Benben is either, huh?"
+    },
+    {
+     "s": 5,
+     "t": "It... must be related to the guards here. I don't know exactly how to operate it, though."
+    },
+    {
+     "s": 5,
+     "t": "But this unique model doesn't attack outsiders and can even communicate to a certain extent... I don't remember reading anything about this."
+    },
+    {
+     "s": 8,
+     "t": "Tirzad!"
+    },
+    {
+     "s": 5,
+     "t": "Wh—What is it?"
+    },
+    {
+     "s": 8,
+     "t": "Isn't that amazing news?"
+    },
+    {
+     "sit": "This is the \"material that no one has worked on before.\""
+    },
+    {
+     "s": 5,
+     "t": "...?"
+    },
+    {
+     "s": 5,
+     "t": "Wait a minute, could it be? No, it's too early to celebrate just yet... Maybe I was too narrow-minded and just happened to not see any relevant prior research on it..."
+    },
+    {
+     "s": 5,
+     "t": "Maybe someone has already published ten treatises and thoroughly studied Benben's genealogy..."
+    },
+    {
+     "s": 1,
+     "t": "Why does this guy always jump to the worst conclusions..."
+    },
+    {
+     "s": 6,
+     "t": "Wait a minute, something doesn't seem right about it."
+    },
+    {
+     "s": 9,
+     "t": "Beep... Beep..."
+    },
+    {
+     "s": 8,
+     "t": "What is it, Benben? Are you—"
+    },
+    {
+     "s": 1,
+     "t": "Ooh! Benben seems to be reacting to Tirzad's stone slate!"
+    },
+    {
+     "s": 6,
+     "t": "Tirzad, pick the stone slate up and walk towards Benben."
+    },
+    {
+     "s": 5,
+     "t": "I hired you! Don't tell me what to do..."
+    },
+    {
+     "s": 1,
+     "t": "Whoa..."
+    },
+    {
+     "s": 8,
+     "t": "Ooh, Benben! You're amazing, Benben!"
+    },
+    {
+     "s": 9,
+     "t": "Bee-eep. Beep!"
+    },
+    {
+     "s": 9,
+     "t": "Beep-boop... Beep, Bee-eep!"
+    },
+    {
+     "s": 1,
+     "t": "Paimon doesn't completely understand what it's saying, but it seems happy!"
+    },
+    {
+     "s": 8,
+     "t": "A small portion of the slate lit up. What does it mean? Do you have any idea, Tirzad?"
+    },
+    {
+     "s": 5,
+     "t": "Hmm... It's hard to say, only a portion was lit up. Besides, I've told you all before..."
+    },
+    {
+     "s": 8,
+     "t": "Rigor is key to academic research, and you don't want to jump to conclusions, right?"
+    },
+    {
+     "s": 5,
+     "t": "O—Oh, yes, that's true."
+    },
+    {
+     "s": 8,
+     "t": "Heh, looks like we'll just have to find a way to light up the rest of the stone slate. Right, Benben?"
+    },
+    {
+     "s": 9,
+     "t": "Beep... Bee-eep."
+    },
+    {
+     "s": 5,
+     "t": "Hold on, I have a serious request to make of you, {NICKNAME}."
+    },
+    {
+     "s": 5,
+     "t": "Ahem, this has nothing to do with Jebrael or Jeht, so I kindly ask that you give us some space."
+    },
+    {
+     "s": 8,
+     "t": "Huh? You gonna reveal some kind of secret? C'mon, I wanna hear it, too!"
+    },
+    {
+     "s": 6,
+     "t": "Jeht, mind your own business."
+    },
+    {
+     "s": 8,
+     "t": "But father, we're all companions here. Doesn't that make it our business?"
+    },
+    {
+     "s": 6,
+     "t": "..."
+    },
+    {
+     "s": 8,
+     "t": "Fine! I'll give you all the space you want. Let's go, Benben."
+    },
+    {
+     "s": 9,
+     "t": "Beep."
+    },
+    {
+     "section": "Jebrael, Jeht"
+    },
+    {
+     "s": 6,
+     "t": "Don't stick your nose into other people's business... especially when your employer's concerned. I believe I've taught you better than that."
+    },
+    {
+     "s": 8,
+     "t": "B—But I think they're no longer \"other people,\" are they?"
+    },
+    {
+     "section": "Tirzad"
+    },
+    {
+     "s": 5,
+     "t": "I've said what I've got to say... Ahem, it's time to look for Jeht and the others."
+    },
+    {
+     "section": "Tirzad"
+    },
+    {
+     "s": 1,
+     "t": "What's the matter? Why are you getting so serious all of a sudden..."
+    },
+    {
+     "s": 5,
+     "t": "Can you... help me take care of this stone slate?"
+    },
+    {
+     "s": 1,
+     "t": "Huh? Isn't it really important?"
+    },
+    {
+     "s": 5,
+     "t": "It is, and that's why I want you to take care of it! And to be honest, seeing it light up like that makes me uneasy..."
+    },
+    {
+     "s": 5,
+     "t": "I don't trust myself if something were to happen. Besides, that weird thing also seems to have some sort of response to it..."
+    },
+    {
+     "s": 1,
+     "t": "That weird thing... You mean Benben? Wouldn't it be better to give the stone slate to Jeht to look after?"
+    },
+    {
+     "s": 5,
+     "t": "No! Ahem... I mean, absolutely not."
+    },
+    {
+     "s": 5,
+     "t": "How do I put this? Alright. I don't trust Jebrael. I feel like he has an ulterior motive... and since Jeht is his daughter, they're obviously going to be in the same camp."
+    },
+    {
+     "s": 1,
+     "t": "Jebrael might be a man of few words, but Paimon thinks he's very reliable. Could you be overthinking this, Tirzad...?"
+    },
+    {
+     "s": 5,
+     "t": "Jeht said it before, he's from the desert. Can you really trust the desert people? I'd sooner believe that Bonifaz didn't defraud me."
+    },
+    {
+     "s": 1,
+     "t": "Hmm... What do you think, {NICKNAME}?"
+    },
+    {
+     "sit": "My backpack's pretty big."
+    },
+    {
+     "sit": "The stone slate isn't heavy either."
+    },
+    {
+     "s": 1,
+     "t": "It can fit carrots and cabbages, so one more little stone slate shouldn't be a problem, right?"
+    },
+    {
+     "s": 5,
+     "t": "Thank you! You're the only ones I can rely on in this vast sea of sand!"
+    },
+    {
+     "sit": "You receive the Scarlet Sand Slate that Tirzad entrusted to you."
+    },
+    {
+     "s": 1,
+     "t": "Fine, we'll take care of it for you for the time being."
+    },
+    {
+     "s": 5,
+     "t": "You're a huge help!"
+    },
+    {
+     "section": "Jeht, Jebrael, Tirzad, Paimon"
+    },
+    {
+     "s": 8,
+     "t": "Hey, are you done whispering to each other yet?"
+    },
+    {
+     "s": 6,
+     "t": "Tirzad's ready to set off now. We should find an exit as soon as possible."
+    },
+    {
+     "s": 5,
+     "t": "I don't need you to speak for me. Um... That said, I am indeed ready to set off whenever."
+    },
+    {
+     "s": 8,
+     "t": "Great! It's been a productive day, and I've got a feeling that we'll find a way out in no time! Benben and I will go on ahead. Everyone else can follow us."
+    },
+    {
+     "s": 1,
+     "t": "Jeht and Benben sure have hit it off. That's... good, right?"
+    },
+    {
+     "section": "Jeht, Paimon, Tirzad, Benben, Nachtigal, Jebrael"
+    },
+    {
+     "s": 8,
+     "t": "I can feel a breeze... The exit must be close by! Keep looking. We'll be out of here in no time."
+    },
+    {
+     "s": 1,
+     "t": "Woohoo! We can finally leave!"
+    },
+    {
+     "s": 1,
+     "t": "...Although it's certain to be nothing but sand for miles around out there."
+    },
+    {
+     "sit": "At least we'll be able to see the sky."
+    },
+    {
+     "s": 1,
+     "t": "That's true!"
+    },
+    {
+     "s": 5,
+     "t": "Where... Where do you guys get all that energy from? First it's exploring, then it's fighting... Let's slow down a little..."
+    },
+    {
+     "s": 8,
+     "t": "You and father are the same age, aren't you, Tirzad? How many times have we stopped to rest so far?"
+    },
+    {
+     "s": 8,
+     "t": "The mind of a child, the body of an old man... Geez."
+    },
+    {
+     "s": 9,
+     "t": "Beep beep... Bee-eep."
+    },
+    {
+     "s": 5,
+     "t": "I told you, I'm an Indoor... forget it. I'm the employer, so just listen to me!"
+    },
+    {
+     "sit": "Everyone rests with Tirzad for a while."
+    },
+    {
+     "s": 1,
+     "t": "Oh? If it isn't Nachtigal!"
+    },
+    {
+     "s": 7,
+     "t": "There you are. When the door on the other side suddenly opened, I knew you'd found an exit. I brought Cyrus and the others over."
+    },
+    {
+     "s": 1,
+     "t": "Wow, that was pretty brave of you! What if it wasn't a shortcut at all, but a trap?"
+    },
+    {
+     "s": 7,
+     "t": "..."
+    },
+    {
+     "s": 7,
+     "t": "Heh, you've got a point."
+    },
+    {
+     "s": 1,
+     "t": "You mean that it didn't even occur to you?!"
+    },
+    {
+     "s": 7,
+     "t": "Well, everything worked out fine in the end. We've reunited, haven't we? That's enough. By the way, we've got a new member here? That's great!"
+    },
+    {
+     "sit": "That's a free Mondstadter for you."
+    },
+    {
+     "s": 1,
+     "t": "But it's better to be cautious at times like this!"
+    },
+    {
+     "s": 8,
+     "t": "But isn't it great that we don't have to double back to rendezvous? Now we can find the exit together!"
+    },
+    {
+     "s": 6,
+     "t": "Follow the wind and find your way out. But don't let your guard down."
+    },
+    {
+     "s": 8,
+     "t": "Okay... got it!"
+    }
+   ],
+   "description": "In Aaru Village, there is a merchant from Mondstadt who needs help from adventurers."
+  }
+ ],
+ "speakers": [
+  "Bonifaz",
+  "Paimon",
+  "Omid",
+  "Mirsad",
+  "Katheryne",
+  "Tirzad",
+  "Jebrael",
+  "Nachtigal",
+  "Jeht",
+  "Benben"
+ ]
+}

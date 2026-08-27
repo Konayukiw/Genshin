@@ -1,0 +1,975 @@
+{
+ "chapter": "Shadows Amidst Snowstorms: Act II",
+ "chapter_title": null,
+ "act": null,
+ "act_title": "The Shadows Deepen",
+ "region": null,
+ "quests": [
+  {
+   "title": "The Shadows Deepen",
+   "dialogue": [
+    {
+     "section": "Bennett, Amber, Eula, Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Hey! Good morning!"
+    },
+    {
+     "s": 1,
+     "t": "I slept great last night! How about you guys? All rested up?"
+    },
+    {
+     "s": 2,
+     "t": "I'm fine, as usual."
+    },
+    {
+     "sit": "I slept pretty well, too."
+    },
+    {
+     "s": 3,
+     "t": "The path down the mountain is easier to follow in the daylight. Let's take this chance to head down to the base camp."
+    },
+    {
+     "s": 4,
+     "t": "Let's go! If we make good time, maybe we can all get lunch together."
+    },
+    {
+     "section": "You examine the picture..."
+    },
+    {
+     "s": 5,
+     "t": "(This artwork is, to the last stroke, one made with extreme aesthetic sense. Paimon looks elegant and dignified, and she wears an enigmatic but romantic smile, her upturned lips displaying a vast brilliance beyond human ken. Very pretty, of course, but this isn't the Paimon you know at all...)"
+    },
+    {
+     "section": "Amber, Eula"
+    },
+    {
+     "s": 1,
+     "t": "Traveler, Paimon! Are you alright? Are you hurt?"
+    },
+    {
+     "s": 4,
+     "t": "Uh, Paimon's fine..."
+    },
+    {
+     "sit": "I'm okay. You?"
+    },
+    {
+     "s": 1,
+     "t": "Phew... That's good... My arm got a little scratched up, but it's nothing serious."
+    },
+    {
+     "sit": "Eula, how about you?"
+    },
+    {
+     "s": 2,
+     "t": "I'm okay. But I don't see the other two. I'm afraid... the avalanche may have pushed them off the cliff."
+    },
+    {
+     "s": 4,
+     "t": "They fell down!? Th—They'll be okay, though, right...?"
+    },
+    {
+     "s": 2,
+     "t": "I think they're both robust enough to survive the fall. But if the falling debris knocked them unconscious, and they're lying there in the freezing cold..."
+    },
+    {
+     "s": 2,
+     "t": "We have to get down there and rescue them, immediately."
+    },
+    {
+     "s": 1,
+     "t": "Okay, let's move!"
+    },
+    {
+     "s": 4,
+     "t": "Hang in there, guys..."
+    },
+    {
+     "section": "Amber, Bennett, Eula"
+    },
+    {
+     "s": 4,
+     "t": "Bennett!"
+    },
+    {
+     "s": 1,
+     "t": "Bennett, are you okay!? Shout if you can hear me! Bennett!"
+    },
+    {
+     "s": 0,
+     "t": "...Ugh..."
+    },
+    {
+     "s": 2,
+     "t": "A voice — over there!"
+    },
+    {
+     "s": 4,
+     "t": "Bennett, is that you!?"
+    },
+    {
+     "s": 0,
+     "t": "Guys... I'm over here..."
+    },
+    {
+     "s": 4,
+     "t": "Are you alright? Are you hurt?"
+    },
+    {
+     "s": 0,
+     "t": "I—I... lemme check..."
+    },
+    {
+     "s": 0,
+     "t": "Hmm... I'm a little dizzy, but I'm not in any pain... I don't think I'm injured."
+    },
+    {
+     "s": 1,
+     "t": "Thank goodness... scared the life out of me."
+    },
+    {
+     "s": 2,
+     "t": "If you're dizzy, sit and rest for a while."
+    },
+    {
+     "s": 0,
+     "t": "Ah, it's fine, really. This kind of thing happens all the time, I'll be fine. Thank you."
+    },
+    {
+     "s": 0,
+     "t": "Oh, wait, where's Albedo? Isn't he with you guys?"
+    },
+    {
+     "s": 4,
+     "t": "We thought he fell off the cliff with you... He still hasn't shown up..."
+    },
+    {
+     "s": 2,
+     "t": "We've found Bennett here, so Albedo can't be far away. Keep searching this area."
+    },
+    {
+     "s": 1,
+     "t": "Got it!"
+    },
+    {
+     "section": "Amber, Eula, Bennett, Albedo"
+    },
+    {
+     "s": 1,
+     "t": "Well? Any sign of him?"
+    },
+    {
+     "s": 2,
+     "t": "Not a trace."
+    },
+    {
+     "s": 0,
+     "t": "Nothing from me, either."
+    },
+    {
+     "s": 4,
+     "t": "Strange, we didn't have any luck, either... Where could he have gone...?"
+    },
+    {
+     "s": 3,
+     "t": "...Everyone."
+    },
+    {
+     "s": 4,
+     "t": "Ah! Albedo!? Are... are you okay?"
+    },
+    {
+     "sit": "You're not hurt?"
+    },
+    {
+     "s": 3,
+     "t": "Nothing serious."
+    },
+    {
+     "s": 2,
+     "t": "Okay. Everyone accounted for."
+    },
+    {
+     "s": 0,
+     "t": "Guys, I—I think... it's gotta be because of me. The avalanche only happened because I'm here."
+    },
+    {
+     "s": 0,
+     "t": "I guess flipping a Treasure Hoarder Insignia isn't gonna change my luck after all... No wonder no one wants to go adventuring with me. *sigh*"
+    },
+    {
+     "s": 0,
+     "t": "I'm so sorry!"
+    },
+    {
+     "s": 2,
+     "t": "Don't say that. I'm hardly the lucky type myself, so I'm not about to go blaming every little thing that goes wrong on you."
+    },
+    {
+     "s": 1,
+     "t": "Exactly! Besides, Dragonspine is a dangerous place. Avalanches literally come with the territory. Bad luck has nothing to do with it, okay?"
+    },
+    {
+     "sit": "(...Was that really an accident?)"
+    },
+    {
+     "s": 1,
+     "t": "Traveler, what's wrong?"
+    },
+    {
+     "s": 4,
+     "t": "Your face looks... *gasp* Oh no! Did you get hit on the head!?"
+    },
+    {
+     "sit": "No, I'm fine."
+    },
+    {
+     "s": 4,
+     "t": "Phew..."
+    },
+    {
+     "s": 3,
+     "t": "Everyone, the incident is behind us now. We should keep moving."
+    },
+    {
+     "s": 2,
+     "t": "Why do I feel that Dragonspine has become more dangerous than it used to be... I hope it's just my imagination..."
+    },
+    {
+     "s": 2,
+     "t": "Our top priority now is to get off the mountain and regroup with the adventurers. Whatever further dangers this mountain has to throw at us, we must face them together."
+    },
+    {
+     "s": 1,
+     "t": "Agreed. Guys, keep your eyes peeled and watch your step. Careful does it."
+    },
+    {
+     "section": "Amber, Bennett, Eula, Albedo"
+    },
+    {
+     "s": 1,
+     "t": "Whew! We've been heading in the right direction for a good length of time now — we must be getting close, I can feel it!"
+    },
+    {
+     "s": 4,
+     "t": "Victory is in sight, hooray!"
+    },
+    {
+     "s": 4,
+     "t": "As soon as we get to base camp, Paimon wants a bowl of hot soup and some barbecued meat!"
+    },
+    {
+     "s": 0,
+     "t": "I hope we can all get there safely. No more incidents, please..."
+    },
+    {
+     "sit": "(...)"
+    },
+    {
+     "sit": "(Weird things have been happening this whole trip... Something feels wrong, but what is it...?)"
+    },
+    {
+     "s": 4,
+     "t": "Hey, {NICKNAME}, what's on your mind? You seem a little distracted."
+    },
+    {
+     "sit": "Nothing, it's just..."
+    },
+    {
+     "sit": "With some things, I don't know where to begin."
+    },
+    {
+     "s": 4,
+     "t": "Something's up, isn't it? Uhh... are you hungry? Cold? Shall Paimon hug your head to warm you up?"
+    },
+    {
+     "sit": "Thanks, but I'm alright, Paimon."
+    },
+    {
+     "s": 1,
+     "t": "I don't think I've spent so much time on Dragonspine before. It sure is cold, but the view is amazing! Isn't it, Eula?"
+    },
+    {
+     "s": 2,
+     "t": "..."
+    },
+    {
+     "s": 1,
+     "t": "Eula?"
+    },
+    {
+     "s": 2,
+     "t": "Sorry, I wasn't listening. What did you say?"
+    },
+    {
+     "s": 1,
+     "t": "I was just thinking — whenever I've met up with you at Dragonspine in the past, we always stick to the same few spots. It's much more vast and beautiful here than I realized."
+    },
+    {
+     "s": 1,
+     "t": "If it were a little warmer and a little safer, I bet this place would be bustling with visitors."
+    },
+    {
+     "s": 2,
+     "t": "I agree... People are put off by the cold and have an aversion to danger. They don't realize that there is much to explore beneath the icy exterior, if you are willing to spend the time and energy."
+    },
+    {
+     "sit": "(Something seemed to grab Eula's attention. Does she sense that something's off, too?)"
+    },
+    {
+     "s": 2,
+     "t": "Albedo, is this the way down?"
+    },
+    {
+     "s": 3,
+     "t": "Yes."
+    },
+    {
+     "s": 0,
+     "t": "I think there are several routes in this area, hmm, does the path fork off here? It looks like it does... hmm, but maybe it doesn't... my head's still a little fuzzy from the impact..."
+    },
+    {
+     "s": 1,
+     "t": "I'm kind of dizzy, too. I keep thinking things are swaying a little... Maybe I'm just hungry?"
+    },
+    {
+     "s": 3,
+     "t": "Either path will work for us. The smaller trail is less worn and harder to see, but it's also shorter. Since everyone is weary, I suggest we take the shortcut."
+    },
+    {
+     "s": 3,
+     "t": "Follow me."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "section": "Eula, Bennett, Amber, Albedo"
+    },
+    {
+     "s": 2,
+     "t": "Wait."
+    },
+    {
+     "s": 2,
+     "t": "Bennett and Amber don't look well. Can we take a break? We can continue once their conditions have improved."
+    },
+    {
+     "s": 0,
+     "t": "Ugh... Now that you mention it..."
+    },
+    {
+     "s": 1,
+     "t": "Huh? I..."
+    },
+    {
+     "s": 2,
+     "t": "You hit your head earlier, didn't you?"
+    },
+    {
+     "s": 1,
+     "t": "Oh, y—you noticed. Hehe... Are you sure it's worth holding everyone up over a little thing like this?"
+    },
+    {
+     "s": 4,
+     "t": "No problem at all, health and safety always come first!"
+    },
+    {
+     "sit": "Take a break, both of you."
+    },
+    {
+     "s": 1,
+     "t": "Okay... Sorry for this. Thank you."
+    },
+    {
+     "s": 0,
+     "t": "Yeah... thank you."
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "section": "Bennett, Amber"
+    },
+    {
+     "s": 0,
+     "t": "Drinking some water can help with the dizziness! Oh, and uh, lying flat on your back helps too."
+    },
+    {
+     "s": 1,
+     "t": "Thank you, Bennett. Seems like you really know your stuff!"
+    },
+    {
+     "s": 0,
+     "t": "Haha... Well, when life gives you lemons..."
+    },
+    {
+     "s": 2,
+     "t": "Bennett, weren't you feeling dizzy too? Stop pushing yourselves, both of you. Get some rest, we'll continue when you've gathered your energy."
+    },
+    {
+     "s": 1,
+     "t": "Pfft..."
+    },
+    {
+     "s": 1,
+     "t": "Eula might come off as a little frosty, but she takes caring for her friends super seriously, more than anyone else I know. Every time I see that look on her face, I'm just like... Aah! Stop staring at me!"
+    },
+    {
+     "section": "Eula"
+    },
+    {
+     "s": 2,
+     "t": "Traveler, I know what that look means. What's on your mind?"
+    },
+    {
+     "sit": "...I have a bad feeling about this."
+    },
+    {
+     "sit": "It's like something bad's about to happen."
+    },
+    {
+     "s": 2,
+     "t": "Maybe seasoned veterans have an instinct for it."
+    },
+    {
+     "s": 2,
+     "t": "I sense it too. Something seems to have changed, but I can't confirm for sure... it could be difficult to verify."
+    },
+    {
+     "sit": "(What could it be...)"
+    },
+    {
+     "s": 2,
+     "t": "It might be... imprudent to speculate out loud. But I believe you know what I am referring to."
+    },
+    {
+     "sit": "(...)"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 2,
+     "t": "Traveler, I think..."
+    },
+    {
+     "sit": "(...!?)"
+    },
+    {
+     "s": 2,
+     "t": "You..."
+    },
+    {
+     "sit": "Watch out!"
+    },
+    {
+     "section": "Albedo, Amber, Eula, Bennett"
+    },
+    {
+     "s": 3,
+     "t": "...Hmph."
+    },
+    {
+     "s": 4,
+     "t": "What in the world was that thing!? One moment it was human, the next it was a plant..."
+    },
+    {
+     "s": 3,
+     "t": "Is everyone alright?"
+    },
+    {
+     "s": 1,
+     "t": "We're fine. But can you please tell us what's going on? I—I don't understand..."
+    },
+    {
+     "s": 2,
+     "t": "I take it this monster is whom I had the pleasure of meeting last time."
+    },
+    {
+     "s": 3,
+     "t": "Correct."
+    },
+    {
+     "s": 3,
+     "t": "As you might have guessed, this is a mutated whopperflower. An extremely rare kind."
+    },
+    {
+     "s": 4,
+     "t": "But can whopperflowers turn into humans?"
+    },
+    {
+     "s": 3,
+     "t": "Not typically. But conditions on Dragonspine are far from typical."
+    },
+    {
+     "s": 3,
+     "t": "Perhaps the dragon's blood seeped into the land, then was passed to the monsters via the ley lines, accelerating their rate of mutation."
+    },
+    {
+     "s": 0,
+     "t": "How could that happen!?"
+    },
+    {
+     "s": 3,
+     "t": "This mountain is home to the remains of Durin, the venomous dragon. If there is anywhere in the world one might expect life to do unfathomable things, it would most likely be here."
+    },
+    {
+     "s": 3,
+     "t": "Durin was an artificially created life form. Its existence is nothing short of a miracle, and proof of countless possibilities."
+    },
+    {
+     "s": 3,
+     "t": "In other words, this mountain we stand on is a cradle of life's profoundest mysteries... A vast and terrifying hotbed of possibilities."
+    },
+    {
+     "s": 2,
+     "t": "The avalanche... it must have been the work of this impostor."
+    },
+    {
+     "sit": "I think so, too."
+    },
+    {
+     "s": 3,
+     "t": "Agreed. All the other troubles you faced on the way down could also have been its handiwork. My guess is that it was targeting everyone that I've had contact with."
+    },
+    {
+     "sit": "Did this whopperflower steal your alchemy notes, too?"
+    },
+    {
+     "s": 1,
+     "t": "Right! I forgot all about that!"
+    },
+    {
+     "s": 3,
+     "t": "It's not inconceivable."
+    },
+    {
+     "s": 1,
+     "t": "But... what was its purpose? Was it just trying to get rid of us?"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "s": 3,
+     "t": "I have a preliminary hypothesis on this."
+    },
+    {
+     "s": 3,
+     "t": "Whopperflowers are masters of mimicry, and those we encounter in the wild often appear in the vicinity of the plants they impersonate."
+    },
+    {
+     "s": 3,
+     "t": "In other words, the whopperflower likely has an instinct to \"replicate and replace.\""
+    },
+    {
+     "s": 3,
+     "t": "As a plant, it will disguise itself as another plant and infiltrate the group, hiding among them for cover. The plant being imitated has no way to detect or fight back against this behavior."
+    },
+    {
+     "s": 3,
+     "t": "But when it disguises itself as a human..."
+    },
+    {
+     "s": 4,
+     "t": "It wanted to replace you and infiltrate our group?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. Maybe it created the avalanche to get rid of us. I predicted this eventuality, so I availed myself of the avalanche to hide and lure it out."
+    },
+    {
+     "s": 3,
+     "t": "It was watching us the whole time, and when it saw that I had disappeared, its instinct was to take my place. At that point, its disguise was complete and its next move was to hunt its prey."
+    },
+    {
+     "s": 1,
+     "t": "Yes, that's exactly how whopperflowers operate."
+    },
+    {
+     "s": 2,
+     "t": "So when it approached and attacked Joel... what was that? A trial run?"
+    },
+    {
+     "s": 3,
+     "t": "Perhaps... Or maybe it enjoyed posing as a human and wanted to experience what it felt like to be human."
+    },
+    {
+     "s": 2,
+     "t": "We're fortunate to have discovered it in time. I think the Traveler was the first person other than Albedo to notice something was wrong."
+    },
+    {
+     "sit": "Eula, you were very perceptive too."
+    },
+    {
+     "s": 3,
+     "t": "Traveler, how could you tell the real me and my impostor apart?"
+    },
+    {
+     "s": 0,
+     "t": "I wanna know, too! I had no idea the other guy was an impostor... They looked exactly the same to me."
+    },
+    {
+     "sit": "The impostor didn't have a star-shaped mark on its neck."
+    },
+    {
+     "s": 3,
+     "t": "I see..."
+    },
+    {
+     "s": 3,
+     "t": "It goes to show how difficult it is to impersonate a human. This mutant whopperflower tried its best to replicate the original exactly, but still managed to miss some details."
+    },
+    {
+     "s": 1,
+     "t": "Unbelievable... to think that Dragonspine creates such terrifying possibilities..."
+    },
+    {
+     "sit": "(A whopperflower... it adds up, but a piece of the puzzle is still missing...)"
+    },
+    {
+     "sit": "(...Was this the same one we met on the day we were chasing the thief? It didn't feel quite the same... Could the whopperflower's mutation be unstable?)"
+    },
+    {
+     "s": 0,
+     "t": "Anyway, at least we won in the end. It looks like my method did work after all — I used up all the bad luck, and the good luck finally came through!"
+    },
+    {
+     "s": 3,
+     "t": "About that..."
+    },
+    {
+     "s": 3,
+     "t": "If you're referring to having fallen down the mountain and avoided injury, well, that's because I was secretly protecting you."
+    },
+    {
+     "s": 0,
+     "t": "Huh? Uhh... well that still counts as good luck to me!"
+    },
+    {
+     "s": 3,
+     "t": "Haha, yes, that's not an unreasonable way of looking at it."
+    },
+    {
+     "s": 3,
+     "t": "Okay. We've been delayed long enough. Time to move on."
+    },
+    {
+     "s": 4,
+     "t": "Yeah, let's go!"
+    },
+    {
+     "s": 3,
+     "t": "..."
+    },
+    {
+     "section": "Bennett, Amber, Eula, Albedo"
+    },
+    {
+     "s": 0,
+     "t": "Woohoo! I'm back!"
+    },
+    {
+     "s": 1,
+     "t": "Cyrus doesn't seem to be here... He must have headed up the mountain. Let's wait for him here."
+    },
+    {
+     "s": 2,
+     "t": "Amber, are you feeling better?"
+    },
+    {
+     "s": 1,
+     "t": "Yep! All good now. Nothing to worry about."
+    },
+    {
+     "s": 0,
+     "t": "I don't know what I'd do without you guys... if not for you, I'd probably still be locked up in that cage..."
+    },
+    {
+     "s": 0,
+     "t": "I really wanna thank you all properly, but I can't think how at the moment..."
+    },
+    {
+     "s": 4,
+     "t": "Huh? You must be pretty used to being on the receiving end of people's kindness by now, though, surely? You probably need it often enough given your... situation, hehe."
+    },
+    {
+     "s": 0,
+     "t": "*sigh* ...Come on, don't put it like that."
+    },
+    {
+     "s": 0,
+     "t": "Sure, plenty of people have shown me kindness before. But that doesn't mean I will ever take it for granted. No matter how many times people help me out in life, I will never forget any of them."
+    },
+    {
+     "s": 3,
+     "t": "Well, instead of repaying those who helped you, perhaps you could help others yourself? Everyone meets others in need from time to time. By choosing to be there for them, you're passing the kindness you received onto others."
+    },
+    {
+     "s": 0,
+     "t": "Yep, you're right. That's what I've always tried to do and will always continue to do."
+    },
+    {
+     "sit": "You could start with helping rookie adventurers."
+    },
+    {
+     "s": 0,
+     "t": "Hahaha, right! And when Cyrus gets back, I'll find some way to help him out, too!"
+    },
+    {
+     "s": 2,
+     "t": "Phew... This has been quite an eventful day."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, it has! It's really hit me how tired I am now that I've started to relax..."
+    },
+    {
+     "s": 2,
+     "t": "I need to rest. Everyone, please excuse me for a while."
+    },
+    {
+     "s": 1,
+     "t": "Yeah, I need to get some water and maybe a piece of fruit. Once I'm rested up, I need to get back to being an instructor again..."
+    },
+    {
+     "s": 4,
+     "t": "Phew, well it looks like the curse of the mountaineers who couldn't get off the mountain is finally broken."
+    },
+    {
+     "s": 4,
+     "t": "Feels like an action-packed chapter has come to a close. Shall we find somewhere to rest and chat, too?"
+    },
+    {
+     "s": 3,
+     "t": "Why not. Then, please come with me."
+    },
+    {
+     "sit": "(Knew he had something to say to me...)"
+    },
+    {
+     "s": 3,
+     "t": "You sensed something too, didn't you? Then let's go."
+    },
+    {
+     "s": 4,
+     "t": "Huh? Are you going back to your camp again? Paimon thought maybe we could talk here?"
+    },
+    {
+     "sit": "Come on, Paimon."
+    },
+    {
+     "s": 4,
+     "t": "Ugh, okay... might as well come with you..."
+    },
+    {
+     "s": 3,
+     "t": "Good. Shall we set off right away?"
+    },
+    {
+     "sit": "Sure."
+    },
+    {
+     "section": "Albedo"
+    },
+    {
+     "s": 3,
+     "t": "Sorry for bringing you back here once again. Some topics are best discussed in private."
+    },
+    {
+     "s": 4,
+     "t": "Is this about the impostor?"
+    },
+    {
+     "s": 3,
+     "t": "That's right."
+    },
+    {
+     "s": 3,
+     "t": "I have to say, Traveler... I'm very surprised you noticed the difference between me and the impostor."
+    },
+    {
+     "sit": "Do you mean the mark on your neck...?"
+    },
+    {
+     "s": 3,
+     "t": "Yes. This mark... perhaps it's where it all began."
+    },
+    {
+     "s": 4,
+     "t": "Ooh! Sounds like the beginning of a big story, keep going!"
+    },
+    {
+     "s": 3,
+     "t": "Well, I can't deny that what I'm about to say does sound like something from a children's storybook."
+    },
+    {
+     "s": 3,
+     "t": "So, what do you think this diamond-shaped mark means?"
+    },
+    {
+     "s": 4,
+     "t": "Uh... A tattoo? A crest? ...Something else?"
+    },
+    {
+     "sit": "A scar?"
+    },
+    {
+     "s": 3,
+     "t": "No. Consider it... a birthmark."
+    },
+    {
+     "s": 3,
+     "t": "Have you ever seen an intricate glass ornament and wondered how it was made? Well, one method for crafting with glass is a technique known as \"glassblowing.\""
+    },
+    {
+     "s": 3,
+     "t": "Glassblowing is not a widely known art in Teyvat. For this reason, glassware made in this way is usually very expensive."
+    },
+    {
+     "s": 3,
+     "t": "As the name implies, glassblowing involves blowing air into a hole, much like blowing up a balloon."
+    },
+    {
+     "s": 3,
+     "t": "This type of glassware is known for having a \"pontil mark\" at the point where the blowpipe was inserted, where the hole was sealed at the very end. This mark is a sign that the item was crafted by a human hand."
+    },
+    {
+     "s": 4,
+     "t": "Sounds kind of amazing."
+    },
+    {
+     "s": 3,
+     "t": "It is a wondrous and beautiful art form. Alice says that these marks are seen as proof of the maker's fine handiwork, the only flaw in an otherwise perfect work of art."
+    },
+    {
+     "s": 3,
+     "t": "My mark is something similar to this."
+    },
+    {
+     "s": 3,
+     "t": "The difference between synthetic and natural life lies in the directional flow of the life force."
+    },
+    {
+     "s": 3,
+     "t": "The energy of a natural life form flows out from within. That's why flower buds bloom and curled leaves unfold. It is the very reason we watch in wonder at blossoming flowers."
+    },
+    {
+     "s": 3,
+     "t": "Creating life artificially, on the other hand, involves — to a certain extent — the introduction of an external source of energy into the embryonic life form. When the hole where the life force was infused is sealed at the end, it leaves a mark not dissimilar to the pontil mark in blown glass wares."
+    },
+    {
+     "s": 3,
+     "t": "The alchemical substance drips and spreads out in all directions, resulting in this rather ingenious diamond shape."
+    },
+    {
+     "s": 4,
+     "t": "Wow, so that's where it came from..."
+    },
+    {
+     "s": 3,
+     "t": "This mark is a sign of my artificial origins, and proof of my imperfection as a human."
+    },
+    {
+     "s": 3,
+     "t": "I presume that the impostor intentionally avoided replicating this mark, so as not to become less than perfect himself."
+    },
+    {
+     "sit": "..."
+    },
+    {
+     "sit": "Should you be telling me all this?"
+    },
+    {
+     "s": 3,
+     "t": "You are fundamentally different from other people. I have few qualms about sharing my secrets with you."
+    },
+    {
+     "s": 3,
+     "t": "Just as Paimon said, it all sounds like a story. Even if you were to tell anyone else, they would regard it as nothing more than a tall tale."
+    },
+    {
+     "s": 3,
+     "t": "The transcendent and miraculous are not the only things to which human beings aspire. They pursue the everyday, the ordinary, to a far greater extent than I would have ever imagined."
+    },
+    {
+     "sit": "Hence the notion of \"otherness.\""
+    },
+    {
+     "s": 3,
+     "t": "People like to believe that those who are thoroughly different from themselves could only ever exist in stories. It makes things much easier."
+    },
+    {
+     "s": 3,
+     "t": "Or in other words, all the unfathomable things we have seen recently would make good material for a novel."
+    },
+    {
+     "s": 3,
+     "t": "I have friends who write novels. If they wrote this story, it would probably be even more complex."
+    },
+    {
+     "s": 4,
+     "t": "Making up stories is easy. Even Paimon can do that!"
+    },
+    {
+     "s": 3,
+     "t": "Oh? I didn't know you had that kind of talent."
+    },
+    {
+     "s": 4,
+     "t": "Hehehe, Paimon's the best guide in Teyvat. Making up stories is a piece of cake."
+    },
+    {
+     "s": 3,
+     "t": "In that case, how about we have a storytelling contest?"
+    },
+    {
+     "s": 3,
+     "t": "We can base our stories on the events of the last few days."
+    },
+    {
+     "s": 4,
+     "t": "Sounds great! But we still have to help out the Adventurers' Guild..."
+    },
+    {
+     "s": 3,
+     "t": "I understand. Creativity is something that cannot be rushed. Take your time, and come back when you have found some inspiration."
+    },
+    {
+     "s": 3,
+     "t": "We'll see whose story is more compelling."
+    },
+    {
+     "s": 4,
+     "t": "Deal!"
+    },
+    {
+     "s": 4,
+     "t": "Okay, we'll regroup with the Adventurers' Guild for now!"
+    },
+    {
+     "s": 3,
+     "t": "Sure."
+    }
+   ],
+   "description": "Having been invited to serve as instructors at the Adventurers’ Guild winter camp, you reach an agreement with Albedo, who is also conducting research in the mountains, to find out what happened here. The path towards the truth is winding and long, and you keep encountering new things…"
+  }
+ ],
+ "speakers": [
+  "Bennett",
+  "Amber",
+  "Eula",
+  "Albedo",
+  "Paimon",
+  "You examine the picture..."
+ ]
+}
