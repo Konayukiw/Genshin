@@ -229,6 +229,10 @@ def build_quests():
                     hit = qrel.get(rel) or {}
                     eid = hit.get("id")
                     obj["id"] = eid
+                    qids = hit.get("qids") or []
+                    for i, q in enumerate(obj.get("quests") or []):
+                        if i < len(qids) and isinstance(q, dict):
+                            obj["quests"][i] = {"id": qids[i], **q}
                     if eid:
                         n_id += 1
                     parts = rel.split("/")

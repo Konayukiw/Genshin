@@ -11,6 +11,9 @@ ID scheme:
   q-<n>      quest-level page id (world / event / hangout zh)
   ch-<n>     chapter-level id (story chapters, hangout ja, archon chapters)
   ch-<n>-<k> k-th act file inside a chapter (story / archon multi-act)
+
+Entries may carry "qids" (list of q-<n>) mapping the quests[] entries of a
+chapter/act file to their quest-level page ids (zh story, ja archon).
 """
 import html as htmllib
 import io
@@ -298,51 +301,257 @@ def _match_by_title(files, title2cid, allow_ordinal=True):
 
 
 def _match_story_zh(files):
-    """zh story: q page Series part0/part1 + enum_lq qids -> cid."""
-    chapters = wiki_chapters_lq("zh")
-    qid2cid = {}
-    for cid, e in chapters.items():
-        for q in e["qids"]:
-            qid2cid.setdefault(q, cid)
-    if not qid2cid:
+    """zh story: html_lq_zh/ch_index.json maps each ch_ page (1:1 with an act
+    file) to its q_ pages (1:1 with quests[] entries). File id = ch-<cid>;
+    per-quest ids = q-<qid> emitted as "qids" in page order."""
+    base = TMP / "html_lq_zh"
+    idx_p = base / "ch_index.json"
+    if not idx_p.is_file():
         return {}
-    qpages = load_tds_qpages(TMP / "html_lq_zh" / "q")
-    stem2cids = defaultdict(set)
-    folder2cids = defaultdict(set)
-    for slug, (_title, meta) in qpages.items():
-        qid = slug.split("_")[-1]
-        cid = qid2cid.get(qid)
-        if not cid:
-            continue
-        sv = meta.get("Series", "")
-        if not sv or sv.lower() == "n/a":
-            continue
-        parts = [norm(x) for x in sv.split(":") if norm(x)]
-        if parts:
-            stem2cids[parts[0]].add(cid)
-        if len(parts) > 1:
-            folder2cids[parts[1]].add(cid)
-    by_cid = defaultdict(list)
-    for key in files:
-        stem = key[1].split("/")[-1]
-        cids = stem2cids.get(norm(stem), set())
-        if len(cids) > 1:
-            cids &= folder2cids.get(norm(key[0]), set())
-        if len(cids) == 1:
-            by_cid[next(iter(cids))].append(key)
+    ch_idx = json.loads(idx_p.read_text(encoding="utf-8"))
+    ch_series = {}
+    list_p = base / "ch_list.json"
+    if list_p.is_file():
+        for row in json.loads(list_p.read_text(encoding="utf-8")):
+            ch_series[row.get("slug") or ""] = clean_marker(row.get("series") or "")
+
+    qmeta = {}  # qid -> (clean title, has_dialog, meta)
+    qdir = base / "q"
+    if qdir.is_dir():
+        for fn in sorted(os.listdir(qdir)):
+            if not fn.endswith(".json"):
+                continue
+            try:
+                d = json.loads((qdir / fn).read_text(encoding="utf-8"))
+            except Exception:
+                continue
+            title = clean_marker(SUFFIX_RE.sub("", d.get("title") or ""))
+            meta = meta_from_tds(d.get("tds"))
+            if not title:
+                title = clean_marker(meta.get("Name", "") or "")
+            has_dialog = any("dialog_data.push" in s for s in d.get("scripts") or [])
+            qmeta[fn[:-5].split("_")[-1]] = (title, has_dialog, meta)
+
+    def is_stub(t):
+        return "(test)" in (t or "").replace("（", "(").replace("）", ")").casefold()
+
+    def kept_qs(ch_key):
+        """q ids of one ch page minus (test) stubs and empty pages, in page
+        order; an untitled quest with dialogue falls back to the ch title."""
+        ch_title = clean_marker((ch_idx.get(ch_key) or {}).get("title") or "")
+        out = []
+        for q in (ch_idx.get(ch_key) or {}).get("qs") or []:
+            title, has_dialog, meta = qmeta.get(str(q), ("", False, {}))
+            if is_stub(title):
+                continue
+            if not title and not has_dialog and \
+                    not any(k in meta for k in ("Description", "Next", "Involved NPC")):
+                continue
+            out.append((str(q), norm(title) or norm(ch_title)))
+        return out
+
+    title2ch = defaultdict(list)
+    for key, v in ch_idx.items():
+        t = norm(v.get("title") or "")
+        if t:
+            title2ch[t].append(key)
+
     result = {}
-    for cid, keys in by_cid.items():
-        if len(keys) == 1:
-            result[keys[0]] = {"id": f"ch-{cid}", "via": "series+enum",
-                               "rel": files[keys[0]]["rel"]}
-        else:
-            ordered = sorted(keys, key=lambda k: (act_ordinal(files[k]["json"].get("act"),
-                                                               k[1]) or 10 ** 6, k[1]))
-            for i, k in enumerate(ordered):
-                result[k] = {"id": f"ch-{cid}-{i + 1}", "via": "series+enum+ordinal",
-                             "rel": files[k]["rel"]}
+    for key, info in files.items():
+        folder, stem = key
+        cands = title2ch.get(norm(stem), [])
+        if len(cands) > 1:
+            by_series = [c for c in cands
+                         if norm(ch_series.get(c, "").split(" ")[0]) == norm(folder)]
+            if by_series:
+                cands = by_series
+        if len(cands) != 1:
+            continue
+        ch_key = cands[0]
+        ftitles = [norm((q or {}).get("title") or "")
+                   for q in (info["json"].get("quests") or [])]
+        cands_q = kept_qs(ch_key)
+        qids, used = [], set()
+        for ft in ftitles:
+            hit = next((i for i, (_q, qt) in enumerate(cands_q)
+                        if i not in used and qt == ft), None)
+            if hit is None:
+                qids, used = [], set()
+                break
+            used.add(hit)
+            qids.append(f"q-{cands_q[hit][0]}")
+        if len(qids) != len(ftitles):  # fall back to page order
+            qids = [f"q-{q}" for q, _t in cands_q] if len(cands_q) == len(ftitles) else []
+        entry = {"id": f"ch-{ch_key.split('_')[-1]}", "via": "ch_index",
+                 "rel": info["rel"]}
+        if qids:
+            entry["qids"] = qids
+        result[key] = entry
     return result
 
+
+
+def _match_archon_ja(files):
+    """ja archon: html_aq_ja/ch_index.json maps each ch_ page (1:1 with an
+    act file) to its q_ links (1:1 with quests[] entries), scraped from the
+    chapter page itself. File id = ch-<cid>; per-quest ids = q-<qid>.
+
+    Title quirks handled: unrendered wiki template macros in page titles
+    ({MATEAVATAR#SEXPRO[...]}) match by suffix; ・/· and full-width paren
+    normalization; act files whose title diverges from the page title match
+    via their quests[] titles against the q link names."""
+    base = TMP / "html_aq_ja"
+    idx_p = base / "ch_index.json"
+    if not idx_p.is_file():
+        return {}
+    ch_idx = json.loads(idx_p.read_text(encoding="utf-8"))
+    ch_series, ch_name = {}, {}
+    list_p = base / "ch_list.json"
+    if list_p.is_file():
+        for row in json.loads(list_p.read_text(encoding="utf-8")):
+            slug = row.get("slug") or ""
+            ch_series[slug] = clean_marker(row.get("series") or "")
+            ch_name[slug] = clean_marker(row.get("name") or "")
+
+    def norm_ja(t):
+        t = norm(t).replace("\u30fb", "\u00b7")
+        return t.replace("\uff08", "(").replace("\uff09", ")")
+
+    def is_stub(t):
+        return "(test)" in (t or "").replace("\uff08", "(").replace("\uff09", ")").casefold()
+
+    macro_re = re.compile(r"\{[^{}]*\}")
+    title2ch = defaultdict(list)
+    macro_suffix = []
+    for key, v in ch_idx.items():
+        for t in (v.get("title") or "", ch_name.get(key, "")):
+            t = clean_marker(t)
+            tn = norm_ja(t)
+            if not tn or tn == "n/a":
+                continue
+            if "{" in t:
+                suf = norm_ja(macro_re.sub("", t))
+                if suf:
+                    macro_suffix.append((suf, key))
+            else:
+                title2ch[tn].append(key)
+
+    qname2ch = defaultdict(list)
+    qname_global = defaultdict(list)
+    for key, v in ch_idx.items():
+        for qid, nm in (v.get("qnames") or {}).items():
+            qn = norm_ja(nm)
+            if not qn or qn == "n/a" or is_stub(nm):
+                continue
+            qname2ch[qn].append(key)
+            qname_global[qn].append((key, str(qid)))
+
+    def kept_qs(ch_key):
+        """(qid, normalized name) in page order, minus (test) stubs."""
+        v = ch_idx.get(ch_key) or {}
+        qnames = v.get("qnames") or {}
+        return [(str(q), norm_ja(qnames.get(str(q), "")))
+                for q in v.get("qs") or []
+                if not is_stub(qnames.get(str(q), ""))]
+
+    def match_quests(info, ch_key):
+        ftitles = [norm_ja((q or {}).get("title") or "")
+                   for q in (info["json"].get("quests") or [])]
+        cands_q = kept_qs(ch_key)
+        qids, used, taken = [], set(), set()
+        ok = True
+        for ft in ftitles:
+            hit = next((i for i, (_q, qt) in enumerate(cands_q)
+                        if i not in used and qt == ft), None)
+            if hit is not None:
+                used.add(hit)
+                qids.append(f"q-{cands_q[hit][0]}")
+                taken.add(cands_q[hit][0])
+                continue
+            # quest listed on another chapter page (e.g. an epilogue quest
+            # the in-game act still carries) -> unique global qname lookup
+            gl = [g for g in qname_global.get(ft, []) if g[1] not in taken]
+            if len(gl) == 1:
+                qids.append(f"q-{gl[0][1]}")
+                taken.add(gl[0][1])
+                continue
+            ok = False
+            break
+        if not ok:  # fall back to page order
+            qids = [f"q-{q}" for q, _t in cands_q] if len(cands_q) == len(ftitles) else []
+        return qids
+
+    matched = {}
+    for key, info in files.items():
+        folder, stem = key
+        data = info["json"]
+        ftitles = {norm_ja(stem), norm_ja(data.get("act_title") or "")} - {""}
+        qtitles = {norm_ja((q or {}).get("title") or "")
+                   for q in (data.get("quests") or [])} - {""}
+        ch_key, via = None, None
+
+        cands = set()
+        for t in ftitles:
+            cands.update(title2ch.get(t, []))
+        if len(cands) > 1:
+            by_series = {c for c in cands
+                         if norm(ch_series.get(c, "").split(" ")[0]) == norm(folder)}
+            if by_series:
+                cands = by_series
+        if len(cands) == 1:
+            ch_key, via = next(iter(cands)), "ch-title"
+
+        if not ch_key:
+            cands = set()
+            for t in ftitles:
+                cands.update(c for suf, c in macro_suffix if t.endswith(suf))
+            if len(cands) == 1:
+                ch_key, via = next(iter(cands)), "ch-title-macro"
+
+        if not ch_key:
+            cands = set()
+            for t in ftitles | qtitles:
+                cands.update(qname2ch.get(t, []))
+            if len(cands) == 1:
+                ch_key, via = next(iter(cands)), "qname"
+
+        if not ch_key:
+            scores = defaultdict(int)
+            for t in qtitles:
+                for c in qname2ch.get(t, []):
+                    scores[c] += 1
+            if scores:
+                best = max(scores.values())
+                top = {c for c, s in scores.items() if s == best}
+                if best >= 2 and len(top) == 1:
+                    ch_key, via = next(iter(top)), "quests-overlap"
+
+        if not ch_key:
+            continue
+        entry = {"id": f"ch-{ch_key.split('_')[-1]}", "via": via, "rel": info["rel"]}
+        qids = match_quests(info, ch_key)
+        if qids:
+            entry["qids"] = qids
+        matched[key] = (ch_key, entry)
+
+    # two files on one ch page -> act ordinals, like _match_by_title
+    by_ch = defaultdict(list)
+    for key, (ch_key, _e) in matched.items():
+        by_ch[ch_key].append(key)
+    result = {}
+    for ch_key, keys in by_ch.items():
+        if len(keys) == 1:
+            result[keys[0]] = matched[keys[0]][1]
+            continue
+        cid = ch_key.split("_")[-1]
+        ordered = sorted(keys, key=lambda k: (act_ordinal(files[k]["json"].get("act"),
+                                                          k[1]) or 10 ** 6, k[1]))
+        for i, k in enumerate(ordered):
+            e = dict(matched[k][1])
+            e["id"] = f"ch-{cid}-{i + 1}"
+            e["via"] += "+ordinal"
+            result[k] = e
+    return result
 
 
 def wiki_chapters_aq(lang):
@@ -466,7 +675,9 @@ def match_type(qtype, lang):
                 result.setdefault(k, v)
 
     elif qtype in ("story", "archon"):
-        if qtype == "archon":
+        if qtype == "archon" and lang == "ja":
+            result.update(_match_archon_ja(files))
+        elif qtype == "archon":
             chapters = wiki_chapters_aq(lang)
             title2cid = defaultdict(list)
             for cid, ts in chapters.items():
@@ -497,8 +708,10 @@ def main():
             if qtype not in QUEST_DIRS[lang]:
                 continue
             res, cov = match_type(qtype, lang)
-            maps[f"{qtype}/{lang}"] = {info["rel"]: {"id": info["id"], "via": info["via"]}
-                                       for info in res.values()}
+            maps[f"{qtype}/{lang}"] = {
+                info["rel"]: {"id": info["id"], "via": info["via"],
+                              **({"qids": info["qids"]} if info.get("qids") else {})}
+                for info in res.values()}
             pct = f"{cov[0] * 100 // cov[1]}%" if cov[1] else "-"
             report.append((qtype, lang, cov[0], cov[1], pct))
     MAPS_OUT.parent.mkdir(parents=True, exist_ok=True)

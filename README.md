@@ -26,12 +26,12 @@ genshin/
 | エンドポイント | 内容 |
 |---|---|
 | `GET /v1` | マニフェスト (`data_version`, カテゴリ別件数) |
-| `GET /v1/:locale` | API インデックス |
-| `GET /v1/:locale/:category` | キャラクター一覧 (`characters` / `weapons` / `artifacts`) |
-| `GET /v1/:locale/:category/:slug` | 個別データ |
-| `GET /v1/:locale/quests` | 任務一覧 |
-| `GET /v1/:locale/quests/:type` | 任務一覧 (`archon` / `story` / `world` / `event` / `hangout`) |
-| `GET /v1/:locale/quests/:type/:slug` | 個別クエスト |
+| `GET /v1/(locale)` | API インデックス |
+| `GET /v1/(locale)/(category)` | キャラクター一覧 (`characters` / `weapons` / `artifacts`) |
+| `GET /v1/(locale)/(category)/(slug)` | 個別データ |
+| `GET /v1/(locale)/quests` | 任務一覧 |
+| `GET /v1/(locale)/quests/(type)` | 任務一覧 (`archon` / `story` / `world` / `event` / `hangout`) |
+| `GET /v1/(locale)/quests/(type)/(slug)` | 個別クエスト |
 
 - すべてのレスポンスに `Access-Control-Allow-Origin: *` (CORS) を付与
 - `data_version` は `data/` 更新のたびに変わるため、クライアントは `/v1` を見て更新を検知
