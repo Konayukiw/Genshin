@@ -42,7 +42,7 @@ jobs:
 
       - name: Sync data/ to R2 (differential)
         run: |
-          rclone sync data/ r2:genshin-db/ \
+          rclone sync data/ r2:genshin/ \
             --fast-list \
             --s3-no-check-bucket \
             --exclude "_recover_log.txt" \
@@ -50,5 +50,5 @@ jobs:
 
       - name: Publish manifest last (atomic version bump)
         run: |
-          rclone copyto data/v1/index.json r2:genshin-db/v1/index.json --verbose
+          rclone copyto data/v1/index.json r2:genshin/v1/index.json --verbose
           echo "Published data_version: $(cat data/v1/index.json | grep -o '"data_version": "[^"]*"')"
