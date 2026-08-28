@@ -154,9 +154,9 @@ def build_entities(maps):
                 meta = maps[cat].get(lang, {}).get(stem)
                 obj = load_json(p)
                 eid = meta["id"] if meta else None
-                en_name = (meta or {}).get("en_name") or obj.get("name")
+                en_name = (meta or {}).get("en_name") or obj.get("name") or obj.get("set_name")
                 if lang == "en":
-                    en_name = obj.get("name")
+                    en_name = obj.get("name") or obj.get("set_name")
                 obj["id"] = eid
                 if eid:
                     n_id += 1
@@ -165,7 +165,8 @@ def build_entities(maps):
                 slug = unique(slugify_en(en_name) if eid else slugify_locale(obj.get("name")),
                               used)
                 dump_json(DATA / lang / cat / f"{slug}.json", obj)
-                item = {"id": eid, "slug": slug, "name": obj.get("name"),
+                item = {"id": eid, "slug": slug,
+                        "name": obj.get("name") or obj.get("set_name"),
                         "en_name": en_name,
                         "url": f"/v1/{lang}/{cat}/{slug}.json"}
                 if cat == "characters":
