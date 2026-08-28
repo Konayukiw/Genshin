@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "genshin-db-api",
+  "name": "genshin-api",
   "main": "src/index.ts",
   "compatibility_date": "2025-05-05",
   "observability": {
@@ -9,7 +9,7 @@
   "r2_buckets": [
     {
       "binding": "DATA",
-      "bucket_name": "genshin-db"
+      "bucket_name": "genshin"
     }
   ]
 }

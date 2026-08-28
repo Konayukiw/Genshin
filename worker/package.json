@@ -1,5 +1,5 @@
 {
-  "name": "genshin-db-api",
+  "name": "genshin-api",
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
@@ -7,7 +7,7 @@
     "tail": "wrangler tail"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20250509.0",
+    "@cloudflare/workers-types": "^5.20260826.1",
     "typescript": "^5.5.4",
     "wrangler": "^4.14.0"
   }

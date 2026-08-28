@@ -1,5 +1,5 @@
 /**
- * Genshin DB API — Cloudflare Worker
+ * Genshin Database API — Cloudflare Worker
  *
  * Serves data/v1/** from a private R2 bucket (binding: DATA) with
  * version-keyed edge caching: the manifest's data_version is part of every
@@ -41,7 +41,6 @@ function err(status: number, code: string, message: string): Response {
   return json({ error: { code, message } }, status);
 }
 
-/** data_version from the manifest, edge-cached for 60 s. */
 async function dataVersion(env: Env, ctx: ExecutionContext): Promise<string> {
   const cacheKey = new Request("https://__meta.local__/data_version");
   const cache = caches.default;
@@ -55,7 +54,6 @@ async function dataVersion(env: Env, ctx: ExecutionContext): Promise<string> {
       version = String(manifest.data_version ?? "");
     }
   } catch {
-    /* fall through with empty version */
   }
   const res = new Response(version, { headers: { "Cache-Control": "max-age=60" } });
   ctx.waitUntil(cache.put(cacheKey, res.clone()));
@@ -71,8 +69,6 @@ async function serveKey(
 ): Promise<Response> {
   const url = new URL(request.url);
   const version = await dataVersion(env, ctx);
-
-  // Fresh data wins: new version -> new cache key, old entries expire naturally.
   const cacheKey = new Request(`${url.origin}${url.pathname}?v=${version}`);
   const cache = caches.default;
   const cached = await cache.match(cacheKey);
