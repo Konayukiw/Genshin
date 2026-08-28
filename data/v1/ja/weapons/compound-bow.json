@@ -1,0 +1,705 @@
+{
+  "name": "リングボウ",
+  "rarity": 4,
+  "type": "弓",
+  "base_atk": 41,
+  "passive": {
+    "name": "注入の矢",
+    "refinements": {
+      "R1": "通常攻撃または重撃が命中する時、攻撃力+4%、通常攻撃速度+1.2%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。",
+      "R2": "通常攻撃または重撃が命中する時、攻撃力+5%、通常攻撃速度+1.5%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。",
+      "R3": "通常攻撃または重撃が命中する時、攻撃力+6%、通常攻撃速度+1.8%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。",
+      "R4": "通常攻撃または重撃が命中する時、攻撃力+7%、通常攻撃速度+2.1%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。",
+      "R5": "通常攻撃または重撃が命中する時、攻撃力+8%、通常攻撃速度+2.4%。継続時間6秒、最大4重まで。0.3秒に1回のみ発動可能。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 41,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 2,
+      "base_atk": 44,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 3,
+      "base_atk": 47,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 4,
+      "base_atk": 51,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 5,
+      "base_atk": 54,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 17.4
+    },
+    {
+      "level": 6,
+      "base_atk": 57,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 17.4
+    },
+    {
+      "level": 7,
+      "base_atk": 60,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 17.4
+    },
+    {
+      "level": 8,
+      "base_atk": 63,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 17.4
+    },
+    {
+      "level": 9,
+      "base_atk": 66,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 17.4
+    },
+    {
+      "level": 10,
+      "base_atk": 69,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 20.5
+    },
+    {
+      "level": 11,
+      "base_atk": 72,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 20.5
+    },
+    {
+      "level": 12,
+      "base_atk": 75,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 20.5
+    },
+    {
+      "level": 13,
+      "base_atk": 78,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 20.5
+    },
+    {
+      "level": 14,
+      "base_atk": 81,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 20.5
+    },
+    {
+      "level": 15,
+      "base_atk": 84,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 23.5
+    },
+    {
+      "level": 16,
+      "base_atk": 87,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 23.5
+    },
+    {
+      "level": 17,
+      "base_atk": 90,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 23.5
+    },
+    {
+      "level": 18,
+      "base_atk": 93,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 23.5
+    },
+    {
+      "level": 19,
+      "base_atk": 96,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 23.5
+    },
+    {
+      "level": 20,
+      "base_atk": 99,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 26.5
+    },
+    {
+      "level": 21,
+      "base_atk": 128,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 26.5
+    },
+    {
+      "level": 22,
+      "base_atk": 131,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 26.5
+    },
+    {
+      "level": 23,
+      "base_atk": 134,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 26.5
+    },
+    {
+      "level": 24,
+      "base_atk": 137,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 26.5
+    },
+    {
+      "level": 25,
+      "base_atk": 140,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 29.6
+    },
+    {
+      "level": 26,
+      "base_atk": 143,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 29.6
+    },
+    {
+      "level": 27,
+      "base_atk": 146,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 29.6
+    },
+    {
+      "level": 28,
+      "base_atk": 149,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 29.6
+    },
+    {
+      "level": 29,
+      "base_atk": 152,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 29.6
+    },
+    {
+      "level": 30,
+      "base_atk": 155,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 32.6
+    },
+    {
+      "level": 31,
+      "base_atk": 158,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 32.6
+    },
+    {
+      "level": 32,
+      "base_atk": 161,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 32.6
+    },
+    {
+      "level": 33,
+      "base_atk": 163,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 32.6
+    },
+    {
+      "level": 34,
+      "base_atk": 166,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 32.6
+    },
+    {
+      "level": 35,
+      "base_atk": 169,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 36,
+      "base_atk": 172,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 37,
+      "base_atk": 175,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 38,
+      "base_atk": 178,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 39,
+      "base_atk": 181,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 35.6
+    },
+    {
+      "level": 40,
+      "base_atk": 184,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 38.7
+    },
+    {
+      "level": 41,
+      "base_atk": 213,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 38.7
+    },
+    {
+      "level": 42,
+      "base_atk": 215,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 38.7
+    },
+    {
+      "level": 43,
+      "base_atk": 218,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 38.7
+    },
+    {
+      "level": 44,
+      "base_atk": 221,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 38.7
+    },
+    {
+      "level": 45,
+      "base_atk": 224,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 41.7
+    },
+    {
+      "level": 46,
+      "base_atk": 227,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 41.7
+    },
+    {
+      "level": 47,
+      "base_atk": 230,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 41.7
+    },
+    {
+      "level": 48,
+      "base_atk": 233,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 41.7
+    },
+    {
+      "level": 49,
+      "base_atk": 236,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 41.7
+    },
+    {
+      "level": 50,
+      "base_atk": 238,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 44.7
+    },
+    {
+      "level": 51,
+      "base_atk": 267,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 44.7
+    },
+    {
+      "level": 52,
+      "base_atk": 270,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 44.7
+    },
+    {
+      "level": 53,
+      "base_atk": 273,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 44.7
+    },
+    {
+      "level": 54,
+      "base_atk": 276,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 44.7
+    },
+    {
+      "level": 55,
+      "base_atk": 278,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 56,
+      "base_atk": 281,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 57,
+      "base_atk": 284,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 58,
+      "base_atk": 287,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 59,
+      "base_atk": 290,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 47.8
+    },
+    {
+      "level": 60,
+      "base_atk": 293,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 50.8
+    },
+    {
+      "level": 61,
+      "base_atk": 321,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 50.8
+    },
+    {
+      "level": 62,
+      "base_atk": 324,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 50.8
+    },
+    {
+      "level": 63,
+      "base_atk": 327,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 50.8
+    },
+    {
+      "level": 64,
+      "base_atk": 330,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 50.8
+    },
+    {
+      "level": 65,
+      "base_atk": 333,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 53.8
+    },
+    {
+      "level": 66,
+      "base_atk": 335,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 53.8
+    },
+    {
+      "level": 67,
+      "base_atk": 338,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 53.8
+    },
+    {
+      "level": 68,
+      "base_atk": 341,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 53.8
+    },
+    {
+      "level": 69,
+      "base_atk": 344,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 53.8
+    },
+    {
+      "level": 70,
+      "base_atk": 347,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 56.8
+    },
+    {
+      "level": 71,
+      "base_atk": 375,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 56.8
+    },
+    {
+      "level": 72,
+      "base_atk": 378,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 56.8
+    },
+    {
+      "level": 73,
+      "base_atk": 381,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 56.8
+    },
+    {
+      "level": 74,
+      "base_atk": 384,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 56.8
+    },
+    {
+      "level": 75,
+      "base_atk": 387,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 59.9
+    },
+    {
+      "level": 76,
+      "base_atk": 389,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 59.9
+    },
+    {
+      "level": 77,
+      "base_atk": 392,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 59.9
+    },
+    {
+      "level": 78,
+      "base_atk": 395,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 59.9
+    },
+    {
+      "level": 79,
+      "base_atk": 398,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 59.9
+    },
+    {
+      "level": 80,
+      "base_atk": 401,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 62.9
+    },
+    {
+      "level": 81,
+      "base_atk": 429,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 62.9
+    },
+    {
+      "level": 82,
+      "base_atk": 432,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 62.9
+    },
+    {
+      "level": 83,
+      "base_atk": 435,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 62.9
+    },
+    {
+      "level": 84,
+      "base_atk": 438,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 62.9
+    },
+    {
+      "level": 85,
+      "base_atk": 440,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 65.9
+    },
+    {
+      "level": 86,
+      "base_atk": 443,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 65.9
+    },
+    {
+      "level": 87,
+      "base_atk": 446,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 65.9
+    },
+    {
+      "level": 88,
+      "base_atk": 449,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 65.9
+    },
+    {
+      "level": 89,
+      "base_atk": 452,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 65.9
+    },
+    {
+      "level": 90,
+      "base_atk": 454,
+      "substat": "Physical DMG Bonus%",
+      "substat_value": 69.0
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の一粒",
+          "id": 114021,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "脆い骨片",
+          "id": 112041,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "新兵の記章",
+          "id": 112032,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の一片",
+          "id": 114022,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "脆い骨片",
+          "id": 112041,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "新兵の記章",
+          "id": 112032,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の一片",
+          "id": 114022,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "丈夫な骨片",
+          "id": 112042,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "士官の記章",
+          "id": 112033,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の一角",
+          "id": 114023,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "丈夫な骨片",
+          "id": 112042,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "士官の記章",
+          "id": 112033,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の一角",
+          "id": 114023,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "石化した骨片",
+          "id": 112043,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "尉官の記章",
+          "id": 112034,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "漆黒の隕鉄の塊",
+          "id": 114024,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "石化した骨片",
+          "id": 112043,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "尉官の記章",
+          "id": 112034,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "15407"
+}

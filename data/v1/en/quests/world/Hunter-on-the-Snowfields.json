@@ -1,0 +1,741 @@
+{
+  "chapter": "Hunter on the Snowfields",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Hunter on the Snowfields",
+  "region": null,
+  "quests": [
+    {
+      "title": "Hunter on the Snowfields",
+      "dialogue": [
+        {
+          "section": "Alyosha"
+        },
+        {
+          "s": 0,
+          "t": "Hmm..."
+        },
+        {
+          "sit": "Alyosha?"
+        },
+        {
+          "sit": "What are you up to?"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}? Shh! I'm hunting. Keep your voice down — don't spook the prey."
+        },
+        {
+          "s": 0,
+          "t": "...Don't look so surprised. There are all kinds of \"prey\" out in the Snezhnayan wilds. This time, it's a fae gang."
+        },
+        {
+          "sit": "A fae gang? First time I've heard of one..."
+        },
+        {
+          "sit": "Fae gangs? I've heard of those..."
+        },
+        {
+          "s": 0,
+          "t": "Well, all you need to know is that these aren't fae you wanna mess with."
+        },
+        {
+          "s": 0,
+          "t": "They aren't legitimate organizations like the Fatui, but their roots run just as deep."
+        },
+        {
+          "sit": "Then why are YOU messing with them?"
+        },
+        {
+          "s": 0,
+          "t": "Here in Snezhnaya, most things considered \"prey\" are dangerous to get involved with, but a hunter has to make a living."
+        },
+        {
+          "s": 0,
+          "t": "Rumor has it that some of these gangland folks have connections at the Energy Commission, and they've got a real hoard of Kresnik Kristall."
+        },
+        {
+          "s": 0,
+          "t": "All for smuggling, of course. They won't appear on Project Stuzha's ledger, so no officials will investigate even if they get stolen."
+        },
+        {
+          "sit": "But the gang will investigate, won't they?"
+        },
+        {
+          "s": 0,
+          "t": "Don't worry. Like I said, fae gangs aren't legitimate organizations."
+        },
+        {
+          "s": 0,
+          "t": "Once the Kristall has been distributed to freezing villagers, do you really think they'd dare go door-to-door to take it right back under the Druzhna's nose?"
+        },
+        {
+          "s": 0,
+          "t": "And as for me... They can't trace this back to me."
+        },
+        {
+          "sit": "You say you're just trying to make a living..."
+        },
+        {
+          "sit": "But you're actually just looking out for the villagers."
+        },
+        {
+          "s": 0,
+          "t": "Just doing what needs to be done. Besides, it's nothing particularly noble — I'm just one crook robbing another."
+        },
+        {
+          "sit": "Then consider me a fellow crook."
+        },
+        {
+          "sit": "I'm not afraid of those gangs."
+        },
+        {
+          "s": 0,
+          "t": "It's always good to have extra help, but... Eh, you know what? With your skills, you'll be fine."
+        },
+        {
+          "s": 1,
+          "t": "Woof, woof!"
+        },
+        {
+          "s": 0,
+          "t": "Good boy. Sit. Are there \"horns\" inside?"
+        },
+        {
+          "s": 1,
+          "t": "Woof!"
+        },
+        {
+          "s": 0,
+          "t": "And how about \"claws\"?"
+        },
+        {
+          "s": 1,
+          "t": "Woof!"
+        },
+        {
+          "s": 0,
+          "t": "So, the gang's heavyweights are present, and they're armed... How many \"horns\" are we talking? More than ten?"
+        },
+        {
+          "s": 1,
+          "t": "Woof?"
+        },
+        {
+          "s": 0,
+          "t": "*sigh* Still can't count to ten, huh..."
+        },
+        {
+          "s": 1,
+          "t": "Awooo..."
+        },
+        {
+          "s": 0,
+          "t": "Looks like I'll have to go and check for myself. I'm confident I can figure out their exact numbers, but I'll need to get closer."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, stay hidden nearby with Tugarin for now, and wait for my signal."
+        },
+        {
+          "section": "Gang Member"
+        },
+        {
+          "s": 0,
+          "t": "Excuse me. I wasn't aware that someone lived here."
+        },
+        {
+          "s": 2,
+          "t": "Where'd you come from, kid? What do you want?"
+        },
+        {
+          "s": 0,
+          "t": "I'm just a hunter. I've been hunting nearby and used up all my Fire-Water, so I need to find somewhere to warm up..."
+        },
+        {
+          "s": 2,
+          "t": "Save it, kid! You'd better scram, or there'll be trouble!"
+        },
+        {
+          "s": 0,
+          "t": "Alright... Two outside the door, three inside... No need to worry about runners after all."
+        },
+        {
+          "s": 2,
+          "t": "The heck do you mean by that?"
+        },
+        {
+          "s": 0,
+          "t": "Like I said, I'm hunting."
+        },
+        {
+          "sit": "There's the gunshot! It's go time!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Not a single piece in here? What were they guarding this cabin for, then?"
+        },
+        {
+          "s": 0,
+          "t": "A key and a... card? What do you think they're for?"
+        },
+        {
+          "sit": "No clue at the moment."
+        },
+        {
+          "s": 0,
+          "t": "Hold onto the card for now. As for the key, it's probably for that door over there."
+        },
+        {
+          "s": 0,
+          "t": "Makes sense if you think about it. Hoarding Kristall is dicey business right now, so they'd wanna keep their stash well hidden."
+        },
+        {
+          "sit": "Let's head further inside."
+        },
+        {
+          "s": 0,
+          "t": "Sure... Assuming this key unlocks the door."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "There's nothing here... Did we just get unlucky this time?"
+        },
+        {
+          "s": 1,
+          "t": "Woof!"
+        },
+        {
+          "s": 0,
+          "t": "This ice..."
+        },
+        {
+          "sit": "Is it a dead end?"
+        },
+        {
+          "s": 0,
+          "t": "No, this ice is fresh... Probably put here to keep people out. Guess we'll have to go deeper if we wanna find our Kristall."
+        },
+        {
+          "s": 0,
+          "t": "Two safeguards in a row... Must be quite the hoard."
+        },
+        {
+          "sit": "We need to find a way to melt this ice."
+        },
+        {
+          "s": 0,
+          "t": "No problem. It hasn't formed for long, so this should be a cinch."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 3,
+          "t": "Stay back!"
+        },
+        {
+          "s": 0,
+          "t": "Wait, what? How are there gang members here, too?"
+        },
+        {
+          "sit": "Should we attack?"
+        },
+        {
+          "s": 0,
+          "t": "Not just yet — not until we know what's going on. Looks like there are two groups over there. I'll need to use my scope to see clearly..."
+        },
+        {
+          "s": 3,
+          "t": "I said stay back, all of you! I've got the detonator in my hand!"
+        },
+        {
+          "s": 4,
+          "t": "Hey, hey, cool it! I told you. Turn around and walk away now, and we won't cause you any trouble."
+        },
+        {
+          "s": 3,
+          "t": "Not a chance! Anyone who finds treasure out in the wild gets a share of it. Old Sire's rules!"
+        },
+        {
+          "s": 3,
+          "t": "The Izmaylov family will get their fair share, for Old Sire's sake. But the rest? We've earned it."
+        },
+        {
+          "s": 3,
+          "t": "You think you can just show up here and expect us to walk away empty-handed? That's not what the rules say!"
+        },
+        {
+          "s": 0,
+          "t": "They're arguing over how to split the loot...?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, you think you've hit the jackpot, huh? All you've managed to do is block the way in."
+        },
+        {
+          "s": 4,
+          "t": "Bet you tried to get in, but failed, didn't ya? You ain't gettin' nothin'!"
+        },
+        {
+          "s": 3,
+          "t": "...So what? We found this place first. There's gotta be a finder's fee for that, at least! Old Sire—"
+        },
+        {
+          "s": 4,
+          "t": "Old Sire is dead — or were you hoping Zmei would pick up where he left off, huh? Didn't think so. Now beat it!"
+        },
+        {
+          "s": 3,
+          "t": "What about Lady Voronina? You sayin' you're not scared of her either?"
+        },
+        {
+          "s": 4,
+          "t": "You..."
+        },
+        {
+          "s": 3,
+          "t": "Look, the only reason any of us are able to get by in this ashheap they call Snezhnaya is because of Old Sire. He put the rules in place for a reason, and no one gets to break them."
+        },
+        {
+          "s": 3,
+          "t": "Times have been tough for everyone, I get that. But if you break the rules... You can bet your life that Lady Voronina will be hearing about it!"
+        },
+        {
+          "s": 4,
+          "t": "Alright. So we're doing this the hard way."
+        },
+        {
+          "s": 3,
+          "t": "Don't you dare! Try anything, and we'll all be chewing rocks for the rest of our days!"
+        },
+        {
+          "s": 4,
+          "t": "Stop! You really wanna die here?"
+        },
+        {
+          "s": 3,
+          "t": "We're all playing the same game, so don't take me for a fool. I know you left some men behind to seal the cave entrance from the outside when you came in. The boys on lookout told me."
+        },
+        {
+          "s": 3,
+          "t": "You never meant to let us get out alive. If it wasn't for these explosives, you'd have offed us already."
+        },
+        {
+          "s": 4,
+          "t": "Hmph..."
+        },
+        {
+          "s": 3,
+          "t": "We weren't the ones who stopped playing nice first... Didn't think you'd go this far for these antiques."
+        },
+        {
+          "s": 3,
+          "t": "But it looks like they'll sell for a lot more than I thought — and we want our share!"
+        },
+        {
+          "s": 4,
+          "t": "Antiques? Sell 'em? You short-sighted fools... You're the reason we're always getting trampled underfoot!"
+        },
+        {
+          "s": 3,
+          "t": "Oh, save it! You gonna make a deal or not?"
+        },
+        {
+          "s": 0,
+          "t": "Looks like we've run into another bunch of crooks robbing crooks."
+        },
+        {
+          "sit": "From what I'm hearing..."
+        },
+        {
+          "sit": "Whatever they've got stashed out here, it isn't Kristall."
+        },
+        {
+          "s": 0,
+          "t": "Valuable antiques, apparently... Fae gangs are known to smuggle that kind of stuff."
+        },
+        {
+          "s": 0,
+          "t": "We can't just hand antiques out to the villagers directly, though. We'll have to find a way to trade them in for Mora... But that I can work with. The only thing that won't work is leaving here empty-handed."
+        },
+        {
+          "sit": "But as long as that fae's holding the detonator..."
+        },
+        {
+          "sit": "We can't make any rash moves."
+        },
+        {
+          "s": 0,
+          "t": "Leave this to me."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 4,
+          "t": "Cover me!"
+        },
+        {
+          "s": 0,
+          "t": "Drat..."
+        },
+        {
+          "sit": "One of them got away. What do we do?"
+        },
+        {
+          "s": 0,
+          "t": "Leave him be. We took care of the guys outside — if he wants to call for backup, he'll have to go back to base. That gives us more than enough time to clean this place out."
+        },
+        {
+          "s": 0,
+          "t": "Let's go take a look inside."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Tch... \"Antiques\" was right — none of this is from the present era. I don't know much about these ancient artifacts."
+        },
+        {
+          "sit": "I'm sure they must serve some special purpose..."
+        },
+        {
+          "s": 0,
+          "t": "If you're curious, I know a guy in the Rokot who's a bit of an expert about this kind of stuff. Maybe I can get him to come take a look later."
+        },
+        {
+          "s": 0,
+          "t": "...This thing clearly isn't going anywhere. Let's start with whatever we can carry."
+        },
+        {
+          "s": 0,
+          "t": "But with this barrier blocking the way, we can't get any further inside..."
+        },
+        {
+          "s": 5,
+          "t": "...Shadow Realm barrier device detected. With the right access card, it may be possible to unlock it."
+        },
+        {
+          "sit": "The Eye of Graeae seems to recognize it..."
+        },
+        {
+          "s": 0,
+          "t": "An access card? Wait, that card we found earlier... Try it. With any luck, this might be what it's for."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "What just happened?"
+        },
+        {
+          "sit": "That thing we picked up in the Shadow Realm earlier..."
+        },
+        {
+          "sit": "Seems to be reacting to it."
+        },
+        {
+          "s": 0,
+          "t": "The Shadow Realm? So this card, and the items here... they're both connected to the Shadow Realm?"
+        },
+        {
+          "s": 0,
+          "t": "Looks like we'll need to find an expert to figure out how to use these things."
+        },
+        {
+          "s": 0,
+          "t": "Everything else aside... at least the way's open."
+        },
+        {
+          "s": 0,
+          "t": "Still... If they knew they'd need this to clear the way, why leave it with the lookout outside? And then seal the cave entrance?"
+        },
+        {
+          "s": 0,
+          "t": "Clearly, this card is very important to them. They couldn't afford to let it fall into the wrong hands... but they also had to make sure it was safe before using it."
+        },
+        {
+          "sit": "You smell a rat?"
+        },
+        {
+          "s": 0,
+          "t": "I just wonder why they'd exercise this much caution over a bunch of antiques."
+        },
+        {
+          "s": 0,
+          "t": "Guess we'll just have to head inside and take a look. We can study this card and that pedestal later when we have the time."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Everything else aside... at least the way's open."
+        },
+        {
+          "s": 0,
+          "t": "Still... If they knew they'd need this to clear the way, why leave it with the lookout outside? And then seal the cave entrance?"
+        },
+        {
+          "s": 0,
+          "t": "Clearly, this card is very important to them. They couldn't afford to let it fall into the wrong hands... but they also had to make sure it was safe before using it."
+        },
+        {
+          "sit": "You smell a rat?"
+        },
+        {
+          "s": 0,
+          "t": "I just wonder why they'd exercise this much caution over a bunch of antiques."
+        },
+        {
+          "s": 0,
+          "t": "Guess we'll just have to head inside and take a look. We can study this card and that pedestal later when we have the time."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "What is it?"
+        },
+        {
+          "sit": "This looks familiar."
+        },
+        {
+          "sit": "It's related to my gun."
+        },
+        {
+          "s": 0,
+          "t": "It's clearly not from this era either. Is this one of the antiques they were talking about?"
+        },
+        {
+          "s": 0,
+          "t": "Nothing else around here looks that valuable... You think we can sell this?"
+        },
+        {
+          "sit": "I doubt it..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, we gotta make this hunt worth it somehow... Hmm? Wait, that device..."
+        },
+        {
+          "s": 0,
+          "t": "I remember now. Not long ago, a fae gang was going around buying up blueprints from the Belyi Tsar's time. I thought they might be worth some cash, so I swiped one to take a look."
+        },
+        {
+          "s": 0,
+          "t": "Pretty sure the drawing on the blueprint was this exact device."
+        },
+        {
+          "sit": "What's it for?"
+        },
+        {
+          "s": 0,
+          "t": "Not sure. All I remember is that we need to connect these pipes to get it running. Getting rid of the ice freezing the pipes should do the trick."
+        },
+        {
+          "s": 0,
+          "t": "Since the fae gangs value this device so much, we might as well give it a try and see what it actually does."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "It's so warm... Some sort of furnace, maybe?"
+        },
+        {
+          "s": 4,
+          "t": "Huh. Looks like the intel was good. A prototype Kresnik's Torch... Tech from that age is what the big boss needs for the plan..."
+        },
+        {
+          "s": 1,
+          "t": "Woof, woof!"
+        },
+        {
+          "s": 0,
+          "t": "Tugarin, don't move."
+        },
+        {
+          "s": 4,
+          "t": "Smart choice, if you ask me. See what I'm holding? I grabbed that numbskull's detonator during the commotion back there. Made a couple of modifications to it, too."
+        },
+        {
+          "s": 4,
+          "t": "Now, the moment I let this thing go, it's gonna blow."
+        },
+        {
+          "s": 0,
+          "t": "So you came right back here without calling for backup? That wasn't such a smart choice."
+        },
+        {
+          "s": 4,
+          "t": "Shut it! My men were wiped out, and I lost the access card. After all the manpower we put into obtaining it, if I go back now..."
+        },
+        {
+          "s": 4,
+          "t": "...The boss will have my head on the spot."
+        },
+        {
+          "s": 4,
+          "t": "I'm not leaving without that card. That, and this equipment, are crucial to the boss. So hand it over!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Don't tell me you're after this technology too? ... Oh, I get it. Some other group sent you, huh? Who was it, the Energy Commission? Or Luchkin?"
+        },
+        {
+          "s": 0,
+          "t": "You're overcomplicating this. I have nothing to do with either of them."
+        },
+        {
+          "s": 4,
+          "t": "Don't play games with me! After the old man died, the High Table decided we'd outlived our usefulness."
+        },
+        {
+          "s": 4,
+          "t": "Nowadays, we risk our necks digging stuff up in the Shadow Realm... And then what? It all ends up in the pockets of those big shots... Hey, I told you, tell your dog to get down and stay put!"
+        },
+        {
+          "s": 0,
+          "t": "Tugarin, down."
+        },
+        {
+          "s": 1,
+          "t": "Woof... woof!"
+        },
+        {
+          "s": 4,
+          "t": "What the..."
+        },
+        {
+          "s": 0,
+          "t": "\"Down\" means to prepare to attack. \"Sit\" is staying put."
+        },
+        {
+          "s": 4,
+          "t": "Who sent you? Who are you with?"
+        },
+        {
+          "s": 0,
+          "t": "No one. I'm just a hunter."
+        },
+        {
+          "sit": "With Tugarin's help, you dismantle the detonation switch."
+        },
+        {
+          "s": 0,
+          "t": "So it's a prototype Kresnik's Torch?"
+        },
+        {
+          "sit": "It seems to be the center of a lot of attention..."
+        },
+        {
+          "sit": "What should we do with it?"
+        },
+        {
+          "s": 0,
+          "t": "Well... If it looks like a furnace, and it gives off light and heat like a furnace, let's just use it as a furnace."
+        },
+        {
+          "s": 0,
+          "t": "It really is unique. I've seen a lot of Kristall-powered furnaces, and this one is stronger than any of them. It can warm up this whole area."
+        },
+        {
+          "s": 0,
+          "t": "This place makes a perfect shelter. I'll bring all the villagers at risk of freezing over here. Much easier than handing out Kristall."
+        },
+        {
+          "s": 0,
+          "t": "Heh. This looked touch and go for a while, but in the end, it was a successful hunt."
+        },
+        {
+          "sit": "What about those gangs and their schemes?"
+        },
+        {
+          "sit": "Don't they concern you?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, I'm sure that if we kept following the trail, we could end up accomplishing something pretty monumental."
+        },
+        {
+          "s": 0,
+          "t": "But I'm also sure that would involve pointing my gun at more people along the way... And honestly, that's not what I'm about."
+        },
+        {
+          "s": 0,
+          "t": "Question for ya. What do you think is the difference between a hunter and an adventurer?"
+        },
+        {
+          "s": 0,
+          "t": "With the sprawling wilderness before them, a hunter turns back after catching their prey, but an adventurer always goes that extra step further."
+        },
+        {
+          "s": 0,
+          "t": "So... I'll let you hold onto that access card and any weapon parts we find here."
+        },
+        {
+          "s": 0,
+          "t": "You're the most famous member of the Adventurers' Guild, after all. Monumental events always seem to find you, don't they?"
+        },
+        {
+          "sit": "Alyosha..."
+        },
+        {
+          "sit": "What you do is also very meaningful."
+        },
+        {
+          "s": 0,
+          "t": "Of course. I know that."
+        },
+        {
+          "s": 0,
+          "t": "Anyway. Let's bring the villagers over."
+        },
+        {
+          "sit": "You and Alyosha escort a group of villagers to this location."
+        },
+        {
+          "s": 0,
+          "t": "Turns out there's another exit here. I only noticed it when we were escorting the villagers over. Might be useful when you're in a hurry."
+        },
+        {
+          "s": 0,
+          "t": "We did good today. Thanks for all your help."
+        },
+        {
+          "sit": "You're welcome."
+        },
+        {
+          "s": 0,
+          "t": "Pleasantries aside, here's your payment, so please take it. If you ever need a hand in the future, I'll be ready to do my part."
+        }
+      ],
+      "description": "While strolling across the snowy fields, you have a chance encounter with Alyosha, who was hidden behind a pile of snow. According to him, this is normal behavior for a hunter, but soon, you realize that he has chosen somewhat special “prey” this time around…"
+    }
+  ],
+  "speakers": [
+    "Alyosha",
+    "Tugarin",
+    "Gang Member",
+    "Short Fae",
+    "Hulking Fae",
+    "Eye of Graeae"
+  ],
+  "id": "q-77650"
+}

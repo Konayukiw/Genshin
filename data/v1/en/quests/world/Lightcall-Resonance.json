@@ -1,0 +1,913 @@
+{
+  "chapter": "Lightcall Resonance",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Lightcall Resonance",
+  "region": null,
+  "quests": [
+    {
+      "title": "Lightcall Resonance",
+      "dialogue": [
+        {
+          "section": "Jarjar, Sorush, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, ah la la~ Harder, farther, with more twists and turns. It will surely scare away all the goons~"
+        },
+        {
+          "s": 1,
+          "t": "Oh? Isn't this Jarjar? Even after all these years, you're still stuck in your own little world."
+        },
+        {
+          "s": 0,
+          "t": "Ah la? You're... Lady Sorush?"
+        },
+        {
+          "s": 2,
+          "t": "Eh? Do you know this Pari?"
+        },
+        {
+          "s": 1,
+          "t": "I've met her once a long time ago. We're not that familiar, but I've heard stories about her."
+        },
+        {
+          "s": 1,
+          "t": "Besides, Jarjar's eccentric character is well known among the Pari."
+        },
+        {
+          "s": 1,
+          "t": "She always uses these things from who knows where, and messes around building nonsensical \"challenges\"... Most of the Pari try to avoid her."
+        },
+        {
+          "sit": "I don't know what to make of this..."
+        },
+        {
+          "sit": "Even Sorush finds her strange..."
+        },
+        {
+          "s": 2,
+          "t": "Uh, Sorush, are you sure it's okay to be judging someone to her face?"
+        },
+        {
+          "s": 2,
+          "t": "You don't know her all that well, right? So maybe you shouldn't believe everything you heard. What if she's changed now?"
+        },
+        {
+          "s": 2,
+          "t": "And she looks pretty enthusiastic... Maybe she's doing something good for the Pari!"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, no worries. After all, Lady Sorush is held in high regard by Lady Zurvan and shoulders great responsibilities."
+        },
+        {
+          "s": 0,
+          "t": "Perhaps Lady Sorush will one day be as famous as the divine bird Simurgh. To turn one's nose up at a random nobody such as myself is but a given."
+        },
+        {
+          "s": 0,
+          "t": "The fact that Lady Sorush has anything at all to say about me is already an honor."
+        },
+        {
+          "s": 1,
+          "t": "Whoa! That's... that's all in the past now. Let bygones be bygones!"
+        },
+        {
+          "s": 0,
+          "t": "B—But... we Pari should remember the happenings of the past..."
+        },
+        {
+          "s": 1,
+          "t": "Ahem! In the past, I distanced myself from my fellow Pari and took the wrong... no, the longer path! But that's enough about me. Tell me more about you!"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, as you can see, I'm preparing something called \"Lightcall Resonance\" so I can fend off those Skeptic goons."
+        },
+        {
+          "s": 0,
+          "t": "They approached me with the pretense of wanting to be friends and drilled me with questions, trying to get things out of me that no human can learn. They've been getting on my nerves..."
+        },
+        {
+          "sit": "Why would the Order of Skeptics even do that?"
+        },
+        {
+          "s": 2,
+          "t": "Maybe they're Nasejuna's minions. After all, Sorush has been tricked by him before."
+        },
+        {
+          "s": 0,
+          "t": "I don't know who you're talking about, but whoever they are, it won't matter. The Lightcall Resonance will drive them all out."
+        },
+        {
+          "s": 0,
+          "t": "I've made it clear to them that anyone who fails to pass the Lightcall Resonance is too stupid and weak to ask me questions."
+        },
+        {
+          "s": 2,
+          "t": "From what Paimon gathered, this Lightcall Resonance thing sounds like some kind of trial."
+        },
+        {
+          "s": 2,
+          "t": "Is it a test of fighting ability? Or a test of speed?"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, it's the latter. That was quick! You guys really know your stuff."
+        },
+        {
+          "s": 0,
+          "t": "Collecting certain items in a limited time and getting to the finish line as quickly as possible... This is a form of trial that humans are most familiar with."
+        },
+        {
+          "s": 0,
+          "t": "Are you interested? Oh, I know! Why don't you try it out?"
+        },
+        {
+          "s": 1,
+          "t": "No way! {NICKNAME} is my Yasnapati. You can't just casually ask us to help you!"
+        },
+        {
+          "s": 0,
+          "t": "It's exactly because he(she) has the honor of being Lady Sorush's Yasnapati that it's got to be him(her)."
+        },
+        {
+          "s": 0,
+          "t": "The Yasnapati of Lady Sorush is also well renowned among the humans. For Lightcall Resonance to meet with his(her) approval would be the highest honor."
+        },
+        {
+          "s": 0,
+          "t": "If Lightcall Resonance ever becomes an important rite for selecting courageous humans, Lady Sorush should deserve all the credit for having made it happen."
+        },
+        {
+          "s": 0,
+          "t": "Just a few moments from you and your Yasnapati will bring your name glory. Wouldn't that be nice?"
+        },
+        {
+          "s": 1,
+          "t": "Is that so..."
+        },
+        {
+          "s": 1,
+          "t": "Ahem! Of course! I just didn't... didn't want {NICKNAME} to go running around for nothing!"
+        },
+        {
+          "s": 0,
+          "t": "The Order of Skeptics goons have offered me some nice things. They're of no use to me and I'd happily give them to the Yasnapati and his(her) Pale Floater as a reward."
+        },
+        {
+          "s": 2,
+          "t": "Nice things! Rewards for Paimon!"
+        },
+        {
+          "s": 2,
+          "t": "See, Sorush? What more can be said? Let's go and help Jarjar!"
+        },
+        {
+          "sit": "It's just a speed challenge anyway..."
+        },
+        {
+          "sit": "It's gonna be a piece of cake."
+        },
+        {
+          "s": 1,
+          "t": "Can't say I really care about the rewards."
+        },
+        {
+          "s": 1,
+          "t": "But since you're interested... Just say yes to Jarjar, and make it quick!"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, how decisive! It looks like great Sorush's Yasnapati has a lot of experience and confidence."
+        },
+        {
+          "s": 0,
+          "t": "This is the first, simplest test of Lightcall Resonance. Let's begin whenever you're ready."
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "What do you think? Is there anything else that needs preparing?"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "sit": "I'm ready!"
+        },
+        {
+          "s": 2,
+          "t": "Yeah! We're no scrubs, and we always do our best!"
+        },
+        {
+          "s": 1,
+          "t": "It's just a test to hold back the Order of Skeptics. It'll be a walk in the park for me and {NICKNAME}."
+        },
+        {
+          "s": 0,
+          "t": "Ah la la! Wonderful! You sound so confident."
+        },
+        {
+          "s": 0,
+          "t": "Show me your moves!"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "sit": "Let's wait. I want to start later."
+        },
+        {
+          "s": 2,
+          "t": "Eh? Are you tired? Do you wanna eat something to recover your strength?"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME} has always been rather cautious with his(her) actions. I'm sure he(she) has some considerations of his(her) own."
+        },
+        {
+          "s": 0,
+          "t": "I see... Feel free to get everything in order before proceeding. I'll be right here waiting for you!"
+        },
+        {
+          "section": "Jarjar"
+        },
+        {
+          "s": 0,
+          "t": "The trial has begun. Let's chat when you're finished, okay?"
+        },
+        {
+          "s": 0,
+          "t": "Or perhaps, you'd like to begin a little later?"
+        },
+        {
+          "s": 0,
+          "t": "As expected of you!"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, as expected of Lady Sorush and her Yasnapati. You made it through with ease!"
+        },
+        {
+          "s": 0,
+          "t": "But be warned, that was just the beginning..."
+        },
+        {
+          "s": 0,
+          "t": "I still have to adjust the layout of the second trial. Please wait until the next day and find me at the next location. Let me give you a rough estimate of where that'll be..."
+        },
+        {
+          "s": 2,
+          "t": "You need a whole day for that? Are you planning to bump the difficulty up after seeing how strong we are?"
+        },
+        {
+          "s": 1,
+          "t": "No matter. Jarjar isn't aware of what {NICKNAME} is truly capable of. He(She)'s able to handle anything no matter how difficult it gets."
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, you're here."
+        },
+        {
+          "s": 0,
+          "t": "I didn't get the chance to ask you yesterday, but how did the first trial feel?"
+        },
+        {
+          "s": 2,
+          "t": "Easy peasy, lemon squeezy!"
+        },
+        {
+          "s": 1,
+          "t": "Hmph! If all you want is to stop those Skeptics from bothering you, just make your trial as difficult as possible so that no one passes!"
+        },
+        {
+          "s": 2,
+          "t": "As long as you give them a hard time from the get-go, no one would ever dare mess with you again!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Jarjar?"
+        },
+        {
+          "s": 0,
+          "t": "Ah la, it's nothing. Let's continue."
+        },
+        {
+          "s": 0,
+          "t": "You know the rules! Collect all the particles and reach the end as fast as you can."
+        },
+        {
+          "s": 2,
+          "t": "Eh, never mind. We're only here to help a little Pari evaluate the effectiveness of her trials and get our rewards when we're done, that's it!"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "sit": "Bring the Pari trial on!"
+        },
+        {
+          "s": 2,
+          "t": "Eek! That sounds kinda strange... but Paimon understands what you mean! Hehe, you wouldn't want to miss our performance, Jarjar!"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME} and Pale Floater are really energetic... Maybe I should be a little more proactive too."
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "sit": "Well, since you said so, I'll take my time to get ready."
+        },
+        {
+          "s": 2,
+          "t": "Ohhhhh! Is {NICKNAME} getting serious?"
+        },
+        {
+          "s": 1,
+          "t": "You can't go wrong with a little caution. It's totally {NICKNAME}'s style."
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "The difficulty has been ratcheted up this time, so don't be careless! Are you ready?"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "I—Impressive! You got through the second trial without breaking a sweat... It was supposed to be much more complex than the first!"
+        },
+        {
+          "s": 0,
+          "t": "Was I not strict enough with the rules? Should I cut down the time limit...?"
+        },
+        {
+          "s": 2,
+          "t": "Jarjar looks like she's getting serious. Maybe we've stirred up her competitive spirit!"
+        },
+        {
+          "s": 1,
+          "t": "Could be. Looks like she's thinking about the details of the trial..."
+        },
+        {
+          "sit": "(Is it just her competitive spirit?)"
+        },
+        {
+          "s": 0,
+          "t": "Irrelevant topics aside, the challenge is still not over..."
+        },
+        {
+          "s": 0,
+          "t": "As is customary, I need some time to prepare for the next trial. Please wait until tomorrow!"
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "Ah la, you guys held up your end of the bargain."
+        },
+        {
+          "s": 0,
+          "t": "Now, let's discuss the details of the last trial. For example, did you find the difference in height between each track too repetitive, or were the obstacles too sparse..."
+        },
+        {
+          "s": 1,
+          "t": "There she goes again, rambling with words no Pari would ever use. Do we really have to talk about such trifling matters before a trial?"
+        },
+        {
+          "s": 1,
+          "t": "I don't need to be part of this conversation about nitty gritty details. You can talk amongst yourselves."
+        },
+        {
+          "s": 1,
+          "t": "When you're just about ready, come call for me."
+        },
+        {
+          "s": 0,
+          "t": "It looks like that last trial wasn't challenging enough for you, {NICKNAME}."
+        },
+        {
+          "s": 0,
+          "t": "I thought about your suggestions, and I think it's indeed necessary to make a few modifications and make Lightcall Resonance more fearsome..."
+        },
+        {
+          "sit": "Why don't you call me \"Lady Sorush's Yasnapati\" anymore?"
+        },
+        {
+          "s": 2,
+          "t": "Hmm, yeah! Now that Paimon thinks about it, all the \"ah la la's\" in her speech are gone, and she sounds more concise! She really should speak like this more often."
+        },
+        {
+          "s": 2,
+          "t": "When you were talking earlier, you kinda sounded like the Skeptics. It was as if you were... putting on airs, and you were way too reverent towards Sorush... Aren't you supposed to hate the Skeptics?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, and we forgot to ask, but what did the Order of Skeptics want from you...?"
+        },
+        {
+          "s": 0,
+          "t": "Wow... how perceptive of you."
+        },
+        {
+          "s": 0,
+          "t": "Well, I guess there's no point hiding it from you... Hmm, where should I start?"
+        },
+        {
+          "sit": "I knew something was up."
+        },
+        {
+          "s": 2,
+          "t": "Hey! What's the big idea? Paimon's falling behind!"
+        },
+        {
+          "s": 0,
+          "t": "No worries, innocent Pale Floater. It's better not to know these things, as the more you know, the more troublesome it gets."
+        },
+        {
+          "s": 0,
+          "t": "You seem to like treasure and seem solely focused on whether the rewards will make you happy. I'll let {NICKNAME} deal with all the heavy emotions."
+        },
+        {
+          "s": 2,
+          "t": "No way! Paimon would never let {NICKNAME} be unhappy alone! Paimon's gonna listen to you talk!"
+        },
+        {
+          "s": 0,
+          "t": "Is this what they call true friendship? What have I been doing... except making a fool of myself..."
+        },
+        {
+          "s": 2,
+          "t": "Wh—What?"
+        },
+        {
+          "s": 0,
+          "t": "Alright, enough prattling, back to business. Come and try another round of Lightcall Resonance. This is no ordinary trial, and you may not make it through this time."
+        },
+        {
+          "s": 2,
+          "t": "Okay, we'll talk later after taking on your painstakingly prepared challenge..."
+        },
+        {
+          "section": "Jarjar, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Just so you know, compared to the last two, this trial will definitely be challenging for you. If you don't give it your all, you might get knocked down!"
+        },
+        {
+          "section": "Jarjar, Paimon"
+        },
+        {
+          "sit": "That sounds terrifying! I need to prepare some more!"
+        },
+        {
+          "s": 2,
+          "t": "Eh? You're just playing along, right? Paimon feels like you're exaggerating things..."
+        },
+        {
+          "s": 2,
+          "t": "But it's probably for the best to make sure you put your best foot forward."
+        },
+        {
+          "section": "Jarjar, Paimon, Sorush"
+        },
+        {
+          "s": 0,
+          "t": "I've never seen anything like this... Ohh, you must be the ones I've been waiting for... But you're also Lady Sorush's Yasnapati..."
+        },
+        {
+          "s": 2,
+          "t": "Hm? Jarjar, you don't look too happy."
+        },
+        {
+          "s": 1,
+          "t": "What happened? What's Jarjar muttering now?"
+        },
+        {
+          "s": 1,
+          "t": "This Lightcall Resonance trial was quite a struggle. I'm a little tired... so I didn't quite catch that."
+        },
+        {
+          "s": 0,
+          "t": "It's nothing! Let's focus on the trial..."
+        },
+        {
+          "s": 0,
+          "t": "Lady Sorush seems to be tired, and I also have to prepare the final track... I'll see you when it's done, as usual. Then we can chat again."
+        },
+        {
+          "s": 1,
+          "t": "That's very sensible of you. Good, I'll take a short break."
+        },
+        {
+          "s": 1,
+          "t": "My Yasnapati, next time you meet Jarjar, go on and chat without me. I'll be nearby having a rest and recuperating my strength..."
+        },
+        {
+          "s": 1,
+          "t": "This will give you time to chat about the trivial issues that you discussed earlier."
+        },
+        {
+          "sit": "If you say so..."
+        },
+        {
+          "sit": "(Give Paimon a hint with your eyes.)"
+        },
+        {
+          "s": 2,
+          "t": "Huh? Uh... oh!"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry, Sorush! When the time comes, we'll give Jarjar some feedback!"
+        },
+        {
+          "section": "Jarjar, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "With the way you're carrying yourselves, do you really think you can pull this one off?"
+        },
+        {
+          "s": 2,
+          "t": "Of course. Like you said, {NICKNAME} is Lady Sorush's Yasnapati. He(She) eats these challenges for breakfast!"
+        },
+        {
+          "sit": "Tell us the truth, first."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, Jarjar! Anything you're not telling us and Sorush, spit it out."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "It's really no big deal. A solitary Pari, tricked by people with ulterior motives. Nothing more."
+        },
+        {
+          "s": 0,
+          "t": "I was originally fond of flying freely in pursuit of speed and skill, and arranged many challenges similar to Lightcall Resonance. But no Pari wanted to enjoy them with me."
+        },
+        {
+          "s": 0,
+          "t": "An Order of Skeptics goon appeared and said he wanted to be my friend."
+        },
+        {
+          "s": 0,
+          "t": "It was obvious that no matter which wind glider he used, he proved to be an amateur. And yet, I fell for his sycophantic overtures."
+        },
+        {
+          "s": 0,
+          "t": "In the end, he saw me as nothing more than an observational sample of ordinary Pari to be used... He also tried to get information about an important Pari out from me."
+        },
+        {
+          "s": 2,
+          "t": "An important Pari... It must be Zurvan."
+        },
+        {
+          "s": 0,
+          "t": "That's right. Compared with the first Pari, the great Lady Zurvan, I'm but a lowly, nameless Pari that no one cares about."
+        },
+        {
+          "s": 0,
+          "t": "The humans treat me well, but not because of who I am, but because of the information I know."
+        },
+        {
+          "sit": "Sounds familiar..."
+        },
+        {
+          "s": 2,
+          "t": "Actually, Sorush was cheated for the exact same reason."
+        },
+        {
+          "s": 0,
+          "t": "I may be a simple nameless Pari, but I don't give away secrets easily. When I found out the truth, I drove him away."
+        },
+        {
+          "s": 0,
+          "t": "I thought that would be the end of it, but then another human came into contact with me, as if unaware that I had just chased his companion away."
+        },
+        {
+          "s": 2,
+          "t": "Are these people all working under Nasejuna? To think that he would do all these things, in addition to tricking Sorush!"
+        },
+        {
+          "sit": "How demeaning."
+        },
+        {
+          "s": 0,
+          "t": "This is why I came up with Lightcall Resonance. I wanted to show the humans that only those who have passed the trials have the right to speak to me."
+        },
+        {
+          "s": 2,
+          "t": "What about those who pass the trials?"
+        },
+        {
+          "s": 0,
+          "t": "I will never tell them a single thing about Lady Zurvan even if they do pass the trials. This is a matter of principles."
+        },
+        {
+          "s": 0,
+          "t": "Lady Sorush is right. I'm a strange Pari, always alone..."
+        },
+        {
+          "s": 0,
+          "t": "But I won't ever sell out any Pari for the sake of being friends with humans."
+        },
+        {
+          "s": 2,
+          "t": "Whoa, that sounds harsh!"
+        },
+        {
+          "sit": "Sorush's situation isn't quite the same."
+        },
+        {
+          "s": 2,
+          "t": "That's true... But anyway, you wanna make more friends, right?"
+        },
+        {
+          "s": 2,
+          "t": "It seems a little weird to say it right now, but didn't {NICKNAME} pass all the trials? He(She) could be your friend."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}?"
+        },
+        {
+          "sit": "Ehe."
+        },
+        {
+          "sit": "That's right."
+        },
+        {
+          "s": 0,
+          "t": "No. {NICKNAME} is your friend and Sorush's Yasnapati. How could I..."
+        },
+        {
+          "s": 2,
+          "t": "Friendships aren't like those strange one-on-one master-servant relationships!"
+        },
+        {
+          "s": 2,
+          "t": "You can be friends with Paimon and Sorush, that's all there is to it! Let everyone try out your gliding challenge, enjoy your Lightcall Resonance, and be happy!"
+        },
+        {
+          "s": 0,
+          "t": "You... you..."
+        },
+        {
+          "s": 0,
+          "t": "The treasure. You can have it now. I don't know how else to express my gratitude... And as for Sorush... never mind."
+        },
+        {
+          "s": 2,
+          "t": "Jarjar chickened out at the most crucial moment... That won't do!"
+        },
+        {
+          "s": 2,
+          "t": "It's obvious that you're still talking to Sorush like a member of the Order of Skeptics. What do you think of her?"
+        },
+        {
+          "sit": "Are you afraid of her?"
+        },
+        {
+          "sit": "Do you hate her?"
+        },
+        {
+          "s": 0,
+          "t": "No way! Sorush is such a special Pari. Her resolve and willpower is something I could never hope to learn. I have a lot of respect for her."
+        },
+        {
+          "s": 0,
+          "t": "I just thought that if the Order of Skeptics's manner of speaking could please me to the point where I let my guard down, it must be good enough to make other Pari feel happy too. I thought that it'll make them more willing to talk to me..."
+        },
+        {
+          "s": 0,
+          "t": "Come to think of it, perhaps I should stop imitating this manner of flattery. I should be friends with Sorush as my true self..."
+        },
+        {
+          "s": 0,
+          "t": "But I'm a little scared... If I don't praise Sorush enough, she'll remember the rumors and won't want anything to do with me..."
+        },
+        {
+          "s": 2,
+          "t": "That won't happen. How should Paimon put it? Sorush is a totally different Pari now! She was willing to talk to you from the beginning, wasn't she?"
+        },
+        {
+          "s": 2,
+          "t": "And since you already have a high regard for her, Paimon's sure she'll feel your respect — even if you don't use the Order of Skeptics's manner of talking!"
+        },
+        {
+          "sit": "Let's make a deal."
+        },
+        {
+          "sit": "If we pass the trial, you should give it a try."
+        },
+        {
+          "s": 2,
+          "t": "Yeah! There's no going back now, and the treasure isn't important anymore. If we pass this final trial of Lightcall Resonance, you have to try to become friends with Sorush."
+        },
+        {
+          "s": 2,
+          "t": "Otherwise, when {NICKNAME} and Paimon travel somewhere else, you'll go back to being lonely and miserable."
+        },
+        {
+          "s": 2,
+          "t": "Well, at least until the next time someone passes Lightcall Resonance... but Paimon has no idea when that'll be."
+        },
+        {
+          "s": 0,
+          "t": "Hey... don't be so sure of your success! This last trial will be a challenging one!"
+        },
+        {
+          "s": 0,
+          "t": "Let's wait until you complete the trial before crossing that troublesome bridge..."
+        },
+        {
+          "s": 2,
+          "t": "Hmph! We won't be underestimated! We've got this final challenge in the bag!"
+        },
+        {
+          "section": "Jarjar, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "I mean it this time! For this final trial, I've come up with the hardest setup I can think of, so you'd better give it your all..."
+        },
+        {
+          "s": 0,
+          "t": "Ahem! I mean... get ready to fail!"
+        },
+        {
+          "section": "Jarjar, Paimon"
+        },
+        {
+          "sit": "Let me make some adjustments."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, let's get serious about getting Jarjar and Sorush to be friends!"
+        },
+        {
+          "s": 0,
+          "t": "Didn't I tell you not to get your hopes up!?"
+        },
+        {
+          "section": "Jarjar, Sorush, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Okay, now all of Jarjar's trials are complete."
+        },
+        {
+          "s": 1,
+          "t": "The last trial did feel a little more complex. It took us quite some time..."
+        },
+        {
+          "s": 2,
+          "t": "Your turn, Jarjar. Just go ahead and cut to the chase!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Ah la la, Lady Sorush. Of course Lightcall Resonance would be slightly difficult. How would you have bothered your Yasnapati to come and have a look otherwise?"
+        },
+        {
+          "s": 0,
+          "t": "If it ended too soon, Lightcall Resonance wouldn't deserve to become a proper testing ritual — and it would've been a waste of your precious time. I hope you understand!"
+        },
+        {
+          "s": 1,
+          "t": "Fair point... I'll let the matter go, then."
+        },
+        {
+          "sit": "Jarjar, what's going on?"
+        },
+        {
+          "s": 2,
+          "t": "What's with that tone? What happened to showing who you really are?"
+        },
+        {
+          "s": 0,
+          "t": "I can't help it! I'm not ready. I can't even get the words out!"
+        },
+        {
+          "s": 0,
+          "t": "I can't just tell Sorush that I've been copying the Skeptics' manner of speech... She'll get really mad, that's for sure. Even the thought of it is terrifying!"
+        },
+        {
+          "s": 1,
+          "t": "What are you muttering about?"
+        },
+        {
+          "s": 1,
+          "t": "Anyway, my Yasnapati, what do you think about Jarjar's Lightcall Resonance?"
+        },
+        {
+          "sit": "...Just right?"
+        },
+        {
+          "sit": "...It's got great potential?"
+        },
+        {
+          "s": 1,
+          "t": "Then I guess there really is something special about it, since even {NICKNAME} says so."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, surely it wouldn't be a bad thing to spend more time with her."
+        },
+        {
+          "s": 1,
+          "t": "Ahem! You may consider me your most distinguished friend, Jarjar. Not many among the Pari are that lucky."
+        },
+        {
+          "sit": "!"
+        },
+        {
+          "s": 2,
+          "t": "!"
+        },
+        {
+          "s": 0,
+          "t": "...Friend?"
+        },
+        {
+          "s": 0,
+          "t": "If... if I built a more powerful trial than Lightcall Resonance, would you consider... giving it a try yourself?"
+        },
+        {
+          "s": 1,
+          "t": "That's hard to say! I have a busy schedule, you know?"
+        },
+        {
+          "s": 1,
+          "t": "...However, on the rare occasion when time permits, I'll think about it."
+        },
+        {
+          "s": 0,
+          "t": "Thank you so very much, Lady Sorush! I... I... I promise I'll do my bestest to create the most satisfactory trial for you!"
+        },
+        {
+          "s": 1,
+          "t": "Why the sudden excitement? You... still have a lot to learn about how to socialize with the other Pari!"
+        },
+        {
+          "s": 2,
+          "t": "Should we say that, thanks to Sorush's insensitivity, Jarjar's problem has been inadvertently solved?"
+        },
+        {
+          "sit": "At least... it's a good ending."
+        },
+        {
+          "sit": "Wonderful!"
+        },
+        {
+          "s": 2,
+          "t": "Yeah! I hope they get along from now on!"
+        },
+        {
+          "s": 2,
+          "t": "Uh, the Lightcall Resonance trial was just right for someone as tall as you, right?"
+        },
+        {
+          "s": 2,
+          "t": "But don't you think Sorush is a little too small for the trial? Paimon can just imagine her stomping her feet in anger when she fails!"
+        }
+      ],
+      "description": "In the Tunigi Hollow, you, Paimon, and Sorush encounter an eccentric Pari. She seems to be preparing for some sort of trial…"
+    }
+  ],
+  "speakers": [
+    "Jarjar",
+    "Sorush",
+    "Paimon"
+  ],
+  "id": "q-73319"
+}

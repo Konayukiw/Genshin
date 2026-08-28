@@ -1,0 +1,531 @@
+{
+  "chapter": "A Letter",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "A Letter",
+  "region": null,
+  "quests": [
+    {
+      "title": "A Letter",
+      "dialogue": [
+        {
+          "section": "Iaune"
+        },
+        {
+          "s": 0,
+          "t": "...Just like I stressed before, dear Gestionnaire, that's how the procedure goes and there's nothing I can do."
+        },
+        {
+          "s": 0,
+          "t": "Mr. Roialte did send the list of required documents and I do have them ready."
+        },
+        {
+          "s": 0,
+          "t": "However, you can't simply come over and take any document. That does not conform with our letter delivery regulations."
+        },
+        {
+          "sit": "Huh? Iaune!"
+        },
+        {
+          "sit": "Then I'll fly over here with you later."
+        },
+        {
+          "s": 1,
+          "t": "Hi, Iaune. You're looking good!"
+        },
+        {
+          "s": 2,
+          "t": "You as well. It's all thanks to the help I've received from Mr. Roialte and Mr. Semaine."
+        },
+        {
+          "s": 0,
+          "t": "You know {NICKNAME} too, Iaune?"
+        },
+        {
+          "s": 2,
+          "t": "Of course. {NICKNAME} did me a huge favor before. Without him(her), I wouldn't still be working at the Maison Gestion."
+        },
+        {
+          "s": 0,
+          "t": "Really? No wonder {NICKNAME} is an Honorary Senior Researcher of the Institute, hahahaha!"
+        },
+        {
+          "sit": "I'm very good at providing moral support."
+        },
+        {
+          "sit": "All I did was fix the Autostamper 3000."
+        },
+        {
+          "s": 2,
+          "t": "Regardless, without your support, I'm sure... I couldn't have made it..."
+        },
+        {
+          "s": 2,
+          "t": "I believe I heard Mr. Choiseul call you an Honorary Senior Researcher of the Institute just now?"
+        },
+        {
+          "sit": "Bingo. I even have the certificate."
+        },
+        {
+          "s": 1,
+          "t": "And a photo! Paimon's in it, too, but Paimon didn't get a certificate..."
+        },
+        {
+          "s": 0,
+          "t": "Yes, in recognition of {NICKNAME}'s merits and achievements, the Institute has granted him(her) the title of Honorary Senior Researcher."
+        },
+        {
+          "s": 0,
+          "t": "As for what those \"achievements\" are... I'll let him(her) speak for himself(herself). Let's talk business first."
+        },
+        {
+          "s": 0,
+          "t": "I really cannot hand that document to you right now, Iaune."
+        },
+        {
+          "s": 0,
+          "t": "But as for what you asked earlier that you'd like a researcher to guide you over and take some pictures near the Institute... That's no problem at all!"
+        },
+        {
+          "s": 0,
+          "t": "I think {NICKNAME} might just be suited to the job. He(She) knows the surroundings like the back of his(her) hand, and shall be more than equal to the task."
+        },
+        {
+          "s": 0,
+          "t": "What do you say, Mr.(Ms.) {NICKNAME}?"
+        },
+        {
+          "sit": "No problem. Leave it to me."
+        },
+        {
+          "sit": "I'm happy to help Iaune out."
+        },
+        {
+          "s": 2,
+          "t": "You're so kind. As long as you're there, it should be fine. When I came, all I saw were out-of-control meka and monsters..."
+        },
+        {
+          "s": 2,
+          "t": "But taking pictures isn't the priority here. Truth be told, Mr. Choiseul..."
+        },
+        {
+          "s": 0,
+          "t": "I'd love to help you too, Iaune, but the procedure is procedure and my hands are tied. Please don't make it hard on a lowly public official who only knows how to stamp documents."
+        },
+        {
+          "s": 2,
+          "t": "All right, I'll discuss this with Mr. Roialte later, after I return..."
+        },
+        {
+          "s": 2,
+          "t": "Goodbye, Mr. Choiseul. Have a nice day."
+        },
+        {
+          "s": 0,
+          "t": "Thank you. I hope you enjoy your time at the Fontaine Research Institute."
+        },
+        {
+          "s": 2,
+          "t": "It's your turn to be the guide now, {NICKNAME}. Why don't we go to the Mary-Ann Memorial Park first?"
+        },
+        {
+          "section": "Choiseul"
+        },
+        {
+          "s": 0,
+          "t": "Raimondo still isn't back yet... What is he up to?"
+        },
+        {
+          "section": "Iaune"
+        },
+        {
+          "s": 2,
+          "t": "Uh, is this the Mary-Ann Memorial Park? I can't tell it's a park at all..."
+        },
+        {
+          "s": 2,
+          "t": "Mr. Roialte will be disappointed. He was hoping to have someone make a speech here."
+        },
+        {
+          "s": 2,
+          "t": "Looking around, a speech is out of the question. There's not even an iconic landmark here, and it's not good for group photos."
+        },
+        {
+          "sit": "You can take some meka back with you as a memento."
+        },
+        {
+          "s": 2,
+          "t": "You're funny, but there's no room in the Maison Gestion for such things."
+        },
+        {
+          "s": 2,
+          "t": "And even if I could, I'd still have to have the meka appraised, reported, categorized, then stored..."
+        },
+        {
+          "s": 1,
+          "t": "Hey! We're only joking. No need to get so focused on work all of a sudden..."
+        },
+        {
+          "s": 2,
+          "t": "Speaking of reports... I still can't get that document. Mr. Roialte will be disappointed again..."
+        },
+        {
+          "sit": "Is Choiseul making it difficult for you?"
+        },
+        {
+          "sit": "What were you and Choiseul discussing back there?"
+        },
+        {
+          "s": 2,
+          "t": "Not exactly. My request was not quite by-the-book, so it's no surprise that he rejected it."
+        },
+        {
+          "s": 2,
+          "t": "As you may know, the Institute is making plans to rebuild, right? Certain resources and personnel arrangements have to be made through the Maison Gestion."
+        },
+        {
+          "s": 2,
+          "t": "The Maison Gestion takes this matter very seriously, so it had Mr. Roialte select a team to conduct field studies in and around the vicinity."
+        },
+        {
+          "s": 2,
+          "t": "Therefore, Mr. Roialte stayed behind at the Maison Gestion to do the head count, while I am to visit the Institute to coordinate the reception."
+        },
+        {
+          "s": 2,
+          "t": "It happens that the Institute has a letter for the Maison Gestion, so I thought since I'm here already, I might as well bring it back with me..."
+        },
+        {
+          "s": 2,
+          "t": "But Mr. Choiseul insisted it was a violation of proper procedure and simply would not give it to me."
+        },
+        {
+          "s": 1,
+          "t": "Violation of procedure? What procedure?"
+        },
+        {
+          "sit": "There are proper procedures for picking up a document?"
+        },
+        {
+          "s": 1,
+          "t": "Uh, don't tell Paimon there's gonna be running around for approvals, signatures, and listening to bureaucrats babble on endlessly as well..."
+        },
+        {
+          "s": 2,
+          "t": "Simply put, most official correspondence within the Maison Gestion must be mailed."
+        },
+        {
+          "s": 1,
+          "t": "What? Then... What if the departments mailing the letter are on the same street, or even right across from each other?"
+        },
+        {
+          "s": 2,
+          "t": "Yes, you still have to mail it. That's for the purpose of being \"traceable.\""
+        },
+        {
+          "sit": "Gestionnaires sure aren't afraid of work."
+        },
+        {
+          "s": 2,
+          "t": "I suppose everyone is just used to it all by now..."
+        },
+        {
+          "s": 2,
+          "t": "Never mind, let's just go to the next spot. Let me check the memo Mr. Roialte left for me... Uh..."
+        },
+        {
+          "s": 2,
+          "t": "This place is called... the Institute's Academic Assembly Hall. Strange... I didn't see any buildings with such a sign when I came."
+        },
+        {
+          "sit": "I know where it is, just follow me."
+        },
+        {
+          "s": 2,
+          "t": "I knew I could depend on you! What would I do without you?"
+        },
+        {
+          "s": 2,
+          "t": "Let's hurry, then. There might be more out-of-control meka around here..."
+        },
+        {
+          "section": "Iaune"
+        },
+        {
+          "s": 2,
+          "t": "Is this the Academic Assembly Hall?"
+        },
+        {
+          "s": 2,
+          "t": "I admit, the structure does look like a hall, but what's academic about it?"
+        },
+        {
+          "sit": "The academic part is in the researchers' heads."
+        },
+        {
+          "sit": "The rocks aren't academic, that's for sure."
+        },
+        {
+          "s": 2,
+          "t": "All right, good thing I didn't come for anything academic today. Anyway, the building seems relatively... intact."
+        },
+        {
+          "sit": "Intact is all it has left."
+        },
+        {
+          "s": 2,
+          "t": "Ahem! Come on, let's look around. I think this place is perfect for a group photo."
+        },
+        {
+          "s": 2,
+          "t": "I should go find a good vantage point so I won't be at a complete loss if Mr. Roialte grills me."
+        },
+        {
+          "s": 2,
+          "t": "Please take a few pictures for me too, {NICKNAME}. I heard you're a good photographer, certainly better than me!"
+        },
+        {
+          "sit": "I got this."
+        },
+        {
+          "section": "Iaune"
+        },
+        {
+          "s": 2,
+          "t": "This one isn't bad... Have you finished taking pictures yet?"
+        },
+        {
+          "sit": "Yes."
+        },
+        {
+          "sit": "Almost."
+        },
+        {
+          "section": "Iaune"
+        },
+        {
+          "s": 2,
+          "t": "Oh my... Too high, far too high!"
+        },
+        {
+          "sit": "Are you describing the Institute's academic level?"
+        },
+        {
+          "s": 2,
+          "t": "No, I'm marveling at the height of this place! Though the Institute's academics were certainly up there too..."
+        },
+        {
+          "s": 2,
+          "t": "But now... *sigh* Who could've foreseen so many hardships for the Institute? And who knows how smooth the reconstruction will be..."
+        },
+        {
+          "s": 2,
+          "t": "The last stop is... The Fontaine Research Institute Qualifications Review Representative Office."
+        },
+        {
+          "sit": "All in one breath, impressive."
+        },
+        {
+          "s": 2,
+          "t": "Thank you. But where is it? I didn't notice any such office in the Institute."
+        },
+        {
+          "sit": "Is Desnos in charge of the office?"
+        },
+        {
+          "s": 2,
+          "t": "Yes! That's right! You know even this place? I shouldn't be surprised that the Honorary Senior Researcher knows everything about the Institute!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon remembers now! Is it that office in the ruins? If you can count that as an office..."
+        },
+        {
+          "s": 2,
+          "t": "Maybe Mr. Desnos shortened the name to make it easy for you to understand."
+        },
+        {
+          "s": 2,
+          "t": "Please lead the way. I have to get some files from Mr. Desnos too. Once I have them, I can return to the Maison Gestion."
+        },
+        {
+          "s": 2,
+          "t": "It's been such an uneventful day today. I should be able to go back and relax soon. The Fontaine Research Institute sure does things differently from... Ahem, I didn't say a thing."
+        },
+        {
+          "section": "Desnos"
+        },
+        {
+          "s": 3,
+          "t": "O Archons save me, may no more meka cause trouble... What are you doing here, Iaune?"
+        },
+        {
+          "s": 2,
+          "t": "Mr. Roialte has sent me here to conduct an inspection, so I thought I'd drop by and bring you some coffee."
+        },
+        {
+          "s": 2,
+          "t": "But I have to say that your working environment is indeed... quite difficult. I thought this \"office\" would at least have an actual room."
+        },
+        {
+          "s": 3,
+          "t": "Thank you for the coffee, my dear Iaune. As for the work environment... I'm content with what I have. Look around, at least I'm working under an intact ceiling."
+        },
+        {
+          "sit": "Are you still in charge of the qualifications review?"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}! No... I should call you Honorary Senior Researcher! Glad to see you."
+        },
+        {
+          "s": 3,
+          "t": "And what's with that sad look, Iaune?"
+        },
+        {
+          "s": 2,
+          "t": "*sigh*... It's like this..."
+        },
+        {
+          "sit": "With a long face, Iaune recounts all that has happened..."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... Is the correspondence some sort of classified document?"
+        },
+        {
+          "s": 2,
+          "t": "It can't be. Replies like this are typically in the vein of \"Got it,\" \"I have no questions,\" \"I don't know,\" or something similar..."
+        },
+        {
+          "s": 2,
+          "t": "At most, it's copied to different departments to let them know it's something they should care about."
+        },
+        {
+          "s": 3,
+          "t": "Oh, no wonder I got a copy of the letter too... Have a look, is this it?"
+        },
+        {
+          "s": 2,
+          "t": "What!? But Mr. Choiseul clearly said he hadn't mailed it yet!"
+        },
+        {
+          "s": 2,
+          "t": "...Oh, he must've meant that the external letters haven't been sent out yet."
+        },
+        {
+          "sit": "Once more, he failed to tell the whole story."
+        },
+        {
+          "s": 1,
+          "t": "People from the Institute are really good at getting under your skin, huh..."
+        },
+        {
+          "s": 3,
+          "t": "Judging from your reaction, this must be the document you wanted. I've read it several times already, myself."
+        },
+        {
+          "sit": "This is identical to the document you wanted."
+        },
+        {
+          "s": 3,
+          "t": "Very astute, {NICKNAME}. I'm sure all the letters that Choiseul sent out are the same, Iaune."
+        },
+        {
+          "s": 3,
+          "t": "Why don't you just take my copy back with you?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, what? If Iaune takes it, then won't you have lost yours?"
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha, look at me! Nobody will care if someone in my position accidentally loses a nonessential letter."
+        },
+        {
+          "sit": "Not a bad idea."
+        },
+        {
+          "sit": "That does solve the problem, doesn't it?"
+        },
+        {
+          "s": 3,
+          "t": "See, Iaune, I'm not just mooching coffee off you!"
+        },
+        {
+          "s": 2,
+          "t": "No, Monsieur, I cannot do that. It's against regulations. I'll go back and wait for the official letter to be delivered."
+        },
+        {
+          "s": 3,
+          "t": "My dear Iaune, think outside the box, don't be a fool! Why must you insist on making it hard for yourself?"
+        },
+        {
+          "s": 3,
+          "t": "Who knows when that letter will get to you! The sooner you get it, the sooner you can start working and settle all that mess."
+        },
+        {
+          "s": 2,
+          "t": "No, Monsieur. Thank you, but I will not violate regulations. My duty as a civil servant demands it."
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, Mr. Desnos, and Paimon, I must leave now. Mr. Roialte is still waiting for me to report back."
+        },
+        {
+          "sit": "Iaune walks away with solemn, heavy steps..."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* Iaune can be such a fool. His brains have gone all rotten, haven't they?"
+        },
+        {
+          "s": 3,
+          "t": "Everyone else tries to make things easier for themselves, yet he insists on going through the motions, even for small things like this."
+        },
+        {
+          "sit": "That's just his character."
+        },
+        {
+          "sit": "That's just the person Iaune is."
+        },
+        {
+          "s": 3,
+          "t": "Admirable, yet scary at the same time. No wonder he has few friends in the Maison Gestion other than Roialte and Semaine."
+        },
+        {
+          "sit": "I'm his friend too."
+        },
+        {
+          "s": 1,
+          "t": "So is Paimon, so is Paimon!"
+        },
+        {
+          "s": 3,
+          "t": "That's good. You should be around him more often. I feel Iaune's nerves are getting more and more frayed by the day..."
+        },
+        {
+          "s": 3,
+          "t": "As for the letter, I'll see what I can do. I'll pay Mr. Choiseul a visit and ask him to let me mail them out."
+        },
+        {
+          "s": 3,
+          "t": "If he agrees, I'll send one to Iaune as quickly as possible."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* It takes a lot of effort to be friends with a fool..."
+        }
+      ],
+      "description": "You meet Iaune again at the Fontaine Research Institute…"
+    }
+  ],
+  "speakers": [
+    "Choiseul",
+    "Paimon",
+    "Iaune",
+    "Desnos"
+  ],
+  "id": "q-74127"
+}

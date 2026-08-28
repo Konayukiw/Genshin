@@ -1,0 +1,1100 @@
+{
+  "chapter": "Lantern Rite: Part II",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Currents Deep Beneath the Lanterns",
+  "region": null,
+  "quests": [
+    {
+      "title": "Currents Deep Beneath the Lanterns",
+      "dialogue": [
+        {
+          "section": "Wang'ya"
+        },
+        {
+          "s": 0,
+          "t": "Hello again, Wang'ya! How's the Mingxiao Lantern construction coming along?"
+        },
+        {
+          "s": 1,
+          "t": "Good to see you two! The Mingxiao Lantern is coming along smoothly, thank you. We're almost done collecting the required Plaustrite."
+        },
+        {
+          "s": 1,
+          "t": "The project should be completed in a few days... You'll have to come by when it's done!"
+        },
+        {
+          "sit": "Plaustrite?"
+        },
+        {
+          "s": 1,
+          "t": "Mm-hmm, plaustrite is the main component of any Mingxiao Lantern. Most of the donations we get from the city folk are either Mora or Plaustrite."
+        },
+        {
+          "s": 1,
+          "t": "A lot of them carve their heart's desires onto the Plaustrite they donate, as a prayer for good fortune and other blessings."
+        },
+        {
+          "s": 0,
+          "t": "Paimon wants some good fortune too! Let's find some Plaustrite and make a wish, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Hm, since you seem so eager to donate, how about you keep your eyes open for less common varieties of Plaustrite? Those are the ones we lack the most at the moment."
+        },
+        {
+          "s": 1,
+          "t": "One is called <color=#00E1FFFF>Azurite</color>. It is occasionally found in the northern part of Mt. Tianheng."
+        },
+        {
+          "s": 1,
+          "t": "When Azurite gets caught in the roots of ordinary vegetation, it sometimes produces <color=#00E1FFFF>Bloatty Floatties</color>, which have floating seeds."
+        },
+        {
+          "s": 1,
+          "t": "The other one is called <color=#00E1FFFF>Vermillionite</color>, which is extremely dangerous as far as most people are concerned..."
+        },
+        {
+          "s": 1,
+          "t": "In Guili Plains, old <color=#00E1FFFF>Ruin Hunters</color> who have lost the power of flight use <color=#00E1FFFF>Vermillionite</color> to keep themselves airborne."
+        },
+        {
+          "sit": "We'll head out to look for those then."
+        },
+        {
+          "sit": "What makes them so special?"
+        },
+        {
+          "s": 1,
+          "t": "It's a tall order, but I'm sure you can manage."
+        },
+        {
+          "section": "Wang'ya"
+        },
+        {
+          "s": 1,
+          "t": "<color=#00E1FFFF>Azurite</color> is occasionally found in the northern part of Mt. Tianheng."
+        },
+        {
+          "s": 1,
+          "t": "It is said that when Azurite gets caught in the roots of ordinary vegetation, it sometimes produces <color=#00E1FFFF>Bloatty Floatties</color>, which have floating seeds."
+        },
+        {
+          "s": 1,
+          "t": "Perhaps you can start by tracking down <color=#00E1FFFF>Bloatty Floatties</color>. They might lead you to <color=#00E1FFFF>Azurite</color> deposits."
+        },
+        {
+          "s": 1,
+          "t": "And then you can check out Guili Plains, where old <color=#00E1FFFF>Ruin Hunters</color> who have lost the power of flight use <color=#00E1FFFF>Vermillionite</color> to keep themselves airborne."
+        },
+        {
+          "s": 1,
+          "t": "Don't go looking for Ruin Hunters unprepared, though. They can be quite deadly."
+        },
+        {
+          "section": "Wang'ya"
+        },
+        {
+          "s": 0,
+          "t": "Wang'ya, we're back with a fresh supply of Azurite and Vermillionite!"
+        },
+        {
+          "s": 1,
+          "t": "I knew I could count on you! Let me see... Hmm... Yep! Without a doubt, these are Azurite and Vermillionite."
+        },
+        {
+          "s": 1,
+          "t": "But don't you want to make your wishes? You brought back just enough materials for both of you. Come on, get carving!"
+        },
+        {
+          "s": 0,
+          "t": "Done! Paimon prays for a bottomless stomach to eat more delicacies with!"
+        },
+        {
+          "s": 0,
+          "t": "And you? Let Paimon see... Huh? Well, that doesn't sound like something you'd wish for..."
+        },
+        {
+          "sit": "That's my sister(brother)'s deepest desire."
+        },
+        {
+          "sit": "I really hope her(his) wish will come true."
+        },
+        {
+          "s": 0,
+          "t": "So you made a wish for her(him) instead..."
+        },
+        {
+          "s": 0,
+          "t": "Don't you worry, Paimon will help you find her(him), and we'll spend the next Lantern Rite together."
+        },
+        {
+          "s": 0,
+          "t": "Then, we'll release a gazillion Xiao Lanterns to make up for all those wishes you've never had a chance to make!"
+        },
+        {
+          "sit": "We sure will."
+        },
+        {
+          "s": 1,
+          "t": "If you're done with your carvings, you can hand over your Azurite and Vermillionite to me."
+        },
+        {
+          "s": 2,
+          "t": "Ms. Wang'ya..."
+        },
+        {
+          "s": 1,
+          "t": "Well hello, Changchang! What's up, little missy? Can't find your granddad?"
+        },
+        {
+          "s": 2,
+          "t": "Granddad said he's busy and I should go play on my own."
+        },
+        {
+          "s": 2,
+          "t": "I wanna make a Xiao Lantern, but I don't know how..."
+        },
+        {
+          "s": 2,
+          "t": "Ms. Wang'ya, could you help me make a Xiao Lantern?"
+        },
+        {
+          "s": 1,
+          "t": "Sure thing! But promise me that you'll go back home as soon as we're done playing. With so many people at the festival, your granddad will be worried sick if you stay out too long."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Thank you, Ms. Wang'ya! I'll be a good girl, I promise!"
+        },
+        {
+          "sit": "So, you know how to make Xiao Lanterns too?"
+        },
+        {
+          "s": 1,
+          "t": "I certainly do! That's how I made my first Mora, helping visitors make Xiao Lanterns by the docks. Ah... Good times, hehe!"
+        },
+        {
+          "s": 1,
+          "t": "I should really stay here to keep an eye on the girl — hey, could I bother you to go to the <color=#00E1FFFF>construction site</color> at <color=#00E1FFFF>the dock</color>, and gather some building materials?"
+        },
+        {
+          "sit": "Happy to help."
+        },
+        {
+          "s": 1,
+          "t": "Great, thanks. I appreciate it."
+        },
+        {
+          "section": "???"
+        },
+        {
+          "s": 3,
+          "t": "Hey, whatcha doin'?"
+        },
+        {
+          "s": 3,
+          "t": "Whatcha staring at me like that for? Get gone!"
+        },
+        {
+          "s": 3,
+          "t": "Wha— Huh?"
+        },
+        {
+          "s": 3,
+          "t": "...Alright, if you all won't get gone, I'm just gonna get going myself I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Wow. Paimon thought he might be a shady character, then he opened his mouth and now Paimon's sure of it!"
+        },
+        {
+          "s": 0,
+          "t": "He must have been up to something when he was crouching down on the ground. Because as soon as he saw us approaching, he stood up and acted all innocent..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon has a bad feeling about this..."
+        },
+        {
+          "s": 0,
+          "t": "What could he be up to? Let's investigate!"
+        },
+        {
+          "section": "???"
+        },
+        {
+          "s": 3,
+          "t": "Hey, whatcha doin'?"
+        },
+        {
+          "s": 3,
+          "t": "Whatcha staring at me like that for? Get gone!"
+        },
+        {
+          "s": 3,
+          "t": "Wha— Huh?"
+        },
+        {
+          "s": 3,
+          "t": "...Alright, if you all won't get gone, I'm just gonna get going myself I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Wow. Paimon thought he might be a shady character, then he opened his mouth and now Paimon's sure of it!"
+        },
+        {
+          "s": 0,
+          "t": "He must have been up to something when he was crouching down on the ground. Because as soon as he saw us approaching, he stood up and acted all innocent..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon has a bad feeling about this..."
+        },
+        {
+          "s": 0,
+          "t": "What could he be up to? Let's investigate!"
+        },
+        {
+          "section": "Wang'ya, Changchang"
+        },
+        {
+          "s": 2,
+          "t": "Why does it have to be so hard? I'll never learn how to make a Xiao Lantern..."
+        },
+        {
+          "s": 1,
+          "t": "All in good time. Don't give up, practice makes perfect."
+        },
+        {
+          "section": "???"
+        },
+        {
+          "s": 3,
+          "t": "Hey, whatcha doin'?"
+        },
+        {
+          "s": 3,
+          "t": "Whatcha staring at me like that for? Get gone!"
+        },
+        {
+          "s": 3,
+          "t": "Wha— Huh?"
+        },
+        {
+          "s": 3,
+          "t": "...Alright, if you all won't get gone, I'm just gonna get going myself I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Wow. Paimon thought he might be a shady character, then he opened his mouth and now Paimon's sure of it!"
+        },
+        {
+          "s": 0,
+          "t": "He must have been up to something when he was crouching down on the ground. Because as soon as he saw us approaching, he stood up and acted all innocent..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon has a bad feeling about this..."
+        },
+        {
+          "s": 0,
+          "t": "What could he be up to? Let's investigate!"
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 0,
+          "t": "On the last day of the Lantern Rite, huge crowds come out to watch the Mingxiao Lantern being released."
+        },
+        {
+          "s": 0,
+          "t": "It can't be a good sign if there's a suspicious character lurking around somewhere so dangerous."
+        },
+        {
+          "s": 0,
+          "t": "If he's been tampering with the stockpile of lantern supplies..."
+        },
+        {
+          "s": 0,
+          "t": "Let's get the materials we came for first. We can tell Wang'ya about the situation when we get back."
+        },
+        {
+          "sit": "Paimon, you're taking this very seriously. Why?"
+        },
+        {
+          "s": 0,
+          "t": "Because... Because... Everyone in Liyue has worked really hard for this! No one should be allowed to spoil it, period!"
+        },
+        {
+          "sit": "...What's the real reason?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, fine... There's so many delicacies in Liyue Harbor! Matsutake Meat Rolls, Mora Meat, Almond Tofu..."
+        },
+        {
+          "sit": "Are you reading those off a menu?"
+        },
+        {
+          "s": 0,
+          "t": "Hehehe..."
+        },
+        {
+          "section": "Wang'ya"
+        },
+        {
+          "s": 1,
+          "t": "Did you get the materials?"
+        },
+        {
+          "sit": "Sure did."
+        },
+        {
+          "s": 1,
+          "t": "Ah, yes! These will do. Let me make a Xiao Lantern for Changchang."
+        },
+        {
+          "sit": "There's more..."
+        },
+        {
+          "s": 0,
+          "t": "We saw a shady character skulking around the highly flammable materials at the construction site!"
+        },
+        {
+          "s": 0,
+          "t": "He looked like he was up to no good..."
+        },
+        {
+          "s": 1,
+          "t": "I see... Okay, please inform the <color=#00E1FFFF>Ministry of Civil Affairs</color> about what you saw. I'll talk to Jingming."
+        },
+        {
+          "s": 1,
+          "t": "With so many people visiting for the Lantern Rite, we can't afford to ignore something like this."
+        },
+        {
+          "s": 2,
+          "t": "Ms. Wang'ya, is something bad gonna happen at the Lantern Rite?"
+        },
+        {
+          "s": 1,
+          "t": "Not to a darling little angel like you, Changchang! Come on now, good girl, head back to your granddad and don't get distracted along the way. We don't want to make him worry."
+        },
+        {
+          "section": "Jiayi"
+        },
+        {
+          "s": 4,
+          "t": "Halt! This is the Liyue Ministry of Civil Affairs."
+        },
+        {
+          "sit": "We are here to report a suspicious individual."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, we saw a shady-looking guy snooping around near the stockpile of highly flammable Mingxiao Lantern supplies!"
+        },
+        {
+          "s": 0,
+          "t": "We must defend the Grilled Tiger Fish food stall at all costs!"
+        },
+        {
+          "s": 4,
+          "t": "Hmm, goodness! This is a serious matter indeed."
+        },
+        {
+          "s": 0,
+          "t": "Exactly what Paimon thought! Liyue Harbor's cuisine is the heart and soul of the city—"
+        },
+        {
+          "s": 4,
+          "t": "...It seems we disagree on where the seriousness of the matter lies. But you're not wrong, my little friend."
+        },
+        {
+          "s": 4,
+          "t": "Rest easy, the Ministry of Civil Affairs has assigned a specialist to keep the Lantern Rite safe."
+        },
+        {
+          "s": 4,
+          "t": "I will inform him of this matter and order him to step up vigilance in due course."
+        },
+        {
+          "s": 0,
+          "t": "\"In due course\"? This is serious, why not get your butt over there and tell him straight away?"
+        },
+        {
+          "s": 4,
+          "t": "I wish I could, but he's yet to return. He's taken a small team to <color=#00E1FFFF>Guili Plains</color>."
+        },
+        {
+          "sit": "I'll go to Guili Plains and tell them."
+        },
+        {
+          "sit": "Another day, another commission..."
+        },
+        {
+          "s": 4,
+          "t": "Huh? Uh... But you're a traveler, aren't you? You've come all this way for the Lantern Rite, and yet you are willing to lend a hand...?"
+        },
+        {
+          "s": 0,
+          "t": "Our pleasure! We're experts in this kinda stuff. We lend hands all the time, like the time we—"
+        },
+        {
+          "sit": "Ahem, leave it to us."
+        },
+        {
+          "s": 4,
+          "t": "R—Really? Then we are indebted to you. Travelers are so kind these days..."
+        },
+        {
+          "s": 4,
+          "t": "Ah yes, no commission should go unpaid..."
+        },
+        {
+          "s": 4,
+          "t": "I will take care of the compensation. Again, thank you both."
+        },
+        {
+          "section": "Wang'ya, Changchang"
+        },
+        {
+          "s": 2,
+          "t": "Ms. Wang'ya, is something bad gonna happen at the Lantern Rite?"
+        },
+        {
+          "s": 1,
+          "t": "Not to a darling little angel like you, Changchang! Come on now, good girl, head back to your granddad and don't get distracted along the way. We don't want to make him worry."
+        },
+        {
+          "section": "Xinghuo"
+        },
+        {
+          "s": 5,
+          "t": "Wh—Who are you?"
+        },
+        {
+          "sit": "Jiayi sent us."
+        },
+        {
+          "s": 5,
+          "t": "Oh... Thank you. If it weren't for your help, today may have ended quite differently."
+        },
+        {
+          "sit": "What is it you're doing here?"
+        },
+        {
+          "s": 5,
+          "t": "I'm in charge of keeping the Lantern Rite safe. A lot comes out of the woodwork at this time of year, there are thieves around every corner."
+        },
+        {
+          "s": 5,
+          "t": "I encountered one during my patrol just now, so I called a few men and we pursued them out here."
+        },
+        {
+          "s": 5,
+          "t": "Once we got here we decided to split up. I was searching this area."
+        },
+        {
+          "s": 5,
+          "t": "The thief seems to have made a clean getaway, and I sure didn't bank on these monsters being here..."
+        },
+        {
+          "s": 5,
+          "t": "I was just assessing whether it would be better to send for reinforcements, or find another way to disperse them... And that's when you showed up and dealt with them."
+        },
+        {
+          "s": 5,
+          "t": "*sigh* And thank goodness. I don't know how long it would've taken for the others to get here."
+        },
+        {
+          "s": 5,
+          "t": "Well, I need to get back to looking for that thief... But thanks for your help. Until next time..."
+        },
+        {
+          "s": 0,
+          "t": "Wait a second! We're not done here!"
+        },
+        {
+          "s": 5,
+          "t": "Oh? Is there something else?"
+        },
+        {
+          "sit": "There's a suspicious character down at the harbor..."
+        },
+        {
+          "s": 5,
+          "t": "Ugh, another one? *sigh* It's interminable..."
+        },
+        {
+          "s": 5,
+          "t": "Right. When I get back, I'll get the other troops to be extra vigilant in the area."
+        },
+        {
+          "s": 5,
+          "t": "*sigh* In the middle of the festival too. What are they up to..."
+        },
+        {
+          "s": 0,
+          "t": "The locals must take all their tasty treats for granted by now."
+        },
+        {
+          "s": 0,
+          "t": "But for a poor traveler, all alone out in the wilderness, often forced to survive on nothing but the most mysterious of mushrooms..."
+        },
+        {
+          "s": 0,
+          "t": "For you, the Lantern Rite is the most important of all festivals!"
+        },
+        {
+          "s": 0,
+          "t": "So let's go back to the place where we <color=#00E1FFFF>witnessed the shady-looking guy</color>."
+        },
+        {
+          "s": 0,
+          "t": "Paimon hears from patrol officers that criminals love to go back for another look at the crime scene after the event. Eh, it's a psychological thing, apparently."
+        },
+        {
+          "sit": "But the crime hasn't even happened yet..."
+        },
+        {
+          "s": 0,
+          "t": "That's why there's no time to lose! When there's highly flammable materials involved, once the crime happens it'll be too late!"
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Aha! Knew it!"
+        },
+        {
+          "sit": "Should we chase after him?"
+        },
+        {
+          "sit": "We should chase after him."
+        },
+        {
+          "s": 0,
+          "t": "Wait, there's another person—"
+        },
+        {
+          "section": "Xiao"
+        },
+        {
+          "s": 6,
+          "t": "...What are you doing here?"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Xiao... Are you here for the festival?"
+        },
+        {
+          "s": 6,
+          "t": "I have no interest in Lantern Rite."
+        },
+        {
+          "section": "Kaeya"
+        },
+        {
+          "s": 7,
+          "t": "Well, well, long time no see, {NICKNAME}!"
+        },
+        {
+          "s": 0,
+          "t": "Kaeya, we went to the Lantern Rite in Liyue!"
+        },
+        {
+          "s": 7,
+          "t": "Ah. Well, how was it? Fun?"
+        },
+        {
+          "s": 0,
+          "t": "Delicious!"
+        },
+        {
+          "s": 7,
+          "t": "Well then, you ought to be looking forward to Mondstadt's Ludi Harpastum. I'm sure it will be to your liking."
+        },
+        {
+          "sit": "Get to the point, Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Right, right! Kaeya, there's something we need to tell you about."
+        },
+        {
+          "s": 7,
+          "t": "Hmm... Lantern supplies... Stockpile of wood, paper, and oil... At the very least, it sounds like an accident waiting to happen."
+        },
+        {
+          "s": 7,
+          "t": "Haha, how very amusing. What makes you think I would recognize this symbol?"
+        },
+        {
+          "sit": "You're amazing at everything and we trust you."
+        },
+        {
+          "sit": "You flirt with the dark side, so you would know."
+        },
+        {
+          "s": 0,
+          "t": "Oh, that about sums it up!"
+        },
+        {
+          "s": 7,
+          "t": "Hah. I'm flattered, but don't you think you might be overestimating me?"
+        },
+        {
+          "s": 0,
+          "t": "There it is! At last, Kaeya displays the knightly virtue of modesty, perfectly articulated and masterfully delivered."
+        },
+        {
+          "s": 7,
+          "t": "My goodness, your stay in Liyue seems to have sharpened your wit and broadened your vocabulary."
+        },
+        {
+          "s": 7,
+          "t": "Anyway, I digress. This is the symbol of the cross-border criminal organization you know as the Treasure Hoarders."
+        },
+        {
+          "s": 7,
+          "t": "If you are curious to know more, I can put you in touch with an informant on the inside."
+        },
+        {
+          "s": 0,
+          "t": "Uhh, didn't you just say the Knights of Favonius don't have dealings with their enemies!?"
+        },
+        {
+          "s": 7,
+          "t": "...This is my own personal informant. Nothing to do with the Knights of Favonius."
+        },
+        {
+          "s": 7,
+          "t": "A little later, make your way over to Windrise. I'll arrange for the informant to meet you there."
+        },
+        {
+          "s": 0,
+          "t": "Thanks, Kaeya."
+        },
+        {
+          "s": 7,
+          "t": "Oh, and remember: \"wine begets wisdom.\""
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "section": "Nimrod"
+        },
+        {
+          "s": 8,
+          "t": "Huh..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! You're the guy, right? Kaeya's informant?"
+        },
+        {
+          "s": 8,
+          "t": "Informant? Not me."
+        },
+        {
+          "s": 0,
+          "t": "But... This is the place we agreed upon... and you're the only other one here, so..."
+        },
+        {
+          "s": 8,
+          "t": "\"Place we agreed upon\"? Heh, I know nothing."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, stop being so annoying!"
+        },
+        {
+          "sit": "Wine begets wisdom."
+        },
+        {
+          "sit": "Something about... wine?"
+        },
+        {
+          "s": 8,
+          "t": "Okay. Yeah, it's me."
+        },
+        {
+          "s": 0,
+          "t": "How was any of that even slightly necessary!?"
+        },
+        {
+          "s": 8,
+          "t": "What do you want to know about?"
+        },
+        {
+          "s": 0,
+          "t": "*sigh* Here's the situation..."
+        },
+        {
+          "s": 8,
+          "t": "Okay. I see."
+        },
+        {
+          "s": 0,
+          "t": "So? What can you tell us as an insider?"
+        },
+        {
+          "s": 8,
+          "t": "I do not think this is the work of the Treasure Hoarders."
+        },
+        {
+          "s": 8,
+          "t": "The reason the Treasure Hoarders are able to sustain a giant cross-border operation is because they abide by one fundamental principle:"
+        },
+        {
+          "s": 8,
+          "t": "Caution. Softly softly catchee monkey is the name of the game for them. By contrast, the idea of taking huge risks to try and make a fortune is utter folly in their eyes."
+        },
+        {
+          "s": 8,
+          "t": "Liyue has the adepti looking after it, doesn't it? And they're especially active during the Lantern Rite..."
+        },
+        {
+          "s": 8,
+          "t": "There's just no way that we... sorry, \"they\"! Slip of the tongue — when you've been undercover as long as I have, heh, where was I... Oh, yes — There's just no way that they — the Treasure Hoarders — would dare make a move during the Lantern Rite."
+        },
+        {
+          "s": 8,
+          "t": "Also... the Treasure Hoarders' organization in Liyue recently received an anonymous letter."
+        },
+        {
+          "s": 0,
+          "t": "Why would someone send them an anonymous letter? Trying to frame them, perhaps?"
+        },
+        {
+          "s": 8,
+          "t": "Nobody knows. But what I can tell you is which branch of the Treasure Hoarders has the letter in their possession."
+        },
+        {
+          "s": 8,
+          "t": "...There. I've marked their location on the map for you."
+        },
+        {
+          "s": 0,
+          "t": "Great. Well, Paimon thinks this was productive! {NICKNAME}, this is our only solid lead. Let's not waste it!"
+        },
+        {
+          "s": 8,
+          "t": "If there's nothing more, I should get back to treasure hoarding. ...I mean, get back to those treasure-hoarding lowlifes. To spy on them. Heh."
+        },
+        {
+          "section": "Bei'er"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "（test）删除"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 10,
+          "t": "（test）删除"
+        },
+        {
+          "sit": "（test）删除"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "（test）删除"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 6,
+          "t": "（test）删除"
+        },
+        {
+          "s": 6,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "Argh! Did you just appear out of thin air!?"
+        },
+        {
+          "sit": "That's an adeptus for you..."
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "（test）删除"
+        },
+        {
+          "s": 10,
+          "t": "（test）删除"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 10,
+          "t": "（test）删除"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 10,
+          "t": "（test）删除"
+        },
+        {
+          "section": "Bei'er"
+        },
+        {
+          "s": 9,
+          "t": "（test）删除"
+        },
+        {
+          "s": 10,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "（test）删除"
+        },
+        {
+          "s": 0,
+          "t": "Let's see what they wrote."
+        },
+        {
+          "section": "???"
+        },
+        {
+          "s": 3,
+          "t": "Alright, you folks from the Treasure Hoarders, yeah? I thought I insinuated in my letter there that you should have done like I done and put on a mask and a costume and so forth..."
+        },
+        {
+          "s": 3,
+          "t": "...But it seems you didn't all get the memo. Hehehe... it's pretty cool though... gutsy."
+        },
+        {
+          "s": 0,
+          "t": "Hmph! Well guess what? We don't need to go sneaking around everywhere wearing disguises! Because unlike you, we would never do anything so shameful that we would need to wear masks while doing it!"
+        },
+        {
+          "s": 0,
+          "t": "Really!? I was in the middle of my speech and everything!"
+        },
+        {
+          "sit": "I think he just enjoys dressing up..."
+        },
+        {
+          "sit": "This get up is pretty cool, though..."
+        },
+        {
+          "s": 3,
+          "t": "Wait a second now... You folks ain't no Treasure Hoarders! What game are you two playing!?"
+        },
+        {
+          "section": "???"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 3,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "(test)删除"
+        },
+        {
+          "s": 0,
+          "t": "Now that the Millelith have gotten hold of that idiot..."
+        },
+        {
+          "s": 0,
+          "t": "Let's head back. We can notify the <color=#00E1FFFF>Ministry of Civil Affairs</color>."
+        },
+        {
+          "section": "Jiayi"
+        },
+        {
+          "s": 4,
+          "t": "Traveler, word spreads fast! We will keep watch over the thief, thanks for your help."
+        },
+        {
+          "s": 4,
+          "t": "Looks like the Mingxiao Lantern will be ready soon. A critical juncture, we cannot afford the slightest interference."
+        },
+        {
+          "sit": "On the topic of keeping Lantern Rite safe..."
+        },
+        {
+          "s": 4,
+          "t": "Rest easy, word was passed up the chain. Another group of very capable troops has been brought in."
+        },
+        {
+          "s": 4,
+          "t": "They're dressed as ordinary citizens, you wouldn't notice them in the crowd. If anyone dares make a move, they'll be on them in an instant."
+        },
+        {
+          "s": 4,
+          "t": "That's sorted then. You two get some rest, we'll take it from here. Enjoy Lantern Rite in peace!"
+        },
+        {
+          "s": 0,
+          "t": "So... Paimon supposes that's taken care of, then."
+        },
+        {
+          "sit": "If only Xiao were here to see the Mingxiao Lantern."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* Paimon wishes so too. Guess he won't make it this time."
+        },
+        {
+          "s": 0,
+          "t": "Wait, do you remember what the inspiration for the Mingxiao Lantern was?"
+        },
+        {
+          "sit": "An adeptus..."
+        },
+        {
+          "sit": "Skybracer sounds right..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, with a name like... Skybracer, or something."
+        },
+        {
+          "s": 0,
+          "t": "So if it's modeled on an adeptus, maybe Xiao would be interested this time?"
+        },
+        {
+          "s": 0,
+          "t": "On the day the Mingxiao Lantern is ready, we can meet him at <color=#00E1FFFF>Wangshu Inn</color> like he suggested, then try to persuade him."
+        },
+        {
+          "s": 0,
+          "t": "Even though he said you can see the Mingxiao Lantern from Wangshu Inn... We should get up close if we wanna get that festival atmosphere."
+        }
+      ],
+      "description": "The highlight of Lantern Rite is the release of the giant Mingxiao Lantern into the sky, and this year’s Mingxiao Lantern is supposed to be a sight well worth the wait. The Plaustrite that will lift the lantern into the air is the largest in twenty years! For this special occasion, the merchants of Liyue have set up the Xiao Market to help gather the materials needed to build the lantern. When you arrive at the Xiao Market, one of the event organizers, Wang’ya, seems to have something to say to you…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Wang'ya",
+    "Changchang",
+    "???",
+    "Jiayi",
+    "Xinghuo",
+    "Xiao",
+    "Kaeya",
+    "Nimrod",
+    "Bei'er",
+    "Crafty"
+  ],
+  "id": "q-41312"
+}

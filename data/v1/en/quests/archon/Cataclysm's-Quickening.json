@@ -1,0 +1,5296 @@
+{
+  "chapter": "Chapter IV",
+  "chapter_title": null,
+  "act": "Act IV",
+  "act_title": "Cataclysm's Quickening",
+  "region": "Fontaine",
+  "quests": [
+    {
+      "title": "Into the Deepwater Murk",
+      "dialogue": [
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Ugh... It's morning already... *yawn* Paimon still needs more sleep."
+        },
+        {
+          "sit": "Let's use some coupons to skip our shift this morning."
+        },
+        {
+          "sit": "Let's take the morning off."
+        },
+        {
+          "s": 0,
+          "t": "Huh? Wait, look over there! Isn't that..."
+        },
+        {
+          "s": 0,
+          "t": "It's one of Lyney's cards!"
+        },
+        {
+          "sit": "You're right..."
+        },
+        {
+          "sit": "It's been a while since we've contacted him."
+        },
+        {
+          "s": 0,
+          "t": "Let Paimon see what's written on it..."
+        },
+        {
+          "s": 0,
+          "t": "\"Maybe you haven't heard, but today is the monthly 'free day.' Everyone has the day off today, which makes it the perfect time to do some investigating.\""
+        },
+        {
+          "s": 0,
+          "t": "\"It's been a while since we last talked, have you been making any progress lately? Let's meet at our usual spot in the factory area before lunchtime. I have new information.\""
+        },
+        {
+          "s": 0,
+          "t": "Oh! Today's our lucky day, we have the day off!"
+        },
+        {
+          "s": 0,
+          "t": "From the sound of it, Lyney's been making progress with his investigation. Wonder what he's discovered..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, we still have some time before we meet up. Let's talk with the people here for a bit more before we go."
+        },
+        {
+          "section": "Downcast Convict, Grumpy Convict"
+        },
+        {
+          "s": 0,
+          "t": "Look, there are some people talking over there. Let's listen in on the conversation."
+        },
+        {
+          "s": 1,
+          "t": "If you ask me, those pompous parasites on the surface act like they're all a bunch of aristocrats. Do any of them give half a hoot about a bunch of dogs like us?"
+        },
+        {
+          "s": 2,
+          "t": "Hey, speak for yourself, mate! I'm no dog!"
+        },
+        {
+          "s": 1,
+          "t": "Aww, you think you're special or something? If you're here, then you're just a convict like the rest of us! I've heard that even if you're released after serving your sentence, going back to life on the surface ain't any better. Once a criminal, always a criminal, we're marked for life."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, I don't buy that."
+        },
+        {
+          "s": 1,
+          "t": "Hey, how cool would it be if the whole world was destroyed by a giant flood and everyone had to start over from nothing?"
+        },
+        {
+          "s": 2,
+          "t": "What kind of filthy bilgewater you spewing!? I have family up there! You best shut your sewer-hole with talk like that!"
+        },
+        {
+          "s": 2,
+          "t": "Listen, things ain't so great on the surface, but who says that you have to leave? I've heard that you can still stay here and work even after you've served your sentence. Not bad if you ask me!"
+        },
+        {
+          "s": 2,
+          "t": "Who wants to live in the ruddy overworld anyway!? Haha!"
+        },
+        {
+          "s": 1,
+          "t": "And what makes you think they'd want to hire someone like you? It's one of the great mysteries of the universe, how someone as useless as you is so confident..."
+        },
+        {
+          "s": 0,
+          "t": "Whoa, sounds like they're really unhappy about the overworld."
+        },
+        {
+          "s": 0,
+          "t": "Speaking of which, Paimon never heard anyone use the words \"overworld\" or \"underworld\" when we were living up there. Is it only something the inmates down here say?"
+        },
+        {
+          "sit": "I think you're right."
+        },
+        {
+          "sit": "It's normal for convicts to be unhappy."
+        },
+        {
+          "s": 0,
+          "t": "That's true."
+        },
+        {
+          "section": "Grumpy Convict, Downcast Convict"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, I've already decided to stay here."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Wish I could say the same..."
+        },
+        {
+          "section": "Grumpy Convict, Downcast Convict"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, I've already decided to stay here."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Wish I could say the same..."
+        },
+        {
+          "section": "Cuistot, Laverune"
+        },
+        {
+          "s": 0,
+          "t": "There's a group of people over there, let's go listen in!"
+        },
+        {
+          "s": 3,
+          "t": "So I said, that's not a faucet... Hey, who're you two? Why'd you come over all of a sudden?"
+        },
+        {
+          "s": 0,
+          "t": "Oh... Sorry for eavesdropping, sounds like you were talking about something private."
+        },
+        {
+          "s": 4,
+          "t": "What's the matter? Haha, they're just looking to join in on our fun, that's all."
+        },
+        {
+          "s": 3,
+          "t": "Hey, don't pretend like it's okay for them to just interrupt us like that! Hmph... Fine, you're lucky we don't mind extroverts that much."
+        },
+        {
+          "sit": "Thanks, you guys are really nice!"
+        },
+        {
+          "s": 4,
+          "t": "Haha, you hear that, Cuistot? We're nice!"
+        },
+        {
+          "s": 3,
+          "t": "Your expressions tell me you're looking to hear some juicy info, am I right? Hehe, but before that... It just so happens that I know you two."
+        },
+        {
+          "s": 0,
+          "t": "Really? Are we that famous?"
+        },
+        {
+          "s": 3,
+          "t": "You kidding? How often does anyone get a personal tour led by His Grace himself? Practically everyone was talking about it. Word has it that you also caused quite the kerfuffle."
+        },
+        {
+          "s": 0,
+          "t": "Oh, hehe... It was just a little mistake..."
+        },
+        {
+          "s": 4,
+          "t": "A little mistake, huh? I like the way you put it. You see, people with a good attitude can join our group anytime, unlike some of the others here..."
+        },
+        {
+          "s": 0,
+          "t": "Your group?"
+        },
+        {
+          "s": 3,
+          "t": "I'm Cuistot, and this is Laverune. People usually call us the \"Bombshell Bros.\" But don't worry, we're not playing with bombs or anything, it's just that our information is always so explosive... and we blow minds on the regular."
+        },
+        {
+          "s": 0,
+          "t": "So... you two really like to gossip? You sure know how to embellish..."
+        },
+        {
+          "s": 3,
+          "t": "No, no! You don't get it. Knowing intelligence will make things better for you here. For example, knowing who's working with whom, who has the latest rumors, who's not getting along... Wouldn't you like to know all that?"
+        },
+        {
+          "sit": "Sure, fill us in."
+        },
+        {
+          "sit": "Oh my archon I'd love to know, please tell me!"
+        },
+        {
+          "s": 3,
+          "t": "Ha, all this info is worth something, you know. You should prove you're worthy of it."
+        },
+        {
+          "s": 4,
+          "t": "Don't mind him, Cuistot is always this way. Just play nice and say something to massage his ego."
+        },
+        {
+          "s": 4,
+          "t": "(The welfare meals, talk about the welfare meals!)"
+        },
+        {
+          "sit": "We ate the most incredible welfare meal recently!"
+        },
+        {
+          "s": 0,
+          "t": "Right, right! That meal we had yesterday was super delicious. Paimon can still taste it whenever she closes her eyes!"
+        },
+        {
+          "s": 3,
+          "t": "...Is that so? Heh. To tell you the truth, I've been helping out with making those welfare meals. I've been working as a kitchen assistant for about a month and a half now."
+        },
+        {
+          "s": 0,
+          "t": "Oh! So you're the one who made those delicious steaks... Amazing! You could be a professional chef!"
+        },
+        {
+          "s": 3,
+          "t": "You are correct. I am a true professional. In fact, I even went to culinary school. But enough about that."
+        },
+        {
+          "s": 3,
+          "t": "Since you like my cooking, I guess that means we share similar tastes. Listen carefully. This little bombshell will help you learn what's really going on here in the Fortress."
+        },
+        {
+          "sit": "(Huh? Did Laverune just wink at me? It seems he's saying... \"Don't be upset, he's a good fellow.\")"
+        },
+        {
+          "s": 3,
+          "t": "Listen kids... The power structure within the Fortress is quite complicated. The overworlders couldn't care less about us down here, we're basically dogs to them."
+        },
+        {
+          "s": 3,
+          "t": "You've already met the one person here you should never cross... The Duke, Wriothesley. He knows more than you think and if he doesn't care about something, then he often doesn't bother dealing with it."
+        },
+        {
+          "s": 4,
+          "t": "Those who have the Duke's attention get all kinds of special perks, even better treatment in the infirmary!"
+        },
+        {
+          "s": 3,
+          "t": "Ah, I know who you mean! It's that Jurieu character, right? I don't think there's anything useful about him at all. Why does he visit the infirmary practically every day? Is it normal for anyone to be going in and out of there so often? If you ask me, he's just faking it to get out of work."
+        },
+        {
+          "s": 4,
+          "t": "But did you know that Jurieu was a talented researcher from the Fontaine Research Institute before he came here? There's no denying that..."
+        },
+        {
+          "s": 3,
+          "t": "I don't care if he was a researcher that could turn dirt into Mora, once you're in the Fortress of Meropide, you're just another inmate like everybody else."
+        },
+        {
+          "sit": "(Ah, interesting. According to Cuistot, a person named Jurieu frequents the infirmary. I should take note of that.)"
+        },
+        {
+          "s": 3,
+          "t": "Speaking of which, the last time I saw him he was passing by in the corridor with Lourvine. I also heard they started arguing in the library and got into a fight, right? Guess that's just how terrible of a guy he is..."
+        },
+        {
+          "s": 4,
+          "t": "You mean he hit a woman? Wow, I never imagined he was that bad..."
+        },
+        {
+          "s": 3,
+          "t": "But that Lourvine's also quite the odd one, you know. She's always gabbing away, got into a fight with a man, and she also got sent to the infirmary. Come to think of it, I always see her going to the sick bay every couple of days, too."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Wait a second, you don't think..."
+        },
+        {
+          "s": 3,
+          "t": "Do you think... Could it be that... They're secretly meeting there to go on dates? Huh, but it's really hard to imagine..."
+        },
+        {
+          "s": 4,
+          "t": "After all, I do remember seeing Lourvine beat Jurieu to a pulp that one time and... We might be overthinking things."
+        },
+        {
+          "sit": "(So Jurieu had a confrontation with a girl named Lourvine, who also frequently visits the infirmary... I'll remember that, too.)"
+        },
+        {
+          "section": "Cuistot, Laverune"
+        },
+        {
+          "s": 3,
+          "t": "Is it really alright for us to talk about people behind their backs like this...?"
+        },
+        {
+          "s": 4,
+          "t": "That's just how it goes, good gossip is still gossip."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, I guess you're right... But wait, we're not just gossiping, this is legit information we're discussing here, right?"
+        },
+        {
+          "section": "Cuistot, Laverune"
+        },
+        {
+          "s": 3,
+          "t": "Is it really alright for us to talk about people behind their backs like this...?"
+        },
+        {
+          "s": 4,
+          "t": "That's just how it goes, good gossip is still gossip."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, I guess you're right... But wait, we're not just gossiping, this is legit information we're discussing here, right?"
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, good to know. Do you have anything else to tell us?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm, let me think. Sounds like you want to hear something a little more tantalizing."
+        },
+        {
+          "s": 5,
+          "t": "Oh, did you know that the Duke was also a convict in the Fortress of Meropide before?"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Wait, are you serious!?"
+        },
+        {
+          "s": 5,
+          "t": "That's right, the Duke was an inmate just like you and me. It seems he was exiled here for committing some crime. Who knows how he ended up rising up to become the warden though..."
+        },
+        {
+          "s": 5,
+          "t": "To go from an ordinary inmate to becoming the manager of the whole place... I'm not gonna lie, I kinda respect that."
+        },
+        {
+          "sit": "By the way, do you happen to know anything about a \"forbidden zone\"?"
+        },
+        {
+          "s": 5,
+          "t": "A \"forbidden zone\"? Hmm, sounds like something that someone just made up. I've never heard of that, where did you hear about it?"
+        },
+        {
+          "s": 0,
+          "t": "It's just a rumor we've been hearing, but no worries if you've never heard of it. Do you have anything else you can tell us?"
+        },
+        {
+          "s": 5,
+          "t": "Anything else? Hmm... Not that I can think of, but I'll be sure to tell you anything interesting I hear next time! You'll have to play a game of Genius Invokation with me first, though!"
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "s": 5,
+          "t": "Hey, you over there!"
+        },
+        {
+          "sit": "Who, me?"
+        },
+        {
+          "s": 5,
+          "t": "Yeah, you! Say, do you like playing card games? You know, like Genius Invokation TCG!"
+        },
+        {
+          "sit": "...?"
+        },
+        {
+          "sit": "Even people down here play that game?"
+        },
+        {
+          "s": 0,
+          "t": "You TCG players are like Mint in the wild. Literally sprouting up everywhere!"
+        },
+        {
+          "s": 5,
+          "t": "Hey, c'mon now. What's wrong with finding fellow Invokation aficionados? Anyway, care to join me for a game?"
+        },
+        {
+          "sit": "No thanks, we're busy with other things at the moment."
+        },
+        {
+          "s": 5,
+          "t": "Oh, alright. No pressure."
+        },
+        {
+          "s": 0,
+          "t": "But why would you be looking for people to play Genius Invokation in a place like this? Don't people usually come here to fight?"
+        },
+        {
+          "s": 5,
+          "t": "Haha, whether you're throwing down cards or throwing punches, it's all a competition, isn't it? It's all the same in my eyes."
+        },
+        {
+          "s": 5,
+          "t": "There are lots of card players here in the Fortress. When I saw you, I immediately thought: Hey, even outsiders from other nations play cards! So I came over to say hi."
+        },
+        {
+          "sit": "Would you mind chatting with us for a moment?"
+        },
+        {
+          "s": 5,
+          "t": "Sure."
+        },
+        {
+          "s": 0,
+          "t": "Great, since you've been here longer than us, you need to flex your seniority a little bit, right? Maybe you could start by telling us newcomers some stories about this place."
+        },
+        {
+          "s": 5,
+          "t": "I thought you would've already heard everything by now. Alright then, did you have anything specific in mind? Or do you want me to just pick a topic?"
+        },
+        {
+          "s": 0,
+          "t": "Why don't you pick? We'll let you know if we've heard it already."
+        },
+        {
+          "s": 5,
+          "t": "Alright. Have you heard any strange rumors since you've arrived?"
+        },
+        {
+          "sit": "Yes, we have."
+        },
+        {
+          "s": 5,
+          "t": "Then did you know that there are some people who're always gossiping over in the corner?"
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "sit": "You mean Cuistot and Laverune?"
+        },
+        {
+          "s": 5,
+          "t": "Yes, so you've already met those two. Hahaha, they're quite a pair. They always keep an eye out for the latest happenings and gossip about everything. I've never seen anyone with more time on their hands..."
+        },
+        {
+          "s": 5,
+          "t": "I heard that they used to be a chef and a bartender before they were sent down here. You know how bartenders are... always chatting with customers. And chefs love to pass the time just hanging out when they're not cooking."
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "sit": "I didn't know that."
+        },
+        {
+          "s": 5,
+          "t": "There are two guys who are always skulking around in the corners of corridors gossiping. The bigger guy is Cuistot, and the skinny one is Laverune. People call them the \"Bombshell Bros.\""
+        },
+        {
+          "s": 5,
+          "t": "I never really found their gossip very \"mind-blowing\"... It's pretty much just the same stuff that I hear about when I'm at work every day."
+        },
+        {
+          "s": 5,
+          "t": "If you're interested, you can go talk with them. They tend to talk a lot of nonsense, but they aren't exactly bad."
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "s": 5,
+          "t": "See ya later. Hey, let's play a game if you ever have time."
+        },
+        {
+          "section": "Bavilliers"
+        },
+        {
+          "s": 5,
+          "t": "See ya later. Hey, let's play a game if you ever have time."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "...!"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 6,
+          "t": "That look in your eyes... You've found something?"
+        },
+        {
+          "sit": "A little something, yeah."
+        },
+        {
+          "s": 0,
+          "t": "Hey, this is no time to be modest! Just tell him we've found a boatload of information!"
+        },
+        {
+          "s": 6,
+          "t": "Oho, as expected of the legendary duo. You have my full and undivided attention."
+        },
+        {
+          "sit": "You summarize your findings to Lyney..."
+        },
+        {
+          "s": 6,
+          "t": "...Huh, I'd have never guessed that myself. The rumors swirling about this place are unreliable after all, and Master Childe probably went missing because he found a way out..."
+        },
+        {
+          "s": 6,
+          "t": "He is a Harbinger, after all... I suppose he's much more resourceful than I initially gave him credit for."
+        },
+        {
+          "s": 6,
+          "t": "Unfortunately, this isn't enough for our final report to \"Father.\" We need to find out Master Childe's exact whereabouts."
+        },
+        {
+          "s": 6,
+          "t": "Father told me that even though Master Childe said that he was just coming to Fontaine for a vacation, he actually had some personal reasons. His agenda might be linked to his disappearance."
+        },
+        {
+          "sit": "The most important thing right now is to catch up to him."
+        },
+        {
+          "s": 0,
+          "t": "His escape route is already flooded, so we'll have to task someone with professional diving skills to chase after him."
+        },
+        {
+          "s": 6,
+          "t": "Well, when you put it that way, it's obvious that only Freminet would be up to the task."
+        },
+        {
+          "s": 0,
+          "t": "Bingo! Is he around?"
+        },
+        {
+          "s": 6,
+          "t": "He's working today — coming here as a group would have attracted too much attention. I'll talk to him about it later."
+        },
+        {
+          "sit": "Please do. We're counting on you."
+        },
+        {
+          "sit": "Thank you."
+        },
+        {
+          "s": 6,
+          "t": "It's the least I can do. We're all in this together, so it's only fair for us to fulfill our end of the bargain."
+        },
+        {
+          "s": 6,
+          "t": "Honestly, I'm far more impressed by you guys managing to collect all this information right under Wriothesley's watchful eyes."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, collecting information has always been our strong point!"
+        },
+        {
+          "s": 6,
+          "t": "...Now let me think. To find out more information, Freminet will have to re-trace Master Childe's original route..."
+        },
+        {
+          "s": 6,
+          "t": "And if he's to do that, he'll have to set out on the next pipe-cleaning day at the earliest. That's six days from now... Hmm, and after that, he'll probably take another two or three days to return..."
+        },
+        {
+          "s": 0,
+          "t": "You can even estimate how long it'll take for him to get back!?"
+        },
+        {
+          "s": 6,
+          "t": "We've been working together for a long time... We know each other's capabilities like the backs of our hands."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, what say you to meeting here nine days from now? We'll be able to pick up Freminet while we're at it, too."
+        },
+        {
+          "sit": "Sure."
+        },
+        {
+          "s": 6,
+          "t": "Oh, and there's just one last thing we'd like your help with."
+        },
+        {
+          "s": 6,
+          "t": "Though we can just sit back and wait for Freminet's report on Master Childe's whereabouts, we still need to make more progress on the investigation of the forbidden zone..."
+        },
+        {
+          "s": 6,
+          "t": "Freminet's no master of disguise, Lynette's still working on getting intel from the other areas, and I'll need to spend some time helping Freminet prepare for his diving mission. So... you are the only ones we can count on."
+        },
+        {
+          "s": 0,
+          "t": "What do you want us to do? Will it be hard?"
+        },
+        {
+          "s": 6,
+          "t": "Well, I won't call it \"easy,\" per se, but I think you'll be able to pull it off."
+        },
+        {
+          "s": 6,
+          "t": "Listen carefully. You'll need to find an excuse to get into the infirmary and investigate the room and environs."
+        },
+        {
+          "s": 6,
+          "t": "You've mentioned several sketchy-looking people always meeting at the infirmary earlier, so it probably has something to do with the secret we're hoping to uncover. You've already met the head nurse, so she'll be less suspicious of you."
+        },
+        {
+          "s": 6,
+          "t": "Investigate the internal structure of the infirmary and any active dealings within, and pass those onto me alongside anything else you're able to discover."
+        },
+        {
+          "s": 6,
+          "t": "But also, there's no need to take risks. Don't forget, safety always comes first!"
+        },
+        {
+          "sit": "Sounds good. I'll give it my best shot."
+        },
+        {
+          "sit": "Did you only say that because I'm an amateur?"
+        },
+        {
+          "s": 6,
+          "t": "Ah, my apologies, I just started rambling out of habit... It was almost as if I was talking to my younger brother(sister)."
+        },
+        {
+          "s": 0,
+          "t": "But that's not a bad thing, right?"
+        },
+        {
+          "sit": "But what if I'm the older brother(sister)?"
+        },
+        {
+          "s": 0,
+          "t": "Alright, then we'll head out as soon as we finish our prep!"
+        },
+        {
+          "s": 6,
+          "t": "Let's go our separate ways for now, then. Don't forget, we meet here again in nine days. Stay safe."
+        },
+        {
+          "section": "Jurieu"
+        },
+        {
+          "s": 0,
+          "t": "Someone, please help! He(She)... He(She)'s sick!"
+        },
+        {
+          "s": 7,
+          "t": "Whoa, are you okay?"
+        },
+        {
+          "s": 8,
+          "t": "Oh my! What's wrong, little one? There's no need to panic — take a deep breath before you begin."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME} started complaining of a stomach ache, and then nausea, and then collapsed onto the ground... Paimon d—doesn't know what to do..."
+        },
+        {
+          "s": 0,
+          "t": "Freezing limbs, twitching fingers, and pale complexion... Could it be poison...?"
+        },
+        {
+          "s": 8,
+          "t": "Let me take a look... Please lie down over here."
+        },
+        {
+          "sit": "Oof... My stomach really hurts..."
+        },
+        {
+          "s": 8,
+          "t": "Don't worry, I'll get you to the bed safely. Here, hold onto my shoulder and walk slowly..."
+        },
+        {
+          "s": 0,
+          "t": "*sniff*... You can do it, {NICKNAME}!"
+        },
+        {
+          "sit": "Th—Thank you... I'm sorry."
+        },
+        {
+          "s": 8,
+          "t": "Don't apologize! You're sick, after all. Now, please relax, I'm just going to do a preliminary check-up on you."
+        },
+        {
+          "sit": "(Sigewinne has taken out a few instruments and begun to do her check-up... I hope I'm not so healthy that she gets suspicious...)"
+        },
+        {
+          "s": 8,
+          "t": "...Hmm, mmm. I see now."
+        },
+        {
+          "s": 8,
+          "t": "My check-up has confirmed that she(he)'s not in any mortal danger. That's our worst fear out of the way!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Ah, th—that's good, but..."
+        },
+        {
+          "s": 8,
+          "t": "I'll continue my diagnosis of the patient now. Please relax and take a deep breath."
+        },
+        {
+          "sit": "(Sigewinne's using her hands to palpate different areas on my abdomen... Seems like she's using elemental energy, too? Her expression's growing more and more relaxed...)"
+        },
+        {
+          "s": 8,
+          "t": "I don't sense serious damage to your organs, either. Does it hurt when I press here?"
+        },
+        {
+          "sit": "I—It's not too bad."
+        },
+        {
+          "s": 8,
+          "t": "And here?"
+        },
+        {
+          "sit": "Oof, that hurt a little..."
+        },
+        {
+          "s": 8,
+          "t": "Eh? But based on my initial check-up, there shouldn't be a problem here... How strange..."
+        },
+        {
+          "sit": "(Oh no, was my acting a bit over the top?)"
+        },
+        {
+          "s": 8,
+          "t": "Hmm... What about here? Does this hurt?"
+        },
+        {
+          "sit": "No, not really, can barely feel it."
+        },
+        {
+          "s": 8,
+          "t": "Oh... Mmm, I understand. So that's what it is."
+        },
+        {
+          "s": 8,
+          "t": "I think you just ate something that disagreed with you, that's all. Nothing too serious, outside of a pretty bad stomachache when it decides to act up."
+        },
+        {
+          "s": 0,
+          "t": "Ah... So that's what it is... Thank goodness it's not anything more serious!"
+        },
+        {
+          "s": 8,
+          "t": "Mhm, and there've been other inmates complaining about the food recently. I'll inform our head chef Mr. Wolsey of this problem as soon as possible."
+        },
+        {
+          "s": 8,
+          "t": "Congratulations, the health risk is incredibly low, so you should recover within a couple days. Why don't you take a rest here while I go get some medicine for you?"
+        },
+        {
+          "s": 8,
+          "t": "Miss Lourvine... I'll have to trouble you to help me look after this new patient while I'm gone."
+        },
+        {
+          "s": 9,
+          "t": "Very well."
+        },
+        {
+          "s": 0,
+          "t": "Ah, and she hopped away just like that..."
+        },
+        {
+          "sit": "(Phew, this infiltration mission is going much more smoothly than I imagined. Next... There are only two people left in the room.)"
+        },
+        {
+          "sit": "(Sigewinne just called that woman \"Lourvine,\" so she has to be one of those frequent visitors to the infirmary I've heard of before. Would that mean the man next to her is \"Jurieu,\" then?)"
+        },
+        {
+          "s": 9,
+          "t": "Hello... So how are you feeling now?"
+        },
+        {
+          "sit": "Still not great..."
+        },
+        {
+          "sit": "(I can't keep staring at her, it'll draw unwanted attention... That guy also seems to have noticed, now he's looking in my direction, too.)"
+        },
+        {
+          "s": 0,
+          "t": "Her(His) stomachache's really bad, she(he) was stumbling about the whole way here, so Paimon's really worried..."
+        },
+        {
+          "s": 9,
+          "t": "If Miss Sigewinne says it's not a serious problem, then there's no need to worry. She's the best medic we've got down here."
+        },
+        {
+          "s": 0,
+          "t": "But it also looks like she's the only medic you've got down here..."
+        },
+        {
+          "s": 7,
+          "t": "Ah, well... That's true."
+        },
+        {
+          "s": 9,
+          "t": "What do you mean, \"that's true\"? That's really misrepresenting the situation. Of course I can't speak for the whole Fortress, but it's not like everyone imprisoned here is useless, you know."
+        },
+        {
+          "s": 9,
+          "t": "Though they may have committed crimes and gotten locked up here as a result, they still know a thing or two about medicine, and they help Miss Sigewinne take care of the sick and injured."
+        },
+        {
+          "s": 7,
+          "t": "Yeah yeah, you're right, but did you have to lecture me about it in front of another patient? Aren't you a patient too? Where did all your energy come from?"
+        },
+        {
+          "s": 9,
+          "t": "Uh... Ah, that's correct. Ahem... Sorry, I got a bit ahead of myself."
+        },
+        {
+          "s": 0,
+          "t": "Are you two also sick?"
+        },
+        {
+          "s": 7,
+          "t": "We've been sick a while. I come back every once in a while for check-ups, and to pick up the medicines Miss Sigewinne prescribes for us, that's just the nature of chronic illnesses. As for her..."
+        },
+        {
+          "s": 7,
+          "t": "Hah, you could say she fancies herself as Miss Sigewinne's capable helper because she learned a bit of medical knowledge ages ago."
+        },
+        {
+          "s": 9,
+          "t": "Please watch your mouth, Mr. Jurieu. Don't forget that you are the primary reason I have frequent heart palpitations!"
+        },
+        {
+          "s": 0,
+          "t": "Hey, don't start arguing now! Please, keep it civil at least..."
+        },
+        {
+          "sit": "(These two seem to have a pretty terrible relationship, and only ran into each other because they came here to pick up their meds at the same time.)"
+        },
+        {
+          "sit": "(...But outside of the two of them, there's nothing suspicious inside the room. All the files on the table appear to be patient records, and while there's a box... I can't check it out right now.)"
+        },
+        {
+          "sit": "(There also aren't that many furnishings on the wall... Eh? Wait, there seems to be a movable hatch on the ground over there?)"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Hey, there's no need to fight! Everyone will be released someday, so there's no need to argue over silly things like this!"
+        },
+        {
+          "s": 9,
+          "t": "But..."
+        },
+        {
+          "s": 7,
+          "t": "Hmph, release? It's way too early for us to even think about that! And who the heck knows if we'd even be able to continue our previous lives?"
+        },
+        {
+          "sit": "(The presence of a movable hatch isn't strange by itself, but... perhaps it's my adventurer's intuition speaking, but isn't it a bit strange that there's a movable hatch here of all places?)"
+        },
+        {
+          "sit": "(Is it... hiding something?)"
+        },
+        {
+          "s": 9,
+          "t": "Please allow me to end this boring and useless conversation. Oh, and Mr. Jurieu, I don't want to see your face here again anytime soon!"
+        },
+        {
+          "s": 7,
+          "t": "And same to you, Miss Lourvine. Anyway, that was more than enough rest for me, so I'm going to get out of this excessively noisy place. See you later, everyone."
+        },
+        {
+          "s": 0,
+          "t": "He just slowly walked off like that...?"
+        },
+        {
+          "s": 9,
+          "t": "Hmph, that's just what he's like."
+        },
+        {
+          "s": 9,
+          "t": "I'm sorry you had to see all of that. I'm Lourvine, and that's... Well, his name is Jurieu, but I hope you'll never have cause to remember his name."
+        },
+        {
+          "s": 0,
+          "t": "You really can't stand him, eh?"
+        },
+        {
+          "s": 9,
+          "t": "I mean, can you blame me? Who would like someone who's as arrogant and obsessed with weird research topics as he is? ...Ahem, but there's no need to keep dwelling on him."
+        },
+        {
+          "s": 9,
+          "t": "I—I'll accompany you two for a while... Miss Sigewinne should be back soon, and I'm sure you'll feel better as soon as you've had some of her medicine."
+        },
+        {
+          "sit": "Thank you for looking after me."
+        },
+        {
+          "s": 9,
+          "t": "No, no... It's nothing."
+        },
+        {
+          "s": 8,
+          "t": "I'm back~! Did you rest like you promised?"
+        },
+        {
+          "s": 9,
+          "t": "Thank you for getting our medicine, Miss Sigewinne."
+        },
+        {
+          "s": 8,
+          "t": "Did you all cooperate with your bedrest? I trust that nobody got up to walk around? Good, here, this should be two days' worth of medicine for you. Take one pill now, and then continue your bedrest."
+        },
+        {
+          "sit": "You take the stomachache pill that Sigewinne gave you."
+        },
+        {
+          "s": 8,
+          "t": "Ahh, Miss Lourvine, I left in a bit of a hurry just now, do you still remember if we discussed the color of the pill that you should be taking today?"
+        },
+        {
+          "s": 9,
+          "t": "I remember. You said it should be yellow."
+        },
+        {
+          "sit": "(...Did they talk about that before we walked in? Why don't I remember?)"
+        },
+        {
+          "s": 8,
+          "t": "Yellow, huh... Hmm, I understand. These are yours — please make sure to go to bed early after taking them tonight. You'll benefit from a good night's sleep."
+        },
+        {
+          "s": 9,
+          "t": "Alright, then I'll also be on my way now. I hope you feel better soon, too."
+        },
+        {
+          "sit": "Thanks."
+        },
+        {
+          "s": 0,
+          "t": "See ya!"
+        },
+        {
+          "s": 8,
+          "t": "I'm going to fill out your medical record now. You're widely known as the Traveler, right? I just want to double check a few details, if that's alright with you."
+        },
+        {
+          "s": 0,
+          "t": "Those two made quite the commotion just now, so why don't we let {NICKNAME} rest? Paimon can answer the questions instead."
+        },
+        {
+          "s": 8,
+          "t": "Mmm-hmm, so her(his) primary symptoms are abdominal pain, with secondary symptoms of nausea. Is there anything else?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... That's it!"
+        },
+        {
+          "s": 8,
+          "t": "Alright then~!"
+        },
+        {
+          "s": 0,
+          "t": "Is there anything we should know, besides to take the meds?"
+        },
+        {
+          "s": 8,
+          "t": "No, her(his) base constitution is quite good, so I'm sure she(he)'ll recover quite quickly after taking the medicine. Please make sure to stick to blander, less stimulating foods, and don't stay up too late at night."
+        },
+        {
+          "s": 0,
+          "t": "Got it, Paimon will hold {NICKNAME} to that for sure!"
+        },
+        {
+          "sit": "(Sigewinne's still looking at me... I should just try to take a nap, like she said.)"
+        },
+        {
+          "s": 0,
+          "t": "Oh? You're going to take a nap already? ...Okay, then, you get some rest!"
+        },
+        {
+          "sit": "(You move yourself to a regular patient's bed and relax completely. The weariness from work and intel-gathering that you've been holding back all this time overwhelm you at once.)"
+        },
+        {
+          "sit": "...You can, however, still catch some hints of Paimon's conversation with Sigewinne."
+        },
+        {
+          "s": 0,
+          "t": "Mhm, we've been to lots of places together! She(He) may look a bit under the weather now, but she(he)'s actually suuuuuper strong!"
+        },
+        {
+          "s": 8,
+          "t": "Oh, so you're the best of companions. Don't worry, she(he) will recover soon."
+        },
+        {
+          "sit": "...Companion. That word brings forth a wave of comfort. You let yourself relax and fall into a restful sleep."
+        },
+        {
+          "s": 8,
+          "t": "...Ah, you're awake."
+        },
+        {
+          "s": 0,
+          "t": "How do you feel? You slept for a really long time, but we never left!"
+        },
+        {
+          "sit": "I feel a lot better. Thank you both."
+        },
+        {
+          "s": 8,
+          "t": "Well, now you can go back without a worry in the world! Remember to take your meds regularly, and don't forget, bland foods!"
+        },
+        {
+          "s": 0,
+          "t": "Mhm! Thank you, Miss Sigewinne!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "You really are something, to be able to fall asleep like that and even sleep-talk the entire time... You scared Paimon half to death!"
+        },
+        {
+          "sit": "Did I say anything I shouldn't have?"
+        },
+        {
+          "s": 0,
+          "t": "No, but you kept mumbling things along the lines of \"Paimon, don't take my Grilled Fish\" and \"Put down the Adeptus' Temptation now.\""
+        },
+        {
+          "s": 0,
+          "t": "Paimon talked with Sigewinne the entire time you were asleep. She seems like she's just a sincere nurse, and Paimon didn't notice anything unusual in the room... Are you sure we're not going off-track with the infirmary?"
+        },
+        {
+          "sit": "(...Are we really off-track, though? There are still a few weird things about the place.)"
+        },
+        {
+          "sit": "(That movable hatch on the ground, as well as the question Sigewinne asked Lourvine... And also, were they really talking about their meds before we walked in?)"
+        },
+        {
+          "sit": "(Oh, and was Lourvine and Jurieu's argument genuine, or were they just putting on a show?)"
+        },
+        {
+          "sit": "Paimon, hear me out..."
+        },
+        {
+          "s": 0,
+          "t": "Whoa, you really are super thorough! All those tiny little suspicious things that Paimon didn't even pick up on... We've gotta give the info to Lyney!"
+        },
+        {
+          "sit": "Over the next few days, you and Paimon work at your stations as normal. During your shifts, however, you manage to find opportunities to write keywords relating to your suspicions on a piece of paper."
+        },
+        {
+          "sit": "You manage to pass the slip to a busy Lynette as she happens to pass by. Her disguise is impeccable, and she does not even look at you or change her expression as she pockets the info."
+        },
+        {
+          "sit": "And finally, the promised ninth day arrives."
+        },
+        {
+          "section": "Sigewinne"
+        },
+        {
+          "s": 8,
+          "t": "Seems like a lot of people have been coming down with an upset stomach lately... I'll need to address that."
+        }
+      ],
+      "description": "The open day has finally arrived. This is undoubtedly a good chance to find some information. You and Paimon plan to act, and search for clues in the Fortress of Meropide…"
+    },
+    {
+      "title": "The Truth Shrouded in Shadow",
+      "dialogue": [
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "...!"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "Did you two run into any trouble over the past few days?"
+        },
+        {
+          "s": 0,
+          "t": "No, we just worked our shifts according to the schedule. Nothing weird happened."
+        },
+        {
+          "s": 6,
+          "t": "Mmm, that's good. That means you didn't raise any suspicions when you infiltrated the infirmary."
+        },
+        {
+          "s": 6,
+          "t": "We've taken a look at the slip you've sent. Freminet successfully left the grounds via the pipes two days ago, and as of last night, Lynette has also infiltrated the infirmary after faking an illness."
+        },
+        {
+          "s": 0,
+          "t": "Wait, why is she getting involved as well?"
+        },
+        {
+          "s": 6,
+          "t": "You already went above and beyond when you scoped out the infirmary. To put it more bluntly, even if we were to view that as something you did in exchange for Freminet's help, you've already done more than enough."
+        },
+        {
+          "s": 6,
+          "t": "Infiltrating a guarded stronghold is a different kind of job from a one-off investigation. We want to avoid using the same faces over and over, and reduce the amount of suspicion that will fall on any given person."
+        },
+        {
+          "s": 6,
+          "t": "Lynette also felt like you have already taken the first step for us, so she should be the one to finish the job."
+        },
+        {
+          "s": 0,
+          "t": "So that's what Lynette thinks... Paimon hopes everything's going well for her."
+        },
+        {
+          "sit": "...Yeah."
+        },
+        {
+          "sit": "...I'm not opposed to helping you."
+        },
+        {
+          "s": 6,
+          "t": "Then... Let's go check on Lynette before Freminet returns. If everything went well, then she should be wrapping up her investigation right about now."
+        },
+        {
+          "s": 0,
+          "t": "Is now really a good time to go over?"
+        },
+        {
+          "s": 6,
+          "t": "According to my observations, Sigewinne always spends around half an hour away from the infirmary right before lunch. Lynette knows this as well, so this should be a good time to meet up with her."
+        },
+        {
+          "sit": "Oh yeah, we heard about that too."
+        },
+        {
+          "s": 6,
+          "t": "Also, I'm her brother, remember? It's only natural for an older brother to care about his younger sister's well-being."
+        },
+        {
+          "s": 0,
+          "t": "Okay, then let's head over right away!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 6,
+          "t": "Lynette should be here right now..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "Strange... Lynette?"
+        },
+        {
+          "s": 0,
+          "t": "As expected, Sigewinne isn't here, but... why isn't Lynette here?"
+        },
+        {
+          "sit": "Could she have found a lead..."
+        },
+        {
+          "sit": "And left to follow it?"
+        },
+        {
+          "s": 6,
+          "t": "...No, Lynette rarely deviates from the plan. We agreed that if she were to make changes on the fly, she'd find a way to let me know."
+        },
+        {
+          "s": 6,
+          "t": "Unless..."
+        },
+        {
+          "s": 0,
+          "t": "Let's see if there are any clues around here, we can look while we wait for her. Who knows, maybe she'll be back soon!"
+        },
+        {
+          "s": 6,
+          "t": "Okay."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "There are some books here, and a few files... They all look like medical records."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... \"Advanced Nursing,\" \"How to Raise the Spirits of Your Patients,\" \"A Quick Guide to the Psychology of Emotions,\" and \"The Meaning of Laughter\"..."
+        },
+        {
+          "s": 0,
+          "t": "These sure are some interesting books... Who knew Sigewinne would be interested in these kinds of things..."
+        },
+        {
+          "s": 0,
+          "t": "She even has books on understanding people's motivations and feelings... Is it because she's a Melusine? Or does she have a need to understand her patients' emotional state?"
+        },
+        {
+          "s": 6,
+          "t": "Seems quite normal to me. These are skills that would come in handy for a nurse from time to time."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Ah, this is it, we saw it before!"
+        },
+        {
+          "s": 6,
+          "t": "Wait, this thing...? It doesn't look like it's been disguised that well."
+        },
+        {
+          "sit": "Lyney leans down to get close to the movable hatch, and starts tapping at several different points on it..."
+        },
+        {
+          "s": 6,
+          "t": "The space behind it is empty. From its size, I don't think it's an entrance that is meant to be taken apart. There's probably a mechanism around here somewhere."
+        },
+        {
+          "s": 6,
+          "t": "Could Lynette have tried to get inside? But if that's the case, she would have contacted me for sure..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "Let's look around here some more for clues... Don't panic, just... take another look."
+        },
+        {
+          "sit": "(The look on Lyney's face... He's definitely beginning to panic. \"Don't panic\"... He probably said that subconsciously more for himself than anything else.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 6,
+          "t": "None of the beds have any signs of having been slept in... except that one over there."
+        },
+        {
+          "s": 0,
+          "t": "That's the one Lynette must have used, right? You said she was pretending to be sick."
+        },
+        {
+          "s": 6,
+          "t": "Mhm. She would have said her migraine was having a particularly bad flare-up. Generally speaking, the head nurse would then ask her to lie down and rest, while she left to retrieve the medication."
+        },
+        {
+          "sit": "...But this bed is still unmade..."
+        },
+        {
+          "s": 6,
+          "t": "Which means, either the head nurse didn't return the entire time from when Lynette lay down up until she left the bed, or... the nurse intentionally left it this way."
+        },
+        {
+          "sit": "(Oh no... That's not a good sign...)"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Hey, you guys, there's a slip of paper over here!"
+        },
+        {
+          "s": 6,
+          "t": "A slip of paper?"
+        },
+        {
+          "s": 0,
+          "t": "It's right over here, and there's a bunch written on it, too... It reads..."
+        },
+        {
+          "s": 0,
+          "t": "\"Out of respect for your usual practices, I'll use a piece of paper or card as the medium to pass on my message. You may consider this as me giving you my best regards.\""
+        },
+        {
+          "s": 6,
+          "t": "This is...!"
+        },
+        {
+          "s": 0,
+          "t": "Is... Is that all?"
+        },
+        {
+          "sit": "Is there anything on the back?"
+        },
+        {
+          "s": 0,
+          "t": "The back... aaah! This... This is..."
+        },
+        {
+          "s": 6,
+          "t": "Show me! NOW!"
+        },
+        {
+          "s": 6,
+          "t": "...!"
+        },
+        {
+          "s": 0,
+          "t": "Th—That look on your face... P—Paimon's reading it now..."
+        },
+        {
+          "s": 0,
+          "t": "\"Would you care to guess where Miss Lynette of the Fatui could be right now?\""
+        },
+        {
+          "s": 0,
+          "t": "...No... Could she have... Is she already..."
+        },
+        {
+          "s": 6,
+          "t": "...Wriothesley... Did he deliberately leave the infirmary unguarded to use it as bait?"
+        },
+        {
+          "s": 0,
+          "t": "Wait, you mean... He was aware of our goals from the very beginning? But why? We didn't run into any trouble last time, and he also never reached out to us since..."
+        },
+        {
+          "sit": "Why would he choose to act during our second infiltration attempt instead of the first?"
+        },
+        {
+          "s": 6,
+          "t": "...Yes, that is a crucial question. Wriothesley... He doesn't do anything without a clear goal or reason. So, this means he had no concerns about your activities from the very beginning."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, you are not from the same camp as us — you were sent down here by Neuvillette, so you have no conflict of interest with Wriothesley. We're a completely different story, though..."
+        },
+        {
+          "sit": "Why did he only go after Lynette?"
+        },
+        {
+          "sit": "Why didn't he go after you as well?"
+        },
+        {
+          "s": 6,
+          "t": "I'd like to know that, too. Why did he only go after her?"
+        },
+        {
+          "s": 6,
+          "t": "Don't panic, just think everything over... I have to stay calm... This is not like what happened last time, the situation's different now..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, wait, you're right... Wait... But that means..."
+        },
+        {
+          "s": 6,
+          "t": "...The fact that Freminet was able to leave the grounds... Could Wriothesley have let him go as well?"
+        },
+        {
+          "s": 0,
+          "t": "But what does he gain by letting Freminet leave like that?"
+        },
+        {
+          "sit": "...I get it now."
+        },
+        {
+          "sit": "He deliberately made them both disappear."
+        },
+        {
+          "s": 6,
+          "t": "...So he's challenging me and trying to provoke me. I'm sure of it."
+        },
+        {
+          "s": 6,
+          "t": "Ugh, we never should have sent out Freminet! We had to go through all that trouble to find an opening to sneak him around the guards and into the pipe, and we even thought luck was on our side..."
+        },
+        {
+          "s": 6,
+          "t": "If Wriothesley let him leave on purpose... Then he's probably in a terrible spot now as well..."
+        },
+        {
+          "s": 0,
+          "t": "Lyney's getting more and more panicked... We have to calm him down!"
+        },
+        {
+          "sit": "Lyney, calm down!"
+        },
+        {
+          "s": 0,
+          "t": "Don't be like this, Lyney. Freminet wouldn't have left if we hadn't told you about Childe... That was our fault..."
+        },
+        {
+          "s": 6,
+          "t": "No, I'm the leader of this operation, and I'm the one responsible for this team... I was the one who failed to protect them."
+        },
+        {
+          "s": 6,
+          "t": "...I'll go talk to Wriothesley."
+        },
+        {
+          "s": 0,
+          "t": "Hey, don't be reckless! {NICKNAME}, please talk some sense into him!"
+        },
+        {
+          "s": 6,
+          "t": "I simply cannot allow Lynette to be abducted again..."
+        },
+        {
+          "s": 6,
+          "t": "I have to go, I'll find a way to get them back!"
+        },
+        {
+          "s": 0,
+          "t": "He's rushed out the door! After him!"
+        },
+        {
+          "s": 8,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "Right, I feel like we still have some room to make changes on these details."
+        },
+        {
+          "s": 7,
+          "t": "...It's not impossible, but it'll require extensive testing."
+        },
+        {
+          "s": 8,
+          "t": "Is that so... Very well, then please be mindful of the time."
+        },
+        {
+          "s": 8,
+          "t": "...!"
+        },
+        {
+          "s": 9,
+          "t": "Is someone...?"
+        },
+        {
+          "s": 8,
+          "t": "Pack everything up."
+        },
+        {
+          "s": 8,
+          "t": "...Whoever's outside is eavesdropping. They'll probably come in once we stop talking."
+        },
+        {
+          "s": 0,
+          "t": "Someone, please help! He(She)... He(She)'s sick!"
+        },
+        {
+          "s": 7,
+          "t": "Whoa, are you okay?"
+        },
+        {
+          "s": 8,
+          "t": "(Ah, these two. As expected, they've already found this place. They're quite sharp.)"
+        },
+        {
+          "s": 8,
+          "t": "What a delightful turn of events. I like smart people, but I also like playing dumb. I like the feeling of \"being trusted.\""
+        },
+        {
+          "s": 8,
+          "t": "Oh my! What's wrong, little one? There's no need to panic — take a deep breath before you begin."
+        },
+        {
+          "s": 8,
+          "t": "Being able to read human expressions is quite the useful skill."
+        },
+        {
+          "section": "Lyney, Wriothesley"
+        },
+        {
+          "s": 6,
+          "t": "Come out and face me, Wriothesley!"
+        },
+        {
+          "s": 10,
+          "t": "Mmm, aren't we at an administrative office space? Why don't you at least try to follow even a couple rules from the Fortress' Indoor Management Regulations?"
+        },
+        {
+          "s": 6,
+          "t": "What did you do to my sister!?"
+        },
+        {
+          "s": 10,
+          "t": "I ran into the young miss at the infirmary. I had heard that she was suffering from quite the migraine, so I decided to invite her over for a cup of tea. I do have some teas in my collection that can work wonders against such an illness."
+        },
+        {
+          "s": 6,
+          "t": "Stop joking around! Where did you take my siblings!?"
+        },
+        {
+          "s": 10,
+          "t": "I have also heard that your performances are quite the spectacle. Miss Lynette would sometimes enter a box filled with water, only to emerge the next second from another place altogether."
+        },
+        {
+          "s": 10,
+          "t": "Maybe she'll appear behind you right now if you were to turn your head?"
+        },
+        {
+          "s": 6,
+          "t": "(Is he trying to trick me into turning my head? No, he's probably not looking to attack me right now, all of the hostages are in his hands, and he's even in the mood for small talk. That means Lynette is probably still alive.)"
+        },
+        {
+          "s": 6,
+          "t": "...You knew we were investigating the infirmary from the start, so you deliberately aroused {NICKNAME}'s suspicions and baited us into continuing our investigation, just so that you'd be able to kidnap Lynette."
+        },
+        {
+          "s": 10,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "As for Freminet... No, you probably didn't even interfere with Childe's escape. You let him go, so you could purge the Fatui members that we had planted into your ranks."
+        },
+        {
+          "s": 10,
+          "t": "There was no need to do so. The Fortress of Meropide is a pretty pleasant place. Most people enjoy their lives here — the only ones who act differently are those with personal agendas. It was quite easy to identify your colleagues."
+        },
+        {
+          "s": 6,
+          "t": "You removed our original members, and spread the news of Childe's escape, so \"Father\" would assign our team to come down and investigate. Freminet has also fallen into your hands, right? If you're oh so omnipotent and so in control, why would you need hostages?"
+        },
+        {
+          "s": 10,
+          "t": "One correction. Lynette is in my hands right now, but Freminet is not."
+        },
+        {
+          "s": 6,
+          "t": "He's not? ...What do you really want?"
+        },
+        {
+          "s": 0,
+          "t": "Lyney!"
+        },
+        {
+          "s": 10,
+          "t": "Oh, wonderful! Everyone is here, so I'll only need to say this once: thank you so much for cooperating with me."
+        },
+        {
+          "sit": "Where are Lynette and Freminet?"
+        },
+        {
+          "s": 10,
+          "t": "Eager and to the point, {NICKNAME}, I see. Alas, only Miss Lynette is currently having a cup of the Fortress' finest tea."
+        },
+        {
+          "s": 10,
+          "t": "Although as per your original plan, Mr. Freminet should also have returned to the Fortress by now. But he has neither shown up within my gates, nor has he been taken into any kind of custody. So where do you think he may be right now...?"
+        },
+        {
+          "s": 6,
+          "t": "Wait, you can't mean..."
+        },
+        {
+          "s": 6,
+          "t": "You locked him outside in the sea!?"
+        },
+        {
+          "s": 10,
+          "t": "I closed the Fortress' gate to the outside world, that's all."
+        },
+        {
+          "s": 0,
+          "t": "Freminet's a star diver, so he should be fine, right?"
+        },
+        {
+          "s": 6,
+          "t": "No, we're still here, so he'd definitely try to find a way to come back for us... So we can't assume he might have made a break for the surface."
+        },
+        {
+          "s": 10,
+          "t": "But why would I do this, you may be asking? To have an audience with you, of course. My intel tells me that Mr. Lyney is a great magician, so it's only natural for me to want to have some cards of my own when it comes to negotiating."
+        },
+        {
+          "s": 10,
+          "t": "Besides, I do recall you mentioning to Miss Lynette that you've always wanted to have a face-to-face meeting with the lord of the Fortress of Meropide, regardless of whether it was in a personal or a professional capacity. Well you got your wish."
+        },
+        {
+          "s": 6,
+          "t": "So... You've been keeping tabs on us before we even set foot in the Fortress..."
+        },
+        {
+          "s": 10,
+          "t": "Some of my folks just happened to hear a thing or two, that's all. In any case, I'll be straight with you."
+        },
+        {
+          "s": 10,
+          "t": "I was willing to play dumb and turn a blind eye, so we had a pleasant few days playing games together here. But once you started focusing on the \"forbidden zone,\" all of that changed."
+        },
+        {
+          "s": 10,
+          "t": "Mr. Lyney, the cards are stacked against you right now. Miss Lynette is in my hands, and Mr. Freminet is still slowly being pickled out there in the brine. You know just as well as I that he cannot last out there forever."
+        },
+        {
+          "s": 10,
+          "t": "You need do but one thing to guarantee their safety. I would like you to contact your superior, and ideally invite her over for a cup of tea with me."
+        },
+        {
+          "s": 6,
+          "t": "You want to see \"Father\"? Ha, but why should she bother giving you an audience?"
+        },
+        {
+          "s": 10,
+          "t": "Well, if she cares for the well-being of her dearest children, she should have plenty of motivation to join me for a parents' evening."
+        },
+        {
+          "s": 10,
+          "t": "I've heard that the bonds between the members of the House of the Hearth are like the bonds of family. I don't see why she would refuse."
+        },
+        {
+          "s": 6,
+          "t": "Why did you think \"Father\" sent us to handle the Fortress of Meropide? This place is basically a no man's land. It wouldn't be fitting for anyone as important as a Harbinger like \"Father\" to come here in person."
+        },
+        {
+          "s": 10,
+          "t": "Oh, I see, so it's because she doesn't care for my place here. That's such a shame, after all, I've amassed quite the tea collection, and I was looking forward to sharing it with her. Both Monsieur Neuvillette and Lady Furina have already received many samples as gifts."
+        },
+        {
+          "s": 6,
+          "t": "...Was this the extent of your master plan to get to \"Father\"? No matter how much pressure you may put on me, I won't allow you to use us to blackmail her."
+        },
+        {
+          "s": 10,
+          "t": "Your people really are difficult to get along with. All I'm asking for is a face-to-face conversation. Does she truly have no interest in the Fortress' secret?"
+        },
+        {
+          "s": 10,
+          "t": "Mr. Lyney, you have one last chance to invite your \"Father\" here. If you refuse..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Lyney..."
+        },
+        {
+          "sit": "Why do you have to do this?"
+        },
+        {
+          "s": 10,
+          "t": "Instead of asking why I'm doing this, why don't you try to see things from my perspective for a second? From the very beginning, the Fatui has been actively infiltrating my Fortress."
+        },
+        {
+          "s": 10,
+          "t": "I gave you a warning by cutting off the first few operatives I found, but that only caused you to double down. Had you given up on the Fortress then and there, I'd have no reason to want a talk."
+        },
+        {
+          "s": 10,
+          "t": "Mr. Freminet left the Fortress on his own, and Miss Lynette tried to pry out my secrets right in front of me. No matter how you look at it, the responsibility for this falls on you."
+        },
+        {
+          "s": 6,
+          "t": "I... I shouldn't ask \"Father\" to do anything because of us..."
+        },
+        {
+          "s": 10,
+          "t": "Six, five..."
+        },
+        {
+          "s": 6,
+          "t": "Wait, I..."
+        },
+        {
+          "s": 10,
+          "t": "...Two, one."
+        },
+        {
+          "s": 10,
+          "t": "Time's up. It really is a shame, Mr. Lyney."
+        },
+        {
+          "s": 0,
+          "t": "Wriothesley！"
+        },
+        {
+          "s": 10,
+          "t": "Negotiations have broken down. Please leave, ladies and gentlemen. It's time for my afternoon tea."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "sit": "Please wait! Can we really not talk about this some more?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, listen to {NICKNAME}! If you can't talk to Lyney, can you at least talk to us?"
+        },
+        {
+          "s": 10,
+          "t": "You do realize that I'm only letting you go because of Neuvillette, yes? You're here helping him out, and I've already done my best to stay out of your way."
+        },
+        {
+          "s": 10,
+          "t": "But that doesn't mean you can just do whatever you want. The Fortress may be small and remote, but it still has its own set of laws."
+        },
+        {
+          "sit": "Please spare Freminet and Lynette."
+        },
+        {
+          "sit": "I want to save Freminet and Lynette, too."
+        },
+        {
+          "s": 10,
+          "t": "..."
+        },
+        {
+          "s": 10,
+          "t": "Then how about this? Those who are capable deserve respect. You've spent quite some time investigating my home turf by now, so why don't you tell me a thing or two about what you've found?"
+        },
+        {
+          "s": 10,
+          "t": "I'll ask you three questions. Answer all of them correctly, and I'll agree to your request."
+        },
+        {
+          "s": 10,
+          "t": "Question one. Regarding the \"hidden rules\" of the production zone... What is the truth behind the one about not being allowed to work for three days in a row?"
+        },
+        {
+          "sit": "(I can't believe he's asking about the \"hidden rules\"... If I recall correctly, if you keep working without any rest, during lunch hour on the third day, you will find a portion of \"strange meat\" in your welfare meal.)"
+        },
+        {
+          "sit": "(It's a good thing that we've already run a thorough investigation on this. Let's see if I can remember all the clues... I should be able to find an answer if I can piece everything together.)"
+        },
+        {
+          "s": 0,
+          "t": "Ah, so that's what was going on... Paimon understands it now. Who would have guessed..."
+        },
+        {
+          "s": 0,
+          "t": "The \"hidden rule\" of the production zone... people are not supposed to work three days in a row, and if they do, they'll get \"strange meat\" in their welfare meal."
+        },
+        {
+          "s": 0,
+          "t": "At first, we thought this \"strange meat\" must have something to do with the people who disappeared, but in reality, they were all... prepared by Sigewinne, the head nurse."
+        },
+        {
+          "s": 0,
+          "t": "She often visits the production zone to observe the workers' health, and makes a note of anyone who has worn themselves out after three full days of work."
+        },
+        {
+          "s": 0,
+          "t": "Out of her sense of duty as the head nurse as well as her genuine concern for the workers' health, Sigewinne visits the cafeteria right before lunch, and cooks an \"extra dish\" for those who can use the stamina boost."
+        },
+        {
+          "s": 0,
+          "t": "Sigewinne has only the best intentions with her \"surprise gift,\" and doesn't want anyone to find out about what she does. However..."
+        },
+        {
+          "s": 0,
+          "t": "...Unfortunately, Melusines as a race perceive the world differently from humans, and their sense of aesthetics is even more alien to us."
+        },
+        {
+          "s": 0,
+          "t": "The recipients of her lovingly prepared special meals cannot taste the care within, and usually just freak out."
+        },
+        {
+          "s": 0,
+          "t": "Are we on the right track?"
+        },
+        {
+          "s": 10,
+          "t": "Heh, not bad. You've uncovered Sigewinne's secret, and even guessed her intentions correctly as well. It's nice to know that her efforts have not gone unacknowledged."
+        },
+        {
+          "s": 10,
+          "t": "Alright, now for my next question..."
+        },
+        {
+          "s": 10,
+          "t": "There are also some \"hidden rules\" in the Pankration Ring... Including the one that you're not allowed to support both sides of a fight. Why is that?"
+        },
+        {
+          "sit": "(The \"hidden rules\" of the Pankration Ring... I remember. If someone tries to support both boxers at the same time, they'll receive a package the next morning, which contains a strange blood-colored liquid.)"
+        },
+        {
+          "sit": "(We've also done a lot of research on this matter. Let me sift through what I've found and come up with the correct answer.)"
+        },
+        {
+          "s": 0,
+          "t": "Ah, Paimon gets this rule too now... So there really was nothing to be afraid of!"
+        },
+        {
+          "s": 0,
+          "t": "That \"hidden rule\" of the Pankration Ring is about how... people are not supposed to bet on both boxers at the same time, and if they do, they'll receive a package containing a strange blood-colored liquid."
+        },
+        {
+          "s": 0,
+          "t": "People get scared when they see it because they've subconsciously begun to associate it with the missing boxer."
+        },
+        {
+          "s": 0,
+          "t": "But really, it's just a bottle of the latest yet-to-be-named-and-packaged new Fonta trial product!"
+        },
+        {
+          "s": 0,
+          "t": "A blood-red drink... It's no wonder even Fonta's own staff were questioning the company's decision-making."
+        },
+        {
+          "s": 0,
+          "t": "The company, facing backlash from its own staff, decided to try to trial the product on a smaller scale, to see how it might be received by customers."
+        },
+        {
+          "s": 0,
+          "t": "They came to the Fortress of Meropide and offered to sponsor the Pankration tournament so they could push their new product, but the Duke completely refused to even entertain the idea."
+        },
+        {
+          "s": 0,
+          "t": "The Duke, knowing how valuable coupons are in the Fortress, knew that only total idiots who didn't understand their true value would bother buying a Fonta product here."
+        },
+        {
+          "s": 0,
+          "t": "And so, only those who proved their stupidity by being dumb enough to bet on two opposing sides of the same match were selected to receive the drinks."
+        },
+        {
+          "s": 10,
+          "t": "I acknowledge the effort you've put in to bringing the truth of this mystery to light."
+        },
+        {
+          "s": 10,
+          "t": "Although, based on your description, that Fonta promoter is a bit too careless with his words... I may just reconsider my collaboration with the company."
+        },
+        {
+          "s": 10,
+          "t": "Alright, and here's the final question. What's the secret behind our head nurse, and all of her patients in the infirmary?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "(We haven't collected enough info to answer that question...)"
+        },
+        {
+          "s": 6,
+          "t": "Stop your cruel and pointless games, Wriothesley! You know that we haven't finished our investigation, so there's no way we can answer the last question! The thought of sparing Lynette and Freminet never even crossed your mind!"
+        },
+        {
+          "sit": "Lyney!"
+        },
+        {
+          "s": 6,
+          "t": "You'll pay for this!"
+        },
+        {
+          "s": 10,
+          "t": "...!"
+        },
+        {
+          "s": 6,
+          "t": "Argh!"
+        },
+        {
+          "s": 0,
+          "t": "Lyney! Are you alright!?"
+        },
+        {
+          "s": 10,
+          "t": "Ooh, close one. I owe you, Sigewinne. That was a fantastic shot."
+        },
+        {
+          "s": 8,
+          "t": "It was nothing, Your Grace."
+        },
+        {
+          "s": 0,
+          "t": "Sigewinne!?"
+        },
+        {
+          "s": 8,
+          "t": "Though this gun may look like a toy, it's actually fully functional, as I just demonstrated."
+        },
+        {
+          "s": 6,
+          "t": "Sige...winne... You..."
+        },
+        {
+          "sit": "Are you his accomplice in all this!?"
+        },
+        {
+          "s": 8,
+          "t": "Not at all. I am merely a resident of the Fortress, and thus protecting it is my duty."
+        },
+        {
+          "s": 8,
+          "t": "When Monsieur Neuvillette asked me to come here, he told me that my job would be to take care of the well-being of everyone here. I am merely discharging my duties."
+        },
+        {
+          "s": 0,
+          "t": "But if you mean what you just said, then isn't Lyney someone you should be looking after as well? Isn't he a resident here just like the rest of us?"
+        },
+        {
+          "sit": "If you're close with Neuvillette..."
+        },
+        {
+          "sit": "Why not learn a thing or two about virtue from him?"
+        },
+        {
+          "s": 8,
+          "t": "But I really am just doing what Monsieur Neuvillette told me to do! Everything I did, I've done to protect them. Had I not, they would be in far more dire straits right now."
+        },
+        {
+          "s": 8,
+          "t": "His Grace knows it, too. Right? Your Grace? ...Mind proving my innocence to them?"
+        },
+        {
+          "s": 10,
+          "t": "...*sigh* My dear Sigewinne, what ever shall I do with you? Would it have killed you to just wait another minute or two?"
+        },
+        {
+          "s": 8,
+          "t": "Well, it's nearly time, after all. The way you do things can be truly frustrating sometimes, Your Grace. I figured I should try to talk some sense into you."
+        },
+        {
+          "s": 0,
+          "t": "What are you talking about? What time?"
+        },
+        {
+          "s": 6,
+          "t": "Take me if you want... But let them go..."
+        },
+        {
+          "s": 10,
+          "t": "How touching. Can you just give me one more minute?"
+        },
+        {
+          "s": 8,
+          "t": "Don't be like that, Your Grace."
+        },
+        {
+          "s": 10,
+          "t": "Alright, everyone, calm down. Two more visitors will be arriving any time now."
+        },
+        {
+          "s": 10,
+          "t": "I will go get a cup of tea. Miss Sigewinne, I'll leave Miss Lynette in your care."
+        },
+        {
+          "s": 6,
+          "t": "You... What are you doing!?"
+        },
+        {
+          "s": 8,
+          "t": "I believe I hear... footsteps."
+        },
+        {
+          "sit": "The door suddenly slams open. A familiar figure bursts into the room."
+        },
+        {
+          "s": 11,
+          "t": "Some space, please."
+        },
+        {
+          "s": 10,
+          "t": "Ah, Miss Clorinde. My door."
+        },
+        {
+          "s": 6,
+          "t": "Freminet? FREMINET!!"
+        },
+        {
+          "s": 0,
+          "t": "What's going on!? What is Clorinde doing here?"
+        },
+        {
+          "s": 11,
+          "t": "Work."
+        },
+        {
+          "s": 8,
+          "t": "I'm sorry about shooting you, Mr. Lyney. The tranquilizing effect will begin to wear off soon. Please take it easy in the meantime, though."
+        },
+        {
+          "s": 6,
+          "t": "...What happened to Freminet? Wasn't he diving just outside of the fortress? Why is he looking like... Like this..."
+        },
+        {
+          "sit": "These symptoms... It can't be..."
+        },
+        {
+          "s": 8,
+          "t": "A flushed face and accelerated pulse... He must have consumed Primordial Seawater."
+        },
+        {
+          "s": 6,
+          "t": "What did you say!?"
+        },
+        {
+          "s": 8,
+          "t": "Please make some space. I'll need to give Mr. Freminet a more thorough check-up. Your Grace, I'll leave the rest to you."
+        },
+        {
+          "s": 10,
+          "t": "I'll talk to Clorinde while you get Freminet to where he needs to be. Everything else can wait."
+        },
+        {
+          "section": "Lyney, Sigewinne"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "sit": "(Lyney's expression looks disgusted... It seems like he'd rather not have Sigewinne touch Freminet. Still, he didn't stop her, since it's obvious that Freminet does require urgent medical care.)"
+        },
+        {
+          "sit": "(Sigewinne's examining Freminet carefully. She doesn't look too upset, which is a good sign. I hope Freminet will be okay.)"
+        },
+        {
+          "s": 6,
+          "t": "...How is he?"
+        },
+        {
+          "s": 8,
+          "t": "These symptoms are probably caused by an acute ingestion of a large amount of Primordial Seawater. Still, his condition is not critical."
+        },
+        {
+          "s": 8,
+          "t": "Of course, it would be best if he stayed for further observation. Let's leave him here for now, and move him to the infirmary once he's recovered a bit more."
+        },
+        {
+          "s": 8,
+          "t": "...Sorry, I am aware that the infirmary may not be your favorite place in the world at the moment. We do only have a single clinic in the fortress, however."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "...Why would he ingest a large amount of Primordial Seawater after leaving the Fortress? How could that possibly happen...?"
+        },
+        {
+          "s": 8,
+          "t": "Please look after Mr. Freminet for the moment. I'll go fetch some medicine and a respirator. I'll bring Miss Lynette back with me."
+        },
+        {
+          "s": 6,
+          "t": "Where is she!? How is she right now!?"
+        },
+        {
+          "s": 8,
+          "t": "Oh, she just took a nap in an empty room after I tranquilized her. If my calculations are correct, she should also be waking up right around now. You might not believe me, but His Grace and I actually made some snacks and tea for her."
+        },
+        {
+          "sit": "(Lyney has finally begun to stop tensing the muscles on his face. It seems that he trusts what Sigewinne just said.)"
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "section": "Clorinde, Wriothesley"
+        },
+        {
+          "s": 11,
+          "t": "What's that look on your face? I thought I made good time on the way back."
+        },
+        {
+          "s": 10,
+          "t": "Oh, I'm just admiring your punctuality. Had you arrived just a few minutes later, Sigewinne may have been forced to shoot Mr. Lyney again."
+        },
+        {
+          "s": 10,
+          "t": "How's the situation out there?"
+        },
+        {
+          "s": 11,
+          "t": "The water has changed. It's pretty much as expected. The concentration of Primordial Seawater has increased significantly."
+        },
+        {
+          "s": 11,
+          "t": "I was only out there a short time, so it wasn't too bad. But if one were to stay for any significant amount of time... Well, you can see how that boy is doing."
+        },
+        {
+          "s": 10,
+          "t": "Where was he when you found him?"
+        },
+        {
+          "s": 11,
+          "t": "The abandoned zone at the end of the pipes. A good distance into the water."
+        },
+        {
+          "s": 10,
+          "t": "Closer than I thought. He must have recognized it early on, and tried desperately to swim back."
+        },
+        {
+          "s": 11,
+          "t": "Locking the door was necessary. I don't think we could have saved two."
+        },
+        {
+          "s": 10,
+          "t": "Well, I did try to convince them that I had my reasons... Never seems to work, though."
+        },
+        {
+          "s": 11,
+          "t": "It would probably work on Neuvillette. He has a knack for picking out who had good intentions even when the outcomes were all terrible."
+        },
+        {
+          "s": 10,
+          "t": "Eh... It's a bad sign if you're having to plead your case to Neuvillette."
+        },
+        {
+          "s": 10,
+          "t": "Want some tea?"
+        },
+        {
+          "s": 11,
+          "t": "Not particularly. If you want to drink some that badly, just say so."
+        },
+        {
+          "s": 10,
+          "t": "Fine, I'd like to get some tea. Want me to get you a cup too, since I've already made it?"
+        },
+        {
+          "s": 11,
+          "t": "Eh, might as well then, I suppose. Actually, do you have a towel? I would like to dry my hair."
+        },
+        {
+          "section": "Wriothesley, Clorinde"
+        },
+        {
+          "s": 10,
+          "t": "Could I tempt you with some sugar for your tea?"
+        },
+        {
+          "s": 11,
+          "t": "No need."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "Lyney, are you okay...?"
+        },
+        {
+          "s": 6,
+          "t": "...I'll be fine. They're all here now. Don't worry about me."
+        },
+        {
+          "s": 0,
+          "t": "Are you sure? You don't look alright..."
+        },
+        {
+          "s": 6,
+          "t": "My hands and feet are still a bit weak, but that's probably just the residual effects of the tranquilizer shot."
+        },
+        {
+          "s": 8,
+          "t": "I'm back, everyone."
+        },
+        {
+          "s": 12,
+          "t": "Lyney! Oh! {NICKNAME}, Paimon, you're here too!"
+        },
+        {
+          "s": 12,
+          "t": "...Freminet? Is he..."
+        },
+        {
+          "s": 8,
+          "t": "He'll be fine. But for now, please help me lift him up."
+        },
+        {
+          "sit": "Lyney and Lynette immediately come to lift Freminet up. With their help, Freminet also manages to swallow a dose of Sigewinne's medicine."
+        },
+        {
+          "s": 13,
+          "t": "...Ugh..."
+        },
+        {
+          "s": 6,
+          "t": "His breathing's beginning to slow down."
+        },
+        {
+          "s": 8,
+          "t": "Give me a hand and help me get him to the infirmary."
+        },
+        {
+          "s": 6,
+          "t": "Yeah, I'll take him from this side. Lynette? Together?"
+        },
+        {
+          "s": 12,
+          "t": "On it."
+        },
+        {
+          "s": 8,
+          "t": "{NICKNAME}, you seem pretty worried about him. Want to come with us?"
+        },
+        {
+          "sit": "Very well."
+        },
+        {
+          "s": 0,
+          "t": "The Duke and Clorinde are gone..."
+        },
+        {
+          "s": 8,
+          "t": "They probably went to get some tea. The Duke will explain the truth in just a bit. Miss Clorinde will need a break, since she only just returned from rescuing Freminet out of the sea."
+        },
+        {
+          "sit": "(Clorinde saved Freminet from the sea... Just what happened there?)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 13,
+          "t": "...Pff...*cough*"
+        },
+        {
+          "s": 6,
+          "t": "He's awake. Freminet, how do you feel?"
+        },
+        {
+          "s": 13,
+          "t": "Lyney... Lynette..."
+        },
+        {
+          "s": 12,
+          "t": "We're all here."
+        },
+        {
+          "s": 13,
+          "t": "Where... am I..."
+        },
+        {
+          "s": 8,
+          "t": "The infirmary at the Fortress of Meropide, Mr. Freminet, and you are no longer in any danger."
+        },
+        {
+          "s": 0,
+          "t": "How do you feel? Don't push yourself if you're not feeling up to it!"
+        },
+        {
+          "s": 13,
+          "t": "{NICKNAME}, Paimon... It's been so long."
+        },
+        {
+          "s": 13,
+          "t": "...The sea! There's something wrong with the seawater!"
+        },
+        {
+          "s": 6,
+          "t": "Shh, it's okay. We can talk about it after you've recovered."
+        },
+        {
+          "s": 13,
+          "t": "No, listen to me, this is really serious! There's Primordial Seawater mixed into the regular seawater. I don't know why it's there, but no one should touch it!"
+        },
+        {
+          "sit": "What happened after you snuck into the pipes?"
+        },
+        {
+          "s": 13,
+          "t": "...Pipes..."
+        },
+        {
+          "s": 13,
+          "t": "...Right, the pipes. It's all coming back to me now..."
+        },
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 13,
+          "t": "...Pipes..."
+        },
+        {
+          "s": 13,
+          "t": "...Right, the pipes. It's all coming back to me now..."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 13,
+          "t": "...I'm in. Hmm... Seems like this pipe hasn't been used in a long time. It looks abandoned."
+        },
+        {
+          "s": 13,
+          "t": "Where could Master Childe be..."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 13,
+          "t": "This is where the water starts... Okay."
+        },
+        {
+          "s": 13,
+          "t": "(Master Childe probably dived into the water... I'll go take a look as well.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 13,
+          "t": "(Wait, what the... Argh! Urgh...)"
+        },
+        {
+          "s": 13,
+          "t": "(My heart is racing, and it's getting harder and harder to breathe. What's going on?)"
+        },
+        {
+          "s": 13,
+          "t": "(No good, I have to get back, they still don't know anything about what's going on! If I turn back right now, I should still be able to make it...)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 13,
+          "t": "(I can't... die here... Ugh...)"
+        },
+        {
+          "s": 13,
+          "t": "(This is... This is bad... I'm feeling worse and worse... And I'm still underwater...)"
+        },
+        {
+          "s": 13,
+          "t": "(I... I have to push on...)"
+        },
+        {
+          "section": "Lyney, Freminet, Lynette"
+        },
+        {
+          "s": 6,
+          "t": "...So, in other words, the trail you were following vanished, and you had no idea where Master Childe could have gone, but there was also no obvious place for him to have disappeared to..."
+        },
+        {
+          "s": 13,
+          "t": "That's right. I tried my best to swim back, but I had already put some distance between myself and the fortress, and I just couldn't find the strength to keep going... I probably passed out sometime after that, and you know the rest."
+        },
+        {
+          "s": 0,
+          "t": "Miss Clorinde brought you back, but we also don't know why she just suddenly appeared at the Fortress, or why she went out to save you..."
+        },
+        {
+          "s": 13,
+          "t": "Miss Clorinde, you say... I must go thank her in person."
+        },
+        {
+          "s": 12,
+          "t": "You're still too weak, Freminet. You can go after you've had some more rest."
+        },
+        {
+          "s": 8,
+          "t": "Miss Lynette is right. I believe Miss Clorinde will stay here as a guest for another few days, so there's no need to hurry."
+        },
+        {
+          "s": 6,
+          "t": "A guest... Then I can assume Wriothesley was the one who invited her to come down here?"
+        },
+        {
+          "s": 8,
+          "t": "You should ask His Grace about that. He'll be able to explain better than me."
+        },
+        {
+          "sit": "Got it, I'll go talk to him."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, it's about time he actually told us what's going on! Wanna come with us, Lyney?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "No, please go on without me, {NICKNAME}. I don't want to leave just yet."
+        },
+        {
+          "s": 12,
+          "t": "Lyney..."
+        },
+        {
+          "s": 6,
+          "t": "...The logical part of my brain is aware that we are safe right now, but I still can't bring myself to leave. Both of you were just in danger."
+        },
+        {
+          "s": 12,
+          "t": "Understood. Then let's just sit together for a while."
+        },
+        {
+          "s": 8,
+          "t": "In that case, I'll leave the infirmary to you. {NICKNAME} and I are going to head out for now — as long as you stay in here, I don't think you'll be disturbed."
+        },
+        {
+          "s": 13,
+          "t": "Thank you."
+        }
+      ],
+      "description": "The appointed day has come. You and Paimon go to the Production Zone once more. Lyney will be waiting for you there."
+    },
+    {
+      "title": "Secret Keepers and Forbidden Zones",
+      "dialogue": [
+        {
+          "section": "Freminet, Lynette, Lyney"
+        },
+        {
+          "s": 13,
+          "t": "I—I'm so sorry, Lyney..."
+        },
+        {
+          "s": 12,
+          "t": "I'm also really sorry, Lyney. I should have been more careful."
+        },
+        {
+          "s": 6,
+          "t": "Don't say that. It was all my fault... I was the one who should have been more careful. You two were nearly..."
+        },
+        {
+          "s": 13,
+          "t": "If I was stronger... Maybe I would have already found Master Childe..."
+        },
+        {
+          "s": 6,
+          "t": "No, how can you say that?"
+        },
+        {
+          "s": 13,
+          "t": "Hmm?"
+        },
+        {
+          "s": 6,
+          "t": "...I'm sorry..."
+        },
+        {
+          "s": 12,
+          "t": "What I'm hearing is, we all dropped the ball at some point during the mission, so the responsibility falls on all of us. Isn't that right?"
+        },
+        {
+          "s": 13,
+          "t": "Yeah, that's right. It's on all of us."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 12,
+          "t": "Lyney, we understand that you're worried about us, but we're worried about you as well. Please don't blame yourself... We want you to keep your spirits up."
+        },
+        {
+          "s": 6,
+          "t": "...Yeah."
+        },
+        {
+          "section": "Wriothesley"
+        },
+        {
+          "s": 8,
+          "t": "Excuse me~"
+        },
+        {
+          "s": 10,
+          "t": "I take it Mr. Freminet's condition has stabilized?"
+        },
+        {
+          "s": 8,
+          "t": "Of course. I would not have left the infirmary otherwise."
+        },
+        {
+          "s": 10,
+          "t": "I've been expecting those two, but might I enquire as to the purpose of your visit, Miss Sigewinne?"
+        },
+        {
+          "s": 8,
+          "t": "I wanted to check up on Miss Clorinde. How are you feeling?"
+        },
+        {
+          "s": 11,
+          "t": "Mostly fine, I think."
+        },
+        {
+          "s": 8,
+          "t": "If you don't mind, I'd like to perform another quick physical exam. It'll just take a few minutes."
+        },
+        {
+          "s": 11,
+          "t": "Alright, thank you for looking out for me. I'll take my leave for now, then."
+        },
+        {
+          "s": 0,
+          "t": "Well, want to explain yourself, Wriothesley?"
+        },
+        {
+          "s": 10,
+          "t": "Haha, of course, but I'm not partial to the word choice of \"explain.\" How about \"enlighten\"?"
+        },
+        {
+          "sit": "Please enlighten us as much as you'd like."
+        },
+        {
+          "s": 10,
+          "t": "But where should I begin? How about you start by asking me any questions you have? You can start with whichever one you'd like to get answered the most."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Then Paimon will begin. Did you know about Lyney's goals from the very beginning?"
+        },
+        {
+          "s": 10,
+          "t": "No, I just knew they were Fatui operatives sent to the Fortress by The Knave. As for their specific goals... I only figured those out as you made progress on your investigation."
+        },
+        {
+          "s": 0,
+          "t": "You managed to monitor and stay ahead of them even though you didn't know what they were trying to do?"
+        },
+        {
+          "s": 10,
+          "t": "They came here with ulterior motives. I'm quite adept at discerning what that kind of behavior signals."
+        },
+        {
+          "sit": "Why didn't you stop them?"
+        },
+        {
+          "s": 10,
+          "t": "Initially, I thought their goal was just to investigate Childe's disappearance."
+        },
+        {
+          "s": 10,
+          "t": "Lyney suggested that I had deliberately let him escape, but in truth, I didn't really do anything special to help or hinder him while he was here. Everything he did, from finding helpers to leaving this place, he did on his own."
+        },
+        {
+          "s": 10,
+          "t": "Of course, it's inevitable that The Knave would make a big deal out of her fellow Harbinger's unexplained disappearance."
+        },
+        {
+          "s": 10,
+          "t": "I'm also quite curious about where that Harbinger went, so I figured I might as well let the Fatui do their own investigative work. All I care about is the answer."
+        },
+        {
+          "s": 0,
+          "t": "So you were hoping Lyney's group would just do your work for you..."
+        },
+        {
+          "s": 10,
+          "t": "You make it sound like that's a bad thing... Unfortunately, things didn't go as planned. I assume that Freminet has told you already — the ratio of Primordial Seawater around the Fortress of Meropide is on the rise."
+        },
+        {
+          "s": 10,
+          "t": "The forbidden zone has always been Lyney's target, and you got roped into that investigation after running into him. I began to intervene out of concern for your safety, and also to prevent the Fortress from becoming entangled in more irksome matters."
+        },
+        {
+          "s": 0,
+          "t": "Are the rumors true? That you're also a former criminal?"
+        },
+        {
+          "s": 10,
+          "t": "Why would you put it like that? Isn't staying here all day and serving as the manager of the Fortress a kind of sentence unto itself, another form of prison? I just happen to have some support from the rest of the inmates, that's all."
+        },
+        {
+          "s": 0,
+          "t": "Oh right, Paimon wanted to ask — who invited Clorinde down here?"
+        },
+        {
+          "s": 10,
+          "t": "Me, of course. I paid her good Mora to come down to the Fortress for some field work."
+        },
+        {
+          "s": 10,
+          "t": "As a Champion Duelist, Miss Clorinde can be considered to be an independent party. I needed to find an exceptionally capable person to help me get through the impending crisis."
+        },
+        {
+          "s": 0,
+          "t": "And saving Freminet was part of that crisis?"
+        },
+        {
+          "s": 10,
+          "t": "You can think of it like that, yes. Credit where credit is due, that boy is quite adept at diving. Had conditions not been as hostile as they were, he probably would have found the missing Harbinger already."
+        },
+        {
+          "sit": "So, the forbidden zone really exists?"
+        },
+        {
+          "sit": "What's inside of it?"
+        },
+        {
+          "s": 10,
+          "t": "That's not something you should be asking after. Neuvillette only asked you to investigate Childe's whereabouts."
+        },
+        {
+          "s": 10,
+          "t": "All I need to prove to you is that the forbidden zone had nothing to do with the Harbinger's disappearance. That should be clear now that you've spoken to Freminet."
+        },
+        {
+          "s": 0,
+          "t": "But... we've already uncovered that there's something wrong with the infirmary, and we've answered a bunch of questions that you threw at us... Isn't it about time that you answer our last question in return?"
+        },
+        {
+          "s": 10,
+          "t": "You make a compelling case... Do you really want to know the answer that badly?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah! Paimon really wants to know!"
+        },
+        {
+          "s": 10,
+          "t": "Even if the truth may not be pleasant?"
+        },
+        {
+          "sit": "...Yes."
+        },
+        {
+          "s": 10,
+          "t": "Follow me."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "There's a hidden door here!? And a whole basement behind it? You're pretty good at hiding stuff, Wriothesley."
+        },
+        {
+          "s": 10,
+          "t": "It seems you've forgotten just what kind of place the Fortress of Meropide is."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 10,
+          "t": "Stand on the central plate."
+        },
+        {
+          "s": 0,
+          "t": "Wait, is there a secret mechanism or — whoa!!"
+        },
+        {
+          "sit": "Once everyone has taken their positions on the circular plate, it begins to slowly move downwards..."
+        },
+        {
+          "section": "Wriothesley"
+        },
+        {
+          "s": 0,
+          "t": "So this is the \"forbidden zone\"? Honestly, for a place so well-hidden, Paimon sure doesn't see anything special..."
+        },
+        {
+          "sit": "And that is..."
+        },
+        {
+          "s": 0,
+          "t": "What a huge door!"
+        },
+        {
+          "s": 10,
+          "t": "There are three such isolation gates in total. Generally speaking, I'm the only one who's allowed to go inside. Hence the name, \"forbidden zone.\""
+        },
+        {
+          "s": 10,
+          "t": "Am I correct to assume you're going to run on back and tell your little Fatui friends everything?"
+        },
+        {
+          "s": 0,
+          "t": "Well, er, Paimon wasn't thinking of keeping anything from them..."
+        },
+        {
+          "s": 10,
+          "t": "Hah. Well, I'd advise you wait until you've seen the whole truth of this place for yourself before deciding whether or not to tell them."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Huh, so there's a switch on the side..."
+        },
+        {
+          "s": 10,
+          "t": "Stand back."
+        },
+        {
+          "s": 0,
+          "t": "Whoa... They all just went up one by one..."
+        },
+        {
+          "sit": "What's that in the middle of the room?"
+        },
+        {
+          "s": 10,
+          "t": "Go on, have a look."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(This room is really empty with nothing in here, which is quite strange on its own. There's also a device smack dab in the middle of the room, which looks like some kind of massive sluice gate.)"
+        },
+        {
+          "s": 10,
+          "t": "I've been interested in what lies beyond that gate ever since I assumed leadership of the Fortress of Meropide. Of course, it would be unwise to recklessly open it, but it'd also be risky and negligent to simply ignore any potential danger that could be behind it."
+        },
+        {
+          "s": 10,
+          "t": "The readings on that dashboard haven't budged since the day when I first laid eyes on this place. But over the past year, the needle has crept upwards from its original position, likely because some parameter it's been tracking has changed, if only infinitesimally."
+        },
+        {
+          "s": 10,
+          "t": "Normally, I would have ignored it, but I happened to have some free time when I noticed it, so I investigated. Any guesses what the reading could be tracking?"
+        },
+        {
+          "sit": "The water pressure?"
+        },
+        {
+          "sit": "The temperature?"
+        },
+        {
+          "s": 10,
+          "t": "Very reasonable guesses. I've considered both of those as well. Unfortunately, our dashboard is tracking something less ordinary."
+        },
+        {
+          "s": 10,
+          "t": "The temperature should vary with weather and climate changes, so for something that rarely shifts, the water pressure is more likely. We ran a few tests to increase the pressure from the outside, but the readings didn't change at all."
+        },
+        {
+          "s": 10,
+          "t": "Later on, a few more possibilities occurred to me, such as a potential connection with the Primordial Sea. I began to make a few preparations based on that hypothesis."
+        },
+        {
+          "s": 10,
+          "t": "Over the past few days, the needle has moved again. With that and the symptoms that Freminet displayed after leaving the Fortress, I can now confidently conclude that the readings represent the concentration of Primordial Seawater in the seawater nearby."
+        },
+        {
+          "s": 0,
+          "t": "The concentration of... Primordial Seawater!? But we're already under the sea..."
+        },
+        {
+          "s": 10,
+          "t": "And that is precisely the problem. We're at the bottom of the sea, and now we're surrounded by toxic seawater. Somehow, Primordial Seawater got mixed in, and the concentration is steadily rising..."
+        },
+        {
+          "sit": "...Primordial Seawater is continually leaking into the sea?"
+        },
+        {
+          "s": 10,
+          "t": "Yes, that's very likely."
+        },
+        {
+          "s": 0,
+          "t": "But forget about the two of us, not even Neuvillette knows where the Primordial Sea could be, much less where we could find and plug a leak..."
+        },
+        {
+          "s": 0,
+          "t": "...Oh... OH!"
+        },
+        {
+          "s": 10,
+          "t": "Seems like you've figured it out."
+        },
+        {
+          "s": 10,
+          "t": "I believe the Primordial Sea lies directly beneath this sluice gate. For some reason, the Primordial Seawater levels have risen significantly, and it's now very close to us."
+        },
+        {
+          "s": 10,
+          "t": "The indicators are now red. Although the gate still stands, some Primordial Seawater has already leaked out and mixed into the sea around us."
+        },
+        {
+          "s": 10,
+          "t": "...If this continues, soon it will no longer be able to hold back the Primordial Sea at all."
+        },
+        {
+          "sit": "And if the Primordial Sea is leaking through..."
+        },
+        {
+          "sit": "If this gate falls, all of Fontaine will fall with it."
+        },
+        {
+          "s": 10,
+          "t": "Yeah, you know what the legends say. If this place falls, then everyone in Fontaine will be turned into puddles in the span of a night."
+        },
+        {
+          "s": 0,
+          "t": "But that's just too weird! Why would the Fortress of Meropide be built right above a sluice gate for the Primordial Sea? Who built this place, anyway?"
+        },
+        {
+          "s": 10,
+          "t": "Your expression tells me you think this might be part of a vast, complicated conspiracy. To be honest, you might find the actual answer may be exceedingly boring."
+        },
+        {
+          "s": 10,
+          "t": "It's just that the secret of the \"forbidden zone\" had been long forgotten by the nation before I rediscovered it with my research."
+        },
+        {
+          "s": 10,
+          "t": "There's no single \"founder\" of the Fortress of Meropide in any traditional sense. What we know about its history has been left to us by the people who used to live here."
+        },
+        {
+          "s": 10,
+          "t": "When the previous Hydro Archon, Egeria, ruled the land, all convicted criminals from Fontaine were exiled. The people drove the criminals away like a wolf pack chasing away the banished."
+        },
+        {
+          "s": 10,
+          "t": "The criminals received no sympathy of any kind from the people. They were exiled to the desolate seaside, where they experienced only pain, struggle, and the bone-chilling cold."
+        },
+        {
+          "s": 10,
+          "t": "Some of them began to repent, and prayed to the Hydro Archon, asking if there was still anything they could do. The Hydro Archon took pity on them, and said: You may go guard my secret, deep underneath the waves."
+        },
+        {
+          "s": 10,
+          "t": "And so, leaning on the power of the Hydro Archon, they gathered underneath the sea, and began to build a fortress. They became a community down there in the deeps, and over the years, helped it to grow."
+        },
+        {
+          "s": 10,
+          "t": "As the number of exiles increased, more and more people joined the community. When the first group of exiles died, they left the yet-unfinished fortress to their successors."
+        },
+        {
+          "s": 10,
+          "t": "The Hydro Archon continued to lend her support, allowing the fortress and what it stood for to continue growing ever larger. Before long, this dark underwater fortress became the sinners' only home."
+        },
+        {
+          "s": 10,
+          "t": "And with that, the people here stopped referring to the Fortress as a prison. They saw themselves as repenting sinners, who would regain their freedom once they had sufficiently redeemed themselves."
+        },
+        {
+          "s": 10,
+          "t": "But as time went on, people also realized that the Fortress was a lonely place. Once they had gotten used to life here, they could no longer feel comfortable living in the overworld."
+        },
+        {
+          "s": 10,
+          "t": "Once they had finished serving their sentences, some people left, and some others chose to stay. They'd find some idle position, and let their withered souls fade away with the ancient secrets of the past."
+        },
+        {
+          "s": 10,
+          "t": "...After many, many centuries, few people still remember the reason for the Fortress' founding. Now, they just see it as an integral pillar of Fontainian society, as the place where criminals deserve to be sent."
+        },
+        {
+          "s": 10,
+          "t": "Now and again, researchers manage to break one law or another, and live out their days in the Fortress. I learned all this from an elderly historian — everyone else just thought he'd made it all up."
+        },
+        {
+          "s": 0,
+          "t": "But now you know, every part of that history is true..."
+        },
+        {
+          "s": 10,
+          "t": "Indeed. It's just as the prophecy says. If this gate fails, then everyone will be dissolved into the sea."
+        },
+        {
+          "sit": "Do you believe in prophecies?"
+        },
+        {
+          "s": 10,
+          "t": "To be frank, not really. But sadly, that hasn't stopped this prophecy from proving all too accurate."
+        },
+        {
+          "s": 10,
+          "t": "Prophecies are troublesome things. Just hearing one will create the first wave of panic. Seeing signs of it will bring about the second, and actually witnessing it in real time, the third."
+        },
+        {
+          "sit": "So, as the Duke of Meropide, just what do you plan to do about it?"
+        },
+        {
+          "s": 10,
+          "t": "Let's go somewhere else. I want to show you something."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 10,
+          "t": "This is it."
+        },
+        {
+          "s": 7,
+          "t": "Your Grace! Perfect timing. The results from our latest round of experiments have—"
+        },
+        {
+          "s": 9,
+          "t": "Wait, Jurieu, he's not alone!"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Lourvine and Jurieu?"
+        },
+        {
+          "s": 10,
+          "t": "No need to panic, you two. I've already told them about our plan."
+        },
+        {
+          "s": 9,
+          "t": "What? After you warned us not to tell a single soul about any of this!?"
+        },
+        {
+          "s": 7,
+          "t": "I'm skeptical as well. Are you sure they are trustworthy?"
+        },
+        {
+          "s": 10,
+          "t": "The results speak for themselves, don't they? These two may already know more than you could ever imagine."
+        },
+        {
+          "s": 7,
+          "t": "...Alright then, if Your Grace insists."
+        },
+        {
+          "s": 9,
+          "t": "They seem harmless enough... So I'll trust them for now."
+        },
+        {
+          "s": 10,
+          "t": "How about some reintroductions... This is Jurieu, one of the highest-ranked researchers from the Fontaine Research Institute. He used to work under Edwin. I trust that you've heard of Edwin?"
+        },
+        {
+          "sit": "Yeah, we have."
+        },
+        {
+          "sit": "Edwho?"
+        },
+        {
+          "s": 10,
+          "t": "Good. Saves me a bit of time explaining."
+        },
+        {
+          "s": 10,
+          "t": "Edwin's main areas of research were Arkhium and gravimeters. As his assistant, Jurieu is quite familiar with them as well. I hired him to be my technical consultant."
+        },
+        {
+          "s": 0,
+          "t": "You... you want to blow up the Fortress of Meropide?"
+        },
+        {
+          "s": 10,
+          "t": "Ah, what a lovely idea. I'm already imagining it in my head."
+        },
+        {
+          "s": 7,
+          "t": "Gotta admit, I'm tempted as well..."
+        },
+        {
+          "s": 9,
+          "t": "Guys, focus! Focus!"
+        },
+        {
+          "s": 10,
+          "t": "That taskmaster over here is Miss Lourvine and is also one of my technical consultants. While Jurieu used to be Edwin's assistant, she used to be Jurieu's assistant."
+        },
+        {
+          "s": 0,
+          "t": "Oh, are they together?"
+        },
+        {
+          "sit": "Was that really necessary?"
+        },
+        {
+          "s": 10,
+          "t": "See, everyone keeps asking this question. Are you two sure you're not a couple, and just using your work as a convenient cover?"
+        },
+        {
+          "s": 9,
+          "t": "I... Your Grace, I am NOT in a relationship with this man!"
+        },
+        {
+          "s": 7,
+          "t": "If I dated her, I'd officially be madder than Edwin!"
+        },
+        {
+          "s": 10,
+          "t": "Jeez, forget I said anything, then."
+        },
+        {
+          "s": 10,
+          "t": "Follow me."
+        },
+        {
+          "s": 0,
+          "t": "Whoa, there's another door that goes right up!"
+        },
+        {
+          "s": 10,
+          "t": "Your constant amazement makes it seem like the Fortress can do anything."
+        },
+        {
+          "s": 0,
+          "t": "But Paimon really thinks everything's super cool!"
+        },
+        {
+          "sit": "Is this just a normal room?"
+        },
+        {
+          "s": 10,
+          "t": "Let's spice it up a bit."
+        },
+        {
+          "s": 10,
+          "t": "And here you go."
+        },
+        {
+          "sit": "This is...!?"
+        },
+        {
+          "s": 0,
+          "t": "What a huge... ship?"
+        },
+        {
+          "s": 0,
+          "t": "This is also a production zone that Paimon's never seen before... What's going on?"
+        },
+        {
+          "s": 10,
+          "t": "How much do you know about Fontainian history?"
+        },
+        {
+          "s": 0,
+          "t": "Er... Not much at all..."
+        },
+        {
+          "s": 10,
+          "t": "Then maybe you haven't heard of the story of ancient Remuria. To give you a quick rundown, Fontaine used to be ruled by the Remurian Dynasty."
+        },
+        {
+          "s": 10,
+          "t": "According to legend, the Remurian King, Remus, came to this land after being inspired by divine revelation, and found the seer Sybilla, who had taken on the form of a Golden Bee. Taking the Golden Bee with him and riding on a huge ship, the Fortuna, he created his nation above the surging waves."
+        },
+        {
+          "s": 10,
+          "t": "He called his nation \"Remuria,\" and used the Fortuna to incessantly search for new tribes and islands, calling on them to join his empire."
+        },
+        {
+          "s": 0,
+          "t": "There's a ship in this story, too...?"
+        },
+        {
+          "s": 10,
+          "t": "Where there's water, there will be ships. People believe that hope can always be found at the end of a voyage."
+        },
+        {
+          "s": 0,
+          "t": "Do you believe that, too?"
+        },
+        {
+          "s": 10,
+          "t": "To a point, I think. As you've already seen, I have a whole factory's worth of labor, materials, and technology at my disposal. Certainly can't hurt to give it a try."
+        },
+        {
+          "s": 10,
+          "t": "So, the moment I began to speculate that the Primordial Sea might lie underneath the gate, I also began this project."
+        },
+        {
+          "s": 0,
+          "t": "Were you inspired by the legendary Fortuna?"
+        },
+        {
+          "s": 10,
+          "t": "Maybe. Fontainians need something to hold on to to cope with the impending disaster."
+        },
+        {
+          "sit": "This is a plan for the ages..."
+        },
+        {
+          "sit": "Can't you share your plan with everyone?"
+        },
+        {
+          "s": 10,
+          "t": "Were the workers to find out the truth behind this ship, riots would destroy the Fortress faster than any catastrophe."
+        },
+        {
+          "s": 10,
+          "t": "As the Fortress' administrator, I would never make such a reckless call."
+        },
+        {
+          "s": 10,
+          "t": "Alright, that's enough talking for now. I'll need another three cups of tea to soothe my throat. Do you have any other questions?"
+        },
+        {
+          "s": 10,
+          "t": "Seems like you're good. Come on, I'll take you back."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 10,
+          "t": "I'll leave you here for now."
+        },
+        {
+          "s": 0,
+          "t": "Oh! Uh... Thank you so much."
+        },
+        {
+          "s": 10,
+          "t": "No worries. But don't forget, it's up to you whether or not you want to share what you just saw. What you do from here on out will likely affect those three as well."
+        },
+        {
+          "sit": "(He means that my actions now will decide the next steps Lyney's group takes.)"
+        },
+        {
+          "sit": "(...In other words, if I want to tell Lyney the truth, I must make him understand that we cannot afford excessive conflict right now.)"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, we'll put a lot of thought into it for sure!"
+        },
+        {
+          "sit": "Yeah, we will."
+        },
+        {
+          "s": 10,
+          "t": "Great. I look forward to what happens next."
+        }
+      ],
+      "description": "The Duke, Wriothesley, holds all the Fortress’s secrets. You plan to ask him directly and get some grasp of the current situation."
+    },
+    {
+      "title": "Calamitous Tread",
+      "dialogue": [
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 0,
+          "t": "We're back!"
+        },
+        {
+          "s": 12,
+          "t": "Welcome back. Do you want a cup of tea?"
+        },
+        {
+          "s": 0,
+          "t": "How can you be so much like Wriothesley, always drinking tea..."
+        },
+        {
+          "s": 12,
+          "t": "Huh, actually, now that you mention it, I just remembered something now."
+        },
+        {
+          "s": 12,
+          "t": "While I was sedated, I could still barely hear two people talking next to me. They were discussing everything from the leaves to the water and even the teacups themselves..."
+        },
+        {
+          "s": 6,
+          "t": "...Must have been Wriothesley and Sigewinne."
+        },
+        {
+          "s": 12,
+          "t": "Yeah, I heard one male voice and one female, so it should have been the two of them. They... really were just talking about brewing tea."
+        },
+        {
+          "s": 13,
+          "t": "I really can't make sense of this place..."
+        },
+        {
+          "s": 6,
+          "t": "So, {NICKNAME}, Paimon... Were you able to learn anything from Wriothesley?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, he explained everything."
+        },
+        {
+          "s": 6,
+          "t": "Very well... then would you mind checking your answers against my speculations?"
+        },
+        {
+          "sit": "Lyney sounds a lot more like his old self."
+        },
+        {
+          "sit": "Feeling better now, Lyney?"
+        },
+        {
+          "s": 6,
+          "t": "Yeah, I took the time to rest, so I'm feeling a lot more relaxed now."
+        },
+        {
+          "s": 12,
+          "t": "...Nobody else is around, and Miss Sigewinne is also busy with something or other, so let's just talk here."
+        },
+        {
+          "s": 6,
+          "t": "Alright. Then, I'll posit my theories. I asked myself three questions."
+        },
+        {
+          "s": 6,
+          "t": "Firstly, why was Freminet affected by the Primordial Seawater? It was because he dove into the sea. My theory is... the long lost Primordial Sea is probably very close to the Fortress of Meropide."
+        },
+        {
+          "s": 0,
+          "t": "Whoa, he's good! He got that right on the first try!"
+        },
+        {
+          "s": 13,
+          "t": "That's our Lyney."
+        },
+        {
+          "s": 6,
+          "t": "Secondly, Wriothesley's attitude changed dramatically during the course of our stay here. He ignored us completely at first, then suddenly roadblocked us. Why?"
+        },
+        {
+          "s": 6,
+          "t": "I spent quite a long time thinking about this. If he has been monitoring the Fatui since the very beginning, he probably ignored us at first because he was hoping we could find Master Childe for him."
+        },
+        {
+          "s": 6,
+          "t": "What's more, the Fortress of Meropide is not a part of Fontaine's court system, nor does it report to Iudex Neuvillette. Wriothesley is basically the king of a no man's land."
+        },
+        {
+          "s": 6,
+          "t": "As long as the Fortress doesn't do anything about Master Childe's disappearance, \"Father\" can use it to pressure the Fontaine authorities. And while the two factions are pitted against each other, Wriothesley will be free to move between the parties of interest."
+        },
+        {
+          "s": 6,
+          "t": "If I had to guess, he probably has something that he's working on himself. It's likely related to the secret of the infirmary, but I just can't think of what it could be..."
+        },
+        {
+          "sit": "Lyney's grasp of the big picture is amazing."
+        },
+        {
+          "s": 0,
+          "t": "You're super smart!"
+        },
+        {
+          "s": 6,
+          "t": "Haha, thanks so much. Then finally, there's the last question."
+        },
+        {
+          "s": 6,
+          "t": "If Wriothesley does have a plan, what could it be? All I know for now is that his plan probably has something to do with the changing nature of the seawater. He's even gotten Clorinde to help him out..."
+        },
+        {
+          "s": 6,
+          "t": "...That can't be the full extent of what he's doing. There's probably a secret passageway behind the block in the infirmary, and there's something big in the Fortress that most people here never get to see. He has a bargaining chip, and it could be important enough for \"Father\" to deal with him directly."
+        },
+        {
+          "s": 6,
+          "t": "I don't have enough information, so I have no idea what his chip might be. But let me guess... you have the last piece of the puzzle."
+        },
+        {
+          "sit": "After some deliberation, you share the information you just learned with Lyney and company."
+        },
+        {
+          "sit": "While sharing what you saw, you emphasize that now is not the time for disputes, and it's very important that they take the matter seriously and considerately."
+        },
+        {
+          "s": 13,
+          "t": "I can't believe it..."
+        },
+        {
+          "s": 12,
+          "t": "The sea... will engulf everyone. Just like the prophecy said..."
+        },
+        {
+          "s": 6,
+          "t": "Could Wriothesley have wanted to meet \"Father\" to figure out a way to deal with this crisis?"
+        },
+        {
+          "s": 6,
+          "t": "If you remember, I once mentioned that \"Father\" sees the House of the Hearth as her base of operations, and she truly wants to resolve the crisis. But how could Wriothesley have known that?"
+        },
+        {
+          "s": 12,
+          "t": "Or perhaps, he didn't know, and just wanted to bring \"Father\" over to his side? Which could be why he said he just wanted to \"negotiate.\""
+        },
+        {
+          "s": 6,
+          "t": "...Yeah, that makes sense to me. I understand your concerns as well, {NICKNAME}. I'll figure out a way to pass this on to our \"Father.\" No matter what, we're on your side."
+        },
+        {
+          "s": 6,
+          "t": "The two of you have already aided us far too much. We probably would not be standing here right now if not for you."
+        },
+        {
+          "s": 6,
+          "t": "If you ever need anything else going forward, please come to the House of the Hearth at any time."
+        },
+        {
+          "s": 6,
+          "t": "Though you may not share the sentiment, after all that we've gone through together, the three of us basically see you as family now."
+        },
+        {
+          "s": 13,
+          "t": "...You have my gratitude."
+        },
+        {
+          "s": 12,
+          "t": "Thank you for protecting Lyney when it really mattered, and thank you for sharing the secrets of the Fortress with us. We didn't think you were going to do it."
+        },
+        {
+          "s": 0,
+          "t": "Why are you being so formal all of a sudden?"
+        },
+        {
+          "sit": "Don't mention it."
+        },
+        {
+          "sit": "We can work together again if necessary."
+        },
+        {
+          "s": 0,
+          "t": "*growl*..."
+        },
+        {
+          "sit": "What was that?"
+        },
+        {
+          "s": 0,
+          "t": "Ah... Paimon... Paimon's hungry..."
+        },
+        {
+          "s": 13,
+          "t": "You've done so much already, go get some food!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, then we'll catch you guys another time!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 14,
+          "t": "It's time for dinner. Welfare Meals now being served in the Coupon Cafeteria!"
+        },
+        {
+          "s": 0,
+          "t": "Come on, let's go pick up ours as well!"
+        },
+        {
+          "s": 8,
+          "t": "Ah, {NICKNAME} and Paimon! Over here!"
+        },
+        {
+          "s": 0,
+          "t": "Are you here for dinner too, Miss Sigewinne?"
+        },
+        {
+          "s": 8,
+          "t": "Mhm, and I'm taking the opportunity to prepare Miss Clorinde's dinner as well."
+        },
+        {
+          "s": 0,
+          "t": "Huh, you're right... She's actually sitting in the fortress cafeteria..."
+        },
+        {
+          "s": 8,
+          "t": "What would you like to eat?"
+        },
+        {
+          "sit": "Huh? We can choose?"
+        },
+        {
+          "s": 8,
+          "t": "Yep, you can! I've already talked to our chef, Mr. Wolsey. It's all on me today, so you can get whatever you'd like."
+        },
+        {
+          "sit": "Then I'll have the tastiest stuff you have to offer!"
+        },
+        {
+          "sit": "Then I'll get the biggest portion you have to offer!"
+        },
+        {
+          "s": 0,
+          "t": "Me too, don't forget Paimon!"
+        },
+        {
+          "s": 8,
+          "t": "No problem! Just leave it to me."
+        },
+        {
+          "sit": "After a while, the meals Sigewinne ordered for you arrive. Unlike days prior when you had to rely solely on luck, the dishes before you today are bursting with flavor."
+        },
+        {
+          "sit": "Sigewinne also brings some drinks over to you. They taste a little strange, but she insists that they are very nutritious... She also insists that Wriothesley is also a fan of them, but neither you nor Paimon buy her claims."
+        },
+        {
+          "sit": "...Okay, the shakes genuinely taste pretty terrible. At the very least, however, they help you to calm down and relax."
+        },
+        {
+          "s": 0,
+          "t": "Ahhhh!! Sooo delicious!!"
+        },
+        {
+          "sit": "Amazing!"
+        },
+        {
+          "sit": "Free dinners are the absolute best!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon's so happy, Paimon wants to feast like this every day, hehe."
+        },
+        {
+          "s": 8,
+          "t": "Feeling full yet? How's the food?"
+        },
+        {
+          "s": 0,
+          "t": "Delicious!"
+        },
+        {
+          "sit": "Exquisite, thank you!"
+        },
+        {
+          "sit": "Besides the milk— Uh, I mean, everything was super delicious!"
+        },
+        {
+          "s": 8,
+          "t": "Aw, I'm so glad to see you all so happy! See, the expression on your face just now... The muscle here just moved, which suggests that you're feeling quite relaxed at the moment."
+        },
+        {
+          "s": 0,
+          "t": "Sigewinne, do you do this to help your patients, or to better understand human beings?"
+        },
+        {
+          "s": 8,
+          "t": "A bit of both, I suppose. I'm a Melusine, which means I'm very different from human beings. I must know what you're thinking if I want to take good care of you."
+        },
+        {
+          "s": 0,
+          "t": "You're really good at taking care of people... Even though you're so short, you still talk and act like an older sister."
+        },
+        {
+          "s": 8,
+          "t": "Really? You're reminded of an older sister? Hehe, that's great to hear."
+        },
+        {
+          "s": 0,
+          "t": "Oh, and what did you mean back in Wriothesley's office, when you said that you were protecting Lyney and his siblings as well?"
+        },
+        {
+          "s": 8,
+          "t": "Oh, that? I just asked His Grace to look out for those children, especially that diver boy. I was getting a bit worried after hearing that something was wrong with the water..."
+        },
+        {
+          "s": 8,
+          "t": "Thankfully, Clorinde is very strong, and managed to save him in the nick of time. His Grace also sealed the pipes after Clorinde left to make sure that Lyney wouldn't impulsively chase after his brother."
+        },
+        {
+          "s": 8,
+          "t": "Although the path was blocked, we still stationed some guards there to stop anyone from approaching. They were instructed to only open the door once Miss Clorinde had returned."
+        },
+        {
+          "s": 8,
+          "t": "Oh, and I was keeping an eye on Mr. Lyney as well. We had to press him, but we couldn't allow him to be in any real danger."
+        },
+        {
+          "s": 0,
+          "t": "You are all super considerate and really thought everything through..."
+        },
+        {
+          "s": 8,
+          "t": "Hehe, it's just what we do down here at the Fortress. At least, this has been His Grace's style for as long as he's been the leader."
+        },
+        {
+          "s": 8,
+          "t": "*sigh* I really wish Monsieur Neuvillette would come down here more often too. I feel like he'd like it here... With all the darkness and chaos..."
+        },
+        {
+          "sit": "(But that doesn't make sense at all... It's hard to imagine Neuvillette outside of his office...)"
+        },
+        {
+          "s": 8,
+          "t": "Get a good night's rest, you two! You've both worked very hard."
+        },
+        {
+          "section": "Freminet, Lynette, Lyney"
+        },
+        {
+          "s": 13,
+          "t": "I feel like... I should try to become someone more capable of helping."
+        },
+        {
+          "s": 12,
+          "t": "You're incredibly helpful. Lyney thinks so too."
+        },
+        {
+          "s": 6,
+          "t": "Yeah. You two are always telling me not to push myself, but aren't you just like that as well?"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "Clorinde!"
+        },
+        {
+          "s": 11,
+          "t": "Ah, it's you two."
+        },
+        {
+          "s": 0,
+          "t": "How's dinner?"
+        },
+        {
+          "s": 11,
+          "t": "It's alright. Miss Sigewinne really put in a lot of effort."
+        },
+        {
+          "s": 0,
+          "t": "So we heard that Wriothesley invited you to come down to help and you saved Freminet, too. You sure work super fast."
+        },
+        {
+          "s": 11,
+          "t": "It was child's play."
+        },
+        {
+          "s": 0,
+          "t": "Still, Paimon didn't know even Champion Duelists could take on side jobs..."
+        },
+        {
+          "s": 0,
+          "t": "Oh and, why aren't you eating with Sigewinne and the Duke? Won't you get bored eating by yourself?"
+        },
+        {
+          "s": 11,
+          "t": "Miss Sigewinne was with you, and the Duke has business of his own."
+        },
+        {
+          "s": 0,
+          "t": "Hm... Actually, didn't Navia say that you went out for dinner with her as well?"
+        },
+        {
+          "s": 11,
+          "t": "Yeah. First time in a long time."
+        },
+        {
+          "s": 0,
+          "t": "\"First time in a long time\"? So you mean, you've gone out to dinner with her in the past?"
+        },
+        {
+          "s": 11,
+          "t": "In the past, yes."
+        },
+        {
+          "s": 11,
+          "t": "You seem to be enjoying yourselves here."
+        },
+        {
+          "sit": "It's all thanks to Neuvillette..."
+        },
+        {
+          "sit": "This is technically a work trip for us too..."
+        },
+        {
+          "s": 11,
+          "t": "Things will be getting messy at the Fortress soon. Don't run around unnecessarily."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Ugh... So much has happened, Paimon just feels absolutely exhausted now that she's finally relaxed..."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's super sleepy... Are you sleepy, too...?"
+        },
+        {
+          "sit": "Yeah, I'm also getting there."
+        },
+        {
+          "s": 0,
+          "t": "Zzz... Zzz..."
+        },
+        {
+          "sit": "(Wow, she really immediately fell asleep.)"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Delicious... Paimon wants seconds... For free!"
+        },
+        {
+          "sit": "(Goodnight.)"
+        },
+        {
+          "sit": "n/a"
+        },
+        {
+          "s": 15,
+          "t": "Out of my way! Get out of my way!"
+        },
+        {
+          "s": 15,
+          "t": "What happened? Why is everyone running?"
+        },
+        {
+          "s": 15,
+          "t": "No idea, but something must've happened, stop asking..."
+        },
+        {
+          "s": 0,
+          "t": "Huh...? Who's yelling... Paimon still wants to sleep..."
+        },
+        {
+          "sit": "(...!? What's that sound?)"
+        },
+        {
+          "sit": "Paimon, wake up! We need to go out and see what's going on!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "What happened, why is everyone running around... Hey! What are you doing?"
+        },
+        {
+          "s": 16,
+          "t": "No time to explain, mate! Goodbye!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Hey, wait!"
+        },
+        {
+          "s": 0,
+          "t": "What's wrong with these people!? They won't even talk to us!"
+        },
+        {
+          "s": 3,
+          "t": "They're here! Ah, there you are!"
+        },
+        {
+          "s": 4,
+          "t": "Thank goodness."
+        },
+        {
+          "s": 0,
+          "t": "Cuistot and Laverune? Do you know what happened here?"
+        },
+        {
+          "s": 3,
+          "t": "We came here especially to inform you! Something seems to have gone terribly wrong just now, His Grace is telling everyone to evacuate and get out of here."
+        },
+        {
+          "s": 3,
+          "t": "Laverune was saying, you two are new here, and don't have many friends, so you might slip through the cracks. Haven't you heard of stories like that? An evacuation is successfully completed, yet you only find out once you do a headcount that one or two people are missing..."
+        },
+        {
+          "s": 4,
+          "t": "Wait, weren't you the one who brought that up? Why is it suddenly my idea?"
+        },
+        {
+          "s": 3,
+          "t": "Hey, shut up!"
+        },
+        {
+          "s": 4,
+          "t": "Okay, whatever. The point is, you should come with us."
+        },
+        {
+          "sit": "You said His Grace said to... evacuate \"outwards\"?"
+        },
+        {
+          "s": 4,
+          "t": "Yeah, he said to get as far away as possible, upwards and outwards."
+        },
+        {
+          "sit": "(Then that means whatever happened must have happened down below... Oh no, isn't that gate at the very bottom!?)"
+        },
+        {
+          "s": 0,
+          "t": "Oh no, it can't be that thing!"
+        },
+        {
+          "s": 3,
+          "t": "What? Hey! Where are you going!?"
+        },
+        {
+          "s": 0,
+          "t": "We have to go find the Duke! You two, just go and get out! Go on without us!"
+        },
+        {
+          "s": 4,
+          "t": "Hey! Heyyy! ...Be careful!"
+        },
+        {
+          "section": "Guard, Guard"
+        },
+        {
+          "s": 17,
+          "t": "Halt! Where are you going?"
+        },
+        {
+          "s": 17,
+          "t": "His Grace has already given the order to evacuate. Please leave the area in an orderly fashion, and watch your step!"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Guard"
+        },
+        {
+          "s": 17,
+          "t": "His Grace has asked everyone to evacuate outwards as quickly as possible. You should get a move on."
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(No, I have to go to the forbidden zone right away to check on the situation there.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Neuvillette! Why are you here?"
+        },
+        {
+          "s": 18,
+          "t": "{NICKNAME}, I need you to head to the opera house immediately."
+        },
+        {
+          "s": 18,
+          "t": "Furina will soon be meeting with The Knave there. You must protect Furina and make sure she doesn't spend too much time alone with her."
+        },
+        {
+          "sit": "Okay, you can explain everything else to me later!"
+        },
+        {
+          "s": 18,
+          "t": "Will do. You have my sincerest gratitude."
+        },
+        {
+          "section": "Receptionist"
+        },
+        {
+          "s": 0,
+          "t": "Look, there are a ton of Fatui and Palais Mermonia people over there! The Knave is probably here already... We need to hurry!"
+        },
+        {
+          "s": 19,
+          "t": "Are you two {NICKNAME} and Paimon? Monsieur Neuvillette has left instructions. Please follow me."
+        },
+        {
+          "s": 19,
+          "t": "Though I'm sure he's already explained, this should be a mostly cordial conversation unlikely to give rise to violence, but it would be most appreciated if you could protect Lady Furina to the best of your abilities."
+        },
+        {
+          "sit": "I will do my best."
+        },
+        {
+          "section": "The Knave, Furina"
+        },
+        {
+          "s": 20,
+          "t": "Oh, so you two are the honored guests Miss Furina mentioned."
+        },
+        {
+          "s": 21,
+          "t": "Of course, of course! How could they not attend a meeting such as this? I must always have two or more guests at my dessert table, otherwise the occasion would be too lonely and unbecoming of my station."
+        },
+        {
+          "s": 20,
+          "t": "It is my pleasure to make your acquaintance, {NICKNAME}, I have heard much of your accomplishments. I am The Knave, one of the eleven Fatui Harbingers."
+        },
+        {
+          "sit": "(So this is The Knave... the head of the House of the Hearth, and the Lyney siblings' \"Father.\" She certainly does not seem easy to deal with.)"
+        },
+        {
+          "sit": "Greetings."
+        },
+        {
+          "sit": "Pleasure to meet you, too."
+        },
+        {
+          "s": 21,
+          "t": "I've already prepared seats for you. Come, sit beside me."
+        },
+        {
+          "s": 20,
+          "t": "Perhaps you two are unaware of how Miss Furina and I do things. You see, we actually recently agreed to get together for tea when we had the time."
+        },
+        {
+          "s": 20,
+          "t": "See this? This is a limited type of confectionery that Miss Furina simply adores. There are only sixteen slices sold every day. Here, why don't you and Paimon have a taste?"
+        },
+        {
+          "sit": "(She seems friendly enough, but that can't be all there is to her... The Knave is a force to be reckoned with. I should be very cautious around her.)"
+        },
+        {
+          "s": 21,
+          "t": "{NICKNAME}, what do you think of this cake?"
+        },
+        {
+          "sit": "It's pretty good."
+        },
+        {
+          "sit": "It's quite tasty, and I think Paimon agrees too."
+        },
+        {
+          "s": 20,
+          "t": "That's good to hear. So what Childe said was on the mark after all... you do share a taste in desserts with Furina and I."
+        },
+        {
+          "sit": "(Wait, Childe should have no reason to have said something like that.)"
+        },
+        {
+          "s": 20,
+          "t": "I wonder how he's doing nowadays. You must have heard, right? He's suddenly gone missing. I'm really worried about his safety, you know. Here's to hoping that he's an excellent swimmer."
+        },
+        {
+          "sit": "I have faith in his abilities."
+        },
+        {
+          "s": 21,
+          "t": "Uh... Since we're talking about him, I feel like I should add something. His martial prowess really looked... certainly pretty impressive, yeah!"
+        },
+        {
+          "sit": "(Furina looks quite nervous... There must be some kind of bad blood between her and The Knave.)"
+        },
+        {
+          "s": 20,
+          "t": "Oh, so you're also familiar with his aptitude for fighting, Miss Furina? Ah, right, I almost forgot. Childe was subdued by Iudex Neuvillette right in front of you."
+        },
+        {
+          "s": 20,
+          "t": "Against ordinary people, my colleague would never be on the back foot, but alas, he just never imagined he'd run into such a person... Hmm... I must express my admiration for Monsieur Neuvillette."
+        },
+        {
+          "sit": "I managed to find a few leads on his whereabouts."
+        },
+        {
+          "s": 20,
+          "t": "Hmm. Coming from you, that's not surprising at all."
+        },
+        {
+          "s": 21,
+          "t": "Eh? But... I thought you would be happier to hear the news...?"
+        },
+        {
+          "s": 20,
+          "t": "Of course, but it's still a bit of a shame. You see, I would have been far happier had I received this news somewhat earlier. As you well know, a long time has passed since Childe disappeared."
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Uh... Well, in any case, there's no need to worry! We know for sure that Childe is still alive!"
+        },
+        {
+          "s": 20,
+          "t": "Oh? And just how do you know that?"
+        },
+        {
+          "s": 0,
+          "t": "Because... Because we found evidence that proved he left the Fortress of Meropide!"
+        },
+        {
+          "s": 20,
+          "t": "And where did he go after leaving the Fortress?"
+        },
+        {
+          "s": 0,
+          "t": "Well..."
+        },
+        {
+          "sit": "(Oh no... Paimon's statement just left us wide open...)"
+        },
+        {
+          "s": 20,
+          "t": "The Fortress of Meropide lies deep beneath the waves. Unless he pranced right out of the main gate, he must have had to swim for it. Do you have any proof that he surfaced safely?"
+        },
+        {
+          "sit": "...We do not."
+        },
+        {
+          "sit": "But there was also no evidence that he's been injured or killed."
+        },
+        {
+          "s": 20,
+          "t": "Ah, that is good news at least. His sister Tonia sent a letter to Fontaine not too long ago. Since he was unfortunately unavailable, I picked it up on his behalf."
+        },
+        {
+          "s": 20,
+          "t": "Do you have any idea how he usually writes back to his family? \"Dear Tonia, your letter made me feel like we were still enjoying our time in Snezhnaya together. I'm currently admiring the scenery on the streets in front of the opera house...\" Is it something like that?"
+        },
+        {
+          "sit": "(She's turning up the pressure, I'm not sure if I'll be able to convince her... But I can at least try to distract her from Furina.)"
+        },
+        {
+          "sit": "That sounds good to me, yes."
+        },
+        {
+          "s": 21,
+          "t": "All letters tend to follow the same few formats anyway, right? As long as the contents are accurate, it doesn't matter so much how it's written, or how it's worded..."
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Hold on! The water in the teacup is shaking...?"
+        },
+        {
+          "s": 20,
+          "t": "..."
+        },
+        {
+          "s": 20,
+          "t": "I suppose this is also a sign of things to come, Miss Furina."
+        },
+        {
+          "s": 21,
+          "t": "Huh? Ah, I don't quite understand what you're trying to say..."
+        },
+        {
+          "s": 20,
+          "t": "—Have we entered into the next stage of the prophecy?"
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 11,
+          "t": "Alright. Seems like the problem inside has been suppressed."
+        },
+        {
+          "s": 10,
+          "t": "Let me guess, we're safe for now?"
+        },
+        {
+          "s": 18,
+          "t": "Indeed, but only for now."
+        },
+        {
+          "s": 10,
+          "t": "I win this bet. You owe me a present."
+        },
+        {
+          "s": 11,
+          "t": "Very well, it was indeed just as you said."
+        },
+        {
+          "s": 18,
+          "t": "You made a bet?"
+        },
+        {
+          "s": 10,
+          "t": "We made a bet on the size of your entourage. Clorinde thought you wouldn't come down by yourself."
+        },
+        {
+          "s": 11,
+          "t": "I figured you would have at least brought a few people along for appearances' sake. It appears I underestimated just how confidential the mission was."
+        },
+        {
+          "s": 10,
+          "t": "Shouldn't you have gotten used to confidential missions by now? That's just how the courts operate."
+        },
+        {
+          "s": 18,
+          "t": "So... what gift must the loser give? Tea?"
+        },
+        {
+          "s": 11,
+          "t": "He already has tons of tea in his office. I'm thinking about a set of legal codices."
+        },
+        {
+          "s": 10,
+          "t": "That wouldn't happen to be a dig at my lack of legal awareness, would it..."
+        },
+        {
+          "s": 11,
+          "t": "Well, I'm sure His Grace doesn't consider the Fortress to be outside the law."
+        },
+        {
+          "s": 18,
+          "t": "I was under the impression the residents of a place like this would be uninterested in the legal codices..."
+        },
+        {
+          "s": 10,
+          "t": "Uh, that was obviously a joke."
+        },
+        {
+          "s": 10,
+          "t": "Anyway, you've still got some unfinished business to attend to in the overworld, correct?"
+        },
+        {
+          "s": 11,
+          "t": "No need to stay here if you have a pressing matter. We all know you can't leave Palais Mermonia for long."
+        },
+        {
+          "s": 18,
+          "t": "...Thank you."
+        },
+        {
+          "s": 18,
+          "t": "(I hope everything went smoothly with the Fatui Harbinger.)"
+        },
+        {
+          "section": "The Knave, Furina"
+        },
+        {
+          "s": 20,
+          "t": "*sigh* I must say, we've spent long enough playing house."
+        },
+        {
+          "s": 20,
+          "t": "Miss Furina. As the Hydro Archon, I am sure you understand the exact meaning of the phenomenon we just witnessed. Or should I say, that's what I originally thought, but looking at your expression... was I wrong, and you haven't a clue?"
+        },
+        {
+          "s": 21,
+          "t": "...What are you trying to say?"
+        },
+        {
+          "s": 20,
+          "t": "At this point, I don't think there's any more need to speak as diplomatic representatives. Allow me to speak to you now as just a Fontainian: You know the prophecy by heart, and also that every part of it is being proven true."
+        },
+        {
+          "s": 20,
+          "t": "Yet here you are relaxing, drinking tea and eating desserts as if it's all nothing more than a few stray bugs in your garden. Do you really think that's acceptable?"
+        },
+        {
+          "s": 20,
+          "t": "The prophecy's hanging above our necks like a guillotine. Every faction is looking for a way to either avert the disaster or save their own. Even the orphans of the House of the Hearth have devoted everything to saving their homeland."
+        },
+        {
+          "s": 20,
+          "t": "But you? It beggars belief just how nonchalant and carefree you have been. From the very beginning, you, the god Focalors... You have utterly failed to take action."
+        },
+        {
+          "s": 21,
+          "t": "You're wrong... I've never ignored the prophecy, nor have I just been passing the time in self-indulgence. Retract your accusation, and stop doubting the wisdom of the gods with such absurd conjectures!"
+        },
+        {
+          "s": 20,
+          "t": "I am not alone in my doubts, you know. All the children of Fontaine may be harboring the exact same thoughts right now."
+        },
+        {
+          "s": 20,
+          "t": "O great Hydro Archon, how are you going to save them? Save us? How are the people you've sworn to protect supposed to survive in a land that will soon disappear beneath the waves?"
+        },
+        {
+          "s": 21,
+          "t": "I have my ways, and I've been working on them for all this time... Even if you look down upon me, you have no right to judge me!"
+        },
+        {
+          "s": 21,
+          "t": "Fontaine will be saved. Even... Even if I still cannot see the true future right now, as long as I continue on as I am, I will be able to hold my head up high!"
+        },
+        {
+          "sit": "(Furina's not acting like her usual self. She's actually seriously refuting The Knave's accusations... She means what she says. She's not putting on a front.)"
+        },
+        {
+          "s": 20,
+          "t": "Then I ask you, Miss Furina, just what have you been working on? Where can we see it, and what is it doing to help?"
+        },
+        {
+          "s": 21,
+          "t": "...I..."
+        },
+        {
+          "sit": "(...So was that all a lie? Or can she really not tell us? She was so full of conviction and confidence just now, but now she's deflated like a popped balloon.)"
+        },
+        {
+          "s": 21,
+          "t": "...My machinations are just like the prophecy itself — they will only reveal themselves at the fated time. It is just that beings like yourselves are unable to perceive them as of yet."
+        },
+        {
+          "s": 20,
+          "t": "I see. As a god, the proof of your labor always lies beyond prying mortal eyes."
+        },
+        {
+          "s": 20,
+          "t": "Allow me to be so bold as to ask another way. Would it be possible for you to tell us the parts of your plan that are not confidential? Such as... your emergency response plan for the impending disaster."
+        },
+        {
+          "s": 21,
+          "t": "Uh... An emergency response plan...?"
+        },
+        {
+          "s": 20,
+          "t": "Ah, that look in your eyes... Have you not even prepared one of those?"
+        },
+        {
+          "s": 21,
+          "t": "The... The emergency response plan is also strictly confidential."
+        },
+        {
+          "s": 20,
+          "t": "Then allow me to jog your memory. Miss Furina, what is the purpose of your Oratrice Mecanique d'Analyse Cardinale?"
+        },
+        {
+          "s": 20,
+          "t": "And what do you plan to do with the massive amounts of Indemnitium that it has accumulated over the years?"
+        },
+        {
+          "s": 21,
+          "t": "Th—The Oratrice? It... It's just like it appears to be..."
+        },
+        {
+          "s": 20,
+          "t": "Hmph, so you also have no idea? If I'm not mistaken, someone's using it to prepare for something. But unfortunately, it would seem that someone is not you, Miss Furina."
+        },
+        {
+          "s": 20,
+          "t": "I first caught wind of this when Lyney tried to investigate the Oratrice in the opera house. You see, even just getting close to the core contaminated him with an extremely large amount of Indemnitium."
+        },
+        {
+          "s": 20,
+          "t": "But if even that had nothing to do with you... Then what could you possibly be working on, O great Hydro Archon?"
+        },
+        {
+          "s": 20,
+          "t": "Oh, right, I almost forgot. Iudex Neuvillette is not at the tea party with us today. Miss Furina, I suppose you must have ordered him away to take care of some troublesome business."
+        },
+        {
+          "s": 21,
+          "t": "Ah, yeah, yes, that's exactly right! Please keep it a secret for me."
+        },
+        {
+          "s": 20,
+          "t": "Of course I will. Although I must say, Miss Furina, you seem quite insecure without the Iudex by your side."
+        },
+        {
+          "s": 20,
+          "t": "Very well, let's stop that conversation here. There are still a few slices of cake left, so please help yourselves, everyone."
+        },
+        {
+          "sit": "(These aren't topics I can speak about... I don't even know what Neuvillette's task was.)"
+        },
+        {
+          "sit": "(If I had to guess, he probably went down to deal with the surging Primordial Sea... But can he really deal with it all by himself?)"
+        },
+        {
+          "sit": "(And is Furina being truthful or not?)"
+        },
+        {
+          "s": 20,
+          "t": "{NICKNAME}, I heard that you were recently commissioned to handle a few matters on behalf of the Iudex. Why don't you take an extra slice of cake? Those who work hard deserve gratitude and praise."
+        },
+        {
+          "s": 20,
+          "t": "You too, Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Er... Thank you, Paimon will take you up on that offer..."
+        },
+        {
+          "sit": "The Knave proceeds to change the topic and brings up a number of less significant matters. While the atmosphere gradually becomes more relaxed, the somber feeling from the prior conversation remains in everyone's hearts."
+        },
+        {
+          "s": 0,
+          "t": "Ah! Paimon's super full. That cake was great!"
+        },
+        {
+          "s": 21,
+          "t": "Mhm-mmm, if it's on my tea table, it must be of the highest quality. Ah, yes, and we must thank The Knave for bringing these over as well."
+        },
+        {
+          "s": 20,
+          "t": "You're welcome. I'm sure the cake also felt greatly honored to be featured at Miss Furina's table. And I was merely catering to Miss Furina's tastes, seeking a chance to chat over tea."
+        },
+        {
+          "s": 20,
+          "t": "It is getting late. Why don't we call it a day? There are still a few matters that I need to take care of, so I must take my leave now."
+        },
+        {
+          "s": 21,
+          "t": "Very well, we'll end it here."
+        },
+        {
+          "s": 20,
+          "t": "Mind seeing me off, {NICKNAME}? We could use the opportunity to discuss Childe before I must be on my way."
+        },
+        {
+          "sit": "...Of course."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's coming, too!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 20,
+          "t": "I'm glad that you were willing to come with me. Of course, Childe was just an excuse. I have no interest in your dealings with him."
+        },
+        {
+          "s": 0,
+          "t": "That's what Paimon thought!"
+        },
+        {
+          "sit": "What do you want to say?"
+        },
+        {
+          "s": 20,
+          "t": "You lent your aid to the children of the House of the Hearth. As their \"Father,\" I would like to express my gratitude."
+        },
+        {
+          "sit": "...There's no need."
+        },
+        {
+          "sit": "...I didn't think that's what you wanted to talk about."
+        },
+        {
+          "sit": "Was there nothing else you wanted to say?"
+        },
+        {
+          "s": 20,
+          "t": "That was all. Formal topics should be discussed in formal settings, and informal topics in informal settings."
+        },
+        {
+          "s": 20,
+          "t": "I know you just returned from the Fortress of Meropide. Relax, I have no intention of trying to get anything out of you. Lyney, Lynette and Freminet are still there, and I trust their judgment and abilities."
+        },
+        {
+          "s": 0,
+          "t": "They've all been working very hard, and have always done all they can to fight back against anyone who tried to stop them! Especially Lyney..."
+        },
+        {
+          "s": 20,
+          "t": "You mean Wriothesley. He's a tricky one to deal with. It's unfortunate that Lyney's so eager to prove himself that he can't learn to rely on others... including me."
+        },
+        {
+          "s": 20,
+          "t": "By the way, and you can just consider this a bit of idle gossip, but what's your impression of Furina?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 20,
+          "t": "You are outside of our disputes, and the freest person in all of Fontaine, able to move around most easily. Allow me to share my perspective with you."
+        },
+        {
+          "s": 22,
+          "t": "...And that's everything that happened during the trial. Master Childe was declared guilty, and immediately transported to the Fortress of Meropide."
+        },
+        {
+          "s": 20,
+          "t": "Didn't he say he was coming here on vacation? Does he not feel an ounce of shame for all the trouble he has caused?"
+        },
+        {
+          "s": 22,
+          "t": "I... I..."
+        },
+        {
+          "s": 20,
+          "t": "Forget it. He did give us an opportunity."
+        },
+        {
+          "s": 20,
+          "t": "I will be meeting someone shortly."
+        },
+        {
+          "s": 22,
+          "t": "Do you require help with any preparations?"
+        },
+        {
+          "s": 20,
+          "t": "No need. I will take care of it myself."
+        },
+        {
+          "s": 20,
+          "t": "(I need to meet with Furina, the Hydro Archon. She is at the heart of Fontaine, but what's fascinating about her is that, she often seems more like a celebrity than a working Archon.)"
+        },
+        {
+          "s": 21,
+          "t": "Oh? Come over here, you little critter you!"
+        },
+        {
+          "s": 23,
+          "t": "Mrrow!"
+        },
+        {
+          "s": 21,
+          "t": "You dare to run from me? Stop right this instant!"
+        },
+        {
+          "s": 20,
+          "t": "(My goal is just to discover the location of the Gnosis, but I didn't expect the chance to approach Furina to be handed to me on a silver platter. This is so easy, it's actually making me a bit suspicious...)"
+        },
+        {
+          "s": 20,
+          "t": "(Anything left unguarded is usually just bait. But no one will blame someone for taking the bait. After all, from the moment it was attached to the hook, the bait is meant to be sacrificed.)"
+        },
+        {
+          "s": 21,
+          "t": "Waaaaaah!"
+        },
+        {
+          "s": 20,
+          "t": "(It's just as I guessed in the second before I struck. The Hydro Gnosis is not currently held by the Archon...)"
+        },
+        {
+          "s": 20,
+          "t": "(In fact, this \"archon\" doesn't seem like a god at all... And I sense that she's under some kind of curse...)"
+        },
+        {
+          "s": 21,
+          "t": "Who are you? A—And wh—what are you trying to do? Please don't kill me, I'm begging you, please..."
+        },
+        {
+          "s": 20,
+          "t": "(The fear in her pupils is genuine, so perhaps she is not bait after all. Either way, targeting her has lost all meaning.)"
+        },
+        {
+          "s": 20,
+          "t": "..."
+        },
+        {
+          "s": 20,
+          "t": "(I left the scene with ease. Nobody came looking for me, and nobody could serve as a witness to my near-assassination of Focalors. I suspect even Furina dares not mention this incident to anyone.)"
+        },
+        {
+          "s": 20,
+          "t": "(Not long after, my informants confirmed what I had guessed: After returning to her quarters, Furina quietly cried alone. She was so scared that she could not sleep that night, nor could she even bring herself to eat her cake.)"
+        },
+        {
+          "s": 20,
+          "t": "(There's no doubt that there's something wrong with her. I began to entertain the possibility that she is not the true Hydro Archon — perhaps Iudex Neuvillette is actually the genuine article.)"
+        },
+        {
+          "s": 20,
+          "t": "(I have to find the Gnosis. If the Neuvillette hypothesis is correct, he is probably in possession of it. Alternatively, it might have been hidden in a place that's hard for ordinary people to access.)"
+        },
+        {
+          "s": 6,
+          "t": "Yes, \"Father\"!"
+        },
+        {
+          "s": 20,
+          "t": "My dear children. Please speak."
+        },
+        {
+          "s": 6,
+          "t": "News from the Fortress of Meropide. Master... Master Childe has gone missing. On top of that, the contacts and guards we bribed at the Fortress have all gone quiet as well..."
+        },
+        {
+          "s": 20,
+          "t": "...Probably the handiwork of that Wriothesley."
+        },
+        {
+          "s": 12,
+          "t": "I'm afraid so."
+        },
+        {
+          "s": 20,
+          "t": "This is a good opportunity. The value of a Harbinger is much higher than most would imagine. We now have an excuse to exert diplomatic pressure on the Fontaine authorities."
+        },
+        {
+          "s": 20,
+          "t": "Set up a meeting for me. I would like to meet the Hydro Archon and Iudex Neuvillette."
+        },
+        {
+          "s": 20,
+          "t": "Oh, and I have an additional mission for you three."
+        },
+        {
+          "s": 6,
+          "t": "Yes, \"Father\"!"
+        },
+        {
+          "s": 20,
+          "t": "(Tartaglia's disappearance was not a part of my plan, but I can use it to make a breakthrough. With this as my excuse, I can ask for an official audience, and continue my investigation of Furina and Iudex Neuvillette.)"
+        },
+        {
+          "s": 20,
+          "t": "(The initiative belongs to the House of the Hearth. My wish to investigate the Fortress of Meropide will be a front. Lyney and his group will be responsible for the actual intelligence-gathering.)"
+        },
+        {
+          "section": "Furina"
+        },
+        {
+          "s": 21,
+          "t": "...The tea party turned out to be even more difficult than I'd imagined..."
+        },
+        {
+          "s": 21,
+          "t": "Huh? Ah... Ahem! Why are you looking at me like that? Is something the matter? If there's nothing urgent, then I shall be retiring for now."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 20,
+          "t": "You should know the rest. Lyney's group is quite close to you, so they wouldn't have hidden anything from you."
+        },
+        {
+          "s": 0,
+          "t": "Y—You attacked the Hydro Archon?"
+        },
+        {
+          "s": 20,
+          "t": "It wouldn't mean anything even if you shouted it from the rooftops. After all, even Furina herself is still pretending that nothing of that sort ever happened."
+        },
+        {
+          "s": 0,
+          "t": "Uh, alright then..."
+        },
+        {
+          "s": 20,
+          "t": "I've now had two chances to enjoy tea with Furina. I have to say, the leadership of Fontaine is even more inscrutable than I had imagined. I once surmised that Iudex Neuvillette must be the Hydro Archon, but now, that doesn't seem right to me either."
+        },
+        {
+          "sit": "How did you come to that conclusion?"
+        },
+        {
+          "s": 20,
+          "t": "I am a servant of Her Majesty the Tsaritsa. Over my years of service, I've learned how a real Archon conducts and carries themselves. Whether Iudex Neuvillette or Furina, neither fits the bill. It's hard to imagine either of them as the Archon."
+        },
+        {
+          "s": 20,
+          "t": "Of course, that is all just how I feel. Gut feelings often do not require justification."
+        },
+        {
+          "s": 20,
+          "t": "It is, however, quite amusing to me that after all my years working in intelligence gathering, I've come to realize I am at a complete loss regarding the identity of the god of the land of my birth."
+        },
+        {
+          "s": 20,
+          "t": "Don't you think Fontaine is quite intriguing? A catastrophe looms, yet many secrets have yet to rise to the surface. It looks like Fontainians will have no choice but to save themselves."
+        },
+        {
+          "s": 20,
+          "t": "Ultimately, though, one must survive in order to do anything else. Should the need arise, I would be happy to cooperate with you."
+        },
+        {
+          "s": 20,
+          "t": "You don't need to commit to anything right now, of course. I have a feeling that the situation will continue to evolve. And as your name is often connected with noble deeds, I'm sure we will work together someday."
+        },
+        {
+          "sit": "...Neuvillette?"
+        },
+        {
+          "s": 20,
+          "t": "He certainly returned quickly. You must want to catch up with each other, so I'll leave you to him."
+        },
+        {
+          "s": 18,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Neuvillette, is it over?"
+        },
+        {
+          "s": 18,
+          "t": "For now, yes, but this issue will prove quite thorny in the long term. I am concerned that sooner or later, the prophesized events will occur..."
+        },
+        {
+          "s": 18,
+          "t": "Thank you for protecting Furina."
+        },
+        {
+          "sit": "May we ask what happened down there?"
+        },
+        {
+          "s": 18,
+          "t": "Mmm... To put it simply, I used my power to force back the Primordial Sea and re-seal the sluice gate."
+        },
+        {
+          "sit": "As for what happened on our side..."
+        },
+        {
+          "sit": "You recount the happenings of the tea party to Neuvillette..."
+        },
+        {
+          "s": 18,
+          "t": "...So, as expected, The Knave has turned up the pressure on Furina. She's trying to feel her out, though I'm still unsure as to her motives."
+        },
+        {
+          "sit": "Can I ask you some questions?"
+        },
+        {
+          "s": 18,
+          "t": "Permission granted."
+        },
+        {
+          "sit": "You have enough power to force back the Primordial Sea..."
+        },
+        {
+          "sit": "Does this mean you have some deeper connection with the Hydro Archon?"
+        },
+        {
+          "s": 0,
+          "t": "Whoa, it can't be that you're the real Hydro Archon, right? But that's just a speculation on our part, though..."
+        },
+        {
+          "s": 18,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "You can't tell us? Then... Then that's okay, we can talk about something else, we won't try to force you... Hahaha, you guys in Fontaine are super strange..."
+        },
+        {
+          "s": 18,
+          "t": "If by the phrase \"you guys\" you are referring to Furina and I, then although I'm not sure just what you are trying to imply, I must clarify that I do not share her positions on a multitude of topics."
+        },
+        {
+          "sit": "What did you sense in the Fortress of Meropide?"
+        },
+        {
+          "sit": "Did you manage to protect those that needed to be defended?"
+        },
+        {
+          "s": 18,
+          "t": "I believe so. The Fortress has a long and complex history. It has seen much grief and suffering."
+        },
+        {
+          "s": 18,
+          "t": "...And now, another catastrophe will soon be upon us. I mourn this turn of events."
+        },
+        {
+          "s": 0,
+          "t": "Huh? Why is it raining all of a sudden?"
+        },
+        {
+          "sit": "(The clear skies suddenly filled with dark clouds. The rain became heavier, light rain soon growing to a downpour.)"
+        },
+        {
+          "sit": "(And just moments before, Neuvillette has just mentioned his sense of grief.)"
+        },
+        {
+          "sit": "(Thinking back to that legend, and what Freminet said... \"It's said that a Dragon of Water once resided in Fontaine. Every time it weeps, the skies will cloud up and pour out rain.\")"
+        },
+        {
+          "sit": "Wait, Neuvillette, you can't be..."
+        },
+        {
+          "s": 18,
+          "t": "...You may be closer to the truth than you think."
+        },
+        {
+          "s": 0,
+          "t": "Oh, and what are you thinking?"
+        },
+        {
+          "sit": "...He's the Dragon Sovereign of Water."
+        },
+        {
+          "s": 0,
+          "t": "The Dragon of... Huh wha!?"
+        },
+        {
+          "s": 0,
+          "t": "...HUUUUUUUUUHHHH???"
+        },
+        {
+          "s": 18,
+          "t": "Please do not be so surprised..."
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "s": 18,
+          "t": "...Furina?"
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "...villette! Neuvillette! Are you listening?"
+        },
+        {
+          "s": 18,
+          "t": "Ah, my apologies."
+        },
+        {
+          "s": 0,
+          "t": "We were just guessing randomly... We didn't guess right, did we? You're not actually the Dragon Sovereign of Water, right? Well, if you don't want to confirm or deny..."
+        },
+        {
+          "s": 18,
+          "t": "You guessed correctly. I sincerely hope you'll be able to keep this a secret for me."
+        },
+        {
+          "s": 0,
+          "t": "Ah... right! Of course! We'll definitely help you keep it a secret!"
+        },
+        {
+          "s": 0,
+          "t": "There's still something Paimon wants to ask you, though..."
+        },
+        {
+          "s": 18,
+          "t": "Please go ahead."
+        },
+        {
+          "s": 0,
+          "t": "Well, if you are the Dragon Sovereign of Water, and you were able to force back the Primordial Sea from the Fortress..."
+        },
+        {
+          "s": 0,
+          "t": "Then since Fontaine's prophecy is all about seawater, couldn't you just use your power to solve the crisis?"
+        },
+        {
+          "s": 18,
+          "t": "None of the currently living dragon sovereigns in the world, myself included, possess our full dragonhood."
+        },
+        {
+          "s": 18,
+          "t": "They say that when the First Usurper arrived on Teyvat, they seized a part of the dragons' power. Today, that stolen power is the basis of the Archons' Authorities."
+        },
+        {
+          "s": 0,
+          "t": "There are seven elemental Archons, and seven matching Dragon Sovereigns..."
+        },
+        {
+          "s": 18,
+          "t": "The Dragon Sovereign of Water who lived through that era perished a long time ago. As their successor, I know far less of that part of our ancient history."
+        },
+        {
+          "s": 18,
+          "t": "In any case, I believe I will not be able to do much unless the Archon disappears and returns their elemental Authority to me."
+        },
+        {
+          "s": 18,
+          "t": "Given the status quo, however, I would recommend finding another way to deal with the prophecy."
+        },
+        {
+          "s": 0,
+          "t": "Oh... So even you can't solve it..."
+        },
+        {
+          "s": 18,
+          "t": "I still have some urgent matters to attend to at my office. If you have any more questions regarding ancient history, you are welcome to discuss them with me at a later time."
+        },
+        {
+          "s": 0,
+          "t": "Ah, please go right ahead! There's a place that Paimon wants to go, too. Traveler, why don't we pay another visit to the Fortress of Meropide? Paimon is a little worried..."
+        },
+        {
+          "sit": "Sure."
+        },
+        {
+          "sit": "See you later, Neuvillette."
+        },
+        {
+          "s": 0,
+          "t": "We'll see you another time!"
+        },
+        {
+          "s": 18,
+          "t": "Take care."
+        }
+      ],
+      "description": "Just as everything seems to have returned to normal, an unknown catastrophe arrives suddenly, like a thief in the night…"
+    },
+    {
+      "title": "A Moment's Respite",
+      "dialogue": [
+        {
+          "section": "Sigewinne"
+        },
+        {
+          "s": 0,
+          "t": "Sigewinne!"
+        },
+        {
+          "s": 8,
+          "t": "{NICKNAME}, Paimon, you're back!"
+        },
+        {
+          "s": 8,
+          "t": "Are you still doing alright? Did either of you get hurt?"
+        },
+        {
+          "sit": "Don't worry, we're both doing great."
+        },
+        {
+          "s": 0,
+          "t": "We're fine! But what about you guys? It was such a huge mess! How bad was it?"
+        },
+        {
+          "s": 8,
+          "t": "A few people sustained superficial injuries, but that's about the extent of the damage. Monsieur Neuvillette paid us a visit. It was all thanks to him that we managed to suppress the crisis for the time being."
+        },
+        {
+          "s": 8,
+          "t": "Of course, we must also thank you for the help you provided."
+        },
+        {
+          "s": 0,
+          "t": "How did Neuvillette know that he was needed here?"
+        },
+        {
+          "s": 8,
+          "t": "Monsieur Neuvillette has strong resonance with the Hydro element. When the water level rises, he can feel the waves produced."
+        },
+        {
+          "s": 8,
+          "t": "I ran into the Bombshell Bros while bandaging the injuries of the wounded. They were mumbling the whole time about how you just ran down without a word... I'm so relieved to see that you're both alright."
+        },
+        {
+          "s": 8,
+          "t": "If you're not too pressed for time, please stay with us a few more days."
+        },
+        {
+          "s": 8,
+          "t": "Just let me know if you get a craving for any particular dish, so I can have Mr. Wolsey get your meals prepared. Oh, and please feel free to visit the infirmary for a break at any time."
+        },
+        {
+          "s": 8,
+          "t": "I'd like to take the opportunity to spend some more time observing your facial muscles as well. Your happy smiles are quite contagious, you know. They're so memorable, and I've missed them immensely while you were gone."
+        },
+        {
+          "section": "Sigewinne"
+        },
+        {
+          "s": 8,
+          "t": "If you can find the time, please stay at the Fortress for just a while longer."
+        },
+        {
+          "section": "Lyney, Freminet, Lynette"
+        },
+        {
+          "s": 6,
+          "t": "Now guess! What suit will this next card be?"
+        },
+        {
+          "s": 13,
+          "t": "Uhhh... A bared-teeth cat?"
+        },
+        {
+          "s": 12,
+          "t": "Well, well, look who it is."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, Paimon!"
+        },
+        {
+          "s": 13,
+          "t": "Hello everyone."
+        },
+        {
+          "s": 0,
+          "t": "Looks like you're recovering nicely, Freminet!"
+        },
+        {
+          "s": 13,
+          "t": "Mhm, thanks to everyone's support."
+        },
+        {
+          "s": 13,
+          "t": "Oh, right! I... I managed to work up the courage to thank Miss Clorinde in person!"
+        },
+        {
+          "s": 0,
+          "t": "Whoa, how did she react?"
+        },
+        {
+          "s": 13,
+          "t": "She told me that it was nothing... It was as if saving a life wasn't a big deal to her at all. She also told me to not worry about it."
+        },
+        {
+          "s": 12,
+          "t": "She didn't want to stress you out, that's all. She's right, and it's best not to dwell on it."
+        },
+        {
+          "s": 13,
+          "t": "Yeah..."
+        },
+        {
+          "s": 0,
+          "t": "Okay, but check this out! We went back to the opera house, and we met The Knave!"
+        },
+        {
+          "s": 6,
+          "t": "You met \"Father\"? Did she say anything to you?"
+        },
+        {
+          "s": 0,
+          "t": "She said a few things that were... uh, a bit hard to understand, and also that she's looking forward to working with us in the future."
+        },
+        {
+          "sit": "It was a little surprising."
+        },
+        {
+          "s": 6,
+          "t": "Her attitude towards you is even better than what we'd imagined... That's fantastic."
+        },
+        {
+          "s": 6,
+          "t": "You should believe her. She has her own way of doing things, and she'll do everything in her power to help those she considers close, which now might also include you."
+        },
+        {
+          "s": 12,
+          "t": "Mhm. \"Father\" is very capable, and also trustworthy."
+        },
+        {
+          "s": 0,
+          "t": "Oh, Paimon just remembered that she thought Lyney was a bit too proud as well! She said that you should learn how to rely on others sometimes."
+        },
+        {
+          "s": 6,
+          "t": "Uh... Got it."
+        },
+        {
+          "s": 13,
+          "t": "That does sound like something that \"Father\" would say..."
+        },
+        {
+          "s": 6,
+          "t": "Hey!"
+        },
+        {
+          "s": 12,
+          "t": "Are you going to stay here for the next few days?"
+        },
+        {
+          "s": 0,
+          "t": "Looks like it, yeah."
+        },
+        {
+          "s": 12,
+          "t": "Excellent. I will host a tea party."
+        },
+        {
+          "s": 0,
+          "t": "For real? Then Paimon wants another serving of cake!"
+        },
+        {
+          "s": 12,
+          "t": "Another implies that you were already served some delicious cake while you were up there. Hmm, how lovely."
+        },
+        {
+          "s": 12,
+          "t": "Well next time, you're going to have tea and snacks with us."
+        },
+        {
+          "section": "Lynette, Lyney, Freminet"
+        },
+        {
+          "s": 12,
+          "t": "We should start preparing that tea party!"
+        },
+        {
+          "s": 6,
+          "t": "Oh! That's a great idea. I'm all for it."
+        },
+        {
+          "s": 13,
+          "t": "I'll help you set it up."
+        },
+        {
+          "section": "Cuistot, Laverune"
+        },
+        {
+          "s": 3,
+          "t": "Eh? You... You guys are back?"
+        },
+        {
+          "s": 0,
+          "t": "Cuistot! Laverune!"
+        },
+        {
+          "s": 4,
+          "t": "You guys... didn't get caught and thrown back down here, right?"
+        },
+        {
+          "s": 0,
+          "t": "Huh? No, not at all!"
+        },
+        {
+          "s": 3,
+          "t": "Ugh! And here I thought you'd managed to escape from jail during all the commotion. I had held you up as legendary jailbreakers, but now you're telling me... you just never left?"
+        },
+        {
+          "s": 0,
+          "t": "Ahahaha... Uh, we're sorry, but we just... Had some business to take care of..."
+        },
+        {
+          "s": 4,
+          "t": "Alright, alright, there's no need to get caught up in the details. We're just relieved to see you. He was super worried about you, you know."
+        },
+        {
+          "s": 3,
+          "t": "Hey, it wasn't just me! Weren't you super worried as well?"
+        },
+        {
+          "s": 4,
+          "t": "Something like that, yeah."
+        },
+        {
+          "s": 4,
+          "t": "I was also transferred to work in the kitchen a few days ago. I can still hear Cuistot mumbling to the carrots: \"Are those two alright? Do you think they made it out alive?\""
+        },
+        {
+          "s": 4,
+          "t": "Whenever he said that, I'd tell him, \"I'm sure they're fine! Wherever they are, they're kicking back with drinks in hand, enjoying the lovely scenery.\""
+        },
+        {
+          "s": 3,
+          "t": "Hey! There's nothing wrong with worrying about your prison pals, is there? I mean, considering how they always loved listening to all of my gossip..."
+        },
+        {
+          "s": 0,
+          "t": "These two... They sure are a lot warmer and friendlier than when Paimon first met them..."
+        },
+        {
+          "sit": "I'm sure the welfare meals must have just skyrocketed in quality recently."
+        },
+        {
+          "sit": "Your meals will bring all the prisoners to the cafeteria."
+        },
+        {
+          "s": 3,
+          "t": "...Well, if you say so. I'll be watching you to make sure you finish every last bite!"
+        },
+        {
+          "section": "Cuistot, Laverune"
+        },
+        {
+          "s": 3,
+          "t": "Why don't we have a meal with those two one of these days?"
+        },
+        {
+          "s": 4,
+          "t": "You wanna cook for 'em yourself?"
+        },
+        {
+          "s": 3,
+          "t": "Why not? Good chance to show them what I can do."
+        },
+        {
+          "section": "Lourvine, Jurieu"
+        },
+        {
+          "s": 9,
+          "t": "Jurieu! Miss Sigewinne told me you still haven't eaten."
+        },
+        {
+          "s": 7,
+          "t": "Er, I was working on something, so I forgot."
+        },
+        {
+          "s": 9,
+          "t": "That's no excuse for... Huh? It's you two!"
+        },
+        {
+          "s": 0,
+          "t": "Jurieu, Lourvine, we're back!"
+        },
+        {
+          "s": 7,
+          "t": "Hello there. It's been quite the mess here recently. How have you been?"
+        },
+        {
+          "sit": "We're fine, thanks."
+        },
+        {
+          "s": 0,
+          "t": "And you? Are you still taking the secret passageway from the infirmary to work on the ship?"
+        },
+        {
+          "s": 9,
+          "t": "Yep. That is still top secret, though. So don't say a word to anyone!"
+        },
+        {
+          "s": 7,
+          "t": "It can be a bit annoying when there are lots of people in the infirmary, but I still prefer taking that route over the one from the Duke's office."
+        },
+        {
+          "s": 9,
+          "t": "I mean, the infirmary does make it easier for you to slack off."
+        },
+        {
+          "s": 7,
+          "t": "Oh yeah? Then why are you also here so much?"
+        },
+        {
+          "s": 0,
+          "t": "You two really are just using your jobs as a cover for your relationship, aren't you?"
+        },
+        {
+          "s": 7,
+          "t": "Not at all!"
+        },
+        {
+          "section": "Lourvine, Jurieu"
+        },
+        {
+          "s": 9,
+          "t": "Jurieu, the rumors about us are literally everywhere now. Please do something about it."
+        },
+        {
+          "s": 7,
+          "t": "But it's not like I caused them by myself... Alright, alright, I'll try to do something about it when I can find the time."
+        },
+        {
+          "section": "Wriothesley"
+        },
+        {
+          "s": 10,
+          "t": "Do my eyes deceive me or did I just see two inmates come back after making it to the surface? Some strange winds blowing of late."
+        },
+        {
+          "s": 0,
+          "t": "We wanted to see how the Fortress is doing! Is everything still alright?"
+        },
+        {
+          "s": 10,
+          "t": "We're fine for the most part. Neuvillette came down and took care of the worst of it."
+        },
+        {
+          "s": 0,
+          "t": "If that's the case, why don't you just ask him to stay here?"
+        },
+        {
+          "s": 10,
+          "t": "Oh yeah, what a brilliant plan. Let's go convince the Iudex himself to exchange the courts of Fontaine for a puddle of water in the middle of nowhere."
+        },
+        {
+          "sit": "I don't think that's going to work..."
+        },
+        {
+          "s": 10,
+          "t": "He came here in a hurry, and left without even stopping for a cup of tea. He did remember to take Miss Sigewinne's gift with him, though."
+        },
+        {
+          "s": 0,
+          "t": "He sure sounds super busy."
+        },
+        {
+          "s": 10,
+          "t": "Miss Clorinde has left as well. She also took her gift from Miss Sigewinne."
+        },
+        {
+          "s": 0,
+          "t": "Were the gifts milkshakes?"
+        },
+        {
+          "s": 10,
+          "t": "Neuvillette got the milkshake. Clorinde received lipstick instead."
+        },
+        {
+          "s": 0,
+          "t": "Huh? Those aren't even remotely alike!"
+        },
+        {
+          "s": 10,
+          "t": "Well, it's Neuvillette's own fault for making Sigewinne worried about his health by working so much. But besides that, our head nurse is still pretty fond of picking out beauty products for the ladies."
+        },
+        {
+          "s": 10,
+          "t": "Oh, and I have some gifts here for you as well."
+        },
+        {
+          "s": 0,
+          "t": "Are these from Sigewinne, too?"
+        },
+        {
+          "s": 10,
+          "t": "Nope, they are from yours truly."
+        },
+        {
+          "s": 10,
+          "t": "You've already wrapped up your work at the Fortress, so you can return to the surface at any time. You haven't yet served your full prison term, however, so you may continue to use your cell until your term is up."
+        },
+        {
+          "s": 0,
+          "t": "For real? Then we can stay here for a really long time!"
+        },
+        {
+          "sit": "Is food still covered?"
+        },
+        {
+          "s": 10,
+          "t": "You may access the cafeteria for free."
+        },
+        {
+          "s": 0,
+          "t": "Hooray!"
+        },
+        {
+          "s": 10,
+          "t": "Just remember to come complete your paperwork once it's time for your release."
+        },
+        {
+          "section": "Wriothesley"
+        },
+        {
+          "s": 10,
+          "t": "Your file can't be closed until we've completed your paperwork, so don't forget to come find me again when you're done serving your sentence."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "We're back in our cell again! We're no longer prisoners, though, so it really doesn't feel the same..."
+        },
+        {
+          "sit": "It feels like a huge weight is off our shoulders."
+        },
+        {
+          "s": 0,
+          "t": "Sure feels that way... But the truth is, we never did anything bad to begin with, so I'm not sure why we put so much pressure on ourselves."
+        },
+        {
+          "sit": "It feels like we've regained our freedom."
+        },
+        {
+          "s": 0,
+          "t": "Mhm! Being free sure feels pretty special now."
+        },
+        {
+          "sit": "Paimon, is there something you'd like to say?"
+        },
+        {
+          "s": 0,
+          "t": "Huh? How did you know?"
+        },
+        {
+          "sit": "Because you usually just immediately fall asleep."
+        },
+        {
+          "s": 0,
+          "t": "Hey, that's not true! Alright... Okay, Paimon just wanted to say that we really are an amazing duo after all!"
+        },
+        {
+          "s": 0,
+          "t": "It's like... We've now gone to so many places together, and become friends with so many people. We've never stopped traveling, or stopped meeting new friends."
+        },
+        {
+          "s": 0,
+          "t": "There are so many bad things in the world, and we're just two people, but we've still been solving problems no matter where we go... Isn't that pretty cool?"
+        },
+        {
+          "sit": "We're the best adventurers ever."
+        },
+        {
+          "s": 0,
+          "t": "You're counting Paimon today? Aren't you the only adventurer here?"
+        },
+        {
+          "sit": "Being a guide counts, too."
+        },
+        {
+          "s": 0,
+          "t": "Then let's ask Katheryne to give Paimon an Adventurer Handbook as well! Paimon'll also be an adventurer from today forward!"
+        },
+        {
+          "s": 0,
+          "t": "Ahh, just the thought's making Paimon giddy... Paimon's gonna crash, so you sleep soon, too!"
+        },
+        {
+          "s": 0,
+          "t": "The last time we fell asleep here, we woke up to a whole mess outside our cell. The Primordial Seawater nearly rose up. That was so scary..."
+        },
+        {
+          "s": 0,
+          "t": "We should be safe now, right?"
+        },
+        {
+          "sit": "We'll be fine, so don't worry, Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Alright, then good night to you, {NICKNAME}!"
+        },
+        {
+          "sit": "Good night to you, Paimon."
+        }
+      ],
+      "description": "The crisis has been averted… for now. You decide to return to the Fortress of Meropide to see how everyone’s doing."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Downcast Convict",
+    "Grumpy Convict",
+    "Cuistot",
+    "Laverune",
+    "Bavilliers",
+    "Lyney",
+    "Jurieu",
+    "Sigewinne",
+    "Lourvine",
+    "Wriothesley",
+    "Clorinde",
+    "Lynette",
+    "Freminet",
+    "Prison Broadcast",
+    "Crowd",
+    "Hurried Prisoner",
+    "Guard",
+    "Neuvillette",
+    "Receptionist",
+    "The Knave",
+    "Furina",
+    "Fatui Sergeant",
+    "Stray Cat"
+  ],
+  "hhw_source": "https://gensh.honeyhunterworld.com/ch_1404/?lang=EN",
+  "id": "ch-1404"
+}

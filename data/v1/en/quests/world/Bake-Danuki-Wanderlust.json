@@ -1,0 +1,2057 @@
+{
+  "chapter": "Bake-Danuki Wanderlust",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Bake-Danuki Wanderlust",
+  "region": null,
+  "quests": [
+    {
+      "title": "Bake-Danuki Wanderlust",
+      "dialogue": [
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Eh? What's a bake-danuki doing on this island?"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Did that bake-danuki speak?"
+        },
+        {
+          "s": 1,
+          "t": "Eek! Yellow Fur and... Flying White Fur?"
+        },
+        {
+          "s": 0,
+          "t": "Hey! You're just like Kichiboushi! Anyway, it's not Flying White Fur. The name's Paimon!"
+        },
+        {
+          "s": 1,
+          "t": "Paimora? Paimora knows Kichiboushi? Paimora, amazing!"
+        },
+        {
+          "s": 0,
+          "t": "Not Paimora, Paimon...! So, Kichiboushi is that famous now, huh? His training must be going well!"
+        },
+        {
+          "s": 1,
+          "t": "Bye... mon...?"
+        },
+        {
+          "s": 0,
+          "t": "Ugh, forget it... Wait! Why are we suddenly able to understand bake-danuki?"
+        },
+        {
+          "s": 0,
+          "t": "Ioroi once mentioned that bake-danuki can understand humans, but we can't understand them."
+        },
+        {
+          "s": 0,
+          "t": "We could understand Kichiboushi before because we'd had a bake-danuki meal, but its effects didn't last that long..."
+        },
+        {
+          "sit": "These islands have always been really unusual."
+        },
+        {
+          "sit": "What do you mean \"we\"? All I hear are bake-danuki noises."
+        },
+        {
+          "s": 0,
+          "t": "Yeah... It's almost like nothing strange is strange here!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke can't find..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... Paimon's getting confused. You mean you're Shibasuke, and you're searching for something?"
+        },
+        {
+          "s": 1,
+          "t": "Mmm... Dumb White Fur..."
+        },
+        {
+          "sit": "So you got separated from Shibasuke. Is that it?"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Smart Yellow Fur! Mamesuke grateful!"
+        },
+        {
+          "s": 0,
+          "t": "Hmph, Paimon's got this one! It says its name is Mamesuke!"
+        },
+        {
+          "sit": "Ooh, bravo. Bye-mon bravo."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}! You too!?"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, how did you get here, Mamesuke?"
+        },
+        {
+          "s": 1,
+          "t": "Playing with Shibasuke on unfamiliar boat."
+        },
+        {
+          "s": 1,
+          "t": "Sleepy... Woke up! Lots of people!"
+        },
+        {
+          "s": 1,
+          "t": "Lots of wind on fists."
+        },
+        {
+          "s": 1,
+          "t": "Big cold person."
+        },
+        {
+          "sit": "That sounds mighty like the Fatui."
+        },
+        {
+          "s": 1,
+          "t": "...The Fatty?"
+        },
+        {
+          "s": 1,
+          "t": "Leave ship and wait in cave. Fatty leave."
+        },
+        {
+          "s": 1,
+          "t": "Shibasuke find way home, mountain kaboom!"
+        },
+        {
+          "s": 0,
+          "t": "Mountain kaboom? Oh! Is he referring to the mountains switching..."
+        },
+        {
+          "s": 0,
+          "t": "What do we do, {NICKNAME}? Are we responsible for Shibasuke going missing?"
+        },
+        {
+          "sit": "Well, guess we'll have to take responsibility and help Mamesuke search."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, but how? ... Oh, Paimon knows what to do! Let's look for clues with your <color=#00E1FFFF>Elemental Sight</color>!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Eh? What's a bake-danuki doing on this island?"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Did that bake-danuki speak?"
+        },
+        {
+          "s": 1,
+          "t": "Eek! Yellow Fur and... Flying White Fur?"
+        },
+        {
+          "s": 0,
+          "t": "That's \"Paimon\" to you, not \"Flying White Fur\" or anything!"
+        },
+        {
+          "s": 1,
+          "t": "Paimora?"
+        },
+        {
+          "s": 0,
+          "t": "Not Paimora! Pai... mon...!"
+        },
+        {
+          "s": 1,
+          "t": "Bye... mon...?"
+        },
+        {
+          "s": 0,
+          "t": "Ugh, forget it... Wait! Why are we suddenly able to understand bake-danuki?"
+        },
+        {
+          "sit": "These islands have always been really unusual."
+        },
+        {
+          "sit": "What do you mean \"we\"? All I hear are bake-danuki noises."
+        },
+        {
+          "s": 0,
+          "t": "Yeah... It's almost like nothing strange is strange here!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke can't find..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... Paimon's getting confused. You mean you're Shibasuke, and you're searching for something?"
+        },
+        {
+          "s": 1,
+          "t": "Mmm... Dumb White Fur..."
+        },
+        {
+          "sit": "So you got separated from Shibasuke. Is that it?"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Smart Yellow Fur! Mamesuke grateful!"
+        },
+        {
+          "s": 0,
+          "t": "Hmph, Paimon's got this one! It says its name is Mamesuke!"
+        },
+        {
+          "sit": "Ooh, bravo. Bye-mon bravo."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}! You too!?"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, how did you get here, Mamesuke?"
+        },
+        {
+          "s": 1,
+          "t": "Playing with Shibasuke on unfamiliar boat."
+        },
+        {
+          "s": 1,
+          "t": "Sleepy... Woke up! Lots of people!"
+        },
+        {
+          "s": 1,
+          "t": "Lots of wind on fists."
+        },
+        {
+          "s": 1,
+          "t": "Big cold person."
+        },
+        {
+          "sit": "That sounds mighty like the Fatui."
+        },
+        {
+          "s": 1,
+          "t": "...The Fatty?"
+        },
+        {
+          "s": 1,
+          "t": "Leave ship and wait in cave. Fatty leave."
+        },
+        {
+          "s": 1,
+          "t": "Shibasuke find way home, mountain kaboom!"
+        },
+        {
+          "s": 0,
+          "t": "Mountain kaboom? Oh! Is he referring to the mountains switching..."
+        },
+        {
+          "s": 0,
+          "t": "What do we do, {NICKNAME}? Are we responsible for Shibasuke going missing?"
+        },
+        {
+          "sit": "Well, guess we'll have to take responsibility and help Mamesuke search."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, but how? ... Oh, Paimon knows what to do! Let's look for clues with your <color=#00E1FFFF>Elemental Sight</color>!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Eh? What's a bake-danuki doing on this island?"
+        },
+        {
+          "sit": "A bake-danuki?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, {NICKNAME}, you've never seen one before? They're called bake-danuki!"
+        },
+        {
+          "s": 0,
+          "t": "It is said that they enjoy disguising themselves and pulling pranks on people in Inazuma's forests."
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Did that bake-danuki speak?"
+        },
+        {
+          "s": 1,
+          "t": "Eek! Yellow Fur and... Flying White Fur?"
+        },
+        {
+          "s": 0,
+          "t": "That's \"Paimon\" to you, not \"Flying White Fur\" or anything!"
+        },
+        {
+          "s": 1,
+          "t": "Paimora?"
+        },
+        {
+          "s": 0,
+          "t": "Not Paimora! Pai... mon...!"
+        },
+        {
+          "s": 1,
+          "t": "Bye... mon...?"
+        },
+        {
+          "s": 0,
+          "t": "Ugh, forget it... Wait! Why are we suddenly able to understand bake-danuki?"
+        },
+        {
+          "sit": "These islands have always been really unusual."
+        },
+        {
+          "sit": "What do you mean \"we\"? All I hear are bake-danuki noises."
+        },
+        {
+          "sit": "So bake-danuki can't speak?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah... It's almost like nothing strange is strange here!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke can't find..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... Paimon's getting confused. You mean you're Shibasuke, and you're searching for something?"
+        },
+        {
+          "s": 1,
+          "t": "Mmm... Dumb White Fur..."
+        },
+        {
+          "sit": "So you got separated from Shibasuke. Is that it?"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Smart Yellow Fur! Mamesuke grateful!"
+        },
+        {
+          "s": 0,
+          "t": "Hmph, Paimon's got this one! It says its name is Mamesuke!"
+        },
+        {
+          "sit": "Ooh, bravo. Bye-mon bravo."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}! You too!?"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, how did you get here, Mamesuke?"
+        },
+        {
+          "s": 1,
+          "t": "Playing with Shibasuke on unfamiliar boat."
+        },
+        {
+          "s": 1,
+          "t": "Sleepy... Woke up! Lots of people!"
+        },
+        {
+          "s": 1,
+          "t": "Lots of wind on fists."
+        },
+        {
+          "s": 1,
+          "t": "Big cold person."
+        },
+        {
+          "sit": "That sounds mighty like the Fatui."
+        },
+        {
+          "s": 1,
+          "t": "...The Fatty?"
+        },
+        {
+          "s": 1,
+          "t": "Leave ship and wait in cave. Fatty leave."
+        },
+        {
+          "s": 1,
+          "t": "Shibasuke find way home, mountain kaboom!"
+        },
+        {
+          "s": 0,
+          "t": "Mountain kaboom? Oh! Is he referring to the mountains switching..."
+        },
+        {
+          "s": 0,
+          "t": "What do we do, {NICKNAME}? Are we responsible for Shibasuke going missing?"
+        },
+        {
+          "sit": "Well, guess we'll have to take responsibility and help Mamesuke search."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, but how? ... Oh, Paimon knows what to do! Let's look for clues with your <color=#00E1FFFF>Elemental Sight</color>!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Shibasuke..."
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 0,
+          "t": "It's a leaf that contains the power of Anemo. Huh, speaking of those..."
+        },
+        {
+          "sit": "It's a leaf from the Mondstadt-styled mountain..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, but now a leaf covered in Anemo has found its way to an Inazuma-styled mountain, and Shibasuke is missing. That means..."
+        },
+        {
+          "sit": "Shibasuke might be on the Mondstadt-styled mountain."
+        },
+        {
+          "s": 0,
+          "t": "Well, since we've found a clue, let's head back to Mamesuke!"
+        },
+        {
+          "section": "Paimon, Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "We're back!"
+        },
+        {
+          "s": 1,
+          "t": "Shibasuke?"
+        },
+        {
+          "s": 0,
+          "t": "Well... We haven't found Shibasuke yet..."
+        },
+        {
+          "s": 1,
+          "t": "Mmmm..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! Cheer up! We may not have found Shibasuke, but we've found a clue! Right, {NICKNAME}?"
+        },
+        {
+          "sit": "Yeah, we just need another mountain kaboom."
+        },
+        {
+          "s": 1,
+          "t": "Mountain kaboom!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... We can't leave you alone here, Mamesuke, so come with us!"
+        },
+        {
+          "s": 1,
+          "t": "Mm!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Mountain kaboom! ...Shibasuke?"
+        },
+        {
+          "section": "Paimon, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Isn't that Mamesuke? What's Mamesuke doing here?"
+        },
+        {
+          "s": 2,
+          "t": "Eek! White Fur! Shoo!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Is that Shibasuke? It looks just like Mamesuke..."
+        },
+        {
+          "sit": "The bake-danuki of Inazuma are really difficult to tell apart..."
+        },
+        {
+          "s": 0,
+          "t": "Except Kichiboushi. He sure stands out from the crowd!"
+        },
+        {
+          "s": 2,
+          "t": "Kichiboushi? Lie!"
+        },
+        {
+          "s": 0,
+          "t": "We took Kichiboushi to train all across the lands! We were there when Ioroi told Kichiboushi to never stray from the tanuki path, you know? Hehe."
+        },
+        {
+          "s": 2,
+          "t": "Ioroi? White Fur lie! Shoo!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... You're Shibasuke, right? Stop trying to get rid of us, Mamesuke sent us to find you."
+        },
+        {
+          "s": 2,
+          "t": "...Mamesuke? Really?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! Come with us. Mamesuke is waiting for you!"
+        },
+        {
+          "s": 2,
+          "t": "Hmph! White Fur lie?"
+        },
+        {
+          "s": 0,
+          "t": "Argh! He's so infuriating! He would be bake-danuki paste now if it wasn't for us!"
+        },
+        {
+          "s": 0,
+          "t": "They both look the same, so why is Shibasuke so stubborn..."
+        },
+        {
+          "s": 0,
+          "t": "Whew... that was difficult. We should have asked Mamesuke for proof."
+        },
+        {
+          "s": 2,
+          "t": "Steal?"
+        },
+        {
+          "s": 0,
+          "t": "Gah, Shibasuke is so suspicious of everything."
+        },
+        {
+          "sit": "A little vigilance never hurts when you're out of doors."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Come on, Paimon's super friendly-looking."
+        },
+        {
+          "s": 0,
+          "t": "But the bake-danuki of Inazuma should be skilled at transforming. Shibasuke could've transformed into a butterfly or something and flown away just now, right?"
+        },
+        {
+          "s": 2,
+          "t": "Hmph! Dumb White Fur! Bake-danuki transformation not easy."
+        },
+        {
+          "s": 0,
+          "t": "Eh? But bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma."
+        },
+        {
+          "s": 2,
+          "t": "Mmm, not same."
+        },
+        {
+          "s": 0,
+          "t": "How is it different?"
+        },
+        {
+          "s": 2,
+          "t": "Mm... White Fur talk too much! Won't understand..."
+        },
+        {
+          "s": 2,
+          "t": "Where Mamesuke..."
+        },
+        {
+          "s": 0,
+          "t": "Looks like Shibasuke isn't willing to talk anymore... Let's just take him back to Mamesuke!"
+        },
+        {
+          "section": "Paimon, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Isn't that Mamesuke? What's Mamesuke doing here?"
+        },
+        {
+          "s": 2,
+          "t": "Eek! White Fur! Shoo!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? Is that Shibasuke? It looks just like Mamesuke..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... You're Shibasuke, right? Stop trying to get rid of us, Mamesuke sent us to find you."
+        },
+        {
+          "s": 2,
+          "t": "...Mamesuke? Really?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! Come with us. Mamesuke is waiting for you!"
+        },
+        {
+          "s": 2,
+          "t": "Hmph! White Fur lie?"
+        },
+        {
+          "s": 0,
+          "t": "Argh! He's so infuriating! He would be bake-danuki paste now if it wasn't for us!"
+        },
+        {
+          "s": 0,
+          "t": "They both look the same, so why is Shibasuke so stubborn..."
+        },
+        {
+          "s": 0,
+          "t": "Whew... that was difficult. We should have asked Mamesuke for proof."
+        },
+        {
+          "s": 2,
+          "t": "Steal?"
+        },
+        {
+          "s": 0,
+          "t": "Gah, Shibasuke is so suspicious of everything."
+        },
+        {
+          "sit": "A little vigilance never hurts when you're out of doors."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Come on, Paimon's super friendly-looking."
+        },
+        {
+          "s": 0,
+          "t": "But the bake-danuki of Inazuma should be skilled at transforming. Shibasuke could've transformed into a butterfly or something and flown away just now, right?"
+        },
+        {
+          "s": 2,
+          "t": "Hmph! Dumb White Fur! Bake-danuki transformation not easy."
+        },
+        {
+          "s": 0,
+          "t": "Eh? But Paimon's heard that bake-danuki who can transform into things like barrels and lamps can be seen all over Inazuma."
+        },
+        {
+          "s": 2,
+          "t": "Mmm, not same."
+        },
+        {
+          "s": 0,
+          "t": "How is it different?"
+        },
+        {
+          "s": 2,
+          "t": "Mm... White Fur talk too much! Won't understand..."
+        },
+        {
+          "s": 2,
+          "t": "Where Mamesuke..."
+        },
+        {
+          "s": 0,
+          "t": "Looks like Shibasuke isn't willing to talk anymore... Let's just take him back to Mamesuke!"
+        },
+        {
+          "section": "Paimon, Mamesuke, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Mamesuke! We brought Shibasuke back!"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Shibasuke!"
+        },
+        {
+          "s": 2,
+          "t": "White Fur no lie! Mamesuke! Yey!"
+        },
+        {
+          "s": 0,
+          "t": "So Shibasuke didn't really trust us until now..."
+        },
+        {
+          "s": 2,
+          "t": "Mountain so fun! So many new things! But no Lavender Melon..."
+        },
+        {
+          "s": 2,
+          "t": "Almost became bake-danuki paste too, so close."
+        },
+        {
+          "s": 0,
+          "t": "Hehe! You're lucky we arrived in time, eh, {NICKNAME}?"
+        },
+        {
+          "s": 2,
+          "t": "Hmph."
+        },
+        {
+          "s": 1,
+          "t": "Mm! Thanks Yellow Fur, White Fur!"
+        },
+        {
+          "s": 2,
+          "t": "Mamesuke go too! Furry grass! *blow* Bald!"
+        },
+        {
+          "s": 1,
+          "t": "Wow! Let's go!"
+        },
+        {
+          "s": 0,
+          "t": "Furry grass? You mean the Dandelions?"
+        },
+        {
+          "s": 0,
+          "t": "Eh? But how will you get back to Inazuma? The Fatui ship? Paimon doesn't reckon you can go back the same way you came."
+        },
+        {
+          "s": 1,
+          "t": "...Huh?"
+        },
+        {
+          "s": 0,
+          "t": "Oh brother, Paimon doesn't think they've even considered that. {NICKNAME}, we can take them back to Inazuma, right?"
+        },
+        {
+          "sit": "We can take them with us when we leave."
+        },
+        {
+          "s": 2,
+          "t": "Go later?"
+        },
+        {
+          "s": 0,
+          "t": "Later?"
+        },
+        {
+          "s": 2,
+          "t": "Want to see furry grass with Mamesuke."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... So we'll come back a little later, then?"
+        },
+        {
+          "s": 0,
+          "t": "Paimon doesn't know how much of Mondstadt's charm they'll be able to experience on these islands, but making them Mondstadt-styled islands is probably the best we can do."
+        },
+        {
+          "section": "Rearrange Bonsai"
+        },
+        {
+          "s": 0,
+          "t": "Mamesuke is still in the mountains! If we switch the mountain styles now, finding Shibasuke will be the least of our problems! Even Mamesuke might get lost!"
+        },
+        {
+          "section": "Rearrange Bonsai"
+        },
+        {
+          "s": 0,
+          "t": "Let's not switch the mountains for now. We'll have a headache if those bake-danuki get separated again."
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Kaboooom~"
+        },
+        {
+          "section": "Shibasuke"
+        },
+        {
+          "s": 2,
+          "t": "Mountain kaboooom~"
+        },
+        {
+          "section": "Mamesuke, Shibasuke, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Yey!"
+        },
+        {
+          "s": 2,
+          "t": "Mm... White Fur, understand."
+        },
+        {
+          "s": 0,
+          "t": "Hearing that from Shibasuke feels so strange... But are they gonna be alright?"
+        },
+        {
+          "sit": "Some time later, you return to see Mamesuke and Shibasuke again..."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! It's Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 0,
+          "t": "You seem like you're having fun on this Mondstadt-styled mountain! The scenery here is quite different from Inazuma, right?"
+        },
+        {
+          "s": 1,
+          "t": "So much green! Wind so soft! Yey!"
+        },
+        {
+          "s": 2,
+          "t": "Furry grass so fun! *blows*"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, if Inazuma is purple like lightning, then Mondstadt..."
+        },
+        {
+          "sit": "...Is green like the wind."
+        },
+        {
+          "s": 0,
+          "t": "Eh-he."
+        },
+        {
+          "s": 2,
+          "t": "But there are not-purple Lavender Melons, out of reach."
+        },
+        {
+          "s": 0,
+          "t": "Eh? What are you talking about?"
+        },
+        {
+          "s": 2,
+          "t": "White Fur can fly. White Fur can get it?"
+        },
+        {
+          "s": 1,
+          "t": "Mamesuke lead way! Come!"
+        },
+        {
+          "s": 0,
+          "t": "Gah, these two are so impatient. Let's follow them!"
+        },
+        {
+          "section": "Mamesuke, Paimon, Shibasuke"
+        },
+        {
+          "s": 1,
+          "t": "Look! Not purple Lavender Melons! We want, but kapow!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, it's just a wind barrier! Hehe! We've seen many of these in our adventures across Mondstadt, haven't we, {NICKNAME}?"
+        },
+        {
+          "s": 0,
+          "t": "Speaking of wind barriers, why do they vanish once the thing inside them is taken, anyway?"
+        },
+        {
+          "sit": "Well, the thing they're protecting is gone, so..."
+        },
+        {
+          "s": 0,
+          "t": "...That sounds kinda sad."
+        },
+        {
+          "s": 2,
+          "t": "White Fur can fly. White Fur get it?"
+        },
+        {
+          "s": 0,
+          "t": "Oh yeah... Wait! You know, you should learn to stop relying on others and solve problems by yourself."
+        },
+        {
+          "s": 1,
+          "t": "Mmmm..."
+        },
+        {
+          "sit": "It seems a little too difficult for a beginner."
+        },
+        {
+          "s": 0,
+          "t": "Is that so? Hmph! Then experienced adventurers like {NICKNAME} and Paimon will have to teach you some lessons!"
+        },
+        {
+          "s": 0,
+          "t": "There's Anemo Amber here, which is perfect. It'll create a wind current once destroyed. C'mon, {NICKNAME}, show them how it's done!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Anemo Amber... Mm?"
+        },
+        {
+          "section": "Shibasuke"
+        },
+        {
+          "s": 2,
+          "t": "White Fur fly, White Fur kapow?"
+        },
+        {
+          "section": "Paimon, Shibasuke, Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Ah! The current vanished so quickly... Well, not that there's no other way to do this..."
+        },
+        {
+          "s": 2,
+          "t": "White Fur no fear!"
+        },
+        {
+          "s": 0,
+          "t": "Wow! Shibasuke said that transformation isn't easy, so Paimon thought he wouldn't be good at it."
+        },
+        {
+          "s": 1,
+          "t": "Shibasuke amazing! Transform into many things! But not when afraid!"
+        },
+        {
+          "s": 0,
+          "t": "Ooh, so that's how it is! Alright then, {NICKNAME}, let's get those Sunsettias for Mamesuke and Shibasuke!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Anemo Amber, Shibasuke transform... Shibasuke Amber! Hehe!"
+        },
+        {
+          "section": "Mamesuke, Paimon, Shibasuke"
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "s": 0,
+          "t": "It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!"
+        },
+        {
+          "sit": "Maybe it has something to do with soil and climate."
+        },
+        {
+          "sit": "Maybe it has something to do with Archon preferences."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, it's thundering all day over there in Inazuma..."
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Mamesuke, Paimon, Shibasuke"
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "s": 0,
+          "t": "It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!"
+        },
+        {
+          "sit": "Maybe it has something to do with soil and climate."
+        },
+        {
+          "sit": "Maybe it has something to do with Archon preferences."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's heard that storms are ever-present in Inazuma!"
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Mamesuke, Paimon, Shibasuke"
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "sit": "Lavender Melon?"
+        },
+        {
+          "sit": "Are Lavender Melons a special type of Sunsettia?"
+        },
+        {
+          "s": 1,
+          "t": "Lavender Melon, purple, tasty!"
+        },
+        {
+          "s": 0,
+          "t": "It's probably a melon from Inazuma."
+        },
+        {
+          "s": 0,
+          "t": "This isn't a Lavender Melon, it's a Sunsettia!"
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Shibasuke, Paimon, Mamesuke"
+        },
+        {
+          "s": 2,
+          "t": "Yellow Fur kapow! Fly high, can't learn... Mm..."
+        },
+        {
+          "s": 0,
+          "t": "You can't? Oh well, but this still counts as a way to enter a wind current..."
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "s": 0,
+          "t": "It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!"
+        },
+        {
+          "sit": "Maybe it has something to do with soil and climate."
+        },
+        {
+          "sit": "Maybe it has something to do with Archon preferences."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, it's thundering all day over there in Inazuma..."
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Shibasuke, Paimon, Mamesuke"
+        },
+        {
+          "s": 2,
+          "t": "Yellow Fur kapow! Fly high, can't learn... Mm..."
+        },
+        {
+          "s": 0,
+          "t": "You can't? Oh well, but this still counts as a way to enter a wind current..."
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "s": 0,
+          "t": "It's a Sunsettia. Actually, both of them grow on Cuihua Wood, but the fruit varies according to the location!"
+        },
+        {
+          "sit": "Maybe it has something to do with soil and climate."
+        },
+        {
+          "sit": "Maybe it has something to do with Archon preferences."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's heard that storms are ever-present in Inazuma!"
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Shibasuke, Paimon, Mamesuke"
+        },
+        {
+          "s": 2,
+          "t": "Yellow Fur kapow! Fly high, can't learn... Mm..."
+        },
+        {
+          "s": 0,
+          "t": "You can't? Oh well, but this still counts as a way to enter a wind current..."
+        },
+        {
+          "s": 1,
+          "t": "Wow! Not purple Lavender Melon!"
+        },
+        {
+          "sit": "Lavender Melon?"
+        },
+        {
+          "sit": "Are Lavender Melons a special type of Sunsettia?"
+        },
+        {
+          "s": 1,
+          "t": "Lavender Melon, purple, tasty!"
+        },
+        {
+          "s": 0,
+          "t": "It's probably a melon from Inazuma."
+        },
+        {
+          "s": 0,
+          "t": "This isn't a Lavender Melon, it's a Sunsettia!"
+        },
+        {
+          "s": 2,
+          "t": "Flaming grass there! White Fur! Hurry!"
+        },
+        {
+          "s": 0,
+          "t": "Flaming grass... Oh, you mean Flaming Flowers!"
+        },
+        {
+          "sit": "Maybe it's a Dendro Slime on fire."
+        },
+        {
+          "sit": "It might be a Pyro Whopperflower."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, that is possible... Let's go take a look!"
+        },
+        {
+          "section": "Paimon, Shibasuke, Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Paimon knew it was a Flaming Flower."
+        },
+        {
+          "s": 0,
+          "t": "Paimon remembers that Kichiboushi called it a fire flower. It seems bake-danuki have different names for it."
+        },
+        {
+          "s": 2,
+          "t": "Flame grass~ fire flower~"
+        },
+        {
+          "s": 1,
+          "t": "Flame grass so hot."
+        },
+        {
+          "s": 0,
+          "t": "There's a trick to picking Flaming Flowers! You have to extinguish them first to pick them safely."
+        },
+        {
+          "s": 0,
+          "t": "You'll need water or ice on a sunny day, and it's even easier if there's a Hydro Amber nearby. If it's raining, just use Anemo to swirl the rain and wet it."
+        },
+        {
+          "s": 2,
+          "t": "White Fur knows much, very amazing."
+        },
+        {
+          "s": 0,
+          "t": "Of course! Paimon and {NICKNAME} have learned a lot in our adventures."
+        },
+        {
+          "s": 2,
+          "t": "Anemo Amber, Hydro Amber, same?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... How should we explain this... They look almost the same, but one creates a wind current, and the other creates rain."
+        },
+        {
+          "s": 1,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Wow! Shibasuke transformed into a Hydro Amber!"
+        },
+        {
+          "sit": "I kinda wish you could transform too, Paimon..."
+        },
+        {
+          "s": 0,
+          "t": "Paimon can't do that!"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, let's help Mamesuke and Shibasuke pick the Flaming Flower..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? We've got Slimes dropping from the skies!"
+        },
+        {
+          "section": "Paimon, Mamesuke, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Paimon knew it was a Flaming Flower."
+        },
+        {
+          "s": 1,
+          "t": "Flame grass so hot."
+        },
+        {
+          "s": 0,
+          "t": "There's a trick to picking Flaming Flowers! You have to extinguish them first to pick them safely."
+        },
+        {
+          "s": 0,
+          "t": "You'll need water or ice on a sunny day, and it's even easier if there's a Hydro Amber nearby. If it's raining, just use Anemo to swirl the rain and wet it."
+        },
+        {
+          "s": 2,
+          "t": "White Fur knows much, very amazing."
+        },
+        {
+          "s": 0,
+          "t": "Of course! Paimon and {NICKNAME} have learned a lot in our adventures."
+        },
+        {
+          "s": 2,
+          "t": "Anemo Amber, Hydro Amber, same?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... How should we explain this... They look almost the same, but one creates a wind current, and the other creates rain."
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Wow! Shibasuke transformed into a Hydro Amber!"
+        },
+        {
+          "sit": "I kinda wish you could transform too, Paimon..."
+        },
+        {
+          "s": 0,
+          "t": "Paimon can't do that!"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, let's help Mamesuke and Shibasuke pick the Flaming Flower..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? We've got Slimes dropping from the skies!"
+        },
+        {
+          "section": "Paimon, Shibasuke, Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Pyro Slimes are much more dangerous than Flaming Flowers because they explode. But just like Flaming Flowers, extinguishing them solves all your problems!"
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "It should be safe now. Give the Flaming Flower Stamen to Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 2,
+          "t": "Thanks! White Fur strong, Yellow Fur strong too."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Shibasuke's amazing too."
+        },
+        {
+          "s": 1,
+          "t": "Mondstadt fun, but..."
+        },
+        {
+          "s": 2,
+          "t": "Not enough."
+        },
+        {
+          "s": 0,
+          "t": "Do you mean that you want to play somewhere else? Uh... {NICKNAME}, what should we do?"
+        },
+        {
+          "sit": "Maybe we can switch to the mountain style of Liyue."
+        },
+        {
+          "s": 0,
+          "t": "Right! Mamesuke, Shibasuke! Would you like to see the scenery in Liyue?"
+        },
+        {
+          "s": 1,
+          "t": "Liyue fun?"
+        },
+        {
+          "sit": "There are Geovishaps there that inflict excruciating pain when they hit you."
+        },
+        {
+          "sit": "There are Jueyun Chilis there that make you spew flames."
+        },
+        {
+          "s": 0,
+          "t": "Hey! Stop that! Who would want to go there after hearing that!?"
+        },
+        {
+          "s": 1,
+          "t": "Wow! Very fun!"
+        },
+        {
+          "s": 2,
+          "t": "We go!"
+        },
+        {
+          "s": 0,
+          "t": "Eh!?"
+        },
+        {
+          "s": 0,
+          "t": "Oh... Then let's do another mountain kaboom!"
+        },
+        {
+          "section": "Mamesuke, Shibasuke, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Yey! Wait moment!"
+        },
+        {
+          "s": 2,
+          "t": "Mm, wait moment?"
+        },
+        {
+          "s": 0,
+          "t": "Is it just like last time?"
+        },
+        {
+          "sit": "Some time later, you return to see Mamesuke and Shibasuke again..."
+        },
+        {
+          "s": 0,
+          "t": "They look like they're having a lot of fun here in the Liyue-styled mountains!"
+        },
+        {
+          "s": 1,
+          "t": "Fun! Very red, very yellow!"
+        },
+        {
+          "s": 2,
+          "t": "Stone plate very round, very flat, very weird!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? What's that?"
+        },
+        {
+          "s": 2,
+          "t": "Take White Fur see!"
+        },
+        {
+          "section": "Paimon, Shibasuke, Mamesuke"
+        },
+        {
+          "s": 0,
+          "t": "Whew... They're so fast..."
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha! White Fur weak!"
+        },
+        {
+          "s": 0,
+          "t": "...Shibasuke is pushing its luck..."
+        },
+        {
+          "s": 1,
+          "t": "White Fur, look! Strange plate!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, that! It's a mechanism activated by weight! Actually, there are some in Inazuma, too."
+        },
+        {
+          "s": 2,
+          "t": "Weight?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... Something heavy! Like..."
+        },
+        {
+          "sit": "Like Paimon."
+        },
+        {
+          "sit": "Like a Meteorite."
+        },
+        {
+          "s": 0,
+          "t": "Paimon isn't that heavy!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Lavender Melon?"
+        },
+        {
+          "s": 0,
+          "t": "Lavender Melons are too light!"
+        },
+        {
+          "s": 1,
+          "t": "Mmm... Hydro Amber?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... Paimon's never tried it, but it probably won't work..."
+        },
+        {
+          "s": 2,
+          "t": "Mmm! Stones heavy enough!"
+        },
+        {
+          "s": 0,
+          "t": "Shibasuke is really quick on his feet! {NICKNAME}, since Shibasuke is here to help, why don't we unlock this mechanism?"
+        },
+        {
+          "section": "Shibasuke"
+        },
+        {
+          "s": 2,
+          "t": "Body heavy... Mm!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Shibarock, Shibarock! Mm-hehe!"
+        },
+        {
+          "section": "Mamesuke, Paimon, Shibasuke"
+        },
+        {
+          "s": 1,
+          "t": "Yey! Box!"
+        },
+        {
+          "s": 0,
+          "t": "Woohoo! A chest!"
+        },
+        {
+          "sit": "Luckily, it didn't activate a challenge."
+        },
+        {
+          "s": 0,
+          "t": "Even if it did, it would be really fun with Mamesuke and Shibasuke here to help!"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Mamesuke help!"
+        },
+        {
+          "s": 2,
+          "t": "White Fur no fear, Shibasuke strong."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Mamesuke and Shibasuke are so reliable now!"
+        },
+        {
+          "sit": "Guess you've gotta work harder too, Paimon."
+        },
+        {
+          "s": 0,
+          "t": "C'mon, Paimon has always been really reliable!"
+        },
+        {
+          "sit": "Something is happening in the distance..."
+        },
+        {
+          "s": 2,
+          "t": "Strange sound there! Shibasuke check!"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Mamesuke go too!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? What strange sound? Paimon didn't hear anything... Ah!"
+        },
+        {
+          "s": 0,
+          "t": "You two are too impatient! {NICKNAME}, let's catch up with them!"
+        },
+        {
+          "section": "Shibasuke, Mamesuke, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "Yellow Fur so strong! Kaboom!"
+        },
+        {
+          "s": 1,
+          "t": "So strong!"
+        },
+        {
+          "s": 0,
+          "t": "Of course! She's(He's) the famous {NICKNAME}!"
+        },
+        {
+          "s": 2,
+          "t": "Mm! Famous! Amazing!"
+        },
+        {
+          "s": 0,
+          "t": "So the Anemo Amber and Hydro Amber that appeared earlier... Were they Mamesuke and Shibasuke trying to help us out?"
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? But I remember Mamesuke mentioning that Shibasuke can't transform when afraid..."
+        },
+        {
+          "s": 2,
+          "t": "Afraid, but White Fur and Yellow Fur in danger."
+        },
+        {
+          "s": 1,
+          "t": "Mm, Shibasuke help!"
+        },
+        {
+          "s": 0,
+          "t": "Aw, Shibasuke, so you did all this to help us out..."
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha! White Fur dirty!"
+        },
+        {
+          "sit": "Dirty~"
+        },
+        {
+          "s": 0,
+          "t": "Uh! Paimon's just touched!"
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, alright. Have you two had enough fun now? Want to return to Inazuma yet?"
+        },
+        {
+          "s": 2,
+          "t": "No."
+        },
+        {
+          "s": 0,
+          "t": "Eh!?"
+        },
+        {
+          "s": 2,
+          "t": "Go Mondstadt! Liyue!"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Not Mondstadt and Liyue with island and mountain."
+        },
+        {
+          "s": 0,
+          "t": "Ah? You want to go to the real Mondstadt and Liyue instead of returning to Inazuma?"
+        },
+        {
+          "s": 1,
+          "t": "White Fur smart!"
+        },
+        {
+          "s": 0,
+          "t": "Uh... What do we do... What do you think, {NICKNAME}?"
+        },
+        {
+          "sit": "We can take them with us when we leave."
+        },
+        {
+          "s": 0,
+          "t": "Mondstadt seems like the better choice for our first destination... Let's go to Windrise! The terrain is more even, and it's close to the city."
+        },
+        {
+          "s": 2,
+          "t": "Woohoo! Mondstadt!"
+        },
+        {
+          "s": 0,
+          "t": "But the situation here on the islands isn't very clear! Let's head back once we've resolved everything!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Lavender Melon, White Fur like?"
+        },
+        {
+          "section": "Shibasuke"
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha! Mondstadt! Lavender Melon kapow!"
+        },
+        {
+          "section": "Paimon, Mamesuke, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Mamesuke! Shibasuke! We can go to Mondstadt now!"
+        },
+        {
+          "s": 1,
+          "t": "Woohoo! Mondstadt!"
+        },
+        {
+          "s": 2,
+          "t": "Mm! White Fur, Yellow Fur, so slow!"
+        },
+        {
+          "s": 0,
+          "t": "Alright! Let's go now!"
+        },
+        {
+          "section": "Shibasuke, Mamesuke, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "Yellow Fur so strong! Kaboom!"
+        },
+        {
+          "s": 1,
+          "t": "So strong!"
+        },
+        {
+          "s": 0,
+          "t": "Of course! She's(He's) the famous {NICKNAME}!"
+        },
+        {
+          "s": 2,
+          "t": "Mm! Famous! Amazing!"
+        },
+        {
+          "s": 0,
+          "t": "So the Anemo Amber and Hydro Amber that appeared earlier... Were they Mamesuke and Shibasuke trying to help us out?"
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Eh? But I remember Mamesuke mentioning that Shibasuke can't transform when afraid..."
+        },
+        {
+          "s": 2,
+          "t": "Afraid, but White Fur and Yellow Fur in danger."
+        },
+        {
+          "s": 1,
+          "t": "Mm, Shibasuke help!"
+        },
+        {
+          "s": 0,
+          "t": "Aw, Shibasuke, so you did all this to help us out..."
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha! White Fur dirty!"
+        },
+        {
+          "sit": "Dirty~"
+        },
+        {
+          "s": 0,
+          "t": "Uh! Paimon's just touched!"
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, alright. Have you two had enough fun now? Want to return to Inazuma yet?"
+        },
+        {
+          "s": 2,
+          "t": "No."
+        },
+        {
+          "s": 0,
+          "t": "Eh!?"
+        },
+        {
+          "s": 2,
+          "t": "Go Mondstadt! Liyue!"
+        },
+        {
+          "s": 1,
+          "t": "Mm! Not Mondstadt and Liyue with island and mountain."
+        },
+        {
+          "s": 0,
+          "t": "Ah? You want to go to the real Mondstadt and Liyue instead of returning to Inazuma?"
+        },
+        {
+          "s": 1,
+          "t": "White Fur smart!"
+        },
+        {
+          "s": 0,
+          "t": "Uh... What do we do... What do you think, {NICKNAME}?"
+        },
+        {
+          "sit": "We can take them with us when we leave."
+        },
+        {
+          "s": 0,
+          "t": "Mondstadt seems like the better choice for our first destination... Let's go to Windrise! The terrain is more even, and it's close to the city."
+        },
+        {
+          "s": 2,
+          "t": "Woohoo! Mondstadt!"
+        },
+        {
+          "s": 0,
+          "t": "Alright! Let's go now!"
+        },
+        {
+          "section": "Paimon, Mamesuke, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Well, this is Mondstadt. What do you think? The scenery is pretty nice, right?"
+        },
+        {
+          "s": 1,
+          "t": "Mm!"
+        },
+        {
+          "s": 2,
+          "t": "Mmmm!!!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, {NICKNAME} and Paimon started our adventure in Mondstadt, and we've made so many unforgettable memories along the way..."
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon hopes Mamesuke and Shibasuke will be able to create many happy memories in Mondstadt, just like {NICKNAME} and Paimon did..."
+        },
+        {
+          "s": 1,
+          "t": "Mmmm..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Does this mean..."
+        },
+        {
+          "s": 0,
+          "t": "It's just like what happened with Kichiboushi when Ioroi's bake-danuki meal wore off..."
+        },
+        {
+          "sit": "They can't speak anymore..."
+        },
+        {
+          "sit": "We can't understand them anymore..."
+        },
+        {
+          "s": 0,
+          "t": "It feels like waking up from a dream..."
+        },
+        {
+          "sit": "It's because we've left the islands..."
+        },
+        {
+          "s": 0,
+          "t": "But they look like they'll be fine..."
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha!"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, Shibasuke can take care of itself now, so they should be fine! Happy adventuring!"
+        },
+        {
+          "section": "Paimon, Mamesuke, Shibasuke"
+        },
+        {
+          "s": 0,
+          "t": "Well, this is Mondstadt. What do you think? The scenery is pretty nice, right?"
+        },
+        {
+          "s": 1,
+          "t": "Mm!"
+        },
+        {
+          "s": 2,
+          "t": "Mmmm!!!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, {NICKNAME} and Paimon started our adventure in Mondstadt, and we've made so many unforgettable memories along the way..."
+        },
+        {
+          "s": 2,
+          "t": "Mm!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon hopes Mamesuke and Shibasuke will be able to create many happy memories in Mondstadt, just like {NICKNAME} and Paimon did..."
+        },
+        {
+          "s": 1,
+          "t": "Mmmm..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Does this mean..."
+        },
+        {
+          "sit": "They can't speak anymore..."
+        },
+        {
+          "sit": "We can't understand them anymore..."
+        },
+        {
+          "s": 0,
+          "t": "It feels like waking up from a dream..."
+        },
+        {
+          "sit": "It's because we've left the islands..."
+        },
+        {
+          "s": 0,
+          "t": "But they look like they'll be fine..."
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha!"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, Shibasuke can take care of itself now, so they should be fine! Happy adventuring!"
+        },
+        {
+          "section": "Mamesuke"
+        },
+        {
+          "s": 1,
+          "t": "Mm?"
+        },
+        {
+          "section": "Shibasuke"
+        },
+        {
+          "s": 2,
+          "t": "Mmhaha!"
+        },
+        {
+          "section": "Katheryne, Paimon"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, Paimon, have you met two bake-danuki recently, by any chance? One of them carries a purple cloth bag, while the other has a yellow one..."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! You must be talking about Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 3,
+          "t": "Ah, great, so you do know them."
+        },
+        {
+          "s": 0,
+          "t": "Um, did something happen to them?"
+        },
+        {
+          "s": 3,
+          "t": "Not really, they just made a bunch of gestures before giving me this..."
+        },
+        {
+          "s": 3,
+          "t": "I've heard that you once visited the Good Hunter with a bake-danuki from Inazuma, so I thought you might be friends. I think they wanted me to give this to you."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! So this is a gift from Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, looks like their journey's off to a good start! Paimon wonders if we'll ever meet again..."
+        },
+        {
+          "section": "Katheryne, Paimon"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, Paimon, have you met two bake-danuki recently, by any chance? One of them carries a purple cloth bag, while the other has a yellow one..."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! You must be talking about Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 3,
+          "t": "Ah, great, so you do know them."
+        },
+        {
+          "s": 0,
+          "t": "Um, did something happen to them?"
+        },
+        {
+          "s": 3,
+          "t": "Not really, they just made a bunch of gestures before giving me this..."
+        },
+        {
+          "s": 3,
+          "t": "From their gesticulations, I had a feeling that they might be friends of yours. I think they wanted me to give this to you."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! So this is a gift from Mamesuke and Shibasuke!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, looks like their journey's off to a good start! Paimon wonders if we'll ever meet again..."
+        }
+      ],
+      "description": "A bake-danuki seems to be looking for help on Pudding Isle…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Mamesuke",
+    "Shibasuke",
+    "Katheryne"
+  ],
+  "id": "q-79025"
+}

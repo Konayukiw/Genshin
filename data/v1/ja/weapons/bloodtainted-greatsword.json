@@ -1,0 +1,705 @@
+{
+  "name": "龍血を浴びた剣",
+  "rarity": 3,
+  "type": "両手剣",
+  "base_atk": 38,
+  "passive": {
+    "name": "炎と雷の破滅",
+    "refinements": {
+      "R1": "炎元素または雷元素の影響を受けた敵に対するダメージ+12%。",
+      "R2": "炎元素または雷元素の影響を受けた敵に対するダメージ+15%。",
+      "R3": "炎元素または雷元素の影響を受けた敵に対するダメージ+18%。",
+      "R4": "炎元素または雷元素の影響を受けた敵に対するダメージ+21%。",
+      "R5": "炎元素または雷元素の影響を受けた敵に対するダメージ+24%。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 38,
+      "substat": "Elemental Mastery",
+      "substat_value": 41
+    },
+    {
+      "level": 2,
+      "base_atk": 40,
+      "substat": "Elemental Mastery",
+      "substat_value": 41
+    },
+    {
+      "level": 3,
+      "base_atk": 43,
+      "substat": "Elemental Mastery",
+      "substat_value": 41
+    },
+    {
+      "level": 4,
+      "base_atk": 46,
+      "substat": "Elemental Mastery",
+      "substat_value": 41
+    },
+    {
+      "level": 5,
+      "base_atk": 48,
+      "substat": "Elemental Mastery",
+      "substat_value": 47
+    },
+    {
+      "level": 6,
+      "base_atk": 51,
+      "substat": "Elemental Mastery",
+      "substat_value": 47
+    },
+    {
+      "level": 7,
+      "base_atk": 53,
+      "substat": "Elemental Mastery",
+      "substat_value": 47
+    },
+    {
+      "level": 8,
+      "base_atk": 56,
+      "substat": "Elemental Mastery",
+      "substat_value": 47
+    },
+    {
+      "level": 9,
+      "base_atk": 58,
+      "substat": "Elemental Mastery",
+      "substat_value": 47
+    },
+    {
+      "level": 10,
+      "base_atk": 61,
+      "substat": "Elemental Mastery",
+      "substat_value": 56
+    },
+    {
+      "level": 11,
+      "base_atk": 63,
+      "substat": "Elemental Mastery",
+      "substat_value": 56
+    },
+    {
+      "level": 12,
+      "base_atk": 66,
+      "substat": "Elemental Mastery",
+      "substat_value": 56
+    },
+    {
+      "level": 13,
+      "base_atk": 68,
+      "substat": "Elemental Mastery",
+      "substat_value": 56
+    },
+    {
+      "level": 14,
+      "base_atk": 71,
+      "substat": "Elemental Mastery",
+      "substat_value": 56
+    },
+    {
+      "level": 15,
+      "base_atk": 73,
+      "substat": "Elemental Mastery",
+      "substat_value": 64
+    },
+    {
+      "level": 16,
+      "base_atk": 76,
+      "substat": "Elemental Mastery",
+      "substat_value": 64
+    },
+    {
+      "level": 17,
+      "base_atk": 78,
+      "substat": "Elemental Mastery",
+      "substat_value": 64
+    },
+    {
+      "level": 18,
+      "base_atk": 81,
+      "substat": "Elemental Mastery",
+      "substat_value": 64
+    },
+    {
+      "level": 19,
+      "base_atk": 83,
+      "substat": "Elemental Mastery",
+      "substat_value": 64
+    },
+    {
+      "level": 20,
+      "base_atk": 86,
+      "substat": "Elemental Mastery",
+      "substat_value": 72
+    },
+    {
+      "level": 21,
+      "base_atk": 107,
+      "substat": "Elemental Mastery",
+      "substat_value": 72
+    },
+    {
+      "level": 22,
+      "base_atk": 110,
+      "substat": "Elemental Mastery",
+      "substat_value": 72
+    },
+    {
+      "level": 23,
+      "base_atk": 112,
+      "substat": "Elemental Mastery",
+      "substat_value": 72
+    },
+    {
+      "level": 24,
+      "base_atk": 115,
+      "substat": "Elemental Mastery",
+      "substat_value": 72
+    },
+    {
+      "level": 25,
+      "base_atk": 117,
+      "substat": "Elemental Mastery",
+      "substat_value": 80
+    },
+    {
+      "level": 26,
+      "base_atk": 119,
+      "substat": "Elemental Mastery",
+      "substat_value": 80
+    },
+    {
+      "level": 27,
+      "base_atk": 122,
+      "substat": "Elemental Mastery",
+      "substat_value": 80
+    },
+    {
+      "level": 28,
+      "base_atk": 124,
+      "substat": "Elemental Mastery",
+      "substat_value": 80
+    },
+    {
+      "level": 29,
+      "base_atk": 126,
+      "substat": "Elemental Mastery",
+      "substat_value": 80
+    },
+    {
+      "level": 30,
+      "base_atk": 129,
+      "substat": "Elemental Mastery",
+      "substat_value": 89
+    },
+    {
+      "level": 31,
+      "base_atk": 131,
+      "substat": "Elemental Mastery",
+      "substat_value": 89
+    },
+    {
+      "level": 32,
+      "base_atk": 133,
+      "substat": "Elemental Mastery",
+      "substat_value": 89
+    },
+    {
+      "level": 33,
+      "base_atk": 135,
+      "substat": "Elemental Mastery",
+      "substat_value": 89
+    },
+    {
+      "level": 34,
+      "base_atk": 138,
+      "substat": "Elemental Mastery",
+      "substat_value": 89
+    },
+    {
+      "level": 35,
+      "base_atk": 140,
+      "substat": "Elemental Mastery",
+      "substat_value": 97
+    },
+    {
+      "level": 36,
+      "base_atk": 142,
+      "substat": "Elemental Mastery",
+      "substat_value": 97
+    },
+    {
+      "level": 37,
+      "base_atk": 145,
+      "substat": "Elemental Mastery",
+      "substat_value": 97
+    },
+    {
+      "level": 38,
+      "base_atk": 147,
+      "substat": "Elemental Mastery",
+      "substat_value": 97
+    },
+    {
+      "level": 39,
+      "base_atk": 149,
+      "substat": "Elemental Mastery",
+      "substat_value": 97
+    },
+    {
+      "level": 40,
+      "base_atk": 151,
+      "substat": "Elemental Mastery",
+      "substat_value": 105
+    },
+    {
+      "level": 41,
+      "base_atk": 173,
+      "substat": "Elemental Mastery",
+      "substat_value": 105
+    },
+    {
+      "level": 42,
+      "base_atk": 175,
+      "substat": "Elemental Mastery",
+      "substat_value": 105
+    },
+    {
+      "level": 43,
+      "base_atk": 177,
+      "substat": "Elemental Mastery",
+      "substat_value": 105
+    },
+    {
+      "level": 44,
+      "base_atk": 180,
+      "substat": "Elemental Mastery",
+      "substat_value": 105
+    },
+    {
+      "level": 45,
+      "base_atk": 182,
+      "substat": "Elemental Mastery",
+      "substat_value": 113
+    },
+    {
+      "level": 46,
+      "base_atk": 184,
+      "substat": "Elemental Mastery",
+      "substat_value": 113
+    },
+    {
+      "level": 47,
+      "base_atk": 186,
+      "substat": "Elemental Mastery",
+      "substat_value": 113
+    },
+    {
+      "level": 48,
+      "base_atk": 188,
+      "substat": "Elemental Mastery",
+      "substat_value": 113
+    },
+    {
+      "level": 49,
+      "base_atk": 191,
+      "substat": "Elemental Mastery",
+      "substat_value": 113
+    },
+    {
+      "level": 50,
+      "base_atk": 193,
+      "substat": "Elemental Mastery",
+      "substat_value": 122
+    },
+    {
+      "level": 51,
+      "base_atk": 214,
+      "substat": "Elemental Mastery",
+      "substat_value": 122
+    },
+    {
+      "level": 52,
+      "base_atk": 217,
+      "substat": "Elemental Mastery",
+      "substat_value": 122
+    },
+    {
+      "level": 53,
+      "base_atk": 219,
+      "substat": "Elemental Mastery",
+      "substat_value": 122
+    },
+    {
+      "level": 54,
+      "base_atk": 221,
+      "substat": "Elemental Mastery",
+      "substat_value": 122
+    },
+    {
+      "level": 55,
+      "base_atk": 223,
+      "substat": "Elemental Mastery",
+      "substat_value": 130
+    },
+    {
+      "level": 56,
+      "base_atk": 225,
+      "substat": "Elemental Mastery",
+      "substat_value": 130
+    },
+    {
+      "level": 57,
+      "base_atk": 227,
+      "substat": "Elemental Mastery",
+      "substat_value": 130
+    },
+    {
+      "level": 58,
+      "base_atk": 229,
+      "substat": "Elemental Mastery",
+      "substat_value": 130
+    },
+    {
+      "level": 59,
+      "base_atk": 232,
+      "substat": "Elemental Mastery",
+      "substat_value": 130
+    },
+    {
+      "level": 60,
+      "base_atk": 234,
+      "substat": "Elemental Mastery",
+      "substat_value": 138
+    },
+    {
+      "level": 61,
+      "base_atk": 255,
+      "substat": "Elemental Mastery",
+      "substat_value": 138
+    },
+    {
+      "level": 62,
+      "base_atk": 257,
+      "substat": "Elemental Mastery",
+      "substat_value": 138
+    },
+    {
+      "level": 63,
+      "base_atk": 259,
+      "substat": "Elemental Mastery",
+      "substat_value": 138
+    },
+    {
+      "level": 64,
+      "base_atk": 262,
+      "substat": "Elemental Mastery",
+      "substat_value": 138
+    },
+    {
+      "level": 65,
+      "base_atk": 264,
+      "substat": "Elemental Mastery",
+      "substat_value": 146
+    },
+    {
+      "level": 66,
+      "base_atk": 266,
+      "substat": "Elemental Mastery",
+      "substat_value": 146
+    },
+    {
+      "level": 67,
+      "base_atk": 268,
+      "substat": "Elemental Mastery",
+      "substat_value": 146
+    },
+    {
+      "level": 68,
+      "base_atk": 270,
+      "substat": "Elemental Mastery",
+      "substat_value": 146
+    },
+    {
+      "level": 69,
+      "base_atk": 272,
+      "substat": "Elemental Mastery",
+      "substat_value": 146
+    },
+    {
+      "level": 70,
+      "base_atk": 274,
+      "substat": "Elemental Mastery",
+      "substat_value": 154
+    },
+    {
+      "level": 71,
+      "base_atk": 296,
+      "substat": "Elemental Mastery",
+      "substat_value": 154
+    },
+    {
+      "level": 72,
+      "base_atk": 298,
+      "substat": "Elemental Mastery",
+      "substat_value": 154
+    },
+    {
+      "level": 73,
+      "base_atk": 300,
+      "substat": "Elemental Mastery",
+      "substat_value": 154
+    },
+    {
+      "level": 74,
+      "base_atk": 302,
+      "substat": "Elemental Mastery",
+      "substat_value": 154
+    },
+    {
+      "level": 75,
+      "base_atk": 304,
+      "substat": "Elemental Mastery",
+      "substat_value": 163
+    },
+    {
+      "level": 76,
+      "base_atk": 306,
+      "substat": "Elemental Mastery",
+      "substat_value": 163
+    },
+    {
+      "level": 77,
+      "base_atk": 308,
+      "substat": "Elemental Mastery",
+      "substat_value": 163
+    },
+    {
+      "level": 78,
+      "base_atk": 310,
+      "substat": "Elemental Mastery",
+      "substat_value": 163
+    },
+    {
+      "level": 79,
+      "base_atk": 312,
+      "substat": "Elemental Mastery",
+      "substat_value": 163
+    },
+    {
+      "level": 80,
+      "base_atk": 314,
+      "substat": "Elemental Mastery",
+      "substat_value": 171
+    },
+    {
+      "level": 81,
+      "base_atk": 336,
+      "substat": "Elemental Mastery",
+      "substat_value": 171
+    },
+    {
+      "level": 82,
+      "base_atk": 338,
+      "substat": "Elemental Mastery",
+      "substat_value": 171
+    },
+    {
+      "level": 83,
+      "base_atk": 340,
+      "substat": "Elemental Mastery",
+      "substat_value": 171
+    },
+    {
+      "level": 84,
+      "base_atk": 342,
+      "substat": "Elemental Mastery",
+      "substat_value": 171
+    },
+    {
+      "level": 85,
+      "base_atk": 344,
+      "substat": "Elemental Mastery",
+      "substat_value": 179
+    },
+    {
+      "level": 86,
+      "base_atk": 346,
+      "substat": "Elemental Mastery",
+      "substat_value": 179
+    },
+    {
+      "level": 87,
+      "base_atk": 348,
+      "substat": "Elemental Mastery",
+      "substat_value": 179
+    },
+    {
+      "level": 88,
+      "base_atk": 350,
+      "substat": "Elemental Mastery",
+      "substat_value": 179
+    },
+    {
+      "level": 89,
+      "base_atk": 352,
+      "substat": "Elemental Mastery",
+      "substat_value": 179
+    },
+    {
+      "level": 90,
+      "base_atk": 354,
+      "substat": "Elemental Mastery",
+      "substat_value": 187
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "凛風奔狼の乳歯",
+          "id": 114005,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "地脈の旧枝",
+          "id": 112020,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "牢固な矢先",
+          "id": 112011,
+          "count": 1,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "凛風奔狼の砕牙",
+          "id": 114006,
+          "count": 2,
+          "rank": 3
+        },
+        {
+          "name": "地脈の旧枝",
+          "id": 112020,
+          "count": 8,
+          "rank": 2
+        },
+        {
+          "name": "牢固な矢先",
+          "id": 112011,
+          "count": 5,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "凛風奔狼の砕牙",
+          "id": 114006,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "地脈の枯れ葉",
+          "id": 112021,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "鋭利な矢先",
+          "id": 112012,
+          "count": 4,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "凛風奔狼の断牙",
+          "id": 114007,
+          "count": 2,
+          "rank": 4
+        },
+        {
+          "name": "地脈の枯れ葉",
+          "id": 112021,
+          "count": 8,
+          "rank": 3
+        },
+        {
+          "name": "鋭利な矢先",
+          "id": 112012,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 25000,
+      "items": [
+        {
+          "name": "凛風奔狼の断牙",
+          "id": 114007,
+          "count": 4,
+          "rank": 4
+        },
+        {
+          "name": "地脈の新芽",
+          "id": 112022,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "歴戦の矢先",
+          "id": 112013,
+          "count": 4,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "凛風奔狼の郷愁",
+          "id": 114008,
+          "count": 3,
+          "rank": 5
+        },
+        {
+          "name": "地脈の新芽",
+          "id": 112022,
+          "count": 12,
+          "rank": 4
+        },
+        {
+          "name": "歴戦の矢先",
+          "id": 112013,
+          "count": 8,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "12302"
+}

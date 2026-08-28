@@ -1,0 +1,705 @@
+{
+  "name": "聖祭者の輝杖",
+  "rarity": 4,
+  "type": "槍",
+  "base_atk": 45,
+  "passive": {
+    "name": "染まらぬ渇望",
+    "refinements": {
+      "R1": "元素スキルが敵に命中した後の6秒間、攻撃力+8%、元素チャージ効率+6%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+      "R2": "元素スキルが敵に命中した後の6秒間、攻撃力+10%、元素チャージ効率+7.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+      "R3": "元素スキルが敵に命中した後の6秒間、攻撃力+12%、元素チャージ効率+9%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+      "R4": "元素スキルが敵に命中した後の6秒間、攻撃力+14%、元素チャージ効率+10.5%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。",
+      "R5": "元素スキルが敵に命中した後の6秒間、攻撃力+16%、元素チャージ効率+12%。この効果は最大3層まで重ね掛け可能。装備したキャラクターが待機している場合にも効果を発動できる。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 45,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.0
+    },
+    {
+      "level": 2,
+      "base_atk": 49,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.0
+    },
+    {
+      "level": 3,
+      "base_atk": 53,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.0
+    },
+    {
+      "level": 4,
+      "base_atk": 58,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.0
+    },
+    {
+      "level": 5,
+      "base_atk": 62,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.3
+    },
+    {
+      "level": 6,
+      "base_atk": 66,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.3
+    },
+    {
+      "level": 7,
+      "base_atk": 71,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.3
+    },
+    {
+      "level": 8,
+      "base_atk": 75,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.3
+    },
+    {
+      "level": 9,
+      "base_atk": 79,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.3
+    },
+    {
+      "level": 10,
+      "base_atk": 84,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.7
+    },
+    {
+      "level": 11,
+      "base_atk": 88,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.7
+    },
+    {
+      "level": 12,
+      "base_atk": 92,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.7
+    },
+    {
+      "level": 13,
+      "base_atk": 97,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.7
+    },
+    {
+      "level": 14,
+      "base_atk": 101,
+      "substat": "CRIT Rate%",
+      "substat_value": 2.7
+    },
+    {
+      "level": 15,
+      "base_atk": 106,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.1
+    },
+    {
+      "level": 16,
+      "base_atk": 110,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.1
+    },
+    {
+      "level": 17,
+      "base_atk": 115,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.1
+    },
+    {
+      "level": 18,
+      "base_atk": 119,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.1
+    },
+    {
+      "level": 19,
+      "base_atk": 124,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.1
+    },
+    {
+      "level": 20,
+      "base_atk": 128,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.5
+    },
+    {
+      "level": 21,
+      "base_atk": 159,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.5
+    },
+    {
+      "level": 22,
+      "base_atk": 163,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.5
+    },
+    {
+      "level": 23,
+      "base_atk": 168,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.5
+    },
+    {
+      "level": 24,
+      "base_atk": 172,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.5
+    },
+    {
+      "level": 25,
+      "base_atk": 177,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.9
+    },
+    {
+      "level": 26,
+      "base_atk": 182,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.9
+    },
+    {
+      "level": 27,
+      "base_atk": 186,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.9
+    },
+    {
+      "level": 28,
+      "base_atk": 191,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.9
+    },
+    {
+      "level": 29,
+      "base_atk": 195,
+      "substat": "CRIT Rate%",
+      "substat_value": 3.9
+    },
+    {
+      "level": 30,
+      "base_atk": 200,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.3
+    },
+    {
+      "level": 31,
+      "base_atk": 205,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.3
+    },
+    {
+      "level": 32,
+      "base_atk": 209,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.3
+    },
+    {
+      "level": 33,
+      "base_atk": 214,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.3
+    },
+    {
+      "level": 34,
+      "base_atk": 219,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.3
+    },
+    {
+      "level": 35,
+      "base_atk": 224,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.7
+    },
+    {
+      "level": 36,
+      "base_atk": 228,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.7
+    },
+    {
+      "level": 37,
+      "base_atk": 233,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.7
+    },
+    {
+      "level": 38,
+      "base_atk": 238,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.7
+    },
+    {
+      "level": 39,
+      "base_atk": 242,
+      "substat": "CRIT Rate%",
+      "substat_value": 4.7
+    },
+    {
+      "level": 40,
+      "base_atk": 247,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.1
+    },
+    {
+      "level": 41,
+      "base_atk": 278,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.1
+    },
+    {
+      "level": 42,
+      "base_atk": 283,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.1
+    },
+    {
+      "level": 43,
+      "base_atk": 287,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.1
+    },
+    {
+      "level": 44,
+      "base_atk": 292,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.1
+    },
+    {
+      "level": 45,
+      "base_atk": 297,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.6
+    },
+    {
+      "level": 46,
+      "base_atk": 302,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.6
+    },
+    {
+      "level": 47,
+      "base_atk": 306,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.6
+    },
+    {
+      "level": 48,
+      "base_atk": 311,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.6
+    },
+    {
+      "level": 49,
+      "base_atk": 316,
+      "substat": "CRIT Rate%",
+      "substat_value": 5.6
+    },
+    {
+      "level": 50,
+      "base_atk": 321,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.0
+    },
+    {
+      "level": 51,
+      "base_atk": 352,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.0
+    },
+    {
+      "level": 52,
+      "base_atk": 356,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.0
+    },
+    {
+      "level": 53,
+      "base_atk": 361,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.0
+    },
+    {
+      "level": 54,
+      "base_atk": 366,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.0
+    },
+    {
+      "level": 55,
+      "base_atk": 371,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 56,
+      "base_atk": 376,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 57,
+      "base_atk": 381,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 58,
+      "base_atk": 385,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 59,
+      "base_atk": 390,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.4
+    },
+    {
+      "level": 60,
+      "base_atk": 395,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.8
+    },
+    {
+      "level": 61,
+      "base_atk": 426,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.8
+    },
+    {
+      "level": 62,
+      "base_atk": 431,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.8
+    },
+    {
+      "level": 63,
+      "base_atk": 436,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.8
+    },
+    {
+      "level": 64,
+      "base_atk": 440,
+      "substat": "CRIT Rate%",
+      "substat_value": 6.8
+    },
+    {
+      "level": 65,
+      "base_atk": 445,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 66,
+      "base_atk": 450,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 67,
+      "base_atk": 455,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 68,
+      "base_atk": 460,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 69,
+      "base_atk": 465,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 70,
+      "base_atk": 470,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.6
+    },
+    {
+      "level": 71,
+      "base_atk": 501,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.6
+    },
+    {
+      "level": 72,
+      "base_atk": 505,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.6
+    },
+    {
+      "level": 73,
+      "base_atk": 510,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.6
+    },
+    {
+      "level": 74,
+      "base_atk": 515,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.6
+    },
+    {
+      "level": 75,
+      "base_atk": 520,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.0
+    },
+    {
+      "level": 76,
+      "base_atk": 525,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.0
+    },
+    {
+      "level": 77,
+      "base_atk": 530,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.0
+    },
+    {
+      "level": 78,
+      "base_atk": 535,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.0
+    },
+    {
+      "level": 79,
+      "base_atk": 540,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.0
+    },
+    {
+      "level": 80,
+      "base_atk": 545,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 81,
+      "base_atk": 576,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 82,
+      "base_atk": 581,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 83,
+      "base_atk": 585,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 84,
+      "base_atk": 590,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 85,
+      "base_atk": 595,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.8
+    },
+    {
+      "level": 86,
+      "base_atk": 600,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.8
+    },
+    {
+      "level": 87,
+      "base_atk": 605,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.8
+    },
+    {
+      "level": 88,
+      "base_atk": 610,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.8
+    },
+    {
+      "level": 89,
+      "base_atk": 615,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.8
+    },
+    {
+      "level": 90,
+      "base_atk": 620,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.2
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "長夜の灯火の余燼",
+          "id": 114077,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "暗き霧の欠片",
+          "id": 112134,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "破損した駆動軸",
+          "id": 112122,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "長夜の灯火の残照",
+          "id": 114078,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "暗き霧の欠片",
+          "id": 112134,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "破損した駆動軸",
+          "id": 112122,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "長夜の灯火の残照",
+          "id": 114078,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "暗き霧の鎧",
+          "id": 112135,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "強固な駆動軸",
+          "id": 112123,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "長夜の灯火の紫炎",
+          "id": 114079,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "暗き霧の鎧",
+          "id": 112135,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "強固な駆動軸",
+          "id": 112123,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "長夜の灯火の紫炎",
+          "id": 114079,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "暗き霧の兜",
+          "id": 112136,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "精巧な駆動軸",
+          "id": 112124,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "長夜の灯火の輝光",
+          "id": 114080,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "暗き霧の兜",
+          "id": 112136,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "精巧な駆動軸",
+          "id": 112124,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "13434"
+}

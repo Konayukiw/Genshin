@@ -1,0 +1,705 @@
+{
+  "name": "Weapon: Sword",
+  "rarity": 5,
+  "type": "Sword",
+  "base_atk": 48,
+  "passive": {
+    "name": "Weapon Affix",
+    "refinements": {
+      "R1": "The equipping character becomes the center of attention when they use their Elemental Skill or Elemental Burst, and gains different Attention effects:\nBlazing Attention: CRIT DMG is increased by 48% for the next 10s;\nDazzling Attention: Stellar Swirl reaction DMG is increased by 28% for the next 10s;\nRadiant Attention: Regenerates 3 Elemental Energy.\nEach trigger applies one of the above effects, cycling through the sequence above.",
+      "R2": "The equipping character becomes the center of attention when they use their Elemental Skill or Elemental Burst, and gains different Attention effects:\nBlazing Attention: CRIT DMG is increased by 62% for the next 10s;\nDazzling Attention: Stellar Swirl reaction DMG is increased by 35% for the next 10s;\nRadiant Attention: Regenerates 3.5 Elemental Energy.\nEach trigger applies one of the above effects, cycling through the sequence above.",
+      "R3": "The equipping character becomes the center of attention when they use their Elemental Skill or Elemental Burst, and gains different Attention effects:\nBlazing Attention: CRIT DMG is increased by 76% for the next 10s;\nDazzling Attention: Stellar Swirl reaction DMG is increased by 42% for the next 10s;\nRadiant Attention: Regenerates 4 Elemental Energy.\nEach trigger applies one of the above effects, cycling through the sequence above.",
+      "R4": "The equipping character becomes the center of attention when they use their Elemental Skill or Elemental Burst, and gains different Attention effects:\nBlazing Attention: CRIT DMG is increased by 90% for the next 10s;\nDazzling Attention: Stellar Swirl reaction DMG is increased by 49% for the next 10s;\nRadiant Attention: Regenerates 4.5 Elemental Energy.\nEach trigger applies one of the above effects, cycling through the sequence above.",
+      "R5": "The equipping character becomes the center of attention when they use their Elemental Skill or Elemental Burst, and gains different Attention effects:\nBlazing Attention: CRIT DMG is increased by 104% for the next 10s;\nDazzling Attention: Stellar Swirl reaction DMG is increased by 56% for the next 10s;\nRadiant Attention: Regenerates 5 Elemental Energy.\nEach trigger applies one of the above effects, cycling through the sequence above."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 48,
+      "substat": "CRIT DMG%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 2,
+      "base_atk": 52,
+      "substat": "CRIT DMG%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 3,
+      "base_atk": 56,
+      "substat": "CRIT DMG%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 4,
+      "base_atk": 61,
+      "substat": "CRIT DMG%",
+      "substat_value": 9.6
+    },
+    {
+      "level": 5,
+      "base_atk": 65,
+      "substat": "CRIT DMG%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 6,
+      "base_atk": 69,
+      "substat": "CRIT DMG%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 7,
+      "base_atk": 74,
+      "substat": "CRIT DMG%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 8,
+      "base_atk": 78,
+      "substat": "CRIT DMG%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 9,
+      "base_atk": 83,
+      "substat": "CRIT DMG%",
+      "substat_value": 11.2
+    },
+    {
+      "level": 10,
+      "base_atk": 87,
+      "substat": "CRIT DMG%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 11,
+      "base_atk": 92,
+      "substat": "CRIT DMG%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 12,
+      "base_atk": 96,
+      "substat": "CRIT DMG%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 13,
+      "base_atk": 101,
+      "substat": "CRIT DMG%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 14,
+      "base_atk": 106,
+      "substat": "CRIT DMG%",
+      "substat_value": 13.1
+    },
+    {
+      "level": 15,
+      "base_atk": 110,
+      "substat": "CRIT DMG%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 16,
+      "base_atk": 115,
+      "substat": "CRIT DMG%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 17,
+      "base_atk": 119,
+      "substat": "CRIT DMG%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 18,
+      "base_atk": 124,
+      "substat": "CRIT DMG%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 19,
+      "base_atk": 129,
+      "substat": "CRIT DMG%",
+      "substat_value": 15.0
+    },
+    {
+      "level": 20,
+      "base_atk": 133,
+      "substat": "CRIT DMG%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 21,
+      "base_atk": 169,
+      "substat": "CRIT DMG%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 22,
+      "base_atk": 174,
+      "substat": "CRIT DMG%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 23,
+      "base_atk": 179,
+      "substat": "CRIT DMG%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 24,
+      "base_atk": 183,
+      "substat": "CRIT DMG%",
+      "substat_value": 17.0
+    },
+    {
+      "level": 25,
+      "base_atk": 188,
+      "substat": "CRIT DMG%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 26,
+      "base_atk": 193,
+      "substat": "CRIT DMG%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 27,
+      "base_atk": 197,
+      "substat": "CRIT DMG%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 28,
+      "base_atk": 202,
+      "substat": "CRIT DMG%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 29,
+      "base_atk": 207,
+      "substat": "CRIT DMG%",
+      "substat_value": 18.9
+    },
+    {
+      "level": 30,
+      "base_atk": 212,
+      "substat": "CRIT DMG%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 31,
+      "base_atk": 217,
+      "substat": "CRIT DMG%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 32,
+      "base_atk": 221,
+      "substat": "CRIT DMG%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 33,
+      "base_atk": 226,
+      "substat": "CRIT DMG%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 34,
+      "base_atk": 231,
+      "substat": "CRIT DMG%",
+      "substat_value": 20.8
+    },
+    {
+      "level": 35,
+      "base_atk": 236,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 36,
+      "base_atk": 241,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 37,
+      "base_atk": 246,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 38,
+      "base_atk": 251,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 39,
+      "base_atk": 256,
+      "substat": "CRIT DMG%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 40,
+      "base_atk": 261,
+      "substat": "CRIT DMG%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 41,
+      "base_atk": 297,
+      "substat": "CRIT DMG%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 42,
+      "base_atk": 302,
+      "substat": "CRIT DMG%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 43,
+      "base_atk": 306,
+      "substat": "CRIT DMG%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 44,
+      "base_atk": 311,
+      "substat": "CRIT DMG%",
+      "substat_value": 24.7
+    },
+    {
+      "level": 45,
+      "base_atk": 316,
+      "substat": "CRIT DMG%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 46,
+      "base_atk": 321,
+      "substat": "CRIT DMG%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 47,
+      "base_atk": 326,
+      "substat": "CRIT DMG%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 48,
+      "base_atk": 331,
+      "substat": "CRIT DMG%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 49,
+      "base_atk": 336,
+      "substat": "CRIT DMG%",
+      "substat_value": 26.7
+    },
+    {
+      "level": 50,
+      "base_atk": 341,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 51,
+      "base_atk": 378,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 52,
+      "base_atk": 383,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 53,
+      "base_atk": 388,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 54,
+      "base_atk": 393,
+      "substat": "CRIT DMG%",
+      "substat_value": 28.6
+    },
+    {
+      "level": 55,
+      "base_atk": 398,
+      "substat": "CRIT DMG%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 56,
+      "base_atk": 403,
+      "substat": "CRIT DMG%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 57,
+      "base_atk": 408,
+      "substat": "CRIT DMG%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 58,
+      "base_atk": 413,
+      "substat": "CRIT DMG%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 59,
+      "base_atk": 418,
+      "substat": "CRIT DMG%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 60,
+      "base_atk": 423,
+      "substat": "CRIT DMG%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 61,
+      "base_atk": 460,
+      "substat": "CRIT DMG%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 62,
+      "base_atk": 465,
+      "substat": "CRIT DMG%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 63,
+      "base_atk": 470,
+      "substat": "CRIT DMG%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 64,
+      "base_atk": 475,
+      "substat": "CRIT DMG%",
+      "substat_value": 32.5
+    },
+    {
+      "level": 65,
+      "base_atk": 480,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 66,
+      "base_atk": 485,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 67,
+      "base_atk": 491,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 68,
+      "base_atk": 496,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 69,
+      "base_atk": 501,
+      "substat": "CRIT DMG%",
+      "substat_value": 34.4
+    },
+    {
+      "level": 70,
+      "base_atk": 506,
+      "substat": "CRIT DMG%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 71,
+      "base_atk": 543,
+      "substat": "CRIT DMG%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 72,
+      "base_atk": 548,
+      "substat": "CRIT DMG%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 73,
+      "base_atk": 553,
+      "substat": "CRIT DMG%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 74,
+      "base_atk": 558,
+      "substat": "CRIT DMG%",
+      "substat_value": 36.3
+    },
+    {
+      "level": 75,
+      "base_atk": 563,
+      "substat": "CRIT DMG%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 76,
+      "base_atk": 569,
+      "substat": "CRIT DMG%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 77,
+      "base_atk": 574,
+      "substat": "CRIT DMG%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 78,
+      "base_atk": 579,
+      "substat": "CRIT DMG%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 79,
+      "base_atk": 585,
+      "substat": "CRIT DMG%",
+      "substat_value": 38.3
+    },
+    {
+      "level": 80,
+      "base_atk": 590,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 81,
+      "base_atk": 626,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 82,
+      "base_atk": 632,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 83,
+      "base_atk": 637,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 84,
+      "base_atk": 642,
+      "substat": "CRIT DMG%",
+      "substat_value": 40.2
+    },
+    {
+      "level": 85,
+      "base_atk": 648,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 86,
+      "base_atk": 653,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 87,
+      "base_atk": 658,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 88,
+      "base_atk": 664,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 89,
+      "base_atk": 669,
+      "substat": "CRIT DMG%",
+      "substat_value": 42.2
+    },
+    {
+      "level": 90,
+      "base_atk": 674,
+      "substat": "CRIT DMG%",
+      "substat_value": 44.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "Rise of the Pale Star Army",
+          "id": 114085,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Hollow Root of Life",
+          "id": 112155,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Chimeric Core",
+          "id": 112149,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "Muster of the Pale Star Army",
+          "id": 114086,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "Hollow Root of Life",
+          "id": 112155,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "Chimeric Core",
+          "id": 112149,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "Muster of the Pale Star Army",
+          "id": 114086,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Sprout Node of Life",
+          "id": 112156,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Symbiotic Chimeric Nucleus",
+          "id": 112150,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "Clarion of the Pale Star Army",
+          "id": 114087,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "Sprout Node of Life",
+          "id": 112156,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "Symbiotic Chimeric Nucleus",
+          "id": 112150,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "Clarion of the Pale Star Army",
+          "id": 114087,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "Coiled Core of Life",
+          "id": 112157,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "Prime Chimeric Nexus",
+          "id": 112151,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "Triumph of the Pale Star Army",
+          "id": 114088,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "Coiled Core of Life",
+          "id": 112157,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "Prime Chimeric Nexus",
+          "id": 112151,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "11522"
+}

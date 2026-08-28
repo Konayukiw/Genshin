@@ -1,0 +1,3636 @@
+{
+  "chapter": "Lupus Majoris Chapter",
+  "chapter_title": "To Those Who Embark on the Expedition",
+  "act": "Act 1",
+  "act_title": "To Those Who Embark on the Expedition",
+  "region": null,
+  "quests": [
+    {
+      "title": "Triumphant Warrior",
+      "dialogue": [
+        {
+          "section": "Venti"
+        },
+        {
+          "s": 0,
+          "t": "Ah, welcome back, old friend. And how should I be addressing you these days? The Honorary Knight of Mondstadt? The \"Tumaini\" of Natlan? Or the great hero of Nod-Krai?"
+        },
+        {
+          "s": 1,
+          "t": "Just call me by my name..."
+        },
+        {
+          "s": 2,
+          "t": "Wow, you sure have your finger on the pulse... We've barely caught our breath since Nod-Krai, but it sounds like you've already heard about what went down."
+        },
+        {
+          "s": 0,
+          "t": "Heh, news travels fast on the wind. But before I can turn your tales into tunes, I need to hear them from the horse's mouth."
+        },
+        {
+          "s": 0,
+          "t": "My wine and my lyre are at the ready. So please, {NICKNAME}, take a seat and tell me your tale."
+        },
+        {
+          "sit": "You tell Venti everything that happened in Nod-Krai..."
+        },
+        {
+          "s": 0,
+          "t": "...Amazing, incredible! The Rächer of Solnari and The Doctor... Truly a tale for the ages!"
+        },
+        {
+          "s": 0,
+          "t": "So I'm guessing the Wild Hunt is a thing of the past now that you've defeated the Rächer of Solnari?"
+        },
+        {
+          "s": 2,
+          "t": "Seems that way... We were kinda focused on dealing with The Doctor, though."
+        },
+        {
+          "sit": "There are still some vestiges of the Wild Hunt around..."
+        },
+        {
+          "sit": "But not enough to pose a major threat."
+        },
+        {
+          "s": 0,
+          "t": "Well, that's good to hear. Hey, now that the Northern Abyss Calamity is finally resolved, Varka must be getting ready for the triumphant return of his expedition, right?"
+        },
+        {
+          "s": 0,
+          "t": "I haven't seen him in the longest time... He must have so many stories to share."
+        },
+        {
+          "s": 1,
+          "t": "I was gonna ask... You two have really met before?"
+        },
+        {
+          "s": 2,
+          "t": "Right, Paimon was wondering about that too! He did call you Barbatos... But weren't you still fast asleep back when he was in Mondstadt?"
+        },
+        {
+          "s": 0,
+          "t": "Umm... Let's call it half-asleep. I was resting my eyes in the Thousand Winds Temple one day when I heard a commotion outside..."
+        },
+        {
+          "s": 0,
+          "t": "It was a young knight, who had journeyed there in search of trials and oracles after hearing some tall tales at the local tavern..."
+        },
+        {
+          "s": 0,
+          "t": "In fact, all that awaited him were moss-covered walls and an angry Ruin Guard. But he seemed completely unfazed, laughing heartily as he sent the Ruin Guard's missiles flying off into the horizons..."
+        },
+        {
+          "s": 2,
+          "t": "They must have been making quite a racket if it was enough to wake up the Tone-Deaf Bard..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah... It sounded kinda like..."
+        },
+        {
+          "s": 3,
+          "t": "BOOM! BOOM! BOOM!"
+        },
+        {
+          "s": 4,
+          "t": "Hey! Is that all you've got?"
+        },
+        {
+          "s": 4,
+          "t": "Bring it on! Hahaha!"
+        },
+        {
+          "s": 0,
+          "t": "...Like that..."
+        },
+        {
+          "s": 4,
+          "t": "Giving up already? Hey, you're not half as tough as Varka said."
+        },
+        {
+          "s": 0,
+          "t": "A young Knight of Favonius, trekking out to the Thousand Winds Temple in search of adventure... Now there's a sight I haven't seen in a while."
+        },
+        {
+          "s": 4,
+          "t": "Hmm? A bard in green clothes... Does this mean... you're Venti?"
+        },
+        {
+          "s": 4,
+          "t": "Hah! I was just wondering how I was gonna track you down."
+        },
+        {
+          "s": 2,
+          "t": "Oh... So you were looking for the Tone-Deaf Bard? Strange place to start your search..."
+        },
+        {
+          "sit": "I would have tried the Angel's Share..."
+        },
+        {
+          "sit": "I would have gone to The Cat's Tail..."
+        },
+        {
+          "s": 4,
+          "t": "Hold on — blond hair, white hair... You must be the Honorary Knight and Paimon? The Grand Master talks about you all the time."
+        },
+        {
+          "s": 4,
+          "t": "Allow me to introduce myself. I'm Lohen, Vice Captain of the 5th Company of the Knights of Favonius and a member of the expeditionary force. Pleased to make your acquaintance."
+        },
+        {
+          "s": 2,
+          "t": "Ohhh, so you're part of the expedition, huh? Right, so that's why Paimon's never seen you around in Mondstadt... Hey, wait a second! We never saw you in Nod-Krai, either!"
+        },
+        {
+          "s": 4,
+          "t": "That's probably because when the Wild Hunt was still running rampant, I spent most of my time out on my own, making mincemeat out of monsters. I barely went back to base at all."
+        },
+        {
+          "s": 4,
+          "t": "Then, once the Wild Hunt calmed down, I got sent back to Mondstadt... Mixed blessing, if you ask me. Sounds like I missed out on some serious action."
+        },
+        {
+          "s": 2,
+          "t": "No wonder we never saw you while we were dealing with The Doctor... So, why did Varka send you back?"
+        },
+        {
+          "s": 1,
+          "t": "Don't tell me he sent you to—"
+        },
+        {
+          "s": 4,
+          "t": "Deliver some letters."
+        },
+        {
+          "s": 1,
+          "t": "...I was gonna say deliver a letter..."
+        },
+        {
+          "s": 4,
+          "t": "There's one for the Knights of Favonius, one for the church, another for the Dawn Winery... At least ten of them in total."
+        },
+        {
+          "s": 2,
+          "t": "Geez... How many people has he sent to deliver his mail now? Mika, Ineffa, Lohen... He should just hire a full-time mailman already!"
+        },
+        {
+          "s": 2,
+          "t": "In fact, he's earned himself a new nickname. Let's go with... Sir Writes-A-Lot!"
+        },
+        {
+          "s": 1,
+          "t": "Another day, another nickname, huh, Tone-Deaf Bard?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, I'll have you know that poetry and letters were humanity's earliest means of expressing their thoughts."
+        },
+        {
+          "s": 0,
+          "t": "So, tone-deaf or not, I wear the title of bard with pride — and I consider \"Sir Writes-A-Lot\" to be quite a compliment."
+        },
+        {
+          "s": 2,
+          "t": "Wait, really? Darn it... Maybe Paimon should come up with some harder-hitting nicknames for these two..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway... Since this young man has come all the way to the Thousand Winds Temple looking for me, I assume he must have a letter for me, too. Am I right?"
+        },
+        {
+          "s": 4,
+          "t": "You sure are. To use the Grand Master's own words:"
+        },
+        {
+          "s": 5,
+          "t": "\"This one is for the bard in green clothes. These days, I think he goes by... Venti?\""
+        },
+        {
+          "s": 5,
+          "t": "\"Doesn't really have an address, as such... You could start by asking around in Mondstadt. Or maybe try your luck at the Thousand Winds Temple.\""
+        },
+        {
+          "s": 4,
+          "t": "I figured that since there was this punching bag here— oh sorry, \"Ruin Guard,\" I could get some practice in while I was at it. So, I came right here the second I got back to Mondstadt."
+        },
+        {
+          "s": 2,
+          "t": "That Varka is so slapdash sometimes... It's a good thing we happened to be nearby."
+        },
+        {
+          "s": 1,
+          "t": "So? What does the letter say?"
+        },
+        {
+          "s": 4,
+          "t": "Oh — he also said to remind you to write back."
+        },
+        {
+          "s": 0,
+          "t": "...Nothing in particular — just some idle chatter between two drinking buddies. But if I'm supposed to write back this time... Hmm, I'll need some time to mull over my response."
+        },
+        {
+          "s": 0,
+          "t": "Varka gave you a whole bunch of letters to deliver, right? Maybe you can head into Mondstadt and deliver the rest of them first?"
+        },
+        {
+          "s": 4,
+          "t": "My thoughts exactly. Assuming I can find the way... Hopefully the roads haven't changed too much since the pre-expedition days?"
+        },
+        {
+          "s": 0,
+          "t": "Well, why don't we have Mondstadt's Honorary Knight escort this homeward-bound wanderer to the city? I'm sure some of the recipients of Varka's letters will turn out to be old friends of yours too."
+        },
+        {
+          "s": 1,
+          "t": "I have no objections..."
+        },
+        {
+          "s": 2,
+          "t": "Let's go! It's been a while since Paimon's done any guide work!"
+        },
+        {
+          "s": 4,
+          "t": "Thank you so much, Honorary Knight — and you, Miss Guide!"
+        },
+        {
+          "s": 0,
+          "t": "The Abyss... The Wild Hunt... Andrius..."
+        },
+        {
+          "s": 0,
+          "t": "...Get home safe, Varka."
+        },
+        {
+          "s": 5,
+          "t": "Hmm... Why do my ears feel so hot all of a sudden? Is someone talking about me..."
+        },
+        {
+          "s": 1,
+          "t": "I would have gone to The Cat's Tail..."
+        },
+        {
+          "s": 1,
+          "t": "But not enough to pose a major threat."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "...Surely, there's no way anyone found the secret stash of cash in my office? That would be terrible..."
+        },
+        {
+          "s": 6,
+          "t": "Grand Master! Bad time to get distracted!"
+        },
+        {
+          "s": 7,
+          "t": "Watch out! Enemies approaching!"
+        },
+        {
+          "s": 5,
+          "t": "Huh? Oh, it's just a few stragglers. They're no real threat to us."
+        },
+        {
+          "s": 5,
+          "t": "This expedition is almost over. We just need to deal with these final few targets... and then..."
+        },
+        {
+          "s": 5,
+          "t": "We will make our triumphant return!"
+        },
+        {
+          "section": "Winfried"
+        },
+        {
+          "s": 6,
+          "t": "Without the Rächer of Solnari to direct them, it seems like all that's left is their primal urge to destroy."
+        },
+        {
+          "s": 7,
+          "t": "If this is all that the Wild Hunt can muster now, surely the Lightkeepers of Nod-Krai will be able to deal with what's left?"
+        },
+        {
+          "s": 5,
+          "t": "(Just like I thought... What we should be wary of now, is—)"
+        },
+        {
+          "s": 8,
+          "t": "Grand Master, based on Lightkeeper intel and our own reconnaissance, one of the suspected targets should be just up ahead."
+        },
+        {
+          "s": 5,
+          "t": "Good. You know the drill — Stay here and stand guard. Leave the rest to me."
+        },
+        {
+          "s": 6,
+          "t": "Yes, Grand Master!"
+        },
+        {
+          "s": 5,
+          "t": "...We meet again, Andrius."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "(Everything seems normal so far... Here's hoping I'm just overthinking things. There are two other places to check... Maybe this'll all go smoothly after all?)"
+        },
+        {
+          "s": 5,
+          "t": "...It's your turn, my friend."
+        },
+        {
+          "s": 5,
+          "t": "Come, Andrius."
+        },
+        {
+          "s": 9,
+          "t": "...Although if we're returning to your old home, perhaps \"Andrius\" is a little too ostentatious..."
+        },
+        {
+          "s": 9,
+          "t": "Hmm, might be better to go by..."
+        },
+        {
+          "s": 9,
+          "t": "...\"Boreas\"?"
+        },
+        {
+          "s": 10,
+          "t": "...Boreas."
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 10,
+          "t": "...Injustice, corruption, iniquity..."
+        },
+        {
+          "s": 10,
+          "t": "Is the surface world still as wretched and foul as ever?"
+        },
+        {
+          "s": 10,
+          "t": "Answer me, heir to the knighthood of Boreas."
+        },
+        {
+          "s": 5,
+          "t": "Heh... Looks like I'm not getting out of this without a fight!"
+        },
+        {
+          "section": "Jean"
+        },
+        {
+          "s": 5,
+          "t": "\"...That's where things stand with the expedition. The victors will be returning home soon — so make sure to stock up on wine for the celebrations!\""
+        },
+        {
+          "s": 5,
+          "t": "\"P.S.: I hope everyone's keeping up with their daily training! I'll be testing you all when I get back to make sure no one's regressed.\""
+        },
+        {
+          "s": 5,
+          "t": "\"P.P.S.: I wrote individual letters for each and every one of you. Don't forget to write back!\" — That's all."
+        },
+        {
+          "s": 2,
+          "t": "Everyone gets one? Wow, Sir Writes-A-Lot is really living up to his name!"
+        },
+        {
+          "s": 11,
+          "t": "I guess the Grand Master must have something specific to say to each of us."
+        },
+        {
+          "s": 12,
+          "t": "Even I got a letter — and I'm not a real Knight yet..."
+        },
+        {
+          "s": 13,
+          "t": "..."
+        },
+        {
+          "s": 14,
+          "t": "...Jean?"
+        },
+        {
+          "s": 13,
+          "t": "Oh... Yes, that's our Grand Master for you."
+        },
+        {
+          "s": 4,
+          "t": "By the way, anyone know where I can find the Cavalry Captain? I have a letter for him as well."
+        },
+        {
+          "s": 15,
+          "t": "You mean, Kaeya? He said he was meeting a friend from the church at the Angel's Share."
+        },
+        {
+          "s": 15,
+          "t": "Allegedly for work — said he was \"exchanging intel.\" But I'd say there's a fifty-fifty chance he's just there for a drink."
+        },
+        {
+          "sit": "The Angel's Share..."
+        },
+        {
+          "sit": "Intelligence from the Church of Favonius?"
+        },
+        {
+          "s": 2,
+          "t": "Paimon bets there'll be lots of familiar faces there... How about we deliver Kaeya's letter? ...And these other two as well!"
+        },
+        {
+          "s": 4,
+          "t": "Really? That would be a great help, thank you."
+        },
+        {
+          "s": 13,
+          "t": "Our thanks to you too, Lohen. The other knights will help distribute the remaining letters. You've had a long journey — please, go get some rest."
+        },
+        {
+          "s": 4,
+          "t": "Great! But I won't be resting just yet. I have one last letter to deliver to Wolvendom. This one, I was planning on delivering personally."
+        },
+        {
+          "s": 4,
+          "t": "I heard that another challenger recently passed Boreas's trial? Well, with any luck, that wolf might be willing to reveal himself to me, too..."
+        },
+        {
+          "s": 13,
+          "t": "*sigh* ...Very well. But please remember to show respect to the local wolves."
+        },
+        {
+          "s": 4,
+          "t": "I will. Goodbye!"
+        },
+        {
+          "s": 13,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "(Clearly, something is bothering Jean. I should talk to her before going to the Angel's Share.)"
+        },
+        {
+          "s": 1,
+          "t": "Intelligence from the Church of Favonius?"
+        },
+        {
+          "section": "Amber, Mika"
+        },
+        {
+          "s": 11,
+          "t": "Okay, we'll deliver these letters to the Adventurers' Guild and The Cat's Tail! You can just handle the ones for the Angel's Share."
+        },
+        {
+          "s": 16,
+          "t": "Phew... The expedition is finally wrapping up. I hope the maps I made on our way there are good enough to get them safely home."
+        },
+        {
+          "section": "Eula"
+        },
+        {
+          "s": 15,
+          "t": "He wants to test me to see if my skills have regressed? Hmph, I still haven't forgotten how he went easy on me last time!"
+        },
+        {
+          "s": 15,
+          "t": "I'm assuming you must have seen him going all out before? When the time comes, you'd better keep an eye on him for me!"
+        },
+        {
+          "section": "Noelle"
+        },
+        {
+          "s": 12,
+          "t": "The Grand Master offered lots of advice in his letter regarding my recent assessments... I didn't think he'd spare a thought for that kind of thing in the middle of an expedition."
+        },
+        {
+          "s": 12,
+          "t": "So, um... Honorary Knight, if you have the time... do you think you could help me out with my special training?"
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 14,
+          "t": "Ah, the Grand Master... The archives are filled with documents awaiting his review. I'm not letting him run off again until he's finished dealing with every last one."
+        },
+        {
+          "s": 14,
+          "t": "On another note... have you spoken to Jean? I hope she'll finally be able to relax a little once Varka returns."
+        },
+        {
+          "section": "Sucrose"
+        },
+        {
+          "s": 17,
+          "t": "The Grand Master wrote in his letter that the Boom Blossom Bombs we sent worked really well — he wants to know if we've made any more..."
+        },
+        {
+          "s": 18,
+          "t": "Uncle Varka's coming home? Yay! I can't wait to go outside and play with him!"
+        },
+        {
+          "section": "Jean"
+        },
+        {
+          "s": 13,
+          "t": "Honorary Knight? You're still here?"
+        },
+        {
+          "sit": "I'll be setting off shortly, but..."
+        },
+        {
+          "sit": "It seems like there's something on your mind?"
+        },
+        {
+          "s": 13,
+          "t": "...Is it that obvious?"
+        },
+        {
+          "s": 2,
+          "t": "Huh? But... Varka's coming back, the situation in Nod-Krai is stable... Surely things are looking up?"
+        },
+        {
+          "s": 13,
+          "t": "True. From what you and Lohen have told me, the expedition has indeed accomplished its strategic objectives."
+        },
+        {
+          "s": 13,
+          "t": "It seems that Mondstadt no longer faces any threat from the perils of the North, be they the Wild Hunt or The Doctor."
+        },
+        {
+          "s": 13,
+          "t": "And yet... For some reason, I can't help but recall something the Grand Master said to me before he left..."
+        },
+        {
+          "s": 5,
+          "t": "...If I don't make it back from this expedition, you'll have to assume the mantle of Grand Master of the Knights of Favonius."
+        },
+        {
+          "s": 5,
+          "t": "If it comes to that, remember to train the next Knight of Boreas in my stead."
+        },
+        {
+          "s": 5,
+          "t": "I've planted some promising seeds in Mondstadt, but they still need time to grow."
+        },
+        {
+          "s": 5,
+          "t": "Some have yet to master the art of social interaction, some don't yet understand that they, too, need protecting, and some... Well, some might not even want to be a knight yet."
+        },
+        {
+          "s": 5,
+          "t": "...What's wrong? Ah, there's no need to frown — I'm going on an expedition, not marching to my death! This is all just a contingency plan in the event that I'm unable to return."
+        },
+        {
+          "s": 5,
+          "t": "Until I return, I leave them in your care."
+        },
+        {
+          "s": 13,
+          "t": "...The lineage of the Knights of Boreas has nearly been extinguished twice in Mondstadt's history."
+        },
+        {
+          "s": 13,
+          "t": "The first wandering knight to claim the title arrived in Mondstadt a thousand years ago, along with his wolf companion."
+        },
+        {
+          "s": 13,
+          "t": "He was as free as the wind. He left no succession plan behind — even his name was lost to history. The title of \"Boreas\" could have disappeared from Mondstadt just as he did..."
+        },
+        {
+          "s": 13,
+          "t": "But he had an informal disciple — a knight named Ravenwood, who admired the Knight of Boreas greatly. Ravenwood's valor and swordsmanship earned him the Wolf Spirit's recognition..."
+        },
+        {
+          "s": 13,
+          "t": "...When the old aristocracy tried to regain power, Ravenwood came once more to Mondstadt's defense. From then on, the title of Knight of Boreas was passed down from generation to generation within the Knights of Favonius."
+        },
+        {
+          "s": 2,
+          "t": "\"Wolf Spirit\"... You mean that big blue wolf in Wolvendom?"
+        },
+        {
+          "s": 13,
+          "t": "Correct. As you may already know, the Wo{RUBY#[D]Boreas}lf of the North is the surviving spirit of an ancie{RUBY#[D]Andrius}nt god."
+        },
+        {
+          "s": 13,
+          "t": "And the Knight of Boreas serves as an intermediary between him and humanity."
+        },
+        {
+          "s": 13,
+          "t": "\"Lupus Boreas, who had never known what it meant to love, came to understand it through the journey with his human companion. In the end, he chose to allow his power to become one with the land...\""
+        },
+        {
+          "s": 13,
+          "t": "This was once a well-known tale in Mondstadt. But these days, few people are aware that the starting point of the Wolf King's journey was not Mondstadt, but Nod-Krai."
+        },
+        {
+          "s": 2,
+          "t": "...Huh!?"
+        },
+        {
+          "sit": "(Could it be...)"
+        },
+        {
+          "sit": "(He set off from the royal court of the Seelie...)"
+        },
+        {
+          "s": 13,
+          "t": "The Great Wolf King of the North came here from Nod-Krai... Although, he doesn't like to speak of his past. In fact, he rarely shows himself to people at all nowadays."
+        },
+        {
+          "s": 13,
+          "t": "As such, this tale can only be found deep within the Knights of Favonius Library. Even among the Knights of Favonius, few are aware of it."
+        },
+        {
+          "s": 13,
+          "t": "The Grand Master didn't disclose any concrete objectives before departing on his expedition. I couldn't help but wonder whether it might somehow be related to Nod-Krai's Wolf of the North..."
+        },
+        {
+          "s": 13,
+          "t": "I kept my speculations to myself, however. Sharing them would only spread unwarranted suspicion toward The Four Winds among the people of Mondstadt."
+        },
+        {
+          "s": 13,
+          "t": "You experienced the turmoil caused by Dvalin, the East Wind's actions for yourself. Surely you can understand my concern?"
+        },
+        {
+          "s": 2,
+          "t": "No wonder Varka wasn't clear about his motives... Is that what he was worried about?"
+        },
+        {
+          "s": 13,
+          "t": "Very possibly. He was probably also reserving judgment. Having heard about your experiences in Nod-Krai, I now suspect that the Grand Master hadn't yet ascertained the true identity of our enemy at that time."
+        },
+        {
+          "s": 13,
+          "t": "And as it turns out, the Calamity Born in the North wasn't an ancient god, but rather the Wild Hunt and The Doctor... I guess we were both jumping to conclusions."
+        },
+        {
+          "sit": "Well, always better to be overprepared than caught off guard."
+        },
+        {
+          "sit": "Facing the worst-case scenario with no backup plan would have been far worse."
+        },
+        {
+          "s": 13,
+          "t": "Yes, I completely agree. The tide can turn rapidly in times of battle. It's a leader's responsibility to prepare for every possible contingency."
+        },
+        {
+          "s": 13,
+          "t": "Even if his contingency plan never needs to be put into action, I'm sure the Grand Master is relieved to know that it's in place."
+        },
+        {
+          "s": 1,
+          "t": "Facing the worst-case scenario with no backup plan would have been far worse."
+        },
+        {
+          "s": 1,
+          "t": "(He set off from the royal court of the Seelie...)"
+        },
+        {
+          "s": 13,
+          "t": "You don't seem surprised... Did you sense something in Nod-Krai? Once again, you do us proud, Honorary Knight."
+        },
+        {
+          "s": 1,
+          "t": "It seems like there's something on your mind?"
+        },
+        {
+          "section": "Jean"
+        },
+        {
+          "s": 13,
+          "t": "Thank you for being such a patient listener. I feel much more settled after talking with you."
+        },
+        {
+          "s": 13,
+          "t": "If you have any spare time, would you mind stopping off to say hello to the other knights? I'm sure they have all missed our Honorary Knight just as much as I have."
+        },
+        {
+          "section": "Diluc"
+        },
+        {
+          "s": 19,
+          "t": "\"When you're mixing drinks in hot weather, start by pouring in cold water, and add ice cubes, then drain out the water before adding the other ingredients.\" How's that for a secret recipe? Maybe it's worth a little intel in return?"
+        },
+        {
+          "s": 20,
+          "t": "*scoff* Please, I've known that little trick for a good ten years at least. You'll have to offer something a little more substantial if you're serious about trading."
+        },
+        {
+          "s": 21,
+          "t": "I know there's no one else in the tavern right now, but do you two really need to talk so loudly? Especially if you're supposed to be exchanging confidential information."
+        },
+        {
+          "s": 2,
+          "t": "Kaeya! Rosaria! Diluc! Paimon knew we'd find you here!"
+        },
+        {
+          "s": 21,
+          "t": "...Looks like it's about to get even noisier."
+        },
+        {
+          "s": 19,
+          "t": "Haha, a little liveliness never killed anyone. {NICKNAME}, Paimon, what brings you our way?"
+        },
+        {
+          "s": 1,
+          "t": "I have a letter for each of you..."
+        },
+        {
+          "sit": "You deliver Varka's letters to their recipients..."
+        },
+        {
+          "s": 5,
+          "t": "\"...Please allow me to once again express my sincere condolences regarding your late father and the incident with Eroch. We make absolutely no excuse for his crimes.\""
+        },
+        {
+          "s": 5,
+          "t": "\"...I hope you will give some serious consideration to the question I asked you before I left — though I'm sure you're tired of hearing me ask by now. The Knights of Favonius will always welcome you.\""
+        },
+        {
+          "s": 21,
+          "t": "Hmph…"
+        },
+        {
+          "s": 19,
+          "t": "From the look on your face, I'm guessing the Grand Master is still refusing to drop it?"
+        },
+        {
+          "s": 20,
+          "t": "He nags like an old man. It's hardly surprising."
+        },
+        {
+          "s": 2,
+          "t": "Huh? Drop what? What's this about?"
+        },
+        {
+          "s": 21,
+          "t": "Nothing, really. Before leaving on the expedition, Varka came here to chat with me over a drink. I failed to avoid him."
+        },
+        {
+          "s": 21,
+          "t": "He asked me if I'd consider rejoining the Knights of Favonius, and I declined. He expressed his regret about everything that happened and asked me to reconsider. That's all there is to it."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, right... Sounds like you skipped a lot of details. There's clearly more to it!"
+        },
+        {
+          "s": 21,
+          "t": "Whatever details I chose to omit are in the past. Dragging them back up now serves no purpose."
+        },
+        {
+          "s": 19,
+          "t": "You say that now, but back then, you couldn't let it go. You and the Knights of Favonius were constantly at odds."
+        },
+        {
+          "s": 21,
+          "t": "...I wasn't seeing the full picture. I've had a lot of time to reflect since then."
+        },
+        {
+          "s": 21,
+          "t": "But my answer remains unchanged — I'm not rejoining the Knights of Favonius."
+        },
+        {
+          "s": 21,
+          "t": "Both the Grand Master and the Acting Grand Master are too upright and honorable."
+        },
+        {
+          "s": 21,
+          "t": "They can't see the shadows that lurk beneath them due to the size of the organization they lead... They need someone on the outside to keep watch vigilantly."
+        },
+        {
+          "s": 19,
+          "t": "If I had a Mora for every time I've heard you repeat that argument... I actually don't disagree with the first part of what you said. But don't you think someone can keep tabs on things from the inside?"
+        },
+        {
+          "s": 20,
+          "t": "When you join an organization, you're bound by its rules, no matter how free it may seem on the surface."
+        },
+        {
+          "s": 19,
+          "t": "You think so? Never mind the Knights... Have you honestly ever been bound by the rules of the Church?"
+        },
+        {
+          "s": 20,
+          "t": "Good question. Have you considered that maybe, that's why I chose to join the church and not the Knights to begin with?"
+        },
+        {
+          "s": 2,
+          "t": "Um... {NICKNAME}, are they arguing or not? It's kinda hard to tell..."
+        },
+        {
+          "sit": "They're not arguing."
+        },
+        {
+          "sit": "They just have different ways of protecting those around them."
+        },
+        {
+          "s": 2,
+          "t": "Ohh... Kinda like the \"contingencies\" Jean was talking about? The more ways they have to protect their home, the better! ...Huh? {NICKNAME}?"
+        },
+        {
+          "s": 1,
+          "t": "(I wonder if... this is exactly what Varka was hoping for?)"
+        },
+        {
+          "s": 1,
+          "t": "They just have different ways of protecting those around them."
+        },
+        {
+          "section": "Diluc"
+        },
+        {
+          "s": 21,
+          "t": "My reply won't be a long one — as usual. I'm sure Varka won't be surprised."
+        },
+        {
+          "section": "Kaeya"
+        },
+        {
+          "s": 19,
+          "t": "What should I report back to the Grand Master on? Let me think..."
+        },
+        {
+          "s": 19,
+          "t": "Public order inside the city, monster activity in the wild... oh, and a review of the latest vintages. Haha, I think I'll leave it at that."
+        },
+        {
+          "section": "Rosaria"
+        },
+        {
+          "s": 20,
+          "t": "If you hadn't had to deliver that guy's mail, you wouldn't have been subjected to all this tedious arguing. When I write back, I'll tell him to quit making trouble for other people."
+        },
+        {
+          "s": 2,
+          "t": "It's no trouble! Lohen did most of the work. We just volunteered to do the last leg of the journey — mostly so we could come say hello!"
+        },
+        {
+          "sit": "Besides, I wouldn't really call that an argument."
+        },
+        {
+          "sit": "You just have different ideas on how to protect Mondstadt."
+        },
+        {
+          "s": 20,
+          "t": "Heh... So you see what's really going on here. All three of us fell for that old rascal's scheme far too readily."
+        },
+        {
+          "s": 2,
+          "t": "Huh? Scheme? What do you mean? Was Varka lying in his letters, then?"
+        },
+        {
+          "s": 20,
+          "t": "No. While I'm sure Varka knows full well that Diluc would never agree to rejoin the knights, I believe the sentiments he expressed were genuine, as was his offer to welcome Diluc back."
+        },
+        {
+          "s": 20,
+          "t": "There are people like Kaeya and I... and then there are those who are true champions of justice to the core. Those people are the most susceptible to being driven to extremes by great upheaval... It's happened in Mondstadt before."
+        },
+        {
+          "s": 20,
+          "t": "Not only that... But it happened to a Knight of Boreas. That'll really hit home for Varka — and that's why his nagging is even more persistent than usual."
+        },
+        {
+          "sit": "A champion of justice driven to extremes?"
+        },
+        {
+          "sit": "You're saying, that happened to a Knight of Boreas?"
+        },
+        {
+          "s": 20,
+          "t": "Yeah... So no one's told you this before? The lineage of the Knights of Boreas has nearly been extinguished twice in history.... The first was at its inception. The second was the case I was alluding to."
+        },
+        {
+          "s": 2,
+          "t": "Oh! Wasn't Jean telling us about this? Wait, and then we got caught up talking about the expedition, and we never got around to the second time..."
+        },
+        {
+          "s": 20,
+          "t": "I happened to hear about it from Varka once when he was drinking and started yammering on. The second crisis in the Knights of Boreas lineage... It was five hundred years ago."
+        },
+        {
+          "s": 20,
+          "t": "Although the Knights of Boreas are meant to be intermediaries between humans and wolves, in practice, very few of them have been truly recognized by Lupus Boreas over the past millennium."
+        },
+        {
+          "s": 20,
+          "t": "Of those who have, the best known are the first Knight of Boreas, Ravenwood, the \"Wolf Pup\" Rostam, and... hmph... Varka himself."
+        },
+        {
+          "s": 20,
+          "t": "But five hundred years ago, there was one who earned the respect of Boreas even before gaining the title."
+        },
+        {
+          "s": 20,
+          "t": "He was a disciple of Rostam. They thought he would become the mightiest Knight of Boreas who ever lived..."
+        },
+        {
+          "s": 20,
+          "t": "He was the perfect knight. Righteous, principled... His name was Roland, the \"Bloodstained Knight.\""
+        },
+        {
+          "s": 2,
+          "t": "Yikes... \"Bloodstained Knight\"? That sounds a little ominous..."
+        },
+        {
+          "s": 20,
+          "t": "Well, apparently his original title was the \"White Knight.\""
+        },
+        {
+          "s": 20,
+          "t": "But he lost countless comrades during the Abyssal calamity five hundred years ago... including his tutor and mentor, Rostam."
+        },
+        {
+          "s": 20,
+          "t": "The endless bloodshed stained his sword and armor a crimson as deep as black, transforming the White Knight into the Bloodstained Knight."
+        },
+        {
+          "s": 20,
+          "t": "After that, he threw himself completely into battling monsters, leaving Mondstadt and the Knights of Favonius behind. To this day... no one knows his final whereabouts."
+        },
+        {
+          "s": 20,
+          "t": "It's hard to say whether the loss of an important figure in his life is what drove him to the point of obsession, or whether he was already too far gone to save."
+        },
+        {
+          "s": 20,
+          "t": "But had he known that the Knights of Favonius would always welcome him back... perhaps things would have turned out differently."
+        },
+        {
+          "s": 20,
+          "t": "So if you want my opinion... The reason why Varka keeps asking Diluc to rejoin, despite knowing that he'll never say yes, is to let him know: You are not alone."
+        },
+        {
+          "s": 20,
+          "t": "...Hmph. After all these years, he's still as persistent as ever. Just like how he used to be with me..."
+        },
+        {
+          "s": 2,
+          "t": "Huh. Turns out Varka's a lot more thoughtful than he lets on... Paimon had the wrong idea about him."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, there's still something about this whole Boreas business that Paimon isn't really getting. Wasn't Andrius a god in Mondstadt thousands of years in the past?"
+        },
+        {
+          "s": 2,
+          "t": "If so, why did Jean say that Boreas and the Wandering Knight only arrived here just one thousand years ago? Plus, Paimon's super curious about what happened to Roland..."
+        },
+        {
+          "sit": "Shall we go get answers straight from the horse's — or wolf's — mouth?"
+        },
+        {
+          "sit": "We can meet up with Lohen in Wolvendom while we're at it."
+        },
+        {
+          "s": 2,
+          "t": "That's a great idea! Jean said he hasn't been showing himself much lately, but he always seems happy to oblige whenever you show up! Let's go!"
+        },
+        {
+          "s": 1,
+          "t": "We can meet up with Lohen in Wolvendom while we're at it."
+        },
+        {
+          "s": 1,
+          "t": "You're saying, that happened to a Knight of Boreas?"
+        },
+        {
+          "s": 1,
+          "t": "You just have different ideas on how to protect Mondstadt."
+        },
+        {
+          "section": "Rosaria"
+        },
+        {
+          "s": 20,
+          "t": "Let me guess... you're heading to Wolvendom next? Say hi to Razor for me."
+        },
+        {
+          "s": 20,
+          "t": "Oh — but I'm not helping him write his response to Varka. He needs to learn to be independent."
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 2,
+          "t": "What's going on here? Was Wolvendom always like this? Paimon has a baaad feeling about this..."
+        },
+        {
+          "s": 2,
+          "t": "The Wild Hunt!? What are they doing here!? ...Watch out!"
+        },
+        {
+          "section": "Lohen"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}! Are you alright?"
+        },
+        {
+          "sit": "Stay alert!"
+        },
+        {
+          "sit": "There's still something nearby!"
+        },
+        {
+          "s": 2,
+          "t": "Oh no, what now? It better not be more Wild Hunt monsters..."
+        },
+        {
+          "s": 4,
+          "t": "...Huh?"
+        },
+        {
+          "s": 1,
+          "t": "...Lohen?"
+        },
+        {
+          "s": 2,
+          "t": "Phew... You scared Paimon stiff! She thought you were—"
+        },
+        {
+          "s": 4,
+          "t": "Stop right there. Answer me this — the two letters I gave you, who were they for?"
+        },
+        {
+          "s": 2,
+          "t": "Um... Two letters? Wasn't it three...?"
+        },
+        {
+          "sit": "...There were three."
+        },
+        {
+          "sit": "Kaeya, Diluc, and Rosaria."
+        },
+        {
+          "s": 4,
+          "t": "Okay... Well, Paimon's clueless, naive expression doesn't appear to be an act..."
+        },
+        {
+          "s": 2,
+          "t": "Hey! What are you trying to say... Wait, what are you trying to say, huh? Huh!?"
+        },
+        {
+          "s": 1,
+          "t": "He's saying, you passed the test."
+        },
+        {
+          "s": 2,
+          "t": "Paimon passed a test? Really!? She didn't even realize she was taking one..."
+        },
+        {
+          "s": 22,
+          "t": "You may dispense with your suspicions. The wolf pack has borne witness — they fought against the aberrations that encroached upon this land, and our attackers showed no ability to disguise themselves this time."
+        },
+        {
+          "s": 22,
+          "t": "Ah, a familiar scent... Come, I will await you at the usual grounds."
+        },
+        {
+          "s": 4,
+          "t": "Well, if the boss of Wolvendom has vouched for you... I guess I should apologize for doubting you just now."
+        },
+        {
+          "sit": "It always pays to remain vigilant."
+        },
+        {
+          "sit": "Were you attacked by the Wild Hunt, too?"
+        },
+        {
+          "s": 4,
+          "t": "Sure was. Fortunately, my experience in Nod-Krai didn't go to waste — turns out the Wild Hunt all feel the same when you stab them... They didn't stand a chance."
+        },
+        {
+          "s": 4,
+          "t": "Something seems wrong with that old wolf, though... Go on, you should check on him."
+        },
+        {
+          "s": 1,
+          "t": "Were you attacked by the Wild Hunt, too?"
+        },
+        {
+          "s": 1,
+          "t": "Kaeya, Diluc, and Rosaria."
+        },
+        {
+          "s": 1,
+          "t": "There's still something nearby!"
+        },
+        {
+          "section": "Razor"
+        },
+        {
+          "s": 22,
+          "t": "*pant*... *pant*..."
+        },
+        {
+          "s": 23,
+          "t": "Lupus Boreas not injured... why so weak? Am I... not strong enough?"
+        },
+        {
+          "s": 22,
+          "t": "You are not to blame... With your Iron{RUBY#[D]blade}claw, you successfully blocked their attacks. However... their assault went beyond the mere physical world."
+        },
+        {
+          "s": 22,
+          "t": "They followed my trail from the distant north across the Ley Lines... They sought to corrupt the territory I protect. But I shall not let them succeed without a fight."
+        },
+        {
+          "sit": "A trail starting in the north..."
+        },
+        {
+          "sit": "So they came from Nod-Krai?"
+        },
+        {
+          "s": 22,
+          "t": "...We meet again, Human Lupical."
+        },
+        {
+          "s": 2,
+          "t": "So... Are you saying that the Wild Hunt we just got attacked by came all the way from Nod-Krai to Mondstadt? How is that even possible..."
+        },
+        {
+          "s": 22,
+          "t": "...As you know, I stand before you as an incomplete being. I am but one remnant of the god, Andrius's soul."
+        },
+        {
+          "s": 22,
+          "t": "The source of this turmoil... I can sense it. It lies in the north — It is the part of me that remains in Nod-Krai, from whence I came."
+        },
+        {
+          "s": 2,
+          "t": "Huh? Now Paimon's even more confused! How can you be in two places at once?"
+        },
+        {
+          "sit": "Are all gods like this?"
+        },
+        {
+          "sit": "Do you all like to split yourselves into multiple parts?"
+        },
+        {
+          "s": 22,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "For many gods, housing a part of their soul within an object is no difficult feat... but those who can perform such delicate partitions as this are rare, even among the gods."
+        },
+        {
+          "s": 0,
+          "t": "The Wolf King, Andrius, was particularly adept in this art — otherwise, no remnants of his soul would have survived till the present day."
+        },
+        {
+          "s": 4,
+          "t": "...Huh? The bard's back?"
+        },
+        {
+          "s": 2,
+          "t": "Tone-Deaf Bard! What are you doing here?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, maybe the God of Anemo guided me here... For it appears that someone is in need of a tale from the distant past — and our wolf friend doesn't seem too keen on recounting it himself."
+        },
+        {
+          "s": 0,
+          "t": "Who better than a bard to do the honors? Lord Boreas, do I have your blessing to share this story?"
+        },
+        {
+          "s": 22,
+          "t": "Hmph... As you wish."
+        },
+        {
+          "s": 0,
+          "t": "\"Lupus Boreas wandered the frozen tundra, and stumbled into the Seelie Hall. Enchanted by their song, tender as the dawn starlight, and curious about the ways of humankind, the wolf bade farewell to his home, and set off for the city to the South.\""
+        },
+        {
+          "s": 0,
+          "t": "\"...As the high tower crumbled and the fierce winds fell silent, Lupus Boreas, who once had hunted with the storm winds himself, looked within and inquired: Was the shelter he provided for humanity really any different from that given by the reclusive king in his tower?\""
+        },
+        {
+          "s": 0,
+          "t": "\"The wolf entrusted those under his protection to a new god, and quietly returned to the frozen North. There, in a palace long since abandoned by its former master, the great wolf closed his eyes and slept.\""
+        },
+        {
+          "s": 0,
+          "t": "\"Five hundred bitter winters passed, then five hundred equally frigid springs. He slumbered undisturbed until a knight stumbled in from the cold — just as Lupus Boreas had once done at the Seelie Hall — and woke him at long last.\""
+        },
+        {
+          "s": 0,
+          "t": "\"The knight asked the wolf to join him on a journey south, to see once more the land that had all but faded from his memory. The gentle wolf, unwilling to refuse the human's earnest plea, split his soul into two halves and left his home once more.\""
+        },
+        {
+          "s": 0,
+          "t": "\"Seeing how the ice and snow had given way to verdant plains, hearing the laughter and song that now filled the once-somber city, the aging Lupus Boreas turned to his friend, the God of Anemo, and remarked:\""
+        },
+        {
+          "s": 0,
+          "t": "\"'So, this is the world the humans dreamed of.'\""
+        },
+        {
+          "s": 0,
+          "t": "\"...Though the knight's journey was not yet over, the wolf chose to bid farewell to his companion here.\""
+        },
+        {
+          "s": 0,
+          "t": "\"He had written the end to his story. What knowledge he had been gifted flowed into the land. Everything he was, he gave unto the world.\""
+        },
+        {
+          "s": 0,
+          "t": "Well, that's how a bard would tell the tale. Lord Boreas, is there anything you'd like to add?"
+        },
+        {
+          "s": 22,
+          "t": "...There is no need for you to ask that question."
+        },
+        {
+          "s": 2,
+          "t": "So that's what happened... You returned to Mondstadt with that knight a thousand years ago... and then, for the sake of the new Mondstadt... you..."
+        },
+        {
+          "s": 22,
+          "t": "You need not feel remorse on my account. That was my answer, my decision."
+        },
+        {
+          "s": 22,
+          "t": "If anyone should feel regret, it is the part of me who remained in Nod-Krai... I fear Andrius has not found peace in his heart even to this day."
+        },
+        {
+          "s": 22,
+          "t": "...That is surely why those vile aberrations were able to exploit his weakness, sowing the seeds of all the turbulence that has ensued."
+        },
+        {
+          "s": 4,
+          "t": "But we followed Boreas's trail in Nod-Krai. We investigated and discovered no signs of instability..."
+        },
+        {
+          "s": 22,
+          "t": "Andrius should still be slumbering by the lakeside... Perhaps all the recent turmoil in Nod-Krai has had unforeseen consequences."
+        },
+        {
+          "s": 22,
+          "t": "And there's more — I detect another familiar scent from across the Ley Lines... a scent that reeks of blood."
+        },
+        {
+          "s": 1,
+          "t": "Could it be Roland, the \"Bloodstained Knight\"?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, the White Knight who became the Bloodstained Knight? The mightiest Knight of Boreas? But wasn't he from 500 years ago? You think he's immortal or something?"
+        },
+        {
+          "s": 22,
+          "t": "I remember him as just a man. His lifespan should be no longer than any other of his kind. But before he severed his connection to \"Boreas,\" his final destination..."
+        },
+        {
+          "s": 22,
+          "t": "It was the ancient kingdom of \"Khaenri'ah,\" as you call it. Beyond that, I know not if he lived or died."
+        },
+        {
+          "s": 1,
+          "t": "Khaenri'ah, five hundred years ago..."
+        },
+        {
+          "s": 0,
+          "t": "...If you want to get to the bottom of this, I'm afraid you'll have to make another trip to Nod-Krai yourselves."
+        },
+        {
+          "s": 0,
+          "t": "As luck would have it, another old friend of ours just so happens to be free right now... If you ask him nicely, he might give you a lift. That could save you a lot of time on the road."
+        },
+        {
+          "s": 22,
+          "t": "Hmph... No wonder I can suddenly sense the East {RUBY#[D]Dvalin}Wind's presence."
+        },
+        {
+          "s": 0,
+          "t": "If even Mondstadt has been affected by the fallout, Nod-Krai must be in real trouble by now. I hope Varka can handle it."
+        },
+        {
+          "s": 23,
+          "t": "Varka? Is he... in danger? I..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I believe too many passengers would slow our dear friend down... I fear he only has room to carry one person... along with, perhaps, a diminutive companion."
+        },
+        {
+          "s": 1,
+          "t": "...I understand. I'll go."
+        },
+        {
+          "s": 4,
+          "t": "...Alright. Wish it could be me, but I accept that we should send our strongest warrior to fight Nod-Krai's battles."
+        },
+        {
+          "s": 4,
+          "t": "I'll stay here and deal with any Wild Hunt that try harassing Mondstadt — it'll be a good chance to try out some new moves."
+        },
+        {
+          "s": 23,
+          "t": "I... I..."
+        },
+        {
+          "s": 23,
+          "t": "...I... stay in Mondstadt, too... With {NICKNAME}'s help, Varka will be safe..."
+        },
+        {
+          "s": 22,
+          "t": "...Razor, give me your Iron{RUBY#[D]blade}claw."
+        },
+        {
+          "s": 22,
+          "t": "Golden-haired Traveler, give this token to the current Knight of Boreas."
+        },
+        {
+          "s": 1,
+          "t": "What's this?"
+        },
+        {
+          "s": 22,
+          "t": "It is a Wolf Spirit. It contains my power and thoughts. Though I have given him a piece before... this should bring him new strength."
+        },
+        {
+          "s": 0,
+          "t": "The Dominator of Wolves once bestowed the power of his soul upon his pack, strengthening their hearts and sharpening their claws and fangs."
+        },
+        {
+          "s": 22,
+          "t": "...But human hearts and flesh cannot bear the soul of a wolf directly. It would be akin to forcefully merging a human and a wolf into one being... they would descend into chaos."
+        },
+        {
+          "s": 22,
+          "t": "To prevent the entanglement of souls, the most I can do is temporarily house my power and thoughts within cla{RUBY#[S]blade}ws and fangs wrought of steel."
+        },
+        {
+          "s": 22,
+          "t": "Although, truth be told, that knight does not lack for power. What he needs more is the thoughts within... Hmph, but I shall leave this for him to explain."
+        },
+        {
+          "s": 1,
+          "t": "Is it safe to separate a piece of the Wolf Spirit at a time like this?"
+        },
+        {
+          "s": 22,
+          "t": "The Great Wolf King of the North remains strong for now. Besides... Do I not have the protection of my lupical?"
+        },
+        {
+          "s": 23,
+          "t": "I... will protect lupical! The north, and Varka... I leave to you."
+        },
+        {
+          "s": 0,
+          "t": "Just give me the word whenever you're ready, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Do you all like to split yourselves into multiple parts?"
+        },
+        {
+          "s": 1,
+          "t": "So they came from Nod-Krai?"
+        },
+        {
+          "section": "Razor"
+        },
+        {
+          "s": 23,
+          "t": "I can read Varka's letter. I will try my best to write a reply."
+        },
+        {
+          "s": 22,
+          "t": "A wolf's claws make poor instruments for writing human words. But that token will suffice to convey my thoughts."
+        },
+        {
+          "section": "Venti"
+        },
+        {
+          "s": 0,
+          "t": "Any questions before you set off? Better ask now — you'll probably have to hit the ground running when you get to Nod-Krai."
+        },
+        {
+          "sit": "About the Wolf of the North..."
+        },
+        {
+          "sit": "About Roland..."
+        },
+        {
+          "sit": "About the \"token\" and the Wolf Spirit..."
+        },
+        {
+          "sit": "I'm good. Let's go."
+        },
+        {
+          "s": 0,
+          "t": "The root of this turmoil lies with the remnant soul that Andrius, Dominator of Wolves and God of the North Wind, left in Nod-Krai."
+        },
+        {
+          "s": 0,
+          "t": "He once left Nod-Krai and braved the blizzards to confront the God of {RUBY#[S]Decarabian}Storms and claim the right to rule. Yet even as the tower fell, he chose to abandon his claim."
+        },
+        {
+          "s": 0,
+          "t": "Instead, he returned to the North and slumbered for a thousand years, before finally journeying back — under the name of Boreas — with the first Knight of Boreas to witness the new face of Mondstadt."
+        },
+        {
+          "s": 0,
+          "t": "When the wolf's spirit could no longer maintain his physical form, Boreas chose to pour his power into the Ley Lines... with that, he became the North Wind of Mondstadt, as he is still known to this day."
+        },
+        {
+          "s": 1,
+          "t": "About Roland..."
+        },
+        {
+          "s": 0,
+          "t": "Five hundred years ago, Roland seemed destined to become the mightiest Knight of Boreas ever to have lived... But he was too pure of heart."
+        },
+        {
+          "s": 0,
+          "t": "He believed firmly in his own ideals of chivalry, vowing to eliminate all injustice from the world. But the world had never been perfect and pure, nor would it ever be."
+        },
+        {
+          "s": 0,
+          "t": "Neither his mentor, the \"Wolf Pup\" Rostam, nor the Grand Master — known as the Lion of Light — could persuade him to temper his obsession."
+        },
+        {
+          "s": 0,
+          "t": "But what was the \"scent that reeks of blood\" that Lupus Boreas sensed? And what is its connection to Khaenri'ah and the Abyss? Perhaps you will uncover the truth in Nod-Krai."
+        },
+        {
+          "s": 1,
+          "t": "About the \"token\" and the Wolf Spirit..."
+        },
+        {
+          "s": 0,
+          "t": "The soul of a wolf is as unyielding as ice, and Andrius is a master of molding and shaping it. His people once drew great strength and wisdom from the Wolf Spirit."
+        },
+        {
+          "s": 0,
+          "t": "But human hearts and flesh cannot contain the soul of a god... Attempting to place the Wolf Spirit in a human vessel would slowly devour their sense of self, even if Lupus Boreas did not intend for that to happen."
+        },
+        {
+          "s": 0,
+          "t": "That's why Lupus Boreas developed the technique of imbuing weapons with his soul. It is his way of blessing his human lupical with the Wolf Spirit's protection."
+        },
+        {
+          "s": 0,
+          "t": "In fact, there is an ancient song that tells this tale: \"A weapon once of common iron, now through friendship turned divine, twixt man and wolf a bond was made, a power born within the blade...\""
+        },
+        {
+          "s": 0,
+          "t": "Hehe, as much as he might claim not to accept humans, his actions sing a different tune... Oh, but keep that little observation between us, will you?"
+        },
+        {
+          "s": 1,
+          "t": "I'm good. Let's go."
+        },
+        {
+          "s": 0,
+          "t": "Alright. Over to you, Dvalin!"
+        },
+        {
+          "section": "Lohen"
+        },
+        {
+          "s": 4,
+          "t": "I sure didn't expect my experience fighting the Wild Hunt in Nod-Krai to come in handy back here in Mondstadt. Almost makes me wonder if this was the reason I was sent back..."
+        },
+        {
+          "s": 4,
+          "t": "Also, how come that bard knows so much? And what was he doing at the Thousand Winds Temple...? Hmm..."
+        },
+        {
+          "s": 4,
+          "t": "...Well, whatever — I don't really care, as long as I get to do some fighting. I'm looking forward to trading blows with Lupus Boreas when he's fully recovered... I bet he'll wipe the floor with me!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 24,
+          "t": "The Knight of Boreas awaits below. We must part ways here. Barbatos and I have other plans — we will meet you again later."
+        },
+        {
+          "s": 2,
+          "t": "Alright... Hey, wait! How are we getting down!? Aaaaah!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 5,
+          "t": "Hold the line! The enemy's on the brink of collapse!"
+        },
+        {
+          "s": 7,
+          "t": "Grand Master, it's... it's..."
+        },
+        {
+          "s": 5,
+          "t": "Haha, reinforcements... It's about time!"
+        },
+        {
+          "s": 1,
+          "t": "Honorary Knight reporting for duty, Grand Master!"
+        },
+        {
+          "s": 2,
+          "t": "...And Paimon too!"
+        },
+        {
+          "sit": "Let's cut to the chase."
+        },
+        {
+          "sit": "What's the situation?"
+        },
+        {
+          "s": 5,
+          "t": "We're just about hanging in there. Most of their grunts are taken care of now. Their leader's gonna have to make a decision soon."
+        },
+        {
+          "s": 5,
+          "t": "Fight or flight... What will it be, \"Mightiest Knight of Boreas\"?"
+        },
+        {
+          "s": 10,
+          "t": "As expected, this hastily summoned Wild Hunt horde is nothing but a disorganized rabble, a mere shadow of the forces gathered by the Rächer of Solnari."
+        },
+        {
+          "s": 10,
+          "t": "But they have served their purpose. I now understand your tactics, and you, in turn, understand mine. This is fair... this is the way of chivalry."
+        },
+        {
+          "s": 10,
+          "t": "Farewell, heir to the knighthood of Boreas. Whether you choose to resist me or not, I shall set right the injustices of this world... in the name of the Bloodstained Knight."
+        },
+        {
+          "s": 5,
+          "t": "Guess they're retreating for now..."
+        },
+        {
+          "s": 2,
+          "t": "So that Wolf of the North lookalike... that was Andrius? But why would he be leading the Wild Hunt? And why was he talking about the Bloodstained Knight?"
+        },
+        {
+          "s": 2,
+          "t": "Uhh... Forget that, we can save the details for later! He was the enemy boss, right? Are we just gonna let him get away!?"
+        },
+        {
+          "s": 5,
+          "t": "Aah, there's no point chasing after him. We've crossed blades already, and it ended in a stalemate. Right now, there's nothing we could do about him."
+        },
+        {
+          "sit": "Why? As strong as he might look..."
+        },
+        {
+          "sit": "Surely he can't be any stronger than the foes we've fought before?"
+        },
+        {
+          "s": 5,
+          "t": "True... We're still not certain of his true identity, but whether he's a god corrupted by the Abyss, or a legendary knight..."
+        },
+        {
+          "s": 5,
+          "t": "\"Killing\" him might be just about possible — especially now that you're here."
+        },
+        {
+          "s": 5,
+          "t": "The difficult part is, we can't kill him right now."
+        },
+        {
+          "s": 2,
+          "t": "Huh? What do you mean, is he immortal or something?"
+        },
+        {
+          "s": 5,
+          "t": "No. Judging from our skirmishes so far, I don't think he's got any special abilities of that caliber. Nor does he have the ridiculous level of power wielded by the Five Sinners."
+        },
+        {
+          "s": 5,
+          "t": "But compared to Rerir, our current foe clearly has a better understanding of how to exploit Nod-Krai to his advantage... particularly when it comes to Andrius's remnant soul."
+        },
+        {
+          "sit": "So what you're really worried about..."
+        },
+        {
+          "sit": "Isn't so much the enemy himself..."
+        },
+        {
+          "s": 1,
+          "t": "...But the god remains?"
+        },
+        {
+          "s": 5,
+          "t": "...Exactly. Sounds like you realize what the crux of the issue is."
+        },
+        {
+          "s": 5,
+          "t": "I managed to cut off a sample from our foe, which Albedo and Durin are analyzing as we speak. Meanwhile, our other allies should be making their way home from their own battles by now. Let's discuss this further when they're back."
+        },
+        {
+          "s": 5,
+          "t": "...We still have some big challenges ahead before this expedition can finally be declared a victory."
+        },
+        {
+          "s": 1,
+          "t": "Isn't so much the enemy himself..."
+        },
+        {
+          "s": 1,
+          "t": "Surely he can't be any stronger than the foes we've fought before?"
+        },
+        {
+          "s": 1,
+          "t": "What's the situation?"
+        }
+      ],
+      "description": "Through everyone’s united efforts, the Abyssal calamity in the north seems to have been quelled… The day of triumph draws near."
+    },
+    {
+      "title": "Fated Warrior",
+      "dialogue": [
+        {
+          "section": "Varka"
+        },
+        {
+          "sit": "After updating Varka on the situation in Mondstadt, you explain the relationship between the God of the North Wind and the Bloodstained Knight to the attendees..."
+        },
+        {
+          "s": 5,
+          "t": "...And that's where things stand. The Wild Hunt is no longer under the Rächer of Solnari's control, but it has been reborn from the ashes and is now launching widespread attacks."
+        },
+        {
+          "s": 5,
+          "t": "Intel from the Frostmoon Scions and the Curatorium of Secrets corroborates this. No disturbances have been detected in the space where Rerir resides. What we are facing here is a completely new foe."
+        },
+        {
+          "s": 25,
+          "t": "Summarizing current situation... To confirm — the present leader of the Wild Hunt is the creature resembling a wolf? Andrius, God of the North Wind..."
+        },
+        {
+          "s": 26,
+          "t": "More precisely, it's the external will that has seized control of Andrius's spirit... namely Roland, the Bloodstained Knight."
+        },
+        {
+          "s": 27,
+          "t": "Whoa, whoa, whoa, hold on, I'm completely lost! Isn't Roland some Mondstadter from, like, 500 years ago?"
+        },
+        {
+          "s": 27,
+          "t": "How'd he suddenly get wrapped up with a god from a thousand years in the past AND the present-day Wild Hunt?"
+        },
+        {
+          "s": 28,
+          "t": "Allow us to explain that part."
+        },
+        {
+          "s": 28,
+          "t": "Are you familiar with compensation mechanisms? When an organism sustains damage, relevant tissues will undergo changes to offset the loss of function..."
+        },
+        {
+          "s": 28,
+          "t": "For example, when one kidney is damaged, the other will be strengthened to compensate. Or, when a main artery is blocked, the collateral vessels become more active..."
+        },
+        {
+          "s": 28,
+          "t": "Similarly, when the Wild Hunt lost their leader, the Abyss harnessed the memories that flow throughout the Ley Lines to fashion a new one, fit for the present circumstances."
+        },
+        {
+          "s": 28,
+          "t": "That new leader is a mirror image of Roland, the Bloodstained Knight."
+        },
+        {
+          "sit": "So that wasn't the real Roland..."
+        },
+        {
+          "sit": "But rather an Abyssal imitation?"
+        },
+        {
+          "s": 29,
+          "t": "Right. No matter how strong the compensation is, it will never quite match the functionality of the original organ."
+        },
+        {
+          "s": 29,
+          "t": "The Roland replica can't possibly imitate Rerir's overwhelming power, nor his ability to disguise himself as others."
+        },
+        {
+          "s": 29,
+          "t": "So, the Abyss made use of the connection between Roland and Boreas to compensate for this lack of power."
+        },
+        {
+          "s": 28,
+          "t": "The replica corrupted and took control of Andrius as he slumbered by the bank of Amsvartnir, ultimately manifesting as the giant beast that you all witnessed."
+        },
+        {
+          "s": 28,
+          "t": "...However, exactly why the Abyss chose Roland to mimic — and indeed, how it was able to do so — remains unclear."
+        },
+        {
+          "s": 5,
+          "t": "Hmm. I guess he must've gotten caught up with the Abyss or Nod-Krai somehow during his wanderings through Teyvat... But we can keep those questions on the back burner."
+        },
+        {
+          "s": 2,
+          "t": "Okay, Paimon gets all that... but what did you mean when you said we can't kill him right now?"
+        },
+        {
+          "s": 5,
+          "t": "We can't kill him right now, because a dead god may prove more dangerous than a living one."
+        },
+        {
+          "s": 5,
+          "t": "From intelligence gathered during the expedition, we have reason to believe that the power released when a god is felled can have catastrophic consequences for us mortals."
+        },
+        {
+          "sit": "(Like when the tower fell in Stormterror's Lair...)"
+        },
+        {
+          "sit": "(Or when the humans turned to salt beneath Sal Terrae...)"
+        },
+        {
+          "s": 5,
+          "t": "Worse still, the wrath that remains after a god's passing becomes a source of endless turmoil... Once god remains contaminate the land, they will persist for thousands of years."
+        },
+        {
+          "sit": "(Like the Tatarigami on Yashiori Island and Tatarasuna...)"
+        },
+        {
+          "sit": "(Or the karmic debt borne by the Yakshas for millennia...)"
+        },
+        {
+          "s": 5,
+          "t": "This land has already been ravaged by the Wild Hunt. If we add god remains to the mix, it'll be like adding salt to an open wound, placing everyone who lives here in perilous danger."
+        },
+        {
+          "s": 25,
+          "t": "Query... While I can indeed find records of disasters caused by god remains in my database, there also appear to be cases of gods dying naturally with no ill effects."
+        },
+        {
+          "s": 25,
+          "t": "In Natlan, the passing of the Pyro Archon's flame is a common occurrence throughout history, and even the part of Andrius who remains in Mondstadt has experienced death once before, has he not?"
+        },
+        {
+          "s": 5,
+          "t": "Great question — glad you asked. Honorary Knight, you said Lupus Boreas gave you a token to pass onto me? Please present it now — it should help explain things faster."
+        },
+        {
+          "s": 5,
+          "t": "...Come forth, Boreas."
+        },
+        {
+          "s": 22,
+          "t": "...This form has come to the end of its time. I'm afraid I can accompany you no further on your journey."
+        },
+        {
+          "s": 22,
+          "t": "My soul will fall into silence, and my power will flow into the Ley Lines of this land... Perhaps this is all that a wolf can hope to do for humankind."
+        },
+        {
+          "s": 22,
+          "t": "Do not grieve for me, for this is the end I have chosen. Instead, remember that one day, your wandering, too, must come to an end... Where, and when shall that be?"
+        },
+        {
+          "s": 22,
+          "t": "...A final wish before I slumber? ...Hm, sing me a song. That melody you so often hummed in the taverns."
+        },
+        {
+          "s": 9,
+          "t": "...♪"
+        },
+        {
+          "s": 1,
+          "t": "What was that?"
+        },
+        {
+          "s": 5,
+          "t": "You saw it too? You must have keen powers of perception... Not that it surprises me."
+        },
+        {
+          "s": 5,
+          "t": "That was Boreas's final thoughts before merging with the Ley Lines. It's the reason Mondstadt remains unharmed by his god remains."
+        },
+        {
+          "s": 5,
+          "t": "In his final moments, he made a choice to give everything he was to the Ley Lines, all to protect Mondstadt from harm..."
+        },
+        {
+          "s": 25,
+          "t": "...Sounds like Andrius spent thousands of years searching for his place in the world, too..."
+        },
+        {
+          "s": 5,
+          "t": "Yes, and now our task is to return the answer he found, the decision he made, to Andrius's heart."
+        },
+        {
+          "s": 5,
+          "t": "Only then can he break free from the corruption and control of the Abyss, and make that decision once more..."
+        },
+        {
+          "s": 1,
+          "t": "...To merge himself with the Ley Lines."
+        },
+        {
+          "s": 26,
+          "t": "I see... I would say that planting thoughts inside the mind of a god sounds a little far-fetched, but since it was his own wish to begin with... it sounds feasible to me."
+        },
+        {
+          "s": 27,
+          "t": "Wait, we already have a perfect solution? Then why are we even having this meeting? Let's go do this thing!"
+        },
+        {
+          "s": 5,
+          "t": "Haha... If only it were that simple. Unfortunately, this one thought alone is unlikely to be powerful enough to break through the Abyss's control and reach Andrius's heart."
+        },
+        {
+          "s": 5,
+          "t": "...We need to find a way to make the thought within this sword stronger and more resilient."
+        },
+        {
+          "s": 28,
+          "t": "For now, Boreas needs all his remaining strength to fight against the Abyssal corruption to Mondstadt's Ley Lines. He can't afford to send us any more of his power."
+        },
+        {
+          "s": 28,
+          "t": "However, since his form was unstable during his journey with the first Knight of Boreas, many Wolf Spirit fragments were left behind along the way..."
+        },
+        {
+          "s": 28,
+          "t": "If we can collect those fragments, we can use them to strengthen the decision to merge with the Ley Lines."
+        },
+        {
+          "s": 2,
+          "t": "Uhh... So we need to retrace his steps and look for random fragments? But they could be anywhere between Nod-Krai and Mondstadt! It'll be like looking for a needle in a haystack!"
+        },
+        {
+          "s": 5,
+          "t": "Haha, you don't need to worry about that. There's a few fragments left to gather in Nod-Krai, but apart from that..."
+        },
+        {
+          "s": 5,
+          "t": "Most of them are already inside this sword. I've been collecting them during the whole expedition."
+        },
+        {
+          "s": 2,
+          "t": "Huh? Wait, really?"
+        },
+        {
+          "s": 5,
+          "t": "I mean, it's an expedition, not a stroll in the park... Each step of the way, we've been hard at work planning for every possible contingency."
+        },
+        {
+          "s": 5,
+          "t": "Not just the Wild Hunt and the Abyss... But ancient gods remaining in Nod-Krai."
+        },
+        {
+          "s": 26,
+          "t": "Sounds like this plan was a long time in the making... It's almost as if you... foresaw the future?"
+        },
+        {
+          "s": 5,
+          "t": "As a matter of fact, I did — I caught a glimpse of fate's reflection. But I can't take credit for it. It was all thanks to the help of a few fri{RUBY#[D]scryglass}ends..."
+        },
+        {
+          "s": 5,
+          "t": "Still, all I foresaw was that an Abyssal calamity was brewing in the North... Had I known more, we could have saved a lot of energy."
+        },
+        {
+          "s": 5,
+          "t": "Instead, we've had to make best guesses, prepare for every possible scenario. If all that preparation went to waste, all the better for it — but anything that proved useful, we knew we'd be grateful for down the line."
+        },
+        {
+          "s": 1,
+          "t": "And sure enough, now it's proving useful."
+        },
+        {
+          "s": 5,
+          "t": "Sure is. Just one crucial step remains: We need to gather the last few Wolf Spirit fragments scattered around Nod-Krai, and use them to make the thought within this sword as strong as it can possibly be."
+        },
+        {
+          "s": 5,
+          "t": "According to what Boreas told me before we left Mondstadt, his form was at its most unstable at the beginning of his journey. That means, the fragments here should be the most powerful ones."
+        },
+        {
+          "s": 5,
+          "t": "But of course, we've been tied up fighting battles since the day we set foot in Nod-Krai — first with the Wild Hunt, then with The Doctor... So, it wasn't until recently that we were finally able to confirm the status of the Wolf Spirit fragments. We now know there are three left to find."
+        },
+        {
+          "s": 2,
+          "t": "Okay, so three more mini-expeditions to go..."
+        },
+        {
+          "s": 5,
+          "t": "I managed to gather one fragment before Roland reappeared. I also have a confirmed location for the second, which I'll take care of in short order."
+        },
+        {
+          "s": 5,
+          "t": "As for the third fragment, we've identified a general search area to focus on, but we'll need all hands on deck to pinpoint the exact location."
+        },
+        {
+          "s": 1,
+          "t": "Wow. You've made a lot of progress already!"
+        },
+        {
+          "s": 5,
+          "t": "The final snag is that since our foe is a replica of Roland, he too will be aware of Andrius's history. He's sure to try and sabotage our plans by any means at his disposal... So everyone needs to bring their A-game!"
+        },
+        {
+          "s": 29,
+          "t": "With our foe being from Mondstadt... It's our duty as Mondstadters to defeat him."
+        },
+        {
+          "s": 26,
+          "t": "And since the Wild Hunt is involved, the Lightkeepers will provide their full support."
+        },
+        {
+          "s": 25,
+          "t": "The Clink-Clank Krumkake Craftshop will also help in any way we can."
+        },
+        {
+          "s": 27,
+          "t": "(Uhh... So what do they need me here for? Wait, I think maybe I signed a contract at some point... Didn't exactly scrutinize it, though. I—I mean, who actually reads those things anyway, right?)"
+        },
+        {
+          "s": 5,
+          "t": "Ahh, great... Knew I could count on you all. Lastly, our friend from the Curatorium of Secrets will provide intel and relay battlefield communications. Looking at you, Jahoda!"
+        },
+        {
+          "s": 26,
+          "t": "So you'll be darting back and forth across the battlefield, dodging the Wild Hunt and the shadow of an ancient god? I'm impressed by your courage, Miss Jahoda."
+        },
+        {
+          "s": 25,
+          "t": "Rating for Jahoda updated. Higher-quality ingredients will be used to prepare your future meals."
+        },
+        {
+          "s": 27,
+          "t": "(...Darn it! I shoulda known this payday wouldn't come that easy!)"
+        },
+        {
+          "s": 5,
+          "t": "I'll deal with the second Wolf Spirit fragment, which we already know the location of. The moment you make any progress with fragment three, be sure to give me an update."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, could you join me in retrieving fragment two? I have a feeling that your unique constitution might come in handy."
+        },
+        {
+          "sit": "Sure. I was just about to ask what my job was."
+        },
+        {
+          "sit": "I'll follow your lead, Grand Master."
+        },
+        {
+          "s": 5,
+          "t": "Alright. Time is of the essence, let's move out, people! Dismissed!"
+        },
+        {
+          "s": 1,
+          "t": "I'll follow your lead, Grand Master."
+        },
+        {
+          "s": 1,
+          "t": "(Or the karmic debt borne by the Yakshas for millennia...)"
+        },
+        {
+          "s": 1,
+          "t": "(Or when the humans turned to salt beneath Sal Terrae...)"
+        },
+        {
+          "s": 1,
+          "t": "But rather an Abyssal imitation?"
+        },
+        {
+          "section": "Jahoda"
+        },
+        {
+          "s": 27,
+          "t": "Hey, good to see you again, {NICKNAME}. Oh, Boss Nef asked me to pass on a message!"
+        },
+        {
+          "s": 27,
+          "t": "She went to see Lauma and Columbina at the Frostmoon Scions. Apparently, there haven't been any changes to that space the Rächer of Solnari's in."
+        },
+        {
+          "s": 2,
+          "t": "That means, the recent Wild Hunt attacks have nothing to do with Rerir, right? Whew, that's a relief... Paimon doesn't fancy facing him again!"
+        },
+        {
+          "s": 27,
+          "t": "They're keeping a close watch on it just in case. With so many moon experts on the case, we're in pretty safe hands, huh?"
+        },
+        {
+          "s": 27,
+          "t": "Oh yeah, Lauma and Columbina asked me to pass on a message, too: \"Focus on the enemy you are facing. The moon will protect you all!\""
+        },
+        {
+          "s": 27,
+          "t": "...You know something? These Knights of Favonius are paying me a pretty nice sum to deliver a few simple messages... Hehe, Varka's a generous guy!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 25,
+          "t": "...Short-distance propulsion module on cooldown... 15 minutes until next departure."
+        },
+        {
+          "s": 25,
+          "t": "Switching to chat mode — Hello there, Paimon, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Ineffa? What are you doing here..."
+        },
+        {
+          "s": 25,
+          "t": "Varka placed a sizeable order with the Clink-Clank Krumkake Craftshop. Aino is hard at work producing the strategic reserve, while I am handling the deliveries."
+        },
+        {
+          "s": 25,
+          "t": "Secondly... I am also here to attend the meeting in her place."
+        },
+        {
+          "section": "Flins"
+        },
+        {
+          "s": 2,
+          "t": "Huh? Flins! Paimon thought the Lightkeepers's rep would be Illuga or Nikita..."
+        },
+        {
+          "s": 1,
+          "t": "It's not like you to volunteer to attend a meeting..."
+        },
+        {
+          "s": 26,
+          "t": "You're quite right — however, Illuga and Nikita are both busy organizing the Ratniki's region-wide response to the recent attacks."
+        },
+        {
+          "s": 26,
+          "t": "And since I'm well-acquainted with everyone else here... I was the one they recommended to attend the meeting."
+        },
+        {
+          "s": 1,
+          "t": "...Oh. So you don't even wanna be here!"
+        },
+        {
+          "s": 26,
+          "t": "Heh, sometimes you don't get a choice when there might be consequences down the line."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Hey, Honorary Knight. Looks like pretty much everyone's here."
+        },
+        {
+          "s": 5,
+          "t": "Albedo and Durin are just wrapping up their analysis. You wanna wait for them here?"
+        },
+        {
+          "sit": "(Wait for the meeting...)"
+        },
+        {
+          "sit": "(Continue to mingle...)"
+        },
+        {
+          "s": 5,
+          "t": "Great. While we're waiting, could you update me on the situation in Mondstadt?"
+        },
+        {
+          "s": 1,
+          "t": "(Continue to mingle...)"
+        },
+        {
+          "s": 5,
+          "t": "That works too. Alright, you keep gathering intel."
+        },
+        {
+          "section": "Jahoda"
+        },
+        {
+          "s": 27,
+          "t": "Jahoda, you dummy... You took this stupid job of your own free will! Crying isn't gonna get you out of it!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 25,
+          "t": "Speaking of contingency plans... I now recall that Varka also made a contingency plan when he asked me to deliver that letter."
+        },
+        {
+          "s": 25,
+          "t": "Hmm, perhaps I should ask Aino to prepare some additional backup modules for me."
+        },
+        {
+          "section": "Flins"
+        },
+        {
+          "s": 26,
+          "t": "Remnant fragments of an ancient god... thoughts stored inside a blade... Maybe I'm overthinking this, but I suspect there is more to Mr. Varka's plan than what he's revealed to us so far."
+        },
+        {
+          "s": 26,
+          "t": "Hmm... Then again, the enemy can harness the Wild Hunt to spy on us wherever we go. As our commander, I'm sure he has his reasons for choosing not to tell us everything."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 2,
+          "t": "Is this what we're looking for? Um, what do we do with it?"
+        },
+        {
+          "s": 5,
+          "t": "I once got Boreas to explain to me how he stores his soul inside objects. All I need to do is transfer it to my sw{RUBY#[S]claws of steel}ord."
+        },
+        {
+          "s": 5,
+          "t": "Just like back at the camp... but this time, you'd best step back a bit. Just in case."
+        },
+        {
+          "s": 9,
+          "t": "...So you're saying you don't know how to love people, and you don't understand human love either? Pff..."
+        },
+        {
+          "s": 22,
+          "t": "...Why do you laugh?"
+        },
+        {
+          "s": 9,
+          "t": "Sorry, I just think... the fact you're ruminating on this is all the proof you need that you have love in your heart."
+        },
+        {
+          "s": 9,
+          "t": "I have a funny feeling that by the time this journey ends... you'll have found your own answer to the question of how to love..."
+        },
+        {
+          "s": 10,
+          "t": "No, you're wrong. There is no redemption at the end of this path."
+        },
+        {
+          "s": 10,
+          "t": "...Even if I am stained black with blood, my conscience will remain as white as snow."
+        },
+        {
+          "s": 10,
+          "t": "If pledging allegiance to the Abyss is the only way to sever the injustice of fate, then I shall serve in its name."
+        },
+        {
+          "s": 5,
+          "t": "Argh...!"
+        },
+        {
+          "s": 2,
+          "t": "Varka...!"
+        },
+        {
+          "s": 5,
+          "t": "Sure enough, this place has been corrupted by \"Roland's\" will... Whew... I'm fine — I was prepared for this. It wasn't enough to pose a serious threat."
+        },
+        {
+          "s": 5,
+          "t": "We got here just in time. The fragment hasn't been fully corrupted yet. Assuming we can undo the damage, it should still be usable."
+        },
+        {
+          "sit": "So that's why you brought me along..."
+        },
+        {
+          "sit": "You want me to purify it?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm... Purifying the Abyssal corruption would definitely be a safe approach. But that's not the only reason I wanted you to come."
+        },
+        {
+          "s": 5,
+          "t": "Could you try... reversing the corruption? Not \"purifying\" it, exactly, but separating out the \"Roland\" part from the Wolf Spirit."
+        },
+        {
+          "s": 2,
+          "t": "So... keep the Roland part intact as well as the Wolf Spirit part? Why would you wanna do that?"
+        },
+        {
+          "s": 5,
+          "t": "Firstly, to test whether it's possible... And secondly, to view Roland's memories. As they say, \"know thyself, know thy enemy\" — understanding our foe is our surest path to defeating him."
+        },
+        {
+          "sit": "This is a little unexpected..."
+        },
+        {
+          "sit": "I've never even tried this before..."
+        },
+        {
+          "s": 5,
+          "t": "Lemme think, how was it explained to me... Ah, yes: \"Focus on a single thought within the thousand winds, capture that unique wisp before it blows away.\""
+        },
+        {
+          "s": 1,
+          "t": "...I have no idea what that means!"
+        },
+        {
+          "s": 5,
+          "t": "Hahaha! Actually, neither do I!"
+        },
+        {
+          "s": 1,
+          "t": "What!?"
+        },
+        {
+          "s": 2,
+          "t": "Heh, sounds like something a certain Tone-Deaf Bard would come up with when he can't think of anything meaningful to say... Wait, don't tell Paimon that's what actually happened!?"
+        },
+        {
+          "s": 5,
+          "t": "I thought it might mean something to you... Never mind, I'll explain it in more human terms."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, when you were in Natlan, you went \"fishing\" for ancient names, correct?"
+        },
+        {
+          "sit": "Yes actually, sort of..."
+        },
+        {
+          "sit": "But I wasn't the one doing the fishing."
+        },
+        {
+          "s": 5,
+          "t": "If I'm not mistaken, the Night Kingdom was like a river flowing with concepts, and you were trying to capture the concept belonging to a particular ancient name... I'm thinking, the same basic principles should apply here."
+        },
+        {
+          "s": 2,
+          "t": "Okay, but back then, we had a \"boat\" and a \"net\"... This time, we don't have anything at all!"
+        },
+        {
+          "s": 5,
+          "t": "Eh, this Wolf Spirit fragment is like a puddle compared to the Night Kingdom — no need for a boat. As for a net... This is what I've heard:"
+        },
+        {
+          "s": 30,
+          "t": "\"Thoughts and emotions are like interwoven threads — they can create a net, or they can create a rope. They can separate love from hatred, and they can bind objects and events together.\""
+        },
+        {
+          "s": 30,
+          "t": "\"...Thought is the anchor for a being's existence, through which emotions are drawn forth.\""
+        },
+        {
+          "sit": "Okay, I think I'm kind of starting to get the idea..."
+        },
+        {
+          "sit": "...But maybe I'm not. It's hard to say."
+        },
+        {
+          "s": 2,
+          "t": "Also, we barely know anything about Roland. How are we supposed to use thoughts to anchor him?"
+        },
+        {
+          "s": 5,
+          "t": "Well... Maybe you could try this?"
+        },
+        {
+          "s": 2,
+          "t": "What is it? It looks old and tattered..."
+        },
+        {
+          "s": 5,
+          "t": "It's an unsent letter written by the \"Wolf Pup\" Rostam, Knight of Boreas, from 500 years ago. It was meant for his disciple, the \"White Knight\" Roland."
+        },
+        {
+          "s": 1,
+          "t": "That's a heck of a thing to have sitting in your back pocket..."
+        },
+        {
+          "s": 5,
+          "t": "After Rostam lost his life in the Abyssal calamity, Roland left Mondstadt to wander Teyvat. Grand Master Arundolyn had wanted to deliver this letter to him..."
+        },
+        {
+          "s": 5,
+          "t": "But trying to track Roland down was like chasing a sha{RUBY#[D]Rostam}dow. H{RUBY#[S]Arundolyn}e never did find him. And so, this letter has been sitting at the Knights of Favonius headquarters ever since."
+        },
+        {
+          "s": 2,
+          "t": "Quite the antique, then... But how exactly is it supposed to anchor Roland?"
+        },
+        {
+          "s": 5,
+          "t": "Haha... I'm honestly not sure."
+        },
+        {
+          "s": 2,
+          "t": "Hey! What happened to Mr. plans for every contingency? You're just making this up as you go along!"
+        },
+        {
+          "s": 5,
+          "t": "Heh... What can I say — some people like to wait till they've got all their ducks in a row before taking the first step, but I prefer to dive on in and plan as I go. I've been doing it that way for the whole expedition."
+        },
+        {
+          "s": 5,
+          "t": "But anyway, don't they say that poetry and letters were humanity's earliest means of expressing their thoughts? Can't hurt to give it a try, surely?"
+        },
+        {
+          "s": 1,
+          "t": "We might as well see what happens..."
+        },
+        {
+          "s": 5,
+          "t": "Whoa... It actually worked?"
+        },
+        {
+          "s": 2,
+          "t": "You really are making this up as you go along!"
+        },
+        {
+          "s": 5,
+          "t": "So the assimilation of souls really can be reversed... Just like he said..."
+        },
+        {
+          "s": 1,
+          "t": "...Got him!"
+        },
+        {
+          "s": 31,
+          "t": "...If what you say is true..."
+        },
+        {
+          "s": 31,
+          "t": "The monsters I've slain, the justice I've sought to uphold... For mortals to escape this tragic fate, there is only one path."
+        },
+        {
+          "s": 31,
+          "t": "A great and ancient kingdom was wrongfully cursed, turning its inhabitants into monsters."
+        },
+        {
+          "s": 31,
+          "t": "The code of chivalry tolerates not such injustice."
+        },
+        {
+          "s": 31,
+          "t": "If Abyss be thy name, I pledge to you my loyalty."
+        },
+        {
+          "s": 32,
+          "t": "...And that is where the Bloodstained Knight's tale came to an end. With that, he bade his humanity farewell."
+        },
+        {
+          "s": 32,
+          "t": "...I daresay you must find it quite ironic, Knight of Boreas?"
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "...That eye... Dainsleif? No... It bore a striking resemblance, but that wasn't him."
+        },
+        {
+          "s": 5,
+          "t": "While we gazed into the past, he was gazing right back at us... Could it be...?"
+        },
+        {
+          "sit": "The Visionary..."
+        },
+        {
+          "sit": "Vedrfolnir!"
+        },
+        {
+          "s": 5,
+          "t": "So that's what happened. After leaving Mondstadt and wandering the land, Roland ventured underground and saw a revelation from The Visionary."
+        },
+        {
+          "s": 5,
+          "t": "Once he had learned of Khaenri'ah's fate, he saw the gods' judgment as the greatest injustice... So he surrendered himself to the Abyss..."
+        },
+        {
+          "s": 5,
+          "t": "...Giving them his knowledge, his power, his everything... That's why the Abyss can replicate him!"
+        },
+        {
+          "s": 2,
+          "t": "Uh-oh... Does this mean we have to take on The Visionary this time?"
+        },
+        {
+          "s": 1,
+          "t": "(No... The founder of the Abyss Order was once shown a revelation... Based on his experience, at least...)"
+        },
+        {
+          "s": 1,
+          "t": "...The Visionary is unlikely to intervene directly."
+        },
+        {
+          "s": 5,
+          "t": "I'm inclined to agree. If our enemy could see the future, both the Wild Hunt and Roland would be acting with far more lethal precision."
+        },
+        {
+          "s": 5,
+          "t": "But even without The Visionary's input, Roland still has an intel advantage we can't afford to underestimate..."
+        },
+        {
+          "s": 5,
+          "t": "Every minion of the Wild Hunt serves as Roland's eyes and ears. We need to think one step ahead if we want to out-maneuver him."
+        },
+        {
+          "s": 5,
+          "t": "And on that note — I have a plan I want to discuss with you."
+        },
+        {
+          "s": 1,
+          "t": "Now? Why didn't you bring it up during the meeting?"
+        },
+        {
+          "s": 5,
+          "t": "Haha, well, the fewer people who know, the less likely it is to get leaked. Besides, it wasn't a fully formed plan back then..."
+        },
+        {
+          "sit": "Varka explains his plan..."
+        },
+        {
+          "s": 5,
+          "t": "...Ah, that about covers it. Sorry to ask so much of you again."
+        },
+        {
+          "sit": "No way!"
+        },
+        {
+          "sit": "It's too dangerous!"
+        },
+        {
+          "s": 5,
+          "t": "No plan is free of risks. At least this one actually gives us a shot at fully eliminating the danger posed by this ancient god. Surely that's gotta make the risk worth taking?"
+        },
+        {
+          "s": 1,
+          "t": "But there's no guarantee it'll work..."
+        },
+        {
+          "s": 5,
+          "t": "...If I fail, Anselm and Albedo can take the reins. Not to mention we still have Jean in Mondstadt."
+        },
+        {
+          "s": 2,
+          "t": "There has to be another way! Like a... backup backup-plan...?"
+        },
+        {
+          "s": 5,
+          "t": "If only there were — but I don't think our enemy will give us enough time to find one."
+        },
+        {
+          "s": 27,
+          "t": "Hey! Are you guys done here yet?"
+        },
+        {
+          "s": 5,
+          "t": "Ah, Jahoda! Yes, we've successfully retrieved the Wolf Spirit fragment here. Any progress with fragment three?"
+        },
+        {
+          "s": 27,
+          "t": "Nope — it's a total disaster! More Wild Hunt monsters than I've seen in my whole life! We need backup urgently, come quick!"
+        },
+        {
+          "s": 5,
+          "t": "Come on — we're out of time. You'll just have to trust me on this one!"
+        },
+        {
+          "sit": "...You're making too many decisions on your own."
+        },
+        {
+          "sit": "...You're putting me in a difficult position here."
+        },
+        {
+          "s": 5,
+          "t": "Haha, what can I say? I'm not the Grand Master for nothing! I'm counting on you, Honorary Knight."
+        },
+        {
+          "s": 1,
+          "t": "...You're putting me in a difficult position here."
+        },
+        {
+          "s": 1,
+          "t": "It's too dangerous!"
+        },
+        {
+          "s": 1,
+          "t": "Vedrfolnir!"
+        },
+        {
+          "s": 1,
+          "t": "...But maybe I'm not. It's hard to say."
+        },
+        {
+          "s": 1,
+          "t": "But I wasn't the one doing the fishing."
+        },
+        {
+          "s": 1,
+          "t": "I've never even tried this before..."
+        },
+        {
+          "s": 1,
+          "t": "You want me to purify it?"
+        },
+        {
+          "section": "Jahoda"
+        },
+        {
+          "s": 5,
+          "t": "Fill me in. What's the situation?"
+        },
+        {
+          "s": 27,
+          "t": "*sigh*... We ran into resistance almost as soon as we set off. Albedo said we should split into two teams and continue searching while he and the others kept the Wild Hunt occupied."
+        },
+        {
+          "s": 5,
+          "t": "Good call. Locating the Wolf Spirit fragment is our key objective — I would have made the same decision."
+        },
+        {
+          "s": 27,
+          "t": "Well, it seems the enemy figured as much too! Now both search teams are in big trouble... Oh, I brought a map — this should make things clearer."
+        },
+        {
+          "s": 27,
+          "t": "Before we ran into trouble, this is the search area we'd decided on..."
+        },
+        {
+          "s": 27,
+          "t": "The two teams are holed up here and here! They should have a clearer idea of the fragment's location by now."
+        },
+        {
+          "s": 5,
+          "t": "...But the Wild Hunt is stopping them from relaying messages back, right? Do we have any more troops available to provide backup?"
+        },
+        {
+          "s": 27,
+          "t": "We can't spare troops from any of the fronts right now. That just leaves us with—"
+        },
+        {
+          "s": 25,
+          "t": "The Logistics Company is standing by."
+        },
+        {
+          "s": 27,
+          "t": "Ineffa!?"
+        },
+        {
+          "s": 25,
+          "t": "Designated drop point reached. Initiating situation report..."
+        },
+        {
+          "s": 25,
+          "t": "The Logistics Company was assisting Aino with the production of the strategic reserve. But after learning of the situation on the front line, they requested to be dispatched immediately. They are currently nearby awaiting orders."
+        },
+        {
+          "s": 5,
+          "t": "Amazing... Just in the nick of time."
+        },
+        {
+          "s": 27,
+          "t": "Hey, seeing as you can fly and all... Shouldn't you be the one out here delivering messages!?"
+        },
+        {
+          "s": 25,
+          "t": "I regret to say that without the workshop's catapult, and with my short-distance propulsion module on cooldown, I will only be able to return to the battlefield after another five minutes. Please, keep up the good work, Jahoda."
+        },
+        {
+          "s": 25,
+          "t": "The Logistics Company has very limited provisions — only enough for a single battle... Which team should they support?"
+        },
+        {
+          "s": 5,
+          "t": "Both! Once one team has been rescued, the remaining forces will be free to support the other. We'll move out immediately — Jahoda, keep up the good work with the comms!"
+        },
+        {
+          "s": 27,
+          "t": "*gulp*... S—Sure thing! Leave it to me, haha, hah... heh..."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 2,
+          "t": "Ah! It's the Wild Hunt! C'mon, let's go help!"
+        },
+        {
+          "s": 5,
+          "t": "Something's not right... The Wild Hunt's offensive doesn't seem to be getting any weaker as the battle goes on... Are they getting reinforcements from somewhere?"
+        },
+        {
+          "s": 5,
+          "t": "...Don't get dragged into the enemy's rhythm! Logistics Company, scout out the area — look for terrain we can use to our advantage!"
+        },
+        {
+          "s": 33,
+          "t": "Yes, sir!"
+        },
+        {
+          "s": 33,
+          "t": "Reporting in, sir — we've identified viable sites for deploying explosives!"
+        },
+        {
+          "s": 5,
+          "t": "Good. Wait for my signal!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ready... Fire!"
+        },
+        {
+          "s": 34,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "The enemy has sustained heavy casualties. It should be a while before they're strong enough to pose a real threat again."
+        },
+        {
+          "s": 5,
+          "t": "Use this time to catch your breath, and fill me in on everything you've learned."
+        },
+        {
+          "s": 6,
+          "t": "Yes, sir!"
+        },
+        {
+          "s": 6,
+          "t": "We've narrowed down the search area for the final fragment to this zone here..."
+        },
+        {
+          "s": 2,
+          "t": "...That's not exactly very \"narrow\"!"
+        },
+        {
+          "s": 6,
+          "t": "We split the search area between us and the Ratniki. Maybe they'll be able to narrow it down further?"
+        },
+        {
+          "s": 5,
+          "t": "Either way, I was about to go lend them a hand next anyway. Do you think you guys can keep up?"
+        },
+        {
+          "s": 6,
+          "t": "Absolutely! Good to go, Grand Master!"
+        },
+        {
+          "s": 33,
+          "t": "We've run right through our supplies — we'll stay here and deal with any Wild Hunt that tries to stage a comeback."
+        },
+        {
+          "s": 33,
+          "t": "Now that they've lost their numerical advantage, they're no match for us. Focus on supporting the other team."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 2,
+          "t": "Ah! It's the Wild Hunt! C'mon, let's go help!"
+        },
+        {
+          "s": 5,
+          "t": "Something's not right... The Wild Hunt's offensive doesn't seem to be getting any weaker as the battle goes on... Are they getting reinforcements from somewhere?"
+        },
+        {
+          "s": 5,
+          "t": "...Don't get dragged into the enemy's rhythm! Logistics Company, scout out the area — look for terrain we can use to our advantage!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ready... Fire!"
+        },
+        {
+          "s": 34,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "The enemy has sustained heavy casualties. It should be a while before they're strong enough to pose a real threat again."
+        },
+        {
+          "s": 35,
+          "t": "Brave knights, on behalf of the Lightkeepers, I thank you for your assistance!"
+        },
+        {
+          "s": 5,
+          "t": "There's no need to be so formal. When it comes to the Abyss, we're all in this together. Now, please tell me everything you've learned."
+        },
+        {
+          "s": 35,
+          "t": "...Very well."
+        },
+        {
+          "s": 35,
+          "t": "We've narrowed down the search area for the final fragment to this zone here..."
+        },
+        {
+          "s": 2,
+          "t": "...That's not exactly very \"narrow\"!"
+        },
+        {
+          "s": 35,
+          "t": "We split the search between us and the knights. Maybe they'll be able to narrow it down further?"
+        },
+        {
+          "s": 5,
+          "t": "Either way, I was about to go lend them a hand next anyway. Can I count on your help?"
+        },
+        {
+          "s": 35,
+          "t": "It would be our pleasure, Mr. Varka."
+        },
+        {
+          "s": 33,
+          "t": "We've run right through our supplies — we'll stay here and deal with any Wild Hunt that tries to stage a comeback."
+        },
+        {
+          "s": 33,
+          "t": "Now that they've lost their numerical advantage, they're no match for us. Focus on supporting the other team."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ugh... Looks like the same situation here... They just keep coming, wave after wave."
+        },
+        {
+          "s": 36,
+          "t": "Reinforcements? ...Hey! You keep them busy while we work on getting rid of this god-awful mist!"
+        },
+        {
+          "s": 5,
+          "t": "Understood! Everyone got that? It's up to us to hold them off!"
+        },
+        {
+          "s": 6,
+          "t": "...Yes, sir!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 7,
+          "t": "Grand Master! Honorary Knight! Thank goodness you're here!"
+        },
+        {
+          "s": 8,
+          "t": "Be careful! There's no end to these monsters... however many we kill, more keep coming!"
+        },
+        {
+          "s": 35,
+          "t": "They've had us penned in so far, but now you're here, maybe we can try getting to the source, which is hidden in the mist. That way, we should be able to cut off the Wild Hunt's reinforcements!"
+        },
+        {
+          "s": 5,
+          "t": "Oh yeah? Then we'll leave that to you! Hey! Everyone hear that? We need to hold the line. Time to give 'em a taste of the Knights of Favonius fighting spirit!"
+        },
+        {
+          "s": 6,
+          "t": "...Yes, sir!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Phew... I'm glad that's finally over."
+        },
+        {
+          "s": 35,
+          "t": "Brave knights, on behalf of the Lightkeepers, I thank you for your assistance!"
+        },
+        {
+          "s": 5,
+          "t": "There's no need to be so formal. When it comes to the Abyss, we're all in this together. Now, please tell me everything you've learned."
+        },
+        {
+          "s": 35,
+          "t": "...Very well."
+        },
+        {
+          "s": 35,
+          "t": "We've narrowed down the search area for the final fragment to this zone here..."
+        },
+        {
+          "s": 2,
+          "t": "Yes! Now it feels like we're finally closing in on our target!"
+        },
+        {
+          "s": 5,
+          "t": "I'll say. We're sure to face fierce resistance from the Wild Hunt, though... Is everyone willing to keep fighting with us?"
+        },
+        {
+          "s": 35,
+          "t": "It would be our pleasure, Mr. Varka."
+        },
+        {
+          "s": 5,
+          "t": "Much obliged. Alright, the target is just up ahead! Move out!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Phew... I'm glad that's finally over."
+        },
+        {
+          "s": 5,
+          "t": "Use this time to catch your breath, and fill me in on everything you've learned."
+        },
+        {
+          "s": 6,
+          "t": "Yes, sir!"
+        },
+        {
+          "s": 6,
+          "t": "We've narrowed down the search area for the final fragment to this zone here..."
+        },
+        {
+          "s": 2,
+          "t": "Yes! Now it feels like we're finally closing in on our target!"
+        },
+        {
+          "s": 5,
+          "t": "I'll say. We're sure to face fierce resistance from the Wild Hunt, though... Do you still have the strength to keep fighting with us?"
+        },
+        {
+          "s": 6,
+          "t": "Absolutely! Good to go, Grand Master!"
+        },
+        {
+          "s": 5,
+          "t": "Much obliged. Alright, the target is just up ahead! Move out!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 34,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "The hiding-in-the-mist trick again? Heh, these guys must be easily amused."
+        },
+        {
+          "s": 5,
+          "t": "You all know the drill — the Knights of Favonius will engage the enemy while the Lightkeepers dispel the mist. Everyone, follow my signals!"
+        },
+        {
+          "s": 6,
+          "t": "Yes, sir!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ugh! This Wild Hunt doesn't know when to give up!"
+        },
+        {
+          "s": 1,
+          "t": "Varka, you go on ahead!"
+        },
+        {
+          "s": 5,
+          "t": "...{NICKNAME}!"
+        },
+        {
+          "s": 35,
+          "t": "Mr. Varka! Leave this to us!"
+        },
+        {
+          "s": 6,
+          "t": "Just like last time! Only a Knight of Boreas can deal with a Wolf Spirit, right?"
+        },
+        {
+          "s": 7,
+          "t": "Don't underestimate us, Grand Master! We can hold our own!"
+        },
+        {
+          "sit": "And I'm here, too."
+        },
+        {
+          "sit": "Now hurry up and go!"
+        },
+        {
+          "s": 5,
+          "t": "Huh... That's the spirit! Stay on your toes, and make the Knights of Favonius proud!"
+        },
+        {
+          "s": 5,
+          "t": "Either we all march back to Mondstadt together, or no one does!"
+        },
+        {
+          "s": 1,
+          "t": "Now hurry up and go!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 10,
+          "t": "It seems you have collected them all, Knight of Boreas."
+        },
+        {
+          "s": 5,
+          "t": "Yeah, and with no corrupted fragments or ambushes along the way... I have to commend your chivalry, Sir Roland."
+        },
+        {
+          "s": 10,
+          "t": "A true knight does not resort to underhanded tactics. Were this body not a false one created by the Wild Hunt, nor would I countenance those monsters to taint our duel with their presence."
+        },
+        {
+          "s": 10,
+          "t": "If you need a moment to rest, take it. Victory will be mine, regardless of whether the path to it is the one I would wish for."
+        },
+        {
+          "s": 5,
+          "t": "Save your breath! If you want to fight, let's fight!"
+        },
+        {
+          "s": 10,
+          "t": "As you wish... Then let us settle our unfinished duel here and now."
+        },
+        {
+          "s": 35,
+          "t": "...Is everyone alright?"
+        },
+        {
+          "s": 6,
+          "t": "Pff, my granny fights better than these rookies! It's Ekbert I'm worried about... You still alive?"
+        },
+        {
+          "s": 7,
+          "t": "Phew... For a moment there, I thought I might never taste the sweet wine of Mondstadt again."
+        },
+        {
+          "s": 2,
+          "t": "Hey, stay put, you guys! Leave the rest to us!"
+        },
+        {
+          "s": 7,
+          "t": "Forget us... We can take care of ourselves!"
+        },
+        {
+          "s": 6,
+          "t": "You're the only ones still standing... Honorary Knight, find the Grand Master!"
+        },
+        {
+          "s": 8,
+          "t": "We can't lose our Varka... Please, you have to find him!"
+        },
+        {
+          "s": 1,
+          "t": "...Got it!"
+        },
+        {
+          "s": 1,
+          "t": "(Varka... I hope your plan is still gonna work...)"
+        },
+        {
+          "s": 5,
+          "t": "Hmph!"
+        },
+        {
+          "s": 10,
+          "t": "You're holding back, Knight of Boreas. I can tell you do not wish to strike me down."
+        },
+        {
+          "s": 10,
+          "t": "This duel does no justice to the way of chivalry. I wield the power of a god, while you dare not swing your sword with true intent. If you continue on this path, you will die."
+        },
+        {
+          "s": 10,
+          "t": "Your plan is doomed to fail. How can a helpless lamb hope to tame the heart of a wolf when the wolf has seen through the lamb's plan?"
+        },
+        {
+          "s": 5,
+          "t": "Haha... You're onto me already, huh?"
+        },
+        {
+          "s": 10,
+          "t": "Andrius's question, Boreas's answer, the means to bear a soul... I knew it all five hundred years ago."
+        },
+        {
+          "s": 10,
+          "t": "Though the false path may be wide and welcoming, only destruction lies at its end. It is time to crush your futile hope..."
+        },
+        {
+          "s": 5,
+          "t": "...Ugh!"
+        },
+        {
+          "s": 10,
+          "t": "It's over. Your sword lies shattered. The Wolf Spirit and the thoughts you blindly placed your faith in have nowhere left to dwell"
+        },
+        {
+          "s": 10,
+          "t": "Join me, and pledge your allegiance to the Abyss, Knight of Boreas. One day, you will understand that the only righteous path for those of true virtue is the path of darkest truths."
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 1,
+          "t": "Varka!"
+        },
+        {
+          "s": 5,
+          "t": "(For the next part, it's over to you...)"
+        },
+        {
+          "s": 5,
+          "t": "(...Outlander Who Caught the Wind!)"
+        }
+      ],
+      "description": "The scryglass reflects visions of the future, the wolf spirit harbors memories of the past… The threads of fate are ever-changing."
+    },
+    {
+      "title": "Lonely Warrior",
+      "dialogue": [
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ugh..."
+        },
+        {
+          "s": 5,
+          "t": "...The sword is unbroken? But I can't sense the Wolf Spirit..."
+        },
+        {
+          "s": 5,
+          "t": "(...Looks like I'm no longer in reality. This must be a space built from the entangled consciousnesses of Boreas and Roland.)"
+        },
+        {
+          "s": 5,
+          "t": "There's no way back, and all that lies ahead is the wolf's maw... Hmm..."
+        },
+        {
+          "s": 5,
+          "t": "Hah, guess the only way is through."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Is this... the heart of the wolf?"
+        },
+        {
+          "s": 5,
+          "t": "...! Roland!"
+        },
+        {
+          "section": "Roland"
+        },
+        {
+          "s": 31,
+          "t": "...I shall do as you wish, Knight of Boreas."
+        },
+        {
+          "s": 5,
+          "t": "Huh... You're not quite how I imagined you. You don't seem half as crazed as the memories contained in the Wolf Spirit."
+        },
+        {
+          "s": 31,
+          "t": "Not once have I strayed from the righteous path. But when I look at you... I do not see a hero capable of slaying dragons. Just a lost soul who has wandered far too long. A shadow of the knight you once were."
+        },
+        {
+          "s": 5,
+          "t": "I guess we have that much in common. Neither of us is at our peak."
+        },
+        {
+          "s": 31,
+          "t": "The Rächer of Solnari's forces have been defeated, and the Roland you see is but an imperfect image cast by the Abyss."
+        },
+        {
+          "s": 31,
+          "t": "I wield the power that Roland did at his peak, but my heart and mind remain frozen in that bloodstained moment."
+        },
+        {
+          "s": 31,
+          "t": "Therefore, I, in my current form, am flawed... A knight cannot bear their own stagnation."
+        },
+        {
+          "s": 31,
+          "t": "After redeeming you from injustice and guiding your surrender to the Abyss, I shall rectify myself and continue to follow the knightly path."
+        },
+        {
+          "s": 5,
+          "t": "Hah! The world out there can bear no more of your torment. Your obsession, clearly, remains exactly as I had imagined. I suppose there's no chance to make you see the light?"
+        },
+        {
+          "s": 31,
+          "t": "No words can make a knight doubt his convictions, no matter how noble they may sound. Neither of us will sway the other... but you have long known this truth."
+        },
+        {
+          "s": 31,
+          "t": "Otherwise, why would you pin all your hopes on Boreas's single thought?"
+        },
+        {
+          "s": 31,
+          "t": "But now the blade that once housed the Wolf Spirit has been shattered, and all you hold is a phantom that bears its form."
+        },
+        {
+          "s": 31,
+          "t": "You no longer have the means to change the situation, and no one will come to your rescue... This place shall be your graveyard, lonely warrior."
+        },
+        {
+          "s": 5,
+          "t": "Eh, maybe you're partly right... But I think I might just have a shot at a rescue."
+        },
+        {
+          "s": 31,
+          "t": "...What do you mean?"
+        },
+        {
+          "s": 5,
+          "t": "There's only one person's mind I need to change, and it isn't yours..."
+        },
+        {
+          "s": 5,
+          "t": "Forgetting where we are? This is the heart of Andrius — God of the North Wind."
+        },
+        {
+          "s": 37,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "Andrius! Can you hear me?"
+        },
+        {
+          "s": 5,
+          "t": "Wake up! You are the great God of the North Wind! How long will you allow yourself to suffer the domination of the Abyss?"
+        },
+        {
+          "s": 37,
+          "t": "..."
+        },
+        {
+          "s": 31,
+          "t": "...If this is your final gambit, I am most disappointed, Knight of Boreas."
+        },
+        {
+          "s": 31,
+          "t": "Grand displays of heartfelt wishes cannot summon miracles. This world shows no such mercy to its inhabitants."
+        },
+        {
+          "s": 37,
+          "t": "...Return..."
+        },
+        {
+          "s": 37,
+          "t": "...Return to... the Ley Lines..."
+        },
+        {
+          "s": 31,
+          "t": "...!"
+        },
+        {
+          "s": 37,
+          "t": "...This is my choice... my memory..."
+        },
+        {
+          "s": 37,
+          "t": "...Is this the answer that I found... at my journey's end?"
+        },
+        {
+          "s": 5,
+          "t": "And{RUBY#[D]Boreas}rius... At long last, I have delivered your token back into your heart."
+        },
+        {
+          "s": 37,
+          "t": "Heh... A Knight of Boreas? Watch on..."
+        },
+        {
+          "s": 37,
+          "t": "...This is all that a wo{RUBY#[S]I}lf can hope to do for human{RUBY#[S]you}kind..."
+        },
+        {
+          "s": 5,
+          "t": "...On behalf of all humanity, I thank you, Lord of Wolves."
+        },
+        {
+          "s": 31,
+          "t": "Boreas... is returning to the Ley Lines? But why? Your sword is broken — you no longer have the means to bear his soul... Unless... Surely not..."
+        },
+        {
+          "s": 5,
+          "t": "Begging for miracles is a futile endeavor. I know better than that."
+        },
+        {
+          "s": 5,
+          "t": "...But a sword is just one kind of vessel. There are other ways to store a soul."
+        },
+        {
+          "s": 0,
+          "t": "The Dominator of Wolves once bestowed the power of his soul upon his pack, strengthening their hearts and sharpening their claws and fangs."
+        },
+        {
+          "s": 22,
+          "t": "...Even if it is not my intention, the soul of Lupus Boreas will inevitably ravage, devour, and assimilate a mortal heart... As if human and wolf were being forcefully merged into one being."
+        },
+        {
+          "s": 38,
+          "t": "...If a mortal heart is to bear the soul of a god... This is a path that cannot be retraced. Yet I shall not dissuade a knight from embarking on the quest of his own choosing."
+        },
+        {
+          "s": 31,
+          "t": "Your heart, your soul... they are collapsing? ...Ah, now I see."
+        },
+        {
+          "s": 5,
+          "t": "You were wondering how a lamb could tame the heart of a wolf... isn't that right?"
+        },
+        {
+          "s": 5,
+          "t": "Here's my answer: You get the wolf to swallow the heart."
+        },
+        {
+          "s": 31,
+          "t": "The Wolf Spirit within the sword was merely a decoy... the true thoughts and memories were carried within your heart."
+        },
+        {
+          "s": 31,
+          "t": "To avoid arousing my suspicion, you deliberately allowed Lupus Boreas's soul to assimilate your own, then be devoured by me... But... how did you have the strength to fight while bearing such a great burden...?"
+        },
+        {
+          "s": 5,
+          "t": "Compared to Lupus Boreas's decision... my sacrifice is nothing."
+        },
+        {
+          "s": 31,
+          "t": "You have a stubborn will and employed an exceptional strategy... but this is not the way a true knight fights. The choice you have made is a flawed one."
+        },
+        {
+          "s": 31,
+          "t": "Your soul is now merged with that of Andrius. When he fully joins the Ley Lines, you too will fall."
+        },
+        {
+          "s": 31,
+          "t": "Neither Barbatos nor the Traveler will be able to anchor your soul from within the Ley Lines, let alone rescue you."
+        },
+        {
+          "s": 31,
+          "t": "You have lost, and so have I. Regrettably, I can no longer offer you salvation."
+        },
+        {
+          "s": 31,
+          "t": "...May your soul rest in peace with Boreas, lonely warrior."
+        },
+        {
+          "s": 5,
+          "t": "...Haha, lonely...?"
+        },
+        {
+          "s": 5,
+          "t": "Sorry to disappoint you, but... As much as it sounded like the perfect ending, for both of us to return to the Ley Lines together..."
+        },
+        {
+          "s": 5,
+          "t": "The fact is that — unlike the true Roland of the past — I still have fine wine and good friends to get back to. They're looking forward to my triumphant return..."
+        },
+        {
+          "s": 5,
+          "t": "So I'm not ready to accept my fate just yet!"
+        },
+        {
+          "s": 0,
+          "t": "Ding-dong! You've got mail!"
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 37,
+          "t": "...Walk forward, and do not look back."
+        },
+        {
+          "s": 23,
+          "t": "\"Varka... Now, I know the meaning of my name.\""
+        },
+        {
+          "s": 20,
+          "t": "\"...After the lengths you've made everyone go for you, you'd better make sure to thank us all properly when you get back.\""
+        },
+        {
+          "s": 19,
+          "t": "\"You know, I have a lot of things to update you on... but they can wait until you're back.\""
+        },
+        {
+          "s": 21,
+          "t": "\"I have no intention of returning to the Knights of Favonius... But I trust you will find a way to manage on your own.\""
+        },
+        {
+          "s": 13,
+          "t": "\"...Grand Master, we're all waiting for you.\""
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "Hmm? ...Oh. Heh."
+        },
+        {
+          "s": 5,
+          "t": "I'm... not doing too bad a job as Grand Master, am I?"
+        },
+        {
+          "s": 5,
+          "t": "Heh... I'll take that silence as your approval."
+        },
+        {
+          "s": 5,
+          "t": "Everything you swore to protect with your lives... It's all still here, safe and sound."
+        },
+        {
+          "s": 5,
+          "t": "The Knights of Favonius, Mondstadt... and the oath sworn by every knight. I'll protect them all with my life."
+        },
+        {
+          "s": 5,
+          "t": "And so... I'll deliver that letter on your behalf."
+        },
+        {
+          "s": 5,
+          "t": "...I know it's just a shadow of the real Roland, but... if you have the time, could you please read it for him?"
+        },
+        {
+          "s": 5,
+          "t": "Rostam and Arundolyn... They never forgot you."
+        },
+        {
+          "s": 5,
+          "t": "Phew... This has been one long expedition."
+        },
+        {
+          "s": 5,
+          "t": "From here on out, I think I'll..."
+        },
+        {
+          "s": 5,
+          "t": "...Let the wind lead."
+        },
+        {
+          "s": 12,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "...Hey, everyone. It's been a mighty long time."
+        },
+        {
+          "s": 5,
+          "t": "I'm... thrilled to see you all again."
+        },
+        {
+          "s": 1,
+          "t": "Welcome back, Grand Master."
+        },
+        {
+          "s": 5,
+          "t": "Yeah. I'm home."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "section": "Varka"
+        },
+        {
+          "s": 5,
+          "t": "Ahhh... It's been a while since I felt this wind on my face... Just how I remember. So, is there anything you'd like to talk about? Now's your chance, before I get dragged off to the office..."
+        },
+        {
+          "sit": "About your plan..."
+        },
+        {
+          "sit": "About the expedition..."
+        },
+        {
+          "sit": "About your future..."
+        },
+        {
+          "sit": "I have no more questions."
+        },
+        {
+          "s": 5,
+          "t": "The sword was just a decoy — I carried his soul in my own heart... That was the plan I was most certain would work."
+        },
+        {
+          "s": 5,
+          "t": "The second half, though — using everyone's thoughts to guide me back out of the Ley Lines... I wasn't too sure that would work out, hah."
+        },
+        {
+          "s": 2,
+          "t": "All jokes aside, what would you have done if {NICKNAME} hadn't been able to separate the Wolf Spirit from Roland's influence?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm... Initially, I was planning to have Barbatos carry out that step. But when I approached him about it, he said there was a much more suitable candidate... The Outlander Who Caught the Wind."
+        },
+        {
+          "s": 5,
+          "t": "Turns out our trust was not misplaced. Thank you, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "But what if I'd failed?"
+        },
+        {
+          "s": 5,
+          "t": "Then... I guess we'd have had to get Barbatos to send a wind to blow me back home?"
+        },
+        {
+          "s": 5,
+          "t": "...But it would have come at a heavy price, and with no guarantee of success. Besides, I'd rather not have him expend that kind of power."
+        },
+        {
+          "sit": "...Invoking the power of an Archon..."
+        },
+        {
+          "sit": "...How steep a price are we talking?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm, it's a good question — a glass of the finest Dandelion Wine, perhaps? No doubt I'd have to pay for it with the secret stash of cash in my office."
+        },
+        {
+          "s": 2,
+          "t": "You're dreaming if you think it would've come that cheap!"
+        },
+        {
+          "s": 1,
+          "t": "...How steep a price are we talking?"
+        },
+        {
+          "s": 1,
+          "t": "About the expedition..."
+        },
+        {
+          "s": 5,
+          "t": "Well, with the shadow of Roland vanquished, the Wild Hunt won't be able to consolidate their forces for the foreseeable future."
+        },
+        {
+          "s": 5,
+          "t": "A few knights will remain on rotation at the Nod-Krai stronghold, but everyone else will be sent home in waves."
+        },
+        {
+          "s": 5,
+          "t": "Albedo and Durin will come back with the first wave, so you should have the chance to see them again soon."
+        },
+        {
+          "s": 1,
+          "t": "About your future..."
+        },
+        {
+          "s": 5,
+          "t": "My future, huh... You may already have learned of this from Barbatos or the Hexenzirkel, but I glimpsed a reflection of the future in Barbeloth's scryglass."
+        },
+        {
+          "s": 1,
+          "t": "You saw an Abyssal calamity in the North, right?"
+        },
+        {
+          "s": 5,
+          "t": "Correct. Although, as things stand now... I believe we may have changed the course of the future — thanks in no small part to you."
+        },
+        {
+          "s": 5,
+          "t": "Still, after I've tied up some loose ends with the Knights of Favonius, I'll need to make another trip back north... There's still a lot of work to be done at the Nod-Krai stronghold."
+        },
+        {
+          "s": 5,
+          "t": "Besides, the first group of knights who volunteered to stay there have yet to be relieved of their duty. How could I simply abandon them?"
+        },
+        {
+          "s": 2,
+          "t": "Aw, how noble... But be honest, your main reason for going back to Nod-Krai is so you can dump all your work here on Jean again, isn't it?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "...Wait, seriously!?"
+        },
+        {
+          "sit": "Aren't you gonna say something in your defense...?"
+        },
+        {
+          "sit": "Don't just stand there grinning!"
+        },
+        {
+          "s": 5,
+          "t": "Haha. I'm only pulling your leg — you'll be seeing a lot more of me in Mondstadt from now on."
+        },
+        {
+          "s": 1,
+          "t": "Don't just stand there grinning!"
+        },
+        {
+          "s": 1,
+          "t": "I have no more questions."
+        },
+        {
+          "s": 5,
+          "t": "Alright then. I'm gonna stay here and enjoy the breeze for a little longer... For all the wine in the world, there's no feeling as intoxicating as the wind from your hometown after a long time away."
+        }
+      ],
+      "description": "594606"
+    }
+  ],
+  "speakers": [
+    "Venti",
+    "Traveler",
+    "Paimon",
+    "Ruin Guard",
+    "Lohen",
+    "Varka",
+    "Winfried",
+    "Ekbert",
+    "Leifhelm",
+    "Wandering Knight",
+    "\"Roland\"",
+    "Amber",
+    "Noelle",
+    "Jean",
+    "Lisa",
+    "Eula",
+    "Mika",
+    "Sucrose",
+    "Klee",
+    "Kaeya",
+    "Rosaria",
+    "Diluc",
+    "Boreas",
+    "Razor",
+    "Dvalin",
+    "Ineffa",
+    "Flins",
+    "Jahoda",
+    "Albedo",
+    "Durin",
+    "Mavuika",
+    "Roland",
+    "Vedrfolnir",
+    "Erminie",
+    "Monsters",
+    "Vytautas",
+    "Virtanen",
+    "Andrius",
+    "\"The Captain\""
+  ],
+  "id": "ch-2087"
+}

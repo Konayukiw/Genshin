@@ -1,0 +1,705 @@
+{
+  "name": "以理服人",
+  "rarity": 3,
+  "type": "双手剑",
+  "base_atk": 39,
+  "passive": {
+    "name": "有话直说",
+    "refinements": {
+      "R1": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成60%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+      "R2": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成75%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+      "R3": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成90%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+      "R4": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成105%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。",
+      "R5": "施放元素战技后，普通攻击和重击命中时会在小范围内额外造成120%攻击力的伤害。该效果持续15秒，伤害每3秒只能触发一次。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 39,
+      "substat": "ATK%",
+      "substat_value": 7.7
+    },
+    {
+      "level": 2,
+      "base_atk": 42,
+      "substat": "ATK%",
+      "substat_value": 7.7
+    },
+    {
+      "level": 3,
+      "base_atk": 45,
+      "substat": "ATK%",
+      "substat_value": 7.7
+    },
+    {
+      "level": 4,
+      "base_atk": 48,
+      "substat": "ATK%",
+      "substat_value": 7.7
+    },
+    {
+      "level": 5,
+      "base_atk": 50,
+      "substat": "ATK%",
+      "substat_value": 8.9
+    },
+    {
+      "level": 6,
+      "base_atk": 53,
+      "substat": "ATK%",
+      "substat_value": 8.9
+    },
+    {
+      "level": 7,
+      "base_atk": 56,
+      "substat": "ATK%",
+      "substat_value": 8.9
+    },
+    {
+      "level": 8,
+      "base_atk": 59,
+      "substat": "ATK%",
+      "substat_value": 8.9
+    },
+    {
+      "level": 9,
+      "base_atk": 62,
+      "substat": "ATK%",
+      "substat_value": 8.9
+    },
+    {
+      "level": 10,
+      "base_atk": 65,
+      "substat": "ATK%",
+      "substat_value": 10.4
+    },
+    {
+      "level": 11,
+      "base_atk": 68,
+      "substat": "ATK%",
+      "substat_value": 10.4
+    },
+    {
+      "level": 12,
+      "base_atk": 71,
+      "substat": "ATK%",
+      "substat_value": 10.4
+    },
+    {
+      "level": 13,
+      "base_atk": 74,
+      "substat": "ATK%",
+      "substat_value": 10.4
+    },
+    {
+      "level": 14,
+      "base_atk": 77,
+      "substat": "ATK%",
+      "substat_value": 10.4
+    },
+    {
+      "level": 15,
+      "base_atk": 79,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 16,
+      "base_atk": 82,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 17,
+      "base_atk": 85,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 18,
+      "base_atk": 88,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 19,
+      "base_atk": 91,
+      "substat": "ATK%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 20,
+      "base_atk": 94,
+      "substat": "ATK%",
+      "substat_value": 13.5
+    },
+    {
+      "level": 21,
+      "base_atk": 116,
+      "substat": "ATK%",
+      "substat_value": 13.5
+    },
+    {
+      "level": 22,
+      "base_atk": 119,
+      "substat": "ATK%",
+      "substat_value": 13.5
+    },
+    {
+      "level": 23,
+      "base_atk": 122,
+      "substat": "ATK%",
+      "substat_value": 13.5
+    },
+    {
+      "level": 24,
+      "base_atk": 125,
+      "substat": "ATK%",
+      "substat_value": 13.5
+    },
+    {
+      "level": 25,
+      "base_atk": 127,
+      "substat": "ATK%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 26,
+      "base_atk": 130,
+      "substat": "ATK%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 27,
+      "base_atk": 133,
+      "substat": "ATK%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 28,
+      "base_atk": 136,
+      "substat": "ATK%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 29,
+      "base_atk": 139,
+      "substat": "ATK%",
+      "substat_value": 15.1
+    },
+    {
+      "level": 30,
+      "base_atk": 141,
+      "substat": "ATK%",
+      "substat_value": 16.6
+    },
+    {
+      "level": 31,
+      "base_atk": 144,
+      "substat": "ATK%",
+      "substat_value": 16.6
+    },
+    {
+      "level": 32,
+      "base_atk": 147,
+      "substat": "ATK%",
+      "substat_value": 16.6
+    },
+    {
+      "level": 33,
+      "base_atk": 150,
+      "substat": "ATK%",
+      "substat_value": 16.6
+    },
+    {
+      "level": 34,
+      "base_atk": 153,
+      "substat": "ATK%",
+      "substat_value": 16.6
+    },
+    {
+      "level": 35,
+      "base_atk": 155,
+      "substat": "ATK%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 36,
+      "base_atk": 158,
+      "substat": "ATK%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 37,
+      "base_atk": 161,
+      "substat": "ATK%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 38,
+      "base_atk": 164,
+      "substat": "ATK%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 39,
+      "base_atk": 166,
+      "substat": "ATK%",
+      "substat_value": 18.2
+    },
+    {
+      "level": 40,
+      "base_atk": 169,
+      "substat": "ATK%",
+      "substat_value": 19.7
+    },
+    {
+      "level": 41,
+      "base_atk": 191,
+      "substat": "ATK%",
+      "substat_value": 19.7
+    },
+    {
+      "level": 42,
+      "base_atk": 194,
+      "substat": "ATK%",
+      "substat_value": 19.7
+    },
+    {
+      "level": 43,
+      "base_atk": 197,
+      "substat": "ATK%",
+      "substat_value": 19.7
+    },
+    {
+      "level": 44,
+      "base_atk": 200,
+      "substat": "ATK%",
+      "substat_value": 19.7
+    },
+    {
+      "level": 45,
+      "base_atk": 202,
+      "substat": "ATK%",
+      "substat_value": 21.3
+    },
+    {
+      "level": 46,
+      "base_atk": 205,
+      "substat": "ATK%",
+      "substat_value": 21.3
+    },
+    {
+      "level": 47,
+      "base_atk": 208,
+      "substat": "ATK%",
+      "substat_value": 21.3
+    },
+    {
+      "level": 48,
+      "base_atk": 211,
+      "substat": "ATK%",
+      "substat_value": 21.3
+    },
+    {
+      "level": 49,
+      "base_atk": 213,
+      "substat": "ATK%",
+      "substat_value": 21.3
+    },
+    {
+      "level": 50,
+      "base_atk": 216,
+      "substat": "ATK%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 51,
+      "base_atk": 238,
+      "substat": "ATK%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 52,
+      "base_atk": 241,
+      "substat": "ATK%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 53,
+      "base_atk": 244,
+      "substat": "ATK%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 54,
+      "base_atk": 246,
+      "substat": "ATK%",
+      "substat_value": 22.8
+    },
+    {
+      "level": 55,
+      "base_atk": 249,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 56,
+      "base_atk": 252,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 57,
+      "base_atk": 255,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 58,
+      "base_atk": 257,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 59,
+      "base_atk": 260,
+      "substat": "ATK%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 60,
+      "base_atk": 263,
+      "substat": "ATK%",
+      "substat_value": 25.9
+    },
+    {
+      "level": 61,
+      "base_atk": 285,
+      "substat": "ATK%",
+      "substat_value": 25.9
+    },
+    {
+      "level": 62,
+      "base_atk": 288,
+      "substat": "ATK%",
+      "substat_value": 25.9
+    },
+    {
+      "level": 63,
+      "base_atk": 290,
+      "substat": "ATK%",
+      "substat_value": 25.9
+    },
+    {
+      "level": 64,
+      "base_atk": 293,
+      "substat": "ATK%",
+      "substat_value": 25.9
+    },
+    {
+      "level": 65,
+      "base_atk": 296,
+      "substat": "ATK%",
+      "substat_value": 27.5
+    },
+    {
+      "level": 66,
+      "base_atk": 298,
+      "substat": "ATK%",
+      "substat_value": 27.5
+    },
+    {
+      "level": 67,
+      "base_atk": 301,
+      "substat": "ATK%",
+      "substat_value": 27.5
+    },
+    {
+      "level": 68,
+      "base_atk": 304,
+      "substat": "ATK%",
+      "substat_value": 27.5
+    },
+    {
+      "level": 69,
+      "base_atk": 306,
+      "substat": "ATK%",
+      "substat_value": 27.5
+    },
+    {
+      "level": 70,
+      "base_atk": 309,
+      "substat": "ATK%",
+      "substat_value": 29.0
+    },
+    {
+      "level": 71,
+      "base_atk": 331,
+      "substat": "ATK%",
+      "substat_value": 29.0
+    },
+    {
+      "level": 72,
+      "base_atk": 334,
+      "substat": "ATK%",
+      "substat_value": 29.0
+    },
+    {
+      "level": 73,
+      "base_atk": 337,
+      "substat": "ATK%",
+      "substat_value": 29.0
+    },
+    {
+      "level": 74,
+      "base_atk": 339,
+      "substat": "ATK%",
+      "substat_value": 29.0
+    },
+    {
+      "level": 75,
+      "base_atk": 342,
+      "substat": "ATK%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 76,
+      "base_atk": 345,
+      "substat": "ATK%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 77,
+      "base_atk": 347,
+      "substat": "ATK%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 78,
+      "base_atk": 350,
+      "substat": "ATK%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 79,
+      "base_atk": 353,
+      "substat": "ATK%",
+      "substat_value": 30.5
+    },
+    {
+      "level": 80,
+      "base_atk": 355,
+      "substat": "ATK%",
+      "substat_value": 32.1
+    },
+    {
+      "level": 81,
+      "base_atk": 377,
+      "substat": "ATK%",
+      "substat_value": 32.1
+    },
+    {
+      "level": 82,
+      "base_atk": 380,
+      "substat": "ATK%",
+      "substat_value": 32.1
+    },
+    {
+      "level": 83,
+      "base_atk": 383,
+      "substat": "ATK%",
+      "substat_value": 32.1
+    },
+    {
+      "level": 84,
+      "base_atk": 385,
+      "substat": "ATK%",
+      "substat_value": 32.1
+    },
+    {
+      "level": 85,
+      "base_atk": 388,
+      "substat": "ATK%",
+      "substat_value": 33.6
+    },
+    {
+      "level": 86,
+      "base_atk": 391,
+      "substat": "ATK%",
+      "substat_value": 33.6
+    },
+    {
+      "level": 87,
+      "base_atk": 393,
+      "substat": "ATK%",
+      "substat_value": 33.6
+    },
+    {
+      "level": 88,
+      "base_atk": 396,
+      "substat": "ATK%",
+      "substat_value": 33.6
+    },
+    {
+      "level": 89,
+      "base_atk": 399,
+      "substat": "ATK%",
+      "substat_value": 33.6
+    },
+    {
+      "level": 90,
+      "base_atk": 401,
+      "substat": "ATK%",
+      "substat_value": 35.2
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "雾海云间的铅丹",
+          "id": 114017,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "雾虚花粉",
+          "id": 112026,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "破损的面具",
+          "id": 112005,
+          "count": 1,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "雾海云间的汞丹",
+          "id": 114018,
+          "count": 2,
+          "rank": 3
+        },
+        {
+          "name": "雾虚花粉",
+          "id": 112026,
+          "count": 8,
+          "rank": 2
+        },
+        {
+          "name": "破损的面具",
+          "id": 112005,
+          "count": 5,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "雾海云间的汞丹",
+          "id": 114018,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "雾虚草囊",
+          "id": 112027,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "污秽的面具",
+          "id": 112006,
+          "count": 4,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "雾海云间的金丹",
+          "id": 114019,
+          "count": 2,
+          "rank": 4
+        },
+        {
+          "name": "雾虚草囊",
+          "id": 112027,
+          "count": 8,
+          "rank": 3
+        },
+        {
+          "name": "污秽的面具",
+          "id": 112006,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 25000,
+      "items": [
+        {
+          "name": "雾海云间的金丹",
+          "id": 114019,
+          "count": 4,
+          "rank": 4
+        },
+        {
+          "name": "雾虚灯芯",
+          "id": 112028,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "不祥的面具",
+          "id": 112007,
+          "count": 4,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "雾海云间的转还",
+          "id": 114020,
+          "count": 3,
+          "rank": 5
+        },
+        {
+          "name": "雾虚灯芯",
+          "id": 112028,
+          "count": 12,
+          "rank": 4
+        },
+        {
+          "name": "不祥的面具",
+          "id": 112007,
+          "count": 8,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "12305"
+}

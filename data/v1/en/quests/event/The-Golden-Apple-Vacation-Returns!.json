@@ -1,0 +1,1624 @@
+{
+  "chapter": "Summertime Odyssey: I",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Golden Apple Vacation Returns!",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Golden Apple Vacation Returns!",
+      "dialogue": [
+        {
+          "section": "Katheryne"
+        },
+        {
+          "s": 0,
+          "t": "Ah, Traveler. It so happens that a friend of yours asked me to pass on a voice message when I saw you."
+        },
+        {
+          "s": 1,
+          "t": "Someone left a message for us? Who could it be?"
+        },
+        {
+          "s": 0,
+          "t": "\"My beloved retainer, have you noticed that silver thread, of which fate is woven, now twisting and twining itself around you? The Auge der Verurteilung des... hmm? Des... Großen Kaleidophantasmas... will be watching you...\""
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 0,
+          "t": "Apologies, this message is unusually difficult to recite. Would you like to hear more?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... definitely sounds like Fischl's note... What should we do?"
+        },
+        {
+          "sit": "I'd love to hear more."
+        },
+        {
+          "sit": "I'm good, thanks."
+        },
+        {
+          "s": 0,
+          "t": "\"...will be watching you as you step into the glorious castle of the Immernachtreich. Come to me at once, swear an oath to me in my blessed name, and we shall journey together to the depths of the world.\""
+        },
+        {
+          "s": 0,
+          "t": "Anyway, to summarize — Miss Fischl asked me to ask you to go to the plaza in front of the Cathedral."
+        },
+        {
+          "s": 0,
+          "t": "Please meet her there when you have the time. She said that she will be waiting for you."
+        },
+        {
+          "s": 1,
+          "t": "Oh, Fischl... such a mystifying message for such a plain and simple request..."
+        },
+        {
+          "s": 1,
+          "t": "Well, if Fischl's expecting us, then let's not keep her waiting. Let's head towards the Cathedral plaza!"
+        },
+        {
+          "section": "Fischl, Mona, Oz"
+        },
+        {
+          "s": 1,
+          "t": "There she is! And Mona, too!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, welcome, welcome, most loyal attendants of the Prinzessin!"
+        },
+        {
+          "s": 3,
+          "t": "Which one is it, \"retainer\" or \"attendant\"? Make up your mind..."
+        },
+        {
+          "s": 4,
+          "t": "My apologies. Mein Fräulein tends to use exaggerated expressions when she's in good spirits."
+        },
+        {
+          "s": 1,
+          "t": "Hey Fischl! You were looking for us, right? Sounds like the fun's started without us! What's got you in such a good mood?"
+        },
+        {
+          "sit": "Nice to see you all again, it's been a while."
+        },
+        {
+          "s": 2,
+          "t": "And so, the whisper of eternal night summons you back to my side. Splendid! What a blessed reunion, a boon from beyond the eventide! Come, partake of this joy with me, my subjects..."
+        },
+        {
+          "s": 4,
+          "t": "Traveler, Paimon, it's a pleasure to see you again. Mein Fräulein and I extend to you our most sincere greetings."
+        },
+        {
+          "s": 1,
+          "t": "Paimon wants to say a proper hello too, but Paimon has no idea how to, uh... partake..."
+        },
+        {
+          "s": 3,
+          "t": "A normal person in this situation would simply say: \"Hi Traveler, how have you been?\""
+        },
+        {
+          "sit": "Fine, thanks."
+        },
+        {
+          "s": 2,
+          "t": "Hmph! {NICKNAME} and I are like intertwined stars in the vast galaxy. You of all people should very well know the fate foretold by this meeting!"
+        },
+        {
+          "s": 4,
+          "t": "Precisely! Lady Megistus, please refrain from such unimaginative utterances."
+        },
+        {
+          "s": 1,
+          "t": "...Lady M—Meg...? What now?"
+        },
+        {
+          "sit": "Is that your new nickname?"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, Lady Megistus has long since become a citizen of the Immernachtreich. She has been serving as Court Archmage under one's command for some time now."
+        },
+        {
+          "s": 3,
+          "t": "Ahem! That's just my surname, don't mind that... This is so embarrassing, hahaha..."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, you're here because Fischl asked Katheryne to ask you to come, right?"
+        },
+        {
+          "s": 2,
+          "t": "Indeed so, my Archmage. Did even this appear in thy divination? Why, your powers are truly dangerous."
+        },
+        {
+          "s": 3,
+          "t": "Oh for the love of... No, of course not! You told me yourself that you'd left a message with Katheryne!"
+        },
+        {
+          "s": 3,
+          "t": "Ahem! Excuse me... Anyway, in my case she practically beat the door down to get me to come along... Whatever she says, please don't be too astonished."
+        },
+        {
+          "s": 1,
+          "t": "Ah, don't worry. We've been around the block, you can't faze us!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, faithful servants! One's homeland, the Immernachtreich, which bears the darkest of all fates, draws near to this world once more. Stand with me in anticipation, for the glory of our kingdom is nigh!"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, what...?"
+        },
+        {
+          "s": 2,
+          "t": "Indeed! Only one's most faithful envoys are fortunate enough to be privy to this great revelation. The Immernachtreich is near Mondstadt!"
+        },
+        {
+          "sit": "Okay, I'll report this to the Knights of Favonius immediately!"
+        },
+        {
+          "s": 4,
+          "t": "No, please, that will be most unnecessary!"
+        },
+        {
+          "s": 3,
+          "t": "I know it sounds absurd, but there's actually something behind this, I promise."
+        },
+        {
+          "s": 3,
+          "t": "Basically, what Fischl means is—"
+        },
+        {
+          "s": 2,
+          "t": "Lady Megistus!"
+        },
+        {
+          "s": 3,
+          "t": "Urgh, alright, alright! Honestly... Look at me, a genius astrologist, forced into a juvenile role-playing game..."
+        },
+        {
+          "s": 3,
+          "t": "The truth is that yesterday, Her Highness encountered the Spark Knight, Klee outside of the city. Both being of great fame, they recognized one another instantly, and began to converse."
+        },
+        {
+          "s": 3,
+          "t": "It was already getting dark, so in that spirit of great compassion and care for which she is known, Her Highness personally accompanied Klee back to Mondstadt."
+        },
+        {
+          "s": 3,
+          "t": "On the way, Her Highness relayed to Klee the story of her origins. Upon hearing the tragic tale of the fall of Her Highness's homeworld, the tender-hearted Spark Knight inquired, with tears welling up in her eyes..."
+        },
+        {
+          "s": 4,
+          "t": "\"Oh no! Is the Immernachtreich really gone? Won't it grow back?\""
+        },
+        {
+          "s": 2,
+          "t": "\"O mortal, your sovereign's heart is touched by thy sincerity and sympathy. But nay, the Immernachtreich is an everlasting realm, and one day, it shall make its reappearance.\""
+        },
+        {
+          "s": 4,
+          "t": "\"Really? So how do we make your homeland grow back again? Oh, pwease tell me, pweeease, pweeeeease!\""
+        },
+        {
+          "s": 2,
+          "t": "\"Since you inquire so earnestly... give unto me a tranquil haven, promise me eternal admiration, lend me both time and wind, and one shall revive one's homeworld.\""
+        },
+        {
+          "s": 1,
+          "t": "Could you cut the re-enactment and just get to the point!"
+        },
+        {
+          "s": 3,
+          "t": "In short, Klee gave Fischl an island to serve as the promised land where the Immernachtreich will reappear. I didn't believe it either at first, but then I saw this letter."
+        },
+        {
+          "s": 4,
+          "t": "Providence has gifted mein Fräulein with an excellent opportunity. Esteemed Traveler, as mein Fräulein's cherished retainer, you deserve to bear witness to this grand moment with us."
+        },
+        {
+          "s": 1,
+          "t": "This island looks kinda familiar..."
+        },
+        {
+          "sit": "Um...ahh..."
+        },
+        {
+          "s": 2,
+          "t": "Traveler! Curtail thy umming and ahhing at once! The throne of the Immernachtreich calls for me. Come, be my blade, clear the way, and witness what is to come!"
+        },
+        {
+          "s": 3,
+          "t": "I think she just wants to invite you along to the island with her. That being said, I have a feeling that I'll be better off not performing any divination where that island's concerned..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Why not?"
+        },
+        {
+          "s": 3,
+          "t": "Klee is involved in this, which means her mother is probably involved, which means that old hag is involved... Ugh, thanks, but no thanks."
+        },
+        {
+          "sit": "What can I do for you, Your Highness?"
+        },
+        {
+          "s": 2,
+          "t": "You, who have traveled to the farthest reaches of the world, fathomed the celestial path of stardust in the palm of your hand, and witnessed raindrops converge and become one with the undercurrent of destiny... You, yes, you..."
+        },
+        {
+          "s": 4,
+          "t": "...Must chart the course that leads the way to the land promised to mein Fräulein by fate!"
+        },
+        {
+          "s": 1,
+          "t": "Ohhh. Fischl doesn't know the way there..."
+        },
+        {
+          "sit": "I knew it..."
+        },
+        {
+          "s": 1,
+          "t": "Hehehe, since thou askethed for our help, Paimon can telleth you that we are good friends with the Spark Knight, Klee: The Guides of Destiny!"
+        },
+        {
+          "sit": "Paimon, seriously..."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, come on, just play along!"
+        },
+        {
+          "sit": "Very well! I am the one whomst hath traveled here from beyond the stars!"
+        },
+        {
+          "s": 3,
+          "t": "Behold, the watcher, the guide, the weaver of dreams... {NICKNAME}!"
+        },
+        {
+          "s": 2,
+          "t": "Hahahaha! Excellent, most excellent!"
+        },
+        {
+          "sit": "A crowd of bemused Mondstadters watches on as this spectacle continues for another half hour..."
+        },
+        {
+          "s": 3,
+          "t": "...To sum up, Traveler, since you say you know the way, we'll let you take us to the island— I mean, the promised land."
+        },
+        {
+          "sit": "For the Prinzessin!"
+        },
+        {
+          "sit": "Lady Megistus, leave it to me."
+        },
+        {
+          "s": 3,
+          "t": "Good, fine, done. Right, now — Lady Megistus needs to go home to pack her things and catch up on some sleep. Your Highness, your other distinguished selves, let's meet at the city gate at nine o'clock tomorrow morning."
+        },
+        {
+          "s": 2,
+          "t": "Very well! Then it is settled. One blesses you with an undisturbed slumber, Lady Megistus. You too, Traveler."
+        },
+        {
+          "s": 4,
+          "t": "Mein Fräulein means to say: \"Good night, see you all tomorrow.\""
+        },
+        {
+          "s": 1,
+          "t": "About darn time... good night!"
+        },
+        {
+          "s": 1,
+          "t": "Ugh, Paimon's exhausted! You all have proper roles! How come Paimon has to be a clock on the wall in the royal palace!?"
+        },
+        {
+          "s": 1,
+          "t": "\"Cuckoo! It's twelve o'clock sharp in the Immernachtreich!\""
+        },
+        {
+          "sit": "(Paimon, you're the one who started it...)"
+        },
+        {
+          "s": 1,
+          "t": "Hmph. Anyway, since those islands are a pretty mind-blowing place, why don't we get some people with mind-boggling ideas to help us out?"
+        },
+        {
+          "s": 1,
+          "t": "Kaeya's mind works in mysterious ways, but no one in Mondstadt has ideas that boggle the mind quite like..."
+        },
+        {
+          "s": 1,
+          "t": "...a certain somebody who's definitely going to be in the tavern at this hour. C'mon, let's go rope him into helping us!"
+        },
+        {
+          "section": "Venti, Xinyan, Kaedehara Kazuha"
+        },
+        {
+          "s": 1,
+          "t": "We're here! Tone-Deaf Bard! ...Huh!?"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, what are they doing in Mondstadt!?"
+        },
+        {
+          "s": 5,
+          "t": "Well look at that, you're really here! Come on, take a seat and join our delightful conversation!"
+        },
+        {
+          "s": 6,
+          "t": "Wow, {NICKNAME}, Paimon! Speak of the devil, we were literally just talking about you!"
+        },
+        {
+          "s": 7,
+          "t": "Haha, truly a curious coincidence."
+        },
+        {
+          "s": 1,
+          "t": "Kazuha, Xinyan, what are you doing here in a Mondstadt tavern? And how'd you end up having to share a table with the Tone-Deaf Bard...?"
+        },
+        {
+          "s": 6,
+          "t": "\"Tone-Deaf Bard\"? Hahaha! Now that's a fun stage name. Seems like you're a pretty well-known singer, fella."
+        },
+        {
+          "s": 5,
+          "t": "Though sadly not a rock 'n' roll singer, or we could perform a duet."
+        },
+        {
+          "s": 5,
+          "t": "So, you all know each other! My new-found friends are my old friends' friends from afar... Ah, how fantastic."
+        },
+        {
+          "s": 5,
+          "t": "This is a rare opportunity indeed. Oh, we should form a poetry club and call it... the \"Free Poets Society,\" or something like that."
+        },
+        {
+          "sit": "You guys came here from Liyue?"
+        },
+        {
+          "s": 6,
+          "t": "Yeah, I felt like getting out and finding some new inspiration for my songwriting. Kazuha felt like going on a trip too, so we figured we'd travel together."
+        },
+        {
+          "s": 6,
+          "t": "Last month, Beidou held a big booze-fueled party called the \"Drink-Till-You-Sink Champion-Ship,\" and she put me in charge of the music. That's where I met Kazuha."
+        },
+        {
+          "s": 7,
+          "t": "Although Xinyan can come across as unruly at times, her musical understanding is highly nuanced and original. Safe to say, our shared appreciation for music struck a chord in us both."
+        },
+        {
+          "s": 6,
+          "t": "You can say that again! In Kazuha's hands, even a leaf becomes an instrument! That makes him an expert among my friends."
+        },
+        {
+          "s": 6,
+          "t": "Startin' from Liyue, we passed through Stone Gate and kept going till we came into Mondstadt. Then, along the way, we saw this really awesome manor, it was something else!"
+        },
+        {
+          "s": 1,
+          "t": "Oh! Yeah, we know the one. Our friend owns that place."
+        },
+        {
+          "s": 6,
+          "t": "Really? Y'all sure have a lot of friends! Well, whoever it is that lives in that fine place must really be lovin' life, huh?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... guess so, heh..."
+        },
+        {
+          "s": 7,
+          "t": "Similar souls tend to attract each other. {NICKNAME} and Paimon, you must have exceptional taste, just like that friend of yours."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you're too nice! Unlike some people who only ever seem to poke fun at Paimon, ahem!"
+        },
+        {
+          "s": 6,
+          "t": "By the way, do you know anything about the \"Iridescence Tour\"? It's supposed to be huge. Rumor has it that all seven nations of Teyvat are gonna be involved."
+        },
+        {
+          "sit": "I remember."
+        },
+        {
+          "sit": "Never heard of it."
+        },
+        {
+          "s": 6,
+          "t": "Well, so far it's mostly just empty promises. Anyway, it's supposed to be a music festival. The organizer really did a number on me last time. They canceled on me. But I hear that they're still active."
+        },
+        {
+          "s": 6,
+          "t": "I'd love to give the festival another shot, but wouldn't you know it — the plans fell through again... How can they mess up this bad twice in a row?"
+        },
+        {
+          "s": 5,
+          "t": "Music is all about inspiration. Maybe the organizers canceled the show because theirs dried up."
+        },
+        {
+          "s": 5,
+          "t": "But fear not, weary travelers, for your journey was not in vain. It has, after all, brought you here, to me, to the temple of music."
+        },
+        {
+          "s": 6,
+          "t": "Your temple of music must have more than just good tunes — you're a bard, ain't ya? A song's gotta have a good story, or it doesn't make the cut, right?"
+        },
+        {
+          "s": 5,
+          "t": "Haha, exactly! Ah, you understand the meaning of being a bard so well. To express my gratitude, I will even share one of these stories with you."
+        },
+        {
+          "s": 6,
+          "t": "Hahaha, you're a funny fella. Are all bards like you?"
+        },
+        {
+          "s": 7,
+          "t": "I've met many bards during my travels, but none of them are as entertaining as you."
+        },
+        {
+          "s": 5,
+          "t": "I'm sure it all comes down to the richness of my imagination, and by extension the poverty of theirs. And on that note, here is a fantastical tale that is sure to delight you all."
+        },
+        {
+          "s": 5,
+          "t": "\"Legends tell of an emerald isle in the middle of the ocean. There, the Dodo-King and his people live a blissful existence.\""
+        },
+        {
+          "s": 5,
+          "t": "\"When a Dodoco is born, it dives into the water. Some learn to swim, others are carried away by the waves all the way to Mondstadt, where they befriend the children there.\""
+        },
+        {
+          "s": 5,
+          "t": "\"One Dodoco made a new friend in Mondstadt: the little Spark Knight. But the Dodo-King did not approve. He demanded that the little knight come to the island and prove herself to him.\""
+        },
+        {
+          "s": 5,
+          "t": "\"So the little knight, together with her most important friend in all the world, braved the wind and waves, finally reaching the middle of the ocean. But Dodo-King was not there. Dodo-King had lied...\""
+        },
+        {
+          "s": 5,
+          "t": "\"There was no trial, by fire or interrogation. The little knight's mother, who was a mage, had built an entire summer city there as a gift to her daughter along with this message:\""
+        },
+        {
+          "s": 5,
+          "t": "\"Summer is the season of love. It is the time for freedom and fun. So everyone, please sing, dance, and enjoy yourselves here.\""
+        },
+        {
+          "s": 5,
+          "t": "...The end."
+        },
+        {
+          "sit": "(Strange, I was just about to ask about the island...)"
+        },
+        {
+          "s": 7,
+          "t": "How interesting. I now have the urge to visit that island myself... This is the thing about traveling. You can't plan ahead, better to leave when the mood takes you and go where the heart leads."
+        },
+        {
+          "s": 5,
+          "t": "Haha, I'm glad you liked it. Well, there's wine on the table, and I have stories to tell... seems like fate is feeling kind today."
+        },
+        {
+          "s": 6,
+          "t": "Here's to music! Come on, {NICKNAME}!"
+        },
+        {
+          "s": 5,
+          "t": "Don't worry, if you don't like wine, there's juice as well."
+        },
+        {
+          "s": 7,
+          "t": "In that case, I'll have a glass of juice. Hmm... this one. I like the color."
+        },
+        {
+          "sit": "Somehow, you get dragged into drinking one glass after another until... Suddenly, you notice someone is feeling very tipsy."
+        },
+        {
+          "s": 1,
+          "t": "Oh no! Kazuha!"
+        },
+        {
+          "s": 6,
+          "t": "Uh-oh, this fella's drunk... But wasn't he drinking fruit juice?"
+        },
+        {
+          "s": 7,
+          "t": "More... please more..."
+        },
+        {
+          "s": 5,
+          "t": "Oops, I think I accidentally placed some fruity cocktails out there... Ehe, my bad."
+        },
+        {
+          "s": 1,
+          "t": "Seriously!?"
+        },
+        {
+          "s": 5,
+          "t": "Anyway, guess it's time to talk about business after all that drinking. {NICKNAME}, you came here because you need my help, I presume?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, yeah, that's a good point... We didn't come here to drink..."
+        },
+        {
+          "sit": "Venti, come with me."
+        },
+        {
+          "section": "Venti"
+        },
+        {
+          "s": 5,
+          "t": "Look where we are... Yup, I can sense that you're about to tell me something very interesting."
+        },
+        {
+          "sit": "You tell Venti about the Spark Knight giving an island to Fischl, and Fischl's plans to head there..."
+        },
+        {
+          "s": 5,
+          "t": "Klee gave a special gift from her mother to an adventurer friend? She's such a kindhearted child."
+        },
+        {
+          "s": 5,
+          "t": "As I'm sure you've already guessed, that letter is most definitely written by Alice."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, thought so..."
+        },
+        {
+          "s": 5,
+          "t": "Speaking of, guess which two people I ran into on my way to the tavern today?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Master Jean? Or... Lisa?"
+        },
+        {
+          "s": 5,
+          "t": "A mother and daughter, both with long elf ears and the most amazingly adorable personalities."
+        },
+        {
+          "s": 1,
+          "t": "Alice and Klee!?"
+        },
+        {
+          "s": 5,
+          "t": "Ding-ding-ding! Correct answer!"
+        },
+        {
+          "s": 5,
+          "t": "The unaging mage was taking her teeny-tiny knight on a vacation, and I happened to run into them. As a friendly greeting, the mysterious woman gave me a gift..."
+        },
+        {
+          "s": 5,
+          "t": "She also said that if I meet any fun friends, I should share this gift with them. So now, it's yours to keep, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Ahh! It's a bomb!"
+        },
+        {
+          "s": 5,
+          "t": "Minus the fuse — so don't worry, it's not going to explode. Come on, take it. This way, we can talk to each other just like this even when we're apart."
+        },
+        {
+          "sit": "Wow, that sounds impressive."
+        },
+        {
+          "s": 5,
+          "t": "It's called a \"Dodocommunication Device,\" and it allows people to stay in touch over vast distances. However, you can't just use it anytime you want, and there's also a limit on the number of times you can use it. That's why it's currently only available to a certain select few."
+        },
+        {
+          "s": 5,
+          "t": "I heard that the inspiration for this comes from another world... Alice is always full of surprises."
+        },
+        {
+          "s": 5,
+          "t": "She and Klee asked me to tell you: \"Please take this with you when you depart for the island— no wait, the promised land with your friends, and have fun!\""
+        },
+        {
+          "s": 5,
+          "t": "Don't worry about how to get there. The organizers of this vacation have made arrangements. Turn right after you exit the city gates, and you'll see something that will make you very happy."
+        },
+        {
+          "s": 1,
+          "t": "Sounds like the two of you are in cahoots over this..."
+        },
+        {
+          "s": 5,
+          "t": "Haha, of course not. Is that really the sort of person you think I am?"
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, you're my friend. And as your friend, I just want to give you something that will make you happy. How can you think this of me?"
+        },
+        {
+          "sit": "Alright, I'll go."
+        },
+        {
+          "s": 1,
+          "t": "Fair enough... the Tone-Deaf Bard does like to joke around, but he's still one of our best friends. Besides, a vacation sounds great, hehe..."
+        },
+        {
+          "s": 1,
+          "t": "Actually, Kazuha and Xinyan seemed pretty interested in coming on this trip, too. Let's ask them if they wanna join us!"
+        },
+        {
+          "s": 6,
+          "t": "You're back. Poor Kazuha's still out for the count... seems like he can't handle alcohol so well."
+        },
+        {
+          "s": 1,
+          "t": "Xinyan, do you wanna come to the islands with us?"
+        },
+        {
+          "s": 7,
+          "t": "*snore*... adventure... can't..."
+        },
+        {
+          "s": 6,
+          "t": "Huh? He doesn't wanna go anymore? He seemed really interested just a moment ago."
+        },
+        {
+          "s": 7,
+          "t": "Can't... miss... the adventure..."
+        },
+        {
+          "s": 6,
+          "t": "Hahahaha, Kazuha might act mature, but deep down he's just another youngster eager for new experiences. That must be why he didn't think anything of the \"fruit juice\" earlier."
+        },
+        {
+          "s": 5,
+          "t": "Well, all the more reason for you to join the island trip! You know, a lot of people have praised the beautiful scenery there — even bards."
+        },
+        {
+          "s": 6,
+          "t": "Okay! Sounds like a plan! {NICKNAME}, how do we get there?"
+        },
+        {
+          "s": 1,
+          "t": "Someone's got it covered, apparently. There'll be a few others joining us on this trip, and we're meeting at the city gate tomorrow morning. We'll wait for you."
+        },
+        {
+          "sit": "Kazuha, wake up! We're going wandering!"
+        },
+        {
+          "s": 7,
+          "t": "...Hm? {NICKNAME}?"
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah, they don't know Fischl yet, do they! Okay, so here's the deal, there's a princess from a faraway land and her retinue, who're also coming on this trip..."
+        },
+        {
+          "s": 6,
+          "t": "...?"
+        },
+        {
+          "s": 6,
+          "t": "Uh, Paimon, don't get me wrong, I'm just askin' to make sure... but from the way you're plugging this trip so hard... did the Iridescence Tour folks put you up to this?"
+        },
+        {
+          "s": 6,
+          "t": "After all, canceling the Iridescence Tour after people already made the trip... That's kinda the same thing as tricking people into going traveling, ain't it?"
+        },
+        {
+          "s": 1,
+          "t": "Ahhh! Why won't anyone believe Paimon!"
+        },
+        {
+          "s": 5,
+          "t": "Hahaha, don't worry about that for now. You'll all have the chance to get acquainted with each other tomorrow morning."
+        },
+        {
+          "s": 5,
+          "t": "Whether you're a princess, a retainer, a talking raven, a samurai or a musician... You're all VIP guests of the island on your summer vacation, and that's what counts, right?"
+        },
+        {
+          "s": 6,
+          "t": "I'm sure lookin' forward to it!"
+        },
+        {
+          "sit": "Are you coming too, Venti?"
+        },
+        {
+          "s": 5,
+          "t": "I'll have to pass. I have some work to take care of."
+        },
+        {
+          "s": 1,
+          "t": "You serious? The Tone-Deaf Bard actually has plans to do some work?"
+        },
+        {
+          "s": 5,
+          "t": "I promised a young lady with cat ears and a cat tail that I'd sing in her tavern to boost business and beat the competition. Ah yes, the competition being this place, which has Six-Fingered José."
+        },
+        {
+          "s": 1,
+          "t": "Aren't you allergic to cats?"
+        },
+        {
+          "s": 5,
+          "t": "Yup! I can always sing on their roof."
+        },
+        {
+          "s": 5,
+          "t": "She told me that as long as their sales surpass their competitor, there's a whole month's worth of wine in it for me. What a fine employment opportunity, virtually tailor-made for me!"
+        },
+        {
+          "s": 5,
+          "t": "So have fun, and don't worry about me. Haha, I feel like this summer is going to be a very interesting one."
+        },
+        {
+          "section": "Xinyan, Kaedehara Kazuha"
+        },
+        {
+          "s": 6,
+          "t": "Kazuha, Kazuha! ...Ugh, he just won't wake up! Looks like we're staying in the tavern tonight."
+        },
+        {
+          "s": 7,
+          "t": "zzz... zzz..."
+        },
+        {
+          "section": "Fischl, Oz, Mona, Xinyan, Kaedehara Kazuha"
+        },
+        {
+          "s": 2,
+          "t": "Today is the day of one's reckoning with fate, as foretold by the night sky! Humiliations suffered in the past, the shame we have carried all these years, one bids you adieu! For today, it is time for... retribution!"
+        },
+        {
+          "s": 4,
+          "t": "Mein Fräulein, if I may be so bold, that final phrase did not sound like one of your own."
+        },
+        {
+          "s": 2,
+          "t": "Of course it wasn't. I just overheard it from someone in the city... Ahem! I mean, thy Prinzessin is merely drawing on the wisest and courageous sayings she has heard in the land, to signify the importance of this day..."
+        },
+        {
+          "s": 3,
+          "t": "Hmm, let me see... Huh? It really is someone else's catchphrase..."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you're here early!"
+        },
+        {
+          "s": 3,
+          "t": "Hi!"
+        },
+        {
+          "s": 3,
+          "t": "Who've you brought with you...?"
+        },
+        {
+          "s": 1,
+          "t": "Oh! Ahem! Allow Paimon to introduce to you a fabled wandering swordsman of Inazuma, and an enchanting musical talent of Liyue."
+        },
+        {
+          "s": 6,
+          "t": "Hey! I'm Xinyan, from Liyue. I like rock 'n' roll, sunny days, and good times."
+        },
+        {
+          "s": 6,
+          "t": "You must be the princess Paimon told us about? You sure do look the part! I hear you're from a faraway land — it's an honor to be in the company of dignitaries!"
+        },
+        {
+          "s": 6,
+          "t": "And this lady over here... My family tells me that only the wisest scholars wear pointed hats like this one. Guessing that applies to you, too?"
+        },
+        {
+          "s": 3,
+          "t": "(Oh, I like her. She can stay!)"
+        },
+        {
+          "s": 2,
+          "t": "Xinyan, your gaze pierces the dark veil of night to arrive at the truth beyond. I am in need of one such as yourself. Very well, you shall be one's musician laureate."
+        },
+        {
+          "s": 3,
+          "t": "She's trying to say, thanks, you say all the right things! Um, and the same goes for me too. Pleasure to meet you. I'm Mona, an astrologist."
+        },
+        {
+          "s": 6,
+          "t": "Oh, well it's nice to meet you too!"
+        },
+        {
+          "s": 1,
+          "t": "Mona is amazing, she can find out everything about you by divination!"
+        },
+        {
+          "s": 7,
+          "t": "A princess, an astrologist, and an articulate raven-retainer... In the company of giants, my humble self hardly deserves mention."
+        },
+        {
+          "s": 7,
+          "t": "I am Kaedehara Kazuha from Inazuma. It is an honor to meet you all."
+        },
+        {
+          "s": 2,
+          "t": "What ho, Kazuha, divulge thy epithets and thy vocation."
+        },
+        {
+          "s": 4,
+          "t": "Oh, mein Fräulein would like to know where you work, and what your field of expertise is."
+        },
+        {
+          "s": 7,
+          "t": "Um... I'm afraid I'm just another wanderer..."
+        },
+        {
+          "s": 1,
+          "t": "This guy is an expert in the sword arts. He parries blades that none have ever parried before, and strikes like lightning! Mere mortals could not hope to comprehend!"
+        },
+        {
+          "s": 2,
+          "t": "(What? Is he really that powerful!?)"
+        },
+        {
+          "s": 3,
+          "t": "Let me take a look... huh!? Oh, oh my..."
+        },
+        {
+          "s": 3,
+          "t": "Hi, Kazuha, I'm absolutely delighted to meet a great swordmaster like you. Could we ask you to be our guard while we're on the island?"
+        },
+        {
+          "s": 2,
+          "t": "One hereby declares you Captain of the Royal Guard of the Immernachtreich."
+        },
+        {
+          "s": 4,
+          "t": "For even Lady Megistus to praise your skills, you are surely one of rare talent."
+        },
+        {
+          "sit": "Lady Megistus is absolutely right!"
+        },
+        {
+          "s": 7,
+          "t": "Okay, Lady M—Meg..."
+        },
+        {
+          "s": 6,
+          "t": "Lady M—Megi... what?"
+        },
+        {
+          "s": 3,
+          "t": "Just call me Mona! Stop calling me that weird name."
+        },
+        {
+          "s": 1,
+          "t": "By the way, Lady Megistus, we found out how to get to the promised land."
+        },
+        {
+          "s": 1,
+          "t": "A legendary great mage gave us a big hint. Come on, everyone follow Paimon!"
+        },
+        {
+          "section": "Mona, Xinyan, Kaedehara Kazuha, Fischl, Oz"
+        },
+        {
+          "s": 1,
+          "t": "Look, everyone! Here's our vehicle."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Somehow, I suddenly don't feel like going anymore."
+        },
+        {
+          "s": 6,
+          "t": "What a... unique little thing. Looks kinda like Guoba, doesn't it?"
+        },
+        {
+          "sit": "?"
+        },
+        {
+          "s": 7,
+          "t": "Guoba... is he the magical creature at Wanmin Restaurant? Now that you mention it... it does look quite similar."
+        },
+        {
+          "s": 1,
+          "t": "Uh... to be honest, even Paimon isn't so sure this can take us to the island after all..."
+        },
+        {
+          "s": 2,
+          "t": "...Hm."
+        },
+        {
+          "s": 2,
+          "t": "I see... I see. Only by meeting the lowliest of ends can we arrive at the Immernachtreich born anew."
+        },
+        {
+          "s": 2,
+          "t": "Haha, behold, the doorway cloven by Thundering Retribution... by such means as I once descended into this realm to bring retribution do I now venture into the next. Come, Oz! Lead the way!"
+        },
+        {
+          "s": 4,
+          "t": "I will enter first. Mein Fräulein need not worry."
+        },
+        {
+          "s": 1,
+          "t": "...He's in... and now he's gone!"
+        },
+        {
+          "s": 2,
+          "t": "Why... this truly is the path of retribution that leads to the promised land!"
+        },
+        {
+          "s": 3,
+          "t": "Maybe I should just do a quick reading for safety..."
+        },
+        {
+          "s": 1,
+          "t": "Lady Megistus, it's fine! This is Alice's creation, it's totally safe! Spare yourself the trouble, just come with us."
+        },
+        {
+          "s": 3,
+          "t": "Oh right! I completely forgot...*sigh* Alright."
+        },
+        {
+          "sit": "Everyone exchanges glances before, one by one, stepping nervously but excitedly into the \"Dodofortress\"..."
+        },
+        {
+          "sit": "The journey is an eventful one... and maybe a little crowded...?"
+        },
+        {
+          "s": 1,
+          "t": "It's so dark in here. Um, can someone turn on a light? Hey! Quit pushing!"
+        },
+        {
+          "s": 3,
+          "t": "Come on now, let's all try and stay... Ow! Fischl! You're treading on my hair!"
+        },
+        {
+          "s": 2,
+          "t": "I thought it was a snake!"
+        },
+        {
+          "s": 6,
+          "t": "Ahh! We're flying!"
+        },
+        {
+          "s": 7,
+          "t": "Everyone, be careful!"
+        },
+        {
+          "section": "Xinyan, Kaedehara Kazuha, Fischl, Oz, Mona"
+        },
+        {
+          "s": 6,
+          "t": "Whew, we finally landed! What was that all about..."
+        },
+        {
+          "s": 7,
+          "t": "What a beautiful place. The wind is soft and the ocean is calm... And a pleasant scent blows on the breeze."
+        },
+        {
+          "s": 1,
+          "t": "Yup! Paimon's feeling way better already now that we can see the ocean!"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "An ocean of life, and a land filled with flora... Mein Fräulein, we have finally arrived at the promised land, whence we shall revive the Immernachtreich."
+        },
+        {
+          "s": 2,
+          "t": "...O faithful retainers, this is the blessed paradise that one has been searching for. Here is where we shall witness the culmination of all things!"
+        },
+        {
+          "s": 2,
+          "t": "I, who command the darkness, shall lead you to yonder gate of dreams."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "...shall lead you... to yonder gate of dreams!"
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Your Archmage Megistus thanks you for your kindness, Your Highness. In this moment, I offer my blessings to the Immernachtreich."
+        },
+        {
+          "s": 6,
+          "t": "Mona... wh—what are you, uh..."
+        },
+        {
+          "s": 3,
+          "t": "Don't ask, just follow my lead!"
+        },
+        {
+          "s": 6,
+          "t": "Oh... oh right! Praise be to the Prinzessin, who has led us here to this sacred place!"
+        },
+        {
+          "s": 7,
+          "t": "My sincere gratitude to you for inviting me to join you on this trip, Your Highness."
+        },
+        {
+          "s": 2,
+          "t": "Your happiness gladdens one's heart. Ah... how it delights me to bring us all together here at this most monumentally fateful of moments."
+        },
+        {
+          "s": 2,
+          "t": "Now, as I take my first step on this pilgrimage, I shall perceive this ocean of life with my own earthly vessel. After all, this is where my soul belongs."
+        },
+        {
+          "s": 2,
+          "t": "On the contrary, Lady Megistus, blessed as you are with the great power of Hydro, one yet finds too many impurities in thy soul... Mm-mm."
+        },
+        {
+          "s": 4,
+          "t": "Mein Fräulein means Lady Megistus is perhaps not the most talented swimmer."
+        },
+        {
+          "s": 3,
+          "t": "...Fischl, that's enough!"
+        },
+        {
+          "s": 3,
+          "t": "I'm happy enough to join in with the play-acting without complaining, but how dare you ridicule my genius? Think you can swim better than me? Hah, I'll bring you to your knees, young lady!"
+        },
+        {
+          "s": 4,
+          "t": "Oh my! Mein Fräulein, steel yourself, mein Fräulein!"
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah! Swimming race, swimming race! Whoever comes in last is a rotten egg!"
+        },
+        {
+          "s": 2,
+          "t": "Challenge accepted! Heed my words, lowly Lady Megistus, you shall pay for your foolishness for as long as you live!"
+        },
+        {
+          "s": 3,
+          "t": "Ridiculous. I've never lost a single swimming race in my life. Bring it on! First one to run to the beach wins!"
+        },
+        {
+          "s": 6,
+          "t": "Are they serious? Running? I thought they were gonna swim."
+        },
+        {
+          "sit": "Never mind, looks like they're enjoying this."
+        },
+        {
+          "s": 7,
+          "t": "I take it you have no present plans, {NICKNAME}? I want to start by surveying the area first. Want to come along?"
+        },
+        {
+          "sit": "Oh Kazuha, it's good we can count on you."
+        },
+        {
+          "s": 7,
+          "t": "I saw an island in the northwest, far in the distance. It looked very distinctive. I'd like to take a look."
+        },
+        {
+          "s": 7,
+          "t": "Xinyan, are you coming?"
+        },
+        {
+          "s": 6,
+          "t": "Seems like everyone's got things to do... I'll stay here and hold down the fort for now. Mona and Fischl have gone swimming, and someone's gotta set up camp."
+        },
+        {
+          "s": 6,
+          "t": "Don't worry, I got this! You're gonna take a look around, right? Well, make sure you lemme know if there are any good views!"
+        },
+        {
+          "s": 1,
+          "t": "Thanks! Will do!"
+        },
+        {
+          "section": "Kaedehara Kazuha"
+        },
+        {
+          "s": 1,
+          "t": "Hey, what's that huge weird thing over there!?"
+        },
+        {
+          "s": 7,
+          "t": "It appears to be some sort of machine and an army cap with traces of Hydro next to it. It seems that we are not the first to set foot on this island."
+        },
+        {
+          "s": 7,
+          "t": "Also, there are footprints here. Fresh ones, likely no more than a few days old."
+        },
+        {
+          "s": 1,
+          "t": "Really? Paimon didn't notice them at all..."
+        },
+        {
+          "s": 7,
+          "t": "...Hmm?"
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "{NICKNAME}, Paimon, stay alert."
+        },
+        {
+          "s": 1,
+          "t": "Why? Did you see something?"
+        },
+        {
+          "s": 7,
+          "t": "Someone was here... and they're still nearby. Judging from the scent... they are visitors here, like us."
+        },
+        {
+          "s": 1,
+          "t": "There's other people here? Oh, Paimon's scared now...Come on, {NICKNAME}, we need to track 'em down!"
+        },
+        {
+          "section": "Strange Soldier, Kaedehara Kazuha, Persikov"
+        },
+        {
+          "s": 1,
+          "t": "Why are there Fatui on this island! Isn't there a single place in this world without Mint, Sweet Flowers, and Fatui?"
+        },
+        {
+          "sit": "They get everywhere, like weeds..."
+        },
+        {
+          "s": 1,
+          "t": "Interesting observation."
+        },
+        {
+          "s": 8,
+          "t": "*sob* Cappy-cap's gone... where's cappy-cap..."
+        },
+        {
+          "s": 7,
+          "t": "Are you looking for something?"
+        },
+        {
+          "s": 8,
+          "t": "A cap... I c—can't... can't lose it..."
+        },
+        {
+          "s": 8,
+          "t": "Ah! I don't know anything... Gimme back cappy-cap... *sob*"
+        },
+        {
+          "s": 7,
+          "t": "Is this the cap you're looking for?"
+        },
+        {
+          "s": 8,
+          "t": "My brother's cappy-cap! Gimme, gimme, gimme!"
+        },
+        {
+          "sit": "You return the cap to the Fatuus."
+        },
+        {
+          "s": 1,
+          "t": "Uh, this guy is not the sharpest sword in the sheath..."
+        },
+        {
+          "s": 8,
+          "t": "Don't bully me! Or I'll punch you in the... Aah! Monster, monster! *sob*"
+        },
+        {
+          "s": 9,
+          "t": "Stop right there! What are you doing here?"
+        },
+        {
+          "s": 1,
+          "t": "Another Fatuus! We could ask you the same question! What are YOU doing here, hmm!?"
+        },
+        {
+          "s": 8,
+          "t": "Protect... cappy-cap... or brother will get mad at me..."
+        },
+        {
+          "s": 9,
+          "t": "Forget the cap! It's your brother we're looking for!"
+        },
+        {
+          "s": 7,
+          "t": "What happened to him?"
+        },
+        {
+          "s": 9,
+          "t": "...Nothing. He has a fever... he's just a little delirious, that's all."
+        },
+        {
+          "s": 9,
+          "t": "I don't have to tell you anything. Go bother someone else."
+        },
+        {
+          "s": 1,
+          "t": "This island belongs to our friend! You better watch what you say, mister."
+        },
+        {
+          "s": 9,
+          "t": "What? I thought this island was uninhabited. That's why we came here to... Ahem, never mind."
+        },
+        {
+          "sit": "What's that machine for?"
+        },
+        {
+          "s": 9,
+          "t": "...Tsk, fine. I'll tell you, but then you need to leave me alone."
+        },
+        {
+          "s": 9,
+          "t": "It's a new kind of energy generator that I invented. We were simply looking for a deserted island to test it out on. There, satisfied?"
+        },
+        {
+          "sit": "Like we told you, this island is ours."
+        },
+        {
+          "sit": "Do not impede our vacationing."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, and if you don't do as you're told, we'll... Oh, we'll take his cap!"
+        },
+        {
+          "s": 8,
+          "t": "Ah! Please don't... *sob*"
+        },
+        {
+          "s": 9,
+          "t": "Hey, stop crying! ...Alright, I promise, we'll stay within this area. Okay!?"
+        },
+        {
+          "s": 1,
+          "t": "Uh, by the way, why is there smoke coming out of your machine?"
+        },
+        {
+          "s": 9,
+          "t": "Because the cursed thing is broken! As much as I hate to say it, our tests did not go to plan. We were getting ready to leave anyway."
+        },
+        {
+          "s": 1,
+          "t": "Oh, well just see yourselves out whenever you're ready. Bye."
+        },
+        {
+          "s": 9,
+          "t": "Come on! Let's go!"
+        },
+        {
+          "s": 8,
+          "t": "O—Okay..."
+        },
+        {
+          "s": 1,
+          "t": "Paimon can't believe we have to deal with the Fatui during our vacation..."
+        },
+        {
+          "s": 7,
+          "t": "Why would the Fatui appear in such an isolated corner of the world... Whatever their reasons, it's likely more complicated than we might think."
+        },
+        {
+          "s": 7,
+          "t": "Even though we're on vacation, we should stay vigilant, {NICKNAME}."
+        },
+        {
+          "sit": "I agree."
+        },
+        {
+          "s": 7,
+          "t": "Also, in the interests of keeping the ladies in good spirits, I have a suggestion."
+        },
+        {
+          "s": 7,
+          "t": "Let's keep this between us for now. Let them enjoy their vacation while {NICKNAME} and I deal with any potential threats. What do you think?"
+        },
+        {
+          "sit": "Makes sense. I'm in."
+        },
+        {
+          "s": 1,
+          "t": "You're so considerate, Kazuha."
+        },
+        {
+          "s": 7,
+          "t": "Paimon, you flatter me. I simply don't think it's worth ruining anyone's vacation over a trivial matter like this."
+        },
+        {
+          "s": 7,
+          "t": "The scenery is beautiful... I hope all of us can enjoy ourselves here."
+        },
+        {
+          "section": "Mona, Fischl, Oz, Xinyan, Kaedehara Kazuha"
+        },
+        {
+          "s": 1,
+          "t": "We're back!"
+        },
+        {
+          "s": 3,
+          "t": "Just in time! So {NICKNAME}, Paimon, who do you think the real swimming champion is? Me or Fischl?"
+        },
+        {
+          "s": 2,
+          "t": "Haha! Utter my supreme name, and see how Lady Megistus the presumptuous is reduced to bitter tears!"
+        },
+        {
+          "sit": "Uh, I'll go with whoever Paimon says is the winner."
+        },
+        {
+          "s": 1,
+          "t": "Oh no you don't! Don't put this on Paimon!"
+        },
+        {
+          "s": 4,
+          "t": "Oh wise Paimon, surely you can discern who the true winner is."
+        },
+        {
+          "s": 2,
+          "t": "Lady Paimon, the time to show your loyalty is nigh."
+        },
+        {
+          "s": 6,
+          "t": "Wait, wait wait wait! Shouldn't Paimon get some food in her first? Poor thing looks starvin' after such a long trek out!"
+        },
+        {
+          "s": 1,
+          "t": "Ohh! Thank you, Xinyan!"
+        },
+        {
+          "s": 7,
+          "t": "Yes, we did walk quite a long way."
+        },
+        {
+          "s": 6,
+          "t": "Right? While you were off doing your own things, I caught us some seafood and picked us a few fruits. They taste real good barbecued!"
+        },
+        {
+          "s": 3,
+          "t": "Now that you mention it, I'm getting a little peckish myself..."
+        },
+        {
+          "s": 2,
+          "t": "Ahem! I, too..."
+        },
+        {
+          "s": 6,
+          "t": "Well there's plenty to go around, so dig in! I can't say I've got the culinary skills of my chef friend, but I promise you'll at least eat your fill!"
+        },
+        {
+          "s": 1,
+          "t": "Ooh! Time to eat!"
+        },
+        {
+          "s": 4,
+          "t": "Inviting Lady Xinyan here was an astute decision indeed."
+        },
+        {
+          "s": 1,
+          "t": "Paimon's done talking, you guys carry on if you wanna go hungry!"
+        },
+        {
+          "s": 3,
+          "t": "Ah, I love that barbecue smell... This tastes amazing."
+        },
+        {
+          "s": 2,
+          "t": "Mmm! Impressive!"
+        },
+        {
+          "s": 7,
+          "t": "Since Xinyan made dinner for us, allow me to take charge of breakfast tomorrow."
+        },
+        {
+          "sit": "Great! Looking forward to it already!"
+        },
+        {
+          "s": 1,
+          "t": "Paimon too!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, {NICKNAME}, you forgot about something!"
+        },
+        {
+          "s": 1,
+          "t": "Uh, let's talk over there."
+        },
+        {
+          "section": "Check"
+        },
+        {
+          "s": 10,
+          "t": "Archmage Megistus Versus Fischl the Prinzessin der Verurteilung"
+        },
+        {
+          "section": "Xinyan"
+        },
+        {
+          "s": 6,
+          "t": "Okay, I'll start by catching ten crabs and twenty fish! Hmm... will that be enough for all of us? Maybe I should prepare something else?"
+        },
+        {
+          "section": "Dodocommunication Device, Venti"
+        },
+        {
+          "s": 1,
+          "t": "That whole thing with the Fatui is bothering you, too, right? Well, remember the bomb thing that Venti gave us? We can contact him using that."
+        },
+        {
+          "s": 1,
+          "t": "Wait, no, not a bomb. Venti said it's called a \"Dodocommunication Device\"!"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, let's ask Venti if he knows anything. He always seems clued-in on everything, so if there's any intel floating around, he'll definitely know about it!"
+        },
+        {
+          "s": 11,
+          "t": "Dodo! Dodo! Dodoco!"
+        },
+        {
+          "s": 5,
+          "t": "Achoo! Ugh..."
+        },
+        {
+          "s": 5,
+          "t": "Heya! Miss me already, {NICKNAME}?"
+        },
+        {
+          "sit": "Hi Venti, it's me."
+        },
+        {
+          "s": 5,
+          "t": "Haha, I know that. You're the only person who can contact me on this thing."
+        },
+        {
+          "s": 1,
+          "t": "How come you're sneezing?"
+        },
+        {
+          "s": 5,
+          "t": "I'm at The Cat's Tail... so many cats... They gave me some allergy medicine, but it's not working... Achoo! Okay, go on then, what are you calling about?"
+        },
+        {
+          "sit": "Paimon, tell him."
+        },
+        {
+          "s": 1,
+          "t": "Could you be any lazier!"
+        },
+        {
+          "s": 1,
+          "t": "Alright, well Venti, there's some strange things going on on this island... We ran into the Fatui!"
+        },
+        {
+          "s": 5,
+          "t": "The Fatui... yeah, they're everywhere, aren't they?"
+        },
+        {
+          "s": 5,
+          "t": "Ahaha, the Cryo Archon's minions are a capable crew. I'd be more surprised if they hadn't shown up yet."
+        },
+        {
+          "s": 1,
+          "t": "But they're ruining our vacation!"
+        },
+        {
+          "sit": "Exactly."
+        },
+        {
+          "s": 5,
+          "t": "Really? But... you sound fine, they can't have caused you too much trouble, surely? Or if they did, I'm sure you have everything under control by now."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, but something just doesn't feel right, that's why we came to you... Don't you have any information for us?"
+        },
+        {
+          "s": 5,
+          "t": "I haven't heard anything new about the Fatui. But don't worry. I may be a lowly tone-deaf bard, but you may contact me whenever you need me."
+        },
+        {
+          "s": 5,
+          "t": "I mean, I can't promise I'll be of much help, but at least you'll have someone to talk to, right? Sometimes, just talking things through is enough to calm a worried mind."
+        },
+        {
+          "s": 1,
+          "t": "Ugh! Honestly..."
+        },
+        {
+          "s": 5,
+          "t": "Adventuring is what you do best. It's only natural to encounter a few surprises when you head somewhere new, but just remember, not all unexpected encounters are dangerous."
+        },
+        {
+          "s": 5,
+          "t": "The same wind graces the seaside as that which wafts over pastures green. Wherever you see clouds, it was the wind that carried them there. Don't worry, my friends, the wind will always be with you."
+        },
+        {
+          "sit": "Alright."
+        },
+        {
+          "s": 5,
+          "t": "Okay then, I have to go now — my performance in the Cat's Tail is starting any second!"
+        },
+        {
+          "s": 1,
+          "t": "Okay, bye!"
+        },
+        {
+          "s": 1,
+          "t": "So he means we don't need to worry too much about the Fatui, right?"
+        },
+        {
+          "sit": "Yeah, I think so."
+        },
+        {
+          "sit": "I thought as much."
+        },
+        {
+          "s": 1,
+          "t": "Well, if that's what the Tone-Deaf Bard says... then fingers crossed we'll have a peaceful and relaxing vacation where nothing weird happens at all."
+        },
+        {
+          "s": 1,
+          "t": "When you go off on a long trip with your friends, the important thing is to have fun!"
+        }
+      ],
+      "description": "As summer comes into its own, you receive a mysterious letter. “To Whomsoever Finds This Letter” — the sender seems to be waiting for someone…"
+    }
+  ],
+  "speakers": [
+    "Katheryne",
+    "Paimon",
+    "Fischl",
+    "Mona",
+    "Oz",
+    "Venti",
+    "Xinyan",
+    "Kaedehara Kazuha",
+    "Strange Soldier",
+    "Persikov",
+    "Check",
+    "Dodocommunication Device"
+  ],
+  "id": "q-40064"
+}

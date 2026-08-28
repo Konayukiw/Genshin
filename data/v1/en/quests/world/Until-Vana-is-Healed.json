@@ -1,0 +1,855 @@
+{
+  "chapter": "Until Vana is Healed",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Until Vana is Healed",
+  "region": null,
+  "quests": [
+    {
+      "title": "Until Vana is Healed",
+      "dialogue": [
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "How are you, Ararycan? We're here to see you!"
+        },
+        {
+          "s": 1,
+          "t": "Nara {NICKNAME} and Paimon? *sob*..."
+        },
+        {
+          "s": 0,
+          "t": "Judging from Ararycan's look..."
+        },
+        {
+          "sit": "Something's wrong."
+        },
+        {
+          "s": 0,
+          "t": "Don't tell Paimon the forest is \"sick\" again?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon guessed it. The bad guys that wish to make Vana sick came back. Ararycan couldn't fight them off alone..."
+        },
+        {
+          "s": 0,
+          "t": "The bad guys keep coming around, and we can't always stay in the woods like Aranara."
+        },
+        {
+          "s": 0,
+          "t": "If only there's a surefire solution..."
+        },
+        {
+          "s": 1,
+          "t": "\"Surefire\"? Is that a name of a mushroom Ararycan doesn't know about?"
+        },
+        {
+          "s": 0,
+          "t": "If there was a mushroom you could devour to solve all problems, I'd be the first to chomp it down!"
+        },
+        {
+          "sit": "Unfortunately, there isn't."
+        },
+        {
+          "sit": "If we get the Akademiya to help..."
+        },
+        {
+          "s": 0,
+          "t": "Still got to rely on ourselves."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, \"surefire\" means you do something once to solve a problem permanently."
+        },
+        {
+          "s": 1,
+          "t": "No mushroom is that powerful. Even the Lord of Dendro and Aramuhukunda can't do that. Neither can Varuna Contraption, who got sick twice from the bad stuff."
+        },
+        {
+          "sit": "An easy way out like that is a pipe dream."
+        },
+        {
+          "s": 0,
+          "t": "True... but how are we going to solve this problem?"
+        },
+        {
+          "s": 0,
+          "t": "If the bad guys keep coming back, no way we can show up every time Ararycan needs our help."
+        },
+        {
+          "s": 1,
+          "t": "Maybe Nara has an idea."
+        },
+        {
+          "s": 0,
+          "t": "Which Nara? Oh, right, Jazari mentioned he's researching the Ruin Golem."
+        },
+        {
+          "s": 0,
+          "t": "But he wasn't making headway until we finally got into the Ruin Golem with him last time."
+        },
+        {
+          "s": 1,
+          "t": "No, not that Nara."
+        },
+        {
+          "s": 0,
+          "t": "Ararycan rejected that so decisively! But other than Jazari, we don't know anyone else who's studying the Ruin Golem."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan knows another Nara, Nara Pir Kavikavus. He might know something."
+        },
+        {
+          "s": 0,
+          "t": "\"Nara Pir Kavikavus\"? Where has Paimon heard that name before...?"
+        },
+        {
+          "s": 0,
+          "t": "That's right, Jazari said Pir Kavikavus is a genius of Kshahrewar and delved into the Ruin Golem."
+        },
+        {
+          "s": 0,
+          "t": "But he also said Pir Kavikavus got into an accident on an expedition and all his key findings were lost."
+        },
+        {
+          "s": 0,
+          "t": "So... Was Ararycan...?"
+        },
+        {
+          "s": 1,
+          "t": "Ararycan doesn't understand what Paimon said. Ararycan just know Aralohita, the Aranara accompanied Nara Pir Kavikavus in the past."
+        },
+        {
+          "s": 0,
+          "t": "Pir Kavikavus could see Aranara? And they traveled together?"
+        },
+        {
+          "sit": "Not to mention that he was an academic genius."
+        },
+        {
+          "s": 0,
+          "t": "Wow, that practically makes him the main character in a story! If only not for the accident..."
+        },
+        {
+          "sit": "I guess that's why the good die young."
+        },
+        {
+          "s": 0,
+          "t": "In contrast, Jazari couldn't even see Ararycan, and looked at Paimon with pity!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon was obviously talking to Aranara, but he thought Paimon was rambling to herself."
+        },
+        {
+          "s": 1,
+          "t": "Aralohita likes riddles and traps, but he can't be found now..."
+        },
+        {
+          "s": 1,
+          "t": "Though where he stayed before probably has the \"solution\" that {NICKNAME} mentioned."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan knows the place, but it's got new Marana. Very dangerous."
+        },
+        {
+          "s": 0,
+          "t": "By \"Marana,\" you mean The Withering? Don't worry, you let Nara {NICKNAME} handle that!"
+        },
+        {
+          "s": 0,
+          "t": "Since we don't have any other leads, we'll have to check it out."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan will take you there! But be careful, bad guys that wish to make Vana sick are probably not too far away."
+        },
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "Do they still have their eyes on the Ruin Golem?"
+        },
+        {
+          "sit": "They just don't know when to quit..."
+        },
+        {
+          "sit": "They just don't give up, do they..."
+        },
+        {
+          "s": 0,
+          "t": "I know, right?"
+        },
+        {
+          "s": 0,
+          "t": "Also, how did they find out about this place? What if they beat us to the clues?"
+        },
+        {
+          "s": 1,
+          "t": "Baddies aren't Aranara's friends so they won't find the \"solution\"."
+        },
+        {
+          "s": 0,
+          "t": "Eh? What do you mean?"
+        },
+        {
+          "s": 1,
+          "t": "Aralohita likes riddles and traps and hid the \"solution.\" Bad guys aren't with Aranara so they won't get the answer."
+        },
+        {
+          "s": 0,
+          "t": "Even so, Paimon's still a bit worried... Let's hurry up to find the clues."
+        },
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "It looks like Aranara was here for a while. On the wall, is that a message from Aralohita?"
+        },
+        {
+          "s": 1,
+          "t": "Aralohita left a riddle."
+        },
+        {
+          "s": 0,
+          "t": "It must be really hard..."
+        },
+        {
+          "sit": "Can we solve it by force?"
+        },
+        {
+          "sit": "I'm good at solving riddles."
+        },
+        {
+          "s": 1,
+          "t": "Uh, no, no violence against Aranara."
+        },
+        {
+          "s": 0,
+          "t": "Speaking of which, what exactly is the riddle? And is the answer the \"solution\" we're looking for?"
+        },
+        {
+          "s": 1,
+          "t": "No, the riddle is simple, that's why Aralohita hid the \"solution\" in the labyrinth. The passage to the labyrinth is the answer."
+        },
+        {
+          "s": 0,
+          "t": "So... We just have to solve the riddle and figure out the passage to the labyrinth first, right?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon's right."
+        },
+        {
+          "s": 1,
+          "t": "The riddle is a short one. \"Ran across it the day before yesterday, yesterday, and today...\""
+        },
+        {
+          "s": 0,
+          "t": "\"Ran across it the day before yesterday, yesterday, and today...\"? Eh? How are we supposed to guess that?"
+        },
+        {
+          "s": 1,
+          "t": "What are \"the day before yesterday,\" \"yesterday,\" and \"today\"? Aralohita learned them from Nara, they are not Aranara words."
+        },
+        {
+          "s": 0,
+          "t": "Oh, that's right. Aranara doesn't really understand our concept of time. How can we explain it to Ararycan?"
+        },
+        {
+          "s": 0,
+          "t": "Well, \"today\" runs from the most recent daybreak to dark. \"Yesterday\" is the same cycle before that."
+        },
+        {
+          "s": 0,
+          "t": "...\"Day before yesterday\" is the one before that. Probably not the best way to describe it, but do you get it, Ararycan?"
+        },
+        {
+          "s": 1,
+          "t": "Yes... \"Today,\" Ararycan met Nara {NICKNAME} and Paimon."
+        },
+        {
+          "s": 0,
+          "t": "That's correct, but probably not the answer to the riddle..."
+        },
+        {
+          "s": 1,
+          "t": "Aralohita wrote the answer in three different places. Let's look around."
+        },
+        {
+          "sit": "Perhaps we should go straight to the end..."
+        },
+        {
+          "s": 0,
+          "t": "True, if there are only three spaces to fill, maybe we can get them all right on our first try?"
+        },
+        {
+          "s": 0,
+          "t": "Ararycan mentioned Aralohita likes mechanisms, b—but there shouldn't be any that would blow up when receiving wrong answers, right?"
+        },
+        {
+          "s": 0,
+          "t": "Do you know what Aralohita's mechanisms are like, Ararycan?"
+        },
+        {
+          "s": 1,
+          "t": "Ararycan has no idea."
+        },
+        {
+          "s": 0,
+          "t": "Oh. Then we should be cautious. We don't want to lose important clues because of our screw-ups."
+        },
+        {
+          "s": 0,
+          "t": "The answer are in three different places and shouldn't be far. Let's search those places!"
+        },
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "It's the time of truth! Paimon's so afraid we'll botch this... Let's review the riddle again."
+        },
+        {
+          "s": 0,
+          "t": "\"Ran across it the day before yesterday, yesterday, and today...\" So the answer is..."
+        },
+        {
+          "sit": "The order of the answer is still unclear."
+        },
+        {
+          "sit": "Fungus, Sumpter Beast, and Golden Wolflord."
+        },
+        {
+          "s": 0,
+          "t": "That's true..."
+        },
+        {
+          "s": 0,
+          "t": "We only know the answer includes Dusk Bird, Shroomboar, and Rishboland Tiger, but we don't know in what order they should be placed."
+        },
+        {
+          "s": 0,
+          "t": "How are we going to know what Aralohita ran across and on which day? Paimon thought you said it was an easy one, Ararycan!"
+        },
+        {
+          "s": 1,
+          "t": "Paimon... The riddle is not a question. It's not about Aralohita."
+        },
+        {
+          "s": 0,
+          "t": "What is it if it's not a question? And who else can it be about if it's not about Aralohita? Mmm... Paimon's not getting this at all!"
+        },
+        {
+          "sit": "We should probably think beyond the text."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... But normally, Aranara only understand literal meanings. Now there's an Aranara who can speak in riddles? Paimon can't keep up..."
+        },
+        {
+          "s": 1,
+          "t": "The order. Not how Aralohita met them, but how Nara {NICKNAME} met them."
+        },
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 1,
+          "t": "The riddle is not hard. It is the order in which Nara {NICKNAME} saw Dusk Bird, Shroomboar, and Rishboland Tiger."
+        },
+        {
+          "section": "Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "Found it, finally! Is this a clue from Aralohita?"
+        },
+        {
+          "s": 0,
+          "t": "It looks like some sort of transcript... Oh, this must be the results of Pir Kavikavus's research! {NICKNAME}, let's read it now!"
+        },
+        {
+          "s": 0,
+          "t": "Hm, let Paimon see..."
+        },
+        {
+          "s": 0,
+          "t": "\"Theory and Practice: Enhancing the Safety of the Chaos Core in Unstable Conditions Using the Khaenri'ah Ruin Golem of Devantaka Mountain as an Example\"?"
+        },
+        {
+          "s": 0,
+          "t": "Uh, what does that mean? Paimon knows these words but doesn't get it when they're put together like this..."
+        },
+        {
+          "sit": "Is this an academic study...?"
+        },
+        {
+          "s": 0,
+          "t": "This might be a long shot... but do you understand this, Ararycan?"
+        },
+        {
+          "s": 1,
+          "t": "Look like lots of crawling bugs. Yuck."
+        },
+        {
+          "s": 0,
+          "t": "So, none of us understand it!"
+        },
+        {
+          "sit": "Looks like we'll have to ask Jazari..."
+        },
+        {
+          "s": 0,
+          "t": "Ararycan may not approve... but Pir Kavikavus has been gone for a long time, Aralohita too. Jazari's our only hope at this point..."
+        },
+        {
+          "sit": "I don't think he'll have a good reason to refuse."
+        },
+        {
+          "sit": "He'll probably be over the moon about it."
+        },
+        {
+          "s": 0,
+          "t": "Yeah. We might not understand it, but he'll definitely be interested in it!"
+        },
+        {
+          "s": 0,
+          "t": "Mr. Jazari is probably still on Devantaka Mountain researching. Since we have a lead now, let's go look for him."
+        },
+        {
+          "section": "Jazari, Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "There you are, Mr. Jazari! It was not easy to find you."
+        },
+        {
+          "s": 2,
+          "t": "Oh, it's {NICKNAME} and... Paimon, right?"
+        },
+        {
+          "s": 0,
+          "t": "Y-Yes, but why are you looking at Paimon like that?"
+        },
+        {
+          "s": 2,
+          "t": "Well, I'm worried about you. I don't know how you've been doing since the last time I saw you. Did you see a doctor...?"
+        },
+        {
+          "s": 0,
+          "t": "Ooh... You don't need to worry about that!"
+        },
+        {
+          "s": 2,
+          "t": "(*sigh* Your friend's situation may seem fine now, but you'd better keep an eye on her.)"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! Just because you're whispering to {NICKNAME} doesn't mean Paimon won't hear everything! There are no secrets between us! Hmph!"
+        },
+        {
+          "s": 2,
+          "t": "*sigh* Okay, only the person wearing the shoes will know if they fit. Since you insist that you're fine, then there's nothing more I can say."
+        },
+        {
+          "s": 0,
+          "t": "...Why does that sound so harsh?"
+        },
+        {
+          "s": 2,
+          "t": "Harsh? Sumeru people are warm and sincere. As one of them, I don't mean anything other than what I said."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, what brings you two here? Did you suddenly develop a passion for scholarship and finally decide to dedicate yourselves to the pursuit of truth?"
+        },
+        {
+          "s": 0,
+          "t": "Um... Well, it does have to do with scholarship... Take a look at this!"
+        },
+        {
+          "sit": "You give Jazari a look at the data you found."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Mr. Jazari? Hellooo?"
+        },
+        {
+          "s": 0,
+          "t": "(What's up with him? Is it even too hard for him to understand...?)"
+        },
+        {
+          "s": 1,
+          "t": "(Is Nara Jazari small iron chunk? Broken?)"
+        },
+        {
+          "s": 2,
+          "t": "Ah-Aaaah!"
+        },
+        {
+          "s": 0,
+          "t": "Aah! Why did you shout out of nowhere like that?"
+        },
+        {
+          "s": 2,
+          "t": "My Pir Kavikavus... No, this is a paper by none other than Pir Kavikavus himself!"
+        },
+        {
+          "s": 2,
+          "t": "And it's his \"Theory and Practice: Enhancing the Safety of the Chaos Core in Unstable Conditions Using the Khaenri'ah Ruin Golem of Devantaka Mountain as an Example\"?"
+        },
+        {
+          "s": 2,
+          "t": "My stars, with such an exclusive, pioneering research in my hand, even if I just wrote a review, I could still apply for funding from the Akademiya!"
+        },
+        {
+          "s": 2,
+          "t": "Tell me, where did you find this?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... Well..."
+        },
+        {
+          "s": 0,
+          "t": "(We can't exactly tell him we found it in the Aranara labyrinth... Just make up some random answer...)"
+        },
+        {
+          "sit": "We found it in a mushroom cave deep in the forest..."
+        },
+        {
+          "sit": "I woke up and discovered it in my bag..."
+        },
+        {
+          "s": 2,
+          "t": "What? Pir Kavikavus was conducting research in a place like that? Hmm... Looks like I'd better examine my own research attitude..."
+        },
+        {
+          "s": 0,
+          "t": "We tried reading it, but we couldn't make heads or tails of it."
+        },
+        {
+          "s": 0,
+          "t": "These are the results of some very important research, right? What's written in it? Could you give us the simple version, Mr. Jazari?"
+        },
+        {
+          "s": 2,
+          "t": "Why do you want to know about it?"
+        },
+        {
+          "s": 0,
+          "t": "Didn't Mr. Jazari say before that \"the gates to scholarship will open to whoever has a seeking heart\"?"
+        },
+        {
+          "s": 0,
+          "t": "Paimon also really wants to know what a genius like Pir Kavikavus wrote about."
+        },
+        {
+          "s": 2,
+          "t": "I did say that... but... but I've been following this project for a very long time!"
+        },
+        {
+          "s": 2,
+          "t": "If you must know, the amount of prior research I've done over the years is even more than the stories you've heard."
+        },
+        {
+          "sit": "Oh..."
+        },
+        {
+          "s": 2,
+          "t": "Th-This is a great discovery indeed, and you were the ones to find this important data..."
+        },
+        {
+          "s": 2,
+          "t": "Regardless, now that you've embarked on the path of scholarship, you are novices that will require my expertise to guide you through an accurate reading of this text..."
+        },
+        {
+          "sit": "So?"
+        },
+        {
+          "s": 2,
+          "t": "You... You won't try to publish your results before me, will you?"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Why are you worried about that?"
+        },
+        {
+          "s": 2,
+          "t": "Well, such a publication would undoubtedly bring both fame and fortune. As they say, your fate isn't determined by your ability, but your luck."
+        },
+        {
+          "s": 2,
+          "t": "With your remarkably good luck... I don't think I would stand a chance."
+        },
+        {
+          "s": 0,
+          "t": "Then you're worrying yourself over nothing. {NICKNAME} and Paimon don't have a permit from the Akademiya."
+        },
+        {
+          "sit": "We would never conduct research with malicious intent."
+        },
+        {
+          "s": 2,
+          "t": "Is that so? Why didn't you say so! But worry not, if you ever want to seek an academic career, I'll write you a letter of recommendation."
+        },
+        {
+          "s": 2,
+          "t": "And by then, hehe, my letters of recommendation will be worth a fortune."
+        },
+        {
+          "s": 2,
+          "t": "For now though, there's no time to lose. Let's go to the core of the Ruin Golem to test Pir Kavikavus's theory."
+        },
+        {
+          "s": 0,
+          "t": "Great! This just might solve our problem, Ararycan! It may not be a permanent cure, but at least that takes care of the current crisis."
+        },
+        {
+          "s": 1,
+          "t": "Yes! Nara Jazari not no good, is good!"
+        },
+        {
+          "s": 2,
+          "t": "Ah, you see, I'll soon become a wealthy researcher. To repay you... why don't I recommend a few good physicians to you for your self-talk?"
+        },
+        {
+          "s": 0,
+          "t": "Paimon already said it's fine! Hmm... but Paimon would gladly welcome being treated to some more Sumeru delicacies."
+        },
+        {
+          "section": "Jazari, Ararycan"
+        },
+        {
+          "s": 0,
+          "t": "We're back... If we can completely seal the core, even the Abyss Order will have a hard time wrecking it again."
+        },
+        {
+          "s": 2,
+          "t": "My little friend, even if you don't have faith in me, you should have faith in Pir Kavikavus."
+        },
+        {
+          "s": 2,
+          "t": "I read through his masterpiece several times on the way here. I completely understand it now..."
+        },
+        {
+          "s": 2,
+          "t": "That's Pir Kavikavus, all right! A paragon of genius!"
+        },
+        {
+          "s": 2,
+          "t": "It's unfortunate that such a genius no longer walks among us. However! He left behind a clear path. All we need to do is follow it to reach the correct destination."
+        },
+        {
+          "s": 0,
+          "t": "Sounds like there won't be much we can do to help, so we'll just have to count on you, Mr. Jazari!"
+        },
+        {
+          "s": 2,
+          "t": "Not necessarily. As they say, \"Sword is the final solution.\" Still, I hope you can draw your weapon now."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Why?"
+        },
+        {
+          "s": 2,
+          "t": "\"Roses have thorns, treasure troves have snakes.\" Who can say what perils await us."
+        },
+        {
+          "s": 2,
+          "t": "Besides, this great endeavor mustn't be stopped halfway! If we're interrupted, not even Pir Kavikavus himself could predict the consequences."
+        },
+        {
+          "s": 0,
+          "t": "Is it really gonna be that dangerous!?"
+        },
+        {
+          "s": 2,
+          "t": "It's possible that nothing will happen at all, and it's also possible that we'll end up buried here together. In any case, it's better to be safe than sorry."
+        },
+        {
+          "s": 2,
+          "t": "I have much faith in your abilities. When I seal the core, I'll trust you to cover my rear!"
+        },
+        {
+          "s": 1,
+          "t": "Nara Jazari wants us to push his lower back? Ararycan wants to help, but Nara Jazari too tall, Ararycan can't reach."
+        },
+        {
+          "sit": "...That's not what he meant."
+        },
+        {
+          "sit": "I could lift you up."
+        },
+        {
+          "s": 0,
+          "t": "He means that he wants us to guard this place and keep him from being interrupted by bad guys when he's sealing the core."
+        },
+        {
+          "section": "Jazari, Ararycan"
+        },
+        {
+          "s": 2,
+          "t": "Ah, just what I would expect from myself!"
+        },
+        {
+          "s": 0,
+          "t": "D-Did it work?"
+        },
+        {
+          "s": 2,
+          "t": "Do I even need to say it? I am a Kshahrewar researcher who aspires to receive the Pir Kavikavus Prize, and I have guidance from Pir Kavikavus himself..."
+        },
+        {
+          "s": 2,
+          "t": "If I couldn't succeed even with all that, it'd be hard to imagine anyone else from the Akademiya completing this task."
+        },
+        {
+          "sit": "That's impressive, Mr. Jazari!"
+        },
+        {
+          "s": 2,
+          "t": "The original data from the previous study was already enough for a conventional publication, but now... Ahahaha!"
+        },
+        {
+          "s": 2,
+          "t": "Ahem, my apologies, I lost my composure there for a moment."
+        },
+        {
+          "s": 2,
+          "t": "Not only have records of Pir Kavikavus's long-lost research been recovered, but now I'm testing his theory, and it was a success. No matter how you put it, it's..."
+        },
+        {
+          "sit": "A great success!"
+        },
+        {
+          "s": 2,
+          "t": "Quite right, quite right! I'll have to publish on an even larger scale. With results like these, an upgrade is naturally reasonable, and I won't need to worry about research funds anymore."
+        },
+        {
+          "s": 2,
+          "t": "Most importantly, there hasn't been an academic breakthrough like this in many years, not since Kshahrewar was devastated by Pir Kavikavus's accident..."
+        },
+        {
+          "s": 2,
+          "t": "Now there's hope for reviving the Kshahrewar thanks to the rediscovery of Pir Kavikavus's research!"
+        },
+        {
+          "s": 2,
+          "t": "Goodness, it's so wonderful I can hardly believe it."
+        },
+        {
+          "s": 2,
+          "t": "I should head back and record today's results while they're still fresh in my mind. If I have the opportunity to issue them publicly, I hope you'll both come to listen."
+        },
+        {
+          "s": 2,
+          "t": "After all, you have made a significant contribution to the project, and as its leader, I'm indebted to you. If you ever need any help, just come find me."
+        },
+        {
+          "s": 2,
+          "t": "Even if I'm busy, I'll always spare some time for you two, haha."
+        },
+        {
+          "sit": "Jazari leaves in a flash."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan not helpful at all..."
+        },
+        {
+          "s": 0,
+          "t": "What do you mean? Didn't you complete your mission? Now those bad things that made the forest sick are sealed away and those Abyss Order goons won't be able to do a thing."
+        },
+        {
+          "sit": "Using other people's strength is also wise."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}'s right, some things just can't be done by yourself. There's no shame in getting some help from others."
+        },
+        {
+          "sit": "What's important is that you're protecting what you want to protect."
+        },
+        {
+          "s": 1,
+          "t": "This mean Ararycan has protected Vana?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! Even if it's not protected once and for all... at least you healed the forest's illness. Isn't that your contribution?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Yes! Thank you, Paimon, and thank you, Nara {NICKNAME}, Ararycan's friends!"
+        },
+        {
+          "s": 0,
+          "t": "Hee-hee..."
+        },
+        {
+          "s": 0,
+          "t": "Still, Mr. Jazari still couldn't perceive Ararycan at all."
+        },
+        {
+          "sit": "Looks like he's a far cry from Pir Kavikavus."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, and didn't he promise to treat us to some food from Sumeru? Darn it! We forgot to set a time and place... Paimon hopes we'll run into him again..."
+        },
+        {
+          "s": 0,
+          "t": "How about you, Ararycan? Will you stay in Devantaka Mountain?"
+        },
+        {
+          "s": 1,
+          "t": "Bad guys gone, and the things that make Vana sick sealed now. All safe now."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan go back to Vanarana, tell other Aranara."
+        },
+        {
+          "s": 0,
+          "t": "Right..."
+        },
+        {
+          "s": 1,
+          "t": "Ararycan will not forget Nara {NICKNAME} and Paimon. Don't forget Ararycan."
+        },
+        {
+          "s": 0,
+          "t": "Hee-hee, of course we won't! And we'll definitely come back to Vanarana if we get the chance!"
+        },
+        {
+          "s": 1,
+          "t": "Okay! Nara {NICKNAME} and Paimon, Ararycan's friends!"
+        }
+      ],
+      "description": "You wonder how Ararycan is doing. Go find him when you have the time."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Ararycan",
+    "Jazari"
+  ],
+  "id": "q-73062"
+}

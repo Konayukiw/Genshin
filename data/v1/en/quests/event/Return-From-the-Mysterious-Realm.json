@@ -1,0 +1,1451 @@
+{
+  "chapter": "Ruins Exploration: Act I",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Return From the Mysterious Realm",
+  "region": null,
+  "quests": [
+    {
+      "title": "Return From the Mysterious Realm",
+      "dialogue": [
+        {
+          "section": "Collei, Cyrus"
+        },
+        {
+          "s": 0,
+          "t": "Huh. We haven't been back to the Akademiya in a while. It hasn't changed much, has it?"
+        },
+        {
+          "s": 0,
+          "t": "Well, since we've got some time... Wanna go to the House of Daena? Paimon wants to do some reading!"
+        },
+        {
+          "sit": "Excuse me? Who are you, and what have you done with Paimon?"
+        },
+        {
+          "s": 0,
+          "t": "Hah, so you noticed."
+        },
+        {
+          "s": 0,
+          "t": "Well, you're too late! The Paimon you know and love is no more!"
+        },
+        {
+          "s": 0,
+          "t": "You're looking at Paimon Plus! A new and improved treasure trove of travel know-how!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon Plus would like to find some new books to peruse. A gracious Traveler like yourself wouldn't leave her companionless on her quest, right?"
+        },
+        {
+          "sit": "I'm kind of afraid to see what would happen if I refused..."
+        },
+        {
+          "sit": "You've got me there. Let's go."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, c'mon! This way..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, hey! It's Collei, and... Cyrus!"
+        },
+        {
+          "s": 0,
+          "t": "Wonder what's going on... Let's go see!"
+        },
+        {
+          "sit": "And the books? Abandoning the quest already?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... Well..."
+        },
+        {
+          "s": 0,
+          "t": "You know what they say... Learning is a lifelong quest!"
+        },
+        {
+          "s": 0,
+          "t": "Which means there's always another chance to read a book. But, you never know when the next chance to reunite with an old friend will come along!"
+        },
+        {
+          "sit": "Sure, sure, whatever you say."
+        },
+        {
+          "s": 1,
+          "t": "Hm? {NICKNAME}, Paimon? You're back in Sumeru?"
+        },
+        {
+          "s": 2,
+          "t": "Hoho! Hello, you two. It's been a while. Looking to spend time with some old friends?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, yep! We saw some familiar faces, so we came to say hi!"
+        },
+        {
+          "sit": "Exactly. How could I forget the old man who lives next to Zaha Hadi."
+        },
+        {
+          "sit": "Exactly. How could I forget Naphis' assistant."
+        },
+        {
+          "s": 2,
+          "t": "Hoho, excuse you, associating me with that woman!"
+        },
+        {
+          "s": 2,
+          "t": "And, if you're going to remember me that way, you should at least mention my tomato growing skills!"
+        },
+        {
+          "s": 1,
+          "t": "So, he's mad about the \"Zaha Hadi\" part and not the \"old man\" part...?"
+        },
+        {
+          "s": 0,
+          "t": "Pfft...!"
+        },
+        {
+          "s": 0,
+          "t": "Well, Paimon's glad to see you in such good spirits, Cyrus. Must mean things are all good here in Sumeru."
+        },
+        {
+          "sit": "Apologies, Sir Cyrus."
+        },
+        {
+          "sit": "I couldn't help making a joke at your expense."
+        },
+        {
+          "s": 2,
+          "t": "Ah, well, it's quite alright. I'm not the type to take offense at that kind of thing, haha!"
+        },
+        {
+          "s": 1,
+          "t": "(You definitely are...!)"
+        },
+        {
+          "s": 0,
+          "t": "(You definitely are...!)"
+        },
+        {
+          "sit": "(You definitely are...!)"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, what were you and Collei chatting about just now?"
+        },
+        {
+          "s": 2,
+          "t": "Ah, that... Well, it was quite a spontaneous meeting!"
+        },
+        {
+          "s": 2,
+          "t": "I was leaving the Sage's office when I spotted Collei in conversation with a Mahamata, and it looked serious."
+        },
+        {
+          "s": 2,
+          "t": "I thought something bad might have happened, so I hurried over as soon as the conversation ended."
+        },
+        {
+          "s": 2,
+          "t": "But, as it turns out, our Collei is moving up in the world. The Akademiya even hired her as a consultant!"
+        },
+        {
+          "s": 0,
+          "t": "Wow! That's incredible!"
+        },
+        {
+          "s": 1,
+          "t": "Oh... It's nothing, really..."
+        },
+        {
+          "s": 2,
+          "t": "Look at that! So humble. Takes after me, she does!"
+        },
+        {
+          "s": 1,
+          "t": "Not at all, not at all... No, wait! I didn't mean that to sound like I don't think you're humble, Mr. Cyrus, because of course you are, I just... uh..."
+        },
+        {
+          "sit": "(Uh oh, Collei's so nervous she's sweating. I should help her out...)"
+        },
+        {
+          "sit": "Anyway, what are you a consultant for, exactly?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, well, I wouldn't even call myself a consultant. I'm just helping out..."
+        },
+        {
+          "s": 1,
+          "t": "Now that the new semester has started, a lot of students and scholars are doing field work for their research."
+        },
+        {
+          "s": 1,
+          "t": "But, it can be dangerous for those who don't have a lot of experience in the wilds."
+        },
+        {
+          "s": 1,
+          "t": "So, the Akademiya is planning to establish an agency that provides guidance on outdoor survival and rescue for people who need it."
+        },
+        {
+          "s": 0,
+          "t": "Ooh, Paimon gets it!"
+        },
+        {
+          "s": 0,
+          "t": "So, you're here to explain rainforest survival as a representative of the Forest Rangers!"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, pretty much."
+        },
+        {
+          "s": 1,
+          "t": "Of course, when it comes to tips on deciphering mechanisms or defeating monsters, that's for people who are far more senior than me to handle."
+        },
+        {
+          "s": 1,
+          "t": "Ah, and speaking of which... Since we're short on manpower, the person in charge at the Akademiya said we're still accepting newcomers."
+        },
+        {
+          "s": 1,
+          "t": "If you're interested, you're welcome to join and share your insights."
+        },
+        {
+          "s": 2,
+          "t": "Ah, seizing the moment. Well done, Collei! Recruiting someone as capable as {NICKNAME} is a great idea!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, and just between the four of us... The Akademiya has set aside a generous amount of funding for this project."
+        },
+        {
+          "s": 0,
+          "t": "*gasp*"
+        },
+        {
+          "s": 0,
+          "t": "Ahem! Well, since Collei's thrown her hat in the ring, we should help out too! Whaddaya say, {NICKNAME}?"
+        },
+        {
+          "sit": "Well, as we all know, I'm nothing if not helpful."
+        },
+        {
+          "s": 1,
+          "t": "Great!"
+        },
+        {
+          "s": 1,
+          "t": "We're all supposed to meet up in Aaru Village later, so I guess we'll regroup there!"
+        },
+        {
+          "s": 1,
+          "t": "Phew... I was kinda worried, since Master Tighnari isn't around to help this time. But, now I feel much better..."
+        },
+        {
+          "sit": "Have faith. You don't need anyone's help to do a great job."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! Even if you don't trust the Akademiya's eye for talent, you can trust ours for sure!"
+        },
+        {
+          "s": 2,
+          "t": "And mine, of course! I have as good an eye for people as I do for tomatoes!"
+        },
+        {
+          "s": 0,
+          "t": "Well, there you have it!"
+        },
+        {
+          "s": 1,
+          "t": "Hehe... Thanks, everyone..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, speaking of Tighnari, how are things with him and the others?"
+        },
+        {
+          "s": 1,
+          "t": "Good, thanks! All the Forest Rangers are doing great."
+        },
+        {
+          "s": 1,
+          "t": "Oh, but Master Tighnari did mention that Cyno and Sethos were heading to Gandharva Ville... I'm not sure if it's for work or something else..."
+        },
+        {
+          "s": 0,
+          "t": "Huh, knowing them... Could just be to play some cards..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... I'm not sure. Apparently, Sethos is bringing someone else with him too."
+        },
+        {
+          "s": 1,
+          "t": "But, with my Akademiya commitment, I didn't have time to ask for more details..."
+        },
+        {
+          "s": 0,
+          "t": "Huh, well now Paimon's curious. Should we go check things out, {NICKNAME}?"
+        },
+        {
+          "sit": "Why not? It's been a while since we've dropped in to say hi."
+        },
+        {
+          "s": 1,
+          "t": "That's true, and I'm sure they've missed you."
+        },
+        {
+          "s": 2,
+          "t": "Now, that is how it should be between friends, getting together to play cards or enjoy a meal. Yet, here I am, stuck with Naphis who only ever calls to talk about research..."
+        },
+        {
+          "s": 2,
+          "t": "Well, I won't delay your reunion any longer. Until next time!"
+        },
+        {
+          "s": 1,
+          "t": "Goodbye, Mr. Cyrus. Take care!"
+        },
+        {
+          "s": 1,
+          "t": "Alright, I should probably get going too."
+        },
+        {
+          "s": 1,
+          "t": "See you later, guys! Come find me in Aaru Village when you're ready!"
+        },
+        {
+          "sit": "Sure thing."
+        },
+        {
+          "s": 0,
+          "t": "Hehe. Looking forward to seeing you shine, Collei!"
+        },
+        {
+          "section": "Tighnari, Cyno, Sethos, Layla"
+        },
+        {
+          "s": 0,
+          "t": "Tighnari's place... Tighnari's place... Ah, here it is!"
+        },
+        {
+          "s": 0,
+          "t": "Cyno, Sethos! Looks like the whole gang's here! ...Oh, and Layla's here too!"
+        },
+        {
+          "s": 0,
+          "t": "But, oh... She doesn't look too good. Did something happen?"
+        },
+        {
+          "sit": "Hi everyone, it's been a while."
+        },
+        {
+          "sit": "Is everything okay here...?"
+        },
+        {
+          "s": 3,
+          "t": "Ah, Paimon, {NICKNAME}. It's good to see you."
+        },
+        {
+          "s": 3,
+          "t": "I'd welcome you like a proper host, but I'm a bit busy at the moment. Apologies."
+        },
+        {
+          "sit": "No worries. This seems serious."
+        },
+        {
+          "s": 3,
+          "t": "Ah, no need to look that worried."
+        },
+        {
+          "s": 3,
+          "t": "My observations indicate Miss Layla's condition has improved quite a bit."
+        },
+        {
+          "s": 3,
+          "t": "There's no danger to her mind. She's just fatigued and needs some rest."
+        },
+        {
+          "s": 3,
+          "t": "Excuse me for a moment while I blend some calming incense. I'll let you two explain the situation."
+        },
+        {
+          "s": 4,
+          "t": "Alright."
+        },
+        {
+          "s": 4,
+          "t": "What happened was, Sethos and a few members of the Temple of Silence rescued Layla, who was out in the desert trapped in a state of delirium."
+        },
+        {
+          "s": 0,
+          "t": "She had to be \"rescued\"? That sounds bad..."
+        },
+        {
+          "s": 5,
+          "t": "That's all you're gonna say about it, Cyno? I mean, we don't want people jumping to conclusions."
+        },
+        {
+          "s": 4,
+          "t": "That's all I can say about it. The person involved is unable to explain what happened to her, so we're limited in what we know."
+        },
+        {
+          "s": 6,
+          "t": "Ugh... Sorry. My head... still dizzy..."
+        },
+        {
+          "s": 6,
+          "t": "The moons... The moons... Exactly how many are there..."
+        },
+        {
+          "sit": "(The moons!?)"
+        },
+        {
+          "s": 4,
+          "t": "She's been repeating that phrase over and over again, but she can't seem to remember what happened to her."
+        },
+        {
+          "s": 5,
+          "t": "We tried a few things back at the Temple of Silence, but we couldn't recover her memories."
+        },
+        {
+          "s": 5,
+          "t": "Her symptoms are kind of similar to researchers in the Satyavada Life state, so we brought her to Tighnari to see if our veteran Forest Watcher had any other ideas."
+        },
+        {
+          "s": 4,
+          "t": "Tighnari is pretty much our last option, so let's hope he can help."
+        },
+        {
+          "s": 5,
+          "t": "The good news is, even if restoring her memory is a no go, we can help with the headache at least. Djer was in a similar state when we found him, delirious and mumbling to himself, but he's more or less back to normal now."
+        },
+        {
+          "s": 5,
+          "t": "Ah, sorry. I should give you some context first, huh..."
+        },
+        {
+          "s": 5,
+          "t": "We should let Miss Layla get some rest. Come with me, you two, and I'll introduce you to the other \"victim\" of this incident."
+        },
+        {
+          "s": 4,
+          "t": "Good idea. I'll wait for Tighnari here and keep an eye on our patient."
+        },
+        {
+          "s": 5,
+          "t": "Alright, then! This way."
+        },
+        {
+          "section": "Djer"
+        },
+        {
+          "s": 7,
+          "t": "*sigh* Who did the Ajilenakh Nut offend... I just don't get it..."
+        },
+        {
+          "s": 5,
+          "t": "Hey, Djer! Still musing about Ajilenakh Nuts, huh? Want me to have Cyno come over and tell some jokes? Might help distract you!"
+        },
+        {
+          "s": 7,
+          "t": "NO! No need. I'm done."
+        },
+        {
+          "sit": "I like jokes."
+        },
+        {
+          "sit": "Yeah, that's one nutty idea that's not all it's... cracked up to be."
+        },
+        {
+          "s": 7,
+          "t": "Don't encourage him!"
+        },
+        {
+          "s": 5,
+          "t": "Well, sorry for interrupting the Ajilenakh talk, buddy. Next time, just say... \"Ah, gee. Hey! Knock!\""
+        },
+        {
+          "s": 7,
+          "t": "Agh!"
+        },
+        {
+          "s": 0,
+          "t": "Hold on, hold on. So, what's the deal with the Ajilenakh Nuts? Other than the bad Cyno jokes..."
+        },
+        {
+          "s": 5,
+          "t": "Hahaha, we'll get to that. But first, introductions are in order! This is Djer — a member of the Temple of Silence."
+        },
+        {
+          "s": 5,
+          "t": "And you remember {NICKNAME}, right, Djer?"
+        },
+        {
+          "s": 7,
+          "t": "Of course. I'd never forget a participant in the Rite of Duels or the hero who saved Sumeru."
+        },
+        {
+          "s": 5,
+          "t": "Awesome. Could you go over what happened to you one more time, Djer? Our valiant hero is gonna help us get to the bottom of this."
+        },
+        {
+          "sit": "Huh? I am?"
+        },
+        {
+          "s": 5,
+          "t": "Might as well join since you're here, am I right?"
+        },
+        {
+          "s": 5,
+          "t": "Just hear him out. You're gonna want to uncover this mystery once you do — I'd bet on it."
+        },
+        {
+          "s": 7,
+          "t": "Well, I was on an expedition in the desert not too long ago when I got caught in some quicksand."
+        },
+        {
+          "s": 7,
+          "t": "Later, it became obvious it wasn't normal quicksand, because instead of sinking to my death, I fell into an undiscovered ruin."
+        },
+        {
+          "s": 7,
+          "t": "In my panic, arms and legs flailing about, I suspect I touched some things I shouldn't have..."
+        },
+        {
+          "s": 7,
+          "t": "...Because in that brief moment, an enormous amount of information came surging into my mind."
+        },
+        {
+          "s": 7,
+          "t": "I would hesitate to even call it knowledge because my brain had no capacity to process the information."
+        },
+        {
+          "s": 7,
+          "t": "To use an analogy, it would be like... Trying to stuff thousands of Ajilenakh Nuts into a small water skin without it bursting."
+        },
+        {
+          "s": 7,
+          "t": "Sorry, sorry. Again with the Ajilenakh Nuts, I know.."
+        },
+        {
+          "s": 5,
+          "t": "It's fine. We're getting to that part of the story, anyway."
+        },
+        {
+          "s": 7,
+          "t": "*sigh* True."
+        },
+        {
+          "s": 7,
+          "t": "Well, just as I was on the verge of madness, a single phrase broke through the storm of thoughts in my head..."
+        },
+        {
+          "s": 7,
+          "t": "It was a man's voice saying, \"don't eat Ajilenakh Nuts.\""
+        },
+        {
+          "s": 0,
+          "t": "What?"
+        },
+        {
+          "sit": "Uh..."
+        },
+        {
+          "s": 7,
+          "t": "I know it's hard to believe, but that's what happened. I was saved by the phrase \"don't eat Ajilenakh Nuts.\""
+        },
+        {
+          "sit": "You mentioned a man's voice..."
+        },
+        {
+          "sit": "Do you know who it was?"
+        },
+        {
+          "s": 7,
+          "t": "I'm not sure."
+        },
+        {
+          "s": 7,
+          "t": "I'm not even certain it was a man's voice... It's hard to remember now that I've been repeating it so much myself."
+        },
+        {
+          "s": 7,
+          "t": "Anyway, the good news is, I no longer feel like my head is going to explode."
+        },
+        {
+          "s": 7,
+          "t": "Of course, the bad news is, that phrase has been stuck in my head for the past few days."
+        },
+        {
+          "s": 0,
+          "t": "Wow, but doesn't that have the opposite effect? Like, the more you say \"don't eat it,\" the more you want to eat it..."
+        },
+        {
+          "s": 7,
+          "t": "Yes, that's exactly right!"
+        },
+        {
+          "s": 7,
+          "t": "Whoever the voice belongs to, I don't know what his deal is with those nuts..."
+        },
+        {
+          "s": 5,
+          "t": "Well, the world's a big place. There's bound to be people who don't like sweet stuff."
+        },
+        {
+          "s": 7,
+          "t": "I suppose. Strangely enough... I'm starting to think the voice belonged not to a man, but a cat."
+        },
+        {
+          "s": 0,
+          "t": "A cat? How?"
+        },
+        {
+          "s": 7,
+          "t": "That's the question, isn't it. What would a cat be doing in an abandoned ruin like that?"
+        },
+        {
+          "s": 7,
+          "t": "Just as my mind was reaching its breaking point, I could've sworn I heard the sound of a cat guiding me to exit."
+        },
+        {
+          "s": 7,
+          "t": "But when I came to, all I saw was endless desert, and Sethos shaking me in a desperate attempt to wake me up."
+        },
+        {
+          "s": 5,
+          "t": "I'll admit, it was pretty terrifying, seeing you like that — staring off into space and mumbling about Ajilenakh Nuts... Heh."
+        },
+        {
+          "s": 0,
+          "t": "You sure don't sound terrified!"
+        },
+        {
+          "s": 5,
+          "t": "Sorry, sorry, sorry. It's not that I don't care. It's just... kind of hard for rambling about Ajilenakh Nuts to sound menacing."
+        },
+        {
+          "s": 5,
+          "t": "Now, what Layla was saying, on the other hand... That is much creepier."
+        },
+        {
+          "sit": "You mean about the number of moons?"
+        },
+        {
+          "s": 5,
+          "t": "Exactly. The unknown is what breeds fear. Ajilenakh Nuts are familiar, but the moon suspended above us at night... That's about as foreign as it gets."
+        },
+        {
+          "s": 7,
+          "t": "W—We don't know that for sure! There could be a whole other world inside an Ajilenakh Nut, with a moon of its own!"
+        },
+        {
+          "s": 5,
+          "t": "Huh... I guess."
+        },
+        {
+          "s": 7,
+          "t": "Ajilenakh Nuts are not to be underestimated..."
+        },
+        {
+          "s": 5,
+          "t": "Right, yeah! Of course! Won't catch me disparaging the mighty Ajilenakh Nut. No sir..."
+        },
+        {
+          "s": 0,
+          "t": "Huh, so a similar thing happened to Layla, then?"
+        },
+        {
+          "s": 5,
+          "t": "Yeah, I think so."
+        },
+        {
+          "s": 5,
+          "t": "I was in a hurry to rescue Djer, so I put a marker on the incident site so we could go back and investigate."
+        },
+        {
+          "s": 5,
+          "t": "When his condition stabilized, we doubled back around to check, and—"
+        },
+        {
+          "sit": "You discovered Layla in a similar condition."
+        },
+        {
+          "s": 5,
+          "t": "Exactly."
+        },
+        {
+          "s": 5,
+          "t": "Multiple victims with the same symptoms at the same location... It wasn't hard to conclude that something is seriously wrong with that place."
+        },
+        {
+          "s": 5,
+          "t": "So, after we got Layla out of there, I had the Temple of Silence put up a warning sign at the scene and send patrols to watch the area."
+        },
+        {
+          "s": 5,
+          "t": "Speaking of, Cyno, Tighnari, and I are going to head back there and investigate once Layla is stable... So, as per usual, you're here just in time!"
+        },
+        {
+          "sit": "Yeah, it sounds like you need all the help you can get."
+        },
+        {
+          "s": 5,
+          "t": "That's for sure. But, there's another reason I want Cyno and Tighnari involved in this."
+        },
+        {
+          "s": 5,
+          "t": "Because the story doesn't end there. Right, Djer?"
+        },
+        {
+          "s": 7,
+          "t": "Hm... Oh, yes. Where was I? The Ajilenakh Nuts butted in and I... Right. Yes. The cat."
+        },
+        {
+          "s": 7,
+          "t": "As I followed the cat noises, the voice said something else: \"So, there are those from Tulaytullah who still endure...\""
+        },
+        {
+          "s": 7,
+          "t": "I thought that was strange, of course, because well... Was the voice referring to me?"
+        },
+        {
+          "s": 7,
+          "t": "Haha, records of my ancestry are rather sparse, so I'm not sure if my bloodline even traces back to that place."
+        },
+        {
+          "sit": "Tulaytullah..."
+        },
+        {
+          "s": 5,
+          "t": "That's right. The Temple of Silence's place of origin."
+        },
+        {
+          "s": 5,
+          "t": "And the home of Tighnari's people. Plus, Hermanubis, who Cyno and I both share a connection to, was one of the city's founders."
+        },
+        {
+          "s": 5,
+          "t": "As the Temple's current leader, if something strange happens in the desert, it's my job to get to the bottom of it."
+        },
+        {
+          "s": 5,
+          "t": "But, it turns out, a lot of people have a horse in this race, and I'm not leaving any of them out."
+        },
+        {
+          "sit": "Good idea."
+        },
+        {
+          "sit": "Count me in, too."
+        },
+        {
+          "s": 5,
+          "t": "See? Knew you'd join."
+        },
+        {
+          "s": 5,
+          "t": "But yeah, that's all we know about Djer's situation."
+        },
+        {
+          "s": 5,
+          "t": "Tighnari should be done on his end. Let's head back and check on Miss Layla."
+        },
+        {
+          "section": "Cyno"
+        },
+        {
+          "s": 4,
+          "t": "Something strange is going on..."
+        },
+        {
+          "section": "Layla"
+        },
+        {
+          "s": 6,
+          "t": "Ugh..."
+        },
+        {
+          "section": "Tighnari, Layla, Cyno"
+        },
+        {
+          "s": 3,
+          "t": "How are you feeling? Ah, but don't speak if it's too taxing."
+        },
+        {
+          "s": 6,
+          "t": "It's fine. I'm much better now, thanks."
+        },
+        {
+          "s": 6,
+          "t": "I feel like I haven't slept in two days... So, pretty much back to normal..."
+        },
+        {
+          "s": 0,
+          "t": "Whoa, whoa, whoa... That's your normal!?"
+        },
+        {
+          "sit": "Layla..."
+        },
+        {
+          "s": 6,
+          "t": "Ah, {NICKNAME}, Paimon... I thought I heard your voices earlier..."
+        },
+        {
+          "s": 6,
+          "t": "Oh, and, um... I'm sorry..."
+        },
+        {
+          "s": 0,
+          "t": "Huh? You don't have to apologize! You didn't do anything wrong!"
+        },
+        {
+          "s": 6,
+          "t": "Ah... No, I just mean... I think I'm about to disappoint you."
+        },
+        {
+          "s": 6,
+          "t": "My head was kinda muddled earlier, but I still heard your conversation."
+        },
+        {
+          "s": 6,
+          "t": "I know you're trying to figure out what happened to me, and I want to help..."
+        },
+        {
+          "s": 6,
+          "t": "But... I really don't remember anything."
+        },
+        {
+          "s": 3,
+          "t": "Does your head still hurt?"
+        },
+        {
+          "s": 6,
+          "t": "No, I feel fine. The incense you made helped a lot."
+        },
+        {
+          "s": 6,
+          "t": "I'm still hearing those words in my head, but other than that, I'm okay."
+        },
+        {
+          "s": 6,
+          "t": "It's just... all I remember are those words. Everything else is a total blank."
+        },
+        {
+          "s": 6,
+          "t": "One moment I was heading to the stargazing point I'd calculated, and the next, I was on my back in the sand, the same phrase playing over and over again in my mind..."
+        },
+        {
+          "s": 6,
+          "t": "How many moons are there in the sky?"
+        },
+        {
+          "s": 4,
+          "t": "Hmm..."
+        },
+        {
+          "s": 4,
+          "t": "Sethos, did your friend Djer suffer from memory loss too?"
+        },
+        {
+          "s": 5,
+          "t": "Not really. His memories are blurry, but there aren't huge gaps like this."
+        },
+        {
+          "s": 5,
+          "t": "He remembers touching something, someone talking, a voice mentioning \"Tulaytullah,\" and hearing a cat lead him to the exit."
+        },
+        {
+          "s": 6,
+          "t": "Ah! A cat..."
+        },
+        {
+          "s": 5,
+          "t": "Did you hear it too?"
+        },
+        {
+          "s": 6,
+          "t": "Huh, now that you mention it, I think so? It was so soft, I thought I was imagining things..."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... Which means, at the very least, what the two of you experienced while escaping the ruin is consistent."
+        },
+        {
+          "s": 3,
+          "t": "A single sentence repeating in your heads, and the faint sound of a cat."
+        },
+        {
+          "s": 4,
+          "t": "Still not a lot to go off of."
+        },
+        {
+          "s": 5,
+          "t": "Agreed."
+        },
+        {
+          "s": 6,
+          "t": "Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, is your head hurting again, Layla?"
+        },
+        {
+          "s": 6,
+          "t": "*breathe in*"
+        },
+        {
+          "s": 6,
+          "t": "*breathe out* No, I was just thinking... Maybe my memories are blank because I was sleepwalking at the time?"
+        },
+        {
+          "s": 6,
+          "t": "Sometimes, my friends and classmates tell me about things I don't remember doing, or places I don't remember going."
+        },
+        {
+          "s": 6,
+          "t": "I don't talk about it a lot because, well... I don't even know how it happens. But I don't want my personal circumstances clouding your judgment."
+        },
+        {
+          "s": 6,
+          "t": "So, I... just wanted to mention that."
+        },
+        {
+          "s": 3,
+          "t": "Ah... I see. Well, thank you for telling us."
+        },
+        {
+          "s": 3,
+          "t": "But, I don't think we need to dwell on that for now. We're gonna check out the site of the incident for ourselves, so that should help us come to our own conclusions."
+        },
+        {
+          "sit": "I'm with Tighnari."
+        },
+        {
+          "sit": "Don't put too much pressure on yourself, Layla."
+        },
+        {
+          "s": 6,
+          "t": "O—Okay..."
+        },
+        {
+          "s": 6,
+          "t": "Then, could I come too? I have to know what happened to me back there."
+        },
+        {
+          "s": 5,
+          "t": "Sure, but on one condition — you need to be in tip-top shape before we head out."
+        },
+        {
+          "s": 5,
+          "t": "If your condition isn't stable enough before then, we'll have to figure out something else."
+        },
+        {
+          "s": 6,
+          "t": "O—Of course! No problem!"
+        },
+        {
+          "s": 4,
+          "t": "Well, I'm more concerned about Tighnari... You sure you'll be alright in the desert?"
+        },
+        {
+          "s": 3,
+          "t": "You say that like I'll evaporate on first contact with sand or something."
+        },
+        {
+          "s": 3,
+          "t": "Call it... curiosity. If this concerns my ancestors, I want to figure out what's going on."
+        },
+        {
+          "s": 3,
+          "t": "Anyway, as long as I take things slow when the sun's out, I should be fine with the right preparation."
+        },
+        {
+          "s": 3,
+          "t": "Besides, it's a good idea to have a doctor on hand in case of emergencies."
+        },
+        {
+          "s": 4,
+          "t": "So long as our doctor doesn't become the emergency."
+        },
+        {
+          "s": 3,
+          "t": "Well, if that happens, I suppose I'll just have to rely on the kindness of my entourage to haul me back home."
+        },
+        {
+          "s": 5,
+          "t": "Alright, well, that all sounds good to me. Let's meet in two days like we agreed."
+        },
+        {
+          "sit": "Sethos finds a map and marks the location for you."
+        },
+        {
+          "s": 5,
+          "t": "Djer and I are gonna head back to the Temple of Silence and do some research in the meantime. See you in a couple days!"
+        },
+        {
+          "s": 4,
+          "t": "Sounds good."
+        },
+        {
+          "s": 3,
+          "t": "What about you, Layla? If you feel like you need more rest, I can arrange a room for you to stay in."
+        },
+        {
+          "s": 6,
+          "t": "O—Oh, um, no need! I've asked enough of you as it is..."
+        },
+        {
+          "s": 6,
+          "t": "Besides, I feel a lot better. I should make it back to my dorm, no problem."
+        },
+        {
+          "s": 0,
+          "t": "You sure? Don't push it too hard, or you might end up sleepwalking along the way..."
+        },
+        {
+          "s": 6,
+          "t": "Don't worry. I'll be fine."
+        },
+        {
+          "s": 6,
+          "t": "I have other things I need to do, anyway. Like letting my advisor and classmates know that I'm fine, adjusting my stargazing schedule, things like that..."
+        },
+        {
+          "s": 6,
+          "t": "If I don't get it all done, I doubt I'll be able to sit still, let alone stay here and get some rest..."
+        },
+        {
+          "s": 3,
+          "t": "I'm not so sure that's—"
+        },
+        {
+          "sit": "You know what? I'll make sure she gets back."
+        },
+        {
+          "s": 3,
+          "t": "Ah, a much better idea. Thank you, Traveler."
+        },
+        {
+          "s": 3,
+          "t": "Of course, if anything starts to feel off, come back for a checkup right away!"
+        },
+        {
+          "s": 4,
+          "t": "You'd better listen to him, Layla, or he'll feed you tasteless slop as a punishment."
+        },
+        {
+          "s": 3,
+          "t": "Punishment? You're the one who caught a cold. You're supposed to eat light when that happens."
+        },
+        {
+          "s": 3,
+          "t": "Besides, with your nose stuffed up like that, you couldn't taste anything to begin with."
+        },
+        {
+          "s": 4,
+          "t": "Huh, is that so."
+        },
+        {
+          "s": 4,
+          "t": "And here I thought it was an intaste-tinal issue."
+        },
+        {
+          "s": 3,
+          "t": "...Should've seen that coming. You're off the clock, so now it's time for puns, huh?"
+        },
+        {
+          "s": 0,
+          "t": "Oh brother, not this again..."
+        },
+        {
+          "s": 4,
+          "t": "Don't worry, Paimon. I understand. If you want me to stop, then..."
+        },
+        {
+          "s": 0,
+          "t": "Th—Then...?"
+        },
+        {
+          "s": 4,
+          "t": "You'll have to call a plumber. Tell them someone's gotta \"pipe\" down..."
+        },
+        {
+          "sit": "Wow."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... This is getting more insufferable by the second!"
+        },
+        {
+          "s": 0,
+          "t": "Put a sock in it already. Please..."
+        },
+        {
+          "sit": "Got it, Paimon, one \"sock-in\" coming right up~"
+        },
+        {
+          "s": 4,
+          "t": "!?"
+        },
+        {
+          "s": 3,
+          "t": "!?"
+        },
+        {
+          "s": 0,
+          "t": "...Paimon's done with this game..."
+        },
+        {
+          "s": 0,
+          "t": "You win, okay? Let's just get out of here... please."
+        },
+        {
+          "sit": "Okay, bye, everyone. I'll keep Layla safe."
+        },
+        {
+          "sit": "And Paimon mentally sound."
+        },
+        {
+          "s": 3,
+          "t": "Alright. You stay safe... I'll try to stay sane."
+        },
+        {
+          "section": "Djer"
+        },
+        {
+          "s": 7,
+          "t": "There are records in the Temple of Silence that speak of the ancient desert peoples' love of raising cats. Perhaps I encountered some ancestral cat spirit, long since passed on?"
+        },
+        {
+          "section": "Layla"
+        },
+        {
+          "s": 0,
+          "t": "Moons... Ajilenakh Nuts..."
+        },
+        {
+          "s": 0,
+          "t": "Moons... Ajilenakh Nuts...?"
+        },
+        {
+          "s": 0,
+          "t": "Are the moons going... nuts?"
+        },
+        {
+          "sit": "Paimon, please. Enough repeating..."
+        },
+        {
+          "sit": "You're putting me to sleep over here..."
+        },
+        {
+          "s": 0,
+          "t": "Oh no, looks like Paimon's caught the brain bug too — she can't stop thinking about those two things!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon's gotta clear her head. But how..."
+        },
+        {
+          "s": 0,
+          "t": "...Aha! Got it!"
+        },
+        {
+          "s": 0,
+          "t": "The cafe over there! Why don't we head over for a quick pick-me-up?"
+        },
+        {
+          "sit": "(Hmm?)"
+        },
+        {
+          "sit": "(Something's up with Layla...)"
+        },
+        {
+          "s": 6,
+          "t": "S—Sorry. I feel kinda tired all of a sudden..."
+        },
+        {
+          "s": 0,
+          "t": "Wait, is it because of all Paimon's muttering just now?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, sorry, sorry... Um, the coffee will be Paimon's treat, okay?"
+        },
+        {
+          "sit": "So generous all of a sudden..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, you make it sound like Paimon's stingy or something!"
+        },
+        {
+          "s": 0,
+          "t": "Hmph, well, she'll just have to show you her... true colors! Yeah, starting now!"
+        },
+        {
+          "s": 0,
+          "t": "You sit tight and take care of Layla, {NICKNAME}. Paimon's gonna get us some snacks and coffee!"
+        },
+        {
+          "s": 0,
+          "t": "Be right back! Don't go anywhere in the meantime!"
+        },
+        {
+          "s": 6,
+          "t": "*sigh*... She's pushing herself again, as always."
+        },
+        {
+          "sit": "Other Layla, I presume?"
+        },
+        {
+          "s": 6,
+          "t": "Saw right through me, huh..."
+        },
+        {
+          "s": 6,
+          "t": "I apologize for the sudden emergence, but I didn't have any other options..."
+        },
+        {
+          "sit": "It's fine."
+        },
+        {
+          "sit": "As far as I'm concerned, you're Layla as well."
+        },
+        {
+          "s": 6,
+          "t": "Well, that's true..."
+        },
+        {
+          "s": 6,
+          "t": "So, for \"our\" sake — and your safety — allow me to fill in the gaps in her memory."
+        },
+        {
+          "sit": "I knew it. You were in control when it happened..."
+        },
+        {
+          "s": 6,
+          "t": "That's right."
+        },
+        {
+          "s": 6,
+          "t": "Layla was already in bad shape, stressing about her new study topic, focusing on the stars instead of her surroundings..."
+        },
+        {
+          "s": 6,
+          "t": "By the time she realized the danger she was in, it was too late..."
+        },
+        {
+          "section": "Cyno, Tighnari"
+        },
+        {
+          "s": 4,
+          "t": "It seems your jokes have improved with practice, {NICKNAME}."
+        },
+        {
+          "s": 3,
+          "t": "Happy about that?"
+        },
+        {
+          "s": 4,
+          "t": "Absolutely. Finally, someone to share the load."
+        },
+        {
+          "s": 3,
+          "t": "...Ah, you know what? Collei's helping out the Akademiya, but I haven't had the chance to check on her. Why don't you do me a favor, and... go do that."
+        },
+        {
+          "s": 4,
+          "t": "Hold on, I thought you were having me over for dinner?"
+        },
+        {
+          "section": "Layla"
+        },
+        {
+          "s": 6,
+          "t": "Ah!"
+        },
+        {
+          "s": 6,
+          "t": "(Quicksand near the ideal viewing spot? Wasn't expecting that...)"
+        },
+        {
+          "s": 6,
+          "t": "(Looks like Layla's been under a lot of pressure lately. She hasn't been paying attention to her surroundings...)"
+        },
+        {
+          "s": 6,
+          "t": "(But... why would quicksand lead to a place like this?)"
+        },
+        {
+          "s": 6,
+          "t": "(Well, all in all, looks like a common desert ruin... Guess there's nothing to do but try to find a way out.)"
+        },
+        {
+          "s": 6,
+          "t": "(Oh, Layla... What have you gotten yourself into this time...)"
+        },
+        {
+          "section": "Thoth"
+        },
+        {
+          "sit": "How many moons are there in the sky?"
+        },
+        {
+          "s": 6,
+          "t": "(...!)"
+        },
+        {
+          "s": 6,
+          "t": "(\"How many moons are there in the sky?\")"
+        },
+        {
+          "s": 6,
+          "t": "(How many moons are there in the sky?)"
+        },
+        {
+          "s": 6,
+          "t": "(Okay. Information isn't rushing into my brain anymore. That's good.)"
+        },
+        {
+          "s": 6,
+          "t": "(How many moons are there in the sky?)"
+        },
+        {
+          "s": 6,
+          "t": "(My head hurts, but there are no more dark spots in my vision, and I can see in front of me. Still...)"
+        },
+        {
+          "s": 6,
+          "t": "(How many moons are there in the sky?)"
+        },
+        {
+          "s": 6,
+          "t": "(What's going on? The same thought keeps popping into my head. What does it mean...)"
+        },
+        {
+          "s": 6,
+          "t": "(How many moons are there in the sky?)"
+        },
+        {
+          "s": 6,
+          "t": "(Isn't there... just one?)"
+        },
+        {
+          "s": 8,
+          "t": "Meow."
+        },
+        {
+          "s": 6,
+          "t": "(...A cat? I think there was one earlier, too...)"
+        },
+        {
+          "s": 8,
+          "t": "Meow... Meow..."
+        },
+        {
+          "s": 6,
+          "t": "(I'm not hearing things — it really is a cat! But what is it doing here...)"
+        },
+        {
+          "s": 6,
+          "t": "(How many moons... are there... No. Stop it!)"
+        },
+        {
+          "s": 8,
+          "t": "Meow."
+        },
+        {
+          "s": 6,
+          "t": "(Does it want me to follow its cries?)"
+        },
+        {
+          "s": 6,
+          "t": "(Well, it's not like I've got other options. Come on, Layla. You can do this...)"
+        },
+        {
+          "section": "Layla"
+        },
+        {
+          "s": 6,
+          "t": "...And so, I followed the cat's cries to find my way out."
+        },
+        {
+          "s": 6,
+          "t": "It was quite a kind creature... It didn't even leave until the other me started to wake up."
+        },
+        {
+          "sit": "Well, that fills in the gaps..."
+        },
+        {
+          "sit": "Sounds very similar to what happened to Djer."
+        },
+        {
+          "s": 6,
+          "t": "Thinking back, it all started when I touched that device."
+        },
+        {
+          "s": 6,
+          "t": "I've heard fellow students talk about it before... how the desert is full of objects that do strange things."
+        },
+        {
+          "s": 6,
+          "t": "Sometimes, it's just a minor inconvenience. But, other times, devices like that can cause massive trouble."
+        },
+        {
+          "sit": "I know exactly what you mean."
+        },
+        {
+          "s": 6,
+          "t": "Ah, of course. I forgot how much adventuring experience you have."
+        },
+        {
+          "s": 6,
+          "t": "Still, carrying an umbrella doesn't mean you can't get soaked, so just... Be careful, and stay away from unknown devices."
+        },
+        {
+          "sit": "Thanks for the advice."
+        },
+        {
+          "s": 6,
+          "t": "No need to thank me. You and Layla are about to head into dangerous territory together. You need to be safe, so she can be safe."
+        },
+        {
+          "s": 6,
+          "t": "Well, I think that about sums it up."
+        },
+        {
+          "s": 6,
+          "t": "Ah, and just in time — your coffee's here."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}! A little help over here!"
+        },
+        {
+          "sit": "Seeing Paimon precariously try to keep her balance, you rush over to help her out."
+        }
+      ],
+      "description": "Returning to Sumeru, you and Paimon run into some old friends…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Collei",
+    "Cyrus",
+    "Tighnari",
+    "Cyno",
+    "Sethos",
+    "Layla",
+    "Djer",
+    "Thoth"
+  ],
+  "id": "q-40210"
+}

@@ -1,0 +1,749 @@
+{
+  "chapter": "Latecoming Homecoming",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Latecoming Homecoming",
+  "region": null,
+  "quests": [
+    {
+      "title": "Latecoming Homecoming",
+      "dialogue": [
+        {
+          "section": "Giulietta"
+        },
+        {
+          "s": 0,
+          "t": "Do you two happen to be heading to sea as well? If so, please, could I trouble you to bring me along to Bayda Harbor?"
+        },
+        {
+          "sit": "My Waverider's pretty small..."
+        },
+        {
+          "sit": "Sorry, but I don't intend to go out to sea right now."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I see... Oh dear, this is going to be a toughie..."
+        },
+        {
+          "s": 1,
+          "t": "Well, if it's really urgent, we could still help..."
+        },
+        {
+          "s": 0,
+          "t": "Oh! What kind souls you are! In any case, my name's Giulietta, and I sell instruments."
+        },
+        {
+          "s": 0,
+          "t": "Not long ago, I inked an order with some outlander gentlemen for a batch of materials from them. I mean, even the greatest artisan wouldn't be able to fashion an instrument from nothing!"
+        },
+        {
+          "s": 0,
+          "t": "According to the contract, the payment must be made within these two days at Bayda Harbor. But I overslept and missed the last boat..."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* It might be the nightmares I've been having lately, but I couldn't sleep well... It is my fault, of course, but right now, I need to get to Bayda Harbor."
+        },
+        {
+          "s": 0,
+          "t": "So if you'd be willing to help, I'd be immensely grateful. Three times the going rate — that's what I'll pay."
+        },
+        {
+          "s": 1,
+          "t": "Th—Three times!?"
+        },
+        {
+          "sit": "You sure are generous, huh?"
+        },
+        {
+          "s": 0,
+          "t": "Well, it's a matter of trust and reputation. This is life and death for us businesspeople."
+        },
+        {
+          "s": 1,
+          "t": "W—Well, sure seems that way..."
+        },
+        {
+          "section": "Giulietta"
+        },
+        {
+          "sit": "Well, what are you waiting for? Get onboard, sailor!"
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much, good sir(kind ma'am)!"
+        },
+        {
+          "section": "Giulietta"
+        },
+        {
+          "sit": "Hold on, I have some things to handle first..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, but do hurry. Time waits for no one..."
+        },
+        {
+          "section": "Giulietta"
+        },
+        {
+          "sit": "Alright, get onboard."
+        },
+        {
+          "s": 0,
+          "t": "In that case, let us not delay. To Bayda Harbor we go!"
+        },
+        {
+          "section": "Giulietta"
+        },
+        {
+          "sit": "You'll have to wait a while longer, I have something that needs doing."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* Alright. But do come back as soon as you can — we have an agreement, don't we?"
+        },
+        {
+          "section": "Giulietta"
+        },
+        {
+          "s": 0,
+          "t": "Ah, you're back. Glorious! We can go now, can we not?"
+        },
+        {
+          "section": "Giulietta, Giustino, Agent"
+        },
+        {
+          "s": 0,
+          "t": "Yes! We're here!"
+        },
+        {
+          "s": 0,
+          "t": "Thank you both so much! Now I can deliver the payment as promised — we can't have our outlander friends viewing us Fontainians as fickle folk who flip on their agreements."
+        },
+        {
+          "s": 0,
+          "t": "Well then, here's the payment, as promised!"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, shiny, shiny Mora. As long as there's some to be had, we can do business!"
+        },
+        {
+          "s": 1,
+          "t": "That said, {NICKNAME}, since we're here already, why don't we have a look around? Even if we were to go back to Petrichor now..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Did you two come from Petrichor by any chance?"
+        },
+        {
+          "s": 1,
+          "t": "Hey! Don't just talk to people from behind like that! You gave Paimon a fright!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, did I startle you? My apologies, truly. I simply could not contain myself upon hearing my hometown's name..."
+        },
+        {
+          "s": 1,
+          "t": "Did you really have to get this excited, though?"
+        },
+        {
+          "s": 2,
+          "t": "Well... I left home when I was young, and I haven't been back since. Ten years flew by while I did business in Sumeru. Ten years without word from home..."
+        },
+        {
+          "s": 2,
+          "t": "Well, since you've come from there, could you tell me how things have been going? ... Right, I forgot to introduce myself. Just call me Giustino."
+        },
+        {
+          "s": 1,
+          "t": "Hello there, Giustino. Paimon's name's Paimon, and this is {NICKNAME}. And you've come to the right people — we have a \"deep\" understanding of Petrichor, after all!"
+        },
+        {
+          "s": 1,
+          "t": "(Hmm, wouldn't he think we're crazy if we told him that we followed a cat and wound up disrupting an ancient plot and resolving the crisis in his hometown, though?)"
+        },
+        {
+          "sit": "(Well, those things did happen, but...)"
+        },
+        {
+          "sit": "(It would sound like pure nonsense...)"
+        },
+        {
+          "s": 1,
+          "t": "Uh, Petrichor's doing great! How great, you ask? As great as before, that's how!"
+        },
+        {
+          "s": 2,
+          "t": "Really? Just as before, then? That's good, that's good..."
+        },
+        {
+          "s": 1,
+          "t": "Speaking of which, wouldn't it be better for you to go, since you're a local, rather than rely on us outsiders?"
+        },
+        {
+          "s": 2,
+          "t": "You speak reason! I should, yes. I did not bat an eyelid when I left it all behind back then, yet now I shrink back from my desire to return."
+        },
+        {
+          "s": 2,
+          "t": "How strange. My courage fails me as I grow older..."
+        },
+        {
+          "s": 2,
+          "t": "If I hadn't found this flute in my baggage while packing..."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "When I left home, I had nothing with me but this flute. In truth, my family disapproved of my departure, and my father snuck the instrument out to me at the last minute."
+        },
+        {
+          "s": 2,
+          "t": "Haha, good times, though. Not a Mora to my name, but with the flute's melodic strains flowing free, a fire in my belly, and a dream, it was like the whole world was mine for the seizing."
+        },
+        {
+          "s": 2,
+          "t": "Later, I would make lots of friends in Sumeru, and my business would grow. *sigh* If only I could have written them a letter, but I had all but forgotten my family and home..."
+        },
+        {
+          "s": 2,
+          "t": "Ahem... Anyway, if I may make such a request, would you be willing to take me with you when you return to Petrichor?"
+        },
+        {
+          "sit": "So, you gonna pay us triple, too?"
+        },
+        {
+          "s": 2,
+          "t": "Triple!?"
+        },
+        {
+          "s": 1,
+          "t": "That's right! The lady we just ferried over had urgent business to attend to, so she paid us triple for the ride!"
+        },
+        {
+          "s": 2,
+          "t": "Well... I should have enough for that. Alright, I'll pay you triple too. \"Strike while the iron is hot,\" as they say — since I've decided to return home, any delay will be detrimental."
+        },
+        {
+          "s": 1,
+          "t": "Well, we're not exactly professional boatmen or anything... But hehe, such premiums are tough to refuse!"
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "sit": "My Waverider's a fast and steady boat. Hop onboard, and we'll be off."
+        },
+        {
+          "s": 2,
+          "t": "Thank you."
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "sit": "Could you wait for a moment?"
+        },
+        {
+          "s": 2,
+          "t": "Of course. No worries."
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "s": 2,
+          "t": "Shall we head out now?"
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "sit": "Let's go."
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "sit": "Just a while more..."
+        },
+        {
+          "s": 2,
+          "t": "Of course, no trouble at all."
+        },
+        {
+          "section": "Giustino"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Err, you don't look so good. You sure you're okay?"
+        },
+        {
+          "s": 2,
+          "t": "I... I'm just a bit seasick. Ugh... Sorry! I—I'll just throw up over there for a bit. Be right back!"
+        },
+        {
+          "s": 1,
+          "t": "Eh? Uh, sure, but don't forget to come back as soon as possible!"
+        },
+        {
+          "sit": "After a good long while..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, something's not right. Why isn't Giustino back yet?"
+        },
+        {
+          "sit": "Did he vomit till he passed out?"
+        },
+        {
+          "sit": "Uh oh, is he trying to wiggle his way out of paying?"
+        },
+        {
+          "s": 1,
+          "t": "Eh!? That serious? But you were keeping the boat pretty steady... Or maybe it's because Paimon floats..."
+        },
+        {
+          "s": 1,
+          "t": "Either way, we've gotta find him, and fast!"
+        },
+        {
+          "section": "Loredan"
+        },
+        {
+          "s": 1,
+          "t": "Hello there. Have you seen a merchant from Fontaine dressed in Sumeru garb?"
+        },
+        {
+          "s": 4,
+          "t": "Huh? A Fontainian wearing clothes from Sumeru? Sorry, I was a bit busy thinking about my composition, so I didn't notice."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, alright then... Guess we should ask elsewhere, {NICKNAME}."
+        },
+        {
+          "section": "Contarini"
+        },
+        {
+          "s": 1,
+          "t": "Hello there. Have you seen a merchant from Fontaine dressed in Sumeru garb?"
+        },
+        {
+          "s": 5,
+          "t": "I've not seen any such person. Has something happened? If there's an emergency case that requires the Special Patrol's services..."
+        },
+        {
+          "s": 1,
+          "t": "Well, it's not anything urgent, really... Anyway, we'll be looking elsewhere!"
+        },
+        {
+          "section": "Giovanni"
+        },
+        {
+          "s": 1,
+          "t": "Hello there. Have you seen a merchant from Fontaine dressed in Sumeru garb?"
+        },
+        {
+          "sit": "You explain the situation..."
+        },
+        {
+          "s": 6,
+          "t": "So this fellow you're looking for is named \"Giustino,\" and he claims to be from Petrichor?"
+        },
+        {
+          "s": 1,
+          "t": "That's right! Have you seen him? Wait — were you two acquainted from before?"
+        },
+        {
+          "s": 6,
+          "t": "Just acquainted? Hah!"
+        },
+        {
+          "s": 6,
+          "t": "Still, even if I recognize him, I wonder if he still recognizes his little brother. So many years away, and not a letter sent back. Why, I've already had a tombstone erected for him behind the town!"
+        },
+        {
+          "s": 6,
+          "t": "And now he's back... and he hasn't paid his boat fare? Disgraceful."
+        },
+        {
+          "sit": "Disgraceful indeed."
+        },
+        {
+          "sit": "We shouldn't comment too much as outsiders..."
+        },
+        {
+          "s": 1,
+          "t": "W—Wait, but we're... the victims here, aren't we? And if Giustino really did faint from discomfort somewhere..."
+        },
+        {
+          "s": 6,
+          "t": "*sigh* Fine, I'll go search together with you. I'm a local, so I know our surroundings better. Also, I have some idea as to where he'll be."
+        },
+        {
+          "section": "Agent, Giovanni, Giustino"
+        },
+        {
+          "s": 3,
+          "t": "Huh? Are you pulling my leg? \"I'm sorry, but I really don't remember\"?"
+        },
+        {
+          "s": 3,
+          "t": "Don't you know what this uniform means? Doesn't it remind you of anything?"
+        },
+        {
+          "s": 2,
+          "t": "O—Of course I know what you do, but I'm debt-free! Or I should be... unless a friend took a loan in my name..."
+        },
+        {
+          "s": 3,
+          "t": "A friend? Who cares about those excuses? I only recognize what's written here on the contract in black and white — and it's my duty to make violators pay up."
+        },
+        {
+          "s": 3,
+          "t": "This is my first job, you know! I wanted to be worthy of this uniform, so I showed up at the specified location three days in advance! Three days!"
+        },
+        {
+          "s": 3,
+          "t": "I spent them thinking about the excuses you'd make to get out of paying, and how I'd respond..."
+        },
+        {
+          "s": 3,
+          "t": "And then you just upped and ran! All that effort I put in, wasted! Now, I've no choice but to go by the book and..."
+        },
+        {
+          "s": 3,
+          "t": "Teach you a lesson first, and then bring you back to report!"
+        },
+        {
+          "s": 2,
+          "t": "No! I don't want to leave Petrichor anymore! H—Help me!"
+        },
+        {
+          "s": 6,
+          "t": "Stop it! Does any amount of money owed warrant such cruel treatment!?"
+        },
+        {
+          "s": 6,
+          "t": "Please, {NICKNAME}! Don't let him hurt Giustino! Only you can stop him now!"
+        },
+        {
+          "section": "Agent, Giustino, Giovanni"
+        },
+        {
+          "s": 3,
+          "t": "H—Hired help!? Seriously, would you rather pay through the nose for a powerful bodyguard than just follow a contract? I'll... never understand you merchants..."
+        },
+        {
+          "sit": "No, I just couldn't control myself after seeing your uniform..."
+        },
+        {
+          "sit": "Actually, I'm also here to collect a debt."
+        },
+        {
+          "s": 3,
+          "t": "...Huh!?"
+        },
+        {
+          "s": 1,
+          "t": "...But y'know, if he's in this much debt, it seems unlikely that we'll get paid at all..."
+        },
+        {
+          "s": 2,
+          "t": "No, I... still have enough for the boat fare. I counted — I should be fine on that front."
+        },
+        {
+          "s": 6,
+          "t": "Then what about the contract and debt he speaks of? Is that, perchance, the \"souvenir\" you're giving us after more than ten years?"
+        },
+        {
+          "s": 2,
+          "t": "How could you say that, Giovanni? I really don't know a thing about the contract he's talking about! *sigh* I don't know what to say to make you believe me, though."
+        },
+        {
+          "s": 3,
+          "t": "Heh. The handbook says that people will lie and do all they can to wriggle out of debt, but the contract is clearly written — don't you even try."
+        },
+        {
+          "s": 3,
+          "t": "You still owe us payment for ten crates of materials to make those blasted flutes of yours..."
+        },
+        {
+          "s": 2,
+          "t": "...Wait, what did you say? Flutes?"
+        },
+        {
+          "s": 3,
+          "t": "...Are you still sticking to the pretense even now, \"Participazia\"? ... Grr, you Fontainians sure have names that are annoying to pronounce..."
+        },
+        {
+          "s": 2,
+          "t": "Sorry... but who's that? My name is Giustino. Giustino Pasquale..."
+        },
+        {
+          "s": 3,
+          "t": "...?"
+        },
+        {
+          "s": 3,
+          "t": "O—One moment! Let me see... Giu? Ju? Pas... Giulietta Participazia, from Petrichor..."
+        },
+        {
+          "s": 3,
+          "t": "Err. This seems to be... a woman?"
+        },
+        {
+          "s": 1,
+          "t": "Uhh... Ah..."
+        },
+        {
+          "sit": "Um..."
+        },
+        {
+          "s": 3,
+          "t": "W—Wait! If you're not that woman, then why were you going on about some \"flute\" back there at Bayda Harbor?"
+        },
+        {
+          "s": 2,
+          "t": "...I was talking about... this flute?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "This is the flute my father gave me when I was about to leave home. He hoped that I would inherit the family business of instrument-making, but I..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* Forget it."
+        },
+        {
+          "s": 3,
+          "t": "Hold on. If this had nothing to do with you, then why did you run?"
+        },
+        {
+          "s": 2,
+          "t": "\"I'm sorry, but I really don't remember,\" I said that, didn't I? But you sounded so aggressive and looked so frightening. What was I going to do except run?"
+        },
+        {
+          "s": 3,
+          "t": "Well, this is my first job — one to remember! Of course I had to double my enthusiasm!"
+        },
+        {
+          "sit": "To the point that you showed up three days in advance?"
+        },
+        {
+          "sit": "Well, it looks like your career's in dire straits now..."
+        },
+        {
+          "s": 1,
+          "t": "You were way too anxious!"
+        },
+        {
+          "s": 3,
+          "t": "Ugh. Then where did that Giulietta Participazia go..."
+        },
+        {
+          "s": 1,
+          "t": "Speaking of that, the lady we ferried over first works in the instrument business... Y'know, the one who was going to be late for a business transaction? Didn't she call herself \"Giulietta\"?"
+        },
+        {
+          "s": 3,
+          "t": "What? So she's in Bayda Harbor now? I have to find her as soon as possible..."
+        },
+        {
+          "s": 1,
+          "t": "She seems to care a lot about credibility, so she probably wouldn't default..."
+        },
+        {
+          "s": 3,
+          "t": "You're going to get scammed if you hold onto such naive ideas. People lie — that's what the handbook says! Anyway, I've got to go find her, immediately!"
+        },
+        {
+          "sit": "The Agent departs..."
+        },
+        {
+          "s": 1,
+          "t": "Seriously, where does he get the cheek to lecture Paimon based on that handbook of his!? He was the one who made a mistake..."
+        },
+        {
+          "s": 6,
+          "t": "What a farce... I see you're the same as ever, Big Brother. Always sucking people into whatever trouble you get into!"
+        },
+        {
+          "s": 6,
+          "t": "I don't know whether to laugh or be angry."
+        },
+        {
+          "s": 2,
+          "t": "I'm sorry, Giovanni."
+        },
+        {
+          "s": 6,
+          "t": "And sorry for the trouble, you two, but this is no place for a chat. Let's find a spot where I can treat you to some snacks, and we'll talk."
+        },
+        {
+          "section": "Giovanni, Giustino"
+        },
+        {
+          "s": 6,
+          "t": "Our town's a small place, and our desserts and tea are all quite ordinary, so they might not look like much to you who have traveled and seen much..."
+        },
+        {
+          "s": 2,
+          "t": "Giovanni, why do you have to talk like this? My heart is made of flesh and blood, just as yours is. It, too, can be hurt."
+        },
+        {
+          "s": 6,
+          "t": "Is that so? And here I thought that the heart of one who cares so little about their family would be made of immovable stone."
+        },
+        {
+          "s": 2,
+          "t": "I..."
+        },
+        {
+          "s": 1,
+          "t": "(Well... Paimon didn't think it'd turn out like this... This is so awkward!)"
+        },
+        {
+          "sit": "Stop arguing, you're going to spoil the taste of the snacks."
+        },
+        {
+          "sit": "If I'd known, I'd have gone with that Agent..."
+        },
+        {
+          "s": 1,
+          "t": "A—Anyway, you brothers have been reunited after many years, so shouldn't you be happier about that...?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, {NICKNAME}, c'mon! Help talk some sense into 'em, would you?"
+        },
+        {
+          "sit": "I envy you. At least you've been reunited."
+        },
+        {
+          "sit": "There's no point butting into someone else's family matters."
+        },
+        {
+          "s": 1,
+          "t": "Actually, {NICKNAME}'s still searching for his(her) missing sister(brother)..."
+        },
+        {
+          "sit": "You briefly explain the reason for your journey to the two brothers..."
+        },
+        {
+          "s": 6,
+          "t": "I see... It must be hard, to have to scour the world for your family — and you're so young, too."
+        },
+        {
+          "s": 2,
+          "t": "I'm sure your sister(brother) has her(his) reasons. I don't think she's(he's) forgotten you or has intentionally broken off contact. Please, don't hate her(him) for it."
+        },
+        {
+          "sit": "Err... Thanks?"
+        },
+        {
+          "sit": "Actually, never mind my problem. You two..."
+        },
+        {
+          "s": 6,
+          "t": "Ah. *sigh* To have been guided by a youth like you... We have truly shamed ourselves as elders."
+        },
+        {
+          "s": 6,
+          "t": "We may have had our disagreements, but we are still brothers..."
+        },
+        {
+          "s": 2,
+          "t": "Thank you... Giovanni."
+        },
+        {
+          "s": 6,
+          "t": "Ah, but don't be so quick to thank me. It was you who voluntarily gave up the family business. Now, I am the legal heir to the Pasquale name, no matter how you..."
+        },
+        {
+          "s": 2,
+          "t": "It's alright, Giovanni, I know what you mean. But of all the things I've lost, I regained the most precious of them — as for the rest, I don't need them."
+        },
+        {
+          "s": 6,
+          "t": "Again, don't speak too soon. That novice debt collector wasn't talking out of his hat when he said that \"people lie\"!"
+        },
+        {
+          "s": 2,
+          "t": "In that case, let us sign a contract — write a statement in black and white! Or perhaps, if some other means suits you better..."
+        },
+        {
+          "s": 6,
+          "t": "We don't have to go that far..."
+        },
+        {
+          "s": 2,
+          "t": "Ah, it seems you're quite the same as you used to be. But I've changed. I'm not the man I was before. Let me work in your workshop."
+        },
+        {
+          "s": 2,
+          "t": "I shall be your assistant, just as you were mine when we were little."
+        },
+        {
+          "s": 6,
+          "t": "Do your best, then. I'm not going easy on you just because you're my big brother."
+        },
+        {
+          "s": 2,
+          "t": "Of course. No worries."
+        },
+        {
+          "s": 1,
+          "t": "Well, so guess the two of you have made up now, eh?"
+        },
+        {
+          "s": 2,
+          "t": "Yes. Thank you so much for your help. Why, I somehow feel as if the triple-price fare was hardly enough! It's just a shame I only have this much on me..."
+        },
+        {
+          "s": 6,
+          "t": "If you can sit yourself down and work hard in the workshop, repaying their kindness would be a simple matter."
+        },
+        {
+          "s": 2,
+          "t": "Hear that? Giovanni's going to take good care of me. If we should have the chance to meet again, I'll treat you two!"
+        }
+      ],
+      "description": "Giustino has made up his mind to return to his hometown, Petrichor…"
+    }
+  ],
+  "speakers": [
+    "Giulietta",
+    "Paimon",
+    "Giustino",
+    "Agent",
+    "Loredan",
+    "Contarini",
+    "Giovanni"
+  ],
+  "id": "q-74216"
+}

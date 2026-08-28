@@ -1,0 +1,743 @@
+{
+  "chapter": "The Very Special Fortune Slip",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Where the Dandelions Find Rest",
+  "region": null,
+  "quests": [
+    {
+      "title": "Where the Dandelions Find Rest",
+      "dialogue": [
+        {
+          "section": "Paimon, Knock Once"
+        },
+        {
+          "s": 0,
+          "t": "Momoyo! Momoyo! Where are yooou?"
+        },
+        {
+          "s": 0,
+          "t": "Oh no, this place has been trashed by the Fatui. Momoyo's stuff... and the materials... They're all gone!"
+        },
+        {
+          "sit": "Looks like this safehouse isn't safe anymore."
+        },
+        {
+          "s": 0,
+          "t": "But what's happened to Momoyo? Was she... captured by the Fatui!?"
+        },
+        {
+          "s": 0,
+          "t": "Actually, wait a moment. There's been this weird smell ever since we entered the safehouse. There's something in the air here..."
+        },
+        {
+          "sit": "There's powder on the ground."
+        },
+        {
+          "s": 0,
+          "t": "Powder? Is that the elemental powder we used the last time? C'mon, {NICKNAME}, use your Elemental Sight, quick! This has to be a message that Momoyo left for us in her time of need!"
+        },
+        {
+          "section": "Momoyo, Paimon, Knock Once"
+        },
+        {
+          "s": 1,
+          "t": "*cough* I've said this before. I've got nothing to say to you pieces of garbage. If you're going to finish me, do it soon!"
+        },
+        {
+          "s": 0,
+          "t": "Momoyo!"
+        },
+        {
+          "sit": "We're here to save you."
+        },
+        {
+          "s": 1,
+          "t": "Paimon and {NICKNAME}? Hah. To think that you'd find this place, huh?"
+        },
+        {
+          "s": 0,
+          "t": "Come on, quit talking tough. Since you left the elemental powder behind, you must've believed that we come to rescue you!"
+        },
+        {
+          "s": 1,
+          "t": "Hmph. Then what would you like me to do? Praise your skills?"
+        },
+        {
+          "s": 0,
+          "t": "Hehehe. That can wait till later. Let's get you out of here first. Come on, let's go get that door!"
+        },
+        {
+          "s": 1,
+          "t": "The door's locked. The key should be with their superior."
+        },
+        {
+          "s": 1,
+          "t": "They seem to have been notified of something halfway through the interrogation, since they left in a hurry."
+        },
+        {
+          "s": 1,
+          "t": "They should be plotting in secret in the room on the highest floor."
+        },
+        {
+          "s": 1,
+          "t": "It's likely that they have locked the door from the other side while this is happening. You'll need special magatama to unlock it."
+        },
+        {
+          "sit": "Got it."
+        },
+        {
+          "s": 1,
+          "t": "Alright. Thank you."
+        },
+        {
+          "section": "Momoyo, Knock Once"
+        },
+        {
+          "s": 1,
+          "t": "Well? Found the key yet?"
+        },
+        {
+          "section": "Momoyo, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, Paimon, you're back."
+        },
+        {
+          "s": 0,
+          "t": "Momoyo, are you okay... *gasp* You're hurt all over!"
+        },
+        {
+          "s": 1,
+          "t": "Quit your yelling. It's not that bad... Would you mind supporting me, {NICKNAME}?"
+        },
+        {
+          "s": 0,
+          "t": "Come on, you can't even walk by yourself. You're not okay at all! Wait a moment. Why aren't you looking at us? What happened to your eyes?"
+        },
+        {
+          "s": 1,
+          "t": "Heh. When I was going for the elemental powder box, some Fatui shot the box and broke it. Some of the stuff got into my eyes."
+        },
+        {
+          "s": 0,
+          "t": "Didn't you say the elemental powder was poisonous?"
+        },
+        {
+          "s": 1,
+          "t": "You're way too noisy. I doubt I'm going to lose both eyes. It's just that this place is too dark for me to see anything. Let's get outside first."
+        },
+        {
+          "section": "Momoyo, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Phew. That was one musty cell. Guess I can finally breathe easy."
+        },
+        {
+          "s": 0,
+          "t": "Momoyo! What happened to your eyes!?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, relax. This one's fine now."
+        },
+        {
+          "sit": "But your other eye..."
+        },
+        {
+          "s": 1,
+          "t": "Bah. What's with those sad faces?"
+        },
+        {
+          "s": 1,
+          "t": "Be glad! We fooled them all and even exposed their base, all for the cost of only one eye. This is a worthy trade!"
+        },
+        {
+          "s": 1,
+          "t": "Hehehe, that Teacher was completely taken in by my handiwork. That Fatui girl you're trying to save will never have to live in fear again."
+        },
+        {
+          "s": 0,
+          "t": "So... You mean you didn't flee from the safehouse because you wanted them to believe that Lyudochka was dead?"
+        },
+        {
+          "s": 1,
+          "t": "We had an agreement. And anyway, it would be a waste of all our previous effort if we were to be exposed at this juncture."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I expected that you would come to rescue me."
+        },
+        {
+          "s": 1,
+          "t": "Well, this capture of mine was quite sudden, and we have an upcoming mission in Watatsumi Island, so there's no time for a written report."
+        },
+        {
+          "s": 1,
+          "t": "I'll just have to go to the Grand Narukami Shrine and get someone to pass a message to the Shuumatsuban."
+        },
+        {
+          "s": 1,
+          "t": "As for you, go tell Lyudochka that she's safe now."
+        },
+        {
+          "s": 0,
+          "t": "Alright, we'll do just that!"
+        },
+        {
+          "section": "Paimon, Knock Once"
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka, we're back! We've done it! You're safe now!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka?"
+        },
+        {
+          "sit": "She's not in."
+        },
+        {
+          "s": 0,
+          "t": "That's weird. Where did she go? Let's ask the Yae Publishing House employees. They might know a thing or two."
+        },
+        {
+          "section": "Aratani"
+        },
+        {
+          "s": 2,
+          "t": "Is there anything I can help you with?"
+        },
+        {
+          "s": 0,
+          "t": "Hey there. We'd like to ask after someone. Do you know where the lady who's been doing proofreading these few days has gone? We're friends of hers."
+        },
+        {
+          "s": 2,
+          "t": "Oh, you must be {NICKNAME} and Paimon. Ms. Touyama said that you'd come looking for her."
+        },
+        {
+          "s": 0,
+          "t": "(Ms. Touyama?)"
+        },
+        {
+          "sit": "(That should be Lyudochka's pseudonym.)"
+        },
+        {
+          "s": 2,
+          "t": "She told me yesterday that she won't be able to continue working here due to a family emergency."
+        },
+        {
+          "s": 2,
+          "t": "What a shame! A dexterous and diligent proofreader is hard to find. I was actually going to ask her to go full time with us, in fact."
+        },
+        {
+          "s": 2,
+          "t": "Right. Here's something that she wanted to pass to you before she left."
+        },
+        {
+          "s": 0,
+          "t": "She left us a letter!"
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka says... she's leaving. And she's left a sum of Mora for us and Momoyo."
+        },
+        {
+          "s": 0,
+          "t": "Is that really okay, though? Let's... Let's go ask Momoyo."
+        },
+        {
+          "section": "Momoyo, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Huh, you're back. How did it go? I suppose that Fatui girl can be at ease now, hmm?"
+        },
+        {
+          "sit": "You tell Momoyo about the letter and Mora Lyudochka left behind."
+        },
+        {
+          "s": 1,
+          "t": "What? She's leaving?"
+        },
+        {
+          "s": 0,
+          "t": "Seems like it..."
+        },
+        {
+          "s": 1,
+          "t": "Pfft. Seriously? \"Ms. Momoyo lost an eye on my account\"? Nonsense. It's not like she blinded me personally or anything."
+        },
+        {
+          "s": 1,
+          "t": "The injury was an occupational hazard, you know? If anyone should be compensating me, it should be the Shuumatsuban."
+        },
+        {
+          "s": 1,
+          "t": "Whatever the case, I don't need her Mora. You can do whatever you want with it."
+        },
+        {
+          "s": 0,
+          "t": "Well, you say that, but honestly, even Paimon isn't sure if we should..."
+        },
+        {
+          "sit": "Paimon, struggling about Mora? Say it isn't so!"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Paimon isn't that Mora-faced!"
+        },
+        {
+          "s": 0,
+          "t": "But where's she going to go after leaving Inazuma? Can she really find a new life and happiness?"
+        },
+        {
+          "s": 1,
+          "t": "Huh, that reminds me. I don't think I can go back to doing shrine maiden work looking like this."
+        },
+        {
+          "s": 1,
+          "t": "The Lady Guuji told me earlier that she thought our impostor was pretty suited for the job."
+        },
+        {
+          "s": 1,
+          "t": "Heh. I'd hate to think about what she would do to you if she finds out that you've chased her shrine maiden candidate away."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Wait a moment, why is that our fault?"
+        },
+        {
+          "s": 1,
+          "t": "Are you saying it isn't? You didn't stop her, and now she's about to flee Inazuma."
+        },
+        {
+          "s": 0,
+          "t": "Ah! Paimon's got it!"
+        },
+        {
+          "sit": "Thank you, Momoyo!"
+        },
+        {
+          "s": 1,
+          "t": "She'll probably be looking for a way to get out through Ritou. Best to look for her there."
+        },
+        {
+          "s": 1,
+          "t": "When you bring her back, tell her she can keep using the name \"Gendou Ringo\" — if she's willing to take it up, of course."
+        },
+        {
+          "s": 1,
+          "t": "I gave it to myself on a whim, but turns out that it fits her decently well, don't you think?"
+        },
+        {
+          "s": 1,
+          "t": "Hurry up and get going. I'm leaving her to you."
+        },
+        {
+          "s": 0,
+          "t": "Alright, {NICKNAME}, to Ritou's harbor it is! We've gotta get Ms. Lyudochka back!"
+        },
+        {
+          "section": "Paimon, Gendou Ringo"
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka! We finally found you!"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, Paimon... Why are you two here?"
+        },
+        {
+          "sit": "We're here to ask you to turn back."
+        },
+        {
+          "s": 0,
+          "t": "That's right! Momoyo doesn't need your Mora, and neither do we! Just use it to make a new life for yourself here in Inazuma!"
+        },
+        {
+          "s": 3,
+          "t": "What... What are you saying..."
+        },
+        {
+          "s": 3,
+          "t": "I was a Fatui, you know? We threatened Inazuma's safety! And I caused you all so much trouble. I don't deserve to stay here, not after all that."
+        },
+        {
+          "s": 3,
+          "t": "And even if you'd like me to stay... Does anyone else?"
+        },
+        {
+          "s": 3,
+          "t": "Is there really anyone who needs me here?"
+        },
+        {
+          "s": 0,
+          "t": "That's not how it is at all! There are other people who'd like you to stay! Like... Like..."
+        },
+        {
+          "sit": "Momoyo."
+        },
+        {
+          "s": 0,
+          "t": "That's right! We were only able to find you because of her instructions!"
+        },
+        {
+          "s": 0,
+          "t": "Momoyo said that it wasn't your fault that she lost an eye. It's an occupational hazard and the Shuumatsuban should be paying the cost instead!"
+        },
+        {
+          "sit": "The \"occupational hazard\" bit seems unnecessary..."
+        },
+        {
+          "s": 0,
+          "t": "Eh? But why? That's what Momoyo said, and it's pretty convincing!"
+        },
+        {
+          "s": 3,
+          "t": "But... But..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, do you need more evidence that people would like to have you back? Don't worry, there are others, like..."
+        },
+        {
+          "sit": "Ms. Aratani."
+        },
+        {
+          "s": 0,
+          "t": "Exactly, exactly! Ms. Aratani said that you're \"dexterous and diligent.\" She even said that she'd like you to become a full-time employee at Yae Publishing House!"
+        },
+        {
+          "s": 0,
+          "t": "Although Paimon personally thinks that you shouldn't take up a job at Yae Publishing House — unless you want some super deep eyebags!"
+        },
+        {
+          "sit": "Did you really have to say that, Paimon?"
+        },
+        {
+          "s": 0,
+          "t": "Why not! Ms. Lyudochka's gonna have to pick her occupation carefully if she stays. Our suggestions are super important!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon thinks that being a shrine maiden would be best for you."
+        },
+        {
+          "s": 3,
+          "t": "But that's not a place where someone like me can just go to whenever she wants..."
+        },
+        {
+          "s": 0,
+          "t": "No need to worry about that! You've got a super big shot vouching for you!"
+        },
+        {
+          "sit": "Guuji Yae."
+        },
+        {
+          "s": 0,
+          "t": "She knew that you were an impostor the whole time, but she also thinks that you'd be suited to working at the shrine!"
+        },
+        {
+          "s": 0,
+          "t": "Also, Momoyo can't go back to work there, so if Guuji Yae finds out that you're not coming back either... {NICKNAME} and Paimon are doomed for sure!"
+        },
+        {
+          "sit": "That sounds like a threat..."
+        },
+        {
+          "s": 0,
+          "t": "No it's not! Paimon's just employing both emotion and reason, that's all!"
+        },
+        {
+          "s": 0,
+          "t": "And aren't you even the least bit worried that Miko is really gonna put us through the wringer?"
+        },
+        {
+          "s": 3,
+          "t": "Heh..."
+        },
+        {
+          "s": 0,
+          "t": "You finally smiled! Does that mean you're not leaving anymore?"
+        },
+        {
+          "s": 3,
+          "t": "Paimon, {NICKNAME}, thank you both so much. And the people who accepted me... They have my thanks as well."
+        },
+        {
+          "s": 3,
+          "t": "But... I've been trained in spycraft since I was young. Before coming to Inazuma, I had never once experienced an ordinary life."
+        },
+        {
+          "s": 3,
+          "t": "As a \"Snezhevna,\" I still do not know where I truly belong."
+        },
+        {
+          "s": 3,
+          "t": "And I do not know if someone as steeped in darkness as myself has the right to return to walk in the light..."
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka..."
+        },
+        {
+          "s": 3,
+          "t": "So perhaps leaving Inazuma and exploring the various regions of Teyvat might actually be good for me, you know?"
+        },
+        {
+          "s": 3,
+          "t": "At the very least, I'd have the chance to think about the sort of person I'd really hope to become."
+        },
+        {
+          "s": 0,
+          "t": "But you love Inazuma so much! Won't you have regrets if you just leave like this?"
+        },
+        {
+          "s": 3,
+          "t": "Yes, I will miss this place... But there's no other option, is there?"
+        },
+        {
+          "s": 0,
+          "t": "How could this be? Ms. Lyudochka was starting to waver back there, but she just doesn't wanna admit it!"
+        },
+        {
+          "s": 0,
+          "t": "Looks like convincing her to stay is gonna be hard no matter what we say."
+        },
+        {
+          "sit": "We could still take the opposite approach."
+        },
+        {
+          "s": 0,
+          "t": "Huh? What do you mean?"
+        },
+        {
+          "sit": "Let's drop her guard first."
+        },
+        {
+          "sit": "Then make her face her own heart's desire head-on."
+        },
+        {
+          "s": 0,
+          "t": "Ooh. That's true. It's not that she doesn't have dreams, but she doesn't dare to face herself because she's worried that she doesn't deserve to be happy."
+        },
+        {
+          "s": 0,
+          "t": "Oh, oh! Paimon knows! We've got something with us that can help!"
+        },
+        {
+          "s": 0,
+          "t": "We'll convince her for sure this time!"
+        },
+        {
+          "section": "Momoyo"
+        },
+        {
+          "s": 1,
+          "t": "What? Was there anything else?"
+        },
+        {
+          "sit": "Your eye..."
+        },
+        {
+          "sit": "What do you plan to do after this?"
+        },
+        {
+          "sit": "Who did you contact afterward?"
+        },
+        {
+          "sit": "See you."
+        },
+        {
+          "s": 1,
+          "t": "It's fine, it won't impede my mobility. I might even be able to infiltrate a pirate crew at some point in the future. That would be interesting for sure."
+        },
+        {
+          "section": "Gendou Ringo"
+        },
+        {
+          "s": 3,
+          "t": "I know you have good intentions... But I've already decided to do this."
+        },
+        {
+          "sit": "You misunderstand us."
+        },
+        {
+          "s": 0,
+          "t": "That's right, we're not going to convince you anymore. But since you're leaving Inazuma, we thought that we should at least give you something before we part ways — y'know, for good fortune!"
+        },
+        {
+          "s": 3,
+          "t": "Huh? What is it, then?"
+        },
+        {
+          "section": "Gendou Ringo"
+        },
+        {
+          "s": 3,
+          "t": "This is... a Fortune Slip from the Grand Narukami Shrine?"
+        },
+        {
+          "s": 0,
+          "t": "That's right! We got this the day we used the fake Bamboo Slip to tail you."
+        },
+        {
+          "s": 0,
+          "t": "The Bamboo Slip may have been fake, sure, but it was the key to us being able to truly understand you."
+        },
+        {
+          "s": 0,
+          "t": "You were the one who told us that we were good people, and that the fortune would definitely be accurate as a result."
+        },
+        {
+          "s": 0,
+          "t": "You're a good person too, Lyudochka. So we're sure that good fortune will go with you as well!"
+        },
+        {
+          "sit": "We hope that it'll help you remember the times you spent in Inazuma."
+        },
+        {
+          "s": 0,
+          "t": "May you do as the Fortune Slip says: \"Fly, drift, across the seas, to lands far away...\""
+        },
+        {
+          "sit": "\"But one day, you will no longer drift.\""
+        },
+        {
+          "sit": "\"One day, you will become what you hope to be.\""
+        },
+        {
+          "s": 3,
+          "t": "\"One day, you will become what you hope to be...\""
+        },
+        {
+          "s": 3,
+          "t": "What I... Hope to be..."
+        },
+        {
+          "s": 0,
+          "t": "Ms. Lyudochka. You say that your life has no direction, but that's not true. You're just being tied down by your past."
+        },
+        {
+          "s": 0,
+          "t": "In fact, you already knew what sort of person you'd like to become!"
+        },
+        {
+          "s": 3,
+          "t": "I... already knew?"
+        },
+        {
+          "s": 0,
+          "t": "Yup!"
+        },
+        {
+          "sit": "The shrine maiden uniform you're wearing—"
+        },
+        {
+          "sit": "Is your answer!"
+        },
+        {
+          "s": 3,
+          "t": "I—!"
+        },
+        {
+          "s": 3,
+          "t": "I... *sobs*"
+        },
+        {
+          "s": 3,
+          "t": "*sobs* I—It's true. You're right! I always... I always wanted to become a real shrine maiden!"
+        },
+        {
+          "s": 3,
+          "t": "Every day, whenever people would get their Bamboo Slips from the Fortune Slip Box, whenever they would earnestly share their troubles with me, I would feel guilty about being a fraud."
+        },
+        {
+          "s": 3,
+          "t": "I really wished that I could bring them joy!"
+        },
+        {
+          "s": 3,
+          "t": "*sobs* {NICKNAME}, Paimon... Can my wish really come true?"
+        },
+        {
+          "s": 3,
+          "t": "Can I really stay? Can I really become that person?"
+        },
+        {
+          "sit": "Of course you can."
+        },
+        {
+          "sit": "You'll become that person, alright."
+        },
+        {
+          "s": 0,
+          "t": "Momoyo says that you can continue using the name \"Gendou Ringo\" — if you're willing to, of course."
+        },
+        {
+          "s": 0,
+          "t": "You'll never have to be tied down by the name Lyudochka ever again!"
+        },
+        {
+          "s": 3,
+          "t": "*sniff* Thank you... Thank you all..."
+        },
+        {
+          "s": 3,
+          "t": "I will take up this name. I will become the real \"Gendou Ringo.\""
+        },
+        {
+          "sit": "Lyudochka takes a moment to calm down.<br/>Afterward, you return the Mora she sent back to her."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* Sorry for the trouble, you two. It must have been hard to convince me to stay."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, all's well that ends well, right? Are you feeling better now?"
+        },
+        {
+          "s": 3,
+          "t": "I am. I'm sure of what I feel now. I want to stay here in Inazuma, at the Grand Narukami Shrine."
+        },
+        {
+          "s": 3,
+          "t": "Since I've taken the Mora back, please, take this Fortune Slip. May my blessing go with you."
+        },
+        {
+          "s": 3,
+          "t": "I'll return to the shrine now. Hopefully, I can thank Ms. Momoyo in person. I must also thank Lady Yae for taking me in..."
+        },
+        {
+          "s": 3,
+          "t": "See you, {NICKNAME}, Paimon. Let's meet again at the Grand Narukami Shrine."
+        },
+        {
+          "sit": "See you, Lyudochka."
+        },
+        {
+          "s": 3,
+          "t": "Hehe. Next time we meet, just call me \"Gendou Ringo.\""
+        }
+      ]
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Momoyo",
+    "Aratani",
+    "Gendou Ringo"
+  ],
+  "id": "q-72266"
+}

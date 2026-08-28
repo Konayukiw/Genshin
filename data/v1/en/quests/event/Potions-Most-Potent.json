@@ -1,0 +1,367 @@
+{
+  "chapter": "Alchemy and Business Operations: I",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Potions Most Potent",
+  "region": null,
+  "quests": [
+    {
+      "title": "Potions Most Potent",
+      "dialogue": [
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Oh, it's you, cutie! To what do I owe the honor of your visit?"
+        },
+        {
+          "s": 0,
+          "t": "Are you here to peruse the library? Or, perhaps you're here to visit a certain someone..."
+        },
+        {
+          "sit": "We're here to see you, of course."
+        },
+        {
+          "sit": "We were just passing through..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, as considerate as ever, I see."
+        },
+        {
+          "s": 0,
+          "t": "Alas, what rotten luck... You just so happen to have caught me in the middle of some important work. I'll have to treat you to afternoon tea some other time."
+        },
+        {
+          "s": 1,
+          "t": "Wait, you're actually busy... with work? That's not a sight you see every day..."
+        },
+        {
+          "s": 0,
+          "t": "Haha, you're right. The last time I was this consumed with research must have been way back at the Akademiya."
+        },
+        {
+          "s": 0,
+          "t": "I haven't done this much thinking for a long time. It's rather exhausting."
+        },
+        {
+          "sit": "Are you writing a thesis?"
+        },
+        {
+          "sit": "Are you working on a research project?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, if you're that interested, why don't you join in on the fun?"
+        },
+        {
+          "s": 0,
+          "t": "What do you say? Want to help me relive my days as a scholar?"
+        },
+        {
+          "s": 1,
+          "t": "It's not polite to pawn off your work on other people, you know!"
+        },
+        {
+          "s": 0,
+          "t": "Is that a no then, {NICKNAME}? It would be quite the rare opportunity to work together... And you would, of course, be generously rewarded. But, if you don't want to..."
+        },
+        {
+          "sit": "I'm all ears."
+        },
+        {
+          "sit": "Let's hear the details first."
+        },
+        {
+          "s": 0,
+          "t": "As you probably know, the Knights of Favonius have long conducted research on alchemy."
+        },
+        {
+          "s": 0,
+          "t": "But, most of that research has been carried out in a laboratory setting. The public's knowledge of alchemy is quite minimal."
+        },
+        {
+          "s": 0,
+          "t": "Which means that up to this point, most of our research and discoveries have remained quite distant from people's daily lives. We've put a lot of Mora into the research, but have very little to show for our efforts."
+        },
+        {
+          "s": 0,
+          "t": "Noting this disconnect, Jean decided to start an initiative where we'd share the fruits of our labor with the people. For now, that means introducing them to several different kinds of alchemical potions."
+        },
+        {
+          "s": 0,
+          "t": "As it happens, I already have some experience with this work. Even though I usually work at the library, I have lent my support in the past to the management of the Knights' potion supply."
+        },
+        {
+          "s": 0,
+          "t": "Potioneering was also one of my academic specializations back in the day, so Jean thought I was the best person for the job."
+        },
+        {
+          "s": 0,
+          "t": "But, to create potions practical enough to support the daily needs of the people, a lot of adjustments had to be made to the ingredients we use, and the overall alchemical process also needed to be simplified..."
+        },
+        {
+          "s": 0,
+          "t": "All in all, what started as a relatively simple research project soon evolved into something exceedingly complicated."
+        },
+        {
+          "s": 1,
+          "t": "So, are you asking us to help you with your research? 'Cause, uh, you're not exactly talking to two alchemy experts over here..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, no worries. I've already thought of the perfect job for you two."
+        },
+        {
+          "s": 0,
+          "t": "Alchemical practices are becoming more and more advanced, but there's still a disconnect between our research and the general public. What we really need is to collect feedback from the people. Otherwise, we won't truly know if we're satisfying their needs."
+        },
+        {
+          "s": 0,
+          "t": "But, if we want to conduct research and collect feedback at the same time, we need to go about things in a more efficient way."
+        },
+        {
+          "s": 0,
+          "t": "So, I thought the best way to do that would be to open up a potion shop! That way, we could continue to handle the alchemy side of things while also being able to interface with the public and understand their needs."
+        },
+        {
+          "s": 1,
+          "t": "Oh! It's like killing two pigeons with one stone! Smart idea, Lisa!"
+        },
+        {
+          "s": 0,
+          "t": "Well, of course! And who better to take on this job than one of the most accomplished among our ranks... {NICKNAME}."
+        },
+        {
+          "s": 0,
+          "t": "When I was at the Akademiya, students would often help out with each other's research projects."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure my cuties wouldn't want to miss out on the opportunity to experience that sort of youthful enthusiasm for themselves."
+        },
+        {
+          "s": 1,
+          "t": "Yeah... You make it sound nice and all, but Paimon still thinks you're just looking for a way to pawn off your work..."
+        },
+        {
+          "sit": "We can just think of it as a favor for Lisa."
+        },
+        {
+          "sit": "I'm always down for a bit of a challenge."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, I knew I could count on you!"
+        },
+        {
+          "s": 0,
+          "t": "When all our work is done, I will personally see to it that you're generously rewarded."
+        },
+        {
+          "s": 0,
+          "t": "All of the initial preparations have been made, so let's head to the shop. We'll finish our discussion after we get there."
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "This is the shop."
+        },
+        {
+          "s": 1,
+          "t": "Wow! Looks like you've made a lot of preparations already! Did you do all this by yourself?"
+        },
+        {
+          "s": 0,
+          "t": "It was a group effort. A whole bunch of knights helped out."
+        },
+        {
+          "s": 0,
+          "t": "Jean secured the initial funds to open the shop. Albedo and Sucrose provided the ingredients and equipment needed to brew the potions."
+        },
+        {
+          "s": 0,
+          "t": "And the Logistics Company is handling the provision of all future supplies."
+        },
+        {
+          "s": 0,
+          "t": "Now with your help, it's like an additional weight has been lifted off my shoulders."
+        },
+        {
+          "s": 0,
+          "t": "The Knights have been busy spreading the word about our shop over the past few days. So, we should be ready to open once we've finished our final preparations."
+        },
+        {
+          "s": 0,
+          "t": "Okay, let's not keep everyone waiting, then. Why don't you take these ingredients and try your hand at brewing a potion?"
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "All you need to do is add the ingredients into the cauldron, follow the steps provided, and you're good to go."
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Why don't you put your potion on that shelf over there?"
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Oh, you're finished already? Guess it's time to start advertising the grand opening of our shop! I'll tell the knights to start putting up the announcements right away."
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Ooh, seems like everything is going well. You've already sold your first batch of potions. Not a bad start at all."
+        },
+        {
+          "s": 0,
+          "t": "As for what potions you should brew next, we'll need to consult the news from the market."
+        },
+        {
+          "s": 0,
+          "t": "That means staying up to date on the latest news and trends to try and anticipate people's needs. It's an essential skill when it comes to business."
+        },
+        {
+          "s": 1,
+          "t": "Uh, that sounds kinda hard..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe... Don't worry. I already took it upon myself to compile all the latest news on the market for you."
+        },
+        {
+          "s": 0,
+          "t": "What do you think? Have any ideas on the kinds of potions you should sell next?"
+        },
+        {
+          "s": 0,
+          "t": "Go ahead and try to cultivate some herbs then. Bio-alchemical processing can infuse herbs with different effects and properties."
+        },
+        {
+          "s": 0,
+          "t": "Using different herbs in the brewing process will, in turn, alter the effects of the potion. There's a whole bunch of combinations to try."
+        },
+        {
+          "s": 0,
+          "t": "Alright cutie, why don't you get started?"
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Go ahead and try to cultivate some herbs."
+        },
+        {
+          "section": "Lisa"
+        },
+        {
+          "s": 0,
+          "t": "Seems like you've gotten the hang of the cultivation side of things."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I should probably mention, a knight from the Logistics Company has arrived. She'll be the one handling the provision of all future supplies. You should go have a chat with her in a little bit."
+        },
+        {
+          "s": 0,
+          "t": "And after that, it'll be your time to shine!"
+        },
+        {
+          "sit": "Wait, what about you?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah! Shouldn't it be our time to shine? Y'know, the three of us? What about your role in all this?"
+        },
+        {
+          "s": 0,
+          "t": "My role? Naturally, it was to ensure my cuties had all the business and alchemy knowledge they needed to succeed!"
+        },
+        {
+          "s": 0,
+          "t": "Okay, I'll be rooting for you! Good luck!"
+        },
+        {
+          "s": 1,
+          "t": "Paimon knew this would happen..."
+        },
+        {
+          "section": "Freda"
+        },
+        {
+          "s": 2,
+          "t": "Greetings, Honorary Knight! Greetings, Paimon! My name is Freda. I'm a knight from the Logistics Company. It's such an honor to meet the famous {NICKNAME} and his(her) loyal attendant!"
+        },
+        {
+          "s": 1,
+          "t": "Wow, Paimon's fame is really spreading across the land, hehe! One small correction though. Paimon's his(her) companion, not his(her) attendant!"
+        },
+        {
+          "s": 2,
+          "t": "Ah, my apologies. I guess I got a bit carried away after hearing all about your exploits. It's just like something out of a novel!"
+        },
+        {
+          "s": 2,
+          "t": "You're practically legends at this point. I'm a bit jealous, actually..."
+        },
+        {
+          "s": 2,
+          "t": "I'd love to wander the land in search of adventure like one of those knights you read about in stories! Seems like a really fun life."
+        },
+        {
+          "sit": "Maybe you'll get the chance one day!"
+        },
+        {
+          "sit": "It's not actually all fun and games."
+        },
+        {
+          "s": 2,
+          "t": "Yeah! That's what I'm hoping, at least!"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, we've got some prep work to wrap up, right?"
+        },
+        {
+          "s": 2,
+          "t": "My orders from the Acting Grand Master are to support your business in any way I can."
+        },
+        {
+          "s": 2,
+          "t": "If there's anything you need, just let me know!"
+        },
+        {
+          "sit": "Purchase supplies..."
+        },
+        {
+          "sit": "Goodbye."
+        },
+        {
+          "s": 2,
+          "t": "You're in luck! I just got a new batch of provisions! Please take a look and see if anything catches your eye!"
+        }
+      ],
+      "description": "Lisa seems to be busy with something… for once."
+    }
+  ],
+  "speakers": [
+    "Lisa",
+    "Paimon",
+    "Freda"
+  ],
+  "id": "q-40144"
+}

@@ -1,0 +1,2205 @@
+{
+  "chapter": "Chapter II",
+  "chapter_title": null,
+  "act": "Act IV",
+  "act_title": "Requiem of the Echoing Depths",
+  "region": "Traveler",
+  "quests": [
+    {
+      "title": "In the Depths, an Unexpected Reunion",
+      "dialogue": [
+        {
+          "section": "Katheryne"
+        },
+        {
+          "s": 0,
+          "t": "Ah, Traveler. Right on cue, hehe."
+        },
+        {
+          "s": 1,
+          "t": "Hey Katheryne! Got any new commissions for us today? Also... how come you look so happy to see us? What have you done!?"
+        },
+        {
+          "s": 0,
+          "t": "I went to the shrine to draw a fortune slip earlier. The shrine maiden told me that \"it is the season for an unexpected reunion.\""
+        },
+        {
+          "s": 1,
+          "t": "Katheryne? Drawing fortune slips at the shrine? ...Is it just Paimon, or is that the most unusual thing ever!?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, no, that's not the unusual part — we're in Liyue! You went to Inazuma and back in a single day!?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, even I have a private life, you know."
+        },
+        {
+          "s": 1,
+          "t": "Okay, so when you say \"unexpected reunion,\" you mean running into us, right?"
+        },
+        {
+          "s": 0,
+          "t": "Who can say? But the anticipation of knowing that an unexpected reunion is due is making me happy to see everyone I cross paths with today."
+        },
+        {
+          "s": 1,
+          "t": "Fair enough, even though we see each other pretty much every day... Whatever makes you happy."
+        },
+        {
+          "sit": "An unexpected reunion..."
+        },
+        {
+          "sit": "Perhaps..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, are you saying... Ohh, Paimon gets it, {NICKNAME}. Well, let's just hope the shrine maiden was right..."
+        },
+        {
+          "s": 1,
+          "t": "Fingers crossed we find him(her)."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry... Did I say something I shouldn't have? You both seem a little down."
+        },
+        {
+          "s": 1,
+          "t": "Oh, it's nothing. Anyway, back to business. Do you have a new commission you want to give to us?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, as a matter of fact, I do. This one is from a miner. It seems to be related to investigating The Chasm."
+        },
+        {
+          "s": 1,
+          "t": "Really? Does this mean The Chasm's not sealed off anymore?"
+        },
+        {
+          "s": 0,
+          "t": "I will leave the requester to fill you in on all the relevant details. His name is Yuehui, and he should be at The Chasm right now."
+        },
+        {
+          "s": 1,
+          "t": "Alright then, thanks Katheryne! We'll head there right away."
+        },
+        {
+          "s": 0,
+          "t": "Very well. Ad astra... abyssosque. Hmm, this time you are truly bound for the abyss. Good luck to you both."
+        },
+        {
+          "section": "Yuehui"
+        },
+        {
+          "s": 1,
+          "t": "Hi there! You must be \"Yuehui,\" right? We've been sent by the Adventurers' Guild."
+        },
+        {
+          "s": 2,
+          "t": "Ah, great, good to meet you. Yes, I was the one who posted that commission."
+        },
+        {
+          "s": 2,
+          "t": "Wait a second... You look kind of familiar. Are you a famous adventurer, or something?"
+        },
+        {
+          "sit": "It's complicated."
+        },
+        {
+          "sit": "Never mind that. Let's focus on the task at hand."
+        },
+        {
+          "s": 2,
+          "t": "Oh, uh, alright then. I'll start by introducing myself. I'm Yuehui, a miner, and I received a Mining Permit for The Chasm just recently. I have a handful of other guys in my crew."
+        },
+        {
+          "s": 1,
+          "t": "Seriously? They actually give permits out for The Chasm?"
+        },
+        {
+          "s": 2,
+          "t": "Yes, the folks over at Yujing Terrace finally came to their senses and are now allowing a limited amount of ore mining near the surface. We were among the first to gain approval."
+        },
+        {
+          "s": 2,
+          "t": "But some things have happened recently that put all the miners on edge."
+        },
+        {
+          "s": 1,
+          "t": "Really? What happened? We haven't heard anything."
+        },
+        {
+          "s": 2,
+          "t": "So... it's hard to say exactly how big of an issue it is. Could be something, could be nothing. The main thing is that it's just very... strange."
+        },
+        {
+          "s": 2,
+          "t": "While one of the miners was on a break, he suddenly noticed a few hilichurls walking his way. They seemed like they were in a daze or something."
+        },
+        {
+          "s": 2,
+          "t": "They walked right by him without giving him a single glance. They just made a beeline for the depths of The Chasm."
+        },
+        {
+          "s": 2,
+          "t": "After that, the miner started observing his surroundings more closely, and noticed the same thing happening time and time again."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... are the hilichurls just curious? Maybe they just wanna take a peek inside..."
+        },
+        {
+          "s": 2,
+          "t": "Not likely. The strange part is that in all the time this miner has been watching the hilichurls..."
+        },
+        {
+          "s": 2,
+          "t": "...he's never seen any of them come back out."
+        },
+        {
+          "s": 2,
+          "t": "It seems to be a one-way trip. Once the hilichurls go in, they never emerge again."
+        },
+        {
+          "s": 2,
+          "t": "And it seems to be happening more and more frequently as of late."
+        },
+        {
+          "s": 2,
+          "t": "\"What are these hilichurls up to?\" \"What happens to them after they go inside?\" \"Is there a disaster brewing?\""
+        },
+        {
+          "s": 2,
+          "t": "These are the kinds of thoughts going through the guys' heads now. Everyone's driving themselves crazy worrying about it."
+        },
+        {
+          "s": 1,
+          "t": "Uhhh! Paimon's not surprised... Paimon feels spooked just hearing about it."
+        },
+        {
+          "sit": "I don't dare imagine what's going on inside The Chasm..."
+        },
+        {
+          "sit": "\"Strange\" is definitely the right word..."
+        },
+        {
+          "s": 2,
+          "t": "Exactly. The deepest fear is the fear of the unknown, you know? So we have to get to the bottom of it before everyone can put their minds at rest."
+        },
+        {
+          "s": 1,
+          "t": "Do we... do we really wanna take this commission? Um, thanks Mr. Miner, Sir, we need to consider it first—"
+        },
+        {
+          "sit": "We'll take it."
+        },
+        {
+          "s": 1,
+          "t": "Hey! You could at least pretend to consider Paimon's opinion first!"
+        },
+        {
+          "sit": "When strange things like this happen..."
+        },
+        {
+          "sit": "I'm inclined to think the Abyss Order is involved."
+        },
+        {
+          "s": 1,
+          "t": "Oh, so that's where you're coming from. Hmm, well okay then, maybe we will find some clues about your twin."
+        },
+        {
+          "s": 1,
+          "t": "You'll really regret it if you don't go, huh?"
+        },
+        {
+          "s": 2,
+          "t": "So, what's your verdict? Will you take the commission? No pressure, but I gotta say... I'm not loving the prospect of my Mining Permit going to waste."
+        },
+        {
+          "s": 1,
+          "t": "Yup, we'll take it. We're kinda curious ourselves now, too."
+        },
+        {
+          "s": 2,
+          "t": "Great. You're doing me an enormous service here. Now, let me give you the rough location that the hilichurls keep heading to..."
+        },
+        {
+          "section": "Yuehui"
+        },
+        {
+          "s": 2,
+          "t": "It took a huge amount of work to get this Mining Permit... I hope it was worth it. The rest is up to you."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "What the... It's a city?"
+        },
+        {
+          "s": 1,
+          "t": "A whole city that's... floating in the air... upside down!?"
+        },
+        {
+          "sit": "I'm at a loss for words."
+        },
+        {
+          "sit": "This is not what I was expecting..."
+        },
+        {
+          "s": 1,
+          "t": "Just look at this place, {NICKNAME}... Doesn't it remind you of something?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, what was it again..."
+        },
+        {
+          "sit": "\"The Defiled Statue.\""
+        },
+        {
+          "s": 1,
+          "t": "Yes, that's it! It's just like that. Just as strange, just as upside-down, and just as spooky."
+        },
+        {
+          "s": 1,
+          "t": "In which case... Maybe whatever's going on in The Chasm really is connected to the Abyss Order."
+        },
+        {
+          "s": 1,
+          "t": "Oh, we gotta get to the bottom of this..."
+        },
+        {
+          "s": 1,
+          "t": "...Oh..."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "sit": "Dainsleif!?"
+        },
+        {
+          "sit": "I was not expecting that."
+        },
+        {
+          "s": 3,
+          "t": "The feeling is mutual. I certainly hadn't expected to meet you here, either."
+        },
+        {
+          "s": 1,
+          "t": "Long time no see, Dain... Wait, but how did you suddenly end up here in The Chasm?"
+        },
+        {
+          "s": 3,
+          "t": "The Chasm? So, we're in the depths of The Chasm, are we. Interesting... This is one place where I have never set foot before."
+        },
+        {
+          "sit": "I have a lot of questions for you."
+        },
+        {
+          "s": 3,
+          "t": "I understand how you must feel. Last time, we met suddenly and parted hastily."
+        },
+        {
+          "s": 3,
+          "t": "Now our paths cross again... Fate, it seems, owes you an explanation."
+        },
+        {
+          "sit": "First, tell me what you're doing here."
+        },
+        {
+          "sit": "What was going on with that portal just now?"
+        },
+        {
+          "s": 3,
+          "t": "That much should be self-explanatory. I came upon the trail of another Abyss Herald recently, and began pursuing it."
+        },
+        {
+          "s": 3,
+          "t": "Unfortunately, I got as far as cornering him before he resorted to the same trick that they all do..."
+        },
+        {
+          "s": 3,
+          "t": "I was hot on his heels when I followed him through the portal, but as usual, it was to no avail. It took me to the wrong place."
+        },
+        {
+          "sit": "So you had the same issue with the portal last time?"
+        },
+        {
+          "sit": "So you didn't actually catch up with my brother(sister) last time?"
+        },
+        {
+          "s": 3,
+          "t": "Correct. Based on my recent experiences, I can only conclude that the Abyss's portals are not simply pathways from point A to point B, but gateways to an entire network."
+        },
+        {
+          "s": 3,
+          "t": "Where they emerge on the other side is their choice. It can be anywhere within the network."
+        },
+        {
+          "s": 1,
+          "t": "Sounds kinda similar to how Teleport Waypoints work..."
+        },
+        {
+          "s": 3,
+          "t": "In short, though I was right behind your twin last time when I entered that portal, the next moment that I realized where I was..."
+        },
+        {
+          "s": 3,
+          "t": "...I was all alone, back in the ruins known as Stormterror's Lair."
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah, about that — whatever happened to the eye of the first Field Tiller?"
+        },
+        {
+          "s": 3,
+          "t": "It's in a safe place. You can be sure that I will learn the truth of the \"Loom of Fate\" operation sooner than it could ever fall into the Abyss Order's hands."
+        },
+        {
+          "sit": "Why don't you tell me who you really are?"
+        },
+        {
+          "sit": "Who is the \"Twilight Sword\"?"
+        },
+        {
+          "s": 3,
+          "t": "Hah. So that title stuck in your memory."
+        },
+        {
+          "s": 3,
+          "t": "I by no means went out of my way to conceal it from you. It once stood for the glory of Khaenri'ah, but now..."
+        },
+        {
+          "s": 3,
+          "t": "...It is but a cruel joke. My curse to bear."
+        },
+        {
+          "s": 3,
+          "t": "Twilight Sword was my title as captain of the Royal Guards when I witnessed the destruction of my entire homeland firsthand. I believe my reluctance to raise it in conversation is quite justified."
+        },
+        {
+          "s": 1,
+          "t": "Sounds like your brother(sister) was right..."
+        },
+        {
+          "sit": "What is the history between you and my brother(sister)?"
+        },
+        {
+          "sit": "What happened between you?"
+        },
+        {
+          "s": 3,
+          "t": "We were travel partners."
+        },
+        {
+          "s": 3,
+          "t": "We both partook in a painful journey of searching for our fate, but regrettably... we did not make it to the journey's end together."
+        },
+        {
+          "sit": "The journey's end..."
+        },
+        {
+          "s": 3,
+          "t": "Before you continue questioning me, I ought to warn you..."
+        },
+        {
+          "s": 3,
+          "t": "If my suspicions regarding the portal network are correct, then the fact that there is a portal leading here tells us that the Abyss Order has their eyes on this location."
+        },
+        {
+          "s": 1,
+          "t": "You mean the Abyss Order is plotting something here? Actually, Paimon and the Traveler suspected that, too."
+        },
+        {
+          "s": 3,
+          "t": "I mean that it's highly likely that even as we speak, the Abyss Order is watching our every move."
+        },
+        {
+          "s": 1,
+          "t": "Uhh, don't say that! You're giving Paimon goosebumps!"
+        },
+        {
+          "sit": "Let's go and investigate."
+        },
+        {
+          "sit": "I'll trust you. For now."
+        },
+        {
+          "s": 3,
+          "t": "Huh, a wise choice. There appears to be light from a fire coming from near that rocky wall. Let's take a look."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Is this where that miner guy wanted us to investigate?"
+        },
+        {
+          "s": 1,
+          "t": "Just look at this place, {NICKNAME}... Doesn't it remind you of something?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, what was it again..."
+        },
+        {
+          "sit": "\"The Defiled Statue.\""
+        },
+        {
+          "s": 1,
+          "t": "Yes, that's it! It's just like that. Just as strange, just as upside-down, and just as spooky."
+        },
+        {
+          "s": 1,
+          "t": "In which case... Maybe whatever's going on in The Chasm really is connected to the Abyss Order."
+        },
+        {
+          "s": 1,
+          "t": "Oh, we gotta get to the bottom of this..."
+        },
+        {
+          "s": 1,
+          "t": "...Oh..."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "sit": "Dainsleif!?"
+        },
+        {
+          "sit": "I was not expecting that."
+        },
+        {
+          "s": 3,
+          "t": "The feeling is mutual. I certainly hadn't expected to meet you here, either."
+        },
+        {
+          "s": 1,
+          "t": "Long time no see, Dain... Wait, but how did you suddenly end up here in The Chasm?"
+        },
+        {
+          "s": 3,
+          "t": "The Chasm? So, we're in the depths of The Chasm, are we. Interesting... This is one place where I have never set foot before."
+        },
+        {
+          "sit": "I have a lot of questions for you."
+        },
+        {
+          "s": 3,
+          "t": "I understand how you must feel. Last time, we met suddenly and parted hastily."
+        },
+        {
+          "s": 3,
+          "t": "Now our paths cross again... Fate, it seems, owes you an explanation."
+        },
+        {
+          "sit": "First, tell me what you're doing here."
+        },
+        {
+          "sit": "What was going on with that portal just now?"
+        },
+        {
+          "s": 3,
+          "t": "That much should be self-explanatory. I came upon the trail of another Abyss Herald recently, and began pursuing it."
+        },
+        {
+          "s": 3,
+          "t": "Unfortunately, I got as far as cornering him before he resorted to the same trick that they all do..."
+        },
+        {
+          "s": 3,
+          "t": "I was hot on his heels when I followed him through the portal, but as usual, it was to no avail. It took me to the wrong place."
+        },
+        {
+          "sit": "So you had the same issue with the portal last time?"
+        },
+        {
+          "sit": "So you didn't actually catch up with my brother(sister) last time?"
+        },
+        {
+          "s": 3,
+          "t": "Correct. Based on my recent experiences, I can only conclude that the Abyss's portals are not simply pathways from point A to point B, but gateways to an entire network."
+        },
+        {
+          "s": 3,
+          "t": "Where they emerge on the other side is their choice. It can be anywhere within the network."
+        },
+        {
+          "s": 1,
+          "t": "Sounds kinda similar to how Teleport Waypoints work..."
+        },
+        {
+          "s": 3,
+          "t": "In short, though I was right behind your twin last time when I entered that portal, the next moment that I realized where I was..."
+        },
+        {
+          "s": 3,
+          "t": "...I was all alone, back in the ruins known as Stormterror's Lair."
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah, about that — whatever happened to the eye of the first Field Tiller?"
+        },
+        {
+          "s": 3,
+          "t": "It's in a safe place. You can be sure that I will learn the truth of the \"Loom of Fate\" operation sooner than it could ever fall into the Abyss Order's hands."
+        },
+        {
+          "sit": "Why don't you tell me who you really are?"
+        },
+        {
+          "sit": "Who is the \"Twilight Sword\"?"
+        },
+        {
+          "s": 3,
+          "t": "Hah. So that title stuck in your memory."
+        },
+        {
+          "s": 3,
+          "t": "I by no means went out of my way to conceal it from you. It once stood for the glory of Khaenri'ah, but now..."
+        },
+        {
+          "s": 3,
+          "t": "...It is but a cruel joke. My curse to bear."
+        },
+        {
+          "s": 3,
+          "t": "Twilight Sword was my title as captain of the Royal Guards when I witnessed the destruction of my entire homeland firsthand. I believe my reluctance to raise it in conversation is quite justified."
+        },
+        {
+          "s": 1,
+          "t": "Sounds like your brother(sister) was right..."
+        },
+        {
+          "sit": "What is the history between you and my brother(sister)?"
+        },
+        {
+          "sit": "What happened between you?"
+        },
+        {
+          "s": 3,
+          "t": "We were travel partners."
+        },
+        {
+          "s": 3,
+          "t": "We both partook in a painful journey of searching for our fate, but regrettably... we did not make it to the journey's end together."
+        },
+        {
+          "sit": "The journey's end..."
+        },
+        {
+          "s": 3,
+          "t": "Before you continue questioning me, I ought to warn you..."
+        },
+        {
+          "s": 3,
+          "t": "If my suspicions regarding the portal network are correct, then the fact that there is a portal leading here tells us that the Abyss Order has their eyes on this location."
+        },
+        {
+          "s": 1,
+          "t": "You mean the Abyss Order is plotting something here? Actually, Paimon and the Traveler suspected that, too."
+        },
+        {
+          "s": 3,
+          "t": "I mean that it's highly likely that even as we speak, the Abyss Order is watching our every move."
+        },
+        {
+          "s": 1,
+          "t": "Uhh, don't say that! You're giving Paimon goosebumps!"
+        },
+        {
+          "sit": "Let's go and investigate."
+        },
+        {
+          "sit": "I'll trust you. For now."
+        },
+        {
+          "s": 3,
+          "t": "Huh, a wise choice. There appears to be light from a fire coming from near that rocky wall. Let's take a look."
+        }
+      ],
+      "description": "Katheryne seems to have a new commission for you. Go check it out."
+    },
+    {
+      "title": "The Grave of the Guarded",
+      "dialogue": [
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "There are signs of hilichurl activity here. Could these be the hilichurls the requester was talking about?"
+        },
+        {
+          "s": 3,
+          "t": "Requester? ...In fact, hold on. You still haven't told me what you're doing here. I doubt that most travelers would have any reason to venture down this way."
+        },
+        {
+          "s": 1,
+          "t": "We took a commission from the Adventurers' Guild to investigate The Chasm. Apparently, a whole load of hilichurls have been gathering here, and the requester wants to know why."
+        },
+        {
+          "s": 1,
+          "t": "And now, it looks like we've finally found our first clue..."
+        },
+        {
+          "s": 3,
+          "t": "Do you want the answer?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? You mean, you know something about this?"
+        },
+        {
+          "s": 3,
+          "t": "As it happens, I do."
+        },
+        {
+          "sit": "Huh? Did I miss something?"
+        },
+        {
+          "sit": "Does this have anything to do with the upside-down city?"
+        },
+        {
+          "s": 3,
+          "t": "It's understandable that you did not perceive anything unusual. What makes this place so strange is that..."
+        },
+        {
+          "s": 3,
+          "t": "...the environment here weakens the effect of the curse."
+        },
+        {
+          "s": 1,
+          "t": "The curse? Oh! Paimon remembers, last time you guys were saying that Khaenri'ah's people were cursed to immortality or something..."
+        },
+        {
+          "s": 3,
+          "t": "For centuries, I have suffered daily from the curse that was laid upon me. But here... I suddenly feel a small amount of relief from this suffering."
+        },
+        {
+          "s": 3,
+          "t": "And right here, right now, I can feel my body sending a strong message to me... It is telling me, \"stay.\""
+        },
+        {
+          "s": 1,
+          "t": "So this place weakens the curse? That's pretty incredible, but how?"
+        },
+        {
+          "s": 3,
+          "t": "That I shall need to investigate. But to the best of my knowledge, the Abyss Order does not have the technology to achieve this."
+        },
+        {
+          "sit": "So you're saying..."
+        },
+        {
+          "sit": "The hilichurls that come here are also from..."
+        },
+        {
+          "s": 3,
+          "t": "Indeed. Do you know why hilichurls wear masks?"
+        },
+        {
+          "sit": "I think so?"
+        },
+        {
+          "sit": "I'm not sure..."
+        },
+        {
+          "s": 3,
+          "t": "It's to hide their appearance, lest they catch sight of their reflection in a body of water..."
+        },
+        {
+          "s": 3,
+          "t": "Compared to how they remember themselves, it is a terrible sight to behold, one that causes them great despair."
+        },
+        {
+          "sit": "So these hilichurls really are from..."
+        },
+        {
+          "s": 3,
+          "t": "The curse of \"immortality\" denies death to those afflicted with it... and yet, it does not truly mean that they will never die."
+        },
+        {
+          "s": 1,
+          "t": "So you mean, there's a way to undo it?"
+        },
+        {
+          "s": 3,
+          "t": "No. I mean that the body and soul will continue to be eroded until they are virtually nonexistent, even if \"death\" is not the form that this erosion takes."
+        },
+        {
+          "s": 3,
+          "t": "When the hilichurls realize that the end is nigh for them, it seems their instinct is to seek out a calm and dark corner of the world in which to finally say goodbye to the centuries of suffering they have endured."
+        },
+        {
+          "s": 3,
+          "t": "And of all the places they could lay down to rest, one that can ease the effects of their curse would surely be their first choice."
+        },
+        {
+          "s": 1,
+          "t": "Wow... That's so..."
+        },
+        {
+          "s": 3,
+          "t": "Conversation's over, brace yourselves!"
+        },
+        {
+          "s": 1,
+          "t": "Wh—What is it!?"
+        },
+        {
+          "s": 3,
+          "t": "We're under attack."
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "What were those? And why did they attack us all of a sudden?"
+        },
+        {
+          "s": 3,
+          "t": "Black Serpent Knights. They once belonged to the Royal Guard of Khaenri'ah."
+        },
+        {
+          "s": 1,
+          "t": "Wait a second! Royal Guard? So... they used to be your troops!?"
+        },
+        {
+          "s": 3,
+          "t": "Yes, they were. But now, the curse engulfs them, and they fight with none of the honor they once had..."
+        },
+        {
+          "s": 1,
+          "t": "Because they've become pawns of the Abyss now?"
+        },
+        {
+          "s": 3,
+          "t": "...Let's continue on."
+        },
+        {
+          "s": 1,
+          "t": "Wait, Dain..."
+        },
+        {
+          "s": 3,
+          "t": "Hmm?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Seems we missed one..."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Wait, stand down. There's something different about this one..."
+        },
+        {
+          "s": 3,
+          "t": "...It's disappeared."
+        },
+        {
+          "s": 1,
+          "t": "What the heck? What was going on with that one? Was it trying to say something?"
+        },
+        {
+          "s": 3,
+          "t": "(How is this possible... How could he have retained self-awareness for 500 years without... it?)"
+        },
+        {
+          "s": 3,
+          "t": "(But more importantly, why did he seem so familiar...)"
+        },
+        {
+          "sit": "Maybe he recognized you."
+        },
+        {
+          "s": 3,
+          "t": "That would be a miraculous outcome indeed for a cataclysm that brought total doom and destruction... Or perhaps it was just a coincidence."
+        },
+        {
+          "s": 3,
+          "t": "We should press onward, to the city."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Looks like there's a strange energy surrounding the city. We can't go any further."
+        },
+        {
+          "s": 1,
+          "t": "Guess there should be a mechanism or something around here, right? Traveler, looks like it's time to get into ruin-exploring mode!"
+        },
+        {
+          "sit": "Puzzle time, huh."
+        },
+        {
+          "sit": "I'll take a look around and see what I can find."
+        },
+        {
+          "s": 3,
+          "t": "Don't waste your time."
+        },
+        {
+          "s": 1,
+          "t": "Huh...!?"
+        },
+        {
+          "s": 3,
+          "t": "Khaenri'ah's technology, Abyssal power... Two things I couldn't be more familiar with. They're just cheap tricks to me."
+        },
+        {
+          "s": 1,
+          "t": "Okay! So the Abyss Order really is trying to hide something here, right?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Dain seems like he really understands what's going on here. No wonder the Abyss Order doesn't want him around."
+        },
+        {
+          "sit": "Was this upside-down city built by Khaenri'ah?"
+        },
+        {
+          "sit": "Was this upside-down city built by the Abyss Order?"
+        },
+        {
+          "s": 3,
+          "t": "Not necessarily. The closer we draw, the more I am inclined to conclude that these ruins belong to a more ancient civilization still."
+        },
+        {
+          "s": 3,
+          "t": "The Abyss Order simply got to them before anyone else."
+        },
+        {
+          "s": 1,
+          "t": "Even older than Khaenri'ah? Whoa, Paimon can't even imagine back that far..."
+        },
+        {
+          "s": 3,
+          "t": "That said, the architecture here does somewhat resemble that of Khaenri'ah... At least, it would if it were the other way up."
+        },
+        {
+          "s": 3,
+          "t": "Let's head toward the light over there. Mind your footing on the way ahead. It's a long way down."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Aah, Black Serpent Knights!"
+        },
+        {
+          "s": 1,
+          "t": "Is this where they're based? Or wait, are they guarding something here?"
+        },
+        {
+          "s": 3,
+          "t": "We are likely drawing near to whatever the Abyss Order is trying to hide. Let's take them out first."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Oh no, more Black Serpent Knights!"
+        },
+        {
+          "s": 5,
+          "t": "!!!"
+        },
+        {
+          "s": 1,
+          "t": "Huh, they're not coming after us. Are they just trying to scare us off?"
+        },
+        {
+          "s": 1,
+          "t": "These knights seem like they're hiding something behind them..."
+        },
+        {
+          "s": 5,
+          "t": "!!!"
+        },
+        {
+          "s": 3,
+          "t": "Hold on, I think they..."
+        },
+        {
+          "s": 5,
+          "t": "!!!"
+        },
+        {
+          "s": 1,
+          "t": "Aah, they're coming! Quick, get them!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Huh!? What's this?"
+        },
+        {
+          "s": 3,
+          "t": "...So the Black Serpent Knights have nothing to do with the Abyss Order's secret. Huh, I should have guessed."
+        },
+        {
+          "s": 1,
+          "t": "So what exactly is going on with these hilichurls?"
+        },
+        {
+          "s": 3,
+          "t": "As I said, for these hilichurls, the end is nigh."
+        },
+        {
+          "sit": "The hilichurls are preparing to meet their end..."
+        },
+        {
+          "sit": "\"End\"..."
+        },
+        {
+          "s": 3,
+          "t": "They have grown old and fearful of the light, even become one with the darkness. And yet the curse continues to corrode them."
+        },
+        {
+          "s": 1,
+          "t": "But why would the Black Serpent Knights wanna stay here and guard them?"
+        },
+        {
+          "s": 5,
+          "t": "!!!"
+        },
+        {
+          "s": 1,
+          "t": "Aah! More of them are closing in!"
+        },
+        {
+          "s": 5,
+          "t": "!!!"
+        },
+        {
+          "sit": "Let's try to avoid fighting them."
+        },
+        {
+          "sit": "Fighting them is meaningless."
+        },
+        {
+          "s": 4,
+          "t": "!"
+        },
+        {
+          "s": 1,
+          "t": "...It's him! The guy that came out of nowhere and disappeared again!"
+        },
+        {
+          "s": 1,
+          "t": "And now they're retreating... Did he just order them to do that?"
+        },
+        {
+          "s": 3,
+          "t": "...Halfdan?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, whoa, what? You recognize him?"
+        },
+        {
+          "s": 3,
+          "t": "...Could it be... If it's as I suspect, then this is a truly tragic state of affairs."
+        },
+        {
+          "s": 1,
+          "t": "Dain?"
+        },
+        {
+          "s": 3,
+          "t": "You want to know why they were gathered here guarding the hilichurls, don't you?"
+        },
+        {
+          "s": 3,
+          "t": "It's because as far as the Black Serpent Knights are concerned, they are simply doing their duty."
+        },
+        {
+          "s": 3,
+          "t": "The one who ordered them to retreat just now... I suddenly recognized him. I knew him as a young man, an elite in the Royal Guard of old... His name is \"Halfdan.\""
+        },
+        {
+          "s": 1,
+          "t": "So he's from 500 years ago, too..."
+        },
+        {
+          "s": 3,
+          "t": "To this day, I still remember the final orders I, the Twilight Sword, gave to Halfdan on the day of disaster in Khaenri'ah, before I made haste back to the palace..."
+        },
+        {
+          "s": 3,
+          "t": "\"Inform all Black Serpent Knights to protect the people of Khaenri'ah at all costs.\""
+        },
+        {
+          "s": 3,
+          "t": "Because we, of course, were royal guards. But this would mean nothing in the events that followed... Royals, gentry, common folk, these identities made no difference."
+        },
+        {
+          "s": 3,
+          "t": "Against the might of the gods, the only identity that mattered was being from Khaenri'ah."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 3,
+          "t": "These Black Serpent Knights have lost their intellect. But perhaps, in whatever remains of their minds, they are still protecting the people of Khaenri'ah."
+        },
+        {
+          "s": 3,
+          "t": "If you see these ruins as Khaenri'ah in the throes of disaster, and these hilichurls as the people crying for help..."
+        },
+        {
+          "s": 3,
+          "t": "...then suddenly, I can make sense of what I'm hearing. Their growls are less of a threat and more of a warning."
+        },
+        {
+          "s": 1,
+          "t": "Then... what are they saying?"
+        },
+        {
+          "s": 3,
+          "t": "Though it is barely discernible, I can just about make it out. They keep repeating a word from the old language of Khaenri'ah... \"Run.\""
+        },
+        {
+          "sit": "So they're not talking to us..."
+        },
+        {
+          "sit": "So they're telling the hilichurls behind them to escape..."
+        },
+        {
+          "s": 3,
+          "t": "Even I have to admit, the fact their will is strong enough to survive 500 years of erosion... It is nothing short of a miracle born from hopelessness."
+        },
+        {
+          "s": 1,
+          "t": "Oh... So Paimon had them all wrong..."
+        },
+        {
+          "s": 3,
+          "t": "It doesn't matter. Even I took them for enemies for a moment."
+        },
+        {
+          "s": 3,
+          "t": "Let's keep heading toward the light at the top. I believe the Black Serpent Knights will no longer try to stop us."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "So there's no Abyss Order secrets to be found here... Just a bunch of hilichurls nearing the end of their existence."
+        },
+        {
+          "s": 1,
+          "t": "We probably shouldn't disturb them."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "More hilichurls. And they look really well-protected."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "All these hilichurls want is to quietly fade away in peace... Paimon hopes they can get their final wish."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Paimon's never seen such well-behaved hilichurls before. Paimon wonders if it has anything to do with being an old soul."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Hey look, there's no door sealing this room off. Looks like we can finally head to the room in the center."
+        },
+        {
+          "s": 1,
+          "t": "C'mon, let's go!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Look, up there! A water pool!"
+        },
+        {
+          "s": 1,
+          "t": "Even the water pool is upside-down. Wow! This is a pretty amazing place."
+        },
+        {
+          "s": 1,
+          "t": "Dain, do you have any idea at all how it works?"
+        },
+        {
+          "s": 3,
+          "t": "The pool must be part of the entire city structure, a relic of this ancient civilization."
+        },
+        {
+          "s": 3,
+          "t": "And more importantly... it is the very thing that is weakening the curse."
+        },
+        {
+          "s": 3,
+          "t": "Here, my whole body feels more at peace than it has in a long time. The effect is stronger here than it was before, and I think it's because that water pool has something akin to a cleansing effect."
+        },
+        {
+          "s": 1,
+          "t": "Cleansing? So that means... the water in that pool can wash away the curse for good?"
+        },
+        {
+          "s": 3,
+          "t": "No. That would be impossible."
+        },
+        {
+          "s": 1,
+          "t": "How are you so sure?"
+        },
+        {
+          "s": 3,
+          "t": "I have lived with this curse for 500 years, and I have been fully conscious the entire time... Suffice to say, no one understands the curse like I do."
+        },
+        {
+          "s": 3,
+          "t": "It is a way of branding us at the level of the fate of the world itself. When a god applies a curse, it takes effect at a higher level of reality than the person themselves."
+        },
+        {
+          "s": 3,
+          "t": "Even now, I can feel the curse slowly permeating my entire being, becoming part of me, slowly but surely replacing me."
+        },
+        {
+          "s": 3,
+          "t": "Perhaps it may be possible to suppress the corrosive effect of the curse for a time, but cleansing it entirely..."
+        },
+        {
+          "s": 3,
+          "t": "Consider it tantamount to burning away an integral part of your body. It is not a process that one could ever hope to survive."
+        },
+        {
+          "s": 1,
+          "t": "Huh!? Cleansing the curse costs you your life? Whoa... An irreversible curse, Paimon can't even imagine..."
+        },
+        {
+          "s": 3,
+          "t": "In any case, I can feel that the water's cleansing effect is not nearly potent enough. At most, it might suppress the curse but a little."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? So what's that contraption there? It looks kinda out of place..."
+        },
+        {
+          "sit": "An Abyss Order device?"
+        },
+        {
+          "sit": "Perhaps it's the Abyss Order's secret."
+        },
+        {
+          "s": 3,
+          "t": "Frankly, I have never seen a device of this design before either. It is not unreasonable to suspect that it could belong to the Abyss Order. But what could they be planning to do here..."
+        },
+        {
+          "s": 6,
+          "t": "(*clunk* *clunk*...)"
+        },
+        {
+          "s": 1,
+          "t": "Yikes! That gave Paimon a fright... So all the doors are open now?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Wah, Halfdan's back again..."
+        },
+        {
+          "s": 3,
+          "t": "Halfdan. Do you have something to say to me?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "He ran off... but he didn't disappear like last time!"
+        },
+        {
+          "s": 3,
+          "t": "He's indicating that we should follow him. Are you coming?"
+        },
+        {
+          "sit": "This could be a useful lead."
+        },
+        {
+          "sit": "He doesn't seem to hold any malice toward us."
+        },
+        {
+          "s": 1,
+          "t": "True... So, uh... We going, then?"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Look, up there! A water pool!"
+        },
+        {
+          "s": 1,
+          "t": "Even the water pool is upside-down. Wow! This is a pretty amazing place."
+        },
+        {
+          "s": 1,
+          "t": "Dain, do you have any idea at all how it works?"
+        },
+        {
+          "s": 3,
+          "t": "The pool must be part of the entire city structure, a relic of this ancient civilization."
+        },
+        {
+          "s": 3,
+          "t": "And more importantly... it is the very thing that is weakening the curse."
+        },
+        {
+          "s": 3,
+          "t": "Here, my whole body feels more at peace than it has in a long time. The effect is stronger here than it was before, and I think it's because that water pool has something akin to a cleansing effect."
+        },
+        {
+          "s": 1,
+          "t": "Cleansing? So that means... the water in that pool can wash away the curse for good?"
+        },
+        {
+          "s": 3,
+          "t": "No. That would be impossible."
+        },
+        {
+          "s": 1,
+          "t": "How are you so sure?"
+        },
+        {
+          "s": 3,
+          "t": "I have lived with this curse for 500 years, and I have been fully conscious the entire time... Suffice to say, no one understands the curse like I do."
+        },
+        {
+          "s": 3,
+          "t": "It is a way of branding us at the level of the fate of the world itself. When a god applies a curse, it takes effect at a higher level of reality than the person themselves."
+        },
+        {
+          "s": 3,
+          "t": "Even now, I can feel the curse slowly permeating my entire being, becoming part of me, slowly but surely replacing me."
+        },
+        {
+          "s": 3,
+          "t": "Perhaps it may be possible to suppress the corrosive effect of the curse for a time, but cleansing it entirely..."
+        },
+        {
+          "s": 3,
+          "t": "Consider it tantamount to burning away an integral part of your body. It is not a process that one could ever hope to survive."
+        },
+        {
+          "s": 1,
+          "t": "Huh!? Cleansing the curse costs you your life? Whoa... An irreversible curse, Paimon can't even imagine..."
+        },
+        {
+          "s": 3,
+          "t": "In any case, I can feel that the water's cleansing effect is not nearly potent enough. At most, it might suppress the curse but a little."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? So what's that contraption there? It looks kinda out of place..."
+        },
+        {
+          "sit": "An Abyss Order device?"
+        },
+        {
+          "sit": "Perhaps it's the Abyss Order's secret."
+        },
+        {
+          "s": 3,
+          "t": "Frankly, I have never seen a device of this design before either. It is not unreasonable to suspect that it could belong to the Abyss Order. But what could they be planning to do here..."
+        },
+        {
+          "s": 6,
+          "t": "(*clunk* *clunk*...)"
+        },
+        {
+          "s": 1,
+          "t": "Yikes! That gave Paimon a fright... So all the doors are open now?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Wah, Halfdan's back again..."
+        },
+        {
+          "s": 3,
+          "t": "Halfdan. Do you have something to say to me?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "He ran off... but he didn't disappear like last time!"
+        },
+        {
+          "s": 3,
+          "t": "He's indicating that we should follow him. Are you coming?"
+        },
+        {
+          "sit": "This could be a useful lead."
+        },
+        {
+          "sit": "He doesn't seem to hold any malice toward us."
+        },
+        {
+          "s": 1,
+          "t": "True... So, uh... We going, then?"
+        }
+      ],
+      "description": "You have an unexpected reunion with Dainsleif within The Chasm. After getting wind of the situation, you believe that this place must be intimately linked to the Abyss Order, and thus begin investigating…"
+    },
+    {
+      "title": "Memories of Inteyvat",
+      "dialogue": [
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Looks like Halfdan disappeared at the far end of this path..."
+        },
+        {
+          "s": 3,
+          "t": "Perhaps whatever lies ahead is what he wants us to see. Let's keep going."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "It's a humble hilichurl camp..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, these hilichurls look like they're in pretty bad shape, too. Some of them look like they've already... taken their final breath..."
+        },
+        {
+          "s": 1,
+          "t": "Is this what Halfdan wanted to show us?"
+        },
+        {
+          "s": 3,
+          "t": "Whether it is or not, everything here is worth investigating in detail. Inspect the area. Leave no stone unturned."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "How did that flower get this far underground?"
+        },
+        {
+          "s": 1,
+          "t": "Did someone bring it in memory of the deceased hilichurls?"
+        },
+        {
+          "sit": "I know this flower..."
+        },
+        {
+          "sit": "I've seen this kind of flower before..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, now that you mention it, Paimon thinks it looks kinda familiar, too..."
+        },
+        {
+          "s": 3,
+          "t": "It is the national flower of Khaenri'ah: the \"Inteyvat.\" It once bloomed all over the nation."
+        },
+        {
+          "s": 3,
+          "t": "It would only last two weeks before wilting. But if you were to pluck one and take it out of Khaenri'ah, the petals would stop growing and turn hard."
+        },
+        {
+          "s": 3,
+          "t": "Only when it finally returned to its home soil would the petals grow soft once more, and finally turn to dust..."
+        },
+        {
+          "s": 3,
+          "t": "So the Inteyvat is a symbol for a wanderer far from home, signifying the tenderness of the homeland."
+        },
+        {
+          "sit": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_Twins2Male|INFO_FEMALE_PRONOUN_Twins2Female]}"
+        },
+        {
+          "s": 1,
+          "t": "*gasp* So for this flower to get here, it must have been brought from..."
+        },
+        {
+          "s": 7,
+          "t": "Your Highness... so the proposal finally has your blessing?"
+        },
+        {
+          "sit": "In focusing single-mindedly on confronting the Heavenly Principles, we neglected our original mission: the revival of the homeland."
+        },
+        {
+          "sit": "I should not have been so indecisive."
+        },
+        {
+          "s": 7,
+          "t": "The device is almost ready. We await your command."
+        },
+        {
+          "sit": "What are the chances of succeeding?"
+        },
+        {
+          "s": 7,
+          "t": "Theoretically speaking... approximately—"
+        },
+        {
+          "sit": "Forget it. Even a one-percent chance is enough..."
+        },
+        {
+          "sit": "For too long have we dwelt in the Abyss."
+        },
+        {
+          "sit": "Surely, they would rather return to the natural cycle of life and death as soon as possible than continue to exist as they are, without a shred of dignity."
+        },
+        {
+          "sit": "They cannot be made to continue paying the price... for those so-called sins."
+        },
+        {
+          "s": 7,
+          "t": "The Order is most fortunate to be graced with your decision."
+        },
+        {
+          "sit": "Aether(Lumine)..."
+        },
+        {
+          "s": 3,
+          "t": "You saw something, didn't you? Can you tell me what it was?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, you zoned out for quite a while there."
+        },
+        {
+          "sit": "You relate the scene you just saw to Dainsleif..."
+        },
+        {
+          "s": 3,
+          "t": "Huh. Well, people do say that twins have a special connection..."
+        },
+        {
+          "s": 3,
+          "t": "It sounds as if they are attempting to make use of certain equipment to cleanse the curse. It could well be the device we saw earlier."
+        },
+        {
+          "s": 3,
+          "t": "And... you say he(she) mentioned the \"revival of the homeland,\" correct?"
+        },
+        {
+          "sit": "Yes."
+        },
+        {
+          "sit": "He(She) said it was his(her) mission."
+        },
+        {
+          "s": 3,
+          "t": "No surprise there. Stubborn as ever."
+        },
+        {
+          "s": 3,
+          "t": "It appears as if the Abyss Order plans to use this location to cleanse the hilichurls of their curse and restore them to the way they once were... Then, they will serve as the foundation for reviving the nation of Khaenri'ah."
+        },
+        {
+          "s": 3,
+          "t": "After all, there can be no nation without a people."
+        },
+        {
+          "sit": "What do you think?"
+        },
+        {
+          "sit": "Do they have a chance?"
+        },
+        {
+          "s": 3,
+          "t": "Hmph, it is the height of foolishness. They have no chance of success. Not even a one-percent chance."
+        },
+        {
+          "s": 3,
+          "t": "I told you already that no one knows this curse better than I, having lived with it for 500 years... There is no redemption. There is no undoing the curse."
+        },
+        {
+          "s": 3,
+          "t": "Trying to remove it by force will achieve nothing but to inflict further suffering."
+        },
+        {
+          "s": 3,
+          "t": "So make sure you are clear in your mind. You have to tell yourself: They are no longer human."
+        },
+        {
+          "s": 3,
+          "t": "If you cling to false hope and allow yourself to become too emotionally invested, the only way is down... You will end up just like them, mired in hypocrisy."
+        },
+        {
+          "s": 3,
+          "t": "Save your strength for something worth saving."
+        },
+        {
+          "sit": "Why should I believe you?"
+        },
+        {
+          "s": 3,
+          "t": "Oh?"
+        },
+        {
+          "s": 3,
+          "t": "Haha... But of course. I am merely someone you hired for a task, while he(she) is your brother(sister)."
+        },
+        {
+          "s": 3,
+          "t": "It is only natural for you to side with him(her)."
+        },
+        {
+          "s": 3,
+          "t": "But whatever decision you make cannot deter me from mine. My chosen path is to stop the Abyss. If we have reached an impasse, then perhaps this is where we should say—"
+        },
+        {
+          "sit": "I choose to believe you."
+        },
+        {
+          "sit": "But that doesn't mean I completely trust you."
+        },
+        {
+          "sit": "It just means that I don't approve of my brother's(sister's) methods."
+        },
+        {
+          "s": 3,
+          "t": "I see."
+        },
+        {
+          "sit": "A 1% chance of redemption..."
+        },
+        {
+          "sit": "...versus a 99% chance of suffering and death."
+        },
+        {
+          "s": 3,
+          "t": "It seems that the three questions I put to you on our first meeting were worthwhile. You have developed your own individual views on this world."
+        },
+        {
+          "s": 3,
+          "t": "Very well. Since you have volunteered your true thoughts on this matter, I shall not hide mine from you."
+        },
+        {
+          "s": 3,
+          "t": "Right now, I have a more immediate agenda than stopping the Abyss..."
+        },
+        {
+          "s": 3,
+          "t": "That is to say, the Abyss's actions here directly dishonor the final wishes of Halfdan and my other compatriots. I cannot allow this to proceed."
+        },
+        {
+          "sit": "I can understand that."
+        },
+        {
+          "sit": "Then let's stick together for this one."
+        },
+        {
+          "s": 3,
+          "t": "The Abyss may appear at any moment. Be on your guard at all times as we proceed."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "There's even a bonfire here, like what hilichurls build in the wild."
+        },
+        {
+          "s": 1,
+          "t": "Wait, but wasn't Dain saying that hilichurls get scared of the light when they reach the very end of their lives...?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm, maybe in the very, very end, they still want to feel some light and warmth? Uh... just thinking aloud here, could also be another reason!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Hilichurls usually store food in crates like these, right?"
+        },
+        {
+          "s": 1,
+          "t": "But... these seem pretty much empty. Is it because they're so near to the end that they don't need to eat anymore?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Even if they don't need to eat anymore, Paimon bets they still miss food for the flavor."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "Seems like... these hilichurls have no life left in them at all. Before long, they'll become one with the darkness."
+        },
+        {
+          "s": 1,
+          "t": "The hilichurls we meet in the wild are always so rowdy... Paimon never would have imagined that this is how they spend their final days."
+        },
+        {
+          "s": 1,
+          "t": "We may not have a whole lot of happy memories dealing with hilichurls, but still, Paimon hopes they're at peace in their last moments."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "How did that flower get this far underground?"
+        },
+        {
+          "s": 1,
+          "t": "Did someone bring it in memory of the deceased hilichurls?"
+        },
+        {
+          "sit": "I know this flower..."
+        },
+        {
+          "sit": "I've seen this kind of flower before..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, now that you mention it, Paimon thinks it looks kinda familiar, too..."
+        },
+        {
+          "s": 3,
+          "t": "It is the national flower of Khaenri'ah: the \"Inteyvat.\" It once bloomed all over the nation."
+        },
+        {
+          "s": 3,
+          "t": "It would only last two weeks before wilting. But if you were to pluck one and take it out of Khaenri'ah, the petals would stop growing and turn hard."
+        },
+        {
+          "s": 3,
+          "t": "Only when it finally returned to its home soil would the petals grow soft once more, and finally turn to dust..."
+        },
+        {
+          "s": 3,
+          "t": "So the Inteyvat is a symbol for a wanderer far from home, signifying the tenderness of the homeland."
+        },
+        {
+          "sit": "{PLAYERAVATAR#SEXPRO[INFO_MALE_PRONOUN_Twins2Male|INFO_FEMALE_PRONOUN_Twins2Female]}"
+        },
+        {
+          "s": 1,
+          "t": "*gasp* So for this flower to get here, it must have been brought from..."
+        },
+        {
+          "s": 7,
+          "t": "Your Highness... so the proposal finally has your blessing?"
+        },
+        {
+          "sit": "In focusing single-mindedly on confronting the Heavenly Principles, we neglected our original mission: the revival of the homeland."
+        },
+        {
+          "sit": "I should not have been so indecisive."
+        },
+        {
+          "s": 7,
+          "t": "The device is almost ready. We await your command."
+        },
+        {
+          "sit": "What are the chances of succeeding?"
+        },
+        {
+          "s": 7,
+          "t": "Theoretically speaking... approximately—"
+        },
+        {
+          "sit": "Forget it. Even a one-percent chance is enough..."
+        },
+        {
+          "sit": "For too long have we dwelt in the Abyss."
+        },
+        {
+          "sit": "Surely, they would rather return to the natural cycle of life and death as soon as possible than continue to exist as they are, without a shred of dignity."
+        },
+        {
+          "sit": "They cannot be made to continue paying the price... for those so-called sins."
+        },
+        {
+          "s": 7,
+          "t": "The Order is most fortunate to be graced with your decision."
+        },
+        {
+          "sit": "Aether(Lumine)..."
+        },
+        {
+          "s": 3,
+          "t": "You saw something, didn't you? Can you tell me what it was?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, you zoned out for quite a while there."
+        },
+        {
+          "sit": "You relate the scene you just saw to Dainsleif..."
+        },
+        {
+          "s": 3,
+          "t": "Huh. Well, people do say that twins have a special connection..."
+        },
+        {
+          "s": 3,
+          "t": "It sounds as if they are attempting to make use of certain equipment to cleanse the curse. It could well be the device we saw earlier."
+        },
+        {
+          "s": 3,
+          "t": "And... you say he(she) mentioned the \"revival of the homeland,\" correct?"
+        },
+        {
+          "sit": "Yes."
+        },
+        {
+          "sit": "He(She) said it was his(her) mission."
+        },
+        {
+          "s": 3,
+          "t": "No surprise there. Stubborn as ever."
+        },
+        {
+          "s": 3,
+          "t": "It appears as if the Abyss Order plans to use this location to cleanse the hilichurls of their curse and restore them to the way they once were... Then, they will serve as the foundation for reviving the nation of Khaenri'ah."
+        },
+        {
+          "s": 3,
+          "t": "After all, there can be no nation without a people."
+        },
+        {
+          "sit": "What do you think?"
+        },
+        {
+          "sit": "Do they have a chance?"
+        },
+        {
+          "s": 3,
+          "t": "Hmph, it is the height of foolishness. They have no chance of success. Not even a one-percent chance."
+        },
+        {
+          "s": 3,
+          "t": "I told you already that no one knows this curse better than I, having lived with it for 500 years... There is no redemption. There is no undoing the curse."
+        },
+        {
+          "s": 3,
+          "t": "Trying to remove it by force will achieve nothing but to inflict further suffering."
+        },
+        {
+          "s": 3,
+          "t": "So make sure you are clear in your mind. You have to tell yourself: They are no longer human."
+        },
+        {
+          "s": 3,
+          "t": "If you cling to false hope and allow yourself to become too emotionally invested, the only way is down... You will end up just like them, mired in hypocrisy."
+        },
+        {
+          "s": 3,
+          "t": "Save your strength for something worth saving."
+        },
+        {
+          "sit": "Why should I believe you?"
+        },
+        {
+          "s": 3,
+          "t": "Oh?"
+        },
+        {
+          "s": 3,
+          "t": "Haha... But of course. I am merely someone you hired for a task, while he(she) is your brother(sister)."
+        },
+        {
+          "s": 3,
+          "t": "It is only natural for you to side with him(her)."
+        },
+        {
+          "s": 3,
+          "t": "But whatever decision you make cannot deter me from mine. My chosen path is to stop the Abyss. If we have reached an impasse, then perhaps this is where we should say—"
+        },
+        {
+          "sit": "I choose to believe you."
+        },
+        {
+          "sit": "But that doesn't mean I completely trust you."
+        },
+        {
+          "sit": "It just means that I don't approve of my brother's(sister's) methods."
+        },
+        {
+          "s": 3,
+          "t": "I see."
+        },
+        {
+          "sit": "A 1% chance of redemption..."
+        },
+        {
+          "sit": "...versus a 99% chance of suffering and death."
+        },
+        {
+          "s": 3,
+          "t": "It seems that the three questions I put to you on our first meeting were worthwhile. You have developed your own individual views on this world."
+        },
+        {
+          "s": 3,
+          "t": "Very well. Since you have volunteered your true thoughts on this matter, I shall not hide mine from you."
+        },
+        {
+          "s": 3,
+          "t": "Right now, I have a more immediate agenda than stopping the Abyss..."
+        },
+        {
+          "s": 3,
+          "t": "That is to say, the Abyss's actions here directly dishonor the final wishes of Halfdan and my other compatriots. I cannot allow this to proceed."
+        },
+        {
+          "sit": "I can understand that."
+        },
+        {
+          "sit": "Then let's stick together for this one."
+        },
+        {
+          "s": 3,
+          "t": "The Abyss may appear at any moment. Be on your guard at all times as we proceed."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "We can see the upside-down city from here, too."
+        },
+        {
+          "s": 3,
+          "t": "Wait... Watch out!"
+        },
+        {
+          "s": 1,
+          "t": "Aaaah!"
+        },
+        {
+          "s": 1,
+          "t": "Wh—What's going on!? Is that light coming from the room in the center? Ow, it's too bright!"
+        },
+        {
+          "s": 3,
+          "t": "The mutation is continuing... Has the Abyss made its move already?"
+        },
+        {
+          "s": 7,
+          "t": "Dainsleif... I see your incessant meddling continues, and that you have once again joined forces with Our Highness's kin..."
+        },
+        {
+          "s": 7,
+          "t": "Regrettably, I was not in time to control your exit from the network... and it sent you here, of all places. This was a catastrophic error."
+        },
+        {
+          "s": 3,
+          "t": "Hmph! I am surprised that you dare to face me. You ran like a coward last time."
+        },
+        {
+          "s": 7,
+          "t": "Our Highness's will must be done. All interferences must be removed... whatever the price to pay."
+        },
+        {
+          "s": 7,
+          "t": "This time... the curse that torments our people must be undone, once and for all."
+        },
+        {
+          "s": 3,
+          "t": "You are the only ones who torment them."
+        },
+        {
+          "s": 3,
+          "t": "There is nothing else left of those hilichurls. Nothing besides the curse itself."
+        },
+        {
+          "s": 7,
+          "t": "Say what you wish. I am going nowhere, Dainsleif."
+        },
+        {
+          "s": 3,
+          "t": "Then you will give your life just to delay the inevitable? How absurd. But since you wish to persist, then so be it!"
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "Whew! You've been hunting this Abyss Herald for aaages — now you finally got him!"
+        },
+        {
+          "s": 3,
+          "t": "There's no time to celebrate. The Abyss Order's device is activating, but there's still time to destroy it."
+        },
+        {
+          "s": 1,
+          "t": "Alright! Let's go!"
+        }
+      ],
+      "description": "The Black Serpent Knights present here do not, in truth, mean you ill. They are simply driven by their remaining instincts to defend those hilichurls. After you discover some of the secrets of this strange city, the Black Serpent Knight Halfdan seems to have something to show you…"
+    },
+    {
+      "title": "The Black Serpent Knights' Glory",
+      "dialogue": [
+        {
+          "section": "Abyss Lector"
+        },
+        {
+          "s": 3,
+          "t": "I thought he would've been turned to ashes in an instant... Halfdan's soul is extraordinarily resilient."
+        },
+        {
+          "s": 8,
+          "t": "Meddling fool! Encumber us no more..."
+        },
+        {
+          "s": 3,
+          "t": "Don't you have a greater encumbrance to worry about? Come on, this is your grand opportunity to get rid of me."
+        },
+        {
+          "s": 8,
+          "t": "...Dainsleif!!!"
+        },
+        {
+          "s": 3,
+          "t": "Take him out, and deactivate the device!"
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "What do we do now? The Abyss Lector's gone, but the device won't stop..."
+        },
+        {
+          "s": 1,
+          "t": "And Halfdan..."
+        },
+        {
+          "sit": "Let me take his place."
+        },
+        {
+          "sit": "The cleansing won't have any effect on me."
+        },
+        {
+          "s": 3,
+          "t": "No! As long as the device is active, the cursed are rendered powerless. Only you can take on the Abyss."
+        },
+        {
+          "s": 3,
+          "t": "If you value his sacrifice, then do not waste any more time here."
+        },
+        {
+          "s": 3,
+          "t": "See all these rays of light and portals? They must have installed several of these energy devices in various locations. Find them! Quickly!"
+        },
+        {
+          "s": 1,
+          "t": "So we have to... go through these Abyss portals? ...Hey, wait for Paimon!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 1,
+          "t": "So that's it, right? The device is fully shut down now?"
+        },
+        {
+          "s": 3,
+          "t": "The burning sensation has indeed stopped..."
+        },
+        {
+          "s": 1,
+          "t": "So we managed to stop the Abyss Order's plan?"
+        },
+        {
+          "sit": "But... Halfdan..."
+        },
+        {
+          "sit": "He seems to have breathed his last."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Let me check."
+        },
+        {
+          "s": 1,
+          "t": "Dain must be really upset..."
+        },
+        {
+          "s": 1,
+          "t": "Of all the ways to be reunited with one of his former comrades after so long... This is rough..."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "...Let's go."
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "That was Halfdan's soul..."
+        },
+        {
+          "s": 3,
+          "t": "More than one kind of strange power exists here. Souls are no strange sight under the circumstances."
+        },
+        {
+          "s": 3,
+          "t": "Still, if you intend to venture deeper in and continue your investigation, you ought to be careful."
+        },
+        {
+          "s": 3,
+          "t": "*cough*..."
+        },
+        {
+          "s": 1,
+          "t": "You bet, we'll be super careful. Oh, but... Dain, does this mean you're not coming with us?"
+        },
+        {
+          "s": 3,
+          "t": "That device took a severe toll on me. It will take me some time to recover."
+        },
+        {
+          "s": 1,
+          "t": "Oh, right... Well, actually, Paimon already knew that. You've clearly been pushing through the pain this whole time!"
+        },
+        {
+          "s": 1,
+          "t": "You've earned a good rest, Dain... Ooh, you should take a vacation!"
+        },
+        {
+          "s": 3,
+          "t": "\"Vacation\"? Huh, the very notion. This word has no business being in my vocabulary."
+        },
+        {
+          "s": 3,
+          "t": "There are more important things that demand my attention. The \"Loom of Fate\" operation is still underway."
+        },
+        {
+          "s": 3,
+          "t": "And I suspect that these amplification devices are connected to that plan."
+        },
+        {
+          "sit": "I will be on the lookout."
+        },
+        {
+          "sit": "We will talk more next time. After you've recovered."
+        },
+        {
+          "s": 3,
+          "t": "Thank you for understanding."
+        },
+        {
+          "s": 3,
+          "t": "I only hope that next time we meet, you know whose side you're on."
+        },
+        {
+          "s": 1,
+          "t": "Sheesh! He sure knows how to hold a grudge, saving that snide remark right till the end..."
+        },
+        {
+          "s": 1,
+          "t": "Well, shame that we didn't get to see your brother(sister) again, but at least we learned some useful info, huh?"
+        },
+        {
+          "s": 1,
+          "t": "As long as you keep pressing on with your journey, you guys will definitely meet again, and everything will be back to normal, right?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon almost forgot — the real reason we came here was to investigate what was going on with the hilichurls, wasn't it?"
+        },
+        {
+          "s": 1,
+          "t": "We've probably seen enough to report back to the miner now. But, uh... how are we going to explain it to him? This is all way too complicated for regular people to understand!"
+        },
+        {
+          "s": 1,
+          "t": "Meh, we'll figure it out — just don't forget about the commission when we're done here."
+        }
+      ],
+      "description": "Dainsleif figures out the Abyss Order’s plan from the twin’s memories left within the Inteyvat flower. Now to see if you can stop them or not…"
+    }
+  ],
+  "speakers": [
+    "Katheryne",
+    "Paimon",
+    "Yuehui",
+    "Dainsleif",
+    "Halfdan",
+    "Black Serpent Knight of Old",
+    "Investigate",
+    "Abyss Herald",
+    "Abyss Lector"
+  ],
+  "hhw_source": "https://gensh.honeyhunterworld.com/ch_1206/?lang=EN",
+  "id": "ch-1206"
+}

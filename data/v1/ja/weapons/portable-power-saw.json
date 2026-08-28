@@ -1,0 +1,705 @@
+{
+  "name": "携帯型チェーンソー",
+  "rarity": 4,
+  "type": "両手剣",
+  "base_atk": 41,
+  "passive": {
+    "name": "船工の唄",
+    "refinements": {
+      "R1": "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+40、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを2ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。",
+      "R2": "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+50、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを2.5ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。",
+      "R3": "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+60、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを3ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。",
+      "R4": "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+70、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを3.5ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。",
+      "R5": "治療効果を受ける、または治療効果を与える時、強靭マークが1枚付与される。継続時間30秒、最大3枚まで。元素スキル、または元素爆発を発動する時、すべての強靭マークを消費し、継続時間10秒の「奮起」効果を獲得する。消費した強靭マーク1枚につき、元素熟知+80、さらに「奮起」効果を獲得した2秒後、消費した強靭マーク1枚につき、装備者の元素エネルギーを4ポイント回復する。「奮起」効果は15秒に1回のみ発動可能。キャラクターが待機中でも強靭マークを獲得できる。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 41,
+      "substat": "HP%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 2,
+      "base_atk": 44,
+      "substat": "HP%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 3,
+      "base_atk": 47,
+      "substat": "HP%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 4,
+      "base_atk": 51,
+      "substat": "HP%",
+      "substat_value": 12.0
+    },
+    {
+      "level": 5,
+      "base_atk": 54,
+      "substat": "HP%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 6,
+      "base_atk": 57,
+      "substat": "HP%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 7,
+      "base_atk": 60,
+      "substat": "HP%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 8,
+      "base_atk": 63,
+      "substat": "HP%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 9,
+      "base_atk": 66,
+      "substat": "HP%",
+      "substat_value": 13.9
+    },
+    {
+      "level": 10,
+      "base_atk": 69,
+      "substat": "HP%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 11,
+      "base_atk": 72,
+      "substat": "HP%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 12,
+      "base_atk": 75,
+      "substat": "HP%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 13,
+      "base_atk": 78,
+      "substat": "HP%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 14,
+      "base_atk": 81,
+      "substat": "HP%",
+      "substat_value": 16.4
+    },
+    {
+      "level": 15,
+      "base_atk": 84,
+      "substat": "HP%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 16,
+      "base_atk": 87,
+      "substat": "HP%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 17,
+      "base_atk": 90,
+      "substat": "HP%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 18,
+      "base_atk": 93,
+      "substat": "HP%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 19,
+      "base_atk": 96,
+      "substat": "HP%",
+      "substat_value": 18.8
+    },
+    {
+      "level": 20,
+      "base_atk": 99,
+      "substat": "HP%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 21,
+      "base_atk": 128,
+      "substat": "HP%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 22,
+      "base_atk": 131,
+      "substat": "HP%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 23,
+      "base_atk": 134,
+      "substat": "HP%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 24,
+      "base_atk": 137,
+      "substat": "HP%",
+      "substat_value": 21.2
+    },
+    {
+      "level": 25,
+      "base_atk": 140,
+      "substat": "HP%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 26,
+      "base_atk": 143,
+      "substat": "HP%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 27,
+      "base_atk": 146,
+      "substat": "HP%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 28,
+      "base_atk": 149,
+      "substat": "HP%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 29,
+      "base_atk": 152,
+      "substat": "HP%",
+      "substat_value": 23.6
+    },
+    {
+      "level": 30,
+      "base_atk": 155,
+      "substat": "HP%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 31,
+      "base_atk": 158,
+      "substat": "HP%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 32,
+      "base_atk": 161,
+      "substat": "HP%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 33,
+      "base_atk": 163,
+      "substat": "HP%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 34,
+      "base_atk": 166,
+      "substat": "HP%",
+      "substat_value": 26.1
+    },
+    {
+      "level": 35,
+      "base_atk": 169,
+      "substat": "HP%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 36,
+      "base_atk": 172,
+      "substat": "HP%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 37,
+      "base_atk": 175,
+      "substat": "HP%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 38,
+      "base_atk": 178,
+      "substat": "HP%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 39,
+      "base_atk": 181,
+      "substat": "HP%",
+      "substat_value": 28.5
+    },
+    {
+      "level": 40,
+      "base_atk": 184,
+      "substat": "HP%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 41,
+      "base_atk": 213,
+      "substat": "HP%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 42,
+      "base_atk": 215,
+      "substat": "HP%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 43,
+      "base_atk": 218,
+      "substat": "HP%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 44,
+      "base_atk": 221,
+      "substat": "HP%",
+      "substat_value": 30.9
+    },
+    {
+      "level": 45,
+      "base_atk": 224,
+      "substat": "HP%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 46,
+      "base_atk": 227,
+      "substat": "HP%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 47,
+      "base_atk": 230,
+      "substat": "HP%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 48,
+      "base_atk": 233,
+      "substat": "HP%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 49,
+      "base_atk": 236,
+      "substat": "HP%",
+      "substat_value": 33.3
+    },
+    {
+      "level": 50,
+      "base_atk": 238,
+      "substat": "HP%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 51,
+      "base_atk": 267,
+      "substat": "HP%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 52,
+      "base_atk": 270,
+      "substat": "HP%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 53,
+      "base_atk": 273,
+      "substat": "HP%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 54,
+      "base_atk": 276,
+      "substat": "HP%",
+      "substat_value": 35.7
+    },
+    {
+      "level": 55,
+      "base_atk": 278,
+      "substat": "HP%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 56,
+      "base_atk": 281,
+      "substat": "HP%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 57,
+      "base_atk": 284,
+      "substat": "HP%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 58,
+      "base_atk": 287,
+      "substat": "HP%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 59,
+      "base_atk": 290,
+      "substat": "HP%",
+      "substat_value": 38.2
+    },
+    {
+      "level": 60,
+      "base_atk": 293,
+      "substat": "HP%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 61,
+      "base_atk": 321,
+      "substat": "HP%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 62,
+      "base_atk": 324,
+      "substat": "HP%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 63,
+      "base_atk": 327,
+      "substat": "HP%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 64,
+      "base_atk": 330,
+      "substat": "HP%",
+      "substat_value": 40.6
+    },
+    {
+      "level": 65,
+      "base_atk": 333,
+      "substat": "HP%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 66,
+      "base_atk": 335,
+      "substat": "HP%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 67,
+      "base_atk": 338,
+      "substat": "HP%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 68,
+      "base_atk": 341,
+      "substat": "HP%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 69,
+      "base_atk": 344,
+      "substat": "HP%",
+      "substat_value": 43.0
+    },
+    {
+      "level": 70,
+      "base_atk": 347,
+      "substat": "HP%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 71,
+      "base_atk": 375,
+      "substat": "HP%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 72,
+      "base_atk": 378,
+      "substat": "HP%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 73,
+      "base_atk": 381,
+      "substat": "HP%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 74,
+      "base_atk": 384,
+      "substat": "HP%",
+      "substat_value": 45.4
+    },
+    {
+      "level": 75,
+      "base_atk": 387,
+      "substat": "HP%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 76,
+      "base_atk": 389,
+      "substat": "HP%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 77,
+      "base_atk": 392,
+      "substat": "HP%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 78,
+      "base_atk": 395,
+      "substat": "HP%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 79,
+      "base_atk": 398,
+      "substat": "HP%",
+      "substat_value": 47.9
+    },
+    {
+      "level": 80,
+      "base_atk": 401,
+      "substat": "HP%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 81,
+      "base_atk": 429,
+      "substat": "HP%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 82,
+      "base_atk": 432,
+      "substat": "HP%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 83,
+      "base_atk": 435,
+      "substat": "HP%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 84,
+      "base_atk": 438,
+      "substat": "HP%",
+      "substat_value": 50.3
+    },
+    {
+      "level": 85,
+      "base_atk": 440,
+      "substat": "HP%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 86,
+      "base_atk": 443,
+      "substat": "HP%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 87,
+      "base_atk": 446,
+      "substat": "HP%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 88,
+      "base_atk": 449,
+      "substat": "HP%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 89,
+      "base_atk": 452,
+      "substat": "HP%",
+      "substat_value": 52.7
+    },
+    {
+      "level": 90,
+      "base_atk": 454,
+      "substat": "HP%",
+      "substat_value": 55.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "無垢な海の苦杯",
+          "id": 114057,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "隙間のコア",
+          "id": 112089,
+          "count": 3,
+          "rank": 2
+        },
+        {
+          "name": "整合の歯車",
+          "id": 112083,
+          "count": 2,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "無垢な海の酒盃",
+          "id": 114058,
+          "count": 3,
+          "rank": 3
+        },
+        {
+          "name": "隙間のコア",
+          "id": 112089,
+          "count": 12,
+          "rank": 2
+        },
+        {
+          "name": "整合の歯車",
+          "id": 112083,
+          "count": 8,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "無垢な海の酒盃",
+          "id": 114058,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "外界のシナプス",
+          "id": 112090,
+          "count": 6,
+          "rank": 3
+        },
+        {
+          "name": "機構の平歯車",
+          "id": 112084,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "無垢な海の銀盃",
+          "id": 114059,
+          "count": 3,
+          "rank": 4
+        },
+        {
+          "name": "外界のシナプス",
+          "id": 112090,
+          "count": 12,
+          "rank": 3
+        },
+        {
+          "name": "機構の平歯車",
+          "id": 112084,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 35000,
+      "items": [
+        {
+          "name": "無垢な海の銀盃",
+          "id": 114059,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "異界生命体のコア",
+          "id": 112091,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "奇械のコア歯車",
+          "id": 112085,
+          "count": 6,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "無垢な海の金盃",
+          "id": 114060,
+          "count": 4,
+          "rank": 5
+        },
+        {
+          "name": "異界生命体のコア",
+          "id": 112091,
+          "count": 18,
+          "rank": 4
+        },
+        {
+          "name": "奇械のコア歯車",
+          "id": 112085,
+          "count": 12,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "12427"
+}

@@ -1,0 +1,538 @@
+{
+  "chapter": "Between Pledge and Forgettance",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Rite of the Bold",
+  "region": null,
+  "quests": [
+    {
+      "title": "Rite of the Bold",
+      "dialogue": [
+        {
+          "section": "Manqu, Pacal"
+        },
+        {
+          "s": 0,
+          "t": "...Is there any room to negotiate?"
+        },
+        {
+          "s": 1,
+          "t": "Manqu, look at me. Didn't you hear what Titu said? No one's attempted this feat in almost 500 years."
+        },
+        {
+          "s": 1,
+          "t": "Even if you claim that you've found a possible entrance..."
+        },
+        {
+          "s": 1,
+          "t": "Well, so what? You listen well — no human or Saurian companion setting out on this road has ever returned. Not a single one."
+        },
+        {
+          "s": 0,
+          "t": "Um, forgive my directness, but..."
+        },
+        {
+          "s": 2,
+          "t": "Well, there's our Relics Association guy. And that over there... Is that the chief of the tribe?"
+        },
+        {
+          "s": 2,
+          "t": "Hey! Relics Guy!"
+        },
+        {
+          "s": 0,
+          "t": "Ah, it's you, {NICKNAME}... Paimon, and {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "Huh, a Tepetlisaur with a red tail scarf! Mighty energetic, and looks different right off the bat too! Alright, little fella, give us another!"
+        },
+        {
+          "s": 3,
+          "t": "Raaawr!"
+        },
+        {
+          "s": 1,
+          "t": "Not bad! So you're {REALNAME[ID(2)|SHOWHOST(true)]}? And I suppose that makes you two the ones it chose..."
+        },
+        {
+          "s": 1,
+          "t": "And haven't you two been the talk of the town lately, {NICKNAME}, Paimon? Manqu here's been mumbling about you constantly, and Titu mentioned you after his return."
+        },
+        {
+          "s": 1,
+          "t": "It wouldn't be a stretch to call your recent deeds \"legendary,\" and you've been a friend to us Children of Echoes thus far."
+        },
+        {
+          "sit": "There's no need to thank me too much."
+        },
+        {
+          "sit": "（test）只是举手之劳罢了。（废弃）"
+        },
+        {
+          "s": 1,
+          "t": "Haha, quite the phenomenal youngster!"
+        },
+        {
+          "s": 1,
+          "t": "And it is in that capacity, Manqu, that I'm telling you — it is not our way to push guests into a fiery pit just to prove a hypothesis."
+        },
+        {
+          "s": 1,
+          "t": "That's not how \"I'd\" treat my guests, anyway."
+        },
+        {
+          "s": 0,
+          "t": "*sigh*..."
+        },
+        {
+          "s": 2,
+          "t": "What's all this about, anyway? Something about danger, and a fiery pit?"
+        },
+        {
+          "s": 0,
+          "t": "Apologies. Allow me to explain..."
+        },
+        {
+          "s": 0,
+          "t": "Remember what we spoke of before? To remove the mark of the Flamelord's Blessing, you need to bring the two required token types to the volcano."
+        },
+        {
+          "s": 0,
+          "t": "One of the tokens is in the ruins beyond the Children of Echoes' land..."
+        },
+        {
+          "s": 1,
+          "t": "There are conditions for getting in, though."
+        },
+        {
+          "s": 1,
+          "t": "Based on past custom... Which I only just found on a woven scroll, by the way, since it's been ages since anyone's hankered to try this."
+        },
+        {
+          "s": 1,
+          "t": "（test）弄得我头发上全是灰尘，走在路上的时候还被搭话，「老大，你今天怎么看上去还老了十岁…」，咳咳，这个不说了…（废弃）"
+        },
+        {
+          "s": 1,
+          "t": "If you wish to take your Saurian companion to the volcano and perform a baptism to cleanse the Flamelord's Blessing, you must be recognized by said Saurian's corresponding tribal chief..."
+        },
+        {
+          "s": 1,
+          "t": "(test)方能踏上取得信物之一的朝圣之道。（废弃）"
+        },
+        {
+          "s": 3,
+          "t": "(test)嗯？（废弃）"
+        },
+        {
+          "s": 2,
+          "t": "(test)欸，什么叫从各自部族首领那里取得证明啊…（废弃）"
+        },
+        {
+          "s": 0,
+          "t": "With {REALNAME[ID(2)|SHOWHOST(true)]} being a Tepetlisaurus, this means the chief of the Children of Echoes."
+        },
+        {
+          "s": 2,
+          "t": "(test)原来是这样，我们家的{REALNAME[ID(2)|SHOWHOST(true)]}是只小嵴锋龙，所以就要取得「回声之子」首领的认可…（废弃）"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Isn't that you?"
+        },
+        {
+          "s": 1,
+          "t": "Well, yeah, though I'll be real, I don't know if this rule applies to outsiders. Still, {NICKNAME}..."
+        },
+        {
+          "s": 1,
+          "t": "For hundreds of years, many are those who have tried to free their Saurian companions from what runs in their bloodline... this thing that is more curse than blessing."
+        },
+        {
+          "s": 1,
+          "t": "But not a single one has succeeded... Which is why the tribes gradually abandoned the custom..."
+        },
+        {
+          "s": 2,
+          "t": "A zero percent success rate, seriously!?"
+        },
+        {
+          "s": 1,
+          "t": "Yes, so perilous is the journey. It's also said that the trial that must be passed before one may obtain the token will test not only the warrior who steps forth, but also the Saurian with them..."
+        },
+        {
+          "s": 1,
+          "t": "You are not of the tribes, but I will not have you die in vain."
+        },
+        {
+          "s": 1,
+          "t": "So please, {NICKNAME}, I suggest that you leave {REALNAME[ID(2)|SHOWHOST(true)]} here with us."
+        },
+        {
+          "s": 1,
+          "t": "If nothing else, I can ensure it will be taken care of until the day it must enter the Night Kingdom."
+        },
+        {
+          "s": 2,
+          "t": "But... If we do that..."
+        },
+        {
+          "s": 0,
+          "t": "...As I said, {REALNAME[ID(2)|SHOWHOST(true)]} will be unable to grow up."
+        },
+        {
+          "s": 3,
+          "t": "Roar..."
+        },
+        {
+          "sit": "Looks like that's not what it wants."
+        },
+        {
+          "sit": "I'll try this all the same."
+        },
+        {
+          "s": 1,
+          "t": "Despite the immense peril?"
+        },
+        {
+          "sit": "Yes."
+        },
+        {
+          "s": 1,
+          "t": "And what about you, little fella?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "Hahaha! Unyielding, resolute, yet passionate. Your hearts blaze like fine phlogiston."
+        },
+        {
+          "s": 1,
+          "t": "Alright then. Then I shall award you the right to embark on the volcanic pilgrimage."
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Alright! Let's go get that first token, then!"
+        },
+        {
+          "s": 0,
+          "t": "No, not yet. Now that you are qualified, you must undertake a trial of witnesses..."
+        },
+        {
+          "s": 0,
+          "t": "Ancient custom dictates that the warrior and Saurian must together obtain the feather of a green quetzal deep in the woods, and offer up a stole of animal pelts..."
+        },
+        {
+          "s": 0,
+          "t": "And together, you must win fifty battles for our tribe, and offer up ninety-six gems of high quality..."
+        },
+        {
+          "sit": "Uh, I wouldn't be eligible to..."
+        },
+        {
+          "sit": "Can you give me a discount on those for Mora?"
+        },
+        {
+          "s": 1,
+          "t": "Oh come now, Manqu, forget it. Where are those traditions even from? Some lost stone age?"
+        },
+        {
+          "s": 1,
+          "t": "The purpose of those formalities was to foster the bond between human and Saurian, and hone their skills — and I've had it with all that."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, as I see it, neither {NICKNAME} nor {REALNAME[ID(2)|SHOWHOST(true)]} seems to need that sort of proof."
+        },
+        {
+          "s": 1,
+          "t": "To put things simply, {NICKNAME}, we have here in Natlan a super simple way of dealing with such situations..."
+        },
+        {
+          "s": 1,
+          "t": "Fight me, and prove your strength!"
+        },
+        {
+          "sit": "Right on!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Wait? Here? Oh, do you mean we're going on stage?"
+        },
+        {
+          "s": 1,
+          "t": "Of course not, haha, the stage isn't a place for tunneling... Our duel grounds are in the mountain to the rear."
+        },
+        {
+          "s": 1,
+          "t": "Come, let's head there — we'll have ourselves a good one!"
+        },
+        {
+          "section": "Manqu"
+        },
+        {
+          "s": 0,
+          "t": "Again, forgive my directness... But while I am aware of your strength, be careful all the same."
+        },
+        {
+          "s": 0,
+          "t": "He obtained no Ancient Name, but Pacal is not to be taken lightly... so long as he's kept his training up these last few years."
+        },
+        {
+          "s": 0,
+          "t": "If you're ready, then we can begin."
+        },
+        {
+          "section": "Manqu"
+        },
+        {
+          "sit": "We're ready!"
+        },
+        {
+          "s": 0,
+          "t": "In that case, on your marks. The duel will soon begin."
+        },
+        {
+          "section": "Manqu"
+        },
+        {
+          "sit": "Need to prep for a bit."
+        },
+        {
+          "s": 0,
+          "t": "Of course. I'll tell him once you're ready..."
+        },
+        {
+          "section": "Manqu"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, nice! We won! Great job us!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "Hah... Hoo. I'm not sure even the best warrior in our tribe could take you out... That was a sound defeat indeed."
+        },
+        {
+          "s": 1,
+          "t": "Whaddya think, huh, buddy? Looks like we need more training!"
+        },
+        {
+          "s": 4,
+          "t": "Mmmm..."
+        },
+        {
+          "s": 0,
+          "t": "Quite a spectacular battle, indeed..."
+        },
+        {
+          "s": 1,
+          "t": "Pretty words, Manqu, but is that all you've got? Wanna try your hand too?"
+        },
+        {
+          "s": 0,
+          "t": "No, thank you very much."
+        },
+        {
+          "s": 1,
+          "t": "Bleh. Boring. Ah, that was a great match! {NICKNAME}... You're the real deal."
+        },
+        {
+          "sit": "I was just warming up, you know..."
+        },
+        {
+          "sit": "You weren't bad either."
+        },
+        {
+          "s": 1,
+          "t": "Hahaha! Cocky, too! Still, I admire that. The strong should also assert their dominance a bit! I mean, what's the point of getting strong otherwise?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, looks like you really are well taken care of, {REALNAME[ID(2)|SHOWHOST(true)]}..."
+        },
+        {
+          "s": 2,
+          "t": "Of course! {REALNAME[ID(2)|SHOWHOST(true)]}'s our trusty buddy, y'know!"
+        },
+        {
+          "s": 1,
+          "t": "I am very glad to hear that."
+        },
+        {
+          "s": 1,
+          "t": "As promised, this is proof of your accomplishment from a tribal chief."
+        },
+        {
+          "s": 1,
+          "t": "As for its official name — well, Manqu, there's your cue..."
+        },
+        {
+          "s": 0,
+          "t": "The Talisman of Waxaklahun Ubah Kan... the Sage of the Stolen Flame."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, I can never memorize that name, but I do remember that after the Pyro Dragon Sovereign's death, and after the first Pyro Archon was revived from the flames..."
+        },
+        {
+          "s": 1,
+          "t": "The Sage and the Archon each brought back one token from the volcano, and whomsoever obtains both may enter the cleansing fire within the volcano and purge all curses and calamities."
+        },
+        {
+          "s": 1,
+          "t": "Still, how long did this Sage live anyway, Manqu? I feel like there are tales of him from the tribal era to that of Ochkanatlan..."
+        },
+        {
+          "s": 1,
+          "t": "...And even around the Shadow Pin."
+        },
+        {
+          "s": 0,
+          "t": "Well, he was the first human to use phlogiston... and who knows what fate came upon such legendary figures?"
+        },
+        {
+          "s": 0,
+          "t": "Some say both his body and spirit turned into phlogiston, becoming one with Natlan's winds, lands, and flowers, granting him the power to hear the prayers for help directed at him by all the tribes."
+        },
+        {
+          "s": 0,
+          "t": "Some say that each era boasted its own successor to the sagely title, passing it on even to this day."
+        },
+        {
+          "s": 0,
+          "t": "But — and excuse my bluntness — these are mostly storytellers' speculations."
+        },
+        {
+          "s": 1,
+          "t": "Haha, watch yourself with those words. You'll make Titu mad again."
+        },
+        {
+          "s": 1,
+          "t": "Alright. My duties are hereby discharged— oh, wait, tradition does demand one more thing..."
+        },
+        {
+          "s": 1,
+          "t": "Which is to grant the brave journeying soul and their companions my blessing."
+        },
+        {
+          "s": 3,
+          "t": "Hmm?"
+        },
+        {
+          "s": 2,
+          "t": "Ooh, so that's also a ritual you all do, huh?"
+        },
+        {
+          "s": 1,
+          "t": "Heh, it's just moral support. Don't get your hopes up, eh?"
+        },
+        {
+          "s": 1,
+          "t": "Right, then. {NICKNAME}, {REALNAME[ID(2)|SHOWHOST(true)]}..."
+        },
+        {
+          "sit": "Here I am, chief."
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "May you soar through the mountains like the hardiest bird;<br/>May the wicked tides break upon you as if you were the hardest of stones."
+        },
+        {
+          "s": 1,
+          "t": "May you fear no hardship, for the world is bound to be full of it.<br/>May you never forget each other, for fate must bring an inevitable farewell."
+        },
+        {
+          "s": 1,
+          "t": "May you reach your destination and gain what you desire... And most of all, I hope that you shall safely return."
+        },
+        {
+          "sit": "I will."
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Eh? Wait, does Paimon get any blessings?"
+        },
+        {
+          "s": 1,
+          "t": "Haha! As for you, little Paimon... May you eat and drink well, sleep sumptuously, and see goodly growth!"
+        },
+        {
+          "sit": "That sounds pretty good to me!"
+        },
+        {
+          "sit": "Can you even grow, goodly or otherwise, Paimon?"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, Paimon accepts this blessing — but only just, okay?"
+        },
+        {
+          "s": 1,
+          "t": "Fine by me. In that case, the rite of witnesses is ended. But before you go, let me stress this again: be careful."
+        },
+        {
+          "s": 2,
+          "t": "We know, Pacal. See ya! ... And seeya too, Uchu!"
+        },
+        {
+          "s": 3,
+          "t": "Roar!"
+        },
+        {
+          "s": 4,
+          "t": "Roar..."
+        },
+        {
+          "s": 1,
+          "t": "Good luck. See you all soon."
+        }
+      ],
+      "description": "Go to the Children of Echoes and search for clues concerning the Volcanic Token."
+    }
+  ],
+  "speakers": [
+    "Manqu",
+    "Pacal",
+    "Paimon",
+    "{REALNAME[ID(2)|SHOWHOST(true)]}",
+    "Uchu"
+  ],
+  "id": "q-75019"
+}

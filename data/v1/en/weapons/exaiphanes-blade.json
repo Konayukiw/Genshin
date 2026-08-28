@@ -1,0 +1,705 @@
+{
+  "name": "Exaiphanes Blade",
+  "rarity": 5,
+  "type": "Sword",
+  "base_atk": 46,
+  "passive": {
+    "name": "Traveler's Path",
+    "refinements": {
+      "R1": "When the Traveler equips this, their ATK will increase by 16% for 8s after they hit an opponent. At the same time, they will also regenerate 3 Elemental Energy. This effect can trigger once every 5s. This can be triggered even when the character is not on the field.",
+      "R2": "When the Traveler equips this, their CRIT DMG increases by 6% for every Element they have resonated with. Additionally, the Traveler's ATK will also increase by 20% for 8s, and regenerate 3 Elemental Energy, after they attack and hit an opponent. This effect can trigger once every 5s. This can be triggered even when the character is not on the field.",
+      "R3": "When the Traveler equips this, their CRIT DMG increases by 6% for every Element they have resonated with. Additionally, the Traveler's ATK will also increase by 24% for 8s, and regenerate 5 Elemental Energy, after they attack and hit an opponent. This effect can trigger once every 5s. This can be triggered even when the character is not on the field.",
+      "R4": "When the Traveler equips this, their CRIT DMG increases by 6% for every Element they have resonated with. Additionally, the Traveler's ATK will also increase by 32% for 8s, and regenerate 5 Elemental Energy, after they attack and hit an opponent. This effect can trigger once every 5s. This can be triggered even when the character is not on the field.",
+      "R5": "When the Traveler equips this, their CRIT DMG increases by 6% for every Element they have resonated with. Additionally, the Traveler's ATK will also increase by 40% for 8s, and regenerate 5 Elemental Energy, after they attack and hit an opponent. This effect can trigger once every 5s. This can be triggered even when the character is not on the field."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 46,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 2,
+      "base_atk": 50,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 3,
+      "base_atk": 54,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 4,
+      "base_atk": 58,
+      "substat": "CRIT Rate%",
+      "substat_value": 7.2
+    },
+    {
+      "level": 5,
+      "base_atk": 62,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 6,
+      "base_atk": 66,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 7,
+      "base_atk": 70,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 8,
+      "base_atk": 74,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 9,
+      "base_atk": 78,
+      "substat": "CRIT Rate%",
+      "substat_value": 8.4
+    },
+    {
+      "level": 10,
+      "base_atk": 82,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 11,
+      "base_atk": 86,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 12,
+      "base_atk": 90,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 13,
+      "base_atk": 94,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 14,
+      "base_atk": 98,
+      "substat": "CRIT Rate%",
+      "substat_value": 9.8
+    },
+    {
+      "level": 15,
+      "base_atk": 102,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 16,
+      "base_atk": 106,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 17,
+      "base_atk": 110,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 18,
+      "base_atk": 114,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 19,
+      "base_atk": 118,
+      "substat": "CRIT Rate%",
+      "substat_value": 11.3
+    },
+    {
+      "level": 20,
+      "base_atk": 122,
+      "substat": "CRIT Rate%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 21,
+      "base_atk": 157,
+      "substat": "CRIT Rate%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 22,
+      "base_atk": 161,
+      "substat": "CRIT Rate%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 23,
+      "base_atk": 165,
+      "substat": "CRIT Rate%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 24,
+      "base_atk": 169,
+      "substat": "CRIT Rate%",
+      "substat_value": 12.7
+    },
+    {
+      "level": 25,
+      "base_atk": 173,
+      "substat": "CRIT Rate%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 26,
+      "base_atk": 177,
+      "substat": "CRIT Rate%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 27,
+      "base_atk": 181,
+      "substat": "CRIT Rate%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 28,
+      "base_atk": 185,
+      "substat": "CRIT Rate%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 29,
+      "base_atk": 190,
+      "substat": "CRIT Rate%",
+      "substat_value": 14.2
+    },
+    {
+      "level": 30,
+      "base_atk": 194,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 31,
+      "base_atk": 198,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 32,
+      "base_atk": 202,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 33,
+      "base_atk": 206,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 34,
+      "base_atk": 210,
+      "substat": "CRIT Rate%",
+      "substat_value": 15.6
+    },
+    {
+      "level": 35,
+      "base_atk": 214,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 36,
+      "base_atk": 219,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 37,
+      "base_atk": 223,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 38,
+      "base_atk": 227,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 39,
+      "base_atk": 231,
+      "substat": "CRIT Rate%",
+      "substat_value": 17.1
+    },
+    {
+      "level": 40,
+      "base_atk": 235,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 41,
+      "base_atk": 270,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 42,
+      "base_atk": 275,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 43,
+      "base_atk": 279,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 44,
+      "base_atk": 283,
+      "substat": "CRIT Rate%",
+      "substat_value": 18.5
+    },
+    {
+      "level": 45,
+      "base_atk": 287,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 46,
+      "base_atk": 292,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 47,
+      "base_atk": 296,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 48,
+      "base_atk": 300,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 49,
+      "base_atk": 304,
+      "substat": "CRIT Rate%",
+      "substat_value": 20.0
+    },
+    {
+      "level": 50,
+      "base_atk": 308,
+      "substat": "CRIT Rate%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 51,
+      "base_atk": 344,
+      "substat": "CRIT Rate%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 52,
+      "base_atk": 348,
+      "substat": "CRIT Rate%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 53,
+      "base_atk": 352,
+      "substat": "CRIT Rate%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 54,
+      "base_atk": 357,
+      "substat": "CRIT Rate%",
+      "substat_value": 21.4
+    },
+    {
+      "level": 55,
+      "base_atk": 361,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 56,
+      "base_atk": 365,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 57,
+      "base_atk": 370,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 58,
+      "base_atk": 374,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 59,
+      "base_atk": 378,
+      "substat": "CRIT Rate%",
+      "substat_value": 22.9
+    },
+    {
+      "level": 60,
+      "base_atk": 382,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 61,
+      "base_atk": 418,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 62,
+      "base_atk": 422,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 63,
+      "base_atk": 427,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 64,
+      "base_atk": 431,
+      "substat": "CRIT Rate%",
+      "substat_value": 24.4
+    },
+    {
+      "level": 65,
+      "base_atk": 435,
+      "substat": "CRIT Rate%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 66,
+      "base_atk": 440,
+      "substat": "CRIT Rate%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 67,
+      "base_atk": 444,
+      "substat": "CRIT Rate%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 68,
+      "base_atk": 448,
+      "substat": "CRIT Rate%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 69,
+      "base_atk": 453,
+      "substat": "CRIT Rate%",
+      "substat_value": 25.8
+    },
+    {
+      "level": 70,
+      "base_atk": 457,
+      "substat": "CRIT Rate%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 71,
+      "base_atk": 492,
+      "substat": "CRIT Rate%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 72,
+      "base_atk": 497,
+      "substat": "CRIT Rate%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 73,
+      "base_atk": 501,
+      "substat": "CRIT Rate%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 74,
+      "base_atk": 506,
+      "substat": "CRIT Rate%",
+      "substat_value": 27.3
+    },
+    {
+      "level": 75,
+      "base_atk": 510,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 76,
+      "base_atk": 515,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 77,
+      "base_atk": 519,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 78,
+      "base_atk": 523,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 79,
+      "base_atk": 528,
+      "substat": "CRIT Rate%",
+      "substat_value": 28.7
+    },
+    {
+      "level": 80,
+      "base_atk": 532,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 81,
+      "base_atk": 568,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 82,
+      "base_atk": 572,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 83,
+      "base_atk": 577,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 84,
+      "base_atk": 581,
+      "substat": "CRIT Rate%",
+      "substat_value": 30.2
+    },
+    {
+      "level": 85,
+      "base_atk": 586,
+      "substat": "CRIT Rate%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 86,
+      "base_atk": 590,
+      "substat": "CRIT Rate%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 87,
+      "base_atk": 595,
+      "substat": "CRIT Rate%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 88,
+      "base_atk": 599,
+      "substat": "CRIT Rate%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 89,
+      "base_atk": 604,
+      "substat": "CRIT Rate%",
+      "substat_value": 31.6
+    },
+    {
+      "level": 90,
+      "base_atk": 608,
+      "substat": "CRIT Rate%",
+      "substat_value": 33.1
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Revival",
+          "id": 114093,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Accreted Fragment",
+          "id": 112152,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Ethereal Glimmershard",
+          "id": 112146,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Ceremony",
+          "id": 114094,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "Accreted Fragment",
+          "id": 112152,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "Ethereal Glimmershard",
+          "id": 112146,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Ceremony",
+          "id": 114094,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Accreted Mass",
+          "id": 112153,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Ethereal Crystal",
+          "id": 112147,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Lament",
+          "id": 114095,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "Accreted Mass",
+          "id": 112153,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "Ethereal Crystal",
+          "id": 112147,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Lament",
+          "id": 114095,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "Accreted Growth",
+          "id": 112154,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "Ethereal Crystalscale Stone",
+          "id": 112148,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "The Frost Emperor's Farewell",
+          "id": 114096,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "Accreted Growth",
+          "id": 112154,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "Ethereal Crystalscale Stone",
+          "id": 112148,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "11521"
+}

@@ -1,0 +1,1134 @@
+{
+  "chapter": "Magic Mountain",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Wind Has Ceased",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Wind Has Ceased",
+      "dialogue": [
+        {
+          "section": "Mann"
+        },
+        {
+          "s": 0,
+          "t": "Some people just won't listen. I already told you, now's not the time to go up the mountain."
+        },
+        {
+          "s": 1,
+          "t": "Easy there, Old Mann. Let's calm down and talk this out."
+        },
+        {
+          "s": 2,
+          "t": "We were getting along just fine earlier at the Night Brew."
+        },
+        {
+          "s": 2,
+          "t": "But the moment I mentioned I was heading for Windrest Peak, he grabbed me and dragged me all the way here."
+        },
+        {
+          "s": 3,
+          "t": "Oh, Huffman. What's going on here?"
+        },
+        {
+          "s": 1,
+          "t": "As you can see, Old Mann is trying his best to keep people away from Windrest Peak."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, let me introduce you. This is Lipphart, an adventurer."
+        },
+        {
+          "s": 0,
+          "t": "What I saw... What I felt... It was terrifying! Surely you don't wish to hear it?"
+        },
+        {
+          "s": 2,
+          "t": "Doesn't look like I'm going anywhere today, so let's hear it. Consider it an extension of our drinking and bragging session from earlier."
+        },
+        {
+          "s": 2,
+          "t": "So, what sort of \"great peril\" are we facing here?"
+        },
+        {
+          "s": 0,
+          "t": "The sanatorium's haunted! Seriously! I saw them ghosts with my own eyes!"
+        },
+        {
+          "s": 3,
+          "t": "Ghosts!?"
+        },
+        {
+          "s": 0,
+          "t": "It happened last night..."
+        },
+        {
+          "section": "Zeitlind"
+        },
+        {
+          "s": 4,
+          "t": "(test)具体对话表现后加。"
+        },
+        {
+          "section": "Mann"
+        },
+        {
+          "s": 0,
+          "t": "And that's how it happened — I swear it on my paycheck, and the responsibilities that come with it."
+        },
+        {
+          "s": 2,
+          "t": "Weren't you bemoaning how little you make as a doorman?"
+        },
+        {
+          "s": 0,
+          "t": "I'm not just any doorman. I oversee demolition work and cultural heritage preservation."
+        },
+        {
+          "s": 0,
+          "t": "Though yeah, the pay is bad... Well, then I swear it on my reputation at the tavern."
+        },
+        {
+          "s": 1,
+          "t": "A most serious oath for us Mondstadters."
+        },
+        {
+          "s": 1,
+          "t": "I should really investigate this myself, but I still have to meet up with the Knights' expedition, who are returning to Dornman Port..."
+        },
+        {
+          "s": 1,
+          "t": "Sorry about this, {NICKNAME}, but could you check out the sanatorium for me?"
+        },
+        {
+          "s": 3,
+          "t": "Ugh, kinda-sorta scary stories like this usually mean something bigger's at play."
+        },
+        {
+          "s": 2,
+          "t": "Then what about super scary stories?"
+        },
+        {
+          "s": 3,
+          "t": "The truth behind those is usually... Uh... basic scientific facts about how superstition can be harmful."
+        },
+        {
+          "sit": "It's fine. I know my way around a fight either way."
+        },
+        {
+          "s": 3,
+          "t": "Eh, true. We've run into ghosts before, too. Most of them were actually pretty easy to talk to."
+        },
+        {
+          "s": 0,
+          "t": "So there really are ghosts in this world?"
+        },
+        {
+          "s": 3,
+          "t": "No, no. It's all just strange elemental powers and scientific phenomena at work."
+        },
+        {
+          "s": 2,
+          "t": "In that case, I won't go today. I'll just stay in Dornman Port and have some drinks."
+        },
+        {
+          "section": "Huffman"
+        },
+        {
+          "s": 1,
+          "t": "(test)怎么办呢，闹鬼的传言一定要在荆夫港控制住啊……"
+        },
+        {
+          "s": 1,
+          "t": "(test)荣誉骑士，疗养院的事就拜托你们了。"
+        },
+        {
+          "section": "Zeitlind"
+        },
+        {
+          "s": 3,
+          "t": "It's as we thought. There's nothing in the graveyard."
+        },
+        {
+          "s": 3,
+          "t": "Old Mann must've made a mistake..."
+        },
+        {
+          "s": 3,
+          "t": "Still, look at the portrait on this grave. This girl was so young... There's a sad story behind this one for sure."
+        },
+        {
+          "s": 4,
+          "t": "Are you friends of my sister too?"
+        },
+        {
+          "s": 3,
+          "t": "Eek!"
+        },
+        {
+          "sit": "You look... exactly the same."
+        },
+        {
+          "s": 3,
+          "t": "S—Sister...?"
+        },
+        {
+          "s": 3,
+          "t": "Uh, so, you've gotta be the younger sister of the person buried here, right?"
+        },
+        {
+          "s": 4,
+          "t": "Well, are you also her friends?"
+        },
+        {
+          "sit": "I... don't think we count."
+        },
+        {
+          "s": 3,
+          "t": "You scared the old man at the gate last night, so the Knights sent us to investigate."
+        },
+        {
+          "s": 4,
+          "t": "I see. Well, I'm just here to look for her. I didn't expect that rumor to be true."
+        },
+        {
+          "s": 3,
+          "t": "A rumor?"
+        },
+        {
+          "s": 4,
+          "t": "That \"those who go to the sanatorium will stay there,\" or something similar."
+        },
+        {
+          "s": 4,
+          "t": "In her letters, my sister said the sanatorium was about to close, and that she was going somewhere far away."
+        },
+        {
+          "s": 3,
+          "t": "Um... M—Maybe she went traveling around the world or something?"
+        },
+        {
+          "s": 3,
+          "t": "No wait. Her gravestone is right here... Sorry."
+        },
+        {
+          "s": 4,
+          "t": "It's alright. Before I came, I thought the same way you did. It took me some time to prepare myself before I could come here for answers."
+        },
+        {
+          "s": 4,
+          "t": "I might have arrived a bit too late last night and ended up frightening the old man."
+        },
+        {
+          "s": 4,
+          "t": "Please help me pass along my apology. I'm sorry for causing all this trouble."
+        },
+        {
+          "s": 3,
+          "t": "It's okay. Paimon totally gets you. Just gotta explain it to everyone, and you'll be fine."
+        },
+        {
+          "s": 4,
+          "t": "It was a little late last night. I'd planned to ask the old man about the situation, but he fled without even looking back."
+        },
+        {
+          "s": 4,
+          "t": "For now, I want to look for traces of how she lived her life. Perhaps that would lead us to some clues on... why she would..."
+        },
+        {
+          "s": 3,
+          "t": "Y'know what? Let us help you. It's getting late, and the sooner we finish, the sooner we can head down the mountain."
+        },
+        {
+          "s": 3,
+          "t": "Right, {NICKNAME}?"
+        },
+        {
+          "s": 3,
+          "t": "By the way, what's your name?"
+        },
+        {
+          "s": 4,
+          "t": "Ah..."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Wh—What is it? Is it an, uh, embarrassing name or something?"
+        },
+        {
+          "s": 3,
+          "t": "In that case, Paimon can, uh, give you a nickname... How's that sound?"
+        },
+        {
+          "s": 4,
+          "t": "No. It's just... I had planned to... Well, I came to say goodbye."
+        },
+        {
+          "s": 4,
+          "t": "Hmm..."
+        },
+        {
+          "s": 4,
+          "t": "Zeitlind. My name is Zeitlind."
+        },
+        {
+          "s": 3,
+          "t": "Alright then. Let's help Zeitlind look around together, shall we, {NICKNAME}?"
+        },
+        {
+          "section": "Zeitlind"
+        },
+        {
+          "s": 4,
+          "t": "A cursed mountain where none who enter ever return..."
+        },
+        {
+          "s": 3,
+          "t": "Um, what exactly are we looking for?"
+        },
+        {
+          "s": 4,
+          "t": "Maybe a note. A scrap of paper... Or perhaps just traces of a life that once existed here."
+        },
+        {
+          "s": 4,
+          "t": "With the demolition already this far along, there may not be much left to find. Still, I have to try."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 3,
+          "t": "There's so much dust on the bed. It must've been meant for sanatorium patients back in the day, right?"
+        },
+        {
+          "section": "Zeitlind"
+        },
+        {
+          "s": 3,
+          "t": "Zeitlind, were you waiting for us here?"
+        },
+        {
+          "s": 4,
+          "t": "No. I think... Something feels off..."
+        },
+        {
+          "s": 4,
+          "t": "Uh... was that always so far away?"
+        },
+        {
+          "s": 3,
+          "t": "Huh? This place looks kinda different from before."
+        },
+        {
+          "sit": "(What happened here...?)"
+        },
+        {
+          "s": 3,
+          "t": "Whoa!"
+        },
+        {
+          "s": 5,
+          "t": "I am Nihilita, Watcher of Nothingness, the Open-Eyed."
+        },
+        {
+          "s": 5,
+          "t": "Noble traveler from distant realms, returnee from the sea of stars... Greetings. I bid you welcome."
+        },
+        {
+          "s": 4,
+          "t": "It... knows you?"
+        },
+        {
+          "sit": "But I don't know it."
+        },
+        {
+          "s": 5,
+          "t": "As it should be. We dwell within the watchtowers of the world. We were never meant to meet, even across countless ages."
+        },
+        {
+          "s": 5,
+          "t": "Yet I have now fallen into the mortal realm, for one purpose alone. I beg that you ascend to the high heavens and free the Aiones of the past from their inverted fates."
+        },
+        {
+          "s": 5,
+          "t": "Please, touch the Anemo Archon's statue over there. It is a gateway that leads unto the heavens."
+        },
+        {
+          "s": 3,
+          "t": "Wait! Can't you see that there's an ordinary person here?"
+        },
+        {
+          "s": 3,
+          "t": "Are you sure Zeitlind is supposed to hear these things? At least let us take her back first!"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "Inconceivable. You really came..."
+        },
+        {
+          "s": 4,
+          "t": "Ah!"
+        },
+        {
+          "s": 5,
+          "t": "Please remain calm. I merely placed her under my protection, so that she shall not suffer any apathic afflictions after ascending."
+        },
+        {
+          "s": 3,
+          "t": "So, you mean we're bringing Zeitlind with us?"
+        },
+        {
+          "s": 5,
+          "t": "She has her own journey to embark upon. When you reach the temple above the sky, she will be restored."
+        },
+        {
+          "s": 3,
+          "t": "Hey, hold on! We never agreed to go to some strange place like that. Let Zeitlind out first!"
+        },
+        {
+          "s": 5,
+          "t": "This is not some strange place. It is the seat of governance above the skies. Its name is \"Segment-Domain Tau.\" Or perhaps, let us use its lost name."
+        },
+        {
+          "s": 5,
+          "t": "The Temple of Space."
+        },
+        {
+          "sit": "The Temple of Space..."
+        },
+        {
+          "sit": "(And what it just did earlier...)"
+        },
+        {
+          "s": 5,
+          "t": "That is correct. It belongs to the god who once appeared before you, my creator. Within the temple, you shall find your answers."
+        },
+        {
+          "s": 5,
+          "t": "Please take this with you. It will aid you in my stead."
+        },
+        {
+          "s": 3,
+          "t": "Ah! What is this thing?"
+        },
+        {
+          "sit": "It's kind of cute."
+        },
+        {
+          "sit": "A little strange, but kind of cute."
+        },
+        {
+          "s": 3,
+          "t": "Uh, could you explain what it actually is!?"
+        },
+        {
+          "s": 5,
+          "t": "A Watcher does not explain. A Watcher observes, in silence."
+        },
+        {
+          "s": 5,
+          "t": "Once safety may be guaranteed, it will restore Zeitlind."
+        },
+        {
+          "s": 3,
+          "t": "Don't just assume that we're going! You're just looking to dump responsibility for this onto someone, aren't you?"
+        },
+        {
+          "s": 5,
+          "t": "Noble outlander, are you willing to go?"
+        },
+        {
+          "s": 3,
+          "t": "There it is again, talking to yourself and dodging the question. You haven't been making any sense for a while now, y'know?"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, do you know what it's trying to say?"
+        },
+        {
+          "sit": "The Temple of Space..."
+        },
+        {
+          "sit": "I will go."
+        },
+        {
+          "s": 3,
+          "t": "Eh!?"
+        },
+        {
+          "s": 3,
+          "t": "Okay, sure. If that's what you want, then Paimon will go with you."
+        },
+        {
+          "s": 3,
+          "t": "Huh? Where did it go?"
+        },
+        {
+          "s": 5,
+          "t": "If my earlier discourtesy has stirred anger within you, come at me with blade in hand. I will await you in the mortal world."
+        },
+        {
+          "section": "Zeitlind"
+        },
+        {
+          "s": 3,
+          "t": "!"
+        },
+        {
+          "s": 3,
+          "t": "Zeitlind! Are you alright?"
+        },
+        {
+          "s": 4,
+          "t": "Mm. I'm fine. My sense of time's a bit off, though. Like a very long while has passed, and yet also just an instant."
+        },
+        {
+          "sit": "That sounds like a familiar feeling."
+        },
+        {
+          "s": 4,
+          "t": "You've felt this way before?"
+        },
+        {
+          "s": 4,
+          "t": "You must've been through plenty of misfortune, too. How long has it been for you, then?"
+        },
+        {
+          "sit": "About... five hundred years?"
+        },
+        {
+          "s": 4,
+          "t": "What? Has so much time passed already?"
+        },
+        {
+          "s": 3,
+          "t": "Oh, no. She's(He's) talking about the time-weirdness stuff that happened to her(him)."
+        },
+        {
+          "s": 3,
+          "t": "That said, Paimon's not sure if \"five hundred years\" is that accurate at this point either."
+        },
+        {
+          "s": 3,
+          "t": "As for this time, it's only been about ten minutes or so?"
+        },
+        {
+          "s": 4,
+          "t": "Huh. So that's how long it's been?"
+        },
+        {
+          "sit": "Say..."
+        },
+        {
+          "s": 4,
+          "t": "Hmm?"
+        },
+        {
+          "sit": "You never asked us for our names."
+        },
+        {
+          "s": 4,
+          "t": "Ah, yes. When I tried to call for help just now, I realized I didn't even know what to call you."
+        },
+        {
+          "s": 4,
+          "t": "Sorry. At first, I was planning to... Well, never mind."
+        },
+        {
+          "s": 4,
+          "t": "I already know that you're {NICKNAME}. What about your pet?"
+        },
+        {
+          "s": 3,
+          "t": "Hey! Paimon's not a pet! Paimon's {NICKNAME}'s best guide and companion!"
+        },
+        {
+          "sit": "Yes, Paimon's not a pet."
+        },
+        {
+          "s": 3,
+          "t": "And if you're gonna make another corny joke, you can stuff it."
+        },
+        {
+          "s": 4,
+          "t": "Oh. I'm sorry, Paimon."
+        },
+        {
+          "s": 4,
+          "t": "Well then. Hello, Paimon. Hello {NICKNAME}."
+        },
+        {
+          "s": 3,
+          "t": "We'll make sure you get back down safely. But for now, we don't have any leads as to how."
+        },
+        {
+          "s": 3,
+          "t": "So let's keep moving forward. We need to find someone and ask them what's going on."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "s": 3,
+          "t": "Hello!"
+        },
+        {
+          "s": 6,
+          "t": "Huh!? Humans...? I thought the \"uplifting\" had already ended. More cases like Hilda's, then?"
+        },
+        {
+          "s": 6,
+          "t": "No, wait. Perhaps you were simply unlucky. Newcomers who have only recently passed the trial of the Apathic Interval, maybe?"
+        },
+        {
+          "s": 6,
+          "t": "Greetings, newcomers. My name is Istoria. I hail from the age when the Dark Dragon King rent the sky open. And you are?"
+        },
+        {
+          "s": 3,
+          "t": "What sorta age was that?"
+        },
+        {
+          "sit": "Anyway, call me {NICKNAME}."
+        },
+        {
+          "s": 3,
+          "t": "Paimon's Paimon."
+        },
+        {
+          "s": 4,
+          "t": "Zeitlind."
+        },
+        {
+          "s": 6,
+          "t": "Hmm. So, you're Zeitlind."
+        },
+        {
+          "s": 6,
+          "t": "!"
+        },
+        {
+          "s": 6,
+          "t": "Ah. Dexter. You are here as well!"
+        },
+        {
+          "s": 6,
+          "t": "Now I understand. You must be people of the present age. In which case, you have come to reinforce us!"
+        },
+        {
+          "s": 3,
+          "t": "That was quick!"
+        },
+        {
+          "s": 3,
+          "t": "Also, Dex's real name is Dexter, huh? Is it your friend?"
+        },
+        {
+          "s": 6,
+          "t": "No. We call it Dex too. But it just sent me a secret signal."
+        },
+        {
+          "s": 6,
+          "t": "As such, I introduced it using the more official, more impressive-sounding name."
+        },
+        {
+          "s": 3,
+          "t": "Hey, Hey, {NICKNAME}. Paimon wants a formal name and a secret code, too."
+        },
+        {
+          "s": 6,
+          "t": "Ah, but now is not the time for such talk."
+        },
+        {
+          "s": 6,
+          "t": "Since Nihilita has sent you up here, that means it is finally our time to strike back."
+        },
+        {
+          "s": 3,
+          "t": "Wait a minute! We're still confused."
+        },
+        {
+          "s": 6,
+          "t": "How confused? More confused than I was the first time I looked upon Escher's paintings?"
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "sit": "E...scher? As in, Escher the Engineer?"
+        },
+        {
+          "s": 6,
+          "t": "Does the name ring a bell? He's from a very long time ago, though. Surely not someone you know..."
+        },
+        {
+          "s": 6,
+          "t": "Eh, you know what? Who knows. Maybe he really was famous. Actually, that pisses me off. Why didn't I make my mark in history?"
+        },
+        {
+          "s": 6,
+          "t": "You know what? Let's just call him \"Maukie\" from now on."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "sit": "Escher?"
+        },
+        {
+          "s": 6,
+          "t": "Just an unlucky, ill-natured painter."
+        },
+        {
+          "s": 6,
+          "t": "His family calls him \"Maukie\", and so do we."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "s": 3,
+          "t": "\"Maukie\"... Paimon feels like she might've heard that before..."
+        },
+        {
+          "s": 6,
+          "t": "Ach. No, no. This isn't the time for that either."
+        },
+        {
+          "s": 6,
+          "t": "Let me ask you, do any of you have combat strength on par with a junior Remurian Centurion or higher?"
+        },
+        {
+          "s": 3,
+          "t": "Don't worry, {NICKNAME} can beat people up just fine."
+        },
+        {
+          "s": 6,
+          "t": "Come on, then. Let's head out and show them what Pankration, or maybe Machaira, means to you."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "s": 6,
+          "t": "Ah, yes. Come, come, it's team huddle time. We've a strategy meeting to hold."
+        },
+        {
+          "s": 4,
+          "t": "Does the team include me?"
+        },
+        {
+          "s": 3,
+          "t": "Ooh, Paimon almost forgot. Istoria, do you know how to send someone back down to the ground?"
+        },
+        {
+          "s": 6,
+          "t": "I do."
+        },
+        {
+          "s": 3,
+          "t": "Then can you tell us how to send Zeitlind back? She's just an ordinary person."
+        },
+        {
+          "s": 6,
+          "t": "In the past, that would have been nearly impossible. But the temple's laws and order draw close unto collapse, making it now a trivial matter."
+        },
+        {
+          "s": 6,
+          "t": "You simply need to do me a small favor."
+        },
+        {
+          "s": 3,
+          "t": "Hmm, alright, but it better be small."
+        },
+        {
+          "s": 6,
+          "t": "Oh, it's simple. Smash a few crappy guards, rescue an old friend, and escort us back to the center of the Pillar Hall."
+        },
+        {
+          "s": 3,
+          "t": "That doesn't sound too bad."
+        },
+        {
+          "s": 3,
+          "t": "And do you know what kind of god rules this place? {NICKNAME} is looking for her."
+        },
+        {
+          "s": 6,
+          "t": "This was once the sacred hall of the God of Space. But she is nowhere to be found."
+        },
+        {
+          "s": 6,
+          "t": "After the mistress vanished, one of the two stewards fell from grace and departed."
+        },
+        {
+          "s": 6,
+          "t": "The one who remained, Melanta, grew increasingly severe with us. He did not descend into the mortal world, but he has descended into madness."
+        },
+        {
+          "s": 3,
+          "t": "Melanta? Does that mean that the one who fell from grace is that self-absorbed Nihilita guy?"
+        },
+        {
+          "s": 6,
+          "t": "Correct. The Watcher who introduced Dex to you is one who departed. Nihilita of Nothingness."
+        },
+        {
+          "s": 3,
+          "t": "Hah, so it really was that big-winged guy who talks to himself, doesn't care what people say, and changes the subject whenever you ask him uncomfortable questions!"
+        },
+        {
+          "s": 6,
+          "t": "Huh. Does he really talk that much?"
+        },
+        {
+          "s": 6,
+          "t": "*sigh* No matter. The two of them were once divine familiars who watched over the world from the Pillar Hall of Space."
+        },
+        {
+          "s": 6,
+          "t": "The Temple of Space selects people and objects from a specific historical age or a now-vanished civilization, using them as the smallest possible segments."
+        },
+        {
+          "s": 6,
+          "t": "Once elevated, the chosen are preserved here as living memories, forever."
+        },
+        {
+          "s": 4,
+          "t": "That doesn't sound like a very happy fate."
+        },
+        {
+          "s": 6,
+          "t": "I suspect it was not originally designed as an eternal paradise or some heaven in the sky."
+        },
+        {
+          "s": 6,
+          "t": "Still, the God of Space's sisters would occasionally bring things of interest into the temple and grant small pardons for acts of change."
+        },
+        {
+          "s": 3,
+          "t": "Oh, Paimon gets it. This place was a spotless but dull bookshelf that the sisters then covered in stickers and stuffed with light novels."
+        },
+        {
+          "s": 6,
+          "t": "Then Melanta, driven by longing for his creator, reversed all the rules to their original form. He began purging everything that had changed, punishing anyone who broke from precedent."
+        },
+        {
+          "s": 6,
+          "t": "I gathered the courage to leave the relative safety of the temple's center, hoping I might be able to save an old friend."
+        },
+        {
+          "s": 6,
+          "t": "But my lack of Pankration training caught up with me, and I ended up getting chased by the guards and hiding in that spot earlier."
+        },
+        {
+          "s": 3,
+          "t": "Alright. That's the introduction. What's our plan?"
+        },
+        {
+          "s": 6,
+          "t": "We fight our way through and save anyone we know."
+        },
+        {
+          "s": 3,
+          "t": "Fine. Looks like Melanta's the highest up the ladder we can reach for now. Hopefully, we can get some answers from him."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "s": 6,
+          "t": "Well, well. If it isn't our great master of anti-self-termination, Josephus. So, why are you here, cursing all who live?"
+        },
+        {
+          "s": 7,
+          "t": "Cut it out. Nobody dies in the Temple of Space."
+        },
+        {
+          "s": 6,
+          "t": "How strange. Did you try testing that rule, Sir Anti-Self-Termination?"
+        },
+        {
+          "s": 7,
+          "t": "Keep talking, and a new batch of guards will be on its way."
+        },
+        {
+          "s": 6,
+          "t": "Alright. Special times call for special treatment. I won't make fun of you."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, Zeitlind. This is Josephus. He's a friend of mine."
+        },
+        {
+          "s": 7,
+          "t": "No need to be so sentimental. Everyone here is everyone else's friend."
+        },
+        {
+          "s": 7,
+          "t": "If you can't come to love or be loved by everyone over such long periods of time, you'd drown the world in sorrow."
+        },
+        {
+          "s": 7,
+          "t": "Come. Let us set our course for the heart of the world. A realm not reserved for the old or the dead, for the rich or poor."
+        },
+        {
+          "s": 6,
+          "t": "Hehe, I've quoted that poem before."
+        },
+        {
+          "section": "Josephus"
+        },
+        {
+          "s": 7,
+          "t": "It's safer here. I don't know why, but the suppression-type guards can't get in."
+        },
+        {
+          "s": 6,
+          "t": "Organization-type Keepers usually don't harm people either. Unless you try to steal relics, that is."
+        },
+        {
+          "s": 3,
+          "t": "Zeitlind, you've been gripping that suitcase this whole time. Your knuckles are all pale."
+        },
+        {
+          "s": 3,
+          "t": "It's safe here, so just put it down for now, 'kay?"
+        },
+        {
+          "s": 3,
+          "t": "Well, unless you've got stolen relics in that suitcase. But that can't be, right?"
+        },
+        {
+          "s": 4,
+          "t": "Mhm."
+        },
+        {
+          "s": 3,
+          "t": "Still, Paimon's sure it's gotta be full of valuable items."
+        },
+        {
+          "s": 4,
+          "t": "Not really. Just some things I needed to say goodbye to before leaving."
+        },
+        {
+          "s": 3,
+          "t": "Huh?"
+        },
+        {
+          "s": 4,
+          "t": "It's nothing."
+        },
+        {
+          "s": 6,
+          "t": "You and your sister have vastly different personalities."
+        },
+        {
+          "s": 4,
+          "t": "What did you say!?"
+        },
+        {
+          "s": 4,
+          "t": "Ah... I mean... Have you... met my sister? Did she come here before? So the \"Hilda\" you mentioned before really is..."
+        },
+        {
+          "s": 6,
+          "t": "Easy now, young Zeitlind. This place is safe. We can take our time talking about your sister."
+        },
+        {
+          "s": 7,
+          "t": "Shameless fellow. Hilda called you Grandpa."
+        },
+        {
+          "s": 6,
+          "t": "I couldn't tell you how many years ago I was born. Still, I have heard you all speak of an age long past, when the gods waged war across the land."
+        },
+        {
+          "s": 6,
+          "t": "In my time, there were no gods living in our lands at all. Have you ever seen an angel?"
+        },
+        {
+          "s": 8,
+          "t": "That makes you a great-great-great-great grandpa, Grandpa Istoria!"
+        },
+        {
+          "s": 6,
+          "t": "Nay, nay. Once you get here, all are caught within stagnant space-time. Saints and commoners, wise and foolish, young and old. There is no difference."
+        },
+        {
+          "s": 6,
+          "t": "That is to say, don't call me Grandpa."
+        },
+        {
+          "s": 8,
+          "t": "Then let's call each other whatever we want. I'll call you \"Grandpa Istoria,\" and you can call me \"young Hilda.\""
+        },
+        {
+          "s": 6,
+          "t": "She was a good lass. But for some reason, she always looked a little gloomy."
+        },
+        {
+          "s": 7,
+          "t": "Indeed."
+        },
+        {
+          "s": 3,
+          "t": "Hey, stop getting sentimental! Zeitlind's suitcase has been stolen!"
+        },
+        {
+          "s": 4,
+          "t": "Hey, give it back!"
+        },
+        {
+          "s": 7,
+          "t": "It got away. This is going to be a difficult chase."
+        },
+        {
+          "s": 4,
+          "t": "Wh—What do we do..."
+        },
+        {
+          "s": 6,
+          "t": "Don't let this get you down, Zeitlind. I have a theory."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}, come with me."
+        },
+        {
+          "section": "Istoria"
+        },
+        {
+          "s": 6,
+          "t": "There it is."
+        },
+        {
+          "s": 4,
+          "t": "Oh, thank goodness!"
+        },
+        {
+          "s": 3,
+          "t": "Looks like we've only recovered a small part of Lind's stuff, though."
+        },
+        {
+          "s": 6,
+          "t": "Then it's as I suspected. Your suitcase and everything inside it have been classified as relics of this age."
+        },
+        {
+          "s": 6,
+          "t": "The rest were likely dispersed and placed in other areas."
+        },
+        {
+          "s": 3,
+          "t": "Don't worry, Zeitlind. We'll find them together."
+        },
+        {
+          "s": 4,
+          "t": "...Thank you all."
+        },
+        {
+          "s": 6,
+          "t": "Then, shall I tell you about the themed areas?"
+        },
+        {
+          "s": 3,
+          "t": "Okay then, tell us."
+        },
+        {
+          "sit": "I'm listening."
+        },
+        {
+          "s": 6,
+          "t": "Besides people like us, some landscapes, relics, and even ecosystems were also uplifted to this place."
+        },
+        {
+          "s": 6,
+          "t": "The temple was originally meant to preserve them as segments of human culture, though some gradually developed their own functions."
+        },
+        {
+          "s": 6,
+          "t": "Take, for example, the Luyang Academy from ancient Liyue. It has now become an area devoted to art and painting."
+        },
+        {
+          "s": 6,
+          "t": "Then there's Venipi, a laborer who once hauled stone for The Mausoleum of King Deshret. Under orders, he rebuilt a desert style complex called the Desert Pavilion."
+        },
+        {
+          "s": 6,
+          "t": "Last is my personal favorite, the Mahavaipulya Chamber. Besides ancient texts, it also contains new novels written by some of the uplifted."
+        },
+        {
+          "s": 6,
+          "t": "But since the purpose of the Temple of Space is preservation rather than evolution, they were also the first to face punishment."
+        },
+        {
+          "s": 3,
+          "t": "So if we go to those three places, we can find the things Zeitlind lost, right?"
+        },
+        {
+          "s": 6,
+          "t": "You could also free those areas and rescue the others. If it's not too much trouble, of course."
+        },
+        {
+          "s": 3,
+          "t": "Oh ho, Istoria. That's gonna run you extra."
+        },
+        {
+          "s": 4,
+          "t": "I wouldn't put it like that. We should go help everyone *and* find my things along the way."
+        },
+        {
+          "s": 6,
+          "t": "Your personal effects are of utmost importance here, Lind. You are, after all, someone who lives in the present."
+        },
+        {
+          "s": 6,
+          "t": "This place is but an anthology of the past. It has no future, whereas you still have yours."
+        },
+        {
+          "s": 6,
+          "t": "That makes your needs the most important. Do you understand?"
+        },
+        {
+          "s": 4,
+          "t": "In the end, a living person may amount to nothing more than a name on gravestone."
+        },
+        {
+          "s": 6,
+          "t": "Even so, a name carries countless memories, as well as the stories and strength passed on through them, young Zeitlind."
+        },
+        {
+          "s": 6,
+          "t": "Let us return and rest for now. I suspect you still have many questions."
+        }
+      ],
+      "description": "There’s an abandoned sanatorium on Windrest Peak…"
+    }
+  ],
+  "speakers": [
+    "Mann",
+    "Huffman",
+    "Lipphart",
+    "Paimon",
+    "Zeitlind",
+    "Nihilita",
+    "Istoria",
+    "Josephus",
+    "Raumhilda"
+  ],
+  "id": "q-70065"
+}

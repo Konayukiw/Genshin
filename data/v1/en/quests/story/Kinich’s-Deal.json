@@ -1,0 +1,2811 @@
+{
+  "chapter": "Yupanqui’s Turnfire",
+  "chapter_title": "Kinich’s Deal",
+  "act": "Act 3",
+  "act_title": "Kinich’s Deal",
+  "region": null,
+  "quests": [
+    {
+      "title": "Kinich's Deal",
+      "dialogue": [
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon."
+        },
+        {
+          "s": 1,
+          "t": "Kinich! Fancy meeting you here! We've actually been looking for you."
+        },
+        {
+          "s": 2,
+          "t": "Hey there. Nice to see you again."
+        },
+        {
+          "s": 0,
+          "t": "I'll get straight to the point. I hear you accepted a proposal from Elder Trinidad?"
+        },
+        {
+          "s": 1,
+          "t": "Oh! The, uh, Turnfire Night, you mean? Uhh... You were still his first choice, it's just... Oh geez... It's not what it looks like, promise!"
+        },
+        {
+          "s": 0,
+          "t": "Chill, it's cool. I only mention it because there's something you should know, and I suspect Elder Trinidad hasn't been completely forthcoming with you. His true intention is to resolve the Mountain King problem once and for all."
+        },
+        {
+          "s": 1,
+          "t": "Once and for all? You mean, this'll be the last Turnfire Night ever?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. He wants to use you to send the Mountain King to the Night Kingdom."
+        },
+        {
+          "s": 1,
+          "t": "To the Night Kingdom? You mean—"
+        },
+        {
+          "s": 0,
+          "t": "To his death."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, whoa, whoa! Are you serious right now? You shouldn't go around blurting out accusations like that, it can get you in trouble!"
+        },
+        {
+          "s": 0,
+          "t": "Too blunt? Okay. I'll phrase it more gently..."
+        },
+        {
+          "s": 0,
+          "t": "There is potentially a possibility that Elder Trinidad may be hoping that, during the course of the ceremony... you kill the Mountain King dead."
+        },
+        {
+          "s": 1,
+          "t": "But... That's ridiculous! He told us the Mountain King is a living symbol of your tribe's glory!"
+        },
+        {
+          "s": 0,
+          "t": "And that glory comes at a price."
+        },
+        {
+          "s": 3,
+          "t": "That's right. The Mountain King is a living symbol of our glory, but even this glory comes at a price."
+        },
+        {
+          "s": 3,
+          "t": "*sigh*... Yes, and Nanna wasn't the first..."
+        },
+        {
+          "s": 2,
+          "t": "Is it because of his companion, Nanna?"
+        },
+        {
+          "s": 0,
+          "t": "Mhm. She likely won't be the last to lose her life, either."
+        },
+        {
+          "s": 1,
+          "t": "Still... Is killing the Mountain King really the only way? It seems so extreme..."
+        },
+        {
+          "s": 2,
+          "t": "How does he plan to kill him?"
+        },
+        {
+          "s": 0,
+          "t": "The Mountain King is a unique case when it comes to Abyssal contamination. It's eaten away at him for so long that it has consumed him entirely, and the damage is irreversible."
+        },
+        {
+          "s": 0,
+          "t": "That evil power has both driven him insane and kept him alive over the centuries. So to look at it one way, once it's completely purged from his body, the Mountain King will finally be able to rest in peace."
+        },
+        {
+          "s": 0,
+          "t": "In past ceremonies, we've only purged around half of the Abyssal power. This was to strike a balance — to keep him alive, but also keep him asleep."
+        },
+        {
+          "s": 1,
+          "t": "Trinidad didn't say anything about how much power he wanted us to purge... But he did say there were some more details to go over before the ceremony."
+        },
+        {
+          "s": 0,
+          "t": "Then it sounds like you'll know for sure soon enough."
+        },
+        {
+          "s": 1,
+          "t": "...If he really asks us to kill the Mountain King, what should we do?"
+        },
+        {
+          "sit": "I think we're a little out of our depth here."
+        },
+        {
+          "sit": "Is it too late for us to back out?"
+        },
+        {
+          "s": 0,
+          "t": "I know this must come as quite a shock, so I suggest you act like you didn't hear anything for now. But would you have time to visit the chief after your meeting with Elder Trinidad?"
+        },
+        {
+          "s": 0,
+          "t": "I'd like to make a deal with you."
+        },
+        {
+          "s": 1,
+          "t": "What kind of deal?"
+        },
+        {
+          "s": 0,
+          "t": "One that comes at a very reasonable price. I'm sure you have plenty of other questions, but we can talk more later."
+        },
+        {
+          "s": 2,
+          "t": "Okay. We'll be there."
+        },
+        {
+          "s": 0,
+          "t": "Good. See you soon."
+        },
+        {
+          "s": 2,
+          "t": "Is it too late for us to back out?"
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 3,
+          "t": "Ah, mighty outlanders, you have returned. Did you have a good rest?"
+        },
+        {
+          "s": 1,
+          "t": "It was, uh... pretty good, yeah!"
+        },
+        {
+          "s": 3,
+          "t": "Glad to hear it. Things are progressing very smoothly on my end. Many of the elders have heard of your heroic deeds, including the chief. They all speak very favorably of you."
+        },
+        {
+          "s": 3,
+          "t": "There are still those who insist that the ceremony should be performed by the bearer of the Mal{RUBY#[D]Turnfire}ipo name, but they're just stuck in the past. We need to move with the times."
+        },
+        {
+          "s": 1,
+          "t": "Plus, Kinich doesn't wanna do it anyway..."
+        },
+        {
+          "s": 3,
+          "t": "Exactly. So now, it's time for us to discuss the finer details of the ceremony."
+        },
+        {
+          "s": 3,
+          "t": "We covered the fire-lighting part of the proceedings yesterday. The next part is the purification of the Mountain King."
+        },
+        {
+          "s": 2,
+          "t": "How does that work?"
+        },
+        {
+          "s": 3,
+          "t": "It's quite simple — you just need to use the sacred flame. We've done it plenty of times before and it's always very routine. I'm sure you won't have any problems."
+        },
+        {
+          "s": 3,
+          "t": "One point I'd like to stress, though, is that you need to burn away as much of the Abyssal energy as you possibly can. The more we dispel, the longer the Mountain King will remain asleep."
+        },
+        {
+          "s": 1,
+          "t": "\"Asleep,\" huh..."
+        },
+        {
+          "s": 3,
+          "t": "Precisely. In previous years, the flame bearer has often been unable to dispel a sufficient amount of Abyssal energy. That's the only reason why we have to perform the ceremony on a regular basis."
+        },
+        {
+          "s": 3,
+          "t": "But I understand that you have a lot of experience fighting against the Abyss. And you seemed to wield the sacred flame quite effortlessly yesterday."
+        },
+        {
+          "s": 3,
+          "t": "With your help, I'm optimistic that this time we can dispel all the remaining Abyssal energy from the Mountain King's body, freeing us from this ever-looming threat for many years to come."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}..."
+        },
+        {
+          "s": 2,
+          "t": "Got it. Anything else we need to know?"
+        },
+        {
+          "s": 3,
+          "t": "So this doesn't faze you at all, huh? You clearly have a lot of confidence in yourself, haha."
+        },
+        {
+          "s": 3,
+          "t": "That's all you really need to know. The ceremony is in three days. I'll come and fetch you when we're ready."
+        },
+        {
+          "s": 3,
+          "t": "In the meantime, feel free to take a look around our settlement. It would mean a lot to the elders if you got to know some of our people."
+        },
+        {
+          "s": 3,
+          "t": "And if you wouldn't mind helping them out with a few errands here and there, that would be even better."
+        },
+        {
+          "s": 1,
+          "t": "So now we have extra errands to run? Maybe we should add a little extra to the price..."
+        },
+        {
+          "s": 3,
+          "t": "Haha, just a humble suggestion, that's all. It will help you gain the respect of our people, and as a mighty hero, I truly believe that's what you deserve."
+        },
+        {
+          "s": 3,
+          "t": "I'll be sticking around over the next few days, so if you have any questions, you know where to find me."
+        },
+        {
+          "section": "Wayna, Kinich"
+        },
+        {
+          "s": 0,
+          "t": "Ah, you're here."
+        },
+        {
+          "s": 1,
+          "t": "Kinich! Elder Trinidad said that—"
+        },
+        {
+          "s": 0,
+          "t": "I can tell. It's written on your faces."
+        },
+        {
+          "s": 4,
+          "t": "Is that {NICKNAME} and Paimon? Forgive me for not being there to welcome you on your arrival. That should have been my duty as chief."
+        },
+        {
+          "s": 1,
+          "t": "Hello, Chief Wayna."
+        },
+        {
+          "s": 4,
+          "t": "I only heard the news from Trinidad yesterday, so I asked Kinich to invite you over for a quick chat."
+        },
+        {
+          "s": 2,
+          "t": "It's our pleasure."
+        },
+        {
+          "s": 4,
+          "t": "Hehe... I believe Kinich has already filled you in, so I'll get straight to the point. Firstly, I fully endorse your appointment as flame bearers for the upcoming Turnfire Night."
+        },
+        {
+          "s": 4,
+          "t": "However, I would like to request that you take steps to ensure the Mountain King's safety."
+        },
+        {
+          "s": 4,
+          "t": "Every child of our tribe grows up hearing the tales of our heroes, from Yupanqui the Fire-Bringer, to Burkina and the Mountain King who fought against the Abyss..."
+        },
+        {
+          "s": 4,
+          "t": "This is our history and our heritage, the source of our pride and the center of our faith."
+        },
+        {
+          "s": 4,
+          "t": "To kill the Mountain King would be to destroy our spirit... I would never be able to face our ancestors in the Night Kingdom."
+        },
+        {
+          "s": 4,
+          "t": "Nanna's death was a great tragedy, and I do not blame Trinidad for the actions he has taken. Nevertheless, I cannot allow any harm to come to the Mountain King. The very roots of our identity are at stake."
+        },
+        {
+          "s": 4,
+          "t": "My honored guests, please give this matter your serious consideration."
+        },
+        {
+          "s": 2,
+          "t": "Is there no solution that would satisfy both sides?"
+        },
+        {
+          "s": 4,
+          "t": "Perhaps there is. But despite all our attempts to contain the situation over the years, we have not found it. Right now, I should like to hear where you stand on this matter."
+        },
+        {
+          "sit": "I'm inclined to honor your request."
+        },
+        {
+          "sit": "I'm inclined to honor my agreement with Trinidad."
+        },
+        {
+          "sit": "I need some time to mull this over."
+        },
+        {
+          "sit": "Paimon, let's sneak off to some other tribe tonight..."
+        },
+        {
+          "s": 4,
+          "t": "Though I sense that your mind is not yet made up, I am still comforted by your words. There are three days left before the ceremony. I hope they will bring you clarity."
+        },
+        {
+          "s": 1,
+          "t": "So Kinich, earlier, you were saying that—"
+        },
+        {
+          "s": 0,
+          "t": "Let's walk and talk. I'll show you around the tribe."
+        },
+        {
+          "s": 1,
+          "t": "That works too. Paimon needs to get some air after this..."
+        },
+        {
+          "s": 2,
+          "t": "I'm inclined to honor my agreement with Trinidad."
+        },
+        {
+          "s": 4,
+          "t": "I must say, I find this troubling, though I'm sure you need more time to consider it fully. No matter, there are still three days left before the ceremony. I hope they will bring you clarity."
+        },
+        {
+          "s": 2,
+          "t": "I need some time to mull this over."
+        },
+        {
+          "s": 4,
+          "t": "I understand. There are still three days left before the ceremony. I hope they will bring you clarity."
+        },
+        {
+          "s": 2,
+          "t": "Paimon, let's sneak off to some other tribe tonight..."
+        },
+        {
+          "s": 1,
+          "t": "Running away won't solve anything... You just need some time to think this through, that's all. Don't worry, we'll come up with something if we put our heads together!"
+        },
+        {
+          "s": 4,
+          "t": "Thank you both. There are still three days left before the ceremony. I hope they will bring you clarity."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 1,
+          "t": "Kinich, Paimon finally understands why you turned Trinidad down."
+        },
+        {
+          "s": 1,
+          "t": "You knew what he was planning, didn't you? That's why you didn't wanna be the flame bearer this time, 'cause it's a double-edged sword. The whole Mora thing was just a sneaky excuse!"
+        },
+        {
+          "s": 0,
+          "t": "Double-edged sword is right. But my response wasn't merely an excuse: To solve this exceptional problem, an exceptional price must be paid."
+        },
+        {
+          "s": 2,
+          "t": "Are you saying you have a plan?"
+        },
+        {
+          "s": 0,
+          "t": "I'm working on it."
+        },
+        {
+          "s": 1,
+          "t": "Really? Well c'mon then, let's hear it!"
+        },
+        {
+          "s": 0,
+          "t": "In a moment. Didn't you have a question you were about to ask me?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, yeah... What was it again? ...Oh! Right! We need to talk about Ajaw, he's completely unhinged!"
+        },
+        {
+          "s": 2,
+          "t": "That's a point... where is he today?"
+        },
+        {
+          "s": 0,
+          "t": "I agree that he has a problem. He needs disciplining, so I hired him a teacher."
+        },
+        {
+          "s": 1,
+          "t": "You got him a teacher? Oh, Paimon would love to see him get scolded for bad behavior!"
+        },
+        {
+          "s": 1,
+          "t": "Anyway, moving on — when we ran into Ajaw, he said you two were investigating some Abyss thing together... Is that related to the whole Mountain King situation?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. That's the angle I've been working on."
+        },
+        {
+          "s": 0,
+          "t": "I'm a Saurian hunter, but I occasionally hunt the Abyss, too. One time, I was pursuing some purple demonic dogs when I accidentally entered a hidden space."
+        },
+        {
+          "s": 0,
+          "t": "I did some research after the fact. Apparently, they're known as \"Beastly Rifts,\" and there are many of them of all different sizes. That's where those purple dogs were coming from."
+        },
+        {
+          "s": 1,
+          "t": "So...?"
+        },
+        {
+          "s": 0,
+          "t": "So, if we can locate one of these Beastly Rifts, clear the monsters out, and move the Mountain King inside... he'd be able to continue living, but without posing a threat to the tribe."
+        },
+        {
+          "s": 1,
+          "t": "Whoa! That sounds kind of crazy... Would it really work?"
+        },
+        {
+          "s": 0,
+          "t": "It's not without its risks, of course. There's a lot of unknowns in the equation. For instance, for all we know, a prolonged period inside the rift could make the Mountain King's condition worse."
+        },
+        {
+          "s": 0,
+          "t": "Still, we desperately need something like this — even just as a temporary measure. You've seen the conflict the issue is causing in our tribe for yourselves, and believe me, it's been a long time coming."
+        },
+        {
+          "s": 0,
+          "t": "The chief is adamant about keeping the Mountain King alive, whatever happens."
+        },
+        {
+          "s": 1,
+          "t": "Paimon can understand... It's less about the Mountain King, and more about preserving your culture and heritage."
+        },
+        {
+          "s": 0,
+          "t": "Yes, but on the flip side, you've got people like Elder Trinidad, who is more concerned about protecting the people he cares about, now and into the future."
+        },
+        {
+          "s": 0,
+          "t": "And he has every right to take that view. It's one thing to try and preserve the last remnants of a glorious past, but making your kin pay the price for it?"
+        },
+        {
+          "s": 0,
+          "t": "No one can seriously tell them that's a fair trade."
+        },
+        {
+          "s": 1,
+          "t": "You're right, there's no easy answers here... Let's leave that to one side for a moment and assume we go with your plan. How do you actually intend to find one of these Beastly Rifts?"
+        },
+        {
+          "s": 1,
+          "t": "Cause at least in our experience, the dogs open the rifts when they wanna attack us, not the other way around."
+        },
+        {
+          "s": 0,
+          "t": "I think I know a way."
+        },
+        {
+          "s": 2,
+          "t": "Are you really gonna do this?"
+        },
+        {
+          "s": 0,
+          "t": "You have any better ideas?"
+        },
+        {
+          "s": 1,
+          "t": "Not at the moment, but... It just feels like using the power of the Abyss for our own ends isn't gonna end well..."
+        },
+        {
+          "s": 1,
+          "t": "After all, the Abyss is what turned the Mountain King into a monster in the first place. People are gonna think you've lost your marbles..."
+        },
+        {
+          "s": 0,
+          "t": "If it doesn't end well, then that's the price we pay. Everything in the world comes at a price... Even when Yupanqui the Fire-Bringer stole the Turnfire, it cost him dearly."
+        },
+        {
+          "s": 0,
+          "t": "The Mountain King's erratic outbursts have brought tensions within the tribe to a boiling point. Unless this gets resolved quickly, everyone will be stuck in a stalemate."
+        },
+        {
+          "s": 1,
+          "t": "Alright... So what's this \"deal\" you wanted to make with us? We're hardly experts on exploiting Abyssal power..."
+        },
+        {
+          "s": 0,
+          "t": "All I need you to do is keep people away from me."
+        },
+        {
+          "s": 0,
+          "t": "I'm getting harassed on a daily basis by people trying to convince me to be the flame bearer. I can't afford to waste all my energy dealing with them."
+        },
+        {
+          "s": 0,
+          "t": "If you help me out, there'll be a gift for you in return."
+        },
+        {
+          "s": 1,
+          "t": "Ooh, what kind of gift?"
+        },
+        {
+          "s": 0,
+          "t": "Something well worth your while, I'd say."
+        },
+        {
+          "s": 2,
+          "t": "Okay, but how do we keep people away?"
+        },
+        {
+          "s": 0,
+          "t": "Just keep doing what you've been doing — ingratiate yourself with the tribespeople, so everyone comes to terms with the fact that we have a new flame bearer."
+        },
+        {
+          "s": 0,
+          "t": "That way, I won't have an endless stream of people coming to beg me to join the ceremony, and I can focus on finding a way to summon the Beastly Rift."
+        },
+        {
+          "s": 0,
+          "t": "Then, when the day of the ceremony comes, we'll move the Mountain King into his new home."
+        },
+        {
+          "s": 1,
+          "t": "Still sounds pretty crazy... Even for a daredevil like you, that's dangerous..."
+        },
+        {
+          "s": 1,
+          "t": "And even if it works — what if neither Chief Wayna nor Elder Trinidad are happy with it? Have you thought about what you'd do then?"
+        },
+        {
+          "s": 0,
+          "t": "At least the two of them would finally be on the same side of the issue, leaving only me on the opposing side."
+        },
+        {
+          "s": 0,
+          "t": "The tribe needs leaders like them far more than a Saurian hunter for hire like me."
+        },
+        {
+          "s": 2,
+          "t": "Either way, sounds like there's no mora in this for you."
+        },
+        {
+          "s": 0,
+          "t": "Hah. Can I take that to mean we have a deal?"
+        },
+        {
+          "s": 2,
+          "t": "We can give it a try."
+        },
+        {
+          "s": 1,
+          "t": "For sure. And who knows, maybe we'll come up with an even better solution to all of this in the next couple of days."
+        },
+        {
+          "s": 0,
+          "t": "Great. Well, for the next couple of days, please spend some time among the tribe and lend a hand wherever you can. I'm sure everyone will be swept off their feet when they meet our new flame bearer."
+        },
+        {
+          "s": 0,
+          "t": "Good luck to us both."
+        }
+      ],
+      "description": "An unexpected encounter finds you just as you are planning to go to Elder Trinidad’s dwelling…"
+    },
+    {
+      "title": "I, Flame Bearer",
+      "dialogue": [
+        {
+          "section": "Huni, Toba"
+        },
+        {
+          "s": 5,
+          "t": "Huni! How can you call the Mountain King a monster?"
+        },
+        {
+          "s": 6,
+          "t": "Because he hurt a lot of people! And look what happened to Nanna..."
+        },
+        {
+          "s": 5,
+          "t": "But it wasn't on purpose! The Mountain King is sick, that's all. He's been hurt by the Abyss."
+        },
+        {
+          "s": 6,
+          "t": "That's true, but the fact remains that he's now a threat to all of us!"
+        },
+        {
+          "s": 5,
+          "t": "How can you be so harsh to someone who's sick? If you don't take back what you just said, I don't know if we can carry on being friends!"
+        },
+        {
+          "s": 1,
+          "t": "Toba... Huni... What's wrong?"
+        },
+        {
+          "s": 5,
+          "t": "Huni's saying nasty things about the Mountain King! It's not right, he's our hero!"
+        },
+        {
+          "s": 6,
+          "t": "Hmph, once upon a time, maybe. But not anymore."
+        },
+        {
+          "s": 2,
+          "t": "Hey now, let's not fight. Aren't you best friends?"
+        },
+        {
+          "s": 5,
+          "t": "Hmph, yesterday, maybe. But not anymore!"
+        },
+        {
+          "s": 6,
+          "t": "Toba! Fine... I guess my dad is right. Things change, and you just have to accept it and move forward."
+        },
+        {
+          "s": 6,
+          "t": "As of today, our friendship is over! There's no going back!"
+        },
+        {
+          "s": 1,
+          "t": "Oh come on, cut it out you two! We have some great news to tell you!"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME} is gonna be the flame bearer for the next Turnfire Night! He(She)'s gonna do a beautiful ceremony and cure the Mountain King's illness for good."
+        },
+        {
+          "s": 5,
+          "t": "What? Really?"
+        },
+        {
+          "s": 2,
+          "t": "Of course. I'm an expert at this stuff."
+        },
+        {
+          "s": 6,
+          "t": "So that's what my dad wanted to talk to you about?"
+        },
+        {
+          "s": 6,
+          "t": "To be fair, from what we saw the other day, you are pretty good at climbing cliffs. Probably just as good as Kinich."
+        },
+        {
+          "s": 5,
+          "t": "Wait, speaking of Kinich... Where even is that guy?"
+        },
+        {
+          "s": 6,
+          "t": "Oh yeah, good question... Is he not coming to the ceremony anymore?"
+        },
+        {
+          "s": 1,
+          "t": "We can get him to come. But if he catches you two fighting again, he won't be happy! He'll be sure to give you both a piece of his mind!"
+        },
+        {
+          "s": 5,
+          "t": "No, we can't let that happen! I've never even spoken to him before! I can't afford to make such a bad first impression."
+        },
+        {
+          "s": 6,
+          "t": "I didn't mean to argue with Toba... All I said was that the Mountain King has done some pretty bad things. He was the one who turned it into a fight."
+        },
+        {
+          "s": 2,
+          "t": "You two clearly care about each other. The Mountain King can't change that."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! If you weren't friends, there's no way Toba would've come to look for the baby Saurians with you."
+        },
+        {
+          "s": 6,
+          "t": "...Alright, well... Because it's {NICKNAME} and Paimon, and Kinich... I'm sorry, Toba. I'm sorry for all the mean things I said about the Mountain King."
+        },
+        {
+          "s": 6,
+          "t": "Dad just really misses Nanna. And I was really upset that she's gone, too..."
+        },
+        {
+          "s": 5,
+          "t": "Huh? Oh... Uhh..."
+        },
+        {
+          "s": 5,
+          "t": "I shouldn't have spoken to you the way I did either. It wasn't very nice of me. For {NICKNAME} and Paimon, Kinich, and for Nanna... I'm sorry too, Huni."
+        },
+        {
+          "s": 1,
+          "t": "That's more like it... Now you're best friends again!"
+        },
+        {
+          "s": 6,
+          "t": "Guess so... Toba, if I ever say something mean about the Mountain King in the future, I'll make sure I say it to someone else and not you."
+        },
+        {
+          "s": 6,
+          "t": "I'd better go buy some colored cloth for my Dad now. He needs it for Turnfire Night. Let's play again some other time."
+        },
+        {
+          "s": 6,
+          "t": "See you, Toba. See you, {NICKNAME} and Paimon."
+        },
+        {
+          "s": 5,
+          "t": "Kay, I'll head home as well then... See you next time..."
+        },
+        {
+          "s": 1,
+          "t": "Okay, take care you two..."
+        },
+        {
+          "s": 1,
+          "t": "Aww... Even though they said they're sorry, it looks like their friendship isn't as strong as it was before."
+        },
+        {
+          "s": 2,
+          "t": "Times really are changing."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* ...Let's just hope we can solve this once and for all."
+        },
+        {
+          "s": 1,
+          "t": "Come on, let's move on."
+        },
+        {
+          "section": "Thiago"
+        },
+        {
+          "s": 1,
+          "t": "Hey there, what's happening here?"
+        },
+        {
+          "s": 7,
+          "t": "A rehearsal, for the Turnfire Night dance."
+        },
+        {
+          "s": 1,
+          "t": "Oooh! There's a dance involved? Paimon wants to learn, too..."
+        },
+        {
+          "s": 7,
+          "t": "You don't know it? Ah, I guess you're not from these parts, huh? It's rare to see a new face around the tribe these days — I thought everyone would be keeping away."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Why do you say that?"
+        },
+        {
+          "s": 7,
+          "t": "Because of the Turnfire Night, of course. The Mountain King could wake up at any time — that's why we're holding an emergency ceremony."
+        },
+        {
+          "s": 7,
+          "t": "This isn't one of those fun-and-games festivals. For outsiders, it might even be a little dangerous."
+        },
+        {
+          "s": 1,
+          "t": "Well, did you know that the flame bearer this time is actually gonna be an outsider?"
+        },
+        {
+          "s": 7,
+          "t": "Oh, I did hear about that! It's a first for sure. I would've loved to meet them in person."
+        },
+        {
+          "s": 2,
+          "t": "Heh... Now you have."
+        },
+        {
+          "s": 7,
+          "t": "What? Oh...! It's you!? Man, oh man... Well, this is a nice surprise."
+        },
+        {
+          "s": 7,
+          "t": "It's funny, I was just thinking that I'll probably miss out on meeting the new flame bearer, since I'm not taking part this time around... Then suddenly, there you are! Must be my lucky day, haha."
+        },
+        {
+          "s": 1,
+          "t": "You're not taking part in Turnfire Night? How come? You're not an outsider too, are you?"
+        },
+        {
+          "s": 7,
+          "t": "Haha, you must be joking! Watch this..."
+        },
+        {
+          "s": 7,
+          "t": "Not bad, right? Yeah, I'm considered one of the better-looking guys who dances beneath the Pillars of the Sacred Flame. Been doing it a few years. Always gets the ladies out to watch, haha."
+        },
+        {
+          "s": 1,
+          "t": "Ooh, very impressive! So why did you quit?"
+        },
+        {
+          "s": 7,
+          "t": "Well, I feel like the whole Mountain King situation is getting more and more precarious. It's just not safe here anymore. One of our elders' Saurian companions even lost her life not long ago."
+        },
+        {
+          "s": 7,
+          "t": "The question is, what are we going to do about this in the long term? But our leaders don't have any answers for us. They're probably too busy fighting about it amongst themselves."
+        },
+        {
+          "s": 7,
+          "t": "The way things are going, it's only a matter of time before it gets violent. So I figured, y'know what? Now's as good a time as any to get away for little while, go do some exploring."
+        },
+        {
+          "s": 1,
+          "t": "You look a little disappointed..."
+        },
+        {
+          "s": 7,
+          "t": "Disappointed? Nah. It's a great opportunity to go see the world. As every male Scion of the Canopy knows: Wherever you are and wherever you go, the only way is forwards. We take pride in that. I won't forget my roots."
+        },
+        {
+          "s": 2,
+          "t": "Fair enough. So what's your plan for the next step?"
+        },
+        {
+          "s": 7,
+          "t": "Hehe, I managed to get in touch with the Saurian Relics Association. They gave me a simple test: Find a decent quality relic, and they'll make me a member."
+        },
+        {
+          "s": 1,
+          "t": "What's the Saurian Relics Association?"
+        },
+        {
+          "s": 7,
+          "t": "You've never heard of it? It's a group of amateur history enthusiasts who do research on the ancient Saurian era. They're all about collecting relics and remnants from that age."
+        },
+        {
+          "s": 7,
+          "t": "Speaking of which, the guy who was flame bearer before you — I've heard that his Saurian buddy comes from that time."
+        },
+        {
+          "s": 1,
+          "t": "Ajaw? Ajaw's a relic from an ancient Saurian civilization!?"
+        },
+        {
+          "s": 7,
+          "t": "Oh! Yeah, him. So you know those two already, huh?"
+        },
+        {
+          "s": 7,
+          "t": "Then do you know how they met? It was deep inside some mysterious ruin, and they signed a contract there. The association folks say that kind of contract usually comes with a huge, hidden cost."
+        },
+        {
+          "s": 1,
+          "t": "Really? That sounds ominous..."
+        },
+        {
+          "s": 7,
+          "t": "Who knows? But if it's true, Kinich can probably handle it. He knows what he's doing with weighing up contracts and costs and stuff. I doubt he'd make a contract that doesn't benefit him."
+        },
+        {
+          "s": 7,
+          "t": "Strangely enough, I actually happened upon a strange mural a while back, and it looked to me like it was depicting a Saurian and a human involved in some kind of Saurian-era contract ritual."
+        },
+        {
+          "s": 1,
+          "t": "Ooh, does that count as a relic then?"
+        },
+        {
+          "s": 7,
+          "t": "You bet it does. I was all ready to go take a picture of it and use that as my entry ticket to the association."
+        },
+        {
+          "s": 7,
+          "t": "But after all the Abyssal activity recently, I heard that area's been overrun by monsters. The best laid plans, huh? I'll just have to wait and see if things improve."
+        },
+        {
+          "s": 7,
+          "t": "...Or... You look like you know your way around a fight... I don't suppose there's any chance you'd be able to help...?"
+        },
+        {
+          "s": 1,
+          "t": "If all you need is to get a picture, that should be pretty achievable, right...? {NICKNAME} deals with monsters all the time, it's a piece of cake."
+        },
+        {
+          "s": 7,
+          "t": "Wait, you're seriously gonna help me out?"
+        },
+        {
+          "s": 1,
+          "t": "C'mon, it's no big deal! Compared to some of the things we've been roped into before, this is nothing."
+        },
+        {
+          "s": 7,
+          "t": "...Pyro Archon above, you two have hearts of gold, you know that? You're the kind of people who could dive into the Turnfire, deep in the bowels of the Night Kingdom, and it wouldn't burn a single hair off your head."
+        },
+        {
+          "s": 2,
+          "t": "I'll take that as a... compliment?"
+        },
+        {
+          "s": 7,
+          "t": "Of course it is! Alright, come with me, I'll show you the way!"
+        },
+        {
+          "section": "Thiago"
+        },
+        {
+          "s": 7,
+          "t": "There it is, it's inside these ruins. As you can see, the place is crawling with monsters!"
+        },
+        {
+          "s": 1,
+          "t": "Alrighty then. Stay back and take cover, Thiago — this could get dangerous. We'll take care of them."
+        },
+        {
+          "s": 7,
+          "t": "Great minds think alike, haha! I'm not about to cramp your style."
+        },
+        {
+          "section": "Thiago"
+        },
+        {
+          "s": 7,
+          "t": "This is far back enough, right? I'm not in the way or anything?"
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Phew, that should be the last of them... It's a good thing Thiago had the sense to stay in his hiding place, or things could've gotten really hairy for him."
+        },
+        {
+          "s": 1,
+          "t": "Hey, look! That's gotta be it, right? Definitely looks like a mural."
+        },
+        {
+          "s": 2,
+          "t": "It's a little on the small side..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, true... Now that you mention it, most ancient murals take up a whole huge wall. This looks more like someone with a paintbrush got bored and started doodling..."
+        },
+        {
+          "s": 1,
+          "t": "It does match the story he told us, though. There's a Saurian and a human... So is that supposed to be what an ancient contract ritual looked like...?"
+        },
+        {
+          "s": 1,
+          "t": "Eh, whatever, we're not here to decipher it, just photograph it."
+        },
+        {
+          "section": "Photo"
+        },
+        {
+          "s": 8,
+          "t": "(test)台词文本"
+        },
+        {
+          "section": "Ponche"
+        },
+        {
+          "s": 7,
+          "t": "You've been robbed!? Oh, Ponche... And I thought my luck was bad."
+        },
+        {
+          "s": 9,
+          "t": "I put blood, sweat, and tears into that! And now I've got nothing to show for it. Some gap-toothed goon stole it from me!"
+        },
+        {
+          "s": 1,
+          "t": "Thiago! Is this the picture you were looking for?"
+        },
+        {
+          "s": 7,
+          "t": "Let me take a look... Yep, that's the one! Pyro Archon above, you two are superhumans!"
+        },
+        {
+          "s": 7,
+          "t": "Hey, Ponche, come and say hi to these guys. They're gonna be the new flame bearers, and they're tough as nails."
+        },
+        {
+          "s": 9,
+          "t": "Wait, are you... {NICKNAME} and Paimon?"
+        },
+        {
+          "s": 7,
+          "t": "Huh? You already know each other?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Don't think so...?"
+        },
+        {
+          "s": 9,
+          "t": "My nephew, Toba's been telling everyone about you. He says you're crazy strong, super friendly, that you helped him out, and that you're going to be our flame bearers this Turnfire Night."
+        },
+        {
+          "s": 1,
+          "t": "Ohh, so you're Toba's uncle! Great to meet you, Sir!"
+        },
+        {
+          "s": 1,
+          "t": "Sounds like we've managed to make a bit of a name for ourselves, hehe."
+        },
+        {
+          "s": 7,
+          "t": "Toba's not wrong, my friend. These two are honestly some of the nicest, most genuine people I've ever met. Everyone speaks incredibly highly of them. Seriously, if you're comfortable telling them about what happened, I guarantee you they'll sort it out in no time."
+        },
+        {
+          "s": 9,
+          "t": "Really? All I want is to get the fruits of my labor back..."
+        },
+        {
+          "s": 7,
+          "t": "Allow me to explain. Ponche is a well-known scholar within our tribe, author of the widely acclaimed book, \"Yupanqui's Turnfire.\" Unfortunately, the book was stolen by a Treasure Hoarder a few hours ago."
+        },
+        {
+          "s": 9,
+          "t": "I spent years of my life researching that book... I visited every last ruin, interviewed every descendant of every hero in our history..."
+        },
+        {
+          "s": 9,
+          "t": "On the word \"Mal{RUBY#[D]Turnfire}ipo\" alone, I covered at least five different interpretations of the meaning, based on accounts from different villages."
+        },
+        {
+          "s": 7,
+          "t": "It was an unparalleled masterpiece!"
+        },
+        {
+          "s": 9,
+          "t": "And now it's all gone. That little goon ambushed me during my morning walk. He snatched all of my belongings, including my entire manuscript!"
+        },
+        {
+          "s": 7,
+          "t": "That book was everything to him... it's like they robbed him of his soul when they took it. Look at him, lost and listless... He's a shell of the man he was."
+        },
+        {
+          "s": 9,
+          "t": "Dear honored guests of our clan... I am but a helpless old student. If only for Toba and Thiago's sake, please help me, I beg of you!"
+        },
+        {
+          "s": 2,
+          "t": "Where were you ambushed?"
+        },
+        {
+          "s": 7,
+          "t": "See what I mean, Ponche? Now you've run into these two, your luck's about to change, big time."
+        },
+        {
+          "s": 9,
+          "t": "I don't know if he's still there, but... Come on, I'll take you!"
+        },
+        {
+          "section": "Matthias"
+        },
+        {
+          "s": 9,
+          "t": "Hey! You... you thieving rat! Give me my things back!"
+        },
+        {
+          "s": 10,
+          "t": "What do you want now, you old bum? God, you're a waste of space. Prepare to get shoved butt-first into a tree hollow!"
+        },
+        {
+          "s": 2,
+          "t": "I dare you to try."
+        },
+        {
+          "s": 10,
+          "t": "Aw, what's this? Brought a little bodyguard with you, huh? Alright, let's see what you've got... Watch this!"
+        },
+        {
+          "s": 10,
+          "t": "Eat dirt, suckers!"
+        },
+        {
+          "section": "Matthias"
+        },
+        {
+          "s": 10,
+          "t": "Stop, please! By all the warriors, heroes, gods, and kings... I can't run any longer."
+        },
+        {
+          "s": 10,
+          "t": "Please, I don't have your stuff anymore... Have mercy..."
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah? Well, where is it then?"
+        },
+        {
+          "s": 10,
+          "t": "I... threw it away..."
+        },
+        {
+          "s": 1,
+          "t": "You threw it away!?"
+        },
+        {
+          "s": 10,
+          "t": "The old bum's bag didn't have a single Mora in it. Just a tatty old book, worn-out pens, and some old rags."
+        },
+        {
+          "s": 10,
+          "t": "All that time lying in wait was for nothing. I was so mad, I just threw all of it away..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Is that really the truth? Okay then, where did you throw it away?"
+        },
+        {
+          "s": 10,
+          "t": "Same place you found me... I swear on the Pyro Archon, it's the truth! May all my worldly possessions be turned to ash by Turnfire if I'm lying!"
+        },
+        {
+          "s": 1,
+          "t": "Okay, that's a pretty strong oath..."
+        },
+        {
+          "s": 1,
+          "t": "What do we do now? It sounds like he's telling the truth..."
+        },
+        {
+          "s": 2,
+          "t": "Let's go back to where we were and see if we can find anything."
+        },
+        {
+          "s": 1,
+          "t": "Right... Let's hope nobody gets to the book before we do... We'll never get it back then..."
+        },
+        {
+          "section": "Matthias"
+        },
+        {
+          "s": 11,
+          "t": "Raargh!"
+        },
+        {
+          "s": 12,
+          "t": "Rawr!"
+        },
+        {
+          "s": 13,
+          "t": "Grrr..."
+        },
+        {
+          "s": 10,
+          "t": "Where did these yumkasaurs come from? Get away from me, you monsters!"
+        },
+        {
+          "s": 1,
+          "t": "Whoa! The baby Saurians are blocking his path!"
+        },
+        {
+          "s": 10,
+          "t": "Stop, please! By all the warriors, heroes, gods, and kings... I can't run any longer."
+        },
+        {
+          "s": 10,
+          "t": "Please, I don't have your stuff anymore... Have mercy..."
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah? Well, where is it then?"
+        },
+        {
+          "s": 10,
+          "t": "I... threw it away..."
+        },
+        {
+          "s": 1,
+          "t": "You threw it away!?"
+        },
+        {
+          "s": 10,
+          "t": "The old bum's bag didn't have a single Mora in it. Just a tatty old book, worn-out pens, and some old rags."
+        },
+        {
+          "s": 10,
+          "t": "All that time lying in wait was for nothing. I was so mad, I just threw all of it away..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Is that really the truth? Okay then, where did you throw it away?"
+        },
+        {
+          "s": 10,
+          "t": "Same place you found me... I swear on the Pyro Archon, it's the truth! May all my worldly possessions be turned to ash by Turnfire if I'm lying!"
+        },
+        {
+          "s": 1,
+          "t": "Okay, that's a pretty strong oath..."
+        },
+        {
+          "s": 1,
+          "t": "What do we do now? It sounds like he's telling the truth..."
+        },
+        {
+          "s": 2,
+          "t": "Let's go back to where we were and see if we can find anything."
+        },
+        {
+          "s": 1,
+          "t": "Right... Let's hope nobody gets to the book before we do... We'll never get it back then..."
+        },
+        {
+          "section": "Enjou"
+        },
+        {
+          "s": 14,
+          "t": "\"...Although the Turnfire is a heroic symbol in Huitztlan, it also comes with the more ominous implication of eventual tragedy...\""
+        },
+        {
+          "s": 14,
+          "t": "\"...This holds true for all bearers of this ancient name in recorded history. Each one of them died of non-natural causes, as if the specter of the Turnfire was always lurking in the background...\""
+        },
+        {
+          "s": 14,
+          "t": "\"...This appears to suggest the existence of some higher power that is always watching the name-bearer, examining their actions and eventually demanding payment in return. None can escape this payment — unless, perhaps, they could honestly swear by Turnfire to never make a single mistake in their entire life...\""
+        },
+        {
+          "s": 14,
+          "t": "\"Yupanqui's Turnfire\"... What an incredible work on ancient name philology. I can't believe it was just lying there for me to take."
+        },
+        {
+          "s": 14,
+          "t": "Let me see, the author is... Ponche. Nice. A gentleman and a scholar."
+        },
+        {
+          "s": 15,
+          "t": "Silence, book muncher! The Great K'uhul Ajaw will suffer your droning voice no longer!"
+        },
+        {
+          "s": 14,
+          "t": "Do you truly find no joy at all in perusing such rich historical records?"
+        },
+        {
+          "s": 15,
+          "t": "Joy? What joy is there in this pointless drivel?"
+        },
+        {
+          "s": 14,
+          "t": "Well, it makes a pretty shocking prediction: Every bearer of the ancient name \"Mal{RUBY#[D]Turnfire}ipo\" eventually meets a grisly end. Maybe that's the price you pay for the name that means \"price\"?"
+        },
+        {
+          "s": 15,
+          "t": "What? You're saying, Kinich will die a violent death? ...Mwuhahaha! So I'll finally get to take over his body?"
+        },
+        {
+          "s": 15,
+          "t": "When? When will that glorious day arrive? The Great K'uhul Ajaw demands to know!"
+        },
+        {
+          "s": 14,
+          "t": "Wow, you are just irredeemable, aren't you? An agent of chaos down to the core. You make us Abyss Order folks look like saints in comparison."
+        },
+        {
+          "s": 15,
+          "t": "Silence, maggot! To presume that anyone compares your kind with the Great K'uhul Ajaw is sheer vanity! And if that day ever comes, your doom will soon follow."
+        },
+        {
+          "s": 14,
+          "t": "Hehe, you don't need to lecture me about doomsday. Here's what I know, based on countless historical texts:"
+        },
+        {
+          "s": 14,
+          "t": "All civilizations will be reduced to rubble by the passage of time. From ancient kingdoms, to heavenly thrones, to worlds beyond... There are no exceptions."
+        },
+        {
+          "s": 14,
+          "t": "But from the ruins of every civilization, the dust will rise and never settle, thus transcending the confines of time. That \"dust\" is what we call a civilization's spirit."
+        },
+        {
+          "s": 14,
+          "t": "And you, Great K'uhul Ajaw, are one such speck of dust from a bygone age. I've paid dearly for the chance to observe you up close."
+        },
+        {
+          "s": 14,
+          "t": "Now, let me take a good look at you. We'll see whether any memories of that age still remain inside you..."
+        },
+        {
+          "section": "Ponche"
+        },
+        {
+          "s": 1,
+          "t": "We're so sorry, Mr. Ponche... But we couldn't find your manuscript anywhere."
+        },
+        {
+          "s": 9,
+          "t": "Does that mean... All of my hard work was for nothing...?"
+        },
+        {
+          "s": 7,
+          "t": "You gotta stay positive, Ponche. You might've lost the book, but the brains behind it are still intact. Surely you remember the main points, at least?"
+        },
+        {
+          "s": 9,
+          "t": "The whole reason I worked so hard to get it finished before the Turnfire Night is because I hoped that maybe it might help us find a way through these trying times. But now..."
+        },
+        {
+          "s": 2,
+          "t": "You mean... You solved the Mountain King problem?"
+        },
+        {
+          "s": 9,
+          "t": "Well, not exactly. But I thought my research might at least be a starting point..."
+        },
+        {
+          "s": 1,
+          "t": "Ooh, really? So what did you find out in your research?"
+        },
+        {
+          "s": 9,
+          "t": "I think the key to all of this lies in the power of \"Mal{RUBY#[D]Turnfire}ipo\"..."
+        },
+        {
+          "s": 7,
+          "t": "...Ponche, you know as well as anyone that ancient names don't hold any real power. Symbolic power doesn't count."
+        },
+        {
+          "s": 9,
+          "t": "You're right, but \"Mal{RUBY#[D]Turnfire}ipo\" may be a special case. Given that it first arose in the era of the First Pyro Archon, it might contain remnants of Xbalanque's power."
+        },
+        {
+          "s": 7,
+          "t": "Yeah, I remember that story — my grandpa told it to me when I was a little kid..."
+        },
+        {
+          "s": 7,
+          "t": "Maybe you're the special case... Most kids stop believing in that stuff by your age..."
+        },
+        {
+          "s": 9,
+          "t": "I'm not talking about childhood superstitions here! There is evidence!"
+        },
+        {
+          "s": 7,
+          "t": "Like what?"
+        },
+        {
+          "s": 9,
+          "t": "Like the fact that the Mountain King is still alive. Everyone attributes that to the power of the Abyss, but there's more to it than that."
+        },
+        {
+          "s": 9,
+          "t": "The key factor is that Burkina summoned the power of \"Mal{RUBY#[D]Turnfire}ipo,\" at the cost of his own life."
+        },
+        {
+          "s": 9,
+          "t": "If you don't believe me, then answer me this: How many other creatures can you think of who lived longer, not shorter, after being contaminated by the Abyss?"
+        },
+        {
+          "s": 1,
+          "t": "Um... {NICKNAME}... Different situation, but similar idea: Doesn't this remind you of the hili—"
+        },
+        {
+          "s": 2,
+          "t": "Shh!"
+        },
+        {
+          "s": 9,
+          "t": "So, I came to the conclusion that \"Mal{RUBY#[D]Turnfire}ipo\" must refer to some mysterious ritual involving a tit-for-tat exchange."
+        },
+        {
+          "s": 9,
+          "t": "It began with the first Pyro Archon, fell with the Grand Alliance, then was buried in the Night Kingdom... And now, it awaits the call of its new bearer."
+        },
+        {
+          "s": 7,
+          "t": "Hey, hey... Sorry to interrupt, Ponche, but you seem to be getting a little over-excited."
+        },
+        {
+          "s": 9,
+          "t": "I'm sorry... I was originally planning on presenting my findings to Kinich. I'd hoped he would be attending the upcoming ceremony."
+        },
+        {
+          "s": 0,
+          "t": "Sounds to me like you dreamed up one fanciful theory to support another."
+        },
+        {
+          "s": 1,
+          "t": "Eh? Kinich, what are you doing here?"
+        },
+        {
+          "s": 0,
+          "t": "I more or less finished what I was doing, so I came to have a quick catchup. Now a good time?"
+        },
+        {
+          "s": 9,
+          "t": "Kinich! I'm onto something! I haven't worked out all the details, but, but... You have to attend the Turnfire Night!"
+        },
+        {
+          "s": 1,
+          "t": "Uh... So Mr. Ponche here has done a lot of research on the history of the Turnfire, and thinks he might have found a way for you to solve the problem..."
+        },
+        {
+          "s": 0,
+          "t": "I'll be there, Ponche."
+        },
+        {
+          "s": 0,
+          "t": "Let's go."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "Here will do."
+        },
+        {
+          "s": 2,
+          "t": "Have you found a way to summon a Beastly Rift?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah. I'd like your help giving it a trial run tomorrow. If that works, we have our plan come Turnfire Night."
+        },
+        {
+          "s": 1,
+          "t": "Sounds like you're not considering Ponche's idea..."
+        },
+        {
+          "s": 0,
+          "t": "You heard him — he hasn't worked out the details yet. We need a more practical solution with concrete steps to follow."
+        },
+        {
+          "s": 1,
+          "t": "\"Yet\"... Are you saying, you think he might actually be onto something?"
+        },
+        {
+          "s": 0,
+          "t": "I think it's possible, based on something I know about the war five hundred years ago."
+        },
+        {
+          "s": 0,
+          "t": "Burkina didn't fall to the Abyss — he was killed by the Mountain King in an episode of madness. In his final moments, Burkina made the fateful decision not to fight back, and instead pass his blood and power onto the Mountain King."
+        },
+        {
+          "s": 0,
+          "t": "Maybe he thought the Mountain King was stronger than him, and more valuable to the tribe. Or maybe it was just out of loyalty to his friend."
+        },
+        {
+          "s": 0,
+          "t": "Either way, I can believe the Turnfire was involved. Whether you think his sacrifice triggered it, or his fate was sealed from the moment he took the Malipo name... It makes sense to me."
+        },
+        {
+          "s": 1,
+          "t": "...How can you drop these truth-bombs with such a straight face..."
+        },
+        {
+          "s": 0,
+          "t": "This is what I've gleaned from my many interactions with the Mountain King. His mind is so disordered, it took some time to piece it all together."
+        },
+        {
+          "s": 0,
+          "t": "The story Elder Trinidad told you was the more palatable version of events. The truth is even darker."
+        },
+        {
+          "s": 0,
+          "t": "The Mountain King's mind isn't just disordered. He is suffering, and feels great shame. I believe he wants to be put out of his misery."
+        },
+        {
+          "s": 1,
+          "t": "What? Then... Then what should we do? Should we grant him his wish?"
+        },
+        {
+          "s": 0,
+          "t": "Of course not. We should help him move to a new home."
+        },
+        {
+          "s": 2,
+          "t": "So your goal hasn't changed."
+        },
+        {
+          "s": 0,
+          "t": "It's the only practical solution."
+        },
+        {
+          "s": 0,
+          "t": "The Mountain King is a hero to my tribe — an object of worship, even. Ending his life would be like desecrating a statue."
+        },
+        {
+          "s": 0,
+          "t": "Still, he's been the cause of multiple disasters, and we can't afford to have any more."
+        },
+        {
+          "s": 1,
+          "t": "Ugh... Practical solutions hurt Paimon's brain. Can we follow our hearts next time..."
+        },
+        {
+          "s": 0,
+          "t": "Haha, then let's break for the day. I've already found a suitable venue for tomorrow."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "You're here. Very punctual."
+        },
+        {
+          "s": 15,
+          "t": "Ohohoho! So, the gruesome twosome come crawling back... Here to make amends after the gross irreverence you displayed last time?"
+        },
+        {
+          "s": 15,
+          "t": "Very well! The Almighty Dragonlord, K'uhul Ajaw shall grant you the audience that you seek. Now pucker up, and kiss our feet."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Kinich, didn't you say you found him a teacher? He's just as out-of-control as ever!"
+        },
+        {
+          "s": 15,
+          "t": "No one gets to discipline the Almighty Dragonlord, K'uhul Ajaw! NO ONE!"
+        },
+        {
+          "s": 2,
+          "t": "How do you put up with this behavior?"
+        },
+        {
+          "s": 0,
+          "t": "Maybe because I've never had a gentle-natured companion like Paimon to compare against."
+        },
+        {
+          "s": 1,
+          "t": "I—Is that a compliment?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah. I see what I'm missing out on now. And it's a lot."
+        },
+        {
+          "s": 15,
+          "t": "Kiniiiiiich! We could drown this measly flying ant in one droplet of spit! How dare you compare her to the Almighty Dragonlord, K'uhul Ajaw?"
+        },
+        {
+          "s": 15,
+          "t": "Just wait till I possess your dead body! I will commit heinous atrocities! Tear down your legacy! Destroy your reputation! Wreak havoc on your—"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon, let's get down to business. Once we've opened the Beastly Rift, you're welcome to toss Ajaw in there for a couple days."
+        },
+        {
+          "s": 1,
+          "t": "With pleasure! You don't need to ask twice!"
+        },
+        {
+          "s": 0,
+          "t": "Check it out, I got my hands on this device in a trade. It's meant as bait, but it'll also stabilize the Abyssal energy."
+        },
+        {
+          "s": 0,
+          "t": "The Rifthounds will tear through space to get to this. Once they're here, we take them out and claim the rift for ourselves."
+        },
+        {
+          "s": 2,
+          "t": "How did you get your hands on this?"
+        },
+        {
+          "s": 0,
+          "t": "You'll find out soon enough. First, let's try this out."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "sit": "After you clear the wave of Rifthounds, a more powerful burst of Abyssal energy ripples through the Rift."
+        },
+        {
+          "s": 1,
+          "t": "Uh-oh... Are there even bigger ones on the way?"
+        },
+        {
+          "s": 16,
+          "t": "You see, Kinich? I'm a man of my word. In fact, I'd say I under-promised and over-delivered. Nifty little gizmo, isn't it?"
+        },
+        {
+          "s": 0,
+          "t": "I take it this is your true form."
+        },
+        {
+          "s": 16,
+          "t": "Now that our deal is complete, it's time to start the next phase of our relationship. I made a promise to the Great K'uhul Ajaw, and now I'm here to seize your body for his use."
+        },
+        {
+          "s": 16,
+          "t": "Cliché, I know — the hero's trusted partner sells him out to the Abyss in a shocking act of betrayal. Cue bad-guy speech and drawn-out death sequence..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Enjou!?"
+        },
+        {
+          "s": 16,
+          "t": "Huh...? HUH!? What are you two doing here? Oh, Mr. Kinich, this is not what we agreed on."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, this is the gift I got you. I know you're looking for intel on the Abyss Order, so I thought he might be of use to you."
+        },
+        {
+          "s": 0,
+          "t": "But it looks like you've already met?"
+        },
+        {
+          "sit": "Yeah, we've met."
+        },
+        {
+          "sit": "I've beaten him up before."
+        },
+        {
+          "s": 16,
+          "t": "Yikes, frosty reception... Gotta say, I kinda pictured this moment going a little differently. Tears of joy welling up in your eyes as you say the words: \"It's good to see you again, old friend.\""
+        },
+        {
+          "s": 1,
+          "t": "Don't be ridiculous... Sounds like you've been reading too many romance novels."
+        },
+        {
+          "s": 16,
+          "t": "There we have it. Change is inevitable, and nothing lasts forever. What a pity... Well then, time for you to meet the new me. This time, please call me Sanka."
+        },
+        {
+          "s": 1,
+          "t": "Sanka! Aha, so YOU'RE glasses guy! You tricked Huni and Toba into telling you a bunch of stories!"
+        },
+        {
+          "s": 2,
+          "t": "What's your real name?"
+        },
+        {
+          "s": 16,
+          "t": "What does it matter? A name is a superficial label, it's what's deep down inside that counts. And I've shown you the deepest parts of me."
+        },
+        {
+          "s": 2,
+          "t": "You mean the masochistic parts?"
+        },
+        {
+          "s": 1,
+          "t": "That would explain a lot. Why else would you show up here and start acting like a wise guy? You looking for a fight?"
+        },
+        {
+          "s": 16,
+          "t": "Eh, I'll pass. I do rather like you, as I've said before, but my one quibble is that you really don't know your own strength."
+        },
+        {
+          "s": 2,
+          "t": "Then what are you doing here?"
+        },
+        {
+          "s": 1,
+          "t": "Wait... Of course! You're the one behind all the recent Abyss activity! Let Paimon guess, you've been provoking the Mountain King, too?"
+        },
+        {
+          "s": 16,
+          "t": "Haven't I told you before? I'm not part of the inner circle who do our Highness's bidding. My interests are far more low-stakes."
+        },
+        {
+          "s": 16,
+          "t": "I spend my time digging for truth in ancient doodads and books. You really think a benchwarmer like me is capable of more than that?"
+        },
+        {
+          "s": 0,
+          "t": "I investigated him — he's not connected to the recent events. Just happens to be in the area."
+        },
+        {
+          "s": 0,
+          "t": "So I struck a deal with him: He helps me summon a Rift, I allow him to do some \"historical research.\""
+        },
+        {
+          "s": 16,
+          "t": "But that's all over, and now Kinich wants to hand me over to you, while I was hoping this would be an opportune moment to whisk away his body."
+        },
+        {
+          "s": 16,
+          "t": "That would've given me some more time to study the Great K'uhul Ajaw."
+        },
+        {
+          "s": 16,
+          "t": "But now I've run into you, which is just my luck... Or maybe I've incited the wrath of the Turnfire, and this is the price I have to pay. But I don't understand, what did I do wrong?"
+        },
+        {
+          "s": 2,
+          "t": "You tricked Huni and Toba."
+        },
+        {
+          "s": 16,
+          "t": "Wait, does that count? Hmm, let me think..."
+        },
+        {
+          "s": 1,
+          "t": "Ajaw, you are the worst of the worst! Colluding with the Abyss Order against Kinich? How could you betray your partner?"
+        },
+        {
+          "s": 15,
+          "t": "There is no betrayal! The Almighty Dragonlord, K'uhul Ajaw is a partner to no one."
+        },
+        {
+          "s": 0,
+          "t": "Don't worry, I told him to act as bait."
+        },
+        {
+          "s": 15,
+          "t": "Yes, and you should have picked a bigger fish! The Abyss Order? What a joke! Not even a match for our lowly servant. I put up with this toad's croaking for days, and it was all for nothing!"
+        },
+        {
+          "s": 0,
+          "t": "It looks like your disciplinary measures have been less than effective, Mr. Enjou."
+        },
+        {
+          "s": 16,
+          "t": "Eh, what did you expect? Behavioral rehab isn't really our thing. Otherwise, we might as well change our name from the Abyss Order to the Abyss Boarding School."
+        },
+        {
+          "s": 15,
+          "t": "The Abysmal Disorder would suit you better. Kinich! Dispose of him! He is of no further use to us."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}?"
+        },
+        {
+          "sit": "Be my guest. The Abyss Order is a threat to us all."
+        },
+        {
+          "sit": "Let him go. He'll never amount to much in the Abyss Order anyway."
+        },
+        {
+          "s": 16,
+          "t": "Hey now, I may be a lowly clerk, but don't underestimate me."
+        },
+        {
+          "s": 16,
+          "t": "I could never beat you in a straight-up fight, but when it comes to running away, I won't lose to anyone."
+        },
+        {
+          "s": 16,
+          "t": "Do me a favor and remember how fast I disappear. Maybe then you'll show me a little respect next time."
+        },
+        {
+          "s": 1,
+          "t": "Darn, he got away again... Couldn't you have stopped him?"
+        },
+        {
+          "s": 0,
+          "t": "It's alright, he's not worth our time and energy. Besides, it seems like he's in debt to a lot of people — I'm sure they'll keep him busy."
+        },
+        {
+          "s": 1,
+          "t": "Huh, if you say so... Still, Paimon's kinda surprised that you actually struck a deal with someone from the Abyss Order."
+        },
+        {
+          "s": 0,
+          "t": "To borrow that guy's words, names are superficial labels. Whether you call it the Abyss Order or anything else, it's a broad generalization at best."
+        },
+        {
+          "s": 0,
+          "t": "Think of it like apples that have fallen from a tree. If you tasted each one, you'd find that they're all at different stages of ripening."
+        },
+        {
+          "s": 0,
+          "t": "Even the unripe fruit blown off its branch before it's fully grown can still be brewed into a fine wine. Everything has its use."
+        },
+        {
+          "s": 1,
+          "t": "Huh... Well, in that specific sense, maybe Enjou's not such a bad apple. Not rotten to the core, at least."
+        },
+        {
+          "s": 15,
+          "t": "Of course! Only the Almighty Dragonlord, K'uhul Ajaw is rotten to the core, and evil beyond redemption!"
+        },
+        {
+          "s": 1,
+          "t": "Ugh... So what exactly are you, anyway? You're definitely the evilest little thing Paimon's ever met."
+        },
+        {
+          "s": 0,
+          "t": "Don't worry, he can't hurt a fly."
+        },
+        {
+          "s": 2,
+          "t": "Because you signed a contract?"
+        },
+        {
+          "s": 0,
+          "t": "You could say that."
+        },
+        {
+          "s": 1,
+          "t": "Um... Paimon heard that those kinds of contracts might come with a terrible cost attached... I—Is that true?"
+        },
+        {
+          "s": 0,
+          "t": "Such as? Ajaw watching me like a ravenous vulture?"
+        },
+        {
+          "s": 15,
+          "t": "Vulture? Vulture!? We are the dragon supreme! Sovereign ruler of the Nation of Flame!"
+        },
+        {
+          "s": 0,
+          "t": "Let's pick this up another time. It's getting kinda late."
+        },
+        {
+          "s": 0,
+          "t": "You should go back and get some rest. Big day ahead — tomorrow's Turnfire Night. Time to light the sacred flame and burn away the filth for a legendary five-hundred-year-old warrior."
+        },
+        {
+          "s": 1,
+          "t": "Oh, yeah... Hearing you lay it out like that is making Paimon a little nervous. For all the work we've put in, it all comes down to tomorrow night. We have to make sure we solve this problem once and for all."
+        },
+        {
+          "s": 0,
+          "t": "Then it can't hurt to say this one more time: Good luck to us both."
+        },
+        {
+          "s": 2,
+          "t": "Good luck to us both."
+        },
+        {
+          "s": 0,
+          "t": "See you tomorrow."
+        },
+        {
+          "s": 2,
+          "t": "Let him go. He'll never amount to much in the Abyss Order anyway."
+        },
+        {
+          "s": 16,
+          "t": "You see, this is why I like you. Still, you shouldn't underestimate me just because I'm a lowly clerk."
+        },
+        {
+          "s": 2,
+          "t": "I've beaten him up before."
+        }
+      ],
+      "description": "Following your deal with Kinich, you prepare to walk around the tribe, making room for him to maneuver…"
+    },
+    {
+      "title": "The Last Turnfire Night",
+      "dialogue": [
+        {
+          "section": "Huni"
+        },
+        {
+          "s": 6,
+          "t": "Mr. Traveler, you look so cool today!(Miss Traveler, you look so pretty today!)"
+        },
+        {
+          "s": 6,
+          "t": "You're gonna make sure the Mountain King never threatens us again, right?"
+        },
+        {
+          "s": 6,
+          "t": "I believe in you! I'll be cheering you on the whole time!"
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 3,
+          "t": "Mighty outlanders, the time has finally come. You know what must be done."
+        },
+        {
+          "s": 3,
+          "t": "Please remember, you must cleanse as much Abyssal energy as you can. This is the only way to prolong the Mountain King's slumber."
+        },
+        {
+          "s": 3,
+          "t": "I am sure you have what it takes."
+        },
+        {
+          "section": "Thiago"
+        },
+        {
+          "s": 7,
+          "t": "Hey, bet you're surprised to see me? Didn't think I'd be coming, did ya?"
+        },
+        {
+          "s": 7,
+          "t": "I was all packed up and ready to go, but then I thought, I wonder if the ceremony will go any differently with a new flame bearer? So yeah, here I am again!"
+        },
+        {
+          "s": 7,
+          "t": "I still owe you for that picture you took. So once you start, I'll be dancing to cheer you on."
+        },
+        {
+          "s": 7,
+          "t": "Don't be nervous. You'll do great."
+        },
+        {
+          "section": "Toba, Ponche"
+        },
+        {
+          "s": 5,
+          "t": "Mr.(Miss) {NICKNAME}! You're finally here! I even dragged my uncle out to watch the ceremony."
+        },
+        {
+          "s": 9,
+          "t": "Although I'd hoped for the Malipo name-bearer to perform this ceremony, that was never anything to do with you. So please don't take it personally."
+        },
+        {
+          "s": 9,
+          "t": "I got thinking last night, and I realized: If the lesson of Mal{RUBY#[D]Turnfire}ipo is to look forwards, then I should accept that my book is gone, and start anew."
+        },
+        {
+          "s": 9,
+          "t": "Besides, I'll have even more to write about this time, given this will be our first Turnfire ceremony featuring a flame bearer from another land."
+        },
+        {
+          "s": 9,
+          "t": "I'll be taking detailed notes."
+        },
+        {
+          "s": 5,
+          "t": "Good luck, Mr.(Miss) {NICKNAME}! You got this!"
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "What happened to getting some rest?"
+        },
+        {
+          "sit": "I'm still a little anxious about Enjou."
+        },
+        {
+          "sit": "I'm pretty curious about Ajaw."
+        },
+        {
+          "s": 0,
+          "t": "You're cautious, like me. I get it. But don't worry — like I said, I investigated, and I'm confident he has nothing to do with the Mountain King situation."
+        },
+        {
+          "s": 0,
+          "t": "Before he got tangled up with us, he was looking into the Mare Jivari. That's another major part of Natlan's history."
+        },
+        {
+          "s": 0,
+          "t": "Our ancestor, Burkina once fought a campaign there alongside the five other heroes. But it's not such an easy place to get to these days."
+        },
+        {
+          "s": 0,
+          "t": "That's about all I know, though. I have yet to take a job that involves the Mare Jivari."
+        },
+        {
+          "s": 2,
+          "t": "I'm pretty curious about Ajaw."
+        },
+        {
+          "s": 0,
+          "t": "Heh, Ajaw's piqued your interest, huh? It's true that he's a relic from an earlier Saurian age, but since we're bound to each other by a contract, you can see him as my companion for now."
+        },
+        {
+          "s": 0,
+          "t": "I know he can be awful, but don't worry. As long as I'm still around, he can't do that much damage."
+        },
+        {
+          "s": 2,
+          "t": "...As long as you're around?"
+        },
+        {
+          "s": 0,
+          "t": "Mhm, that's a key part of the contract. Ajaw has to obey my orders and lend me his power for as long as I live."
+        },
+        {
+          "s": 0,
+          "t": "And after I die, Ajaw gets control of my body. That's the price."
+        },
+        {
+          "s": 0,
+          "t": "Crazy, isn't it? That was probably the first time I really appreciated what it meant to pay a \"price.\" Then, once I signed the contract, I received the ancient name \"Mal{RUBY#[D]Turnfire}ipo.\""
+        },
+        {
+          "s": 0,
+          "t": "But that's a whole other story. We can get into it another time, if you're interested."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "I saw you leave the ceremony site, and was worried you might get lost, so I came to check up on you."
+        },
+        {
+          "s": 0,
+          "t": "Are you in trouble? Let me help you out, then escort you back."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 2,
+          "t": "I just need a moment."
+        },
+        {
+          "s": 0,
+          "t": "Sure. I'll wait here."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 2,
+          "t": "Let's head back."
+        },
+        {
+          "s": 0,
+          "t": "Kay. Let's go."
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, let's head off."
+        },
+        {
+          "s": 1,
+          "t": "Off we go!"
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 2,
+          "t": "I still need time to prepare."
+        },
+        {
+          "s": 3,
+          "t": "Of course, there's no rush. I can wait for you right here."
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 3,
+          "t": "Are you ready?"
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 3,
+          "t": "Ah, at long last, you're back."
+        },
+        {
+          "s": 3,
+          "t": "I hear that you've done much for our people these last few days. Everyone has nothing but praise for you."
+        },
+        {
+          "s": 3,
+          "t": "Many young people have heard the rumors, too. They're all eager to meet our new flame bearer."
+        },
+        {
+          "s": 1,
+          "t": "Well, they won't have to wait long! It's almost time for the ceremony!"
+        },
+        {
+          "s": 1,
+          "t": "We really hope we can resolve the Mountain King situation quickly and smoothly. Seems like a lot of people have been worrying about it, huh?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, well, it's nearly time. So, if you're ready, then follow me to the ceremony site."
+        },
+        {
+          "section": "Trinidad"
+        },
+        {
+          "s": 3,
+          "t": "Here we are."
+        },
+        {
+          "s": 4,
+          "t": "Our honored guests have arrived."
+        },
+        {
+          "s": 4,
+          "t": "I have heard much about your fine work over the past few days. I hope you'll allow us to thank you properly after tonight's ceremony."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry about it. Getting this huge venue ready must've been a huge task. No need to make extra work for yourselves on our account."
+        },
+        {
+          "s": 3,
+          "t": "If it means getting the Mountain King issue resolved, no cost is too great to bear."
+        },
+        {
+          "s": 4,
+          "t": "A resolution will come in due course. But every great fire starts as a tiny spark. We must take it one step at a time."
+        },
+        {
+          "s": 3,
+          "t": "No one would disagree with you if that were possible, Chief... But it's been far too long since we've seen a real step forward."
+        },
+        {
+          "s": 3,
+          "t": "Look around you. Can't you see how our numbers have dwindled since the last Turnfire Night?"
+        },
+        {
+          "s": 4,
+          "t": "The ceremony was arranged on short notice. Many are away from home, and could not make it back in time."
+        },
+        {
+          "s": 3,
+          "t": "That may be so, but still..."
+        },
+        {
+          "s": 0,
+          "t": "Good evening, {NICKNAME} and Paimon."
+        },
+        {
+          "s": 1,
+          "t": "Kinich! Not a moment too soon..."
+        },
+        {
+          "s": 0,
+          "t": "Chief Wayna, Elder Trinidad, could you give us a minute? I'd like to give {NICKNAME} a few pointers as the previous flame bearer."
+        },
+        {
+          "s": 4,
+          "t": "Very well, but make it quick. Let me know when you're done, and we will begin the ceremony."
+        },
+        {
+          "s": 0,
+          "t": "Let's step to the side. Has anyone gone over the key steps of the ceremony with you yet?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, Elder Trinidad did. But uh... Paimon seems to have forgotten them..."
+        },
+        {
+          "s": 15,
+          "t": "What a surprise, the flying ant has an ant-sized brain."
+        },
+        {
+          "s": 0,
+          "t": "If you don't want your tongue to be burned off by the sacred flame tonight, I suggest you stay quiet."
+        },
+        {
+          "s": 15,
+          "t": "Tch..."
+        },
+        {
+          "s": 0,
+          "t": "See those Sacred Flame Pillars? Once you've lit the fire, go light each one up in turn."
+        },
+        {
+          "s": 0,
+          "t": "Once that's done, head down into the cave where the Mountain King slumbers, light the braziers along the way, then bring the flame to the final altar. Then, the ceremony is complete."
+        },
+        {
+          "s": 1,
+          "t": "That sounds simple enough."
+        },
+        {
+          "s": 0,
+          "t": "The process isn't complicated, but remember — you mustn't turn back at any point. If you miss a pillar, you can't light the next one then come back to it."
+        },
+        {
+          "s": 0,
+          "t": "You have to keep moving forward, or it's seen as disrespecting our ancestors. If that happens, you won't receive the blessing of the Turnfire, and you'll have to start over."
+        },
+        {
+          "s": 0,
+          "t": "I made you a diagram that summarizes the steps. Take a look."
+        },
+        {
+          "s": 2,
+          "t": "Got it."
+        },
+        {
+          "s": 1,
+          "t": "So that's our part. What about you?"
+        },
+        {
+          "s": 0,
+          "t": "I'll be with you the whole way, and once you've lit the altar, I'll start summoning the Rift."
+        },
+        {
+          "s": 0,
+          "t": "You can leave that side of things to me. Just focus on your part."
+        },
+        {
+          "s": 1,
+          "t": "Okay. We'll try to remember all that and get it right first time."
+        },
+        {
+          "s": 2,
+          "t": "Well then, shall we begin?"
+        },
+        {
+          "s": 0,
+          "t": "Ready when you are."
+        },
+        {
+          "s": 0,
+          "t": "But I think I saw Huni and the others just now, maybe you should say hi before you start. Might make you less nervous."
+        },
+        {
+          "s": 0,
+          "t": "Just tell the chief when you're ready."
+        },
+        {
+          "section": "Wayna"
+        },
+        {
+          "s": 4,
+          "t": "How are you doing? Is all in order?"
+        },
+        {
+          "section": "Wayna"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, we're ready to go."
+        },
+        {
+          "s": 4,
+          "t": "I'm counting on you. Don't forget what we talked about."
+        },
+        {
+          "s": 4,
+          "t": "By past fuel, and present flame, life marches ever on..."
+        },
+        {
+          "s": 4,
+          "t": "My brothers and sisters, the time has come to light the fire once again, and let the Turnfire Night shine bright in Huitztlan!"
+        },
+        {
+          "section": "Wayna"
+        },
+        {
+          "s": 2,
+          "t": "I still need time to prepare."
+        },
+        {
+          "s": 4,
+          "t": "Very well. Then come back when you're ready."
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 1,
+          "t": "(test)台词文本"
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 1,
+          "t": "Woohoo! We've lit up the final altar!"
+        },
+        {
+          "s": 1,
+          "t": "That's the Mountain King up ahead, right?"
+        },
+        {
+          "s": 0,
+          "t": "That's him. Kongamato, king of the Yumkasaurs from five hundred years ago. He's very powerful."
+        },
+        {
+          "s": 1,
+          "t": "Paimon can tell, he's huge... Let's tread carefully. We don't wanna wake him up..."
+        },
+        {
+          "s": 2,
+          "t": "Should we pretend to purify the King?"
+        },
+        {
+          "s": 4,
+          "t": "You've made it at last. You did even better than I expected."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, now comes the final and most important step of the ceremony. Please use the power of the sacred flame to cleanse the Mountain King of Abyssal filth!"
+        },
+        {
+          "s": 0,
+          "t": "There's no need this time."
+        },
+        {
+          "s": 3,
+          "t": "Hmm?"
+        },
+        {
+          "s": 4,
+          "t": "Such strong Abyssal power! What is that thing?"
+        },
+        {
+          "s": 4,
+          "t": "Kinich! What is the meaning of this!?"
+        },
+        {
+          "s": 3,
+          "t": "Is that... a Beastly Rift!?"
+        },
+        {
+          "s": 0,
+          "t": "Chief Wayna, Elder Trinidad, this is about to get a little dangerous. You should step back."
+        },
+        {
+          "s": 4,
+          "t": "What do you think you're doing?"
+        },
+        {
+          "s": 0,
+          "t": "Solving the Mountain King issue."
+        },
+        {
+          "s": 3,
+          "t": "You mean... By having him torn to pieces by Rifthounds!?"
+        },
+        {
+          "s": 4,
+          "t": "No, stop! We can't let that happen!"
+        },
+        {
+          "s": 15,
+          "t": "Foolish locust! Can't you see? We're trying to shove your Locust King into the Beastly Rift!"
+        },
+        {
+          "s": 4,
+          "t": "But... But..."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry, Chief Wayna, and Elder Trinidad. This is the only way."
+        },
+        {
+          "s": 4,
+          "t": "Can you promise me that no harm will come to the Mountain King?"
+        },
+        {
+          "s": 0,
+          "t": "I can't guarantee it, but I'm fairly confident."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, this is not what we agreed on! You must cleanse the Mountain King of every last trace of Abyssal contamination!"
+        },
+        {
+          "sit": "I've changed my mind. I don't want the King to die."
+        },
+        {
+          "sit": "This was Kinich's idea. It has nothing to do with me."
+        },
+        {
+          "s": 3,
+          "t": "Okay, I see what this is! You've been in cahoots this whole time!"
+        },
+        {
+          "s": 15,
+          "t": "You imbecile! What have you done!?"
+        },
+        {
+          "s": 1,
+          "t": "Oh no... The device is destroyed!"
+        },
+        {
+          "s": 3,
+          "t": "You forced my hand. I had no choice..."
+        },
+        {
+          "s": 1,
+          "t": "Elder Trinidad... Wh—What are you doing!?"
+        },
+        {
+          "s": 4,
+          "t": "No! The Mountain King is waking up... He will cause even more casualties..."
+        },
+        {
+          "s": 0,
+          "t": "Everyone, out! Now!"
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha... It seems there is only one way to awaken you all from your willful blindness... More sacrifices must be made."
+        },
+        {
+          "s": 3,
+          "t": "Take me, O Mountain King! Take me as your next sacrifice!"
+        },
+        {
+          "s": 2,
+          "t": "This was Kinich's idea. It has nothing to do with me."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "(test)战斗结束接CS"
+        },
+        {
+          "section": "Wayna"
+        },
+        {
+          "s": 4,
+          "t": "{NICKNAME}, you've come at just the right time. I have some good news for you..."
+        },
+        {
+          "s": 4,
+          "t": "Trinidad's condition has stabilized. He suffered burns on much of his body, but we believe he'll survive."
+        },
+        {
+          "s": 1,
+          "t": "Guess that's the best news we could hope for..."
+        },
+        {
+          "s": 1,
+          "t": "Paimon has to ask, is everyone in your tribe such a risk-taker? First Kinich, then Elder Trinidad... Is this the Scions of the Canopy's adventurous spirit in action?"
+        },
+        {
+          "s": 4,
+          "t": "We're simply not afraid to charge ahead into the unknown."
+        },
+        {
+          "s": 2,
+          "t": "Is Kinich okay?"
+        },
+        {
+          "s": 4,
+          "t": "He's fine, don't worry. He's gone to check on the Mountain King — something most mysterious has happened."
+        },
+        {
+          "s": 4,
+          "t": "After the incident yesterday, a transparent shell has formed around the Mountain King's body. We don't understand the mechanism behind it, but this shell appears to insulate him against the influence of Abyssal power."
+        },
+        {
+          "s": 4,
+          "t": "It is somewhat akin to a scab, in that it stops the Abyssal energy within him from bleeding out, while also preventing further Abyssal energy from seeping in and infecting him."
+        },
+        {
+          "s": 4,
+          "t": "We've never seen anything like it. The tribe's most senior elders believe it was caused when he was burned by the sacred flame, similar to the way burned wood becomes charcoal."
+        },
+        {
+          "s": 4,
+          "t": "I think their theory makes sense. After all, we've never thrown the Mountain King directly into the sacred flame before."
+        },
+        {
+          "s": 1,
+          "t": "Wow, so it's made a barrier against Abyssal energy? That's... a good thing, right?"
+        },
+        {
+          "s": 4,
+          "t": "It's practically a miracle, from what we've seen of it so far. It means that the Mountain King's level of Abyssal energy is now stable. No longer will we need to perform an annual cleansing ceremony."
+        },
+        {
+          "s": 1,
+          "t": "Wow! That's amazing!"
+        },
+        {
+          "s": 2,
+          "t": "Was it really just the power of the sacred flame?"
+        },
+        {
+          "s": 4,
+          "t": "I know what you're thinking. The young people in the tribe are already speculating that yesterday's ceremony was a Turnfire Night like none other in our history."
+        },
+        {
+          "s": 4,
+          "t": "Because you and Kinich... You summoned the very flame that appears in our ancient legends. A great, transparent ball of fire."
+        },
+        {
+          "s": 4,
+          "t": "And that fire is what saved the Mountain King."
+        },
+        {
+          "s": 1,
+          "t": "Whoa! So that was the real Turnfire?"
+        },
+        {
+          "s": 4,
+          "t": "Haha, I may be the chief of this tribe, but I've only ever known the Turnfire as a concept in our legends. I cannot answer that question."
+        },
+        {
+          "s": 4,
+          "t": "If anyone can answer it, I suspect it would be the bearer of the Mal{RUBY#[D]Turnfire}ipo name. He is in the Mountain King's cave as we speak."
+        },
+        {
+          "s": 1,
+          "t": "Ah... So, Kinich then. Why don't we go see how he's doing?"
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 1,
+          "t": "Hey, Kinich!"
+        },
+        {
+          "s": 0,
+          "t": "Hey yourselves. You two doing okay after yesterday?"
+        },
+        {
+          "s": 1,
+          "t": "We were gonna ask you the same question... You scared Paimon half to death when you rushed into the fire."
+        },
+        {
+          "s": 0,
+          "t": "Sorry, I couldn't just stand and watch the Mountain King get burned alive."
+        },
+        {
+          "s": 15,
+          "t": "So you thought you'd try and extinguish the sacred flame with Dendro? Or was that an attempt to make the Almighty Dragonlord, K'uhul Ajaw die of laughter?"
+        },
+        {
+          "s": 0,
+          "t": "The sacred flame only possesses a fraction of the Pyro Archon's power. It's not as if I was fighting the Pyro Archon herself."
+        },
+        {
+          "s": 1,
+          "t": "Kinich... When you went into the flames, were you intending to... uh..."
+        },
+        {
+          "s": 0,
+          "t": "Intending to what?"
+        },
+        {
+          "s": 1,
+          "t": "To, um... do the same thing as Burkina..."
+        },
+        {
+          "s": 0,
+          "t": "Sacrifice myself? Of course not. My focus was on keeping the Mountain King alive, not on what it would cost."
+        },
+        {
+          "s": 0,
+          "t": "But now I'm curious. What made you think I was going to sacrifice myself?"
+        },
+        {
+          "s": 1,
+          "t": "Well... Because everyone's saying the Turnfire is what saved the King last night..."
+        },
+        {
+          "s": 1,
+          "t": "And Ponche's theory was that summoning the Turnfire is a tit-for-tat exchange, right? So Paimon thought you'd decided to pay for it with your life..."
+        },
+        {
+          "s": 0,
+          "t": "So you've heard that rumor too."
+        },
+        {
+          "s": 0,
+          "t": "I'm afraid I can't say for sure. What happened yesterday was a first for me too."
+        },
+        {
+          "s": 1,
+          "t": "Well, if even you don't know, there's probably no one in the world who does."
+        },
+        {
+          "s": 0,
+          "t": "What I would say is, if that really was the power of the Turnfire, I'd sooner believe that the Mountain King summoned it himself."
+        },
+        {
+          "s": 1,
+          "t": "The Mountain King? Then... what price did he pay?"
+        },
+        {
+          "s": 0,
+          "t": "The core meaning of \"price\" is not atonement or compensation, but what you're willing to give up in order to obtain what you want."
+        },
+        {
+          "s": 0,
+          "t": "It's easy to die for your sins, much harder to live with the guilt and keep on going. In the end, the Mountain King chose the latter option — for Burkina, and for the tribe. That's the price he paid."
+        },
+        {
+          "s": 1,
+          "t": "Alright... So how is the Mountain King doing now?"
+        },
+        {
+          "s": 0,
+          "t": "Health-wise, there's nothing to worry about. He'll enter a fighting stance whenever we set foot in his territory."
+        },
+        {
+          "s": 0,
+          "t": "But his attacks are gentler now, and not as crazed as before. Like he said yesterday, he just intends to be a sparring partner for people to practice with."
+        },
+        {
+          "s": 1,
+          "t": "You said \"health-wise.\" Is something else bothering you?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah. I tried communicating with him again, but he didn't respond."
+        },
+        {
+          "s": 15,
+          "t": "Hmph, we daresay that Locust King has well and truly lost its mind. The lights are on, but nobody is home."
+        },
+        {
+          "s": 15,
+          "t": "Its body remains fighting fit thanks to the perverse power of the Abyss, but time has been less kind to its soul... It was ground to a pulp long ago!"
+        },
+        {
+          "s": 1,
+          "t": "But we saw him come back to his senses yesterday..."
+        },
+        {
+          "s": 15,
+          "t": "That was merely one last burst of brain activity before it croaked. As you humans would say, it went out with a bang."
+        },
+        {
+          "s": 1,
+          "t": "Oh, come on! Stop being such a doomer. Paimon bets the Mountain King has finally let go of the tragedies of the past now, and is focusing on moving forward!"
+        },
+        {
+          "s": 1,
+          "t": "That's why he doesn't have time to chat with us. He's too busy thinking about the future!"
+        },
+        {
+          "s": 0,
+          "t": "Heh, well, at least it means my fellow tribespeople can move forward now, too. Thank you for your help, {NICKNAME}. I owe you one."
+        },
+        {
+          "s": 2,
+          "t": "Nah, you already gave me that \"gift.\""
+        },
+        {
+          "s": 1,
+          "t": "Yeah, that's right. You caught Enjou for us, remember?"
+        },
+        {
+          "s": 0,
+          "t": "But he ended up being completely useless. It's not a fair trade if you lost out."
+        },
+        {
+          "s": 1,
+          "t": "Eh, that's on him. It's not your fault he's useless! Besides, we're friends now. You don't owe us anything."
+        },
+        {
+          "s": 0,
+          "t": "Friends? But your friendship is an even more valuable gift. I can't in good conscience accept it for free..."
+        },
+        {
+          "s": 0,
+          "t": "So promise me, if you need anything in the future, you'll come to me."
+        },
+        {
+          "s": 0,
+          "t": "For you, I'll do anything."
+        },
+        {
+          "section": "Enjou"
+        },
+        {
+          "s": 14,
+          "t": "ACHOO! Ahem... So in the end, only poor little Huni got the sad ending?"
+        },
+        {
+          "s": 6,
+          "t": "Yeah! Everyone's happy, except me. First Nanna, then my Dad... Why does everyone in my family have to suffer?"
+        },
+        {
+          "s": 5,
+          "t": "Huni... It'll be okay. Your dad will get better soon."
+        },
+        {
+          "s": 6,
+          "t": "Toba, you're my friend, so I shouldn't say this to your face. But it was all the Mountain King's fault."
+        },
+        {
+          "s": 5,
+          "t": "Ehh!?"
+        },
+        {
+          "s": 14,
+          "t": "Now hold your horses, kiddo. If you promise not to fight, Uncle Sanka will tell you a story."
+        },
+        {
+          "s": 14,
+          "t": "...Okay, before you roll your eyes out of your skull, I promise you can trust me. I almost got my eyebrows burned off by the Turnfire after last time. That's why I came back, to make it up to you!"
+        },
+        {
+          "s": 14,
+          "t": "...Alright, I'll just get to the point. Do you know what Uncle Sanka loves the most about your people?"
+        },
+        {
+          "s": 6,
+          "t": "...What?"
+        },
+        {
+          "s": 14,
+          "t": "Your extreme sports."
+        },
+        {
+          "s": 5,
+          "t": "Huh?"
+        },
+        {
+          "s": 14,
+          "t": "On my first day here, I got hit by someone falling out of the sky. I believe you call it \"bungee jumping\"?"
+        },
+        {
+          "s": 14,
+          "t": "It's a dangerous sport, to be sure, but the courage it took to make the jump impressed the heck out of me. So I introduced myself to the jumper, we made friends, and I even helped treat her wounds."
+        },
+        {
+          "s": 6,
+          "t": "Aw. Such a nice friend."
+        },
+        {
+          "s": 14,
+          "t": "Of course. Anyway, the good times didn't last, 'cause I got captured by a powerful foe, so we had to part ways for a while."
+        },
+        {
+          "s": 14,
+          "t": "In the hands of the enemy, I was scorned, scolded, and nearly given away as a gift. Oh, it was so humiliating! A horrible experience to look back on."
+        },
+        {
+          "s": 14,
+          "t": "\"Why does Uncle Sanka always have to suffer?\" I thought. So I feel your pain, Huni. I was in the same position."
+        },
+        {
+          "s": 14,
+          "t": "But in the end, I made it through, and I left all of those painful memories in the past. I even managed to reunite with my friend!"
+        },
+        {
+          "s": 5,
+          "t": "Uh... Is that it?"
+        },
+        {
+          "s": 6,
+          "t": "The moral of the story is to look forward in life, right? Yeah, we've heard that one millions of times. Sorry, Uncle Sanka, but you're not cut out to be a teacher."
+        },
+        {
+          "s": 14,
+          "t": "Very smart, Huni. But not quite smart enough."
+        },
+        {
+          "s": 14,
+          "t": "What I'm trying to tell you is that after I reunited with my friend, I found her injuries were all healed, but she really missed her family. So, I thought you might like to see her too."
+        },
+        {
+          "s": 14,
+          "t": "She's right behind you. Turn around and see."
+        },
+        {
+          "s": 6,
+          "t": "Another trick about not turning back? I'm not falling for that one again!"
+        },
+        {
+          "s": 6,
+          "t": "...Huh!?"
+        }
+      ],
+      "description": "Having finished your preparations, the last Turnfire Night approaches…"
+    }
+  ],
+  "speakers": [
+    "Kinich",
+    "Paimon",
+    "Traveler",
+    "Trinidad",
+    "Wayna",
+    "Toba",
+    "Huni",
+    "Thiago",
+    "Photo",
+    "Ponche",
+    "Matthias",
+    "Ponini",
+    "Poggi",
+    "Pocchi",
+    "Enjou",
+    "Ajaw",
+    "The Thing Calling Itself \"Sanka\""
+  ],
+  "id": "ch-2054"
+}

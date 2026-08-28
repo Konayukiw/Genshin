@@ -1,0 +1,5124 @@
+{
+  "chapter": "Rapperia Chapter",
+  "chapter_title": "Silent Night",
+  "act": "Act 1",
+  "act_title": "Silent Night",
+  "region": null,
+  "quests": [
+    {
+      "title": "\"Judgment Day\"",
+      "dialogue": [
+        {
+          "section": "Clorinde, Navia"
+        },
+        {
+          "s": 0,
+          "t": "...Still no dice?"
+        },
+        {
+          "s": 1,
+          "t": "Not at all, and I've asked pretty much everyone in the Court of Fontaine already."
+        },
+        {
+          "s": 1,
+          "t": "Lynette's ears drooped as soon as she heard that we'd have to be out and about for days on end. And Freminet... he hid himself under his helmet as soon as he realized there'd be people around that he didn't know."
+        },
+        {
+          "s": 0,
+          "t": "What about Chiori and Charlotte? I feel like both of them would be more than up to it."
+        },
+        {
+          "s": 1,
+          "t": "I've asked them already, but they're both pretty busy right now. I just gave the members of the Spina a few days off, too, so I don't want to bother them, either..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... This is getting pretty difficult."
+        },
+        {
+          "s": 2,
+          "t": "Navia! Clorinde! What's up?"
+        },
+        {
+          "s": 1,
+          "t": "Oh my! Well if it isn't my dear partners! How are you all doing?"
+        },
+        {
+          "s": 0,
+          "t": "Ha... Navia!"
+        },
+        {
+          "s": 1,
+          "t": "Huh? ...Ooh! You mean..."
+        },
+        {
+          "s": 0,
+          "t": "Yep, this is our chance..."
+        },
+        {
+          "sit": "...Wh—What are you going to do!?"
+        },
+        {
+          "sit": "We were just passing through..."
+        },
+        {
+          "s": 2,
+          "t": "Do you need our help with something...?"
+        },
+        {
+          "s": 1,
+          "t": "Precisely! My dear partners, we've got a huge problem right now that only you can solve!"
+        },
+        {
+          "s": 2,
+          "t": "Woah! For real?"
+        },
+        {
+          "s": 0,
+          "t": "Absolutely. We've already exhausted all our other options."
+        },
+        {
+          "sit": "What kind of problem?"
+        },
+        {
+          "sit": "Tell me about it..."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, Paimon..."
+        },
+        {
+          "s": 1,
+          "t": "Would you join us, and play \"Marechaussee Hunter: Judgment Day\"!?"
+        },
+        {
+          "s": 2,
+          "t": "Marechaussee what now?"
+        },
+        {
+          "s": 0,
+          "t": "It's a new game script by the Tabletop Troupe, a local roleplay adventure club."
+        },
+        {
+          "s": 1,
+          "t": "Ever heard of the Tabletop Troupe? They put out games that allow you to participate in a story and roleplay characters with your friends. I've loved their stuff ever since I was a kid."
+        },
+        {
+          "s": 2,
+          "t": "That sounds super interesting!"
+        },
+        {
+          "s": 1,
+          "t": "Clorinde and I are both veteran members of the club. Recently, someone came up with a new script and was looking for people to help playtest it for them."
+        },
+        {
+          "s": 1,
+          "t": "And when they asked, of course I couldn't refuse. I mean, come on, a brand new script! Nobody has ever played it before!"
+        },
+        {
+          "s": 0,
+          "t": "Mm-hmm. Generally speaking, scripts at that level of development have a lot of issues, but I think this one is pretty solid. The author obviously put a lot of work into the story, and the worldbuilding is also quite credible."
+        },
+        {
+          "s": 1,
+          "t": "Woah, woah, woah! I know I was the one that handed you the script, but some of us haven't read it yet! No spoilers, please!"
+        },
+        {
+          "s": 0,
+          "t": "...Anyway, the script calls for a team of four. Ah, yes. We're missing one final player right now."
+        },
+        {
+          "s": 3,
+          "t": "You were right, that is a big problem!"
+        },
+        {
+          "s": 1,
+          "t": "So... you're saying you'll help us out? I knew I could count on you, partner!"
+        },
+        {
+          "s": 2,
+          "t": "Paimon and {NICKNAME} are kind of a package deal. Is that okay?"
+        },
+        {
+          "s": 0,
+          "t": "That's not a problem. I'll adjust the pace based on the actual number of players and ensure that everyone has a good time."
+        },
+        {
+          "s": 2,
+          "t": "Well, {NICKNAME}, what do you think? Wanna play? Paimon will follow your lead."
+        },
+        {
+          "sit": "I always help a friend in need."
+        },
+        {
+          "sit": "Count me in for a great script!"
+        },
+        {
+          "s": 0,
+          "t": "Well, that solves our problem. You have our thanks."
+        },
+        {
+          "s": 1,
+          "t": "Woo-hoo! I'll go grab the script manager from the club right away."
+        },
+        {
+          "s": 2,
+          "t": "The script manager? Didn't you just say that you gave Clorinde the script?"
+        },
+        {
+          "s": 0,
+          "t": "The club introduced a completely new kind of gameplay for this script."
+        },
+        {
+          "s": 0,
+          "t": "In this iteration, the Game Master's version of the script is incomplete. The script manager provides the next part of the script only after players have completed the current list of objectives."
+        },
+        {
+          "s": 0,
+          "t": "On top of that, in order to increase player immersion, the club has created some of the story's sets and scenes in real life. We'll only know where we should go once the script manager reveals the starting location."
+        },
+        {
+          "s": 2,
+          "t": "Wow, you're right, whoever wrote this script really did put in a lot of work!"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, and it's got a real healthy amount of suspense, right? I mean, even the GM doesn't know how the story will end!"
+        },
+        {
+          "s": 0,
+          "t": "I look forward to experiencing it with you all."
+        },
+        {
+          "s": 1,
+          "t": "Why don't you go meet up with the others first? They should all be waiting at Chioriya Boutique. I'll come over with the script manager as soon as I find them."
+        },
+        {
+          "s": 0,
+          "t": "Sounds good. Remember to always watch where you're going, and don't rush."
+        },
+        {
+          "s": 1,
+          "t": "You say that like I'm six years old or something!"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Let me think, what kind of character should I play this time?"
+        },
+        {
+          "s": 0,
+          "t": "...I just hope you'll pick up some useful skills this time. Oh, and stop trying to \"persuade\" every animal you come across..."
+        },
+        {
+          "s": 3,
+          "t": "Count me in for a great script!"
+        },
+        {
+          "s": 3,
+          "t": "Tell me about it..."
+        },
+        {
+          "s": 3,
+          "t": "We were just passing through..."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "Sorry to keep you waiting."
+        },
+        {
+          "s": 4,
+          "t": "Ah, you're back! Huh? And you've got {NICKNAME} and Paimon with you, too."
+        },
+        {
+          "s": 5,
+          "t": "What a pleasant surprise. I assume you'll be joining us for the game, then?"
+        },
+        {
+          "s": 2,
+          "t": "Lyney! Furina! Paimon didn't know you were playing, too! Are you also members of the Tabletop Troupe?"
+        },
+        {
+          "s": 3,
+          "t": "Hey, you two."
+        },
+        {
+          "s": 5,
+          "t": "Hmm, I'm more of a casual member, if anything. I haven't taken part in many formal club activities. Lynette, Freminet, and I play something similar at the Hotel Bouffes d'ete sometimes, but I'm usually the GM."
+        },
+        {
+          "s": 5,
+          "t": "Still, I'm sure it'll be fun being a player for the first time. I'm looking forward to it."
+        },
+        {
+          "s": 4,
+          "t": "Well, I'm not a member of the club at all. Clorinde simply woke me up first thing this morning, said there was a good script worth experiencing, and asked if I wanted in."
+        },
+        {
+          "s": 0,
+          "t": "If you're interested, I can give you a referral. That should give you a 40% discount on membership fees."
+        },
+        {
+          "s": 4,
+          "t": "I think I'll wait to see how this experience plays out first, especially when it comes to the quality of the script. If it's sufficiently fun, then I'll join."
+        },
+        {
+          "s": 2,
+          "t": "Do you participate in a lot of Tabletop Troupe activities, Clorinde?"
+        },
+        {
+          "s": 5,
+          "t": "You could say that. She's actually one of the few \"Senior Game Masters\" of the Troupe."
+        },
+        {
+          "s": 4,
+          "t": "Ah, right. I knew about that even when she was still my subordinate."
+        },
+        {
+          "s": 0,
+          "t": "...It's nothing, really. Just a small hobby of mine."
+        },
+        {
+          "s": 2,
+          "t": "Wow, Paimon's so used to seeing you be all upstanding and intimidating as the Champion Duelist. It's kinda hard to imagine you roleplaying with a bunch of friends..."
+        },
+        {
+          "sit": "So, if we have a problem with any of the rules..."
+        },
+        {
+          "sit": "Do we have to submit a duel request to you...?"
+        },
+        {
+          "s": 0,
+          "t": "Surely you jest. I would never intentionally make things difficult for my players."
+        },
+        {
+          "s": 0,
+          "t": "I maintain a clear boundary between my professional and personal lives. The me you see at court represents the law and order of Fontaine. I put all personal feelings to the side and grant a fair duel to all who seek to defend their honor."
+        },
+        {
+          "s": 0,
+          "t": "But in my personal life, I'm just an ordinary person — someone who feels anger and sadness, just like everyone else."
+        },
+        {
+          "s": 4,
+          "t": "Well, you say that, but for all the time I've known you, I don't think I've ever seen you cry... I've seen you get angry, sure, but... now I'm wondering whether you were actually mad or if it just looked that way from the outside?"
+        },
+        {
+          "s": 0,
+          "t": "I was probably in work mode during those times."
+        },
+        {
+          "s": 4,
+          "t": "Is that so? Well, in any case, I just feel like even in your personal life, you don't get emotional very often."
+        },
+        {
+          "s": 0,
+          "t": "So, you want to see me cry? That might be a little difficult. A show of anger, though... That might be something I could accomplish."
+        },
+        {
+          "s": 4,
+          "t": "N—No, that's not what I meant..."
+        },
+        {
+          "s": 1,
+          "t": "I'm back! Here, allow me to introduce you to the script manager, Mr. Florian!"
+        },
+        {
+          "s": 6,
+          "t": "Pleasure to meet you all."
+        },
+        {
+          "s": 2,
+          "t": "Hello! Wait, are you a Champion Duelist too, Mr. Florian?"
+        },
+        {
+          "s": 6,
+          "t": "Oh, no. This is just the costume provided by the club. I occasionally play a few roles in my scripts."
+        },
+        {
+          "s": 5,
+          "t": "That sounds like a lot of work."
+        },
+        {
+          "s": 6,
+          "t": "It's nothing. It's the least we can do to give the players a more immersive experience."
+        },
+        {
+          "s": 6,
+          "t": "Anyway, allow me to give you a brief introduction of the script—"
+        },
+        {
+          "s": 6,
+          "t": "This script was adapted from the real history of the Marechaussee Hunters. You all will play the role of Hunters from a bygone era, and resolve a series of events unfolding in the capital."
+        },
+        {
+          "s": 2,
+          "t": "Erm... Paimon's not super familiar with the history of the Marechaussee Hunters. Is that a problem...?"
+        },
+        {
+          "s": 6,
+          "t": "Oh, no problem at all. I can give you a brief run down. So, basically, Marechaussee Hunters were people who dedicated themselves to hunting monsters and protecting the city by using a special swordsmanship technique passed down over generations."
+        },
+        {
+          "s": 6,
+          "t": "Their story can be traced back to the ancient Remurian dynasty, as well as the first hunter, Cassiodor..."
+        },
+        {
+          "s": 6,
+          "t": "But, I'll leave the finer details for you to seek out and discover later."
+        },
+        {
+          "s": 0,
+          "t": "Mhm, and I'll provide additional commentary as the story progresses."
+        },
+        {
+          "s": 6,
+          "t": "In that case... Ahem! Brave hunters, are you ready to set out on an unknown adventure?"
+        },
+        {
+          "s": 2,
+          "t": "Whoa! Just one sentence, and it's like we're in the story already!"
+        },
+        {
+          "s": 6,
+          "t": "Aha, I see many a determined gaze before me. Very well. Head over to this location, and begin your heroic journey!"
+        },
+        {
+          "s": 4,
+          "t": "So as we follow the story, it leads us to specific scenes? Sounds pretty innovative. What does the message in the envelope say?"
+        },
+        {
+          "s": 0,
+          "t": "It's the exact location of the scene, as well as the formal permission to use the venue. Seems like they have everything prepared."
+        },
+        {
+          "s": 0,
+          "t": "Please check all your belongings, everyone, and make sure you haven't forgotten anything. Once you're ready, please follow me to the designated location."
+        },
+        {
+          "s": 2,
+          "t": "Sounds good! Hunter squad, move out!"
+        },
+        {
+          "s": 3,
+          "t": "Do we have to submit a duel request to you...?"
+        }
+      ],
+      "description": "On the streets of the Court of Fontaine, a pair of familiar faces seem to need your help…"
+    },
+    {
+      "title": "Hunters' Gathering",
+      "dialogue": [
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 1,
+          "t": "Whoa! They really have thought of everything. Even the Fateometer is here and ready to go for us!"
+        },
+        {
+          "s": 4,
+          "t": "...The Fateometer? What's that?"
+        },
+        {
+          "s": 5,
+          "t": "It's a card that's used to determine action success or failure. We'll need to use it when we try to use certain skills."
+        },
+        {
+          "s": 1,
+          "t": "And what about all the dessert and tea? Is that for us as well?"
+        },
+        {
+          "s": 0,
+          "t": "That's what the message said."
+        },
+        {
+          "s": 4,
+          "t": "Really? That's so nice... It feels just like a tea party with friends."
+        },
+        {
+          "s": 2,
+          "t": "Those snacks have Paimon's name written all over them!"
+        },
+        {
+          "s": 5,
+          "t": "Haha, I think you might be more of a \"Snack Hunter\" than a Marechaussee Hunter, Paimon."
+        },
+        {
+          "s": 2,
+          "t": "Snack Hunter Paimon, reporting for duty! If there are delicious snacks to be found, Paimon'll track down every last one!"
+        },
+        {
+          "s": 4,
+          "t": "The desserts are great, but I'm still looking forward to the story more than anything."
+        },
+        {
+          "s": 0,
+          "t": "Very fair. Then let us begin."
+        },
+        {
+          "s": 0,
+          "t": "First, please pick up the blank character cards in front of you, and write down your name and profession."
+        },
+        {
+          "s": 0,
+          "t": "You can find an abbreviated version of the rules printed on the back of your character card. If you have any questions, feel free to ask me."
+        },
+        {
+          "s": 0,
+          "t": "In this story, everyone is a Marechaussee Hunter. To reflect this, the club has prepared a small badge for everyone."
+        },
+        {
+          "s": 2,
+          "t": "Ooh! Nice!"
+        },
+        {
+          "s": 0,
+          "t": "As Hunters, you have proficiency in swordsmanship and fighting by default, so there's no need to allocate any additional skill points to those areas."
+        },
+        {
+          "s": 2,
+          "t": "Swordsmanship? So there's a fighting part to all of this? Umm... Paimon's not sure she can do all that on her own. Maybe Paimon can just stick with you?"
+        },
+        {
+          "s": 0,
+          "t": "Why don't you share a character card, then? {NICKNAME} will be the Marechaussee Hunter and you can be his(her) little floating assistant."
+        },
+        {
+          "s": 1,
+          "t": "Hahaha, kinda like in real life."
+        },
+        {
+          "s": 4,
+          "t": "So, for the name... Do I fill it out with the name of my character?"
+        },
+        {
+          "s": 0,
+          "t": "Yep. It can be any name you like."
+        },
+        {
+          "s": 1,
+          "t": "You can use your real name too, if you want. I do that whenever I get too lazy to think of a new name."
+        },
+        {
+          "s": 4,
+          "t": "Oh! So, it would be like... like experiencing a different life, but still as yourself? That's not a bad idea."
+        },
+        {
+          "s": 5,
+          "t": "Hmm, in that case... I think I'll continue to use the name \"Lyney,\" then."
+        },
+        {
+          "s": 0,
+          "t": "Next up is the skill sheet. You have a limited amount of skill points that you can use to learn a number of skills. The more points you invest in a particular skill, the easier it will be to pass associated checks."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, I'll take \"persuasion\" and \"investigation\"! Those are must-haves when it comes to missions like these."
+        },
+        {
+          "s": 2,
+          "t": "Oh, those skills sound like they'd be useful for gathering intelligence. Good idea Navia! Just as expected of a veteran player!"
+        },
+        {
+          "s": 4,
+          "t": "Hmm... So should we also take those skills, then?"
+        },
+        {
+          "s": 5,
+          "t": "Not necessarily. Since we're working together as a team, we could leave the negotiations to Navia, and use our skill points to pick up other useful skills."
+        },
+        {
+          "s": 5,
+          "t": "For example... I think I'll take \"stealth\" and \"sleight of hand.\" That will give us more options if we run into any situations we can't negotiate our way out of."
+        },
+        {
+          "s": 4,
+          "t": "Oh, interesting! I wasn't thinking about it like that. I suppose it's not so different from an acting troupe, everyone has their own role to play."
+        },
+        {
+          "s": 4,
+          "t": "Let me see... I'll take \"arts\" and \"performance.\" I'm not quite sure what use they'll be, but I'm not as knowledgeable about the other skills, and I'm not too confident I'd be able to roleplay them well."
+        },
+        {
+          "s": 2,
+          "t": "Well, that leaves us! What do you want to learn, {NICKNAME}?"
+        },
+        {
+          "sit": "Learn \"insight\"..."
+        },
+        {
+          "sit": "Learn \"cooking\"..."
+        },
+        {
+          "sit": "Learn \"medicine\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ohh, something that will help you get a read on other people's thoughts! Sounds useful!"
+        },
+        {
+          "sit": "Learn \"medicine\"..."
+        },
+        {
+          "sit": "Learn \"cooking\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ooh, so you want to help people when they're injured? That's nice of you!"
+        },
+        {
+          "s": 2,
+          "t": "So, what do you think? Are you sure you want to learn these two skills?"
+        },
+        {
+          "sit": "Let me think about this some more..."
+        },
+        {
+          "sit": "Yep, I'm sure."
+        },
+        {
+          "s": 2,
+          "t": "Sure. What do you want to learn?"
+        },
+        {
+          "sit": "Learn \"cooking\"..."
+        },
+        {
+          "sit": "Learn \"medicine\"..."
+        },
+        {
+          "sit": "Learn \"insight\"..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!"
+        },
+        {
+          "sit": "Learn \"medicine\"..."
+        },
+        {
+          "sit": "Learn \"insight\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ooh, so you want to help people when they're injured? That's nice of you!"
+        },
+        {
+          "s": 3,
+          "t": "Learn \"insight\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ohh, something that will help you get a read on other people's thoughts! Sounds useful!"
+        },
+        {
+          "s": 3,
+          "t": "Learn \"medicine\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ooh, so you want to help people when they're injured? That's nice of you!"
+        },
+        {
+          "sit": "Learn \"insight\"..."
+        },
+        {
+          "sit": "Learn \"cooking\"..."
+        },
+        {
+          "s": 2,
+          "t": "Ohh, something that will help you get a read on other people's thoughts! Sounds useful!"
+        },
+        {
+          "s": 3,
+          "t": "Learn \"cooking\"..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!"
+        },
+        {
+          "s": 3,
+          "t": "Yep, I'm sure."
+        },
+        {
+          "s": 3,
+          "t": "Learn \"cooking\"..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, gotta say, this suits you really well! Nothing boosts morale like good food!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "Let's see... Hmm... Oh, looks like you each have enough points to choose one final skill."
+        },
+        {
+          "s": 1,
+          "t": "You've all picked such classic skills! It's fine to go a little bit out of the box, you know."
+        },
+        {
+          "s": 0,
+          "t": "(...Why do I get the feeling she's getting ready to cause trouble...)"
+        },
+        {
+          "s": 1,
+          "t": "For example... This one here! \"Summon\"! Doesn't it sound super mysterious and cool?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, I saw that one just now as well. The description says... \"This skill can be used under certain circumstances to summon characters or creatures that fit the script's worldbuilding rules.\""
+        },
+        {
+          "s": 5,
+          "t": "The script's worldbuilding rules, huh... But, how are we supposed to know what a Marechaussee Hunter can summon?"
+        },
+        {
+          "s": 1,
+          "t": "That's not for us to worry about, my friend! Just learn the skills that interest you, and the GM will take care of the rest!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Alright, you've convinced Paimon... Let's learn \"Summon,\" then! Paimon can't wait to see what kind of thing shows up."
+        },
+        {
+          "s": 0,
+          "t": "...Well, now that everyone's more or less finished creating their characters, we can begin."
+        },
+        {
+          "s": 0,
+          "t": "Since two of our players are doing this for the first time, though, let me ask..."
+        },
+        {
+          "s": 0,
+          "t": "Would you like to play on \"easy mode,\" or \"authentic mode\"?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, what's the difference between the two?"
+        },
+        {
+          "s": 0,
+          "t": "Well, in roleplaying games, the story sometimes changes based on the decisions of the players and the results of the Fateometer."
+        },
+        {
+          "s": 0,
+          "t": "For example, if you \"fail\" a check, that means you cannot use the target skill in that scenario. A \"critical failure\" may even result in further negative consequences."
+        },
+        {
+          "s": 0,
+          "t": "If you choose to play in \"authentic mode,\" every time you elect to use a skill, you'll need to use the Fateometer to see whether you succeed or fail, and face any consequences that may follow."
+        },
+        {
+          "s": 0,
+          "t": "If you choose \"easy mode\" instead, every check will be successful by default, and you won't have to worry about luck playing a factor."
+        },
+        {
+          "s": 4,
+          "t": "Hmm... Given that I'd like to focus on the story, I suppose I should pick \"easy mode.\" I'd feel bad if I brought the team down by failing my checks..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? C'mon, don't worry about that! RNG is the lifeblood of roleplaying games! I'm going with \"authentic mode\" for sure!"
+        },
+        {
+          "s": 1,
+          "t": "Never knowing what you might have to overcome... Doesn't that sound exciting?"
+        },
+        {
+          "s": 4,
+          "t": "Um... I—I'd rather be mentally prepared for what might happen..."
+        },
+        {
+          "s": 0,
+          "t": "Alright. Then I'll mark down Furina for \"easy mode.\" All her checks will be successful by default. As usual, Navia and Lyney will play on \"authentic mode.\""
+        },
+        {
+          "s": 1,
+          "t": "What about you, dear partner? How would you like to play?"
+        },
+        {
+          "sit": "I'd like to pick \"easy mode\"..."
+        },
+        {
+          "sit": "I'd like to pick \"authentic mode\"..."
+        },
+        {
+          "s": 0,
+          "t": "Are you sure?"
+        },
+        {
+          "sit": "Yep, I'm sure."
+        },
+        {
+          "sit": "Let me think about this some more..."
+        },
+        {
+          "s": 5,
+          "t": "Mhm, no need to worry about the pesky Fateometer. Pretty good choice if you just want to relax and play the game."
+        },
+        {
+          "s": 1,
+          "t": "Honestly, I don't think Clorinde would make things too difficult for us no matter what the Fateometer says... Isn't that right, Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "No promises."
+        },
+        {
+          "s": 2,
+          "t": "Uh... That wasn't super reassuring!"
+        },
+        {
+          "s": 1,
+          "t": "Well, anyway, enough talk! Let's get started! I want to experience at least a good chunk of the story today."
+        },
+        {
+          "s": 4,
+          "t": "Speaking of the story... Why is the beginning scene on a beach?"
+        },
+        {
+          "s": 0,
+          "t": "Well, that's because..."
+        },
+        {
+          "s": 0,
+          "t": "A long time ago, back when human civilization was still in its infancy, powerful demons and evil sorcerers ruled over the land. They created a host of monsters and sent them to slaughter all humans in existence..."
+        },
+        {
+          "s": 0,
+          "t": "Soon, a group of human rebels banded together. With their swords raised, they swore to brave the darkness and, in doing so, subdue each and every monster that sought their destruction. They became known as the Marechaussee Hunters..."
+        },
+        {
+          "s": 3,
+          "t": "Let me think about this some more..."
+        },
+        {
+          "s": 0,
+          "t": "Take your time. There's no rush."
+        },
+        {
+          "s": 3,
+          "t": "I'd like to pick \"authentic mode\"..."
+        },
+        {
+          "s": 0,
+          "t": "Are you sure?"
+        },
+        {
+          "sit": "Yep, I'm sure."
+        },
+        {
+          "sit": "Let me think about this some more..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, trust me. You'll see the beauty of RNG!"
+        },
+        {
+          "s": 3,
+          "t": "Let me think about this some more..."
+        },
+        {
+          "s": 0,
+          "t": "Take your time. There's no rush."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "Some time later, as a member of the Marechaussee Hunters, you receive a commission. Following the address provided on the message, you take a boat and arrive at this strange city."
+        },
+        {
+          "s": 0,
+          "t": "As you inhale, you can taste the slightly salty air of the docks as you begin to survey your surroundings. There aren't many people in the vicinity, but you do take note of a few others who, like you, seem to be sizing up this place."
+        },
+        {
+          "s": 0,
+          "t": "Your eyes meet, and you realize these people are fellow Marechaussee Hunters, likely led to this location after receiving the same commission as you."
+        },
+        {
+          "s": 1,
+          "t": "You're all Marechaussee Hunters too, right? Allow me to introduce myself! The name's Navia — monster hunter by trade and helpful neighborhood businesswoman on the side."
+        },
+        {
+          "s": 1,
+          "t": "What say you to traveling together? We can help each other out on the road."
+        },
+        {
+          "s": 5,
+          "t": "Okay! Count me in."
+        },
+        {
+          "s": 5,
+          "t": "My name is Lyney. I've been wandering since I was little, and picked up a few less than legal tricks along the way. I was adopted by a Marechaussee Hunter and, later, chose to follow in his footsteps."
+        },
+        {
+          "s": 4,
+          "t": "(Is this where you introduce your character to everyone? It sounds like they've done this dozens of times.)"
+        },
+        {
+          "s": 4,
+          "t": "My name is Furina, and um... I grew up in a noble family. I always had a strong interest in performance and the arts. Even though I'm a Marechaussee Hunter, what I really want is to be a performing artiste..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, that's really cool!"
+        },
+        {
+          "s": 1,
+          "t": "(You can do it, Furina! That's exactly how it's done!)"
+        },
+        {
+          "s": 2,
+          "t": "Paimon is Paimon, a good friend and companion to this Marechaussee Hunter right here!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 3,
+          "t": "We used to be doctors."
+        },
+        {
+          "s": 3,
+          "t": "I've been studying medicine ever since I was a child. I want to do my part to eradicate these monsters and use what I've learned to heal others."
+        },
+        {
+          "s": 1,
+          "t": "Welcome, welcome! When we face the monsters, I'll make sure to charge in front to give everyone some cover. You can take care of the healing at the back!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 3,
+          "t": "We used to be chefs."
+        },
+        {
+          "s": 3,
+          "t": "I've been studying the culinary arts since I was a child. I hope my delicious food can help boost people's spirits."
+        },
+        {
+          "s": 4,
+          "t": "That's wonderful. I'll be looking forward to your cooking during our adventures together."
+        },
+        {
+          "s": 5,
+          "t": "Well, if we're all here for the same commission, why don't we take some time to confirm what we need to do?"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "You open your envelopes at the same time. The message reads..."
+        },
+        {
+          "s": 0,
+          "t": "\"To the honorable and trustworthy Marechaussee Hunters: our kingdom is currently facing a grave crisis.\""
+        },
+        {
+          "s": 0,
+          "t": "\"The lands outside the capital have been overtaken by monsters, and our people are being led astray by forces of wickedness. We beseech you, please help us resolve this crisis, and return peace and stability to our home.\""
+        },
+        {
+          "s": 2,
+          "t": "Huh, the layout of this city looks super familiar... It kind of reminds Paimon of Mondstadt!"
+        },
+        {
+          "s": 1,
+          "t": "The script writer must have used a real-world city as a reference when coming up with the map."
+        },
+        {
+          "s": 0,
+          "t": "Ahem... As experienced Hunters, the layout of the city reminds you of places once traveled. You recall the sight of tree-lined streets and the gentle tranquility of days gone by..."
+        },
+        {
+          "s": 0,
+          "t": "Yet, as you regard the city in front of you, it appears to be little more than an empty shell. Its hollow gates are open to you, beckoning you to come forth and bring salvation back to the town."
+        },
+        {
+          "s": 5,
+          "t": "I carefully read every line of the letter and turn my attention to the signatures at the bottom. Who issued this commission to us?"
+        },
+        {
+          "s": 0,
+          "t": "You see a long string of unfamiliar names. It would seem that many of the residents of the city issued this commission together. They sensed that things were not right within the kingdom and sent a distress signal to the outside world."
+        },
+        {
+          "s": 4,
+          "t": "Hmm, in that case, why don't we take a walk around the city, and see if we can learn anything from the local residents?"
+        },
+        {
+          "s": 1,
+          "t": "Good idea! We might be able to get some leads on the monsters and bad guys we're after!"
+        },
+        {
+          "s": 0,
+          "t": "You look up and see a tavern nearby. It appears to be open for the day."
+        },
+        {
+          "s": 4,
+          "t": "Why don't we go check out that tavern? If the novels I've read are anything to go by, taverns are usually full of information."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 1,
+          "t": "Greetings, friend! Lovely weather we're having today, don't you think?"
+        },
+        {
+          "s": 7,
+          "t": "Oh, hello... I suppose you're right. The weather today is quite lovely. If only those monsters out there would stop causing trouble..."
+        },
+        {
+          "s": 4,
+          "t": "(It seems like every character included in the script has a certain amount of useful information to offer. If we keep asking questions, we might be able to get some good leads.)"
+        },
+        {
+          "s": 1,
+          "t": "Come now, don't be sad! Life is all about optimism! Oh, that reminds me, what did you have for breakfast this morning?"
+        },
+        {
+          "s": 7,
+          "t": "...Huh?"
+        },
+        {
+          "s": 4,
+          "t": "(Uh... I don't think that's the kind of question we're supposed to ask...)"
+        },
+        {
+          "s": 1,
+          "t": "Nothing turns a frown upside down like good food! How about some Macarons? I could make you some!"
+        },
+        {
+          "s": 4,
+          "t": "(...You didn't even take cooking as one of your skill proficiencies!)"
+        },
+        {
+          "s": 7,
+          "t": "Ah... That's not necessary, Miss. Excuse me for saying this, but you don't really look like a chef. Besides, I'm not really a fan of sweets..."
+        },
+        {
+          "s": 1,
+          "t": "So you're someone who barely smiles and doesn't like sweets... Huh, you're really starting to remind me of this one friend of mine..."
+        },
+        {
+          "s": 7,
+          "t": "Tch..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, did she just \"tch\" me?"
+        },
+        {
+          "s": 4,
+          "t": "(Clorinde must have broke character for a second!)"
+        },
+        {
+          "s": 2,
+          "t": "This isn't getting us anywhere... {NICKNAME}, maybe you can think of something?"
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 3,
+          "t": "How about I cook something? Right here, right now!"
+        },
+        {
+          "s": 0,
+          "t": "...Are you sure?"
+        },
+        {
+          "s": 3,
+          "t": "Positive!"
+        },
+        {
+          "s": 0,
+          "t": "In that case, please refer to the Fateometer."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 2,
+          "t": "Whoa, it was a success!"
+        },
+        {
+          "s": 0,
+          "t": "You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot."
+        },
+        {
+          "s": 0,
+          "t": "After some time, a rich aroma begins to fill the air. Even a passing cat can't help but stop in its tracks and look up in anticipation."
+        },
+        {
+          "s": 3,
+          "t": "Please have some food. Who knows, maybe you'll feel better after eating something delicious?"
+        },
+        {
+          "s": 1,
+          "t": "Woah, that's amazing!"
+        },
+        {
+          "s": 4,
+          "t": "(Wait... So, as long as you pass the check, you can pretty much do anything, and it won't be seen as absurd?)"
+        },
+        {
+          "s": 7,
+          "t": "Thank you..."
+        },
+        {
+          "s": 7,
+          "t": "Hah... You were right. This food really did make me feel better..."
+        },
+        {
+          "s": 2,
+          "t": "So, what had you so worried earlier? Could you tell us a bit more about it?"
+        },
+        {
+          "s": 7,
+          "t": "*sigh*... Okay, let me fill you in..."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 2,
+          "t": "Huh? We failed the check..."
+        },
+        {
+          "s": 0,
+          "t": "You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot."
+        },
+        {
+          "s": 0,
+          "t": "Perhaps your skills have regressed due to lack of use, but, soon, the unpleasant smell of something burnt fills the air."
+        },
+        {
+          "s": 3,
+          "t": "Oh no... I screwed it up."
+        },
+        {
+          "s": 1,
+          "t": "It's all black around the edges!"
+        },
+        {
+          "s": 7,
+          "t": "I appreciate the... thought, but I think I'll pass."
+        },
+        {
+          "s": 5,
+          "t": "Ahem... Miss, we'd love to learn more about the \"monsters\" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing."
+        },
+        {
+          "s": 4,
+          "t": "(You weren't even the one that learned \"persuasion\"...)"
+        },
+        {
+          "s": 7,
+          "t": "My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 2,
+          "t": "Eh? A critical success!?"
+        },
+        {
+          "s": 0,
+          "t": "You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot."
+        },
+        {
+          "s": 0,
+          "t": "As the soup gently simmers, steam rises from the pot and a hearty aroma begins to fill the air. All trace of sadness is wiped from the woman's expression, replaced by a look of barely-suppressed anticipation."
+        },
+        {
+          "s": 3,
+          "t": "Please have some food. Who knows, maybe you'll feel better after eating something delicious?"
+        },
+        {
+          "s": 7,
+          "t": "Ah... Thank you so much."
+        },
+        {
+          "s": 7,
+          "t": "This is the best meal I've had in a long time... probably since my husband left to fight the monsters."
+        },
+        {
+          "s": 2,
+          "t": "Is your husband a Marechaussee Hunter, too?"
+        },
+        {
+          "s": 7,
+          "t": "A Marechaussee Hunter? No... My husband is just one of the guards from the capital."
+        },
+        {
+          "s": 7,
+          "t": "A horde of monsters suddenly appeared near the capital recently, so all the guards were dispatched to fight them."
+        },
+        {
+          "s": 5,
+          "t": "Do you remember when those monsters appeared?"
+        },
+        {
+          "s": 7,
+          "t": "...I'm not completely sure. All I know is that my husband was dispatched to fight them three days ago."
+        },
+        {
+          "s": 4,
+          "t": "Do you know where he was sent?"
+        },
+        {
+          "s": 7,
+          "t": "It all happened so fast. When we said our goodbyes, he couldn't even tell me where they were sending him."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, we'll find him! Just try to remain optimistic and wait for good news!"
+        },
+        {
+          "s": 3,
+          "t": "And don't forget to eat."
+        },
+        {
+          "s": 7,
+          "t": "Thank you all so much. And I will... I will..."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 2,
+          "t": "S—Seriously!?"
+        },
+        {
+          "s": 1,
+          "t": "(Uh-oh! A critical failure!)"
+        },
+        {
+          "s": 0,
+          "t": "You remain silent as you prepare a pot and fire to use for cooking. The woman stares at you with her mouth agape as you skillfully cut the ingredients and toss them into the pot."
+        },
+        {
+          "s": 0,
+          "t": "Splash... Swoosh... Clang."
+        },
+        {
+          "s": 2,
+          "t": "Clang!?"
+        },
+        {
+          "s": 0,
+          "t": "You're unable to maintain control over the force of your stirring and accidentally knock over the entire pot. Hot soup spills all over the ground. You see evidence of your failed creation splattered on the surrounding furniture and across the hemline of the woman's skirt."
+        },
+        {
+          "s": 3,
+          "t": "Oh no... I screwed it up."
+        },
+        {
+          "s": 7,
+          "t": "...Excuse me. What is the meaning of this?"
+        },
+        {
+          "s": 3,
+          "t": "Ahh, I'm so sorry!!"
+        },
+        {
+          "s": 1,
+          "t": "He(She) just wanted to cook something delicious to cheer you up! He(She) really didn't do this on purpose."
+        },
+        {
+          "s": 4,
+          "t": "(Is this situation salvageable at all?)"
+        },
+        {
+          "s": 7,
+          "t": "...Hmph."
+        },
+        {
+          "s": 7,
+          "t": "Please, leave me be. I just want to be alone."
+        },
+        {
+          "s": 5,
+          "t": "But, Miss..."
+        },
+        {
+          "s": 7,
+          "t": "Please, don't force me to repeat myself."
+        },
+        {
+          "s": 1,
+          "t": "Ahahaha... Well, at least let us help clean up."
+        },
+        {
+          "s": 5,
+          "t": "Critical failures are bound to happen... Don't be discouraged. Let's try and ask someone else."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to do an insight check to see what's troubling her."
+        },
+        {
+          "s": 0,
+          "t": "The results of insight checks aren't disclosed to the players, so I'll be the one consulting the Fateometer."
+        },
+        {
+          "s": 0,
+          "t": "You recall all the lessons you've learned in your time and begin to carefully observe the woman's mannerisms."
+        },
+        {
+          "s": 0,
+          "t": "You notice that when she's quiet, she has an empty look in her eyes, as if her thoughts have drifted to a place far, far away. And when she speaks, she often subconsciously reaches out to touch the ring on her left hand."
+        },
+        {
+          "s": 3,
+          "t": "Did something happen to your husband?"
+        },
+        {
+          "s": 7,
+          "t": "Ah... So you noticed. That's a little embarrassing, haha..."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 3,
+          "t": "Um, any help here, Lyney?"
+        },
+        {
+          "s": 5,
+          "t": "Ahem... Miss, we'd love to learn more about the \"monsters\" you mentioned. If you're willing to open up to us, we might just be able to help resolve the troubles you're facing."
+        },
+        {
+          "s": 4,
+          "t": "(You weren't even the one that learned \"persuasion\"...)"
+        },
+        {
+          "s": 7,
+          "t": "My troubles, you say... *sigh* I'm not sure they're so easily resolved, but I suppose it wouldn't hurt to share them with you."
+        },
+        {
+          "section": "Melancholic Young Woman"
+        },
+        {
+          "s": 7,
+          "t": "A horde of monsters suddenly appeared near the capital recently, so all the guards were dispatched to fight them."
+        },
+        {
+          "s": 5,
+          "t": "Do you remember when those monsters appeared?"
+        },
+        {
+          "s": 7,
+          "t": "...I'm not completely sure. All I know is that my husband was dispatched to fight them three days ago."
+        },
+        {
+          "s": 4,
+          "t": "Do you know where he was sent?"
+        },
+        {
+          "s": 7,
+          "t": "It all happened so fast. When we said our goodbyes, he couldn't even tell me where they were sending him."
+        },
+        {
+          "s": 5,
+          "t": "You have our thanks, friend. We'll find and defeat those monsters as soon as possible. We sincerely hope your husband will be able to return to your side soon."
+        },
+        {
+          "s": 7,
+          "t": "Thank you..."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, we'll find him! Just try to remain optimistic and wait for good news!"
+        },
+        {
+          "s": 1,
+          "t": "We don't always get to choose what happens to us, but we do get to choose the little things, like what we eat and how we respond to the things life throws our way. I hope that, one day, you too will recognize the power of something as small and inconsequential as a delicious dessert!"
+        },
+        {
+          "s": 7,
+          "t": "I... I'll do my best."
+        },
+        {
+          "s": 0,
+          "t": "You bid farewell to the woman and continue your journey further into the city."
+        },
+        {
+          "section": "Gruff Merchant"
+        },
+        {
+          "s": 4,
+          "t": "Although he doesn't seem very... friendly, merchants are usually a good source of information, right?"
+        },
+        {
+          "s": 5,
+          "t": "Pardon me, sir. I'd like to ask a question, if I may."
+        },
+        {
+          "s": 8,
+          "t": "That depends. How much are you willing to pay?"
+        },
+        {
+          "s": 5,
+          "t": "How about... this much?"
+        },
+        {
+          "s": 8,
+          "t": "Tch, what do you take me for, some lowly beggar? You can't even buy half an onion with that amount!"
+        },
+        {
+          "s": 4,
+          "t": "Surely an onion can't be that expensive... right?"
+        },
+        {
+          "s": 8,
+          "t": "What do you know? War is nearly upon us. Everything costs several times what it did before! If you're not gonna buy anything, then scram."
+        },
+        {
+          "s": 2,
+          "t": "Whoa, what a nasty guy. Maybe we shouldn't even bother talking to him..."
+        },
+        {
+          "s": 1,
+          "t": "But he still might have information we need. {NICKNAME}, can you think of something?"
+        },
+        {
+          "sit": "\"Persuade\" him, Navia!"
+        },
+        {
+          "sit": "Lyney, you're up!"
+        },
+        {
+          "sit": "Furina, put on a performance!"
+        },
+        {
+          "s": 1,
+          "t": "Sir, we came to this city to solve the very problem you seem to be referring to. The \"war\" you mentioned... would it happen to be against the monsters outside the city?"
+        },
+        {
+          "s": 1,
+          "t": "If you happen to be well-informed, and know a thing or two about what's going on, we'd appreciate it if you could share that information with us. After all, the sooner this problem gets resolved, the easier it will be for you to do your business."
+        },
+        {
+          "s": 8,
+          "t": "Hmph. Well, things are basically as you said, young lady."
+        },
+        {
+          "s": 8,
+          "t": "Those monsters are camped outside the city, and they've been destroying all our trade routes."
+        },
+        {
+          "s": 8,
+          "t": "We have limited reserves within the city, so if this continues, we're all going to be in big trouble."
+        },
+        {
+          "s": 4,
+          "t": "Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?"
+        },
+        {
+          "s": 8,
+          "t": "Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat."
+        },
+        {
+          "s": 8,
+          "t": "Who knows? Maybe they've been in cahoots with the monsters all along."
+        },
+        {
+          "s": 5,
+          "t": "That is concerning..."
+        },
+        {
+          "s": 8,
+          "t": "Alright, alright, that's all the information you need, right? Off with you, now. I've still got business to do..."
+        },
+        {
+          "s": 1,
+          "t": "You know, if you smiled a little more, you'd definitely get more business, and I bet that would make your life just a little bit sweeter! I'm not saying it's guaranteed to work. It's just a tip!"
+        },
+        {
+          "s": 3,
+          "t": "Lyney, you're up!"
+        },
+        {
+          "s": 5,
+          "t": "Okay, while everyone is talking, I secretly use my magic props to summon a bottle of wine without the merchant noticing."
+        },
+        {
+          "s": 5,
+          "t": "We meant no offense, sir. Here, allow me to offer you this bottle of vintage wine, made only from the finest grapes. I'll just leave it here. Please, enjoy it at your leisure."
+        },
+        {
+          "s": 8,
+          "t": "Hmm?"
+        },
+        {
+          "s": 5,
+          "t": "Ah, I should mention that this wine is the perfect accompaniment to a meal. I'd suggest enjoying it with dinner."
+        },
+        {
+          "s": 8,
+          "t": "Hmm... Hmph, alright. Go on and ask. What do you want to know?"
+        },
+        {
+          "s": 5,
+          "t": "Do you have any information on the monsters, or the crisis that has overtaken the kingdom?"
+        },
+        {
+          "s": 8,
+          "t": "Crisis? Ha, if you ask me, there's a crisis everywhere you look."
+        },
+        {
+          "s": 8,
+          "t": "Those monsters are camped outside the city, and they've been destroying all our trade routes."
+        },
+        {
+          "s": 8,
+          "t": "We have limited reserves within the city, so if this continues, we're all going to be in big trouble."
+        },
+        {
+          "s": 4,
+          "t": "Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?"
+        },
+        {
+          "s": 8,
+          "t": "Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat."
+        },
+        {
+          "s": 8,
+          "t": "Who knows? Maybe they've been in cahoots with the monsters all along."
+        },
+        {
+          "s": 5,
+          "t": "That is concerning..."
+        },
+        {
+          "s": 5,
+          "t": "Thank you, sir. We won't take up any more of your time, now."
+        },
+        {
+          "s": 2,
+          "t": "Hey, why did you leave in such a hurry?"
+        },
+        {
+          "s": 5,
+          "t": "Weeeell, you see, that bottle of \"wine\" was just a cardboard prop."
+        },
+        {
+          "s": 3,
+          "t": "Furina, put on a performance!"
+        },
+        {
+          "s": 4,
+          "t": "(A performance? I've never played a roleplaying game like this before, but even I can tell that suggestion is pretty far-fetched. Is a performance check really going to help here?)"
+        },
+        {
+          "s": 4,
+          "t": "Um... Alright. Ahem..."
+        },
+        {
+          "s": 4,
+          "t": "By the harbor's grace, a lone boat lies in rest, let the moon give chase, for here begins our quest."
+        },
+        {
+          "s": 4,
+          "t": "In the dark of shadow, our heroes seek to find, where creatures born of evil, weave their grand design."
+        },
+        {
+          "s": 4,
+          "t": "Blocked the road does stand, such is our hunters' plight, yet with sword and courage in hand, they march forth to pierce the night."
+        },
+        {
+          "s": 8,
+          "t": "Hmph, I don't recall asking for a bardic song. Don't expect me to give you any coin."
+        },
+        {
+          "s": 8,
+          "t": "But if you meant what you sang, and you are indeed some kind of hunter... Then by all means, please go out, and kill those monsters for us."
+        },
+        {
+          "s": 8,
+          "t": "Those monsters are camped outside the city, and they've been destroying all our trade routes."
+        },
+        {
+          "s": 8,
+          "t": "We have limited reserves within the city, so if this continues, we're all going to be in big trouble."
+        },
+        {
+          "s": 4,
+          "t": "Wait, you're saying no one has put a plan in place to distribute supplies or maintain order?"
+        },
+        {
+          "s": 8,
+          "t": "Hah, we could all starve, and those nobles in the palace wouldn't even break a sweat."
+        },
+        {
+          "s": 8,
+          "t": "Who knows? Maybe they've been in cahoots with the monsters all along."
+        },
+        {
+          "s": 5,
+          "t": "That is concerning..."
+        },
+        {
+          "s": 8,
+          "t": "Alright, I think I've said more than enough. Be on your way, now."
+        },
+        {
+          "s": 4,
+          "t": "...Got it. Thank you, sir."
+        },
+        {
+          "s": 2,
+          "t": "Don't mind him, Furina. He just doesn't have enough taste to appreciate your art."
+        },
+        {
+          "s": 4,
+          "t": "Oh, no, I was just thinking about... how those nobles must be so cold-hearted. It's like they don't care about their people at all!"
+        },
+        {
+          "section": "Anxious Man"
+        },
+        {
+          "s": 0,
+          "t": "He doesn't seem to notice your approach. Still immersed in his own thoughts, he shakes his head and lets out a long sigh."
+        },
+        {
+          "s": 4,
+          "t": "(This guy seems promising enough. Maybe I can get some information out of him!)"
+        },
+        {
+          "s": 4,
+          "t": "Hello, sir! Is there anything I can do to help you?"
+        },
+        {
+          "s": 9,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "Wait, you're...!"
+        },
+        {
+          "s": 4,
+          "t": "Erm, I'm..."
+        },
+        {
+          "s": 9,
+          "t": "Oh, dear goodness, you're... you're a Marechaussee Hunter!"
+        },
+        {
+          "s": 5,
+          "t": "You recognize us? Ah, are you... one of the people who wrote the commission letter?"
+        },
+        {
+          "s": 9,
+          "t": "Yes, yes! I didn't expect you to actually come. What great news... The city is saved!"
+        },
+        {
+          "s": 4,
+          "t": "What happened here?"
+        },
+        {
+          "s": 9,
+          "t": "Alas... We once lived comfortable, carefree lives. This city used to be free of monsters. The first Marechaussee Hunter, Cassiodor, the \"Golden Hunter,\" he was the one who drove them back."
+        },
+        {
+          "s": 9,
+          "t": "However... Monsters have once again surrounded the city. Perhaps the seal that kept them at bay has lost its power, or perhaps an evil sorcerer has been meddling in our affairs. All I know for sure is that their return has stripped this city of any chance at peace."
+        },
+        {
+          "s": 1,
+          "t": "Are there... not enough soldiers to drive them out?"
+        },
+        {
+          "s": 9,
+          "t": "It's not a question of numbers. The guards simply have no idea how to deal with them."
+        },
+        {
+          "s": 9,
+          "t": "Most people my age have never even seen one of the monsters, much less been trained to fight against them. What's worse, many of us don't even know the history of the Marechaussee Hunters anymore."
+        },
+        {
+          "s": 9,
+          "t": "When I was a child, though, my grandfather would tell me stories about how the Marechaussee Hunters drove back the monsters. So, on the off-chance that something might come of it, I decided to reach out to you."
+        },
+        {
+          "s": 9,
+          "t": "To be perfectly honest, I was starting to think all those stories were just tall tales, but now that I've seen you in person, I finally know that it was true!"
+        },
+        {
+          "s": 1,
+          "t": "Well, you can rest easy, friend! The righteous and formidable Marechaussee Hunters are on the case!"
+        },
+        {
+          "s": 0,
+          "t": "The man is touched by your determination and resolve. His eyes begin to well with tears of relief."
+        },
+        {
+          "s": 4,
+          "t": "Still, if we're going to hunt the monsters, we need to know where to find them. Can you give us any leads?"
+        },
+        {
+          "s": 9,
+          "t": "All I know is that the area outside the city is dangerous. I'm afraid I can't point you toward a specific location."
+        },
+        {
+          "s": 9,
+          "t": "Although, if you leave the capital through the main gate and follow the road, you should run into a group of guards. They might know more about where to find the monsters."
+        },
+        {
+          "s": 1,
+          "t": "I see... We'll go look for them, then."
+        },
+        {
+          "s": 9,
+          "t": "Alright, be careful. Oh and... one last thing. The monsters outside the city are just part of the problem. There are evil sorcerers inside the city as well, so be on your guard."
+        },
+        {
+          "s": 9,
+          "t": "They're actively working with the monsters, and have corrupted the court ministers with malicious magic. They're the reason why, even inside the city, everything has been a giant mess."
+        },
+        {
+          "s": 9,
+          "t": "Even one of our kindest ministers has turned into a boorish and unreasonable figure, interested in nothing but enacting laws that exploit the people. Who knows how much longer we'll be able to go on like this..."
+        },
+        {
+          "s": 5,
+          "t": "Talk about being stuck between a rock and a hard place..."
+        },
+        {
+          "s": 1,
+          "t": "I feel bad for him. Maybe we should try to cheer him up?"
+        },
+        {
+          "sit": "I could cook something?"
+        },
+        {
+          "sit": "Furina could sing him a song?"
+        },
+        {
+          "s": 4,
+          "t": "Hey, not everything can be solved with food!"
+        },
+        {
+          "s": 9,
+          "t": "I appreciate your kindness, but for now, it's more important to focus on the crisis at hand."
+        },
+        {
+          "s": 9,
+          "t": "Brave Hunters, I leave the future of this kingdom to you."
+        },
+        {
+          "s": 3,
+          "t": "Furina could sing him a song?"
+        },
+        {
+          "s": 4,
+          "t": "Huh? Like... now? Is this really the right time...?"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 4,
+          "t": "If I understood correctly, there are currently two problems in the kingdom that need solving, right?"
+        },
+        {
+          "s": 5,
+          "t": "Exactly. We need to defeat the monsters outside the city and take down the evil sorcerers stirring up trouble from within."
+        },
+        {
+          "s": 1,
+          "t": "But, which problem should we tackle first..."
+        },
+        {
+          "s": 0,
+          "t": "Well, this seems like a good moment for a break. Take some time, and discuss what you want to do. Let me know when you've made your decision."
+        },
+        {
+          "s": 4,
+          "t": "Huh... I really didn't expect the people in the city to keep us at arm's length like that. I totally thought the Hunters would be treated like heroes."
+        },
+        {
+          "s": 2,
+          "t": "Well, Clorinde said the script took cues from the real history of Fontaine, right? Maybe the real-life Marechaussee Hunters were also treated like that?"
+        },
+        {
+          "s": 0,
+          "t": "I wouldn't say it's a perfect representation of history, but there are definitely some similarities. Would you like to hear more about it?"
+        },
+        {
+          "s": 1,
+          "t": "Sure, as long as it doesn't spoil anything in the script! You've brought up bits and pieces of the Hunters' history before, but it was all in passing."
+        },
+        {
+          "s": 2,
+          "t": "Paimon wants to know, too! The Hunters were super powerful, right? Were they all from a special line of supernatural beings or something? Kinda like... the youkai in Inazuma?"
+        },
+        {
+          "s": 0,
+          "t": "No, all Marechaussee Hunters were ordinary mortal fighters. The only thing that set them apart were the special sword techniques passed down over the centuries."
+        },
+        {
+          "s": 2,
+          "t": "Huh? So you mean... anyone could become a Marechaussee Hunter?"
+        },
+        {
+          "s": 0,
+          "t": "In theory, yes. All you would need to do is survive the rigorous training, and master the swordsmanship techniques required to fight the monsters."
+        },
+        {
+          "s": 0,
+          "t": "Still, most people dropped out at the early stages, and others called it quits the minute they saw a monster in person. To become a Hunter, you must be strong in both body and mind."
+        },
+        {
+          "s": 2,
+          "t": "What kind of monsters did the Hunters fight exactly? Oh and, the \"evil sorcerer\" the script mentions — did they exist in real life, too?"
+        },
+        {
+          "s": 0,
+          "t": "The land of Fontaine once played host to an ancient dynasty known as Remuria. After that dynasty fell, monsters began to appear, intent on obstructing humans from establishing a new social order."
+        },
+        {
+          "s": 0,
+          "t": "One of the ancient sorcerers of Remuria used his power to assemble a formidable army of golems. He sought to use that force to establish himself as king."
+        },
+        {
+          "s": 1,
+          "t": "Now wait a second! Don't tell me that guy was the inspiration for the evil sorcerer in the script! We still haven't found any in-game information on him yet, so why don't you talk about someone else for now?"
+        },
+        {
+          "s": 0,
+          "t": "Well, I wasn't planning on going into anything you might be able to find out in the game... But, if you want me to talk about something else, then... How about Cassiodor, the Golden Hunter, or Egeria, the ex-Hydro Archon?"
+        },
+        {
+          "s": 2,
+          "t": "Wait, but those people are all from a super long time ago! Where did you learn all this, Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "From my master."
+        },
+        {
+          "s": 1,
+          "t": "By \"master,\" you mean... Ms. Petronilla?"
+        },
+        {
+          "s": 4,
+          "t": "Someone you know?"
+        },
+        {
+          "s": 1,
+          "t": "Absolutely. Ms. Petronilla and my father were good friends. Back in the day, she would often bring Clorinde over to play. But then..."
+        },
+        {
+          "s": 0,
+          "t": "...Let's not get off topic. Anyway, back to what I was saying..."
+        },
+        {
+          "s": 0,
+          "t": "Responding to Egeria's call, a number of warriors followed Cassiodor into battle against the monsters. This group of warriors, under Cassiodor's leadership, became known as the Marechaussee Hunters."
+        },
+        {
+          "s": 0,
+          "t": "Yet, as Fontaine entered an era of peace, their work gradually became obsolete. The Marechaussee Phantom, originally an association made up of Hunters, eventually came to be predominantly comprised of Melusines."
+        },
+        {
+          "s": 5,
+          "t": "Ah, I see... That explains why most of the people in the script have forgotten the Hunters or think of them as nothing more than a legend."
+        },
+        {
+          "s": 4,
+          "t": "Is that really a bad thing, though? It can get tough always being the one shouldering everyone's expectations."
+        },
+        {
+          "s": 5,
+          "t": "Hmm, depends on who you ask, I suppose. If the name of the organization no longer commands respect, investigative work is bound to suffer."
+        },
+        {
+          "s": 1,
+          "t": "Speaking of investigations, which problem should we tackle first? Monsters, or evil sorcerer?"
+        },
+        {
+          "s": 4,
+          "t": "I vote monsters. That's the main duty of the Hunters, right? We can come back to the sorcerer later."
+        },
+        {
+          "s": 5,
+          "t": "Well said, Miss Furina. Plus, if the sorcerer really are the masterminds behind this whole thing, defeating the monsters could give us some clues on their intentions as well."
+        },
+        {
+          "s": 1,
+          "t": "What about you, partner? What do you think?"
+        },
+        {
+          "sit": "I also vote monsters."
+        },
+        {
+          "sit": "The sorcerer problem seems pretty important..."
+        },
+        {
+          "s": 1,
+          "t": "It's decided, then!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, after some discussion, you decide to turn around and head out of the city..."
+        },
+        {
+          "s": 3,
+          "t": "The sorcerer problem seems pretty important..."
+        },
+        {
+          "s": 1,
+          "t": "I mean... you're not wrong. But, those characters are usually the ones pulling the strings behind the scenes. More often than not, they're very formidable opponents. Going after them now might be jumping the gun a little bit."
+        },
+        {
+          "s": 1,
+          "t": "We don't want a total party kill on the first day, right? With Clorinde as the GM, I wouldn't rule out the possibility..."
+        },
+        {
+          "s": 3,
+          "t": "...You've \"persuaded\" me."
+        },
+        {
+          "s": 1,
+          "t": "Haha, then it's settled! Let's go hunt some monsters!"
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 2,
+          "t": "Let's take a look around, like that guy said..."
+        },
+        {
+          "s": 0,
+          "t": "You there! Outsiders! Halt!"
+        },
+        {
+          "s": 2,
+          "t": "Whoa! Wh—Who's there?"
+        },
+        {
+          "s": 0,
+          "t": "An armored man approaches you. He has a tall, muscular build and a determined expression in his eyes. Just one look, and you can tell he's fought in his fair share of battles."
+        },
+        {
+          "s": 0,
+          "t": "Although he's trying his best to conceal his current state, his uneven gait and the sweat dripping down his forehead make it obvious that he's been wounded and is in serious pain."
+        },
+        {
+          "s": 10,
+          "t": "I'm the captain of the guard. I saw you sneaking around the city earlier, so I'll only ask this once..."
+        },
+        {
+          "s": 10,
+          "t": "State your purpose, or it's off to the dungeons for the lot of you!"
+        },
+        {
+          "s": 2,
+          "t": "Wow, it's been a while since someone's been this suspicious of us..."
+        },
+        {
+          "s": 10,
+          "t": "I said talk! Not whisper between yourselves!"
+        },
+        {
+          "s": 4,
+          "t": "Er... Have you ever heard of the Marechaussee Hunters?"
+        },
+        {
+          "s": 10,
+          "t": "Marechaussee Hunters? Hah, that fairy tale, you mean? What, you expect me to believe you're one of them?"
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to do a medicine check to see if I can help him..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to do an insight check to tell what he's thinking..."
+        },
+        {
+          "s": 0,
+          "t": "While everyone is talking, you begin to carefully observe the captain's mannerisms."
+        },
+        {
+          "s": 0,
+          "t": "Every so often, you see him glance toward a particular direction with a pained expression on his face, as if an invisible thread is tying him to an unknown place."
+        },
+        {
+          "s": 0,
+          "t": "As you follow his gaze, you vaguely recall that the location he seems fixated on is known for its difficult terrain. Any battle that breaks out in a place like that is likely to be prolonged and devastating."
+        },
+        {
+          "s": 3,
+          "t": "Is that where the monsters are? Outside the forest, in the area with the difficult terrain?"
+        },
+        {
+          "s": 0,
+          "t": "The captain is taken aback by your sudden question. Still, his shock only lends credence to your theory."
+        },
+        {
+          "s": 10,
+          "t": "You're... looking to fight the monsters?"
+        },
+        {
+          "s": 1,
+          "t": "Well, we're Marechaussee Hunters, after all. You could say that's basically our job!"
+        },
+        {
+          "s": 0,
+          "t": "He shakes his head and continues to regard you with skepticism. In the end, he decides to inform you of the locations where the monsters have appeared."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. But... if you insist on going, I won't stop you, either."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 3,
+          "t": "We're counting on you, Navia!"
+        },
+        {
+          "s": 1,
+          "t": "Sir, we were indeed in the city earlier, but our purpose was only to gather information on the monsters. We're here to help this city and all the people within it."
+        },
+        {
+          "s": 1,
+          "t": "Your guards are still fighting the monsters as we speak. They could be seriously wounded and in grave need of support. You need all the help you can get!"
+        },
+        {
+          "s": 0,
+          "t": "The man regards you with doubt and concern. After a period of inner struggle, he lets out a long sigh, and informs you of the locations where the monsters have appeared."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. But... if you insist on going, I won't stop you, either."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to do an insight check to tell what he's thinking..."
+        },
+        {
+          "s": 0,
+          "t": "While everyone is talking, you begin to carefully observe the captain's mannerisms."
+        },
+        {
+          "s": 0,
+          "t": "Every so often, you see him glance toward a particular direction with a pained expression on his face, as if an invisible thread is tying him to an unknown place."
+        },
+        {
+          "s": 0,
+          "t": "As you follow his gaze, you vaguely recall that the location he seems fixated on is known for its difficult terrain. Any battle that breaks out in a place like that is likely to be prolonged and devastating."
+        },
+        {
+          "s": 3,
+          "t": "Is that where the monsters are? Outside the forest, in the area with the difficult terrain?"
+        },
+        {
+          "s": 0,
+          "t": "The captain is taken aback by your sudden question. Still, his shock only lends credence to your theory."
+        },
+        {
+          "s": 10,
+          "t": "You're... looking to fight the monsters?"
+        },
+        {
+          "s": 1,
+          "t": "Well, we're Marechaussee Hunters, after all. You could say that's basically our job!"
+        },
+        {
+          "s": 0,
+          "t": "He shakes his head and continues to regard you with skepticism. In the end, he decides to inform you of the locations where the monsters have appeared."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. But... if you insist on going, I won't stop you, either."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 0,
+          "t": "Using your knowledge of medicine, you're able to deduce that the injury on his calf was a monster's doing, and the wound has already begun to fester. As you check him over, he looks at you with suspicion and retracts his injured leg further back."
+        },
+        {
+          "s": 3,
+          "t": "I'm a doctor by trade — please let me redress your wound. You don't have to suffer like this."
+        },
+        {
+          "s": 0,
+          "t": "The man appears somewhat disgruntled at having been exposed, but soon relents and raises his leg for you to take a better look."
+        },
+        {
+          "s": 0,
+          "t": "He allows you to apply a poultice of specialized medicine to the wound, and it appears to bring him much relief. The tension in his brow eases."
+        },
+        {
+          "s": 10,
+          "t": "Alright... Guess you lot might actually be real Marechaussee Hunters, after all. In any case, you've successfully treated my wound. So, what do you want to know?"
+        },
+        {
+          "s": 2,
+          "t": "Do you know where we can find the monsters? Or the other guards who are fighting them?"
+        },
+        {
+          "s": 0,
+          "t": "He informs you of the various locations where monsters have appeared. He looks in that general direction with a pained gaze, as if a thin, invisible thread is pulling on his wound."
+        },
+        {
+          "s": 10,
+          "t": "Some of our new recruits have never even dealt with a petty thief, and now they're out there fighting monsters... *sigh* If it weren't for this cursed leg...!"
+        },
+        {
+          "s": 1,
+          "t": "Please, sir, don't get too worked up. You need to focus on your recovery. Just leave the monsters to us — we're Marechaussee Hunters, after all."
+        },
+        {
+          "s": 0,
+          "t": "Hearing you say that, a glimmer of hope flashes in his eyes. But, it disappears almost as quickly as it came."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. But... if you insist on going, I won't stop you, either."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 0,
+          "t": "With some suspicion, the captain allows you to survey his condition after you announce yourself as a trained doctor."
+        },
+        {
+          "s": 0,
+          "t": "Unfortunately, you're unable to adequately assess the source of his injury, much less come up with a way to relieve his pain."
+        },
+        {
+          "s": 3,
+          "t": "I'm sorry... My skills are a little rusty."
+        },
+        {
+          "s": 10,
+          "t": "Well, this is no ordinary wound... it was inflicted by a monster. Now, tell me, are you truly... a Marechaussee Hunter?"
+        },
+        {
+          "s": 0,
+          "t": "He regards you with suspicion for quite some time, before shaking his head. Perhaps he's finally accepted that you're here to help."
+        },
+        {
+          "s": 1,
+          "t": "Sir, we were indeed in the city earlier, but our purpose was only to gather information on the monsters. We're here to help this city and all the people within it."
+        },
+        {
+          "s": 1,
+          "t": "Your guards are still fighting the monsters as we speak. They could be seriously wounded and in grave need of support. You need all the help you can get!"
+        },
+        {
+          "s": 0,
+          "t": "The man regards you with doubt and concern. After a period of inner struggle, he lets out a long sigh, and informs you of the locations where the monsters have appeared."
+        },
+        {
+          "s": 10,
+          "t": "Some of our new recruits have never even dealt with a petty thief, and now they're out there fighting monsters... *sigh* If it weren't for this cursed leg...!"
+        },
+        {
+          "s": 1,
+          "t": "Please, sir, don't get too worked up. You need to focus on your recovery. Just leave the monsters to us — we're Marechaussee Hunters, after all."
+        },
+        {
+          "s": 0,
+          "t": "Hearing you say that, a glimmer of hope flashes in his eyes. But, it disappears almost as quickly as it came."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. But... if you insist on going, I won't stop you, either."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck..."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 4,
+          "t": "What? A critical success? Your luck is through the roof today...."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "As you begin to survey the man's condition, you're immediately able to see past the crude dressing on his leg and assess the inside of his wound."
+        },
+        {
+          "s": 0,
+          "t": "You've seen many such injuries before. If not properly treated, the man will likely fall victim to serious illness for the rest of his life."
+        },
+        {
+          "s": 0,
+          "t": "Seeing your serious expression, the man's brow begins to furrow."
+        },
+        {
+          "s": 3,
+          "t": "I'm a doctor by trade — please let me redress your wound. You don't have to suffer like this."
+        },
+        {
+          "s": 0,
+          "t": "You apply a poultice of specialized medicine to the gash, and carefully redress the wound. The man regards you first with bewilderment and then with guilt."
+        },
+        {
+          "s": 10,
+          "t": "Thank you, friend. I'm sorry for misjudging you earlier. Please accept my apology."
+        },
+        {
+          "s": 4,
+          "t": "Don't worry about it! That misunderstanding is all in the past now."
+        },
+        {
+          "s": 2,
+          "t": "So, do you know where we can find the monsters? We're here to defeat them."
+        },
+        {
+          "s": 0,
+          "t": "He informs you of the locations of the monsters, and a glimmer of hope returns to his eyes."
+        },
+        {
+          "s": 10,
+          "t": "Those monsters aren't easy to deal with. Our soldiers are too young to be of much help, and now I'm out of commission as well..."
+        },
+        {
+          "s": 10,
+          "t": "But... But if the legendary Marechaussee Hunters are prepared to lend us their strength, then perhaps there's still a chance to turn the tides, after all!"
+        },
+        {
+          "s": 1,
+          "t": "Just take it easy and leave the monsters to us! Fighting them is what we do."
+        },
+        {
+          "s": 10,
+          "t": "I'll place my trust in you, then. You have my gratitude."
+        },
+        {
+          "s": 10,
+          "t": "I just hope all the guards will be able to come back to their families alive. I wish you the best of luck."
+        },
+        {
+          "section": "Guard Captain"
+        },
+        {
+          "s": 5,
+          "t": "Ah, a critical failure. Unlucky timing..."
+        },
+        {
+          "s": 0,
+          "t": "The captain of the guards reluctantly allows you to assess his condition. Right as you're trying to get a closer look at his leg, your hand slips, and collides against his wound with great force..."
+        },
+        {
+          "s": 10,
+          "t": "ARGH!"
+        },
+        {
+          "s": 2,
+          "t": "That sounds like it hurt..."
+        },
+        {
+          "s": 3,
+          "t": "I'm sorry... My skills are a little rusty."
+        },
+        {
+          "s": 0,
+          "t": "The captain recoils and takes a half step back. He stares down at you, panting heavily, his eyes full of anger."
+        },
+        {
+          "s": 10,
+          "t": "I don't care what you have to say, or why you're here. You are not welcome in this city."
+        },
+        {
+          "s": 10,
+          "t": "Get out of my sight. Now!"
+        },
+        {
+          "s": 1,
+          "t": "I understand that you're upset, sir! We'll leave soon, I promise. It's just, if we don't know where to find the monsters, we won't even know where to go..."
+        },
+        {
+          "s": 10,
+          "t": "Hah, don't tell me you're actually considering fighting one of those things?"
+        },
+        {
+          "s": 10,
+          "t": "You know, put any other group of young people in your place, and I might have tried to stop them, but since you're the ones asking..."
+        },
+        {
+          "s": 0,
+          "t": "He informs you of the locations of the monsters with a disdainful tone, as if he's certain you have no chance of making it out alive."
+        },
+        {
+          "s": 2,
+          "t": "Phew, that was scary... Paimon was worried that critical failure meant we weren't gonna learn anything!"
+        },
+        {
+          "s": 1,
+          "t": "It's all thanks to Clorinde's quick thinking!"
+        },
+        {
+          "s": 10,
+          "t": "Well, are you leaving or not?"
+        },
+        {
+          "s": 5,
+          "t": "We're leaving, we're leaving！"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 2,
+          "t": "This is the place he mentioned... right?"
+        },
+        {
+          "s": 0,
+          "t": "You see broken iron swords scattered all around you and downed trees riddled with terrifying claw marks."
+        },
+        {
+          "s": 0,
+          "t": "All the signs point to one thing — a truly devastating battle just took place here."
+        },
+        {
+          "s": 1,
+          "t": "Be on your guard, everyone. The monsters might still be around..."
+        },
+        {
+          "s": 0,
+          "t": "Before you can finish your sentence, you hear rustling sounds from the surrounding bushes. The monsters have emerged."
+        },
+        {
+          "s": 0,
+          "t": "They close in on you without fear. You get the impression that, in their bloodthirsty eyes, you're just another meal for them to devour."
+        },
+        {
+          "s": 2,
+          "t": "Argh! L—Little help here! This thing wants to eat Paimon!"
+        },
+        {
+          "s": 0,
+          "t": "Your battle round begins... now."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "The monsters let out a terrifying roar of anger and resentment, before dissipating into thin air."
+        },
+        {
+          "s": 1,
+          "t": "Phew... Thank goodness it's over!"
+        },
+        {
+          "s": 5,
+          "t": "We're lucky the Marechaussee Hunter class came with all those preset skill points. Otherwise, we would've been in some real trouble."
+        },
+        {
+          "s": 4,
+          "t": "I never knew the Fateometer even determines the amount of damage you inflict... If you get unlucky, isn't it just game over right then and there?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, that's part of the fun! The uncertainty of fate is what gives these games their appeal."
+        },
+        {
+          "s": 0,
+          "t": "Just as you begin to celebrate your victory, a suspicious lump on the ground catches your attention."
+        },
+        {
+          "s": 2,
+          "t": "A suspicious... lump? Wait, could it be... the thing that appears after every battle...!?"
+        },
+        {
+          "s": 1,
+          "t": "I walk up to it, crouch down, and begin to carefully examine it. I've still got my right glove on, so it should be fine for me to touch it, right?"
+        },
+        {
+          "s": 0,
+          "t": "As you investigate the mound, you discover that the exposed portion appears to be made of wood. It was previously obscured by the large form of the monsters."
+        },
+        {
+          "s": 0,
+          "t": "With the monsters gone, the small protrusion now awaits your discovery, poking out of the ground like a shy flower bud."
+        },
+        {
+          "s": 2,
+          "t": "Woah! It's a treasure chest!"
+        },
+        {
+          "s": 3,
+          "t": "Let's dig it up!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "With everyone's help, you successfully excavate the wooden chest from the ground."
+        },
+        {
+          "s": 0,
+          "t": "Even without opening it, you can tell from the mora and jewels scattered around the chest that it must contain quite the fortune."
+        },
+        {
+          "s": 2,
+          "t": "Makes sense! We worked hard for this! Let's open it, and we can share what's inside!"
+        },
+        {
+          "s": 5,
+          "t": "Haha, I can understand your excitement, Paimon, but think about it... Doesn't it seem like there are people out there who need this treasure more than us?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah! Think about all the people suffering in the capital or all those guards who got hurt fighting the monsters... Wouldn't it be better if we gave the treasure to them?"
+        },
+        {
+          "s": 2,
+          "t": "Wait, is that how it works? Paimon thought, since we were the ones to dig it up, we could just take it for ourselves..."
+        },
+        {
+          "s": 1,
+          "t": "Well, let's put it this way... Any decision you make during a roleplaying game can impact the future course of the story."
+        },
+        {
+          "s": 4,
+          "t": "But, would the people really believe us? It's hard enough for us to prove we're Marechaussee Hunters. What if they think we procured the treasure illegally? They might get even more suspicious of us..."
+        },
+        {
+          "s": 5,
+          "t": "That's definitely something we should consider. Maybe we can come up with an explanation in advance..."
+        },
+        {
+          "s": 2,
+          "t": "Well, if donating it could cause that much trouble, why don't we use it to buy some gear and fill up on good food? Then, we'll be ready to fight even more bad guys!"
+        },
+        {
+          "s": 0,
+          "t": "Looks like you're facing a difficult choice once again."
+        },
+        {
+          "s": 0,
+          "t": "Well, it's getting late. Why don't we call it a day for now."
+        },
+        {
+          "s": 4,
+          "t": "Wow, where did the time go..."
+        },
+        {
+          "s": 5,
+          "t": "Haha, I'm not sure if it's because I'm having so much fun with you all, or because the story is particularly enticing... But, I feel like I could almost keep going."
+        },
+        {
+          "s": 1,
+          "t": "Hear, hear! Ooh, how about we play through the night!"
+        },
+        {
+          "s": 4,
+          "t": "Huh!? Oh, um... I'm not sure I'll have enough energy for that..."
+        },
+        {
+          "s": 5,
+          "t": "Yeah, that won't work for me, either. Lynette will give me an earful if I get home too late."
+        },
+        {
+          "s": 0,
+          "t": "I understand how you feel, Navia, but we have to change venues for the next part of the story, anyway."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Another location?"
+        },
+        {
+          "s": 0,
+          "t": "Mhm. There's a special note for the GM at the end of this section that says to proceed to an indoor set for the next part of the script."
+        },
+        {
+          "s": 1,
+          "t": "Woah, they really pulled out all the stops for this new script!"
+        },
+        {
+          "s": 2,
+          "t": "Well, even if we end the game for the day, we can still stay a little longer and hear Clorinde finish her story, right? Paimon wants to hear more about the history of the Hunters..."
+        },
+        {
+          "s": 4,
+          "t": "Hmm, something tells me you just want to finish the free desserts before we break for the day..."
+        },
+        {
+          "s": 2,
+          "t": "Th—That's just a coincidence, okay? Besides, to Paimon, not finishing free food feels even worse than having to buy her own!"
+        },
+        {
+          "s": 2,
+          "t": "And anyway, Paimon really does want to hear more about Clorinde's master!"
+        },
+        {
+          "s": 1,
+          "t": "Well..."
+        },
+        {
+          "sit": "If the story doesn't have a happy ending..."
+        },
+        {
+          "sit": "It's okay not to finish it..."
+        },
+        {
+          "s": 0,
+          "t": "It's nothing. I appreciate the concern, but it's all in the past. It won't do any harm to share these things now."
+        },
+        {
+          "s": 0,
+          "t": "My earliest memories are of living with Master. According to her, she saved me from certain people of ill repute. My birth parents had left me behind some time before that."
+        },
+        {
+          "s": 4,
+          "t": "(What a heavy beginning for a life story...)"
+        },
+        {
+          "s": 0,
+          "t": "Master was a fascinating individual, if... inexperienced in the ways of raising children."
+        },
+        {
+          "s": 0,
+          "t": "My first ever toy was a short sword. Although, I suppose it wasn't so much a toy as something Master removed from her waist and handed to a noisy child in need of distraction."
+        },
+        {
+          "s": 4,
+          "t": "Wait, so she... handed an actual sword to a child? Isn't that dangerous!? Did you hurt yourself?"
+        },
+        {
+          "s": 0,
+          "t": "Of course I did. I cut my palm, and bled quite a lot. But Master was not concerned. She just stood there and casually lectured me about it—"
+        },
+        {
+          "s": 0,
+          "t": "\"See? That's what you get for not holding the sword properly,\" she told me. She then crouched down next to me and said, \"Give me your hand. I'll teach you to bandage this wound. After that, it's time to learn how to truly hold a blade.\""
+        },
+        {
+          "s": 5,
+          "t": "Excuse me for asking this, Clorinde, but... how old were you, exactly, when all of this happened?"
+        },
+        {
+          "s": 0,
+          "t": "Probably around... three? Give or take."
+        },
+        {
+          "s": 4,
+          "t": "Three!? Isn't that when most kids are still struggling to hold a fork?"
+        },
+        {
+          "s": 0,
+          "t": "As I said, Master was... rather inexperienced in the ways of raising children. She believed trial and error was the best way to teach a child what they're capable of."
+        },
+        {
+          "s": 5,
+          "t": "(I'm not so sure this is a question of \"experience\"...)"
+        },
+        {
+          "s": 0,
+          "t": "I didn't see anything wrong with her ways at the time, and, anyway, children don't get to choose how they're raised... Oh, she did bring me back a pet from Liyue once. It was a Geovishap Hatchling."
+        },
+        {
+          "s": 2,
+          "t": "A Geovishap Hatchling!? For a pet!? That seems even more dangerous!"
+        },
+        {
+          "s": 0,
+          "t": "What she said was this — \"Make sure to get along, you two. If you really can't agree on something, just settle it with a fight. Whoever loses is the real pet.\""
+        },
+        {
+          "s": 5,
+          "t": "Uh... And how old were you when this happened?"
+        },
+        {
+          "s": 0,
+          "t": "Five."
+        },
+        {
+          "s": 4,
+          "t": "Well... Did you win?"
+        },
+        {
+          "s": 0,
+          "t": "No, I lost."
+        },
+        {
+          "s": 2,
+          "t": "So you're saying... You actually became... the Geovishap's pet?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, but only for a week. By the end of that week, I defeated it in combat, and we've shared a cordial relationship ever since."
+        },
+        {
+          "s": 4,
+          "t": "(That really doesn't sound like the kind of childhood someone should have...)"
+        },
+        {
+          "s": 0,
+          "t": "Later on, I gradually understood that Master most likely didn't know any other way to raise a child. She was a Marechaussee Hunter, but I never heard her bring up her own parents."
+        },
+        {
+          "s": 0,
+          "t": "Thanks to her, I learned how to navigate the forest by the age of six, and could hunt monsters in the wild by myself the year after that."
+        },
+        {
+          "s": 0,
+          "t": "Even though the training she subjected me to was strict, she always made sure to take me traveling when she had the time. We met many of her friends during those days... That was also how I met Mr. Callas and his family."
+        },
+        {
+          "s": 1,
+          "t": "I still remember the first time we met. You were too scared to join our picnic and hid behind Ms. Petronilla the whole time."
+        },
+        {
+          "s": 0,
+          "t": "I still... hadn't really met many children my age at that time, so I didn't know how to interact with others."
+        },
+        {
+          "s": 1,
+          "t": "After that, though, you started coming over a lot. You loved challenging people to shooting competitions, remember? I don't think many members of the Spina ever beat you in one of those."
+        },
+        {
+          "s": 0,
+          "t": "I had a lot of fun during those days."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, I enjoyed them too! Oh, do you remember that one time we went exploring around the Spina together? We overheard Papa call your Master Fontaine's \"Protector of Justice.\""
+        },
+        {
+          "s": 1,
+          "t": "We tried to pretend like we never heard anything, but you nearly let it slip that one time, hahaha..."
+        },
+        {
+          "s": 4,
+          "t": "\"Protector of Justice\"? Wait, you mean... that vigilante hero from twenty years ago? The one who was always active at night?"
+        },
+        {
+          "s": 0,
+          "t": "Yep, that would be her. She would often put on a black cloak and go out at night. I never knew where she went or what she was doing... until, like Navia said, we overheard the truth from Mr. Callas that night."
+        },
+        {
+          "s": 4,
+          "t": "Twenty years ago, huh... I still remember the Gardes leaving all kinds of witness reports about her on Neuvillette's desk."
+        },
+        {
+          "s": 0,
+          "t": "My apologies."
+        },
+        {
+          "s": 4,
+          "t": "Oh... There's no need to apologize! You had nothing to do with it. And, anyway, everything she did was for a good cause."
+        },
+        {
+          "s": 4,
+          "t": "Although, calling herself the \"Protector of Order\" was a bit much, especially when she deliberately operated outside the law..."
+        },
+        {
+          "s": 2,
+          "t": "Huh? When did the \"Protector of Justice\" become the \"Protector of Order\"?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, she had a bunch of codenames. I heard she would just come up with a name on the spot whenever she was asked..."
+        },
+        {
+          "s": 4,
+          "t": "Later on, she probably got sick of answering those questions and decided to stick to just two — the \"Protector of Justice\" and the \"Protector of Order.\""
+        },
+        {
+          "s": 0,
+          "t": "That sounds like her, all right. I bet she forgot which of the two she'd used by the time she got back each night."
+        },
+        {
+          "s": 5,
+          "t": "Well, she certainly sounds like a fascinating individual. With her strong sense of justice, it's no surprise her student followed in her footsteps."
+        },
+        {
+          "s": 0,
+          "t": "It's true. I always wanted to become like her. Someone powerful, independent, and with a strong sense of conviction... But..."
+        },
+        {
+          "s": 5,
+          "t": "But...?"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "...She suddenly disappeared the night I turned ten years old."
+        },
+        {
+          "s": 2,
+          "t": "Disappeared!? What happened?"
+        },
+        {
+          "s": 0,
+          "t": "I have no idea. She didn't even leave a note. I was never able to find out where she went."
+        },
+        {
+          "s": 0,
+          "t": "That night, I was celebrating my birthday at Navia's house, but Master never came to pick me up. When I returned home on my own, it was to an empty house."
+        },
+        {
+          "s": 0,
+          "t": "When she still didn't appear after a few days, I went to Mr. Callas' house to ask about her whereabouts, but he only shook his head."
+        },
+        {
+          "s": 1,
+          "t": "Papa probably didn't know, either. I know he sent a few people to investigate the matter in secret, but... they never found any credible leads."
+        },
+        {
+          "s": 0,
+          "t": "Don't worry, I understand. To be perfectly honest, given Master's personality and way of doing things, it all made a lot of sense. If I had to guess, I'd say she probably used it as an opportunity to force me to become independent."
+        },
+        {
+          "s": 0,
+          "t": "Just like how... when a litter of kittens reaches a certain age, the mother willingly leaves them behind."
+        },
+        {
+          "s": 4,
+          "t": "Were... Were you upset, Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "I was at first, but not anymore. I don't believe Master would suddenly disappear for no reason. There must have been something she just had to do."
+        },
+        {
+          "s": 2,
+          "t": "Well, despite everything, you still managed to follow in her footsteps and become the greatest Champion Duelist in all of Fontaine! You're practically a living symbol of law and justice!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, I suspect my position would be far too \"by-the-books\" for her. Master always did whatever she pleased. But... you're right. I suppose I do take after her in some ways."
+        },
+        {
+          "s": 4,
+          "t": "(Who knew Clorinde had such an interesting past... I never had the chance to ask her about it before.)"
+        },
+        {
+          "s": 4,
+          "t": "(I wonder... If Clorinde's master were the Champion Duelist back then... Would that duel against Mr. Callas have gone differently?)"
+        },
+        {
+          "s": 4,
+          "t": "(Oh no... Judging by the atmosphere, Clorinde and Navia are probably thinking something similar. The mood just got super awkward all of a sudden...)"
+        },
+        {
+          "s": 1,
+          "t": "Well, anyway! Would you look at the time? It's getting dark, so we should probably call it a day for real this time. If we keep talking like this, we really will be here all night!"
+        },
+        {
+          "s": 5,
+          "t": "I had a great time today, Miss Clorinde. Thank you for being our GM."
+        },
+        {
+          "s": 0,
+          "t": "Anytime."
+        },
+        {
+          "s": 1,
+          "t": "The script was good, but I've got to say, your childhood stories were even better!"
+        },
+        {
+          "s": 1,
+          "t": "Hey, you should tell us more about that fight against the Geovishap some time! Maybe your master was onto something, hehe!"
+        },
+        {
+          "s": 0,
+          "t": "Hm, you could be right."
+        },
+        {
+          "s": 4,
+          "t": "(What does she mean, \"onto something\"? I certainly don't know any five-year-olds who want to fight a vishap in their spare time!)"
+        },
+        {
+          "s": 4,
+          "t": "Guess I'll head back as well. I need to save my energy if I want to continue enjoying the story tomorrow."
+        },
+        {
+          "s": 0,
+          "t": "You're that excited to hear about my fight with the vishap?"
+        },
+        {
+          "s": 4,
+          "t": "I was talking about the script!"
+        },
+        {
+          "s": 3,
+          "t": "It's okay not to finish it..."
+        }
+      ],
+      "description": "“A long, long time ago…”"
+    },
+    {
+      "title": "Buried Honor",
+      "dialogue": [
+        {
+          "section": "Navia, Clorinde"
+        },
+        {
+          "s": 1,
+          "t": "Um... Just between the two of us, could you tell me what it was like to be the Geovishap's pet?"
+        },
+        {
+          "s": 0,
+          "t": "It was nothing special, really. Geovishaps don't understand the concept of a \"pet.\" So, basically, it just headbutted me whenever I entered its territory."
+        },
+        {
+          "s": 1,
+          "t": "And that... hurt?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, it hurt. What, something you want to experience for yourself?"
+        },
+        {
+          "s": 1,
+          "t": "I'm good, thanks!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "Looks like everyone's here. Before we begin, why don't we finish where we left off yesterday? There was an important decision to be made, yes? I'll pour everyone a cup of tea."
+        },
+        {
+          "s": 2,
+          "t": "I—Is that really the most important part, though, Clorinde? Paimon's more concerned about our current surroundings..."
+        },
+        {
+          "s": 2,
+          "t": "Heavy walls, cold railings, dim lights... This is obviously supposed to be a prison!"
+        },
+        {
+          "s": 0,
+          "t": "I admire the work put into the set. Still, it's obvious the script writer has never paid a visit to the Fortress of Meropide."
+        },
+        {
+          "s": 4,
+          "t": "So this set... is going to be a part of the script?"
+        },
+        {
+          "s": 0,
+          "t": "Unfortunately, that is something I can neither confirm nor deny."
+        },
+        {
+          "s": 2,
+          "t": "Um, anyone think Clorinde's smile is starting to look kinda scary...?"
+        },
+        {
+          "s": 5,
+          "t": "Well, whatever happens, we'll just have to push on. But first, we should really figure out what to do with this treasure."
+        },
+        {
+          "s": 5,
+          "t": "If we're worried about arousing suspicion because of our identity... Why don't we give ourselves a different name, just like Clorinde's Master did?"
+        },
+        {
+          "s": 4,
+          "t": "Yeah, it might be better to keep a low profile. As long as we're helping people, it doesn't matter who we are or what we're called."
+        },
+        {
+          "s": 2,
+          "t": "Um..."
+        },
+        {
+          "s": 0,
+          "t": "Staring at me won't get you anywhere. Or, did you want some more tea?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, um... Paimon's good! Thanks!"
+        },
+        {
+          "s": 2,
+          "t": "Why aren't you saying anything, Navia? Wait... What's that next to you?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, this is the short sword Clorinde mentioned last night. I found it!"
+        },
+        {
+          "s": 0,
+          "t": "Huh, I'm surprised you managed to track it down after all this time."
+        },
+        {
+          "s": 1,
+          "t": "Well, I made sure to take good care of it! Considering the... circumstances in which you gave it to me, of course I had to keep it safe."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, where were we? Oh, right, I was just thinking about all the potential ways for us to break out of prison! We could dig a tunnel, or try to bribe the guards...?"
+        },
+        {
+          "s": 4,
+          "t": "...Wait, we haven't been thrown into prison yet, have we?"
+        },
+        {
+          "s": 1,
+          "t": "Well, it's only a matter of time! It pays to be prepared, just like how you should always have an umbrella on hand, even when it's sunny."
+        },
+        {
+          "s": 2,
+          "t": "Alright! Paimon's made up her mind. Let's just give the treasure away!"
+        },
+        {
+          "s": 2,
+          "t": "Paimon may have wanted to keep it, but if that's going to land us in prison somehow, Paimon will be too upset to enjoy her snacks."
+        },
+        {
+          "sit": "Turns out Paimon cares more about snacks than treasure."
+        },
+        {
+          "sit": "Paimon's developing as a character!"
+        },
+        {
+          "s": 0,
+          "t": "So, you've reached an agreement? Alright then, we can continue with the story."
+        },
+        {
+          "s": 2,
+          "t": "Oh, and we'll collect all the scattered pieces of treasure on the ground as well!"
+        },
+        {
+          "s": 0,
+          "t": "Alright."
+        },
+        {
+          "s": 0,
+          "t": "You collect the treasure and make your way back to the capital with your bag of loot in hand."
+        },
+        {
+          "s": 3,
+          "t": "Paimon's developing as a character!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "The city is still shrouded in a gloomy, oppressive atmosphere, but your spirits are surprisingly high."
+        },
+        {
+          "s": 0,
+          "t": "In places where sunlight struggles to reach, you generously share your wealth with the children, the elderly, and the poor in urgent need of help."
+        },
+        {
+          "s": 11,
+          "t": "Thank you, kind soul..."
+        },
+        {
+          "s": 0,
+          "t": "The elderly woman's look of gratitude follows you as you walk away, her eyes never leaving your back until you move entirely out of sight. However, there's still quite a bit of Mora remaining. It appears you haven't made much progress."
+        },
+        {
+          "s": 4,
+          "t": "(She's probably trying to tell us to speed this up. We need to hurry up so we can address the sorcerer problem...)"
+        },
+        {
+          "s": 5,
+          "t": "Should we go find that man again at the square? He seemed like a pretty responsible guy. I'm sure he knows the people here far better than us."
+        },
+        {
+          "s": 2,
+          "t": "Oh, good idea!"
+        },
+        {
+          "s": 0,
+          "t": "Just as you start to make way to the square, intent on finding the man again, there's a voice..."
+        },
+        {
+          "s": 12,
+          "t": "Please wait, distinguished guests."
+        },
+        {
+          "s": 0,
+          "t": "Several strange guards suddenly call out to you. They run forward to meet you and proceed to politely pay their respects."
+        },
+        {
+          "s": 1,
+          "t": "Greetings, gentlemen! Are we being invited for afternoon tea?"
+        },
+        {
+          "s": 12,
+          "t": "Surely, you jest, my lady. That would not be our place. It is His Excellency the king, who requests to meet with you. Please come with us."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 5,
+          "t": "Hmm... Do you think this could be a trap?"
+        },
+        {
+          "s": 4,
+          "t": "Well, we have to investigate the court at some point, right? Meeting the king himself would be a fantastic opportunity to do that."
+        },
+        {
+          "s": 1,
+          "t": "I say we go for it! If something happens, we'll just turn the whole place upside down!"
+        },
+        {
+          "s": 2,
+          "t": "Uh, that sounds a little intense..."
+        },
+        {
+          "s": 0,
+          "t": "After a quick discussion, you nod to the guards and agree to follow. They lead you all the way to the audience hall of the palace."
+        },
+        {
+          "s": 0,
+          "t": "Gilded tables line both sides of the hall. The space itself is adorned with all manner of expensive antiques, glass shelves, and silver candlesticks. The items appear quite ordinary in size and dimension, yet their presence somehow makes the emptiness of the hall feel even more surreal and ominous."
+        },
+        {
+          "s": 2,
+          "t": "Wow... It's so luxurious!"
+        },
+        {
+          "s": 0,
+          "t": "The elderly king, clad in a magnificent robe sits upon the deep crimson throne before you."
+        },
+        {
+          "s": 0,
+          "t": "He wears above his head a majestic crown, with a gemstone the size of a bird's egg set right at the very front. As you observe it, you see a complex pattern of light reflect off its surface."
+        },
+        {
+          "s": 13,
+          "t": "They're here, your majesty."
+        },
+        {
+          "s": 0,
+          "t": "A man dressed in dark clothes, likely a minister, shields his mouth with his hands and bends down to whisper a few words to the king."
+        },
+        {
+          "s": 0,
+          "t": "After a moment, he lowers his hands and stands back up. His gaze shifts to fixate on your group, but he does not move from his place at the king's side."
+        },
+        {
+          "s": 4,
+          "t": "(The king does not appear entirely aware of his surroundings. The man by his side, though... We should keep a close eye on him.)"
+        },
+        {
+          "s": 0,
+          "t": "The king remains still, and says nothing. The Minister is the one who speaks."
+        },
+        {
+          "s": 13,
+          "t": "Esteemed guests, allow me to thank you for coming to our faraway kingdom. Unfortunately, His majesty the king finds himself quite exhausted from work, so please allow me, his prime minister, to welcome you in his stead."
+        },
+        {
+          "s": 13,
+          "t": "I've heard tell that your group, the Marechaussee Hunters, used your exceptional ability with the sword to repel the monsters near the capital. Such a great deed deserves to be rewarded."
+        },
+        {
+          "s": 13,
+          "t": "However, seeing that I was not fortunate enough to observe such a feat with my own eyes, you'll forgive me for seeking to verify the truth by speaking to you myself..."
+        },
+        {
+          "s": 2,
+          "t": "Well, we've got nothing to hide! You brought us here to talk, right? So, we'll just explain what happened."
+        },
+        {
+          "s": 2,
+          "t": "...The golems' blades were so powerful, they could cut down trees in a single swipe! It took a lot of effort to defeat them, even for trained swordsmen like us!"
+        },
+        {
+          "s": 2,
+          "t": "Well, that was enough details, right? Believe us, now?"
+        },
+        {
+          "s": 13,
+          "t": "Hmm... Your account does indeed match those of the survivors. Since you were the ones who defeated the monsters, that must mean... You are also in possession of the treasure they stole?"
+        },
+        {
+          "s": 2,
+          "t": "Well, we did take the treasure, but..."
+        },
+        {
+          "s": 4,
+          "t": "(How did he know about the treasure?)"
+        },
+        {
+          "s": 13,
+          "t": "Ah, then I must ask that you return it at once. It belongs to the kingdom."
+        },
+        {
+          "s": 5,
+          "t": "Wait, but didn't you just say that our great deed deserved a reward? Shouldn't the treasure be considered a part of that?"
+        },
+        {
+          "s": 13,
+          "t": "Hehe... Yes, yes. That was indeed what I said, but you seem to have forgotten a very important distinction."
+        },
+        {
+          "s": 13,
+          "t": "Only that which is freely given by the king can be considered a reward. Taking the rightful wealth of a kingdom without said permission, on the other hand... is a crime."
+        },
+        {
+          "s": 4,
+          "t": "But that's completely unreasonable!"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, that makes no sense! If it weren't for us, the treasure would still be buried underground somewhere!"
+        },
+        {
+          "s": 13,
+          "t": "Maybe so, yet the fact remains... You tried to dispose of the treasure without reporting it to the court and without receiving permission, yes?"
+        },
+        {
+          "s": 2,
+          "t": "Um..."
+        },
+        {
+          "s": 13,
+          "t": "What, no answer? Surely you're not insinuating that you, a group of legendary Marechaussee Hunters, sought to take the treasure for yourselves?"
+        },
+        {
+          "s": 2,
+          "t": "Argh, well, what about the king? Is he just going to let this guy talk for him for the whole time?"
+        },
+        {
+          "s": 0,
+          "t": "Clad in his magnificent robe, the king remains seated with his hands resting on either side of the throne, his posture rigid and unmoving. He stares forward with an empty look in his eyes, completely unmoved by the events before him."
+        },
+        {
+          "s": 4,
+          "t": "(From the look of things... could the Prime Minister be the evil sorcerer? Or... could both the king and the Prime Minister have fallen under the evil sorcerer's control?)"
+        },
+        {
+          "s": 1,
+          "t": "I would like to observe the number of guards stationed in the hall."
+        },
+        {
+          "s": 0,
+          "t": "The guards in the palace appear fully armed, their expressions solemn. Sensing the tense atmosphere in the room, they stand at the ready, each with a hand placed upon the hilt of their sword, as if prepared to draw their weapons and surround you at a moment's notice."
+        },
+        {
+          "s": 1,
+          "t": "There goes my plan to turn the whole place upside down, I guess."
+        },
+        {
+          "s": 13,
+          "t": "It appears we've been visited by nothing more than a group of ill-intentioned imposters... What a pity. Guards, take them away, and throw them in the dungeons."
+        },
+        {
+          "s": 13,
+          "t": "Before I decide your fate, however, I must first determine whether you have any accomplices outside the court..."
+        },
+        {
+          "s": 2,
+          "t": "Can't we try to slip away? Or maybe start some kind of riot?"
+        },
+        {
+          "s": 4,
+          "t": "But if we try to fight the guards right now..."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, at least we've figured out who's behind all this. Let's just play it by ear. If you're scared, Paimon, just hold my hand."
+        },
+        {
+          "s": 3,
+          "t": "You can have my hand, too."
+        },
+        {
+          "s": 2,
+          "t": "Aww, thanks you guys..."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "You allow yourself to be led away by guards surrounding you on both sides."
+        },
+        {
+          "s": 0,
+          "t": "It's only when you begin to feel drops of water falling from the dungeon ceiling, and smell the stench of death and decay all around you, that you finally realize you've stepped into a completely different world."
+        },
+        {
+          "s": 12,
+          "t": "Stay here, and don't try anything funny."
+        },
+        {
+          "s": 0,
+          "t": "The guards lock the cell door and leave without looking back."
+        },
+        {
+          "s": 5,
+          "t": "Wait, sir!"
+        },
+        {
+          "s": 0,
+          "t": "Your voice echoes through the dark hall, but the only response you receive is the sound of water dripping from the ceiling."
+        },
+        {
+          "s": 2,
+          "t": "Noooo... What should we do now..."
+        },
+        {
+          "s": 1,
+          "t": "Carve out a new path of fate with our own two hands, of course! I draw my weapon!"
+        },
+        {
+          "s": 0,
+          "t": "You reach toward your waist, but find nothing there. You now recall that your weapons were confiscated before the guards locked you in the cell... the bag of treasure along with them."
+        },
+        {
+          "s": 1,
+          "t": "What about that knife I hid in my boot?"
+        },
+        {
+          "s": 0,
+          "t": "...When did you hide it in there?"
+        },
+        {
+          "s": 1,
+          "t": "When I was thinking about digging a tunnel!"
+        },
+        {
+          "s": 0,
+          "t": "Rejected. You failed to inform the GM of this course of action. Moreover, the guards would have conducted a thorough search before throwing you in prison."
+        },
+        {
+          "s": 5,
+          "t": "And the keys to the cell aren't anywhere to be seen?"
+        },
+        {
+          "s": 0,
+          "t": "Correct. You don't even feel a lock hole on the cell door."
+        },
+        {
+          "s": 4,
+          "t": "Well, there goes all our plans..."
+        },
+        {
+          "s": 0,
+          "t": "Indeed."
+        },
+        {
+          "s": 2,
+          "t": "Huh!? Why are you the one saying \"indeed\"?"
+        },
+        {
+          "s": 0,
+          "t": "Because that statement holds true for me as well. This is where the script ends."
+        },
+        {
+          "s": 2,
+          "t": "What!? But that's a terrible ending!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Generally speaking, this should be the point where the script writer gives the players some kind of hint, or gives the GM some kind of code for how to move forward."
+        },
+        {
+          "s": 1,
+          "t": "I mean, maybe they just really wanted us to be immersed in the feeling of being in prison? Like, they'll only show us the way out once we've grown truly and utterly desperate?"
+        },
+        {
+          "s": 0,
+          "t": "That is a possibility."
+        },
+        {
+          "s": 2,
+          "t": "If only there were desserts and tea in real prison... Oh, wait, guess that's kind of how the Fortress of Meropide works if you're lucky."
+        },
+        {
+          "s": 4,
+          "t": "Oh, before I forget... Navia, the short sword you had with you earlier..."
+        },
+        {
+          "s": 4,
+          "t": "I took a closer look, and the craftsmanship doesn't appear to resemble anything from this era. If I remember correctly, that style was last in vogue several hundred years ago."
+        },
+        {
+          "s": 5,
+          "t": "Wait, Clorinde said that sword used to belong to her master, right? Does that mean... her master has been alive that long?"
+        },
+        {
+          "s": 0,
+          "t": "I doubt it. The way she went about things often made her seem childish more than anything. I'd say the sword was most likely an heirloom passed down over time."
+        },
+        {
+          "s": 1,
+          "t": "Hang on, a precious heirloom passed down to you by your master, and you gave it to me just like that? You weren't worried I might lose it?"
+        },
+        {
+          "s": 0,
+          "t": "Master left many things to me when she disappeared. There was the sword, an old key, and... a good amount of junk she probably just didn't want to take with her."
+        },
+        {
+          "s": 0,
+          "t": "I gave you the sword back then... because I didn't want our friendship to end."
+        },
+        {
+          "s": 4,
+          "t": "Wait, when did this happen exactly?"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "...After the duel between Mr. Callas and myself."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Before that, Clorinde would have meals with us and even stay over at the Spina some days. She was on great terms with Papa as well."
+        },
+        {
+          "s": 1,
+          "t": "After the duel, though... There was a period of time where we simply didn't know how to face each other. She entrusted this sword to me, and never came back."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "We were both sad, and conflicted, and totally overthinking everything as a result, haha."
+        },
+        {
+          "s": 1,
+          "t": "Whenever I looked at this sword, I couldn't help but wonder... If Ms. Petronilla had never introduced us to each other at that picnic, maybe part of the sadness I was feeling could have been avoided."
+        },
+        {
+          "s": 1,
+          "t": "...Back then, it felt like I hadn't just lost a father, but a close friend as well."
+        },
+        {
+          "s": 5,
+          "t": "No one can change the past. The most important thing is that you two found your way back to each other and can enjoy things like this together."
+        },
+        {
+          "s": 1,
+          "t": "...Yep, you're right!"
+        },
+        {
+          "s": 4,
+          "t": "I'm sorry, you two. I didn't mean to bring up any sad memories..."
+        },
+        {
+          "s": 1,
+          "t": "Think nothing of it. No one here is at fault."
+        },
+        {
+          "s": 6,
+          "t": "*plop*"
+        },
+        {
+          "s": 0,
+          "t": "...Hm?"
+        },
+        {
+          "s": 0,
+          "t": "Ah... Looks like the next part of our script is here."
+        },
+        {
+          "s": 4,
+          "t": "(Phew... Perfect timing. The situation was really starting to get desperate... and not just because of the prison thing...)"
+        },
+        {
+          "s": 2,
+          "t": "From Clorinde's face, Paimon really can't tell if it's good news or bad news..."
+        },
+        {
+          "sit": "It speaks to her professionalism as a senior GM."
+        },
+        {
+          "sit": "Maintaining a poker face takes true skill."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Water continues to drip from the ceiling. In this lightless dungeon, you lack a reliable way to tell how much time has passed."
+        },
+        {
+          "s": 0,
+          "t": "Eventually, you get used to the unpleasant odor of straw, mold, and rust, and find yourselves alternating between fits of drowsiness and despair..."
+        },
+        {
+          "s": 0,
+          "t": "Suddenly, you hear footsteps outside the door."
+        },
+        {
+          "s": 5,
+          "t": "Heads up, everyone. Someone's coming."
+        },
+        {
+          "s": 6,
+          "t": "Gather close, everyone, and keep your voice down."
+        },
+        {
+          "s": 3,
+          "t": "Maintaining a poker face takes true skill."
+        },
+        {
+          "section": "Florian"
+        },
+        {
+          "s": 4,
+          "t": "Who are you?"
+        },
+        {
+          "s": 6,
+          "t": "I work as a guard in these dungeons, but my true identity is the same as your own — I'm also a Marechaussee Hunter."
+        },
+        {
+          "s": 2,
+          "t": "Eh...!"
+        },
+        {
+          "s": 6,
+          "t": "Shh! I've already sent away the other guards, but if we make too much noise..."
+        },
+        {
+          "s": 5,
+          "t": "I understand. But, how can we be sure we can trust you?"
+        },
+        {
+          "s": 6,
+          "t": "The king has issued a formal decree. In light of the irrefutable proof of your crime, you're to be executed before tomorrow's sunrise. If you want to escape, it has to be now."
+        },
+        {
+          "s": 4,
+          "t": "Executed...? We barely did anything!"
+        },
+        {
+          "s": 5,
+          "t": "Monsters appearing at the same location as the treasure... Could this entire thing have been a trap?"
+        },
+        {
+          "s": 6,
+          "t": "There will be time for speculation once we're out of here... As for my identity, I have no way to prove that to you just yet."
+        },
+        {
+          "s": 6,
+          "t": "Infiltrating the capital was difficult, and finding a chance to speak with you has taken a lot out of me... I could go on, but I think we can all agree that now is not the time for details."
+        },
+        {
+          "s": 3,
+          "t": "(Well, it doesn't look like we have any other choice.)"
+        },
+        {
+          "s": 1,
+          "t": "Have you seen our weapons anywhere, sir?"
+        },
+        {
+          "s": 6,
+          "t": "Don't worry, I brought them with me. They're just behind the door. Still, these weapons alone won't be enough to defeat the true enemy behind the scenes."
+        },
+        {
+          "s": 6,
+          "t": "His faction is too powerful. The guards are all under his control, and he's even stationed a number of golems in various rooms throughout the palace."
+        },
+        {
+          "s": 6,
+          "t": "To defeat him, you must find a secret vault. It is said that, within that vault, the Marechaussee Hunters of the past left behind a treasure with the power to defeat the sorcerer."
+        },
+        {
+          "s": 5,
+          "t": "You're not coming with us?"
+        },
+        {
+          "s": 6,
+          "t": "No, I'll remain in the dungeons to deal with the guards. I'll try my best to distract them so they don't go after you."
+        },
+        {
+          "s": 6,
+          "t": "As long as my identity is not revealed, I'll be able to aid you when the final battle comes."
+        },
+        {
+          "s": 4,
+          "t": "In that case, please stay safe."
+        },
+        {
+          "s": 6,
+          "t": "Thank you for your concern. I will do my utmost."
+        },
+        {
+          "s": 6,
+          "t": "As for the location of the vault... Here. This map should lead you there."
+        },
+        {
+          "s": 1,
+          "t": "Got it."
+        },
+        {
+          "s": 6,
+          "t": "Alright, once I open the door, remember to stick close and refrain from making any noise. I'll lead you out of here as quickly as possible."
+        },
+        {
+          "s": 6,
+          "t": "You now have the chance to restore the honor and legacy of the Marechaussee Hunters. So, please, get out there and reclaim what's ours!"
+        },
+        {
+          "s": 6,
+          "t": "And... Be sure to exercise caution."
+        },
+        {
+          "s": 0,
+          "t": "With the help of the guard, you successfully escape the dungeons. Your sense of despair and anxiety both seem to fade as you continue your quest."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 1,
+          "t": "This should be the place marked on the map."
+        },
+        {
+          "s": 5,
+          "t": "This bit of rock certainly looks suspicious!"
+        },
+        {
+          "s": 1,
+          "t": "Well, I'd say an investigation's in order then! Plus, if all else fails, we can just blow it up!"
+        },
+        {
+          "sit": "(Kaboom—)"
+        },
+        {
+          "s": 2,
+          "t": "Wow, you really meant that..."
+        },
+        {
+          "s": 0,
+          "t": "Before you lies a serene stretch of open water, its surface shimmering a brilliant shade of sapphire blue."
+        },
+        {
+          "s": 2,
+          "t": "Well, guess this means it's time for a swim!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "What's the matter?"
+        },
+        {
+          "s": 0,
+          "t": "...It's nothing."
+        },
+        {
+          "s": 0,
+          "t": "As you step into the cave, you find yourself in an eerily quiet space. Before you lies a narrow passageway that appears to trail off endlessly into the distance."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 2,
+          "t": "Wow, this must be where the treasure is hidden!"
+        },
+        {
+          "s": 4,
+          "t": "But, this door is blocking our way in... Huh, it almost looks like it's been here for quite some time. I've got to hand it to the Tabletop Troupe. They really went all-out with the props..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm...?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? What have we got down here... A kind of mechanism connected to the door? It looks like we might have to arrange it into a certain pattern..."
+        },
+        {
+          "s": 0,
+          "t": "(A pattern on a stone door... That's something Master mentioned before...)"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Something wrong, Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "...After a long, difficult journey, you finally arrive at the location indicated by your map. It appears to be an ancient site of some sort, where treasure likely awaits."
+        },
+        {
+          "s": 0,
+          "t": "Your surroundings are exceedingly quiet and serene, as if the secret that slumbers here has never once been disturbed. If you listen closely, you can almost convince yourself you can hear the sound of its calm, gentle breathing."
+        },
+        {
+          "s": 2,
+          "t": "Aww... That description makes Paimon feel kinda bad for disturbing this place."
+        },
+        {
+          "s": 5,
+          "t": "We're doing this for the sake of the people, to free them from the evil sorcerer. I say it's time for this treasure to once again see the light of day."
+        },
+        {
+          "s": 1,
+          "t": "Lyney's right. We need to keep going. The future of the kingdom depends on it."
+        },
+        {
+          "s": 1,
+          "t": "The next part of the story requires us to solve the puzzle, right? Let's start exploring the area."
+        },
+        {
+          "s": 0,
+          "t": "...Yes. That should be fine."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "(Something feels off about all this. Guess I'll just have to improvise.)"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 4,
+          "t": "It worked!"
+        },
+        {
+          "s": 5,
+          "t": "Something just appeared... Some kind of new mechanism, maybe?"
+        },
+        {
+          "s": 0,
+          "t": "By solving the puzzles, you prove yourselves worthy of inheriting the secrets of the past."
+        },
+        {
+          "s": 0,
+          "t": "At the end of each puzzle, you're rewarded with..."
+        },
+        {
+          "s": 1,
+          "t": "With..."
+        },
+        {
+          "s": 0,
+          "t": "A key..."
+        },
+        {
+          "s": 4,
+          "t": "Oh, must be the key to the big door..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "(This is... one of the Marechaussee Hunter keys that are passed down from generation to generation... It looks just like the one Master passed down to me.)"
+        },
+        {
+          "s": 0,
+          "t": "(It is said that four keys in total are required to form the final, complete key. And it seems like... we just collected three of them. That must mean...)"
+        },
+        {
+          "s": 0,
+          "t": "...!"
+        },
+        {
+          "s": 1,
+          "t": "Huh? What's wrong?"
+        },
+        {
+          "s": 0,
+          "t": "...You hear a few strange noises. Suddenly, all the torches in the ruin go out at once."
+        },
+        {
+          "s": 4,
+          "t": "Huh? Wh—What's going on? Did we fall into another trap?"
+        },
+        {
+          "s": 0,
+          "t": "For the sake of immersion, please close your eyes, everyone. Without the torches, the space is now completely dark, and you cannot see anything."
+        },
+        {
+          "s": 2,
+          "t": "But, Paimon can still see a little bit over here..."
+        },
+        {
+          "sit": "Paimon...!"
+        },
+        {
+          "sit": "Don't break other people's immersion...!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, right, sorry..."
+        },
+        {
+          "s": 0,
+          "t": "Suddenly... you hear the sound of footsteps pierce through the darkness."
+        },
+        {
+          "s": 4,
+          "t": "Huh!? There's someone else here? Ugh... This is so unsettling! I can't see anything!"
+        },
+        {
+          "s": 6,
+          "t": "...Tch. I've been discovered, then?"
+        },
+        {
+          "s": 5,
+          "t": "Wait! That voice, it's..."
+        },
+        {
+          "s": 0,
+          "t": "You recognize the voice as belonging to the \"guard\" who led you to this place. It appears he now covets the treasure for himself, and has come to stake his claim..."
+        },
+        {
+          "s": 4,
+          "t": "(Oh, so this is just part of the script... Phew... Then I can probably relax.)"
+        },
+        {
+          "s": 4,
+          "t": "Well, if we can't see anything, that means we can't fight to the fullest of our abilities. Should we... retreat for now?"
+        },
+        {
+          "s": 0,
+          "t": "(Judging by the way he's holding his sword... He must be a real Marechaussee Hunter. But, this isn't part of the script.)"
+        },
+        {
+          "s": 1,
+          "t": "Retreat? Ha! That's not the Hunter way. If it's dark for us, then it's dark for him! We choose to fight!"
+        },
+        {
+          "s": 0,
+          "t": "Your choice is noted. Please keep your eyes closed until I tell you the torches have been re-lit. This battle will be in the dark."
+        },
+        {
+          "s": 1,
+          "t": "You got it!"
+        },
+        {
+          "s": 0,
+          "t": "Well then. Let us begin."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Don't break other people's immersion...!"
+        },
+        {
+          "section": "Florian"
+        },
+        {
+          "s": 5,
+          "t": "Is it over? Can we open our eyes now?"
+        },
+        {
+          "s": 0,
+          "t": "The enemy is strong and relentless, but the battle is nearing its end. The torches have not been re-lit..."
+        },
+        {
+          "s": 1,
+          "t": "What about now?"
+        },
+        {
+          "s": 0,
+          "t": "Final strike!"
+        },
+        {
+          "s": 6,
+          "t": "Argh!"
+        },
+        {
+          "s": 4,
+          "t": "W—Well? Did we get him?"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "(Why isn't she answering...?)"
+        },
+        {
+          "s": 4,
+          "t": "Uh... Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "Warm fire flickers across the walls once again. Your vision is now clear."
+        },
+        {
+          "s": 0,
+          "t": "In an impressive display of courage, the four of you successfully defeat the uninvited guest."
+        },
+        {
+          "s": 0,
+          "t": "(That look in his eyes... It's like he became an entirely different person as soon as I defeated him.)"
+        },
+        {
+          "s": 4,
+          "t": "Huh? Mr. Florian...?"
+        },
+        {
+          "s": 4,
+          "t": "(...Oh, wait! We're supposed to be roleplaying. I should stay in character.)"
+        },
+        {
+          "s": 4,
+          "t": "Ah, ahem...! Speak your name, guard. Why did you lead us here just to betray us?"
+        },
+        {
+          "s": 4,
+          "t": "...Is this treasure really more important to you than bringing peace to the kingdom?"
+        },
+        {
+          "s": 6,
+          "t": "Tch... What kingdom? What peace? Those were nothing but lies!"
+        },
+        {
+          "s": 6,
+          "t": "I, Florian, am a true Marechaussee Hunter, descended from Hunters of ages past."
+        },
+        {
+          "s": 4,
+          "t": "(So, he's also using his real name... Or wait, was that the name of his character from the very beginning...?)"
+        },
+        {
+          "s": 5,
+          "t": "Then, I'm even more confused. If you truly are a Marechaussee Hunter, shouldn't you want to help us, just like you said before? Shouldn't we fight together for the sake of the people?"
+        },
+        {
+          "s": 6,
+          "t": "What do you know? In this day and age... There's no glory to be had as a Marechaussee Hunter."
+        },
+        {
+          "s": 1,
+          "t": "What's that supposed to mean?"
+        },
+        {
+          "s": 6,
+          "t": "My skills were passed down to me by my father. We lived a life of obscurity in the remote wilderness. Still, he devoted everything he had to being a Marechaussee Hunter."
+        },
+        {
+          "s": 6,
+          "t": "And what did he get in return? A life of poverty and pain... and a world that forgot all about him. When he died, not a single person came to mourn his passing!"
+        },
+        {
+          "s": 6,
+          "t": "The Marechaussee Hunters were the ones who saved this ci{RUBY#[D]Fontaine}ty! We're heroes! We deserve more recognition and respect than this!"
+        },
+        {
+          "s": 4,
+          "t": "(Is he talking about how no one in the capital seems to remember the Hunters and their legacy? I didn't expect the script to contain this level of social criticism...)"
+        },
+        {
+          "s": 2,
+          "t": "So, that's why you want to take the treasure for yourself? You feel like you're owed fame and wealth?"
+        },
+        {
+          "s": 5,
+          "t": "If you already knew where the treasure was located, why didn't you just come down here and take it?"
+        },
+        {
+          "s": 6,
+          "t": "Because... I still needed the final key..."
+        },
+        {
+          "s": 0,
+          "t": "Ahem! Only a true Marechaussee Hunter is capable of passing through this final door."
+        },
+        {
+          "s": 0,
+          "t": "As someone who sought to hurt others for his own gain, Florian lost that right long ago."
+        },
+        {
+          "s": 1,
+          "t": "Okay, but what is this treasure, anyway? We've got all the keys, right? So, can we just go in and take a look?"
+        },
+        {
+          "s": 0,
+          "t": "You're sure you want to go in?"
+        },
+        {
+          "s": 2,
+          "t": "We've been talking about it for so long... Of course we want to see what's inside!"
+        },
+        {
+          "s": 4,
+          "t": "And we've already defeated Florian, right? So, he won't try to take it from us anymore."
+        },
+        {
+          "s": 6,
+          "t": "Tch... Pesky brats..."
+        },
+        {
+          "s": 0,
+          "t": "(Watch yourself...)"
+        },
+        {
+          "s": 5,
+          "t": "Then, let's open the door together."
+        },
+        {
+          "s": 0,
+          "t": "Alright. Your choice of action is confirmed."
+        },
+        {
+          "sit": "Clorinde takes out the keys from earlier and walks up to the heavy door."
+        },
+        {
+          "sit": "Without anyone noticing, she takes out her own key and joins it with the others to form the final, required shape."
+        },
+        {
+          "s": 0,
+          "t": "Before you, the door to the treasure, sealed and undisturbed for more than a hundred years, finally swings open."
+        },
+        {
+          "s": 0,
+          "t": "You hear the shrill wail of the door hinge as it rotates for the first time after years of disuse, almost like a sleeping giant letting out an extended yawn. You get the impression that the secrets buried behind this door might be just as heavy as the sound you just heard."
+        },
+        {
+          "s": 2,
+          "t": "Ah! It's open! C'mon, let's go in. Paimon wants to see what's inside!"
+        },
+        {
+          "s": 4,
+          "t": "Ooh, me too!"
+        },
+        {
+          "s": 1,
+          "t": "Uncovering hidden treasure is the most exciting part of adventuring! What do we have here... Huh?"
+        },
+        {
+          "s": 5,
+          "t": "A stone tablet... And some shabby weapons?"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "You... You call this a treasure vault? Looks more like an abandoned warehouse!"
+        },
+        {
+          "s": 5,
+          "t": "Maybe the Troupe ran out of budget at the end?"
+        },
+        {
+          "s": 2,
+          "t": "They provided a super immersive experience at the beginning, only to drop the ball at the most important part... They could have at least filled this place with cardboard Mora or something!"
+        },
+        {
+          "s": 1,
+          "t": "...Wait, I get it now! Paimon, this is the real Marechaussee Hunter \"treasure\"!"
+        },
+        {
+          "s": 2,
+          "t": "Huh?"
+        },
+        {
+          "s": 6,
+          "t": "Th—This is it? The Marechaussee Hunter treasure is just a stone slab and some broken swords? I can't believe it... I refuse to believe it!!"
+        },
+        {
+          "s": 6,
+          "t": "Argh! Argh... Ahhhh!"
+        },
+        {
+          "s": 2,
+          "t": "Woah! Are you okay?"
+        },
+        {
+          "s": 0,
+          "t": "...!"
+        },
+        {
+          "s": 0,
+          "t": "The Marechaussee Hunter before you appears to suffer a serious mental breakdown. He needs to leave the room for a moment to collect himself."
+        },
+        {
+          "s": 0,
+          "t": "One of you seems to understand the significance of the treasure already. If the rest of you wish to follow suit, you may remain here in the meantime and explore your surroundings."
+        },
+        {
+          "section": "Florian"
+        },
+        {
+          "s": 0,
+          "t": "...So, how are you doing? Feeling any better?"
+        },
+        {
+          "s": 6,
+          "t": "I... What just happened...?"
+        },
+        {
+          "s": 0,
+          "t": "Do you remember how you got here? Or what happened to your body just now?"
+        },
+        {
+          "s": 6,
+          "t": "I... I remember now... I brought you here... Because I wanted to... Ah! The explosives in the cave...!"
+        },
+        {
+          "s": 0,
+          "t": "You mean these?"
+        },
+        {
+          "s": 6,
+          "t": "...Huh? How did you..."
+        },
+        {
+          "s": 0,
+          "t": "I could tell something was off the moment I stepped into this cave, so I kept an eye out. I've already dismantled the whole thing."
+        },
+        {
+          "s": 6,
+          "t": "Hah, so the strongest Champion Duelist in all of Fontaine saved the day once again... Guess I shouldn't be surprised. It would seem your skills as a Marechaussee Hunter are as sharp as ever..."
+        },
+        {
+          "s": 0,
+          "t": "I deserve some answers, don't you think? Tell me why you wanted to lure me here."
+        },
+        {
+          "s": 0,
+          "t": "Everything you said earlier sounded like the truth. Luckily, your monologue was dramatic enough to convince my friends you were just roleplaying."
+        },
+        {
+          "s": 6,
+          "t": "I... I don't know... I just always felt like there was something in my heart that didn't belong to me... something agitated and angry... Tch, who knows, maybe it was my own anger all along... I could never really tell."
+        },
+        {
+          "s": 6,
+          "t": "The feelings about my father and the other Marechaussee Hunters are real. It just wasn't fair. I was angry... bitter that no one remembered them, or praised their accomplishments."
+        },
+        {
+          "s": 6,
+          "t": "I don't know when it started, but at some point, my anger came to completely consume me. At that point, I remembered the legend my father used to tell me, the one about the treasure..."
+        },
+        {
+          "s": 0,
+          "t": "But if the treasure was all you cared about, why plant all those explosives? Wouldn't they just destroy the treasure, and bury you along with it?"
+        },
+        {
+          "s": 6,
+          "t": "Ah... I can't remember. My head is a mess... It felt like... there was this voice telling me to \"eliminate the Hunters,\" but now, it's gone..."
+        },
+        {
+          "s": 0,
+          "t": "...From your description, I suspect you were dealing with a \"Devorator.\""
+        },
+        {
+          "s": 6,
+          "t": "...A \"Devorator\"?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, your Master... Ahem, your father, I mean, never talked about it? It was a kind of monster that was active several centuries ago."
+        },
+        {
+          "s": 6,
+          "t": "No, I've heard of it, I'm just not sure why you suddenly..."
+        },
+        {
+          "s": 6,
+          "t": "Wait, it can't be... The seal!"
+        },
+        {
+          "s": 0,
+          "t": "The seal?"
+        },
+        {
+          "s": 6,
+          "t": "My family... has served as Marechaussee Hunters for many generations. But the title and swordsmanship weren't the only things passed down over our line. There was a seal as well."
+        },
+        {
+          "s": 6,
+          "t": "My father instructed me to always watch over that seal and maintain it regularly. He said it had been passed down from a truly ancient age, and protecting it was our clan's most important duty."
+        },
+        {
+          "s": 6,
+          "t": "But, I neglected that duty after he died... I finally decided to come down and check on it one day, and that's where my memories become fuzzy..."
+        },
+        {
+          "s": 0,
+          "t": "The Devorator would be a formidable adversary for any mortal being, even ones as capable as the Hunters."
+        },
+        {
+          "s": 0,
+          "t": "If you lacked the power to completely destroy it, you could easily fall prey to its influence and corruption. In light of this, some Marechaussee Hunters chose to seal the Devorator away in the hopes that a permanent solution would come with the passage of time."
+        },
+        {
+          "s": 6,
+          "t": "I heard it has the power to amplify the obsessions and desires in people's hearts, to the point where they overtake you entirely... Hah, it would seem I'm not just lacking in skill with a blade, but in mental fortitude as well..."
+        },
+        {
+          "s": 0,
+          "t": "And yet, you were able to retrieve three of the four keys... If I remember correctly, each was entrusted to a respected and capable Hunter... How did you manage it?"
+        },
+        {
+          "s": 6,
+          "t": "...One of them belonged to my father. The second I stole from a different Hunter... And the third, *sigh*... was one that I snatched while the person was on the way home from the tavern. I nearly died in that alley..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "I know just how strong you are — it's as clear as day to everyone in Fontaine. I observed you from dusk to dawn, but could never find any opportunity to sneak up on you... I never even saw you drink a single glass of liquor..."
+        },
+        {
+          "s": 6,
+          "t": "The only way I could think to obtain that last key... was to lure you here using your hobby, and then... Ah, I get it now... That monster... It wanted to bury you here alongside the treasure..."
+        },
+        {
+          "s": 0,
+          "t": "...I won't comment on anything else, but the script was good."
+        },
+        {
+          "s": 6,
+          "t": "Hah... Well, I did pour my heart and soul into it..."
+        },
+        {
+          "s": 6,
+          "t": "The stories my father used to tell me... about the glory of the heroic Marechaussee Hunters... and how they came to be forgotten..."
+        },
+        {
+          "s": 0,
+          "t": "It's more than just a story."
+        },
+        {
+          "s": 6,
+          "t": "Huh?"
+        },
+        {
+          "s": 0,
+          "t": "You're proud to be a Hunter. You're still holding on to that part of yourself, no matter how small."
+        },
+        {
+          "s": 6,
+          "t": "Hah, I've done so many despicable things... I have nothing to be proud of..."
+        },
+        {
+          "s": 0,
+          "t": "Then explain the purpose of the \"evil sorcerer\" in your story."
+        },
+        {
+          "s": 6,
+          "t": "...!"
+        },
+        {
+          "s": 0,
+          "t": "Isn't he the true antagonist? The one who sought nothing but his own gain and used the people as pawns to attain it... In your heart of hearts, he was the one you truly wanted to defeat."
+        },
+        {
+          "s": 6,
+          "t": "B—But I've already tainted my sword. I no longer have any right to..."
+        },
+        {
+          "s": 0,
+          "t": "Wake up, Florian! Remember how you introduced yourself earlier."
+        },
+        {
+          "s": 0,
+          "t": "Do you really think the Hunters acted out of a desire for honor and glory, or to be loved and acknowledged by the people? What did your Father teach you about our order?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "You do not wield your sword for yourself, but to protect those you serve. There's nothing special about a blade. It's the intentions of the wielder that matter above all else."
+        },
+        {
+          "s": 0,
+          "t": "Do you still not understand? Even after seeing the \"treasure\" for yourself? The contents of that room... they represent the true legacy the Hunters left behind."
+        },
+        {
+          "s": 6,
+          "t": "...You're right. I... I am a Marechaussee Hunter. It's time for me to redeem — no, to finally serve the people I vowed to protect all along."
+        },
+        {
+          "s": 0,
+          "t": "I wouldn't be so quick to push aside the need for redemption."
+        },
+        {
+          "s": 6,
+          "t": "...I know. That's a charge I won't bother to defend myself against."
+        },
+        {
+          "s": 0,
+          "t": "Good. Then come with me, and help me see this script through to the end."
+        },
+        {
+          "s": 6,
+          "t": "Huh? See the script through to the end? But... But there's no more script left."
+        },
+        {
+          "s": 0,
+          "t": "Never finished it, huh?"
+        },
+        {
+          "s": 6,
+          "t": "No, I mean... I wrote the script with the sole purpose of luring you all here. There was no reason to write beyond this point..."
+        },
+        {
+          "s": 0,
+          "t": "Then we'll just have to keep writing it. The evil sorcerer still needs to be defeated."
+        },
+        {
+          "s": 6,
+          "t": "You mean... the Devorator? Uh... Are you saying I have to make up the rest of the script as we go along?"
+        },
+        {
+          "s": 0,
+          "t": "Is that really so hard? You've already written most of it. Surely you can write an ending where the Hunters win and justice prevails? I'll be there to help you, too."
+        },
+        {
+          "s": 6,
+          "t": "...You aren't afraid your party will fall into danger?"
+        },
+        {
+          "s": 0,
+          "t": "I know what my friends are capable of, and they're all quite skilled. Besides, I need their help."
+        },
+        {
+          "s": 6,
+          "t": "Then... are you going to tell them the truth about all this?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, I don't intend to spoil the fun. Sometimes, protecting dreams and fantasies is more important than exposing the truth, don't you think?"
+        },
+        {
+          "section": "Navia"
+        },
+        {
+          "s": 1,
+          "t": "The names on the tablet..."
+        },
+        {
+          "section": "Furina"
+        },
+        {
+          "s": 4,
+          "t": "The old and broken weapons..."
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 2,
+          "t": "What is the \"treasure\" supposed to be..."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 5,
+          "t": "\"Walter\"..."
+        },
+        {
+          "section": "Florian"
+        },
+        {
+          "s": 5,
+          "t": "Ah, they're back!"
+        },
+        {
+          "s": 2,
+          "t": "That took a while."
+        },
+        {
+          "s": 0,
+          "t": "...Ahem."
+        },
+        {
+          "s": 6,
+          "t": "Oh, uh..."
+        },
+        {
+          "s": 6,
+          "t": "Ahem! My fellow Marechaussee Hunters, please forgive me, for I have sinned..."
+        },
+        {
+          "s": 0,
+          "t": "(Tone it down...)"
+        },
+        {
+          "s": 6,
+          "t": "(S—Sorry...)"
+        },
+        {
+          "s": 6,
+          "t": "After crossing swords with you and witnessing your courage in battle, I have rediscovered my true self and regained my pride as a Marechaussee Hunter."
+        },
+        {
+          "s": 4,
+          "t": "(Oh! Do I smell a redemption arc?)"
+        },
+        {
+          "s": 6,
+          "t": "I confess... I was brainwashed by the evil sorcerer. He asked me to lure you here so he could bury you in this cave..."
+        },
+        {
+          "s": 2,
+          "t": "That little... Wait... You're saying all of that wasn't you, but the evil sorcerer?"
+        },
+        {
+          "s": 6,
+          "t": "That's right. He's adept at manipulating the hearts and minds of the people... I fell under his influence because I did not possess a strong enough sense of will."
+        },
+        {
+          "s": 2,
+          "t": "Hmph! And how are you going to prove that you're a changed man? We're not going to fall for the same trap twice!"
+        },
+        {
+          "s": 6,
+          "t": "Um..."
+        },
+        {
+          "s": 6,
+          "t": "To be perfectly honest, I only came to my senses after seeing the \"treasure.\" It reminded me of my father's past teachings."
+        },
+        {
+          "s": 6,
+          "t": "The \"treasure\" was actually..."
+        },
+        {
+          "s": 1,
+          "t": "The names of all the Marechaussee Hunters from ages past and their weapons?"
+        },
+        {
+          "s": 6,
+          "t": "Wait, you... already know?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! Don't underestimate a veteran roleplayer's exploration skills! Wait, I mean, Marechaussee Hunter Navia's exploration skills!"
+        },
+        {
+          "s": 5,
+          "t": "We just finished reading through the content of the stone tablet."
+        },
+        {
+          "s": 4,
+          "t": "That tablet recorded the lives of some fascinating people. For example, this Marechaussee Hunter called \"Este\"..."
+        },
+        {
+          "s": 4,
+          "t": "She inherited the responsibilities of the Golden Hunter and passed judgment on many people. But, in private, she had a very easygoing personality. Her favorite pastime was singing and dancing with her friends, and she was said to have a beautiful voice."
+        },
+        {
+          "s": 1,
+          "t": "So she was just like you!"
+        },
+        {
+          "s": 4,
+          "t": "Oh, you really think so...?"
+        },
+        {
+          "s": 5,
+          "t": "Well... when you put it that way, I suppose I also have a few things in common with this \"Walter.\""
+        },
+        {
+          "s": 5,
+          "t": "Working as an executioner, he supposedly used a countless number of tricks to confound his enemies in battle. If only I could've seen the feats of magic he pulled off back then..."
+        },
+        {
+          "s": 2,
+          "t": "Their lives were all so exciting! You could write so many cool books about their accomplishments. How could they have all been forgotten?"
+        },
+        {
+          "s": 6,
+          "t": "Because... they chose to be."
+        },
+        {
+          "s": 6,
+          "t": "To hunt monsters that only appear in the shadows, you must also operate in the dark. To be a Marechaussee Hunter is to willingly give up on wealth and fame."
+        },
+        {
+          "s": 1,
+          "t": "Then this stone tablet must have been left behind by their companions."
+        },
+        {
+          "s": 6,
+          "t": "That's right. Few Marechaussee Hunters ever revealed their identity to the public. They always protected the ci{RUBY#[D]Fontaine}ty from the shadows."
+        },
+        {
+          "s": 6,
+          "t": "The only time they spoke of their accomplishments would be at night, when they gathered with their fellow Hunters in front of the bonfire to share stories of the monsters slain by their hand."
+        },
+        {
+          "s": 4,
+          "t": "So... this tablet was created not so that the Hunters would be remembered by the people, but so that they would be remembered by each other."
+        },
+        {
+          "s": 2,
+          "t": "No wonder this place was so well-hidden..."
+        },
+        {
+          "s": 0,
+          "t": "You regard the stone tablet in solemn silence. The names of your comrades etched onto its surface serve as a reminder that you are never truly alone."
+        },
+        {
+          "s": 0,
+          "t": "The tablet proves that, although a Hunter walks a shrouded path, it is not a solitary one. There will always be those who walk beside you, a fact that remains as true today as in ages long past."
+        },
+        {
+          "s": 0,
+          "t": "Their legacies shall continue to be passed down from generation to generation, as everlasting as the stone onto which their names are carved."
+        },
+        {
+          "s": 6,
+          "t": "(Father... You once told me that I should seek out the \"treasure\" if I ever became lost. So this is what you wanted me to find...)"
+        },
+        {
+          "section": "Navia, Lyney, Furina"
+        },
+        {
+          "s": 3,
+          "t": "I've decided to trust you, Florian."
+        },
+        {
+          "s": 6,
+          "t": "Thank you, my friend... You are very kind."
+        },
+        {
+          "section": "Navia, Lyney, Furina"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to do an insight check on him."
+        },
+        {
+          "s": 0,
+          "t": "His eyes are sincere, and his words ring true. You can tell that every word he spoke just now came from the bottom of his heart."
+        },
+        {
+          "section": "Navia, Lyney, Furina"
+        },
+        {
+          "s": 6,
+          "t": "I implore you, everyone, please give me a chance to make up for all I've done. Allow me to fight alongside you, and defeat the evil sorc{RUBY#[D]Devorator}erer that threatens the peace and prosperity of all the people in this king{RUBY#[S]basement}dom."
+        },
+        {
+          "s": 1,
+          "t": "Well, I say we let you join!"
+        },
+        {
+          "s": 4,
+          "t": "Sounds good to me, too. Everyone makes mistakes. What matters is what you do to make up for them."
+        },
+        {
+          "s": 5,
+          "t": "I have no objections, but... Mr. Florian, do you even know how to defeat the evil sorcerer?"
+        },
+        {
+          "s": 6,
+          "t": "Hmm... When he took over my mind, I gained some insight into his thoughts. Every time I thought of the treasure... he reacted with a strong sense of fear."
+        },
+        {
+          "s": 2,
+          "t": "Huh? He's... afraid of the treasure? But there's nothing here except some broken weapons and the stone tablet..."
+        },
+        {
+          "s": 1,
+          "t": "What if... The secret's hidden inside these weapons?"
+        },
+        {
+          "s": 1,
+          "t": "GM, permission to \"investigate\"!"
+        },
+        {
+          "s": 0,
+          "t": "At first glance, the weapons appear absolutely ordinary, but as you observe them, you notice a faint energy emanating from within."
+        },
+        {
+          "s": 0,
+          "t": "These blades have slain countless monsters. Though it's been a long time since they were used in battle, their edges remain sharp, as if they're simply waiting for the next worthy Hunter to carry on their legacy."
+        },
+        {
+          "s": 5,
+          "t": "(So, basically, take these with us, right?)"
+        },
+        {
+          "s": 4,
+          "t": "I'll take this weapon... Since it used to belong to Este. Maybe it'll find comfort in being held by someone who appreciates the arts."
+        },
+        {
+          "s": 5,
+          "t": "Ah, good idea. I'll take Mr. Walter's bow, then. From one archer magician to another!"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Paimon's gonna pick a cool weapon, too!"
+        },
+        {
+          "s": 0,
+          "t": "As you grip your weapons, you can almost feel the will of past Hunters coursing through your being. It's a feeling of courage, determination... a silent vow passed down from generation to generation that says, eradicate the monsters no matter the cost."
+        },
+        {
+          "s": 5,
+          "t": "Mr. Florian, do you know where to find the evil sorcerer?"
+        },
+        {
+          "s": 6,
+          "t": "I was able to see his surroundings when our minds were connected. I believe he's currently hiding out at the chu{RUBY#[D]basement}rch in the king{RUBY#[S]my house}dom."
+        },
+        {
+          "s": 6,
+          "t": "We must be extremely careful. He's spent so long living among monsters that he has now taken the form of one. He will not be easily defeated."
+        },
+        {
+          "s": 2,
+          "t": "Then why don't we explore some more and try to find some higher-level gear? We don't want to just fight him and lose, right?"
+        },
+        {
+          "s": 6,
+          "t": "Oh, um..."
+        },
+        {
+          "s": 6,
+          "t": "No, we have to strike now! He was greatly weakened when I managed to break out of his control. If we let him rest, he might have time to escape."
+        },
+        {
+          "s": 5,
+          "t": "I agree with Mr. Florian. We've got to act while we have the advantage. Don't forget — the people of the capital are counting on us."
+        },
+        {
+          "s": 4,
+          "t": "Yeah, now that we've got a plan, there's no point in waiting. The longer this drags on, the worse it will be for everybody."
+        },
+        {
+          "s": 6,
+          "t": "Yes, yes! That's what's called..."
+        },
+        {
+          "sit": "Taking the initiative."
+        },
+        {
+          "sit": "Catching your enemy off-guard!"
+        },
+        {
+          "s": 6,
+          "t": "Yes... That's exactly right!"
+        },
+        {
+          "s": 2,
+          "t": "Alright, you've \"persuaded\" Paimon."
+        },
+        {
+          "s": 5,
+          "t": "Mr. Florian, please lead the way."
+        },
+        {
+          "s": 6,
+          "t": "Of course. Follow me!"
+        },
+        {
+          "s": 4,
+          "t": "(He had to set up so many scenes today, and now, he has to join in for this last part... I really don't envy his job.)"
+        },
+        {
+          "s": 0,
+          "t": "*laugh* Finally... you decide to slay the evil sorcerer and bring peace back to the kingdom once and for all."
+        },
+        {
+          "s": 0,
+          "t": "As you walk away, you feel the gaze of the stone tablet at your back, as if all the Hunters of the past are wishing you success in the battle ahead and awaiting your triumphant return."
+        },
+        {
+          "s": 3,
+          "t": "Catching your enemy off-guard!"
+        }
+      ],
+      "description": "There seems to be something unusual about today’s story…"
+    },
+    {
+      "title": "Vanquishing Phantoms",
+      "dialogue": [
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "Finally, you arrive at the chu{RUBY#[D]Basement}rch Florian described."
+        },
+        {
+          "s": 0,
+          "t": "As you approach, an ominous aura surrounds you. You get the sense that your enemy is close at hand."
+        },
+        {
+          "s": 4,
+          "t": "(How strange... This uneasy feeling seems so real. How did they manage that?)"
+        },
+        {
+          "s": 0,
+          "t": "Now... it is time for the final battle."
+        },
+        {
+          "s": 5,
+          "t": "Let's go."
+        },
+        {
+          "s": 0,
+          "t": "Florian, wait."
+        },
+        {
+          "s": 6,
+          "t": "What's wrong?"
+        },
+        {
+          "s": 0,
+          "t": "I think you should wait outside. You've already been corrupted by the Devorator once. It could easily re-enter your mind and take control of your body."
+        },
+        {
+          "s": 0,
+          "t": "I don't think it's a good idea for you to be this close. If it corrupts you again, it's possible you might take on a new form entirely."
+        },
+        {
+          "s": 6,
+          "t": "That's exactly why I have to go... why I should be at the very front."
+        },
+        {
+          "s": 0,
+          "t": "...! You mean..."
+        },
+        {
+          "s": 6,
+          "t": "Yes, I intend to lure it into my body."
+        },
+        {
+          "s": 0,
+          "t": "That's too risky. If things get out of hand, I might have to kill you. Do you understand how dangerous this is?"
+        },
+        {
+          "s": 6,
+          "t": "I understand. But if I do this, you'll have a clear and visible target."
+        },
+        {
+          "s": 6,
+          "t": "The Devorator will have a hard time passing up the chance to enter a body it knows how to control. You won't have to worry about any of your friends being taken over."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "You're not like me, Miss Clorinde. You're a just and powerful Marechaussee Hunter. This monster broke free due to my error. It's only right that I shoulder the responsibility for its destruction."
+        },
+        {
+          "s": 6,
+          "t": "This is... something that I have to do."
+        },
+        {
+          "s": 6,
+          "t": "Consider it a duel to restore my honor. My only request is that you give it your all."
+        },
+        {
+          "s": 0,
+          "t": "...I understand."
+        },
+        {
+          "s": 0,
+          "t": "Then, as a Champion Duelist, I hereby accept your request for a duel, and extend to you my most sincere regards."
+        },
+        {
+          "s": 6,
+          "t": "...Thank you."
+        },
+        {
+          "s": 0,
+          "t": "The battle is now upon us. Let the Devorator once again tremble under the blade of the Marechaussee Hunters."
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 0,
+          "t": "And so, the monsters were eradicated, and the sorcerer was defeated."
+        },
+        {
+          "s": 0,
+          "t": "Peace soon returned to the capital. Those in the court manipulated by the sorcerer also recognized the errors of their ways..."
+        },
+        {
+          "s": 0,
+          "t": "Some remembered the names of the heroes who saved their kingdom, but others simply continued their lives none the wiser."
+        },
+        {
+          "s": 0,
+          "t": "Such is the story of the Marechaussee Hunters. They pursue the phantoms in the darkness and exterminate all who pose a threat..."
+        },
+        {
+          "s": 0,
+          "t": "They will always protect the city and those within it, even should all memory of their accomplishments be forgotten by the very people they serve."
+        },
+        {
+          "s": 4,
+          "t": "Whew... I'm assuming we've finally reached the end of the script?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. You've reached one of the better endings."
+        },
+        {
+          "s": 4,
+          "t": "It's a pretty solid story overall. I thought it was just an ordinary adventure at first, but the further we got into it, the more impressed I became with the production and the plot."
+        },
+        {
+          "s": 4,
+          "t": "That final battle especially! All the effects were super realistic."
+        },
+        {
+          "s": 1,
+          "t": "Right, yeah, hehe... totally."
+        },
+        {
+          "s": 5,
+          "t": "Ah... That's a really good point. I never expected the weapons we picked up from that vault would have that kind of effect."
+        },
+        {
+          "s": 4,
+          "t": "Yeah, mine nearly scared the daylights out of me when it started glowing! I took a good look at it after we got out, but I don't think it ever lit up again."
+        },
+        {
+          "s": 4,
+          "t": "Oh, we should probably give these props back, right? I'll just leave mine here."
+        },
+        {
+          "s": 0,
+          "t": "Did you have a good time?"
+        },
+        {
+          "s": 4,
+          "t": "Of course. Let me know if another script like this comes around!"
+        },
+        {
+          "s": 0,
+          "t": "Sure, no problem."
+        },
+        {
+          "s": 4,
+          "t": "Then, I'll head back for now. I think I need some time to fully digest everything that just happened."
+        },
+        {
+          "s": 4,
+          "t": "Once Mr. Florian is awake, please pass on my regards to him. He must be extremely exhausted, to have passed out cold like that."
+        },
+        {
+          "s": 0,
+          "t": "You're right. He's had a lot to deal with."
+        },
+        {
+          "s": 4,
+          "t": "Well, see you all some other time! Toodle-oo!"
+        },
+        {
+          "s": 1,
+          "t": "...Okay, so, can I ask now?"
+        },
+        {
+          "s": 5,
+          "t": "I think it should be fine, yeah."
+        },
+        {
+          "s": 1,
+          "t": "What in the world was going on back there?"
+        },
+        {
+          "s": 0,
+          "t": "...Ah, so you saw through all of that?"
+        },
+        {
+          "s": 5,
+          "t": "Ahahaha... That time in the cave when you told us to close our eyes... It'd be weirder if we didn't notice anything."
+        },
+        {
+          "s": 1,
+          "t": "I was dying of curiosity the entire time! I mean, you did a pretty bang-up job of pretending nothing had gone wrong. Furina actually looked like she thought all of it was planned..."
+        },
+        {
+          "s": 5,
+          "t": "Guess none of us wanted to be the one to break the illusion."
+        },
+        {
+          "s": 2,
+          "t": "Huh? What are you all talking about?"
+        },
+        {
+          "sit": "Yeah, what's going on?"
+        },
+        {
+          "sit": "I was just playing along too..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, don't tell me you never...! Ah, this is all my fault. It's not too late to cover your ears! Here, partner, I'll do it for you!"
+        },
+        {
+          "s": 5,
+          "t": "Um... Bit late for that, don't you think?"
+        },
+        {
+          "s": 2,
+          "t": "Uh... You're saying... Everything that happened back there wasn't actually part of the script?"
+        },
+        {
+          "s": 0,
+          "t": "It's probably more accurate to say this was never a real scripted story to begin with."
+        },
+        {
+          "s": 2,
+          "t": "Whaaat!?"
+        },
+        {
+          "s": 6,
+          "t": "...So loud... My head..."
+        },
+        {
+          "s": 2,
+          "t": "Hey, you! Get up right now and explain yourself!"
+        },
+        {
+          "s": 6,
+          "t": "Ahhhhh! No shaking, please! My head...!"
+        },
+        {
+          "sit": "Florian explains the truth to everyone..."
+        },
+        {
+          "s": 2,
+          "t": "D—Did Paimon just hear that right? You guys made up that whole last part on the spot?"
+        },
+        {
+          "s": 2,
+          "t": "It's not nice to lie to people, but.... Paimon's gotta admit, that was a really good story, Florian. Oh, and nice improvisation, Clorinde!"
+        },
+        {
+          "s": 5,
+          "t": "Yeah! It was like watching a magician improvise a spectacular magic trick after forgetting an important prop."
+        },
+        {
+          "s": 2,
+          "t": "If Paimon knew something was wrong with that vault, she would've floated straight in the opposite direction!"
+        },
+        {
+          "s": 0,
+          "t": "Everything was under control."
+        },
+        {
+          "s": 1,
+          "t": "As if you've ever described a situation as being \"out of control.\" I'm pretty sure any situation you consider to be easy to handle would scare a reasonable person half to death!"
+        },
+        {
+          "s": 0,
+          "t": "Guess I'm just used to it."
+        },
+        {
+          "s": 2,
+          "t": "Uh... You must run into a lot of unexpected situations, then... That explains why you're so good at coming up with things on the spot..."
+        },
+        {
+          "s": 0,
+          "t": "As for you, Florian..."
+        },
+        {
+          "s": 6,
+          "t": "...I know there's no excuse for what I did. I'll turn myself in to the Gardes at once, confess my crimes, and accept any punishment that comes my way."
+        },
+        {
+          "s": 0,
+          "t": "I would say you've already suffered more than enough."
+        },
+        {
+          "s": 6,
+          "t": "...What?"
+        },
+        {
+          "s": 0,
+          "t": "You may have been blinded by fame and fortune in the beginning, but your actions during the final battle had proven you to be a true Marechaussee Hunter."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "You'll be far more use to the city above ground than below. Your job as a Hunter is more important."
+        },
+        {
+          "s": 6,
+          "t": "But..."
+        },
+        {
+          "s": 0,
+          "t": "Of course, you'll still need to take the keys and pay a personal visit to the two Hunters you wronged. Prepare to accept any terms they give you as well."
+        },
+        {
+          "s": 6,
+          "t": "...Yes, of course."
+        },
+        {
+          "s": 0,
+          "t": "As far as I'm concerned, though... Your showing in the duel was enough to prove your honor."
+        },
+        {
+          "s": 6,
+          "t": "...! Then, I'll do exactly as you said. I... I'll go return those two keys right now."
+        },
+        {
+          "s": 6,
+          "t": "Thank you so much, everyone. I'll do my best to prove myself worthy of the second chance you've given me. I swear this on my name and honor as a Marechaussee Hunter."
+        },
+        {
+          "s": 6,
+          "t": "Until we meet again, everyone."
+        },
+        {
+          "s": 3,
+          "t": "I was just playing along too..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, don't tell me Paimon never...! Ah, this is all my fault. It's not too late to cover your ears! Here, Paimon, I'll do it for you!"
+        },
+        {
+          "section": "Clorinde"
+        },
+        {
+          "s": 5,
+          "t": "Speaking of Marechaussee Hunters... What should we do about the \"treasure\" in that cave?"
+        },
+        {
+          "s": 0,
+          "t": "Leave it be."
+        },
+        {
+          "s": 2,
+          "t": "Are you sure? We could show it to people, make it so that the Hunters are remembered... Don't you want that?"
+        },
+        {
+          "s": 0,
+          "t": "No. Every name on that tablet made the same choice. All Hunters know what the path entails."
+        },
+        {
+          "s": 0,
+          "t": "I am no exception... My identity as a Marechaussee Hunter is not something I need people to remember. I wish only to be recognized as a Champion Duelist, nothing more."
+        },
+        {
+          "s": 5,
+          "t": "That's certainly very different from the path of a magician. Still, I admire your decision."
+        },
+        {
+          "s": 2,
+          "t": "Wait, Paimon just remembered something. If there were no special effects involved, why did our weapons begin to glow during the battle?"
+        },
+        {
+          "s": 0,
+          "t": "That's because the Marechaussee Hunters of ages past would often imbue their weapons with special enchantments to suppress the monsters. Whenever a monster was nearby, their weapons would start to glow."
+        },
+        {
+          "s": 1,
+          "t": "Ooh! So that's why they had an effect on that guy near the end. I really thought the summons were doing all the work."
+        },
+        {
+          "s": 0,
+          "t": "Well, I'm sure the summons were a part of it, too."
+        },
+        {
+          "s": 5,
+          "t": "Oh? How so?"
+        },
+        {
+          "s": 0,
+          "t": "This particular Devorator probably hailed from the same era as the Hunters we saw in the room."
+        },
+        {
+          "s": 0,
+          "t": "The names you recited all belonged to the bravest Hunters. Countless monsters fell to their blades. That's likely why the Devorator visibly reacted when you said them out loud."
+        },
+        {
+          "s": 2,
+          "t": "So the names held the power all along..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Navia, everything you said during your \"summon\"..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Ah—hahaha! I um, I meant what I said. I mean, it was true to my character! So, yeah, I'm glad you heard it, just don't make me repeat myself. It's embarrassing!"
+        },
+        {
+          "s": 0,
+          "t": "I really appreciated those words."
+        },
+        {
+          "s": 1,
+          "t": "Alright, alright. Don't get all sentimental on me."
+        },
+        {
+          "s": 1,
+          "t": "Uhh... Anyway, let's not talk about that anymore! I'm going to go on ahead. Don't fall too far behind, now!"
+        },
+        {
+          "s": 2,
+          "t": "Ah... She ran off."
+        },
+        {
+          "s": 5,
+          "t": "I should probably head back as well. This story was truly incredible. I might have to spend the whole night telling my siblings all about it!"
+        },
+        {
+          "s": 3,
+          "t": "See you later."
+        },
+        {
+          "s": 5,
+          "t": "Mhm, Goodbye!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}... Should your name and deeds be forgotten, what do you think the significance of your journey will be?"
+        },
+        {
+          "s": 3,
+          "t": "(...)"
+        },
+        {
+          "s": 3,
+          "t": "I suppose the significance would be the journey itself and the world we helped create. There's still value in the time I shared with everyone here, in the things we were able to accomplish, even if no one remembers them."
+        },
+        {
+          "s": 0,
+          "t": "A great answer. I'll remember it."
+        },
+        {
+          "s": 3,
+          "t": "What would your answer be, Clorinde?"
+        },
+        {
+          "s": 0,
+          "t": "Me? Hah..."
+        },
+        {
+          "s": 0,
+          "t": "\"The Marechaussee Hunter says nothing in response to that question.\""
+        },
+        {
+          "s": 0,
+          "t": "\"Perhaps her answer lies in her silence, an unspoken vow left to echo through the night. The path she walks needs no explanation.\""
+        }
+      ],
+      "description": "“Now, as we face the perils of the long night…”"
+    }
+  ],
+  "speakers": [
+    "Clorinde",
+    "Navia",
+    "Paimon",
+    "Traveler",
+    "Furina",
+    "Lyney",
+    "Florian",
+    "Melancholic Young Woman",
+    "Gruff Merchant",
+    "Anxious Man",
+    "Guard Captain",
+    "Hunchbacked Old Lady",
+    "Serious Guard",
+    "Prime Minister"
+  ],
+  "id": "ch-2050"
+}

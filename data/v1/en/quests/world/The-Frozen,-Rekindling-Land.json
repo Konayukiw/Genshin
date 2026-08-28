@@ -1,0 +1,633 @@
+{
+  "chapter": "Chronicler of the Crumbling City",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Frozen, Rekindling Land",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Frozen, Rekindling Land",
+      "dialogue": [
+        {
+          "section": "Secret Source Servant, {REALNAME[ID(2)|SHOWHOST(true)]}, Enter the Light"
+        },
+        {
+          "s": 0,
+          "t": "Oh, Chosen One, Chosen of Dragons..."
+        },
+        {
+          "s": 0,
+          "t": "Traverse the eternal city. Venture into the Heart of the Sacred Mountain."
+        },
+        {
+          "s": 0,
+          "t": "Banish... the great enemy cloaked in shadow. Ignite... the frigid embers..."
+        },
+        {
+          "s": 0,
+          "t": "*cough* H—How's everyone? Still okay?"
+        },
+        {
+          "s": 1,
+          "t": "Rroooh..."
+        },
+        {
+          "s": 0,
+          "t": "Is your head okay? After all, you did fall from really high up..."
+        },
+        {
+          "s": 0,
+          "t": "You're not hurt, are you?"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, you seem fine. What about you, {NICKNAME}? Are you okay?"
+        },
+        {
+          "sit": "Well, I certainly look like I'm in one piece..."
+        },
+        {
+          "sit": "I was so scared, something leaked out... Seen any bits of my soul floating around?"
+        },
+        {
+          "s": 0,
+          "t": "Pfft, \"in one piece\"? Are you serious? *sigh* Paimon's just glad you're not hurt."
+        },
+        {
+          "s": 0,
+          "t": "Still... Who'd have thought there'd be such a huge space underneath this volcano? It's super dark here, though..."
+        },
+        {
+          "sit": "Time for you to shine, Paimon! Give us some light!"
+        },
+        {
+          "sit": "Pass me a torch, Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Oh, no problem, let Paimon just go ahead and... AS IF! Paimon's no glow-in-the-dark pixie! There's nothing here to work with, fire's the only way we're getting any light!"
+        },
+        {
+          "s": 0,
+          "t": "Let's just... explore the area a bit first, okay?"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "section": "Ehecatl"
+        },
+        {
+          "s": 0,
+          "t": "Hmm? {REALNAME[ID(2)|SHOWHOST(true)]}? What's up? Found something?"
+        },
+        {
+          "s": 1,
+          "t": "Whrooawr!"
+        },
+        {
+          "s": 0,
+          "t": "Hmm. This... is the statue that Qucusaur had. So it dropped down here as well..."
+        },
+        {
+          "s": 0,
+          "t": "Y'know, it kinda looks like you, {REALNAME[ID(2)|SHOWHOST(true)]}, but with big ears, and rolled into a ball."
+        },
+        {
+          "s": 1,
+          "t": "Rrrawr!"
+        },
+        {
+          "s": 0,
+          "t": "Really? You don't think so? Paimon sure does..."
+        },
+        {
+          "s": 0,
+          "t": "Whoa! It's moving!"
+        },
+        {
+          "s": 2,
+          "t": "*whirr*...*click*..."
+        },
+        {
+          "s": 2,
+          "t": "Self-diagnostic in progress... Moderate dust accumulation in joints... Storage medium activated... Speech... remote extraction... Override permitted... *clicking*... Personality module correction..."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Rawr?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, so this was some kinda mechanism, not a statue... Well, it does look like those Source Mechanisms. And that strange light floating around it... Feels like we've seen that before somewhere..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? Why has it stopped moving?"
+        },
+        {
+          "s": 2,
+          "t": "\"Warggh!\""
+        },
+        {
+          "s": 0,
+          "t": "Aaaahhh!"
+        },
+        {
+          "s": 2,
+          "t": "\"Ah. It seems my voice module works. Well then, honored guests. I have awaited you for a long... Sorry, is something the matter?\""
+        },
+        {
+          "s": 0,
+          "t": "Did you have to suddenly make that loud noise? You scared Paimon to death!"
+        },
+        {
+          "s": 2,
+          "t": "\"Did I? Then that is well. A dynamic entrance is the only way to leave a lasting impression. Otherwise, I'd worry that you might feel I was neglecting you...\""
+        },
+        {
+          "s": 0,
+          "t": "Err, sorry. Who are you again?"
+        },
+        {
+          "s": 2,
+          "t": "\"Who am I, you say? Well, this body's name is Ehecatl, and you may so call it, but such things as names hold little meaning here...\""
+        },
+        {
+          "s": 2,
+          "t": "Individual designation modification request... Via records... 150 years after the war... Designation changed to one from a list of the fallen — Ehecatl."
+        },
+        {
+          "s": 2,
+          "t": "\"Yes, indeed. Since then, this body has been named Ehecatl...\""
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "\"Yes, it was I who called you here. Come, let us go unto the Heart of the Sacred Mountain... before it is too late.\""
+        },
+        {
+          "s": 2,
+          "t": "\"That said, we are not yet in a hurry. Let Ehecatl clear away at least some smidgen of the darkness that lies before you. I know you must have your doubts, but please, follow me for now.\""
+        },
+        {
+          "section": "Ehecatl, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 2,
+          "t": "\"I should explain that this place was not always so dark... Even though it is undoubtedly the 'inside' of a volcano...\""
+        },
+        {
+          "s": 2,
+          "t": "\"However, after the war was over, the entire city was destroyed. After that, such a huge mechanical construct could hardly continue to function...\""
+        },
+        {
+          "s": 0,
+          "t": "War?"
+        },
+        {
+          "s": 2,
+          "t": "\"Yes, the war between the remaining Dragonborn and the humans — the war in which the original master of flame was killed...\""
+        },
+        {
+          "s": 2,
+          "t": "\"The master of this place is long since dead, and naught else but the city ekes out survival... Though who can really say? Perhaps the city, too, has already ceased to live.\""
+        },
+        {
+          "s": 2,
+          "t": "\"...Hmm. Or perhaps so many things that once existed were nothing more than illusions.\""
+        },
+        {
+          "s": 1,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "\"We each stand to benefit, little one. You get what you came for, and I hope to borrow your power to solve a few problems of my own...\""
+        },
+        {
+          "s": 2,
+          "t": "\"And so, you must reach the Heart of the Sacred Mountain... But alas, the Mountain's power was cut off during the war.\""
+        },
+        {
+          "s": 2,
+          "t": "\"And for all that the seals' power is like weak threads that could only entrap a whelp, the oath dictates that only a 'human' may activate them...\""
+        },
+        {
+          "s": 2,
+          "t": "\"In an interesting twist, the poor child who used this method to infiltrate the Sacred Mountain was, in the end, brought to ruin by someone else using nigh identical means.\""
+        },
+        {
+          "s": 2,
+          "t": "\"Hehe. Ah, such has it ever been... Just as the followers of a tyrant are driven out by heroes, and after many years of wandering, their descendants end tyranny in some other realm...\""
+        },
+        {
+          "s": 2,
+          "t": "\"The world and its affairs are akin to a staged play. Cause and effect, revenge and revolt... All scenes repeat themselves one after the other across ragged eons...\""
+        },
+        {
+          "s": 2,
+          "t": "\"Ah, but I am getting off-topic... Well then. Activate it, and let this moribund capital writhe a little while longer. None but you is worthy to do this deed now.\""
+        },
+        {
+          "section": "Ehecatl, {REALNAME[ID(2)|SHOWHOST(true)]}, Ehecatl"
+        },
+        {
+          "s": 2,
+          "t": "\"Have I officially given you its name, by the by? I believe I have not...\""
+        },
+        {
+          "s": 2,
+          "t": "\"No matter. Welcome to the first Sacred Ci{RUBY#[D]Land of Primal Flame}ty, Tollan.\""
+        },
+        {
+          "s": 0,
+          "t": "Whoa... Paimon was not expecting the volcano to look like this on the inside..."
+        },
+        {
+          "s": 0,
+          "t": "Is that really where we are? Or did we get yoinked to a different spot when we went through the volcano's mouth?"
+        },
+        {
+          "s": 1,
+          "t": "Rrah... Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "\"Oh, this is undoubtedly the Sacred Mountain's interior, but even I... know not how long it has been since I saw such a sight...\""
+        },
+        {
+          "s": 2,
+          "t": "\"Ah... Only when the light shone upon you once more, did I see that you had mouldered so...\""
+        },
+        {
+          "s": 0,
+          "t": "Ehecatl?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "\"Ah, my apologies. Mere brief indulgence in unnecessary sentimentality...\""
+        },
+        {
+          "s": 2,
+          "t": "Energy reserve low... Hibernation imminent. Please replace or connect... energy storage medium..."
+        },
+        {
+          "s": 2,
+          "t": "\"Haha. It seems like dear Ehecatl's long 'exile' has left it with little time...\""
+        },
+        {
+          "s": 0,
+          "t": "Wait, what do you mean? Is Ehecatl... gonna die?"
+        },
+        {
+          "s": 2,
+          "t": "\"The one you name Ehecatl has long ceased to be amongst the living... To be brief, Tollan requires a great amount of energy to be restarted, and no waste can be permitted. You must...\""
+        },
+        {
+          "s": 2,
+          "t": "\"Destroy the seal on one of the other two 'Astral As{RUBY#[D]Tzitzimimeh}semblages'... and the other... Only then can you truly activate the Celestial Axis in the center...\""
+        },
+        {
+          "s": 2,
+          "t": "\"Uhhh...\""
+        },
+        {
+          "sit": "You alright over there?"
+        },
+        {
+          "s": 2,
+          "t": "\"...I am fine. We will... meet again...\""
+        },
+        {
+          "s": 2,
+          "t": "\"*sigh* ... Onward then, Chosen of Dragons... Alas, the pain of a body losing its vitality... I am not used to it... even after all these years...\""
+        },
+        {
+          "s": 1,
+          "t": "Rawr?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "The light around Ehecatl's gone... It's not moving anymore, either."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's still kinda confused... Was that really Ehecatl talking, or was someone else speaking through it?"
+        },
+        {
+          "sit": "I'm sure we'll find out..."
+        },
+        {
+          "sit": "Let's continue on for now..."
+        },
+        {
+          "s": 0,
+          "t": "True. Still, about the Astral Assemblages he mentioned just now... Does he mean something like that big fireball from earlier? And what's this Celestial Axis thing? We don't have any idea what that is..."
+        },
+        {
+          "s": 0,
+          "t": "Oh well, let's take a look around and see if we can find those strange things he mentioned!"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "section": "Secret Source Servant, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 3,
+          "t": "Scanning... This location... The path to the Celestial Axis has been sealed. Core Astral Assemblage has been activated..."
+        },
+        {
+          "s": 3,
+          "t": "Remaining Astral Assemblages must be re-stabilized to gain the power needed to reopen the seal..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, Ehecatl?"
+        },
+        {
+          "s": 3,
+          "t": "Scanning... This location... The path to the Celestial Axis has been sealed. Core Astral Assemblage has been activated..."
+        },
+        {
+          "s": 3,
+          "t": "Remaining Astral Assemblages must be re-stabilized to gain the power needed to reopen the seal..."
+        },
+        {
+          "s": 1,
+          "t": "Rroo..."
+        },
+        {
+          "s": 0,
+          "t": "Wait, this isn't Ehecatl. Even if they do look the same..."
+        },
+        {
+          "s": 0,
+          "t": "Still, the \"Celestial Axis\"... This has gotta be the one that Ehecatl said needed activating, right?"
+        },
+        {
+          "s": 0,
+          "t": "Looks like we'll have to look around for the other two Astral Assemblages, then!"
+        },
+        {
+          "section": "Secret Source Servant"
+        },
+        {
+          "s": 3,
+          "t": "Scanning... This location... The path to the Celestial Axis has been sealed. Core Astral Assemblage has been activated..."
+        },
+        {
+          "s": 3,
+          "t": "Re-stabilize the Astral Assemblages to initiate the opening of the path ahead..."
+        },
+        {
+          "section": "Secret Source Servant, Amaru"
+        },
+        {
+          "s": 1,
+          "t": "Rrooh!"
+        },
+        {
+          "s": 3,
+          "t": "*whirr-click*..."
+        },
+        {
+          "s": 3,
+          "t": "\"It seems you have finally restored the two Astral Assemblages to normal operation... Soon, the phlogiston concentration here should be sufficient to reactivate the communications device...\""
+        },
+        {
+          "s": 3,
+          "t": "\"In the meantime, please wait a little longer. You have already done well, for a human.\""
+        },
+        {
+          "sit": "Wait, we're back to talking again?"
+        },
+        {
+          "sit": "...Are you Ehecatl?"
+        },
+        {
+          "s": 3,
+          "t": "\"I am not. Ehecatl's existence has dissipated in full... not long ago, in fact. And though names matter little here, the name left to this body is...\""
+        },
+        {
+          "s": 3,
+          "t": "\"'Almighty Amaru, the Hallowed Lord'... *sigh* The original bearer of this name was a fool through and through.\""
+        },
+        {
+          "s": 3,
+          "t": "\"You may simply name it 'Amaru.'\""
+        },
+        {
+          "s": 0,
+          "t": "Amaru?"
+        },
+        {
+          "s": 1,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 3,
+          "t": "\"In life, he was arrogant, unrestrained in speech, brainless, and aggravating... But in the war, he held the threshold of the sealed Celestial Axis until his final breath...\""
+        },
+        {
+          "s": 3,
+          "t": "\"This is that very spot, and that is why I placed the Secret Source Servant who once waited on him here... It is happy to guard the Axis in its master's place, or so I imagine.\""
+        },
+        {
+          "s": 3,
+          "t": "Increase in phlogiston concentration detected... Circuit check complete... *whirring*"
+        },
+        {
+          "s": 3,
+          "t": "Lift shaft — Celestial Axis, restarted."
+        },
+        {
+          "s": 3,
+          "t": "\"It appears we are almost done. Please proceed deeper within.\""
+        },
+        {
+          "section": "Secret Source Servant"
+        },
+        {
+          "s": 3,
+          "t": "Increase in phlogiston concentration detected... Circuit check complete... *whirring*"
+        },
+        {
+          "s": 3,
+          "t": "Lift shaft — Celestial Pillar, restarted."
+        },
+        {
+          "section": "Secret Source Servant, Amaru"
+        },
+        {
+          "s": 1,
+          "t": "Ehrr...Rroo..."
+        },
+        {
+          "s": 0,
+          "t": "What's wrong? You don't look like you're doing so hot..."
+        },
+        {
+          "s": 1,
+          "t": "Rawrgh!"
+        },
+        {
+          "s": 0,
+          "t": "Is that... the Abyss?"
+        },
+        {
+          "s": 3,
+          "t": "\"Indeed... Abyssal creatures invade the Sacred City of Tollan like an irremediable pestilence.\""
+        },
+        {
+          "s": 3,
+          "t": "\"At this point, it may even be impossible to contain their march completely without bringing the Sacred Mountain itself down around us...\""
+        },
+        {
+          "sit": "When you discover one Abyssal creature..."
+        },
+        {
+          "s": 3,
+          "t": "\"Then perhaps your home is already completely infested with those stygian, viscid villains...\""
+        },
+        {
+          "s": 1,
+          "t": "Roar..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, why do you guys have to be so creepy about it?"
+        },
+        {
+          "sit": "We'll chop their legs off — that'll put a stop to any marching they might do!"
+        },
+        {
+          "s": 0,
+          "t": "Ooh, how very wise and insightful, now all we need to do is find their legs... Ha! As if Paimon could say that with a straight face!"
+        },
+        {
+          "s": 1,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 3,
+          "t": "\"Haha. 'Tis a shame, little one, but I fear most Abyssal creatures may not need legs for locomotion.\""
+        },
+        {
+          "s": 3,
+          "t": "\"...Only by destroying the shadowy foe that bars our path may you pass through this place and reach the Sacred Mountain's heart.\""
+        },
+        {
+          "s": 3,
+          "t": "\"Nothing can be done now to restore the glory this ravaged city had of old, but neither should its carcass be left to the tender mercies of these dark monsters.\""
+        },
+        {
+          "sit": "Wait, don't you have those big fireballs...?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. Don't you use them to fight the Abyss?"
+        },
+        {
+          "s": 3,
+          "t": "\"Fireballs... You mean the Astral Assemblages? Nay, they may only trigger mutual annihilation on contact with the Abyss. Otherwise, they will instead be corrupted and enveloped by the dark...\""
+        },
+        {
+          "s": 3,
+          "t": "\"Alas, this city has been sealed off for too long... And the Astral Assemblages have been prevented from moving freely to maintain its stability...\""
+        },
+        {
+          "s": 3,
+          "t": "\"O Chosen of Dragons...\""
+        },
+        {
+          "s": 1,
+          "t": "Rawr?"
+        },
+        {
+          "s": 3,
+          "t": "\"The Heart of the Sacred Mountain was re-excavated after Tollan was established... and the first Secret Source Dragon Idol stands guard over it.\""
+        },
+        {
+          "s": 3,
+          "t": "\"You must obtain a permit to gain access to the Heart...\""
+        },
+        {
+          "s": 3,
+          "t": "\"But the power source of the Idol has also been corrupted. We must find some way to reactivate it...\""
+        },
+        {
+          "s": 3,
+          "t": "\"They...\" Warning. Functions damaged. Shutdown imminent... \"Ah, looks like this machine is...\""
+        },
+        {
+          "s": 0,
+          "t": "Amaru? Hey, Amaru! What permit? C'mon, you'd barely started talking!"
+        },
+        {
+          "s": 3,
+          "t": "\"Heh... Keep pressing on. A new Secret Source Servant shall guide you there...\""
+        },
+        {
+          "s": 3,
+          "t": "*whirr-click*..."
+        },
+        {
+          "s": 3,
+          "t": "\"This is the map of the Sacred City's core. I will... await you at...\""
+        },
+        {
+          "s": 0,
+          "t": "Ah, and the light's gone out again..."
+        },
+        {
+          "s": 0,
+          "t": "Guess this \"Amaru\" guy isn't gonna be talking to us anymore, huh?"
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "He really just does whatever he feels like, huh... Not much we can do but forge ahead and see if we can't rustle up a new Secret Source Servant..."
+        }
+      ],
+      "description": "You finally enter the volcano, only to find pitch darkness all around. Continue exploring this place…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "{REALNAME[ID(2)|SHOWHOST(true)]}",
+    "Ehecatl",
+    "Secret Source Servant"
+  ],
+  "id": "q-75149"
+}

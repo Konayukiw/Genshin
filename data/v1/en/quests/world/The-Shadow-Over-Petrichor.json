@@ -1,0 +1,863 @@
+{
+  "chapter": "Petrichorror Dream",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Shadow Over Petrichor",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Shadow Over Petrichor",
+      "dialogue": [
+        {
+          "section": "Paimon, Osse"
+        },
+        {
+          "s": 0,
+          "t": "Well, this should be Petrichor!"
+        },
+        {
+          "s": 0,
+          "t": "It's even more beautiful than we'd heard."
+        },
+        {
+          "s": 0,
+          "t": "Wow, and the sea breeze is super comfy, too!"
+        },
+        {
+          "s": 0,
+          "t": "Still, is it just Paimon, or is this place kinda deserted...?"
+        },
+        {
+          "s": 0,
+          "t": "Eek!"
+        },
+        {
+          "sit": "Did something happen?"
+        },
+        {
+          "s": 0,
+          "t": "Uh, um, nothing! Let's just, uh, go somewhere else first, shall we?"
+        },
+        {
+          "section": "Leader"
+        },
+        {
+          "s": 1,
+          "t": "Hey, you! Yes, you! You blithering idiot! What are you doing dragging your feet for? Waiting for us all to get old!? Why in the blazes aren't all these boxes already on the ship!?"
+        },
+        {
+          "s": 2,
+          "t": "No, Boss! It's just... These boxes are way too heavy! If we lug 'em all up, I think the ship might..."
+        },
+        {
+          "s": 1,
+          "t": "Might what? This is treasure here, treasure! You gonna just leave profit on the ground like that?"
+        },
+        {
+          "s": 2,
+          "t": "But... If we load everything on board, plus ourselves... I don't think the boat can hold all that weight!"
+        },
+        {
+          "s": 1,
+          "t": "Ha, that's an easy one! If we just leave a couple of you here on this island, we can bring all the treasure back, now can't we?"
+        },
+        {
+          "s": 2,
+          "t": "Ooh, a cunning plan, Boss! ... Wait, uh, I'm one of the ones you're taking with you, right? I don't wanna get captured by those golems, you've seen what happens to anyone they catch!"
+        },
+        {
+          "s": 1,
+          "t": "Then stop yapping and start moving! If the Dark Lord's lackeys catch up, we're all done for!"
+        },
+        {
+          "s": 0,
+          "t": "...Dark Lord's lackeys? Are they putting on some kind of show?"
+        },
+        {
+          "s": 2,
+          "t": "Wait, Boss! There's people over there!"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, why don't we go ask them..."
+        },
+        {
+          "s": 1,
+          "t": "Oi, you! Yeah, you, the big 'un and the tiny thing! What're you skulking over there for?"
+        },
+        {
+          "sit": "Uh oh, we're in trouble!"
+        },
+        {
+          "sit": "Can't leave any witnesses..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! We're not doing anything wrong over here, so what are you acting all nervous for?"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, we should talk to them first."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, from the look of you, you must be foreigners. And here I thought you were minions of the Dark Lord Remus!"
+        },
+        {
+          "s": 0,
+          "t": "This is {NICKNAME}, and Paimon's Paimon! And you're right, we're travelers! Oh, but who's this \"Dark Lord Remus\" you mentioned? Has he finished playing his part already?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, you don't even know who the Dark Lord is!? ... Alright, I get it. I suppose it is up to me to educate you, O ignorant outlanders!"
+        },
+        {
+          "s": 0,
+          "t": "Ooooh!"
+        },
+        {
+          "sit": "Nice worldbuilding. Very detailed."
+        },
+        {
+          "s": 0,
+          "t": "And then? And then? What happened next? How did you defeat the Dark Lord?"
+        },
+        {
+          "s": 1,
+          "t": "The Dark Lord's golems are each mighty beyond measure. How could we be their match? Still, we had the aid of \"Este the Quick-Witted\" this time!"
+        },
+        {
+          "s": 1,
+          "t": "With his aid, we infiltrated the Dark Lord's fell keep, and reclaimed the treasures he and his minions plundered from us Fontainians!"
+        },
+        {
+          "s": 2,
+          "t": "Like the Boss said, uh... what is it we're doing again...? Oh yeah! \"Disrupting the special military maneuvers being conducted by the Dark Lord's legions!\" Totally a brilliant plan!"
+        },
+        {
+          "sit": "You're the protagonists of your play, yet you aren't on the up and up..."
+        },
+        {
+          "sit": "When does this Dark Lord take the stage?"
+        },
+        {
+          "s": 0,
+          "t": "So, where's this Dark Lord? When does he take the stage?"
+        },
+        {
+          "s": 1,
+          "t": "Ha! Do you think we'd still be lugging treasure if he showed up? Hah! Like as not we'd all have been turned into golems already, just like Este probably was — \"Este the Pitiful\" now, more like!"
+        },
+        {
+          "s": 0,
+          "t": "Whoa! He totally helped you, and you guys just left him behind and ran away! Are you sure you guys aren't the baddies? Baddies don't get to be the protagonists!"
+        },
+        {
+          "s": 1,
+          "t": "Whaddaya mean, \"protagonists,\" \"take the stage\"... Oi, from where I'm standing, it's looking like you're really his minions, just dressed up as foreigners — I can tell from all your blabbering on about performances and plays!"
+        },
+        {
+          "s": 0,
+          "t": "EH? You mean, you guys aren't putting on a performance?"
+        },
+        {
+          "s": 1,
+          "t": "Hmph. So you won't 'fess up unless we char you first, eh? Let's get 'em, boys!"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "...There they go, huh? Guess they weren't acting after all."
+        },
+        {
+          "s": 0,
+          "t": "But what was this \"treasure\" they were talking about? Dark Lord this, Dark Lord's keep that, no way any of that's real..."
+        },
+        {
+          "sit": "Why don't we have a look at the \"treasure\"?"
+        },
+        {
+          "s": 0,
+          "t": "Eh!? But we don't know where this stuff came from..."
+        },
+        {
+          "sit": "Paimon, expressing disinterest in treasure!? Say it isn't so!"
+        },
+        {
+          "sit": "Consider this a necessary investigation."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's just worried that... What if, well, just in case there's some kind of evil dark lord-y trap in it..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, guess there's no dissuading you! But please be careful, okay?"
+        },
+        {
+          "s": 0,
+          "t": "Hmph! Paimon knew they were just a bunch of frauds! There's no treasure at all!"
+        },
+        {
+          "s": 0,
+          "t": "Or is this shabby excuse for a statue some kind of priceless artifact?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Let's go to Petrichor and ask around. Maybe it's some kind of landmark or lucky mascot or something!"
+        },
+        {
+          "s": 0,
+          "t": "As for these \"treasures\"... We..."
+        },
+        {
+          "s": 0,
+          "t": "...Hey! {NICKNAME}, you..."
+        },
+        {
+          "section": "Cassiodor"
+        },
+        {
+          "s": 3,
+          "t": "Imperator. Imperator..."
+        },
+        {
+          "sit": "A... dream...?"
+        },
+        {
+          "s": 3,
+          "t": "You're finally awake, Imperator. This day is one of great import, the day when we shall sound the great Symphony, Phobos. There is yet time before the ritual, Imperator, but we should set out."
+        },
+        {
+          "sit": "I seem to have had a dream."
+        },
+        {
+          "s": 3,
+          "t": "A dream, Imperator? I did not know that gods could dream... In that case, what did you dream of? The great plains beyond the north wind? The silver tree beneath the frozen soil...?"
+        },
+        {
+          "s": 3,
+          "t": "Or did you see that golden future that you once showed me?"
+        },
+        {
+          "sit": "I saw... the sea swallowing the earth..."
+        },
+        {
+          "sit": "The children of white stone and brass sinking..."
+        },
+        {
+          "sit": "The collapse of all that was once radiant."
+        },
+        {
+          "s": 3,
+          "t": "...That prophecy, then, Imperator? It is precisely to prevent it from happening, to fight against inevitable fate, that we are here today."
+        },
+        {
+          "s": 3,
+          "t": "Just as you said, we have paid much for it, but once we are free of fa{RUBY#[D]Fortuna's}te's shackles, those sacrifices shall not have been in vain..."
+        },
+        {
+          "s": 3,
+          "t": "In this have I had faith ever since I accepted this body and became a Remurian..."
+        },
+        {
+          "s": 3,
+          "t": "...Apologies, Imperator. Forgive my lack of manners."
+        },
+        {
+          "s": 3,
+          "t": "In any case, please, come with me."
+        },
+        {
+          "section": "Scylla"
+        },
+        {
+          "s": 4,
+          "t": "Remus, Remus..."
+        },
+        {
+          "s": 4,
+          "t": "Remus. You once said that you would create a future free from the shackles of divine destiny."
+        },
+        {
+          "s": 4,
+          "t": "Yet your realm now lies violently shattered, and the chasm you tried to bridge has grown deeper still. The immortal race you created and the peoples of the waters are slaughtering one another."
+        },
+        {
+          "s": 4,
+          "t": "And now, this so-called Eternal City too faces imminent collapse..."
+        },
+        {
+          "s": 4,
+          "t": "You cannot control your own creation... The \"Symphony\" has brought neither justice nor happiness, but instead has become the source of all sin."
+        },
+        {
+          "s": 4,
+          "t": "Though their flesh and blood have been sundered from water and soil, the lost souls guide them upon the path of inevitable death nonetheless. The curse of Fortuna is upon your people, and upon you."
+        },
+        {
+          "sit": "Do you still remember our promise..."
+        },
+        {
+          "sit": "That is our last resort... As long as the Symphony is played..."
+        },
+        {
+          "s": 4,
+          "t": "Is this the only way you usurper-lords of humanity know to atone after bringing things to ruination? Still, your resolve, at least, does not shame your kingly crown."
+        },
+        {
+          "s": 4,
+          "t": "And a promise was made, indeed. Therefore, allow me to bear witness to your end..."
+        },
+        {
+          "section": "Osse"
+        },
+        {
+          "s": 0,
+          "t": "...{NICKNAME}... Please, wake up..."
+        },
+        {
+          "sit": "I... Just now..."
+        },
+        {
+          "s": 0,
+          "t": "Waaah! You scared me to death! {NICKNAME}, you..."
+        },
+        {
+          "s": 0,
+          "t": "You suddenly just... Completely stopped moving and started staring at the statue! Like you were a statue yourself! Paimon thought you had been turned to stone by the dark lord's evil curse..."
+        },
+        {
+          "sit": "I think I had a strange daydream..."
+        },
+        {
+          "s": 0,
+          "t": "Th—There isn't really a curse, is there!? {NICKNAME}, are you okay!?"
+        },
+        {
+          "sit": "I'm fine. Sorry for making you worry."
+        },
+        {
+          "s": 0,
+          "t": "As long as you're not hurt... Yeah, we should definitely go to Petrichor first."
+        },
+        {
+          "section": "Paimon, \"Bellringer\", Este"
+        },
+        {
+          "s": 5,
+          "t": "Welcome, travelers, O traversers of dreamscapes."
+        },
+        {
+          "s": 5,
+          "t": "I am the bellringer at the intersection clock tower — the guide that welcomes travelers to the Eternal City."
+        },
+        {
+          "sit": "Oh joy, more worldbuilding, eh?"
+        },
+        {
+          "sit": "So, valiant guardian, shall we find the Eternal City to our left or our right?"
+        },
+        {
+          "s": 0,
+          "t": "(...Could he be part of the same troupe as those thieves from before?)"
+        },
+        {
+          "s": 0,
+          "t": "Um, leaving that aside for now, all the townspeople we ran into on the way over were acting really weird. Do you know what that's about?"
+        },
+        {
+          "s": 5,
+          "t": "Why, everyone has gone to Machimos already. I imagine that they now dwell under the protection of the Sebastos."
+        },
+        {
+          "s": 0,
+          "t": "Wow, so in addition to the \"Dark Lord Remus,\" now we've got a \"Sebastos\"? This is getting more complicated by the minute!"
+        },
+        {
+          "s": 5,
+          "t": "\"Dark Lord Remus\"... It would appear that in your journey, you have crossed paths with those uncouth barbarians. That is indeed a blasphemous title with which they besmirch the Sebastos Remus, our mighty Imperator."
+        },
+        {
+          "s": 0,
+          "t": "Oh, so they're both the same Remus! They are the same person after all."
+        },
+        {
+          "s": 5,
+          "t": "But it is of no consequence! The Sebastos may not be defined by the narrow notions of the tribal mob. Those despicable insects may speak slander as they wish, but the wise, inspired by his noblest ideals, will yet come forth in their droves."
+        },
+        {
+          "s": 5,
+          "t": "When the bell of eternity tolls, all that has ever come to pass shall be erased, and all will be reborn, regardless of who they are or where they are from! Be grateful, and rejoice! Praise be!"
+        },
+        {
+          "s": 0,
+          "t": "What should we do, {NICKNAME}? This person sure seems lucid, but the stuff he's spouting is all kinds of whack! Y'think we've got a sleepwalker here? Maybe he's dreaming?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm? Do you name me a dreamer?"
+        },
+        {
+          "sit": "The symptoms do match."
+        },
+        {
+          "sit": "Who knows? We could be the ones dreaming."
+        },
+        {
+          "s": 5,
+          "t": "D—Dreaming...? I certainly..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! You... Uh oh, he's out cold..."
+        },
+        {
+          "s": 6,
+          "t": "Travelers from outside? Halt."
+        },
+        {
+          "s": 6,
+          "t": "Excellent, you two look completely... Mentally sound."
+        },
+        {
+          "s": 0,
+          "t": "Finally, a normal person! Seriously, what's going on in this town?"
+        },
+        {
+          "s": 6,
+          "t": "Before that, let's get this gentleman somewhere safe. Can't be leaving him lying here, can we? He'll catch a cold."
+        },
+        {
+          "s": 6,
+          "t": "Anyway, allow me to reintroduce myself. Call me Este. I'm a member of the town's Daydream Club — I'm the only member present right now, though."
+        },
+        {
+          "s": 0,
+          "t": "Paimon's Paimon, and he(she)'s {NICKNAME}. We're..."
+        },
+        {
+          "sit": "Tourists visiting Petrichor."
+        },
+        {
+          "sit": "Passing adventurers."
+        },
+        {
+          "sit": "We're members of the Special Security and Surveillance Patrol."
+        },
+        {
+          "s": 6,
+          "t": "Heh. In that case, your timing could hardly be worse. I'm afraid our present state might disappoint you."
+        },
+        {
+          "s": 0,
+          "t": "Wait. You introduced yourself as \"Este\"... We've heard that name before!"
+        },
+        {
+          "sit": "It was you who brought the bandits into the Dark Lord's castle, was it not?"
+        },
+        {
+          "sit": "Ah, I see you escaped with your life! Fabulous!"
+        },
+        {
+          "s": 6,
+          "t": "Huh? What? So... you've also..."
+        },
+        {
+          "s": 0,
+          "t": "No, no, we're wide awake, trust us! We just don't get why everyone's saying all sorts of crazy things..."
+        },
+        {
+          "s": 6,
+          "t": "Oh, it's them..."
+        },
+        {
+          "s": 6,
+          "t": "*sigh* Where to begin? The legend of the Faded Castle has never been a secret. Adventurers just like them come by looking for it every once in a while."
+        },
+        {
+          "s": 6,
+          "t": "And whether it's because the impression the name \"Golden Troupe\" conjures up is nothing more than poetic imagery, or because the castle was built millennia ago, it's more likely than not that nothing of value remains there now."
+        },
+        {
+          "s": 6,
+          "t": "Ah, but would they ever listen? Of course not! No sooner had I brought them over to the ruins in the mountains than they began destroying statues and stuffing them into boxes like people possessed!"
+        },
+        {
+          "s": 6,
+          "t": "I could not stop them alone, so I went back to town to get help. I never imagined I'd find nothing but dazed stares and mad ramblings all around. It was like everyone had fallen under some hypnotic spell..."
+        },
+        {
+          "s": 6,
+          "t": "The Daydream Club has researched hypnosis before, but something like this is far, far beyond our capabilities. My hypothesis is that something abnormal has occurred within the ruins. According to the records..."
+        },
+        {
+          "s": 6,
+          "t": "...Hmm. Actually, why are we the only ones not affected? Interesting. Most interesting..."
+        },
+        {
+          "sit": "Perhaps we can find a solution in the ruins."
+        },
+        {
+          "sit": "Maybe we can find treasure in the ruins!"
+        },
+        {
+          "s": 0,
+          "t": "Why don't you wait here, Este? Leave the adventuring to us! If you come too, you might get turned into a golem!"
+        },
+        {
+          "s": 0,
+          "t": "Aww, is that your cat, Este? It's so cute!"
+        },
+        {
+          "s": 6,
+          "t": "No, though the fellow who studied hypnotism would say that they are creatures with keen senses..."
+        },
+        {
+          "s": 6,
+          "t": "Hmm. How odd. That, err, collar? Pendant? I could swear I've seen that accessory before..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, it ran off..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, ignoring the cat question for now, we should still go to the ruins first and have a look! Say, Este, how can we get there?"
+        },
+        {
+          "s": 6,
+          "t": "The ruins? The mountain behind the town. Just so happens to be the exact direction that the cat ran off in."
+        },
+        {
+          "sit": "Hehe, kitty cat, hehe~"
+        },
+        {
+          "sit": "Then it's time we set off."
+        },
+        {
+          "s": 0,
+          "t": "...{NICKNAME}, are you sure you're okay?"
+        },
+        {
+          "s": 6,
+          "t": "Things are pretty murky right now. Take extra care."
+        },
+        {
+          "s": 0,
+          "t": "You too, alright? We'll be right back, don't you worry!"
+        },
+        {
+          "section": "Osse"
+        },
+        {
+          "s": 7,
+          "t": "Not bad, not bad. Your valor would not know shame, even should it stand in the company of the Marechaussee Hunters of old."
+        },
+        {
+          "sit": "Whoa, it's a rare shiny cat!"
+        },
+        {
+          "sit": "It's a talking animal!"
+        },
+        {
+          "s": 0,
+          "t": "...We've seen a whole lot of really strange things on our journey. Even so, a glowing, talking cat... Paimon supposes it still makes the \"rare\" list..."
+        },
+        {
+          "s": 7,
+          "t": "...One such as I shall not dwell on being called a \"strange thing.\" O chosen champions, {NICKNAME} and Paimon, the time has come for true heroes such as ye to step forth!"
+        },
+        {
+          "s": 7,
+          "t": "Come with me unto the ancient kingdom of the deep seas. We must still the chaotic \"Symphony\" if we are to save the lost souls."
+        },
+        {
+          "sit": "Err, is this also part of the worldbuilding too?"
+        },
+        {
+          "sit": "Oh, right! I'm the hero! Let the journey begin!"
+        },
+        {
+          "s": 0,
+          "t": "Uh, could it be like... One of the Yae Publishing House's novels, the ones with the \"He Was Our Companion in the Last Life, but Only He Inherited the Memories\" kind of plot?"
+        },
+        {
+          "s": 0,
+          "t": "Speaking of... Just who are you?"
+        },
+        {
+          "s": 7,
+          "t": "Must I start from the beginning? ... Very well. \"Ouranides of Ouranopolis\" is my name, a spirit-keeper of the ancient realm."
+        },
+        {
+          "s": 0,
+          "t": "Uh, Ou—Oura... Ouwhatnides of the where now? Ugh, what a tongue-twister! Paimon's just gonna call you \"Osse\" for short. That's close enough, right? What do you think?"
+        },
+        {
+          "s": 7,
+          "t": "Meow, meow!?"
+        },
+        {
+          "sit": "Meow, meow?"
+        },
+        {
+          "s": 7,
+          "t": "Hmm. It appears that I cannot command this body as I wish, to the extent that bestial behaviors may even overbear me from time to time... If, from the beginning, I could only have..."
+        },
+        {
+          "s": 7,
+          "t": "Ahem! As the two of you can see, the boundaries between past and present have begun to blur thanks to the influence of the chaotic \"Symphony.\" It is for this reason that I too have awoken. For now, the affected area is yet small."
+        },
+        {
+          "s": 7,
+          "t": "The inhabitants of Petrichor have had their souls taken away. They exist in that maddened, dream-like state because the \"Symphony\" has temporarily granted them identities and memories to fill the void left behind."
+        },
+        {
+          "s": 7,
+          "t": "It is as if a vessel filled with pure water has had its contents replaced with wondrous wine. An apt description, considering that those are memories of ancient history gifted by the \"Symphony.\""
+        },
+        {
+          "s": 0,
+          "t": "Eh? Let Paimon think... So what you're saying is that the townspeople of Petrichor have had their souls stolen? And then their bodies have been possessed... Waaah, that sounds super scary!"
+        },
+        {
+          "sit": "You said that the affected area isn't very large yet..."
+        },
+        {
+          "s": 7,
+          "t": "Thank you so much. The road to the ancient realm lies beneath this spring you see before you. I have caused the seal on the hidden path to manifest."
+        },
+        {
+          "s": 7,
+          "t": "Next, I shall activate the device that maintains the seal..."
+        },
+        {
+          "s": 7,
+          "t": "There we go. Now then, help me retrieve the harp's strings, and I shall thus be able to break the seal and open the way."
+        },
+        {
+          "s": 7,
+          "t": "Now then, let us go unto the faded castellum of gold."
+        },
+        {
+          "s": 0,
+          "t": "A faded golden cast... Hmm, Este mentioned something about the legend of the Faded Castle too, right? Aren't we talking about these ruins?"
+        },
+        {
+          "s": 7,
+          "t": "Nay, nay. These are but scraps on the surface. The true castle lies deeper underwater."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... You sure do know much more than the cats in town, huh, Osse?"
+        },
+        {
+          "s": 7,
+          "t": "You compare me to the cats in town? Such... Hmph. Follow closely and try not to get lost, then."
+        },
+        {
+          "s": 0,
+          "t": "Wow, he just jumped down! Can cats swim?"
+        },
+        {
+          "section": "Osse, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Huh, Paimon didn't think there'd be such a huge space down below. Guess you do know your stuff, Osse!"
+        },
+        {
+          "s": 7,
+          "t": "This is but the tip of the iceberg! Once, an entire nation and the land upon which it was built sank beneath the waves... and my mission is to prevent that which has sunk from resurfacing."
+        },
+        {
+          "s": 7,
+          "t": "...Or so I believe."
+        },
+        {
+          "sit": "Poof, and just like that, you suddenly seem a lot less reliable..."
+        },
+        {
+          "sit": "I really wish I had a reliable guide."
+        },
+        {
+          "s": 7,
+          "t": "Well, what am I but a cat that knows an inkling more than those in town, hmm?"
+        },
+        {
+          "s": 7,
+          "t": "Hehe... Anyway, we are the sole arbiters of whether the souls of the townsfolk can safely return to their bodies or not, so eyes up, now."
+        },
+        {
+          "s": 7,
+          "t": "The Faded Castle is just through that great gate. Let us continue onward."
+        },
+        {
+          "section": "Osse, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Whoa, Paimon bets a lot of people can live in a huge castle like this!"
+        },
+        {
+          "s": 7,
+          "t": "But of course! And not just people, either..."
+        },
+        {
+          "s": 0,
+          "t": "Hey! There you go again, saying creepy stuff with a straight face!"
+        },
+        {
+          "s": 7,
+          "t": "Oh, fret not! Surely heroes such as yourselves would dispatch any hidden ghosts or phantoms without breaking a sweat?"
+        },
+        {
+          "s": 0,
+          "t": "And what is this? What an exquisite box! Seems like a music box of some kind! Still, it doesn't seem to fit in too well with its surroundings."
+        },
+        {
+          "s": 7,
+          "t": "Good eye. That is indeed a music box, but just as I have knowledge beyond ordinary cats, this music box has functions beyond most others."
+        },
+        {
+          "sit": "What, can it speak too?"
+        },
+        {
+          "sit": "My my, I didn't think you would be so catty..."
+        },
+        {
+          "s": 7,
+          "t": "Hmm? That... did not cross my mind. Regrettably, it does not have such a function — for now, at least."
+        },
+        {
+          "s": 7,
+          "t": "Anyway, even those who lack any musical knowledge can freely operate the power of the \"Symphony\" using this box. We will have use of it later, I am sure."
+        },
+        {
+          "s": 0,
+          "t": "Huh? But isn't it because this \"Symphony\" has gone all whacky that all the townsfolk turned into... whatever they are now? So what if {NICKNAME} presses the wrong button or something?"
+        },
+        {
+          "sit": "The \"Symphony\" here may also become chaotic..."
+        },
+        {
+          "sit": "What sort of clumsy clod do you take me for, Paimon?"
+        },
+        {
+          "sit": "And become \"the source of all sins\"..."
+        },
+        {
+          "s": 0,
+          "t": "Wait, what? What \"sins\"? You okay over there, {NICKNAME}?"
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "Peace, now, you need not be so fretful. The \"Symphony\" was mighty, beautiful, and glorious once, an existence that shouldered golden ideals."
+        },
+        {
+          "s": 7,
+          "t": "That it sows chaos upon the surface is a mere mishap of misalignment, the result of evildoers misusing great, glorious power."
+        },
+        {
+          "s": 7,
+          "t": "But were it {NICKNAME}, surely he(she) would wield its power correctly."
+        },
+        {
+          "sit": "That's quite a lot of trust you're putting in us."
+        },
+        {
+          "sit": "I wouldn't be so sure if I were you..."
+        },
+        {
+          "s": 7,
+          "t": "It might be more accurate to say that I have no other option. I am a mere cat at present, after all. Should I wish to make use of the music box myself, it might prove somewhat difficult."
+        },
+        {
+          "s": 7,
+          "t": "We have spoken this much. Now, to put things to the test. Remember the strings we got from the harp in the ruins? Those were, in truth, the \"scores\" on which the \"Symphony\" was recorded."
+        },
+        {
+          "s": 7,
+          "t": "As long as you place the score into the music box, the box shall play its tune all on its own."
+        },
+        {
+          "section": "Osse"
+        },
+        {
+          "s": 0,
+          "t": "Ooh, that's a pretty happy tune, Paimon's feeling all warm and fuzzy inside..."
+        },
+        {
+          "s": 7,
+          "t": "Hehe, it seems this box still functions. Well now, are we not safe?"
+        },
+        {
+          "s": 0,
+          "t": "Wait, so you weren't even sure if it would work or not!?"
+        },
+        {
+          "s": 7,
+          "t": "Not completely. One cannot judge a box by its cover, do you not concur?"
+        },
+        {
+          "s": 0,
+          "t": "Paimon gets the feeling that you're not talking about the box at all... But never mind that. What should we do now?"
+        },
+        {
+          "s": 7,
+          "t": "The chaotic \"Symphony\" must be here. If we can locate it, we can retrieve the souls that have been taken from the townsfolk."
+        },
+        {
+          "sit": "Then let's have a look around for starters."
+        },
+        {
+          "s": 7,
+          "t": "A reasonable judgment. If memory serves, this castle has a great many strange rooms. Perhaps they are worth investigating first."
+        },
+        {
+          "s": 7,
+          "t": "Also, the castle's central hall plays host to a mysterious stage. Though no more plays shall ever be performed there..."
+        },
+        {
+          "s": 7,
+          "t": "It was once an entrance to a place deeper underwater still, where the power of the \"Symphony\" yet lingers. We must go and check for any further anomalies there."
+        },
+        {
+          "s": 0,
+          "t": "Deeper still...?"
+        },
+        {
+          "s": 7,
+          "t": "Indeed. I wonder what awaits us there?"
+        },
+        {
+          "s": 0,
+          "t": "Hey, now's not the time to leave us hanging, Osse! You're a surprisingly petty one, huh?"
+        },
+        {
+          "s": 7,
+          "t": "Still, before the riddle may be solved, we must first find the clues that await us in the castle. Come, let us away."
+        }
+      ],
+      "description": "You encounter a series of strange occurrences after arriving in Petrichor for the first time. You decide to get to the bottom of it all…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Leader",
+    "The Dude They Call \"Idiot\"",
+    "Cassiodor",
+    "Scylla",
+    "\"Bellringer\"",
+    "Este",
+    "Osse"
+  ],
+  "id": "q-74184"
+}

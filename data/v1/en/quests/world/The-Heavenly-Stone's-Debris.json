@@ -1,0 +1,878 @@
+{
+  "chapter": "The Chasm Delvers",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Heavenly Stone's Debris",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Heavenly Stone's Debris",
+      "dialogue": [
+        {
+          "section": "Clitopho"
+        },
+        {
+          "s": 0,
+          "t": "How did it go? Did you finish making the Unmoving Essential Oil?"
+        },
+        {
+          "s": 1,
+          "t": "We got it! And we took good care of it, too!"
+        },
+        {
+          "sit": "Here it is."
+        },
+        {
+          "section": "Clitopho, Paimon"
+        },
+        {
+          "s": 1,
+          "t": "We've found the cannonballs! They're in perfect shape! How do the fuses look?"
+        },
+        {
+          "s": 0,
+          "t": "Not great. They can't be used anymore."
+        },
+        {
+          "sit": "How did that happen?"
+        },
+        {
+          "s": 0,
+          "t": "The fuses in here have all been designed such that they are activated by a catalytic reaction with Geo, but the anomalies down here in the mines must have affected them."
+        },
+        {
+          "s": 0,
+          "t": "The Geo-catalytic elements within the fuses have all turned into this strange, inert blue crystal, so they're all useless."
+        },
+        {
+          "s": 0,
+          "t": "Well, that's not good. We weren't prepared for such strange goings-on."
+        },
+        {
+          "s": 1,
+          "t": "Well, there were definitely some words in there that Paimon didn't get at all."
+        },
+        {
+          "sit": "So, what happens to the cannonballs without the fuses?"
+        },
+        {
+          "s": 0,
+          "t": "Uh, that's not a very bright question..."
+        },
+        {
+          "s": 1,
+          "t": "Eh? What was that again? Paimon couldn't hear you."
+        },
+        {
+          "s": 0,
+          "t": "Nothing... Nothing. I'm just saying that without their fuses, none of these cannonballs would explode even if you kicked them around like a ball."
+        },
+        {
+          "s": 0,
+          "t": "Because, uh, well. The fuse is what makes the explosive material explode, you know? The fuse reacts with Geo, and then with the contents of the cannonball, and then..."
+        },
+        {
+          "s": 1,
+          "t": "And then \"BOOM\"! Right?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, \"boom.\" But without their fuses, these cannonballs won't explode at all. Ugh, this is going to be tough."
+        },
+        {
+          "sit": "Aren't Geo reactions themselves inert?"
+        },
+        {
+          "s": 0,
+          "t": "Aye, that's basic alchemical knowledge, that is. However, the potential energy within elements can be quite hard to estimate."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, for example, if you were to pressurize Geo elemental particles such that they would be densely packed inside a small vessel, an elemental reaction would generate significant explosive force all the same."
+        },
+        {
+          "s": 1,
+          "t": "Huh. That reminds Paimon of the curious abilities used by people with Geo Visions."
+        },
+        {
+          "s": 1,
+          "t": "Huh. Then where do they hide all the Geo elements they use?"
+        },
+        {
+          "s": 0,
+          "t": "The principles work differently for elemental users. That's a completely separate matter to how the miners of Liyue make ad-hoc fuses."
+        },
+        {
+          "s": 1,
+          "t": "...You know, how does a Treasure Hoarder from Mondstadt like you know all this stuff better than people from Liyue?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, wanna guess?"
+        },
+        {
+          "s": 1,
+          "t": "Gah! Can we hit this guy already?"
+        },
+        {
+          "sit": "Come now, Paimon. Sit, sit."
+        },
+        {
+          "sit": "So, is there any way to switch the fuses?"
+        },
+        {
+          "s": 1,
+          "t": "Hey! Paimon's not your dog or something!"
+        },
+        {
+          "s": 0,
+          "t": "*cough* Well, if you trust me, I could make a simple fuse here at the Crafting Bench."
+        },
+        {
+          "s": 1,
+          "t": "Eh, you know what? It's not that we don't trust you, but you are a Treasure Hoarder, and you're not a miner, either... Who's to say you won't blow us all sky-high?"
+        },
+        {
+          "s": 1,
+          "t": "And even if Paimon does trust you, it's not like {NICKNAME} would..."
+        },
+        {
+          "sit": "Well, the job's all yours."
+        },
+        {
+          "s": 1,
+          "t": "Eh? Didn't Zhiqiong say..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, alright, stop explaining already! Ugh, what's Paimon going to do about you..."
+        },
+        {
+          "sit": "I doubt he'd risk blowing himself sky-high as well..."
+        },
+        {
+          "sit": "We'll keep an eye on him, Paimon, relax."
+        },
+        {
+          "s": 1,
+          "t": "If you ask Paimon, this is how all the bad guys in stories would want it to go."
+        },
+        {
+          "s": 1,
+          "t": "But since you say so, Paimon will listen to what he has to say."
+        },
+        {
+          "sit": "Alright, Clitopho, go ahead."
+        },
+        {
+          "s": 0,
+          "t": "It's not that hard, actually. It's just that there is some minute risk involved, in case you're worried."
+        },
+        {
+          "s": 0,
+          "t": "We just need to get one vial of Unmoving Essential Oil with double the usual density."
+        },
+        {
+          "s": 1,
+          "t": "Isn't that some kind of potion?"
+        },
+        {
+          "s": 0,
+          "t": "Exactly. As I said earlier, a double-density potion can also serve to catalyze an elemental explosion. I used this principle to collapse some tunnels during my time with the Treasure... Uh, sorry. Never mind that I said that."
+        },
+        {
+          "s": 1,
+          "t": "It's fine. We don't really care about your Hoarder days!"
+        },
+        {
+          "sit": "If I might ask, how \"minute\" is this risk?"
+        },
+        {
+          "s": 0,
+          "t": "Well, if an accidental explosion occurs — which it might, considering the unstable nature of concentrated essential oils — the explosion shouldn't be able to drastically alter any geological formations."
+        },
+        {
+          "s": 1,
+          "t": "Oh, that's a pretty small explosion, then. That's fine! Paimon's not too worried."
+        },
+        {
+          "s": 0,
+          "t": "That said, any organic matter within the explosion radius might experience \"disintegration,\" \"breakage,\" \"leakage,\" \"separation,\" and..."
+        },
+        {
+          "sit": "No need for the jargon. I get it."
+        },
+        {
+          "sit": "It's going to be a mess."
+        },
+        {
+          "s": 1,
+          "t": "Paimon didn't get it, but it sure sounds scary..."
+        },
+        {
+          "s": 0,
+          "t": "Khedive has set up a Crafting Bench back at camp, but we can first attempt to follow the formula to make the essential oils here."
+        },
+        {
+          "s": 0,
+          "t": "If you don't have enough materials on hand, you can find some other way to get the essential oil we need, and we can continue from there... Uh, please keep the formula with you. Just follow it, and we'll be fine."
+        },
+        {
+          "s": 0,
+          "t": "In any case, please be careful when walking around with said oil. Shake it too much or drop it accidentally, and there might be an explosive accident."
+        },
+        {
+          "s": 1,
+          "t": "Alright, alright, stop trying to scare us already!"
+        },
+        {
+          "section": "Clitopho"
+        },
+        {
+          "s": 0,
+          "t": "How was it? Did you have any trouble putting the Unmoving Essential Oil together?"
+        },
+        {
+          "sit": "It went alright."
+        },
+        {
+          "sit": "It was a bit difficult..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, that's fine, that's fine. Even a seven-year-old kid should be able to read the formula I wrote! Just try it a couple more times — just mind you don't hurt yourself!"
+        },
+        {
+          "section": "Clitopho, Zhiqiong, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Huh, alright, that's it, don't shake it... steady now... Alright. Looks like this will do. Now, we just need to insert the fuse into the cannonball."
+        },
+        {
+          "sit": "Clitopho busies himself mounting the fuse onto the cannonball..."
+        },
+        {
+          "s": 0,
+          "t": "Okay, that should do it. Be careful now, don't bump that thing around everywhere, or things might get lively in here."
+        },
+        {
+          "s": 2,
+          "t": "I'm back with a new map! Go on, have a look!"
+        },
+        {
+          "sit": "Thanks for your trouble."
+        },
+        {
+          "s": 1,
+          "t": "Nice!"
+        },
+        {
+          "s": 2,
+          "t": "Ah, it was nothing. I'm just glad to be able to help. How are things on your end? Did you find the cannonballs?"
+        },
+        {
+          "s": 0,
+          "t": "Hey, careful! This one's got a fuse in it already. If you move it around too much, we're all gonna be done for!"
+        },
+        {
+          "s": 2,
+          "t": "Hey, hey, hey! When did you start putting on airs?"
+        },
+        {
+          "s": 0,
+          "t": "If you were the one holding the bomb, you'd sound pretty brave too, I'll bet."
+        },
+        {
+          "s": 2,
+          "t": "Is that a threat? Have you stopped hiding your true Treasure Hoarder colors already? Well? Gonna blow us up now?"
+        },
+        {
+          "s": 0,
+          "t": "Come on, I've said this before: bombs are indiscriminate. You go on like this, and I don't think it'll matter whether *I* want to blow you up or not."
+        },
+        {
+          "s": 2,
+          "t": "Hmph. It's not like I can read your mind or something. Who knows what thoughts you're having in that mind of yours?"
+        },
+        {
+          "s": 2,
+          "t": "You Treasure Hoarders are all the same. Criminal minds with criminal mindsets. And now you've even got the bomb with you. Great, huh?"
+        },
+        {
+          "s": 0,
+          "t": "And what of that? If it was in your hands, you'd have blown us up 30 times by now!"
+        },
+        {
+          "sit": "Just to clarify, I'm the one holding the bomb."
+        },
+        {
+          "sit": "What are you two, children? Cut it out already."
+        },
+        {
+          "s": 2,
+          "t": "...Sorry. I just don't trust this Treasure Hoarder."
+        },
+        {
+          "s": 0,
+          "t": "That works for me. I can barely respect someone who jumps at every shadow she sees, either."
+        },
+        {
+          "sit": "Hey, are you two even listening!?"
+        },
+        {
+          "s": 2,
+          "t": "...Okay, okay."
+        },
+        {
+          "s": 0,
+          "t": "Alright, go ahead."
+        },
+        {
+          "sit": "So, I'm not asking you two to trust each other or anything..."
+        },
+        {
+          "s": 2,
+          "t": "I know, but he..."
+        },
+        {
+          "sit": "You don't know what we were doing earlier."
+        },
+        {
+          "sit": "May I have a word..."
+        },
+        {
+          "s": 0,
+          "t": "That's true. She wasn't around to see us working on that bomb, after all..."
+        },
+        {
+          "sit": "You shut it as well."
+        },
+        {
+          "sit": "Hey, listen here!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "...But if you don't work together, we're going to get nowhere fast."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "sit": "That's all I have to say."
+        },
+        {
+          "sit": "Just don't make me regret joining the exploration team. Thanks."
+        },
+        {
+          "s": 1,
+          "t": "Wow, {NICKNAME} actually got mad... Let's just drop that argument already, okay?"
+        },
+        {
+          "s": 1,
+          "t": "The two of you've already put up walls before you can even talk. That's no way to properly communicate!"
+        },
+        {
+          "s": 1,
+          "t": "Since we're all on the same exploration team, let's just talk nicely, okay? Just this once?"
+        },
+        {
+          "sit": "Regardless, I'm going to go operate the Mountainator."
+        },
+        {
+          "sit": "Anyone coming with me?"
+        },
+        {
+          "s": 2,
+          "t": "I'll go with you."
+        },
+        {
+          "s": 0,
+          "t": "I'll stay in the camp then... Uh, don't get me wrong, I'd love to help, but I think Jinwu needs my help more. I've also got to thank her for taking me in, you know?"
+        },
+        {
+          "s": 2,
+          "t": "Uhh... It's fine, I... Since {NICKNAME} has said so, I'll trust you. Not that I didn't before, but..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, alright, let's head off before you start arguing again!"
+        },
+        {
+          "section": "Zhiqiong, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "We should be able to load the cannonball now. Be careful, the fuse has already been mounted..."
+        },
+        {
+          "s": 1,
+          "t": "Ugh, if we had known that we had to do this, we should have just mounted the fuse here and loaded the cannon all at once!"
+        },
+        {
+          "sit": "That's all water under the bridge by now, Paimon..."
+        },
+        {
+          "s": 2,
+          "t": "Give me a hand over here, please!"
+        },
+        {
+          "sit": "You load the cannon safely."
+        },
+        {
+          "section": "Zhiqiong"
+        },
+        {
+          "s": 2,
+          "t": "Look! We've done it!"
+        },
+        {
+          "s": 1,
+          "t": "Awesome! Bullseye!"
+        },
+        {
+          "sit": "Awesome, Zhiqiong!"
+        },
+        {
+          "sit": "Just as planned."
+        },
+        {
+          "s": 2,
+          "t": "Looks like that Clitopho does know what he's talking about after all. Guess we blamed him unjustly..."
+        },
+        {
+          "sit": "See what I told you?"
+        },
+        {
+          "sit": "You mean you blamed him unjustly. Go apologize once you have the time."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Yeah, you were right. I was too hasty."
+        },
+        {
+          "s": 1,
+          "t": "Paimon wonders what's up ahead. Ooh, it's scary, but it's also exciting! Shall we continue onward?"
+        },
+        {
+          "s": 2,
+          "t": "Yes, let's go."
+        },
+        {
+          "section": "Zhiqiong, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "Lumenstone only started springing up like mushrooms within The Chasm after the miners discovered this thing... This is definitely no coincidence."
+        },
+        {
+          "s": 2,
+          "t": "From the way it floats and its damaged state, it really does look like the fragments that Iris said existed on Dragonspine."
+        },
+        {
+          "s": 2,
+          "t": "And yeah, I am talking about those floating fragments that you found earlier. Who knows, they might also be inexorably attracted to unite with a large fragment somewhere..."
+        },
+        {
+          "s": 2,
+          "t": "Perhaps some nameless ancient civilization sleeps under our feet, just like the ancient catacombs on Dragonspine. What do you think?"
+        },
+        {
+          "sit": "It's possible."
+        },
+        {
+          "sit": "We'll only know if we go deeper within."
+        },
+        {
+          "s": 2,
+          "t": "The changes to the geological structure of The Chasm have been... accelerating. The black substance that you see covering the rocks only started showing up everywhere recently."
+        },
+        {
+          "s": 2,
+          "t": "I can't be sure, but I think that these things are all related: the mud, the flowing light, and this floating crystal fragment."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Why would you think that?"
+        },
+        {
+          "s": 2,
+          "t": "Well, that's because they all make me feel sort of... queasy?"
+        },
+        {
+          "s": 2,
+          "t": "It's like getting motion sick on a carriage, or like losing your sense of direction on a ship in a storm..."
+        },
+        {
+          "s": 1,
+          "t": "Eh? Really? Paimon feels alright."
+        },
+        {
+          "sit": "Are you unwell?"
+        },
+        {
+          "sit": "If you don't feel so good, we can return to camp first."
+        },
+        {
+          "s": 2,
+          "t": "Thanks for your concern, but I'm fine. I've had my fair share of bouts of vertigo or seasickness. I'll be okay."
+        },
+        {
+          "sit": "Don't push yourself more than you should, alright?"
+        },
+        {
+          "sit": "Please take care of yourself."
+        },
+        {
+          "s": 2,
+          "t": "Mm-hmm, thanks. Ah, yes. Have you noticed...?"
+        },
+        {
+          "s": 2,
+          "t": "There are three strange devices around this crystal... thing. We should probably investigate them. What do you think?"
+        },
+        {
+          "section": "Zhiqiong, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "Lumenstone only started springing up like mushrooms within The Chasm after the miners discovered this thing... This is definitely no coincidence."
+        },
+        {
+          "s": 2,
+          "t": "The changes to the geological structure of The Chasm have been... accelerating. The black substance that you see covering the rocks only started showing up everywhere recently."
+        },
+        {
+          "s": 2,
+          "t": "I can't be sure, but I think that these things are all related: the mud, the flowing light, and this floating crystal fragment."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Why would you think that?"
+        },
+        {
+          "s": 2,
+          "t": "Well, that's because they all make me feel sort of... queasy?"
+        },
+        {
+          "s": 2,
+          "t": "It's like getting motion sick on a carriage, or like losing your sense of direction on a ship in a storm..."
+        },
+        {
+          "s": 1,
+          "t": "Eh? Really? Paimon feels alright."
+        },
+        {
+          "sit": "You alright?"
+        },
+        {
+          "sit": "If you don't feel so good, we can return to camp first."
+        },
+        {
+          "s": 2,
+          "t": "Thanks for your concern, but I'm fine. I've had my fair share of bouts of vertigo or seasickness. I'll be okay."
+        },
+        {
+          "sit": "Don't push yourself more than you should, alright?"
+        },
+        {
+          "sit": "Please take care of yourself."
+        },
+        {
+          "s": 2,
+          "t": "Mm-hmm, thanks. Ah, yes. Have you noticed...?"
+        },
+        {
+          "s": 2,
+          "t": "There are three strange devices around this crystal... thing. We should probably investigate them. What do you think?"
+        },
+        {
+          "section": "Zhiqiong"
+        },
+        {
+          "s": 2,
+          "t": "Phew... Thanks. Those monsters were just too much... I've never seen them before, either. Where did they come from?"
+        },
+        {
+          "s": 1,
+          "t": "Whoa, how are you more tired than we are? {NICKNAME} was doing all the fighting, really."
+        },
+        {
+          "sit": "We'll take you back to camp to rest."
+        },
+        {
+          "sit": "You'd best stay away from this thing. It's probably for the best."
+        },
+        {
+          "s": 2,
+          "t": "Sorry for... being a burden... I'll be fine. Just need to... get some rest over here. The air though, it's... kinda thin. Chest feels kinda... tight."
+        },
+        {
+          "s": 1,
+          "t": "Ugh, look at you. Even Paimon's starting to feel a bit uncomfortable now."
+        },
+        {
+          "s": 2,
+          "t": "It's fine... Let's go ahead and have a look at... those devices. I saw some spots of light floating coming to rest on those cliffs above... It's almost like they're... alive..."
+        },
+        {
+          "s": 1,
+          "t": "Um... You'd best just rest here for now. We'll go alone! And don't collapse on us here, okay?"
+        },
+        {
+          "s": 1,
+          "t": "Let's go investigate those spots of light, shall we, {NICKNAME}?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon gets a feeling that they might be the key to reactivating those devices..."
+        },
+        {
+          "section": "Zhiqiong, Paimon"
+        },
+        {
+          "s": 2,
+          "t": "*cough* *cough* *panting*"
+        },
+        {
+          "s": 2,
+          "t": "Phew...! That's better! Much better! The air... *cough* suddenly got a whole lot cleaner!"
+        },
+        {
+          "s": 2,
+          "t": "That thing... flew away, and blasted a path open for us?"
+        },
+        {
+          "s": 1,
+          "t": "Whoa, you scared us! It's almost like you had a case of \"terminal acidity.\""
+        },
+        {
+          "sit": "Paimon, don't you mean \"terminal lucidity\"?"
+        },
+        {
+          "sit": "You probably need to go back to class, Paimon."
+        },
+        {
+          "s": 1,
+          "t": "Oh yeah, sure, just focus on Paimon and stuff!"
+        },
+        {
+          "sit": "By the way, \"terminal lucidity\" is not used this way!"
+        },
+        {
+          "s": 1,
+          "t": "Shouldn't we be more concerned about Zhiqiong?"
+        },
+        {
+          "s": 2,
+          "t": "Haha, I'm fine now. I was just suffering from maladjustment a moment ago, so I might have looked pretty frightening. But I'm fine now. Please don't worry."
+        },
+        {
+          "s": 2,
+          "t": "It's like how people might feel faint due to the thinned air if they climb a very high mountain for the first time, or find it hard to breathe in deep waters."
+        },
+        {
+          "s": 2,
+          "t": "These are all small problems — things every good adventurer must overcome. No problem at all, really."
+        },
+        {
+          "s": 1,
+          "t": "Small problems, says the person who talks about them so dramatically."
+        },
+        {
+          "sit": "You sure you're alright?"
+        },
+        {
+          "sit": "You shouldn't get too close to the crystal all the same."
+        },
+        {
+          "s": 1,
+          "t": "Also, don't watch from so close when we're fighting! Just look at the state you're in already."
+        },
+        {
+          "s": 2,
+          "t": "I'll be fine, really! Don't you underestimate me..."
+        },
+        {
+          "s": 2,
+          "t": "That's what adventurers should be like. They should walk with death and consider deadly peril a friend."
+        },
+        {
+          "s": 2,
+          "t": "We fear neither death nor danger..."
+        },
+        {
+          "s": 2,
+          "t": "So... *cough* This is nothing I can't handle."
+        },
+        {
+          "s": 1,
+          "t": "What... are you even talking about..."
+        },
+        {
+          "s": 2,
+          "t": "It's nothing. Please don't worry about me! *cough*"
+        },
+        {
+          "sit": "Not a few paces away from where you nearly collapsed, and you're talking nonsense again."
+        },
+        {
+          "sit": "I'm just worried about your safety."
+        },
+        {
+          "s": 1,
+          "t": "That's right! We're talking about something different altogether... Stop being stubborn and go back to the surface to rest!"
+        },
+        {
+          "s": 2,
+          "t": "No, please... *cough* listen to me. They're not different. They're the same thing."
+        },
+        {
+          "s": 2,
+          "t": "What just happened was just a small setback. I can overcome it for sure."
+        },
+        {
+          "s": 2,
+          "t": "The environment here is no harsher than that of the Mare Jivari... Please don't laugh at me, but I don't think I'm much inferior to Stanley in adventures."
+        },
+        {
+          "s": 2,
+          "t": "Then ordinary people like me can do the same as those seasoned adventurers, just with some extra grit!"
+        },
+        {
+          "s": 2,
+          "t": "That's what I believe. I will persist no matter what... and I'll do my best not to be a burden to you."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 1,
+          "t": "Then let Paimon ask you a question. Earlier, when you came into contact with that... black, muddy, smelly stuff, did you feel uncomfortable like this, too?"
+        },
+        {
+          "s": 2,
+          "t": "Kinda? It wasn't that serious..."
+        },
+        {
+          "s": 1,
+          "t": "Don't try to downplay it! Give us an honest answer!"
+        },
+        {
+          "s": 2,
+          "t": "Well, yes, but... Just like this time, I just needed to tough it out, you know? It was nothing serious..."
+        },
+        {
+          "s": 1,
+          "t": "This person has got to be the King of the Land of Understatements! How can you be sure that you won't be in mortal danger if exposed to it for too long?"
+        },
+        {
+          "sit": "You might feel better if you go back to the camp and take a rest."
+        },
+        {
+          "sit": "You need to go back and take a rest."
+        },
+        {
+          "s": 2,
+          "t": "I can't! This expedition has just gotten exciting, you know? I don't want to slow us down..."
+        },
+        {
+          "sit": "It's best that you go and tell everyone else what we've found."
+        },
+        {
+          "sit": "The other people on this expedition need you to lead the way for them."
+        },
+        {
+          "s": 1,
+          "t": "That's right... Jinwu, Khedive, and the others still need you to guide them! If you run off by yourself into the depths, who's going to lead the way for them?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "sit": "Please go back and tell them of the dangers that may await them ahead."
+        },
+        {
+          "sit": "You can guide them and steer them clear of any hazardous areas."
+        },
+        {
+          "s": 2,
+          "t": "But... But..."
+        },
+        {
+          "sit": "No worries. We'll be fine."
+        },
+        {
+          "sit": "Let's rendezvous in the front later."
+        },
+        {
+          "s": 2,
+          "t": "...Okay. I understand."
+        },
+        {
+          "sit": "Do you really?"
+        },
+        {
+          "sit": "Do be careful."
+        },
+        {
+          "s": 2,
+          "t": "Um... I'll go back to camp and guide them through a safe path clear of the dark mud as we go deeper into The Chasm."
+        },
+        {
+          "s": 2,
+          "t": "Sorry, I was being too stubborn."
+        },
+        {
+          "s": 1,
+          "t": "Hmph, better keep your promises and hold your horses and stay clear of dangerous places!"
+        },
+        {
+          "s": 2,
+          "t": "Pfft... Alright, I get it. I'll do as you say."
+        },
+        {
+          "s": 1,
+          "t": "That's the spirit! {NICKNAME}, let's head off!"
+        },
+        {
+          "section": "Clitopho"
+        },
+        {
+          "s": 0,
+          "t": "Thanks for your faith in me. I won't let everyone down."
+        },
+        {
+          "sit": "Well, I still need to see results from you."
+        },
+        {
+          "sit": "If this doesn't work out, I'm coming straight for you."
+        },
+        {
+          "s": 0,
+          "t": "Um, alright... In that case, I won't waste your time any further."
+        }
+      ],
+      "description": "To get to ever-deeper levels of The Chasm, you must open the path that was blocked by large stones back when the mine was sealed. Looks like you’ll have to borrow the power of the Mountainator this time…"
+    }
+  ],
+  "speakers": [
+    "Clitopho",
+    "Paimon",
+    "Zhiqiong"
+  ],
+  "id": "q-71042"
+}

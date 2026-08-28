@@ -1,0 +1,5735 @@
+{
+  "chapter": "Chapter V",
+  "chapter_title": null,
+  "act": "Act IV",
+  "act_title": "The Rainbow Destined to Burn",
+  "region": "Natlan",
+  "quests": [
+    {
+      "title": "Beneath the Secret Source",
+      "dialogue": [
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 0,
+          "t": "Mavuika!"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, Paimon, Citlali — perfect timing. I've located The Captain."
+        },
+        {
+          "s": 0,
+          "t": "R—Really? That's great! We also just took a peek at Ororon's memories, and discovered something huge!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, uh... all with his Granny's permission, of course! Or, no, actually it was—"
+        },
+        {
+          "s": 2,
+          "t": "Calm down, Paimon. I'll take it from here..."
+        },
+        {
+          "s": 1,
+          "t": "So, The Captain was searching for the Source Mechanism to reconstruct the Ley Lines."
+        },
+        {
+          "s": 1,
+          "t": "If his plan is already in motion, that means he knows exactly how to accomplish his goal. We have to stop him."
+        },
+        {
+          "s": 0,
+          "t": "I—Is reconstructing the Ley Lines a bad thing?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. It's not a simple fix. It would mean sacrificing nearly everything contained within the current Ley Lines — very similar to the price of using a Gnosis."
+        },
+        {
+          "s": 1,
+          "t": "If he activates the mechanism, it's all over. We need to mobilize our forces as soon as possible."
+        },
+        {
+          "s": 0,
+          "t": "But, what forces do we have?"
+        },
+        {
+          "s": 1,
+          "t": "Kinich, Xilonen, you two, and myself. All other warriors are working to push back the Abyss on the frontlines."
+        },
+        {
+          "s": 0,
+          "t": "But, that's barely any people. Not to mention, you lost your power, and they've got The Captain on their side! Maybe we really should get Citlali to break Ororon's legs..."
+        },
+        {
+          "s": 1,
+          "t": "That won't help us with The Captain, I'm afraid. In any case, the Masters of the Night-Wind are in urgent need of manpower. Citlali, I was hoping you could head back and help defend the tribe."
+        },
+        {
+          "s": 2,
+          "t": "...Alright. I understand where I'm needed. I'll head out right away."
+        },
+        {
+          "s": 0,
+          "t": "Don't worry about your grandson. We'll figure something out for sure!"
+        },
+        {
+          "s": 2,
+          "t": "...I'll leave him to you all, then."
+        },
+        {
+          "s": 1,
+          "t": "Alright, back to the matter at hand. I don't believe defeating The Captain needs to be our ultimate goal."
+        },
+        {
+          "s": 1,
+          "t": "Let me grab Xilonen and Kinich. Then, I'll tell you my idea."
+        },
+        {
+          "s": 1,
+          "t": "As you all know, Ororon is working with The Captain, and we need to stop their plan."
+        },
+        {
+          "s": 1,
+          "t": "The Captain is a formidable opponent, but that shouldn't deter us. In any case, a head-on confrontation isn't the best way to solve the issue."
+        },
+        {
+          "s": 1,
+          "t": "Their plan hinges entirely on a single element — the Source Mechanism. If we leverage our forces, we can destroy it. And then, success is ours."
+        },
+        {
+          "s": 1,
+          "t": "We'll head out together. In the event that a confrontation becomes inevitable, I'll stall The Captain while you advance."
+        },
+        {
+          "s": 3,
+          "t": "No, you're our leader, and you've lost your power. You shouldn't be the one to face The Captain."
+        },
+        {
+          "s": 4,
+          "t": "I agree with Kinich. The two of us can handle it."
+        },
+        {
+          "s": 1,
+          "t": "Listen to my plan, first. Kinich, I want you and Ajaw to launch an assault from the front and break through the Fatui defenses."
+        },
+        {
+          "s": 1,
+          "t": "The Captain won't be on the frontlines. As a seasoned warrior, he'll be stationed in close proximity to the device to ensure its protection."
+        },
+        {
+          "s": 3,
+          "t": "So, you want us to lure him to the front?"
+        },
+        {
+          "s": 1,
+          "t": "No, the purpose of the frontal assault is to gather the Fatui forces in one place. That way, it's easier for the rest of us to avoid them."
+        },
+        {
+          "s": 1,
+          "t": "Xilonen, I need you to do what your tribe does best, and dig a tunnel from the outskirts of the ruin. Once we get close to the device, we just need to destroy it."
+        },
+        {
+          "s": 3,
+          "t": "So, Xilonen is launching the main assault."
+        },
+        {
+          "s": 1,
+          "t": "Exactly. {NICKNAME} and I will join her, as well."
+        },
+        {
+          "s": 1,
+          "t": "No one can create a distraction better than you, Kinich — not even myself. By combining our strengths, we just might manage to break through The Captain's defenses."
+        },
+        {
+          "s": 3,
+          "t": "Leave it to me."
+        },
+        {
+          "s": 4,
+          "t": "Understood. Then, we should head out now."
+        },
+        {
+          "s": 4,
+          "t": "Just promise us you won't do anything reckless. You cannot face The Captain straight on unless you have no other choice."
+        },
+        {
+          "s": 4,
+          "t": "You mean everything to us. Losing you would be the worst possible outcome."
+        },
+        {
+          "sit": "I'll also try my best to not let things get to that point."
+        },
+        {
+          "s": 1,
+          "t": "Thank you, everyone. You have my word — I'll proceed with caution."
+        },
+        {
+          "section": "Kinich, Solnev"
+        },
+        {
+          "s": 1,
+          "t": "Alright, this is the place. Their tunnel must be behind that gathering of Fatui guards."
+        },
+        {
+          "s": 4,
+          "t": "Any of the nearby mountains could be a good infiltration point. But, if we want to stay under the radar, we should approach from the side."
+        },
+        {
+          "s": 3,
+          "t": "As agreed, Ajaw and I will handle things at the front."
+        },
+        {
+          "s": 1,
+          "t": "There are only a few Fatui stationed around the perimeter. We should take care of them first, so they can't alert anyone."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, don't get too close! Kinich is handling things over there!"
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "What do you think, Xilonen? Is this a good spot?"
+        },
+        {
+          "s": 4,
+          "t": "Looks good. We'll take it from here."
+        },
+        {
+          "sit": "Keeping as quiet as possible, tribespeople from the Children of Echoes make quick work of digging a tunnel."
+        },
+        {
+          "s": 6,
+          "t": "I can see the inside!"
+        },
+        {
+          "s": 4,
+          "t": "Perfect. We'll keep going. The rest of you should head back. Things are about to get dangerous."
+        },
+        {
+          "s": 6,
+          "t": "Alright. Please take care!"
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "This spell is from the Masters of the Night-Wind. It's Ororon's doing. They're probably trying to buy time."
+        },
+        {
+          "section": "\"The Captain\""
+        },
+        {
+          "s": 4,
+          "t": "This must be it."
+        },
+        {
+          "s": 0,
+          "t": "There they are!"
+        },
+        {
+          "s": 4,
+          "t": "(The Captain's here too. Perfect... looks like they focused their defenses over there.)"
+        },
+        {
+          "s": 7,
+          "t": "They're here."
+        },
+        {
+          "s": 8,
+          "t": "Huh, I thought the Pyro Archon would choose a frontal assault."
+        },
+        {
+          "s": 7,
+          "t": "It doesn't matter. They're too late anyway."
+        },
+        {
+          "s": 1,
+          "t": "Stop!"
+        },
+        {
+          "s": 8,
+          "t": "It's too late."
+        },
+        {
+          "s": 4,
+          "t": "We need to turn it off!"
+        },
+        {
+          "sit": "(There's still time!)"
+        },
+        {
+          "s": 7,
+          "t": "I won't let you do this!"
+        },
+        {
+          "s": 9,
+          "t": "—!!!"
+        },
+        {
+          "s": 7,
+          "t": "!?"
+        },
+        {
+          "s": 8,
+          "t": "The sound of... lament?"
+        },
+        {
+          "s": 0,
+          "t": "What was that sound? It was like a piercing cry..."
+        },
+        {
+          "s": 4,
+          "t": "(Now's our chance to turn off the device!)"
+        },
+        {
+          "sit": "(So close... We need to approach from the side and lure The Captain away...)"
+        },
+        {
+          "s": 4,
+          "t": "(Ororon!? How did he just—)"
+        },
+        {
+          "s": 8,
+          "t": "...!"
+        },
+        {
+          "s": 4,
+          "t": "(His movements have gotten a lot faster... Was Ororon always this good in battle?)"
+        },
+        {
+          "s": 7,
+          "t": "Hmph!"
+        },
+        {
+          "sit": "Xilonen!"
+        },
+        {
+          "s": 4,
+          "t": "Ugh..."
+        },
+        {
+          "s": 8,
+          "t": "This ends now!"
+        },
+        {
+          "s": 7,
+          "t": "Ugh!"
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "s": 1,
+          "t": "...Something's wrong."
+        },
+        {
+          "sit": "(The Captain helped Xilonen? Why?)"
+        },
+        {
+          "s": 8,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 8,
+          "t": "You are not Ororon. Who are you?"
+        },
+        {
+          "s": 4,
+          "t": "What?"
+        },
+        {
+          "s": 7,
+          "t": "...Commander."
+        },
+        {
+          "s": 8,
+          "t": "You..."
+        },
+        {
+          "s": 7,
+          "t": "So, you still recognize me, Commander... I'm glad. Although, I believe you have some more pressing concerns at the moment."
+        },
+        {
+          "sit": "(Now!)"
+        },
+        {
+          "s": 0,
+          "t": "We did it!"
+        },
+        {
+          "s": 7,
+          "t": "You see? You indulge your sense of honor for just a moment, and now you've lost your chance... Even now, you're still the same as ever."
+        },
+        {
+          "s": 0,
+          "t": "His voice is completely different. Is... Is someone inhabiting Ororon's body...?"
+        },
+        {
+          "s": 7,
+          "t": "Stop worrying about other people's survival, about their losses and sacrifices. You just need to win! That must be why I've returned... for this moment."
+        },
+        {
+          "s": 7,
+          "t": "Please finish what you've set out to do, Commander."
+        },
+        {
+          "s": 8,
+          "t": "..."
+        },
+        {
+          "s": 8,
+          "t": "I didn't expect to see you here, but I have to disagree... Abandoning one's comrades is not the way of a warrior."
+        },
+        {
+          "s": 7,
+          "t": "Why do you care about a doomed man? I know you can see it... He's already close to death."
+        },
+        {
+          "s": 7,
+          "t": "After all, his soul has been incomplete from the start."
+        },
+        {
+          "s": 1,
+          "t": "Hmph."
+        },
+        {
+          "section": "\"The Captain\""
+        },
+        {
+          "s": 7,
+          "t": "(Someone said I'm close to death... Is it because of that noise just now? The piercing cry that came from underground when I activated the device...)"
+        },
+        {
+          "s": 7,
+          "t": "(What's down there? Natlan's Ley Lines must be hiding some kind of secret.)"
+        },
+        {
+          "s": 7,
+          "t": "(Argh... Am I dying? No, it's too soon...)"
+        },
+        {
+          "s": 10,
+          "t": "Ah! Ororon, it's you! What'll it be today?"
+        },
+        {
+          "s": 10,
+          "t": "*sigh* Why the long face? Don't tell me you still haven't let that go? I knew it was a bad idea to tell you."
+        },
+        {
+          "s": 7,
+          "t": "I... I heard everyone wanted me to be the savior."
+        },
+        {
+          "s": 10,
+          "t": "Savior? Hah, sounds nice, doesn't it? But, does such a person truly exist? Even if they do, why would you have to become that person?"
+        },
+        {
+          "s": 11,
+          "t": "Ororon, is that you? Here, have a seat. Let Granny cut you some fruit. We just got a fresh batch."
+        },
+        {
+          "s": 11,
+          "t": "Can I get you anything else? Some grilled meatloaf, maybe? Ask for anything you want — we've got plenty of ingredients."
+        },
+        {
+          "s": 7,
+          "t": "What about those spice-rubbed mushrooms you made last time, Granny Kuymi?"
+        },
+        {
+          "s": 11,
+          "t": "Ah, you liked those, did you? An outlander taught me that recipe, actually — a merchant, to be exact."
+        },
+        {
+          "s": 11,
+          "t": "Ever thought about going into business yourself, my boy? You could travel all over."
+        },
+        {
+          "s": 10,
+          "t": "Our Ororon... a merchant? He's far too honest for that line of work."
+        },
+        {
+          "s": 11,
+          "t": "Well, at least an honest merchant like him wouldn't prey on old-timers like us!"
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "(Everyone said a true savior does not really exist, but then, why did my birth open the door to the possibility? Why give people false hope?)"
+        },
+        {
+          "s": 7,
+          "t": "(Maybe I don't need to sacrifice myself, but surely everyone is born for a purpose... So what's mine?)"
+        },
+        {
+          "s": 7,
+          "t": "(If I had succeeded back then, would the world have become a better place? What's the meaning of my existence?)"
+        },
+        {
+          "s": 2,
+          "t": "Done spacing out, Ororon? Did you finish your homework?"
+        },
+        {
+          "s": 7,
+          "t": "Yes, Granny. It's just... will learning all this really make me as strong as you?"
+        },
+        {
+          "s": 2,
+          "t": "Hah, of course not! I'm a special case. Other shamans study their whole lives without reaching a fraction of my abilities."
+        },
+        {
+          "s": 7,
+          "t": "Because you're a genius, right?"
+        },
+        {
+          "s": 2,
+          "t": "You could say that... Haha, or maybe I've just been alive longer than the rest of them, and picked up a few tricks that they didn't want to touch..."
+        },
+        {
+          "s": 2,
+          "t": "Ahem! It's rude to bring up a woman's age. Never do that again, no matter the circumstances."
+        },
+        {
+          "s": 7,
+          "t": "Uh... I wasn't the one who brought it up..."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, class is canceled tomorrow. Go have fun."
+        },
+        {
+          "s": 7,
+          "t": "What about my homework, then?"
+        },
+        {
+          "s": 2,
+          "t": "Do what you want. What use is it being as strong as me, anyway?"
+        },
+        {
+          "s": 2,
+          "t": "You've seen how the tribe treats me. They're all afraid. I try to go about my business, and they practically tremble in fear... Not the most fun way to go about living one's life, I'd say."
+        },
+        {
+          "s": 2,
+          "t": "Take it from me, the happiest people are the ones who do their own thing. So, do what you want, Ororon, no matter what anyone else has to say."
+        },
+        {
+          "s": 7,
+          "t": "(Granny didn't say it outright, but I think she was trying to comfort me. Don't force yourself, don't beat yourself up over the past... That's what she always says.)"
+        },
+        {
+          "s": 7,
+          "t": "(But, I never forced myself. I never even got the chance to try before it was all over.)"
+        },
+        {
+          "s": 12,
+          "t": "Hey, you zoning out over here, again? There's such a thing as overwatering the radishes, you know!"
+        },
+        {
+          "s": 7,
+          "t": "I was just looking at the aphids."
+        },
+        {
+          "s": 12,
+          "t": "Something interesting about them today?"
+        },
+        {
+          "s": 7,
+          "t": "I noticed some on the ground. Maybe it got too cold yesterday, and they couldn't handle it."
+        },
+        {
+          "s": 12,
+          "t": "Bummer. Guess that means less honey this year."
+        },
+        {
+          "s": 7,
+          "t": "Ifa, do you think being a vet is fun?"
+        },
+        {
+          "s": 12,
+          "t": "Fun? I'm not sure about that. Do you think planting vegetables is fun?"
+        },
+        {
+          "s": 7,
+          "t": "Fun enough, I guess. I don't have anything else to do."
+        },
+        {
+          "s": 12,
+          "t": "Exactly. Most people live like that — no special purpose or calling. That's just how the world works."
+        },
+        {
+          "s": 12,
+          "t": "Oh, geez, that troublemaker's at it again... Ororon, my man, come inside and give me a hand, would you?"
+        },
+        {
+          "s": 7,
+          "t": "Why should I? I thought being a vet was no fun."
+        },
+        {
+          "s": 12,
+          "t": "Well, I guess there is a fun part — trying to outsmart these rascals! C'mon, give me a hand!"
+        },
+        {
+          "s": 7,
+          "t": "(Maybe Ifa was just too nice to tell me the truth... that attempting something above your capabilities will kill you.)"
+        },
+        {
+          "s": 7,
+          "t": "(My soul is unstable. I only survived because I had people to help keep me in one piece.)"
+        },
+        {
+          "s": 7,
+          "t": "(...A part of me has always been missing. That's why the other spirit said I was close to death. But...)"
+        },
+        {
+          "s": 13,
+          "t": "Why struggle? It's a miracle you were even born. Just close your eyes and wait for death."
+        },
+        {
+          "s": 7,
+          "t": "It was you... the thing that came out of nowhere."
+        },
+        {
+          "s": 13,
+          "t": "Thing? I'm a warrior, far stronger than a weakling like you."
+        },
+        {
+          "s": 7,
+          "t": "I'm not weak. There's just a limit to what I can do."
+        },
+        {
+          "s": 13,
+          "t": "And that's exactly why your fantasy is so ridiculous. You really think a useless thing like you can save the world?"
+        },
+        {
+          "s": 7,
+          "t": "Useless..."
+        },
+        {
+          "s": 7,
+          "t": "(But, I don't want things to end here.)"
+        },
+        {
+          "s": 14,
+          "t": "Ororon? It's alright. We'll take things from here."
+        },
+        {
+          "s": 7,
+          "t": "(Every time they marched to battle, I had to stay behind.)"
+        },
+        {
+          "s": 14,
+          "t": "Don't worry. With the Archon on our side, the Abyss doesn't stand a chance!"
+        },
+        {
+          "s": 7,
+          "t": "(All the best warriors are fighting on the frontlines... I want to do my part, too.)"
+        },
+        {
+          "s": 13,
+          "t": "Both of us are bound to disappear. But, your end will come sooner than mine, because you've been broken from the start."
+        },
+        {
+          "s": 13,
+          "t": "Once your soul shatters into pieces and dissipates into the wind, I will take temporary control over this body. I will serve my commander until the end."
+        },
+        {
+          "s": 7,
+          "t": "No... NO! This isn't right. My life can't end like this — I still haven't done anything important with my life!"
+        },
+        {
+          "s": 7,
+          "t": "My end will not come first, and I'm not giving up. I can't die here... No! I WON'T die here!"
+        },
+        {
+          "s": 1,
+          "t": "...Ororon! Ororon!"
+        },
+        {
+          "s": 7,
+          "t": "(That voice...)"
+        },
+        {
+          "s": 1,
+          "t": "Control your mind. Feel the ground beneath your feet! This is not your end."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "...I..."
+        },
+        {
+          "s": 0,
+          "t": "His eyes are open! He's alive!"
+        },
+        {
+          "s": 1,
+          "t": "Well done. You managed to do the impossible."
+        },
+        {
+          "s": 7,
+          "t": "What do you mean..."
+        },
+        {
+          "s": 8,
+          "t": "Don't try to talk. Focus on holding yourself together."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "I can't believe The Captain did that..."
+        },
+        {
+          "s": 0,
+          "t": "Maybe he thinks of Ororon as a comrade? He was helping to rein him in all this time..."
+        },
+        {
+          "sit": "(That's the only reason I had the chance to turn off the device.)"
+        },
+        {
+          "s": 7,
+          "t": "I... I'm fine now."
+        },
+        {
+          "s": 1,
+          "t": "Damage to the soul is a tricky thing. The pain almost consumed you for a moment, but you managed to hold onto yourself... That's no easy feat."
+        },
+        {
+          "s": 8,
+          "t": "The worst appears to be over."
+        },
+        {
+          "s": 7,
+          "t": "I'm sorry for causing so much trouble."
+        },
+        {
+          "s": 1,
+          "t": "We can talk about that later."
+        },
+        {
+          "s": 7,
+          "t": "Our plan... It failed, didn't it."
+        },
+        {
+          "s": 7,
+          "t": "I'm sorry... We were so close."
+        },
+        {
+          "s": 8,
+          "t": "You saved my life, and now... the debt is repaid."
+        },
+        {
+          "s": 1,
+          "t": "Ororon, I never thought you actually wanted to sacrifice yourself in that ceremony. But, you never gave up. Have you come to a conclusion on what it is that you truly want?"
+        },
+        {
+          "s": 7,
+          "t": "I just want an answer... a reason why I exist, and why everyone always did so much for me."
+        },
+        {
+          "s": 7,
+          "t": "No one is born a hero, and no one should be treated like one from birth. I had a chance to do something important back then, but I failed. All I want is to find some more ways to make up for that..."
+        },
+        {
+          "s": 1,
+          "t": "The answer you seek... now lies before you."
+        },
+        {
+          "s": 7,
+          "t": "...!"
+        },
+        {
+          "s": 15,
+          "t": "You are the inheritor of my name, the hero from the Masters of the Night-Wind who shall fight for this generation."
+        },
+        {
+          "s": 15,
+          "t": "Fascinating... You're not the person that the others thought you were. And yet... you're also not the kind of person that you thought you were. It can take a lifetime to truly discover who we really are."
+        },
+        {
+          "s": 15,
+          "t": "Like you, I never thought I had what it took to be a hero. I was too cunning, too self-absorbed. But, in the end, I sacrificed my life for this nation."
+        },
+        {
+          "s": 15,
+          "t": "Now, remember your name. Even if others will see a different meaning, it still symbolizes your nobility and yearning."
+        },
+        {
+          "s": 7,
+          "t": "My Ancient Name... \"Bid{RUBY#[D]Devotion}ii.\""
+        },
+        {
+          "s": 15,
+          "t": "It means \"devotion.\" You will give your all not for the sake of a heroic death, but to do justice by the answer you've found for your life."
+        },
+        {
+          "s": 15,
+          "t": "For that answer, you will offer all of your strength, and be born anew. Through your devotion, you will prove your worth."
+        },
+        {
+          "s": 15,
+          "t": "\"Having foretold his own death, the omniscient man holds a feast in celebration.\""
+        },
+        {
+          "s": 15,
+          "t": "\"Let us raise our cups in honor of his heroism and send him off with this final tribute.\""
+        },
+        {
+          "s": 15,
+          "t": "\"For, at last, his wish is now fulfilled.\""
+        },
+        {
+          "s": 1,
+          "t": "It's nice to see you again, Sanhaj. With your recognition, we now have the fifth hero of this era."
+        },
+        {
+          "section": "Yohualtecuhtin, Lord of the Night"
+        },
+        {
+          "s": 9,
+          "t": "I'm happy to see your plan advance one step further. It seems that my cry did not cause irreversible damage."
+        },
+        {
+          "s": 7,
+          "t": "Wh—What is that voice?"
+        },
+        {
+          "s": 1,
+          "t": "Just as I thought... The Lord of the Night has awakened."
+        },
+        {
+          "s": 0,
+          "t": "The Lord of the Night? As in... the one who rules over the Night Kingdom!?"
+        },
+        {
+          "s": 9,
+          "t": "I preside over a realm of souls. Due to my limited power, sleep is the only way I can extend my existence."
+        },
+        {
+          "s": 9,
+          "t": "When you activated the device, I awoke and could not hold back my cry. It is a sound that agitates souls."
+        },
+        {
+          "s": 9,
+          "t": "Most of you were unaffected because your souls are intact. But, with a damaged soul, the effect on your friend was heightened, and his soul almost shattered as a result."
+        },
+        {
+          "s": 9,
+          "t": "And yet, his soul remains in one piece. He managed to overcome this obstacle through sheer strength of will... A truly impressive feat for a human."
+        },
+        {
+          "s": 4,
+          "t": "So, was that what caused all his strange behavior earlier?"
+        },
+        {
+          "s": 9,
+          "t": "No. An additional soul was affected. It tried to take refuge in the missing part of your friend's soul, but was ultimately expelled."
+        },
+        {
+          "s": 9,
+          "t": "However, this soul does not hail from Natlan or the Night Kingdom. Its origins remain a mystery to me."
+        },
+        {
+          "s": 8,
+          "t": "Activating the Source Mechanism was supposed to reconstruct the Ley Lines. Why did it awaken you instead?"
+        },
+        {
+          "s": 9,
+          "t": "Because I was the one who originally constructed Natlan's Ley Lines... otherwise known as the Night Kingdom."
+        },
+        {
+          "s": 1,
+          "t": "The ancient battle between the Descender and the dragons destroyed the corner of the world, allowing the Abyss to invade. Natlan's Ley Lines took the worst of the damage."
+        },
+        {
+          "s": 1,
+          "t": "To aid the people of Natlan, the Lord of the Night used the fragments of the old Ley Lines to reconstruct a similar network. That's how the Night Kingdom was born."
+        },
+        {
+          "s": 1,
+          "t": "The first Pyro Archon, Xbalanque, strengthened that realm and established the rules that aid our fight against the Abyss — the Ode of Resurrection and the Pilgrimage, both of which are practices that survive to this day."
+        },
+        {
+          "s": 0,
+          "t": "Oh, right... You said before it all came from the \"power of the heavens.\""
+        },
+        {
+          "s": 9,
+          "t": "The ancient dragons tried to use this device to strengthen the Ley Lines by imbuing them with power."
+        },
+        {
+          "s": 9,
+          "t": "Back then, this method was rather ineffective. They lacked the skills to navigate the intricate structure of the Ley Lines."
+        },
+        {
+          "s": 9,
+          "t": "And now, the structure of the Ley Lines has also completely changed. I am the only possible vehicle for the power generated by the device."
+        },
+        {
+          "s": 9,
+          "t": "It was an incredibly crude and painful method, but I managed to absorb some of that power. Now, I can speak to you like this and provide you with aid."
+        },
+        {
+          "s": 9,
+          "t": "Such as rebuilding the Ley Lines once more... at the cost of my own existence."
+        },
+        {
+          "s": 0,
+          "t": "But, why would you make that kind of sacrifice?"
+        },
+        {
+          "s": 9,
+          "t": "The people of Natlan worship me, and call me their \"lord\"... In the ancient past, before we died out, we were also known by a different name... \"Angels.\""
+        },
+        {
+          "s": 9,
+          "t": "But, adventurers like you are probably more familiar with our devolved form... Seelies."
+        },
+        {
+          "sit": "So, Seelie are angels..."
+        },
+        {
+          "s": 0,
+          "t": "No wonder there are Seelies around here. A Seelie also helped us in the Night Kingdom..."
+        },
+        {
+          "s": 9,
+          "t": "Few angels remain in Natlan, so the same is true of Seelies. Everyone rallied around me and offered their power to humanity to reconstruct the Ley Lines."
+        },
+        {
+          "s": 9,
+          "t": "Now, I have witnessed your determined pursuit for survival, and I have become your faith... I am very pleased."
+        },
+        {
+          "s": 9,
+          "t": "Mavuika, inheritor of Xbalanque's will, and leader of Natlan..."
+        },
+        {
+          "s": 9,
+          "t": "Despite all the obstacles and misunderstandings, I have awoken, and the efforts of this Harbinger and the young hero have imbued me with power."
+        },
+        {
+          "s": 9,
+          "t": "Say the word, and I will once again work to fulfill my mandate, just as I did thousands of years ago."
+        },
+        {
+          "s": 9,
+          "t": "You need only nod your head. For the sake of your people and your nation, for the sake of overcoming the invasion from the Abyss, give me your orders."
+        },
+        {
+          "s": 1,
+          "t": "...I will not."
+        },
+        {
+          "s": 1,
+          "t": "After reconstructing new Ley Lines, you will cease to exist. The rules of Natlan are founded in the Night Kingdom. If you disappear, so do they."
+        },
+        {
+          "s": 1,
+          "t": "Not to mention, all the memories and legends recorded within the old Ley Lines will disappear along with you. The people of Natlan will face memory loss, mental disorders, and cognitive issues..."
+        },
+        {
+          "s": 1,
+          "t": "Just like the consequences of using the Gnosis, that is a price I refuse to accept."
+        },
+        {
+          "s": 8,
+          "t": "Humanity's survival is worth any price. Once the Abyss runs rampant, all that remains will be a land of corpses and ruin."
+        },
+        {
+          "s": 1,
+          "t": "And when the new Ley Lines are invaded again by the Abyss? What then? How are future generations supposed to survive?"
+        },
+        {
+          "s": 1,
+          "t": "A land without the Lord of the Night, without the protection of the rules... is doomed from the start."
+        },
+        {
+          "s": 8,
+          "t": "You presume too much. If you cannot ensure survival in the present, you have no right to think about the future."
+        },
+        {
+          "s": 8,
+          "t": "What will it take for you to realize that? How many hundreds or thousands will have to die!?"
+        },
+        {
+          "s": 0,
+          "t": "The situation hasn't gotten that dire yet... has it?"
+        },
+        {
+          "sit": "Why are you so pessimistic about the situation?"
+        },
+        {
+          "s": 8,
+          "t": "Why...? Because I am a survivor of Khaenri'ah. I've witnessed the devastation and terror of the Abyss with my own eyes."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Khaenri'ah..."
+        },
+        {
+          "s": 8,
+          "t": "That's right. My family, my comrades, my homeland... were all lost to the Abyss."
+        },
+        {
+          "s": 8,
+          "t": "It is an unforgettable pain, one that no amount of time could ever dull... not even five hundred years. You've experienced something similar, Mavuika. You should know exactly what I mean."
+        },
+        {
+          "s": 1,
+          "t": "You're right. The pain, the regret, the catastrophe... they all haunt my dreams to this day..."
+        },
+        {
+          "s": 8,
+          "t": "If I could go back, I would reject all false hope. I would do whatever it took to ensure their survival."
+        },
+        {
+          "s": 8,
+          "t": "You have that chance before you now. Why do you refuse to take it!?"
+        },
+        {
+          "s": 1,
+          "t": "Because we don't have the right to make that decision."
+        },
+        {
+          "s": 1,
+          "t": "We love this world because it contains everything we hold dear... everything that has happened here has moved us, shaped us, and turned us into who we are today."
+        },
+        {
+          "s": 1,
+          "t": "Giving up our memories and history would mean rewriting everything. The people of this world would then become fundamentally different beings, their physical bodies the only connection to their former selves."
+        },
+        {
+          "s": 8,
+          "t": "Even so, given enough time, a new civilization would inevitably flourish. If you believe in humanity, you should trust in their ability to create a new future."
+        },
+        {
+          "s": 1,
+          "t": "Or, history could repeat itself, the Abyss could invade once more, and it would all be for nothing."
+        },
+        {
+          "s": 7,
+          "t": "Can I say something?"
+        },
+        {
+          "s": 7,
+          "t": "I once carried the hopes of many people, and I was also desperate to save our nation. In The Captain's plan, I saw a chance to ensure our survival."
+        },
+        {
+          "s": 7,
+          "t": "But, as I was on the brink of death, my wish for life and purpose was rekindled."
+        },
+        {
+          "s": 7,
+          "t": "I've been very fortunate to be well cared for by all the people in my life. I refuse to forget that. My feelings were so strong, they overrode my compulsion to sacrifice myself for their safety."
+        },
+        {
+          "s": 7,
+          "t": "No matter what path lies before us, we still have a destination. If we lose our way now, we will lose the meaning of our existence."
+        },
+        {
+          "s": 4,
+          "t": "That's right. Natlan's heroes gave their lives so we could have this chance against the Abyss. Their sacrifices are our blessings."
+        },
+        {
+          "s": 4,
+          "t": "Not only are their deeds and spirits exceptionally meaningful, they may also well be our path to victory. I don't want to give up just yet."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! We're just one hero short!"
+        },
+        {
+          "s": 9,
+          "t": "The power from the device will allow me to remain awake for some time. I stand at the ready should you change your mind."
+        },
+        {
+          "s": 9,
+          "t": "Even if you fail, you need only send someone my way. My offer still stands."
+        },
+        {
+          "s": 9,
+          "t": "Humanity is truly remarkable. Even the gods in the heavens hold you to be special. Even now, you stand before me, dazzling like the sun."
+        },
+        {
+          "s": 1,
+          "t": "You must have a profound connection to this land, since you're so determined to save it."
+        },
+        {
+          "s": 1,
+          "t": "But, what are you really trying to protect? The land? Or its people?"
+        },
+        {
+          "s": 8,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Pretty sure he wants to hear what you have to say, {NICKNAME}."
+        },
+        {
+          "sit": "I want to win."
+        },
+        {
+          "sit": "What about you?"
+        },
+        {
+          "s": 8,
+          "t": "Fine."
+        },
+        {
+          "s": 8,
+          "t": "I suppose we can wait. Now that Ororon has inherited the memories of his forebear, there's only one hero left."
+        },
+        {
+          "s": 8,
+          "t": "Your plan does have the potential to generate the best outcome."
+        },
+        {
+          "s": 8,
+          "t": "In the meantime, you shall have the aid of all the Fatui under my command."
+        },
+        {
+          "s": 1,
+          "t": "Thank you. Having such a powerful Harbinger on my side is a big advantage."
+        },
+        {
+          "s": 1,
+          "t": "I know we may never completely see eye to eye on what it means to protect life, but for now, I'm willing to fight by your side."
+        },
+        {
+          "s": 4,
+          "t": "Alright, we should let everyone else know about the plan. They're probably still at each other's throats outside."
+        },
+        {
+          "s": 0,
+          "t": "Good idea. We need to explain the situation."
+        },
+        {
+          "sit": "I have a few more questions for the Lord of the Night."
+        },
+        {
+          "s": 0,
+          "t": "Oh, guess we'll stick around then..."
+        },
+        {
+          "s": 7,
+          "t": "I'll update everyone outside. Let's meet back up at the Stadium."
+        },
+        {
+          "section": "Yohualtecuhtin, Lord of the Night"
+        },
+        {
+          "s": 9,
+          "t": "You come to me with many questions, and you should be rewarded for your bravery. Ask and you shall have the knowledge you seek."
+        },
+        {
+          "sit": "About the power of the heavens..."
+        },
+        {
+          "sit": "About the Loom of Fate..."
+        },
+        {
+          "sit": "About Elemental energy and the Abyss..."
+        },
+        {
+          "sit": "About my Ancient Name..."
+        },
+        {
+          "sit": "I have no more questions."
+        },
+        {
+          "s": 9,
+          "t": "They do not like being mentioned by name by any living being, be it an ordinary human or one of The Seven. They prefer to remain in the shadows as Shades."
+        },
+        {
+          "s": 9,
+          "t": "The one you wish to know about... I call her \"The Ruler of Death.\" She helped Natlan establish the rules. It was also under her guidance that I created the Night Kingdom..."
+        },
+        {
+          "s": 9,
+          "t": "It was an expression of love, as well as an act of reparation. She was seen as having significantly overstepped her authorities as a Shade, which quite displeased the almighty... Mm, Heavenly Principles."
+        },
+        {
+          "s": 9,
+          "t": "She succumbed to self-pity as a result, and no longer cared if others discussed her identity. Even so, her existence remains unknown to all but a select few."
+        },
+        {
+          "s": 0,
+          "t": "Self-pity..."
+        },
+        {
+          "s": 9,
+          "t": "...Please don't tell anyone I used that word. I'm just trying to speak plainly to conserve energy..."
+        }
+      ],
+      "description": "After several twists and turns, you finally understand The Captain’s plan and goal — to “reconstruct the Ley Lines.” This seems to you a risky endeavor. One for which countermeasures must be discussed with Mavuika post-haste…"
+    },
+    {
+      "title": "As One We Watch the Setting Sun",
+      "dialogue": [
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "In that case, allow me to formally welcome the Fatui to our cause."
+        },
+        {
+          "s": 1,
+          "t": "We now face a common enemy. It's time to put our differences behind us and look to the future."
+        },
+        {
+          "s": 1,
+          "t": "As for Ororon... His actions may have been out of line, but I don't intend to punish him right now. I'd rather give him a chance to prove himself."
+        },
+        {
+          "s": 8,
+          "t": "A magnanimous decision."
+        },
+        {
+          "s": 0,
+          "t": "We're back... Whoa, seeing the two of you chatting like this... Paimon almost feels like she's dreaming."
+        },
+        {
+          "sit": "There's strength in numbers."
+        },
+        {
+          "sit": "I feel better about our chances."
+        },
+        {
+          "s": 1,
+          "t": "This may be an unexpected outcome, but a favorable one nonetheless."
+        },
+        {
+          "s": 1,
+          "t": "Now that we're all here, I have some questions of my own. Tell me — how did you discover the Source Mechanism?"
+        },
+        {
+          "s": 8,
+          "t": "We weren't getting any closer to obtaining the Gnosis, so I had my men scour Natlan for a different option. Ororon helped as well."
+        },
+        {
+          "s": 8,
+          "t": "We tracked down three scholars — Aberewaa, Bosomtwe, and Cuxtal, and combined the results of their research to locate this ancient device."
+        },
+        {
+          "s": 1,
+          "t": "...Huh, I've never heard those names before."
+        },
+        {
+          "s": 1,
+          "t": "Seems like my own investigation failed to locate some critical personnel. I'm just not sure how I missed them..."
+        },
+        {
+          "s": 8,
+          "t": "Strange... Perhaps they simply live in seclusion."
+        },
+        {
+          "s": 8,
+          "t": "In any case, their results speak for themselves."
+        },
+        {
+          "s": 1,
+          "t": "That's true. Now we have another option at our disposal. Compared to using the Gnosis, our current plan will buy us some time."
+        },
+        {
+          "s": 1,
+          "t": "And, if all else fails, we still have this plan as a last resort... even though executing it will come at a heavy cost."
+        },
+        {
+          "s": 0,
+          "t": "But, that means making everyone forget their past... We should definitely try to avoid it if we can."
+        },
+        {
+          "s": 0,
+          "t": "Actually, speaking of the Gnosis, how did you know what it could do?"
+        },
+        {
+          "s": 8,
+          "t": "That story begins with the cataclysm five hundred years ago..."
+        },
+        {
+          "s": 8,
+          "t": "I failed to save Khaenri'ah from the rampage of the Abyss. When the situation became unsalvageable, I fled to Natlan with the remainder of my platoon."
+        },
+        {
+          "s": 8,
+          "t": "Only to find that Natlan had fallen victim to the same tragedy. I defended this land for quite some time and, in the process, met the chief of the Masters of the Night-Wind, Ayizu."
+        },
+        {
+          "s": 8,
+          "t": "I'm sure many people viewed Khaenri'ah as the cause of the tragedy, but Ayizu was kind to me all the same, and even helped me in my time of need."
+        },
+        {
+          "s": 8,
+          "t": "From that moment, I made it my mission to aid Natlan. In battle, a warrior fights to win. Even though my homeland was lost, I was already committed to this fight."
+        },
+        {
+          "s": 8,
+          "t": "Together, Ayizu and I fought many battles and overcame countless hardships. However, he was unable to escape his fate, and in his final moments, told me the secret of the Gnosis."
+        },
+        {
+          "s": 1,
+          "t": "So, it was him... He recommended using the Gnosis on several occasions, even before the tragedy. But, I turned him down each time."
+        },
+        {
+          "s": 1,
+          "t": "You knew him, and you fought for Natlan all those years ago... Why don't I recognize you?"
+        },
+        {
+          "s": 1,
+          "t": "*sigh* It must be the mask."
+        },
+        {
+          "s": 8,
+          "t": "Heh, even without the mask, my past appearance is long gone. Even with the curse of immortality, the flesh still rots."
+        },
+        {
+          "s": 0,
+          "t": "Wait, do you know someone named Dainsleif? That problem doesn't seem quite so... extreme for him."
+        },
+        {
+          "s": 8,
+          "t": "You've met him already?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, a bunch of times. Sounds like you know him, too."
+        },
+        {
+          "s": 8,
+          "t": "During the age of Khaenri'ah, all I knew was his name. The last time I saw him in person, he was traveling with the Princess(Prince)."
+        },
+        {
+          "s": 8,
+          "t": "He carries a degree of pain and hatred that far surpasses my own."
+        },
+        {
+          "sit": "Back then, you said you didn't want to fight me..."
+        },
+        {
+          "sit": "Was it really because of my sibling?"
+        },
+        {
+          "s": 8,
+          "t": "Yes. You're the sister of the Prince(brother of the Princess). Given the role I held in Khaenri'ah, I would prefer not to harm you."
+        },
+        {
+          "s": 8,
+          "t": "Although, this is likely a self-imposed burden. If the Princess(Prince) saw me now, I doubt she(he) would even recognize me."
+        },
+        {
+          "s": 8,
+          "t": "As for your question, I don't know how Dain managed to slow the deterioration of his body."
+        },
+        {
+          "s": 8,
+          "t": "My appearance is much changed, and that's not the only thing. Even my physical strength is a shadow of what it once was."
+        },
+        {
+          "s": 1,
+          "t": "I would've never known. During our battle, it felt like I was fighting against the pinnacle of human strength."
+        },
+        {
+          "s": 8,
+          "t": "Hm... and I still lost. I deserve no praise for that outcome."
+        },
+        {
+          "s": 8,
+          "t": "Still, it's a shame we never faced off five hundred years ago. You could have seen what I was truly capable of."
+        },
+        {
+          "s": 1,
+          "t": "I agree. Had we fought then, I'd also have been more motivated to go all out."
+        },
+        {
+          "s": 0,
+          "t": "So, all that commotion back at the Stadium, and you're saying... neither of you were using your full strength!?"
+        },
+        {
+          "s": 1,
+          "t": "I'd say we're evenly matched. If we face off again, victory will come down to who wants it more."
+        },
+        {
+          "s": 8,
+          "t": "I imagine you held back since there were spectators around that could have gotten hurt. But, capitalizing on that situation would have only led to a hollow victory. It would have been no different than taking hostages."
+        },
+        {
+          "s": 8,
+          "t": "My goal was the Gnosis, and I failed to obtain it... That means I lost, plain and simple."
+        },
+        {
+          "sit": "Speaking of the Gnosis..."
+        },
+        {
+          "sit": "What are you going to tell the Tsaritsa?"
+        },
+        {
+          "s": 8,
+          "t": "Her Majesty the Tsaritsa allows every Harbinger the freedom to pursue the meaning of their existence. When the time comes, that freedom can take precedence over her orders."
+        },
+        {
+          "s": 8,
+          "t": "That's why our methods can be so radically different despite sharing the same goal and the same sovereign."
+        },
+        {
+          "s": 8,
+          "t": "I needed the Gnosis because I came here to save Natlan. That was my primary motive. Once Natlan is saved, if the Gnosis still remained in my possession, I could bring it back to Snezhnaya."
+        },
+        {
+          "s": 1,
+          "t": "My decision regarding the Gnosis will not change... So let's focus on the Abyss for now."
+        },
+        {
+          "s": 0,
+          "t": "Right! What happens when all six heroes are together?"
+        },
+        {
+          "sit": "It will probably unleash some kind of power..."
+        },
+        {
+          "sit": "The heavens were mentioned earlier. Anything to do with that?"
+        },
+        {
+          "s": 1,
+          "t": "We will unleash a great power that can be used to thwart the Abyss — but only once. It's a power that Xbalanque gained from Ronova."
+        },
+        {
+          "s": 1,
+          "t": "Ronova is a god whose existence predates any Archon. You can think of her like an emissary of the Heavenly Principles. She controls the power of death."
+        },
+        {
+          "s": 0,
+          "t": "Wait, is that why you have the Ode of Resurrection?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. Ronova also orchestrated Natlan's rules. As for the divine throne..."
+        },
+        {
+          "s": 1,
+          "t": "Like I said before, when a human ascends to the divine throne, their inner flame will awaken. The size of the flame depends on the person's potential."
+        },
+        {
+          "s": 1,
+          "t": "The same principle applies to the Ruler o{RUBY#[D]Ronova}f Death's power, with one notable distinction... The amount of power inherited will not change depending on your ability to tolerate it."
+        },
+        {
+          "s": 1,
+          "t": "In other words, it's a kind of power that not everyone can withstand."
+        },
+        {
+          "s": 1,
+          "t": "But, if you survive the trial, you will gain unprecedented strength, and the ability to harness powers more formidable than any Archon."
+        },
+        {
+          "s": 0,
+          "t": "That still sounds really risky..."
+        },
+        {
+          "s": 1,
+          "t": "We cannot walk this path without accepting risk."
+        },
+        {
+          "s": 1,
+          "t": "Mualani charged into the Night Kingdom despite the Abyssal contamination, Ororon fought back from the brink of death..."
+        },
+        {
+          "s": 1,
+          "t": "In the face of their bravery, I must respond in kind. That is my duty."
+        },
+        {
+          "s": 8,
+          "t": "Spoken like a true leader."
+        },
+        {
+          "s": 1,
+          "t": "Alright, that's enough for one day. You should head back and get some rest. I'm sure you're exhausted."
+        },
+        {
+          "s": 1,
+          "t": "The Abyss will likely sense the change in Ororon. It's possible the frequency of the attacks will increase. There are many challenges to come, so we need to be prepared."
+        },
+        {
+          "s": 0,
+          "t": "When you put it that way... Paimon feels even more exhausted."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's head back."
+        },
+        {
+          "section": "Solnev"
+        },
+        {
+          "s": 5,
+          "t": "The Captain says a group of us need to stay behind to guard the Source Mechanism. It's extremely important. We'll stay here."
+        },
+        {
+          "s": 5,
+          "t": "Of course, you're free to come and go as you please."
+        },
+        {
+          "section": "Mualani, Kachina"
+        },
+        {
+          "s": 16,
+          "t": "Ouch... That hurts..."
+        },
+        {
+          "s": 17,
+          "t": "Stay still. Your wound needs time to heal. You need to rest for a few more days."
+        },
+        {
+          "s": 18,
+          "t": "The monsters keep increasing in number. It's like something changed..."
+        },
+        {
+          "s": 19,
+          "t": "It's definitely unusual, and we all should be careful. But, don't worry too much. You have us by your side!"
+        },
+        {
+          "s": 19,
+          "t": "If there's one thing the Abyss fears, it's strength. If they think we're easy prey, they've got another thing comin'!"
+        },
+        {
+          "s": 19,
+          "t": "Oh, someone's calling us!"
+        },
+        {
+          "s": 17,
+          "t": "Coming! Coming!"
+        },
+        {
+          "s": 0,
+          "t": "Something wrong, {NICKNAME}?"
+        },
+        {
+          "sit": "(The feeling of dread is getting stronger...)"
+        },
+        {
+          "sit": "(Do we really have time to wait for the final hero to appear?)"
+        },
+        {
+          "section": "Mavuika, \"The Captain\""
+        },
+        {
+          "s": 8,
+          "t": "Now that we're working together, we'll need to coordinate our efforts. I'll leave a portion of my forces for you to command."
+        },
+        {
+          "s": 1,
+          "t": "That will definitely help relieve some pressure. You're sure they won't object?"
+        },
+        {
+          "s": 8,
+          "t": "It's an order — I will make that clear."
+        },
+        {
+          "s": 1,
+          "t": "Excellent. I appreciate your trust."
+        },
+        {
+          "section": "Kinich, Sibu"
+        },
+        {
+          "s": 0,
+          "t": "Kinich! You made it back in one piece!"
+        },
+        {
+          "s": 20,
+          "t": "Oh, these must be friends of yours. Well, I'll head out, then. See you later."
+        },
+        {
+          "s": 21,
+          "t": "Hahaha, it was a piece of cake. Those invasive pests are lucky someone called a truce, or we would have burned them all to ashes!"
+        },
+        {
+          "s": 3,
+          "t": "I appreciate the concern, Paimon."
+        },
+        {
+          "s": 3,
+          "t": "Despite Ajaw's description, the situation wasn't quite so smooth. The Captain's forces are all elite warriors. It was a tough fight."
+        },
+        {
+          "s": 3,
+          "t": "We were prepared to retreat at any moment, and now the Pyro Archon and The Captain are working together... Not the outcome I was expecting, that's for sure."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, a lot happened while we were in the ruin. We'll tell you about it some other time..."
+        },
+        {
+          "s": 3,
+          "t": "Well, at least the Pyro Archon's plan advanced a step further. This is the best outcome we could have hoped for — we really appreciate all your help."
+        },
+        {
+          "s": 3,
+          "t": "But, we have to keep pushing forward. Sibu and I were just about to head out, actually. My tribe is calling for messengers."
+        },
+        {
+          "s": 0,
+          "t": "We won't keep you, then. Let's talk later!"
+        },
+        {
+          "s": 21,
+          "t": "Hah, little Kinich thinks he can just leave without consulting the Almighty Dragonlord K'uhul Ajaw... Hey, wait up!"
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 4,
+          "t": "Nope, we can't give any of these to our soldiers. They were not tempered correctly at the forge."
+        },
+        {
+          "s": 4,
+          "t": "Well-made weapons and shields are vital for the survival of our people. I know we're under a lot of pressure, but we can't compromise on quality."
+        },
+        {
+          "s": 4,
+          "t": "Listen, I'm not blaming you. I know this isn't your usual standard of work. Why don't you all take a break, and I'll take care of the pieces."
+        },
+        {
+          "s": 0,
+          "t": "Hey, Xilonen. Is something wrong?"
+        },
+        {
+          "s": 4,
+          "t": "Nothing I can't handle. Just some rushed, defective goods, that's all."
+        },
+        {
+          "s": 4,
+          "t": "Even the most skilled craftsmen make mistakes under pressure. If you two want to avoid the same fate, you should really get some rest."
+        },
+        {
+          "s": 0,
+          "t": "You must be exhausted, too..."
+        },
+        {
+          "s": 4,
+          "t": "Hahaha, don't worry. I like it that way."
+        },
+        {
+          "section": "Citlali, Ororon"
+        },
+        {
+          "s": 2,
+          "t": "Ororon."
+        },
+        {
+          "s": 7,
+          "t": "Granny."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "What's wrong, Granny? It looks like you have something to say."
+        },
+        {
+          "s": 2,
+          "t": "*scoff* You know exactly what you did! You need some sense knocked into you, that's what I think! Now, where do I even begin..."
+        },
+        {
+          "s": 7,
+          "t": "I'm sorry."
+        },
+        {
+          "s": 2,
+          "t": "Hah, now that you have nowhere to run, THAT'S when you apologize!? You couldn't wait to run off last time, and the time before that..."
+        },
+        {
+          "s": 7,
+          "t": "Pretty sure I apologized those times, too..."
+        },
+        {
+          "s": 2,
+          "t": "What exactly were you thinking? Being a wanted criminal is one thing, but then you also tried to pull off that whole thing in the ancient ruin..."
+        },
+        {
+          "s": 2,
+          "t": "I'm not the one who needs an apology... Apologize to yourself for risking your life."
+        },
+        {
+          "s": 7,
+          "t": "Okay, I'm sorry."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "I don't have anything to say for myself, Granny. Yell at me all you want. I know I messed up."
+        },
+        {
+          "s": 2,
+          "t": "You better be sincere. This is an incredibly serious matter."
+        },
+        {
+          "s": 7,
+          "t": "I'm being sincere, I promise. I've seriously reflected on my actions..."
+        },
+        {
+          "s": 7,
+          "t": "I know what I did was risky, and I know I made some bad choices, but I don't regret it. I just had to do something..."
+        },
+        {
+          "s": 7,
+          "t": "Not because I thought I was special, but because I wanted to help Natlan as much as I can."
+        },
+        {
+          "s": 7,
+          "t": "Of course, in the end, I just ended up causing more trouble, so... you're right. My apology doesn't mean much, but I don't know what else I can say."
+        },
+        {
+          "s": 7,
+          "t": "You even had Ifa bring me that gem... A simple thank you isn't enough, but still... Thank you, Granny."
+        },
+        {
+          "s": 2,
+          "t": "You're welcome. Just make sure to thank Ifa sometime."
+        },
+        {
+          "s": 7,
+          "t": "I will."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, don't feel too grateful. I tampered with the bag to copy a portion of your memories."
+        },
+        {
+          "s": 7,
+          "t": "...Oh, I didn't notice."
+        },
+        {
+          "s": 2,
+          "t": "Of course you didn't. You forget how many years I have on you? Like you could uncover one of my tricks..."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, I have something else to tell you."
+        },
+        {
+          "s": 2,
+          "t": "The Pyro Archon has discussed your case with the others. Many of your actions violated the rules of Natlan, and you should understand you'll have to take responsibility for that."
+        },
+        {
+          "s": 7,
+          "t": "I understand."
+        },
+        {
+          "s": 2,
+          "t": "But... your efforts weren't entirely meaningless in the end. In addition to giving us another failsafe, you saved yourself with sheer force of will, and managed to become a hero."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, not too shabby, grandson."
+        },
+        {
+          "s": 7,
+          "t": "Did {NICKNAME} and Paimon tell you to say that?"
+        },
+        {
+          "s": 2,
+          "t": "What? No! I said that because I mean it!"
+        },
+        {
+          "s": 7,
+          "t": "I can't believe you're complimenting me at a time like this... You normally let your fists do the talking."
+        },
+        {
+          "s": 2,
+          "t": "You're not off the hook just yet. I told {NICKNAME} I was going to break your legs, and I meant every part of it!"
+        },
+        {
+          "s": 7,
+          "t": "Could you... not? I still need them to walk..."
+        },
+        {
+          "s": 2,
+          "t": "Trying to negotiate, are you? Alright... Make me an offer."
+        },
+        {
+          "s": 7,
+          "t": "Given all the good things that I managed to accomplish... can you let me off the hook this one time? I promise to do better in the future."
+        },
+        {
+          "s": 2,
+          "t": "Fine. I can let this slide for now, but I'll be watching. We'll see if I change my mind."
+        },
+        {
+          "s": 2,
+          "t": "Oh? {NICKNAME}, Paimon... Didn't expect to see you here."
+        },
+        {
+          "s": 0,
+          "t": "Hello!"
+        },
+        {
+          "sit": "Talking things out with your grandson?"
+        },
+        {
+          "s": 2,
+          "t": "Yes... Looking after these little rascals is rather exhausting."
+        },
+        {
+          "s": 0,
+          "t": "Taking care of {NICKNAME} isn't easy either... Paimon's life is an uphill battle."
+        },
+        {
+          "sit": "?"
+        },
+        {
+          "s": 7,
+          "t": "{NICKNAME}, Paimon... I want to thank you for your help back at the ruin."
+        },
+        {
+          "sit": "It was nothing."
+        },
+        {
+          "sit": "Just don't do anything like that ever again!"
+        },
+        {
+          "s": 7,
+          "t": "I won't."
+        },
+        {
+          "s": 2,
+          "t": "Let's get together sometime. If Ororon really wants to thank you, he can treat us all to a tasty meal."
+        },
+        {
+          "s": 0,
+          "t": "Sounds great! We'll be there!"
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "s": 0,
+          "t": "If you're done for the day, we should get some rest. Paimon has a feeling we'll need it for tomorrow!"
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "sit": "Yep, let's rest."
+        },
+        {
+          "sit": "That night..."
+        },
+        {
+          "s": 2,
+          "t": "You ready?"
+        },
+        {
+          "s": 4,
+          "t": "Yep... Let's go meet the Lord of the Night."
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "sit": "I have something else to do."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's take care of that first, then."
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 4,
+          "t": "You should head back and get some rest. I need to fix some things here first..."
+        },
+        {
+          "section": "Dedougou"
+        },
+        {
+          "s": 16,
+          "t": "Ah, finally some relief..."
+        },
+        {
+          "section": "Boulsa"
+        },
+        {
+          "s": 18,
+          "t": "What rotten luck, to be injured at a time like this..."
+        },
+        {
+          "section": "Yohualtecuhtin, Lord of the Night"
+        },
+        {
+          "s": 2,
+          "t": "So, this is where you heard the Lord of the Night? Guess that means she really has awakened..."
+        },
+        {
+          "s": 2,
+          "t": "Hopefully we made it before she falls asleep again."
+        },
+        {
+          "s": 9,
+          "t": "Fret not, I'm still here. For a weak lifeform, falling asleep is no less taxing an exercise than staying awake."
+        },
+        {
+          "s": 4,
+          "t": "I'm sorry for disturbing your rest, but there's something we didn't have the chance to ask you earlier. We need to forge a new Ancient name for the Traveler."
+        },
+        {
+          "s": 4,
+          "t": "But, we ran into a problem. He(She)'s not from Natlan, so there are no records of him(her) in the Night Kingdom."
+        },
+        {
+          "s": 9,
+          "t": "I see. Mavuika must hold him(her) in high regard."
+        },
+        {
+          "s": 9,
+          "t": "It would seem the two of you are not simply here on her orders. So, what say you? Do you believe this traveler to be deserving?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "Speak your mind — there are no others here. You are both my children, both children of Natlan. I would hear your opinions on the matter."
+        },
+        {
+          "s": 4,
+          "t": "He(She) is special. He(She) saved Kachina and devoted himself(herself) to helping us avert this disaster. Natlan owes him(her) a debt."
+        },
+        {
+          "s": 4,
+          "t": "But, that debt has not been repaid. With an Ancient Name, we can at least guarantee his(her) safety."
+        },
+        {
+          "s": 9,
+          "t": "Even though that guarantee will come at the cost of your own life?"
+        },
+        {
+          "s": 4,
+          "t": "Yes."
+        },
+        {
+          "s": 2,
+          "t": "So, it's true. Forging an Ancient Name consumes the life of the craftsman..."
+        },
+        {
+          "s": 9,
+          "t": "Forging an Ancient Name is an act of creation. It involves taking disparate concepts throughout the Night Kingdom and condensing them into a heroic epic."
+        },
+        {
+          "s": 9,
+          "t": "But, it takes time for the new concept to be integrated into that realm. If the Ancient Name is like a seed, then the life of the craftsman is the outer shell, serving as its protection."
+        },
+        {
+          "s": 9,
+          "t": "Once that process is complete, the seed will sprout, and having served its purpose, the outer shell will gradually disappear."
+        },
+        {
+          "s": 9,
+          "t": "Forging an Ancient Name is no easy task, and creating one for an outlander makes it even more challenging. Still, if you're here, that means your mind is set."
+        },
+        {
+          "s": 4,
+          "t": "Yes. Because I believe forging this Name will be well worth it."
+        },
+        {
+          "s": 4,
+          "t": "We don't know how long we'll be able to hold back the Abyss, or what the final price of averting this disaster will be..."
+        },
+        {
+          "s": 4,
+          "t": "If giving up my life means that all the people of Natlan can have a future, then the sacrifice is practically negligible."
+        },
+        {
+          "s": 4,
+          "t": "Even when I'm staring death in the face, I don't think I'll regret this decision. I bear the name \"Bar{RUBY#[D]Blessing}aka.\" This is a part of my duty."
+        },
+        {
+          "s": 9,
+          "t": "I understand. The chance may be exceedingly slim, but you still want to seize it, because this could be the final step to victory."
+        },
+        {
+          "s": 9,
+          "t": "And you, Citlali? The anxiety you feel... It's because you saw something, yes? Something you were not meant to see..."
+        },
+        {
+          "s": 2,
+          "t": "So, you know about that, too..."
+        },
+        {
+          "s": 4,
+          "t": "What is she talking about?"
+        },
+        {
+          "s": 2,
+          "t": "...I've had concerns for a long time. Mavuika's plan needs too much time, and too many things can go wrong."
+        },
+        {
+          "s": 2,
+          "t": "The Masters of the Night-Wind have a ceremony that can be used to glimpse the future. It's just... using this power on the Pyro Archon has always been seen as a taboo."
+        },
+        {
+          "s": 4,
+          "t": "And you did it anyway? Wh—What did you see?"
+        },
+        {
+          "s": 2,
+          "t": "Death."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "A key part of Mavuika's plan is using the six heroes to release the power Xbalanque obtained from the Ruler o{RUBY#[D]Ronova}f Death."
+        },
+        {
+          "s": 9,
+          "t": "Considering its origins, the price of using that power... is death."
+        },
+        {
+          "s": 4,
+          "t": "You're saying... Mavuika is going to die in this war against the Abyss?"
+        },
+        {
+          "s": 9,
+          "t": "Yes."
+        },
+        {
+          "s": 2,
+          "t": "I can't just ignore what I saw. That's why I need the Traveler's power. I need the power of a Descender."
+        },
+        {
+          "s": 9,
+          "t": "Don't forget, Citlali... Even if it may seem like someone is fated to die, the nature of death and fate are different."
+        },
+        {
+          "s": 9,
+          "t": "Fate indicates what will happen in the future — the time, manner, and place are all predetermined. But, death is different. Death is a rule."
+        },
+        {
+          "s": 9,
+          "t": "The Ruler of Death's power will allow Mavuika to triumph over the Abyss. But, she must offer her own life in the process."
+        },
+        {
+          "s": 9,
+          "t": "The Ruler of Death cares little for the time and manner of a death. She simply guarantees that it will occur."
+        },
+        {
+          "s": 9,
+          "t": "Fate may be able to influence the timing, but that is all the Traveler can change."
+        },
+        {
+          "s": 4,
+          "t": "You're saying... We might be able to change when she dies, but not the outcome?"
+        },
+        {
+          "s": 9,
+          "t": "I cannot help you with this, I'm afraid. It's beyond my capabilities."
+        },
+        {
+          "s": 2,
+          "t": "Mavuika knows about all this, doesn't she?"
+        },
+        {
+          "s": 9,
+          "t": "Yes. I imagine she has long accepted this eventuality."
+        },
+        {
+          "s": 2,
+          "t": "Well, I can't! She's so strong! She never gives up, never rests until a problem is solved..."
+        },
+        {
+          "s": 2,
+          "t": "She's not the type of person to just quietly accept her death!"
+        },
+        {
+          "s": 2,
+          "t": "The Traveler shares that quality. That's why I think this gamble is worth it. Together, I know they can overcome the impossible, be it fate... or death."
+        },
+        {
+          "s": 9,
+          "t": "We shall have to wait and see, but I will curb my expectations."
+        },
+        {
+          "s": 9,
+          "t": "My time is running out. It is my honor to witness humanity in this moment of absolute determination."
+        },
+        {
+          "s": 2,
+          "t": "We won't forget your contributions. Once we deal with the Abyss, we'll find a way to keep you alive."
+        },
+        {
+          "s": 9,
+          "t": "Thank you for saying that, but there is nothing you can do."
+        },
+        {
+          "s": 9,
+          "t": "How many years of life are enough? Ten? One hundred? One thousand? Ten thousand?"
+        },
+        {
+          "s": 9,
+          "t": "The Night Kingdom will disappear, the humans will continue to fight against the Abyss, and in the end, all will cease to exist... When you consider all of that, extending my life is meaningless."
+        },
+        {
+          "s": 4,
+          "t": "That's what makes us different. Even if our end comes tomorrow, humanity will still do whatever it takes to survive today."
+        },
+        {
+          "s": 2,
+          "t": "Exactly."
+        },
+        {
+          "s": 9,
+          "t": "Times like these always fill me with admiration, and reinforce my commitment to the mandate I shoulder."
+        },
+        {
+          "s": 9,
+          "t": "My creator was right in esteeming you as special above others."
+        },
+        {
+          "s": 9,
+          "t": "Here, this is my gift to you and an extension of my will. It can record the Traveler's experiences in this land, whether from the past or the future."
+        },
+        {
+          "s": 9,
+          "t": "With it, you can forge the Ancient Name you desire, and the Traveler will also become a hero forever recorded in the memory of Natlan."
+        },
+        {
+          "s": 4,
+          "t": "Thank you. We're sorry to ask this of you when your strength is already all but spent."
+        },
+        {
+          "s": 2,
+          "t": "Really, thank you so much."
+        },
+        {
+          "s": 9,
+          "t": "Your thanks are unnecessary. This is the least that an Angel can do."
+        },
+        {
+          "s": 9,
+          "t": "Time for you to leave. It's... getting dark."
+        },
+        {
+          "section": "Xilonen, Citlali"
+        },
+        {
+          "s": 0,
+          "t": "Xilonen! Citlali! Is there a reason you're up so early?"
+        },
+        {
+          "s": 4,
+          "t": "We went to see the Lord of the Night, and she gave us this."
+        },
+        {
+          "s": 4,
+          "t": "Like I said before... I couldn't forge your Ancient Name because there was no record of you in the Night Kingdom. But, with this, we can finally record your deeds."
+        },
+        {
+          "s": 2,
+          "t": "Just keep it with you during your time in Natlan, and eventually, it'll be full of your adventures."
+        },
+        {
+          "s": 0,
+          "t": "Really? Let Paimon see!"
+        },
+        {
+          "s": 0,
+          "t": "Whoa, it's the two of us! And a sun in the middle..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, and that must be... Kachina?"
+        },
+        {
+          "s": 2,
+          "t": "It's not a concrete medium. It reflects the Lord of the Night's will, and shows what she wants you to see."
+        },
+        {
+          "s": 4,
+          "t": "In other words, don't worry about its form. When you want to check the contents, just take it out and have a look."
+        },
+        {
+          "s": 0,
+          "t": "Sounds convenient! It's also super light, and doesn't take up too much space..."
+        },
+        {
+          "s": 0,
+          "t": "This is a really awesome gift!"
+        },
+        {
+          "sit": "It didn't come at a price, right?"
+        },
+        {
+          "sit": "It didn't cost a ton of Mora, right?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, yeah... We'd feel bad accepting something like that."
+        },
+        {
+          "s": 4,
+          "t": "Don't worry, you two. Like you saw yesterday, aiding humanity is the Lord of the Night's mandate."
+        },
+        {
+          "s": 4,
+          "t": "She would have willingly reconstructed Natlan's Ley Lines at the cost of her own existence. She wouldn't ask anything in return for this."
+        },
+        {
+          "s": 2,
+          "t": "Exactly... Just take it."
+        },
+        {
+          "s": 0,
+          "t": "Well, if you say so, hehe..."
+        },
+        {
+          "s": 17,
+          "t": "Oh! Thank goodness you're here! The Abyss attacked again, and it's really bad!"
+        },
+        {
+          "s": 17,
+          "t": "The monsters are everywhere! We need help!"
+        },
+        {
+          "s": 4,
+          "t": "So soon? We just fought them off!"
+        },
+        {
+          "s": 0,
+          "t": "We can figure that out later! Let's go!"
+        }
+      ],
+      "description": "You witness the emergence of the fifth hero within the Remnants of the Secret Source, and temporary cooperation with The Captain is established. It seems this matter has drawn to a close, and yet the Abyss presses in. It’s not time to relax just yet…"
+    },
+    {
+      "title": "The Surging Darkness",
+      "dialogue": [
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "I see. I'll send reinforcements to those two locations. This other one is too dangerous — I'll handle it myself."
+        },
+        {
+          "s": 1,
+          "t": "The remaining locations are remote, with no inhabitants. Let's bring our warriors back, and make sure they're careful on the retreat."
+        },
+        {
+          "s": 22,
+          "t": "Understood. I'll spread the word."
+        },
+        {
+          "s": 4,
+          "t": "We're here. What's going on? Kachina said the Abyss attacked again?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. It's not looking good. Our forces have always been able to handle the sporadic attacks, but now, there are more monsters than ever, and the attacks are more frequent."
+        },
+        {
+          "s": 4,
+          "t": "What about the scale? What areas are they targeting?"
+        },
+        {
+          "s": 1,
+          "t": "All of Natlan. Not just around the Stadium, but even the remote areas of the Collective of Plenty are reporting attacks."
+        },
+        {
+          "s": 2,
+          "t": "Could this also be some kind of omen? If things continue like this, then—"
+        },
+        {
+          "s": 1,
+          "t": "We won't last much longer, I know... What we're seeing now is the desperation of the Abyss. It knows we're only one hero short."
+        },
+        {
+          "s": 1,
+          "t": "I don't have the strength to fight it right now. This is its best opportunity, and its final chance."
+        },
+        {
+          "s": 0,
+          "t": "You're saying... We just have to hold out for as long as we can?"
+        },
+        {
+          "s": 1,
+          "t": "It'll be a long fight. Our current focus needs to be on protecting civilians and conserving manpower."
+        },
+        {
+          "s": 1,
+          "t": "There are caravans and adventurers trapped in the wild. Many of our warriors have already left to rescue them, but they'll need reinforcements."
+        },
+        {
+          "s": 17,
+          "t": "Leave that to us. We'll head out right away."
+        },
+        {
+          "s": 1,
+          "t": "Alright. Xilonen, Kachina — head to the camp near the Children of Echoes. Citlali — you're needed in the Masters of the Night-Wind."
+        },
+        {
+          "s": 1,
+          "t": "As an important figure in the plan, Ororon will stay here. Your tribe is too far from the Stadium."
+        },
+        {
+          "s": 2,
+          "t": "Understood. I'll leave right away."
+        },
+        {
+          "s": 1,
+          "t": "I prepared a hot air balloon to take you where you're needed."
+        },
+        {
+          "s": 1,
+          "t": "Messengers from the Scions of the Canopy are traveling all around Natlan. Update them once you've completed your mission, and they'll compile the information into a battle report."
+        },
+        {
+          "s": 1,
+          "t": "As I receive intel from the various regions, I'll plan your next move."
+        },
+        {
+          "s": 4,
+          "t": "Alright, no time to lose. Let's go."
+        },
+        {
+          "s": 17,
+          "t": "Be careful, everyone!"
+        },
+        {
+          "s": 0,
+          "t": "What about us? Where should we go?"
+        },
+        {
+          "s": 1,
+          "t": "I received word that a small team escorting civilians back to the Stadium was attacked. They won't be able to hold out for long."
+        },
+        {
+          "s": 1,
+          "t": "Can I leave them to you?"
+        },
+        {
+          "sit": "Of course."
+        },
+        {
+          "s": 1,
+          "t": "Thank you. The hot air balloon is over there."
+        },
+        {
+          "section": "Dargo"
+        },
+        {
+          "s": 23,
+          "t": "Thank you for coming. We were almost at the breaking point."
+        },
+        {
+          "s": 24,
+          "t": "There were just too many monsters. They just kept coming, wave after wave. I've never seen it this bad."
+        },
+        {
+          "s": 0,
+          "t": "At least we got here in time. You all should get going."
+        },
+        {
+          "s": 24,
+          "t": "I know, but it's not that easy. A lot of people were hurt in the battle just now."
+        },
+        {
+          "s": 24,
+          "t": "Our cart was also attacked. And now, our supplies are scattered everywhere..."
+        },
+        {
+          "s": 25,
+          "t": "That's not important right now. We need to focus on getting out of here alive."
+        },
+        {
+          "s": 24,
+          "t": "I know, but those were medical supplies. What if they need them back at the Stadium..."
+        },
+        {
+          "s": 26,
+          "t": "It's them! Over here!"
+        },
+        {
+          "s": 26,
+          "t": "We came to help, but looks like you don't need it. Nice job making it through."
+        },
+        {
+          "s": 27,
+          "t": "Now we can head straight to the next location."
+        },
+        {
+          "s": 0,
+          "t": "What other areas need help?"
+        },
+        {
+          "s": 26,
+          "t": "Here, take a look at the latest battle report."
+        },
+        {
+          "s": 26,
+          "t": "Messengers from the Scions of the Canopy are traveling all around Natlan to pass along the latest intel."
+        },
+        {
+          "s": 26,
+          "t": "If you see a messenger from the Scions of the Canopy, feel free to ask them about the latest battle situation."
+        },
+        {
+          "s": 0,
+          "t": "Thanks! Now, where should we go next?"
+        },
+        {
+          "s": 27,
+          "t": "Seems like you can hold your own in a fight, so let's split up. Choose where you want to go, and we'll take the rest."
+        },
+        {
+          "s": 26,
+          "t": "Still looks like they could use some help here, though. These supplies are really important. What should we do?"
+        },
+        {
+          "s": 24,
+          "t": "It's alright. Don't delay your rescue efforts on our account."
+        },
+        {
+          "s": 23,
+          "t": "But, if we stay here too long, the monsters might come back..."
+        },
+        {
+          "s": 0,
+          "t": "What do you think, {NICKNAME}? Should we stay and help?"
+        },
+        {
+          "s": 0,
+          "t": "Paimon will do whatever you decide!"
+        },
+        {
+          "section": "Dargo"
+        },
+        {
+          "s": 23,
+          "t": "Let's take a moment to regroup. Who knows when the monsters will show up again..."
+        },
+        {
+          "section": "Ardra, Kokpon"
+        },
+        {
+          "s": 24,
+          "t": "These supplies are very important. It would be a huge waste to lose them..."
+        },
+        {
+          "s": 25,
+          "t": "*sigh* Fine, I'll help you. Let's round them up and get packing."
+        },
+        {
+          "section": "Pumpu"
+        },
+        {
+          "s": 26,
+          "t": "If you see a messenger from the Scions of the Canopy, feel free to ask them about the latest battle situation."
+        },
+        {
+          "section": "Achiyaku"
+        },
+        {
+          "s": 28,
+          "t": "Phew, thank you so much! You came just in time."
+        },
+        {
+          "s": 29,
+          "t": "What's going on? Were other places hit?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, it seems like it."
+        },
+        {
+          "s": 29,
+          "t": "The Pyro Archon told us to be ready to evacuate. She warned us something like this could happen, but I never thought there would be this many monsters."
+        },
+        {
+          "s": 30,
+          "t": "You got here just in time, but what should we do about the wounded..."
+        },
+        {
+          "s": 0,
+          "t": "The wounded?"
+        },
+        {
+          "s": 28,
+          "t": "This area was hit bad. We're housing the wounded in this house for now, but we're short on medicine. It's not easy for them to get around, either."
+        },
+        {
+          "s": 28,
+          "t": "We don't know what to do next. We're sitting ducks if we stay here, but we can't just leave them behind."
+        },
+        {
+          "s": 29,
+          "t": "Thank goodness you're here, though. You saved us all."
+        },
+        {
+          "sit": "You should move them to the Scions of the Canopy while you have the chance."
+        },
+        {
+          "s": 28,
+          "t": "You're right. The monsters are gone, so it should be safe for now. Some of my men can escort them."
+        },
+        {
+          "s": 30,
+          "t": "That will take time, though, and some of the wounded can't walk. They might have to stay here..."
+        },
+        {
+          "s": 28,
+          "t": "Don't worry. Once we escort the first group, I'll call for reinforcements. That way, everyone can evacuate."
+        },
+        {
+          "s": 0,
+          "t": "Let's help them out here for now. Then, we can head to the next area."
+        },
+        {
+          "s": 0,
+          "t": "There's a messenger over there. Don't forget — we can get the latest intel from them."
+        },
+        {
+          "section": "Asiri"
+        },
+        {
+          "s": 31,
+          "t": "Thanks for your help. I've updated the intel on this area. I'll start spreading the word."
+        },
+        {
+          "s": 31,
+          "t": "Hang in there, you two. A lot of places still need your help."
+        },
+        {
+          "section": "Achiyaku, Wayta"
+        },
+        {
+          "s": 28,
+          "t": "What's the situation at the tribal camp?"
+        },
+        {
+          "s": 30,
+          "t": "Safe, for now. Although, most people are out delivering intel. If the Abyss launches a large-scale attack in the meantime..."
+        },
+        {
+          "s": 28,
+          "t": "Then... it will fall to us to protect the tribe. What, you scared?"
+        },
+        {
+          "s": 30,
+          "t": "Not a chance."
+        },
+        {
+          "section": "Listen"
+        },
+        {
+          "s": 32,
+          "t": "No! I don't wanna go! I wanna stay with you!"
+        },
+        {
+          "s": 33,
+          "t": "Mommy can't go with you, my dear. She's hurt. Still, it's going to be okay. These nice people are gonna take you to safety. Then, they'll come back for me."
+        },
+        {
+          "s": 32,
+          "t": "No! I won't go!"
+        },
+        {
+          "section": "Waqar"
+        },
+        {
+          "s": 29,
+          "t": "That was terrifying... At least we made it through."
+        },
+        {
+          "section": "Brave Yumkasaur"
+        },
+        {
+          "s": 0,
+          "t": "It's alright! You're safe now! The bad guys are all gone."
+        },
+        {
+          "s": 0,
+          "t": "Go and find your friends, okay? It's dangerous out here. It's best to stick together."
+        },
+        {
+          "sit": "I don't think they understood that."
+        },
+        {
+          "s": 0,
+          "t": "Okay, then... Shoo! Shoo! C'mon... Shoo!"
+        },
+        {
+          "s": 0,
+          "t": "Nope, still nothing... Wait! There's something on the ground over there."
+        },
+        {
+          "s": 0,
+          "t": "Let's see... Oh! It's one of the battle reports from the Scions of the Canopy. This must be what the saurians were trying to protect."
+        },
+        {
+          "s": 0,
+          "t": "Looks pretty recent, too. We can use it to figure out where to go next."
+        },
+        {
+          "sit": "If it's recent, that means..."
+        },
+        {
+          "sit": "The messenger might still be nearby."
+        },
+        {
+          "s": 0,
+          "t": "You're right! Maybe they just dropped it by accident, though..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, um, we saw the battle report, so you guys don't need to worry anymore."
+        },
+        {
+          "s": 0,
+          "t": "Huh, still no response..."
+        },
+        {
+          "s": 0,
+          "t": "Well, what do you want to do? Follow the battle report? Or continue to explore this area?"
+        },
+        {
+          "section": "Diligent Yumkasaur"
+        },
+        {
+          "s": 34,
+          "t": "..."
+        },
+        {
+          "section": "Valiant Tepetlisaur"
+        },
+        {
+          "s": 35,
+          "t": "..."
+        },
+        {
+          "section": "Diligent Yumkasaur"
+        },
+        {
+          "s": 34,
+          "t": "No going outside. It's too dangerous. That goes for you too!"
+        },
+        {
+          "section": "Valiant Tepetlisaur"
+        },
+        {
+          "s": 35,
+          "t": "Thanks for saving us, human. The next time those pesky monsters show up, I'll fight them off!"
+        },
+        {
+          "section": "Chimalli"
+        },
+        {
+          "s": 36,
+          "t": "Thank you for coming... We finally have time to catch our breath."
+        },
+        {
+          "sit": "How's the situation with the Children of Echoes?"
+        },
+        {
+          "s": 36,
+          "t": "Fairly stable, for now. We've stationed ourselves here to act as a buffer."
+        },
+        {
+          "s": 0,
+          "t": "What about the monsters that suddenly appeared?"
+        },
+        {
+          "s": 36,
+          "t": "Based on my experience, the monsters are attracted to two things — the presence of living beings and combat."
+        },
+        {
+          "s": 36,
+          "t": "That's why we set up our front line of defense so far from the tribe. The civilians are more isolated from combat that way."
+        },
+        {
+          "s": 36,
+          "t": "Ah, the messenger's here."
+        },
+        {
+          "s": 0,
+          "t": "Perfect! We were just waiting for the latest battle report."
+        },
+        {
+          "s": 36,
+          "t": "Mhm, we'll stay here and continue to guard the tribe."
+        },
+        {
+          "s": 36,
+          "t": "There's so much that needs to be done after that last battle, but we're short on manpower."
+        },
+        {
+          "s": 36,
+          "t": "If you're not in a hurry to leave, would you be willing to help out?"
+        },
+        {
+          "s": 0,
+          "t": "That's a decision for {NICKNAME}."
+        },
+        {
+          "section": "Ullanta"
+        },
+        {
+          "s": 37,
+          "t": "Here's the current situation — people from all over Natlan are trying to make their way to the Stadium, but they're being targeted by the Abyss."
+        },
+        {
+          "s": 37,
+          "t": "If you have the strength, they could really use some help."
+        },
+        {
+          "section": "Yaretzi"
+        },
+        {
+          "s": 38,
+          "t": "Just stay calm... Time to be brave..."
+        },
+        {
+          "s": 38,
+          "t": "You're a warrior. It's your job to protect people..."
+        },
+        {
+          "section": "Acama"
+        },
+        {
+          "s": 39,
+          "t": "This uniform brings back a lot of memories. Been a while since I last wore it."
+        },
+        {
+          "s": 39,
+          "t": "But, hey... Still fits like a glove!"
+        },
+        {
+          "section": "Acama"
+        },
+        {
+          "s": 39,
+          "t": "Nice work out there. This is for you."
+        },
+        {
+          "s": 39,
+          "t": "Don't forget to refuel, or you won't have enough strength when it counts!"
+        },
+        {
+          "section": "Kamaka"
+        },
+        {
+          "s": 40,
+          "t": "Thanks for the help."
+        },
+        {
+          "sit": "You're The Captain's soldiers, aren't you?"
+        },
+        {
+          "s": 40,
+          "t": "Yes. Per his order, we're now under the Pyro Archon's command."
+        },
+        {
+          "s": 40,
+          "t": "Not everyone understood his decision, but our lord's orders take precedence over all."
+        },
+        {
+          "s": 41,
+          "t": "We're alive because of them! They saved us..."
+        },
+        {
+          "s": 0,
+          "t": "Wow, um, guess that means we should thank you guys... Ah, this feels weird."
+        },
+        {
+          "s": 42,
+          "t": "Agreed."
+        },
+        {
+          "s": 40,
+          "t": "Where are you headed? The People of the Springs?"
+        },
+        {
+          "s": 41,
+          "t": "That was the plan, but I don't know if it's safe anymore."
+        },
+        {
+          "s": 40,
+          "t": "I suggest heading to the Stadium. Most of the manpower will be focused there, so it'll be safer than staying with the tribes."
+        },
+        {
+          "s": 40,
+          "t": "Once we take care of these monsters, some of our soldiers will escort you."
+        },
+        {
+          "s": 41,
+          "t": "Th—Thank you so much!"
+        },
+        {
+          "s": 0,
+          "t": "Guess a little extra help never hurts."
+        },
+        {
+          "s": 40,
+          "t": "People from all over Natlan are heading to the Stadium. That area needs to be the center of our defensive efforts."
+        },
+        {
+          "s": 40,
+          "t": "If your other tasks are complete, I'm sure the people there could use your aid."
+        },
+        {
+          "sit": "Thanks for the intel."
+        },
+        {
+          "s": 40,
+          "t": "...Hearing those words from you also feels quite strange for me. But, I can only accept the situation at hand."
+        },
+        {
+          "section": "Guselnikov"
+        },
+        {
+          "s": 42,
+          "t": "The Captain was right. The situation is not looking good. Just look at the amount of people we've had to rescue."
+        },
+        {
+          "s": 42,
+          "t": "We shouldn't linger. We'll get these people back on the road, then head to our next destination."
+        },
+        {
+          "section": "Kamaka"
+        },
+        {
+          "s": 41,
+          "t": "Saved by the Fatui... Now that's lucky..."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "Oh, Kinich! You're back!"
+        },
+        {
+          "s": 3,
+          "t": "Yeah, thought I would check on the situation after finishing my delivery work. If you're here, though, I doubt I'm needed."
+        },
+        {
+          "sit": "Every person counts."
+        },
+        {
+          "sit": "We wanted a breather anyway."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! It really feels like we are running short on people everywhere. It's so dangerous out there. Just when we think everything's under control, another thing goes off the deep end..."
+        },
+        {
+          "s": 0,
+          "t": "Not that Paimon's complaining. It's just.. what if things get even worse?"
+        },
+        {
+          "s": 21,
+          "t": "*scoff* What a stupid question. You know the answer, you're just too afraid to face it... like a puny bug clinging to a pipe dream."
+        },
+        {
+          "s": 0,
+          "t": "Okay, that's enough out of you!"
+        },
+        {
+          "s": 3,
+          "t": "*sigh* This may be one of the few times Ajaw has a point."
+        },
+        {
+          "s": 3,
+          "t": "On the bright side, we can pat ourselves on the back for saving all these civilians, and bringing them here."
+        },
+        {
+          "s": 3,
+          "t": "My tribe is launching a second wave of patrols soon. We'll do a scan of the whole nation. As long as we don't scatter our forces, the Abyss is nothing to fear."
+        },
+        {
+          "s": 21,
+          "t": "Fear is useless, anyway. Even if the endless surge of monsters scares you to death, you still have to fight. There's no other choice."
+        },
+        {
+          "sit": "Where is Mavuika?"
+        },
+        {
+          "s": 3,
+          "t": "She took a small team of warriors to the mines. A group of people from the Children of Echoes were trapped there. I think she just got back."
+        },
+        {
+          "s": 3,
+          "t": "The lava alone makes that area dangerous, and now it's crawling with monsters. Without her power, she's just an ordinary Vision-bearer like the rest of us. I'd be lying if I said I wasn't worried."
+        },
+        {
+          "s": 21,
+          "t": "Spewing nonsense, as always... Quit worrying and look at the outcome, genius! She's still obviously the strongest warrior you have."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! She always seems so confident. Plus, she told us you can only become the Archon by proving your strength."
+        },
+        {
+          "s": 3,
+          "t": "It's true. She certainly helps us save manpower. She can handle the dangerous areas almost entirely on her own."
+        },
+        {
+          "s": 21,
+          "t": "Alright, alright. I'm tired of this conversation. Either take a break or get moving already!"
+        },
+        {
+          "s": 3,
+          "t": "A break sounds good. We won't be much help in the field if we're dead on our feet."
+        },
+        {
+          "s": 0,
+          "t": "Good idea. Maybe we can see if the people around here need anything in the meantime?"
+        },
+        {
+          "sit": "Even on our break, we can still be helpful."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, looks like we're on the same page."
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "s": 0,
+          "t": "Wanna get some rest, Traveler? We have to head out again in a bit."
+        },
+        {
+          "sit": "Yep, let's get some rest."
+        },
+        {
+          "sit": "I want to keep looking around."
+        },
+        {
+          "section": "Ajaw, Kinich"
+        },
+        {
+          "s": 21,
+          "t": "The Almighty Dragonlord K'uhul Ajaw is trying to rest. Cease your racket at once, lowly creatures. We shall take no comments on the matter."
+        },
+        {
+          "s": 3,
+          "t": "No one asked."
+        },
+        {
+          "section": "Andinet, Tewodros"
+        },
+        {
+          "s": 43,
+          "t": "The protection of this location is critical. Our current forces won't be enough. We need reinforcements."
+        },
+        {
+          "s": 44,
+          "t": "I'm sure other areas are thinking the exact same thing..."
+        },
+        {
+          "section": "Maticui"
+        },
+        {
+          "s": 45,
+          "t": "*panting*... That's it. I need a break."
+        },
+        {
+          "section": "Icmotza"
+        },
+        {
+          "s": 46,
+          "t": "Ugh, I'm terrified... The monsters aren't gonna show up here... right?"
+        },
+        {
+          "section": "Ardra, Kokpon"
+        },
+        {
+          "s": 24,
+          "t": "It's you two! I'm so glad you're alright!"
+        },
+        {
+          "s": 0,
+          "t": "Hey! You made it back!"
+        },
+        {
+          "s": 25,
+          "t": "Sure did. Dargo made sure we got back safely before rushing out again."
+        },
+        {
+          "s": 24,
+          "t": "Plus, we managed to deliver the medical supplies to the Stadium. I really can't thank you enough for your help!"
+        },
+        {
+          "section": "Ackon, Botwe, Kweku"
+        },
+        {
+          "s": 47,
+          "t": "The commissions just keep coming one after another. Normally I'd be happy, but given the circumstances..."
+        },
+        {
+          "s": 48,
+          "t": "It's only a \"commission\" if you get paid. This is something else entirely."
+        },
+        {
+          "s": 49,
+          "t": "Still, everyone's doing their part. There's more to adventuring than commission fees. Anyone can be an adventurer..."
+        },
+        {
+          "s": 48,
+          "t": "Except those who like to play it safe."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 50,
+          "t": "Ah, it's you two! Thanks again for rescuing me."
+        },
+        {
+          "s": 3,
+          "t": "You know each other?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, we ran into him out in the wild. He was injured, but luckily, some saurians took him back to safety... Uh, speaking of which, are you sure you've recovered enough to be out and about like this?"
+        },
+        {
+          "s": 50,
+          "t": "Haha, I got really lucky — my injuries were just some flesh wounds. The doctor said they should heal on their own as long as I get enough rest, so I figured I'd try and keep working if I could."
+        },
+        {
+          "s": 50,
+          "t": "But, uh, it didn't take me long to start regretting that decision... Everything's hurting now. As soon as I've delivered this battle report, I'm heading right back to go lie down."
+        },
+        {
+          "s": 3,
+          "t": "Sounds sensible. It's not a good idea to be taking risks while you're injured."
+        },
+        {
+          "s": 0,
+          "t": "Aaah, what's going on!?"
+        },
+        {
+          "sit": "It's an Abyssal Pylon!"
+        },
+        {
+          "s": 21,
+          "t": "The rabble-rousers return. They don't know when to give up."
+        },
+        {
+          "s": 3,
+          "t": "An Abyssal Pylon, here... That's not good news. We need to deal with it, now."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 3,
+          "t": "The situation is still quite grim. Here, take a look."
+        },
+        {
+          "s": 3,
+          "t": "Looks like this place also isn't as safe as we thought. That, plus the bridge to the Stadium is also compromised."
+        },
+        {
+          "s": 0,
+          "t": "Aaah, what's going on!?"
+        },
+        {
+          "sit": "It's an Abyssal Pylon!"
+        },
+        {
+          "s": 21,
+          "t": "The rabble-rousers return. They don't know when to give up."
+        },
+        {
+          "s": 3,
+          "t": "An Abyssal Pylon, here... That's not good news. We need to deal with it, now."
+        },
+        {
+          "section": "Kinich"
+        },
+        {
+          "s": 0,
+          "t": "Wh—What was that?"
+        },
+        {
+          "s": 21,
+          "t": "The physical embodiment of pure dread and destruction! Hahaha, that black pit of despair will eat you all alive! Ah, at long last!"
+        },
+        {
+          "s": 0,
+          "t": "\"Ahahaha.\" Laugh all you want, it's gonna eat you too!"
+        },
+        {
+          "s": 3,
+          "t": "So is that the source of the Abyss's power?"
+        },
+        {
+          "sit": "It emitted a huge amount of Abyssal energy."
+        },
+        {
+          "sit": "This is a full-scale invasion of Natlan."
+        },
+        {
+          "s": 3,
+          "t": "I have to get a closer look at that thing. It may already be too late..."
+        },
+        {
+          "s": 3,
+          "t": "Get to the place mentioned in the battle report — I have a feeling things are about to get very bad very quickly. There's no time to lose!"
+        },
+        {
+          "sit": "You got it."
+        },
+        {
+          "s": 0,
+          "t": "The fact that deadpan Kinich is this nervous just goes to show how serious this really is..."
+        },
+        {
+          "s": 0,
+          "t": "Let's go. The disaster's really happening..."
+        }
+      ],
+      "description": "Abyssal monsters invade Natlan, and the curtain rises on a massive war…"
+    },
+    {
+      "title": "Despair Engulfs the Heavens",
+      "dialogue": [
+        {
+          "section": "Liben"
+        },
+        {
+          "s": 51,
+          "t": "Ah, friend, we meet once more."
+        },
+        {
+          "sit": "Liben, where have you been raking in all that wealth lately?"
+        },
+        {
+          "s": 51,
+          "t": "Heh, I'm not exactly rolling in it like you think. Honestly, I might've even lost a few Mora."
+        },
+        {
+          "s": 51,
+          "t": "I was recently doing business at the Collective of Plenty. Someone took a look at my mushrooms and said:"
+        },
+        {
+          "s": 51,
+          "t": "\"Hmm... They look rather... ordinary. Not like those of the mushroom god's.\""
+        },
+        {
+          "s": 51,
+          "t": "What in the world is a \"mushroom god\"? And is there some new variety of edible mushroom I should've known about?"
+        },
+        {
+          "s": 51,
+          "t": "But I have to get home for the Lantern Rite whether there's money in my pocket or not. So, I've been running shorter trade routes recently — Dornman Port, for example."
+        },
+        {
+          "sit": "Ah, Dornman Port!"
+        },
+        {
+          "sit": "Oh, Dornman Port?"
+        },
+        {
+          "s": 51,
+          "t": "It's just north of Mondstadt. Have you not been there before, friend?"
+        },
+        {
+          "sit": "Well, someone was holding me back, telling me we'll \"explore it later.\""
+        },
+        {
+          "s": 51,
+          "t": "It's a port town built on cargo shipping and flower cultivation. Just looking at it makes you feel at ease."
+        },
+        {
+          "s": 51,
+          "t": "There used to be a very famous sanatorium up in the hills there, but it was torn down a few years ago."
+        },
+        {
+          "s": 51,
+          "t": "Speaking of which, it's actually kind of creepy. There's a pretty chilling saying about that sanatorium up in the hills..."
+        },
+        {
+          "s": 51,
+          "t": "They say that \"anyone who visits the sanatorium will remain in those enchanted hills forever more.\""
+        },
+        {
+          "sit": "Because the place is so comfortable that there's no reason to leave...?"
+        },
+        {
+          "s": 51,
+          "t": "I guess it's not so creepy if you look at it that way. Maybe that saying started because of the fresh air up there, far from all the dust and noise below."
+        },
+        {
+          "s": 51,
+          "t": "Hmm, it must be nice to live in the hills."
+        },
+        {
+          "sit": "There are plenty of beautiful mountains and other scenic spots in Liyue too."
+        },
+        {
+          "s": 51,
+          "t": "That's very true. But, alone in the mountains, you can't help but worry about things like getting food and water or the risk of being dragged off by wild animals. Especially since no one's really set up the kinds of services needed for a proper retreat yet."
+        },
+        {
+          "s": 51,
+          "t": "It really has to be a proper retreat: pay to stay, get a nice rest, enjoy the opportunity to be close to nature. That's the only way one can feel truly comfortable."
+        },
+        {
+          "s": 51,
+          "t": "In any case, I'd better get busy since staying at a sanatorium costs money. Looks like it's business as usual for us, then?"
+        },
+        {
+          "section": "Liben"
+        },
+        {
+          "s": 51,
+          "t": "Ah, hello there. Need something?"
+        },
+        {
+          "section": "Liben"
+        },
+        {
+          "sit": "I'm here for my Box o' Marvels."
+        },
+        {
+          "s": 51,
+          "t": "The items needed today are as such."
+        },
+        {
+          "section": "Liben"
+        },
+        {
+          "sit": "I'm here for my Box o' Marvels."
+        },
+        {
+          "s": 51,
+          "t": "I reckon you've already collected one for the day, friend! Still, feel free to inspect the other boxes. As before, you'll find that I'm no cheat."
+        },
+        {
+          "section": "Liben"
+        },
+        {
+          "sit": "Can you run me through your background again?"
+        },
+        {
+          "s": 51,
+          "t": "I'm Liben, and once upon a time, I sold curios."
+        },
+        {
+          "s": 51,
+          "t": "I'm working hard these days to save up for a nice long vacation."
+        },
+        {
+          "sit": "What kind of business are you talking about?"
+        },
+        {
+          "s": 51,
+          "t": "Simple. You find me a few basic everyday items, cooking ingredients and the like, and then you trade them with me for a Box o' Marvels, full of all kinds of nice little treasures."
+        },
+        {
+          "s": 51,
+          "t": "Keep in mind that I've filled these Boxes o' Marvels with the fortune I made in my time as a seller of curios. There's no booby prizes to be found here, and I treat all my customers the same."
+        },
+        {
+          "s": 51,
+          "t": "Why box them up and turn it into a lucky draw, you ask?"
+        },
+        {
+          "s": 51,
+          "t": "What can I say, people like a gift box. It just makes everyone a little more inclined to get involved."
+        },
+        {
+          "sit": "How do you earn any money like this?"
+        },
+        {
+          "s": 51,
+          "t": "They say that everyone in Snezhnaya is tightening their belts, so there should be a business opportunity there or two."
+        },
+        {
+          "section": "Liben"
+        },
+        {
+          "sit": "Goodbye."
+        },
+        {
+          "s": 51,
+          "t": "See you around."
+        },
+        {
+          "section": "Tewodros, Andinet"
+        },
+        {
+          "s": 43,
+          "t": "Thanks for your help. We'll manage for now, please go help the other affected areas."
+        },
+        {
+          "s": 44,
+          "t": "Nowhere's safe from the Abyss monsters now, but at least they're still scared off by the Sacred Flame. We'll stay here and protect any refugees who have come here to seek sanctuary."
+        },
+        {
+          "section": "Iyoba"
+        },
+        {
+          "s": 0,
+          "t": "Over here, come on! Quick!"
+        },
+        {
+          "s": 0,
+          "t": "Wake up! You gotta wake up!"
+        },
+        {
+          "s": 0,
+          "t": "Waaah!"
+        },
+        {
+          "sit": "They're all dead."
+        },
+        {
+          "s": 0,
+          "t": "Oh no... were we too late?"
+        },
+        {
+          "s": 52,
+          "t": "Aaah! No... Don't come any closer!"
+        },
+        {
+          "s": 53,
+          "t": "It's okay, sweetie, they're not monsters... I think they're here to help."
+        },
+        {
+          "sit": "Don't worry. You're safe now."
+        },
+        {
+          "sit": "Come on out."
+        },
+        {
+          "s": 53,
+          "t": "Thank you..."
+        },
+        {
+          "s": 0,
+          "t": "What happened here?"
+        },
+        {
+          "s": 53,
+          "t": "The Abyss had us surrounded... Luckily, these Fatui came to our rescue, and we started evacuating."
+        },
+        {
+          "s": 53,
+          "t": "But then that black fire shot out of the stadium, and that huge monstrosity appeared in the sky... Right after that, monsters suddenly appeared everywhere."
+        },
+        {
+          "s": 53,
+          "t": "They couldn't fight them off, so... so they hid us here..."
+        },
+        {
+          "s": 52,
+          "t": "*sobbing*..."
+        },
+        {
+          "sit": "You should keep moving. This is no place to hang around."
+        },
+        {
+          "s": 0,
+          "t": "Right, you need to get to the stadium. C'mon, we'll take you."
+        },
+        {
+          "s": 53,
+          "t": "Thank you... You saved our lives. We're forever indebted to you."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "sit": "This is no \"disaster\"..."
+        },
+        {
+          "sit": "This is war."
+        },
+        {
+          "s": 0,
+          "t": "Y—Yeah... Paimon knows, it's just... it hasn't fully sunk in yet..."
+        },
+        {
+          "s": 0,
+          "t": "But anyway, right now, let's focus on getting them to the Stadium."
+        },
+        {
+          "s": 0,
+          "t": "With any luck, there'll be an update waiting for us there. If not... we'll just have to play things by ear."
+        },
+        {
+          "section": "Haronga"
+        },
+        {
+          "s": 0,
+          "t": "Over here, come on! Quick!"
+        },
+        {
+          "s": 0,
+          "t": "Hey, wake up! And you, wake up!"
+        },
+        {
+          "s": 54,
+          "t": "They're all dead."
+        },
+        {
+          "s": 0,
+          "t": "Oh no... were we too late?"
+        },
+        {
+          "s": 54,
+          "t": "We were on our way to the stadium with our saurians, when that dark entity emerged in the sky. Seconds later, the Abyss monsters appeared and changed into saurian form."
+        },
+        {
+          "s": 54,
+          "t": "They fought till the end to protect us... and now..."
+        },
+        {
+          "sit": "You should keep moving. This is no place to hang around."
+        },
+        {
+          "s": 0,
+          "t": "Right, you need to get to the stadium. C'mon, we'll take you."
+        },
+        {
+          "s": 54,
+          "t": "I guess... Thank you."
+        },
+        {
+          "s": 54,
+          "t": "I'm so sorry, truly I am... May the Wayob watch over your souls, now and forever..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Paimon."
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "sit": "This is no \"disaster\"..."
+        },
+        {
+          "sit": "This is war."
+        },
+        {
+          "s": 0,
+          "t": "Y—Yeah... Paimon knows, it's just... it hasn't fully sunk in yet..."
+        },
+        {
+          "s": 0,
+          "t": "But anyway, right now, let's focus on getting them to the Stadium."
+        },
+        {
+          "s": 0,
+          "t": "With any luck, there'll be an update waiting for us there. If not... we'll just have to play things by ear."
+        },
+        {
+          "section": "Lliuyaq"
+        },
+        {
+          "s": 55,
+          "t": "Need the latest battle report? We don't have too much information, since so few messengers are making it back here."
+        },
+        {
+          "s": 55,
+          "t": "But as I understand, the folks at the Scions of the Canopy outpost suffered a large-scale Abyss attack as they were trying to evacuate civilians to the Stadium."
+        },
+        {
+          "s": 55,
+          "t": "If you're free, please head there immediately."
+        },
+        {
+          "section": "Raman"
+        },
+        {
+          "s": 50,
+          "t": "Oh, hey. It's you again."
+        },
+        {
+          "s": 50,
+          "t": "It's a real shame I'm stuck here nursing my wounds, otherwise I'd be out there on the front line delivering the latest intel to you guys."
+        },
+        {
+          "s": 0,
+          "t": "What's the current situation out there?"
+        },
+        {
+          "s": 50,
+          "t": "*sigh* Fewer and fewer messengers are making it back, and each trip seems to be taking longer than the last... It gives me a really bad feeling."
+        },
+        {
+          "s": 50,
+          "t": "I'll update you on the latest intel for now. For next time though, I'll see if I can find someone to bring the updates directly to you."
+        },
+        {
+          "s": 50,
+          "t": "I can't guarantee anything, though. As you know, we're seriously short on people."
+        },
+        {
+          "sit": "Don't worry about me. I'll manage."
+        },
+        {
+          "sit": "Save the intel for those who need it most."
+        },
+        {
+          "s": 50,
+          "t": "Heh... I don't know how you do it. You really are a true hero."
+        },
+        {
+          "section": "Raman"
+        },
+        {
+          "s": 50,
+          "t": "Stay safe, heroes of Natlan."
+        },
+        {
+          "section": "Lliuyaq"
+        },
+        {
+          "s": 55,
+          "t": "Best of luck. I hope to hear good news."
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "s": 56,
+          "t": "Stay back!"
+        },
+        {
+          "s": 0,
+          "t": "Aaah!"
+        },
+        {
+          "s": 56,
+          "t": "Wait, y—you're... What happened to the monsters?"
+        },
+        {
+          "sit": "Duly slain."
+        },
+        {
+          "s": 57,
+          "t": "All of them? But there were so many..."
+        },
+        {
+          "s": 0,
+          "t": "What's the situation here? Any other survivors?"
+        },
+        {
+          "s": 56,
+          "t": "..."
+        },
+        {
+          "s": 57,
+          "t": "..."
+        },
+        {
+          "s": 56,
+          "t": "The warriors protecting our group all fought to their deaths. We weren't about to sit around waiting to die, so we snuck out and made a run for it. But we didn't get far before the monsters spotted us..."
+        },
+        {
+          "s": 56,
+          "t": "Who knows, maybe we should've stayed put after all."
+        },
+        {
+          "s": 57,
+          "t": "Ugh, when I was in my prime, I could have handled them all by myself... *cough* ... *sigh*"
+        },
+        {
+          "sit": "You need to get out of here, now."
+        },
+        {
+          "s": 0,
+          "t": "Yeah. Take our hot air balloon and head to the stadium."
+        },
+        {
+          "s": 56,
+          "t": "Oh... But won't that hold you up, if we take it?"
+        },
+        {
+          "s": 58,
+          "t": "What the...? How is anyone still here!? I thought the monsters had captured this place?"
+        },
+        {
+          "sit": "Perfect timing. Can you escort them to safety?"
+        },
+        {
+          "sit": "We have somewhere else to be."
+        },
+        {
+          "s": 58,
+          "t": "Yes, of course! Leave them with us."
+        },
+        {
+          "s": 56,
+          "t": "..."
+        },
+        {
+          "s": 58,
+          "t": "What's the matter? We need to go! It's not safe here."
+        },
+        {
+          "s": 56,
+          "t": "It's just... I can't help but think things might have turned out differently if only I'd chosen to fend for myself sooner, rather than expecting other people to protect me..."
+        },
+        {
+          "s": 57,
+          "t": "It's not too late — maybe even for me. I might be an old bag of bones, but I used to train in the spear, and I bet I can still remember a thing or two."
+        },
+        {
+          "s": 56,
+          "t": "Let's get going. I'm gonna fight to the very end... just like they did."
+        },
+        {
+          "s": 57,
+          "t": "Thanks again for your help. We'll be alright from here."
+        },
+        {
+          "s": 0,
+          "t": "Okay, but be extra careful on your way back! We'll see you at the stadium!"
+        },
+        {
+          "s": 56,
+          "t": "You bet! Till then."
+        },
+        {
+          "section": "Achiyaku"
+        },
+        {
+          "s": 28,
+          "t": "It's you... You came..."
+        },
+        {
+          "sit": "What happened to the other warriors?"
+        },
+        {
+          "s": 28,
+          "t": "After you left, some of them started evacuating the civilians, while the rest stayed behind to keep guard... but they're all dead. I'm the only survivor."
+        },
+        {
+          "s": 28,
+          "t": "We're done for now. The Abyss will attack again any minute, and then I'll be a dead man too... The last few civilians holed up indoors won't stand a chance..."
+        },
+        {
+          "s": 0,
+          "t": "Hang in there, we'll think of something! There's gotta be a way out of this."
+        },
+        {
+          "s": 28,
+          "t": "Like what? None of the civilians have any combat experience. There are old people, children, wounded... They can't defend themselves."
+        },
+        {
+          "s": 56,
+          "t": "The monsters are gone for now, right?"
+        },
+        {
+          "s": 28,
+          "t": "Get back inside. It's too dangerous out here."
+        },
+        {
+          "s": 56,
+          "t": "I know it's dangerous. That's why I came out."
+        },
+        {
+          "s": 57,
+          "t": "Same."
+        },
+        {
+          "s": 28,
+          "t": "Huh? What is this...?"
+        },
+        {
+          "s": 56,
+          "t": "Can you spare some equipment for us?"
+        },
+        {
+          "s": 56,
+          "t": "I've never been in a battle before, but I'm young, and I can hold a weapon. That's gotta count for something."
+        },
+        {
+          "s": 57,
+          "t": "And I used to fight in the Pilgrimage when I was a younger man. Admittedly, I never made it very far..."
+        },
+        {
+          "s": 57,
+          "t": "But if you hand me a spear, I think the old muscle-memory will kick in."
+        },
+        {
+          "s": 56,
+          "t": "There are others willing to join us as well. I persuaded them to fight. We can't let the blood spilled by our warrior brethren be in vain."
+        },
+        {
+          "s": 56,
+          "t": "We can't watch on as our heroes lose heart. And we can't let them fight alone."
+        },
+        {
+          "s": 28,
+          "t": "Hmm, we don't have much equipment left..."
+        },
+        {
+          "s": 28,
+          "t": "...Okay. Take these."
+        },
+        {
+          "s": 28,
+          "t": "With a few extra fighters, we should just about be able to hold our own. It'll be a slow advance, but that's better than being stuck here."
+        },
+        {
+          "s": 28,
+          "t": "Everyone who's fighting, be prepared to follow my orders to the letter."
+        },
+        {
+          "s": 56,
+          "t": "Yes Sir!"
+        },
+        {
+          "s": 57,
+          "t": "Got it."
+        },
+        {
+          "s": 0,
+          "t": "Take our hot air balloon. You can use it to get to the stadium."
+        },
+        {
+          "s": 57,
+          "t": "No need, you'll have other people to save. We're taking up arms so that you can focus on more important things. You're the heroes, after all."
+        },
+        {
+          "s": 0,
+          "t": "Okay, well... Try going that way. That's the route we came from, and there weren't too many monsters."
+        },
+        {
+          "s": 28,
+          "t": "Thank you both. You've been a huge help."
+        },
+        {
+          "s": 28,
+          "t": "I am devastated by the deaths of my brothers-in-arms. But if their sacrifice means anything, I have to live on."
+        },
+        {
+          "s": 56,
+          "t": "We're not going down without a fight."
+        },
+        {
+          "sit": "Just be careful."
+        },
+        {
+          "s": 28,
+          "t": "Thanks, we will. Now, go. There are other people to save out there."
+        },
+        {
+          "section": "Young Yumkasaur"
+        },
+        {
+          "s": 0,
+          "t": "Guess you're the sole survivor, huh buddy?"
+        },
+        {
+          "s": 0,
+          "t": "There there, don't be scared. Head to the Stadium, you'll be safe there. It's that way."
+        },
+        {
+          "s": 0,
+          "t": "You're upset, and nothing Paimon says can make it better... But you have to go right away, okay?"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Stay strong."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, you're right. We have to keep going."
+        },
+        {
+          "s": 0,
+          "t": "The latest intel said the Children of Echoes need support too. Let's head over."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 0,
+          "t": "Nope... Nobody here..."
+        },
+        {
+          "s": 0,
+          "t": "The latest intel said the Children of Echoes need support too. Let's head over."
+        },
+        {
+          "section": "Chimalli"
+        },
+        {
+          "s": 36,
+          "t": "This is the second time you've had to come to our rescue... I'm a little ashamed."
+        },
+        {
+          "s": 36,
+          "t": "Thanks to your efforts last time, we managed to fend off the Abyss here even after whatever that was appeared in the sky."
+        },
+        {
+          "s": 36,
+          "t": "But at this point... I think we're going to have to cut our losses. This base is as good as gone."
+        },
+        {
+          "s": 0,
+          "t": "Yeah. Everyone needs to stick together. Best to regroup somewhere else."
+        },
+        {
+          "s": 36,
+          "t": "Alright, time to evacuate. There's a volunteer unit here too, so first I need to ask them what they want to do next."
+        },
+        {
+          "s": 36,
+          "t": "For anyone who still wants to fight on the frontlines, the Children of Echoes' front is the closest to here. Anyone who wants to leave will likely also see action as they evacuate, but will be afforded safety at the Stadium."
+        },
+        {
+          "s": 36,
+          "t": "Those are the options. We're abandoning this base, and you're free to stay with the group or leave."
+        },
+        {
+          "s": 36,
+          "t": "As of this moment, the Children of Echoes are reasonably well-defended. So please, weigh the risks and consider your families' safety before you make a decision."
+        },
+        {
+          "s": 36,
+          "t": "Now then. Anyone who wishes to keep fighting, show me how serious you are."
+        },
+        {
+          "s": 36,
+          "t": "...Did I not make myself clear?"
+        },
+        {
+          "s": 38,
+          "t": "But if Natlan is destroyed, will there still be a home for us to return to?"
+        },
+        {
+          "s": 39,
+          "t": "If anyone wants a future, it's on them to go out there and grab it. Period. No one wants to be that person who sat back and hoped for the best while other people were giving their blood for our nation."
+        },
+        {
+          "s": 36,
+          "t": "Very well..."
+        },
+        {
+          "s": 36,
+          "t": "...\"For Natlan.\""
+        },
+        {
+          "s": 38,
+          "t": "...\"For Natlan!\""
+        },
+        {
+          "s": 36,
+          "t": "You heard them. This means we'll all be going to support the Children of Echoes garrison."
+        },
+        {
+          "s": 0,
+          "t": "Great. Well, you all seem in good spirits, so that's encouraging. But still, please be careful!"
+        },
+        {
+          "s": 36,
+          "t": "Don't worry, it'll be just like another Night Warden War. We'll force the Abyss back if it's the last thing we do."
+        },
+        {
+          "sit": "What's that?"
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "s": 0,
+          "t": "Shoot, that creepy Abyss thing is raining down a dangerous-looking substance again!"
+        },
+        {
+          "s": 36,
+          "t": "...That's over towards People of the Springs territory. From what I've heard, their defenses have been substantially weakened by the Abyss invasion."
+        },
+        {
+          "s": 0,
+          "t": "Then let's head over and check on them!"
+        },
+        {
+          "section": "Chimalli"
+        },
+        {
+          "s": 36,
+          "t": "Thank you so much, you saved the day. The enemy attacks grow stronger with each wave... We're nearly at breaking point."
+        },
+        {
+          "s": 36,
+          "t": "Given how few of us are left, I think it's time we cut our losses. This base is as good as gone."
+        },
+        {
+          "s": 0,
+          "t": "Yeah. Everyone needs to stick together. Best to regroup somewhere else."
+        },
+        {
+          "s": 36,
+          "t": "...Better late than never. Time to evacuate. Warriors, gather 'round!"
+        },
+        {
+          "s": 36,
+          "t": "For anyone who still wants to fight on the frontlines, the Children of Echoes' front is the closest to here. Anyone who wants to leave will likely also see action as they evacuate, but will be afforded safety at the Stadium."
+        },
+        {
+          "s": 36,
+          "t": "Those are the options. We're abandoning this base, and you're free to stay with the group or leave."
+        },
+        {
+          "s": 36,
+          "t": "With our limited numbers, I can't promise that we'll be of any real assistance to the Children of Echoes' war effort, even if we do join them. Please bear this in mind as you make your decision."
+        },
+        {
+          "s": 36,
+          "t": "Now then. Anyone who wishes to keep fighting, show me how serious you are."
+        },
+        {
+          "s": 36,
+          "t": "...Really? Even after my less-than-rousing speech?"
+        },
+        {
+          "s": 38,
+          "t": "Why would we give up now, after everything we've been through? We didn't stick it out this far just to admit defeat."
+        },
+        {
+          "s": 39,
+          "t": "We can't give another inch to the Abyss. We have to fight them back — if not for our own sake, then at least for our fallen brethren."
+        },
+        {
+          "s": 36,
+          "t": "Very well..."
+        },
+        {
+          "s": 36,
+          "t": "...\"For Natlan.\""
+        },
+        {
+          "s": 38,
+          "t": "...\"For Natlan.\""
+        },
+        {
+          "s": 36,
+          "t": "We may be few in number, but our will remains strong. We will join the ranks of the Children of Echoes and they will be stronger for it, however little."
+        },
+        {
+          "s": 0,
+          "t": "Okay... Well, take care of yourselves."
+        },
+        {
+          "s": 36,
+          "t": "Don't worry, it'll be just like another Night Warden War. We'll force the Abyss back if it's the last thing we do."
+        },
+        {
+          "sit": "What's that?"
+        },
+        {
+          "section": "Battlefield Intel"
+        },
+        {
+          "s": 0,
+          "t": "There's just one battle report left, and it gives a long list of places where the \"dangerous substance\" has been dropping."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* This is the first report we've had in ages, which means the messengers' job has become all but impossible..."
+        },
+        {
+          "s": 0,
+          "t": "But there's nothing we can do about that. Our priority is to get to the next affected zone."
+        },
+        {
+          "s": 0,
+          "t": "Even if we don't find any survivors, maybe... maybe that strange substance over there won't be as rock-solid as here? There's a chance, at least?"
+        },
+        {
+          "section": "Maztla"
+        },
+        {
+          "s": 0,
+          "t": "Move out! You've gotta get out of here!"
+        },
+        {
+          "s": 0,
+          "t": "Still no luck, huh. What on earth are these things? How are they invulnerable to attack?"
+        },
+        {
+          "s": 59,
+          "t": "Yeah, at least with regular Abyssal Pylons, anyone with a Vision can destroy them. But this thing? No one's seen anything like it before."
+        },
+        {
+          "s": 59,
+          "t": "It's like... a part of that sky-demon's body, or something..."
+        },
+        {
+          "s": 59,
+          "t": "Whatever it is, it seems like it can spawn Abyssal Pylons — and with them, a never-ending stream of Abyss monsters. We're just no match for it."
+        },
+        {
+          "s": 60,
+          "t": "At this point, retreat looks like our best option. We're fighting a losing battle here."
+        },
+        {
+          "s": 60,
+          "t": "The Stadium is our only hope. That's where the sacred flame is, which seems to be the one thing that well of Abyssal energy is afraid of."
+        },
+        {
+          "s": 60,
+          "t": "The Pyro Archon is guarding the flame. As long as that continues, we still have hope."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? What's this?"
+        },
+        {
+          "s": 59,
+          "t": "Water, and some snacks — you look like you need it. I'm guessing you've been supporting the fight all over the map? Sounds like you need a breather."
+        },
+        {
+          "s": 59,
+          "t": "We've got enough people to hold our own here, and it's high time you took a break. Why don't you sit down and gather your strength for a minute?"
+        },
+        {
+          "s": 0,
+          "t": "It's true, we've been fighting pretty much non-stop. {NICKNAME}, you must be exhausted, what do you think?"
+        },
+        {
+          "sit": "Right now, there are bigger things to worry about."
+        },
+        {
+          "s": 0,
+          "t": "What is it?"
+        },
+        {
+          "sit": "As long as that dark monstrosity remains unbeaten..."
+        },
+        {
+          "sit": "Gathering together might actually put a target on the Children of Echoes' back."
+        },
+        {
+          "s": 0,
+          "t": "Oh, you're right. Well then, guess we'd better go warn them..."
+        },
+        {
+          "s": 0,
+          "t": "Um... It's your decision, if you wanna set off right away, Paimon will come with you!"
+        },
+        {
+          "section": "Maztla, Nellan"
+        },
+        {
+          "s": 59,
+          "t": "These monsters — they're what the winners of the Pilgrimage go on to fight, aren't they?"
+        },
+        {
+          "s": 59,
+          "t": "So that makes us veterans of the Night Warden Wars now, too."
+        },
+        {
+          "s": 60,
+          "t": "I hadn't thought of it like that, but now that you mention it... Yeah. You're right."
+        },
+        {
+          "s": 60,
+          "t": "Neither of us are name bearers, so in principle, we should never have had the chance to fight on the front lines. In that sense, this is... kind of a dream come true for us, isn't it?"
+        },
+        {
+          "s": 60,
+          "t": "We're not in this for fame, or glory, but for our childhood dreams of one day becoming a hero."
+        },
+        {
+          "section": "Tochlan, Toto"
+        },
+        {
+          "s": 61,
+          "t": "There you go, buddy. It's still gonna hurt for a few days, but apart from that, you're on the up and up."
+        },
+        {
+          "s": 0,
+          "t": "...Toto? Toto, is that you?"
+        },
+        {
+          "s": 62,
+          "t": "Roar, roar ♪"
+        },
+        {
+          "s": 0,
+          "t": "It IS you! Oh, thank goodness you're okay!"
+        },
+        {
+          "s": 61,
+          "t": "Toto was the only member of his family who didn't flee from the invasion. I don't know if he was being territorial or what, but he stayed and fought the Abyss..."
+        },
+        {
+          "s": 61,
+          "t": "If you hadn't gotten here when you did, he may not have made it."
+        },
+        {
+          "s": 61,
+          "t": "We should let him rest here until he's able to stand again. I'll look after him."
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much! Toto, next time you're told to evacuate, be a good saurian and do as you're told, okay? Otherwise, Kachina will be worried sick about you."
+        },
+        {
+          "s": 62,
+          "t": "Roar..."
+        },
+        {
+          "section": "Kachina"
+        },
+        {
+          "s": 4,
+          "t": "Ah, it's you guys. Things are bad here — something fell out the sky that's impervious to our attacks."
+        },
+        {
+          "sit": "Not just here. We've run into a few of these already."
+        },
+        {
+          "s": 17,
+          "t": "Pacal gave the order for everyone to evacuate. Xilonen and I stayed behind as the rearguard."
+        },
+        {
+          "s": 0,
+          "t": "It's a good thing you did... otherwise, we might not have made it in time."
+        },
+        {
+          "s": 4,
+          "t": "Kachina, he(she) and I can deal with the remaining monsters and Abyssal Pylons. You should go catch up with the rest of the group before your parents start worrying about you."
+        },
+        {
+          "s": 17,
+          "t": "Got it. I'll leave right away — they need all the help they can get."
+        },
+        {
+          "s": 0,
+          "t": "Stay safe, Kachina!"
+        },
+        {
+          "s": 4,
+          "t": "Come on. Let's get this done."
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 4,
+          "t": "Yep, that's everyone, and no more casualties by the looks of things... This is good. We can evacuate shortly."
+        },
+        {
+          "s": 4,
+          "t": "I appreciate your help. How are things out there? Pretty dire, I bet."
+        },
+        {
+          "sit": "Extremely dire."
+        },
+        {
+          "s": 4,
+          "t": "Some of the things I've seen, I don't know if I'll ever be able to get them out of my mind... Are we in Natlan doomed to this fate?"
+        },
+        {
+          "s": 4,
+          "t": "I've never witnessed a full-scale Abyss invasion before. I mean, I'd heard stories about the sky being painted black, but I always thought that was an exaggeration."
+        },
+        {
+          "s": 4,
+          "t": "Mavuika has witnessed this all before, so she knew better than anyone the terror and despair an Abyss invasion would bring."
+        },
+        {
+          "s": 0,
+          "t": "Yeah... and despite that, she's still facing it head on..."
+        },
+        {
+          "s": 4,
+          "t": "We've had to abandon our homes and chase the dying light of day. Maybe the only time we'll see the dawn again is in our dreams."
+        },
+        {
+          "s": 4,
+          "t": "But as long as there's even a sliver of hope, I'm not gonna give up."
+        },
+        {
+          "sit": "Me neither."
+        },
+        {
+          "s": 4,
+          "t": "We should catch up with the group. Let's go."
+        },
+        {
+          "section": "Kachina"
+        },
+        {
+          "s": 17,
+          "t": "Great, you made it here unscathed!"
+        },
+        {
+          "s": 17,
+          "t": "Kinich came by just now with some really bad news: Those indestructible Abyss things have been dropped by all of the tribal territories."
+        },
+        {
+          "s": 17,
+          "t": "So it wasn't just the Children of Echoes. Even the Collective of Plenty was affected, and they're the furthest away."
+        },
+        {
+          "s": 17,
+          "t": "But the worst-affected region was the Flower-Feather Clan's. He said it's a complete disaster over there..."
+        },
+        {
+          "s": 0,
+          "t": "What? Isn't that... Chasca's tribe? She said she was gonna take Chuychu home to rest for a while..."
+        },
+        {
+          "s": 17,
+          "t": "Kinich didn't even stop to catch his breath before leaving for the Stadium. He said he was gonna try and assemble a team to go and support them, but..."
+        },
+        {
+          "s": 63,
+          "t": "But how, right? Everyone's struggling just to defend themselves — there is no spare manpower. At this rate, it won't be long before even the Stadium is indefensible."
+        },
+        {
+          "s": 63,
+          "t": "And with everyone congregating at the Stadium, the Abyss forces will start converging there, too... Then, there'll be a battle on a scale much larger than anything we've seen so far."
+        },
+        {
+          "s": 63,
+          "t": "On the bright side, at least my old injuries aren't playing up at the moment. It means I can actually join in with the fighting."
+        },
+        {
+          "s": 4,
+          "t": "The crux of the issue is that the heart of the Abyss itself has joined the invasion. That's a power we just can't match."
+        },
+        {
+          "s": 4,
+          "t": "I have every faith in the courage of our people — the Natlanese will never give in to despair. But still... the fact is, our lives are more fragile than our spirits."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon knows what you're about to say..."
+        },
+        {
+          "sit": "We have to go to the Flower-Feather Clan."
+        },
+        {
+          "s": 0,
+          "t": "Yeah. Paimon sure is getting tired from all this flying, but... It doesn't matter! Wherever you go, Paimon's going too!"
+        },
+        {
+          "sit": "Until the Pyro Archon succeeds in her plan..."
+        },
+        {
+          "sit": "Every life we save is worth it."
+        },
+        {
+          "s": 0,
+          "t": "Yep. We'll leave the Children of Echoes to you guys. Flower-Feather Clan, hang in there, we're coming!"
+        },
+        {
+          "s": 17,
+          "t": "Really? But... you guys must be nearing your limit, surely!"
+        },
+        {
+          "s": 0,
+          "t": "If there was ever a time to push ourselves to the limit, that time is now!"
+        },
+        {
+          "section": "Chasca"
+        },
+        {
+          "s": 64,
+          "t": "Ugh... Aaargh..."
+        },
+        {
+          "s": 0,
+          "t": "Wh—What happened to her? She's covered in Abyssal energy!"
+        },
+        {
+          "sit": "I'll help her."
+        },
+        {
+          "s": 65,
+          "t": "Please... save her..."
+        },
+        {
+          "s": 65,
+          "t": "How's that, Chuychu? Any better now?"
+        },
+        {
+          "s": 0,
+          "t": "Chuychu? Chuychu!"
+        },
+        {
+          "s": 64,
+          "t": "Chasca... I used to think mom and dad were crazy for adopting you..."
+        },
+        {
+          "s": 64,
+          "t": "I was the younger sibling, but I always felt like it was my job to help mom and dad take care of you... I thought I could set you free from the Abyssal energy you struggled with..."
+        },
+        {
+          "s": 64,
+          "t": "I... guess I was pretty full of myself, huh? Thinking I could fix you, when... Well, we were always the same..."
+        },
+        {
+          "s": 65,
+          "t": "Hush, Chuychu, put those thoughts right out of your mind. We'll be at the stadium in no time, okay? I'll carry you there."
+        },
+        {
+          "s": 65,
+          "t": "The Abyssal contamination is gone now. Just rest, and you'll get better."
+        },
+        {
+          "s": 64,
+          "t": "I was always nagging you to slow down, stop rushing headlong into things..."
+        },
+        {
+          "s": 64,
+          "t": "I just didn't want anything to happen to you, or to anyone else because of you..."
+        },
+        {
+          "s": 64,
+          "t": "I worried about you so much. But now, I realize... I never really understood what it's like for you."
+        },
+        {
+          "s": 64,
+          "t": "The fact that you survived an Abyssal contamination was a miracle, but it also left you in a constant state of agitation..."
+        },
+        {
+          "s": 64,
+          "t": "The fact that we became family was another miracle. But with me worrying about you all the time, it feels like I just agitated you even further."
+        },
+        {
+          "s": 65,
+          "t": "No, absolutely not. Nothing could be further from the truth, do you hear me?"
+        },
+        {
+          "s": 65,
+          "t": "All you ever did was love me, same goes for mom and dad. I've always known that, and I feel terrible, because I really did want to get along as a family."
+        },
+        {
+          "s": 65,
+          "t": "It might take me some time, but I'll find a way to make it work. I'm so sorry, Chuychu, I never meant to make you feel this way..."
+        },
+        {
+          "s": 64,
+          "t": "It's okay, Chasca. No need to apologize. You didn't do anything wrong — no one did. It's nobody's fault that things didn't turn out great."
+        },
+        {
+          "s": 64,
+          "t": "I get it now. So, no nagging from me this time."
+        },
+        {
+          "s": 64,
+          "t": "...You keep forging ahead, Sis."
+        },
+        {
+          "s": 64,
+          "t": "Never slow down, and never hold back. Spread your wings and fly free, like the fiercest qucusaur in the sky. Show the world who the bravest Flower-Feather warrior is..."
+        },
+        {
+          "s": 64,
+          "t": "Because that's who you are... and that's the sister I'm proud of."
+        },
+        {
+          "s": 64,
+          "t": "..."
+        },
+        {
+          "s": 65,
+          "t": "Chuychu... Chuychu!"
+        },
+        {
+          "s": 0,
+          "t": "...Chuychu?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 65,
+          "t": "Ugh... Aaargh..."
+        },
+        {
+          "s": 0,
+          "t": "Chasca!?"
+        },
+        {
+          "s": 65,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "What... happened?"
+        },
+        {
+          "sit": "I think she's okay now."
+        },
+        {
+          "sit": "Let's give her some space while she cools down."
+        },
+        {
+          "s": 0,
+          "t": "What was that just now? It looked like Abyssal energy was flowing out of her, but then a split-second later, it disappeared..."
+        },
+        {
+          "sit": "Chasca managed to rein it in."
+        },
+        {
+          "s": 0,
+          "t": "Chuychu did say that Chasca needs to let off steam now and then, or she'll end up losing herself. But this time, she wrestled back control."
+        },
+        {
+          "sit": "Just like Chuychu always hoped."
+        },
+        {
+          "s": 0,
+          "t": "If only we were faster... Dealing with Abyssal contamination is a piece of cake for you."
+        },
+        {
+          "s": 0,
+          "t": "We could've gotten to her earlier, then you could've treated her before... before it was too..."
+        },
+        {
+          "s": 0,
+          "t": "Wait... What's happening to Chasca...?"
+        },
+        {
+          "s": 66,
+          "t": "How unfair life can be... She's had the odds stacked against her from the very beginning, and each step forward has been an agonizing one. Maybe she would have been better off embracing her pain..."
+        },
+        {
+          "s": 66,
+          "t": "But her journey goes on, and one question looms large in her mind: If she could rise above the layers of pain, and ascend over the dark clouds of her mind... what, then, would she find?"
+        },
+        {
+          "s": 66,
+          "t": "Maybe the glorious light of the sun, or maybe a dark, empty void. There is only one way to find out. She needs to spread her wings and soar to new heights... that is the true meaning of life."
+        },
+        {
+          "sit": "You're from 500 years ago..."
+        },
+        {
+          "s": 66,
+          "t": "\"My life's suffering shall be my epitaph.\""
+        },
+        {
+          "s": 66,
+          "t": "\"To remember the pain I endured...\""
+        },
+        {
+          "s": 66,
+          "t": "\"...And, finally, transcended.\""
+        },
+        {
+          "s": 65,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 65,
+          "t": "Let's take Chuychu somewhere safer."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 65,
+          "t": "Please, take care of Chuychu for me..."
+        },
+        {
+          "s": 65,
+          "t": "I still have more important things to do."
+        },
+        {
+          "s": 67,
+          "t": "Of course. We are grateful for her service."
+        },
+        {
+          "s": 1,
+          "t": "Yes, she served selflessly."
+        },
+        {
+          "s": 1,
+          "t": "I'm sorry, Chasca."
+        },
+        {
+          "s": 65,
+          "t": "It's alright. I'm far from the only one going through this right now."
+        },
+        {
+          "s": 65,
+          "t": "Chuychu wanted to be a hero, and in my heart, she always will be."
+        },
+        {
+          "s": 65,
+          "t": "If we want to honor what she stood for, not to mention her sacrifice... Archon, we need to hurry."
+        },
+        {
+          "s": 1,
+          "t": "Mm."
+        },
+        {
+          "s": 1,
+          "t": "Time for this war to end."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "Everyone. Are you ready?"
+        },
+        {
+          "s": 1,
+          "t": "A bitter war lies ahead. Our victory begins in each of your minds... So ignite the spirit of victory for me."
+        },
+        {
+          "s": 1,
+          "t": "May no further lives be lost, and no one else made to suffer the loss of their loved ones."
+        },
+        {
+          "s": 19,
+          "t": "\"As long as blood still runs through your veins, even the tiniest spark of steel against stone can ignite a flame.\""
+        },
+        {
+          "s": 19,
+          "t": "\"Its blaze will become one with the gaze of all Natlan.\""
+        },
+        {
+          "s": 19,
+          "t": "\"Even amid everlasting darkness, our bonds remain eternal.\""
+        },
+        {
+          "s": 4,
+          "t": "\"Stone engraved and echoing peaks.\""
+        },
+        {
+          "s": 4,
+          "t": "\"Converge, disperse, in ashes be reborn.\""
+        },
+        {
+          "s": 4,
+          "t": "\"For flames born anew, and the blazing dawn.\""
+        },
+        {
+          "s": 68,
+          "t": "\"A hero scaled the volcano to seize the sun.\""
+        },
+        {
+          "s": 68,
+          "t": "\"Anointed with flames, she shone with the light of a thousand stars.\""
+        },
+        {
+          "s": 68,
+          "t": "\"Now, guide me in my first step.\""
+        },
+        {
+          "s": 7,
+          "t": "\"Having foretold his own death, the omniscient man holds a feast in celebration.\""
+        },
+        {
+          "s": 7,
+          "t": "\"Let us raise our cups in honor of his heroism and send him off with this final tribute.\""
+        },
+        {
+          "s": 7,
+          "t": "\"For, at last, his wish is now fulfilled.\""
+        },
+        {
+          "s": 3,
+          "t": "\"By past fuel, and present flame, life marches ever on.\""
+        },
+        {
+          "s": 3,
+          "t": "\"We will answer to the fire for all our deeds.\""
+        },
+        {
+          "s": 65,
+          "t": "\"My life's suffering shall be my epitaph.\""
+        },
+        {
+          "s": 65,
+          "t": "\"To remember the pain I endured, and finally, transcended.\""
+        },
+        {
+          "s": 1,
+          "t": "Heroes of the ages, our moment has finally come."
+        },
+        {
+          "section": "Komina"
+        },
+        {
+          "s": 67,
+          "t": "May the Wayob grant you peace, and may songs be sung of your life's journey."
+        },
+        {
+          "s": 67,
+          "t": "We give thanks for the gift of your life in ours. And we look forward to meeting you again one day, in a world of wonder and beauty."
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 19,
+          "t": "That is an outright scary level of power..."
+        },
+        {
+          "s": 7,
+          "t": "So from now on, all warriors will be able to resurrect themselves using the sacred flame..."
+        },
+        {
+          "s": 65,
+          "t": "That's right. No more casualties."
+        },
+        {
+          "s": 68,
+          "t": "It's time to wipe the enemy off the face of the earth."
+        },
+        {
+          "s": 4,
+          "t": "And to reclaim our lost territory."
+        },
+        {
+          "s": 3,
+          "t": "This is for all those who gave their lives for Natlan."
+        },
+        {
+          "s": 3,
+          "t": "Everyone, let's go."
+        },
+        {
+          "s": 0,
+          "t": "Uh, we'll come with you."
+        },
+        {
+          "s": 65,
+          "t": "Paimon. {NICKNAME}."
+        },
+        {
+          "s": 65,
+          "t": "I'm so grateful you got to us when you did. You gave Chuychu the chance to say those words to me before the end..."
+        },
+        {
+          "s": 65,
+          "t": "If I'd lost control out there in the wild... This counter-attack might never have been possible."
+        },
+        {
+          "s": 0,
+          "t": "Probably best not to think about that. More importantly... how are you feeling now? Any better?"
+        },
+        {
+          "s": 65,
+          "t": "Not really, but now's not the time to deal with it. In the spirit of Vu{RUBY#[D]Transcension}ka, I have to rise above it."
+        },
+        {
+          "s": 65,
+          "t": "The conflict and suffering in me are there to test my character. My struggle will make me stronger..."
+        },
+        {
+          "s": 65,
+          "t": "...And make me the person Chuychu believed I can be."
+        },
+        {
+          "sit": "I have faith in you."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's go show the Abyss what human beings are made of! They'll be sorry they messed with Natlan after we're through with them!"
+        }
+      ],
+      "description": "The true master of the Abyssal power has emerged at last. The earth’s corrosion intensifies and monsters are driven mad, the apocalyptic scene becoming a festering seedbed of impotent despair."
+    },
+    {
+      "title": "No One Fights Alone",
+      "dialogue": [
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 4,
+          "t": "The Children of Echoes' territory is secure. All monsters down."
+        },
+        {
+          "s": 17,
+          "t": "I'll go deal with the Abyss Tumor!"
+        },
+        {
+          "s": 19,
+          "t": "All good here at the People of the Springs, too. We crushed it!"
+        },
+        {
+          "s": 2,
+          "t": "Masters of the Night-Wind are also safe. Should I go support the Flower-Feather Clan?"
+        },
+        {
+          "s": 7,
+          "t": "Things are still pretty rough over there. I'm already en route."
+        },
+        {
+          "s": 65,
+          "t": "No need. I just dealt with it."
+        },
+        {
+          "s": 0,
+          "t": "Already!? But you were just at the Stadium!"
+        },
+        {
+          "s": 65,
+          "t": "Yeah, well. You have no idea how long I've been itching to bash some heads in."
+        },
+        {
+          "s": 0,
+          "t": "Oh... Fair enough..."
+        },
+        {
+          "s": 19,
+          "t": "Iansan, what should we do about the Collective of Plenty? Your home's a long ways away from the stadium."
+        },
+        {
+          "s": 68,
+          "t": "Oh, no need to worry. I just heard from Varesa, she says they're safe now."
+        },
+        {
+          "s": 3,
+          "t": "Sounds like all regions are secured. The Abyss forces are weakening."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! Their only game-plan was to outnumber us, and that ain't gonna work now that we have the Ode of Resurrection on our side!"
+        },
+        {
+          "s": 3,
+          "t": "Hold up... The Abyss is sending a sizeable unit towards the Stadium."
+        },
+        {
+          "s": 3,
+          "t": "I guess they've realized that the Ode of Resurrection is a game changer, so now, they are going to try to destroy the sacred flame."
+        },
+        {
+          "s": 19,
+          "t": "We ain't gonna let them get away with that. Friends, let's gather at the stadium!"
+        },
+        {
+          "s": 4,
+          "t": "More Abyss Tumors have descended, all near the Stadium. Let's split up and take them out."
+        },
+        {
+          "s": 4,
+          "t": "Oh, and we need someone to guard the main entrance."
+        },
+        {
+          "sit": "Allow me."
+        },
+        {
+          "s": 19,
+          "t": "Alright. This is the final battle!"
+        }
+      ],
+      "description": "The six heroes have gathered, and Mavuika awakens the power of the divine throne. The horn is sounded for all Natlan to hear — the Night War is underway! A reckoning has come for the Abyss!"
+    },
+    {
+      "title": "A Fuel Named \"Fate\"",
+      "dialogue": [
+        {
+          "section": "Mavuika, Asmerom, Berehanu, Xilonen, Kinich, \"The Captain\""
+        },
+        {
+          "s": 1,
+          "t": "Everyone, we are gathered here to celebrate a glorious victory."
+        },
+        {
+          "s": 1,
+          "t": "It is a victory forged by each and every one of us, and we should all be proud of what we have accomplished."
+        },
+        {
+          "s": 1,
+          "t": "We emerge victorious from another crisis to declare: Our beloved Natlan is saved!"
+        },
+        {
+          "s": 69,
+          "t": "Alright!"
+        },
+        {
+          "s": 1,
+          "t": "I must caution that this war is not yet over. We have not destroyed our enemy, merely driven them further into the depths of the Night Kingdom."
+        },
+        {
+          "s": 1,
+          "t": "But the Abyss underestimated Natlan's forces, and they have suffered a devastating defeat. It will be a long time before they are able to pose a threat to us again."
+        },
+        {
+          "s": 1,
+          "t": "After making some preparations, I will launch my final counterattack. I shall strike them in their lair and wipe them out for good."
+        },
+        {
+          "s": 69,
+          "t": "Oh, man..."
+        },
+        {
+          "s": 70,
+          "t": "Wait, Archon... Are you saying you're going alone?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. The Abyssal energy there is too strong. Contact with it would be instantly lethal to anyone else."
+        },
+        {
+          "s": 1,
+          "t": "I'm sure you're all still fired up, and you must be eager to take the fight home to the enemy. But I must ask you to temper your ambitions. I will return victorious, for all of us."
+        },
+        {
+          "s": 69,
+          "t": "It's kind of a shame that we can't join in with the final showdown..."
+        },
+        {
+          "s": 1,
+          "t": "Please, look at the bigger picture. Thanks to every one of you, we have already secured an enormous victory. Tonight, we should celebrate to our hearts' content."
+        },
+        {
+          "s": 70,
+          "t": "I guess... if our lives are no longer at risk, things can basically go back to normal, right?"
+        },
+        {
+          "s": 69,
+          "t": "That's good enough for me. Beats having monsters everywhere."
+        },
+        {
+          "s": 1,
+          "t": "When the time comes, I will gather everyone here again."
+        },
+        {
+          "s": 1,
+          "t": "Now, let us also remember those who gave their lives fighting for our nation."
+        },
+        {
+          "s": 1,
+          "t": "Once the last dregs of the Abyss are wiped out, I intend to give them the grand funeral they deserve."
+        },
+        {
+          "s": 1,
+          "t": "An ancient name could never record the many who we lost, but no hero of Natlan should be forgotten."
+        },
+        {
+          "s": 4,
+          "t": "If I may... Let's have a moment of silence for the fallen."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 69,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Lastly, there is one more person I must thank for his extraordinary support in our time of need, and that is The Captain."
+        },
+        {
+          "s": 8,
+          "t": "Speaking in a personal capacity, I should like to offer my sincere congratulations on your victory."
+        },
+        {
+          "s": 1,
+          "t": "Well everyone, please enjoy the victory feast. I hope it's a chance to relax your minds and rekindle your spirits, so that we may face what lies ahead with renewed vigor."
+        },
+        {
+          "section": "Xilonen, Kachina, Mualani"
+        },
+        {
+          "s": 4,
+          "t": "You did a great job, Kachina. You're much more confident now. Seems like winning the Pilgrimage gave you a real boost."
+        },
+        {
+          "s": 17,
+          "t": "Hehe, nah, I just figured I should do my part, y'know?"
+        },
+        {
+          "s": 19,
+          "t": "I spoke to your mom and dad — they were singing your praises. They said the world's your oyster now."
+        },
+        {
+          "s": 0,
+          "t": "How are things at the People of the Springs' base?"
+        },
+        {
+          "s": 19,
+          "t": "There are some casualties, but the overall mood is very positive. I reckon they'll start rebuilding pretty soon."
+        },
+        {
+          "s": 4,
+          "t": "Same situation for the Children of Echoes."
+        },
+        {
+          "s": 17,
+          "t": "Still... it's so sad that some people couldn't be saved by the Ode of Resurrection."
+        },
+        {
+          "s": 17,
+          "t": "I think... I wanna hold a candlelight vigil for them when I get home."
+        },
+        {
+          "s": 19,
+          "t": "Oh, that's a great idea. Let's do it together."
+        },
+        {
+          "s": 4,
+          "t": "Let's hope that their sacrifice marks the beginning of a new age for Natlan — an age of unprecedented peace."
+        },
+        {
+          "section": "Kinich, Ajaw, Iansan"
+        },
+        {
+          "s": 21,
+          "t": "Kinich, you are one lucky devil. I don't know how the heck you're still alive. Pff."
+        },
+        {
+          "s": 3,
+          "t": "I'm in a zero-tolerance mood right now. Stop being so flippant."
+        },
+        {
+          "s": 68,
+          "t": "Unless you want to get punched in the face."
+        },
+        {
+          "s": 0,
+          "t": "What is it with you, Ajaw? Why are you so incapable of being nice?"
+        },
+        {
+          "s": 21,
+          "t": "Oh, this is rich! One measly victory, and it's all gone to your head! Hmph, you'd all be mincemeat by now if not for the heroic deeds of the Almighty Dragonlord, K'uhul Ajaw!"
+        },
+        {
+          "s": 3,
+          "t": "Alright, credit where credit's due. Here's a bunch of grapes for your trouble."
+        },
+        {
+          "s": 21,
+          "t": "Don't treat me like I'm your pet parrot!"
+        },
+        {
+          "sit": "How are the Scions of the Canopy and the Collective of Plenty?"
+        },
+        {
+          "s": 3,
+          "t": "The messengers are the worst affected. I expect there'll be delays on all deliveries in Natlan for some time."
+        },
+        {
+          "s": 3,
+          "t": "Although fortunately, a lot of people have said they're willing to help out part time. That should alleviate the situation."
+        },
+        {
+          "s": 68,
+          "t": "The Collective of Plenty was the furthest from the Abyss's entry point, so they didn't have as many monsters to deal with. From what I hear, they got off relatively unscathed."
+        },
+        {
+          "s": 68,
+          "t": "But it might have been a different story if Chasca hadn't gotten there when she did..."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear. All's well that ends well."
+        },
+        {
+          "s": 21,
+          "t": "Well, whaddya know, these are pretty tasty... Oh, servant! One more bunch of grapes, posthaste!"
+        },
+        {
+          "s": 3,
+          "t": "Okay, Polly."
+        },
+        {
+          "section": "Ororon, \"The Captain\""
+        },
+        {
+          "s": 8,
+          "t": "I must congratulate you on your efforts during this war. I am told you have proven yourself to be an outstanding adventurer and warrior."
+        },
+        {
+          "s": 8,
+          "t": "You remind me of the Princess(Prince). The similarities in your approach are striking, especially when you told me you wanted to win."
+        },
+        {
+          "s": 8,
+          "t": "I hope you will see her(him) soon."
+        },
+        {
+          "sit": "Thank you."
+        },
+        {
+          "s": 0,
+          "t": "Hey, Ororon, how are the Masters of the Night-Wind doing?"
+        },
+        {
+          "s": 7,
+          "t": "Granny Citlali's been there the whole time, and she's a tough one. I think we should be fine..."
+        },
+        {
+          "s": 7,
+          "t": "I'm sure there'll be some patching up to do though. That's a job for the young folks — I should probably head back, so I can pitch in."
+        },
+        {
+          "s": 8,
+          "t": "Do you need support from the Fatui?"
+        },
+        {
+          "s": 7,
+          "t": "...Probably not. There are a lot of older folks in our tribe, and I suspect they would find your comrades' presence a little distressing."
+        },
+        {
+          "s": 0,
+          "t": "Right, 'cause they often look like a bunch of intimidating thugs."
+        },
+        {
+          "s": 7,
+          "t": "Well, also, in my tribe, excessive use of elemental energy is bad for your eyesight."
+        },
+        {
+          "s": 0,
+          "t": "Oh, right... Okay."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "...Ah. Welcome."
+        },
+        {
+          "s": 0,
+          "t": "You seem a little out of sorts. Are you just tired, or...?"
+        },
+        {
+          "s": 1,
+          "t": "I guess I am. You know, when I was up there in the sky, I could see all of Natlan stretching out below me... People everywhere, giving everything they had for a chance at victory."
+        },
+        {
+          "s": 1,
+          "t": "I just... If only I'd been quicker, maybe they wouldn't have... And Chuychu, maybe she'd still..."
+        },
+        {
+          "s": 1,
+          "t": "...I'm sorry, now's not the time for that. Um... Fruit juice, right?"
+        },
+        {
+          "s": 0,
+          "t": "Make it a large...?"
+        },
+        {
+          "sit": "At least it's over now. That's something."
+        },
+        {
+          "s": 1,
+          "t": "True. My 500-year plan has almost come to fruition. Just one last step to go."
+        },
+        {
+          "s": 1,
+          "t": "Namely, my final battle against the Abyss. But battle is second nature to me, so I'm not feeling a huge amount of pressure."
+        },
+        {
+          "s": 0,
+          "t": "It was so awesome, the way you exploded that thing in the sky with one almighty punch! Are you always gonna have that kind of power from now on?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, that was the divine throne unleashing my full potential, and it was only temporary. I can't wield that power for any length of time — my body wouldn't be able to handle it."
+        },
+        {
+          "s": 1,
+          "t": "Likewise, the amplified power of the Ode of Resurrection was also temporary. From now on, it's back to ancient name bearers only."
+        },
+        {
+          "sit": "I'm guessing the Night Warden Wars are over for the foreseeable future?"
+        },
+        {
+          "s": 1,
+          "t": "Correct. We dealt the Abyss a critical blow, so for the time being, it's too weak to sustain regular invasions."
+        },
+        {
+          "s": 1,
+          "t": "I hope the people will be able to enjoy this period of peace... Or rather, assuming all goes to plan — eternal peace."
+        },
+        {
+          "s": 1,
+          "t": "We've had centuries of war with the Abyss, and it's high time we brought that chapter to a close."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, there's something I've been wondering about. I know you've been at the center of some major events in other nations too, and fought many powerful foes."
+        },
+        {
+          "s": 1,
+          "t": "In this war, you were in the thick of it once again. Dashing around tirelessly, supporting the fighting on all fronts... So tell me, what drives you to do this as a mere Traveler passing through? Why risk life and limb for a cause that's not your own?"
+        },
+        {
+          "sit": "So I can look back on my journey with a clear conscience."
+        },
+        {
+          "sit": "I just can't turn a blind eye to injustice."
+        },
+        {
+          "sit": "Because Paimon hates to see people suffer."
+        },
+        {
+          "s": 1,
+          "t": "A clear conscience... Great answer. That's how life should be lived: to the fullest, with no regrets."
+        },
+        {
+          "s": 1,
+          "t": "What I'm really trying to say is... I would love for you, with your extraordinary talent and your sense of justice, to join me in this final step. You and I, together, finally putting an end to the ever-looming threat of the Abyss..."
+        },
+        {
+          "s": 1,
+          "t": "But I also don't want to take advantage of your good nature and readiness to help others. The final battle will be very dangerous, and you have the rest of your journey to consider."
+        },
+        {
+          "s": 1,
+          "t": "I'm sure you must be weary? Sleep well tonight. Let's talk again tomorrow, in the Speaker's Chamber."
+        },
+        {
+          "s": 1,
+          "t": "I'll give you more details on the final battle, and then I hope to hear your verdict."
+        },
+        {
+          "section": "Xilonen, Kachina, Mualani"
+        },
+        {
+          "s": 4,
+          "t": "If you're making candles, I have some materials you can use. They're in the warehouse. Should have plenty to spare."
+        },
+        {
+          "s": 17,
+          "t": "Oh, okay! Um, I guess I'll... tread carefully on the way in, then? Or..."
+        },
+        {
+          "s": 4,
+          "t": "Oh, good point. I'll go instead."
+        },
+        {
+          "section": "Iansan, Kinich, Ajaw"
+        },
+        {
+          "s": 68,
+          "t": "Everyone else is enjoying the celebration, but Ajaw's still being as aggravating as ever. Does he have a chip on his shoulder? What's it about?"
+        },
+        {
+          "s": 3,
+          "t": "In fairness, repeating a few set phrases ad nauseum is all parrots know how to do."
+        },
+        {
+          "s": 21,
+          "t": "I am NOT a parrot! I am the Almighty Dragonlord, K'uhul Ajaw!"
+        },
+        {
+          "section": "\"The Captain\", Ororon"
+        },
+        {
+          "s": 8,
+          "t": "I am still somewhat in disbelief that a united people prevailed against the Abyss..."
+        },
+        {
+          "s": 7,
+          "t": "Do I sense some regret in your words?"
+        },
+        {
+          "s": 8,
+          "t": "A degree of regret is inevitable. But above all, I feel profound admiration."
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "sit": "(test)休息了一晚…"
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "My mind is still flooded with scenes from the war. I can't get the images out of my head..."
+        },
+        {
+          "s": 1,
+          "t": "Maybe I need another drink."
+        },
+        {
+          "section": "Citlali"
+        },
+        {
+          "s": 2,
+          "t": "Hey, {NICKNAME}, Paimon. There you are, I've been looking all over for you."
+        },
+        {
+          "s": 0,
+          "t": "Oh, hey Citlali. What's up?"
+        },
+        {
+          "s": 2,
+          "t": "Listen up. I have something really important to tell you..."
+        },
+        {
+          "sit": "Citlali quickly explains her concerns about Mavuika's death."
+        },
+        {
+          "s": 0,
+          "t": "What? Are you serious?"
+        },
+        {
+          "sit": "So Mavuika still has to die..."
+        },
+        {
+          "s": 2,
+          "t": "Natlan must pay the price for Mavuika's use of the Ruler of Death's power. That price is death, and only Mavuika's death can clear the debt."
+        },
+        {
+          "s": 2,
+          "t": "I had thought that the Ruler of Death might have a change of heart after seeing the people of Natlan come together and fight so bravely. But..."
+        },
+        {
+          "s": 2,
+          "t": "Even now that the war's over and the threat to Natlan is gone, it looks like that death is still set in stone."
+        },
+        {
+          "s": 2,
+          "t": "I had to know your thoughts — I want to save her, but I can't do it alone."
+        },
+        {
+          "sit": "I'll see what I can do."
+        },
+        {
+          "s": 2,
+          "t": "Okay, good. That makes me feel a little better."
+        },
+        {
+          "s": 2,
+          "t": "Thank you for standing up for us. There's clearly something special about you, so if anyone has a chance of defying the rules, that would be you."
+        },
+        {
+          "s": 2,
+          "t": "Oh, and please don't breathe a word of this to Mavuika."
+        },
+        {
+          "s": 2,
+          "t": "I'm sure she's well aware of the cost of using the divine throne's power. But if she finds out that anyone else knows, it could ruin our chances to help."
+        },
+        {
+          "s": 0,
+          "t": "Got it. Mum's the word."
+        },
+        {
+          "s": 2,
+          "t": "Alright, that was the last major item on my to-do list. Now, since I've come all this way, I think it's finally time for a well-earned drink."
+        },
+        {
+          "s": 0,
+          "t": "Uh... G—Go easy though, yeah?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry, I said \"a\" drink. That means just one."
+        },
+        {
+          "section": "Sundjatta, Mavuika"
+        },
+        {
+          "s": 71,
+          "t": "Alright, you little munchkin! If you keep pestering me, I'm gonna have to get serious."
+        },
+        {
+          "s": 71,
+          "t": "I get a hundred kids a day telling me they want to be the next Pyro Archon. So, why should I train you?"
+        },
+        {
+          "s": 71,
+          "t": "*sigh* Nagging isn't going to accomplish anything. No one can predict the future, and unless you have some exceptional, jaw-dropping talent I'm unaware of—"
+        },
+        {
+          "s": 1,
+          "t": "\"I can shoot those cornflakes in your kitchen from right here.\""
+        },
+        {
+          "s": 71,
+          "t": "Hahaha, don't be ridiculous! You couldn't make that shot from all the way over here. ...Wait, hold on, you could hurt someone with that..."
+        },
+        {
+          "s": 71,
+          "t": "...Well I'll be. You made the shot."
+        },
+        {
+          "s": 71,
+          "t": "The Scions of the Canopy raise 'em tough... That's some real skill you've got there, little lady. Maybe you really will be Pyro Archon one day."
+        },
+        {
+          "section": "Burkina, Mavuika"
+        },
+        {
+          "s": 72,
+          "t": "See this? I'm the first one of us to get an ancient name — and not just any ancient name, but Mal{RUBY#[D]Turnfire}ipo!"
+        },
+        {
+          "s": 72,
+          "t": "If you ask me nicely, there's still time to join my team for the Pilgrimage, y'know..."
+        },
+        {
+          "s": 72,
+          "t": "No need to scowl... You lost, and I won, it's no big deal. You want me to be happy for you when your turn comes, right? So cheer up."
+        },
+        {
+          "s": 1,
+          "t": "\"I'll get my own ancient name soon enough. And it'll be an even better one than yours.\""
+        },
+        {
+          "s": 72,
+          "t": "Oh really? Well, good luck with that... What ancient name could beat Mal{RUBY#[D]Turnfire}ipo in our tribe?"
+        },
+        {
+          "s": 72,
+          "t": "Unless... Surely you don't mean Kion{RUBY#[D]Leader}gozi?"
+        },
+        {
+          "section": "Wanjiru, Mavuika"
+        },
+        {
+          "s": 73,
+          "t": "Ah, that was fantastic! I can't believe I beat you in a wrestling match for once."
+        },
+        {
+          "s": 73,
+          "t": "Can't be more than a few days now until you're officially made the Pyro Archon. Heh, imagine me trying to schedule a wrestling session with you after that..."
+        },
+        {
+          "s": 73,
+          "t": "\"Excuse me, Pyro Archon, but would you be able to take a day off from running the nation to wrestle with me?\" Hahaha."
+        },
+        {
+          "s": 73,
+          "t": "I heard that the Pyro Archon inherits the knowledge stored in the Sacred Flame, and apparently, it can change your personality... I can't help but feel a little worried."
+        },
+        {
+          "s": 1,
+          "t": "\"Worried that you won't be able to beat me in a wrestling match anymore?\""
+        },
+        {
+          "s": 73,
+          "t": "Why would I be worried about that!? Ugh, never mind, clearly I'm just overthinking things. Why would you forget about me just because of some new job? Even if that job happens to be archon."
+        },
+        {
+          "s": 73,
+          "t": "Come on, one more round!"
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 74,
+          "t": "The victors shall burn bright, while the losers must turn to ash..."
+        },
+        {
+          "s": 74,
+          "t": "I have done what is required of me. The rules are now written into the Night Kingdom, and this will help you to stand against the Abyss."
+        },
+        {
+          "s": 75,
+          "t": "It is still not enough."
+        },
+        {
+          "s": 75,
+          "t": "All this can do is give my people courage. It will not see us through a true catastrophe."
+        },
+        {
+          "s": 75,
+          "t": "If you are to make the Natlanese alone bear the consequences of a broken world, you will have to bring more to the bargaining table."
+        },
+        {
+          "s": 74,
+          "t": "...You are the greediest human I have ever met, and the fiercest negotiator. No other would seriously ask to borrow my power."
+        },
+        {
+          "s": 74,
+          "t": "My domain is death, and its power comes at a great price... The question is, are you prepared to pay?"
+        },
+        {
+          "s": 75,
+          "t": "I need that power. Only a hero can truly wield it, and heroes are not afraid of dying."
+        },
+        {
+          "s": 74,
+          "t": "No, a fear of death is ingrained in all living things. If the wielder of this power cannot conquer their fear, countless innocent lives will be claimed in their stead, for only then can the price be paid."
+        },
+        {
+          "s": 74,
+          "t": "Those are the rules."
+        },
+        {
+          "s": 75,
+          "t": "Mine is a nation that will not yield to the Abyss. It will certainly not yield to your rules."
+        },
+        {
+          "s": 75,
+          "t": "As their culture and civilization is transmitted through the generations, and their faith grows, the people will go from strength to strength, and reach heights that even I cannot dream of."
+        },
+        {
+          "s": 74,
+          "t": "Very well. I shall agree to help you. But I am merely a Shade, and I do not have as much freedom to do as I please as you might think."
+        },
+        {
+          "s": 75,
+          "t": "Then what do you propose?"
+        },
+        {
+          "s": 74,
+          "t": "Keep this a secret."
+        },
+        {
+          "s": 74,
+          "t": "If I am questioned about it, I will deny all involvement, and claim: \"That treacherous Xbalanque stole my power.\""
+        },
+        {
+          "s": 75,
+          "t": "That will not be a problem. Thank you, I am glad we could reach an agreement."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "Come in."
+        },
+        {
+          "s": 1,
+          "t": "As you know, I've asked you to come here to discuss the task of wiping out the Abyss."
+        },
+        {
+          "s": 1,
+          "t": "Oh, but first — any progress on the Ancient Name?"
+        },
+        {
+          "sit": "I've received the gift from the Lord of the Night."
+        },
+        {
+          "s": 1,
+          "t": "I'm surprised she was willing to help you... and, by extension, me. I'm very grateful to her."
+        },
+        {
+          "s": 0,
+          "t": "Wait, hold on, wasn't the whole point of the Ancient Names for winning that huge battle? Why would {NICKNAME} still need one by this point?"
+        },
+        {
+          "sit": "Because she wants me to join her in the final battle."
+        },
+        {
+          "s": 1,
+          "t": "That's right. The Abyss has retreated to the depths of the Night Kingdom, a place that has long since been corrupted by Abyssal energy..."
+        },
+        {
+          "s": 1,
+          "t": "If we don't finish them off and restore the Ley Lines, the threat they pose to Natlan will remain. The battle we fought yesterday, we may one day have to fight again."
+        },
+        {
+          "s": 1,
+          "t": "This is the fate Natlan has always been resigned to. For thousands of years, we have struggled on the brink of a looming darkness, and never known true peace."
+        },
+        {
+          "s": 1,
+          "t": "But this time, I want to break the cycle and free us from this fate for good."
+        },
+        {
+          "s": 1,
+          "t": "With the sacred flame, I can protect myself from the Abyssal corruption, but beyond that, you are the only other person who can resist it."
+        },
+        {
+          "s": 1,
+          "t": "If your ancient name can't be forged, I will go alone. But if it can, I'd really love your help."
+        },
+        {
+          "sit": "Is the Ode of Resurrection working again?"
+        },
+        {
+          "s": 1,
+          "t": "Not completely — after all, the Night Kingdom is still plagued by Abyssal corruption."
+        },
+        {
+          "s": 1,
+          "t": "But when I used the power of the divine throne, it dispelled a lot of that corruption. Plus, your ancient name is a special case, so the Lord of the Night will take special care of you."
+        },
+        {
+          "s": 1,
+          "t": "In short, the Ode of Resurrection still has a number of limitations, but I can promise that it will work reliably on you."
+        },
+        {
+          "sit": "Good. Then I will join you in battle."
+        },
+        {
+          "sit": "Sounds like I'm your only option anyway."
+        },
+        {
+          "s": 0,
+          "t": "Whoa whoa whoa, aren't we forgetting something here? What about Paimon? What's her place in all this?"
+        },
+        {
+          "sit": "You'll need to stay behind."
+        },
+        {
+          "s": 0,
+          "t": "What!? You mean, we'll be separated?"
+        },
+        {
+          "s": 1,
+          "t": "The Abyss is extremely devious. If you two go there together, you can bet they'll make Paimon their primary target just to put us in an impossible position."
+        },
+        {
+          "s": 0,
+          "t": "Paimon wasn't that worried, but... now she's petrified..."
+        },
+        {
+          "s": 0,
+          "t": "What will you do without me!?"
+        },
+        {
+          "sit": "I'll be a complete mess, I'm sure."
+        },
+        {
+          "sit": "But only for a short time."
+        },
+        {
+          "s": 0,
+          "t": "Okay, well... Paimon needs to think about this, because you're really asking a lot of her. But give Paimon some time, and she'll do her best to rise to the challenge..."
+        },
+        {
+          "s": 1,
+          "t": "I greatly appreciate it."
+        },
+        {
+          "s": 1,
+          "t": "Everyone in Natlan knows how important this final battle is. You will be remembered and revered long into the future, until the end of time."
+        },
+        {
+          "s": 1,
+          "t": "If you have any other questions, please ask away."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "As I've said, if you have any other questions, please ask away."
+        },
+        {
+          "sit": "About the aftermath of the war..."
+        },
+        {
+          "sit": "About the false sky and the strange fragments..."
+        },
+        {
+          "sit": "About the Six Heroes of old..."
+        },
+        {
+          "sit": "About The Captain..."
+        },
+        {
+          "sit": "I have no more questions."
+        },
+        {
+          "s": 1,
+          "t": "The work of rebuilding is underway, and people are flocking to join the effort. With everyone rallying together, I'm sure it won't be long before there's no trace left of the damage done by this war."
+        },
+        {
+          "s": 1,
+          "t": "The healing process, on the other hand... that is a bigger obstacle to overcome. Many are grieving, and there's simply no replacing the ones we lost."
+        },
+        {
+          "s": 1,
+          "t": "As the sun rises once more, and we rediscover the ability to believe in the future, we must never forget their sacrifice."
+        },
+        {
+          "section": "Yohualtecuhtin, Lord of the Night, \"The Captain\""
+        },
+        {
+          "s": 9,
+          "t": "The outlander with deep ties to this land returns... and this time, he is alone?"
+        },
+        {
+          "s": 8,
+          "t": "The power that the Pyro Archon used to strike back at the Abyss came from the Ruler of Death. From what I know of her rules, she will demand death in return."
+        },
+        {
+          "s": 9,
+          "t": "How do you know of this?"
+        },
+        {
+          "s": 9,
+          "t": "...I see. So, the Ruler of Death sent you on your long journey."
+        },
+        {
+          "s": 8,
+          "t": "Natlan still has a final battle to fight, and I too have a final foe to face."
+        },
+        {
+          "s": 8,
+          "t": "For the sake of those countless lost souls, and a hope for Natlan's future... I need your help."
+        },
+        {
+          "section": "Rest"
+        },
+        {
+          "sit": "(test)台词文本"
+        }
+      ],
+      "description": "The threat to Natlan remains unresolved, for the Abyssal tide you shattered was but a reflection emerging from the Night Kingdom. Still more crises await — sorrow, solitude, and death…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Mavuika",
+    "Citlali",
+    "Kinich",
+    "Xilonen",
+    "Solnev",
+    "Totec",
+    "Ororon",
+    "\"The Captain\"",
+    "Yohualtecuhtin, Lord of the Night",
+    "Kunnau",
+    "Kuymi",
+    "Ifa",
+    "Guthred",
+    "Gajere",
+    "Sanhaj",
+    "Dedougou",
+    "Kachina",
+    "Boulsa",
+    "Mualani",
+    "Sibu",
+    "Ajaw",
+    "Tumpis",
+    "Dargo",
+    "Ardra",
+    "Kokpon",
+    "Pumpu",
+    "Nusta",
+    "Achiyaku",
+    "Waqar",
+    "Wayta",
+    "Asiri",
+    "Wisa",
+    "Auki",
+    "Diligent Yumkasaur",
+    "Valiant Tepetlisaur",
+    "Chimalli",
+    "Ullanta",
+    "Yaretzi",
+    "Acama",
+    "Stadukhin",
+    "Kamaka",
+    "Guselnikov",
+    "Andinet",
+    "Tewodros",
+    "Maticui",
+    "Icmotza",
+    "Ackon",
+    "Botwe",
+    "Kweku",
+    "Raman",
+    "Liben",
+    "Osawe",
+    "Iyoba",
+    "Haronga",
+    "Lliuyaq",
+    "Kunak",
+    "Libiac",
+    "Jember",
+    "Maztla",
+    "Nellan",
+    "Tochlan",
+    "Toto",
+    "Pacal",
+    "Chuychu",
+    "Chasca",
+    "Menilek",
+    "Komina",
+    "Iansan",
+    "Asmerom",
+    "Berehanu",
+    "Sundjatta",
+    "Burkina",
+    "Wanjiru",
+    "Ronova",
+    "Xbalanque"
+  ],
+  "hhw_source": "https://gensh.honeyhunterworld.com/ch_1503/?lang=EN",
+  "id": "ch-1503"
+}

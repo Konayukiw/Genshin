@@ -1,0 +1,2397 @@
+{
+  "chapter": "Chapter IV",
+  "chapter_title": null,
+  "act": "Act VI",
+  "act_title": "Bedtime Story",
+  "region": "Traveler",
+  "quests": [
+    {
+      "title": "Cold Case Commission",
+      "dialogue": [
+        {
+          "section": "Katheryne"
+        },
+        {
+          "s": 0,
+          "t": "Ah, perfect! It's you two. I have a commission here that has your names written all over it. In fact, I'd even go so far as to say you're the only ones for the job."
+        },
+        {
+          "s": 1,
+          "t": "The only ones for the job? Huh, if our help is really that important, it's probably some Archon-class commission, right?"
+        },
+        {
+          "sit": "I've never heard of that classification before."
+        },
+        {
+          "sit": "But sure, we're happy to take this on. Which Archon do you need us to deal with today?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe... The Adventurers' Guild doesn't employ that kind of classification system. In fact, this commission is also probably not nearly as intimidating as what you're expecting."
+        },
+        {
+          "s": 0,
+          "t": "All it asks us to do is to find a missing person."
+        },
+        {
+          "s": 1,
+          "t": "Huh... Then why did you say we were the only ones for the job?"
+        },
+        {
+          "s": 0,
+          "t": "I came across this commission while reviewing our backlog not too long ago."
+        },
+        {
+          "s": 0,
+          "t": "It seems simple, but our records indicate that over a dozen successive efforts to complete it have all ended in failure, despite attempts by several accomplished and renowned adventurers."
+        },
+        {
+          "s": 0,
+          "t": "With the reputation of the Adventurers' Guild and the performance of the Sumeru branch at stake, it's in our best interest to assign this commission to the adventurer with the highest completion rate over the past few years..."
+        },
+        {
+          "s": 1,
+          "t": "...Well, that's us for sure!"
+        },
+        {
+          "sit": "Flattery will get you everywhere with Paimon."
+        },
+        {
+          "sit": "But, I can't guarantee we'll be able to complete it, either."
+        },
+        {
+          "s": 0,
+          "t": "Hehe... All I'm asking is for you to give it your best shot."
+        },
+        {
+          "s": 0,
+          "t": "If it proves to be beyond your capabilities as well, I'll talk to the commissioner about canceling the commission."
+        },
+        {
+          "s": 1,
+          "t": "Okay, so who are we looking for, and what is it about this commission that's made it so hard to complete?"
+        },
+        {
+          "s": 0,
+          "t": "This commission was jointly issued by the residents of Vimara Village. They say one of their own villagers has gone missing..."
+        },
+        {
+          "s": 0,
+          "t": "But the problem is... They don't know the missing person's name. They can only provide information about his general appearance."
+        },
+        {
+          "s": 1,
+          "t": "Uh... They're all from the same village, but they don't even know his name?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm, if so many adventurers have failed to complete this commission, maybe this \"missing villager\" doesn't exist at all? Could it be some sort of... prank or something?"
+        },
+        {
+          "s": 0,
+          "t": "Unlikely. Several villagers came by to issue the commission, and judging by their appearance and tone of voice, they seemed incredibly sincere. It certainly didn't seem like a joke to them."
+        },
+        {
+          "s": 0,
+          "t": "Besides, putting up a commission requires a processing fee. There aren't many upsides to a prank that costs Mora to carry out."
+        },
+        {
+          "sit": "True, that would be a little strange..."
+        },
+        {
+          "s": 0,
+          "t": "In any case, it would probably be best to go to Vimara Village and ask around first. The Adventurers' Guild does have some information on hand, but I would say anything you can learn directly from the villagers would be far more reliable. The best way to avoid misdirection is to go to the source."
+        },
+        {
+          "s": 1,
+          "t": "Alright, then let's go! Paimon is starting to get really curious about this whole thing!"
+        },
+        {
+          "section": "Bahram"
+        },
+        {
+          "s": 2,
+          "t": "Hello there! You looking to buy something? I do business in this area..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, no, no. We're adventurers! Katheryne sent us to look into a commission here in Vimara Village..."
+        },
+        {
+          "s": 2,
+          "t": "Ah, so you're here about that, then... *sigh* You're not the first, that's for sure. We've certainly made a lot of trouble for you all."
+        },
+        {
+          "s": 2,
+          "t": "To be honest, we aren't holding out much hope. Many adventurers have made their way out here, confident they'd be able to help us, only to leave soon after with nothing to show for their efforts."
+        },
+        {
+          "s": 2,
+          "t": "We've pretty much had it up to here in questions, and the area around the village has practically been overturned in search of clues. But, no one has been able to make any headway..."
+        },
+        {
+          "s": 1,
+          "t": "So this person we're looking for... What's his name? Where did he live? Does he have any relatives?"
+        },
+        {
+          "s": 2,
+          "t": "I don't know. I really have no clue. I couldn't tell you."
+        },
+        {
+          "s": 1,
+          "t": "Okaayy... Guess you really are sick of answering questions."
+        },
+        {
+          "s": 2,
+          "t": "Ah... I'm sorry. I didn't mean to sound short with you. I was actually just giving you my answer to your questions."
+        },
+        {
+          "sit": "So those three questions are a no go, then..."
+        },
+        {
+          "sit": "Is there anything else you can tell us?"
+        },
+        {
+          "s": 2,
+          "t": "I know it may seem like we don't have anything to offer by way of information, but I promise you we all have a very strong impression of him. When you live in the same village as someone, you develop a lot of memories together, y'know?"
+        },
+        {
+          "s": 2,
+          "t": "We just don't know the specifics. Maybe we did at one point, but that information is long gone by now..."
+        },
+        {
+          "s": 2,
+          "t": "At least, that's what everyone in the village seems to think. We've all exchanged what we know, and that was the only logical conclusion."
+        },
+        {
+          "s": 1,
+          "t": "Alright, specifics aside, then... What kind of person was he?"
+        },
+        {
+          "s": 2,
+          "t": "Young guy, in his early twenties probably. Incredibly kind sort of person, always willing to lend a helping hand..."
+        },
+        {
+          "s": 2,
+          "t": "I'd chat with him when I didn't have any customers. I even saw him stick out his neck for others on more than one occasion, haha... Very interesting guy, that one."
+        },
+        {
+          "s": 1,
+          "t": "Now that you've started talking about him, you don't seem nearly as down in the dumps as you did before. Seems like he left a pretty good impression on you."
+        },
+        {
+          "s": 2,
+          "t": "But of course! Everyone in the village is pretty fond of him. We wouldn't have issued that commission otherwise."
+        },
+        {
+          "s": 2,
+          "t": "There aren't many young people like him nowadays, so genuine and pure. To think that he just up and disappeared one day... I just hope nothing bad happened..."
+        },
+        {
+          "s": 1,
+          "t": "Could he have just... moved away without telling anyone?"
+        },
+        {
+          "s": 2,
+          "t": "No. He's not the type to leave without saying goodbye. And anyway, moving away without being seen by a single person in the village? There's no way he would've been able to manage that..."
+        },
+        {
+          "s": 1,
+          "t": "Huh... All right. Thanks for the information! We're gonna go ask around some more."
+        },
+        {
+          "section": "Bahram"
+        },
+        {
+          "s": 2,
+          "t": "I really hope he's okay. Please, we're counting on you to find him."
+        },
+        {
+          "section": "Amadhiah"
+        },
+        {
+          "s": 3,
+          "t": "Is that guests I hear?"
+        },
+        {
+          "s": 1,
+          "t": "Hi, Grandpa Amadhiah! We're here to help you look for the guy that's gone missing."
+        },
+        {
+          "s": 3,
+          "t": "Ah, so that's what brings you to these parts! Coming all this way for our sake... That's so very kind of you. With your help, I trust that young man's case is in good hands."
+        },
+        {
+          "s": 1,
+          "t": "Could you tell us a bit about him?"
+        },
+        {
+          "s": 3,
+          "t": "Of course! I'm happy to help any way I can."
+        },
+        {
+          "s": 3,
+          "t": "With my failing eyesight, I'm afraid I can't offer much about his appearance. But, I do remember hearing the sound of his voice... Not recently, of course. That loss has left me feeling quite empty."
+        },
+        {
+          "s": 3,
+          "t": "I don't think his parents are still living in the village. But, somehow, he never seemed lonely. In fact, he was usually the one offering companionship to others."
+        },
+        {
+          "s": 3,
+          "t": "He would often take time to visit the elderly or play with the orphans in the village."
+        },
+        {
+          "s": 3,
+          "t": "And whenever someone had something on their mind, he was there to listen with open ears. He always knew just what to say."
+        },
+        {
+          "s": 3,
+          "t": "As the village chief, I owe him many thanks. Helping villagers navigate difficult moments in their lives should have been one of my responsibilities, but he was often the one rising to the occasion."
+        },
+        {
+          "s": 1,
+          "t": "Wow, he seems like such a nice and gentle person! No wonder his disappearance affected you all so much."
+        },
+        {
+          "s": 1,
+          "t": "But, um... You wouldn't happen to know any details about his name, address, or family situation, right?"
+        },
+        {
+          "s": 3,
+          "t": "*sigh*... I'm ashamed to admit it, but... I just can't remember. No matter how you look at it, I should know those things, but for some reason, no matter how hard I try to remember, the information just doesn't come. Perhaps my age really has caught up with me this time..."
+        },
+        {
+          "s": 1,
+          "t": "Ah... It's okay! There's no need to force yourself to try and remember. We'll figure something out..."
+        },
+        {
+          "s": 1,
+          "t": "Well, {NICKNAME}? What do you think?"
+        },
+        {
+          "sit": "There's probably more to this case than meets the eye."
+        },
+        {
+          "sit": "A lot of things are not adding up."
+        },
+        {
+          "s": 1,
+          "t": "Paimon thinks so too! Like the name thing... It's so weird that no one remembers his name."
+        },
+        {
+          "s": 1,
+          "t": "And nobody has been able to tell us anything about his family or where he lived... It's like this guy's been erased from reality or something."
+        },
+        {
+          "sit": "I would say it's more like..."
+        },
+        {
+          "sit": "He's someone who only exists in people's memories."
+        },
+        {
+          "s": 1,
+          "t": "Wait... So you're saying, it's not that he's been \"erased\" necessarily, but more like he never \"existed\" to begin with?"
+        },
+        {
+          "s": 1,
+          "t": "Okay, Paimon's gonna need some time to process that one... Someone who only exists in people's memories..."
+        },
+        {
+          "sit": "(Could it be like what happened with Greater Lord Rukkhadevata? Like some sort of mass alteration of people's memories...?)"
+        },
+        {
+          "s": 4,
+          "t": "You two are the adventurers who just arrived, right? You're here for the Vimara Village commission?"
+        },
+        {
+          "s": 1,
+          "t": "Yep, sure are! We were just looking into the case..."
+        },
+        {
+          "s": 4,
+          "t": "I'm so glad to hear that! Thank goodness you haven't given up. I've been so worried the Adventurers' Guild might cancel our commission..."
+        },
+        {
+          "s": 4,
+          "t": "My name is Atossa, by the way. I grew up here in Vimara Village. Anyway, I just wanted to say... Please keep searching for our missing villager. I'm begging you. You have to find him..."
+        },
+        {
+          "sit": "I'm sure we'll track him down."
+        },
+        {
+          "sit": "We'll certainly try our best."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! No need to worry! We'll give it our best shot! So, were you close to the missing villager? Are there any leads you can give us?"
+        },
+        {
+          "s": 4,
+          "t": "Hmm... I'm not sure this counts as a lead, but follow me. There's a place I'd like to show you."
+        },
+        {
+          "section": "Atossa"
+        },
+        {
+          "s": 1,
+          "t": "Is this the place? Under this tree?"
+        },
+        {
+          "s": 4,
+          "t": "Yep. I know it doesn't look like much, but this place is very meaningful to me. It's so full of memories..."
+        },
+        {
+          "s": 4,
+          "t": "We used to always sit together under this tree and talk. Sometimes, we would look up at the clouds in the sky, or stop to feel the wind against our skin. We could sit there for hours at a time, never realizing how long it had been..."
+        },
+        {
+          "s": 4,
+          "t": "I was actually adopted by the people of Vimara Village. The Forest Rangers found me in the woods as a child."
+        },
+        {
+          "s": 4,
+          "t": "I was surrounded by such good people, and growing up in the village was so lively. Still... there were times when I couldn't help but feel incredibly alone..."
+        },
+        {
+          "s": 1,
+          "t": "Alone?"
+        },
+        {
+          "s": 4,
+          "t": "*sigh*... How should I put it? When something's bothering you, or when you have good news to share, you always want to talk about it with somebody. But, for the longest time, I didn't know who I could talk to, or if I should say anything at all..."
+        },
+        {
+          "s": 4,
+          "t": "Everyone has their own problems to deal with. Even if I might want to confide in others, I don't want to become a burden."
+        },
+        {
+          "sit": "I think I get what you mean."
+        },
+        {
+          "sit": "That's what family is for."
+        },
+        {
+          "s": 4,
+          "t": "Really? You know exactly how I feel?"
+        },
+        {
+          "sit": "I used to have someone like that, a family member that I could talk to no matter what."
+        },
+        {
+          "sit": "But now, I have a lot of friends who understand me, and would be happy to hear me out."
+        },
+        {
+          "s": 1,
+          "t": "Aww!"
+        },
+        {
+          "s": 4,
+          "t": "Wow, that sounds really nice. You're quite lucky. When it comes to our missing villager, well... I guess you could say that, to me, he felt like both — a family member I could rely on, and a friend who could really understand me."
+        },
+        {
+          "s": 4,
+          "t": "No matter what came my way, I knew I could always talk to him..."
+        },
+        {
+          "s": 4,
+          "t": "He was so thoughtful and pure... and patient, too. Whenever I talked to him, he would always seem so interested, as if the things I was describing were just as important to him as they were to me."
+        },
+        {
+          "s": 4,
+          "t": "...Ever since he disappeared, there's been so much I wanted to tell him..."
+        },
+        {
+          "s": 4,
+          "t": "No, no, none of those things matters now. I just really want to see him again..."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you two must have been really close..."
+        },
+        {
+          "s": 1,
+          "t": "Did he ever tell you anything about himself?"
+        },
+        {
+          "s": 4,
+          "t": "Hmm... He mostly just talked about interesting things he saw around the village... He'd share a lot of his own wild ideas as well..."
+        },
+        {
+          "s": 4,
+          "t": "Oh right, I did ask him about his parents once... But, all he said was, \"They're not here anymore.\""
+        },
+        {
+          "s": 4,
+          "t": "I didn't know whether that meant they had left the village or passed away, and I didn't want to pry..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, still not much to go off of..."
+        },
+        {
+          "s": 4,
+          "t": "Ah, look at me, talking your ear off and still nothing to show for it. I'm sorry I wasn't more help..."
+        },
+        {
+          "sit": "Don't say that."
+        },
+        {
+          "sit": "You helped us understand him better."
+        },
+        {
+          "s": 4,
+          "t": "The last time I talked this much in one go was when we were still together."
+        },
+        {
+          "s": 4,
+          "t": "Come to think of it, every time we talked, it always seemed to be around dusk, just like right now."
+        },
+        {
+          "s": 4,
+          "t": "Time always passed by really slowly. Even when it felt like we'd been talking for hours, the sun would still be at the same position in the sky..."
+        },
+        {
+          "s": 1,
+          "t": "Well, time always seems to pass slower when you're relaxed, right? ...Huh? What's wrong, {NICKNAME}?"
+        },
+        {
+          "sit": "It was always the same time of day..."
+        },
+        {
+          "sit": "And time never seemed to pass..."
+        },
+        {
+          "sit": "(Based on what we've learned, this is definitely not a regular missing person's case...)"
+        },
+        {
+          "sit": "(What Atossa just told us about time could be the key to unraveling this whole mystery...)"
+        },
+        {
+          "s": 1,
+          "t": "...Hey, look at those Hilichurls over there... Doesn't it seem like they're acting a little strange?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 1,
+          "t": "Uh, the Abyss Order. Could they be the ones behind all of this?"
+        },
+        {
+          "s": 1,
+          "t": "Uh-oh, we've been spotted. Quick, get ready to fight!"
+        },
+        {
+          "section": "Amadhiah"
+        },
+        {
+          "s": 3,
+          "t": "While you two are out searching, I'll also try and see what I can remember... If I think of something, I'll be sure to let you know."
+        },
+        {
+          "section": "Atossa"
+        },
+        {
+          "s": 4,
+          "t": "Thank you so much! I wasn't expecting monsters to show up. If you hadn't been here, I'm not sure what I would've done..."
+        },
+        {
+          "s": 1,
+          "t": "It was no trouble!"
+        },
+        {
+          "sit": "The question we should be asking now is..."
+        },
+        {
+          "sit": "What is the Abyss Order doing around here?"
+        },
+        {
+          "s": 4,
+          "t": "Hmm, now that I think about it, the Hilichurls around Vimara Village have been a lot more active lately..."
+        },
+        {
+          "s": 4,
+          "t": "They seem agitated, and would often attack anything in sight. Chief Amadhiah doesn't allow the children to play in the area around the village anymore."
+        },
+        {
+          "s": 1,
+          "t": "Huh... Maybe the Abyss Order really is involved..."
+        },
+        {
+          "s": 1,
+          "t": "Well, we should head back and check out the situation in Vimara Village just in case. If the Abyss Order is plotting something, that could spell trouble for the villagers."
+        }
+      ],
+      "description": "You arrive at the Adventurers’ Guild in Sumeru. Katheryne seems to have a very tricky commission for your docket…"
+    },
+    {
+      "title": "Memories That Should Not Exist",
+      "dialogue": [
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "Wait a second... That person, it's... Dainsleif!"
+        },
+        {
+          "s": 5,
+          "t": "Ah, it's you two..."
+        },
+        {
+          "s": 4,
+          "t": "Oh, a friend of yours?"
+        },
+        {
+          "s": 4,
+          "t": "Well, I'll leave you all to it, then. I should head back to the village to check up on Chief Amadhiah and the others, anyway. See you later!"
+        },
+        {
+          "s": 1,
+          "t": "Yep! See you later, Atossa!"
+        },
+        {
+          "s": 1,
+          "t": "Why do you always have to pop up out of nowhere like that!? Is it your life's mission in life to jumpscare us or something?"
+        },
+        {
+          "s": 5,
+          "t": "It's hardly personal... or intentional, for that matter. As long as you and I are both in pursuit of the Abyss Order, we're bound to cross paths."
+        },
+        {
+          "s": 1,
+          "t": "Ah, so you're here to investigate the Abyss Order, then! That would explain the monsters you were fighting just now..."
+        },
+        {
+          "s": 5,
+          "t": "Naturally. Hold on... Are you not here for the same purpose?"
+        },
+        {
+          "sit": "We're also on their tail..."
+        },
+        {
+          "sit": "But, I'll admit, we ran into them on accident."
+        },
+        {
+          "s": 5,
+          "t": "Hm, no matter. It may have taken you a while to catch on, but I'm sure you've also realized by now... That there's something strange about this place."
+        },
+        {
+          "s": 5,
+          "t": "The Abyss Order is most certainly planning something in this area... or worse, their plan could already be in motion."
+        },
+        {
+          "s": 1,
+          "t": "So you think the Abyss Order is behind the Hilichurl activity in the area?"
+        },
+        {
+          "s": 5,
+          "t": "As things stand, I highly doubt that is their primary motive. I would imagine the increased Hilichurl activity is merely a byproduct of whatever it is they're really trying to accomplish."
+        },
+        {
+          "s": 1,
+          "t": "Still, the Hilichurl activity is causing a lot of problems for the people here. We should stick around for a while and protect the village, don't you think?"
+        },
+        {
+          "s": 5,
+          "t": "The best way to protect them is by figuring out what the Abyss Order is truly planning. That is how we prevent further tragedy."
+        },
+        {
+          "sit": "Well, let's see what more we can learn from the villagers."
+        },
+        {
+          "sit": "And after that... You also owe us many answers."
+        },
+        {
+          "s": 5,
+          "t": "And you shall have them. I never intended to hide anything from you."
+        },
+        {
+          "s": 5,
+          "t": "Don't worry... There should be ample time to talk."
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "sit": "You return to Vimara Village to gather intel based on what you've learned. You question the villagers until, eventually, the sky grows dark..."
+        },
+        {
+          "s": 5,
+          "t": "Ah, so that was the commission that brought you here to Vimara Village..."
+        },
+        {
+          "s": 5,
+          "t": "\"Someone who seems to only exist in people's memories\"... That is indeed quite intriguing. I would agree that it's unlikely you have a simple missing person's case on your hands. However, any possible connection to the Abyss Order is still unclear."
+        },
+        {
+          "s": 5,
+          "t": "It appears all we have by way of clues is increased Hilichurl activity, and that is certainly not much to go off of."
+        },
+        {
+          "sit": "Well, then..."
+        },
+        {
+          "sit": "How about the intel you promised me?"
+        },
+        {
+          "s": 1,
+          "t": "Right! That mysterious voice she(he) heard in her brother's(his sister's) memory... The one who called himself a Sinner... Who is he?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, let me ask you this... Do you believe your sibling to have betrayed you?"
+        },
+        {
+          "sit": "I want to have faith in her(him)."
+        },
+        {
+          "sit": "In a manner of speaking, yeah."
+        },
+        {
+          "s": 5,
+          "t": "Hmm... I sense hesitation in your words. After all, you still haven't figured out the whole truth of what happened."
+        },
+        {
+          "s": 5,
+          "t": "There's still hope for the two of you to reconcile. Irreparable damage has not yet been done."
+        },
+        {
+          "s": 5,
+          "t": "The Sinner you wish to know about... His situation is different. He and his fellow sinners have long betrayed me, and long betrayed their nation."
+        },
+        {
+          "s": 5,
+          "t": "His name is Vedrfolnir, \"The Visionary.\""
+        },
+        {
+          "s": 5,
+          "t": "I'm loath to admit it, but... He is also my kin. My older brother."
+        },
+        {
+          "s": 1,
+          "t": "Your... brother?"
+        },
+        {
+          "sit": "What happened between the two of you?"
+        },
+        {
+          "sit": "What really happened in Khaenri'ah back then?"
+        },
+        {
+          "s": 5,
+          "t": "There were five of them... The Five Sinners of Khaenri'ah."
+        },
+        {
+          "s": 5,
+          "t": "\"The Wise\" Hroptatyr, \"The Visionary\" Vedrfolnir, \"Gold\" Rhinedottir, \"The Foul\" Surtalogi, and \"Rächer of Solnari\" Rerir."
+        },
+        {
+          "s": 5,
+          "t": "No matter how eroded my memory may become, I will never forget their names... One day... I shall have my vengeance."
+        },
+        {
+          "s": 1,
+          "t": "Wait! Some of those names sound really familiar... Rhinedottir is the one who created Albedo, Surtalogi is Skirk's master..."
+        },
+        {
+          "s": 1,
+          "t": "And the one we just learned about... Dain's brother, Vedrfolnir... If he was the voice of the Sinner, then the one who inspired Chlothar to create the Abyss Order... was him!"
+        },
+        {
+          "sit": "Somehow, everything is connected..."
+        },
+        {
+          "sit": "(If that's true, then the stone slates we found in that ruin in Fontaine... The ones that outlined Fontaine's prophecy... That was likely Vedrfolnir's doing as well.)"
+        },
+        {
+          "s": 5,
+          "t": "They were once people of great esteem in Khaenri'ah, those who carried the hopes of the nation. They were the best of their peers, outstanding in their respective fields..."
+        },
+        {
+          "s": 5,
+          "t": "The six of us, together... We should have been the ones to prevent the disaster, the ones to stop the Vinster King from continuing to rock the foundation of the world."
+        },
+        {
+          "s": 5,
+          "t": "Yet, deep within, the five of them craved something more. They could not resist the call of the Abyss, and divided among themselves a power that could destroy the world."
+        },
+        {
+          "s": 5,
+          "t": "So they became Sinners, but also transcendent beings, each in possession of world-shattering power."
+        },
+        {
+          "s": 5,
+          "t": "And when the cataclysm occurred, not one of them stood up in defense of their nation, not one came forward to prevent the tragedy... And for that, they shall never have my forgiveness."
+        },
+        {
+          "sit": "And then..."
+        },
+        {
+          "sit": "My sibling came into contact with your brother."
+        },
+        {
+          "s": 5,
+          "t": "...Indeed. If they are not stopped, the day is sure to come when they will also betray the entire world."
+        },
+        {
+          "sit": "It must be hard to talk about all of this."
+        },
+        {
+          "sit": "But thank you for telling me."
+        },
+        {
+          "s": 5,
+          "t": "Of course. As I said, I never intended to hide anything from you."
+        },
+        {
+          "s": 1,
+          "t": "So, Dain, what have you been looking into all this time?"
+        },
+        {
+          "s": 5,
+          "t": "I've continued to investigate the questions surrounding the Loom of Fate. It's been quite some time since the initial operation was launched."
+        },
+        {
+          "s": 5,
+          "t": "By retrieving the eye of the first Field Tiller, we were able to stop part of their plan from coming to fruition..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon remembers! Weren't they gonna use it to corrupt Osial and make a god or something..."
+        },
+        {
+          "s": 5,
+          "t": "Indeed... However, it's obvious that was just some kind of technical experiment..."
+        },
+        {
+          "s": 5,
+          "t": "The eye was integral to their plan, yet somehow, despite failing to obtain it, they've skipped the experimental phase and found some other way to keep moving forward."
+        },
+        {
+          "s": 5,
+          "t": "There are many signs pointing to that effect..."
+        },
+        {
+          "s": 1,
+          "t": "Then, what should we do? It's not too late, is it?"
+        },
+        {
+          "s": 5,
+          "t": "Our most pressing concern... is to determine the purpose of the Loom of Fate. From there, we'll be able to deduce the Abyss Order's true objective."
+        },
+        {
+          "s": 5,
+          "t": "Based on the intel I've gathered so far, I suspect the Loom of Fate is related to the Ley Lines in some way."
+        },
+        {
+          "s": 1,
+          "t": "The Ley Lines?"
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, you were able to observe your sibling's memories last time, yes? I believe that was due to the fact that the Ley Lines in that area were unstable."
+        },
+        {
+          "s": 5,
+          "t": "My recent investigation has shown that Abyss Order activity in a particular area is usually followed by a series of issues with the Ley Lines."
+        },
+        {
+          "sit": "And one of the things that flows through the Ley Lines... are memories."
+        },
+        {
+          "s": 1,
+          "t": "Wait, then our commission here in Vimara Village... The person who seems to exist only in people's memories... Could it be connected?"
+        },
+        {
+          "sit": "(Memories... Ley Lines... The Loom of Fate... The missing person that doesn't seem to exist...)"
+        },
+        {
+          "sit": "(What's the connection between all this?)"
+        },
+        {
+          "s": 5,
+          "t": "It's certainly possible. I'll join your investigation tomorrow. This missing person's case could very well turn out to be the key to unraveling these mysteries."
+        },
+        {
+          "s": 1,
+          "t": "Well, if we're teaming up with Dain again, we're gonna need all the energy we can get! Let's try investigating somewhere a little further away tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "*yawn*... So tired... Paimon used way too much brain juice yesterday. It's all Dain's fault, saying all that complicated stuff..."
+        },
+        {
+          "sit": "I didn't sleep well, either..."
+        },
+        {
+          "sit": "My head's a mess."
+        },
+        {
+          "s": 1,
+          "t": "Well, let's go find Dain. We've got a lot to do today."
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "Uh, Dain? Hellooo... Dain! Why are you just zoning out over here?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Did something happen?"
+        },
+        {
+          "sit": "What's wrong, Dain?"
+        },
+        {
+          "s": 5,
+          "t": "The missing person from your commission... Could you describe them to me?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, uh..."
+        },
+        {
+          "s": 1,
+          "t": "Young guy, early twenties... Seriously, Dain... What's going on?"
+        },
+        {
+          "s": 5,
+          "t": "There appear to be certain memories in my mind that weren't there before..."
+        },
+        {
+          "s": 5,
+          "t": "Memories... of him."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Maybe... Maybe we just talked too much about him yesterday, and you had a weird dream or something?"
+        },
+        {
+          "s": 5,
+          "t": "No. It wasn't a dream. They're memories... memories that suddenly appeared in my mind after I woke up..."
+        },
+        {
+          "s": 5,
+          "t": "And I'm certain I've never met this person before."
+        },
+        {
+          "sit": "Well, what exactly did you \"remember\"?"
+        },
+        {
+          "s": 5,
+          "t": "I remember..."
+        },
+        {
+          "s": 5,
+          "t": "...Handing him the eye of the first Field Tiller."
+        },
+        {
+          "sit": "!?"
+        },
+        {
+          "s": 1,
+          "t": "Whaaaat!?"
+        },
+        {
+          "s": 1,
+          "t": "...Okay, so this missing person definitely has something to do with the Abyss Order, then..."
+        },
+        {
+          "s": 5,
+          "t": "Indeed. And it appears he possesses the ability to \"implant\" memories into the minds of others."
+        },
+        {
+          "sit": "How is that even possible..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, then... All the memories the villagers have of him... Could they be fake too? Maybe they never knew him at all..."
+        },
+        {
+          "s": 1,
+          "t": "But why would he do something like that..."
+        },
+        {
+          "s": 5,
+          "t": "Whatever the Abyss Order is planning, an important truth has been revealed to us this morning..."
+        },
+        {
+          "s": 1,
+          "t": "What sort of truth?"
+        },
+        {
+          "s": 5,
+          "t": "That their goal... is still to obtain the eye of the first Field Tiller. They haven't stopped searching for it."
+        },
+        {
+          "s": 5,
+          "t": "I am the only person who knows its location. Perhaps implanting that particular memory was an attempt to interfere with my mind in some way..."
+        },
+        {
+          "sit": "Is the eye still safe?"
+        },
+        {
+          "sit": "What if that \"memory\" is real?"
+        },
+        {
+          "s": 5,
+          "t": "Your concerns are not entirely unfounded. I don't believe the Abyss Order is capable of altering reality like that just yet..."
+        },
+        {
+          "s": 5,
+          "t": "However, considering their single-minded pursuit of the eye, I would say an equal level of caution is in order on our part."
+        },
+        {
+          "s": 5,
+          "t": "Come with me. We must check whether the eye is still in our possession."
+        },
+        {
+          "s": 1,
+          "t": "Oh, so you're going to take us to where you hid it?"
+        },
+        {
+          "sit": "(...But, what if someone follows us? If we go straight there, and someone is on our tail, aren't we just exposing the eye's location?)"
+        },
+        {
+          "sit": "(Maybe that's the reason the Abyss Order implanted that memory in the first place... To force Dain to confirm the eye's location...)"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "(Given what I know of him, though, I'm sure Dain has already thought of that possibility... It seems like he might already have a plan...)"
+        },
+        {
+          "sit": "Let's go."
+        },
+        {
+          "sit": "Lead the way, Dain."
+        },
+        {
+          "s": 5,
+          "t": "...Of course."
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "So you hid it way out here! Not an easy place to discover, that's for sure."
+        },
+        {
+          "s": 1,
+          "t": "Well, let's go check to see if it's safe!"
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, wait..."
+        },
+        {
+          "sit": "Hm?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...We've no time to lose. Let's head inside."
+        },
+        {
+          "sit": "(What was Dain going to tell me just now...)"
+        },
+        {
+          "s": 1,
+          "t": "Hey, wait up!"
+        },
+        {
+          "section": "Activate"
+        },
+        {
+          "sit": "(test)台词文本"
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 1,
+          "t": "Looks like we can't go any further..."
+        },
+        {
+          "s": 5,
+          "t": "Be on your guard. I sense the presence of the Abyss!"
+        },
+        {
+          "s": 1,
+          "t": "It's the Abyss Order! They're here!"
+        },
+        {
+          "section": "Dainsleif"
+        },
+        {
+          "s": 5,
+          "t": "Just as I suspected... The false memories were a trap. The Abyss Order just wanted to follow us here..."
+        },
+        {
+          "s": 5,
+          "t": "Now that they're in the vicinity, we should have a chance to see..."
+        },
+        {
+          "s": 5,
+          "t": "Argh...!"
+        },
+        {
+          "s": 1,
+          "t": "Dain? What's wrong?"
+        },
+        {
+          "s": 5,
+          "t": "Can you feel that? There's been a disturbance in the Ley Lines. It must be the work of the Abyss..."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you must be really sensitive to that sort of thing. Paimon doesn't feel it..."
+        },
+        {
+          "s": 5,
+          "t": "You two, do as I say... Use that mechanism over there and leave this place."
+        },
+        {
+          "sit": "Leave you here on your own? Will you be alright?"
+        },
+        {
+          "s": 5,
+          "t": "The Abyss Order is putting something in motion. If you return to Vimara Village, I suspect you might finally have the opportunity to locate the missing villager."
+        },
+        {
+          "s": 5,
+          "t": "...Just think of it as a way to divide and conquer."
+        },
+        {
+          "sit": "Alright."
+        },
+        {
+          "sit": "(Dain does have a point...)"
+        },
+        {
+          "sit": "(But, something still feels off... What am I missing...?)"
+        },
+        {
+          "s": 5,
+          "t": "Hmph... I knew going along with your trap would be the only way to meet with you face to face."
+        },
+        {
+          "sit": "You risked your safety and that of the eye..."
+        },
+        {
+          "sit": "That's quite the gamble, Dainsleif... But I believe that I am the one walking into a trap laid by the Twilight Sword."
+        },
+        {
+          "s": 5,
+          "t": "So you came here all on your own? What about those followers of yours?"
+        },
+        {
+          "sit": "When the Twilight Sword is prepared for battle, any army I could send would only be marching to their doom... Better that I face you alone."
+        },
+        {
+          "sit": "I know you must have a lot to say..."
+        },
+        {
+          "sit": "...But, if it's a conversation you want, you'll have to defeat me first."
+        }
+      ],
+      "description": "You have heretofore been unable to track down the missing man, but you encounter a familiar figure after the creatures of the Abyss Order emerge…"
+    },
+    {
+      "title": "World-Order Narration",
+      "dialogue": [
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Right! Paimon totally forgot about the Ley Line disturbances. We're in someone else's memory..."
+        },
+        {
+          "s": 1,
+          "t": "Just like how you entered your sibling's memory last time!"
+        },
+        {
+          "s": 1,
+          "t": "That would also explain why we seem to be at a time before he went missing... It's a memory, after all."
+        },
+        {
+          "sit": "If we really are in someone's memory..."
+        },
+        {
+          "sit": "Then this is our chance to find him."
+        },
+        {
+          "s": 1,
+          "t": "Right! If he's someone who only exists in people's memories, then we're finally on the same turf!"
+        },
+        {
+          "s": 1,
+          "t": "But, didn't Bahram just say he saw him leave the village with someone? Where should we go look for him..."
+        },
+        {
+          "s": 1,
+          "t": "Who knows how long this Ley Line disturbance is gonna last... We might not have that much time. And we don't even know whose memory this is..."
+        },
+        {
+          "sit": "Let's go through what we know so far..."
+        },
+        {
+          "s": 1,
+          "t": "Good idea! That'll help us narrow things down."
+        },
+        {
+          "s": 1,
+          "t": "We pretty much figured out that the missing villager has the ability to..."
+        },
+        {
+          "sit": "Implant memories into the minds of others."
+        },
+        {
+          "s": 1,
+          "t": "Right, that! Could we try to figure out a bit more about him using what we know of his ability?"
+        },
+        {
+          "s": 1,
+          "t": "Like, does it maybe leave a trace that would somehow give him away?"
+        },
+        {
+          "sit": "(Hmm... Implanting memories into the minds of others must be an imperfect process. There's no way the new memories could perfectly blend in with the old ones. There has to be some kind of tell...)"
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 1,
+          "t": "No wonder! All this time, and the sky hasn't changed a bit. That must mean... Time isn't passing!"
+        },
+        {
+          "s": 1,
+          "t": "That's the tell of the fake memories!"
+        },
+        {
+          "s": 1,
+          "t": "The implanted memories are basically taking place outside the regular twenty-four hours of the day."
+        },
+        {
+          "s": 1,
+          "t": "If the memories included the regular passage of time, it would be easy for people to tell that something was off."
+        },
+        {
+          "s": 1,
+          "t": "Like, there could be overlap or something... People might start to wonder why they remember doing two different things at the same time of day."
+        },
+        {
+          "s": 1,
+          "t": "That's why he makes sure the memories take place at a specific moment in time, rather than over a period of time."
+        },
+        {
+          "sit": "(If we consider this in conjunction with what we already know, then the question of whose memory this is... seems to have an obvious answer...)"
+        },
+        {
+          "section": "Atossa"
+        },
+        {
+          "s": 1,
+          "t": "Oh, right! That's exactly what Atossa described!"
+        },
+        {
+          "s": 4,
+          "t": "Come to think of it, every time we talked, it always seemed to be around dusk, just like right now."
+        },
+        {
+          "s": 4,
+          "t": "Time always passed by really slowly. Even when it felt like we'd been talking for hours, the sun would still be at the same position in the sky..."
+        },
+        {
+          "s": 1,
+          "t": "Yep, that has to be it! This is definitely Atossa's memory!"
+        },
+        {
+          "sit": "Let's go."
+        },
+        {
+          "sit": "To the tree."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! That's where they'll be!"
+        },
+        {
+          "section": "Caribert"
+        },
+        {
+          "sit": "You're... Caribert Alberich."
+        },
+        {
+          "s": 6,
+          "t": "Oh... You know me? That's quite the surprise. I don't believe I've met you before..."
+        },
+        {
+          "s": 6,
+          "t": "Ah, I see. It was the memory, wasn't it? Your sibling's memory. You saw... the me from back then."
+        },
+        {
+          "s": 6,
+          "t": "This is Atossa's memory. I came here to say goodbye to her..."
+        },
+        {
+          "s": 6,
+          "t": "But, I suppose I'll just leave her a message instead. Come, let's find somewhere else to talk..."
+        },
+        {
+          "section": "(Observe)"
+        },
+        {
+          "s": 1,
+          "t": "Hey, look at those Hilichurls over there..."
+        },
+        {
+          "sit": "They seem strangely... calm?"
+        },
+        {
+          "s": 1,
+          "t": "Weren't they acting super agitated just a little while ago? Why are they so calm all of a sudden?"
+        },
+        {
+          "sit": "(Wait... I hear something...)"
+        },
+        {
+          "s": 6,
+          "t": "...In the new world, they bade farewell to the shrouded sun."
+        },
+        {
+          "section": "(Observe)"
+        },
+        {
+          "s": 1,
+          "t": "Looks like the same thing is happening over here too. The Hilichurls are calm..."
+        },
+        {
+          "s": 6,
+          "t": "...You see? We're both still here."
+        },
+        {
+          "section": "(Observe)"
+        },
+        {
+          "s": 1,
+          "t": "Over there! It looks like they're sleeping..."
+        },
+        {
+          "s": 6,
+          "t": "...In the end, he whispered softly,"
+        },
+        {
+          "section": "Amadhiah"
+        },
+        {
+          "s": 1,
+          "t": "Grandpa Amadhiah, is everyone alright? The Abyss Order seems to be up to something nearby..."
+        },
+        {
+          "s": 3,
+          "t": "The Abyss Order? This is the first I'm hearing of it..."
+        },
+        {
+          "s": 3,
+          "t": "Thank you for your concern, but as far as I'm aware, it's been business as usual here in the village."
+        },
+        {
+          "s": 1,
+          "t": "Well, that's good to hear."
+        },
+        {
+          "s": 1,
+          "t": "Oh! Also... You didn't happen to come across any clues about the missing villager while we were gone, did you?"
+        },
+        {
+          "s": 3,
+          "t": "Huh? Someone's gone missing, you say? Who would that be?"
+        },
+        {
+          "s": 1,
+          "t": "Huh...?"
+        },
+        {
+          "sit": "You don't remember?"
+        },
+        {
+          "sit": "Things just got even more complicated."
+        },
+        {
+          "s": 1,
+          "t": "You know... The young guy from Vimara Village... The one you've been looking for all this time. You posted a commission with the Sumeru Adventurers' Guild..."
+        },
+        {
+          "s": 1,
+          "t": "That's kind of the whole reason we're here, actually... Your missing person's commission."
+        },
+        {
+          "s": 3,
+          "t": "Ah, I do apologize, you two... I hope I'm not worrying you too much. I'm sure it's just my age making me forgetful again..."
+        },
+        {
+          "s": 3,
+          "t": "At least right now, I can't seem to recall whatever it is you're referring to... Perhaps you should try asking someone else?"
+        },
+        {
+          "s": 1,
+          "t": "But, how is that... *sigh* Alright. Thanks for your help, Grandpa Amadhiah."
+        },
+        {
+          "s": 1,
+          "t": "Something's definitely not right. We just talked to Grandpa Amadhiah about the missing villager. There's no way he could've forgotten all about him just like that..."
+        },
+        {
+          "s": 1,
+          "t": "What do you think, {NICKNAME}? Could everyone's memories of the missing villager have been erased again?"
+        },
+        {
+          "sit": "It's too early to say."
+        },
+        {
+          "sit": "We should check in with the others first."
+        },
+        {
+          "s": 1,
+          "t": "You're right. We should narrow down the possibilities first... Let's go ask someone else, then!"
+        },
+        {
+          "section": "Amadhiah"
+        },
+        {
+          "s": 3,
+          "t": "A missing villager... Did I really forget something so important? As the chief, I can't afford to be so negligent."
+        },
+        {
+          "section": "Bahram"
+        },
+        {
+          "s": 2,
+          "t": "Someone's gone missing? Who?"
+        },
+        {
+          "s": 1,
+          "t": "*sigh*... Just as expected..."
+        },
+        {
+          "s": 1,
+          "t": "Um, that guy you said a bunch of nice things about earlier? The one you always used to chat with..."
+        },
+        {
+          "s": 1,
+          "t": "He's around twenty years old... You said he was a kind, warm-hearted sort of person..."
+        },
+        {
+          "s": 2,
+          "t": "Oh! I know who you're talking about..."
+        },
+        {
+          "s": 1,
+          "t": "Really? You remember?"
+        },
+        {
+          "s": 2,
+          "t": "There aren't many young people who've earned that kind of praise from me. If you're certain that's what I said..."
+        },
+        {
+          "s": 2,
+          "t": "Then, there's only person who fits the bill — no doubt about it... But, why'd you say he's gone missing?"
+        },
+        {
+          "sit": "Have you seen him recently?"
+        },
+        {
+          "sit": "Do you know where he went?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah! I just saw him leave the village. There was someone else with him too. They couldn't have gone far."
+        },
+        {
+          "section": "Paimon"
+        },
+        {
+          "s": 1,
+          "t": "Strange... Bahram seems to remember him... And, apparently, he just saw him?"
+        },
+        {
+          "s": 1,
+          "t": "Do you think maybe... It's not that there's something wrong with people's memories, but that we've somehow returned to a time before he went missing?"
+        },
+        {
+          "sit": "(I doubt returning to the past would be that simple.)"
+        },
+        {
+          "sit": "(Given everything Dain mentioned about disturbances with the Ley Lines, I'd say it's far more likely this is related to memories in some way...)"
+        },
+        {
+          "sit": "(I need to think carefully... What's really going on...?)"
+        },
+        {
+          "section": "Caribert"
+        },
+        {
+          "s": 4,
+          "t": "...So, you see, Granny Jehiet was a mercenary when she was younger. She just talks like that out of habit. She's not trying to scare the children on purpose, hehe..."
+        },
+        {
+          "s": 4,
+          "t": "Oh, there I go again... always talking about my own things. Do you, maybe, have anything you want to share?"
+        },
+        {
+          "s": 4,
+          "t": "Um... It's okay if you don't. You could also just... Talk about what you think of me?"
+        },
+        {
+          "s": 6,
+          "t": "Oh, I... I think you're an incredibly strong and thoughtful young woman."
+        },
+        {
+          "s": 6,
+          "t": "You'll meet many amazing people and live a very happy life... You won't miss someone like me..."
+        },
+        {
+          "s": 4,
+          "t": "Huh...? Are those your friends over there?"
+        },
+        {
+          "sit": "(We finally found him. But why does he look kind of familiar...?)"
+        },
+        {
+          "s": 1,
+          "t": "Oh, right. This version of Atossa hasn't met us yet..."
+        },
+        {
+          "s": 6,
+          "t": "Friends? I guess you could say that. It must have taken them a lot of effort to find me..."
+        },
+        {
+          "s": 6,
+          "t": "So... I should see what they need. I'm sorry, Atossa. We'll have to continue this conversation another time."
+        },
+        {
+          "s": 4,
+          "t": "Another time, huh... Um, yeah! Okay! I'll head back to the village, then. Talk to you... some other time!"
+        },
+        {
+          "s": 6,
+          "t": "It's nice to see you, {NICKNAME}. I believe this is the first time we've met."
+        },
+        {
+          "sit": "You're..."
+        },
+        {
+          "sit": "(Factoring in the memories, the Abyss Order, the Loom of Fate, and everything else, I need to think of the one person that can connect all of this together...)"
+        },
+        {
+          "section": "Observe"
+        },
+        {
+          "sit": "(test)台词文本"
+        },
+        {
+          "section": "Caribert"
+        },
+        {
+          "s": 6,
+          "t": "*panting*"
+        },
+        {
+          "sit": "What is this place?"
+        },
+        {
+          "s": 6,
+          "t": "I suppose you could call it the realm of my consciousness. I'm someone who no longer exists in the real world, after all... as you well know."
+        },
+        {
+          "sit": "You look quite exhausted."
+        },
+        {
+          "s": 6,
+          "t": "Ah, it's nothing. I still have enough strength to play the part of a good host. I've always hoped that I'd get the chance to talk to you like this, and now, the time has finally arrived."
+        },
+        {
+          "sit": "(This is a rare opportunity for me as well. I should try to learn as much information from Caribert as I can.)"
+        },
+        {
+          "sit": "What exactly happened to you?"
+        },
+        {
+          "sit": "What exactly is the Loom of Fate?"
+        },
+        {
+          "s": 6,
+          "t": "Extreme sorrow and pain... Hope and regret coursing through your veins... and a degree of Abyssal power that defies comprehension..."
+        },
+        {
+          "s": 6,
+          "t": "Father told me that once I possessed all those elements, I would become the Loom of Fate."
+        },
+        {
+          "s": 6,
+          "t": "But, despite his intentions for me, I never truly became the Loom of Fate. I was merely used as a means for its \"construction\"..."
+        },
+        {
+          "s": 6,
+          "t": "In truth, I died the moment I set everything in motion."
+        },
+        {
+          "s": 6,
+          "t": "The \"person\" you see before you now is nothing but a remnant of consciousness leftover within the Loom of Fate."
+        },
+        {
+          "sit": "(Caribert is dead... That's why he no longer exists outside of people's memories.)"
+        },
+        {
+          "s": 6,
+          "t": "As for your question... The Loom of Fate is a device capable of weaving Ley Lines."
+        },
+        {
+          "sit": "Weaving... Ley Lines?"
+        },
+        {
+          "s": 6,
+          "t": "In its primitive form, it can only be used to create and implant memories. But, as more of it is completed, its power becomes stronger and stronger... Until finally, it has the power to weave real Ley Lines of its own."
+        },
+        {
+          "s": 6,
+          "t": "Once fully completed, the moment it gains the power to weave Ley Lines, it loses the lower-level ability to influence memories..."
+        },
+        {
+          "s": 6,
+          "t": "...But it also becomes a tool that can change the entire world."
+        },
+        {
+          "sit": "So that was the source of your ability to implant memories?"
+        },
+        {
+          "s": 6,
+          "t": "Yes. I have the ability to control the Loom in its semi-completed form. I suppose you could think of it as a form of compensation..."
+        },
+        {
+          "s": 6,
+          "t": "...After all, its existence cost me my life."
+        },
+        {
+          "sit": "(So the memories that suddenly appeared in Dain's mind were implanted by Caribert through the half-finished Loom of Fate...)"
+        },
+        {
+          "sit": "(That makes sense... But, I'm still lost as to why he went so far as to \"introduce\" himself to all the residents of Vimara Village...)"
+        },
+        {
+          "sit": "But why did you implant memories of yourself..."
+        },
+        {
+          "sit": "Into the people of Vimara Village?"
+        },
+        {
+          "s": 6,
+          "t": "Ah, that... I was wrong to implant those memories. I'm sorry I caused so much trouble, not only for everyone in the village, but for you as well."
+        },
+        {
+          "s": 6,
+          "t": "I just... wanted them to feel like I once existed in this world..."
+        },
+        {
+          "s": 6,
+          "t": "As if... I had a chance at life."
+        },
+        {
+          "sit": "(So that's why... I would have never guessed.)"
+        },
+        {
+          "sit": "(But... is there any kind of meaning to this?)"
+        },
+        {
+          "sit": "(Does only existing in people's memories really count as living?)"
+        },
+        {
+          "s": 6,
+          "t": "...Heh, I know what you must be thinking..."
+        },
+        {
+          "s": 6,
+          "t": "Why would I do something so meaningless..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "But I just... I just couldn't accept it."
+        },
+        {
+          "s": 6,
+          "t": "I had to know what it would be like if I had my own life — what kind of person I would be, what other people would think of me..."
+        },
+        {
+          "s": 6,
+          "t": "Chief Amadhiah, Bahram, Granny Jehiet... Atossa..."
+        },
+        {
+          "s": 6,
+          "t": "What would it be like if I could live alongside them — no cataclysm, no curse, just a quiet life in a peaceful village."
+        },
+        {
+          "s": 6,
+          "t": "I was curious, so I selfishly... tried to have my own life."
+        },
+        {
+          "s": 6,
+          "t": "Even if... Even if that meant piecing together the version of myself that could have been... one memory at a time."
+        },
+        {
+          "s": 6,
+          "t": "I know it sounds stupid, hehe..."
+        },
+        {
+          "s": 6,
+          "t": "After all... my life ended a long time ago."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 6,
+          "t": "Any chance at living was stripped away from me when I was eight years old, my consciousness left to mature in an illusory world of nothingness."
+        },
+        {
+          "s": 6,
+          "t": "Even the form you see before you is nothing but an invention based on my father's appearance — an imagined version of what I would look like if I had had the chance to grow up."
+        },
+        {
+          "sit": "(...In the end, this all stems from the tragedy that occurred in Khaenri'ah back then...)"
+        },
+        {
+          "sit": "You know..."
+        },
+        {
+          "sit": "Everyone is looking for you."
+        },
+        {
+          "s": 6,
+          "t": "I know... But, there's nothing I can do to make them find me."
+        },
+        {
+          "s": 6,
+          "t": "If I could exist in the real world, I would return without a second thought and surprise them with the suddenness of it all. But, well... That's not possible for me."
+        },
+        {
+          "sit": "As I understand it..."
+        },
+        {
+          "sit": "Even though you only appeared in their memories..."
+        },
+        {
+          "sit": "Your existence was a great comfort to them."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "sit": "They all believe you once lived among them."
+        },
+        {
+          "s": 6,
+          "t": "I know."
+        },
+        {
+          "sit": "Well, now that I've found you, let's continue this conversation some other time."
+        },
+        {
+          "sit": "Dain might still need my help..."
+        },
+        {
+          "s": 6,
+          "t": "Captain Dainsleif, Twilight Sword, you mean? Ah, no need to meet up with him. Things should already be settled on his end."
+        },
+        {
+          "sit": "Settled?"
+        },
+        {
+          "s": 6,
+          "t": "Exactly. As someone who could only exist in people's memories, the fact that I'm able to talk to you in my consciousness like this can only mean one thing..."
+        },
+        {
+          "s": 6,
+          "t": "The Loom of Fate has already been completed."
+        },
+        {
+          "sit": "What!?"
+        },
+        {
+          "sit": "(The Loom of Fate is already complete? That means the eye of the first Field Tiller must have fallen into the hands of the Abyss... Could something have happened to Dain?)"
+        },
+        {
+          "s": 6,
+          "t": "No need to worry about Captain Dainsleif. He's absolutely fine. The only reason he lost the eye was because I happened to guess exactly what he was planning."
+        },
+        {
+          "s": 6,
+          "t": "Captain Dainsleif has had the eye inside his body this whole time, hasn't he?"
+        },
+        {
+          "s": 6,
+          "t": "His plan was to lure the Abyss Order to a false location, capitalizing on their pursuit of the eye in order to have the chance to confront the princess(prince)..."
+        },
+        {
+          "s": 6,
+          "t": "He would then hand the eye to you, and tell you to take it away from that location."
+        },
+        {
+          "s": 6,
+          "t": "That way, Captain Dainsleif could accomplish his own goal and ensure the safety of the eye all at once — a very thorough plan."
+        },
+        {
+          "sit": "But..."
+        },
+        {
+          "sit": "Dain never handed me the eye."
+        },
+        {
+          "s": 6,
+          "t": "That's right. Because, in his mind... he had given it to you already."
+        },
+        {
+          "sit": "(Wait, does that mean he gave Dain a... false memory!?)"
+        },
+        {
+          "sit": "You made him think that! When?"
+        },
+        {
+          "s": 6,
+          "t": "Before you two entered that false location..."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, wait..."
+        },
+        {
+          "sit": "Hm?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...We've no time to lose. Let's head inside."
+        },
+        {
+          "sit": "(So when Dain froze up back then, it was because a false memory was being implanted in his mind... No wonder...)"
+        },
+        {
+          "s": 6,
+          "t": "That was when I implanted the memory of him handing you the eye."
+        },
+        {
+          "s": 6,
+          "t": "Given the tense situation at that time, Captain Dainsleif failed to notice anything out of the ordinary and took that memory to be real."
+        },
+        {
+          "s": 6,
+          "t": "...I'm sorry, {NICKNAME}, but I needed the Loom of Fate to be completed, and to do that, we had to retrieve the eye."
+        },
+        {
+          "sit": "(So, Dain had the eye this whole time... until the Abyss Order took it away. I'm not sure there's anything we could have done.)"
+        },
+        {
+          "sit": "Now that the Loom of Fate is complete..."
+        },
+        {
+          "sit": "What are you planning on doing with it?"
+        },
+        {
+          "s": 6,
+          "t": "I promise I'm not trying to conceal anything from you... But, I truly have no idea what the princess(prince) is planning."
+        },
+        {
+          "s": 6,
+          "t": "Teyvat's Ley Line system is deeply entrenched in the planet. Creating new Ley Lines can neither \"replace\" nor \"extend\" the ones that already exist..."
+        },
+        {
+          "s": 6,
+          "t": "In the face of everything they could be planning, I fear I'm too insignificant to even get a glimpse of the bigger picture."
+        },
+        {
+          "s": 6,
+          "t": "In any case, I had my own use for the Loom of Fate, and my goal, at least, has been achieved."
+        },
+        {
+          "sit": "Your goal?"
+        },
+        {
+          "s": 6,
+          "t": "You remember my father, don't you? Chlothar Alberich. I believe you saw him in your sibling's memory."
+        },
+        {
+          "s": 6,
+          "t": "After he used the power of the Abyss to restore consciousness to my Hilichurl form, I suffered from an indescribable level of mental anguish."
+        },
+        {
+          "s": 6,
+          "t": "To comfort me, my father told me a story... That this was a fairytale world, where I had to take on the form of a little monster..."
+        },
+        {
+          "s": 6,
+          "t": "That story managed to dispel my fears... even if just for a moment."
+        },
+        {
+          "s": 6,
+          "t": "My goal was simple — to use the Loom of Fate in its near-completed form, when its ability to create memories was at its strongest..."
+        },
+        {
+          "s": 6,
+          "t": "To implant a specific memory into the minds of the Hilichurls."
+        },
+        {
+          "s": 6,
+          "t": "In that memory, I would tell them a story... just like my father did for me. It was a story of fairy tales and love... But, more than anything, it was the story of us."
+        },
+        {
+          "sit": "(So the thing that caused the Hilichurls to calm down back then was Caribert's story...)"
+        },
+        {
+          "sit": "(So that was his goal... That was the only thing he wanted.)"
+        },
+        {
+          "sit": "(He had a device as powerful as the Loom of Fate at his disposal, and all he wanted to do with it was to offer the Hilichurls a moment of comfort and peace...)"
+        },
+        {
+          "s": 6,
+          "t": "I can't change the world, not when I lost the very right to exist within it. Implanting those memories... that was the most worthwhile thing I could offer."
+        },
+        {
+          "sit": "Perhaps."
+        },
+        {
+          "sit": "I think... It was very meaningful indeed."
+        },
+        {
+          "s": 6,
+          "t": "All that's left of my existence is a wisp of residual consciousness tied to the Loom of Fate. In truth, that trace of my consciousness should have dissipated long ago... My goal was the one thing that allowed me to hold on all this time."
+        },
+        {
+          "s": 6,
+          "t": "But now, the bedtime story... is finished, and it's finally time to rest."
+        },
+        {
+          "section": "Lumine"
+        },
+        {
+          "sit": "Well... How about a conversation?"
+        },
+        {
+          "sit": "The chance to just stop and talk like this is certainly not easy to come by... Wouldn't you agree?"
+        },
+        {
+          "sit": "Yeah."
+        },
+        {
+          "sit": "I almost can't believe it's real."
+        },
+        {
+          "sit": "That battle earlier was tough..."
+        },
+        {
+          "sit": "The one against Dain, I mean."
+        },
+        {
+          "sit": "I didn't expect that after everything, he would still hesitate to raise his sword against me..."
+        },
+        {
+          "sit": "Were it not for that... Perhaps I'd still be no match for the Twilight Sword. Even after five hundred years."
+        },
+        {
+          "sit": "What exactly are you planning?"
+        },
+        {
+          "sit": "What are you going to do with the Loom of Fate?"
+        },
+        {
+          "sit": "The Loom of Fate, huh... I still haven't found a way to utilize it to its full potential, but there's still time..."
+        },
+        {
+          "sit": "...Before the Heavenly Principles \"awaken.\""
+        },
+        {
+          "sit": "The Heavenly Principles are still asleep?"
+        },
+        {
+          "sit": "Yes, for five hundred years now, ever since the cataclysm in Khaenri'ah. There's been no sign of activity..."
+        },
+        {
+          "sit": "Not long ago, you witnessed the Hydro Archon destroy her divine throne, yes?"
+        },
+        {
+          "sit": "Such a flagrant disregard for the \"rules,\" and still Celestia took no action... I suppose that's proof enough of the Heavenly Principles' situation."
+        },
+        {
+          "sit": "However, the Heavenly Principles will awaken... We just don't know when that will be, or what might trigger it."
+        },
+        {
+          "sit": "You really hate the Heavenly Principles, don't you?"
+        },
+        {
+          "sit": "You could say that."
+        },
+        {
+          "sit": "Just look at Caribert. He was so pure and single-minded... The space we now find ourselves is a perfect representation of who he was — quiet and peaceful."
+        },
+        {
+          "sit": "Even as a Hilichurl, seeing the terrible sight within the mirror wasn't enough to taint his spirit."
+        },
+        {
+          "sit": "He brought comfort to the people of this world... even though he was denied the very right to be a part of it..."
+        },
+        {
+          "sit": "So, ask yourself this... Who was it that deprived him of that right to exist?"
+        },
+        {
+          "sit": "Of course, that's only one example. My feelings about the Heavenly Principles are too complicated to explain in just a few words..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "...Aether(Lumine)?"
+        },
+        {
+          "sit": "You're the only one in this world who calls me that."
+        },
+        {
+          "sit": "There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now."
+        },
+        {
+          "sit": "There's just one thing I have to ask, one thing I could never understand..."
+        },
+        {
+          "sit": "Why... Why can't we continue our journey together?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "At the end of my journey, I arrived at a place known as \"The Sea of Flowers at the End.\""
+        },
+        {
+          "sit": "Do you remember? A long time ago, when we traveled between worlds together..."
+        },
+        {
+          "sit": "You told me... You wanted to find a place in the universe where that one flower was in full bloom."
+        },
+        {
+          "sit": "To have a place like that suddenly appear before me..."
+        },
+        {
+          "sit": "Well, would you think of that as a coincidence?"
+        },
+        {
+          "sit": "You mean..."
+        },
+        {
+          "sit": "I miss you too, Aether(Lumine)."
+        },
+        {
+          "sit": "But as this war continues to rage, and as I continue to seek that final answer..."
+        },
+        {
+          "sit": "I don't even know how to face myself sometimes... let alone my own brother(sister)."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "What's going on?"
+        },
+        {
+          "sit": "This space has lost its tether... I doubt it'll be able to exist much longer."
+        },
+        {
+          "sit": "In fact, aside from our inability to physically interact with each other, there's something else you should know about this space. With Caribert gone, we won't be able to remember anything that happened here..."
+        },
+        {
+          "sit": "Everything in this space will be wiped from existence... including all memory of our reunion."
+        },
+        {
+          "sit": "You're only telling me this now..."
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "sit": "...!!!"
+        },
+        {
+          "sit": "\"...\""
+        },
+        {
+          "section": "Aether"
+        },
+        {
+          "sit": "Well... How about a conversation?"
+        },
+        {
+          "sit": "The chance to just stop and talk like this is certainly not easy to come by... Wouldn't you agree?"
+        },
+        {
+          "sit": "Yeah."
+        },
+        {
+          "sit": "I almost can't believe it's real."
+        },
+        {
+          "sit": "That battle earlier was tough..."
+        },
+        {
+          "sit": "The one against Dain, I mean."
+        },
+        {
+          "sit": "I didn't expect that after everything, he would still hesitate to raise his sword against me..."
+        },
+        {
+          "sit": "Were it not for that... Perhaps I'd still be no match for the Twilight Sword. Even after five hundred years."
+        },
+        {
+          "sit": "What exactly are you planning?"
+        },
+        {
+          "sit": "What are you going to do with the Loom of Fate?"
+        },
+        {
+          "sit": "The Loom of Fate, huh... I still haven't found a way to utilize it to its full potential, but there's still time..."
+        },
+        {
+          "sit": "...Before the Heavenly Principles \"awaken.\""
+        },
+        {
+          "sit": "The Heavenly Principles are still asleep?"
+        },
+        {
+          "sit": "Yes, for five hundred years now, ever since the cataclysm in Khaenri'ah. There's been no sign of activity..."
+        },
+        {
+          "sit": "Not long ago, you witnessed the Hydro Archon destroy her divine throne, yes?"
+        },
+        {
+          "sit": "Such a flagrant disregard for the \"rules,\" and still Celestia took no action... I suppose that's proof enough of the Heavenly Principles' situation."
+        },
+        {
+          "sit": "However, the Heavenly Principles will awaken... We just don't know when that will be, or what might trigger it."
+        },
+        {
+          "sit": "You really hate the Heavenly Principles, don't you?"
+        },
+        {
+          "sit": "You could say that."
+        },
+        {
+          "sit": "Just look at Caribert. He was so pure and single-minded... The space we now find ourselves is a perfect representation of who he was — quiet and peaceful."
+        },
+        {
+          "sit": "Even as a Hilichurl, seeing the terrible sight within the mirror wasn't enough to taint his spirit."
+        },
+        {
+          "sit": "He brought comfort to the people of this world... even though he was denied the very right to be a part of it..."
+        },
+        {
+          "sit": "So, ask yourself this... Who was it that deprived him of that right to exist?"
+        },
+        {
+          "sit": "Of course, that's only one example. My feelings about the Heavenly Principles are too complicated to explain in just a few words..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "...Aether(Lumine)?"
+        },
+        {
+          "sit": "You're the only one in this world who calls me that."
+        },
+        {
+          "sit": "There's so much I wanted to ask you, but for some reason, I'm not interested in asking those questions right now."
+        },
+        {
+          "sit": "There's just one thing I have to ask, one thing I could never understand..."
+        },
+        {
+          "sit": "Why... Why can't we continue our journey together?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "At the end of my journey, I arrived at a place known as \"The Sea of Flowers at the End.\""
+        },
+        {
+          "sit": "Do you remember? A long time ago, when we traveled between worlds together..."
+        },
+        {
+          "sit": "You told me... You wanted to find a place in the universe where that one flower was in full bloom."
+        },
+        {
+          "sit": "To have a place like that suddenly appear before me..."
+        },
+        {
+          "sit": "Well, would you think of that as a coincidence?"
+        },
+        {
+          "sit": "You mean..."
+        },
+        {
+          "sit": "I miss you too, Aether(Lumine)."
+        },
+        {
+          "sit": "But as this war continues to rage, and as I continue to seek that final answer..."
+        },
+        {
+          "sit": "I don't even know how to face myself sometimes... let alone my own brother(sister)."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "What's going on?"
+        },
+        {
+          "sit": "This space has lost its tether... I doubt it'll be able to exist much longer."
+        },
+        {
+          "sit": "In fact, aside from our inability to physically interact with each other, there's something else you should know about this space. With Caribert gone, we won't be able to remember anything that happened here..."
+        },
+        {
+          "sit": "Everything in this space will be wiped from existence... including all memory of our reunion."
+        },
+        {
+          "sit": "You're only telling me this now..."
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "sit": "...!!!"
+        },
+        {
+          "sit": "\"...\""
+        },
+        {
+          "section": "Bahram"
+        },
+        {
+          "s": 1,
+          "t": "*yawn*... So sleepy. Paimon's head still feels all fuzzy..."
+        },
+        {
+          "s": 1,
+          "t": "Paimon woke up a little earlier than you, so Paimon will fill you in. The villagers said they saw us sleeping near the village yesterday. They couldn't wake us up no matter how hard they tried, so they decided to just bring us back here."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and Dain came by just now. It looked like he was injured..."
+        },
+        {
+          "s": 1,
+          "t": "He didn't say anything, though. Just made sure that you were alright and left... Kinda seemed like he had a lot on his mind... But, that's Dain for you..."
+        },
+        {
+          "sit": "He never changes, does he?"
+        },
+        {
+          "sit": "I'm having trouble thinking straight right now..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, let's think for a second. We were in that memory, and we saw that guy you called Caribert..."
+        },
+        {
+          "s": 1,
+          "t": "He was the missing villager we'd been trying to find, right? And after that... Paimon doesn't remember what happened..."
+        },
+        {
+          "sit": "Caribert and I talked for a while..."
+        },
+        {
+          "sit": "He told me about the Loom of Fate."
+        },
+        {
+          "s": 1,
+          "t": "Wait, really? What a score!"
+        },
+        {
+          "sit": "(I guess our commission is complete, then. The missing villager, the person who only existed in people's memories, was Caribert all along...)"
+        },
+        {
+          "sit": "(But, now that he's gone, I'm not sure how to explain things to the villagers...)"
+        },
+        {
+          "s": 1,
+          "t": "Well... What happened after that?"
+        },
+        {
+          "sit": "After that..."
+        },
+        {
+          "sit": "Huh, I can't seem to remember..."
+        },
+        {
+          "sit": "(Maybe I'm just tired? I feel like something else happened, but why can't I remember...?)"
+        },
+        {
+          "sit": "(I'm not sure why... But, it almost feels like I lost something...)"
+        },
+        {
+          "s": 2,
+          "t": "Ah, there you are! Haha, sleep well?"
+        },
+        {
+          "s": 1,
+          "t": "Bahram? You sure seem happy. Did something good happen?"
+        },
+        {
+          "s": 2,
+          "t": "Something good? Hm... wasn't anything good or bad, I'd say."
+        },
+        {
+          "s": 2,
+          "t": "It's just that, well... The village organized another search party yesterday. It didn't feel right to leave all the searching to the adventurers."
+        },
+        {
+          "s": 2,
+          "t": "So there we were, searching away, when suddenly this one guy said it all came back to him..."
+        },
+        {
+          "s": 2,
+          "t": "According to him, one day around dusk, he was passing by this one tree outside the village, and he saw our missing villager."
+        },
+        {
+          "s": 2,
+          "t": "There he was, sleeping under that tree all by himself. His parents came a little later to wake him up, and they all left together. They looked like quite a happy family, apparently."
+        },
+        {
+          "s": 2,
+          "t": "And, after that, well... We all started to feel like that really is what happened... Kinda strange that we forgot all about it for so long..."
+        },
+        {
+          "sit": "(So, that's how Caribert said his goodbyes... That was the last memory he gave them.)"
+        },
+        {
+          "s": 2,
+          "t": "Oh, and we also remembered his name — Caribert. Now, that's not a name you hear everyday. Would've been helpful if we remembered it sooner."
+        },
+        {
+          "sit": "That is a unique name."
+        },
+        {
+          "sit": "Make sure you remember it this time."
+        },
+        {
+          "s": 2,
+          "t": "Well, I hope he's happy wherever he is. And we're all relieved now that we know what happened."
+        },
+        {
+          "s": 1,
+          "t": "Seems like everyone thinks Caribert left the village. That's probably for the best... At least they have some sort of explanation now."
+        },
+        {
+          "sit": "Caribert is gone. The Loom of Fate is now complete..."
+        },
+        {
+          "sit": "And no one else will try to change the villagers' memories."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, Paimon wonders how Atossa's doing. Maybe we should go check on her? If she hasn't \"remembered\" like everyone else, we can tell her what happened."
+        },
+        {
+          "s": 1,
+          "t": "Paimon didn't see her in the village just now, so... She's probably at the tree! C'mon, let's go talk to her!"
+        },
+        {
+          "section": "Atossa"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, Atossa! How's it going?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, it's you two. I was just about to go looking for you. I wanted to thank you."
+        },
+        {
+          "s": 4,
+          "t": "I was part of the search party, so I... remember what happened to Caribert now."
+        },
+        {
+          "s": 4,
+          "t": "Honestly... I just... can't believe I forgot something so important..."
+        },
+        {
+          "sit": "Maybe he wanted you to forget him."
+        },
+        {
+          "sit": "I'm sure he wouldn't want you to forget him."
+        },
+        {
+          "s": 4,
+          "t": "He always seemed to appear out of nowhere, and now... he left just as quickly..."
+        },
+        {
+          "s": 4,
+          "t": "If Caribert wants me to forget about the time we spent together, then I'm willing to try."
+        },
+        {
+          "s": 4,
+          "t": "I relied on him for a lot of things. But, I'm sure with enough time, even the deepest of attachments can fade."
+        },
+        {
+          "sit": "\"You must get along with each other, the two of you.\""
+        }
+      ],
+      "description": "As Dainsleif guessed, the “false memories” are a trap laid by the Abyss Order. The Ley Lines are disturbed again. Something is probably underway once more…"
+    }
+  ],
+  "speakers": [
+    "Katheryne",
+    "Paimon",
+    "Bahram",
+    "Amadhiah",
+    "Atossa",
+    "Dainsleif",
+    "Caribert"
+  ],
+  "hhw_source": "https://gensh.honeyhunterworld.com/ch_1406/?lang=EN",
+  "id": "ch-1406"
+}

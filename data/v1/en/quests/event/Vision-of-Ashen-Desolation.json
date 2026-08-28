@@ -1,0 +1,429 @@
+{
+  "chapter": "Iktomi Spiritseeking Scrolls: Volume II",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Vision of Ashen Desolation",
+  "region": null,
+  "quests": [
+    {
+      "title": "Vision of Ashen Desolation",
+      "dialogue": [
+        {
+          "section": "Ororon"
+        },
+        {
+          "s": 0,
+          "t": "Hey, everyone."
+        },
+        {
+          "s": 1,
+          "t": "Ah, Granny. You're back."
+        },
+        {
+          "s": 0,
+          "t": "So... no good news for me, then?"
+        },
+        {
+          "s": 1,
+          "t": "You saw right through me. {NICKNAME} collected a lot of spirits, and I checked all of them one by one. None of them matches Leyla's description."
+        },
+        {
+          "s": 0,
+          "t": "I figured. It was written all over your face. It's alright, I didn't exactly have high hopes for the needle-in-a-haystack approach anyway."
+        },
+        {
+          "s": 1,
+          "t": "Leyla's condition is still stable, but we're not really getting anywhere."
+        },
+        {
+          "s": 0,
+          "t": "Well, luckily I made some progress on my end. Leyla's parents told me that he made a new friend recently, and apparently, he's been out of the house for days at a time."
+        },
+        {
+          "s": 0,
+          "t": "On one occasion, they secretly followed him, and saw him and his friend tinkering around with something at a camp."
+        },
+        {
+          "sit": "They saw his friend?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, some guy who goes by the name \"Kokuchuu.\" Dressed in what looked like Inazuman attire."
+        },
+        {
+          "s": 2,
+          "t": "Is this really all I'll need, Mr. Kokuchuu?"
+        },
+        {
+          "s": 3,
+          "t": "Based on my studies of the ancient texts, hypersensitivity is usually treated with desensitization therapy. So, I figure there's no reason it shouldn't work in reverse."
+        },
+        {
+          "s": 3,
+          "t": "Now, for a poor chap like yourself, with no sensitivity to spirits whatsoever, you'll have to completely immerse yourself in spiritually rich substances for this to be effective. I'm electing to name this approach \"hypersensitization therapy\"..."
+        },
+        {
+          "s": 2,
+          "t": "...Is it risky?"
+        },
+        {
+          "s": 3,
+          "t": "You're the spirit-duffer, not me. I'm sure you're more clued up than I am on the potential consequences of brute-force clairvoyance. Ultimately, it's your decision."
+        },
+        {
+          "s": 2,
+          "t": "Alright... But I do have one last question... What's in this for you?"
+        },
+        {
+          "s": 2,
+          "t": "People like me obviously don't have much clout in this tribe, so it's not like I can offer you much in return."
+        },
+        {
+          "s": 3,
+          "t": "You think I'm looking for a reward? Oh, my good sir! Take a look at my face. Isn't the answer written here, clear as day?"
+        },
+        {
+          "s": 2,
+          "t": "Uh... What? What's written there...?"
+        },
+        {
+          "s": 3,
+          "t": "\"Just a friendly guy who's happy to help.\""
+        },
+        {
+          "s": 4,
+          "t": "What? So... some random guy from Inazuma just felt like helping Leyla cure his... spirit-duffer... ness?"
+        },
+        {
+          "s": 1,
+          "t": "Hypersensitization therapy, huh... What a novel idea. Could that really work?"
+        },
+        {
+          "s": 4,
+          "t": "Not on Leyla, by the looks of things."
+        },
+        {
+          "s": 0,
+          "t": "Hmph, it's anything but novel. Our tribe used to offer it as a treatment once upon a time, but it was so fraught with risks and had such an abysmal success rate that it was eventually outlawed."
+        },
+        {
+          "s": 0,
+          "t": "As for this Kokuchuu fellow... I'm sure he has his own agenda. He conveniently disappeared right after Leyla got into this mess."
+        },
+        {
+          "s": 0,
+          "t": "Leyla's parents gave me the address of the camp, so I went and checked it out. There were clear traces of spiritual energy, and also... look what I found."
+        },
+        {
+          "s": 1,
+          "t": "What's this?"
+        },
+        {
+          "s": 0,
+          "t": "A broken shard... probably from a weapon or some sort of ceremonial implement."
+        },
+        {
+          "s": 0,
+          "t": "You feel that? It might look old, but it has extremely strong traces of spiritual energy."
+        },
+        {
+          "s": 0,
+          "t": "Leyla must have used this as his medium. It would definitely explain how a spirit-duffer like him was able to trigger a clairvoyant experience."
+        },
+        {
+          "s": 1,
+          "t": "Wait, there's something else... It feels so familiar... I think this is somehow connected to my ancient name..."
+        },
+        {
+          "s": 4,
+          "t": "Connected how? Is it, like, a shard of an ancient name?"
+        },
+        {
+          "s": 1,
+          "t": "No... More like, I think this item might have belonged to a previous bearer of my ancient name."
+        },
+        {
+          "sit": "Perhaps it was Sanhaj?"
+        },
+        {
+          "s": 0,
+          "t": "Okay, that's it, Granny's getting itchy clairvoyance fingers. I'm going to try using this shard as a medium."
+        },
+        {
+          "s": 4,
+          "t": "Cool, same as last time? {NICKNAME} can use the spiritloom to record what you find on a woven scroll."
+        },
+        {
+          "s": 0,
+          "t": "Nope, Ororon can do the recording this time."
+        },
+        {
+          "s": 1,
+          "t": "Why?"
+        },
+        {
+          "s": 0,
+          "t": "It's a safety measure."
+        },
+        {
+          "s": 0,
+          "t": "You have a better understanding of the spirit domain than {NICKNAME}. If this really is a Sanhaj relic, you'll be better placed to deal with the fallout in the event that something goes wrong."
+        },
+        {
+          "s": 1,
+          "t": "Ah... See, Paimon? Told you Granny has a soft spot for {NICKNAME}. Look at her not wanting to put him(her) in danger."
+        },
+        {
+          "s": 1,
+          "t": "Meanwhile, I'm just a grandkid, so I'm expendable."
+        },
+        {
+          "s": 0,
+          "t": "Hey! What are you blabbing on about?"
+        },
+        {
+          "s": 1,
+          "t": "Sorry, Granny. I'm ready now."
+        },
+        {
+          "s": 0,
+          "t": "Then let us begin."
+        },
+        {
+          "s": 4,
+          "t": "Alright! What's on the scroll this time... Looks like a broken bow, covered in flames..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, don't you think one of the pieces looks just like this shard?"
+        },
+        {
+          "s": 4,
+          "t": "You're right! It seems to be from the body of the bow..."
+        },
+        {
+          "s": 1,
+          "t": "I saw a bow just like this in one of Granny's scrolls..."
+        },
+        {
+          "s": 0,
+          "t": "...Yes, it's the weapon Sanhaj used in the Battle of the Mare Jivari. I guess that proves it — this shard is a bona fide Sanhaj relic."
+        },
+        {
+          "s": 1,
+          "t": "Good old Sanhaj... The relic's spiritual energy was fluctuating very strongly, but I wasn't in any danger at all. {NICKNAME} probably would have been fine as well."
+        },
+        {
+          "s": 4,
+          "t": "Now that's a true hero, huh? Generations later, and the stuff he used to own is helping to treat spirit-duffers."
+        },
+        {
+          "s": 0,
+          "t": "I still think there's more to this story, though. Kokuchuu must have had his own motives beyond just treating Leyla's condition."
+        },
+        {
+          "s": 4,
+          "t": "Hmm, well... Okay, we saw the full bow just now, right? Maybe he wanted to see it too, so he could track down the other pieces?"
+        },
+        {
+          "s": 1,
+          "t": "I don't know if he'd have anything to gain by doing that. Even if they're Sanhaj relics, I still doubt he'd have much use for a broken bow."
+        },
+        {
+          "s": 0,
+          "t": "Also, why use a spirit-duffer in that case? You're basically setting yourself up for failure."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Huh? Leyla's body is responding!"
+        },
+        {
+          "s": 0,
+          "t": "Let me take a look. I can sense a spirit being drawn to the relic..."
+        },
+        {
+          "s": 1,
+          "t": "Looks like Granny's plan is working. Leyla's spirit is being drawn to the bait."
+        },
+        {
+          "s": 0,
+          "t": "In that case, let me try again — this time using both Leyla's body and the shard as mediums."
+        },
+        {
+          "s": 1,
+          "t": "You can do it, Granny. I'm ready to go too."
+        },
+        {
+          "sit": "Actually, can I control the spiritloom this time?"
+        },
+        {
+          "s": 0,
+          "t": "You got the itch too, huh?"
+        },
+        {
+          "s": 4,
+          "t": "Plus Ororon went last time. It's only fair to take it in turns."
+        },
+        {
+          "s": 1,
+          "t": "Fine by me. We know it's safe now, so you shouldn't have any problems."
+        },
+        {
+          "s": 0,
+          "t": "Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, if you insist, be my guest. Just let me know when you're ready."
+        },
+        {
+          "section": "Citlali"
+        },
+        {
+          "s": 0,
+          "t": "You ready?"
+        },
+        {
+          "sit": "Let's begin."
+        },
+        {
+          "sit": "I need a little more time."
+        },
+        {
+          "s": 0,
+          "t": "Alright, here goes."
+        },
+        {
+          "section": "Ororon"
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, I'm quite sure the shard is safe. There shouldn't be any danger."
+        },
+        {
+          "section": "Ororon, Citlali"
+        },
+        {
+          "s": 4,
+          "t": "Another image has appeared! This one is... a map!"
+        },
+        {
+          "s": 1,
+          "t": "A map? Of where?"
+        },
+        {
+          "s": 0,
+          "t": "Could it be... the Mare Jivari?"
+        },
+        {
+          "s": 4,
+          "t": "The Mare Jivari!?"
+        },
+        {
+          "s": 0,
+          "t": "The Mare Jivari was reduced to a desolate wasteland after that big battle. Or rather, it became known as the Mare Jivari after what happened there."
+        },
+        {
+          "s": 0,
+          "t": "The ashes of the monsters and warriors who fought there covered the entire battlefield. Sometimes, bone-chilling cries would be heard from the depths. Other times, the whole region would become engulfed in towering flames, drowning out the cries..."
+        },
+        {
+          "s": 0,
+          "t": "That place is full of untold dangers and mysteries. Over the centuries, the finest adventurers have tried to prove themselves by venturing in... Sadly, most ended up perishing there."
+        },
+        {
+          "s": 0,
+          "t": "That lasted up until around twenty or thirty years ago, when strange things started happening. People started speaking of an enormous, dark creature the size of a mountain roaming inside the Mare Jivari..."
+        },
+        {
+          "s": 0,
+          "t": "And then, shortly after that, the whole region just completely disappeared. Nobody knows how, but that infamously ominous place just vanished from the face of the world."
+        },
+        {
+          "s": 4,
+          "t": "What!? How the heck!?"
+        },
+        {
+          "s": 0,
+          "t": "I know, right? Anyway, if I'm not mistaken, the place indicated on this map is where it used to be before it disappeared."
+        },
+        {
+          "sit": "And where is that?"
+        },
+        {
+          "s": 0,
+          "t": "At the westernmost part of Natlan. It's a very remote location, far away from any of the tribes. There never used to be a settlement there, but there's been more people since the Mare Jivari disappeared."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, that's just what I've heard. I've never been there myself."
+        },
+        {
+          "s": 0,
+          "t": "This is what age does to you. The older you get, the less adventurous you become."
+        },
+        {
+          "s": 1,
+          "t": "That's just an excuse. Granny's too lazy to take a trip that far away..."
+        },
+        {
+          "s": 0,
+          "t": "Hold on a second! There's a spirit approaching the shard and the woven scroll!"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Ooh! Leyla's body is responding again!"
+        },
+        {
+          "s": 0,
+          "t": "Quite a strong reaction this time. Does this mean what he was really seeking was the Mare Jivari's location?"
+        },
+        {
+          "s": 1,
+          "t": "I sense it too... There's a soul nearby — almost a complete one."
+        },
+        {
+          "s": 4,
+          "t": "Eek! This is creeping Paimon out..."
+        },
+        {
+          "s": 0,
+          "t": "Seems like the plan is working."
+        },
+        {
+          "s": 4,
+          "t": "So, um... can we just wake him up now?"
+        },
+        {
+          "s": 0,
+          "t": "Not today. You might think bringing a spirit back into its body is like pouring water from one bottle into another, but it's far more complicated than that."
+        },
+        {
+          "s": 0,
+          "t": "I need to borrow a ceremonial sword, and make some other preparations. It'll take me about two days."
+        },
+        {
+          "s": 0,
+          "t": "But don't worry, now that his spirit's returned, there's just one step left. Let's meet up again in two days."
+        }
+      ],
+      "description": "In order to help Leyla find his spirit, Citlali plans to get more info from within the tribe, but how successful was she…?"
+    }
+  ],
+  "speakers": [
+    "Citlali",
+    "Ororon",
+    "Leyla",
+    "Enjou",
+    "Paimon"
+  ],
+  "id": "q-40172"
+}

@@ -1,0 +1,705 @@
+{
+  "name": "暗铁剑",
+  "rarity": 3,
+  "type": "单手剑",
+  "base_atk": 39,
+  "passive": {
+    "name": "过载",
+    "refinements": {
+      "R1": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高20%。",
+      "R2": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高25%。",
+      "R3": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高30%。",
+      "R4": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高35%。",
+      "R5": "触发超载、超导、星超导、感电、原激化、超激化、超绽放、月感电或雷元素扩散反应后的12秒内，攻击力提高40%。"
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 39,
+      "substat": "Elemental Mastery",
+      "substat_value": 30.6
+    },
+    {
+      "level": 2,
+      "base_atk": 42,
+      "substat": "Elemental Mastery",
+      "substat_value": 30.6
+    },
+    {
+      "level": 3,
+      "base_atk": 45,
+      "substat": "Elemental Mastery",
+      "substat_value": 30.6
+    },
+    {
+      "level": 4,
+      "base_atk": 48,
+      "substat": "Elemental Mastery",
+      "substat_value": 30.6
+    },
+    {
+      "level": 5,
+      "base_atk": 50,
+      "substat": "Elemental Mastery",
+      "substat_value": 35.6
+    },
+    {
+      "level": 6,
+      "base_atk": 53,
+      "substat": "Elemental Mastery",
+      "substat_value": 35.6
+    },
+    {
+      "level": 7,
+      "base_atk": 56,
+      "substat": "Elemental Mastery",
+      "substat_value": 35.6
+    },
+    {
+      "level": 8,
+      "base_atk": 59,
+      "substat": "Elemental Mastery",
+      "substat_value": 35.6
+    },
+    {
+      "level": 9,
+      "base_atk": 62,
+      "substat": "Elemental Mastery",
+      "substat_value": 35.6
+    },
+    {
+      "level": 10,
+      "base_atk": 65,
+      "substat": "Elemental Mastery",
+      "substat_value": 41.7
+    },
+    {
+      "level": 11,
+      "base_atk": 68,
+      "substat": "Elemental Mastery",
+      "substat_value": 41.7
+    },
+    {
+      "level": 12,
+      "base_atk": 71,
+      "substat": "Elemental Mastery",
+      "substat_value": 41.7
+    },
+    {
+      "level": 13,
+      "base_atk": 74,
+      "substat": "Elemental Mastery",
+      "substat_value": 41.7
+    },
+    {
+      "level": 14,
+      "base_atk": 77,
+      "substat": "Elemental Mastery",
+      "substat_value": 41.7
+    },
+    {
+      "level": 15,
+      "base_atk": 79,
+      "substat": "Elemental Mastery",
+      "substat_value": 47.9
+    },
+    {
+      "level": 16,
+      "base_atk": 82,
+      "substat": "Elemental Mastery",
+      "substat_value": 47.9
+    },
+    {
+      "level": 17,
+      "base_atk": 85,
+      "substat": "Elemental Mastery",
+      "substat_value": 47.9
+    },
+    {
+      "level": 18,
+      "base_atk": 88,
+      "substat": "Elemental Mastery",
+      "substat_value": 47.9
+    },
+    {
+      "level": 19,
+      "base_atk": 91,
+      "substat": "Elemental Mastery",
+      "substat_value": 47.9
+    },
+    {
+      "level": 20,
+      "base_atk": 94,
+      "substat": "Elemental Mastery",
+      "substat_value": 54.1
+    },
+    {
+      "level": 21,
+      "base_atk": 116,
+      "substat": "Elemental Mastery",
+      "substat_value": 54.1
+    },
+    {
+      "level": 22,
+      "base_atk": 119,
+      "substat": "Elemental Mastery",
+      "substat_value": 54.1
+    },
+    {
+      "level": 23,
+      "base_atk": 122,
+      "substat": "Elemental Mastery",
+      "substat_value": 54.1
+    },
+    {
+      "level": 24,
+      "base_atk": 125,
+      "substat": "Elemental Mastery",
+      "substat_value": 54.1
+    },
+    {
+      "level": 25,
+      "base_atk": 127,
+      "substat": "Elemental Mastery",
+      "substat_value": 60.3
+    },
+    {
+      "level": 26,
+      "base_atk": 130,
+      "substat": "Elemental Mastery",
+      "substat_value": 60.3
+    },
+    {
+      "level": 27,
+      "base_atk": 133,
+      "substat": "Elemental Mastery",
+      "substat_value": 60.3
+    },
+    {
+      "level": 28,
+      "base_atk": 136,
+      "substat": "Elemental Mastery",
+      "substat_value": 60.3
+    },
+    {
+      "level": 29,
+      "base_atk": 139,
+      "substat": "Elemental Mastery",
+      "substat_value": 60.3
+    },
+    {
+      "level": 30,
+      "base_atk": 141,
+      "substat": "Elemental Mastery",
+      "substat_value": 66.4
+    },
+    {
+      "level": 31,
+      "base_atk": 144,
+      "substat": "Elemental Mastery",
+      "substat_value": 66.4
+    },
+    {
+      "level": 32,
+      "base_atk": 147,
+      "substat": "Elemental Mastery",
+      "substat_value": 66.4
+    },
+    {
+      "level": 33,
+      "base_atk": 150,
+      "substat": "Elemental Mastery",
+      "substat_value": 66.4
+    },
+    {
+      "level": 34,
+      "base_atk": 153,
+      "substat": "Elemental Mastery",
+      "substat_value": 66.4
+    },
+    {
+      "level": 35,
+      "base_atk": 155,
+      "substat": "Elemental Mastery",
+      "substat_value": 72.6
+    },
+    {
+      "level": 36,
+      "base_atk": 158,
+      "substat": "Elemental Mastery",
+      "substat_value": 72.6
+    },
+    {
+      "level": 37,
+      "base_atk": 161,
+      "substat": "Elemental Mastery",
+      "substat_value": 72.6
+    },
+    {
+      "level": 38,
+      "base_atk": 164,
+      "substat": "Elemental Mastery",
+      "substat_value": 72.6
+    },
+    {
+      "level": 39,
+      "base_atk": 166,
+      "substat": "Elemental Mastery",
+      "substat_value": 72.6
+    },
+    {
+      "level": 40,
+      "base_atk": 169,
+      "substat": "Elemental Mastery",
+      "substat_value": 78.8
+    },
+    {
+      "level": 41,
+      "base_atk": 191,
+      "substat": "Elemental Mastery",
+      "substat_value": 78.8
+    },
+    {
+      "level": 42,
+      "base_atk": 194,
+      "substat": "Elemental Mastery",
+      "substat_value": 78.8
+    },
+    {
+      "level": 43,
+      "base_atk": 197,
+      "substat": "Elemental Mastery",
+      "substat_value": 78.8
+    },
+    {
+      "level": 44,
+      "base_atk": 200,
+      "substat": "Elemental Mastery",
+      "substat_value": 78.8
+    },
+    {
+      "level": 45,
+      "base_atk": 202,
+      "substat": "Elemental Mastery",
+      "substat_value": 85.0
+    },
+    {
+      "level": 46,
+      "base_atk": 205,
+      "substat": "Elemental Mastery",
+      "substat_value": 85.0
+    },
+    {
+      "level": 47,
+      "base_atk": 208,
+      "substat": "Elemental Mastery",
+      "substat_value": 85.0
+    },
+    {
+      "level": 48,
+      "base_atk": 211,
+      "substat": "Elemental Mastery",
+      "substat_value": 85.0
+    },
+    {
+      "level": 49,
+      "base_atk": 213,
+      "substat": "Elemental Mastery",
+      "substat_value": 85.0
+    },
+    {
+      "level": 50,
+      "base_atk": 216,
+      "substat": "Elemental Mastery",
+      "substat_value": 91.2
+    },
+    {
+      "level": 51,
+      "base_atk": 238,
+      "substat": "Elemental Mastery",
+      "substat_value": 91.2
+    },
+    {
+      "level": 52,
+      "base_atk": 241,
+      "substat": "Elemental Mastery",
+      "substat_value": 91.2
+    },
+    {
+      "level": 53,
+      "base_atk": 244,
+      "substat": "Elemental Mastery",
+      "substat_value": 91.2
+    },
+    {
+      "level": 54,
+      "base_atk": 246,
+      "substat": "Elemental Mastery",
+      "substat_value": 91.2
+    },
+    {
+      "level": 55,
+      "base_atk": 249,
+      "substat": "Elemental Mastery",
+      "substat_value": 97.3
+    },
+    {
+      "level": 56,
+      "base_atk": 252,
+      "substat": "Elemental Mastery",
+      "substat_value": 97.3
+    },
+    {
+      "level": 57,
+      "base_atk": 255,
+      "substat": "Elemental Mastery",
+      "substat_value": 97.3
+    },
+    {
+      "level": 58,
+      "base_atk": 257,
+      "substat": "Elemental Mastery",
+      "substat_value": 97.3
+    },
+    {
+      "level": 59,
+      "base_atk": 260,
+      "substat": "Elemental Mastery",
+      "substat_value": 97.3
+    },
+    {
+      "level": 60,
+      "base_atk": 263,
+      "substat": "Elemental Mastery",
+      "substat_value": 103.5
+    },
+    {
+      "level": 61,
+      "base_atk": 285,
+      "substat": "Elemental Mastery",
+      "substat_value": 103.5
+    },
+    {
+      "level": 62,
+      "base_atk": 288,
+      "substat": "Elemental Mastery",
+      "substat_value": 103.5
+    },
+    {
+      "level": 63,
+      "base_atk": 290,
+      "substat": "Elemental Mastery",
+      "substat_value": 103.5
+    },
+    {
+      "level": 64,
+      "base_atk": 293,
+      "substat": "Elemental Mastery",
+      "substat_value": 103.5
+    },
+    {
+      "level": 65,
+      "base_atk": 296,
+      "substat": "Elemental Mastery",
+      "substat_value": 109.7
+    },
+    {
+      "level": 66,
+      "base_atk": 298,
+      "substat": "Elemental Mastery",
+      "substat_value": 109.7
+    },
+    {
+      "level": 67,
+      "base_atk": 301,
+      "substat": "Elemental Mastery",
+      "substat_value": 109.7
+    },
+    {
+      "level": 68,
+      "base_atk": 304,
+      "substat": "Elemental Mastery",
+      "substat_value": 109.7
+    },
+    {
+      "level": 69,
+      "base_atk": 306,
+      "substat": "Elemental Mastery",
+      "substat_value": 109.7
+    },
+    {
+      "level": 70,
+      "base_atk": 309,
+      "substat": "Elemental Mastery",
+      "substat_value": 115.9
+    },
+    {
+      "level": 71,
+      "base_atk": 331,
+      "substat": "Elemental Mastery",
+      "substat_value": 115.9
+    },
+    {
+      "level": 72,
+      "base_atk": 334,
+      "substat": "Elemental Mastery",
+      "substat_value": 115.9
+    },
+    {
+      "level": 73,
+      "base_atk": 337,
+      "substat": "Elemental Mastery",
+      "substat_value": 115.9
+    },
+    {
+      "level": 74,
+      "base_atk": 339,
+      "substat": "Elemental Mastery",
+      "substat_value": 115.9
+    },
+    {
+      "level": 75,
+      "base_atk": 342,
+      "substat": "Elemental Mastery",
+      "substat_value": 122.0
+    },
+    {
+      "level": 76,
+      "base_atk": 345,
+      "substat": "Elemental Mastery",
+      "substat_value": 122.0
+    },
+    {
+      "level": 77,
+      "base_atk": 347,
+      "substat": "Elemental Mastery",
+      "substat_value": 122.0
+    },
+    {
+      "level": 78,
+      "base_atk": 350,
+      "substat": "Elemental Mastery",
+      "substat_value": 122.0
+    },
+    {
+      "level": 79,
+      "base_atk": 353,
+      "substat": "Elemental Mastery",
+      "substat_value": 122.0
+    },
+    {
+      "level": 80,
+      "base_atk": 355,
+      "substat": "Elemental Mastery",
+      "substat_value": 128.2
+    },
+    {
+      "level": 81,
+      "base_atk": 377,
+      "substat": "Elemental Mastery",
+      "substat_value": 128.2
+    },
+    {
+      "level": 82,
+      "base_atk": 380,
+      "substat": "Elemental Mastery",
+      "substat_value": 128.2
+    },
+    {
+      "level": 83,
+      "base_atk": 383,
+      "substat": "Elemental Mastery",
+      "substat_value": 128.2
+    },
+    {
+      "level": 84,
+      "base_atk": 385,
+      "substat": "Elemental Mastery",
+      "substat_value": 128.2
+    },
+    {
+      "level": 85,
+      "base_atk": 388,
+      "substat": "Elemental Mastery",
+      "substat_value": 134.4
+    },
+    {
+      "level": 86,
+      "base_atk": 391,
+      "substat": "Elemental Mastery",
+      "substat_value": 134.4
+    },
+    {
+      "level": 87,
+      "base_atk": 393,
+      "substat": "Elemental Mastery",
+      "substat_value": 134.4
+    },
+    {
+      "level": 88,
+      "base_atk": 396,
+      "substat": "Elemental Mastery",
+      "substat_value": 134.4
+    },
+    {
+      "level": 89,
+      "base_atk": 399,
+      "substat": "Elemental Mastery",
+      "substat_value": 134.4
+    },
+    {
+      "level": 90,
+      "base_atk": 401,
+      "substat": "Elemental Mastery",
+      "substat_value": 140.6
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 5000,
+      "items": [
+        {
+          "name": "孤云寒林的光砂",
+          "id": 114013,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "猎兵祭刀",
+          "id": 112029,
+          "count": 2,
+          "rank": 2
+        },
+        {
+          "name": "破损的面具",
+          "id": 112005,
+          "count": 1,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "孤云寒林的辉岩",
+          "id": 114014,
+          "count": 2,
+          "rank": 3
+        },
+        {
+          "name": "猎兵祭刀",
+          "id": 112029,
+          "count": 8,
+          "rank": 2
+        },
+        {
+          "name": "破损的面具",
+          "id": 112005,
+          "count": 5,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 15000,
+      "items": [
+        {
+          "name": "孤云寒林的辉岩",
+          "id": 114014,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "特工祭刀",
+          "id": 112030,
+          "count": 4,
+          "rank": 3
+        },
+        {
+          "name": "污秽的面具",
+          "id": 112006,
+          "count": 4,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "孤云寒林的圣骸",
+          "id": 114015,
+          "count": 2,
+          "rank": 4
+        },
+        {
+          "name": "特工祭刀",
+          "id": 112030,
+          "count": 8,
+          "rank": 3
+        },
+        {
+          "name": "污秽的面具",
+          "id": 112006,
+          "count": 6,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 25000,
+      "items": [
+        {
+          "name": "孤云寒林的圣骸",
+          "id": 114015,
+          "count": 4,
+          "rank": 4
+        },
+        {
+          "name": "督察长祭刀",
+          "id": 112031,
+          "count": 6,
+          "rank": 4
+        },
+        {
+          "name": "不祥的面具",
+          "id": 112007,
+          "count": 4,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "孤云寒林的神体",
+          "id": 114016,
+          "count": 3,
+          "rank": 5
+        },
+        {
+          "name": "督察长祭刀",
+          "id": 112031,
+          "count": 12,
+          "rank": 4
+        },
+        {
+          "name": "不祥的面具",
+          "id": 112007,
+          "count": 8,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "11304"
+}

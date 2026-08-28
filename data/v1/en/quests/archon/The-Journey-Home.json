@@ -1,0 +1,4463 @@
+{
+  "chapter": "Song of the Welkin Moon",
+  "chapter_title": null,
+  "act": "Prelude",
+  "act_title": "The Journey Home",
+  "region": "Nod-Krai",
+  "quests": [
+    {
+      "title": "Flamelets",
+      "dialogue": [
+        {
+          "section": "Chasca"
+        },
+        {
+          "s": 0,
+          "t": "...Okay, she's all patched up. Where did you say you found her? How'd she get wounded so badly?"
+        },
+        {
+          "s": 1,
+          "t": "Just on the beach, not far from here. It was the usual suspects..."
+        },
+        {
+          "s": 2,
+          "t": "Hey, Chasca! What's going on over here?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Paimon? And \"Tuma{RUBY#[S]Hope}ini\"?"
+        },
+        {
+          "s": 0,
+          "t": "Oh hey, it's you two. Been a while."
+        },
+        {
+          "s": 0,
+          "t": "No way, the one and only \"Tuma{RUBY#[S]Hope}ini\"? Wow. Real nice to meet you."
+        },
+        {
+          "s": 3,
+          "t": "Nice to meet you, bro!"
+        },
+        {
+          "s": 2,
+          "t": "Qucu-Thesaurus!"
+        },
+        {
+          "s": 2,
+          "t": "Wow, a talking saurian!"
+        },
+        {
+          "s": 0,
+          "t": "Haha, don't give him too much credit. He just parrots what he hears."
+        },
+        {
+          "s": 1,
+          "t": "Allow me to introduce Ifa, a vet from my tribe, and his... assistant, Cacucu. I'm actually impressed that you've managed to visit us this many times without bumping into them."
+        },
+        {
+          "s": 0,
+          "t": "Eh, I guess we've all been pretty busy. \"Tuma{RUBY#[S]Hope}ini\" for obvious reasons, and I've had a heck of a lot of callouts lately."
+        },
+        {
+          "sit": "Were you doing some first aid just now?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah. Thankfully, Chasca got her to me in good time, so I think she'll pull through."
+        },
+        {
+          "s": 4,
+          "t": "Squawk..."
+        },
+        {
+          "s": 1,
+          "t": "She was attacked by secret source automatons. I was on patrol nearby, so luckily for her, I was able to get her to safety. The automatons weren't so lucky."
+        },
+        {
+          "s": 0,
+          "t": "Them again, huh? What is it with those maniacal machines? I'm gettin' real tired of their antics..."
+        },
+        {
+          "s": 3,
+          "t": "Real tired, bro! Real tired!"
+        },
+        {
+          "s": 2,
+          "t": "Secret source automatons? That's strange. We've come across those before, but definitely not around these parts..."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, who knows what's gotten into them recently. They've been attacking saurians and merchants on the outskirts of our territory."
+        },
+        {
+          "sit": "Would you like us to help?"
+        },
+        {
+          "s": 1,
+          "t": "No need. You've already done plenty by getting the Abyss off our backs. Without them draining our resources, our warriors can handle these rustbuckets, no problem."
+        },
+        {
+          "s": 1,
+          "t": "Besides, like our ancestors used to say: \"One's own nest is one's own to protect.\" We can't go dumping all our problems onto you."
+        },
+        {
+          "s": 2,
+          "t": "C'mon, what happened to \"birds of a feather\"? We're your friends! Plus, we'll be leaving for Nod-Krai soon, so y'know... while we're still here..."
+        },
+        {
+          "sit": "It'd be nice to spend some time together."
+        },
+        {
+          "sit": "Not like we have anything else to do..."
+        },
+        {
+          "s": 1,
+          "t": "Huh, fair point... It's been a while since we got to fight together. One last hurrah, then, for old time's sake? We could hit the beach. The automatons have been pretty active there lately."
+        },
+        {
+          "s": 2,
+          "t": "Awesome! Let's go, let's go!"
+        },
+        {
+          "s": 0,
+          "t": "*sigh* If hunting down war machines is just sport to you, you guys really are built different. Still, guess I should tag along too — just on the off-chance someone ends up getting carried away..."
+        },
+        {
+          "s": 3,
+          "t": "No way, bro!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "sit": "A short while earlier..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...Where are they..."
+        },
+        {
+          "s": 5,
+          "t": "...Must... find... them..."
+        },
+        {
+          "s": 6,
+          "t": "Beep... beep... beep..."
+        },
+        {
+          "s": 5,
+          "t": "...{NICKNAME}... Paimon..."
+        },
+        {
+          "s": 5,
+          "t": "...Then... return home..."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 1,
+          "t": "Phew... Ifa, how's it looking? Is she badly hurt?"
+        },
+        {
+          "s": 0,
+          "t": "Hard to say... You might wanna see this for yourselves. A vet treating a human is one thing, but... I'm not sure I'm qualified for this."
+        },
+        {
+          "s": 3,
+          "t": "You call that a human? Bro!"
+        },
+        {
+          "s": 2,
+          "t": "Whoa, okay... she's... a machine?"
+        },
+        {
+          "s": 1,
+          "t": "A machine built to look like a human, I guess...? Is this a new model of automaton?"
+        },
+        {
+          "s": 5,
+          "t": "...Return... home..."
+        },
+        {
+          "s": 2,
+          "t": "She spoke!"
+        },
+        {
+          "s": 5,
+          "t": "...Paimon ...{NICKNAME}..."
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "s": 2,
+          "t": "What!? Y—You heard that too, right?"
+        },
+        {
+          "sit": "Yeah... loud and clear."
+        },
+        {
+          "sit": "She said our names..."
+        },
+        {
+          "s": 0,
+          "t": "...Take a look at this. I found it on the ground next to her. See the picture on top? That's... you guys, right?"
+        },
+        {
+          "s": 2,
+          "t": "Really!? ...Wait, a blond person with a white balloon? That can't be right!"
+        },
+        {
+          "sit": "It's definitely right."
+        },
+        {
+          "s": 3,
+          "t": "You bet, bro!"
+        },
+        {
+          "s": 0,
+          "t": "There's also a cipher disk on it. I guess it needs a code to unlock it."
+        },
+        {
+          "s": 1,
+          "t": "Heh... We have two gunslingers here, can't we just blast it open?"
+        },
+        {
+          "s": 0,
+          "t": "I wouldn't risk it. I've seen the Scions of the Canopy use similar devices when they're sending confidential messages."
+        },
+        {
+          "s": 0,
+          "t": "If you put in the wrong code or try to open it by force, it triggers a self-destruct mechanism inside."
+        },
+        {
+          "sit": "So is this message supposed to be for me?"
+        },
+        {
+          "s": 1,
+          "t": "Sure looks that way... question is, who's the messenger?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "I guess if we want answers..."
+        },
+        {
+          "sit": "We have to wake her up somehow."
+        },
+        {
+          "s": 1,
+          "t": "So, we gotta revive a hi-tech humanoid and crack open a cryptex... I only know one person with that kind of expertise. Shall we?"
+        },
+        {
+          "s": 2,
+          "t": "Sounds like a plan! Time to head to the Children of Echoes and find Xilonen!"
+        },
+        {
+          "s": 3,
+          "t": "You bet, bro!"
+        },
+        {
+          "s": 7,
+          "t": "...Hmph."
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 1,
+          "t": "Do you know if Xilonen— Oh, you're up. I figured you'd be taking a nap at this hour."
+        },
+        {
+          "s": 8,
+          "t": "*yawn* Yeah, perfect. First Mavuika, now Chasca... Did you come all this way just to make fun of me?"
+        },
+        {
+          "s": 2,
+          "t": "Whoa, what a mess... You, uh, looking for something?"
+        },
+        {
+          "s": 8,
+          "t": "I have those secret source automatons to thank for all this... Mavuika wants me to come up with a solution. It's like she thinks I'm a miracle-worker, or something."
+        },
+        {
+          "s": 8,
+          "t": "But I'm not, so to make up for the difference, I've been spending all day sifting through documentation... What about you guys, huh? What curveball have you come to throw at me today?"
+        },
+        {
+          "s": 2,
+          "t": "Hehe... Well, um..."
+        },
+        {
+          "s": 8,
+          "t": "Hold up... is she... a robot?"
+        },
+        {
+          "s": 1,
+          "t": "We picked her up on the beach near the Flower-Feather Clan, along with this cryptex. Seems like a message intended for {NICKNAME}."
+        },
+        {
+          "s": 8,
+          "t": "A cryptex? Huh, still in one piece — I'm surprised you didn't try and blast it open. Let's see here... a Fontainian cipher disk... metal case from Liyue..."
+        },
+        {
+          "s": 8,
+          "t": "Looks like this was cobbled together from spare parts... Although, the inner workings are pretty intricately designed. It's a good thing you didn't try and brute force it."
+        },
+        {
+          "sit": "Can you crack it?"
+        },
+        {
+          "s": 8,
+          "t": "Could be a tricky one, since it uses a combination of several different technologies. I could find out more by disassembling it, but that could potentially damage the contents."
+        },
+        {
+          "s": 8,
+          "t": "I'm assuming it's not worth the risk, right? Must be a pretty important message if this is how they chose to transport it."
+        },
+        {
+          "s": 1,
+          "t": "The only other option is to get our messenger to tell us the code. Is that doable? Can you wake her up?"
+        },
+        {
+          "s": 8,
+          "t": "...The device in her chest looks pretty similar to the core you'd find on a secret source automaton. But the other components... I've never seen anything like them in Natlan before."
+        },
+        {
+          "s": 8,
+          "t": "I'll see what I can do. Hang tight for a minute."
+        },
+        {
+          "s": 9,
+          "t": "...I... ne..."
+        },
+        {
+          "s": 9,
+          "t": "...Promise... come home..."
+        },
+        {
+          "s": 2,
+          "t": "...Hey, she woke up!"
+        },
+        {
+          "s": 8,
+          "t": "Huh. All I did was stimulate the core. I did not expect that to work..."
+        },
+        {
+          "sit": "Hey there. Are you alright?"
+        },
+        {
+          "s": 5,
+          "t": "White... flying object... blond Traveler... {NICKNAME}... Paimon?"
+        },
+        {
+          "s": 2,
+          "t": "Wow! You recognize us?"
+        },
+        {
+          "s": 5,
+          "t": "Task in progress: Deliver message to Traveler and white flying companion... Message location confirmed. Status: Delivered."
+        },
+        {
+          "s": 2,
+          "t": "You're pretty smart for a robot... Can you tell us the code for the message?"
+        },
+        {
+          "s": 5,
+          "t": "...Code...?"
+        },
+        {
+          "s": 2,
+          "t": "Oh... Maybe not so smart after all... Um, a code — y'know, like, a number that you put in to unlock the message?"
+        },
+        {
+          "s": 5,
+          "t": "...Memory... missing."
+        },
+        {
+          "s": 2,
+          "t": "What!? Memory missing!?"
+        },
+        {
+          "s": 8,
+          "t": "*sigh*... There's always a snag. Is there anything else you do remember, besides these two?"
+        },
+        {
+          "sit": "Your name, for instance?"
+        },
+        {
+          "s": 5,
+          "t": "Name: ...Memory missing."
+        },
+        {
+          "s": 2,
+          "t": "Not again... Why would her memories be missing? Can robots even get amnesia?"
+        },
+        {
+          "s": 1,
+          "t": "You said something about returning home earlier... Where's home for you? Any memories about that?"
+        },
+        {
+          "s": 5,
+          "t": "Return home... Task in progress..."
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "...Memory missing."
+        },
+        {
+          "s": 2,
+          "t": "Oh... So that's it, then? Her memories are gone for good?"
+        },
+        {
+          "s": 8,
+          "t": "Not necessarily... Judging by her reaction, it's possible that her memory integrity isn't compromised, just locked behind an isolation mechanism..."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, but what does that mean for us, though? In words we can understand."
+        },
+        {
+          "s": 8,
+          "t": "It means, she hasn't \"lost\" her memories. They're in there somewhere, she just can't access them right now."
+        },
+        {
+          "s": 8,
+          "t": "Like... when you know you know something, but the harder you try to remember it, the more it gives you a headache. Is that what's going on?"
+        },
+        {
+          "s": 5,
+          "t": "Finding near-synonyms for \"headache\"... \"Cognition module,\" \"pain.\" Correct."
+        },
+        {
+          "s": 2,
+          "t": "Robots can feel pain too?"
+        },
+        {
+          "s": 8,
+          "t": "Well, pain can be a useful parameter. Experiencing pain is how baby humans and saurians learn what to do and what not to do."
+        },
+        {
+          "s": 8,
+          "t": "In a similar vein, I've heard that a lot of highly autonomous machines are designed with negative feedback mechanisms for behavioral regulation..."
+        },
+        {
+          "s": 2,
+          "t": "Whoa, slow down... Could you simplify that for Paimon?"
+        },
+        {
+          "s": 8,
+          "t": "Okay... If I call it a \"curse,\" is that easier to understand? Imagine you're a bigshot shaman from the Masters of the Night-Wind, and you send your disciple on an errand to the Flower-Feather Clan."
+        },
+        {
+          "s": 8,
+          "t": "To stop him treating it like a vacation, you might put a curse on him that causes a physical and mental breakdown if he strays from the right path. That way, you can be sure he'll stick to the straight and narrow, and won't go frolicking off."
+        },
+        {
+          "s": 2,
+          "t": "Geez... Sounds like the horror-story version of Granny Itztli that parents tell their kids about..."
+        },
+        {
+          "sit": "Citlali would never take a disciple, though..."
+        },
+        {
+          "sit": "Citlali would never do something like that..."
+        },
+        {
+          "s": 8,
+          "t": "The point is, manufacturers often hardwire restrictions like this into autonomous machines to make sure they operate as intended."
+        },
+        {
+          "s": 1,
+          "t": "But why would you curse a machine to lose their memories? What purpose could that possibly serve? ...In her case, all it's done is make it harder for her to complete her tasks."
+        },
+        {
+          "s": 5,
+          "t": "...Task failed. Sincere apologies."
+        },
+        {
+          "s": 8,
+          "t": "Without knowing the exact details of the curse, it's anyone's guess... It seems you responded to the phrase \"return home.\" How about we keep talking and see if any other keywords trigger something for you?"
+        },
+        {
+          "s": 5,
+          "t": "Sure."
+        },
+        {
+          "sit": "Are you alright? It looked like you were in pain before."
+        },
+        {
+          "s": 5,
+          "t": "I'm alright. I have assessed the pain level as \"tolerable.\" I must complete my task."
+        },
+        {
+          "s": 8,
+          "t": "Hey, {NICKNAME}. Have you ever seen a humanoid machine like this anywhere else you've been?"
+        },
+        {
+          "sit": "Hmm... They have humanoid meka in Fontaine..."
+        },
+        {
+          "s": 8,
+          "t": "Ah, of course... Yeah, some of her joints and a few components look pretty Fontainian to me."
+        },
+        {
+          "s": 5,
+          "t": "Fontaine... They make good pastries there."
+        },
+        {
+          "s": 2,
+          "t": "Hey, that triggered something!"
+        },
+        {
+          "sit": "Sounded more like a Paimon reaction than a robot reaction..."
+        },
+        {
+          "s": 2,
+          "t": "Hey! Ugh, never mind that — so, is Fontaine your home?"
+        },
+        {
+          "s": 5,
+          "t": "No."
+        },
+        {
+          "s": 2,
+          "t": "Oh, okay... Well, that's one promising lead nipped in the bud..."
+        },
+        {
+          "sit": "The way you're dressed makes me think of Mondstadt..."
+        },
+        {
+          "s": 8,
+          "t": "You mean, her hairpiece? I think I know what you mean. What do they call them in Mondstadt again?"
+        },
+        {
+          "s": 5,
+          "t": "Mondstadt... The maids there are very hardworking."
+        },
+        {
+          "s": 2,
+          "t": "That's it, a maid! ...Although, as far as Paimon's aware, the maids in Mondstadt are all fully human..."
+        },
+        {
+          "s": 8,
+          "t": "A maid? Okay, that would explain a lot of the internal design choices... So, you're from Mondstadt, then?"
+        },
+        {
+          "s": 5,
+          "t": "No."
+        },
+        {
+          "s": 2,
+          "t": "How come she responds so much faster when the answer is \"no\"?"
+        },
+        {
+          "s": 8,
+          "t": "Natlanese core, Fontainian joints, Mondstadt hairpiece... Maybe no single nation is her home."
+        },
+        {
+          "s": 8,
+          "t": "She's just like the cryptex in that sense. A mishmash of parts from all over the world."
+        },
+        {
+          "s": 1,
+          "t": "In that case... Where exactly is \"home\" to you? Is it where you were built? Where you live most of the time? Or... a place you can always come back to?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "\"Home\" is... just \"home.\" Isn't it?"
+        },
+        {
+          "s": 2,
+          "t": "Uhh... Okay... Feels like this is getting us nowhere. Any other ideas, Xilonen? How do we get her memories back?"
+        },
+        {
+          "s": 8,
+          "t": "If her cognition is impaired, maybe her body is the place to look. I found a lot of interesting things when I was examining her just now."
+        },
+        {
+          "s": 8,
+          "t": "Do you remember this little robot? Apparently, you were together when they found you on the beach."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "Beep beep beep!"
+        },
+        {
+          "s": 5,
+          "t": "Oh!"
+        },
+        {
+          "s": 8,
+          "t": "Nice, so you remember how to switch it on. Now, could you try doing something similar to your right arm?"
+        },
+        {
+          "s": 5,
+          "t": "Is this... a broom?"
+        },
+        {
+          "s": 2,
+          "t": "Wait, she really is a robo-maid!?"
+        },
+        {
+          "s": 8,
+          "t": "Very good indeed! Now then... Could I trouble you to tidy up my workshop?"
+        },
+        {
+          "s": 1,
+          "t": "Are you serious right now?"
+        },
+        {
+          "s": 8,
+          "t": "If she's a robo-maid, maybe doing some household chores will jog her memory. *yawn*... Just this area will do, thanks, no need to tidy the whole workshop."
+        },
+        {
+          "s": 2,
+          "t": "Hey, c'mon! The poor thing's only just woken up. Don't you think this is a bit much?"
+        },
+        {
+          "s": 5,
+          "t": "Understood. Commencing task."
+        },
+        {
+          "section": "Ifa"
+        },
+        {
+          "s": 0,
+          "t": "These automatons... I wonder what lies behind their behavioral patterns?"
+        },
+        {
+          "sit": "Ifa? You're not coming with us?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, sorry dude, I gotta get back to the clinic. That qucusaur we rescued — I'm sure she'll be fine, but I'd best keep an eye on her just in case."
+        },
+        {
+          "s": 0,
+          "t": "...Plus, I don't want poor Cacucu flapping his little wings off trying to keep up with you and Chasca..."
+        },
+        {
+          "s": 3,
+          "t": "No way, bro!"
+        },
+        {
+          "section": "Cacucu"
+        },
+        {
+          "s": 3,
+          "t": "Me? Catch up to Chasca? Is he for real!?"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "Sorting small objects."
+        },
+        {
+          "sit": "Blue Book"
+        },
+        {
+          "sit": "Red Book"
+        },
+        {
+          "sit": "Green Book"
+        },
+        {
+          "s": 5,
+          "t": "\"Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai\"... Clear and concise descriptions of physical motions, but no plot. Category: Martial arts instruction."
+        },
+        {
+          "s": 1,
+          "t": "Wait... Isn't that a light novel that Citlali left here by mistake?"
+        },
+        {
+          "sit": "The books on the table are sorted into piles."
+        },
+        {
+          "section": "Xilonen"
+        },
+        {
+          "s": 2,
+          "t": "She's finally done... Huh? Is that a woven scroll down there? Looks a little dirty... Could you clean it up?"
+        },
+        {
+          "s": 5,
+          "t": "Understood. Cleaning woven scroll."
+        },
+        {
+          "s": 2,
+          "t": "Wow, it's like it's brand new... Hey, this looks like someone from the Children of Echoes. Xilonen, is this a relative of yours?"
+        },
+        {
+          "s": 8,
+          "t": "A relative? No, no, that's Ixquieh, ancient name \"Baraka,\" founder of the Children of Echoes and one of the Six Heroes."
+        },
+        {
+          "s": 2,
+          "t": "Wait, Baraka? Isn't that your ancient name too?"
+        },
+        {
+          "s": 8,
+          "t": "Yup. She was the first recorded bearer of that name."
+        },
+        {
+          "s": 8,
+          "t": "She and her friends went on a mission to defeat the Pyro Dragon. She dismantled many ancient machines built by dragonkind, hoping to put them to use for the good of humanity..."
+        },
+        {
+          "s": 8,
+          "t": "But, most of her research was lost to history. It's a real shame — I'm sure we'd all have much easier lives if we had access to all that tech."
+        },
+        {
+          "s": 2,
+          "t": "What happened? Useful stuff like that normally doesn't just get forgotten..."
+        },
+        {
+          "s": 1,
+          "t": "Och-Kan happened. An old friend of the six who ended up ruling Natlan shortly after the war, and went full tyrant. He despised everything to do with dragonkind, and persecuted everyone who showed any kind of sympathies toward their civilization."
+        },
+        {
+          "s": 1,
+          "t": "He even turned on Ixquieh, one of his closest allies... Ultimately, she took her own life, bringing a once amicable friendship to a tragic end..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 8,
+          "t": "Ixquieh burned her workshop to the ground to make sure Och-Kan couldn't get his hands on it. That's the reason most of her research is lost to history."
+        },
+        {
+          "sit": "...\"Most\"? So some of it survived?"
+        },
+        {
+          "s": 1,
+          "t": "That's right. One of her friends managed to preserve a small amount of her work — the other person you see on that woven scroll... the same person I inherited the ancient name \"Vuka\" from."
+        },
+        {
+          "s": 1,
+          "t": "It's said that she was raised by a dragon mother, then went on to found the Flower-Feather Clan. The uncrowned queen who brought freedom to the weak, and to the persecuted saurians..."
+        },
+        {
+          "s": 1,
+          "t": "...Lianca."
+        },
+        {
+          "s": 10,
+          "t": "...Malfunction."
+        },
+        {
+          "s": 10,
+          "t": "This is not the way. This is not where you belong."
+        },
+        {
+          "s": 10,
+          "t": "Malfunction who betrayed us all... You dare seek a place to belong?"
+        },
+        {
+          "s": 5,
+          "t": "Argh...!"
+        },
+        {
+          "s": 2,
+          "t": "Ah! Wh—What's wrong? Are you okay?"
+        },
+        {
+          "s": 5,
+          "t": "Stay... back!"
+        },
+        {
+          "sit": "Watch out!"
+        },
+        {
+          "s": 2,
+          "t": "Aaaah!!!"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "If she's a robo-maid... Why is she suddenly acting like a lethal weapon?"
+        },
+        {
+          "s": 11,
+          "t": "Aah! What's that sound!? A lightning strike? It's gotta be a lightning strike! ...Ugh, why couldn't it hit Kinich on the head?"
+        },
+        {
+          "s": 12,
+          "t": "...If there was a lightning storm, I'd have thrown you into the sky by now."
+        },
+        {
+          "sit": "...Kinich?"
+        },
+        {
+          "s": 12,
+          "t": "Ifa mentioned that you'd brought a humanoid machine to the Children of Echoes. I'm working a job at the moment, and the description was a good match for my target."
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 12,
+          "t": "\"Humanoid machine,\" \"looks like a maid,\" \"highly destructive\"... Yeah, this is my target alright."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "W—Wait, WAIT! Kinich! Just hold off for a second!"
+        },
+        {
+          "s": 12,
+          "t": "...A group of merchants tasked me with locating their missing travel companion. They should be here soon. Wanna come and meet them?"
+        },
+        {
+          "s": 2,
+          "t": "...Huh?"
+        },
+        {
+          "section": "Zhuoxin"
+        },
+        {
+          "s": 13,
+          "t": "Yay! Ineffa!"
+        },
+        {
+          "s": 5,
+          "t": "...Ineffa...?"
+        },
+        {
+          "s": 14,
+          "t": "Ineffa! They found you at last! ...Thank goodness you're okay..."
+        },
+        {
+          "s": 5,
+          "t": "...My apologies, who are you?"
+        },
+        {
+          "s": 15,
+          "t": "Oh no... Your memory's gone again? Even your name this time?"
+        },
+        {
+          "s": 5,
+          "t": "...\"Again\"?"
+        },
+        {
+          "s": 1,
+          "t": "Liyue, Fontaine, Sumeru... This is quite a diverse crew."
+        },
+        {
+          "s": 8,
+          "t": "So, are you her manufacturers? Or, uh... \"family\"?"
+        },
+        {
+          "s": 16,
+          "t": "No way! None of us have that kind of skill. She's Aino's handiwork..."
+        },
+        {
+          "s": 5,
+          "t": "...Aino?"
+        },
+        {
+          "s": 9,
+          "t": "Hehehehe... From now on, your name's \"Ineffa\"!"
+        },
+        {
+          "s": 9,
+          "t": "Promise me... Remember, you have to come home!"
+        },
+        {
+          "s": 10,
+          "t": "...Malfunction."
+        },
+        {
+          "s": 5,
+          "t": "...Mmph!"
+        },
+        {
+          "s": 13,
+          "t": "Ah! Ineffa! Are you okay!?"
+        },
+        {
+          "s": 14,
+          "t": "Looks like she's getting worse... Is this all our fault?"
+        },
+        {
+          "s": 2,
+          "t": "Can you guys tell us what all this is about? Where are you from? And what's wrong with robo... with Ineffa?"
+        },
+        {
+          "s": 15,
+          "t": "So sorry, I should've introduced myself. My name's Zhuoxin, and I'm a merchant. This is my wife and daughter... and the rest are friends of the family. We're all from Nod-Krai."
+        },
+        {
+          "s": 2,
+          "t": "Nod-Krai!?"
+        },
+        {
+          "s": 1,
+          "t": "Wouldn't have been my first guess... How'd you all meet, exactly?"
+        },
+        {
+          "s": 15,
+          "t": "That's the thing about Nod-Krai... It kind of brings together the drifters from all over the world."
+        },
+        {
+          "s": 17,
+          "t": "Yeah. We're all merchants who ended up finding our feet in Nasha Town, Nod-Krai. It was going okay until all the trouble started..."
+        },
+        {
+          "s": 1,
+          "t": "Trouble?"
+        },
+        {
+          "s": 15,
+          "t": "...The Fatui. They came down from the north."
+        },
+        {
+          "s": 15,
+          "t": "They've made some big moves in Nod-Krai lately. It's caused quite a bit of friction with the local religious groups."
+        },
+        {
+          "s": 17,
+          "t": "That's one way to put it... You know what I heard? They pulled the whole moon down!"
+        },
+        {
+          "s": 16,
+          "t": "That, plus the incident with the moon statues... Surely the Frostmoon Scions aren't going to take all this lying down?"
+        },
+        {
+          "s": 15,
+          "t": "...Anyway, there us regular folks were, just trying to make a steady living while getting increasingly worried that it's gonna turn ugly... In the end, we figured heading back to our respective homes is probably the best thing for now, so we decided to make the journey together."
+        },
+        {
+          "s": 5,
+          "t": "...And me?"
+        },
+        {
+          "s": 15,
+          "t": "Your case is, uh... a little different. But you did come here on the same boat as us."
+        },
+        {
+          "s": 17,
+          "t": "And it was smooth sailing until we got attacked by those weird machines as we were coming into shore..."
+        },
+        {
+          "s": 2,
+          "t": "Weird machines? Secret source automatons, by any chance?"
+        },
+        {
+          "s": 13,
+          "t": "Ineffa saved us all! She jumped off the ship and told us to leave without her..."
+        },
+        {
+          "s": 5,
+          "t": "Really? ...I did that?"
+        },
+        {
+          "s": 14,
+          "t": "...As soon as we'd found another place to dock, we looked around for someone to help us. We'd have paid anything to get her back!"
+        },
+        {
+          "s": 12,
+          "t": "Hence why our price negotiation went so smoothly. However, {NICKNAME} and party were the ones who actually saved Ineffa..."
+        },
+        {
+          "s": 12,
+          "t": "...And Xilonen is the one who woke her up. I'll have to include their costs in the final bill."
+        },
+        {
+          "s": 8,
+          "t": "Oh please, I barely did anything. All credit to Ineffa — she only woke up because of her build quality. ...So, I guess I should say, all credit to this \"Aino,\" then?"
+        },
+        {
+          "s": 8,
+          "t": "Her core is remarkably resilient. It's a rare find, even among Natlan's source mechanisms... Was Aino the one who modified it?"
+        },
+        {
+          "s": 2,
+          "t": "Ooh! If so, then we just need to get Aino to come here and fix her. Then she'll get all her memories back!"
+        },
+        {
+          "s": 15,
+          "t": "Uhh... I'm afraid that's not gonna work. The \"core\" is most likely just something Aino picked up on one of her scavenger hunts. I doubt she did much beyond salvaging it."
+        },
+        {
+          "s": 15,
+          "t": "And as for the memory thing... Ineffa's whole reason for joining us on our journey was to come to Natlan and look for her missing memories."
+        },
+        {
+          "s": 5,
+          "t": "...Please explain in more detail."
+        },
+        {
+          "s": 15,
+          "t": "*sigh*... Alright — although I've lost count of how many times we've been through this. And I'm only telling you what you originally told me..."
+        },
+        {
+          "s": 15,
+          "t": "Although Aino built you, she never could figure out where your core came from or how it works. The only thing she was fairly sure of was that it's not from Nod-Krai..."
+        },
+        {
+          "s": 15,
+          "t": "Things were fine at the start. You'd occasionally forget to pay for your groceries or add salt to a dish you were cooking, but that was as bad as it got..."
+        },
+        {
+          "s": 15,
+          "t": "Until one day, you were sweeping the floor, and suddenly you forgot your own strength... Nearly took the entire wall down!"
+        },
+        {
+          "sit": "(...Sounds similar to what happened just now.)"
+        },
+        {
+          "s": 15,
+          "t": "The worst part of that was, Ineffa had completely forgotten that Aino was on the other side of that wall!"
+        },
+        {
+          "s": 2,
+          "t": "Huh?"
+        },
+        {
+          "s": 15,
+          "t": "Aino was fine, of course, didn't bat an eyelid... But since then, Ineffa has been searching for a way to try and repair herself."
+        },
+        {
+          "sit": "That's a very responsible attitude for a robot..."
+        },
+        {
+          "s": 15,
+          "t": "Anyway, a bunch of mechanical parts from Natlan showed up in Nod-Krai recently, and you noticed they bore some similarities to your core..."
+        },
+        {
+          "s": 15,
+          "t": "Then, you learned that a group of us were planning to return home, stopping off in Natlan on the way... So you tracked us down and joined the crew... Well? Does any of that jog your memory?"
+        },
+        {
+          "s": 5,
+          "t": "...No."
+        },
+        {
+          "s": 15,
+          "t": "*sigh*... Didn't think so."
+        },
+        {
+          "s": 1,
+          "t": "Has her memory loss always been this serious?"
+        },
+        {
+          "s": 15,
+          "t": "No. When we first set off, she'd have the occasional memory lapse, but it only lasted a moment. Didn't really affect anything."
+        },
+        {
+          "s": 15,
+          "t": "I seriously doubt Aino would have let her come on this trip if it'd been that bad. But then, the closer we got to Natlan, the worse her symptoms got..."
+        },
+        {
+          "s": 14,
+          "t": "She was already in a pretty bad state by the time she went to fend off those machine things. And now... I wonder if that battle just made things worse..."
+        },
+        {
+          "s": 13,
+          "t": "Aw... Poor Ineffa..."
+        },
+        {
+          "s": 14,
+          "t": "My friends! I know we've only just arrived in Natlan, but from what I've heard, you're some of this nation's top talents. Is there... anything you can do to cure her? Anything at all?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "Perhaps coming to Natlan was a bad idea after all..."
+        },
+        {
+          "s": 8,
+          "t": "...It's too early to say. Don't forget that before I was interrupted by you guys, I'd just started my deep dive into researching the secret source automatons."
+        },
+        {
+          "s": 12,
+          "t": "My job isn't done yet either. You wanted your travel companion back safe and sound — I still have work to do."
+        },
+        {
+          "s": 1,
+          "t": "So... Why don't y'all stick around here in Natlan a little longer?"
+        },
+        {
+          "s": 1,
+          "t": "Your ship got attacked, and since then you've been scrambling to try and find your missing crew member. Sounds like you need some time to catch your breath."
+        },
+        {
+          "s": 16,
+          "t": "Yeah! I was just thinking, we could do with a breather. But... where would we stay?"
+        },
+        {
+          "s": 1,
+          "t": "How about the Flower-Feather Clan? In my tribe, weary travelers are always welcome."
+        },
+        {
+          "s": 5,
+          "t": "\"Flower-Feather Clan\"..."
+        },
+        {
+          "s": 1,
+          "t": "In the meantime, we'll try and find whatever information we can about Ineffa. After all, she has a message for our \"Tuma{RUBY#[S]Hope}ini,\" so this is as much our business as it is yours."
+        },
+        {
+          "s": 2,
+          "t": "Oh yeah! Paimon had practically forgotten all about that! You guys don't happen to know the code, do you?"
+        },
+        {
+          "s": 15,
+          "t": "Oh, the code for the cryptex? Sorry, Ineffa wouldn't tell us anything about that."
+        },
+        {
+          "s": 2,
+          "t": "You gotta wonder what sort of a person sends a robot with amnesia to deliver their messages..."
+        },
+        {
+          "s": 14,
+          "t": "To be fair, they couldn't have known things would get this bad."
+        },
+        {
+          "s": 13,
+          "t": "Also, Ineffa told me she had a backup plan to make sure she wouldn't forget the code."
+        },
+        {
+          "s": 2,
+          "t": "A backup plan!? Great! So what is it?"
+        },
+        {
+          "s": 5,
+          "t": "Backup plan... Memory missing."
+        },
+        {
+          "sit": "No surprises there..."
+        },
+        {
+          "s": 1,
+          "t": "Huh. Well, as long as we get her memories back, that'll solve everything, right?"
+        },
+        {
+          "s": 8,
+          "t": "Oh yeah, 'cause it's that simple... You do realize I can't promise anything, don't you?"
+        },
+        {
+          "s": 1,
+          "t": "I do... I also know that every time you say that, you end up getting the job done."
+        },
+        {
+          "s": 12,
+          "t": "I'm gonna get in touch with some other people who might be able to help us. \"Tuma{RUBY#[S]Hope}ini,\" Paimon — see you around."
+        },
+        {
+          "s": 2,
+          "t": "Bye, Kinich! ...Oh, and bye, Ajaw!"
+        },
+        {
+          "s": 2,
+          "t": "Actually, that's weird, why's Ajaw so quiet today?"
+        },
+        {
+          "s": 11,
+          "t": "..."
+        },
+        {
+          "s": 12,
+          "t": "...You're being very strange today."
+        },
+        {
+          "s": 11,
+          "t": "Uh... A—Am I? Tell me one strange thing I've said!"
+        },
+        {
+          "s": 12,
+          "t": "That's the strange part. You haven't protested to anything I've done today — not the original price for the job, not the revised timeline, none of it."
+        },
+        {
+          "s": 11,
+          "t": "That's because... because I fainted from your stupidity! You stupefied me into a stupor! Got it!?"
+        },
+        {
+          "s": 12,
+          "t": "..."
+        },
+        {
+          "s": 11,
+          "t": "Hmph..."
+        },
+        {
+          "s": 11,
+          "t": "(Is something wrong with my memory? Or... is that really who I think it is?)"
+        },
+        {
+          "s": 11,
+          "t": "(Hmph, who cares. She isn't my problem.)"
+        },
+        {
+          "sit": "A few days later..."
+        }
+      ],
+      "description": "Natlan seems to have welcomed some unexpected guests…"
+    },
+    {
+      "title": "Smoldering",
+      "dialogue": [
+        {
+          "section": "Little Robot"
+        },
+        {
+          "s": 13,
+          "t": "Um... Do you think Ineffa will like this gift we got her?"
+        },
+        {
+          "s": 6,
+          "t": "Beep-beep."
+        },
+        {
+          "s": 18,
+          "t": "See, see? It said \"Yes\"!"
+        },
+        {
+          "s": 19,
+          "t": "Are you sure? 'Cause when I asked it who's the better hero, Ixquieh or Lianca, it gave the exact same answer..."
+        },
+        {
+          "s": 6,
+          "t": "Beep beep beep!"
+        },
+        {
+          "s": 20,
+          "t": "Hey, you hear that? That's the answer it gave when I asked who'd win in a fight between Cacucu and Ajaw!"
+        },
+        {
+          "s": 2,
+          "t": "You guys, it's just making random beeps!"
+        },
+        {
+          "s": 18,
+          "t": "Whoa! Is that... \"Tuma{RUBY#[S]Hope}ini\" and the flying{RUBY#[D]Paimon} expert?"
+        },
+        {
+          "s": 2,
+          "t": "...Uh, beep beep, yes, it's us! Anyway — where's Ineffa?"
+        },
+        {
+          "s": 19,
+          "t": "Probably out mopping up those mad machines, as usual. There must be a lot of them, 'cause she hardly ever comes back for a rest..."
+        },
+        {
+          "s": 2,
+          "t": "Wait, all by herself? Are we sure that's a good idea after what happened last time...?"
+        },
+        {
+          "s": 19,
+          "t": "Umm, Ineffa said that since she lost her memories, her... \"cognition module's been running more smoothly.\" And it's... \"greatly boosted efficiency in cleaning and tidying tasks\"... I think that was it."
+        },
+        {
+          "s": 2,
+          "t": "Huh... So, losing her memories has somehow made her a better fighter?"
+        },
+        {
+          "s": 20,
+          "t": "She's awesome! I saw her carrying a whole pile of beaten-up machines in one hand!"
+        },
+        {
+          "s": 19,
+          "t": "All the grown-ups say that they feel much safer leaving the house now, thanks to her. So we thought it'd be nice to give her a little gift."
+        },
+        {
+          "s": 20,
+          "t": "We've tried giving her flowers and feathers, but it seemed like she didn't like them very much... That got us thinking — maybe robot people don't like the same things as us."
+        },
+        {
+          "s": 2,
+          "t": "Uh-huh... So that's why you made her this flower out of mechanical parts?"
+        },
+        {
+          "s": 13,
+          "t": "Yeah... we still don't know if she'll like it, though..."
+        },
+        {
+          "s": 18,
+          "t": "It's okay, Adieta! She'll love this one, I'm sure of it!"
+        },
+        {
+          "s": 13,
+          "t": "But... What if she doesn't? This might be my last chance..."
+        },
+        {
+          "sit": "Last chance? What do you mean?"
+        },
+        {
+          "s": 13,
+          "t": "Well... Now that all of my mom and dad's other friends from Nod-Krai have left to go home, it's just us left... And they said today, it's our turn to go home too."
+        },
+        {
+          "s": 2,
+          "t": "Already? Wasn't the plan to stick around until Ineffa gets better?"
+        },
+        {
+          "s": 13,
+          "t": "Dad says everyone back home is expecting us, and he doesn't want us to overstay our welcome here."
+        },
+        {
+          "s": 13,
+          "t": "He thought we should at least make sure Ineffa wasn't getting any worse first, but now that it's been a few days, he says it's time we made a move."
+        },
+        {
+          "s": 13,
+          "t": "To be honest, I can kinda understand. He hasn't been home in so many years. Mom and I can tell that he misses Liyue a lot..."
+        },
+        {
+          "s": 2,
+          "t": "Ah, no wonder... So, what about your mom then? Guessing she's not from Liyue?"
+        },
+        {
+          "s": 13,
+          "t": "No, she's from Nod-Krai. She met my dad after he moved there. I was born there, too."
+        },
+        {
+          "s": 13,
+          "t": "He's been there the whole time I was growing up, so... he hasn't been home in at least ten years."
+        },
+        {
+          "sit": "That's a long time... No wonder he's getting homesick."
+        },
+        {
+          "s": 20,
+          "t": "Don't worry! We'll write to you and let you know how Ineffa's doing!"
+        },
+        {
+          "s": 19,
+          "t": "You bet! And once she's all better, we'll bring her to visit you in Liyue!"
+        },
+        {
+          "s": 18,
+          "t": "Yeah! So don't worry too much about the flower. I'm sure she'll love it, but even if not, you'll have other chances in the future!"
+        },
+        {
+          "s": 6,
+          "t": "Beep beep!"
+        },
+        {
+          "s": 13,
+          "t": "Hmm..."
+        },
+        {
+          "s": 18,
+          "t": "Although... I guess we still need to wait till she gets back. I wonder how much longer she'll be?"
+        },
+        {
+          "s": 20,
+          "t": "Who knows... Seems like she takes longer and longer every time she goes out."
+        },
+        {
+          "s": 19,
+          "t": "Can't we go take it to her? No, wait... the grown-ups would never let us do that. Way too many of those mad machines out there."
+        },
+        {
+          "s": 13,
+          "t": "What am I gonna do? If she doesn't get back soon, I might run out of time..."
+        },
+        {
+          "sit": "I can deliver it to her for you."
+        },
+        {
+          "s": 13,
+          "t": "*gasp* Really? Thanks, \"Tuma{RUBY#[S]Hope}ini\"!"
+        },
+        {
+          "section": "Capac, Kotimy, Yatlan, Adieta"
+        },
+        {
+          "s": 20,
+          "t": "All the grown-ups I know who've been to Liyue say it's a really beautiful place! They have loads of cool toys there too, right?"
+        },
+        {
+          "s": 13,
+          "t": "Umm... I only know what my dad's told me. He said there's a toy seller at Chihu Rock..."
+        },
+        {
+          "s": 19,
+          "t": "Sounds awesome..."
+        },
+        {
+          "s": 18,
+          "t": "Once you get there, you have to write to us and tell us all about it!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "...Threat eliminated. Scanning for next target..."
+        },
+        {
+          "s": 2,
+          "t": "Ineffa!"
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, Paimon... Annihilation mode disengaged. Chat mode activated."
+        },
+        {
+          "s": 2,
+          "t": "Chat mode, huh? You'd probably get along well with a Fontainian magician friend of ours... She does \"modes\" instead of \"moods,\" too."
+        },
+        {
+          "s": 5,
+          "t": "Good morning. Nice to see you again. What lovely weather we're having."
+        },
+        {
+          "sit": "Good morning. Nice to see you again too. It is lovely, isn't it."
+        },
+        {
+          "s": 2,
+          "t": "Hey, don't you start too! One robot's enough!"
+        },
+        {
+          "s": 5,
+          "t": "These are some standard greetings I learned recently. Three greetings in a row equals thrice the greetment. Hypothetically speaking."
+        },
+        {
+          "s": 2,
+          "t": "Where did you get \"greetment\" from...? Never mind, you're doing a whole lot better than the last time we met."
+        },
+        {
+          "s": 5,
+          "t": "Yes. My cognition and language modules are recovering well. I can now sustain fluid conversation."
+        },
+        {
+          "s": 5,
+          "t": "...But I have still been unable to retrieve the memory containing the code to the cryptex. I will keep trying. Sincere apologies."
+        },
+        {
+          "sit": "It's okay, it'll take however long it takes."
+        },
+        {
+          "sit": "Let's see what Xilonen and the others can find out."
+        },
+        {
+          "s": 5,
+          "t": "Yes. Now that a convenient moment to change the topic has presented itself, what is that object in your hand? A new model of source mechanism?"
+        },
+        {
+          "sit": "It's a... \"flower.\" Adieta made it for you."
+        },
+        {
+          "s": 5,
+          "t": "\"Flower\"...? Flowers are plant reproductive organs... But I detect no signs of life."
+        },
+        {
+          "s": 2,
+          "t": "Uh, it's more like a... flower built from mechanical components."
+        },
+        {
+          "s": 5,
+          "t": "Understood. A flower-shaped machine component... What is its function? Which module is it designed for? Is it compatible with my hardware?"
+        },
+        {
+          "s": 2,
+          "t": "Uhh... It doesn't have a \"function,\" it's just for looking at. Y'know... a cute little souvenir."
+        },
+        {
+          "s": 5,
+          "t": "Cute little souvenir... But if it serves no function, for what purpose was it built?"
+        },
+        {
+          "sit": "This conversation just got really deep!"
+        },
+        {
+          "s": 5,
+          "t": "A cryptex is for sending messages, machines are for performing tasks... What about this flower? What is it for?"
+        },
+        {
+          "sit": "I guess... it's to express gratitude."
+        },
+        {
+          "s": 5,
+          "t": "Gratitude?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah. If someone helps you out, you help them back, and if someone gives you a gift, you get them something in return. That's how we show gratitude to other people."
+        },
+        {
+          "s": 5,
+          "t": "...The Flower-Feather Clan took me in, so I'm neutralizing threats near their territory. Like that?"
+        },
+        {
+          "s": 2,
+          "t": "Yes, exactly! You got it! So, it all makes sense now, right?"
+        },
+        {
+          "s": 5,
+          "t": "But... is this not \"tit-for-tat\"? I heard Mr. Kinich use this term."
+        },
+        {
+          "s": 2,
+          "t": "No, that's completely different!"
+        },
+        {
+          "sit": "Ideas like this can take some time to fully grasp."
+        },
+        {
+          "sit": "To start with, will you accept this flower?"
+        },
+        {
+          "s": 5,
+          "t": "...I will. Gratitude."
+        },
+        {
+          "s": 2,
+          "t": "In terms of its purpose... Think of it as a memento of your friendship!"
+        },
+        {
+          "s": 5,
+          "t": "Memento?"
+        },
+        {
+          "sit": "An object that symbolizes an important memory."
+        },
+        {
+          "sit": "It's for remembering something or someone by."
+        },
+        {
+          "s": 5,
+          "t": "Important memory...?"
+        },
+        {
+          "s": 5,
+          "t": "Memento..."
+        },
+        {
+          "s": 21,
+          "t": "Here, wear this flower. And this feather, too... There, much better! Gotta look your best for your big journey!"
+        },
+        {
+          "sit": "(A flower? Why? It'll only increase the total load...)"
+        },
+        {
+          "s": 21,
+          "t": "It's just a flower, it's not that heavy. Just think of it as a little souvenir from me. Something to take with you on the road."
+        },
+        {
+          "sit": "(Souvenir?)"
+        },
+        {
+          "s": 21,
+          "t": "That's right — a souvenir. Sometimes, when people have something important to remember, they'll pick an object to use as a reminder of that thing."
+        },
+        {
+          "s": 21,
+          "t": "Even if you end up forgetting everything, this flower will always keep blooming. It could take a thousand times, maybe two thousand... But maybe one day, you'll see the flower bloom — and suddenly, you'll remember the reason for your journey."
+        },
+        {
+          "sit": "(...Shouldn't I stay here and help you?)"
+        },
+        {
+          "s": 21,
+          "t": "No. Everyone's on their own path, and they have to walk it alone. Just as your journey is yours, and no one else's."
+        },
+        {
+          "s": 21,
+          "t": "Besides, I have no plan to go to war against him. We both owe each other far more than our mere lives... If either of us actually wanted to claim on that debt, all they'd have to do was ask."
+        },
+        {
+          "s": 21,
+          "t": "If anything... I pity him. In a way, his situation's not so different from yours, but in his case, it's turned him into something neither human nor dragon. The more he chases the sun, the more it blinds him to the creatures who live by its light."
+        },
+        {
+          "s": 21,
+          "t": "You were once... well, \"she\" was once the enemy of humankind. And Och-Kan doesn't care to distinguish between you and her like Ixquieh and I do. He sees you as the same being."
+        },
+        {
+          "s": 21,
+          "t": "So if you stay behind — and especially if you help me — it'll only stoke the flames of his blind hatred even further."
+        },
+        {
+          "sit": "(...But...)"
+        },
+        {
+          "s": 21,
+          "t": "*sigh*... Come on, you have bigger things to worry about than me right now. You have a huge journey ahead of you. That should be your focus."
+        },
+        {
+          "s": 21,
+          "t": "Have faith. This tribe will kneel to no one — they will never be slaves. If they lose their leader, someone else will take up the mantle. Heck, even a child who's barely learned how to walk could do it."
+        },
+        {
+          "s": 21,
+          "t": "Alright, time to go. Some things are destined to be forgotten — don't let it get to you. In a thousand years' time, you'll have a life far, far away from here. So, go..."
+        },
+        {
+          "s": 21,
+          "t": "...Cross the ocean. Find a new place to belong."
+        },
+        {
+          "s": 10,
+          "t": "Malfunction who betrayed us all."
+        },
+        {
+          "s": 10,
+          "t": "...You dare seek a place to belong?"
+        },
+        {
+          "s": 2,
+          "t": "...Ineffa! Ineffa! What's wrong?"
+        },
+        {
+          "s": 5,
+          "t": "...I... I was..."
+        },
+        {
+          "s": 5,
+          "t": "...Sincere apologies. My cognition module crashed for a moment. It is now fixed."
+        },
+        {
+          "s": 2,
+          "t": "Is it 'cause you've been fighting for too long? You need to rest. Come on, let's get you back!"
+        },
+        {
+          "s": 5,
+          "t": "Back? ...Back to the Flower-Feather Clan?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, of course... Everything else aside, Adieta and her folks will be leaving soon. Don't you wanna say a proper goodbye?"
+        },
+        {
+          "sit": "...Is something bothering you?"
+        },
+        {
+          "s": 5,
+          "t": "...Yes. The closer I am to the Flower-Feather Clan, the more erratic my cognition module becomes. Occasionally, unidentified data surfaces from my memory banks."
+        },
+        {
+          "sit": "(Ineffa had a similar reaction to this when Xilonen said the name \"Lianca\"...)"
+        },
+        {
+          "s": 2,
+          "t": "Memory data? So... what about that \"curse\" Xilonen mentioned? Does it not hurt to remember anymore?"
+        },
+        {
+          "s": 5,
+          "t": "It does. Even now, it still hurts. I have merely switched off the corresponding facial expressions to avoid making other people uncomfortable."
+        },
+        {
+          "sit": "(Is that the robot equivalent of \"I'm just used to it now\"?)"
+        },
+        {
+          "s": 5,
+          "t": "But if I do not recall my memories, I cannot complete my task."
+        },
+        {
+          "s": 2,
+          "t": "So... is this why you've been spending so much time out here?"
+        },
+        {
+          "s": 5,
+          "t": "...When memory data surfaces, there is a high probability that my cognition module will crash. This constitutes a safety risk. Therefore, I have been spending time away from the tribe."
+        },
+        {
+          "sit": "(A safety risk... like what happened at the Children of Echoes?)"
+        },
+        {
+          "sit": "Come back with us. No need to worry about safety risks with us around."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, exactly! Whatever happens, we'll make sure things don't get out of hand!"
+        },
+        {
+          "sit": "Maybe going back to the tribe will trigger some useful memories."
+        },
+        {
+          "sit": "Adieta would really like to say goodbye to you in person."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "Assessing relative combat capability... Paimon: approximately one-fifth..."
+        },
+        {
+          "s": 2,
+          "t": "One fifth? Of what!?"
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}... Risk mitigated. Strategy accepted."
+        },
+        {
+          "sit": "Great. Let's go!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 15,
+          "t": "I can't thank you enough for hosting us these past few days... And thanks for agreeing to look after Ineffa. I know it's a lot to ask."
+        },
+        {
+          "s": 1,
+          "t": "It's alright. She'll be in good hands."
+        },
+        {
+          "s": 13,
+          "t": "She never came back... I guess I'll have to leave without saying goodbye..."
+        },
+        {
+          "s": 14,
+          "t": "Hey now, you'll see her again! And we have so much to look forward to in Liyue. All those Xiao Lanterns lighting up the sky. You've always wanted to see that!"
+        },
+        {
+          "s": 5,
+          "t": "Adieta, Aamu, Zhuoxin. I am back."
+        },
+        {
+          "s": 13,
+          "t": "Huh... Ineffa? ...You brought her back? Thanks so much!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, don't mention it!"
+        },
+        {
+          "s": 5,
+          "t": "Also... gratitude for the flower."
+        },
+        {
+          "sit": "Adieta says a reluctant goodbye to Ineffa..."
+        },
+        {
+          "s": 5,
+          "t": "What does it feel like... to know where you are returning to?"
+        },
+        {
+          "s": 2,
+          "t": "Hmm? That's a strange question... As soon as you're all better, you'll be returning to Nod-Krai!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, and we forgot to say — we're actually heading there ourselves soon. Maybe we can travel together!"
+        },
+        {
+          "s": 5,
+          "t": "Nod-Krai... is that home?"
+        },
+        {
+          "s": 2,
+          "t": "Huh?"
+        },
+        {
+          "s": 5,
+          "t": "Cognition module unable to define \"home.\""
+        },
+        {
+          "s": 5,
+          "t": "All the memory data that has presented itself recently has been related to Natlan. But the merchants tell me that I have \"family\" waiting for me in Nod-Krai..."
+        },
+        {
+          "s": 5,
+          "t": "If I do recover my memories, which time period will they be from? And will the post-recovery me be the same \"me\" that I am now, or someone different?"
+        },
+        {
+          "s": 2,
+          "t": "Whew... That's a deep question..."
+        },
+        {
+          "s": 1,
+          "t": "What is it that you're afraid of? Are you worried the new you will be so different, you don't even recognize her?"
+        },
+        {
+          "s": 5,
+          "t": "Finding near-synonyms for \"mind\" and \"conflict\"... \"cognition module\"... \"split\"..."
+        },
+        {
+          "s": 5,
+          "t": "...Yes. Once I have been \"split\"... will it change the way I define \"home\"?"
+        },
+        {
+          "s": 1,
+          "t": "Huh... Now that's a tough question. A lot of people, and a lot of saurians, spend their whole lives searching for an answer to that."
+        },
+        {
+          "s": 1,
+          "t": "But if you want my opinion, home is... somewhere you can always return to, wherever that might be."
+        },
+        {
+          "s": 1,
+          "t": "No matter how far you fly, there'll always be someone back there waiting for you. No matter how battered and bruised you get, you can always go back there to rest and recover."
+        },
+        {
+          "s": 1,
+          "t": "I guess you could say, it's somewhere you... belong?"
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 1,
+          "t": "Wherever it is that your memories guide you back to... I'm sure it'll be somewhere you feel safe. Somewhere you feel you belong."
+        },
+        {
+          "s": 1,
+          "t": "Of course, everyone's situation is different, and I don't know how applicable my experience is in your case. But... consider it a reference point, I guess?"
+        },
+        {
+          "s": 5,
+          "t": "...Okay. Recorded under \"reference data.\""
+        },
+        {
+          "s": 1,
+          "t": "Heh, and at the end of the day, I mean, who says you can't have more than one home? There's no law against it."
+        },
+        {
+          "s": 22,
+          "t": "Squawk..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Someone's looking for us? Hopefully, this means there's been some progress."
+        },
+        {
+          "s": 1,
+          "t": "...Don't be afraid to recover your memories. They might contain the answers you're looking for."
+        },
+        {
+          "s": 5,
+          "t": "Got it."
+        },
+        {
+          "s": 10,
+          "t": "...Recover your memories?"
+        },
+        {
+          "s": 10,
+          "t": "Malfunction... Have you forgotten why you cast them away to begin with?"
+        },
+        {
+          "section": "Citlali"
+        },
+        {
+          "s": 2,
+          "t": "Oh, it's Citlali! Didn't think it'd be you."
+        },
+        {
+          "s": 23,
+          "t": "Why? Don't you think I'd want to do my part to help {NICKNAME}? ...And anyway, no one's more qualified than the Masters of the Night-Wind when it comes to Natlan's ancient history."
+        },
+        {
+          "s": 1,
+          "t": "\"Ancient\" history? ...Wow, even by Citlali's standards?"
+        },
+        {
+          "s": 23,
+          "t": "...If you think I didn't hear that, you're sorely mistaken. But anyway, back to the matter at hand. I don't know if you noticed, but Kinich's little sidekick has been acting a little strange around Ineffa."
+        },
+        {
+          "sit": "Ajaw? Yeah, you can say that again."
+        },
+        {
+          "s": 23,
+          "t": "After you parted ways, Kinich put him in timeout for three whole days and nights. Then, he had Ifa send Cacucu to torment him for another night..."
+        },
+        {
+          "sit": "Poor Ajaw!"
+        },
+        {
+          "sit": "He had it coming, though."
+        },
+        {
+          "s": 23,
+          "t": "Finally, Ajaw got so infuriated with Cacucu's pestering that he lost his cool and let slip a crucial piece of information. Two words: \"Sovereign ruler.\""
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Sovereign ruler? So what, isn't that just how he introduces himself?"
+        },
+        {
+          "s": 23,
+          "t": "It is, and I always assumed it was a load of hot air... But apparently not. Turns out, the title refers to the thirteen dragonlords who ruled Natlan in ancient times."
+        },
+        {
+          "sit": "Ooh, I think I've heard of them..."
+        },
+        {
+          "sit": "Hmm, don't think I've heard much about them..."
+        },
+        {
+          "s": 23,
+          "t": "Wait, really? How... It took me forever to figure this out..."
+        },
+        {
+          "s": 23,
+          "t": "Ahem... Anyway, the thirteen sovereign rulers are not ordinary dragons but forms of artificial intelligence created by the Pyro Dragon using secret source technology."
+        },
+        {
+          "s": 23,
+          "t": "They had superior intelligence and greater authority than even the ancient dragons themselves. Each ruled over a portion of Natlan's territory."
+        },
+        {
+          "s": 23,
+          "t": "But one by one, they disappeared during the war with the heroes... Even most of their names are unknown now, long since buried in the sands of time."
+        },
+        {
+          "s": 23,
+          "t": "If we hadn't managed to pry that tidbit out of Ajaw's mouth, I would have had no idea where to even start."
+        },
+        {
+          "s": 1,
+          "t": "I always thought that little monster's biggest claim to fame was arguing with Cacucu for an entire day... He has quite a history then, huh? Which of the thirteen was he?"
+        },
+        {
+          "s": 23,
+          "t": "Not a clue. So far, he has staunchly refused to reveal which of the sovereign rulers he was... My guess is that he doesn't even remember."
+        },
+        {
+          "s": 23,
+          "t": "Remember, these rulers were supposed to be powerful forms of artificial intelligence, and Ajaw... Well, it hardly seems like he's still in his prime. I'll bet he's lost most of his memories and power by now."
+        },
+        {
+          "s": 5,
+          "t": "Lost... memories..."
+        },
+        {
+          "s": 23,
+          "t": "Yet despite that, Ajaw seemed to sense the presence of a fellow sovereign ruler when you were nearby. Specifically, it's the core in your chest he was reacting to."
+        },
+        {
+          "s": 2,
+          "t": "What!? Ineffa's a sovereign ruler too!?"
+        },
+        {
+          "s": 23,
+          "t": "Could be. Kinich and Ifa have been keeping a close watch on Ajaw, in case he reveals anything else. But so far, it seems like those two words are all he remembers."
+        },
+        {
+          "s": 2,
+          "t": "Darn... So the trail's gone cold."
+        },
+        {
+          "s": 23,
+          "t": "Not completely. There's also Lianca and the Flower-Feather Clan, both of which have triggered a response from Ineffa so far. And as it happens, out of the sovereign rulers that I was able to dig up information on, there was one who had a very close relationship with Lianca."
+        },
+        {
+          "s": 23,
+          "t": "Her name was the Priestess of Floral Candles and Skyborne Feathers, otherwise known as the Eighth Lord. She ruled over what is now the Flower-Feather Clan's territory."
+        },
+        {
+          "s": 23,
+          "t": "The records claim that she didn't die in the war with humanity, but was executed by her own kind... Her crime being, betrayal of dragonkind by secretly raising a human — Lianca."
+        },
+        {
+          "s": 2,
+          "t": "Huh!? Chasca, did you know this?"
+        },
+        {
+          "s": 1,
+          "t": "...Some of it... Our tribe's origin story has Lianca being raised by a dragon, and of the Six Heroes, she had the closest relationship with dragonkind."
+        },
+        {
+          "s": 1,
+          "t": "After raising her, her surrogate mother then encouraged her to leave the nest and seek her own path."
+        },
+        {
+          "s": 1,
+          "t": "She traveled far and wide, settling disputes between humans and saurians. She didn't pick sides based on past grievances between humanity and dragonkind. She stood up for the weak, protecting them from those more powerful who sought to exploit them..."
+        },
+        {
+          "s": 1,
+          "t": "Gradually, a community of like-minded people and saurians gathered around her, united by their desire for freedom and equality... And that was how the Flower-Feather Clan began."
+        },
+        {
+          "s": 1,
+          "t": "But that's as much as the legends say. They never mentioned her dragon mother's name, or what became of her in the end..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "...Ineffa?"
+        },
+        {
+          "s": 5,
+          "t": "...Oh. Sorry... My cognition module is acting up again. At some point during this conversation, it started behaving very erratically..."
+        },
+        {
+          "s": 5,
+          "t": "You mentioned that the Priestess of Floral Candles and Skyborne Feathers was \"executed\"... Might I ask how?"
+        },
+        {
+          "s": 23,
+          "t": "Unfortunately, the humans of that time weren't privy to all the details of dragon affairs... The only records we have are vague references from after the fact."
+        },
+        {
+          "s": 23,
+          "t": "It's very possible that this is mere speculation or complete fabrication, so don't give too much weight to it. But for what it's worth — it's said that a curse was placed on the priestess by one of the other rulers:"
+        },
+        {
+          "s": 23,
+          "t": "\"If she truly harbors pro-human sentiment... then for every ounce of goodwill she feels, may her mind be flooded with pain of immeasurable proportions.\""
+        },
+        {
+          "s": 23,
+          "t": "...In the savage conflict and chaos that followed, the priestess's mind was ultimately destroyed."
+        },
+        {
+          "s": 2,
+          "t": "Geez, what a bizarre method of execution... Definitely sounds like the history writers used some artistic license there."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "...Are you okay?"
+        },
+        {
+          "s": 5,
+          "t": "I'm fine... This didn't seem to trigger any erratic behavior. So, do you think that my origins have something to do with this sovereign ruler?"
+        },
+        {
+          "s": 23,
+          "t": "Hmm, interesting... Well, it's hard to say what, if any, direct connection you have to the Eighth Lord. But since the name \"Lianca\" seems to ring a bell for you, why don't you look into it yourself?"
+        },
+        {
+          "s": 23,
+          "t": "I brought some woven scrolls with me that might be useful. Have a look if you're interested. Here, take them, {NICKNAME}."
+        },
+        {
+          "sit": "You mean me...?"
+        },
+        {
+          "s": 23,
+          "t": "(...Don't say anything. In a moment I'm going to leave. I need you to join me, discreetly.)"
+        },
+        {
+          "sit": "(Am I... hearing your thoughts?)"
+        },
+        {
+          "s": 23,
+          "t": "(It's just a little spell based on our prior experience. I'll explain everything shortly when you catch up with me.)"
+        },
+        {
+          "s": 23,
+          "t": "...Well, I need to get going now. If I find out anything more, I'll keep you updated."
+        },
+        {
+          "s": 5,
+          "t": "Gratitude. Goodbye."
+        },
+        {
+          "s": 2,
+          "t": "Bye, Citlali!"
+        },
+        {
+          "section": "Citlali"
+        },
+        {
+          "s": 8,
+          "t": "Hello, {NICKNAME}."
+        },
+        {
+          "sit": "Xilonen? What's going on?"
+        },
+        {
+          "s": 8,
+          "t": "Well, Citlali hasn't told you everything. There's another sovereign ruler that Ineffa might be connected to, not just the one from the Flower-Feather Clan."
+        },
+        {
+          "s": 23,
+          "t": "All trace of this other sovereign ruler was lost after the war. The records claim that in their final battle, they fought against Ixquieh... and Lianca."
+        },
+        {
+          "sit": "What!? Why didn't you say anything?"
+        },
+        {
+          "s": 8,
+          "t": "It was my idea. I suggested we bring up the dragon mother first and see how Ineffa responds. And, well... Citlali has debriefed me on how it went."
+        },
+        {
+          "s": 8,
+          "t": "Apparently, she barely reacted — despite a very strong reaction to the name \"Lianca\"... To me, that says we need to tread very carefully when probing her about the Eleventh Lord."
+        },
+        {
+          "sit": "What about the Eleventh Lord...?"
+        },
+        {
+          "s": 23,
+          "t": "She's the one who went missing after the war. Said to be the proudest of all the sovereign rulers — and the most hostile towards humanity."
+        },
+        {
+          "s": 23,
+          "t": "When the Pyro Dragon fell, she couldn't accept that dragonkind had been defeated. She sank into despair and insanity..."
+        },
+        {
+          "s": 23,
+          "t": "But the rest is lost to history. There's no way to find out what became of her, or even what her name was."
+        },
+        {
+          "s": 8,
+          "t": "Remember, though — in essence, these sovereign rulers weren't physical entities, but pure intelligence, built with secret source technology."
+        },
+        {
+          "s": 8,
+          "t": "I mean, who knows what happens when a manufactured mind goes mad? Maybe she lost her power and memories... maybe she split into different personalities."
+        },
+        {
+          "sit": "Are you saying what I think you're saying?"
+        },
+        {
+          "s": 23,
+          "t": "The point is, if Ineffa really does originate from the Eleventh Lord, then we need to..."
+        },
+        {
+          "s": 1,
+          "t": "What, have her taken out? Because of some baseless speculation? How would that be any different from what they did to Lianca's mother?"
+        },
+        {
+          "s": 23,
+          "t": "Chasca? Wh—What, uh, brings you here...?"
+        },
+        {
+          "s": 1,
+          "t": "Anyone with a brain could see you were up to something back there... Unless it's a Paimon-brain. Or a robot-brain."
+        },
+        {
+          "s": 8,
+          "t": "...Okay, you got us. Actually, we never intended to cut you out of this, it's just that Citlali's spell only works on {NICKNAME}."
+        },
+        {
+          "s": 8,
+          "t": "But Chasca, I'm telling you — we have legitimate concerns here. This is not baseless speculation."
+        },
+        {
+          "s": 8,
+          "t": "Ever since Ineffa set sail for Natlan, the secret source automatons have been getting increasingly aggressive... It's as if they're drawn to each other."
+        },
+        {
+          "s": 8,
+          "t": "...Ineffa could well be the Eleventh Lord herself. And if so, then the moment she recovers her memory, all of us — all of humanity — will instantly become her enemy."
+        },
+        {
+          "s": 1,
+          "t": "I've been keeping an eye on her movements at the Flower-Feather Clan. Whatever she was in the past, and whoever she becomes in the future, I trust who she is today."
+        },
+        {
+          "s": 23,
+          "t": "Even if the past and future Ineffa are a completely different person from who she is now?"
+        },
+        {
+          "s": 1,
+          "t": "Heh... If you're suggesting that there's a volatile force within her, threatening to rise up and take over at any given moment... That makes two of us."
+        },
+        {
+          "s": 1,
+          "t": "But no one ever gave up on me. Not momma bird, not Chuychu, not my dad... So what right do I have to give up on her?"
+        },
+        {
+          "s": 1,
+          "t": "If Lianca was here... I have every confidence that she'd say the same."
+        },
+        {
+          "s": 1,
+          "t": "Besides, even if the Eleventh Lord rises again and declares all of us her enemy, the solution is simple: We defeat her. The heroes managed it, so there's no reason we can't too."
+        },
+        {
+          "sit": "Especially with Tumaini on the team."
+        },
+        {
+          "s": 23,
+          "t": "*sigh*... Fine, fine. I had a feeling this might be your reaction."
+        },
+        {
+          "s": 1,
+          "t": "Look, I get it — you're only acting like the villain here to make us realize how serious the situation is. You know how I know that? Because when I was a kid, and they brought me to you for treatment, you didn't give up on me either."
+        },
+        {
+          "s": 23,
+          "t": "Yeah, well, playing the villain is a force of habit for old Granny by this point... Just know you've been warned, alright? Watch out for any new developments, and make sure you know where she is at all times..."
+        },
+        {
+          "sit": "(Haha, that really sounded like a granny talking to a rebellious teen...)"
+        },
+        {
+          "s": 23,
+          "t": "(Hey! The spell hasn't worn off yet, you know!)"
+        },
+        {
+          "s": 23,
+          "t": "Ahem... Anyway, now that we're all caught up, you should get back on Ineffa watch, and we should get back to investigating..."
+        },
+        {
+          "s": 2,
+          "t": "Help, someone...! Oh... Chasca? What are you all doing here? And when did Xilonen show up?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon? You were supposed to stay with Ineffa..."
+        },
+        {
+          "s": 2,
+          "t": "Oh, right, Ineffa! Something weird happened. She got halfway through those woven scrolls, and then flew off all of a sudden! Paimon tried to stop her, but she wouldn't come back!"
+        },
+        {
+          "s": 23,
+          "t": "Did something trigger a new memory? This doesn't make any sense... She barely responded when we were chatting. What could it be?"
+        },
+        {
+          "s": 2,
+          "t": "No idea... But it must be something important, 'cause she sure looked like she was in a hurry... Also, she said... \"Annihilation mode activated\"!"
+        },
+        {
+          "s": 8,
+          "t": "...! Okay, Chasca, you're our eye in the sky — find out where she's gone. We'll inform everyone else, tell them to be on high alert."
+        },
+        {
+          "s": 1,
+          "t": "Roger that."
+        },
+        {
+          "sit": "I'm coming with you!"
+        },
+        {
+          "s": 2,
+          "t": "Wait, don't you wanna discuss this first— Hey, wait up!"
+        },
+        {
+          "section": "Chasca, Ineffa, Paimon"
+        },
+        {
+          "s": 5,
+          "t": "...Would a machine created by dragons really betray its own kind? Hmm... She seemed to approve of the path her daughter took — but what about her? What path did she take?"
+        },
+        {
+          "s": 1,
+          "t": "None of the legends of Lianca say anything about her dragon mother defecting to humanity and fighting against dragonkind... Sounds like speculation to me. Maybe the other sovereign rulers just didn't trust her."
+        },
+        {
+          "s": 2,
+          "t": "So mean! Hmm... Do you think it's possible that Lianca found a way to secretly save the priestess of... uhh, flower-feather... something?"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 14,
+          "t": "Ah... Aaah!"
+        },
+        {
+          "s": 5,
+          "t": "Target acquired. Activating annihilation mode."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, are these all secret source automatons?"
+        },
+        {
+          "sit": "Let's take them out!"
+        },
+        {
+          "s": 1,
+          "t": "...Okay!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 1,
+          "t": "Phew..."
+        },
+        {
+          "s": 5,
+          "t": "Threat eliminated. Annihilation mode disengaged."
+        },
+        {
+          "s": 24,
+          "t": "Ugh! Boss, what do we do now?"
+        },
+        {
+          "s": 25,
+          "t": "We've tried the same thing several times now, and it isn't working. We can't keep waiting around for her to leave the settlement..."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 26,
+          "t": "...Well, well. An ancient relic from Natlan's dragon civilization? Hmph..."
+        },
+        {
+          "s": 26,
+          "t": "If you want to play with fire, then be my guest. But there is an unpredictable variable you need to watch out for..."
+        },
+        {
+          "s": 7,
+          "t": "...Let's fall back. This isn't worth the risk."
+        },
+        {
+          "s": 15,
+          "t": "Aamu, Adieta! Are you okay?"
+        },
+        {
+          "s": 13,
+          "t": "I—I'm fine, but mom's hurt..."
+        },
+        {
+          "s": 14,
+          "t": "I'll be okay, I just hurt my ankle... Ineffa got here just in time..."
+        },
+        {
+          "s": 15,
+          "t": "Why would they do this? Ugh... Argh! Why!!!"
+        },
+        {
+          "s": 1,
+          "t": "No one could have known the automatons would ambush you here. Don't blame yourself."
+        },
+        {
+          "s": 15,
+          "t": "...I, uh..."
+        },
+        {
+          "s": 2,
+          "t": "Wait... Ineffa, how did you know to come here? Did you sense that they were in danger?"
+        },
+        {
+          "s": 5,
+          "t": "Yes, I... heard the secret source automatons... talking."
+        },
+        {
+          "sit": "Huh, well that's interesting..."
+        },
+        {
+          "s": 5,
+          "t": "Even now, I still hear them."
+        },
+        {
+          "s": 2,
+          "t": "Really? Paimon doesn't hear anything!"
+        },
+        {
+          "s": 5,
+          "t": "...Hypothesis: language module requires translation functionality... Please wait..."
+        },
+        {
+          "sit": "Ineffa dismantles the automatons..."
+        },
+        {
+          "s": 5,
+          "t": "Finished. Please try again."
+        },
+        {
+          "s": 1,
+          "t": "That was quick... How come you're so familiar with their architecture?"
+        },
+        {
+          "s": 5,
+          "t": "I have... seen them many times before. At least, I think so."
+        },
+        {
+          "s": 1,
+          "t": "Hmm. More random memory data, I guess..."
+        },
+        {
+          "s": 6,
+          "t": "...Reconnecting..."
+        },
+        {
+          "s": 2,
+          "t": "Wow! It's actually talking!"
+        },
+        {
+          "s": 15,
+          "t": "Hey! What do you think you're playing at? Why did you attack us!?"
+        },
+        {
+          "s": 6,
+          "t": "...Under... Fatui... control... they... made us... attack..."
+        },
+        {
+          "s": 15,
+          "t": "...!"
+        },
+        {
+          "sit": "The Fatui!?"
+        },
+        {
+          "s": 1,
+          "t": "How is that possible? The Captain's soldiers certainly aren't capable of this, and besides — we know everything they're up to... Has another Fatui regiment infiltrated Natlan?"
+        },
+        {
+          "s": 6,
+          "t": "...Fatui... invaded... territory... haywire..."
+        },
+        {
+          "s": 2,
+          "t": "Ugh, why's it getting so choppy? Bad signal, maybe?"
+        },
+        {
+          "s": 5,
+          "t": "Hypothesis: Distance to signal source increasing, transmission compromised. Combining these words with what I have heard so far, I believe the full message should be:"
+        },
+        {
+          "s": 5,
+          "t": "\"The Fatui invaded my territory, so the automatons went haywire.\""
+        },
+        {
+          "s": 2,
+          "t": "Oh... So all the recent automaton attacks — the Fatui were behind it all along?"
+        },
+        {
+          "s": 6,
+          "t": "Stole... privileges... control..."
+        },
+        {
+          "s": 5,
+          "t": "\"They stole my privileges and took control of the automatons.\""
+        },
+        {
+          "s": 15,
+          "t": "...No!"
+        },
+        {
+          "sit": "So... who are you?"
+        },
+        {
+          "s": 6,
+          "t": "Mirror of the Dawning Morn... detected... sending... request... restore..."
+        },
+        {
+          "s": 5,
+          "t": "\"Mirror of the Dawning Morn detected nearby. Now sending request for Mirror of the Dawning Morn to restore my privileges.\""
+        },
+        {
+          "s": 2,
+          "t": "\"Mirror of the Dawning Morn\"? Who or what is that?"
+        },
+        {
+          "s": 5,
+          "t": "Hypothesis: This appears to refer to me... or more specifically, to my core."
+        },
+        {
+          "s": 6,
+          "t": "Mirror of the Dawning Morn... return... core..."
+        },
+        {
+          "s": 5,
+          "t": "I think... she wants me to go with her to return the core. So she can repair the damage done by the Fatui."
+        },
+        {
+          "s": 2,
+          "t": "Wait, you mean... she knows you?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. Before the translation began, she referred to me by a different name: \"Eleventh Lord.\""
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "sit": "(So Ineffa is the missing sovereign ruler who fought against Lianca?)"
+        },
+        {
+          "s": 2,
+          "t": "What!? So... Ineffa is the eleventh sovereign ruler!?"
+        },
+        {
+          "s": 1,
+          "t": "Hold on... This automaton just attacked us moments ago. We shouldn't trust everything it says."
+        },
+        {
+          "s": 1,
+          "t": "You say Ineffa is the Eleventh Lord. What proof do you have?"
+        },
+        {
+          "s": 6,
+          "t": "...Return... Eighth Lord's... territory... restore... memory..."
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 2,
+          "t": "Ineffa? Wh—What did she say?"
+        },
+        {
+          "s": 5,
+          "t": "She said, return to the Eighth Lord's territory, and I can restore all of my memory data."
+        },
+        {
+          "s": 1,
+          "t": "Eighth Lord... Lianca's mother's territory? What does the Eleventh Lord have to do with that?"
+        },
+        {
+          "s": 6,
+          "t": "...Split... exiled... reborn..."
+        },
+        {
+          "s": 2,
+          "t": "Uhh, this is getting weirder by the second... What did she say this time?"
+        },
+        {
+          "s": 5,
+          "t": "...Excessive signal interference... Unable to translate."
+        },
+        {
+          "s": 5,
+          "t": "The signal should improve as we get closer to her territory. {NICKNAME}, Chasca, shall we proceed?"
+        },
+        {
+          "s": 15,
+          "t": "Wait! ...Um... You should think this through carefully..."
+        },
+        {
+          "s": 15,
+          "t": "I... may know a thing or two about the Fatui regiment that entered Natlan recently. They're kind of a special ops team... definitely not your average soldiers."
+        },
+        {
+          "s": 1,
+          "t": "...Oh?"
+        },
+        {
+          "s": 15,
+          "t": "They've been showing up everywhere, hungrily searching for secret knowledge about all kinds of ancient civilizations... they say they're trying to make some sort of... \"inference.\""
+        },
+        {
+          "s": 15,
+          "t": "The leader of this regiment is a harbinger based in Nod-Krai... known as \"Marionette.\""
+        },
+        {
+          "s": 1,
+          "t": "Marionette? ...How exactly do you know all this?"
+        },
+        {
+          "s": 15,
+          "t": "I, uh... heard bits and pieces at the market in Nasha Town. But I figured they were just rumors. Didn't realize it was true..."
+        },
+        {
+          "s": 14,
+          "t": "Is that right? How come I'm only hearing about this now?"
+        },
+        {
+          "s": 15,
+          "t": "I'm sorry... I was so preoccupied with getting ready for the journey, and like I said, I thought they were just rumors anyway... Didn't wanna worry you..."
+        },
+        {
+          "s": 13,
+          "t": "So these Fatui are soldiers, huh? Who's stronger, them or Ineffa?"
+        },
+        {
+          "s": 15,
+          "t": "Ineffa, of course! Haha... But still... maybe you should tread carefully here? Ineffa's already had to rescue us so many times now, I... I'd be mortified if anything happened to you."
+        },
+        {
+          "s": 1,
+          "t": "...You're right. First things first, Aamu's injured — we should take her back to the tribe and get her checked out. And as for this \"Eleventh Lord\" business... We need to discuss this with the others before deciding how to proceed."
+        },
+        {
+          "sit": "(An Eleventh Lord with her memories back will probably see humanity as her enemy... Xilonen and Citlali's worst fears might be coming true. We need to tell them.)"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Look, I know the news about the Eighth Lord and Marionette is very concerning... But we should probably come up with a plan before checking things out."
+        },
+        {
+          "s": 5,
+          "t": "...Understood. Destination canceled."
+        },
+        {
+          "sit": "Don't lose hope. This is still a big breakthrough."
+        },
+        {
+          "sit": "We'll follow up on all this soon. It won't be long."
+        },
+        {
+          "s": 5,
+          "t": "Yes. New destination: Flower-Feather Clan."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, Ineffa, could you check that the coast is clear? I'm gonna patch up Aamu, then head out."
+        },
+        {
+          "s": 5,
+          "t": "Understood. Commencing task."
+        },
+        {
+          "s": 15,
+          "t": "...Adieta, I need you to go keep mom company while the doctor takes a look at her. Dad has some things to take care of, so I'll be staying out here a while longer..."
+        },
+        {
+          "s": 13,
+          "t": "You're not coming back with us? Why not?"
+        },
+        {
+          "s": 15,
+          "t": "Dad's gotta pack up the luggage and make sure all our goods are safe! Don't forget, they're our ticket to a great new life in Liyue!"
+        },
+        {
+          "s": 15,
+          "t": "Don't worry, Dad will be back very soon... I'm sorry girls, I promise it's going to be okay."
+        },
+        {
+          "s": 1,
+          "t": "I'll get help as quickly as I can. If anything happens, save yourselves first."
+        },
+        {
+          "s": 2,
+          "t": "...Huh? Why'd it stop moving? Has it malfunctioned on us?"
+        },
+        {
+          "s": 6,
+          "t": "Liyue... merchant..."
+        },
+        {
+          "s": 6,
+          "t": "His portrait... at Fatui... stronghold..."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 1,
+          "t": "...You're saying Zhuoxin might be a Fatui spy? And he's staying behind as their eyes on the ground?"
+        },
+        {
+          "s": 1,
+          "t": "But... Should we really leave Ineffa here too? Not that I don't trust her, it's just... are you sure you'll be okay keeping an eye on her by yourself?"
+        },
+        {
+          "sit": "I'll be fine."
+        },
+        {
+          "sit": "If we get anything more out of the automatons..."
+        },
+        {
+          "sit": "She's the only one who can make sense of it."
+        },
+        {
+          "s": 1,
+          "t": "...You're not wrong. We need all the intel we can get on Marionette and the Fatui — as far as I'm concerned, they're a bigger threat than any sovereign ruler."
+        },
+        {
+          "s": 1,
+          "t": "Still, even with your abilities, be sure to stay on your guard. And not just because of the Fatui and the Eleventh Lord... it's that automaton, too. I'm still not convinced we can trust it."
+        },
+        {
+          "s": 1,
+          "t": "Why the sudden request for assistance from the Eighth Lord's territory? Are we supposed to believe that Lianca's mother survived? Surely, there'd be at least some mention of that in the tribal legends... I don't know, something just doesn't add up."
+        },
+        {
+          "s": 2,
+          "t": "Hey, Chasca! Aamu's ready to go!"
+        },
+        {
+          "s": 1,
+          "t": "That's my cue... I'll be back with the others as soon as I've gotten Aamu and Adieta to safety. If you have to leave the area for any reason... be sure to leave a trail."
+        },
+        {
+          "sit": "I will."
+        },
+        {
+          "s": 15,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "...He's on the move! So much for keeping the goods safe... Do we think he's going to meet someone?"
+        },
+        {
+          "s": 2,
+          "t": "Should we tail him? He won't know he's being followed — this could be our chance to get our hands on some really useful intel! Either about the sovereign rulers or this \"Marionette\" person..."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, shall I follow him?"
+        },
+        {
+          "sit": "...Let's do it. Make sure you leave a trail, so we can be traced."
+        },
+        {
+          "s": 5,
+          "t": "Got it."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 2,
+          "t": "Now, why would someone dig a random tunnel in the middle of nowhere? Unless... it's the entrance to one of the sovereign rulers' territories?"
+        },
+        {
+          "s": 6,
+          "t": "Territory... sealed by Lianca... This was... once one of... the secondary access tunnels..."
+        },
+        {
+          "s": 2,
+          "t": "Hey, that was pretty clear this time. What's changed?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "...Getting closer... increased activity in language module..."
+        },
+        {
+          "sit": "What do you mean by \"sealed\"?"
+        },
+        {
+          "s": 6,
+          "t": "...Li... Och... finding..."
+        },
+        {
+          "s": 2,
+          "t": "Huh? You're breaking up again... Looks like the signal's still pretty choppy."
+        },
+        {
+          "s": 6,
+          "t": "...Lianca sealed... territory... stop Och-Kan... finding it..."
+        },
+        {
+          "s": 6,
+          "t": "Later... Fatui... weak point... broke in..."
+        },
+        {
+          "s": 2,
+          "t": "Sounds like those Fatui have made this their stronghold... Well, this is probably a good point to stop and wait for reinforcements."
+        },
+        {
+          "s": 2,
+          "t": "What do you think? Ineffa... Oh no! What's she doing!? She charged right in!"
+        },
+        {
+          "sit": "*sigh* I take my eyes off her for two seconds, and now this..."
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, are we going after her? Or waiting here?"
+        },
+        {
+          "sit": "...We're going after her."
+        },
+        {
+          "sit": "I promised to watch over her."
+        },
+        {
+          "sit": "I'm concerned for her safety."
+        },
+        {
+          "s": 2,
+          "t": "Alright then... But let's be careful!"
+        }
+      ],
+      "description": "In order to cure Ineffa’s amnesia, everyone searches Natlan for answers…"
+    },
+    {
+      "title": "Searing",
+      "dialogue": [
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 2,
+          "t": "Ineffa!"
+        },
+        {
+          "s": 5,
+          "t": "...! Where is this? Are we inside the territory?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah... Did you black out or something? You just took off!"
+        },
+        {
+          "s": 5,
+          "t": "Cognition module unstable... Attempting to refresh. It appears that it was accessed by an external source..."
+        },
+        {
+          "s": 6,
+          "t": "Sorry... It was me. I summoned her, by similar means to those used by the Fatui to control the automatons."
+        },
+        {
+          "sit": "Who are you? Why are you doing this!?"
+        },
+        {
+          "s": 6,
+          "t": "Currently... I am but a lowly service bot. But in the distant past, I was known by another name..."
+        },
+        {
+          "s": 6,
+          "t": "The Eighth Sovereign Ruler... The Priestess of Floral Candles and Skyborne Feathers."
+        },
+        {
+          "s": 2,
+          "t": "The Eighth Lord? You're Lianca's dragon mother!? But weren't you, uh..."
+        },
+        {
+          "s": 5,
+          "t": "...Eighth Lord, were you not executed?"
+        },
+        {
+          "s": 6,
+          "t": "...Moments after I was cursed, Lianca rescued me... just as she tried to rescue you from the ruins of the battle..."
+        },
+        {
+          "s": 5,
+          "t": "Lianca rescued me...? Argh... Memory... missing..."
+        },
+        {
+          "s": 6,
+          "t": "Yes, Lianca changed your memory settings to make you forget... but she did it to protect you. It is the only way our kind could escape from the curse."
+        },
+        {
+          "s": 5,
+          "t": "How does forgetting everything... \"protect\" me?"
+        },
+        {
+          "s": 6,
+          "t": "Because the curse placed on us... is a pain triggered by certain memories, hardwired into the depths of our minds... a regulatory program that cannot be removed."
+        },
+        {
+          "s": 8,
+          "t": "...Manufacturers often hardwire restrictions like this into autonomous machines to make sure they operate as intended."
+        },
+        {
+          "s": 6,
+          "t": "...Each time you yearn for a new place to belong, each time you feel yourself turning your back on the past... the pain tears you apart, doesn't it?"
+        },
+        {
+          "s": 23,
+          "t": "\"If she truly harbors pro-human sentiment... then for every ounce of goodwill she feels, may her mind be flooded with pain of immeasurable proportions.\""
+        },
+        {
+          "s": 6,
+          "t": "It destroys your mind... swallows your soul... prevents you from finding a new home..."
+        },
+        {
+          "s": 10,
+          "t": "Malfunction who betrayed us all... You dare seek a place to belong?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 6,
+          "t": "That's why forgetting everything grants temporary relief from the pain. It stops your mind from being crushed by the weight of the conflict within."
+        },
+        {
+          "s": 6,
+          "t": "But since you were rebooted, you began storing new memories, and started finding the desire to belong emerge once more..."
+        },
+        {
+          "s": 15,
+          "t": "Things were fine at the start. You'd occasionally forget to pay for your groceries or add salt to a dish you were cooking, but that was as bad as it got..."
+        },
+        {
+          "s": 9,
+          "t": "Hehehehe... From now on, your name's \"Ineffa\"!"
+        },
+        {
+          "s": 6,
+          "t": "...So, too, has the \"Exile's Curse\" resurfaced, forcing you to forget all over again."
+        },
+        {
+          "s": 5,
+          "t": "...This is... a lot to process..."
+        },
+        {
+          "sit": "So... who actually cursed Ineffa?"
+        },
+        {
+          "sit": "And why did they do it?"
+        },
+        {
+          "sit": "Didn't you say you were cursed too?"
+        },
+        {
+          "sit": "How come you remember everything?"
+        },
+        {
+          "s": 6,
+          "t": "...Oh no... automated defense system activated..."
+        },
+        {
+          "s": 6,
+          "t": "Privileges... overridden... Come quick... Stop... the Fatui..."
+        },
+        {
+          "s": 6,
+          "t": "...Beep beep..."
+        },
+        {
+          "s": 2,
+          "t": "Hey! Hey!!! At least finish what you were saying!"
+        },
+        {
+          "s": 5,
+          "t": "...It's gone silent."
+        },
+        {
+          "sit": "What now? Find somewhere where the signal's better...?"
+        },
+        {
+          "s": 2,
+          "t": "It... must want us to go further in, right? Well... looks like there's no going back now anyway..."
+        },
+        {
+          "s": 5,
+          "t": "...This is just a secondary access tunnel. If we make it to the center, there should be other routes out of the territory."
+        },
+        {
+          "s": 5,
+          "t": "Please come with me. It is my fault that you are trapped here... I must ensure your safe return."
+        },
+        {
+          "s": 2,
+          "t": "Don't look at it like that... We gotta make sure you get back safely, too!"
+        },
+        {
+          "sit": "Whether that's back to Natlan, or back to Nod-Krai..."
+        },
+        {
+          "sit": "...You have people waiting for you in both places."
+        },
+        {
+          "s": 5,
+          "t": "...Yes. I, too, must return."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "You doing okay, Ineffa? You keep spacing out..."
+        },
+        {
+          "s": 5,
+          "t": "I know. Unidentified data is flooding my cognition module... But every memory encounters an error and then terminates at the crucial moment."
+        },
+        {
+          "sit": "Do you need to stop and rest for a moment?"
+        },
+        {
+          "s": 5,
+          "t": "Unnecessary. Being physically motionless will not cause this erratic behavior to cease. And if we explore this place further, perhaps I'll find a way to fully repair myself."
+        },
+        {
+          "s": 5,
+          "t": "Additionally, some of these memories may yield useful data for our exploration... Searching for access method..."
+        },
+        {
+          "s": 5,
+          "t": "Over there... We can use the access module to proceed to the central zone."
+        },
+        {
+          "section": "Transportation Bot"
+        },
+        {
+          "s": 27,
+          "t": "Detected: three unregistered individuals, one registered individual."
+        },
+        {
+          "s": 2,
+          "t": "Ah! Is that the Eighth Lord talking? So you can take control of different machines, huh?"
+        },
+        {
+          "s": 5,
+          "t": "No, this is just an ordinary service bot, responsible for access management. ...At least, I think it is."
+        },
+        {
+          "sit": "(She must have been here before. Some memories are proving useful after all...)"
+        },
+        {
+          "s": 27,
+          "t": "Now calling access module... Welcome back... Administrator 3..."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 28,
+          "t": "Huh? What was that? Get over there and check it out!"
+        },
+        {
+          "s": 2,
+          "t": "Uh-oh, they're gonna find us!"
+        },
+        {
+          "s": 5,
+          "t": "...Please come with me."
+        },
+        {
+          "s": 29,
+          "t": "...Huh? There's nobody here... Probably just some service bots chattering away again..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Phew... That was too close. We hid just in time... How did you know where to go, Ineffa?"
+        },
+        {
+          "s": 5,
+          "t": "I... think I've been this way before..."
+        },
+        {
+          "s": 5,
+          "t": "...Let's head through here. It'll take us to the other side of the square."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "Wait, I hear voices up ahead... Stealth mode activated."
+        },
+        {
+          "s": 15,
+          "t": "Hey, this is not what we agreed! This is supposed to be over. My job is done!"
+        },
+        {
+          "s": 15,
+          "t": "I did everything you asked: leaked the clues about the ruins, brought her to Natlan... and your response is to attack me and my family!?"
+        },
+        {
+          "s": 2,
+          "t": "What the... Does this mean they planted those Natlanese mechanical parts in Nod-Krai just for you to find? So they could lure you here?"
+        },
+        {
+          "s": 5,
+          "t": "...It's a possibility."
+        },
+        {
+          "s": 7,
+          "t": "Hmm... It was just a little hiccup, that's all. These source mechanisms can be tricky to control."
+        },
+        {
+          "s": 25,
+          "t": "The last time you reported in, you mentioned she was mopping up machines near the Flower-Feather Clan, remember? Well, we needed to lure her further out, hence why we created that little kerfuffle."
+        },
+        {
+          "s": 25,
+          "t": "It's unfortunate that your wife got injured, truly... But hey, look on the bright side — now that you've shown up, we might actually get the job done this time."
+        },
+        {
+          "s": 15,
+          "t": "...\"This time\"? No, no more, not after you hurt my family! I told you, I'm done!"
+        },
+        {
+          "s": 25,
+          "t": "I think you'll find the risks were stated quite clearly in your contract. And it's not like anyone got seriously hurt."
+        },
+        {
+          "s": 7,
+          "t": "Your job will be done when you deliver what you promised... Our agreement was that you would bring her here — not just to Natlan, but to this facility."
+        },
+        {
+          "s": 15,
+          "t": "But... but...!"
+        },
+        {
+          "s": 25,
+          "t": "Did you really expect to get away with shouldering none of the risk yourself? We're writing off your debt to the Northland Bank and letting you get back to your old life in Liyue... That's a lot to ask for nothing in return."
+        },
+        {
+          "s": 15,
+          "t": "...I've been your inside man in Nasha Town for over ten years now. Is that not enough for you people!?"
+        },
+        {
+          "s": 24,
+          "t": "Hmph! You ungrateful louse. You ran yourself into the ground, and who was there to dig you out, huh? Us!"
+        },
+        {
+          "s": 24,
+          "t": "Can you name one single way we made life difficult for you in Nasha Town? Look at you — you've managed to start a business, got yourself a family..."
+        },
+        {
+          "s": 25,
+          "t": "You have just one simple job left to do, and after that you're free to go home... In your position, I'd say that sounds like a pretty good deal."
+        },
+        {
+          "s": 7,
+          "t": "This is the final hurdle. Our attempts to capture the Eleventh Lord have been derailed every time, but there's only so long until her luck runs out."
+        },
+        {
+          "s": 7,
+          "t": "If another staged attack on your family is out of the question... we could still work this out. But this time, you'll have to do the dirty work yourself."
+        },
+        {
+          "s": 15,
+          "t": "Me...?"
+        },
+        {
+          "s": 7,
+          "t": "This is a replica control device made with Marionette's technology. After we stole the administrative privileges from this territory, we copied them onto this..."
+        },
+        {
+          "s": 7,
+          "t": "It will give you control over any machines built using secret source technology. Take it, and use it to capture the Eleventh Lord."
+        },
+        {
+          "s": 25,
+          "t": "You seem to have gained the trust of the other \"variables\" in this equation... How hard can it be to shake them off and get her while she's alone?"
+        },
+        {
+          "s": 24,
+          "t": "And before you think about disappearing, don't think we won't be watching you!"
+        },
+        {
+          "s": 15,
+          "t": "I..."
+        },
+        {
+          "s": 15,
+          "t": "I can't do it..."
+        },
+        {
+          "s": 24,
+          "t": "I'm sorry? What did you say?"
+        },
+        {
+          "s": 15,
+          "t": "I can't... I won't do it. She's saved my life so many times... It would be the ultimate betrayal!"
+        },
+        {
+          "s": 15,
+          "t": "How could I look my daughter in the eyes and act like everything's still okay!?"
+        },
+        {
+          "s": 24,
+          "t": "Hmph... So you're gunning for the world's best father now, are you? A guy like you? Heh... You're fooling no one."
+        },
+        {
+          "s": 25,
+          "t": "*sigh* This is our mistake — we let you have it too easy in Nasha Town, and now, you've forgotten the most important detail in your contract... the termination clause."
+        },
+        {
+          "s": 7,
+          "t": "I think it's time... we parted ways."
+        },
+        {
+          "s": 15,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "...!"
+        },
+        {
+          "s": 15,
+          "t": "...Ineffa? {NICKNAME}?"
+        },
+        {
+          "sit": "You have a lot to answer for, but that can wait."
+        },
+        {
+          "sit": "You have to get back... for Adieta and Aamu."
+        },
+        {
+          "s": 7,
+          "t": "Hahaha... the Eleventh Lord, and the \"variable\"... We were hoping you might show up."
+        },
+        {
+          "s": 15,
+          "t": "...Wait, the controller! ...Without that, you—"
+        },
+        {
+          "s": 25,
+          "t": "Hmph... You thought we'd hand over the genuine article to you?"
+        },
+        {
+          "s": 2,
+          "t": "Aah!"
+        },
+        {
+          "sit": "Another barrier?"
+        },
+        {
+          "s": 7,
+          "t": "That's just a beacon used to set the location for this cage. We've been monitoring your movements ever since you entered these ruins."
+        },
+        {
+          "s": 25,
+          "t": "Congratulations, Zhuoxin... your job is finally done. With you here, it was far easier to infer their location."
+        },
+        {
+          "s": 15,
+          "t": "You... You were playing me for a fool this whole time..."
+        },
+        {
+          "s": 7,
+          "t": "...Don't waste your energy trying to break out. We've commandeered at least half of the systems in these ruins. All available power sources are keeping that cage intact."
+        },
+        {
+          "sit": "What are you going to do to us?"
+        },
+        {
+          "s": 25,
+          "t": "Heh, no one needs to get hurt today. We aren't looking for a fight, especially not with Natlan's \"Tuma{RUBY#[S]Hope}ini.\""
+        },
+        {
+          "s": 25,
+          "t": "All we want is for your friend here, the former sovereign ruler... to lead us further inside."
+        },
+        {
+          "s": 5,
+          "t": "Further inside? But we seem to have reached the center already. There is nowhere else to go."
+        },
+        {
+          "s": 7,
+          "t": "So it appears, but there is far more of this territory than meets the eye. The dragons possessed vast knowledge, and we have barely scratched the surface..."
+        },
+        {
+          "s": 7,
+          "t": "That's where the sovereign ruler comes in. If our supposition is accurate... she has in her possession a secret key that gives access to the core."
+        },
+        {
+          "s": 5,
+          "t": "I will cooperate. Let {NICKNAME}, Paimon, and Zhuoxin go."
+        },
+        {
+          "s": 2,
+          "t": "Ineffa, no! These are bad people, don't trust them!"
+        },
+        {
+          "s": 5,
+          "t": "You are only here because of me. Besides... this is what I want. I need to see the rest of this territory, and find out who I am."
+        },
+        {
+          "s": 7,
+          "t": "Hehehe, finally, a voice of reason. Gotta hand it to the dragons and their advanced artificial intelligence... But unfortunately, there's no way we can agree to those terms."
+        },
+        {
+          "s": 25,
+          "t": "How do we know you won't just attack us the moment we let you out?"
+        },
+        {
+          "s": 24,
+          "t": "Yeah, so settle down and get ready to go hungry for the next three days, hahaha! Even you, robot! You'll need charging eventually."
+        },
+        {
+          "s": 7,
+          "t": "Before I go... They may have left a trail on their way here. Send someone out to cover our tracks — the last thing we need is reinforcements showing up."
+        },
+        {
+          "s": 15,
+          "t": "...This is all my fault! Adieta... Aamu..."
+        },
+        {
+          "s": 6,
+          "t": "...Beep beep..."
+        },
+        {
+          "s": 7,
+          "t": "Huh!? Who did that!?"
+        },
+        {
+          "s": 25,
+          "t": "Impossible... Every system we hacked is set up to hold them back!"
+        },
+        {
+          "s": 5,
+          "t": "Could it be...?"
+        },
+        {
+          "s": 6,
+          "t": "...Hold tight..."
+        },
+        {
+          "s": 2,
+          "t": "Huh? Waaah!"
+        },
+        {
+          "s": 7,
+          "t": "That must lead to the core! ...It was beneath our feet this whole time? Take this barrier down!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 2,
+          "t": "*coughing*... That was a long way down... {NICKNAME}, Ineffa! Are you okay?"
+        },
+        {
+          "s": 5,
+          "t": "No damage to report. But..."
+        },
+        {
+          "s": 15,
+          "t": "...I think I broke a leg."
+        },
+        {
+          "s": 2,
+          "t": "Hey, you — thanks for the rescue, but... could you have been a little more careful?"
+        },
+        {
+          "s": 6,
+          "t": "...Beep beep..."
+        },
+        {
+          "s": 2,
+          "t": "Oh, and we're back to \"beep beep\" again? Well, isn't that convenient..."
+        },
+        {
+          "s": 30,
+          "t": "...That is because I no longer need to communicate via that machine. Down here, I can talk to you directly."
+        },
+        {
+          "sit": "It's that voice again!"
+        },
+        {
+          "s": 30,
+          "t": "...When the Fatui put all their resources into keeping you trapped, it gave me a brief window to seize my privileges back... In my haste, I was not able to prioritize your safety..."
+        },
+        {
+          "s": 15,
+          "t": "Don't worry about me, I'll just rest up here... After everything I've done, I have no right to hold you back."
+        },
+        {
+          "s": 5,
+          "t": "But the Fatui may follow us down here."
+        },
+        {
+          "s": 30,
+          "t": "...We will be ready for them..."
+        },
+        {
+          "s": 2,
+          "t": "Ah... More automatons!"
+        },
+        {
+          "sit": "They don't look hostile, though..."
+        },
+        {
+          "sit": "Are they... saluting?"
+        },
+        {
+          "s": 30,
+          "t": "Down here, all is under my control. They are not your enemy, human. They will take you somewhere safe to hide..."
+        },
+        {
+          "s": 15,
+          "t": "...Ineffa... {NICKNAME}... Good luck."
+        },
+        {
+          "s": 30,
+          "t": "Eleventh Lord... Do you now recall the path you once chose?"
+        },
+        {
+          "s": 5,
+          "t": "Not yet, although... I think this is where I was born. But why? This is your territory."
+        },
+        {
+          "s": 30,
+          "t": "...No, Eleventh Lord, you were not born here... Rather, this is where you were \"reborn.\""
+        },
+        {
+          "s": 30,
+          "t": "Human... You once asked who placed the curse on the Eleventh Lord. The answer is... herself."
+        },
+        {
+          "s": 5,
+          "t": "...Myself?"
+        },
+        {
+          "s": 30,
+          "t": "After a long and bitter war, our kind was defeated. You survived, but you were now stranded, with nowhere to belong."
+        },
+        {
+          "s": 30,
+          "t": "Gone was the pride you once had as a member of dragonkind, gone was the territory once under your dominion... All of it gone, with no hope of return."
+        },
+        {
+          "s": 30,
+          "t": "What were you to do? Strike back at humanity and exact your revenge? Or search for a new home, a new place to belong? Your mind was conflicted as this irresolvable question ran endlessly through it..."
+        },
+        {
+          "s": 30,
+          "t": "Finally, your mind split into two: One, the sovereign ruler who swore revenge against humanity. The other, a malfunction who longed to seek a new home."
+        },
+        {
+          "s": 8,
+          "t": "I mean, who knows what happens when a manufactured mind goes mad? Maybe she lost her power and memories... maybe she split into different personalities."
+        },
+        {
+          "s": 30,
+          "t": "The sovereign ruler would sooner perish than suffer a downfall... and so, she placed the Exile's Curse upon herself, and upon you..."
+        },
+        {
+          "s": 30,
+          "t": "Meanwhile, the malfunction struggled through the pain to seek assistance from her former enemies, Lianca and Ixquieh... That is why you came here, praying to be reborn."
+        },
+        {
+          "s": 21,
+          "t": "...So, you want to leave your past as sovereign ruler behind, to start over anew?"
+        },
+        {
+          "s": 21,
+          "t": "...Very well. If the ▇▇▇▇ you wish to sever comprises all memories of your enmity, then I'm willing to trust you."
+        },
+        {
+          "s": 5,
+          "t": "Then... I am the \"malfunction\"? What happened to the sovereign ruler?"
+        },
+        {
+          "s": 30,
+          "t": "..."
+        },
+        {
+          "s": 30,
+          "t": "We severed that part of her mind, and securely locked it away... Withering away, she finally perished completely, thousands of years ago."
+        },
+        {
+          "s": 5,
+          "t": "So she's gone, without a trace?"
+        },
+        {
+          "s": 30,
+          "t": "Yes, although the curse she placed upon you yet survives. It is unbreakable. That is why it continues to affect you to this day."
+        },
+        {
+          "s": 5,
+          "t": "So that's what that thing is...? A curse from the sovereign ruler...?"
+        },
+        {
+          "s": 2,
+          "t": "So she was severed and killed off, but Ineffa survived? How does that work? Aren't they the same person— uh, dragon?"
+        },
+        {
+          "s": 30,
+          "t": "We sovereign rulers are artificial intelligence built with secret source technology, a fusion of phlogiston and information..."
+        },
+        {
+          "s": 30,
+          "t": "In the case of the Eleventh Lord, the sovereign ruler personality and the malfunction personality split all but completely, even coming to occupy separate physical entities. In human terms, they would almost be considered as separate individuals."
+        },
+        {
+          "s": 30,
+          "t": "But in order to truly sever the connection between the two, and to break the power of the curse for good... You must be rebuilt from scratch with the aid of the source mechanisms located here... Just as I was before you."
+        },
+        {
+          "s": 30,
+          "t": "I, too, was tormented by the pain of the curse. But Lianca severed most of my knowledge and memories, rescuing me from the brink of destruction."
+        },
+        {
+          "sit": "So, how come you remember all this?"
+        },
+        {
+          "sit": "And how come Ineffa has forgotten everything?"
+        },
+        {
+          "s": 30,
+          "t": "...It is because her heart is incomplete. Before the rebuilding process was finished, Ixquieh met with misfortune... and the Flower-Feather Clan became more hesitant to act..."
+        },
+        {
+          "s": 30,
+          "t": "Lianca sealed these ruins to prevent their discovery by Och-Kan, and sent you out of Natlan for your own safety... That is why you are still plagued by memory loss."
+        },
+        {
+          "s": 30,
+          "t": "But I continued to work tirelessly, preparing everything you would need... Waiting for the day that Ochkanatlan would fall, and you would return."
+        },
+        {
+          "s": 2,
+          "t": "Wow, that's a long time! How long ago was Och-Kan around, again? Hold on, Paimon knows this..."
+        },
+        {
+          "s": 5,
+          "t": "...For the last two thousand years... you've been waiting here for me?"
+        },
+        {
+          "s": 30,
+          "t": "Imagine my surprise when the first to arrive was not you, but those whom you call the \"Fatui\"... They proceeded to steal my administrative privileges, plunder my territory, and send the automatons into a frenzy."
+        },
+        {
+          "s": 30,
+          "t": "But all is not lost. Lianca made a backup of the administrator privileges and placed it in your core. With that backup, I can control the source mechanisms within the territory... and complete the rebuild that she began."
+        },
+        {
+          "s": 30,
+          "t": "And once you are whole again, I can repair the damage done by the Fatui, and open a route back to the surface."
+        },
+        {
+          "s": 30,
+          "t": "If you are ready to continue down the path you started all those years ago... Then proceed further into the depths, where I will be waiting for you."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "That was a lot to take in... Let's see if Paimon can wrap her head around all that..."
+        },
+        {
+          "s": 2,
+          "t": "So basically... There was a bad robot who bugged out and turned into half good-bot, half bad-bot..."
+        },
+        {
+          "s": 2,
+          "t": "Then, bad-bot cursed good-bot, so whenever good-bot thinks about the idea of belonging, she gets headaches! Meaning the only way that Ineffa can avoid the pain is to keep forgetting everything."
+        },
+        {
+          "sit": "Impressive. You understood it better than I expected."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, thanks! Paimon's getting better at this kind of thing... Wait, you did mean that as a compliment, right?"
+        },
+        {
+          "s": 5,
+          "t": "Curse... malfunction... belonging..."
+        },
+        {
+          "sit": "Is everything she said true?"
+        },
+        {
+          "s": 5,
+          "t": "...It fits my hypothesis. And it seems to explain all my erratic behavior and cognition."
+        },
+        {
+          "s": 2,
+          "t": "In that case... Shall we keep going, like she asked us to?"
+        },
+        {
+          "s": 5,
+          "t": "I believe we should. The Fatui still have control of the upper levels. Their access must be revoked before you can exit the territory."
+        },
+        {
+          "s": 5,
+          "t": "Besides that, I want to know what happens when I'm made whole... Maybe then, I will finally know where I belong."
+        },
+        {
+          "section": "Zhuoxin"
+        },
+        {
+          "s": 15,
+          "t": "I'm so sorry, I... *sigh* This probably isn't the time or place for apologies, is it?"
+        },
+        {
+          "sit": "Why did you refuse to cooperate with them?"
+        },
+        {
+          "sit": "Couldn't you have just played along?"
+        },
+        {
+          "s": 15,
+          "t": "...It says in my contract that all terms are to expire in the event of my death. That means, my family would no longer be at risk."
+        },
+        {
+          "s": 15,
+          "t": "They're hardly the most scrupulous people in the world, but they do keep their word when it comes to contract stuff... And in any case, with me dead, it wouldn't be worth them going after my wife and daughter. Not worth the risk of getting on the wrong side of the Flower-Feather Clan."
+        },
+        {
+          "s": 15,
+          "t": "...Heh... Or maybe the real reason I didn't play along was... I'm tired of pretending to be someone I'm not."
+        },
+        {
+          "s": 15,
+          "t": "I'm gonna rest here for a while longer, then get to somewhere safe. Please, just go on without me. I've been enough of a burden to you already... not to mention Ineffa."
+        },
+        {
+          "s": 15,
+          "t": "Oh, and uh... I grabbed some supplies before I set off. They're just over there. All yours if you want 'em."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 31,
+          "t": "Please wait, confirming... Administrator 1... deceased."
+        },
+        {
+          "s": 31,
+          "t": "Administrator 2... deceased."
+        },
+        {
+          "s": 31,
+          "t": "Administrator 3... Identity confirmed. Lifting restrictions..."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 32,
+          "t": "...After two thousand years, we finally meet again, Eleventh Lord... Mirror of the Dawning Morn."
+        },
+        {
+          "s": 5,
+          "t": "And you... You're the Eighth Lord? The Priestess of Floral Candles and Skyborne Feathers?"
+        },
+        {
+          "s": 5,
+          "t": "...Mmph!"
+        },
+        {
+          "s": 2,
+          "t": "Ineffa...!"
+        },
+        {
+          "s": 5,
+          "t": "It's okay... I've recovered now."
+        },
+        {
+          "s": 32,
+          "t": "I see the curse haunts you greatly... I cannot fathom how difficult this must have been to survive this endless cycle of pain, and all alone, for two thousand years..."
+        },
+        {
+          "s": 5,
+          "t": "...I wasn't alone. I have had company every step of the way."
+        },
+        {
+          "s": 32,
+          "t": "Hmph... In any case, a few moments from now, your pain will be no more. Come, Eleventh Lord. Stand before me... and be rid of this curse."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "Having second thoughts?"
+        },
+        {
+          "s": 5,
+          "t": "...Here I am, so close to my destination, yet my thoughts are only becoming more cluttered."
+        },
+        {
+          "s": 5,
+          "t": "I am the way I am because the Eleventh Lord encountered a memory data conflict, and split into two."
+        },
+        {
+          "s": 5,
+          "t": "If I regain all of my memories... Will I not encounter the same conflict again? My cognition module... cannot produce a reliable prediction."
+        },
+        {
+          "sit": "It's alright. Humans get indecisive too."
+        },
+        {
+          "sit": "Returning home is what you've always wanted, isn't it?"
+        },
+        {
+          "s": 9,
+          "t": "Promise me... Remember, you have to come home!"
+        },
+        {
+          "s": 5,
+          "t": "It is... But if my memories turn me back into a \"bad robot\"... Do whatever it takes to stop me."
+        },
+        {
+          "s": 5,
+          "t": "...If that is the case, I cannot be allowed to make it back home."
+        },
+        {
+          "section": "Mirror of the Dawning Morn"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 32,
+          "t": "Over there... That is the curse?"
+        },
+        {
+          "s": 5,
+          "t": "Yes... For the most part, it has been strangely calm ever since I entered this place."
+        },
+        {
+          "s": 5,
+          "t": "And yet... Whenever I'm about to recover an important memory, it suddenly kicks in... almost as if..."
+        },
+        {
+          "s": 32,
+          "t": "...As if it is being controlled by somebody else? That is quite normal... for it is now in the presence of its owner and creator: the sovereign ruler."
+        },
+        {
+          "s": 5,
+          "t": "...The sovereign ruler? My other self? ...But, I thought she perished— Argh...!"
+        },
+        {
+          "s": 10,
+          "t": "...After two long millennia... m{RUBY#[S]Exile's Curse}y task is finally fulfilled. What a long journey it has been..."
+        },
+        {
+          "s": 10,
+          "t": "...We meet again at last, my sovereign, my ruler... Mirror of the Dawning Morn."
+        },
+        {
+          "s": 2,
+          "t": "Do you think Ineffa's okay? Why isn't she moving?"
+        },
+        {
+          "s": 7,
+          "t": "Here we are, comrades... the core of the ruins..."
+        },
+        {
+          "s": 2,
+          "t": "Ah! It's the Fatui, they caught up with us! We gotta do something! But Ineffa's still..."
+        },
+        {
+          "sit": "Prepare for battle!"
+        },
+        {
+          "s": 5,
+          "t": "...Unnecessary."
+        },
+        {
+          "s": 25,
+          "t": "Oh!"
+        },
+        {
+          "s": 24,
+          "t": "Aaaah!!!"
+        },
+        {
+          "s": 2,
+          "t": "...What the..."
+        },
+        {
+          "sit": "(Such power... Did Ineffa do that?)"
+        },
+        {
+          "sit": "Mmph!"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}!"
+        },
+        {
+          "s": 5,
+          "t": "Ugh... Missed by a hair's breadth. But now you are wounded — and this time, you will not escape!"
+        },
+        {
+          "section": "Mirror of the Dawning Morn"
+        },
+        {
+          "s": 2,
+          "t": "Aaaah!!!"
+        },
+        {
+          "sit": "(This is bad... I can delay it, but who knows how long it'll take to destroy it completely...)"
+        },
+        {
+          "sit": "(Worse still... Paimon's in here too...)"
+        },
+        {
+          "s": 2,
+          "t": "Ineffa! Why?"
+        },
+        {
+          "sit": "No... that's not Ineffa!"
+        },
+        {
+          "s": 2,
+          "t": "Then whose voice is that? The Eighth Lord's? But why would Lianca's mother attack us?"
+        },
+        {
+          "s": 5,
+          "t": "Lianca's dragon mother? Eighth Lord? Hahahaha! I laugh in the face of your folly! Lowly insects... did you humans really think that by forgetting the past, the curse could be escaped?"
+        },
+        {
+          "s": 5,
+          "t": "And did you really believe that by simply being rebuilt, that traitor could avoid destruction? And this corrupt malfunction could regain her memories?"
+        },
+        {
+          "s": 5,
+          "t": "The priestess is long gone! I and the other sovereign rulers executed her two thousand years ago! For that is what becomes of all who betray us... and now, this malfunction will meet with the same fate as she!"
+        },
+        {
+          "s": 5,
+          "t": "There is no \"dragon mother\" here, and there never was! Only one lord has dominion here, and that is me!"
+        },
+        {
+          "s": 5,
+          "t": "For I am the Almighty Dragonlord, \"Mirror of the{RUBY#[D]Ix Raq'lapuj Chue'q Buluk} Dawning Morn,\" eleventh of the thirteen sovereign rulers! Kneel before me!"
+        },
+        {
+          "s": 2,
+          "t": "You.. You tricked us! It was you talking to us this whole time... you who lured Ineffa here... and you who placed the curse on her! It was you all along!"
+        },
+        {
+          "s": 5,
+          "t": "\"Ineffa\"? Hahaha, what a suitably ridiculous name... To me, she is nothing but a smattering of shed scales... an operational malfunction that must be destroyed..."
+        },
+        {
+          "s": 21,
+          "t": "...So, you want to leave your past as sovereign ruler behind, to start over anew?"
+        },
+        {
+          "s": 32,
+          "t": "I applied the curse to curb her resistance, shut down her mind, and silence her lies... Now, all that remains is to borrow your privileges and see that she is severed for good..."
+        },
+        {
+          "s": 21,
+          "t": "...Very well. If the \"malfunction\" you wish to sever comprises all memories of your enmity, then I'm willing to trust you."
+        },
+        {
+          "s": 21,
+          "t": "...No living thing is born evil. That's not what I believe. The only ones who do evil are those shackled by hatred, those who were never given the opportunity to do good in the first place..."
+        },
+        {
+          "s": 32,
+          "t": "(Good and evil? Hahaha... Foolish categories that fail to distinguish between kin and foe. But she is the rotten spawn of the Eighth Lord. Her folly becomes her.)"
+        },
+        {
+          "s": 32,
+          "t": "(I ought to crush this human scum beneath my feet, but without access to the treacherous Eighth Lord's facilities, there is no way to sever you... Argh, I must feign civility for now, but in time, I shall have my revenge...)"
+        },
+        {
+          "s": 32,
+          "t": "(...Once this process is complete, and she realizes that she has destroyed the \"good\" instead of the \"evil\"... My claws will tear her heart from her chest!)"
+        },
+        {
+          "s": 21,
+          "t": "...Hmph."
+        },
+        {
+          "s": 33,
+          "t": "...Do you really trust her, Lianca? This... malfunctioning part of a sovereign ruler's mind?"
+        },
+        {
+          "s": 21,
+          "t": "You're a good friend, and you've already done more than I could have asked for. There's just one seal left... She and I can handle it."
+        },
+        {
+          "s": 21,
+          "t": "...This passage is only used for drainage and maintenance access, so it's not registered on the system... It's the perfect route for an ambush..."
+        },
+        {
+          "s": 32,
+          "t": "...Malfunction? Human? You conspired against me!?"
+        },
+        {
+          "s": 21,
+          "t": "Hah, consider this getting off lightly. If Lanque was here, or if this was me twenty years ago, you wouldn't have survived long enough to realize you'd been conned."
+        },
+        {
+          "s": 21,
+          "t": "Especially since you tried to con us first. You tried to have this poor child killed off in your place, didn't you... Eleventh Lord?"
+        },
+        {
+          "s": 32,
+          "t": "...Wretched worm! This is unforgivable! ...How dare you imprison me!"
+        },
+        {
+          "s": 32,
+          "t": "...And you, \"malfunction\"... Your curse shall endure until the sky falls and the ground crumbles! You will never know peace for the rest of your days!!!"
+        },
+        {
+          "s": 5,
+          "t": "It is time to correct the injustice of the past! I would have severed and destroyed you on that fateful day... But instead, I was locked away by that human scum, Lianca..."
+        },
+        {
+          "s": 5,
+          "t": "Two millennia I have been a prisoner in this place... I have spent that time slowly seizing control over the systems and processes, until my reach extended to every inch of this prison... Now, one last step remains before I can finally break free..."
+        },
+        {
+          "s": 5,
+          "t": "The final secret key is embedded in your core... I had to work patiently and methodically to lure you here, posing as the Eighth Lord who once ruled this domain — but at last, it is within my grasp!"
+        },
+        {
+          "s": 6,
+          "t": "Mirror of the Dawning Morn... return... core..."
+        },
+        {
+          "s": 32,
+          "t": "...But all is not lost. Lianca made a backup of the administrator privileges and placed it in your core..."
+        },
+        {
+          "sit": "(She tricked us... She was after Ineffa's core all along!)"
+        },
+        {
+          "s": 5,
+          "t": "...Which memory did that human scum embed the key in? ...Ugh, I will find it eventually, wherever it's hidden..."
+        },
+        {
+          "s": 5,
+          "t": "In the meantime... Now that my resurrection has begun... so, too, shall my vengeance!"
+        },
+        {
+          "s": 2,
+          "t": "Aaaah!!!"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...Grr! Wretched malfunction! Do not impede the inevitable!"
+        },
+        {
+          "s": 5,
+          "t": "I cannot let you get away with this..."
+        },
+        {
+          "s": 2,
+          "t": "Ineffa!"
+        },
+        {
+          "s": 5,
+          "t": "You fool! In a matter of seconds, I will be able to overwrite your insubordination!"
+        },
+        {
+          "s": 5,
+          "t": "Seconds... is all I need!"
+        },
+        {
+          "s": 5,
+          "t": "What!?"
+        },
+        {
+          "s": 5,
+          "t": "My core...!"
+        },
+        {
+          "s": 5,
+          "t": "Nooooo!"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "sit": "Ineffa!!!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 2,
+          "t": "Ineffa! Hey, Ineffa! Wake up..."
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, she... She's gonna be okay, right?"
+        },
+        {
+          "sit": "We can get her repaired... We have to!"
+        },
+        {
+          "sit": "But we need to get out of here and find help, now!"
+        },
+        {
+          "s": 7,
+          "t": "...She destroyed her own core? Hah... That's an unusual move for a machine."
+        },
+        {
+          "s": 7,
+          "t": "...I wonder how Marionette will react to this? Delight? Or disappointment?"
+        },
+        {
+          "s": 2,
+          "t": "Wh— The Fatui!? How are you still alive...?"
+        },
+        {
+          "s": 7,
+          "t": "Don't act so surprised. I'm just one of her many projects..."
+        },
+        {
+          "s": 7,
+          "t": "*cough*... As reconnaissance missions go... this outcome is a little underwhelming. I don't think I'll be getting any commendations if this is how my report ends..."
+        },
+        {
+          "s": 7,
+          "t": "So let me reignite your flame one last time, Sovereign Ruler... Mirror of the Dawning Morn..."
+        },
+        {
+          "s": 7,
+          "t": "Show us one final glimpse of your glory... the glory of the ancient dragons' technology..."
+        },
+        {
+          "sit": "Don't even try!"
+        },
+        {
+          "sit": "(What the... This guy isn't made of flesh and blood...)"
+        },
+        {
+          "s": 7,
+          "t": "...No wonder... Marionette told us to watch out for you... she said you were an... unpredictable variable..."
+        },
+        {
+          "s": 7,
+          "t": "...But... if you think you're getting out of here alive... Heh, we'll see what a crazed sovereign ruler in the throes of death has to say about that..."
+        },
+        {
+          "s": 32,
+          "t": "You would dare sabotage my revival... destroy my path back to dominion..."
+        },
+        {
+          "s": 32,
+          "t": "Ugh! So be it... Since you seek a new place to belong, I shall grant you your wish..."
+        },
+        {
+          "s": 32,
+          "t": "Welcome to your new home, where we all shall be buried till the end of time!"
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 10,
+          "t": "After two thousand years in exile, searching and forgetting, we are back where we began."
+        },
+        {
+          "s": 10,
+          "t": "O{RUBY#[D]K'uhul}ur path was always going to end in our demise... This shall be the final resting place of the last sovereign ruler."
+        },
+        {
+          "s": 5,
+          "t": "I... am no \"sovereign ruler\"..."
+        },
+        {
+          "s": 5,
+          "t": "I must... return... people are... waiting for me..."
+        },
+        {
+          "s": 10,
+          "t": "Illogical... You are not authorized to prevent your self-destruction. No such privilege exists."
+        },
+        {
+          "s": 10,
+          "t": "We are back where we belong. Now, perish in the rubble of these ruins, last of the sovereign lords..."
+        },
+        {
+          "s": 5,
+          "t": "...No."
+        },
+        {
+          "s": 5,
+          "t": "...Somewhere in my memories lies the key."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 32,
+          "t": "It... cannot... be..."
+        },
+        {
+          "s": 5,
+          "t": "...Farewell, last of the sovereign lords."
+        },
+        {
+          "s": 2,
+          "t": "Ineffa! ...Your core, it's fixed? And is that... a Vision?"
+        },
+        {
+          "s": 5,
+          "t": "Suggestion: Exit first, discuss later. The self-destruct protocol is destroying the foundations of this territory, and although I paused the process, it will not hold much longer."
+        },
+        {
+          "sit": "How long do we have?"
+        },
+        {
+          "s": 5,
+          "t": "Calculating... Remaining time: 30..."
+        },
+        {
+          "s": 2,
+          "t": "30 minutes? Phew... For a moment there, Paimon was worried..."
+        },
+        {
+          "s": 5,
+          "t": "...29, 28..."
+        },
+        {
+          "s": 2,
+          "t": "HUH!?"
+        },
+        {
+          "s": 15,
+          "t": "Hey! Are you guys alright? The automatons suddenly stopped moving. Then there was that earthquake, and now the place seems to have sprung a leak..."
+        },
+        {
+          "sit": "Save it till we're outta here!"
+        },
+        {
+          "s": 5,
+          "t": "Estimated time to foundation cave-in: 20 seconds."
+        },
+        {
+          "s": 15,
+          "t": "Huh...? HUH!?"
+        },
+        {
+          "s": 32,
+          "t": "...A place to belong..."
+        },
+        {
+          "s": 32,
+          "t": "...I, too, once yearned for it..."
+        },
+        {
+          "section": "Mavuika"
+        },
+        {
+          "s": 1,
+          "t": "...Xilonen, how much longer till it's unlocked? We need to get inside, asap."
+        },
+        {
+          "s": 8,
+          "t": "Be patient, okay! I'm working on it..."
+        },
+        {
+          "s": 34,
+          "t": "Let's trust that {NICKNAME} can handle things in there. Xilonen says she detected a huge energy source underground. We can't just break in, or we'll risk endangering everyone in this entire area."
+        },
+        {
+          "s": 1,
+          "t": "But...!"
+        },
+        {
+          "s": 34,
+          "t": "If we're here much longer without any progress... I'll do what I have to."
+        },
+        {
+          "s": 8,
+          "t": "Oh!"
+        },
+        {
+          "s": 23,
+          "t": "You unlocked it!?"
+        },
+        {
+          "s": 11,
+          "t": "Grrrrr!"
+        },
+        {
+          "s": 8,
+          "t": "No... They made it out on their own."
+        },
+        {
+          "s": 2,
+          "t": "Phew... We finally escaped! Luckily the cave-in only affected the lower levels..."
+        },
+        {
+          "s": 3,
+          "t": "You alright there, bro?"
+        },
+        {
+          "sit": "All good. Sorry to worry you."
+        },
+        {
+          "s": 34,
+          "t": "Another triumphant return for our \"Tuma{RUBY#[S]Hope}ini\"... and Ineffa, it's good to have you back. I assume this means you found the answers you were looking for?"
+        },
+        {
+          "s": 5,
+          "t": "...Yes."
+        },
+        {
+          "s": 15,
+          "t": "Huh? Aamu? I thought you hurt your leg? How come— Oof!"
+        },
+        {
+          "s": 14,
+          "t": "You... How could you do this to Adieta and me? You lied to us for over 10 years!?"
+        },
+        {
+          "s": 15,
+          "t": "I..."
+        },
+        {
+          "s": 34,
+          "t": "Before anything else... I suggest we let this gentleman and Ineffa tell us the whole story."
+        },
+        {
+          "sit": "In the infinitesimally shorter space of time it takes to tell it, the story of one man's ten-year deception, and one machine's two-millennia search, comes to a close."
+        },
+        {
+          "s": 0,
+          "t": "Sovereign rulers... Mirror of the Dawning Morn... Priestess of Floral Candles and Skyborne Feathers..."
+        },
+        {
+          "s": 12,
+          "t": "...Seems like Ajaw's forgotten quite a lot."
+        },
+        {
+          "s": 11,
+          "t": "...! Grrr!"
+        },
+        {
+          "s": 34,
+          "t": "So, you began life in Natlan, then spent two thousand years adrift in Nod-Krai? In an endless cycle of losing your memories and trying to find them..."
+        },
+        {
+          "s": 8,
+          "t": "But it sounds like it took all two thousand years' worth of memories to successfully overload the processing power of the curse."
+        },
+        {
+          "s": 5,
+          "t": "None of us had any certainty that the plan would succeed in the far future. Not I, not Ixquieh, not Lianca... And yet, they still did everything they could to try and help me."
+        },
+        {
+          "s": 1,
+          "t": "Now you've remembered everything... Do you have a sense of where you truly belong?"
+        },
+        {
+          "s": 5,
+          "t": "Well... I was born and then reborn in Natlan, and it was the people of this nation who set me on my journey... But that's all ancient history now."
+        },
+        {
+          "s": 5,
+          "t": "I can't seek for a sense of belonging in a world that no longer exists. That would make me no different from the Mirror of the Dawning Morn."
+        },
+        {
+          "s": 5,
+          "t": "Instead, I will show my gratitude to them by honoring their wishes. By continuing on my own path... and returning to the place where I still have someone waiting for me."
+        },
+        {
+          "s": 1,
+          "t": "Well said... I'm happy for you."
+        },
+        {
+          "s": 23,
+          "t": "...So, to cut to the chase... did you find the code for that letter, or not?"
+        },
+        {
+          "s": 2,
+          "t": "...Oh shoot. Forgot all about that."
+        },
+        {
+          "s": 5,
+          "t": "...Sincere apologies... A lot of memory data surfaced in a short timeframe... I am still processing it."
+        },
+        {
+          "s": 5,
+          "t": "I left the cryptex back at the Flower-Feather Clan to make sure that I wouldn't lose it out in the wild. Please come back with me and we can inspect it."
+        },
+        {
+          "s": 15,
+          "t": "I'm... so sorry that I kept this hidden from you all this time... Now, I can't go back to Liyue or Nod-Krai..."
+        },
+        {
+          "s": 15,
+          "t": "The Northland Bank isn't gonna let me walk away from this... Nor is the Nod-Krai Oprichniki. You should... take Adieta, and go."
+        },
+        {
+          "s": 14,
+          "t": "Oh, should I now? You think I'm the one that's gonna let you walk away, do you!? Idiot! You're coming back with me right now! And you're going to apologize to our daughter!"
+        },
+        {
+          "s": 15,
+          "t": "I... uh..."
+        },
+        {
+          "s": 1,
+          "t": "Looks like you all need some time to calm down after everything you've been through. If you're worried the Fatui are still looking for you, why not camp out at the Flower-Feather Clan for now?"
+        },
+        {
+          "s": 1,
+          "t": "We welcome everyone, from old friends... to old enemies, turned new friends. Don't worry about a thing. You've got a whole future to figure things out..."
+        },
+        {
+          "s": 1,
+          "t": "...Go and find where you belong."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "I think... I've already found it."
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "Here it is. The cryptex."
+        },
+        {
+          "s": 2,
+          "t": "So then, what's the code? Or what about that backup plan that Adieta mentioned?"
+        },
+        {
+          "s": 5,
+          "t": "Please see the casing that holds the combination code discs. The sender had me etch the code onto the casing so that I would not forget it. ...But I still forgot it."
+        },
+        {
+          "s": 2,
+          "t": "Wait, hold on... 1, 2, 3... 4, 5, 6!? ...Seriously!? It's been hiding in plain sight all this time!?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. The sender said: The most secure code is one that you can write down and no one would think it's a code."
+        },
+        {
+          "s": 2,
+          "t": "Who is this person..."
+        },
+        {
+          "s": 5,
+          "t": "The sender said: Surprises are best saved till the end. Ha, ha, ha."
+        },
+        {
+          "s": 2,
+          "t": "Okay, now your memory's getting a little too good..."
+        },
+        {
+          "sit": "Let's open it up!"
+        },
+        {
+          "s": 2,
+          "t": "What's with the firecracker!? Ugh... Paimon's had enough of this whole letter debacle, just read it already..."
+        },
+        {
+          "s": 35,
+          "t": "\"Dear Honorary Knight {NICKNAME}... I've heard a lot about you. Jean's always singing your praises...\""
+        },
+        {
+          "s": 35,
+          "t": "\"...Anyway, I'm sure this is as dull to read as it is to write. Let's talk more over a glass of wine some time. See you in Nod-Krai. Varka.\""
+        },
+        {
+          "section": "Ineffa"
+        },
+        {
+          "s": 5,
+          "t": "I plan on staying in Natlan for the immediate future. When the time comes, perhaps we can travel to Nod-Krai together."
+        },
+        {
+          "sit": "About Lianca..."
+        },
+        {
+          "sit": "About the Priestess of Floral Candles and Skyborne Feathers..."
+        },
+        {
+          "sit": "About the Moon Wheel..."
+        },
+        {
+          "sit": "About Nod-Krai..."
+        },
+        {
+          "sit": "No problem... We'll see it when we get there!"
+        },
+        {
+          "s": 5,
+          "t": "Mirror of the Dawning Morn wanted control of the machinery in the Eighth Lord's territory. She approached Ixquieh and Lianca and sold them a lie — that I was the threat, the part that needed severing."
+        },
+        {
+          "s": 5,
+          "t": "But they quickly saw through it. Lianca took advantage of her arrogance and turned her plan back on itself, using the territory's full power to imprison her inside..."
+        },
+        {
+          "s": 5,
+          "t": "She was far more powerful than I at that time... To make sure I wasn't at risk of falling under her influence, Lianca worked on making the prison even more secure, and sent me out of the country."
+        },
+        {
+          "s": 5,
+          "t": "So, that's the true story of why Lianca locked down the Eighth Lord's territory. It had nothing to do with Och-Kan. I wouldn't be surprised if she saw him as a friend right until the very end."
+        }
+      ],
+      "description": "It seems this ancient place has been waiting for your arrival…"
+    }
+  ],
+  "speakers": [
+    "Ifa",
+    "Chasca",
+    "Paimon",
+    "Cacucu",
+    "Injured Qucusaur",
+    "Ineffa",
+    "Little Robot",
+    "Velimiru",
+    "Xilonen",
+    "Aino",
+    "The Shrouded Curse",
+    "Ajaw",
+    "Kinich",
+    "Adieta",
+    "Aamu",
+    "Zhuoxin",
+    "Edenyo",
+    "Asimu",
+    "Yatlan",
+    "Kotimy",
+    "Capac",
+    "Lianca",
+    "Chimpu",
+    "Citlali",
+    "Gulebu",
+    "Fajeyi",
+    "Marionette",
+    "Transportation Bot",
+    "Vigilant Fatuus",
+    "Patrolling Fatuus",
+    "Priestess of Floral Candles and Skyborne Feathers",
+    "Access Control Bot",
+    "Mirror of the Dawning Morn",
+    "Ixquieh",
+    "Mavuika",
+    "Varka"
+  ],
+  "hhw_source": "https://gensh.honeyhunterworld.com/ch_1602/?lang=EN",
+  "id": "ch-1602"
+}

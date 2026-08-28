@@ -1,0 +1,575 @@
+{
+  "chapter": "Unreconciled Stars - I",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Unknown Star",
+  "region": null,
+  "quests": [
+    {
+      "title": "Unknown Star",
+      "dialogue": [
+        {
+          "section": "Katheryne"
+        },
+        {
+          "s": 0,
+          "t": "Hello, Traveler. You couldn't have come at a better time."
+        },
+        {
+          "s": 1,
+          "t": "What do you mean? Has something bad happened?"
+        },
+        {
+          "s": 0,
+          "t": "I'm afraid so. It's quite serious... We need all the help from our adventurers that we can get."
+        },
+        {
+          "s": 0,
+          "t": "So, I have an extremely urgent commission for you, Traveler."
+        },
+        {
+          "s": 0,
+          "t": "(test)陨石坠落Cutscene"
+        },
+        {
+          "s": 1,
+          "t": "Whoa... That does sound pretty serious..."
+        },
+        {
+          "s": 0,
+          "t": "Truth be told, we have never encountered anything like this before."
+        },
+        {
+          "s": 0,
+          "t": "The Adventurers' Guild is currently stretched beyond capacity. We are relying on our members across the land to rally together and support the relief effort at this trying time."
+        },
+        {
+          "sit": "I will surely do my part."
+        },
+        {
+          "sit": "Thanks for the info! I'd better hop to it~"
+        },
+        {
+          "s": 0,
+          "t": "One moment, safety must come first..."
+        },
+        {
+          "s": 2,
+          "t": "Katheryne! Vassal of the Immernachtreich, do mine ears deceive me, or didst thou cry out mine holy name in earnest supplication not one moment ago?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, you've arrived."
+        },
+        {
+          "s": 3,
+          "t": "A pleasure to meet you again, Katheryne."
+        },
+        {
+          "s": 1,
+          "t": "Ah! Did that raven just speak!?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, nice to meet you too, my friend... Though I'm sure you must have seen phenomena far stranger than myself before?"
+        },
+        {
+          "s": 2,
+          "t": "My loyal subjects, I see your faces are filled with fear and trepidation at the vile and villainous evils that once again seek, albeit in vain, to disturb the peace and tranquility of our beloved Mondstadt."
+        },
+        {
+          "s": 0,
+          "t": "Traveler, allow me to introduce Miss Fischl, a senior member of the Adventurers' Guild."
+        },
+        {
+          "s": 0,
+          "t": "Fischl, Oz, this is the Traveler of whom I have spoken to you previously."
+        },
+        {
+          "s": 2,
+          "t": "Oh? You are the Traveler? Hmm... One finds the look in your eyes to be most agreeable."
+        },
+        {
+          "s": 3,
+          "t": "Honorary Knight of the Knights of Favonius, and travel companion Paimon, we are honored to meet you both. We have heard much about you."
+        },
+        {
+          "s": 2,
+          "t": "Traveler, do you also mean to confront these cryptic crystals of darkness and doom?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Cry—Crystic cryptals of... doomness and... What?"
+        },
+        {
+          "sit": "Katheryne, is that the same thing you were talking about?"
+        },
+        {
+          "s": 3,
+          "t": "I believe that mein Fräulein does indeed refer to the <color=#00E1FFFF>meteorite strike</color>."
+        },
+        {
+          "s": 0,
+          "t": "The Adventurers' Guild has so far been unable to ascertain the cause of the meteor shower, or the precise side effects of the meteorites. Hence, we recommend that adventurers travel in pairs for safety."
+        },
+        {
+          "s": 0,
+          "t": "Traveler, Fischl, please look out for one another on your journey, and exercise extreme caution at all times."
+        },
+        {
+          "s": 2,
+          "t": "Hm. Very well then. You have always been a pious vassal, Katheryne, and thus I shall acquiesce to your heartfelt plea for mine assistance."
+        },
+        {
+          "s": 2,
+          "t": "Rejoice! For to join the Prinzessin der Verurteilung on her majestic mission for but a fleeting moment is surely cause for an eternity of elation!"
+        },
+        {
+          "s": 3,
+          "t": "This young lady is my master, Princess Fischl. She hails from a world beyond known as Immernachtreich. I am mein Fräulein's humble familiar, Oz the Raven."
+        },
+        {
+          "s": 1,
+          "t": "Wow... That all sounds very impressive..."
+        },
+        {
+          "s": 1,
+          "t": "My name's Paimon, and {NICKNAME}'s a traveler. We look forward to working with you!"
+        },
+        {
+          "sit": "Did you say... \"a world beyond\"?"
+        },
+        {
+          "sit": "\"Immernachtreich...\"? Never heard of that place before."
+        },
+        {
+          "s": 0,
+          "t": "In time, you will understand... The more time you spend with Miss Fischl, the clearer everything will become..."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, blind to the glory of the Immernachtreich, realm of everlasting night... Though, one could hardly expect more from a lowly traveler... Hence, it is not blasphemy, but ignorance, that be the cause of this transgression. One will therefore show clemency."
+        },
+        {
+          "s": 1,
+          "t": "Clemency?"
+        },
+        {
+          "s": 3,
+          "t": "Mein Fräulein means to say: \"Hello.\""
+        },
+        {
+          "s": 1,
+          "t": "These guys are the weirdest double act Paimon's ever seen... The girl sounds strange enough as it is, but every time her pet bird talks, it gets even weirder..."
+        },
+        {
+          "s": 3,
+          "t": "I am sure that you must have many questions. Perhaps we can walk — or indeed fly — and talk."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and that's another thing... What's all this about traveling in pairs? This is clearly a party of four!"
+        },
+        {
+          "section": "Fischl"
+        },
+        {
+          "s": 1,
+          "t": "We're in Springvale now. Katheryne said that this is the closest impact site to the city."
+        },
+        {
+          "s": 3,
+          "t": "The situation looks even worse than we imagined."
+        },
+        {
+          "sit": "So many people have fainted."
+        },
+        {
+          "s": 2,
+          "t": "Ring the bells, sound the trumpets, for the day of judgment is upon us! Rejoice, all ye who cry out for salvation, for the Prinzessin der Verurteilung has come!"
+        },
+        {
+          "s": 1,
+          "t": "This princess lady seems really enthusiastic."
+        },
+        {
+          "section": "Joyce"
+        },
+        {
+          "s": 2,
+          "t": "Dear mortals, in this dark hour, your Prinzessin permits you to forgo the usual etiquette and simply relay your account of the matter at hand forthrightly."
+        },
+        {
+          "s": 4,
+          "t": "...Excuse me? Who are you?"
+        },
+        {
+          "s": 3,
+          "t": "We come in peace, good sir. We were just hoping that you could reveal whatever you know about this poor victim's situation."
+        },
+        {
+          "s": 1,
+          "t": "Wait, wait! Stop, let Paimon explain... We're from the Adventurers' Guild. They commissioned us to come here and investigate after the meteor shower."
+        },
+        {
+          "s": 4,
+          "t": "Oh, I see. Well, last night, this fellow touched the meteorite, and then he fainted just moments later."
+        },
+        {
+          "s": 4,
+          "t": "So, however you plan to conduct your investigation, I implore you: Do not, under any circumstances, touch the meteorites with your bare hands."
+        },
+        {
+          "s": 2,
+          "t": "What ridiculous remonstration is this? Is one not under the divine protection of one's Edelstein der Dunkelheit, and thus impervious to the trifling threat posed by this petty piece of black crystal?"
+        },
+        {
+          "s": 3,
+          "t": "On the contrary, mein Fräulein, wise is the princess who is receptive to the sound advice offered by her subjects."
+        },
+        {
+          "s": 2,
+          "t": "Is that so... Very well then, one shall proceed as advised."
+        },
+        {
+          "s": 1,
+          "t": "That goes for you, too, {NICKNAME}! Wise is the adventurer who is receptive to the sound advice offered by smart people!"
+        },
+        {
+          "sit": "Yes, Paimon..."
+        },
+        {
+          "s": 1,
+          "t": "Ehehehe, Paimon never gets to talk like that! Oh, Paimon could get used to it, though..."
+        },
+        {
+          "s": 2,
+          "t": "You dare to parrot the parlance of the Prinzessin!? Hmph! What could one hope to comprehend of the lamenting of a thousand dying worlds with the sagacity of a mere mortal?"
+        },
+        {
+          "s": 2,
+          "t": "Perhaps it is better that you remain in blissful ignorance, for the burden of fate borne by the Prinzessin der Verurteilung would surely be too much for thy shoulders."
+        },
+        {
+          "sit": "Please lead the way, O fair Princess."
+        },
+        {
+          "section": "Adler"
+        },
+        {
+          "s": 1,
+          "t": "Look, another victim!"
+        },
+        {
+          "s": 2,
+          "t": "Pray tell, O Knight, what tragedy befell this unfortunate subject of mine?"
+        },
+        {
+          "s": 5,
+          "t": "Um... He— He's been sleeping all day and shows no signs of waking up."
+        },
+        {
+          "sit": "Did he touch the meteorite?"
+        },
+        {
+          "sit": "Are there any other symptoms besides the deep sleep?"
+        },
+        {
+          "s": 5,
+          "t": "He did. And now he's fast asleep, occasionally he also sleep-talks."
+        },
+        {
+          "s": 5,
+          "t": "Can't go on... n—need to rest..."
+        },
+        {
+          "s": 1,
+          "t": "Wh—What's going on? Why is he saying that?"
+        },
+        {
+          "s": 2,
+          "t": "His dark dream harbors a forbidden fruit, poised between the jaws of a ferocious beast... Woe betide the weak should they peer into its eyes, as black as a moonless midnight, for they shall surely be lured into the abyss..."
+        },
+        {
+          "s": 1,
+          "t": "Do you mean... There's something luring him in his dream?"
+        },
+        {
+          "s": 3,
+          "t": "Though we have no evidence to prove it, mein Fräulein's intuition has never failed her before."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Well, let's keep investigating anyway!"
+        },
+        {
+          "section": "Edna"
+        },
+        {
+          "s": 6,
+          "t": "Greetings, I am Sister Edna. I am here to nurse the sick."
+        },
+        {
+          "s": 2,
+          "t": "State your name at once, you heinous heathen of nefarious nightmares!"
+        },
+        {
+          "s": 3,
+          "t": "My apologies, mein Fräulein was not addressing you... This man lying on the ground — has he spoken at all?"
+        },
+        {
+          "s": 6,
+          "t": "I believe he said something about having to get back to work..."
+        },
+        {
+          "s": 7,
+          "t": "The wine... The wine..."
+        },
+        {
+          "sit": "So he works in the wine business?"
+        },
+        {
+          "s": 3,
+          "t": "He seems to be sleeping deeply indeed."
+        },
+        {
+          "s": 2,
+          "t": "This is no ordinary dream... This man... he has been cursed!"
+        },
+        {
+          "s": 1,
+          "t": "Can't you just wake him up?"
+        },
+        {
+          "s": 6,
+          "t": "I have tried. He awoke once, for a brief moment, but quickly lapsed back into sleep."
+        },
+        {
+          "s": 1,
+          "t": "Um... Did he tell you anything while he was awake?"
+        },
+        {
+          "s": 6,
+          "t": "He said he dreamed he was on top of a mountain, and it was very cold there."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Mountain, cold... Hmm..."
+        },
+        {
+          "s": 2,
+          "t": "This has the trappings of a cruel, cold curse by a mountain-dwelling demon... Alas! One fears these demons have descended from their icy peaks and now covet the domain of the spring fairy!"
+        },
+        {
+          "s": 2,
+          "t": "This is a most grave state of affairs... But fear not, for damnation is mine to dispense—"
+        },
+        {
+          "s": 8,
+          "t": "Sorry to interrupt you, folks — do you have a moment to spare?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, hey, Draff! What's the matter?"
+        },
+        {
+          "s": 8,
+          "t": "It's... I—I can hardly get the words out..."
+        },
+        {
+          "s": 8,
+          "t": "One of the <color=#00E1FFFF>meteorites</color> struck the <color=#00E1FFFF>hill behind our village</color>. <color=#00E1FFFF>Allan</color> told everyone he was going to go see it for himself... And then, sure enough, he just ran off."
+        },
+        {
+          "s": 8,
+          "t": "You've seen how dangerous these confounded meteorites are. I'm afraid something may have happened to him... Could you come with me to find him and bring him back?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, so... Big blazing rocks fall out of the sky, and all Allan's worried about is missing out on the action!?"
+        },
+        {
+          "s": 8,
+          "t": "Exactly! Once we get that rascal back safely, he's due for the scolding of a lifetime, if you ask me!"
+        },
+        {
+          "s": 1,
+          "t": "Paimon could not agree more! Let's go find that rascal and drag him back by the ears!"
+        },
+        {
+          "section": "Allan"
+        },
+        {
+          "s": 9,
+          "t": "Phew! I thought I was going to die here..."
+        },
+        {
+          "s": 8,
+          "t": "You fool! What were you thinking, gallivanting off on your own at a time like this!?"
+        },
+        {
+          "s": 9,
+          "t": "I—I'm sorry! I'll never do it again!"
+        },
+        {
+          "s": 8,
+          "t": "I sincerely apologize for the trouble Allan has caused for you all. I will make absolutely sure that he learns his lesson!"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, next time you think about doing something stupid, think again!"
+        },
+        {
+          "sit": "The meteorite is just over there."
+        },
+        {
+          "s": 1,
+          "t": "Paimon's gonna go take a closer loo— Huh? Princess, your <color=#00E1FFFF>Vision</color> is <color=#00E1FFFF>flashing</color>!"
+        },
+        {
+          "s": 2,
+          "t": "Oh? Could it be, perchance, that mine Edelstein der Dunkelheit portends the certain demise of this unholy hex of cold?"
+        },
+        {
+          "s": 1,
+          "t": "Maybe...? What kind of things does your Vision react to, exactly?"
+        },
+        {
+          "s": 2,
+          "t": "The profoundest of enigmas... the whispered secrets of the stars... unholy hexes of demon bones... and—"
+        },
+        {
+          "s": 1,
+          "t": "Whaaaat? Why do you have to talk so funny all the time, Paimon doesn't understand!"
+        },
+        {
+          "s": 3,
+          "t": "Our apologies, mein Fräulein is not well-versed in the parlance of the common folk."
+        },
+        {
+          "s": 1,
+          "t": "Ooooh, so that's what you're for? To translate?"
+        },
+        {
+          "s": 3,
+          "t": "I fear you misunderstand — I am no translator, but a humble conveyor of mein Fräulein's royal will. I would venture that what her <color=#00E1FFFF>Vision</color> is reacting to in this vicinity is, quite simply, <color=#00E1FFFF>elemental energy</color>."
+        },
+        {
+          "s": 2,
+          "t": "Ahem, thank you, Oz. Those whose minds are muddled by the mundane matters of this woeful world are unable to fathom my noble intent as swiftly as thou art..."
+        },
+        {
+          "s": 1,
+          "t": "So, there's elemental energy in the meteorite? And your Vision flashes in response to it?"
+        },
+        {
+          "sit": "With a Vision, can you trace the elemental energy back to its source?"
+        },
+        {
+          "sit": "Shouldn't the source of the energy also respond in like fashion?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon thinks... probably yes? Anyway, no harm in giving it a try! Let's look for <color=#00E1FFFF>shards of meteorite</color> using Fischl's <color=#00E1FFFF>Vision</color> — clearing them away will help make the area less dangerous."
+        },
+        {
+          "section": "Fischl"
+        },
+        {
+          "s": 1,
+          "t": "That seems to be the last of them. Do you think getting rid of them will help make things better for the Springvale villagers?"
+        },
+        {
+          "s": 3,
+          "t": "The question is, are these shards of meteorite, which are infused with elemental energy, the true source of the calamity, or not?"
+        },
+        {
+          "s": 2,
+          "t": "Verily, I say, these meteorites are surely the source of the nefarious nightmares that assail my subjects! This I swear on my very sovereignty."
+        },
+        {
+          "sit": "...Shall we check in with the villagers, then?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, let's do that!"
+        },
+        {
+          "section": "Edna"
+        },
+        {
+          "s": 1,
+          "t": "Edna! We got rid of the meteorite up on the hill behind the village. How are the victims doing now? Any better?"
+        },
+        {
+          "s": 6,
+          "t": "Bless you! Thanks to your efforts, two of the victims have already awoken."
+        },
+        {
+          "s": 7,
+          "t": "Ugh... I'm so sleepy... *yawn*"
+        },
+        {
+          "s": 1,
+          "t": "Great, so it did work!"
+        },
+        {
+          "s": 6,
+          "t": "I do hope you are able to dispose of the rest of the <color=#00E1FFFF>meteorites</color> around the village..."
+        },
+        {
+          "sit": "Then everyone else will wake up, too!"
+        },
+        {
+          "s": 3,
+          "t": "This is wonderful news, it gladdens the heart."
+        },
+        {
+          "s": 2,
+          "t": "Haha, it is most gladdening, indeed. Yet the news that I would be attending to this matter in person was surely the only guarantee that my faithful subjects ever needed of a felicitous outcome!"
+        },
+        {
+          "s": 1,
+          "t": "Hey, you just woke up, right? What were you dreaming about while you were asleep?"
+        },
+        {
+          "s": 7,
+          "t": "All I remember is that it was cold... I was walking along a <color=#00E1FFFF>mountain</color> path... In the ice and snow, I think..."
+        },
+        {
+          "s": 1,
+          "t": "So... Just hiking in the mountains? Or were you supposed to have a destination?"
+        },
+        {
+          "s": 7,
+          "t": "Ah, I really don't know... In my dream, it felt like... I wasn't in full control of my actions."
+        },
+        {
+          "s": 2,
+          "t": "Then thou wert surely cursed, I say! O, wretched scourge upon this land..."
+        },
+        {
+          "sit": "(A curse? Could it really be?)"
+        },
+        {
+          "s": 1,
+          "t": "Well, whatever the case, what we do know is that getting rid of the meteorite shards is helping. So, c'mon guys, we need to redouble our efforts!"
+        }
+      ],
+      "description": "Katheryne of the Mondstadt Adventurers’ Guild seems to have something to tell you."
+    }
+  ],
+  "speakers": [
+    "Katheryne",
+    "Paimon",
+    "Fischl",
+    "Oz",
+    "Joyce",
+    "Adler",
+    "Edna",
+    "Hartman",
+    "Draff",
+    "Allan"
+  ],
+  "id": "q-41111"
+}

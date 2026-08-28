@@ -1,0 +1,666 @@
+{
+  "chapter": "Thelxie's Fantastic Adventures: Part I",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Water Imp's Conjecture",
+  "region": null,
+  "quests": [
+    {
+      "title": "Water Imp's Conjecture",
+      "dialogue": [
+        {
+          "section": "Delaroche"
+        },
+        {
+          "s": 0,
+          "t": "That can't be, right? Hmm... But what if they're real after all? No, that can't be... but what if there's a chance?"
+        },
+        {
+          "s": 1,
+          "t": "Greetings, Miss! Is there something that's bothering you?"
+        },
+        {
+          "s": 0,
+          "t": "Oh? No, it's nothing... I'm Delaroche, the representative of the Fontaine Fishing Association. How can I help you?"
+        },
+        {
+          "sit": "We received your commission request."
+        },
+        {
+          "s": 0,
+          "t": "Oh, so you're adventurers! Finally, someone has heard my prayers..."
+        },
+        {
+          "s": 1,
+          "t": "Paimon could tell you're really bothered by something! Don't worry, you've got two super-experienced adventurers right here. We'll take care of anything and everything for ya as long as you pay us a little bit of Mora!"
+        },
+        {
+          "s": 0,
+          "t": "Ahh, you're exactly the helpers I need! See, the problem is that the fish around a fishing spot at Erinnyes have just all up and vanished recently!"
+        },
+        {
+          "s": 0,
+          "t": "They disappeared too quickly for it to have been the work of human anglers. As the representative of the Fishing Association, I had planned to go and investigate the area right away..."
+        },
+        {
+          "sit": "But?"
+        },
+        {
+          "s": 0,
+          "t": "Ahem... Right... But unfortunately, as the representative of the Fishing Association, there are a few other errands that I absolutely have to run, so..."
+        },
+        {
+          "s": 1,
+          "t": "So you'd like us to investigate the spot for you?"
+        },
+        {
+          "s": 0,
+          "t": "Exactly! You're right on the Mora! So I thought I could delegate this work to you... Are you two some kind of prophets, knowing exactly what I was going to say like that? Or maybe like the oracles you read about in fairytales...?"
+        },
+        {
+          "sit": "Nope, we already told you that we're adventurers."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, we're just really experienced in this kind of thing, that's all!"
+        },
+        {
+          "s": 0,
+          "t": "Haha, well, I'm glad to hear it! I'll get a good night's sleep knowing the two of you are on the case."
+        },
+        {
+          "s": 1,
+          "t": "But don't we just need to investigate the missing fish? It really doesn't sound too difficult..."
+        },
+        {
+          "s": 0,
+          "t": "No, you mustn't let your guard down. As the representative of the Fishing Association, I have good reason to believe that the fish have gone missing due to an encounter with the Water Imps..."
+        },
+        {
+          "sit": "...Water Imps?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. You're both outlanders, right? Our local fairytales often speak of a terrifying underwater creature called Thelxie."
+        },
+        {
+          "s": 0,
+          "t": "The story our parents would tell us was always the same... If we went to the water alone, then we'd be snatched away and eaten by a Water Imp called Thelxie."
+        },
+        {
+          "s": 1,
+          "t": "A child-eating Water Imp!? Did they tell you what it looked like?"
+        },
+        {
+          "s": 0,
+          "t": "My father would always describe it as a beautiful, multi-colored snake-woman, while my mother said it had a handsome face. It's really strange, though, because you'd also hear other people describe it as just a chubby penguin with a deceptive appearance..."
+        },
+        {
+          "s": 0,
+          "t": "Even though the tales vary regarding its appearance, everyone agrees that it's really dangerous. It lives in an underwater cave surrounded by pallid bones and uses its sensitive nose to track down lonely children who've lost their way..."
+        },
+        {
+          "s": 0,
+          "t": "And once it finds a child, it uses its alluring singing voice to lure them into the water before swallowing them whole. Pretty terrifying, isn't it?"
+        },
+        {
+          "s": 1,
+          "t": "Uhh... sounds kinda scary, but isn't that pretty normal for a fairytale? After all, those kinds of stories are usually made up to help keep children away from danger..."
+        },
+        {
+          "s": 0,
+          "t": "But what if the fairytale was inspired by a real-life tale? Just like how a Water Vein always has a source."
+        },
+        {
+          "sit": "Do you have any concrete evidence?"
+        },
+        {
+          "s": 0,
+          "t": "Well, I wouldn't call it \"evidence,\" per se, but I've heard some rumors lately... They say that someone recently saw a child walk into the water as if he was possessed by something. Doesn't that sound just like he was responding to the call of a Water Imp?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? So you mean someone really got eaten by a Water Imp?"
+        },
+        {
+          "s": 0,
+          "t": "It's all hearsay, so it's hard to confirm. But still, they all say this happened on Erinnyes! That's no laughing matter if you ask me."
+        },
+        {
+          "s": 0,
+          "t": "Both the opera house and the Fountain of Lucine were built there, and the sources of many Water Veins can be traced to the island as well. Combine that with the mysterious mist, the huge tree with expansive underground roots, and the rumor that the vishaps on the island can understand human language..."
+        },
+        {
+          "s": 0,
+          "t": "Is it really so shocking that an island so shrouded in mystery could harbor a terrifying Water Imp as well?"
+        },
+        {
+          "s": 1,
+          "t": "Uh, why does Paimon feel like you're pulling our leg... You're just piling on the rumors now. Still, if someone's really been hurt, then we can't just ignore the situation, right {NICKNAME}?"
+        },
+        {
+          "sit": "We'll go check it out."
+        },
+        {
+          "s": 0,
+          "t": "Marvelous, then I'll just mark the stretch of water on your map! Don't forget that no matter what, safety always comes first."
+        },
+        {
+          "section": "Thelxie"
+        },
+        {
+          "s": 2,
+          "t": "-.. -... .-- -...?"
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "sit": "(The footprints extend all the way into the water...)"
+        },
+        {
+          "s": 1,
+          "t": "These look pretty fresh... Did the Water Imp get someone again? Let's look around and see if we can find anything else."
+        },
+        {
+          "s": 1,
+          "t": "Wait, {NICKNAME}! Did you hear something just now?"
+        },
+        {
+          "sit": "Gurgling noises can be heard coming from the water..."
+        },
+        {
+          "section": "Thelxie"
+        },
+        {
+          "s": 2,
+          "t": "-.. -... .-- -...?"
+        },
+        {
+          "s": 1,
+          "t": "So that's Freminet's version of Thelxie. It's also penguin-shaped, just like Pers!"
+        },
+        {
+          "s": 3,
+          "t": "Yep. Had Thelxie lived in Penguin Town, he'd probably have become great friends with Pers."
+        },
+        {
+          "sit": "Where's Penguin Town?"
+        },
+        {
+          "s": 3,
+          "t": "...It's not really anywhere famous or important. Don't worry about it."
+        },
+        {
+          "s": 1,
+          "t": "Hey, Thelxie! Nice to meet you! Do you know how to say hello?"
+        },
+        {
+          "s": 2,
+          "t": "-.. -... .-- -...?"
+        },
+        {
+          "sit": "So can Thelxie talk?"
+        },
+        {
+          "s": 3,
+          "t": "I wanted to install a language output module, but due to time constraints, I had to give up on the idea."
+        },
+        {
+          "s": 3,
+          "t": "As it stands, Thelxie can only output messages that were pre-written into its motherboard. I haven't given him the ability to convert those messages into discernable words, so... he can't really talk to us just yet."
+        },
+        {
+          "s": 1,
+          "t": "Uh... no need to get so technical! So basically, you want us to help you complete and install this language module, right?"
+        },
+        {
+          "s": 3,
+          "t": "No, there's no need, that wasn't one of my employer's requests. It was just something I wanted to try..."
+        },
+        {
+          "s": 3,
+          "t": "I have two other things I'd like your help with... The first is to do some integration testing on Thelxie's motherboard to make sure he will be able to function properly in most situations."
+        },
+        {
+          "s": 1,
+          "t": "That doesn't sound too hard... And what's the other thing?"
+        },
+        {
+          "s": 3,
+          "t": "The other shouldn't take too long either... You'll need to find Thelxie some colorful shells and coral so I can craft a weapon for him."
+        },
+        {
+          "s": 1,
+          "t": "A weapon? Will Thelxie have to fight?"
+        },
+        {
+          "s": 3,
+          "t": "Mm hmm, Thelxie will need to be able to charge forward with a weapon in hand like that brave prince of legend. It's a part of my employer's request."
+        },
+        {
+          "s": 1,
+          "t": "What an imaginative employer! Naming Thelxie after a Water Imp, but wanting him to look like a prince..."
+        },
+        {
+          "s": 3,
+          "t": "Well, regardless of his role or species, Thelxie's purpose is the same. Just like Pers, he has come to this world to serve as somebody's companion."
+        },
+        {
+          "s": 2,
+          "t": "-.. .--. -. --.- -... .... --- .--- ..-."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, Thelxie just said something again! Could he understand what we were just talking about?"
+        },
+        {
+          "s": 3,
+          "t": "He can react to certain keywords, but unfortunately, due to the lack of a translation module, he still can't quite communicate with us..."
+        },
+        {
+          "s": 1,
+          "t": "...That's a pity, but anyway, the most important thing right now is for us to get to work! Maybe let's start by doing some testing on the motherboard, that sounds like something we can do here in the camp."
+        },
+        {
+          "s": 3,
+          "t": "Sounds good. The motherboard is on my workbench, so please follow me."
+        },
+        {
+          "s": 3,
+          "t": "Ah, here we go. I have this testing manual, so feel free to reference it if you get stuck."
+        },
+        {
+          "s": 3,
+          "t": "Want to give it a try? It's okay if you don't succeed immediately. I've got a lot of backup boards just in case."
+        },
+        {
+          "sit": "I'll give it a try."
+        },
+        {
+          "s": 3,
+          "t": "Okay. Knowing you, I'm sure you'll be able to figure it out."
+        },
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 3,
+          "t": "Please give the testing a try. The motherboard's on the table there."
+        },
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 3,
+          "t": "You're doing well... just as I expected."
+        },
+        {
+          "s": 1,
+          "t": "We've taken on a lot of similar tasks before, you know!"
+        },
+        {
+          "s": 3,
+          "t": "Then let's move on to the underwater part. It's just as I mentioned earlier — we're after colorful shells and coral."
+        },
+        {
+          "s": 3,
+          "t": "Oh, speaking of which, you're both already pretty used to Fontaine's underwater environment, right?"
+        },
+        {
+          "sit": "...More or less."
+        },
+        {
+          "sit": "We're pretty much experts now."
+        },
+        {
+          "s": 3,
+          "t": "Okay, that's good. Just let me know if you ever feel uncomfortable — I'll make sure to stay right by your side."
+        },
+        {
+          "section": "Zuria Destree"
+        },
+        {
+          "s": 4,
+          "t": "♪♫♪~"
+        },
+        {
+          "s": 4,
+          "t": "Ah Freminet, you're back! I thought you might have been out diving."
+        },
+        {
+          "s": 3,
+          "t": "I'm sorry, Madame Destree... I must have kept you waiting. I can report, though, that the construction of Thelxie is going quite smoothly."
+        },
+        {
+          "s": 4,
+          "t": "There's no rush. I'm your employer, not your supervisor. And these two are...?"
+        },
+        {
+          "s": 3,
+          "t": "Ah, they are two of my trustworthy companions. They're here to help me work on Thelxie."
+        },
+        {
+          "s": 4,
+          "t": "Yes, I see... I suppose it's only natural for someone responsible like you to have some reliable friends."
+        },
+        {
+          "s": 1,
+          "t": "It's really nice to meet you, Madame Destree! Are you Freminet's employer? Paimon is Paimon, and this is {NICKNAME}."
+        },
+        {
+          "s": 4,
+          "t": "Greetings, my new friends. Just call me Zuria. You are both so adorable — the sight of you reminds me of little fairies under a cottage roof."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, do you really think so?"
+        },
+        {
+          "sit": "Do I look like a fairy, too?"
+        },
+        {
+          "s": 4,
+          "t": "Of course, if my child had friends like you, then perhaps he wouldn't have become so obsessed with the tales of Water Imps, and I wouldn't have had to trouble Freminet here with this commission."
+        },
+        {
+          "s": 1,
+          "t": "Obsessed with... the tales of Water Imps?"
+        },
+        {
+          "s": 4,
+          "t": "Ah, so you don't know anything about my request yet? I would have thought Freminet had explained to you already."
+        },
+        {
+          "s": 1,
+          "t": "Well, Freminet told us that it was a private matter, so he didn't want to just share it willy-nilly."
+        },
+        {
+          "s": 4,
+          "t": "I see, so Monsieur Freminet is even more discreet than I had thought. Hmm... as you are assisting him with the project, I believe it'll be beneficial for you to learn more about its vision and history."
+        },
+        {
+          "s": 4,
+          "t": "But it would be quite impolite of me to simply pile all of my troubles on you without your permission. So... would you like to listen to my story?"
+        },
+        {
+          "s": 1,
+          "t": "Sure, you can tell us anything! You've already said nice things about us, so we'll try our best to help you get through your troubles!"
+        },
+        {
+          "s": 4,
+          "t": "Ah, what a lovely little fairy... Then let me think of a way to put my situation into words. Hmm... I'm sure you are already familiar with the tale of the Water Imps, right?"
+        },
+        {
+          "s": 4,
+          "t": "Simply put, parents came up with a story painting Water Imps as scary abductors in an effort to convince their children to stay away from the water. My child is rather special, however. While most other children are terrified of Thelxie... he's infatuated with him."
+        },
+        {
+          "s": 1,
+          "t": "In—Infatuated with a Water Imp? What a brave soul!"
+        },
+        {
+          "s": 4,
+          "t": "Yes, he told me that he thought the Water Imp might have just been misunderstood. In his mind, instead of singing to abduct children, the Water Imp actually sang out of a longing for companionship. As a result, he often goes near the water in secret."
+        },
+        {
+          "s": 1,
+          "t": "Huh... So he wanted to become friends with the Water Imp so it wouldn't be lonely any longer? What a unique way of thinking!"
+        },
+        {
+          "s": 4,
+          "t": "Thank you, little Paimon. He indeed has always stood out from the crowd... He was actually diagnosed with Loneliness Syndrome when he was only eight years old..."
+        },
+        {
+          "sit": "Loneliness Syndrome?"
+        },
+        {
+          "s": 4,
+          "t": "Mhm, it's a type of mental disorder. Those affected by it often feel extremely lonely, and lose interest in many mundane activities. The syndrome is probably what made him so determined to become friends with the Water Imp."
+        },
+        {
+          "s": 1,
+          "t": "Oh no... Is it a very serious disorder?"
+        },
+        {
+          "s": 3,
+          "t": "If you were to become afflicted with the disorder, Paimon, you would only be able to say less than a fraction of the words you're saying to {NICKNAME} now."
+        },
+        {
+          "s": 1,
+          "t": "No, Paimon won't accept that! We would have to find a doctor to help cure Paimon! Paimon has a 2,000-word quota for daily conversations with {NICKNAME}, and she won't settle for a single word less!"
+        },
+        {
+          "s": 4,
+          "t": "The family doctor has already begun to treat my son... but since the disorder is rare, there aren't many good regimens for treatment. He's also developed some new symptoms lately... such as uncontrollable delusions."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Uncontrollable what now?"
+        },
+        {
+          "s": 3,
+          "t": "Uncontrollable delusions. To put it simply, he can no longer differentiate between fantasy and reality, and spends all his time in his fantasy world..."
+        },
+        {
+          "s": 1,
+          "t": "Then... Then what is he seeing in his fantasy world?"
+        },
+        {
+          "s": 4,
+          "t": "It's a dream that he often mentioned to me when he was younger. I've compiled what I could understand of his recent rambling. It goes a bit like this..."
+        },
+        {
+          "sit": "Once upon a time, there was a splendid and magnificent underwater Kingdom of Water Imps on the Salacia Plain, five hundred feet beneath the surface."
+        },
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 1,
+          "t": "What is it, Freminet? What did you want to say?"
+        },
+        {
+          "s": 3,
+          "t": "Ahem... If you don't mind me asking, I would like the two of you to mentally prepare yourselves..."
+        },
+        {
+          "sit": "Mentally prepare ourselves? For what?"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, this is the first time that you've met anyone with this syndrome, right? I know you two are both really strong, and will do everything you can to help the child, but with the syndrome being the way it is, if things don't..."
+        },
+        {
+          "s": 3,
+          "t": "If things don't quite turn out as we wish... I hope you'll be able to accept the outcome and not put too much blame on yourselves."
+        },
+        {
+          "s": 1,
+          "t": "Freminet, why do you bring this up all of a sudden? Didn't we just promise Zuria that we'll be optimistic about everything working out?"
+        },
+        {
+          "s": 3,
+          "t": "It's not that I'm not optimistic... It's just..."
+        },
+        {
+          "sit": "You know this illness really well?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, so that's why you looked like you knew exactly what she was talking about! Wait, Freminet, don't tell Paimon that you also..."
+        },
+        {
+          "s": 3,
+          "t": "No no... Please don't misunderstand, I never had it. I've just... I've just seen many cases of it at the House of the Hearth, back when we lived under the previous Director."
+        },
+        {
+          "s": 3,
+          "t": "They say there are many factors surrounding the development of this illness... I've heard everything from heredity factors and one's state of mind to environmental factors and even Ley Line disorder effects. Some even say it could be caused by contamination from god remains..."
+        },
+        {
+          "s": 3,
+          "t": "And from the cases I've seen, there weren't many positive outcomes. In the worst cases, the patient could even... pass away."
+        },
+        {
+          "s": 1,
+          "t": "What? It can get that serious? And here Paimon thought they'd just stop talking as much..."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, that's just the nature of it. So if you'll find it difficult to cope with the worst-case scenario, I would prefer that you back out right now. I don't want you to help only to feel like you've failed..."
+        },
+        {
+          "sit": "Don't worry, I've seen all kinds of strange and difficult things in life."
+        },
+        {
+          "sit": "You've got a point. I'll give it some thought."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, that's right! Paimon's seen all of those things too... No matter how hard it might get, we won't be scared!"
+        },
+        {
+          "s": 3,
+          "t": "Really... Then, in that case, let's see this real-life fantasy adventure together to the end."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! But Paimon has a question... If this illness can really be as bad as you've described, then do you really think Zuria's method will be able to help?"
+        },
+        {
+          "s": 1,
+          "t": "After all, we'll just be using a toy as \"Thelxie\" and some ruins as the \"Kingdom of Water Imps.\" The whole adventure will only be turned into a picture book for her son to read..."
+        },
+        {
+          "s": 3,
+          "t": "Well... I think it should be able to do something. To harbor a fantasy means that the child wants to save himself somehow. The only reason he's allowed his dream kingdom to fall is because he's lost control of his heart."
+        },
+        {
+          "s": 3,
+          "t": "But if we can help him regain control and escape from the darkness, we'll be able to change his world... like helping someone who's lost their voice be able to speak again."
+        },
+        {
+          "s": 1,
+          "t": "Paimon sees what you're saying now... How do you understand all of this so well, Freminet?"
+        },
+        {
+          "s": 3,
+          "t": "Hmm... well, maybe because I've also had many of my own dreams in the past. I even had my own fairytale world much like that boy's. I was able to draw a lot of support from it, so I believe in the power of fantasy worlds."
+        },
+        {
+          "sit": "So the Penguin Town you mentioned was..."
+        },
+        {
+          "s": 3,
+          "t": "Ah, so you remembered..."
+        },
+        {
+          "s": 1,
+          "t": "What Penguin Town? Why doesn't Paimon remember... Is that also a fairytale world? Don't leave Paimon in the dark!"
+        },
+        {
+          "sit": "Suddenly, Freminet pulls out a diving helmet and puts it on his head..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, why did you put that on!?"
+        },
+        {
+          "s": 3,
+          "t": "Ahem... It's just... One of my personal quirks. Please pay it no mind."
+        },
+        {
+          "s": 3,
+          "t": "Anyway, Penguin Town is a peaceful place with lots of penguin residents. They are all really good at making clockwork toys."
+        },
+        {
+          "s": 3,
+          "t": "And Pers is the town's triumphant hero, as well as the one who quietly protects the whole place."
+        },
+        {
+          "s": 1,
+          "t": "Pers? But didn't you make Pers yourself?"
+        },
+        {
+          "s": 3,
+          "t": "Well, I often think that Pers only came to me because he realized how much I needed him... So it's not so much that I made Pers as Pers chose me as his friend."
+        },
+        {
+          "s": 1,
+          "t": "Uhh... Freminet, are you sure you're not losing control of your fantasies as well?"
+        },
+        {
+          "s": 3,
+          "t": "No I don't think so... I can still differentiate between fantasy and reality, I just believe that the fairytale world of my dreams must also exist somewhere."
+        },
+        {
+          "s": 3,
+          "t": "It might just be hidden, which is why it's difficult to see, or it'll only reveal itself at very specific times..."
+        },
+        {
+          "s": 1,
+          "t": "Specific times? Like when you put on your diving helmet?"
+        },
+        {
+          "s": 3,
+          "t": "Yeah, that's the general idea of it..."
+        },
+        {
+          "s": 1,
+          "t": "Really!? Paimon just said that because you put on your helmet..."
+        },
+        {
+          "s": 3,
+          "t": "Have you ever observed the surface world from underwater? It's as if you're viewing a whole different world from the outside. It's a very surreal feeling... both alienating, but also as if you're being protected by something."
+        },
+        {
+          "s": 3,
+          "t": "I have a similar feeling when I put on my diving helmet. In those moments, it's possible to see some... truly wondrous things, as if a fairytale has become reality. It's almost like a sort of miracle..."
+        },
+        {
+          "s": 1,
+          "t": "Really? Like a miracle?"
+        },
+        {
+          "sit": "Now I want to try on your helmet, too."
+        },
+        {
+          "s": 3,
+          "t": "Well, if that's an order..."
+        },
+        {
+          "sit": "I'm just kidding."
+        },
+        {
+          "sit": "Yep, that's an order."
+        },
+        {
+          "s": 1,
+          "t": "Hey, don't you still need some time to work on Thelxie's weapon? We don't want to keep you from finishing your commission."
+        },
+        {
+          "s": 1,
+          "t": "Hey, now's not the time! Freminet still has Thelxie's weapon to make, we don't want to bother him now."
+        },
+        {
+          "s": 3,
+          "t": "Right, I still have to collect some tools I'll need to craft the weapon, I've got to finish everything before tomorrow... Thank you for reminding me, Paimon. I'm sure there'll be other opportunities for you to try my helmet..."
+        },
+        {
+          "s": 3,
+          "t": "Thanks for all of your help. I'll be off for now — let's meet up here again in two days."
+        }
+      ],
+      "description": "Word arrives from the Fishing Association that they seem to have encountered some kind of problem…"
+    }
+  ],
+  "speakers": [
+    "Delaroche",
+    "Paimon",
+    "Thelxie",
+    "Freminet",
+    "Zuria Destree"
+  ],
+  "id": "q-40128"
+}

@@ -1,0 +1,2947 @@
+{
+  "chapter": "Lagenaria Chapter",
+  "chapter_title": "The Heart of Healing",
+  "act": "Act 1",
+  "act_title": "The Heart of Healing",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Search for a Physician",
+      "dialogue": [
+        {
+          "section": "Herbalist Gui, Qiqi, Ayu, Baizhu"
+        },
+        {
+          "s": 0,
+          "t": "...What's your name, buddy? Are you here to buy some medicine? Where are your mom and dad?"
+        },
+        {
+          "s": 1,
+          "t": "Are you lost?"
+        },
+        {
+          "s": 2,
+          "t": "No, I'm not! Um, my name's Ayu, and I'm here because—"
+        },
+        {
+          "s": 3,
+          "t": "Hey there, Qiqi! Hi, Gui! What's going on?"
+        },
+        {
+          "s": 1,
+          "t": "Hi, {NICKNAME} and Paimon..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, you've actually come at a perfect time! This little boy seems to have gotten himself lost. I think he must be new to the city. Probably wandered away from his parents, and—"
+        },
+        {
+          "s": 2,
+          "t": "No, listen to me! I'm not the one who's lost. It's my dad!"
+        },
+        {
+          "s": 3,
+          "t": "Your dad? How does a fully grown man manage to get lost in Liyue Harbor?"
+        },
+        {
+          "s": 2,
+          "t": "Well... My dad's always been kinda forgetful. In the past, he was just a little slow to react sometimes, but I'm worried that it's getting more serious."
+        },
+        {
+          "s": 1,
+          "t": "So... What about your mom?"
+        },
+        {
+          "s": 2,
+          "t": "She went out a few days ago to gather some herbs for my dad, but she still hasn't come back... Meanwhile, my dad's been getting worse and worse."
+        },
+        {
+          "s": 2,
+          "t": "I remembered that the owner of Bubu Pharmacy always runs a clinic in Qingce Village during the Lantern Rite. So I thought, why don't I take Dad to Liyue Harbor to see him there..."
+        },
+        {
+          "sit": "(The owner of Bubu Pharmacy...)"
+        },
+        {
+          "sit": "(He must mean Baizhu.)"
+        },
+        {
+          "s": 2,
+          "t": "When we got to the city gate, I took a moment to ask the Millelith guards for directions to the pharmacy... and then when I turned back around, my dad was gone!"
+        },
+        {
+          "s": 2,
+          "t": "I asked the Millelith guys to go find him, but he said they won't be able to send that many people. So then I figured, maybe I could ask some other people in the city to help..."
+        },
+        {
+          "s": 3,
+          "t": "You came to the right place! We're pros at finding people! Isn't that right, {NICKNAME}?"
+        },
+        {
+          "s": 4,
+          "t": "It'll be a piece of cake for us."
+        },
+        {
+          "s": 1,
+          "t": "Changsheng can help. She has a good sense of smell, like a dog."
+        },
+        {
+          "s": 5,
+          "t": "Hey! Who's talking about me behind my back?"
+        },
+        {
+          "s": 5,
+          "t": "Changsheng, Qiqi meant that as a compliment. There's no need to be upset."
+        },
+        {
+          "s": 5,
+          "t": "Hello, child. You mentioned that you were looking for the owner of Bubu Pharmacy. How might we be of service?"
+        },
+        {
+          "s": 2,
+          "t": "You have a talking snake...? Oh! A—Are you Uncle Baizhu?"
+        },
+        {
+          "s": 5,
+          "t": "Pfft! \"Uncle\" Baizhu..."
+        },
+        {
+          "s": 5,
+          "t": "...Changsheng, now's not the time."
+        },
+        {
+          "s": 5,
+          "t": "My dear boy, could you tell me more about your father's condition? As much as you can recall."
+        },
+        {
+          "s": 2,
+          "t": "Yes, Unc— ...Dr. Baizhu."
+        },
+        {
+          "sit": "Ayu explains his father's health situation to Baizhu..."
+        },
+        {
+          "s": 5,
+          "t": "I see... And your family lives near Qingce Village, you say? I visit patients there frequently, but I don't recall ever seeing you or your parents."
+        },
+        {
+          "s": 2,
+          "t": "Uh-huh... My mom doesn't like meeting other people, especially during Lantern Rite. She always tells me to just stay at home and keep my dad company."
+        },
+        {
+          "s": 5,
+          "t": "...Is that so."
+        },
+        {
+          "s": 5,
+          "t": "Ayu, by any chance... is your mother's name Jiangli?"
+        },
+        {
+          "s": 2,
+          "t": "Whoa! Yeah, it is! Do you know my mom, Dr. Baizhu?"
+        },
+        {
+          "s": 5,
+          "t": "I certainly do... Gui, Qiqi, are there any pressing matters in the pharmacy at the moment?"
+        },
+        {
+          "s": 5,
+          "t": "Ayu's parents are old acquaintances of mine, so I would very much like to assist with the search... Would the two of you have time to join me?"
+        },
+        {
+          "s": 3,
+          "t": "Don't forget us two! We already told Ayu that we'd help!"
+        },
+        {
+          "s": 5,
+          "t": "Oh really? Well, that's wonderful. We are most grateful for your support."
+        },
+        {
+          "s": 4,
+          "t": "You can count on us."
+        },
+        {
+          "s": 0,
+          "t": "Qiqi and I need to clear up the shop front first, but once that's taken care of, we'll be right out to help you with the search!"
+        },
+        {
+          "s": 1,
+          "t": "Family is... very important."
+        },
+        {
+          "s": 5,
+          "t": "Thank you. Then I'll leave you to handle the pharmacy."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, Paimon, why don't you come with me and Ayu? Let's start by talking to the Millelith guards at the city gates, see if they have an update."
+        },
+        {
+          "s": 4,
+          "t": "(He must mean Baizhu.)"
+        },
+        {
+          "section": "Herbalist Gui"
+        },
+        {
+          "s": 0,
+          "t": "Can you believe that little boy brought his father all this way to see the doctor? What a remarkable child."
+        },
+        {
+          "s": 0,
+          "t": "I didn't even know how to buy medicine by myself when I was his age."
+        },
+        {
+          "section": "Cai Le, Cai Xun, Ayu, Baizhu"
+        },
+        {
+          "s": 6,
+          "t": "...They searched to the north, but couldn't find anyone who matched the description."
+        },
+        {
+          "s": 7,
+          "t": "Ugh, well that complicates things. The city folks say there's no sign of him, either. We need to start looking further afield... but where are we gonna get the people?"
+        },
+        {
+          "s": 2,
+          "t": "Excuse me, Sirs! Have you found out anything about my dad yet?"
+        },
+        {
+          "s": 7,
+          "t": "Ah, hey there, buddy... Dr. Baizhu? What brings you out this way?"
+        },
+        {
+          "s": 5,
+          "t": "The boy asked for our help, so we're here to join the search. Any new developments to update us on?"
+        },
+        {
+          "s": 7,
+          "t": "Thank goodness! We were just discussing how we're running out of manpower."
+        },
+        {
+          "s": 7,
+          "t": "As for updates... I'm sorry to say that we've searched the surrounding area thoroughly, but didn't find anything."
+        },
+        {
+          "s": 6,
+          "t": "The guards at the crossing up ahead said they hadn't seen anyone, either, so we don't believe he was heading towards the Guili Plains... But it is possible that he was bound for Luhua Pool."
+        },
+        {
+          "s": 5,
+          "t": "Luhua Pool... The terrain there can be tricky to navigate. Let's hope he hasn't run into any trouble."
+        },
+        {
+          "s": 4,
+          "t": "We'll take that area."
+        },
+        {
+          "s": 7,
+          "t": "You will? Great, we can't thank you enough!"
+        },
+        {
+          "s": 6,
+          "t": "Sorry we weren't able to find your dad, buddy."
+        },
+        {
+          "s": 2,
+          "t": "That's okay. Thank you for trying!"
+        },
+        {
+          "section": "Qiqi"
+        },
+        {
+          "s": 1,
+          "t": "His family. We have to find them."
+        },
+        {
+          "section": "Cai Xun"
+        },
+        {
+          "s": 7,
+          "t": "I'm afraid we have to stay at our posts, so we won't be able to join you on the search."
+        },
+        {
+          "section": "Cai Le"
+        },
+        {
+          "s": 6,
+          "t": "We'll update our superiors on the situation and see if they can assign anyone else to help."
+        },
+        {
+          "section": "Hu Tao, Jialiang, Ayu, Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Oh no! It's... Hey, you! Stop, don't go any further...!"
+        },
+        {
+          "s": 8,
+          "t": "Watch where you're going!"
+        },
+        {
+          "s": 9,
+          "t": "...Ugh!"
+        },
+        {
+          "s": 8,
+          "t": "Dear customer, Wangsheng Funeral Parlor does appreciate your patronage, but you needn't hasten the inevitable! Are you alright?"
+        },
+        {
+          "s": 9,
+          "t": "Ugh... Urgh..."
+        },
+        {
+          "s": 8,
+          "t": "...Huh?"
+        },
+        {
+          "s": 2,
+          "t": "Dad!"
+        },
+        {
+          "s": 3,
+          "t": "Hey, Hu Tao!"
+        },
+        {
+          "s": 8,
+          "t": "My, my, who do we have here? Mm-hmm! It's {NICKNAME} and Paimon! And..."
+        },
+        {
+          "s": 8,
+          "t": "...Ugh. My worst nightmare."
+        },
+        {
+          "s": 5,
+          "t": "Hah. I see she still hasn't warmed to you."
+        },
+        {
+          "s": 5,
+          "t": "Hehe, thank you, Director Hu, for saving this man."
+        },
+        {
+          "s": 2,
+          "t": "Dad, are you okay? Do you recognize me? It's me, Ayu!"
+        },
+        {
+          "s": 9,
+          "t": "You're... Ayu? Uh... who am I...?"
+        },
+        {
+          "s": 2,
+          "t": "Your name is Jialiang, and you live just west of Qingce Village. You were supposed to come to Liyue Harbor to see the doctor... Remember? Does that jog your memory?"
+        },
+        {
+          "s": 9,
+          "t": "My name is Jialiang... Liyue Harbor, see the doctor... Yes, yes, I'm Jialiang, and I need to see the doctor... Wait, why do I need to see the doctor...?"
+        },
+        {
+          "s": 3,
+          "t": "Uh-oh, he seems in really bad shape! We need to get him back to Bubu Pharmacy right away!"
+        },
+        {
+          "s": 3,
+          "t": "Sorry, Hu Tao, gotta dash. Dinner's on us next time!"
+        },
+        {
+          "s": 8,
+          "t": "Hold on a second."
+        },
+        {
+          "s": 8,
+          "t": "You're not seriously thinking of taking him to Bubu Pharmacy in this state, are you?"
+        },
+        {
+          "s": 3,
+          "t": "Huh? Why not, what's the problem?"
+        },
+        {
+          "s": 8,
+          "t": "Come on, Baizhu, don't tell me you haven't noticed it? Didn't your master teach you how to spot the signs?"
+        },
+        {
+          "s": 8,
+          "t": "Why do I get the sense that you spotted them right away... but you're planning to use it for your own ends?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Use what? What are you talking about? Paimon's lost..."
+        },
+        {
+          "s": 5,
+          "t": "...There are traces of god remains in Jialiang's system."
+        },
+        {
+          "s": 8,
+          "t": "Yes, but more importantly, they're on the verge of an outburst. If that happens, the consequences will be unthinkable."
+        },
+        {
+          "s": 3,
+          "t": "Paimon's sorry, what!?"
+        },
+        {
+          "s": 9,
+          "t": "G—God... remains...?"
+        },
+        {
+          "s": 5,
+          "t": "...There's no need to worry, Director Hu. I have methods of keeping them at bay."
+        },
+        {
+          "s": 5,
+          "t": "It is the sworn duty of all who practice medicine to cure illnesses and save lives. What reason would I have to neglect a patient in need who is right there in front of me?"
+        },
+        {
+          "s": 5,
+          "t": "Besides... it was my late master's dying wish to be able to save this patient in particular. Perhaps, out of respect for him, you could give me a day's grace so that I have time to treat him?"
+        },
+        {
+          "s": 8,
+          "t": "Now you're bringing my great-uncle into this? Baizhu... Just what are you planning this time?"
+        },
+        {
+          "s": 5,
+          "t": "Merely to cure this man, nothing more. But of course, if you have any doubt as to my intentions, you are more than welcome to accompany me to Bubu Pharmacy, and monitor my activities."
+        },
+        {
+          "s": 8,
+          "t": "Oh really? I thought I was persona non grata at Bubu Pharmacy? You're being unusually generous today."
+        },
+        {
+          "sit": "Don't forget that we're here, too."
+        },
+        {
+          "sit": "We won't let things get out of hand."
+        },
+        {
+          "s": 8,
+          "t": "...Okay, deal. We're not gonna solve anything by keeping Jialiang here."
+        },
+        {
+          "s": 8,
+          "t": "I'm happy to do it your way but... only for my great-uncle's sake. And {NICKNAME}'s, of course."
+        },
+        {
+          "s": 5,
+          "t": "You must be pleased you brought {NICKNAME} along. Otherwise, this would've been a much more vexing ordeal."
+        },
+        {
+          "s": 5,
+          "t": "...Well, time is of the essence. Let's get ourselves back to Bubu Pharmacy at once."
+        },
+        {
+          "s": 4,
+          "t": "We won't let things get out of hand."
+        },
+        {
+          "section": "Baizhu, Ayu, Hu Tao"
+        },
+        {
+          "s": 5,
+          "t": "...Blockages within the cardiovascular system... reduced blood flow and energy circulation..."
+        },
+        {
+          "s": 5,
+          "t": "I see. I suppose this must have caused the cognitive abnormalities."
+        },
+        {
+          "s": 2,
+          "t": "Dr. Baizhu... How bad is it? Can you cure him?"
+        },
+        {
+          "s": 3,
+          "t": "Don't you worry, Baizhu's a really great doctor. He's sure to find a way! Isn't that right, Baizhu?"
+        },
+        {
+          "s": 5,
+          "t": "...Ayu, do you know when your father first started displaying these symptoms?"
+        },
+        {
+          "s": 2,
+          "t": "Um... I'm not sure. He's been like this for as long as I can remember, but it wasn't as bad as this when I was still little..."
+        },
+        {
+          "s": 5,
+          "t": "Hmm, so it's been a long time indeed..."
+        },
+        {
+          "s": 4,
+          "t": "Is it a grim prognosis...?"
+        },
+        {
+          "s": 5,
+          "t": "...No, I have a treatment plan in mind. We can start tonight."
+        },
+        {
+          "s": 5,
+          "t": "Come and see me again tomorrow morning. I promise that by then, Ayu will find his father healthy and lucid again."
+        },
+        {
+          "s": 2,
+          "t": "Thank you, Dr. Baizhu, thank you so much!"
+        },
+        {
+          "s": 5,
+          "t": "If you still have any misgivings, Director Hu, please feel free to hang around for as long as you wish."
+        },
+        {
+          "s": 5,
+          "t": "However, it would be best if you step outside this room. A doctor must be able to focus when treating a patient. Any distractions heighten the risk of complications."
+        },
+        {
+          "s": 8,
+          "t": "Yes, of course, absolutely, I'll just go and look at the flowers, or something... But I will be back in an instant at the first sign that something's amiss."
+        },
+        {
+          "s": 4,
+          "t": "We'll be heading out now, too."
+        },
+        {
+          "s": 3,
+          "t": "See you tomorrow, Baizhu and Changsheng!"
+        },
+        {
+          "s": 5,
+          "t": "Bye for now, everyone."
+        },
+        {
+          "s": 5,
+          "t": "...Are you ready, Baizhu?"
+        },
+        {
+          "s": 5,
+          "t": "...Ready as I'll ever be — I'm used to it by now. Come on, let's get started."
+        },
+        {
+          "section": "Investigate"
+        },
+        {
+          "s": 3,
+          "t": "Phew... All's well that ends well, huh?"
+        },
+        {
+          "s": 3,
+          "t": "Y'know, Paimon's kind of curious after hearing Baizhu mention those people from his past... What do you think they were like?"
+        },
+        {
+          "sit": "You mean Baizhu's master?"
+        },
+        {
+          "sit": "You mean Ayu's mother?"
+        },
+        {
+          "s": 3,
+          "t": "Yeah! You must be curious too, right? Let's go see what we can find out while Baizhu's busy treating Ayu's dad!"
+        },
+        {
+          "s": 4,
+          "t": "You mean Ayu's mother?"
+        },
+        {
+          "section": "Hu Tao"
+        },
+        {
+          "s": 8,
+          "t": "While I'm idling time on admiring the scenery, the spectacled snake-bedecked doc's doing surgery..."
+        },
+        {
+          "s": 8,
+          "t": "Hello, you busy bees. And what do you have to discuss with the Funeral Director today?"
+        },
+        {
+          "s": 4,
+          "t": "Um, so..."
+        },
+        {
+          "s": 8,
+          "t": "Actually, don't tell me — let me guess! Hmm... From the looks on your faces, you've got some questions for me?"
+        },
+        {
+          "s": 3,
+          "t": "Ehehe... guilty as charged! So, um, we were just a little curious about Baizhu's Master. What was he like?"
+        },
+        {
+          "s": 3,
+          "t": "Oh, and also — how come you and Baizhu could tell so quickly that Jialiang had god remains in his system?"
+        },
+        {
+          "s": 8,
+          "t": "Huh? I thought I told you once before? Wangsheng Funeral Parlor was first founded to fight back against the vengeful wrath of gods defeated in war."
+        },
+        {
+          "sit": "Oh, that vaguely rings a bell..."
+        },
+        {
+          "sit": "But the details are hazy..."
+        },
+        {
+          "s": 8,
+          "t": "Hah. Well, it is a dusty old tale by this point. Long story short: In the ancient world, dead gods were acting up, so our ancestors started purifying the air and burning the bodies of the deceased to guard the border between life and death..."
+        },
+        {
+          "s": 8,
+          "t": "These days, we don't deal with the wrath of the gods anymore, but all the relevant know-how is still passed down to each generation. So we can identify gods' remains when we see them."
+        },
+        {
+          "s": 3,
+          "t": "Okay, Paimon gets it now. ...Wait, so how did Baizhu learn to spot them?"
+        },
+        {
+          "s": 8,
+          "t": "Almost certainly from his master — who was also my great-uncle. Baizhu's master was my grandpa's younger brother, a former deputy director of Wangsheng Funeral Parlor."
+        },
+        {
+          "s": 3,
+          "t": "Wow, fancy that! Huh... So, if he was from Wangsheng Funeral Parlor, how'd he end up as Baizhu's Master?"
+        },
+        {
+          "s": 8,
+          "t": "According to my grandpa, he and my great-uncle once went traveling together when they were young. They ended up at Chenyu Vale, where they met a pharmacist."
+        },
+        {
+          "s": 8,
+          "t": "That pharmacist must've cast some sort of spell on my great-uncle, because after that encounter, he suddenly announced he wanted to leave the family business and go practice medicine instead."
+        },
+        {
+          "s": 8,
+          "t": "My grandpa had a huge argument with him, but he couldn't convince him to stay."
+        },
+        {
+          "s": 8,
+          "t": "So my grandpa inherited the Funeral Parlor, while my great-uncle stayed in Chenyu Vale to practice medicine... They never spoke to each other again."
+        },
+        {
+          "s": 3,
+          "t": "Funeral director to doctor is a pretty big career change. Kinda hard to imagine... But why did it drive a wedge between them for the rest of their lives? That seems a bit extreme."
+        },
+        {
+          "s": 8,
+          "t": "If he had just become a regular doctor, there would have been no issue. After all, the Wangsheng Funeral Parlor wasn't unlike a regular doctor's clinic in the early days."
+        },
+        {
+          "s": 8,
+          "t": "But according to my grandpa, the pharmacist they met had a very ominous aura about him..."
+        },
+        {
+          "s": 8,
+          "t": "...And on top of that, the kind of medicine practiced in the Chenyu Vale tradition goes against the natural order of things."
+        },
+        {
+          "s": 3,
+          "t": "...In what way?"
+        },
+        {
+          "s": 8,
+          "t": "Don't know. My grandpa didn't know the specifics, and you've seen how wary Baizhu is around me. He'd never tell me anything..."
+        },
+        {
+          "s": 8,
+          "t": "But even that says to me that he definitely has something to hide."
+        },
+        {
+          "s": 8,
+          "t": "One thing I do know about Baizhu is that he's obsessed with the idea of immortality... But whether that has anything to do with what he's hiding is hard to say."
+        },
+        {
+          "s": 4,
+          "t": "(Immortality...?)"
+        },
+        {
+          "s": 8,
+          "t": "Anyway, so I will be sticking around here for now to keep a close eye on the situation. Maybe tomorrow, I'll finally figure out what he's up to..."
+        },
+        {
+          "s": 4,
+          "t": "But the details are hazy..."
+        },
+        {
+          "section": "Enter Room"
+        },
+        {
+          "s": 4,
+          "t": "(Baizhu and Changsheng are treating Jialiang right now... I should come back tomorrow.)"
+        },
+        {
+          "section": "Ayu, Herbalist Gui"
+        },
+        {
+          "s": 2,
+          "t": "Mr. Gui, I wanna go to the Adventurers' Guild and get them to help look for my mom. Should I take anything with me?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... You'll need enough cash to pay their fees, and there'll be some paperwork to fill out... I can come with you if you'd like?"
+        },
+        {
+          "s": 3,
+          "t": "Wow, these two are hard at work... We probably shouldn't disturb them."
+        },
+        {
+          "section": "Qiqi"
+        },
+        {
+          "s": 1,
+          "t": "Jiangli... Master... Dr. Baizhu has never mentioned them before..."
+        },
+        {
+          "s": 1,
+          "t": "But more importantly... Is you-know-who gone yet?"
+        },
+        {
+          "s": 1,
+          "t": "Ohhh... I need to find a better hiding place..."
+        },
+        {
+          "section": "Hu Tao"
+        },
+        {
+          "s": 8,
+          "t": "Oh, while you're here — have either of you seen Qiqi around?"
+        },
+        {
+          "s": 8,
+          "t": "It's not every day I get to infiltrate Baizhu's lair. But alas, I didn't catch a single glimpse of her anywhere..."
+        },
+        {
+          "s": 8,
+          "t": "Aha! What if... Baizhu knew I'd be on the lookout for her, and hid her away in advance?"
+        },
+        {
+          "section": "Ayu, Jialiang, Baizhu, Hu Tao"
+        },
+        {
+          "s": 2,
+          "t": "Dad!"
+        },
+        {
+          "s": 9,
+          "t": "Huh... Ayu!"
+        },
+        {
+          "s": 2,
+          "t": "Dad! You remember me!"
+        },
+        {
+          "s": 9,
+          "t": "Yes, I remember now! Oh, Ayu, I'm so sorry, you must have been worried sick... Has your mom shown up yet? She's... been gone for a while, hasn't she?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry, Dad! I got the Adventurers' Guild to help us look for her. And Dr. Baizhu's gonna help too! Right now, all you need to do is concentrate on getting better!"
+        },
+        {
+          "s": 9,
+          "t": "Great, that's wonderful... I can't thank you enough, Dr. Baizhu."
+        },
+        {
+          "s": 5,
+          "t": "My pleasure, really. It's the least I can do to honor my late master's dying wish. If anything, I should be apologizing to you for not making the time to visit in all these years."
+        },
+        {
+          "s": 9,
+          "t": "Hah, not at all, Dr. Baizhu. It's only because Jiangli... hmm... What was her reason again..."
+        },
+        {
+          "s": 5,
+          "t": "...You're still in the early stages of recovery, so you'll need to take it easy for a while. Take it slowly, and try not to over-exert yourself."
+        },
+        {
+          "s": 5,
+          "t": "I suggest you stay at Bubu Pharmacy and rest for at least the next few days."
+        },
+        {
+          "s": 5,
+          "t": "Director Hu, do you have any further reservations about Jialiang's condition?"
+        },
+        {
+          "s": 8,
+          "t": "...Hmm, it seems like the evil presence is gone after all. You really did manage to suppress it, huh..."
+        },
+        {
+          "s": 8,
+          "t": "...But how did you accomplish this in a single night?"
+        },
+        {
+          "s": 5,
+          "t": "Hahaha, that would be a trade secret, I'm afraid. If that gives you any cause for concern, you may continue to monitor Jialiang for as long as you wish."
+        },
+        {
+          "s": 5,
+          "t": "Though I regret to say that Bubu Pharmacy cannot offer to reimburse Wangsheng Funeral Parlor for any revenue lost in the meantime."
+        },
+        {
+          "s": 8,
+          "t": "...Oh, come on, Baizhu. I'm not THAT unreasonable."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "(Baizhu looks a little worse for wear...)"
+        },
+        {
+          "s": 4,
+          "t": "(Something's wrong.)"
+        },
+        {
+          "s": 5,
+          "t": "Ahhhhh — I've been stuck indoors for too long. Baizhu, take me outside for some air, or I'm going to suffocate!"
+        },
+        {
+          "s": 5,
+          "t": "Ah yes, of course... Everyone, please excuse Changsheng and myself for a moment."
+        },
+        {
+          "s": 5,
+          "t": "... *cough* *cough*"
+        },
+        {
+          "s": 5,
+          "t": "Suffering now, are we? Did you seriously expect to cover it up just by putting on a brave face and ignoring it? If it weren't for my quick thinking, they'd all have seen the sorry state you're in by now."
+        },
+        {
+          "s": 5,
+          "t": "But in any case, why must you keep this a secret from everybody? You should at least share your secret with one person you trust..."
+        },
+        {
+          "s": 5,
+          "t": "Who's there?"
+        },
+        {
+          "s": 3,
+          "t": "Aaaah!!!!"
+        },
+        {
+          "sit": "It's me."
+        },
+        {
+          "sit": "{NICKNAME}."
+        },
+        {
+          "s": 5,
+          "t": "...Why did you follow us here?"
+        },
+        {
+          "s": 4,
+          "t": "I thought you were looking a little unwell..."
+        },
+        {
+          "s": 5,
+          "t": "Oh, hehe, it's nothing. I just needed to get some air... *cough*"
+        },
+        {
+          "s": 5,
+          "t": "What did I JUST say about putting on a brave face? Tsk..."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, Paimon, the truth is... Baizhu did not cure Jialiang's illness."
+        },
+        {
+          "s": 5,
+          "t": "Instead, he transferred some of his own life force to his patient to temporarily subdue the poison in his system."
+        },
+        {
+          "sit": "...Life force?"
+        },
+        {
+          "sit": "...Poison?"
+        },
+        {
+          "s": 5,
+          "t": "*sigh*"
+        },
+        {
+          "s": 3,
+          "t": "Baizhu... Can you please explain all of this?"
+        },
+        {
+          "s": 5,
+          "t": "...My predecessors in medicine forged a contract with Changsheng. Every successor to this contract is able to use Changsheng's secret art to treat patients."
+        },
+        {
+          "s": 5,
+          "t": "I believe the irregularities with Jialiang's heart meridian were likely caused by a poison concocted using god remains as a key ingredient."
+        },
+        {
+          "s": 5,
+          "t": "The poison has not been purged from Jialiang's system. Rather, I infused him with some of my own life force using Changsheng as the delivery medium. This will suppress the poison's effects for a limited time."
+        },
+        {
+          "s": 3,
+          "t": "Changsheng... You can do that? Paimon always thought you were just Baizhu's strange choice of a necklace..."
+        },
+        {
+          "s": 5,
+          "t": "Hey! I'll have you know that I commanded the respect of even the adepti back in Chenyu Vale. If anything, he is my mannequin!"
+        },
+        {
+          "s": 5,
+          "t": "I was treating patients with Baizhu's master's master long before he ever set eyes on his first medical text!"
+        },
+        {
+          "s": 3,
+          "t": "Whoa... Guess you shouldn't judge a snake by its skin."
+        },
+        {
+          "s": 5,
+          "t": "Please, that's enough... *cough* *cough*"
+        },
+        {
+          "sit": "You're looking even worse now than before..."
+        },
+        {
+          "sit": "...Are you sure you're okay?"
+        },
+        {
+          "s": 3,
+          "t": "Wait a sec... Hu Tao was saying that the branch of medicine you studied uses some pretty dubious methods... So when you transfer your life force, does that mean you're actually damaging your own body?"
+        },
+        {
+          "s": 5,
+          "t": "Hardly. Changsheng helps to keep my qi in balance, so there is no great harm done..."
+        },
+        {
+          "s": 5,
+          "t": "...Still, Baizhu's life force is not unlimited. We must find a way to neutralize the poison in Jialiang's body, and soon."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, Paimon, would you lend this dummy a hand? He needs someone checking up on him, or he'll exhaust himself trying to accomplish everything on his own..."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Go on, Baizhu. Let us help you."
+        },
+        {
+          "s": 5,
+          "t": "...Baizhu, don't you think you should seize this opportunity? You cannot expect to hide this from everyone for your entire life. Time will see that all secrets surface eventually."
+        },
+        {
+          "s": 5,
+          "t": "*sigh*... \"Entire life\"..."
+        },
+        {
+          "s": 5,
+          "t": "...Thank you, {NICKNAME} and Paimon."
+        },
+        {
+          "s": 4,
+          "t": "...Are you sure you're okay?"
+        },
+        {
+          "s": 4,
+          "t": "...Poison?"
+        },
+        {
+          "s": 4,
+          "t": "{NICKNAME}."
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Huh, Paimon doesn't think we've seen this side of you. But there's no need to thank us! You've helped us out before."
+        },
+        {
+          "s": 4,
+          "t": "So. What are the next steps?"
+        },
+        {
+          "s": 5,
+          "t": "The poison in Jialiang's system must have accumulated over a prolonged period. I think I should pay a visit to their family home, and look for clues as to how he might have been exposed to it."
+        },
+        {
+          "s": 4,
+          "t": "Do you know where his house is?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. I asked Ayu this morning before you arrived. He told me that his family lives in a secluded spot to the west of Qingce Village."
+        },
+        {
+          "s": 5,
+          "t": "Let's head there together once I've asked Gui and Qiqi to look after the pharmacy."
+        },
+        {
+          "s": 5,
+          "t": "...As well as investigating Jialiang's exposure to the poison, we should also keep an eye out for Ayu's missing mother... my fellow disciple, Jiangli."
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Huh, Paimon doesn't think we've seen this side of you before."
+        },
+        {
+          "s": 4,
+          "t": "So. What are the next steps?"
+        },
+        {
+          "s": 5,
+          "t": "The poison in Jialiang's system must have accumulated over a prolonged period. I think I should pay a visit to their family home, and look for clues as to how he might have been exposed to it."
+        },
+        {
+          "s": 4,
+          "t": "Do you know where his house is?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. I asked Ayu this morning before you arrived. He told me that his family lives in a secluded spot to the west of Qingce Village."
+        },
+        {
+          "s": 5,
+          "t": "Let's head there together once I've asked Gui and Qiqi to look after the pharmacy."
+        },
+        {
+          "s": 5,
+          "t": "...As well as investigating Jialiang's exposure to the poison, we should also keep an eye out for Ayu's missing mother... my fellow disciple, Jiangli."
+        }
+      ],
+      "description": "Someone seems to be asking for help outside Bubu Pharmacy…"
+    },
+    {
+      "title": "The Quest for a Cure",
+      "dialogue": [
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Whoa, there's a house all the way out here? It's so well hidden, Paimon's never noticed it before..."
+        },
+        {
+          "s": 5,
+          "t": "Nor have I... and I've hosted clinics at Qingce Village many times in the past. If you ask me... Jiangli was trying to remain unnoticed."
+        },
+        {
+          "s": 3,
+          "t": "Oh, that reminds Paimon. We meant to ask earlier, but it slipped our minds in the rush to get here... Could you tell us more about Jiangli? You said she was your fellow disciple, right?"
+        },
+        {
+          "s": 5,
+          "t": "She was indeed. We studied medicine together under the same master near Chenyu Vale."
+        },
+        {
+          "s": 5,
+          "t": "She is several years older than I and also began her travels far earlier than me. As a result, the time I spent studying alongside her was rather short."
+        },
+        {
+          "s": 5,
+          "t": "Supposedly, she met an herb gatherer sometime during her travels and decided to settle down with him. That must have been Jialiang."
+        },
+        {
+          "s": 3,
+          "t": "Wait... Changsheng, are you saying... Neither of you had actually met Jialiang or Ayu before all of this?"
+        },
+        {
+          "s": 5,
+          "t": "...Jiangli did occasionally come back to Chenyu Vale to see our master, but for whatever reason, she hardly ever talked about her family."
+        },
+        {
+          "s": 5,
+          "t": "The last time she visited us, she and master had some sort of a quarrel... We never heard from her after that. It almost seemed as if she'd gone into hiding."
+        },
+        {
+          "s": 3,
+          "t": "Quarrel? What happened?"
+        },
+        {
+          "s": 5,
+          "t": "I don't know. I did not witness the argument myself."
+        },
+        {
+          "s": 5,
+          "t": "Nor did Master ever explain it to me. All he would say is that, should I ever encounter Jiangli or her family in the future... I should do everything in my power to help them."
+        },
+        {
+          "s": 3,
+          "t": "Oh... So that's why you went to such extreme lengths to help Jialiang."
+        },
+        {
+          "s": 5,
+          "t": "No. Even if my master had never said anything, it would still be my duty as a doctor to help him. My decision would have remained the same."
+        },
+        {
+          "s": 5,
+          "t": "*sigh*"
+        },
+        {
+          "s": 3,
+          "t": "Paimon never knew you were so selfless, Baizhu. Paimon always had you down as the sneaky scheming type... Sorry."
+        },
+        {
+          "s": 5,
+          "t": "Heh, so a few words from me is enough to dispel all your suspicions, hmm? You ought not be quite so quick to relax your guard, Paimon... Sometimes, even the \"good guys\" have their own private agenda."
+        },
+        {
+          "s": 3,
+          "t": "What the... Okay, that was the most suspicious-sounding thing you've ever said!"
+        },
+        {
+          "s": 5,
+          "t": "Hahaha... Let's leave the idle chatter there for now. Jiangli has lived in this house for many years — there must be something here that can shed a little light on this whole situation."
+        },
+        {
+          "s": 5,
+          "t": "Let's split up, but if anyone finds anything, we'll examine it together."
+        },
+        {
+          "section": "Herbalist Gui"
+        },
+        {
+          "s": 0,
+          "t": "Are you heading out now, Dr. Baizhu?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. While I'm gone, I leave Bubu Pharmacy in your and Qiqi's capable hands."
+        },
+        {
+          "s": 0,
+          "t": "Rest assured, the moment anything comes up that you should know about, I'll inform you immediately."
+        },
+        {
+          "section": "Qiqi"
+        },
+        {
+          "s": 1,
+          "t": "Phew... she's finally gone. She's gone for good now, right? ...Right?"
+        },
+        {
+          "section": "Hu Tao"
+        },
+        {
+          "s": 8,
+          "t": "Huh... Fancy running into you guys at a place like this. What are the chances!"
+        },
+        {
+          "s": 4,
+          "t": "What are you doing here?"
+        },
+        {
+          "s": 8,
+          "t": "Uh, nothing? I was just battling against some writer's block, so I took a stroll to see if I could get my muse back... Mm... mm, yep, i—it's working... \"Stealthy as a snake, she can hear them coming, plants a little bait, and they all come running\"..."
+        },
+        {
+          "sit": "Won't your continued absence affect Wangsheng Funeral Parlor's business?"
+        },
+        {
+          "sit": "Still worried about what Baizhu's up to?"
+        },
+        {
+          "s": 8,
+          "t": "It's fine, I have someone taking care of the books while I'm gone... Hold up, now that you mention it, I probably shouldn't stick around here too long..."
+        },
+        {
+          "s": 4,
+          "t": "Still worried about what Baizhu's up to?"
+        },
+        {
+          "s": 8,
+          "t": "...You'd better not snitch on me, okay?"
+        },
+        {
+          "section": "Jialiang, Ayu"
+        },
+        {
+          "s": 9,
+          "t": "*sigh* Your mother's been missing for days now, but here I am, sitting here and doing nothing..."
+        },
+        {
+          "s": 2,
+          "t": "Don't think about that, Dad! Just concentrate on getting better. ...It's been years since we were last able to talk to each other like this."
+        },
+        {
+          "s": 9,
+          "t": "So it has... In the blink of an eye, you're already so grown up..."
+        },
+        {
+          "section": "Observe Wooden Pillar"
+        },
+        {
+          "s": 10,
+          "t": "(Several faint marks can be seen on the pillar. Maybe it was used to record Ayu's height as he grew up.)"
+        },
+        {
+          "s": 10,
+          "t": "(There's some faded writing near the bottom mark: \"The more quickly Ayu grows up, the sooner... can leave...\")"
+        },
+        {
+          "s": 10,
+          "t": "(...Judging by the number of marks on the pillar, the family has led a secluded existence here for many, many years.)"
+        },
+        {
+          "section": "Observe Stack of Wood"
+        },
+        {
+          "s": 11,
+          "t": "(The firewood is neatly stacked, and the logs were cut with great power and precision. Whoever chopped the firewood must have been physically fit.)"
+        },
+        {
+          "s": 11,
+          "t": "(...Some logs at the bottom of the pile have begun to rot. It must have been a while since any new wood was added to the pile.)"
+        },
+        {
+          "section": "Diary With Childish Handwriting"
+        },
+        {
+          "s": 12,
+          "t": "\"...Some roof tiles broke. Mom and I tried to get up and take a look, but we didn't manage. Luckily, dad was able to fix them in no time!\""
+        },
+        {
+          "s": 12,
+          "t": "\"...The dinner table was a bit wobbly today when we sat down to eat... Dad tried to fix it, but ended up breaking one of the legs by accident...\""
+        },
+        {
+          "s": 12,
+          "t": "\"...Dad's forgetting things again. I'll have to write it all down for now, and read it back to him when he's feeling a bit better...\""
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 5,
+          "t": "How time flies... Jiangli's had a son, and he's all grown up..."
+        },
+        {
+          "s": 5,
+          "t": "I wonder if Jiangli's changed at all, after all these years?"
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Wh—What is this?"
+        },
+        {
+          "s": 5,
+          "t": "Changsheng and I found a hidden compartment... This is what was hidden inside."
+        },
+        {
+          "s": 4,
+          "t": "...God remains?"
+        },
+        {
+          "s": 5,
+          "t": "Ah, you sense it too? You're right — this is a poison concocted using god remains."
+        },
+        {
+          "s": 3,
+          "t": "Uh... Is it... breathing? Paimon's not seeing things, is she?"
+        },
+        {
+          "s": 5,
+          "t": "No, your eyes do not deceive you. I do believe the poison in this bottle is... alive."
+        },
+        {
+          "s": 4,
+          "t": "\"Alive\"?"
+        },
+        {
+          "s": 5,
+          "t": "Some toxins act a lot like living organisms... I read about this once in \"The Origins and Symptoms of Diseases.\" This ancient class of poisons consists of \"mother\" and \"minor\" lodes, capable of sustaining a connection over vast distances."
+        },
+        {
+          "s": 5,
+          "t": "If it's a concoction of this kind we're dealing with, then both the poison in Jialiang's system and this one here are likely minor lodes... offshoots, essentially."
+        },
+        {
+          "s": 3,
+          "t": "Offshoots? So... the main body is somewhere else?"
+        },
+        {
+          "s": 5,
+          "t": "Correct. Whoever is administering the poison can manipulate the source to indirectly control the poisoned individual's behavior and even cognition. Similarly, the poisoned individual will hear, to a varying extent, the call of the source."
+        },
+        {
+          "s": 3,
+          "t": "The call of the... Wait! So back when Jialiang ran off, maybe that explains where he was heading!"
+        },
+        {
+          "s": 4,
+          "t": "...He was going back towards Qingce Village!"
+        },
+        {
+          "s": 5,
+          "t": "Only one thing could've been drawing him there. The source of the god remains used as the poison's key ingredient... the mother lode."
+        },
+        {
+          "s": 3,
+          "t": "Ugh, this is getting crazier and crazier! What kind of person would do all this just to poison Jialiang?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Hey... Why's everyone gone quiet all of a sudden?"
+        },
+        {
+          "s": 5,
+          "t": "...Since this poison was carefully hidden away in a secret compartment, the one who concocted it is likely a resident of the house."
+        },
+        {
+          "s": 3,
+          "t": "You mean, Jialiang? Why would he poison himself?"
+        },
+        {
+          "s": 5,
+          "t": "Think a little harder, Paimon. Someone else who lives here... and who might have expertise in crafting drugs..."
+        },
+        {
+          "s": 3,
+          "t": "Huh? So you're saying... *gasp* It was Jiangli!?"
+        },
+        {
+          "s": 3,
+          "t": "Wait, but that doesn't make any sense either! Why would she poison her own husband?"
+        },
+        {
+          "s": 5,
+          "t": "...I agree, it makes little sense. Jiangli does not strike me as the kind of person who would do such a thing."
+        },
+        {
+          "s": 5,
+          "t": "Look at the facts, though. How many people in the entirety of Liyue have the ability to concoct a poison from god remains?"
+        },
+        {
+          "s": 5,
+          "t": "...It's too early to draw any conclusions. We should question Jialiang about it once he has made more progress in his recovery."
+        },
+        {
+          "s": 4,
+          "t": "Do you know of a method to neutralize the poison?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. According to \"The Origins and Symptoms of Diseases,\" the minor lodes will disappear if the mother lode is purged..."
+        },
+        {
+          "s": 5,
+          "t": "So, if we can find and destroy the source of these god remains, the poison will leave Jialiang's system without the need for any further treatment."
+        },
+        {
+          "s": 5,
+          "t": "Do you know anything about god remains in Qingce Village?"
+        },
+        {
+          "sit": "I've only heard the rumors..."
+        },
+        {
+          "sit": "Nothing concrete..."
+        },
+        {
+          "s": 5,
+          "t": "*sigh* Even the history books have no record of this. The only ones who'll know anything are those old fogeys who've been hanging around here since the beginning of time."
+        },
+        {
+          "s": 3,
+          "t": "Hmm? Didn't you use to be on good terms with the adepti, though? You sure they didn't tell you anything about this?"
+        },
+        {
+          "s": 5,
+          "t": "Well, uh... Ahem..."
+        },
+        {
+          "s": 5,
+          "t": "Changsheng's memories and powers are not what they were in her prime."
+        },
+        {
+          "s": 5,
+          "t": "These days, she has to enter a contract with a mortal and share their life force just to sustain her own life. I fear that such ancient events are long gone from her memory by now."
+        },
+        {
+          "s": 3,
+          "t": "...Whoa, what? Enter a contract? Share life force? Sounds like some pretty spooky sorcery if you ask Paimon..."
+        },
+        {
+          "s": 5,
+          "t": "Hey! Plenty of people would jump at the chance to join forces with a powerful being like me!"
+        },
+        {
+          "s": 5,
+          "t": "With my assistance in rebalancing your qi, not only can you extend your lifespan, but you will also be stronger, healthier, and able to eat whatever you like with no risk of upsetting your stomach!"
+        },
+        {
+          "s": 3,
+          "t": "Stronger and healthier? Wow, that's amazing..."
+        },
+        {
+          "s": 3,
+          "t": "Hehe, Baizhu, maybe when you retire, you can let Paimon sign a contract with Changsheng for a few days, hee-hee..."
+        },
+        {
+          "s": 5,
+          "t": "Unfortunately, Changsheng's contract has strict requirements regarding the host's temperament. None of her hosts have ever been exempted from these rules. I fear that I will be unable to accommodate your wishes, Paimon."
+        },
+        {
+          "s": 3,
+          "t": "...Temperament? Hey, what are you trying to say? Did you just subtly insult Paimon to her face?"
+        },
+        {
+          "s": 4,
+          "t": "(Strange, Baizhu has a weak constitution...)"
+        },
+        {
+          "s": 4,
+          "t": "(And didn't his master pass away at an early age?)"
+        },
+        {
+          "s": 3,
+          "t": "Ughhhh... Paimon's mad! You're getting ugly nicknames, both of you! Baizhu, you're Mannequin Man! Changsheng, you're just... a Pain in the Neck!"
+        },
+        {
+          "s": 5,
+          "t": "This is exactly why your natural temperament makes you woefully unsuited to being my host!"
+        },
+        {
+          "s": 5,
+          "t": "Alright, everybody, calm down. Back to the matter at hand. Is there any way at all for us to seek counsel from the adepti about this?"
+        },
+        {
+          "s": 5,
+          "t": "Hmph, with how antisocial they are? If it were up to them, they'd go their whole lives without showing their faces to the common folk..."
+        },
+        {
+          "sit": "Actually..."
+        },
+        {
+          "sit": "I do have someone that I can call."
+        },
+        {
+          "s": 5,
+          "t": "What?"
+        },
+        {
+          "s": 5,
+          "t": "Seems you're as well-connected as they say, {NICKNAME}. We are truly fortunate to have you on our side."
+        },
+        {
+          "s": 3,
+          "t": "Oh... If you're talking about who Paimon thinks you're talking about... you'd better do the honors."
+        },
+        {
+          "s": 4,
+          "t": "I do have someone that I can call."
+        },
+        {
+          "s": 4,
+          "t": "Nothing concrete..."
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "sit": "...Xiao?"
+        },
+        {
+          "sit": "Xiao, are you there?"
+        },
+        {
+          "s": 13,
+          "t": "You called?"
+        },
+        {
+          "s": 3,
+          "t": "Waaah!"
+        },
+        {
+          "s": 3,
+          "t": "...Ugh, gets Paimon every time!"
+        },
+        {
+          "s": 5,
+          "t": "...Are all adepti in the habit of materializing out of thin air like this?"
+        },
+        {
+          "s": 5,
+          "t": "...Well, this is unexpected."
+        },
+        {
+          "s": 13,
+          "t": "...Huh? It's you?"
+        },
+        {
+          "s": 5,
+          "t": "Baizhu, of Bubu Pharmacy. I do believe I've had the pleasure before."
+        },
+        {
+          "s": 5,
+          "t": "...The Lantern Rite when we met briefly, I was unaware of your true identity. I... must apologize for the discourtesy."
+        },
+        {
+          "s": 3,
+          "t": "Huh? You two already know each other?"
+        },
+        {
+          "s": 13,
+          "t": "Our paths have crossed once before."
+        },
+        {
+          "s": 13,
+          "t": "...I sense the presence of evil spirits. Is this why you called me?"
+        },
+        {
+          "sit": "Let me explain..."
+        },
+        {
+          "sit": "Actually, I wanted to ask you about dead gods..."
+        },
+        {
+          "sit": "You tell Xiao everything that has happened..."
+        },
+        {
+          "s": 13,
+          "t": "So someone has been concocting demonic poison..."
+        },
+        {
+          "s": 13,
+          "t": "Too often, fervent desires drive mortals to abandon all regard for their own safety... It is lamentable."
+        },
+        {
+          "s": 13,
+          "t": "I now know what you seek. It is true that a god's remains are buried beneath the foundations of Qingce Village."
+        },
+        {
+          "s": 13,
+          "t": "A vile monster known as the Chi once wrought havoc over this land, before it was subdued by Rex Lapis..."
+        },
+        {
+          "s": 13,
+          "t": "The land was finally cleansed of poison when Rex Lapis used statues in his likeness to seal the serpent's remains. Qingce Village was founded sometime after that."
+        },
+        {
+          "s": 13,
+          "t": "The seal is still mostly intact. If the Chi is the source, then it must be some of its blood leaking from deep underground."
+        },
+        {
+          "s": 13,
+          "t": "However... its aura is faint and barely detectable. You will need to investigate further to identify the location of the leak."
+        },
+        {
+          "s": 4,
+          "t": "...I see."
+        },
+        {
+          "s": 13,
+          "t": "I do not like to intervene against mortals unless absolutely necessary."
+        },
+        {
+          "s": 13,
+          "t": "But when demonic forces are involved, things can spiral out of control... If that happens, be sure to call my name again."
+        },
+        {
+          "sit": "I will."
+        },
+        {
+          "sit": "Thank you, Xiao."
+        },
+        {
+          "s": 13,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...Hmm?"
+        },
+        {
+          "s": 13,
+          "t": "...Nothing."
+        },
+        {
+          "s": 13,
+          "t": "I do not wish to sway decisions that are mortals' to make, but..."
+        },
+        {
+          "s": 13,
+          "t": "...Immortality may not be the blessing that you imagine it to be."
+        },
+        {
+          "s": 5,
+          "t": "...I shall treasure your words of instruction, Master Adeptus."
+        },
+        {
+          "s": 13,
+          "t": "Farewell."
+        },
+        {
+          "s": 5,
+          "t": "What a strange adeptus... Rather different from the way I remember them."
+        },
+        {
+          "s": 3,
+          "t": "That's Xiao for ya! And thanks to him, we've finally got some concrete info to go off of."
+        },
+        {
+          "s": 5,
+          "t": "If the god remains are leaking from underground, Jiangli must be paying a visit to a subterranean cave on her \"herb gathering\" trips. If we can find the cave..."
+        },
+        {
+          "s": 0,
+          "t": "Mas... Master! *panting* Master — there's a problem!"
+        },
+        {
+          "s": 3,
+          "t": "Gui? ...Did you run all the way from Bubu Pharmacy?"
+        },
+        {
+          "s": 5,
+          "t": "What happened? Don't panic, just catch your breath, and tell me everything."
+        },
+        {
+          "s": 0,
+          "t": "It's... It's Jialiang..."
+        },
+        {
+          "s": 0,
+          "t": "He was... he was fine one minute, and then... he suddenly took a turn for the worse!"
+        },
+        {
+          "s": 5,
+          "t": "Already? How?"
+        },
+        {
+          "s": 5,
+          "t": "Based on past experience, he should have been fine for the next three days at least..."
+        },
+        {
+          "s": 5,
+          "t": "...It seems that my worst fears have been confirmed."
+        },
+        {
+          "s": 5,
+          "t": "Everyone, back to Bubu Pharmacy, now!"
+        },
+        {
+          "s": 4,
+          "t": "Thank you, Xiao."
+        },
+        {
+          "s": 4,
+          "t": "Actually, I wanted to ask you about dead gods..."
+        },
+        {
+          "s": 4,
+          "t": "Xiao, are you there?"
+        },
+        {
+          "section": "Ayu, Jialiang, Qiqi, Baizhu, Herbalist Gui"
+        },
+        {
+          "s": 2,
+          "t": "Dad! What's wrong? Dad..."
+        },
+        {
+          "s": 9,
+          "t": "Ugh... Urghhh..."
+        },
+        {
+          "s": 1,
+          "t": "Don't be scared, Dr. Baizhu will be back soon..."
+        },
+        {
+          "s": 5,
+          "t": "How is he doing?"
+        },
+        {
+          "s": 2,
+          "t": "Dr. Baizhu, you're back! My dad was doing fine earlier, but then he suddenly started coughing up blood! Now, he can't even get a full word out anymore..."
+        },
+        {
+          "s": 1,
+          "t": "When Gui left, he was still conscious. But now..."
+        },
+        {
+          "s": 5,
+          "t": "...Gui, please take Jialiang to the back room and prepare for treatment."
+        },
+        {
+          "s": 0,
+          "t": "Yes, of course!"
+        },
+        {
+          "s": 5,
+          "t": "Don't worry, Ayu. I will cure your father."
+        },
+        {
+          "section": "Qiqi, Ayu"
+        },
+        {
+          "s": 1,
+          "t": "Please don't worry. Dr. Baizhu, will find a way..."
+        },
+        {
+          "s": 2,
+          "t": "But, but... *sob*"
+        },
+        {
+          "section": "Herbalist Gui"
+        },
+        {
+          "s": 0,
+          "t": "Dr. Baizhu is still treating the patient. Please do not disturb him for now."
+        },
+        {
+          "section": "Ayu, Jialiang, Herbalist Gui"
+        },
+        {
+          "s": 2,
+          "t": "How are you feeling, Dad? Are you still hurting anywhere? You're not gonna suddenly collapse again, are you...?"
+        },
+        {
+          "s": 9,
+          "t": "Much better, Ayu, I'm feeling much better. In fact... I can't explain it, but somehow I feel even better than usual."
+        },
+        {
+          "s": 9,
+          "t": "Hmm? Wait... Where's Dr. Baizhu? I still haven't had a chance to thank him... Seems he moved me here before I came to."
+        },
+        {
+          "s": 0,
+          "t": "Master said he needed to take a quick rest, and asked me to bring you out of the treatment room... He hasn't emerged yet, so he must still be resting."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "Oh, really? ...Well, he must be tired from treating me for two nights in a row."
+        },
+        {
+          "s": 9,
+          "t": "*sigh* I don't know how I can begin to repay him for saving my life. I'll have to discuss it properly with Jiangli once we find her..."
+        },
+        {
+          "s": 9,
+          "t": "Hmm... Speaking of which, has there been any word of her whereabouts yet?"
+        },
+        {
+          "s": 2,
+          "t": "No, the Adventurers' Guild hasn't gotten back to me yet. I'll go check with them again in a bit."
+        },
+        {
+          "s": 9,
+          "t": "I'll come with— Ugh!"
+        },
+        {
+          "s": 0,
+          "t": "Don't forget what Master said — you're still not out of the woods yet, Jialiang. I strongly suggest that you stay and rest at Bubu Pharmacy for now. I can accompany Ayu to the Adventurers' Guild."
+        },
+        {
+          "s": 9,
+          "t": "...*sigh* I suppose you're right... I'll have to rely on you this time."
+        },
+        {
+          "s": 9,
+          "t": "Though, on the bright side, this means I can thank Dr. Baizhu in person once he's finished resting..."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, Baizhu hasn't shown his face ever since he went in to treat Jialiang again. Do you think he..."
+        },
+        {
+          "s": 4,
+          "t": "...Let's go check up on him."
+        },
+        {
+          "s": 3,
+          "t": "Huh? Hey, wait up!"
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "...You're finally awake? Phew. That was far too risky, even with me here to help you balance your qi."
+        },
+        {
+          "s": 5,
+          "t": "...There was no time, I had no other choice. In any case, it was not completely without benefit to myself — I managed to learn something."
+        },
+        {
+          "s": 5,
+          "t": "Jiangli's design is quite brilliant. She makes numerous innovations that I can learn from... Alas, if only there wasn't a catch."
+        },
+        {
+          "s": 3,
+          "t": "...So, how much longer do you think Baizhu's gonna nap for?"
+        },
+        {
+          "s": 5,
+          "t": "They've been outside waiting for you the whole time while you were asleep. Shall we at least go and show our faces?"
+        },
+        {
+          "s": 5,
+          "t": "...Alright."
+        },
+        {
+          "section": "Baizhu, Jialiang, Qiqi"
+        },
+        {
+          "s": 3,
+          "t": "Surely he hasn't... There's no way he could've just—"
+        },
+        {
+          "s": 5,
+          "t": "Who's talking behind our backs again?"
+        },
+        {
+          "s": 3,
+          "t": "Ah! Baizhu! Changsheng!"
+        },
+        {
+          "s": 4,
+          "t": "Are you both okay?"
+        },
+        {
+          "s": 5,
+          "t": "Of course, there's no need to be concerned. I merely had to transfer a rather large amount of life force on this occasion. But with Changsheng's help, I will recover in time."
+        },
+        {
+          "s": 3,
+          "t": "Jialiang seemed fine yesterday. Why did he need more life-saving treatment again so soon?"
+        },
+        {
+          "s": 5,
+          "t": "I made an error in my initial diagnosis. Jialiang is in fact suffering from more than one ailment."
+        },
+        {
+          "s": 5,
+          "t": "...And as a result, his life force depleted at a greater rate than I had anticipated."
+        },
+        {
+          "s": 3,
+          "t": "What? You mean, even if you got all the poison out of him... he'd still be sick?"
+        },
+        {
+          "s": 5,
+          "t": "Yes... but more pertinently, the poison in Jialiang's system is there precisely because it is being used to manage his underlying medical condition."
+        },
+        {
+          "s": 5,
+          "t": "Jialiang has a rare congenital heart condition, and ongoing treatment is essential to maintaining healthy functioning of his heart meridian. Left untreated, it puts the patient at risk of coughing up blood and fainting, and in the longer term, causes irreversible damage to the internal organs."
+        },
+        {
+          "s": 5,
+          "t": "Though it was created from god remains, this formula is not a poison in Jialiang's case. Rather, it's his medication."
+        },
+        {
+          "s": 5,
+          "t": "Had he not taken it all these years, he likely would have died a long time ago."
+        },
+        {
+          "s": 4,
+          "t": "So that's why Jiangli did it..."
+        },
+        {
+          "s": 5,
+          "t": "Still, using poison to treat a disease is hardly a viable long-term solution. As time passed, and the poison accumulated in his system, it began to impact his cognition."
+        },
+        {
+          "s": 5,
+          "t": "Moreover, the longer he relied upon this medicine, the more resistant his body became to it. Jiangli had to concoct ever greater quantities to ensure its continued efficacy, or he could have still perished at any moment."
+        },
+        {
+          "s": 3,
+          "t": "That explains why Ayu said his dad has been getting worse... and why his mom went off to \"gather herbs\"..."
+        },
+        {
+          "s": 5,
+          "t": "God remains are extremely dangerous to be around, because humans have no natural defense against them. I shudder to think how many times Jiangli has exposed herself to them..."
+        },
+        {
+          "s": 5,
+          "t": "I fear that the situation is just as that adeptus described... In an effort to save Jialiang's life, Jiangli has abandoned all regard for her own safety."
+        },
+        {
+          "s": 5,
+          "t": "I never suspected that even Jiangli would turn to the same path as so many others over the years... Perhaps this is the inevitable course of fate..."
+        },
+        {
+          "s": 5,
+          "t": "To sacrifice one's own life to save others... To go beyond human means in order to do the impossible, whatever the cost may be..."
+        },
+        {
+          "s": 4,
+          "t": "\"Fate\"...?"
+        },
+        {
+          "s": 5,
+          "t": "...Well, I think that it's too early to say with any certainty what fate has in mind."
+        },
+        {
+          "s": 5,
+          "t": "In any case, I have stabilized Jialiang's condition for now, so our immediate priority should be to get ourselves back to Qingce Village and find out where Jiangli is."
+        },
+        {
+          "s": 5,
+          "t": "Her regular exposure to god remains over such a long period will have been catastrophic for her health."
+        },
+        {
+          "s": 5,
+          "t": "And given that she's already been missing for several days... I am fearing the worst."
+        },
+        {
+          "sit": "!"
+        },
+        {
+          "sit": "...Who's that?"
+        },
+        {
+          "s": 9,
+          "t": "...I—It's me, Traveler, Dr. Baizhu."
+        },
+        {
+          "s": 3,
+          "t": "Ah, it's Jialiang! ...Don't tell Paimon you overheard everything already..."
+        },
+        {
+          "s": 9,
+          "t": "Dr. Baizhu... Please let me come with you!"
+        },
+        {
+          "s": 9,
+          "t": "You have already done so much for my family. I can no longer just sit here and watch while you put yourself at risk for Jiangli's sake."
+        },
+        {
+          "s": 9,
+          "t": "After all, if it wasn't for me, she wouldn't have had to put herself in harm's way in the first place... I know I won't be of much help in battle, but at the very least, I can show you the way."
+        },
+        {
+          "s": 9,
+          "t": "...I'm sure I'll be able to remember, I know there's a spot where she says goodbye to me every time she goes to \"gather her herbs.\" I'm sure I'll remember... I—I have to remember! Ugh... *cough*"
+        },
+        {
+          "s": 5,
+          "t": "Be careful! If you get too agitated, your blood pressure and stress levels will rise, putting further pressure on your heart... For your own safety, you should stay here and rest."
+        },
+        {
+          "s": 9,
+          "t": "No! We're out of time! We have to go now... right now..."
+        },
+        {
+          "s": 9,
+          "t": "Before I forget everything again...!"
+        },
+        {
+          "s": 5,
+          "t": "*sigh*..."
+        },
+        {
+          "s": 5,
+          "t": "...This trip will be extremely dangerous, and there is a very real possibility that you will not return from it... Are you sure you're prepared for that?"
+        },
+        {
+          "s": 9,
+          "t": "Hah... I never expected to live this long in the first place. My death is already long overdue... So why should I fear it?"
+        },
+        {
+          "s": 9,
+          "t": "There's only one thing I fear now... and that's that I'll forget her again before we manage to find her..."
+        },
+        {
+          "s": 5,
+          "t": "...Very well. Then, follow me."
+        },
+        {
+          "s": 1,
+          "t": "Dr. Baizhu, are you heading out again?"
+        },
+        {
+          "s": 5,
+          "t": "Yes... This could be a long one... Could you please prepare a dose of the usual formula?"
+        },
+        {
+          "s": 5,
+          "t": "Please add an extra measure of Mist Grass Pollen, and one dose each of the ingredients from the third and fifth compartments of my medicine cabinet... I hope it works."
+        },
+        {
+          "s": 1,
+          "t": "Dr. Baizhu... Do you mean..."
+        },
+        {
+          "s": 5,
+          "t": "Hop to it, now. And remember to be careful with the cauldron this time... You don't want to burn yourself again."
+        },
+        {
+          "s": 1,
+          "t": "...Okay."
+        },
+        {
+          "s": 4,
+          "t": "...Who's that?"
+        }
+      ],
+      "description": "There seems to be something else going on with the poison in Jialiang’s body…"
+    },
+    {
+      "title": "The Formula for a Miracle",
+      "dialogue": [
+        {
+          "section": "Baizhu, Jialiang"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "Ugh... That strange feeling is back..."
+        },
+        {
+          "s": 9,
+          "t": "It's just like the day I went missing... It's as if something inside me is trying to guide me somewhere..."
+        },
+        {
+          "s": 5,
+          "t": "The mother lode's influence is growing stronger... But is it because we're getting closer to the source, or because the leakage of Chi blood is growing more severe?"
+        },
+        {
+          "s": 5,
+          "t": "Jialiang, can you sense which direction the source is in?"
+        },
+        {
+          "s": 9,
+          "t": "I think it's... this way!"
+        },
+        {
+          "section": "Qiqi"
+        },
+        {
+          "s": 1,
+          "t": "Everyone, please be careful."
+        },
+        {
+          "section": "Xiao"
+        },
+        {
+          "s": 13,
+          "t": "Hm? From the looks of it, you've already tracked down the location of the source?"
+        },
+        {
+          "s": 4,
+          "t": "We've made some progress..."
+        },
+        {
+          "s": 13,
+          "t": "Really? That's good to hear."
+        },
+        {
+          "s": 4,
+          "t": "Have you been standing guard here this entire time?"
+        },
+        {
+          "s": 13,
+          "t": "...I cannot simply look the other way when evil spirits are involved."
+        },
+        {
+          "s": 13,
+          "t": "In any case, the evil presence here is growing stronger. I can sense it."
+        },
+        {
+          "s": 13,
+          "t": "...Whatever you're planning to do, make it quick."
+        },
+        {
+          "s": 13,
+          "t": "If you leave it too long, and I am compelled to intervene... things may not turn out the way you wish."
+        },
+        {
+          "section": "Jialiang"
+        },
+        {
+          "s": 5,
+          "t": "Hmm... There is an inauspicious presence here. Even I can sense it."
+        },
+        {
+          "s": 9,
+          "t": "I think I remember this place... Ugh!"
+        },
+        {
+          "s": 3,
+          "t": "Jialiang! Are you okay? Maybe you should rest here while we continue the search?"
+        },
+        {
+          "s": 9,
+          "t": "No... I have to keep going. Jiangli is still waiting for me..."
+        },
+        {
+          "s": 9,
+          "t": "Phew... Then let's hurry!"
+        },
+        {
+          "section": "Baizhu"
+        },
+        {
+          "s": 3,
+          "t": "Uhhh... This place gives Paimon the creeps. Who knows what we're gonna find up ahead..."
+        },
+        {
+          "s": 5,
+          "t": "The digging marks here appear amateur, and rather old... I suspect it is a thieves' tunnel."
+        },
+        {
+          "s": 3,
+          "t": "A thieves' tunnel? Hmm, Paimon has heard rumors about treasure around these parts before... Maybe it was the Treasure Hoarders that dug this tunnel?"
+        },
+        {
+          "s": 5,
+          "t": "Judging by the tools they left behind, it's certainly a possibility."
+        },
+        {
+          "s": 5,
+          "t": "...But why did they abandon this place without even stopping to pack up their tools?"
+        },
+        {
+          "s": 9,
+          "t": "...I remember now. She took me here once and told me that she'd found a way to save me in this cave..."
+        },
+        {
+          "s": 9,
+          "t": "But she... She said that the method would cause me to... Ugh, curses, why can't I remember what she said? Argh!"
+        },
+        {
+          "s": 5,
+          "t": "Easy, Jialiang. Come on, let's keep going."
+        },
+        {
+          "section": "Baizhu, Jialiang"
+        },
+        {
+          "s": 3,
+          "t": "Whoa, there's a censer here... Those Treasure Hoarders sure made themselves at home..."
+        },
+        {
+          "sit": "(I don't see any dust on the censer's surface...)"
+        },
+        {
+          "sit": "(The burn marks on the inside are still fresh...)"
+        },
+        {
+          "s": 4,
+          "t": "...I don't think this was left here by the Treasure Hoarders."
+        },
+        {
+          "s": 5,
+          "t": "...I believe this censer was used to burn a monster-repelling incense."
+        },
+        {
+          "s": 3,
+          "t": "A monster-repelling incense? You sure? 'Cause we did run into that group of monsters just now."
+        },
+        {
+          "s": 5,
+          "t": "The incense was burned several days ago. If I had to guess, the monsters we fought just now were enticed here by some entity deeper inside the cave."
+        },
+        {
+          "s": 5,
+          "t": "No doubt an encounter with the very same entity was what prompted the Treasure Hoarders to flee and abandon their designs on this cave."
+        },
+        {
+          "s": 5,
+          "t": "After them, Jiangli was the next person to discover this place, and what lies inside... But to her, it presented an opportunity to save Jialiang's life, albeit as a last resort..."
+        },
+        {
+          "s": 9,
+          "t": "That's right... This censer — it belongs to Jiangli! Yes, this was the place!"
+        },
+        {
+          "s": 9,
+          "t": "This is where... I told Jiangli to give me the poison... *cough* *cough*"
+        },
+        {
+          "s": 3,
+          "t": "Jialiang!"
+        },
+        {
+          "s": 9,
+          "t": "I'm fine... Let's keep going. I can feel it, sh—she... is right below us... waiting for me."
+        },
+        {
+          "s": 4,
+          "t": "(The burn marks on the inside are still fresh...)"
+        },
+        {
+          "section": "Jialiang, Baizhu, Ayu"
+        },
+        {
+          "s": 9,
+          "t": "Dr. Baizhu, how serious is it? Is she...?"
+        },
+        {
+          "s": 5,
+          "t": "I can still feel a pulse, but her condition is quite grave."
+        },
+        {
+          "s": 5,
+          "t": "The god remains here are encroaching on her cognition, much as the poison in your system did to you."
+        },
+        {
+          "s": 5,
+          "t": "If we don't eliminate it soon, then even if we save her life... I fear that she may never wake up again."
+        },
+        {
+          "s": 3,
+          "t": "Then what are we waiting for? Let's destroy the remains right away!"
+        },
+        {
+          "s": 5,
+          "t": "...It's not as simple as that. Don't you remember what Baizhu said?"
+        },
+        {
+          "s": 5,
+          "t": "The poison within Jialiang's body is inextricably linked to the god remains here."
+        },
+        {
+          "s": 5,
+          "t": "...If the source is purged, the poison in his system will stop having any effect."
+        },
+        {
+          "s": 3,
+          "t": "Ah... And the poison within Jialiang's body is keeping his heart condition under control. So, if it stops working..."
+        },
+        {
+          "s": 3,
+          "t": "Oh no! Are you saying..."
+        },
+        {
+          "s": 5,
+          "t": "Indeed. If the god remains here are purged... then your life will come to an end."
+        },
+        {
+          "s": 9,
+          "t": "...*sigh* I wondered when this day might come..."
+        },
+        {
+          "s": 3,
+          "t": "Wait, wait, wait! But we've all been working our butts off to save Jialiang's life! After all that... we can't just give up on him!"
+        },
+        {
+          "s": 3,
+          "t": "Baizhu, you're a great doctor, surely you've gotta know of some other way we can save him... right?"
+        },
+        {
+          "s": 5,
+          "t": "...You could continue to take the poison, which would buy you some time. As for Jiangli... Maybe if we put our heads together, we can think of something."
+        },
+        {
+          "s": 5,
+          "t": "It appears to me that she was striving to concoct your medicine for you, right up until the moment when she lost consciousness... Maybe it's her greatest wish that you will continue to take it, and live..."
+        },
+        {
+          "s": 9,
+          "t": "Dr. Baizhu, give it to me straight. ...How long does Jiangli have?"
+        },
+        {
+          "s": 5,
+          "t": "The god remains have reached her internal organs. Under ordinary circumstances, I would give her less than three days. But if I were to treat her using a secret art..."
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "sit": "You can't be thinking about that again..."
+        },
+        {
+          "s": 9,
+          "t": "...But what would be the point of that?"
+        },
+        {
+          "s": 9,
+          "t": "Dr. Baizhu... I'm all too aware of the dangers of god remains. You are not the first to mention it to me."
+        },
+        {
+          "s": 9,
+          "t": "If I continue to sustain my own life using this wretched substance, not only would Jiangli have to keep risking her life to make my medicine for me, but I would have to live with the looming threat of these remains breaking out and wreaking havoc not just upon me, but my entire family..."
+        },
+        {
+          "s": 9,
+          "t": "...I know for a fact that I should have died over a decade ago. The fact that I've been around to see Ayu grow up is already a great blessing from Rex Lapis."
+        },
+        {
+          "s": 9,
+          "t": "If my choice can bring Jiangli back... then even if I... even if I... die..."
+        },
+        {
+          "s": 3,
+          "t": "Jialiang..."
+        },
+        {
+          "s": 9,
+          "t": "...Hah, after cheating death for so long, it seems I've grown somewhat addicted to life."
+        },
+        {
+          "s": 9,
+          "t": "{NICKNAME}, Dr. Baizhu... Could I have another minute with my wife? I just want to have... one final moment together. Just a moment, that's all."
+        },
+        {
+          "s": 5,
+          "t": "...Of course."
+        },
+        {
+          "s": 9,
+          "t": "Thank you, everyone. And I'm sorry that... I won't be able to repay your kindness in this life."
+        },
+        {
+          "s": 3,
+          "t": "*sniff* Jialiang... Baizhu, Changsheng, is there really nothing else you can do?"
+        },
+        {
+          "s": 5,
+          "t": "I am sure that over the years, Jiangli will have tried all the conventional methods known to humankind. As for less-conventional methods, I have little expertise besides Changsheng's secret art..."
+        },
+        {
+          "s": 5,
+          "t": "Mortals are fated to grow old and pass on when their natural lifespan runs out. If it were so easy to combat the natural processes of aging and death, Jiangli would not have had to resort to unnatural methods."
+        },
+        {
+          "s": 3,
+          "t": "What a crazy situation... Jiangli risked it all to save Jialiang's life, and now, Jialiang has to sacrifice himself to save Jiangli... Wh—What's the point of it all?"
+        },
+        {
+          "sit": "All we can do right now..."
+        },
+        {
+          "sit": "Is honor Jialiang's decision and bear witness."
+        },
+        {
+          "s": 5,
+          "t": "I've seen many final farewells in my time... but I can never get used to it."
+        },
+        {
+          "s": 5,
+          "t": "In the human realm, all things must come to an end... Is it not a fitting end to die for a worthy cause?"
+        },
+        {
+          "s": 5,
+          "t": "...At least, that's what generations of masters before you have always believed."
+        },
+        {
+          "s": 5,
+          "t": "The path they chose was indeed a heroic one. But when I think of those who would willingly sacrifice themselves for others..."
+        },
+        {
+          "s": 5,
+          "t": "...I cannot help but think that theirs are the lives least deserving of death."
+        },
+        {
+          "s": 9,
+          "t": "...When all this began, we agreed that once Ayu was old enough to help you gather herbs, it would be time for me to go..."
+        },
+        {
+          "s": 9,
+          "t": "If you could only see him now... He took me all the way to Liyue Harbor to see the doctor, and he even got the Adventurers' Guild to search for you..."
+        },
+        {
+          "s": 9,
+          "t": "...So I know that you'll both be okay without me."
+        },
+        {
+          "s": 9,
+          "t": "...!"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "I've said my goodbyes. My time has come... Do what you must."
+        },
+        {
+          "s": 5,
+          "t": "As you wish."
+        },
+        {
+          "s": 9,
+          "t": "...Ugh... Arghhh..."
+        },
+        {
+          "s": 14,
+          "t": "...It will eat away at both your cognition and your memories... In the end, you'll become little more than a shadow of your true self..."
+        },
+        {
+          "s": 9,
+          "t": "...I'll take it. At the very least... It will allow me to stay with you, and watch Ayu grow up."
+        },
+        {
+          "s": 9,
+          "t": "...*pained breathing*..."
+        },
+        {
+          "s": 2,
+          "t": "...Mom! Something's really wrong with Dad..."
+        },
+        {
+          "s": 14,
+          "t": "...Don't fret, Ayu. I will gather some medicinal herbs right away. I promise you, nothing will happen to our family..."
+        },
+        {
+          "s": 9,
+          "t": "*groans*... Why would these memories come to mind now..."
+        },
+        {
+          "s": 14,
+          "t": "...!"
+        },
+        {
+          "s": 9,
+          "t": "*sigh* ...The longer we live, the tighter we cling to what we have..."
+        },
+        {
+          "s": 14,
+          "t": "...! ...!"
+        },
+        {
+          "s": 9,
+          "t": "Oh, how I would love... to hear... to hear your voice one last time..."
+        },
+        {
+          "s": 4,
+          "t": "Is honor Jialiang's decision and bear witness."
+        },
+        {
+          "s": 4,
+          "t": "You can't be thinking about that again..."
+        },
+        {
+          "section": "Jiangli, Ayu, Jialiang, Baizhu, Hu Tao, Qiqi"
+        },
+        {
+          "s": 14,
+          "t": "...Jialiang... Jialiang!"
+        },
+        {
+          "s": 14,
+          "t": "Jialiang! Jialiang!"
+        },
+        {
+          "s": 2,
+          "t": "Dad! Are you awake?"
+        },
+        {
+          "s": 9,
+          "t": "Uh... Jiangli... Ayu?"
+        },
+        {
+          "s": 9,
+          "t": "...Didn't I... Hm? What are... these?"
+        },
+        {
+          "s": 5,
+          "t": "How does it feel to come back to life?"
+        },
+        {
+          "s": 5,
+          "t": "Do you feel strange or different in any way? If so, could you describe it to me in detail?"
+        },
+        {
+          "s": 9,
+          "t": "Dr. Baizhu! I... I thought that I was going to..."
+        },
+        {
+          "s": 5,
+          "t": "Hehe, die? You did indeed. As things stand now, you're more akin to a zombie than a human."
+        },
+        {
+          "s": 9,
+          "t": "...I'm a zombie?"
+        },
+        {
+          "s": 5,
+          "t": "That's right. Before we set off, I asked Qiqi to prepare an... Elixir of Immortality. With its help, you have been suspended in the space between life and death."
+        },
+        {
+          "s": 5,
+          "t": "Of course, this is but a crude imitation of an adeptus art. I don't expect it to extend your life indefinitely."
+        },
+        {
+          "s": 5,
+          "t": "Whether it will keep you alive for a few days, a few months, or a few years... I am as interested as you to find out."
+        },
+        {
+          "s": 5,
+          "t": "But however long you have left, I believe it should be more than sufficient time for you to say your final goodbyes before departing the world in peace. ...I hope that Director Hu finds this arrangement to be a satisfactory one?"
+        },
+        {
+          "s": 8,
+          "t": "An \"Elixir of Immortality\"? How'd you cook that up? Ugh, leave it to you to work on something like that behind my back..."
+        },
+        {
+          "s": 5,
+          "t": "It's a work in progress that hardly lives up to its name. And it would have had no effect were it not for Jialiang's iron will."
+        },
+        {
+          "s": 5,
+          "t": "In the end, I am merely a doctor. I understand very little of the great principles governing life and death, and the perpetual cycle of yin and yang."
+        },
+        {
+          "s": 5,
+          "t": "All I know is that if I'm presented with a life that deserves to be saved, I will do everything in my power to save them."
+        },
+        {
+          "s": 5,
+          "t": "And even this would have counted for nothing without Director Hu's assistance... After all, did you not tell Jialiang to show us the way before we set off for Qingce Village?"
+        },
+        {
+          "s": 8,
+          "t": "Oops, aaaand I'm busted."
+        },
+        {
+          "s": 5,
+          "t": "Without Director Hu nudging things in the right direction, we may not have found Jiangli in time."
+        },
+        {
+          "sit": "I KNEW someone was listening in on that conversation..."
+        },
+        {
+          "sit": "So it was Hu Tao!"
+        },
+        {
+          "s": 8,
+          "t": "No wonder he didn't mention the elixir back then. Hmph, I thought he was being frank and transparent with me for once, but apparently not..."
+        },
+        {
+          "s": 9,
+          "t": "Ahem... Hehe, Director Hu told me to keep her suggestion a secret. But it seems nothing escapes Dr. Baizhu's attention."
+        },
+        {
+          "s": 5,
+          "t": "Hehehe, never underestimate a serpent's sense of smell!"
+        },
+        {
+          "s": 8,
+          "t": "...All I wanted was to help Jialiang find his missing wife as soon as possible, so that he could be on his way to the afterlife without any unfulfilled wishes making the journey more difficult than it needs to be..."
+        },
+        {
+          "s": 8,
+          "t": "Leave it to Bubu Pharmacy to snatch the perfect opportunity right outta my hands at the last hurdle! Never mind, I'll just have to put it down in the books as a deferred consideration."
+        },
+        {
+          "s": 8,
+          "t": "*sigh* One Qiqi was enough of a conundrum, the last thing I need's another one... If I'd known this was coming, I'd have whisked him off to the Wangsheng Funeral Parlor the moment I found him..."
+        },
+        {
+          "s": 2,
+          "t": "Y—You stay away from my dad! When I grow up, I'm gonna become an even better doctor than Mom and Baizhu, and cure Dad for good!"
+        },
+        {
+          "s": 9,
+          "t": "..."
+        },
+        {
+          "s": 8,
+          "t": "Ooh, is that right? Well, you wouldn't be the first person who's tried to put Wangsheng Funeral Parlor out of business. If you're serious about it, you'll have your work cut out for you."
+        },
+        {
+          "s": 8,
+          "t": "{NICKNAME}, Paimon, I'll catch you all another time!"
+        },
+        {
+          "s": 1,
+          "t": "Phew... is she finally gone?"
+        },
+        {
+          "s": 3,
+          "t": "All's well that ends well! If you ask Paimon, we should probably do something to celebrate this hard-earned family reunion..."
+        },
+        {
+          "sit": "Such as...?"
+        },
+        {
+          "sit": "Paimon's idea of a celebration can only mean one thing..."
+        },
+        {
+          "s": 3,
+          "t": "Hehe, at times like this, a grand celebratory feast is in order!"
+        },
+        {
+          "s": 9,
+          "t": "Haha, it feels like it was a whole lifetime ago when I last talked with Jiangli and Ayu around the dinner table."
+        },
+        {
+          "sit": "This was a hard-won meal."
+        },
+        {
+          "sit": "Maybe I'll whip something up, too. It's been a while."
+        },
+        {
+          "s": 3,
+          "t": "Yaaay! Paimon can't wait!"
+        },
+        {
+          "s": 3,
+          "t": "Alright, first things first, off to the market for some fresh ingredients! Let's goooo~!"
+        },
+        {
+          "s": 2,
+          "t": "Wait up! I'll come too!"
+        },
+        {
+          "s": 14,
+          "t": "Baizhu... Thank you so, so much for everything you've done for us."
+        },
+        {
+          "s": 5,
+          "t": "Don't mention it, Jiangli. I was just doing my duty."
+        },
+        {
+          "s": 14,
+          "t": "Just your duty, huh... Baizhu, Changsheng, would you mind if we took this conversation outside?"
+        },
+        {
+          "s": 4,
+          "t": "Maybe I'll whip something up, too. It's been a while."
+        },
+        {
+          "s": 4,
+          "t": "Paimon's idea of a celebration can only mean one thing..."
+        },
+        {
+          "s": 4,
+          "t": "So it was Hu Tao!"
+        },
+        {
+          "section": "Qiqi, Jialiang"
+        },
+        {
+          "s": 1,
+          "t": "Now that you are part-zombie, there are some rules that you need to know."
+        },
+        {
+          "s": 9,
+          "t": "Uhh... Y—Yes, Ma'am. I'm listening..."
+        },
+        {
+          "s": 1,
+          "t": "First. Don't forget to stretch your body regularly. Second. Don't forget to..."
+        },
+        {
+          "s": 9,
+          "t": "Yes? Go on? Don't forget to...?"
+        },
+        {
+          "s": 1,
+          "t": "...I forgot."
+        },
+        {
+          "section": "Enter Room"
+        },
+        {
+          "s": 15,
+          "t": "Jiangli's still waiting for us. Let's go talk to her, shall we?"
+        },
+        {
+          "section": "Jiangli, Baizhu, Ayu, Qiqi"
+        },
+        {
+          "s": 14,
+          "t": "...I've taken a look at your Elixir of Immortality. It's not altogether dissimilar from the poison I concocted in terms of the way it functions."
+        },
+        {
+          "s": 5,
+          "t": "...I have to say, Jiangli, it was a stroke of genius to use poison to maintain life. I hope you're not too upset at me for... copying your methods?"
+        },
+        {
+          "s": 14,
+          "t": "No, not at all. With your intellect, even if you'd never seen my poison, I believe you would have eventually arrived at the same approach."
+        },
+        {
+          "s": 14,
+          "t": "But I'm still impressed by how quickly you managed to gain such a thorough understanding of it. Jialiang's still only been in your care for a few days."
+        },
+        {
+          "s": 14,
+          "t": "Not just that — you even managed to improve upon the original formula. That cannot be explained by intellect alone..."
+        },
+        {
+          "s": 14,
+          "t": "Baizhu, be honest with me... Did you try out some of the poison on yourself?"
+        },
+        {
+          "s": 5,
+          "t": "Hah! Told you the truth would surface sooner or later."
+        },
+        {
+          "s": 14,
+          "t": "...Life force isn't the only thing that Changsheng's contract lets you transfer between bodies, is it?"
+        },
+        {
+          "s": 5,
+          "t": "...Nothing gets past you, Jiangli."
+        },
+        {
+          "s": 5,
+          "t": "You are correct. Besides life force, Changsheng's secret art also allows for the transfer of toxins and diseases."
+        },
+        {
+          "s": 5,
+          "t": "When I treated Jialiang for the second time, I transferred some of the poison from his body into my own. Not only did this allow me to alleviate the burden on him, but it also gave me an opportunity to study its properties..."
+        },
+        {
+          "s": 5,
+          "t": "There is no need to worry about any long-term consequences to my health, however. Now that the source has been destroyed, any remaining poison in me will have already dissipated."
+        },
+        {
+          "s": 14,
+          "t": "...But you took such a huge risk. If we hadn't destroyed the gods' remains back there, then even you might have—"
+        },
+        {
+          "s": 14,
+          "t": "...Hah. What am I saying? I'm in no position to criticize you for this."
+        },
+        {
+          "s": 14,
+          "t": "The reason I left our Master and went into hiding all those years ago was that he was getting old, and I didn't want him using up any more of his own life force to treat my husband."
+        },
+        {
+          "s": 14,
+          "t": "But in the end, how were my methods any different? I risked one life to save another. And then you tried the poison on yourself, too... It looks like both of us have ended up going the same way as our master before us."
+        },
+        {
+          "s": 14,
+          "t": "Are all disciples of Chenyu Vale destined to turn out this way? To live a short life, having given away our own for the sake of others? To fight relentlessly against the natural course of life and death, whatever the cost? ...Maybe our fate is sealed the moment we decide to study medicine."
+        },
+        {
+          "s": 5,
+          "t": "...We are doctors, Jiangli. We ought never say that anyone's fate is sealed."
+        },
+        {
+          "s": 14,
+          "t": "Baizhu, I can tell that over the years, you've used the contract with Changsheng to transfer many diseases and toxins to yourself. There are so many, that some of them I don't even recognize..."
+        },
+        {
+          "s": 14,
+          "t": "Can you... still stop before it's too late?"
+        },
+        {
+          "s": 5,
+          "t": "I think you know the answer, Jiangli. Every one of us from Chenyu Vale believes in the same thing..."
+        },
+        {
+          "s": 3,
+          "t": "Hey! Food's ready!"
+        },
+        {
+          "s": 2,
+          "t": "Mom! Come and join us!"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME} taught me a load of new recipes, and said even dad'll be able to taste them! Come and try them out!"
+        },
+        {
+          "s": 14,
+          "t": "Yes, darling, mom'll be there in just a second... Hey, slow down!"
+        },
+        {
+          "s": 14,
+          "t": "...Baizhu, I know I won't be able to convince you, but... please don't forget that, if one day, you're not around anymore..."
+        },
+        {
+          "s": 14,
+          "t": "Qiqi, Gui, and all the friends who have grown fond of you... they will all miss you dearly."
+        },
+        {
+          "s": 5,
+          "t": "There's no need to worry, Jiangli. I know what I'm doing."
+        },
+        {
+          "s": 14,
+          "t": "*sigh*... I can only hope so."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Baizhu... What did Jiangli mean by \"not around anymore\"? Are you gonna be okay?"
+        },
+        {
+          "sit": "Also, when Changsheng was talking about \"fate\"..."
+        },
+        {
+          "sit": "What did she mean, exactly?"
+        },
+        {
+          "s": 5,
+          "t": "...Every single mortal I've ever contracted with, including Baizhu and Jiangli's Master, has passed away at a young age."
+        },
+        {
+          "s": 3,
+          "t": "Wait, that doesn't make any sense! You said that the contract with you helps people live longer!"
+        },
+        {
+          "s": 5,
+          "t": "*sigh* ...It is a very long story..."
+        },
+        {
+          "s": 5,
+          "t": "...My contract has strict requirements on the host's natural temperament. All my hosts have been most pure of heart."
+        },
+        {
+          "s": 5,
+          "t": "But when one with an altruistic nature gains access to this art, they are more seduced than the average person by the miracle of overturning the laws of life and death."
+        },
+        {
+          "s": 5,
+          "t": "Though they know better than anyone else the fate that awaits them, when faced with the sorrows of humanity and the pain of losing their nearest and dearest, they cannot help but reach beyond human means."
+        },
+        {
+          "s": 5,
+          "t": "...They are like moths that throw themselves into the flame, seeking a glimmer of hope in a dark world filled with pain and suffering."
+        },
+        {
+          "s": 3,
+          "t": "So... Baizhu, does that mean..."
+        },
+        {
+          "s": 5,
+          "t": "Heh... I suppose that would make me a moth that yearns for the light, but doesn't want to be burned to a crisp."
+        },
+        {
+          "s": 5,
+          "t": "Changsheng's art can transfer pain and suffering between people, but it cannot reduce the total amount of pain in the world. It's just like we witnessed: either Jialiang feared for Jiangli's life, or Jiangli grieved over Jialiang's sacrifice."
+        },
+        {
+          "s": 5,
+          "t": "I have nothing but the utmost respect for my predecessors who sacrificed their lives for their principles, but I do not wish to join their ranks... nor do I wish to pass on this contract to anyone else in the future."
+        },
+        {
+          "s": 3,
+          "t": "Huh? But, didn't you already transfer a ton of diseases onto yourself?"
+        },
+        {
+          "s": 5,
+          "t": "What makes a poison, \"poison\"? And what makes a disease, a \"disease\"? When it comes down to it, are not both mechanisms that affect the operations of the human body?"
+        },
+        {
+          "s": 5,
+          "t": "If disease is defined as deviation from normal functioning, then who knows... perhaps the true Elixir of Immortality could in fact be a kind of poison?"
+        },
+        {
+          "s": 5,
+          "t": "Many may view the notion of searching for immortality in poisons and illnesses as a flagrant violation of the natural order. But to me, it is no different from the way our ancestors tested the medicinal qualities of herbs by sampling each and every one."
+        },
+        {
+          "s": 5,
+          "t": "I don't want those who come after me to lose their lives to this contract, nor do I wish for Changsheng to perish from losing her host... This leaves only one solution, doesn't it?"
+        },
+        {
+          "s": 4,
+          "t": "The Elixir of Immortality..."
+        },
+        {
+          "s": 4,
+          "t": "You have to become immortal yourself..."
+        },
+        {
+          "s": 5,
+          "t": "Precisely. I will be Changsheng's final host, and the tradition of passing down the contract will end with me."
+        },
+        {
+          "s": 5,
+          "t": "...Even the gods of old struggled to achieve true immortality. First you want to save others, then you want to save yourself. Now you even want to save me... You're getting greedy, Baizhu."
+        },
+        {
+          "s": 5,
+          "t": "Mmm... but isn't wanting to have it all what makes us human?"
+        },
+        {
+          "s": 5,
+          "t": "...For a selfish moth like me, who's afraid of the flame, yet yearns for the light, the only path forward is up towards the moon."
+        },
+        {
+          "s": 3,
+          "t": "*sigh*... For once, Paimon just does not know what to say."
+        },
+        {
+          "s": 2,
+          "t": "Dr. Baizhu! {NICKNAME}! What are you still chatting about? The food's about to get cold!"
+        },
+        {
+          "s": 1,
+          "t": "We also have coconut milk, for Changsheng and Paimon..."
+        },
+        {
+          "s": 3,
+          "t": "Ummm... Okay fine, let's go grab some food! Paimon has a bunch of burning questions, but they can wait till after we've eaten."
+        },
+        {
+          "sit": "Oh, Paimon..."
+        },
+        {
+          "sit": "Leave some grub for me."
+        },
+        {
+          "s": 5,
+          "t": "Ah, I do envy Paimon sometimes. Eating her fill is enough to satisfy her body and mind..."
+        },
+        {
+          "s": 5,
+          "t": "Hehe, true. And yet... although we call them simple pleasures..."
+        },
+        {
+          "s": 5,
+          "t": "Are such things as these not precisely why we mortals cling desperately to the life we have?"
+        },
+        {
+          "s": 4,
+          "t": "Leave some grub for me."
+        },
+        {
+          "s": 4,
+          "t": "What did she mean, exactly?"
+        }
+      ],
+      "description": "The boundary between medicine and poison seems to have blurred, as has the line between life and death… Where can one find a truly perfect remedy, or does it exist at all?"
+    }
+  ],
+  "speakers": [
+    "Herbalist Gui",
+    "Qiqi",
+    "Ayu",
+    "Paimon",
+    "Traveler",
+    "Baizhu",
+    "Cai Le",
+    "Cai Xun",
+    "Hu Tao",
+    "Jialiang",
+    "Observe Wooden Pillar",
+    "Observe Stack of Wood",
+    "Diary With Childish Handwriting",
+    "Xiao",
+    "Jiangli",
+    "Enter Room"
+  ],
+  "id": "ch-2037"
+}

@@ -1,0 +1,308 @@
+{
+  "chapter": "Strange Stone Chronicle",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Strange Stone Chronicle",
+  "region": null,
+  "quests": [
+    {
+      "title": "Strange Stone Chronicle",
+      "dialogue": [
+        {
+          "section": "Puca"
+        },
+        {
+          "s": 0,
+          "t": "Puca, why are you here again?"
+        },
+        {
+          "s": 0,
+          "t": "There shouldn't be any more monsters nearby, but who knows what other dangers there might be..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, you shouldn't go running off on your own!"
+        },
+        {
+          "s": 1,
+          "t": "I didn't run off, Paimon and {NICKNAME}... I'm just looking for my token..."
+        },
+        {
+          "s": 0,
+          "t": "Huh? You lost your token?"
+        },
+        {
+          "s": 1,
+          "t": "Yup... It should be somewhere around that place I usually pick rocks from..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... You might've dropped it when you got trapped there before."
+        },
+        {
+          "s": 1,
+          "t": "*sniff* Yeah, you might be right... I was too scared to care about anything else at that time..."
+        },
+        {
+          "s": 1,
+          "t": "It's still a little scary to think about, but my token's very important... I have to find it, I just have to..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Paimon thinks it'll be too dangerous if Puca goes there on her own. In that case..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, why don't we take a trip back there and help Puca find her token? Puca, just go home and wait for us!"
+        },
+        {
+          "sit": "Leave it to us."
+        },
+        {
+          "sit": "I've been wanting to explore that place anyway."
+        },
+        {
+          "s": 1,
+          "t": "Thank you, {NICKNAME} and Paimon! I'll be good and wait for you at home."
+        },
+        {
+          "section": "Puca"
+        },
+        {
+          "s": 1,
+          "t": "My token is really important... I have to find it..."
+        },
+        {
+          "section": "Puca"
+        },
+        {
+          "s": 0,
+          "t": "Puca, we're back! We found your token."
+        },
+        {
+          "sit": "You give the token to Puca."
+        },
+        {
+          "s": 1,
+          "t": "Ohh, yes, this is the one! Thank you so much!"
+        },
+        {
+          "s": 0,
+          "t": "We also found something else while we were looking for your token..."
+        },
+        {
+          "s": 0,
+          "t": "It's an ore we've never seen before. We thought it might be valuable, so we brought it back!"
+        },
+        {
+          "s": 0,
+          "t": "If Paimon remembers correctly, you often pick up pretty stones around this area, right? Have you seen any stones like this before?"
+        },
+        {
+          "s": 1,
+          "t": "Let me see... It really is pretty! But it's not precious at all... it's just an ordinary stone..."
+        },
+        {
+          "s": 1,
+          "t": "It's true that you won't find anything like this in other places, but they're everywhere in nearby ore veins!"
+        },
+        {
+          "s": 0,
+          "t": "Aw, so it's just an ordinary rock! Paimon thought it looked super valuable..."
+        },
+        {
+          "s": 0,
+          "t": "Seems like we can't use it for anything else. Let's just find a place to dump it..."
+        },
+        {
+          "sit": "But if you can't find the ore elsewhere..."
+        },
+        {
+          "sit": "But if it's unique to this region..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, you mean we could make a fortune if we took it elsewhere and sold it?"
+        },
+        {
+          "s": 0,
+          "t": "You do have a point! People don't normally go mining in a Melusine village, which means they've probably never seen anything like this... Great thinking, {NICKNAME}!"
+        },
+        {
+          "s": 0,
+          "t": "C'mon, let's take this stone to the Court of Fontaine and show the merchants!"
+        },
+        {
+          "s": 1,
+          "t": "If there's anything else you'd like to know about ores, come find me anytime..."
+        },
+        {
+          "s": 1,
+          "t": "Though I don't run a gemstone workshop like my sister and don't know much about appraisals or processing..."
+        },
+        {
+          "s": 1,
+          "t": "Compared to precious gems, I prefer collecting all kinds of unique rocks..."
+        },
+        {
+          "s": 1,
+          "t": "I guess you can say I know the local ore veins pretty well!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, gotcha!"
+        },
+        {
+          "section": "Chesil"
+        },
+        {
+          "s": 2,
+          "t": "Welcome, welcome. Our store offers the most extensive selection of precious gems in the entire Court of Fontaine. We also have a wide range of craft goods on sale."
+        },
+        {
+          "s": 2,
+          "t": "Anything catch your eye? If not, I would be delighted to meet any other demands!"
+        },
+        {
+          "sit": "We've got some mysterious ore here..."
+        },
+        {
+          "s": 0,
+          "t": "Yup! Since you have such an extensive inventory, you should know its value, right?"
+        },
+        {
+          "s": 2,
+          "t": "Oh? So you're here to trade ore?"
+        },
+        {
+          "s": 2,
+          "t": "Then you've come to the right person! We offer some of the best and fairest prices in Fontaine."
+        },
+        {
+          "s": 2,
+          "t": "Let's see what you have here..."
+        },
+        {
+          "sit": "You show Chesil the strange ore you found earlier."
+        },
+        {
+          "s": 2,
+          "t": "Whoa... Even I've never seen anything like this before..."
+        },
+        {
+          "s": 2,
+          "t": "The unique sheen and smooth texture... Ooh, this is no doubt a rare variety!"
+        },
+        {
+          "s": 2,
+          "t": "Pardon me for asking, but what exactly is this?"
+        },
+        {
+          "sit": "No idea."
+        },
+        {
+          "sit": "Uh, it's a \"Paimonial Rock\"!"
+        },
+        {
+          "sit": "It's Dazzling Crystalline Gold."
+        },
+        {
+          "s": 2,
+          "t": "Is that why you're here for an appraisal?"
+        },
+        {
+          "s": 2,
+          "t": "It's such a shame you only brought one chunk of ore..."
+        },
+        {
+          "s": 2,
+          "t": "If only we had a steady supply... We could forge accessories that would take Fontaine by storm."
+        },
+        {
+          "s": 0,
+          "t": "(Puca mentioned these stones were everywhere near the ore veins. Maybe we should ask her...)"
+        },
+        {
+          "sit": "We actually have a lot more of this ore."
+        },
+        {
+          "sit": "The source is a trade secret."
+        },
+        {
+          "sit": "You can find them around Elynas."
+        },
+        {
+          "s": 2,
+          "t": "Really? That's wonderful!"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, in addition to the ore you brought, I'm willing to purchase more ore from you to make a batch of new products."
+        },
+        {
+          "s": 2,
+          "t": "I'm willing to put down an advance payment to show my sincerity — as long as you bring more ore the next time you visit."
+        },
+        {
+          "s": 2,
+          "t": "What do you think? I'd say it's a pretty fair deal."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Paimon thinks so too! It's a deal!"
+        },
+        {
+          "s": 2,
+          "t": "Perfect! Here's your payment..."
+        },
+        {
+          "s": 2,
+          "t": "I wonder how the accessories made from this ore will turn out... Haha, can't say I'm not looking forward to it!"
+        },
+        {
+          "s": 2,
+          "t": "I'll be here, waiting for your good news."
+        },
+        {
+          "section": "Puca"
+        },
+        {
+          "s": 1,
+          "t": "Hey there, it's you again!"
+        },
+        {
+          "s": 1,
+          "t": "Is there anything you'd like to know about ore? You can ask me anything!"
+        },
+        {
+          "s": 1,
+          "t": "Even though I might not have an answer..."
+        },
+        {
+          "sit": "About precious gems..."
+        },
+        {
+          "sit": "About the uses of ore..."
+        },
+        {
+          "sit": "I don't have any more questions."
+        },
+        {
+          "s": 1,
+          "t": "There's lots of beautiful and sparkly stones in the ore veins nearby, but they're nowhere as good as real gemstones..."
+        },
+        {
+          "s": 1,
+          "t": "If I were better at finding real gemstones, maybe I could open my own gemstone workshop, just like Sluasi!"
+        }
+      ],
+      "description": "In order to find Puca’s token, you once again visit the vein from before…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Puca",
+    "Chesil"
+  ],
+  "id": "q-74045"
+}

@@ -1,0 +1,449 @@
+{
+  "chapter": "A-Toymaking We Shall Go",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "A-Toymaking We Shall Go",
+  "region": null,
+  "quests": [
+    {
+      "title": "A-Toymaking We Shall Go",
+      "dialogue": [
+        {
+          "section": "Katheryne"
+        },
+        {
+          "s": 0,
+          "t": "Traveler and Paimon, you're right on cue!"
+        },
+        {
+          "s": 1,
+          "t": "Right on cue for what?"
+        },
+        {
+          "s": 0,
+          "t": "For a commission that's suited for you! I was just about to reach out to you."
+        },
+        {
+          "s": 1,
+          "t": "A commission that's suited for us... Don't tell Paimon that you want us to look for things or drive hilichurls off."
+        },
+        {
+          "sit": "Or to pick some garbage up on the rooftop..."
+        },
+        {
+          "sit": "Or to fetch some suspicious-looking goods..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, don't misunderstand. The commission is indeed suited for you, and by \"suited\" I mean..."
+        },
+        {
+          "s": 0,
+          "t": "It's fun, and there are rich rewards to be had as well."
+        },
+        {
+          "s": 1,
+          "t": "Rich rewards!"
+        },
+        {
+          "sit": "Being fun certainly doesn't seem important to Paimon, huh?"
+        },
+        {
+          "s": 1,
+          "t": "U—Um... Being fun is also important! So, what is this commission about?"
+        },
+        {
+          "s": 0,
+          "t": "The requester is a toy merchant from Fontaine. His name is Bertrand. He came to sell toys in Inazuma and is currently looking for an assistant to help him with toy-making."
+        },
+        {
+          "s": 0,
+          "t": "He's a businessman, after all. That explains why he promised some very generous rewards when he put up the request at the Adventurers' Guild."
+        },
+        {
+          "s": 0,
+          "t": "But he somehow can't leave Ritou at the moment. Please go and ask him about the details of the commission."
+        },
+        {
+          "s": 1,
+          "t": "Sure, we'll head to Ritou and look for him right away!"
+        },
+        {
+          "section": "Bertrand"
+        },
+        {
+          "s": 2,
+          "t": "Heh! If that's the amount I'm getting for one of these, then I just need to sell 20,000 of them to pay off my debt!"
+        },
+        {
+          "s": 2,
+          "t": "As simple as that... Uh, you seem to have some questions, I presume?"
+        },
+        {
+          "sit": "What do you plan to sell?"
+        },
+        {
+          "sit": "Nothing..."
+        },
+        {
+          "s": 2,
+          "t": "I plan to sell toys, but... Unfortunately, the toys are yet to be produced. Please check them out once I have them ready."
+        },
+        {
+          "section": "Bertrand"
+        },
+        {
+          "s": 2,
+          "t": "Ahahah! I now have everything ready! I'll sell each toy for thousands of Mora. Then, with tens of thousands of them sold..."
+        },
+        {
+          "s": 2,
+          "t": "I can easily earn tens of millions... Hahaha..."
+        },
+        {
+          "s": 1,
+          "t": "Hello, are you Bertrand?"
+        },
+        {
+          "s": 2,
+          "t": "Ah yes, I am."
+        },
+        {
+          "s": 2,
+          "t": "Are you two toy buyers who caught wind of my business?"
+        },
+        {
+          "s": 2,
+          "t": "But it's a shame that I can't sell you any toys yet, because I haven't started mass production."
+        },
+        {
+          "s": 2,
+          "t": "But no worries, the production line is being built as of now. You can register and make a deposit if you're interested. I'll inform you when the toys are ready, and then you can proceed to pay the balance..."
+        },
+        {
+          "s": 1,
+          "t": "Hold your horses! We're not here to buy your toys."
+        },
+        {
+          "s": 2,
+          "t": "Oh, you aren't toy buyers... So if you've got something to say, tell me quick. Don't waste my time."
+        },
+        {
+          "s": 2,
+          "t": "And be concise, my time is precious."
+        },
+        {
+          "s": 1,
+          "t": "Whoa... What a change of attitude!"
+        },
+        {
+          "sit": "We're here to help."
+        },
+        {
+          "sit": "You put up a request at the Adventurers' Guild, didn't you?"
+        },
+        {
+          "s": 2,
+          "t": "Ah, so you're the assistants sent by the Adventurers' Guild! Welcome! You could've told me earlier!"
+        },
+        {
+          "s": 2,
+          "t": "Yes, I did put up that request. How should I address you two?"
+        },
+        {
+          "s": 1,
+          "t": "(A sudden change of attitude again...)"
+        },
+        {
+          "s": 1,
+          "t": "Paimon is... Uh, Paimon."
+        },
+        {
+          "s": 2,
+          "t": "Then, how about you?"
+        },
+        {
+          "sit": "I'm {NICKNAME}..."
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}? I think I've heard this name somewhere. Were you once... a wanted criminal too?"
+        },
+        {
+          "sit": "More than once, actually..."
+        },
+        {
+          "sit": "A wanted criminal \"too\"?"
+        },
+        {
+          "s": 2,
+          "t": "Well, I might've heard your name when the Tenryou Commission arres... Um, asked me to answer a few questions."
+        },
+        {
+          "s": 1,
+          "t": "What on earth did you do to get yourself arrested by the Tenryou Commission?"
+        },
+        {
+          "s": 2,
+          "t": "*sigh* It was not a big deal. I just missed something when I made the last batch of toys... It really was a small mistake."
+        },
+        {
+          "s": 1,
+          "t": "Not a big deal?"
+        },
+        {
+          "sit": "A small mistake?"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, those toys would explode if you triggered something inside them. That's all."
+        },
+        {
+          "s": 1,
+          "t": "Explode?"
+        },
+        {
+          "s": 2,
+          "t": "Ahem, it's really no biggie. No one got hurt."
+        },
+        {
+          "s": 2,
+          "t": "But the Doushin from the Tenryou Commission still confiscated my toys without a second thought... The way I see it, those toys could still be sold as lovely-looking bombs!"
+        },
+        {
+          "s": 2,
+          "t": "*sigh* When I first arrived, I borrowed some Mora from the International Trade Association to start my business. Who'd have thought that I would end up being confined in Ritou, not allowed to enter other areas of Inazuma..."
+        },
+        {
+          "s": 1,
+          "t": "You obviously had this coming..."
+        },
+        {
+          "s": 1,
+          "t": "Hang on, since you owe the International Trade Association money, how do you plan to pay us?"
+        },
+        {
+          "s": 2,
+          "t": "You can rest assured — I haven't spent all my money, and I can clear my debt once I'm able to produce toys again and get them sold."
+        },
+        {
+          "s": 2,
+          "t": "Then, I can give you the rich rewards as promised!"
+        },
+        {
+          "s": 1,
+          "t": "...Is this really gonna work?"
+        },
+        {
+          "s": 2,
+          "t": "Have some confidence in Inazuma's toy market! My toys were very popular before people realized that they could explode... And you know what? They actually got even more popular after that."
+        },
+        {
+          "s": 2,
+          "t": "Anyways, if my plan still fails in the end, I'll pay off my debt by giving all the toys to Kurisu."
+        },
+        {
+          "s": 2,
+          "t": "Please lend me a hand, hehe."
+        },
+        {
+          "s": 1,
+          "t": "But what do you want us to help you with?"
+        },
+        {
+          "s": 2,
+          "t": "Well, all my toys are produced by this machine that I built. It's called \"One-of-a-Kind, Never-Failing, Engineer-Grade, Second-Generation Furnace-Powered Machine.\""
+        },
+        {
+          "s": 2,
+          "t": "Speaking of my \"One-of-a-Kind, Never-Failing, Engineer-Grade, Second-Generation Furnace-Powered Machine\"..."
+        },
+        {
+          "sit": "What a tongue-twister..."
+        },
+        {
+          "s": 1,
+          "t": "Yep, let Paimon think about it..."
+        },
+        {
+          "s": 1,
+          "t": "Let's call it \"The Great Machine\"!"
+        },
+        {
+          "s": 2,
+          "t": "Wait a sec, this name is too short! It doesn't sound impressive at all!"
+        },
+        {
+          "s": 1,
+          "t": "Sometimes the shorter it is, the easier it is to remember."
+        },
+        {
+          "s": 1,
+          "t": "\"The Great Machine\"... Hmm, Paimon thinks that it rolls off the tongue very well."
+        },
+        {
+          "s": 2,
+          "t": "*sigh*... OK, I've indeed been told that I've bad taste in names. I'll take your word for it just this once."
+        },
+        {
+          "sit": "Paimon's taste in names isn't exactly any better..."
+        },
+        {
+          "s": 1,
+          "t": "Hey!"
+        },
+        {
+          "s": 2,
+          "t": "Hahaha, anyways, my Great Machine can automatically analyze the materials added into it, and then choose the most appropriate method to assemble them."
+        },
+        {
+          "s": 2,
+          "t": "But last time I added some strange mechanics that caused the toys to explode. So this time, I've reflected on the mistake and rebuilt the machine... Theoretically speaking, it should be fine."
+        },
+        {
+          "s": 1,
+          "t": "Theoretically speaking..."
+        },
+        {
+          "s": 2,
+          "t": "That's why I need people to test it."
+        },
+        {
+          "s": 2,
+          "t": "In all, the collection process involves three steps: Source Material Collection, Elemental Charge, and Core Activation."
+        },
+        {
+          "s": 2,
+          "t": "We need to collect things like ores, fruits, and flowers as the base materials."
+        },
+        {
+          "s": 2,
+          "t": "Next, we infuse the materials with elemental energy to allow the process to move forward. And finally, we power the materials with the energy drawn from the cores of elemental life forms."
+        },
+        {
+          "s": 2,
+          "t": "Today, let's try the first step — Source Material Collection!"
+        },
+        {
+          "s": 2,
+          "t": "Here, take this Material Collector. Remember to directly put anything you collect into the Collector, lest it be contaminated by other elements."
+        },
+        {
+          "sit": "Leave it to me."
+        },
+        {
+          "s": 2,
+          "t": "Thanks. Let me adjust the device one last time. I'm counting on you to collect the materials!"
+        },
+        {
+          "section": "Bertrand"
+        },
+        {
+          "s": 2,
+          "t": "Have you collected the source materials using the Collector? The source materials play a critical role in shaping the toys. Be careful with your choice, haha!"
+        },
+        {
+          "section": "Bertrand"
+        },
+        {
+          "s": 2,
+          "t": "How's it going? Have you collected any materials?"
+        },
+        {
+          "sit": "They're all in the Collector."
+        },
+        {
+          "s": 2,
+          "t": "Alright then, lemme add the materials to my One-of-a-Kind, Never-Failing..."
+        },
+        {
+          "s": 1,
+          "t": "It's \"The Great Machine.\""
+        },
+        {
+          "s": 2,
+          "t": "Fine. Lemme add the materials to the Great Machine..."
+        },
+        {
+          "sit": "Bertrand connects the Collector to The Great Machine."
+        },
+        {
+          "s": 1,
+          "t": "Wow! And what's next?"
+        },
+        {
+          "s": 1,
+          "t": "Will the machine go \"chug chug chug\" and then spill out the toys with \"crackle and kaboom\"?"
+        },
+        {
+          "s": 2,
+          "t": "Hahaha, that is totally..."
+        },
+        {
+          "s": 2,
+          "t": "Impossible."
+        },
+        {
+          "s": 2,
+          "t": "What are you thinking? That's only the first step of the three processes. We're far from getting things done."
+        },
+        {
+          "s": 1,
+          "t": "Paimon gets it, so we need to complete all the processes, huh?"
+        },
+        {
+          "s": 2,
+          "t": "Yep, we need all three processes in order to produce the toys."
+        },
+        {
+          "sit": "That's so troublesome..."
+        },
+        {
+          "sit": "That's so much work..."
+        },
+        {
+          "s": 2,
+          "t": "Look at you, always wanting a quick fix. It takes patience to make toys. We must infuse every process with..."
+        },
+        {
+          "s": 1,
+          "t": "With what? Oh, Paimon gets it. It's toys we're making, after all, so we must infuse every process with real passion!"
+        },
+        {
+          "s": 2,
+          "t": "Yep, my passion for Mora!"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Although that's not what Paimon was thinking, Paimon does share the sentiment!"
+        },
+        {
+          "sit": "Hey..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, Paimon was just trying to make conversation."
+        },
+        {
+          "s": 1,
+          "t": "Then, Bertrand, what do we do next? Should we move on to the following processes?"
+        },
+        {
+          "s": 2,
+          "t": "No worries. Since I've recently adjusted the machine, and this particular process hasn't been tested yet, I need to check if it works well with the materials."
+        },
+        {
+          "s": 2,
+          "t": "This requires some time. Please come back later."
+        }
+      ],
+      "description": "A toy merchant from Fontaine seems to be struggling with the source materials of his products…"
+    }
+  ],
+  "speakers": [
+    "Katheryne",
+    "Paimon",
+    "Bertrand"
+  ],
+  "id": "q-72694"
+}

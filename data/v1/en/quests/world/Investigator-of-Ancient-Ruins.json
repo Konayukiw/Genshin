@@ -1,0 +1,1813 @@
+{
+  "chapter": "Investigator of Ancient Ruins",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Investigator of Ancient Ruins",
+  "region": null,
+  "quests": [
+    {
+      "title": "Investigator of Ancient Ruins",
+      "dialogue": [
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Nzaya, Kimosi"
+        },
+        {
+          "s": 0,
+          "t": "We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time..."
+        },
+        {
+          "s": 1,
+          "t": "You... You came just in time... I'm Kimosi, from the Collective of Plenty and this... *panting* this is Nzaya... Okay, just give me a moment to catch my breath..."
+        },
+        {
+          "s": 0,
+          "t": "If you care so much about time, Kimosi, it might be a good idea to work on your muscles a little more."
+        },
+        {
+          "s": 1,
+          "t": "Haha! Never gonna happen. I'm just not cut out for the battlefield... or for getting ripped. I prefer finding shortcuts to deal with my foes."
+        },
+        {
+          "s": 1,
+          "t": "We'll report back to the tribe and get them to send backup. That should improve our efficiency, increase safety, and..."
+        },
+        {
+          "s": 0,
+          "t": "...Save time. I've heard you say it so many times my brain is sore. The only time you don't care how long something takes is when you're telling stories — then you can keep talking from dusk till dawn."
+        },
+        {
+          "s": 1,
+          "t": "That's the whole point of saving time in the first place! So I can spend it on things I enjoy... Oh, we mustn't forget about our guests..."
+        },
+        {
+          "sit": "Uhh... I take it you're \"Uncle Kimosi\"?"
+        },
+        {
+          "s": 2,
+          "t": "Paimon was just thinking that name sounded familiar!"
+        },
+        {
+          "s": 1,
+          "t": "Uncle? As I recall, I only have the one nephew... My goodness, Dutse, look how you've grown! Why, you've blossomed into a handsome young specimen of a man(charming young specimen of a woman)!"
+        },
+        {
+          "s": 0,
+          "t": "Cut the nonsense, Kimosi. If this was your unruly little imp of a nephew, I'd eat a hat."
+        },
+        {
+          "s": 1,
+          "t": "Oh, come on, I was just having a little fun."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you..."
+        },
+        {
+          "sit": "But?"
+        },
+        {
+          "sit": "There's always a \"but\" in sentences like this..."
+        },
+        {
+          "s": 1,
+          "t": "Haha! I see you're a smart person too."
+        },
+        {
+          "s": 1,
+          "t": "Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain..."
+        },
+        {
+          "s": 1,
+          "t": "Long, long ago... back when Natlan was still a peaceful paradise..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, actually, it was 500 years ago, just as the Abyssal corrosion in Natlan was at its worst — an entire section of ruins was spat out by the volcano."
+        },
+        {
+          "s": 1,
+          "t": "Hey now, do you not feel even a little guilty interrupting other people's stories?"
+        },
+        {
+          "s": 0,
+          "t": "I'm just saving time, Kimosi. This is hardly the moment for storytelling — we're right in the middle of investigating the recent thefts at the Tephric Ruins."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying off a statue from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 1,
+          "t": "But when we arrived, the whole ruin was crawling with Abyssal monsters. So I'm wondering... Could you maybe help us clean them out?"
+        },
+        {
+          "s": 1,
+          "t": "If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "So, you want us to go to these Tephric Ruins with you?"
+        },
+        {
+          "s": 1,
+          "t": "Nzaya and I will follow you there, but we won't take part in any fighting — not unless you end up in real trouble..."
+        },
+        {
+          "s": 1,
+          "t": "Of course, you don't have to help, but in that case, my knowledge of how to enter the volcano will have to stay with me."
+        },
+        {
+          "s": 1,
+          "t": "If you run into danger, I'll guarantee your safety... But, as for the road into the volcano, I won't tell you, and it's not up for debate."
+        },
+        {
+          "s": 1,
+          "t": "I have to be certain that you have the ability to deal with those monsters first."
+        },
+        {
+          "s": 0,
+          "t": "Wait a moment, Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?"
+        },
+        {
+          "s": 1,
+          "t": "That is indeed true, but in this case... \"safety\" comes first. I'm sure you understand, my handsome young specimen of a man(charming young specimen of a woman)."
+        },
+        {
+          "sit": "Just a few monsters. No big deal."
+        },
+        {
+          "sit": "Perfectly! I accept the challenge."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, it's only a few monsters. Stand back and watch. We'll be all like \"pew-pew\" and they'll be gone in no time!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "You're certainly full of confidence... We'll stand back and see how you do."
+        },
+        {
+          "s": 0,
+          "t": "You strike me as powerful warriors, but don't push yourselves too hard... Kimosi likes to yammer on, but he said one thing worth listening to just now..."
+        },
+        {
+          "s": 0,
+          "t": "Safety does come first. It's more important than saving time. In fact, it's way more important than anything else."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, don't worry about us — we've got this!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Nzaya, Kimosi"
+        },
+        {
+          "s": 0,
+          "t": "We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time..."
+        },
+        {
+          "s": 1,
+          "t": "You... You came just in time... I'm Kimosi, from the Collective of Plenty and this... *panting* this is Nzaya... Okay, just give me a moment to catch my breath..."
+        },
+        {
+          "s": 0,
+          "t": "If you care so much about time, Kimosi, it might be a good idea to work on your muscles a little more."
+        },
+        {
+          "s": 1,
+          "t": "Haha! Never gonna happen. I'm just not cut out for the battlefield... or for getting ripped. I prefer finding shortcuts to deal with my foes."
+        },
+        {
+          "s": 1,
+          "t": "We'll report back to the tribe and get them to send backup. That should improve our efficiency, increase safety, and..."
+        },
+        {
+          "s": 0,
+          "t": "...Save time. I've heard you say it so many times my brain is sore. The only time you don't care how long something takes is when you're telling stories — then you can keep talking from dusk till dawn."
+        },
+        {
+          "s": 1,
+          "t": "That's the whole point of saving time in the first place! So I can spend it on things I enjoy... Oh, we mustn't forget about our guests..."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you..."
+        },
+        {
+          "sit": "But?"
+        },
+        {
+          "sit": "There's always a \"but\" in sentences like this..."
+        },
+        {
+          "s": 1,
+          "t": "Haha! I see you're a smart person too."
+        },
+        {
+          "s": 1,
+          "t": "Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain..."
+        },
+        {
+          "s": 1,
+          "t": "Long, long ago... back when Natlan was still a peaceful paradise..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, actually, it was 500 years ago, just as the Abyssal corrosion in Natlan was at its worst — an entire section of ruins was spat out by the volcano."
+        },
+        {
+          "s": 1,
+          "t": "Hey now, do you not feel even a little guilty interrupting other people's stories?"
+        },
+        {
+          "s": 0,
+          "t": "I'm just saving time, Kimosi. This is hardly the moment for storytelling — we're right in the middle of investigating the recent thefts at the Tephric Ruins."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying off a statue from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 1,
+          "t": "But when we arrived, the whole ruin was crawling with Abyssal monsters. So I'm wondering... Could you maybe help us clean them out?"
+        },
+        {
+          "s": 1,
+          "t": "If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "So, you want us to go to these Tephric Ruins with you?"
+        },
+        {
+          "s": 1,
+          "t": "Nzaya and I will follow you there, but we won't take part in any fighting — not unless you end up in real trouble..."
+        },
+        {
+          "s": 1,
+          "t": "Of course, you don't have to help, but in that case, my knowledge of how to enter the volcano will have to stay with me."
+        },
+        {
+          "s": 1,
+          "t": "If you run into danger, I'll guarantee your safety... But, as for the road into the volcano, I won't tell you, and it's not up for debate."
+        },
+        {
+          "s": 1,
+          "t": "I have to be certain that you have the ability to deal with those monsters first."
+        },
+        {
+          "s": 0,
+          "t": "Wait a moment, Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?"
+        },
+        {
+          "s": 1,
+          "t": "That is indeed true, but in this case... \"safety\" comes first. I'm sure you understand, my handsome young specimen of a man(charming young specimen of a woman)."
+        },
+        {
+          "sit": "Just a few monsters. No big deal."
+        },
+        {
+          "sit": "Perfectly! I accept the challenge."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, it's only a few monsters. Stand back and watch. We'll be all like \"pew-pew\" and they'll be gone in no time!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "You're certainly full of confidence... We'll stand back and see how you do."
+        },
+        {
+          "s": 0,
+          "t": "You strike me as powerful warriors, but don't push yourselves too hard... Kimosi likes to yammer on, but he said one thing worth listening to just now..."
+        },
+        {
+          "s": 0,
+          "t": "Safety does come first. It's more important than saving time. In fact, it's way more important than anything else."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, don't worry about us — we've got this!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time..."
+        },
+        {
+          "s": 1,
+          "t": "You... You came just in time... I'm Kimosi, from the Collective of Plenty and this... *panting* this is Nzaya... Okay, just give me a moment to catch my breath..."
+        },
+        {
+          "s": 0,
+          "t": "If you care so much about time, Kimosi, it might be a good idea to work on your muscles a little more."
+        },
+        {
+          "s": 1,
+          "t": "Haha! Never gonna happen. I'm just not cut out for the battlefield... or for getting ripped. I prefer finding shortcuts to deal with my foes."
+        },
+        {
+          "s": 1,
+          "t": "We'll report back to the tribe and get them to send backup. That should improve our efficiency, increase safety, and..."
+        },
+        {
+          "s": 0,
+          "t": "...Save time. I've heard you say it so many times my brain is sore. The only time you don't care how long something takes is when you're telling stories — then you can keep talking from dusk till dawn."
+        },
+        {
+          "s": 1,
+          "t": "That's the whole point of saving time in the first place! So I can spend it on things I enjoy... Oh, we mustn't forget about our guests..."
+        },
+        {
+          "sit": "Uhh... I take it you're \"Uncle Kimosi\"?"
+        },
+        {
+          "s": 2,
+          "t": "Paimon was just thinking that name sounded familiar!"
+        },
+        {
+          "s": 1,
+          "t": "Uncle? As I recall, I only have the one nephew... My goodness, Dutse, look how you've grown! Why, you've blossomed into a handsome young specimen of a man(charming young specimen of a woman)!"
+        },
+        {
+          "s": 0,
+          "t": "Cut the nonsense, Kimosi. If this was your unruly little imp of a nephew, I'd eat a hat."
+        },
+        {
+          "s": 1,
+          "t": "Oh, come on, I was just having a little fun."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano, but you don't know how!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, and that's where you'd be wrong. We already know how to do that!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, I see. So you're a smart person too... In which case, I have a matter I'd like to discuss with you, warriors who wish to enter the volcano. Do you have the time?"
+        },
+        {
+          "s": 1,
+          "t": "Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain..."
+        },
+        {
+          "s": 1,
+          "t": "Long, long ago... back when Natlan was still a peaceful paradise..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, actually, it was 500 years ago, just as the Abyssal corrosion in Natlan was at its worst — an entire section of ruins was spat out by the volcano."
+        },
+        {
+          "s": 1,
+          "t": "Hey now, do you not feel even a little guilty interrupting other people's stories?"
+        },
+        {
+          "s": 0,
+          "t": "I'm just saving time, Kimosi. This is hardly the moment for storytelling — we're right in the middle of investigating the recent thefts at the Tephric Ruins."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying off a statue from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 1,
+          "t": "But when we arrived, the whole ruin was crawling with Abyssal monsters. So I'm wondering... Could you maybe help us clean them out?"
+        },
+        {
+          "s": 1,
+          "t": "If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "So, you want us to go to these Tephric Ruins with you?"
+        },
+        {
+          "s": 1,
+          "t": "Nzaya and I will follow you there, but we won't take part in any fighting."
+        },
+        {
+          "s": 0,
+          "t": "Huh? But Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?"
+        },
+        {
+          "s": 1,
+          "t": "Only the strongest warriors would dare to enter the volcano — amateurs like us would only hold them back. Safety comes first. I'm sure you can understand, my handsome young specimen of a man(charming young specimen of a woman)."
+        },
+        {
+          "s": 1,
+          "t": "Of course, if there's a need for the two of us to get involved..."
+        },
+        {
+          "sit": "It's just a few monsters. No big deal."
+        },
+        {
+          "sit": "Perfectly! I accept the challenge."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, it's only a few monsters. Stand back and watch. We'll be all like \"pew-pew\" and they'll be gone in no time!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "You're certainly full of confidence... We'll stand back and see how you do."
+        },
+        {
+          "s": 0,
+          "t": "You strike me as powerful warriors, but don't push yourselves too hard... Kimosi likes to yammer on, but he said one thing worth listening to just now..."
+        },
+        {
+          "s": 0,
+          "t": "Safety does come first. It's more important than saving time. In fact, it's way more important than anything else."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, don't worry about us — we've got this!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "We're so... *panting* We're so grateful for your... assistance... Those monsters came out of... came out of nowhere, and... dealing with them just... *panting* takes so much time..."
+        },
+        {
+          "s": 1,
+          "t": "You... You came just in time... I'm Kimosi, from the Collective of Plenty and this... *panting* this is Nzaya... Okay, just give me a moment to catch my breath..."
+        },
+        {
+          "s": 0,
+          "t": "If you care so much about time, Kimosi, it might be a good idea to work on your muscles a little more."
+        },
+        {
+          "s": 1,
+          "t": "Haha! Never gonna happen. I'm just not cut out for the battlefield... or for getting ripped. I prefer finding shortcuts to deal with my foes."
+        },
+        {
+          "s": 1,
+          "t": "We'll report back to the tribe and get them to send backup. That should improve our efficiency, increase safety, and..."
+        },
+        {
+          "s": 0,
+          "t": "...Save time. I've heard you say it so many times my brain is sore. The only time you don't care how long something takes is when you're telling stories — then you can keep talking from dusk till dawn."
+        },
+        {
+          "s": 1,
+          "t": "That's the whole point of saving time in the first place! So I can spend it on things I enjoy... Oh, we mustn't forget about our guests..."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano, but you don't know how!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, and that's where you'd be wrong. We already know how to do that!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, I see. So you're a smart person too... In which case, I have a matter I'd like to discuss with you, warriors who wish to enter the volcano. Do you have the time?"
+        },
+        {
+          "s": 1,
+          "t": "Not far from here is an area containing Remnants of the Secret Source known as the Tephric Ruins... Let me explain..."
+        },
+        {
+          "s": 1,
+          "t": "Long, long ago... back when Natlan was still a peaceful paradise..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, actually, it was 500 years ago, just as the Abyssal corrosion in Natlan was at its worst — an entire section of ruins was spat out by the volcano."
+        },
+        {
+          "s": 1,
+          "t": "Hey now, do you not feel even a little guilty interrupting other people's stories?"
+        },
+        {
+          "s": 0,
+          "t": "I'm just saving time, Kimosi. This is hardly the moment for storytelling — we're right in the middle of investigating the recent thefts at the Tephric Ruins."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying off a statue from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 1,
+          "t": "But when we arrived, the whole ruin was crawling with Abyssal monsters. So I'm wondering... Could you maybe help us clean them out?"
+        },
+        {
+          "s": 1,
+          "t": "If you can deal with the monsters, then Nzaya and I won't have to return to the tribe, and we can... save time."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 2,
+          "t": "So, you want us to go to these Tephric Ruins with you?"
+        },
+        {
+          "s": 1,
+          "t": "Nzaya and I will follow you there, but we won't take part in any fighting."
+        },
+        {
+          "s": 0,
+          "t": "Huh? But Kimosi, I'm not sure I understand. Surely, if we all work together, we can save even more time?"
+        },
+        {
+          "s": 1,
+          "t": "Only the strongest warriors would dare to enter the volcano — amateurs like us would only hold them back. Safety comes first. I'm sure you can understand, my handsome young specimen of a man(charming young specimen of a woman)."
+        },
+        {
+          "s": 1,
+          "t": "Of course, if there's a need for the two of us to get involved..."
+        },
+        {
+          "sit": "Just a few monsters. No big deal."
+        },
+        {
+          "sit": "Perfectly! I accept the challenge."
+        },
+        {
+          "s": 2,
+          "t": "Hmph, it's only a few monsters. Stand back and watch. We'll be all like \"pew-pew\" and they'll be gone in no time!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 1,
+          "t": "You're certainly full of confidence... We'll stand back and see how you do."
+        },
+        {
+          "s": 0,
+          "t": "You strike me as powerful warriors, but don't push yourselves too hard... Kimosi likes to yammer on, but he said one thing worth listening to just now..."
+        },
+        {
+          "s": 0,
+          "t": "Safety does come first. It's more important than saving time. In fact, it's way more important than anything else."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, don't worry about us — we've got this!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Nzaya, Kimosi"
+        },
+        {
+          "s": 0,
+          "t": "Are things alright...?"
+        },
+        {
+          "s": 2,
+          "t": "All the monsters have been cleared out!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 0,
+          "t": "I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "sit": "Just a teensy bit upset you didn't help out..."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "s": 1,
+          "t": "To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, {NICKNAME}..."
+        },
+        {
+          "s": 1,
+          "t": "Even stronger than the rumors say."
+        },
+        {
+          "s": 2,
+          "t": "Huh, you've heard of us?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, we've heard of them?"
+        },
+        {
+          "s": 1,
+          "t": "You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "I guess it must be missing... We'll just have to look for it later..."
+        },
+        {
+          "s": 1,
+          "t": "Enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time to uphold my end of the bargain. So. If you want to enter the volcano..."
+        },
+        {
+          "s": 0,
+          "t": "Hold up. What does dealing with the Abyss have to do with entering the volcano?"
+        },
+        {
+          "sit": "The Abyss must have a presence inside..."
+        },
+        {
+          "sit": "It was an excuse to get me to do his work for him..."
+        },
+        {
+          "s": 1,
+          "t": "Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse."
+        },
+        {
+          "s": 1,
+          "t": "Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress..."
+        },
+        {
+          "s": 1,
+          "t": "Either way, {NICKNAME}, it's an incredibly dangerous place. Are you sure you want to go there knowing that?"
+        },
+        {
+          "sit": "I'm certain..."
+        },
+        {
+          "sit": "We've already made our minds up, so..."
+        },
+        {
+          "s": 1,
+          "t": "Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater."
+        },
+        {
+          "s": 2,
+          "t": "Through... the crater?"
+        },
+        {
+          "s": 1,
+          "t": "Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions..."
+        },
+        {
+          "s": 1,
+          "t": "The end result is what's known as the \"Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet\"... I'm not sure who came up with that name, but it could do with a bit of work."
+        },
+        {
+          "s": 1,
+          "t": "If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall..."
+        },
+        {
+          "s": 1,
+          "t": "But, haha, I'm sure you'll be able to find a way to jump down through it!"
+        },
+        {
+          "s": 0,
+          "t": "Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through..."
+        },
+        {
+          "s": 1,
+          "t": "I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!"
+        },
+        {
+          "s": 3,
+          "t": "Rrrwar? Mrrroo?"
+        },
+        {
+          "s": 2,
+          "t": "It's an earthquake... Wait, no — the volcano's erupting!"
+        },
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Nzaya, Kimosi"
+        },
+        {
+          "s": 0,
+          "t": "Are things alright...?"
+        },
+        {
+          "s": 2,
+          "t": "All the monsters have been cleared out!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 0,
+          "t": "I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "sit": "Just a teensy bit upset you didn't help out..."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "s": 1,
+          "t": "To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, {NICKNAME}..."
+        },
+        {
+          "s": 1,
+          "t": "Even stronger than the rumors say."
+        },
+        {
+          "s": 2,
+          "t": "Huh, you've heard of us?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, we've heard of them?"
+        },
+        {
+          "s": 1,
+          "t": "You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to..."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, enough chitchat. Seeing as you've shown that you're more than capable of dealing with the Abyss, it's time for me to tell you how to enter the volcano..."
+        },
+        {
+          "s": 0,
+          "t": "Hold up. What does dealing with the Abyss have to do with entering the volcano?"
+        },
+        {
+          "sit": "The Abyss must have a presence inside..."
+        },
+        {
+          "sit": "It was an excuse to get me to do his work for him..."
+        },
+        {
+          "s": 1,
+          "t": "Exactly! And based on the condition of objects recently ejected from the volcano, it's clear that the Abyssal corrosion has gotten worse."
+        },
+        {
+          "s": 1,
+          "t": "Not everyone on the exploration team made it back... I still remember a monster disguising itself as one of my companions in distress..."
+        },
+        {
+          "sit": "But isn't Gosoythoth already..."
+        },
+        {
+          "s": 1,
+          "t": "The Abyss is like a disease rooted in the Ley Lines — it comes on as suddenly as a landslide but recedes slowly like unraveling silk... In unseen corners, the seeds of sickness continue to fester..."
+        },
+        {
+          "s": 1,
+          "t": "And there are rumors that the space inside the volcano is unique... Perhaps even the shadowy hands of the Lord of the Night cannot reach inside..."
+        },
+        {
+          "s": 1,
+          "t": "Either way, {NICKNAME}, it's an incredibly dangerous place. Are you sure you want to go there knowing that?"
+        },
+        {
+          "sit": "I'm certain..."
+        },
+        {
+          "sit": "We've already made our minds up, so..."
+        },
+        {
+          "s": 1,
+          "t": "Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater."
+        },
+        {
+          "s": 2,
+          "t": "Through... the crater?"
+        },
+        {
+          "s": 1,
+          "t": "Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions..."
+        },
+        {
+          "s": 1,
+          "t": "The end result is what's known as the \"Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet\"... I'm not sure who came up with that name, but it could do with a bit of work."
+        },
+        {
+          "s": 1,
+          "t": "If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall..."
+        },
+        {
+          "s": 1,
+          "t": "But, haha, I'm sure you'll be able to find a way to jump down through it!"
+        },
+        {
+          "s": 0,
+          "t": "Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through..."
+        },
+        {
+          "s": 1,
+          "t": "I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!"
+        },
+        {
+          "s": 3,
+          "t": "Rrrwar? Mrrroo?"
+        },
+        {
+          "s": 2,
+          "t": "It's an earthquake... Wait, no — the volcano's erupting!"
+        },
+        {
+          "section": "Nzaya, {REALNAME[ID(2)|SHOWHOST(true)]}, Kimosi"
+        },
+        {
+          "s": 0,
+          "t": "Are things alright...?"
+        },
+        {
+          "s": 2,
+          "t": "All the monsters have been cleared out!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 0,
+          "t": "I'm more concerned with whether you were wounded or not. Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "sit": "Just a teensy bit upset you didn't help out..."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "s": 1,
+          "t": "To clean out all the Abyssal monsters in the Tephric Ruins so quickly... It looks like you're even stronger than I thought, {NICKNAME}..."
+        },
+        {
+          "s": 1,
+          "t": "Even stronger than the rumors say."
+        },
+        {
+          "s": 2,
+          "t": "Huh, you've heard of us?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, we've heard of them?"
+        },
+        {
+          "s": 1,
+          "t": "You spend too much time focusing on your muscles. If you took a break every now and then to chat with the couriers from the Scions of the Canopy, you might have a better idea who we're talking to..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Did you see a statue? It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "I guess it must be missing... We'll just have to look for it later..."
+        },
+        {
+          "s": 1,
+          "t": "You have our gratitude, warriors. Thanks to you, we can finally complete our investigation and report back to the tribe."
+        },
+        {
+          "s": 1,
+          "t": "I wish you a smooth journey. After all, a smooth journey means you can quickly reach your target, and quickness..."
+        },
+        {
+          "sit": "...Saves time!"
+        },
+        {
+          "s": 1,
+          "t": "Exactly!"
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much for your assistance. Who knows what we'd have done without the great {NICKNAME}, Paimon, and their saurian friend!"
+        },
+        {
+          "s": 0,
+          "t": "May we meet again!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved..."
+        },
+        {
+          "s": 1,
+          "t": "It looks like our luck's come in, Nzaya!"
+        },
+        {
+          "s": 0,
+          "t": "That's not a very \"tribal warrior\" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?"
+        },
+        {
+          "s": 0,
+          "t": "You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "sit": "Uhh... I take it you're \"Uncle Kimosi\"?"
+        },
+        {
+          "s": 2,
+          "t": "Paimon was just thinking that name sounded familiar!"
+        },
+        {
+          "s": 1,
+          "t": "Uncle? As I recall, I only have the one nephew... My goodness, Dutse, look how you've grown! Why, you've blossomed into a handsome young specimen of a man(charming young specimen of a woman)!"
+        },
+        {
+          "s": 0,
+          "t": "Cut the nonsense, Kimosi. If this was your unruly little imp of a nephew, I'd eat a hat."
+        },
+        {
+          "s": 1,
+          "t": "Oh, come on, I was just having a little fun."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you..."
+        },
+        {
+          "s": 1,
+          "t": "I'm impressed you were able to clear out all the Abyssal monsters and come away unscathed, but..."
+        },
+        {
+          "sit": "How did I know there would be a but..."
+        },
+        {
+          "sit": "What's wrong now?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 0,
+          "t": "And that's when we discovered all these Abyssal monsters crawling out of the woodwork..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins..."
+        },
+        {
+          "s": 0,
+          "t": "It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings..."
+        },
+        {
+          "s": 1,
+          "t": "Perhaps its on the Skyfire Circlet... Ah, that reminds me, you wanted to get inside the volcano, right? Well, there's no way in without first climbing the Circlet."
+        },
+        {
+          "s": 1,
+          "t": "And the way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater."
+        },
+        {
+          "s": 2,
+          "t": "Through... the crater?"
+        },
+        {
+          "s": 1,
+          "t": "Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions..."
+        },
+        {
+          "s": 1,
+          "t": "The end result is what's known as the \"Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet\"... I'm not sure who came up with that name, but it could do with a bit of work."
+        },
+        {
+          "s": 1,
+          "t": "If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall..."
+        },
+        {
+          "s": 1,
+          "t": "But, haha, I'm sure you'll be able to find a way to jump down through it!"
+        },
+        {
+          "s": 0,
+          "t": "Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through..."
+        },
+        {
+          "s": 1,
+          "t": "I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!"
+        },
+        {
+          "s": 3,
+          "t": "Rrrwar? Mrrroo?"
+        },
+        {
+          "s": 2,
+          "t": "It's an earthquake... Wait, no — the volcano's erupting!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved..."
+        },
+        {
+          "s": 1,
+          "t": "It looks like our luck's come in, Nzaya!"
+        },
+        {
+          "s": 0,
+          "t": "That's not a very \"tribal warrior\" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?"
+        },
+        {
+          "s": 0,
+          "t": "You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? How did you know where we're headed!?"
+        },
+        {
+          "s": 1,
+          "t": "Aha, and this is where smart, time-saving people show their worth. Now, let me guess what you're up to..."
+        },
+        {
+          "s": 1,
+          "t": "You want to enter the volcano as well, right... It's possible, and I know the way. I could even tell you..."
+        },
+        {
+          "s": 1,
+          "t": "I'm impressed you were able to clear out all the Abyssal monsters and come away unscathed, but..."
+        },
+        {
+          "sit": "How did I know there would be a but..."
+        },
+        {
+          "sit": "What's wrong now?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 0,
+          "t": "And that's when we discovered all these Abyssal monsters crawling out of the woodwork..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins..."
+        },
+        {
+          "s": 0,
+          "t": "It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings..."
+        },
+        {
+          "s": 1,
+          "t": "Perhaps its on the Skyfire Circlet... Ah, that reminds me, you wanted to get inside the volcano, right? Well, there's no way in without first climbing the Circlet."
+        },
+        {
+          "s": 1,
+          "t": "Alright... The way in is simple, but by no means easy. To cut to the chase, you'll need to jump in through the crater."
+        },
+        {
+          "s": 2,
+          "t": "Through... the crater?"
+        },
+        {
+          "s": 1,
+          "t": "Do you see those floating rocks around the crater? Phlogiston's gaseous state causes them to float there during eruptions..."
+        },
+        {
+          "s": 1,
+          "t": "The end result is what's known as the \"Skyfire{RUBY#[D]Nahuatzin's Springboard} Circlet\"... I'm not sure who came up with that name, but it could do with a bit of work."
+        },
+        {
+          "s": 1,
+          "t": "If you climb to the highest point on the Skyfire Circlet, you should be facing the volcano's crater directly. The crater is filled with unstable gaseous Phlogiston, which forms something of a wall..."
+        },
+        {
+          "s": 1,
+          "t": "But, haha, I'm sure you'll be able to find a way to jump down through it!"
+        },
+        {
+          "s": 0,
+          "t": "Really? Didn't you tell me that very few people outside the Flower-Feather Clan have ever made it through..."
+        },
+        {
+          "s": 1,
+          "t": "I'm just explaining the way. As to the means our intrepid travelers take to get there... Well, that's got nothing to do with me!"
+        },
+        {
+          "s": 3,
+          "t": "Rrrwar? Mrrroo?"
+        },
+        {
+          "s": 2,
+          "t": "It's an earthquake... Wait, no — the volcano's erupting!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved..."
+        },
+        {
+          "s": 1,
+          "t": "It looks like our luck's come in, Nzaya!"
+        },
+        {
+          "s": 0,
+          "t": "That's not a very \"tribal warrior\" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?"
+        },
+        {
+          "s": 0,
+          "t": "You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "sit": "Uhh... I take it you're \"Uncle Kimosi\"?"
+        },
+        {
+          "s": 2,
+          "t": "Paimon was just thinking that name sounded familiar!"
+        },
+        {
+          "s": 1,
+          "t": "Uncle? As I recall, I only have the one nephew... My goodness, Dutse, look how you've grown! Why, you've blossomed into a handsome young specimen of a man(charming young specimen of a woman)!"
+        },
+        {
+          "s": 0,
+          "t": "Cut the nonsense, Kimosi. If this was your unruly little imp of a nephew, I'd eat a hat."
+        },
+        {
+          "s": 1,
+          "t": "Oh, come on, I was just having a little fun."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "That's right. We're gonna enter the volcano... and we already know how!"
+        },
+        {
+          "s": 1,
+          "t": "Is that so? Well color me impressed..."
+        },
+        {
+          "s": 1,
+          "t": "So you want to enter the volcano... Hmm, it's a dangerous place, though..."
+        },
+        {
+          "s": 1,
+          "t": "You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first."
+        },
+        {
+          "sit": "Need help with something else?"
+        },
+        {
+          "sit": "Fire away!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 0,
+          "t": "And that's when we discovered all these Abyssal monsters crawling out of the woodwork..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins..."
+        },
+        {
+          "s": 0,
+          "t": "It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... It may well be on the Skyfire Circlet..."
+        },
+        {
+          "s": 1,
+          "t": "You have our gratitude, warriors. Thanks to you, we can finally complete our investigation and report back to the tribe."
+        },
+        {
+          "s": 0,
+          "t": "Indeed, thank you so much for your assistance. Who knows what we'd have done without the great {NICKNAME}, Paimon, and their saurian friend!"
+        },
+        {
+          "s": 0,
+          "t": "May we meet again!"
+        },
+        {
+          "section": "Nzaya, Kimosi, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Huh? What happened to the pitch-black monsters that were here... Did you defeat them all? That's fantastic news! Why, all the time you've saved..."
+        },
+        {
+          "s": 1,
+          "t": "It looks like our luck's come in, Nzaya!"
+        },
+        {
+          "s": 0,
+          "t": "That's not a very \"tribal warrior\" thing to say, Kimosi... Was it you who cleared out all the Abyssal monsters here?"
+        },
+        {
+          "s": 0,
+          "t": "You weren't wounded, were you? Wounds from Abyssal monsters can have severe consequences if not treated properly."
+        },
+        {
+          "sit": "Not so much as a scratch."
+        },
+        {
+          "s": 0,
+          "t": "That's good to hear..."
+        },
+        {
+          "s": 1,
+          "t": "In any case, I really must thank you again for coming to our rescue. May I ask, what are the two— no, three of you..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. Paimon's Paimon, and he's(she's) {NICKNAME}! And this is our little companion, {REALNAME[ID(2)|SHOWHOST(true)]}."
+        },
+        {
+          "s": 1,
+          "t": "Wonderful! Your Tepetlisaurus friend looks like a remarkable fellow, just like... just like a human. He even has his own clothes..."
+        },
+        {
+          "s": 1,
+          "t": "If a scarf counts as an article of clothing, anyway."
+        },
+        {
+          "s": 0,
+          "t": "On you, I'm not sure it would. But on this little guy, that's exactly what it is..."
+        },
+        {
+          "s": 3,
+          "t": "Rrrawr?"
+        },
+        {
+          "s": 1,
+          "t": "That's where we fall short of saurians, I'm afraid. Hey, Nzaya, take a look at his horn..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Are you going to the volcano, then?"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "That's right. We're gonna enter the volcano... and we already know how!"
+        },
+        {
+          "s": 1,
+          "t": "Is that so? Well color me impressed..."
+        },
+        {
+          "s": 1,
+          "t": "So you want to enter the volcano... Hmm, it's a dangerous place, though..."
+        },
+        {
+          "s": 1,
+          "t": "You were able to clear out all the Abyssal monsters and come away unscathed, so you can clearly handle yourselves... But, brave warriors, there's something I want to ask you first."
+        },
+        {
+          "sit": "Need help with something else?"
+        },
+        {
+          "sit": "Fire away!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, it's nothing much, I just wanted to ask if you saw a statue. It should have been in the middle of the large platform in the ruins..."
+        },
+        {
+          "s": 1,
+          "t": "A witness from our tribe claims they saw one of the Qucusaurs that dwell nearby carrying that statue off from the ruins... We're here to find out what the situation is."
+        },
+        {
+          "s": 0,
+          "t": "And that's when we discovered all these Abyssal monsters crawling out of the woodwork..."
+        },
+        {
+          "s": 3,
+          "t": "Grroo..."
+        },
+        {
+          "s": 1,
+          "t": "No? Well, that could pose a problem. The relics inside the ancient Remnants of the Secret Source are incredibly valuable, and they were deliberately placed in this section of ruins..."
+        },
+        {
+          "s": 0,
+          "t": "It's impossible to know for sure where that Qucusaurus has taken it, so we'll just have to look for it later... Though speaking of nearby Qucusaurus dwellings..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... It may well be on the Skyfire Circlet..."
+        },
+        {
+          "s": 1,
+          "t": "You have our gratitude, warriors. Thanks to you, we can finally complete our investigation and report back to the tribe."
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much for your assistance. Who knows what we'd have done without the great {NICKNAME}, Paimon, and their saurian friend!"
+        },
+        {
+          "s": 0,
+          "t": "May we meet again!"
+        },
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}, Nzaya, Kimosi"
+        },
+        {
+          "s": 2,
+          "t": "Ah! The volcano erupted again. Seriously, every time that happens, Paimon's heart jumps out her chest!"
+        },
+        {
+          "s": 1,
+          "t": "Haha, for those of us in the Collective of Plenty, we hardly even notice anymore. Still, you've always got to be on the lookout for things falling from the sky..."
+        },
+        {
+          "s": 2,
+          "t": "Okay, so we need to find a way up to that Skyfire Circlet, right?"
+        },
+        {
+          "s": 1,
+          "t": "Precisely... Anyway, we've fulfilled our end of the bargain. Nzaya, I think it's about time we got going."
+        },
+        {
+          "s": 0,
+          "t": "Huh, you're not going with them?"
+        },
+        {
+          "s": 1,
+          "t": "The volcano isn't somewhere that someone like me has any business going near. Not to mention, Abyssal monsters turning up in the ruins is something we'll need to report to the tribe."
+        },
+        {
+          "s": 2,
+          "t": "Okay, don't worry about it! Now that we know how to get in, we'll take it from here!"
+        },
+        {
+          "s": 1,
+          "t": "I wish you a smooth journey. After all, a smooth journey means getting in quick and getting out quicker, and being quick..."
+        },
+        {
+          "sit": "...Saves time!"
+        },
+        {
+          "s": 1,
+          "t": "That's right! Haha."
+        },
+        {
+          "s": 0,
+          "t": "One last thing — Safety. Comes. First!"
+        },
+        {
+          "s": 3,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Understood!"
+        }
+      ],
+      "description": "One wonders if there are any clues to be found for entering the Great Volcano of Tollan amidst these crumbling ruins…"
+    }
+  ],
+  "speakers": [
+    "Nzaya",
+    "Kimosi",
+    "Paimon",
+    "{REALNAME[ID(2)|SHOWHOST(true)]}"
+  ],
+  "id": "q-75147"
+}

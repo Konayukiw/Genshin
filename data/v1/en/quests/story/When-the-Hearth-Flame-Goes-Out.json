@@ -1,0 +1,4301 @@
+{
+  "chapter": "Ignis Purgatorius Chapter",
+  "chapter_title": "When the Hearth-Flame Goes Out",
+  "act": "Act 1",
+  "act_title": "When the Hearth-Flame Goes Out",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Child Who Doesn't Exist",
+      "dialogue": [
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "Hey, {NICKNAME}! Paimon!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon knows that voice..."
+        },
+        {
+          "s": 0,
+          "t": "Over here!"
+        },
+        {
+          "sit": "Lyney!"
+        },
+        {
+          "sit": "It's been too long."
+        },
+        {
+          "s": 0,
+          "t": "To borrow one of the more popular turns of phrase at the moment, this appears to be quite the \"fated reunion.\" Running into you two out of the blue like this has really made my day. I certainly wasn't expecting it."
+        },
+        {
+          "s": 1,
+          "t": "You can say that again! What brings you to Poisson?"
+        },
+        {
+          "s": 1,
+          "t": "Wait! Paimon's got it! You must be here for one of your magic shows, right?"
+        },
+        {
+          "s": 0,
+          "t": "Um... Actually, we've run into a bit of trouble on the home front, so \"Father\" arranged for us to stay in Poisson for the time being."
+        },
+        {
+          "s": 1,
+          "t": "Oh, are Lynette and Freminet here too?"
+        },
+        {
+          "s": 0,
+          "t": "Yep, along with most of the other members of the House of the Hearth. You may have noticed Poisson seems a bit more... crowded than usual."
+        },
+        {
+          "s": 1,
+          "t": "So you're saying nearly the entire organization has moved to Poisson? Sounds like you've run into way more than just \"a bit of trouble.\" What's really going on?"
+        },
+        {
+          "s": 0,
+          "t": "Umm... Well..."
+        },
+        {
+          "s": 2,
+          "t": "Since the two of you are so curious, perhaps I can fill in the gaps."
+        },
+        {
+          "s": 1,
+          "t": "Ack! You scared Paimon half to death!"
+        },
+        {
+          "s": 0,
+          "t": "\"Father,\" you're here."
+        },
+        {
+          "s": 1,
+          "t": "Um... Y'know? On second thought, maybe we don't need to know. It's all probably super confidential House of the Hearth stuff, right? We totally weren't trying to pry or anything..."
+        },
+        {
+          "s": 2,
+          "t": "No need to be nervous. I could sense your genuine concern from your conversation just now."
+        },
+        {
+          "s": 2,
+          "t": "Of course, I can also understand your confusion. Sending so many Fatui here to Poisson, it's only natural that some might suspect an \"ulterior motive\" to be involved."
+        },
+        {
+          "sit": "Well, we are a little curious..."
+        },
+        {
+          "sit": "We still have our reservations about your organization."
+        },
+        {
+          "s": 2,
+          "t": "I understand. I'm well aware you've had your fair share of confrontations with the Fatui in the past. And I can't exactly guarantee that we'll remain on good terms in the future."
+        },
+        {
+          "s": 2,
+          "t": "As for right now, however, I would say we have little reason to be at odds, wouldn't you agree? The House of the Hearth could stand to be more open with those who have worked so closely with us in the past."
+        },
+        {
+          "s": 2,
+          "t": "As for the issue at hand... Well, it hardly relates to any ulterior motive. To be frank, it all stems from a certain rumor circulating around the House of the Hearth. It's an internal matter."
+        },
+        {
+          "s": 1,
+          "t": "What sort of rumor?"
+        },
+        {
+          "s": 2,
+          "t": "A rumor that a certain \"phantom child\" is hiding away in the House of the Hearth."
+        },
+        {
+          "sit": "Some sort of ghost story, maybe?"
+        },
+        {
+          "sit": "I feel like I'm getting chills already."
+        },
+        {
+          "s": 1,
+          "t": "A phantom child? Just hearing the name is giving Paimon the creeps..."
+        },
+        {
+          "s": 2,
+          "t": "A spirit that should have long ceased to exist is lurking in the shadows of the House of the Hearth."
+        },
+        {
+          "s": 2,
+          "t": "So, I decided to bring the children to Poisson before continuing to investigate the situation. I expect I should be able to track down the spirit fairly quickly. After that, it's just a matter of \"resolving\" the situation, if you will. It shouldn't be much trouble at all."
+        },
+        {
+          "s": 2,
+          "t": "If you're curious, or if you still have some concerns, it might be advisable to stick around for a few days. I'm sure the children would be exceedingly pleased to welcome some visitors."
+        },
+        {
+          "s": 2,
+          "t": "Lyney, I'll leave you to entertain our guests. I have some matters to attend to."
+        },
+        {
+          "s": 0,
+          "t": "Of course, \"Father.\""
+        },
+        {
+          "s": 1,
+          "t": "Phew..."
+        },
+        {
+          "s": 3,
+          "t": "(I couldn't help but feel intimidated during that conversation with The Knave. Now that she's gone, it feels like I can finally breathe again...)"
+        },
+        {
+          "s": 3,
+          "t": "(She also suggested that we stick around for a few days... But why?)"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, it has long been a dream of mine to invite you to our home, and introduce you to my other siblings."
+        },
+        {
+          "s": 0,
+          "t": "You're quite well-known in the organization already. A lot of people have been talking about you, especially after everything with the prophecy."
+        },
+        {
+          "s": 0,
+          "t": "If you're willing, why don't you stay awhile and have a little chat with us?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm, alright! We don't have anything else to do right now anyway. But let's be clear, we're just gonna be there as guests, okay? Don't get any funny... Wait a second! If we're your \"guests,\" that probably means we'll be treated to lots of yummy food, right?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! During our stay in Poisson, we've been helping out the locals with some fishing. We bring in quite the bounty every day. In fact, today is the perfect chance for me to show you what I can do in the kitchen."
+        },
+        {
+          "s": 0,
+          "t": "Let's go. I'll take you to where we're staying."
+        },
+        {
+          "s": 3,
+          "t": "I feel like I'm getting chills already."
+        },
+        {
+          "s": 3,
+          "t": "We still have our reservations about your organization."
+        },
+        {
+          "s": 3,
+          "t": "It's been too long."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "We rented this house from one of the locals to use as a temporary base. I'll come back later and tidy up a bit. After that, it should be all ready for you to stay in tonight."
+        },
+        {
+          "s": 1,
+          "t": "Awesome, thanks! So where are we off to now?"
+        },
+        {
+          "s": 0,
+          "t": "Well, when I happened to run into you two earlier, I was actually in the middle of distributing some supplies."
+        },
+        {
+          "s": 0,
+          "t": "With this many people staying in Poisson, we have to bring in outside supplies every now and then. I should probably make sure the rest of these provisions get delivered, otherwise people might start to get antsy."
+        },
+        {
+          "s": 1,
+          "t": "Okay! We'll come with!"
+        },
+        {
+          "s": 1,
+          "t": "There are all sorts of rumors about your organization floating around out there. Paimon's not sure she could even take a wild guess as to what's true and what's not."
+        },
+        {
+          "s": 1,
+          "t": "But, now that we finally have the chance to see a day in the life of the House, we can take a good look at how you operate."
+        },
+        {
+          "s": 0,
+          "t": "Well, you're more than welcome to come along. Just follow me."
+        },
+        {
+          "section": "Chapleau"
+        },
+        {
+          "s": 4,
+          "t": "Lyney! You're finally here! The supplies... I'm assuming you've—"
+        },
+        {
+          "s": 0,
+          "t": "Brought them with me? Yep, here you go."
+        },
+        {
+          "s": 0,
+          "t": "Uh... hello? Something caught your eye?"
+        },
+        {
+          "s": 4,
+          "t": "It's {NICKNAME} and Paimon!"
+        },
+        {
+          "s": 5,
+          "t": "No way!"
+        },
+        {
+          "s": 6,
+          "t": "C'mere everyone! Hurry! {NICKNAME} and Paimon are here!"
+        },
+        {
+          "s": 0,
+          "t": "One at a time please. Don't crowd around them all at once. We don't want to scare off our guests, now do we?"
+        },
+        {
+          "s": 1,
+          "t": "It's alright. Gotta say, Paimon didn't realize we were THIS famous..."
+        },
+        {
+          "s": 5,
+          "t": "Of course! \"Father\" and Lyney have told us so much about you!"
+        },
+        {
+          "s": 4,
+          "t": "\"Father\" told us about how you helped Lyney. According to her, you're a trustworthy friend, and as far as she's concerned, that's pretty much the highest compliment we've ever heard her give. As you can imagine, everyone's been very curious about you."
+        },
+        {
+          "s": 5,
+          "t": "I heard {NICKNAME} is so strong that he(she) can move a mountain with his(her) bare hands!"
+        },
+        {
+          "s": 6,
+          "t": "I heard Paimon eats so much that she can clean out the entire pantry at Hotel Debord in just three days!"
+        },
+        {
+          "s": 1,
+          "t": "Wait a second, that's the rumor you've heard about Paimon!? Not cool at all!"
+        },
+        {
+          "s": 3,
+          "t": "Mine's also a bit of a stretch..."
+        },
+        {
+          "s": 5,
+          "t": "Oh, wait! When guests visit, you're supposed to give them gifts and stuff, right?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, we don't need something like that. Besides, we don't have anything to give to you..."
+        },
+        {
+          "s": 6,
+          "t": "C'mon, we insist! I can give you some of my new potions? Just pick your poison — and by that I mean medicine or actual poison. I've got both."
+        },
+        {
+          "s": 1,
+          "t": "Huh?"
+        },
+        {
+          "s": 5,
+          "t": "Ooor, maybe Chapleau can teach you guys about stealth! He's super good at it! He's never been caught!"
+        },
+        {
+          "s": 4,
+          "t": "Ah, now that's not a bad idea! I know you usually prefer to fight head-on, but it never hurts to expand your bag of tricks, right? When it comes to eliminating your enemies, staying quiet can go a long way. Trust me — I would know."
+        },
+        {
+          "s": 4,
+          "t": "I was poisoned not too long ago, and I'm still dealing with the aftereffects, so I'm not quite as good as I was before... but I can still give you some pointers."
+        },
+        {
+          "s": 1,
+          "t": "Um, wait, uh... When you said gifts, Paimon didn't think you meant poison and stealth tactics!"
+        },
+        {
+          "s": 5,
+          "t": "But those are the best things we can give you! You don't like them?"
+        },
+        {
+          "s": 5,
+          "t": "Ooh! How about this? Tell me the name of someone who really annoys you, and we'll teach 'em a lesson for you!"
+        },
+        {
+          "sit": "The dangerous suggestions keep on coming one after another. You start to get a bit overwhelmed..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, Foltz, Heloir — I think that's enough suggestions for now. When it comes to being a good host, it's the thought that counts."
+        },
+        {
+          "s": 0,
+          "t": "You don't need a physical gift to make our guests happy. In fact, pestering them with suggestion after suggestion might make them more annoyed than anything. I would say your enthusiasm has certainly gotten across."
+        },
+        {
+          "s": 6,
+          "t": "Really?"
+        },
+        {
+          "sit": "Absolutely."
+        },
+        {
+          "sit": "We definitely feel the love."
+        },
+        {
+          "s": 5,
+          "t": "Awesome! It's been so long since we've had guests to play with! If there's anything you need, just let us know!"
+        },
+        {
+          "s": 6,
+          "t": "Yeah! Especially if it's poison or something. I've got all sorts of potions for that."
+        },
+        {
+          "s": 0,
+          "t": "*ahem* Well, we'll talk to you all later. We've still got supplies to distribute."
+        },
+        {
+          "s": 4,
+          "t": "Alright. See you later."
+        },
+        {
+          "s": 7,
+          "t": "Bye!"
+        },
+        {
+          "s": 1,
+          "t": "Um... Lyney, about all that poison and stealth tactics talk just now..."
+        },
+        {
+          "s": 0,
+          "t": "Scared you, did it? That kind of talk comes with being part of the House of the Hearth."
+        },
+        {
+          "s": 0,
+          "t": "When Foltz was really young, he strangled all of his family pets — just out of curiosity. He was labeled a dangerous \"problem child\" and was abandoned by his family."
+        },
+        {
+          "s": 0,
+          "t": "Heloir has an unnatural obsession with potions. \"Father\" has forbidden her from trying all the different concoctions she comes up with, but she still tries to test them in secret. You really have to keep an eye on that one."
+        },
+        {
+          "s": 0,
+          "t": "Chapleau is around my age. While I'm mainly responsible for collecting intelligence, he handles surveillance. He's very passionate about his work and has no reservations about taking on some very difficult missions."
+        },
+        {
+          "s": 0,
+          "t": "I know you two probably aren't used to that kind of talk, but I can promise you they only had the best of intentions. Things like stealth tactics and developing different poisons... they really mean a lot to them. They were just trying to share the best of what they could offer — that's all."
+        },
+        {
+          "s": 3,
+          "t": "We definitely feel the love."
+        },
+        {
+          "section": "Nanteuil"
+        },
+        {
+          "s": 0,
+          "t": "Filliol, supplies are here."
+        },
+        {
+          "s": 8,
+          "t": "Thanks. And who are these two? Outsiders?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, allow me to introduce you. This is {NICKNAME} and Paimon."
+        },
+        {
+          "s": 9,
+          "t": "Oh, you're the famous duo I've been hearing so much about."
+        },
+        {
+          "s": 9,
+          "t": "It's nice to meet you. I heard you've traveled to all sorts of places. Is that true?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! We're making our way all across Teyvat!"
+        },
+        {
+          "s": 8,
+          "t": "Oh, good for you."
+        },
+        {
+          "s": 9,
+          "t": "You must be pretty familiar with Fontaine by now, then. Have you seen the new opera that started running recently? I think it's called... \"The Four Thousand Thieves\"?"
+        },
+        {
+          "s": 1,
+          "t": "This is the first we've heard of it!"
+        },
+        {
+          "s": 9,
+          "t": "It seems like it's going to be fantastic — from what I've been able to tell from the posters, anyway. You should definitely check it out if you have the time."
+        },
+        {
+          "s": 8,
+          "t": "Oh, and there's \"The Blind Maiden\" too. That one is supposed to have audience interaction. Seems pretty interesting."
+        },
+        {
+          "sit": "As you spend some time talking about popular culture, the atmosphere becomes more and more relaxed..."
+        },
+        {
+          "s": 8,
+          "t": "After this mission is over, I think I'll go get a manicure."
+        },
+        {
+          "s": 9,
+          "t": "Maybe I should dye my hair. Hmm, wonder how much it'll cost..."
+        },
+        {
+          "s": 1,
+          "t": "Is it just Paimon, or do these two seem much easier to get along with than the others... Looks like the House of the Hearth has some \"normal\" members, after all."
+        },
+        {
+          "s": 8,
+          "t": "I heard that."
+        },
+        {
+          "s": 1,
+          "t": "Oh! Uh... Oops, hehe..."
+        },
+        {
+          "s": 9,
+          "t": "I'm guessing you're referring to Foltz and the others? Yeah, we're definitely not all like them."
+        },
+        {
+          "s": 8,
+          "t": "I bet those crazies are practically foaming at the mouth right now. Heh, I'm sure they just can't wait to get back to Snezhnaya to carry out the plan..."
+        },
+        {
+          "s": 0,
+          "t": "That's enough, Filliol."
+        },
+        {
+          "s": 8,
+          "t": "Ah, \"don't talk about family members behind their back,\" right? Heh, whatever. Let's go."
+        },
+        {
+          "s": 9,
+          "t": "Um, guess this is goodbye then! If you ever have some time, we should go see the opera together!"
+        },
+        {
+          "s": 0,
+          "t": "*sigh*..."
+        },
+        {
+          "s": 0,
+          "t": "Well, that's it for the supplies. We should probably head back as well."
+        },
+        {
+          "s": 1,
+          "t": "Well, they didn't seem too happy with each other. Seems like there could be something more going on here..."
+        },
+        {
+          "sit": "We should observe for now."
+        },
+        {
+          "sit": "It's better not to pry."
+        },
+        {
+          "s": 1,
+          "t": "You're right. We're only here as \"guests,\" after all."
+        },
+        {
+          "s": 1,
+          "t": "Oh, Lyney's getting super far ahead! C'mon, let's catch up!"
+        },
+        {
+          "s": 3,
+          "t": "It's better not to pry."
+        },
+        {
+          "section": "Chapleau, Heloir, Foltz"
+        },
+        {
+          "s": 4,
+          "t": "Wow, {NICKNAME} and Paimon... I finally got to meet them in person!"
+        },
+        {
+          "s": 6,
+          "t": "Hmm, they don't really seem as intimidating as you hear in the stories."
+        },
+        {
+          "s": 5,
+          "t": "They'd probably get along really well with Filliol... If only they got here sooner."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "So... What do you think of the members you've met so far?"
+        },
+        {
+          "s": 3,
+          "t": "They've certainly got a lot of personality."
+        },
+        {
+          "s": 0,
+          "t": "Haha, well, \"Father\" is always encouraging us to be strong-willed and independent. So, if there's one thing we've got, it's people who aren't afraid to speak their mind."
+        },
+        {
+          "s": 0,
+          "t": "Well, I should probably get cooking. Wanna join?"
+        },
+        {
+          "s": 1,
+          "t": "Of course!"
+        },
+        {
+          "s": 0,
+          "t": "Then let's head out... Huh? Freminet? What are you doing here?"
+        },
+        {
+          "s": 10,
+          "t": "Ah, well, um..."
+        },
+        {
+          "s": 1,
+          "t": "Freminet! Nice to see you again!"
+        },
+        {
+          "s": 10,
+          "t": "You too. I heard you're here as guests of the House of the Hearth. Welcome."
+        },
+        {
+          "s": 0,
+          "t": "We were just going to make some food. Why don't you come along? I could use some help in the kitchen, and I seem to remember you mentioning you wanted to make Seafood Soup for {NICKNAME} and Paimon."
+        },
+        {
+          "s": 1,
+          "t": "Seafood Soup! Paimon's drooling already!"
+        },
+        {
+          "s": 0,
+          "t": "Were you looking for something just now, Freminet? Maybe I can help."
+        },
+        {
+          "s": 10,
+          "t": "Ah, it's nothing. I just wanted to see if there were any extra supplies."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, we've got some left over. What do you need?"
+        },
+        {
+          "s": 10,
+          "t": "Some food and water. And some clean cloth, if possible."
+        },
+        {
+          "s": 0,
+          "t": "No problem. Give me a second here. Food, water..."
+        },
+        {
+          "s": 0,
+          "t": "Wait a minute... What do you need all of those for? You're not on any missions, as far as I'm aware, and you were just going to come eat with us... So what's this all about?"
+        },
+        {
+          "s": 10,
+          "t": "I—I thought I'd grab an extra portion because I get hungry at night. Could be because I'm growing, y'know, and..."
+        },
+        {
+          "s": 0,
+          "t": "Freminet."
+        },
+        {
+          "s": 0,
+          "t": "You remember what I told you? You're not like me — your lying skills still need some work."
+        },
+        {
+          "s": 0,
+          "t": "Tell me what's going on. Is it really bad enough that you have to keep it from your own brother?"
+        },
+        {
+          "s": 1,
+          "t": "Um... Maybe it'll be better if we gave them some space..."
+        },
+        {
+          "s": 10,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Huh, this is the first time I've seen that kind of look on your face. Whatever happened... Does it have something to do with \"Father\"?"
+        },
+        {
+          "s": 10,
+          "t": "Yes."
+        },
+        {
+          "s": 10,
+          "t": "Just... follow me."
+        },
+        {
+          "section": "Filliol, Nanteuil"
+        },
+        {
+          "s": 8,
+          "t": "Looks like there's more trouble in store next month too... *sigh* When will it end..."
+        },
+        {
+          "s": 9,
+          "t": "Hey, just focus on the positives. At least our time in Poisson has been pretty relaxing. Don't you think?"
+        },
+        {
+          "section": "Clervie"
+        },
+        {
+          "s": 11,
+          "t": "You're back! Oh, and you've brought some friends with you this time!"
+        },
+        {
+          "s": 0,
+          "t": "Hello, my name's Lyney. I grew up in the House of the Hearth. And you are..."
+        },
+        {
+          "s": 11,
+          "t": "Hi, Lyney. I'm also a child of the House of the Hearth — just like you!"
+        },
+        {
+          "s": 11,
+          "t": "You can call me Clervie."
+        },
+        {
+          "s": 0,
+          "t": "Clervie?"
+        },
+        {
+          "s": 11,
+          "t": "It's nice to meet you."
+        },
+        {
+          "s": 1,
+          "t": "Does that name ring any bells, Lyney?"
+        },
+        {
+          "s": 0,
+          "t": "No, not at all. That's not a name we have on our roster — I'm sure of it. What I'm not sure of, though... is how she managed to sneak in."
+        },
+        {
+          "s": 0,
+          "t": "She must be the \"phantom child\" \"Father\" has been searching for. From the looks of it, I'm guessing you were the one that found her, Freminet? You, uh... haven't told \"Father,\" have you?"
+        },
+        {
+          "s": 10,
+          "t": "No, I haven't told anyone. I've just been... keeping her hidden."
+        },
+        {
+          "s": 0,
+          "t": "For how long?"
+        },
+        {
+          "s": 10,
+          "t": "About half a month now."
+        },
+        {
+          "s": 0,
+          "t": "So, ever since we got to Poisson, then? Do you have any idea what you're doing!?"
+        },
+        {
+          "s": 10,
+          "t": "I know what I'm doing."
+        },
+        {
+          "s": 0,
+          "t": "Really? 'Cause from where I'm standing, it looks like you're hiding the very person \"Father\" has been trying to find! If \"Father\" finds out about this, everyone involved is going to be punished."
+        },
+        {
+          "s": 0,
+          "t": "You know the rules of the House, Freminet. I know you do — \"Father\" doesn't tolerate any form of betrayal. So, why are you doing this?"
+        },
+        {
+          "s": 10,
+          "t": "I've thought it through... And I just can't hand her over like that."
+        },
+        {
+          "s": 10,
+          "t": "Lyney, don't you remember last year? Chapleau nearly died after getting poisoned during that one mission. He wasn't able to get back before the poison started taking effect, and not a single person was there to help him."
+        },
+        {
+          "s": 10,
+          "t": "That night, while I was sleeping, I heard a voice telling me to go save him. I opened my eyes, but I couldn't find the source of the voice. I thought maybe I was just hearing things, but I went to look for him anyway. Luckily, I got there with enough time to save his life."
+        },
+        {
+          "s": 10,
+          "t": "That feeling of being \"haunted,\" of hearing voices... It's happened many times in the House of the Hearth. I'm sure you've noticed."
+        },
+        {
+          "s": 0,
+          "t": "So what you're saying is... That was her? She was the one who spoke to you that night?"
+        },
+        {
+          "s": 10,
+          "t": "Unless there are other spirits roaming around the House of the Hearth, I don't think there's any other possibility."
+        },
+        {
+          "s": 10,
+          "t": "If Clervie were our enemy, it wouldn't matter whether she was a spirit or an actual child — I would have acted without a second thought, because that's what \"Father\" ordered us to do."
+        },
+        {
+          "s": 10,
+          "t": "But, she's been living with us, helping us from the shadows all this time. I think that makes her family."
+        },
+        {
+          "s": 10,
+          "t": "I couldn't just hand her over to be dealt with — not when there's so much we still don't know."
+        },
+        {
+          "s": 0,
+          "t": "So what's your plan then? You can't keep her here forever. Someone is bound to find out eventually."
+        },
+        {
+          "s": 10,
+          "t": "I haven't thought that far yet. I don't want to disobey an order from \"Father,\" but I also don't want to put Clervie in danger."
+        },
+        {
+          "s": 0,
+          "t": "Come with me. There are a couple things I'd like to say to you in private."
+        },
+        {
+          "s": 11,
+          "t": "Those two sure care a lot about each other."
+        },
+        {
+          "s": 1,
+          "t": "Well, they got a funny way of showing it. From where Paimon was floating, it sure seemed like they were about to bite each other's heads off..."
+        },
+        {
+          "s": 11,
+          "t": "No way! They have a really deep bond. I could tell right away, 'cause I also have a friend like that."
+        },
+        {
+          "s": 11,
+          "t": "I just... don't know how long that kind of bond can last."
+        },
+        {
+          "s": 3,
+          "t": "What do you mean?"
+        },
+        {
+          "s": 11,
+          "t": "The darkness in the House runs deeper than you can imagine. No one can get out alive."
+        },
+        {
+          "s": 10,
+          "t": "I'm sorry, Lyney. I really didn't mean to drag anyone else into this..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, really? You didn't mean to? 'Cause I, for one, wish you did."
+        },
+        {
+          "s": 10,
+          "t": "Huh? What do you mean?"
+        },
+        {
+          "s": 0,
+          "t": "Y'know, when we were younger, you didn't call me \"Lyney.\" You called me \"Brother,\" just like Lynette."
+        },
+        {
+          "s": 0,
+          "t": "We grew up together, the three of us. We were all orphans, all rescued by \"Father.\" Of all the siblings in the House of the Hearth, I think our bond was the closest."
+        },
+        {
+          "s": 0,
+          "t": "Later on, when you started calling me \"Lyney,\" I wasn't actually surprised. After all, Lynette and I are related by blood. We've had to depend on each other to survive long before we joined the House."
+        },
+        {
+          "s": 10,
+          "t": "Lyney, I..."
+        },
+        {
+          "s": 0,
+          "t": "The darkest and most difficult moments of my life happened before you and I had ever met — I'm sure that's true for you as well. Even so, Freminet, we've stood by each other for all these years now, and, to me, that means more than blood."
+        },
+        {
+          "s": 0,
+          "t": "You and Lynette are the most important people in my life. No one can replace you. So, I won't let you face anything alone — not if I can help it."
+        },
+        {
+          "s": 1,
+          "t": "Oh no, looks like things are getting kinda heated between Lyney and Freminet... Maybe we should go check on them."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 1,
+          "t": "Hey, you two... Hope we aren't interrupting anything, like a fight or..."
+        },
+        {
+          "s": 1,
+          "t": "Wait a minute! Freminet! Y—You're not... crying, are you? Is everything alright?"
+        },
+        {
+          "s": 10,
+          "t": "Everything's fine... Thanks for asking."
+        },
+        {
+          "s": 1,
+          "t": "Well, we're all friends here, right? We've been through so much together, so if there's anything we can do to help, just say the word!"
+        },
+        {
+          "s": 0,
+          "t": "It's just a small family dispute. It's not something our guests should trouble themselves with. In fact, it might be better if your stay ended here."
+        },
+        {
+          "s": 3,
+          "t": "But sometimes, having guests around can come in handy."
+        },
+        {
+          "s": 1,
+          "t": "Uh... What are you getting at, {NICKNAME}?"
+        },
+        {
+          "s": 0,
+          "t": "When guests are around, families are often on their best behavior... and any disputes are less likely to escalate... That's what you're trying to say, isn't it?"
+        },
+        {
+          "sit": "Exactly."
+        },
+        {
+          "sit": "I think it'll be better if we stick around."
+        },
+        {
+          "s": 0,
+          "t": "I... just... Thank you. I was really hoping to keep you out of it, but even if I could think of some other reason to turn you away, I'm not sure I could convince you. I know things could turn dangerous, so I promise you this — from now on, I'll protect you like my life depends on it."
+        },
+        {
+          "s": 10,
+          "t": "Me too."
+        },
+        {
+          "s": 0,
+          "t": "Well, back to the matter at hand, then. If we don't plan on handing Clervie over to \"Father,\" then our only other option is to solve the mystery of her identity before \"Father\" is able to track her down."
+        },
+        {
+          "s": 0,
+          "t": "That means finding out where she came from and what she's doing here. Then, we can send her on her merry way and pretend like none of this ever happened."
+        },
+        {
+          "s": 10,
+          "t": "I've tried that already."
+        },
+        {
+          "s": 0,
+          "t": "And?"
+        },
+        {
+          "s": 10,
+          "t": "And... nothing. I tried taking her somewhere really far away, but... after some time, she just reappeared."
+        },
+        {
+          "s": 10,
+          "t": "She even came with us all the way to Poisson. It seems like wherever the House is, she follows."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, I don't know much about spirits... Do you two have any ideas?"
+        },
+        {
+          "s": 1,
+          "t": "Let's see here... Ooh! Paimon remembers hearing something like... If you fulfill a spirit's last wish before they died, they'll let go of whatever's keeping them here and return to the Ley Lines."
+        },
+        {
+          "s": 1,
+          "t": "It's just that... Paimon doesn't really remember where she heard that... so it's not guaranteed to work or anything."
+        },
+        {
+          "s": 0,
+          "t": "Well, sounds like it's worth a shot. Guess that means we should go ask her about her wish. But first... Freminet, I need you to promise me something."
+        },
+        {
+          "s": 10,
+          "t": "What is it?"
+        },
+        {
+          "s": 0,
+          "t": "I need you to promise me that this will stay between the two of us. We're the masterminds behind this whole thing — no one else gets involved. Can you do that for me?"
+        },
+        {
+          "s": 10,
+          "t": "Of course. I promise."
+        },
+        {
+          "s": 0,
+          "t": "Alright, then let's seal the promise just like when we were kids... Fist bump on three. Ready? One, two, three..."
+        },
+        {
+          "s": 7,
+          "t": "I swear."
+        },
+        {
+          "s": 10,
+          "t": "Ah!!"
+        },
+        {
+          "s": 0,
+          "t": "Whoa!!"
+        },
+        {
+          "s": 1,
+          "t": "L—Lynette!"
+        },
+        {
+          "s": 3,
+          "t": "You scared me!"
+        },
+        {
+          "s": 0,
+          "t": "Wh—What a surprise! *ahem* What brings you here, dear sister?"
+        },
+        {
+          "s": 0,
+          "t": "And, uh... When exactly did you get here?"
+        },
+        {
+          "s": 12,
+          "t": "You're an idiot, Brother."
+        },
+        {
+          "s": 0,
+          "t": "Um..."
+        },
+        {
+          "s": 12,
+          "t": "And you too, Freminet."
+        },
+        {
+          "s": 10,
+          "t": "Uh..."
+        },
+        {
+          "s": 12,
+          "t": "You three, {NICKNAME}. And you four, Paimon."
+        },
+        {
+          "s": 1,
+          "t": "Wait, what did we do?"
+        },
+        {
+          "s": 12,
+          "t": "I've seen Clervie around the House of the Hearth before. I hadn't seen her in Poisson, so I figured she must not have come with us... But it turns out you were just hiding her."
+        },
+        {
+          "s": 12,
+          "t": "I heard you talking about your plan. Rather than steering clear of the situation, I'd rather fully join in."
+        },
+        {
+          "s": 12,
+          "t": "If you don't agree, I'll have no choice but to report everything back to \"Father.\" Simple as that."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* You're not giving us much wiggle room here, Lynette."
+        },
+        {
+          "s": 0,
+          "t": "Well, I guess we're all in this together, then. After we talk to Clervie, we'll figure out our next move."
+        },
+        {
+          "s": 0,
+          "t": "There's no time to lose. Let's go."
+        },
+        {
+          "s": 3,
+          "t": "I think it'll be better if we stick around."
+        },
+        {
+          "section": "Clervie"
+        },
+        {
+          "s": 11,
+          "t": "Ah, I'm full! Thank you for bringing me this food, you guys."
+        },
+        {
+          "s": 1,
+          "t": "She said she's \"full,\" but the food doesn't look like it's even been touched..."
+        },
+        {
+          "sit": "Well, she's a spirit..."
+        },
+        {
+          "sit": "She can't actually eat."
+        },
+        {
+          "s": 10,
+          "t": "That's right. Based on what I've been able to observe, it doesn't seem like Clervie can interact with the physical world at all."
+        },
+        {
+          "s": 10,
+          "t": "Still, when she's presented with food, she'll always linger around it for a good little while. Maybe, in her mind, she really is eating those things."
+        },
+        {
+          "s": 12,
+          "t": "Does she know that she has already passed away?"
+        },
+        {
+          "s": 10,
+          "t": "I've tried to ask her, but she didn't answer. My guess is that she's just as confused as we are, or... Maybe she couldn't understand the question at all."
+        },
+        {
+          "s": 0,
+          "t": "Clervie, if you've got some time, I'd like to ask you a few questions."
+        },
+        {
+          "s": 11,
+          "t": "Sure."
+        },
+        {
+          "s": 11,
+          "t": "Oh! Another new friend! Hi, I'm Clervie."
+        },
+        {
+          "s": 12,
+          "t": "Hello."
+        },
+        {
+          "s": 0,
+          "t": "Clervie, how did you join the House of the Hearth?"
+        },
+        {
+          "s": 11,
+          "t": "Huh? Isn't it the same for everybody?"
+        },
+        {
+          "s": 11,
+          "t": "The Knave brings you here, and then you can't leave."
+        },
+        {
+          "s": 0,
+          "t": "It's just that... your name, it's not on the roster. And I've never seen you before."
+        },
+        {
+          "s": 11,
+          "t": "The roster? Ah, I get it now. I think there might be some things you don't know about this place."
+        },
+        {
+          "s": 11,
+          "t": "The people in charge... They're not as nice as they look. They say they keep a roster... but it's not complete. There are a lot of people who aren't on it... and never will be."
+        },
+        {
+          "s": 11,
+          "t": "In this House, some people are \"family\" and other people... are just \"test subjects.\" Those kinds of people aren't ever going to get a place on the roster... unless it's the roster of people who've been executed."
+        },
+        {
+          "s": 1,
+          "t": "Wait, does that mean The Knave, she..."
+        },
+        {
+          "s": 0,
+          "t": "Is there anyone that can vouch for you?"
+        },
+        {
+          "s": 11,
+          "t": "..."
+        },
+        {
+          "s": 11,
+          "t": "Perrie. She's my best friend. She's the only one I trust in this place."
+        },
+        {
+          "s": 0,
+          "t": "Have either of you heard of that name before?"
+        },
+        {
+          "s": 12,
+          "t": "No."
+        },
+        {
+          "s": 10,
+          "t": "Me neither..."
+        },
+        {
+          "s": 0,
+          "t": "Clervie... Perrie... Neither of those names are on the roster."
+        },
+        {
+          "s": 0,
+          "t": "But... it seems like she's telling the truth. Either that, or this kid's already got a bag of tricks bigger than mine."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, maybe we should try a different approach. Clervie, do you have a wish?"
+        },
+        {
+          "s": 11,
+          "t": "A wish?"
+        },
+        {
+          "s": 0,
+          "t": "It can be anything you want. Just imagine — it's your birthday, you're blowing out the candles, and your wish is..."
+        },
+        {
+          "s": 11,
+          "t": "To... To go outside."
+        },
+        {
+          "s": 11,
+          "t": "Where the sun can find me."
+        },
+        {
+          "s": 1,
+          "t": "That's it? Well, that sounds easy enough."
+        },
+        {
+          "s": 11,
+          "t": "The darkness in the House runs deeper than you can imagine. No one can get out alive."
+        },
+        {
+          "s": 3,
+          "t": "(What did she mean by that...? Things can't be this simple.)"
+        },
+        {
+          "s": 0,
+          "t": "Okay, time to divide and conquer. Listen up. I've got a plan."
+        },
+        {
+          "s": 0,
+          "t": "I'll try and find a way to use basic illusory magic to take Clervie outside and bring her somewhere with sunlight."
+        },
+        {
+          "s": 0,
+          "t": "Lynette, try and find the list of executions that Clervie was talking about, and see if her name is on it."
+        },
+        {
+          "s": 0,
+          "t": "Freminet, you stay in Poisson. We can't be the only ones who've had run ins with Clervie. I need you to collect intel on everything she's said and done."
+        },
+        {
+          "s": 12,
+          "t": "Understood."
+        },
+        {
+          "s": 10,
+          "t": "I'll try my best."
+        },
+        {
+          "s": 1,
+          "t": "What about us? What should we do?"
+        },
+        {
+          "s": 0,
+          "t": "I really appreciate your willingness to help, but this is a family matter. I don't want to drag you in too deep. It's too risky."
+        },
+        {
+          "s": 0,
+          "t": "Let me think... Since \"Father\" considers you to be guests, maybe you could stick by her side for a little while? You don't need to do anything except keep up some nice, casual conversation."
+        },
+        {
+          "s": 1,
+          "t": "Ah, Paimon gets it! You want us to distract her!"
+        },
+        {
+          "s": 3,
+          "t": "How should we contact you?"
+        },
+        {
+          "s": 0,
+          "t": "I'll give you a magic bird. If \"Father\" suspects something, all you need to do is release it when she's not looking, and it'll alert me that something's wrong."
+        },
+        {
+          "s": 0,
+          "t": "Of course, that's only as a last resort. If \"Father\" doesn't seem to notice us, there's no need to make contact. We'll reconvene here tonight after all's said and done."
+        },
+        {
+          "s": 0,
+          "t": "If the worst-case scenario happens, and we're discovered, just tell \"Father\" everything. We're not going to let our guests get punished for our own actions — that's where we draw the line."
+        },
+        {
+          "s": 3,
+          "t": "Be careful."
+        },
+        {
+          "s": 0,
+          "t": "You too... Okay, this is where we part. \"Father\" should be at the beach nearby."
+        },
+        {
+          "s": 0,
+          "t": "I really hope this goes well. No... It has to go well. That's the only way this can get resolved."
+        },
+        {
+          "s": 3,
+          "t": "She can't actually eat."
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "(test)于是众人回到据点内，制定了各自的计划"
+        },
+        {
+          "s": 0,
+          "t": "(test)林尼与主角等人对视一眼，觉得这不是什么大的愿望，随手就可以实现。于是林尼制定了一个计划：在场的人里，林尼会用魔术上的障眼法，在不为人知的情况下把克雷薇带去外面，尝试实现她“在阳光下生活”的愿望；琳妮特去找一份壁炉之家秘密处刑名单，看看克雷薇在不在处刑名单上；菲米尼借口搜查克雷薇，在其他孩子们当中收集情报。主角前往寻找仆人，暂时留在仆人身边"
+        },
+        {
+          "s": 0,
+          "t": "（test）制定计划后，在据点内休息一晚"
+        },
+        {
+          "s": 0,
+          "t": "（test）第二天，按照林尼制定的计划，主角出发去找仆人。临走前，林尼给了主角一只魔术飞鸟，并告诉主角他会带克雷薇去某某地进行实验，如果仆人也去这里的话，林尼希望主角提前放飞这只鸟来通风报信。"
+        }
+      ],
+      "description": "It’s a fine day. Yes, a fine day for a stroll around Poisson!"
+    },
+    {
+      "title": "Sea Breeze Rendezvous",
+      "dialogue": [
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 10,
+          "t": "Hmm, where should I start looking..."
+        },
+        {
+          "section": "Lyney, Clervie"
+        },
+        {
+          "s": 0,
+          "t": "Clervie, I'd like to take you somewhere. Is that okay with you?"
+        },
+        {
+          "s": 11,
+          "t": "Sure! Where are we going?"
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 1,
+          "t": "It's The Knave! And... Childe!?"
+        },
+        {
+          "s": 1,
+          "t": "Hey, aren't you supposed to be in Snezhnaya recuperating? What are you still doing in Fontaine?"
+        },
+        {
+          "s": 13,
+          "t": "Oh, it's you two. I didn't expect to run into you here... *coughing*"
+        },
+        {
+          "s": 13,
+          "t": "I was unconscious for quite a while after the fight in the Primordial Sea. After I woke up, I realized I was being taken back to Snezhnaya, and well..."
+        },
+        {
+          "s": 13,
+          "t": "I couldn't have that, now could I? Not when I've still got unfinished business here in Fontaine. So, I mustered up all my strength and made the journey back on my own."
+        },
+        {
+          "s": 1,
+          "t": "What sort of unfinished business are we talking here?"
+        },
+        {
+          "s": 13,
+          "t": "It has to do with Skirk... My master. I really wanted to meet up with her... But, by the time I got back, she had already left."
+        },
+        {
+          "s": 13,
+          "t": "I still have so many questions for her. Without any other leads... all I could do was ask The Knave to help me track her down. She must have left behind some traces from her time in Fontaine."
+        },
+        {
+          "s": 1,
+          "t": "Oh, okay... So, have you found any clues?"
+        },
+        {
+          "s": 2,
+          "t": "Unfortunately, no. While the House of the Hearth is adept at collecting all manner of intelligence, certain existences... can still manage to escape our purview."
+        },
+        {
+          "s": 13,
+          "t": "Basically, unless Master feels there's a need to meet with me, she's not going to be found."
+        },
+        {
+          "s": 13,
+          "t": "But, that problem has an easy fix. I just need to become stronger, and then... *coughing*"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Paimon thinks you should focus on getting better first."
+        },
+        {
+          "s": 13,
+          "t": "Haha, the worst of it is over."
+        },
+        {
+          "s": 13,
+          "t": "It's all thanks to that one kid from the House of the Hearth... Heloir I think her name was. She gave me a bunch of random potions to drink. They didn't go down easy, let me tell you — pain and chills all over. But, they really did help speed up my recovery."
+        },
+        {
+          "s": 13,
+          "t": "And that's good, because it looks like I really do have to head back this time. The old man's been putting the pressure on me. He sent someone to tell me I'm needed for some sort of project..."
+        },
+        {
+          "s": 2,
+          "t": "\"Project Stuzha\"?"
+        },
+        {
+          "s": 13,
+          "t": "Yeah, that's the one. *sigh* I heard Regrator's involved too. I'm not looking forward to having to listen to all his monologuing, that's for sure. Hey, maybe you could think of a way for me to stay in Fontaine for a little longer?"
+        },
+        {
+          "s": 13,
+          "t": "Helping Lyney and the others brush up on their fighting skills would be far more interesting. If you and I could spar — that would be even better. I've been waiting for the chance to see you go all out."
+        },
+        {
+          "s": 2,
+          "t": "And what a sweet, little daydream that is. But, I also have a role to play in all this. I'll be leaving Fontaine shortly as well."
+        },
+        {
+          "s": 2,
+          "t": "Besides, considering how little they see fit to step outside the homeland, being called on to return to Snezhnaya by such illustrious dignitaries... What a great \"honor,\" wouldn't you agree?"
+        },
+        {
+          "s": 13,
+          "t": "Haha... One I could do without, I'd say."
+        },
+        {
+          "s": 1,
+          "t": "Is it just Paimon? Or, does it kinda seem like they're..."
+        },
+        {
+          "s": 3,
+          "t": "Just casually trash-talking their colleagues behind their backs...?"
+        },
+        {
+          "s": 2,
+          "t": "So, dear guests of the House of the Hearth, to what do I owe the visit?"
+        },
+        {
+          "s": 1,
+          "t": "Um... Well, we just, uh..."
+        },
+        {
+          "s": 3,
+          "t": "Wanted to learn more about you."
+        },
+        {
+          "s": 1,
+          "t": "Right! We're super close to Lyney and the others, but we still don't know much about you!"
+        },
+        {
+          "s": 2,
+          "t": "Is that so? Introductions have already been made, have they not?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, well, you see... There's only so much you can learn about someone from a short introduction! At least tell us something a little extra, like... Why do you call yourself \"Father\"?"
+        },
+        {
+          "s": 13,
+          "t": "Ooh, good question! I'd also like to know."
+        },
+        {
+          "s": 2,
+          "t": "The fact that you have to ask tells me our intelligence work has been quite successful. Telling you the answer to that question would only serve to undermine that success, and we can't have that, now can we?"
+        },
+        {
+          "s": 13,
+          "t": "Spoken like a true diplomat. That was some expert sidestepping right there."
+        },
+        {
+          "s": 2,
+          "t": "Well, if there's nothing else, I think I'll take my leave. I still have a small matter to resolve at home."
+        },
+        {
+          "s": 1,
+          "t": "Uh... Wait! Don't go!"
+        },
+        {
+          "s": 3,
+          "t": "(If The Knave leaves right now, she's sure to run into Lyney and Clervie...!)"
+        },
+        {
+          "s": 3,
+          "t": "(Should I release the bird Lyney gave us? No, we should try to get her talking about something else first.)"
+        },
+        {
+          "sit": "About the House of the Hearth..."
+        },
+        {
+          "sit": "What does the organization mean to you?"
+        },
+        {
+          "s": 13,
+          "t": "Oho, I'd also like to hear the answer to this."
+        },
+        {
+          "s": 13,
+          "t": "I've met some of the members of your organization, and they all seemed like really good kids. They actually reminded me of Tonia and Teucer."
+        },
+        {
+          "s": 13,
+          "t": "Which, by the way, if you ever betray them, I'm just letting you know — I won't let you off easy."
+        },
+        {
+          "s": 2,
+          "t": "And why would I betray them?"
+        },
+        {
+          "s": 13,
+          "t": "Well, you've already betrayed the House of the Hearth once, haven't you? At least... that's what I heard."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 13,
+          "t": "Okay, okay. I admit, that's just what the old man told me... The Rooster, I mean."
+        },
+        {
+          "s": 3,
+          "t": "(The Knave betrayed the House of the Hearth... So, does that mean what Clervie said was true? Does The Knave really treat her children like test subjects?)"
+        },
+        {
+          "s": 1,
+          "t": "W—Wait... did you really do something bad to those kids?"
+        },
+        {
+          "s": 2,
+          "t": "Never mind what I've done, I'm more curious as to what the mighty Rooster had to say. Care to enlighten me?"
+        },
+        {
+          "s": 13,
+          "t": "Ah, well, nothing much... Just some stuff about you taking out many other members of the House of the Hearth, and even going so far as to attack your own \"family.\""
+        },
+        {
+          "s": 2,
+          "t": "Hmm... I see."
+        },
+        {
+          "s": 13,
+          "t": "Based on your reaction, I'm guessing it's all a bunch of lies?"
+        },
+        {
+          "s": 2,
+          "t": "Hardly. I don't appreciate his particular turns of phrase, but I suppose he didn't say anything untrue."
+        },
+        {
+          "s": 2,
+          "t": "Although, it would be more accurate to say that there is a certain level of prejudice involved... But, I don't intend to clear that up just yet. Prejudice has a funny way of concealing the real truth behind certain things — an attribute that I find to be quite advantageous."
+        },
+        {
+          "s": 2,
+          "t": "Call yourself a Fontainian, for example, and people will assume all sorts of things, when the real truth... is that this is simply the land where I was raised."
+        },
+        {
+          "s": 1,
+          "t": "Huh!? You're not actually from Fontaine!? But then, why did you try to help out with the prophecy and everything?"
+        },
+        {
+          "s": 2,
+          "t": "I was trying to protect the children born in Fontaine. Claiming that I, myself, was a Fontainian simply made it easier to operate. People would hardly suspect a fellow Fontainian of having any ulterior motives. Who wouldn't want to save their homeland, after all?"
+        },
+        {
+          "s": 2,
+          "t": "The Primordial Sea wouldn't have any effect on me, but it would have caused great harm to the House of the Hearth... Well, you wanted \"extra information,\" didn't you? There you go. I hope that satisfied your curiosity."
+        },
+        {
+          "s": 3,
+          "t": "(So much for learning anything else about her \"betrayal.\" She probably only revealed that other secret in order to change the subject. It seems like she's trying to avoid talking about her past...)"
+        },
+        {
+          "s": 13,
+          "t": "So, you stayed in Fontaine for the kids... I guess I was wrong to believe you'd betray them. Apologies. Looks like I was holding on to some prejudices myself."
+        },
+        {
+          "s": 2,
+          "t": "Good. Like I said — I like it when others have misconceptions of me."
+        },
+        {
+          "s": 13,
+          "t": "Actually, while I was recuperating at the House of the Hearth, there was something else that really caught my attention."
+        },
+        {
+          "s": 13,
+          "t": "I heard that members always resolve disputes and arguments with a friendly spar, and the loser has to back down. Seems pretty cool, if you ask me. Would also give them plenty of opportunities to hone their skills."
+        },
+        {
+          "s": 2,
+          "t": "Well, that's only a recent development. In the past, such spars weren't nearly so... friendly. The losing party would lose everything, including their life."
+        },
+        {
+          "s": 1,
+          "t": "They were that high stakes!? Phew, at least that's not a thing anymore!"
+        },
+        {
+          "s": 13,
+          "t": "Well, the current atmosphere's not half bad. I'm a bit jealous, actually. You've got so many family members around you, and you even get to live with them."
+        },
+        {
+          "s": 2,
+          "t": "Having a lot of family around means dealing with a considerable amount of bickering and scheming. Once Tonia and Teucer enter their rebellious phase, I'm sure you'll understand."
+        },
+        {
+          "s": 2,
+          "t": "Just imagine... Teucer becomes obsessed with plucking out strands from the Rooster's mustache, or Tonia decides to dye her hair 42 different colors..."
+        },
+        {
+          "s": 13,
+          "t": "Okay, okay! I get the picture."
+        },
+        {
+          "sit": "As the conversation shifts to the topic of Tonia and Teucer, Childe begins to share story after story about his siblings."
+        },
+        {
+          "sit": "It's the type of conversation that would usually leave you falling asleep, but you find yourself grateful to Childe for buying you more time."
+        },
+        {
+          "s": 13,
+          "t": "Ah, well, would you look at the time. I should probably get going."
+        },
+        {
+          "s": 13,
+          "t": "{NICKNAME}, Paimon, I'm not sure where our paths will cross next, but the next time we run into each other, we should definitely try and find some time to spar... *coughing*"
+        },
+        {
+          "s": 1,
+          "t": "Again, maybe this is a conversation we can have when you look less like you're gonna keel over..."
+        },
+        {
+          "s": 13,
+          "t": "Alright, alright... Well, thanks for everything, Arlecchino."
+        },
+        {
+          "s": 2,
+          "t": "No thanks necessary. You also played a part in obtaining the Gnosis. I would say we can call ourselves even."
+        },
+        {
+          "s": 13,
+          "t": "Hah, I like the sound of that... Well, I'm off. See you all some other time."
+        },
+        {
+          "s": 1,
+          "t": "We should probably get going too... Do you wanna head back with us?"
+        },
+        {
+          "s": 2,
+          "t": "Oh? You want me to leave so soon?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, uh... Well, you see, um..."
+        },
+        {
+          "s": 2,
+          "t": "I'm rather enjoying the evening breeze. If you don't mind, I think I'll stick around for a bit. I have some things to think about."
+        },
+        {
+          "s": 2,
+          "t": "Apologies for not attending to you like a proper host. Please, forgive the slight. I do hope you'll have a pleasant stay."
+        },
+        {
+          "s": 3,
+          "t": "What does the organization mean to you?"
+        },
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 1,
+          "t": "Lyney! How'd everything go?"
+        },
+        {
+          "s": 0,
+          "t": "Well, long story short, we ran into a small issue — Clervie can't go into the sunlight."
+        },
+        {
+          "s": 3,
+          "t": "What do you mean?"
+        },
+        {
+          "s": 0,
+          "t": "Everything was fine at first. She followed me up to the surface, just like I told her."
+        },
+        {
+          "s": 0,
+          "t": "But as I led her out of the shadows and into the sunlight, she vanished."
+        },
+        {
+          "s": 0,
+          "t": "I turned around, and there she was — standing at the edge of the shadows, silently watching me."
+        },
+        {
+          "s": 1,
+          "t": "Maybe she's afraid of sunlight, or... No, it wouldn't be her wish if that were the case."
+        },
+        {
+          "s": 1,
+          "t": "Well, we could always try... pushing her into it?"
+        },
+        {
+          "s": 3,
+          "t": "Not sure \"pushing\" works on a non-corporeal being..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, true..."
+        },
+        {
+          "s": 0,
+          "t": "I've pretty much tried it all already. Nothing worked. Eventually, the sun went down, so all I could do was bring her back here."
+        },
+        {
+          "s": 0,
+          "t": "How did it go with you, Lynette?"
+        },
+        {
+          "s": 12,
+          "t": "Good. I've got the list. It's right here."
+        },
+        {
+          "s": 1,
+          "t": "Really? Well, what are we waiting for? Let's take a look!"
+        },
+        {
+          "s": 1,
+          "t": "Woah, that's a lot of pages! It's gonna take forever to get through it all!"
+        },
+        {
+          "s": 0,
+          "t": "We can each take a section. Here."
+        },
+        {
+          "s": 1,
+          "t": "Lapouyade... Landois... Jeambel... Horrer..."
+        },
+        {
+          "s": 1,
+          "t": "Yikes, that Horrer guy has a huge scar on his face. He's kinda giving Paimon the creeps."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I've met him before. The scar is from an injury he received during a mission. I still remember him joking with me about it. He said any future lover would take one look at him and then lose all interest."
+        },
+        {
+          "s": 1,
+          "t": "Did he say anything else?"
+        },
+        {
+          "s": 0,
+          "t": "Well, I asked if there was someone he was interested in. He said no, and that's where our conversation ended."
+        },
+        {
+          "s": 0,
+          "t": "It was only later that I learned he really did have someone he liked. He risked everything to escape so he could be with her, but it didn't work. One day, \"Father\" asked to see him, and well... I never saw him again after that."
+        },
+        {
+          "s": 1,
+          "t": "Wait, so that means, The Knave, she..."
+        },
+        {
+          "s": 0,
+          "t": "It may seem cruel, but it's just one of the rules of the House."
+        },
+        {
+          "s": 0,
+          "t": "Betrayal is not to be taken lightly. We know too many secrets to come and go as we please. So, if you do try to leave, you pay with your life."
+        },
+        {
+          "sit": "A solemn atmosphere descends over the group as you look through the list of names. However, Clervie's name does not seem to be among them."
+        },
+        {
+          "s": 0,
+          "t": "Her name's not here, huh... Well, that's not too surprising. It doesn't seem like this list is complete. It only contains records dating back around five years."
+        },
+        {
+          "s": 0,
+          "t": "Let's shift our attention, then. Freminet, were you able to find anything out?"
+        },
+        {
+          "s": 10,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Freminet?"
+        },
+        {
+          "s": 10,
+          "t": "Ah sorry, I was thinking about something."
+        },
+        {
+          "s": 10,
+          "t": "I managed to talk to quite a few people, but I couldn't help but notice that the atmosphere in the House was a little... strange."
+        },
+        {
+          "s": 12,
+          "t": "Strange?"
+        },
+        {
+          "s": 10,
+          "t": "Yeah. I mean, I know there have been arguments in the past, times when people haven't gotten along. Chapleau and Filliol are a good example of that..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, those are two of the people we met while delivering supplies! Paimon can see how they might not get along. They had very different vibes, and their, um... \"interests\" seemed to be pretty different as well..."
+        },
+        {
+          "s": 0,
+          "t": "That's to be expected, actually. \"Father\" brought us all here, shared her knowledge with us, taught us how to fight — that's one thing we all share. But, that's also where the similarities end. Not all of us feel the same desire to stay here."
+        },
+        {
+          "s": 0,
+          "t": "As members of the House of the Hearth, we're also considered part of the Fatui. And to a lot of people, that's an identity they never asked for."
+        },
+        {
+          "s": 0,
+          "t": "Certain members get older and realize they want something else for themselves. But, considering the rules of the House... most people would never say that out loud."
+        },
+        {
+          "s": 0,
+          "t": "People like Chapleau and Foltz are loyal to \"Father\" and her vision. They're proud to be part of the Fatui. Filliol and Nanteuil on the other hand... Well, they aren't quite as enthusiastic."
+        },
+        {
+          "s": 12,
+          "t": "These kinds of conflicts have always been there. It's not like \"Father\" is in the dark about any of this."
+        },
+        {
+          "s": 10,
+          "t": "Well, that's true, but it just feels like things have gotten worse lately. Filliol and the others... It seemed like they were meeting in secret to talk about something."
+        },
+        {
+          "s": 10,
+          "t": "I can't say for sure, but I think they've met Clervie."
+        },
+        {
+          "s": 0,
+          "t": "You think she's been inciting them to act out?"
+        },
+        {
+          "s": 10,
+          "t": "No, not exactly... But, I wouldn't be surprised if she said something to them about \"the darkness in the House\" and how deep it runs."
+        },
+        {
+          "s": 10,
+          "t": "She's told me about it before... experiments being run on children, people being used as pawns on the battlefield without so much as the strength to survive..."
+        },
+        {
+          "s": 0,
+          "t": "And they just believed all that? Without any evidence?"
+        },
+        {
+          "s": 12,
+          "t": "Clervie's words probably gave them the excuse they were looking for. Whether they actually believe them to be true is secondary."
+        },
+        {
+          "s": 0,
+          "t": "*sigh*... This is all because of \"Project Stuzha,\" isn't it?"
+        },
+        {
+          "s": 1,
+          "t": "Woah, woah, woah. Hold on a second!"
+        },
+        {
+          "s": 1,
+          "t": "What's this \"Project Stuzha\" all about, huh? This is the second time it's come up now!"
+        },
+        {
+          "s": 0,
+          "t": "Sorry, but I'm not sure of the details either."
+        },
+        {
+          "s": 0,
+          "t": "I only know what \"Father\" has told us, which is that it's something The Rooster and Regrator have been working on together. Apparently, it has to do with the Fatui's strategic plan for the future."
+        },
+        {
+          "s": 0,
+          "t": "Because the House of the Hearth was so successful in obtaining the Gnosis, we now have the honor of playing a key role in Project Stuzha."
+        },
+        {
+          "s": 1,
+          "t": "Wait... but isn't that a good thing?"
+        },
+        {
+          "s": 0,
+          "t": "\"Key\" role is just another way of saying \"dangerous\" role. To us, the whole thing is an inconvenience."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\" thinks so too, but she's in no position to refuse. Their plan isn't exactly unreasonable, and they've been funneling the House a lot of funding."
+        },
+        {
+          "s": 0,
+          "t": "It's just that... We'll lose a lot of members in the process. Participating in the plan... It's an honor in name only. What they're really trying to do is subdue us. The existence of an intelligence organization outside their control makes them feel uneasy."
+        },
+        {
+          "s": 3,
+          "t": "(Looks like the Fatui are plotting something big, but given how little Lyney and the others seem to know about it, I probably won't be able to learn much.)"
+        },
+        {
+          "s": 3,
+          "t": "(I should keep a sharp eye out during any future dealings with the Fatui to see what I can learn.)"
+        },
+        {
+          "s": 1,
+          "t": "Okay, super complicated, top-secret Fatui business aside... What does all this have to do with the conflicts you were talking about earlier? Paimon doesn't get the connection..."
+        },
+        {
+          "s": 0,
+          "t": "External pressure has a way of exacerbating internal strife. You can't overlook the power of fear, either. People are afraid of dying, and that fear is often the impetus for a lot of stupid decisions."
+        },
+        {
+          "s": 0,
+          "t": "I thought resolving the Clervie situation would make everything go back to normal."
+        },
+        {
+          "s": 0,
+          "t": "But it looks like things are more complicated than I thought. If we leave Filliol and the others to their own devices, sooner or later, \"Father\" will be forced to take action."
+        },
+        {
+          "s": 12,
+          "t": "We can only focus on one situation at a time, Brother."
+        },
+        {
+          "s": 0,
+          "t": "You're right. Even if we confront Filliol and the others, it won't do any good. It might even make matters worse. We should focus on Clervie for now."
+        },
+        {
+          "s": 0,
+          "t": "Well, it's getting late. We should head back and get some rest. We'll try again first thing tomorrow."
+        },
+        {
+          "s": 0,
+          "t": "Lynette, you stick with me this time. Freminet, keep a close eye on Filliol and the others. Make sure they don't do anything they'll regret."
+        },
+        {
+          "s": 0,
+          "t": "Good work today, everyone. Have a good night, and I'll see you tomorrow."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 2,
+          "t": "Oh? You decided to stay a little longer? Let's take in the ocean view together then."
+        },
+        {
+          "section": "Clervie, Rest"
+        },
+        {
+          "s": 1,
+          "t": "*yawn*... Paimon was looking forward to an early night, but she can't sleep at all..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, you don't think The Knave will be too angry with Lyney and everyone if she finds out about all this, do you?"
+        },
+        {
+          "s": 1,
+          "t": "She's even scary when she smiles. If she were to actually get angry... *shudder* You have to protect Paimon if that happens, okay {NICKNAME}?"
+        },
+        {
+          "sit": "I'm also afraid of her..."
+        },
+        {
+          "sit": "You can just hide behind me."
+        },
+        {
+          "s": 1,
+          "t": "Well, in that case, we should just plan on... running away! We'll grab Lyney and the others and, we can make a break for it as fast as we can!"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Look! Look, over there!"
+        },
+        {
+          "sit": "Clervie?"
+        },
+        {
+          "sit": "What's she doing over there!?"
+        },
+        {
+          "s": 1,
+          "t": "Quick, let's catch up with her before anyone sees!"
+        },
+        {
+          "s": 3,
+          "t": "What's she doing over there!?"
+        },
+        {
+          "s": 3,
+          "t": "You can just hide behind me."
+        },
+        {
+          "s": 1,
+          "t": "Trusty as ever, {NICKNAME}!"
+        },
+        {
+          "section": "Clervie"
+        },
+        {
+          "s": 1,
+          "t": "Clervie!"
+        },
+        {
+          "s": 11,
+          "t": "Shh!"
+        },
+        {
+          "s": 11,
+          "t": "I opened the window while no one was looking."
+        },
+        {
+          "s": 11,
+          "t": "Look how pretty the outside is..."
+        },
+        {
+          "sit": "Window?"
+        },
+        {
+          "sit": "There's nothing here..."
+        },
+        {
+          "s": 11,
+          "t": "If only I could have more than this."
+        },
+        {
+          "s": 11,
+          "t": "You probably think I'm being silly, huh? All this hopeless resisting... It's better to dream of what I could have than try to make it a reality, right?"
+        },
+        {
+          "s": 1,
+          "t": "Please help us get on the same page here, Clervie. We need you to tell us what you know. Can you do that?"
+        },
+        {
+          "s": 11,
+          "t": "Sure! Although... after you hear all this, I think you might regret that decision."
+        },
+        {
+          "s": 11,
+          "t": "Everyone in this family is nothing more than a tool, something to be used and exploited. We're all expendable... including me."
+        },
+        {
+          "s": 11,
+          "t": "As long as you're useful, you get to stick around. Lose your value... and you're handed over to The Doctor, experimented on, and given a fate worse than death. I've seen it happen again and again, and I've had enough."
+        },
+        {
+          "s": 1,
+          "t": "You're saying The Knave did all that?"
+        },
+        {
+          "s": 1,
+          "t": "It's just... That doesn't seem like something she would do. She's scary and all, but it seems like even she has lines she wouldn't cross."
+        },
+        {
+          "s": 11,
+          "t": "Heh, I knew you wouldn't believe me."
+        },
+        {
+          "s": 11,
+          "t": "Everyone thinks she's a good person. They all think of her like a real \"Mother\"..."
+        },
+        {
+          "s": 1,
+          "t": "\"Mother\"?"
+        },
+        {
+          "s": 11,
+          "t": "But she doesn't deserve that title. She's disgraced it and tarnished it... and if I had things my way, I'd never see her again."
+        },
+        {
+          "s": 11,
+          "t": "If only Perrie were here. She'd understand..."
+        },
+        {
+          "s": 1,
+          "t": "Perrie... There's that name again."
+        },
+        {
+          "s": 1,
+          "t": "Also, Paimon's getting a strange feeling..."
+        },
+        {
+          "s": 1,
+          "t": "It almost feels like she's not really \"here\" with us. Paimon can't tell if she's actually talking to us, or if she's mistaken us for someone else..."
+        },
+        {
+          "sit": "I'm not sure either."
+        },
+        {
+          "sit": "She's a spirit. It could be anything."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Well, in any case, it seems like she really needs someone to talk to. We should keep her company for a little longer."
+        },
+        {
+          "s": 1,
+          "t": "She looks so young, but it seems like she's been through a lot."
+        },
+        {
+          "s": 11,
+          "t": "It's getting windy. I should close the window..."
+        },
+        {
+          "s": 11,
+          "t": "Ooh, look at the moon! Isn't it pretty? ...Hey, wanna hear a secret? I heard that if you look up at the night sky in Snezhnaya, you can see the aurora. It's supposed to be super pretty... even prettier than the moon tonight."
+        },
+        {
+          "s": 3,
+          "t": "I'd love to see it."
+        },
+        {
+          "s": 11,
+          "t": "Perrie and I promised each other, that once we're older, we're gonna go see it together."
+        },
+        {
+          "s": 11,
+          "t": "But I can't find her. I'm worried she's also been... No, that wouldn't happen to her. She's special. Mother likes her a lot."
+        },
+        {
+          "s": 11,
+          "t": "I should really go talk to Mother, but we just fought. She doesn't want to see me, and I'm too scared to face her."
+        },
+        {
+          "s": 11,
+          "t": "What should I do..."
+        },
+        {
+          "sit": "Clervie appears lost in thought. She stands there silently and doesn't say another word."
+        },
+        {
+          "sit": "After some time, Clervie seems to come back to herself. She gives a weak smile and leaves on her own."
+        },
+        {
+          "s": 1,
+          "t": "*sigh*... Paimon really doesn't understand what's going on with her."
+        },
+        {
+          "s": 1,
+          "t": "Well, let's head back. We've got an early morning tomorrow!"
+        },
+        {
+          "s": 3,
+          "t": "She's a spirit. It could be anything."
+        },
+        {
+          "s": 3,
+          "t": "There's nothing here..."
+        }
+      ],
+      "description": "After discussing the plan with Lyney and the others, you go to the seaside to meet The Knave in an attempt to distract her…"
+    },
+    {
+      "title": "Birds in a Cage",
+      "dialogue": [
+        {
+          "section": "Lyney"
+        },
+        {
+          "s": 0,
+          "t": "Alright, looks like we're all here. Let's go ahead with the plan."
+        },
+        {
+          "sit": "Before we do that..."
+        },
+        {
+          "sit": "I have a question."
+        },
+        {
+          "s": 10,
+          "t": "Oh? What is it?"
+        },
+        {
+          "s": 3,
+          "t": "Have The Knave and The Doctor ever worked together?"
+        },
+        {
+          "s": 0,
+          "t": "What makes you ask that?"
+        },
+        {
+          "s": 1,
+          "t": "Well, we kinda ran into Clervie last night... and that's what she told us."
+        },
+        {
+          "s": 1,
+          "t": "We met The Doctor back in Sumeru. He's super dangerous! And he's done all sorts of bad things!"
+        },
+        {
+          "s": 0,
+          "t": "...It's possible that \"Father\" and The Doctor have had certain dealings, but I don't think \"Father\" would work with him."
+        },
+        {
+          "s": 0,
+          "t": "We're not really on the same side, so there's not a lot of trust between them. That doesn't exactly set the stage for a successful partnership."
+        },
+        {
+          "s": 0,
+          "t": "I did hear, though, that when \"Father\" first became a Harbinger, The Doctor offered to work with the House of the Hearth."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\" rejected most of his proposals, except for one... It had to do with some sort of secret experiment."
+        },
+        {
+          "s": 1,
+          "t": "Secret experiment? Could that be what Clervie was talking about?"
+        },
+        {
+          "s": 12,
+          "t": "I don't think so..."
+        },
+        {
+          "s": 0,
+          "t": "I don't know any details about the experiment itself, but I do know it's an entirely independent operation. The Doctor only proposed a direction for the research. That was the extent of his involvement. I still don't think that counts as working together."
+        },
+        {
+          "s": 0,
+          "t": "The details of the experiment are confidential, but complete records are kept on all participants. That doesn't seem to be the case with the situation Clervie referred to."
+        },
+        {
+          "s": 0,
+          "t": "I know you don't agree with some of the Fatui's methods, and I'm not asking you to. But, I am asking you to trust us on this. The House of the Hearth has its own principles. There are certain lines we're not willing to cross."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Alright. That's good to hear at least."
+        },
+        {
+          "s": 1,
+          "t": "Clervie seems to think The Knave and The Doctor worked together to do something horrible. If that turned out to be true... Paimon doesn't know how we would even face you guys."
+        },
+        {
+          "s": 1,
+          "t": "It's just that... it doesn't seem like Clervie is lying either..."
+        },
+        {
+          "s": 1,
+          "t": "The easiest thing to do would be just ask The Knave directly, but Paimon doesn't think she'd tell us."
+        },
+        {
+          "s": 3,
+          "t": "Let's focus on the plan for now."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\" didn't come back last night. She's probably still near the shore. We'll be counting on you to distract her."
+        },
+        {
+          "s": 0,
+          "t": "Lynette, you're with me. Freminet, you know what to do. Be on your guard, everyone."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's get to it."
+        },
+        {
+          "s": 3,
+          "t": "I have a question."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 2,
+          "t": "Ah, it's you two again. I must say, you look a bit pale. Did you have trouble sleeping last night?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... a little."
+        },
+        {
+          "s": 2,
+          "t": "Perhaps if you had less on your mind, you'd be able to absolve yourself of such troubles."
+        },
+        {
+          "s": 2,
+          "t": "So, what are you planning to do now? Catch up on some sleep? Or, should I give you some time to rack your brain for a topic to discuss before I ask any questions..."
+        },
+        {
+          "s": 2,
+          "t": "Although I must profess to being curious... Without Childe here, how do you plan on distracting me?"
+        },
+        {
+          "s": 3,
+          "t": "(!!!)"
+        },
+        {
+          "s": 1,
+          "t": "US distract YOU!? Hahaha, good one... But no, um, we were just... here for a chat!"
+        },
+        {
+          "s": 2,
+          "t": "Hm, looks like you could have used some extra time to think. No matter, if you don't have any other plans, why don't you accompany me somewhere?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry. I'll be sure to steer clear of any scheming children."
+        },
+        {
+          "s": 1,
+          "t": "Ah... the ocean breeze is sure nice today..."
+        },
+        {
+          "s": 3,
+          "t": "So, you know everything then?"
+        },
+        {
+          "s": 2,
+          "t": "Children always think they can hide things from the grown-ups. But, nothing gets past me, least of all a little scheming. I think I'll let them have at it for a little longer. I can be very patient."
+        },
+        {
+          "s": 2,
+          "t": "Well, I'll leave you to think things over. If you're so inclined, meet me outside the Palais Mermonia."
+        },
+        {
+          "s": 2,
+          "t": "Good things come to children who do as they're told. So, I do hope you decide to tag along... if only for your friends' sakes."
+        },
+        {
+          "s": 1,
+          "t": "What should we do?"
+        },
+        {
+          "s": 1,
+          "t": "She clearly knows about everything we've been doing, and Paimon doesn't think it'd be a stretch to say she was threatening us just now."
+        },
+        {
+          "s": 3,
+          "t": "We should release the pigeon that Lyney gave us."
+        },
+        {
+          "s": 1,
+          "t": "Oh, good idea! Hopefully he sees it in time..."
+        },
+        {
+          "s": 1,
+          "t": "Well, we should probably head to the Palais Mermonia. Paimon doesn't want to find out what happens if we don't show up. Based on what The Knave was saying just now, it sure didn't seem like it'd be anything good..."
+        },
+        {
+          "sit": "We really don't have any other options..."
+        },
+        {
+          "sit": "Guess all we can do is take it one step at a time."
+        },
+        {
+          "s": 1,
+          "t": "Okay, then we probably shouldn't keep her waiting. It seems like Lyney and the others are on thin ice, so let's do our best to not get them in any more trouble..."
+        },
+        {
+          "s": 3,
+          "t": "Guess all we can do is take it one step at a time."
+        },
+        {
+          "section": "Lynette, Lyney"
+        },
+        {
+          "s": 12,
+          "t": "Where are we going today?"
+        },
+        {
+          "s": 0,
+          "t": "Let's try somewhere further away this time."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 2,
+          "t": "Seeing as we still have some time before my meeting, we might as well enjoy some pleasant conversation while we wait."
+        },
+        {
+          "s": 2,
+          "t": "I'm glad to see you get along with my children. Being surrounded by good companions is necessary for a child's development."
+        },
+        {
+          "s": 1,
+          "t": "You're not planning on doing anything to them, are you?"
+        },
+        {
+          "s": 2,
+          "t": "I assume you're referring to Lyney, Lynette, and Freminet..."
+        },
+        {
+          "s": 2,
+          "t": "Although there's that situation with Filliol and Nanteuil as well... Hm, it appears quite a few people have been acting out lately."
+        },
+        {
+          "s": 2,
+          "t": "No matter. I'm not one to discriminate. All those who betray the House meet the same fate. There are no exceptions."
+        },
+        {
+          "s": 1,
+          "t": "Does that mean you're going to kill them?"
+        },
+        {
+          "s": 2,
+          "t": "Oh? Are you here to beg for their lives? I'm sorry to disappoint, but the rules of the House change for no one. In my organization, everyone is responsible for their own actions."
+        },
+        {
+          "s": 1,
+          "t": "But... Don't you care about them at all? They really respect you! They even call you \"Father\"! You must feel something for them!"
+        },
+        {
+          "s": 2,
+          "t": "Any organization in which feelings come before principles is one destined for ruin. The House of the Hearth is hardly an exception. You could say our principles are more stringent than most."
+        },
+        {
+          "s": 2,
+          "t": "Perhaps I can offer you this consolation, at least — as our guests, you two will not be held accountable along with them."
+        },
+        {
+          "s": 3,
+          "t": "There's really no other way to solve the issue?"
+        },
+        {
+          "s": 2,
+          "t": "I would imagine Lyney, Lynette, and Freminet will be able to keep their lives."
+        },
+        {
+          "s": 2,
+          "t": "As for Filliol, Nanteuil, and the others... I'm afraid there's little I can do. They can try to escape, but once you know our secrets, there's no getting out alive."
+        },
+        {
+          "s": 1,
+          "t": "But that's... That's awful..."
+        },
+        {
+          "s": 2,
+          "t": "Ah, you seem concerned. Out of consideration for my guests, I suppose I could turn a blind eye for a little longer."
+        },
+        {
+          "s": 2,
+          "t": "If Lyney and the others manage to dispose of Clervie in the meantime, all evidence of their wrongdoing will be lost. In that case, I could hardly punish them for something I couldn't prove."
+        },
+        {
+          "s": 2,
+          "t": "If their efforts are unsuccessful, on the other hand, all will be held accountable, and the punishment will be severe."
+        },
+        {
+          "sit": "It's a deal, then."
+        },
+        {
+          "sit": "We'll hold you to it!"
+        },
+        {
+          "s": 2,
+          "t": "Of course. Oh, and here... I believe this belongs to you. Do try and keep better track of it next time."
+        },
+        {
+          "s": 2,
+          "t": "It takes a considerable amount of time to train a bird like this. It would be such a pity if you were to lose it... permanently."
+        },
+        {
+          "s": 1,
+          "t": "Wait, where did you get that..."
+        },
+        {
+          "s": 2,
+          "t": "Well, I'm afraid that's all the time we have to chat. Now for the matter at hand."
+        },
+        {
+          "s": 2,
+          "t": "I asked you to meet me here because I have business at the Palais Mermonia. It has nothing to do with you, but I think it would be prudent for you to stick by my side for the time being. There will always be time later to run off and tell Lyney what you've learned."
+        },
+        {
+          "s": 2,
+          "t": "Well, time to go. Looks like we wrapped things up just in time."
+        },
+        {
+          "s": 3,
+          "t": "We'll hold you to it!"
+        },
+        {
+          "section": "Neuvillette"
+        },
+        {
+          "s": 2,
+          "t": "It's been a while, Monsieur Neuvillette."
+        },
+        {
+          "s": 2,
+          "t": "I must say, I wasn't expecting my meeting request to be approved quite so quickly. The Palais Mermonia operates with an efficiency worthy of admiration."
+        },
+        {
+          "s": 14,
+          "t": "It is only right that an esteemed diplomat such as yourself should be afforded the proper level of respect."
+        },
+        {
+          "s": 14,
+          "t": "Although, if I may speak plainly, I must confess that I did not anticipate we would have the occasion to meet again after presenting you with the Gnosis."
+        },
+        {
+          "s": 14,
+          "t": "...I see you've brought {NICKNAME} and Paimon with you as well. If I may inquire as to the purpose of your visit..."
+        },
+        {
+          "s": 2,
+          "t": "I'll be departing Fontaine shortly. There is, however, an outstanding matter that I would like to see resolved before I go."
+        },
+        {
+          "s": 2,
+          "t": "It requires a rather lengthy explanation, I'm afraid. So, I took the liberty of explaining everything in this proposal. Please review it at your leisure, Monsieur Neuvillette."
+        },
+        {
+          "sit": "The Knave hands over the document and gracefully takes a sip of water from her cup."
+        },
+        {
+          "s": 14,
+          "t": "I understand your request. However, at the risk of causing offense, I must admit that I fail to see why you would wish for such a thing."
+        },
+        {
+          "s": 2,
+          "t": "I heard you have a certain fondness for water tasting, Monsieur Neuvillette, so allow me to use water as an analogy."
+        },
+        {
+          "s": 2,
+          "t": "A family is like a large body of water with countless rivers flowing in and out."
+        },
+        {
+          "s": 2,
+          "t": "As someone who watches over this system, I would hope that each river that flows from the source will eventually reach the ocean."
+        },
+        {
+          "s": 2,
+          "t": "Of course, objectively speaking, I know this is impossible. Most of the rivers will dry up along the way, disappearing into the ground and leaving nothing but a barren riverbed behind."
+        },
+        {
+          "s": 2,
+          "t": "Not all rivers are destined to reach the ocean, but I would not see their existence rendered meaningless. I believe the water that flows within them is simply meant for a different destination... like a field in need of irrigation... or, perhaps, the glass of a certain water-tasting enthusiast."
+        },
+        {
+          "s": 1,
+          "t": "Um... Did you get any of that, {NICKNAME}?"
+        },
+        {
+          "sit": "Not really..."
+        },
+        {
+          "sit": "Kind of..."
+        },
+        {
+          "s": 14,
+          "t": "Your words paint an optimistic picture indeed. Allow me to remind you, however, few among us are willing to sip from a glass filled with tainted water."
+        },
+        {
+          "s": 2,
+          "t": "It may have been tainted at one point in time, but not to worry — I'll make sure it's strained of all impurities and returned to its cleanest form."
+        },
+        {
+          "s": 14,
+          "t": "..."
+        },
+        {
+          "s": 14,
+          "t": "I seem to recall there being a \"transactional\" aspect to your proposal. Perhaps you could expound on that."
+        },
+        {
+          "s": 2,
+          "t": "If you accept my proposal, Monsieur Neuvillette, I will gradually withdraw my forces from Fontaine."
+        },
+        {
+          "s": 2,
+          "t": "And, unless absolutely necessary, I will no longer carry out any \"special missions\" within Fontaine."
+        },
+        {
+          "s": 14,
+          "t": "I presume I can take your words to mean that, in the future, cases similar to the Tartuffe assassination will cease to cross my desk?"
+        },
+        {
+          "s": 2,
+          "t": "Tartuffe? Ah, that thief who embezzled funds from all those charities, you mean? My deepest condolences to his family, but without any evidence, I cannot imagine how the House of the Hearth might have been involved in his passing."
+        },
+        {
+          "s": 2,
+          "t": "Of course, if you accept my proposal, Monsieur Neuvillette, I'm sure certain measures could be taken to reduce the frequency of such troubles."
+        },
+        {
+          "s": 14,
+          "t": "You choose your words carefully indeed. In that case, I am inclined to accept your proposal."
+        },
+        {
+          "s": 2,
+          "t": "My thanks for your generosity, Monsieur Neuvillette."
+        },
+        {
+          "s": 2,
+          "t": "Well, with that settled, we should be going now. I took the liberty of bringing along two bottles of spring water from Snezhnaya for you to enjoy. I do hope I get the chance to hear your impressions... perhaps at our next meeting, yes?"
+        },
+        {
+          "s": 14,
+          "t": "Indeed. I trust you would not overlook your commitment in the meantime."
+        },
+        {
+          "s": 2,
+          "t": "Alright, {NICKNAME}, Paimon, time to go."
+        },
+        {
+          "s": 3,
+          "t": "Kind of..."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 1,
+          "t": "So, uh... What exactly were you talking about back there?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon only heard you mention some rivers, a large body of water, and then... some kind of irrigation scheme?"
+        },
+        {
+          "s": 2,
+          "t": "You really want to know? I would imagine there might be more pressing concerns at the moment..."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Lyney... Paimon really hopes everything's going okay..."
+        },
+        {
+          "s": 1,
+          "t": "Oh! Paimon recognizes that look! You've got your thinking cap on, don't you {NICKNAME}?"
+        },
+        {
+          "s": 3,
+          "t": "(The Knave may seem relaxed, but she didn't seem to be joking earlier when she said those who betray the organization must pay with their lives. I think she's serious about punishing those kids.)"
+        },
+        {
+          "s": 3,
+          "t": "(How should we stop her? No, there's something else we should figure out first.)"
+        },
+        {
+          "s": 3,
+          "t": "(While we were talking in front of the Palais Mermonia, she mentioned Clervie's name. Does that mean she knew where Clervie was this entire time? Maybe she even anticipated how Lyney and the others were going to act...)"
+        },
+        {
+          "s": 15,
+          "t": "Ahhh!"
+        },
+        {
+          "s": 15,
+          "t": "Oof... Oh shoot, are you alright?"
+        },
+        {
+          "s": 15,
+          "t": "Aw geez, I'm so sorry. I was so focused on selling these papers, I wasn't looking where I was going."
+        },
+        {
+          "sit": "My bad."
+        },
+        {
+          "sit": "I also wasn't paying attention."
+        },
+        {
+          "s": 15,
+          "t": "Well, let me make it up to you at least. Here, take this paper — on the house."
+        },
+        {
+          "s": 3,
+          "t": "(He looks kind of familiar for some reason...)"
+        },
+        {
+          "s": 1,
+          "t": "Oh, you don't have to give us anything!"
+        },
+        {
+          "s": 15,
+          "t": "Please, I want to. It's not like I'm short on supply. All the extras will be useless come tomorrow, anyway."
+        },
+        {
+          "s": 15,
+          "t": "It's my fault, really. I was just trying to bring home some extra Mora for the family, but I bit off more than I can chew. I haven't had many takers today, so I'm still swimming in papers."
+        },
+        {
+          "s": 2,
+          "t": "What's going on here?"
+        },
+        {
+          "s": 15,
+          "t": "Nothing much... I just ran into your friend here on accident. I should probably get going, actually, so..."
+        },
+        {
+          "s": 2,
+          "t": "Hold on."
+        },
+        {
+          "s": 15,
+          "t": "Um... Of course, I'm happy to compensate you with Mora, it's just... I don't have any on me at the moment..."
+        },
+        {
+          "s": 2,
+          "t": "I'll take three papers. Here, your payment."
+        },
+        {
+          "s": 15,
+          "t": "Oh! Thank you for your patronage! May the Archons bless you with good fortune!"
+        },
+        {
+          "s": 15,
+          "t": "If only I had the chance to run into such generous customers every day... Haha, I should probably just take on a smaller inventory, though, right? I'm getting married soon, so sometimes it's hard not to get ahead of myself... Anyway, I should head out. Goodbye!"
+        },
+        {
+          "s": 2,
+          "t": "Well, now that my affairs are settled, we should take the boat back to Poisson. We've even acquired some light reading to enjoy along the way."
+        },
+        {
+          "s": 1,
+          "t": "Actually... Why don't we... stick around for a little longer?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon just realized how hungry she is! She can't head back to Poisson on an empty stomach!"
+        },
+        {
+          "s": 3,
+          "t": "(Looks like Paimon is trying to buy us more time. If we head back now, I doubt Lyney and the others will have made any progress. What should we do...)"
+        },
+        {
+          "s": 2,
+          "t": "It appears you two are under the impression that delaying our return will somehow alter the situation in your favor. I'm sorry to ruin your fantasy, but your efforts are meaningless."
+        },
+        {
+          "s": 2,
+          "t": "That being said, I could be persuaded to give Lyney some extra time... I just have one condition."
+        },
+        {
+          "s": 2,
+          "t": "If you agree to my request, I'll even answer some of your questions. You're quite curious about Clervie, are you not? And my relationship to her..."
+        },
+        {
+          "s": 1,
+          "t": "Wait, why are you being so generous all of a sudden? You're not gonna ask us to do something bad, are you?"
+        },
+        {
+          "s": 2,
+          "t": "You overestimate yourself. You don't have the talent for bad things."
+        },
+        {
+          "s": 1,
+          "t": "Ugh, then what could you possibly—"
+        },
+        {
+          "s": 2,
+          "t": "The most important consideration in a negotiation is that both sides receive something they want. Demands and threats only get you so far."
+        },
+        {
+          "s": 3,
+          "t": "Your condition... Let's hear it."
+        },
+        {
+          "s": 2,
+          "t": "Wonderful. Here it is..."
+        },
+        {
+          "s": 2,
+          "t": "When the time comes, make the choice that you deem most appropriate in the situation, and lend your help to the House of the Hearth."
+        },
+        {
+          "s": 1,
+          "t": "Okay... sounds normal enough... But, what do you mean \"when the time comes\"? When is that supposed to be?"
+        },
+        {
+          "s": 2,
+          "t": "That is for you to decide."
+        },
+        {
+          "s": 3,
+          "t": "We accept your condition."
+        },
+        {
+          "s": 2,
+          "t": "Then we have a deal. Follow me."
+        },
+        {
+          "s": 3,
+          "t": "I also wasn't paying attention."
+        },
+        {
+          "section": "Neuvillette"
+        },
+        {
+          "s": 14,
+          "t": "I believe I've told you before that my emotions easily resonate with those of others."
+        },
+        {
+          "s": 14,
+          "t": "Yet, in the few meetings I've had with that Harbinger, I haven't been able to sense any aspect of her emotional state. Her mind is like a still body of water — who knows what darkness lies in its depths, and the lack of ripples on the surface gives nothing away."
+        },
+        {
+          "s": 14,
+          "t": "It's unclear whether this is her natural state of being, or whether it's an incredible strength of will that gives her the ability to master her emotions. Either scenario, however, suggests she is a very dangerous individual."
+        },
+        {
+          "s": 14,
+          "t": "I do not expect an explanation as to why you two are by her side. Whatever your reasoning, I would only advise you to take caution."
+        }
+      ],
+      "description": "After hearing some “secrets” of the House of the Hearth from Clervie, the conflicts between the children have begun to surface…"
+    },
+    {
+      "title": "Into the Sunlight",
+      "dialogue": [
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 1,
+          "t": "What is this place?"
+        },
+        {
+          "s": 2,
+          "t": "Somewhere long forgotten by everyone. It used to be a grand building. Now, it's nothing more than a pile of rubble."
+        },
+        {
+          "s": 2,
+          "t": "No one comes here anymore, nor does anyone care about what once happened here. Although, this place does have something to do with the story I'm about to tell you."
+        },
+        {
+          "s": 2,
+          "t": "It was before I became a Harbinger, and before Lyney and the others joined the House of the Hearth. Due to certain events, I first killed Clervie, and then her mother... and this is where it all happened."
+        },
+        {
+          "s": 1,
+          "t": "You were the one that killed Clervie!?"
+        },
+        {
+          "s": 3,
+          "t": "Why?"
+        },
+        {
+          "s": 2,
+          "t": "Patience, now. Allow me to explain Clervie's side of the story first. I'll start from the beginning."
+        },
+        {
+          "s": 2,
+          "t": "Clervie was six years old when she was brought by her mother, Crucabena, to live in the House of the Hearth. From the outside, it seemed like a fairytale — a thriving family made up of kind adults and friendly children."
+        },
+        {
+          "s": 2,
+          "t": "Crucabena was The Knave at that time, and the House of the Hearth was under her control. She was Clervie's mother by blood, but she was also the \"Mother\" to all the children in the House."
+        },
+        {
+          "s": 2,
+          "t": "Clervie was happy here... for a time. But, she quickly realized that being part of this \"family\"... wasn't a fairytale at all. It was a kind of purgatory."
+        },
+        {
+          "s": 1,
+          "t": "Purgatory?"
+        },
+        {
+          "s": 2,
+          "t": "Exactly. The House of the Hearth takes in war orphans from all over Teyvat, but as for how to raise them... That depends entirely on the person in charge."
+        },
+        {
+          "s": 2,
+          "t": "Crucabena came up with a novel idea. She would teach the children to fight, force them to duel each other, and then crown, as the \"king\" of the House, the child who proved themselves most worthy of inheriting her title."
+        },
+        {
+          "s": 2,
+          "t": "It's difficult to estimate the number of children who died or were maimed in the process. There's little I can say about the ones who died. The ones that emerged with permanent injuries, on the other hand... Well, they still served a purpose."
+        },
+        {
+          "s": 2,
+          "t": "They would be handed over to The Doctor to be experimented on, or sent away on dangerous missions... nothing more than tools to be used and then discarded."
+        },
+        {
+          "s": 1,
+          "t": "So those were the experiments Clervie was talking about... But what actually happened to her?"
+        },
+        {
+          "s": 1,
+          "t": "You said that Clervie was Crucabena's daughter, so if Clervie tried to convince her to stop what she was doing, Crucabena probably would've listened... right?"
+        },
+        {
+          "s": 2,
+          "t": "Despite being Clervie's mother, Crucabena cared little for her daughter. She forced Clervie to join the House of the Hearth only as a means to demonstrate her own impartiality as a \"Mother\" — to prove that she treated all her children equally."
+        },
+        {
+          "s": 2,
+          "t": "Clervie did try to convince her mother to change her ways, but it was to no avail. After her efforts failed, the only other option was to rise up and try to fight back. Unfortunately, the other children had already been thoroughly indoctrinated into the illusion of happiness Crucabena had created."
+        },
+        {
+          "s": 2,
+          "t": "Of course, there was one exception... someone Clervie's age who knew the truth about the House of the Hearth. Her name was Peruere."
+        },
+        {
+          "s": 3,
+          "t": "\"Perrie\"?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, the friend that Clervie mentioned?"
+        },
+        {
+          "s": 2,
+          "t": "\"Friend,\" huh... I suppose we can call her that for now."
+        },
+        {
+          "s": 2,
+          "t": "Clervie was a cheerful and passionate person with a tenacious spirit. Peruere, on the other hand, was rather cold-blooded."
+        },
+        {
+          "s": 2,
+          "t": "Her cold-blooded nature allowed her to see through Crucabena's facade. Yet, it was also this cold-bloodedness that prevented her from acting against it... at least at first. While Clervie longed for freedom, Peruere was convinced that, amid all the fighting and violence, she would make it until the end."
+        },
+        {
+          "s": 2,
+          "t": "Despite their differences, the two became fast friends — united by their knowledge of the truth. Clervie told Peruere that she hoped to create a real family where no one would be killed or sacrificed."
+        },
+        {
+          "s": 2,
+          "t": "There may have been a certain naivete to her ideas, but Clervie proved her determination many times over. She tried countless times to run away, ask for help, or expose the truth, but her efforts only earned her beating after beating. The only thing that kept her going was her strength of will."
+        },
+        {
+          "s": 2,
+          "t": "Even with her body wracked with pain, she would still stand on her tip-toes and open the window at night. She and Peruere would look out at the moon together, a fierce longing for freedom shining in her eyes... But, one day, that light... simply vanished."
+        },
+        {
+          "s": 1,
+          "t": "Oh no... What happened?"
+        },
+        {
+          "s": 2,
+          "t": "Her hopelessness resulted from a culmination of things. Ten years had passed — ten years' worth of failure after failure. She and Peruere weren't children anymore, but finding any chance to escape still seemed as hopeless as ever."
+        },
+        {
+          "s": 2,
+          "t": "It was during this time that Peruere suggested a new plan... If escaping was out of the question, why not take down the very person sitting on top of this throne of lies — \"Mother\" herself."
+        },
+        {
+          "s": 2,
+          "t": "Clervie rejected that proposal. She claimed that, as a famous Harbinger, Crucabena possessed an unimaginable amount of power. Trying to kill her would have an incredibly low chance of success."
+        },
+        {
+          "s": 2,
+          "t": "Clervie never gave another reason, but Peruere could see it written all over her face. Clervie still thought of Crucabena as her mother. Killing her own flesh and blood was a line she couldn't bring herself to cross."
+        },
+        {
+          "s": 2,
+          "t": "If she couldn't escape and fight back... Then only one option remained."
+        },
+        {
+          "s": 3,
+          "t": "Death..."
+        },
+        {
+          "s": 2,
+          "t": "Precisely. Death was the only way that she felt she could be free."
+        },
+        {
+          "s": 2,
+          "t": "It happened during a duel. When she arrived at the dueling ring that day, her partner turned out to be none other than Peruere, the very person that had stood by her side all those years. It was a fierce battle, but, ultimately, Clervie decided to let Peruere end her life."
+        },
+        {
+          "s": 2,
+          "t": "From that moment on, Peruere's journey was one written in flames. When the rain finally came and washed it all away, there she stood — the sole victor in \"Mother's\" endless game of slaughter, a trail of corpses strewn across her path to success."
+        },
+        {
+          "s": 2,
+          "t": "It was the very result she had predicted ten years prior. Even then, she believed she would make it until the end. She wasn't surprised by the fact that she emerged as \"Mother's\" undisputed heir. Rather, her success left her with an inexplicable sense of restlessness."
+        },
+        {
+          "s": 2,
+          "t": "She was unsettled, and there was only one thing that could quell that sensation... Perhaps you two would like to take a guess as to what it was?"
+        },
+        {
+          "s": 3,
+          "t": "Killing the person at the very top?"
+        },
+        {
+          "s": 1,
+          "t": "Crucabena, you mean? But, but..."
+        },
+        {
+          "s": 2,
+          "t": "Correct. This is the place where Peruere killed her best friend. A mere year later, this is also the place where she fought tooth and nail to kill the \"Mother\" they shared."
+        },
+        {
+          "s": 2,
+          "t": "The moment she acted, any conception of what was right or wrong ceased to matter. It's one of the principles of the House — only those who survive get to write the rules."
+        },
+        {
+          "s": 2,
+          "t": "Peruere won the battle and became a Harbinger herself, after which Her Majesty the Tsaritsa bestowed upon her a new name... Arlecchino."
+        },
+        {
+          "s": 1,
+          "t": "So, the \"Perrie\" Clervie was talking about... It was you all along. You're Peruere! Arlecchino is just a name you got later!"
+        },
+        {
+          "s": 3,
+          "t": "This was your story just as much as Clervie's..."
+        },
+        {
+          "s": 2,
+          "t": "I left that name behind long ago. I must say, hearing it now... does bring back memories."
+        },
+        {
+          "s": 2,
+          "t": "After I defeated Crucabena, the moniker of \"Mother\" died with her. I chose to forgo the title she called herself and even chose to give up my own name. I rebuilt the House of the Hearth under a new identity... not only as Arlecchino, but as \"Father.\""
+        },
+        {
+          "s": 2,
+          "t": "And that is where the story ends. Any more questions?"
+        },
+        {
+          "s": 3,
+          "t": "The Clervie we met, though... Who is she exactly?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, based on what you just told us, Clervie wasn't a little kid when she was killed. So the Clervie we met... Was she really a spirit at all?"
+        },
+        {
+          "s": 2,
+          "t": "I suppose you could call her an illusion born of flame... Her existence is like ashes to a fire — something leftover in the wake of blaze and ruin."
+        },
+        {
+          "s": 2,
+          "t": "You see, a certain power runs through my veins. It's not unlike a curse. My flames leave behind shadows of anything they consume."
+        },
+        {
+          "s": 2,
+          "t": "Of course, the chances of those shadows morphing into a sentient entity are exceedingly slim. Clervie is a very special case."
+        },
+        {
+          "s": 2,
+          "t": "Clervie died when she was sixteen years old, but what emerged from the flames was her six-year-old self. Her appearance wasn't the only thing affected. Most of her memories were lost to the blaze as well."
+        },
+        {
+          "s": 2,
+          "t": "Memory is a mysterious thing indeed. Losing a portion of your memories will alter your sense of self. Lose ten years' worth, however, and it would be like living in the past, like returning to a version of yourself that never grew up."
+        },
+        {
+          "s": 1,
+          "t": "No wonder Paimon got such a weird feeling when we were talking to her..."
+        },
+        {
+          "s": 2,
+          "t": "Perhaps I should put it this way... Clervie is someone trapped in time. It may seem like she exists with us in the present, but she truly lives in the confines of her own past."
+        },
+        {
+          "s": 1,
+          "t": "So, if all of that is true, then you must've known about Clervie for a long time!"
+        },
+        {
+          "s": 2,
+          "t": "Indeed. She's a rather volatile and unstable entity. Sometimes, she would look after the children. She's even saved some of their lives."
+        },
+        {
+          "s": 2,
+          "t": "But, other times, she would hide from me and become obsessed with revealing the \"truth\" about the House to anyone who will listen."
+        },
+        {
+          "s": 2,
+          "t": "Shadows don't have the capacity to learn or grow. Any new information they encounter is quickly forgotten over time."
+        },
+        {
+          "s": 2,
+          "t": "Your attempts to expose Clervie to sunlight... They failed, yes? The reason is actually quite simple. In Clervie's mind, the House is impossible to escape, and it is this very perception that traps her there."
+        },
+        {
+          "s": 2,
+          "t": "But, no matter. All I have to do is kill her again and all will be resolved. I don't anticipate so much as a single speck of ash will be left behind this time."
+        },
+        {
+          "s": 1,
+          "t": "Wait!"
+        },
+        {
+          "s": 1,
+          "t": "Paimon can understand why you might want her gone... But isn't there any other way?"
+        },
+        {
+          "s": 1,
+          "t": "So what if she's trapped in her six-year-old self! She's still your friend! At least talk to her first!"
+        },
+        {
+          "s": 2,
+          "t": "It's too late for that. She broke the rules, and now she must be punished. That goes for Filliol and Nanteuil as well. She's had quite the effect on them..."
+        },
+        {
+          "s": 2,
+          "t": "I hope you understand, the difference between Crucabena and myself lies in our formulation of the rules, not our policy for enforcing them. Upholding the rules without question is a trait we both share, because that is how a household should be run."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Is this really what you want to do?"
+        },
+        {
+          "s": 2,
+          "t": "Whatever could you mean?"
+        },
+        {
+          "s": 3,
+          "t": "Don't you... want to say a proper goodbye at least?"
+        },
+        {
+          "s": 2,
+          "t": "Whether as a \"killer\" or as a \"Father,\" there are two things that must be avoided at all costs — anger and sorrow."
+        },
+        {
+          "s": 2,
+          "t": "Anger makes you impulsive. Sorrow causes you to waver."
+        },
+        {
+          "s": 2,
+          "t": "Well, it appears it's about time to proceed. Before we arrived, I told some of my well-behaved children to bring our troublemakers here by nightfall."
+        },
+        {
+          "s": 2,
+          "t": "I do believe I've kept my end of the deal. I gave your friends quite a bit more time. As for what happens now, we'll just have to wait and see."
+        },
+        {
+          "s": 4,
+          "t": "Here they are, \"Father.\""
+        },
+        {
+          "s": 5,
+          "t": "You gonna execute 'em? Seeing something like that would actually be a first for me."
+        },
+        {
+          "s": 1,
+          "t": "Lyney!"
+        },
+        {
+          "s": 3,
+          "t": "Clervie..."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry. I heard about how you helped buy us more time..."
+        },
+        {
+          "s": 0,
+          "t": "But, I still failed. I couldn't find a way to fulfill her wish."
+        },
+        {
+          "s": 11,
+          "t": "Huh..."
+        },
+        {
+          "s": 11,
+          "t": "Are you... Perrie?"
+        },
+        {
+          "s": 2,
+          "t": "Indeed. It's been a while, Clervie."
+        },
+        {
+          "s": 11,
+          "t": "Perrie!"
+        },
+        {
+          "s": 2,
+          "t": "Shh... Stay right there. I'm sorry to postpone our reunion, but first, I believe certain scores need settling."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 0,
+          "t": "\"Father,\" let me explain..."
+        },
+        {
+          "s": 2,
+          "t": "Out of my way."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\"..."
+        },
+        {
+          "s": 2,
+          "t": "You chose to conceal a threat to the House, and for that, you must be punished."
+        },
+        {
+          "s": 2,
+          "t": "Overall, however, I suppose your wrongdoing is hardly the most egregious of the bunch, so I'll deal with your punishments later. As for right now, the more pressing concerns are the traitors among us."
+        },
+        {
+          "s": 8,
+          "t": "By traitors... do you mean us?"
+        },
+        {
+          "s": 9,
+          "t": "\"Father,\" let me explain. We didn't mean to—"
+        },
+        {
+          "s": 2,
+          "t": "Foltz, why don't you share what you heard."
+        },
+        {
+          "s": 5,
+          "t": "Yes, \"Father.\""
+        },
+        {
+          "s": 5,
+          "t": "Secret midnight meeting number 3. Participants: Filliol, Nanteuil, Sotto, Tadie..."
+        },
+        {
+          "s": 5,
+          "t": "Nanteuil clearly said, \"If only 'Father' wasn't the one who took us in.\""
+        },
+        {
+          "s": 5,
+          "t": "Sotto added, \"I'm sick of this life. I just want to live as a normal person.\""
+        },
+        {
+          "s": 5,
+          "t": "Filliol was the worst of them all. She called us crazies and said a bunch of mean things about \"Father\"..."
+        },
+        {
+          "s": 8,
+          "t": "I did not!"
+        },
+        {
+          "s": 8,
+          "t": "You're... You're lying! Foltz is trying to frame us!"
+        },
+        {
+          "s": 5,
+          "t": "It's not like I'm the only one who heard those things. After that, you and Tadie and a bunch of other people started talking about Clervie. You were using all those things Clervie brought up as an excuse to question \"Father.\""
+        },
+        {
+          "s": 5,
+          "t": "\"We're birds locked in a cage. The only way out is to destroy it.\" That's what you said, wasn't it?"
+        },
+        {
+          "s": 8,
+          "t": "You little... You just want me gone, don't you! What did I ever do to you, huh!?"
+        },
+        {
+          "s": 8,
+          "t": "And you, Chapleau... Have you forgotten who stood by your sickbed, watched over you, and changed your dressings? C'mon, let's hear it, then — what's your reason for all this?"
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 5,
+          "t": "You're wrong, Filliol."
+        },
+        {
+          "s": 5,
+          "t": "We don't want you to die. You're our family."
+        },
+        {
+          "s": 8,
+          "t": "Liar. You wouldn't be doing this if that were the case. So, why? Why have you backed us into a corner?"
+        },
+        {
+          "s": 5,
+          "t": "We all live in the House of the Hearth. You know the type of work we do, Filliol."
+        },
+        {
+          "s": 5,
+          "t": "A single betrayal can cost dozens of us our lives. It's not like it's never happened before. That kind of thing is hard to forget."
+        },
+        {
+          "s": 5,
+          "t": "That's why the House of the Hearth cannot tolerate any form of betrayal. Ever since we came to Poisson, you've had seven secret meetings. A lot of the things you talked about really crossed the line."
+        },
+        {
+          "s": 8,
+          "t": "You've been spying on us for half a month? Wait a second, now that I think about it... The move to Poisson was just a way to make it easier to spy on us, wasn't it? 'Cause we were all in one place! You've had this planned all along..."
+        },
+        {
+          "s": 4,
+          "t": "Filliol, Nanteuil, I'm sorry..."
+        },
+        {
+          "s": 4,
+          "t": "I owe you both my life. I owe Clervie too. If it weren't for all your help after I got poisoned, I wouldn't be standing here today."
+        },
+        {
+          "s": 4,
+          "t": "If this were any other situation, I would do anything to repay that kindness, even if it cost me my life. But, rules are rules. I'm sorry, my hands are tied."
+        },
+        {
+          "s": 8,
+          "t": "Why... *sobbing*... Why..."
+        },
+        {
+          "s": 9,
+          "t": "That's enough, Filliol. We made a mistake, and we should own up to it. We broke the rules — plain and simple, and now we have to face the consequences."
+        },
+        {
+          "s": 9,
+          "t": "I'm sorry, Chapleau, Foltz. I'm sorry, \"Father.\""
+        },
+        {
+          "s": 9,
+          "t": "We... accept our punishment."
+        },
+        {
+          "s": 2,
+          "t": "Chapleau, according to the rules of the House of the Hearth, how should these traitors be punished?"
+        },
+        {
+          "s": 4,
+          "t": "All those who betray the House pay with their lives."
+        },
+        {
+          "s": 2,
+          "t": "And so it shall be."
+        },
+        {
+          "s": 8,
+          "t": "*sobbing*..."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\"! Please wait!"
+        },
+        {
+          "s": 2,
+          "t": "Something you want to say, Lyney?"
+        },
+        {
+          "s": 0,
+          "t": "...Please reconsider, \"Father.\" What Filliol and the others did... Does it really count as betrayal?"
+        },
+        {
+          "s": 0,
+          "t": "We all come from broken families. From the very first day we joined the House of the Hearth, we wanted nothing more than to make it a real home."
+        },
+        {
+          "s": 0,
+          "t": "But the truth is... none of us know what a real home should look like."
+        },
+        {
+          "s": 0,
+          "t": "I'm not saying I have all the answers. All I know is this — killing Filliol and the others may uphold the rules, but doing so will only bring us further away from being a real family than we've ever been."
+        },
+        {
+          "s": 0,
+          "t": "So, please, \"Father\"... Please reconsider!"
+        },
+        {
+          "s": 12,
+          "t": "I agree with Lyney."
+        },
+        {
+          "s": 10,
+          "t": "\"Father,\" please..."
+        },
+        {
+          "s": 9,
+          "t": "Lyney, you..."
+        },
+        {
+          "s": 4,
+          "t": "I also agree with Lyney."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "An order, once given, cannot be rescinded."
+        },
+        {
+          "s": 2,
+          "t": "However, given the extent of your determination, I suppose we shall have to go about this a different way... Draw your weapons, and face me."
+        },
+        {
+          "s": 0,
+          "t": "Our weapons...?"
+        },
+        {
+          "s": 12,
+          "t": "\"Father,\" are you referring to a duel?"
+        },
+        {
+          "s": 2,
+          "t": "Precisely. The rules of the House will not be altered. Traitors must be punished."
+        },
+        {
+          "s": 2,
+          "t": "However, resolving disputes with a duel is also one of our rules, one that also applies to me. Demonstrate a sufficient showing of strength, and I shall offer a concession."
+        },
+        {
+          "s": 10,
+          "t": "Wait... Beat... \"Father\" in a duel...?"
+        },
+        {
+          "s": 5,
+          "t": "Impossible. \"Father\" is way too strong, even for Lyney."
+        },
+        {
+          "s": 1,
+          "t": "Did you hear that, {NICKNAME}?"
+        },
+        {
+          "s": 1,
+          "t": "Lyney and the others have to duel The Knave! What should we do? Can they really win something like that?"
+        },
+        {
+          "s": 1,
+          "t": "If they lose, those people from the House are really gonna be executed... Hey, are you listening?"
+        },
+        {
+          "s": 3,
+          "t": "(Is executing them really what she wants?)"
+        },
+        {
+          "s": 3,
+          "t": "Don't you... want to say a proper goodbye at least?"
+        },
+        {
+          "s": 2,
+          "t": "Anger makes you impulsive. Sorrow causes you to waver."
+        },
+        {
+          "s": 3,
+          "t": "(Back then, she never actually answered my question.)"
+        },
+        {
+          "s": 3,
+          "t": "(But that makes the answer pretty obvious, doesn't it?)"
+        },
+        {
+          "s": 1,
+          "t": "Looking at that expression on her face, she seems really serious about this. Guess that means there's no chance she's throwing the duel on purpose, huh..."
+        },
+        {
+          "s": 3,
+          "t": "(There's no way The Knave will lose on purpose. Although...)"
+        },
+        {
+          "s": 0,
+          "t": "When guests are around, families are often on their best behavior... and any disputes are less likely to escalate..."
+        },
+        {
+          "s": 2,
+          "t": "When the time comes, make the choice that you deem most appropriate in the situation, and lend your help to the House of the Hearth."
+        },
+        {
+          "s": 1,
+          "t": "What's wrong, {NICKNAME}? Hey, where are you going—"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}?"
+        },
+        {
+          "s": 3,
+          "t": "I'd like to see for myself what the Fourth of the Fatui Harbingers can do."
+        },
+        {
+          "s": 1,
+          "t": "You're asking to join the duel against The Knave!?"
+        },
+        {
+          "s": 3,
+          "t": "If that's okay."
+        },
+        {
+          "s": 2,
+          "t": "I'll allow it. We do have a ready-made dueling ring at our disposal, after all."
+        },
+        {
+          "s": 2,
+          "t": "All I would advise is this — keep a firm grasp on your weapon, and give it your all. Any less, and you may just lose your life."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 2,
+          "t": "（test）播放cs"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "Clervie"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "You've worked tirelessly from the shadows to overthrow the House of the Hearth"
+        },
+        {
+          "s": 2,
+          "t": "Now"
+        },
+        {
+          "s": 2,
+          "t": "By my authority as The Knave, I shall announce how this matter ends"
+        },
+        {
+          "s": 2,
+          "t": "You are hereby expelled from the House of the Hearth"
+        },
+        {
+          "s": 2,
+          "t": "You are no longer tied to this place, nor are you bound by its rules"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 11,
+          "t": "You're saying that I can finally leave?"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 11,
+          "t": "I... get to experience the outside world as well?"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 2,
+          "t": "n/a"
+        },
+        {
+          "s": 11,
+          "t": "Oh... I almost forgot..."
+        },
+        {
+          "s": 11,
+          "t": "There's no getting older for me..."
+        },
+        {
+          "s": 11,
+          "t": "Still, seeing who you grew up to be..."
+        },
+        {
+          "s": 11,
+          "t": "Makes me really happy, Peruere"
+        },
+        {
+          "s": 11,
+          "t": "Take care of yourself"
+        },
+        {
+          "s": 11,
+          "t": "Goodbye!"
+        },
+        {
+          "s": 2,
+          "t": "May we meet again someday"
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 2,
+          "t": "I believe we can end things here. It's not often that we get to enjoy the company of guests, after all. We wouldn't want things to get too out of hand."
+        },
+        {
+          "s": 0,
+          "t": "*coughing*"
+        },
+        {
+          "s": 12,
+          "t": "Brother, are you alright?"
+        },
+        {
+          "s": 10,
+          "t": "Lyney..."
+        },
+        {
+          "s": 2,
+          "t": "Given that I am the victor of this duel... As agreed, the punishment stands."
+        },
+        {
+          "s": 8,
+          "t": "No..."
+        },
+        {
+          "s": 9,
+          "t": "I never thought things would end like this..."
+        },
+        {
+          "s": 2,
+          "t": "However, everyone involved in the duel demonstrated a remarkable level of strength and determination. In light of this, I'm prepared to change the method of execution."
+        },
+        {
+          "s": 2,
+          "t": "Heloir, the bottled flames I gave you for safekeeping... Do you still have them?"
+        },
+        {
+          "s": 6,
+          "t": "Y—Yes! I wasn't sure what they were for, but I've kept them super safe! I didn't lose a single one!"
+        },
+        {
+          "s": 2,
+          "t": "Wonderful. Then, in just a moment, I'll have you administer them."
+        },
+        {
+          "s": 9,
+          "t": "Bottled flames...?"
+        },
+        {
+          "s": 2,
+          "t": "Indeed. They're the product of a secret experiment. Under certain special circumstances, flames can be extracted from my person and preserved."
+        },
+        {
+          "s": 2,
+          "t": "Once ingested, searing pain will spread across every inch of your body. No harm will come to you physically, but your memories will be burned away."
+        },
+        {
+          "s": 2,
+          "t": "If you can withstand the pain... When you awake, you'll have forgotten everything you know about the House of the Hearth, and will be expelled from the organization."
+        },
+        {
+          "s": 2,
+          "t": "In other words, administering this concoction will \"kill\" the version of you that grew up in the House, and give you a new identity."
+        },
+        {
+          "s": 3,
+          "t": "(So that means... The young man that I thought looked familiar, the one selling newspapers outside the Palais Mermonia... He must have been the same Horrer we saw on the list of executions. He wasn't killed at all...)"
+        },
+        {
+          "s": 2,
+          "t": "Memory is a mysterious thing indeed. Losing a portion of your memories will alter your sense of self..."
+        },
+        {
+          "s": 3,
+          "t": "(No, if my understanding of The Knave is right, she really thinks of that as \"killing\" him. The Horrer that lived in the House of the Hearth is dead. The one that remains is simply a normal person living out his life with his beloved.)"
+        },
+        {
+          "s": 3,
+          "t": "(Even so, it's much better than actually ending their lives.)"
+        },
+        {
+          "s": 8,
+          "t": "So, you're just... letting us go, \"Father\"?"
+        },
+        {
+          "s": 2,
+          "t": "You misunderstand. Memories are extremely important. Once consumed by flame, the version of you standing before me will die, and our secrets will die with you. So, no, I don't intend to just \"let you go,\" because the person who survives will be nothing but a stranger."
+        },
+        {
+          "s": 8,
+          "t": "Even so... Even so... *sobbing*... I won't have to live in fear anymore..."
+        },
+        {
+          "s": 8,
+          "t": "I'm sorry, \"Father.\" I'm sorry I let you down. But I... I really..."
+        },
+        {
+          "s": 2,
+          "t": "Don't cry, Filliol."
+        },
+        {
+          "s": 2,
+          "t": "You haven't left the House yet, so there are still rules to be followed, yes? Remember what I taught you — anger makes you impulsive, sorrow causes you to waver. Don't let yourself be controlled by your emotions."
+        },
+        {
+          "s": 8,
+          "t": "Of course... I'll remember."
+        },
+        {
+          "s": 2,
+          "t": "Dry your tears and go pursue the life you really want."
+        },
+        {
+          "s": 7,
+          "t": "Yes, \"Father\"!"
+        },
+        {
+          "s": 2,
+          "t": "Chapleau, Foltz, Heloir... Take them back to Poisson. And bring Lyney and the others as well."
+        },
+        {
+          "s": 2,
+          "t": "I prepared three extra vials of bottled flames. As for whether to take them, the choice is yours."
+        },
+        {
+          "s": 2,
+          "t": "Goodbye, children. The next time we meet, I will no longer be your \"Father.\""
+        },
+        {
+          "s": 2,
+          "t": "Thank you for all you've done for the House. I hope you have bright futures ahead of you."
+        },
+        {
+          "s": 8,
+          "t": "\"Father\"...!"
+        },
+        {
+          "s": 4,
+          "t": "Let's go."
+        },
+        {
+          "s": 5,
+          "t": "Here, grab my arm, Lyney. I'll help you walk back."
+        },
+        {
+          "s": 0,
+          "t": "...Thank you."
+        },
+        {
+          "s": 2,
+          "t": "Clervie."
+        },
+        {
+          "s": 11,
+          "t": "Can we talk now? I've been waiting for a super long time."
+        },
+        {
+          "s": 11,
+          "t": "You really are Perrie, aren't you? I haven't seen you in so long. How come you're all grown up?"
+        },
+        {
+          "s": 11,
+          "t": "Wait, did I somehow travel to the future on accident? Or, am I dreaming? Huh, what a long dream—"
+        },
+        {
+          "s": 2,
+          "t": "Neither... You died, Clervie. That's what happened."
+        },
+        {
+          "s": 1,
+          "t": "You could've at least sugarcoated it a little! Look! She's stunned speechless!"
+        },
+        {
+          "sit": "(If this really is Clervie's younger self...)"
+        },
+        {
+          "sit": "(Then I would say she's probably had enough lies.)"
+        },
+        {
+          "s": 11,
+          "t": "Oh... Okay then."
+        },
+        {
+          "s": 1,
+          "t": "Huh? That's it? You accepted it just like that?"
+        },
+        {
+          "s": 11,
+          "t": "Yep. If that's what Perrie says happened, then I believe her. Perrie wouldn't lie to me."
+        },
+        {
+          "s": 11,
+          "t": "Plus, I don't really need to know why I'm like this. I'm more curious about what happens in the future. If you're a Harbinger now, Perrie, that means Mother is gone, isn't she?"
+        },
+        {
+          "s": 11,
+          "t": "Can you tell me about it? I wanna know what happened to her... and to me."
+        },
+        {
+          "s": 2,
+          "t": "You never stopped trying to defy fate."
+        },
+        {
+          "s": 2,
+          "t": "At first, no one believed you. You could only vent your frustrations to the moon. In fact, you often sought comfort in the night sky. You wanted to see the aurora, so one night, we promised each other we would go to Snezhnaya to see it together."
+        },
+        {
+          "s": 2,
+          "t": "Later on, you tried to run away, but you were brought back each time. \"Mother\" spared your life, but it wasn't out of kindness. Instead, she decided to make an example of you by slowly torturing you over time. That way, the other children would know what happens to traitors."
+        },
+        {
+          "s": 2,
+          "t": "Still, you never gave up. \"Mother\" hoped that, through ruthless duel after ruthless duel, she would be able to crown an ultimate victor among the children she raised."
+        },
+        {
+          "s": 2,
+          "t": "But you called on everyone to unite, to fight to a draw in order to reduce casualties. Your efforts may have only delayed the inevitable, but still... you gave them hope."
+        },
+        {
+          "s": 2,
+          "t": "You tried everything you could think of, but every attempt ended in failure. Still, you never turned your sword on Crucabena, and you never turned it on me. On that gloomy day, you told me—"
+        },
+        {
+          "s": 2,
+          "t": "\"For the last sixteen years of my life, I've done everything I can to fight for freedom. But now, I realize that the only freedom I truly possess is the freedom to choose to die.\""
+        },
+        {
+          "s": 11,
+          "t": "I never imagined I would say something like that. I must've been feeling really worn down."
+        },
+        {
+          "s": 11,
+          "t": "But, somehow, I still think I understand. According to Mother's plan, only one of us was going to make it until the end... And I always hoped that person would be you."
+        },
+        {
+          "s": 11,
+          "t": "If I could do it all over again, I still don't think I would make a different choice. Even when I first met you, I knew you'd be able to do what I couldn't."
+        },
+        {
+          "s": 2,
+          "t": "Is that so? Even now, I'm not sure I truly understand what kind of freedom you were trying to pursue."
+        },
+        {
+          "s": 2,
+          "t": "But, as the head of the House of the Hearth and as the children's \"Father,\" I've tried to give them the most basic of freedoms — the freedom to choose their own fate."
+        },
+        {
+          "s": 2,
+          "t": "It's something I discussed with the Iudex of Fontaine. The children who want to leave the House will have their memories wiped clean of all secrets pertaining to the organization. In return, they will be allowed to live a normal life in Fontaine without being prosecuted for their past."
+        },
+        {
+          "s": 2,
+          "t": "Of course, I won't simply hand freedom to them on a silver platter. They have to fight for it and prove themselves worthy of it. Only freedom that is earned has true value."
+        },
+        {
+          "s": 11,
+          "t": "That's more than enough. That's exactly the kind of life I was fighting for."
+        },
+        {
+          "s": 11,
+          "t": "Y'know, Perrie... I think you're a pretty amazing \"king\" and a really great \"Father\" too."
+        },
+        {
+          "s": 11,
+          "t": "I'm really happy that you're the one who took over the House. I guess I do have one regret, though. I still haven't seen the outside world!"
+        },
+        {
+          "s": 2,
+          "t": "...Well, it just so happens that our dear guests over here have been to many nations and traveled to countless places. Perhaps they would be willing to tell you what the outside world is like."
+        },
+        {
+          "s": 11,
+          "t": "Really?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! We've traveled all over the place! We've got so many stories, we could probably talk your ears off for three days straight!"
+        },
+        {
+          "s": 3,
+          "t": "(Then I would say she's probably had enough lies.)"
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 3,
+          "t": "Talk about land of Anemo, nation of freedom."
+        },
+        {
+          "s": 11,
+          "t": "Y'know, I used to dream of being a bard."
+        },
+        {
+          "s": 11,
+          "t": "Playing the lute while singing into the winds of freedom... Even if there was no one there to listen, I would've continued to sing no matter what."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 3,
+          "t": "Talk about the land of Geo, nation of contracts."
+        },
+        {
+          "s": 11,
+          "t": "Ahh, that's where Mora comes from. I never knew that before."
+        },
+        {
+          "s": 11,
+          "t": "If I had some Mora, I would buy three new dresses. One for me, one for Perrie, and one for Mother."
+        },
+        {
+          "s": 11,
+          "t": "It's just too bad Perrie doesn't like wearing dresses. And Mother... Well, she probably wouldn't accept something like that, either. I guess I'd just have to keep them all for me, then! I could wear a different one every day!"
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 3,
+          "t": "Talk about the land of Electro, nation of eternity."
+        },
+        {
+          "s": 11,
+          "t": "Those youkai you mentioned... What do they look like?"
+        },
+        {
+          "s": 11,
+          "t": "I once saw a drawing of this one guy with horns on his head and a super scary face. Are there any youkai like that?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, sounds like you're talking about an oni. Yep, we've met one, and let Paimon tell you... They're not nearly as scary as they look."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 3,
+          "t": "Talk about the land of Dendro, nation of wisdom."
+        },
+        {
+          "s": 11,
+          "t": "I was always too afraid to skip Mother's fighting lessons."
+        },
+        {
+          "s": 11,
+          "t": "But, at the Akademiya, I bet you could do all sorts of secret things in class — things that have nothing to do with studying!"
+        },
+        {
+          "s": 11,
+          "t": "Hehe, I'm just kidding. Being able to study whatever you want without having to fear for your life... actually sounds pretty great."
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 3,
+          "t": "Talk about the land of Hydro, nation of justice."
+        },
+        {
+          "sit": "You tell Clervie all about the various nations you've visited. Eventually, the conversation returns to Fontaine — the nation she once called home."
+        },
+        {
+          "s": 1,
+          "t": "The situation was super dangerous! Lyney and Lynette were accused of committing a crime, and they were going to have to stand trial at the Opera Epiclese!"
+        },
+        {
+          "s": 11,
+          "t": "Oh no! That must have been hard for all of you. What happened next?"
+        },
+        {
+          "s": 1,
+          "t": "Don't worry. We were able to turn the situation around super quickly. All thanks to Detective Paimon, of course."
+        },
+        {
+          "s": 11,
+          "t": "How'd you do that? C'mon, tell me!"
+        },
+        {
+          "s": 1,
+          "t": "*ahem* Okay, so it was like this... After the failed magic show, we rushed to the scene, and..."
+        },
+        {
+          "s": 3,
+          "t": "(Clervie is listening really intently to Paimon's story about our time in Fontaine. She seems really happy, like all her troubles have been forgotten.)"
+        },
+        {
+          "s": 3,
+          "t": "(Maybe this is the first time she's ever been able to truly relax... But, I'm not sure how long this moment can last...)"
+        },
+        {
+          "s": 2,
+          "t": "Shadows don't have the capacity to learn or grow. Any new information they encounter is quickly forgotten over time."
+        },
+        {
+          "s": 3,
+          "t": "(As time passes, she'll probably forget everything we've told her, and go back to being that scared little girl who could only hide in the shadows...)"
+        },
+        {
+          "s": 3,
+          "t": "(Huh, I was so busy thinking, I almost didn't notice... The sun has risen.)"
+        },
+        {
+          "section": "The Knave"
+        },
+        {
+          "s": 1,
+          "t": "Clervie..."
+        },
+        {
+          "s": 1,
+          "t": "She left so soon... Paimon didn't even get to finish her story..."
+        },
+        {
+          "s": 2,
+          "t": "I also have certain sentiments left unsaid."
+        },
+        {
+          "s": 2,
+          "t": "I wanted to tell her that the aurora I saw in Snezhnaya was just as beautiful as the ones in the pictures."
+        },
+        {
+          "s": 2,
+          "t": "But, a shadow's memories reset at dawn. Had we delayed any longer, we wouldn't have had the time to say goodbye."
+        },
+        {
+          "s": 2,
+          "t": "Whatever regrets may linger... let them be lost to the coming of a new day."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\"... *cough*"
+        },
+        {
+          "s": 1,
+          "t": "It's Lyney! Hey, Lyney—"
+        },
+        {
+          "s": 1,
+          "t": "What is he doing back here? Let's go check it out!"
+        },
+        {
+          "s": 0,
+          "t": "\"Father\"... The bottled flames have been administered. Filliol and the others have left the House."
+        },
+        {
+          "s": 2,
+          "t": "And you? What have you decided?"
+        },
+        {
+          "s": 0,
+          "t": "*ahem*... Thank you for giving us that choice, \"Father.\" But we never wanted to leave the House. It's the only home we've ever known."
+        },
+        {
+          "s": 0,
+          "t": "Lynette and Freminet feel the same way. They're recuperating back at the Hotel Bouffes d'ete. But, I decided to come back and tell you where we stood."
+        },
+        {
+          "s": 2,
+          "t": "I'm sure you're well aware of the expectations I have for you. I want you to follow in my footsteps and become the next \"king\" of the House. Yet, you seem to have different ideas."
+        },
+        {
+          "s": 2,
+          "t": "I must admit, I'm rather surprised by your decision to stay. There's nothing wrong with choosing to live a quiet life. Leading this organization is a heavy responsibility, one not so easily carried by someone forced onto the throne."
+        },
+        {
+          "s": 0,
+          "t": "I just... never understood what you saw in me... what made you believe I was deserving of that throne."
+        },
+        {
+          "s": 2,
+          "t": "You're brave, talented... And, most importantly, you cherish your family."
+        },
+        {
+          "s": 2,
+          "t": "You would do anything to protect them — even if it costs you your life."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "Speaking up back there was so brave of you, Lyney! It's all thanks to you that we were able to convince \"Father\" to back down."
+        },
+        {
+          "s": 5,
+          "t": "You're a hero, Lyney!"
+        },
+        {
+          "s": 0,
+          "t": "(Hero... \"Father\" is the real hero.)"
+        },
+        {
+          "s": 0,
+          "t": "(Had \"Father\" gone all out during the duel, there's no way I would've walked away with my life. She must have had it all planned from the beginning, from the very moment she suggested a duel...)"
+        },
+        {
+          "s": 0,
+          "t": "I'm not deserving of that title. I'm not strong enough or smart enough..."
+        },
+        {
+          "s": 2,
+          "t": "You're wrong."
+        },
+        {
+          "s": 2,
+          "t": "In my opinion, all you need to be deserving of the throne is conviction, and the necessary strength to act on it."
+        },
+        {
+          "s": 2,
+          "t": "We may have different ideas of what it means to be a family, but you can hardly be said to lack conviction. What you truly lack is strength. For someone of your talent, though, that's something that will come with time."
+        },
+        {
+          "s": 2,
+          "t": "Even without that strength, you still chose to face me in a duel even though the odds were stacked against you. That capacity to honor your convictions is what I truly see in you."
+        },
+        {
+          "s": 0,
+          "t": "\"Father\"..."
+        },
+        {
+          "s": 2,
+          "t": "No one knows what the future holds, what tragedy or triumph may be in store. Being at the head of this organization requires the strength of will to face whatever comes. Caution will only hold you back."
+        },
+        {
+          "s": 2,
+          "t": "If reaching a certain standard were required to go after what you want, I would never have succeeded in killing my predecessor. Back then, there was still a considerable gap between our abilities."
+        },
+        {
+          "s": 2,
+          "t": "Strength may decide the ultimate victor, but those who let a lack of strength dictate their decisions or undermine their convictions will never be worthy of the throne."
+        },
+        {
+          "s": 0,
+          "t": "I understand, \"Father.\" Thank you."
+        },
+        {
+          "s": 2,
+          "t": "Children must grow up to surpass their parents... Only then can a family continue to flourish."
+        },
+        {
+          "s": 2,
+          "t": "The road ahead is not an easy one, so I'll ask you one last time. Are you certain you want to stay?"
+        },
+        {
+          "s": 0,
+          "t": "You've done so much for me, \"Father,\" and that kindness must be repaid. Plus, with Project Stuzha at hand, there are many dangers ahead, and I, for one, don't intend to back down."
+        },
+        {
+          "s": 0,
+          "t": "...Protecting my family at all costs — that's my conviction."
+        },
+        {
+          "s": 2,
+          "t": "Then you're welcome to stay. As for Project Stuzha, you need not be too concerned. If those cowardly businessmen and heartless dignitaries try to take us down, I'm prepared to teach them a lesson."
+        },
+        {
+          "s": 2,
+          "t": "Having members who longed for the light was our organization's last weakness. With those members no longer among our ranks, the House of the Hearth is like a spider hiding in the shadows — we need only wait for our prey to come to us."
+        },
+        {
+          "s": 2,
+          "t": "At present, our imperative is to use their plan to our advantage. In doing so, a crimson moon shall rise amid the frigid blizzards of winter. No demonstration of loyalty shall go unrewarded, and no sacrifice shall be in vain."
+        },
+        {
+          "s": 2,
+          "t": "As for the two of you, whether we meet again as friend or foe, I'll remember the camaraderie we shared in this moment."
+        },
+        {
+          "s": 2,
+          "t": "No matter how arduous the journey ahead, I hope we both reach our desired destination."
+        },
+        {
+          "section": "Freminet"
+        },
+        {
+          "s": 1,
+          "t": "Lynette, Freminet, how are you feeling?"
+        },
+        {
+          "s": 12,
+          "t": "Much better."
+        },
+        {
+          "s": 1,
+          "t": "Phew, what a relief!"
+        },
+        {
+          "s": 12,
+          "t": "What about you? Are you feeling alright?"
+        },
+        {
+          "sit": "There's no need to worry."
+        },
+        {
+          "sit": "I'm right as rain!"
+        },
+        {
+          "s": 10,
+          "t": "I knew you'd come out unscathed... Us, on the other hand, well... We've been bedridden for two days. I couldn't even turn over."
+        },
+        {
+          "s": 10,
+          "t": "Oh, and I wanted to ask... Is Clervie... gone?"
+        },
+        {
+          "s": 10,
+          "t": "Lyney and the other members have left Poisson and returned to the House of the Hearth. According to him, there haven't been any more sightings of a spirit roaming the House."
+        },
+        {
+          "sit": "We bid her farewell under a blanket of sunlight."
+        },
+        {
+          "sit": "Her wish has been fulfilled."
+        },
+        {
+          "s": 12,
+          "t": "I see..."
+        },
+        {
+          "s": 10,
+          "t": "I'm glad..."
+        },
+        {
+          "s": 10,
+          "t": "\"Father\" came to check up on us two days ago and told us about what happened with Crucabena and Clervie. Actually, I... I've met Crucabena before."
+        },
+        {
+          "s": 1,
+          "t": "Wait, what? You've met the former Knave?"
+        },
+        {
+          "s": 10,
+          "t": "Crucabena died a year after Clervie. It was during the year between their deaths that I joined the House of the Hearth."
+        },
+        {
+          "s": 10,
+          "t": "Crucabena had an extremely cruel and radical way of doing things. While she was alive, the atmosphere in the House was suffocating."
+        },
+        {
+          "s": 10,
+          "t": "When I joined, though, the experiments she valued so much had already come to an end, and all the people involved — dead and injured alike — were gone. Crucabena never talked about the past with us newcomers."
+        },
+        {
+          "s": 10,
+          "t": "A couple months after I joined, \"Father\" killed Crucabena and burned all her files. With that, the names of all the people subjected to her experiments — Clervie included — were lost to the flames, along with the painful memories they represented."
+        },
+        {
+          "s": 12,
+          "t": "\"Father\" took in Lyney and me a couple months after that, but she never mentioned anything about Crucabena or Clervie."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, it really seems like something she was planning to keep to herself."
+        },
+        {
+          "s": 1,
+          "t": "The last time you talked to her, did she mention why she kept it a secret for so long?"
+        },
+        {
+          "s": 12,
+          "t": "She said she didn't want us to be affected by the darkness of the past. She was worried we'd develop a false sense of gratitude towards her if we knew about it."
+        },
+        {
+          "s": 12,
+          "t": "\"The foundation of a family should be free of any corrupting influence. Whatever happened in the past, it has nothing to do with who we are now.\""
+        },
+        {
+          "s": 12,
+          "t": "...That's what \"Father\" told us in the end."
+        },
+        {
+          "s": 10,
+          "t": "But, I still thanked her for everything. It was only after hearing about what Crucabena did that I finally realized how insignificant our lives could have been... The members of the House meant nothing to her. To say that she valued them in any way, even just as a tool, would probably be giving her too much credit."
+        },
+        {
+          "s": 10,
+          "t": "If \"Father\" hadn't taken over the House of the Hearth, I probably would've already..."
+        },
+        {
+          "sit": "Don't think about that."
+        },
+        {
+          "sit": "She saved you in the end."
+        },
+        {
+          "s": 12,
+          "t": "\"Father\" rarely brings up the fact that she saved us. She doesn't believe that being indebted to her should be what ties us together."
+        },
+        {
+          "s": 12,
+          "t": "But, even if we didn't owe her anything, we would still choose to stay. Because this is our home."
+        },
+        {
+          "s": 12,
+          "t": "We may have arguments or times when we feel wronged. Some people may even choose to leave. But, as long as \"Father\" is here, we will always have a home."
+        },
+        {
+          "s": 10,
+          "t": "Whether the path before us is bathed in sunlight or shrouded in shadow, we'll follow \"Father\" wherever she chooses to go."
+        },
+        {
+          "s": 10,
+          "t": "So, I wanted to say thank you for helping us make it through this crisis. Without your help, we could've lost a lot more along the way."
+        },
+        {
+          "s": 1,
+          "t": "Oh, we didn't do anything, really."
+        },
+        {
+          "s": 3,
+          "t": "Just invite us back as guests and we'll call it even!"
+        },
+        {
+          "s": 10,
+          "t": "Of course! You're welcome any time."
+        },
+        {
+          "s": 1,
+          "t": "Are... Filliol and Nanteuil okay?"
+        },
+        {
+          "s": 12,
+          "t": "I actually saw them at a cafe this morning."
+        },
+        {
+          "s": 12,
+          "t": "They didn't recognize me. From what I could tell, they were drinking coffee and talking about one of the operas that started running recently."
+        },
+        {
+          "s": 12,
+          "t": "They seemed happy. If I had to take a guess, I would say they finally found the kind of life they always wished for."
+        },
+        {
+          "s": 3,
+          "t": "She saved you in the end."
+        },
+        {
+          "s": 3,
+          "t": "Her wish has been fulfilled."
+        },
+        {
+          "s": 3,
+          "t": "I'm right as rain!"
+        }
+      ],
+      "description": "The Knave is well aware of the plans Lyney and the others have hatched. She proposes a deal that seems to be a good chance to get to the bottom of all this…"
+    }
+  ],
+  "speakers": [
+    "Lyney",
+    "Paimon",
+    "The Knave",
+    "Traveler",
+    "Chapleau",
+    "Foltz",
+    "Heloir",
+    "Crowd",
+    "Filliol",
+    "Nanteuil",
+    "Freminet",
+    "Clervie",
+    "Lynette",
+    "Childe",
+    "Neuvillette",
+    "Horrer"
+  ],
+  "id": "ch-2047"
+}

@@ -1,0 +1,2315 @@
+{
+  "chapter": "Enchanted Tales of the Mikawa Festival: First Night",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "As Though Caught in a Dream",
+  "region": null,
+  "quests": [
+    {
+      "title": "As Though Caught in a Dream",
+      "dialogue": [
+        {
+          "section": "Takeshi"
+        },
+        {
+          "s": 0,
+          "t": "Ah, welcome, honored {NICKNAME}. Guuji Yae told me about your visit. Please, come in."
+        },
+        {
+          "sit": "Well, that was a lot easier than last time..."
+        },
+        {
+          "s": 0,
+          "t": "Ahem... The Almighty Shogun is also inside. It's best not to keep her waiting."
+        },
+        {
+          "section": "Yae Miko, Raiden Shogun"
+        },
+        {
+          "s": 1,
+          "t": "...Now, now, there's no need to be so stubborn about this. I'll adjust the budget here, and we'll definitely turn a profit."
+        },
+        {
+          "s": 2,
+          "t": "No. We must confirm the official representative before discussing details. There is an order to this that must be followed."
+        },
+        {
+          "s": 3,
+          "t": "From the way she's talking... This must be the Shogun, right?"
+        },
+        {
+          "sit": "Yeah, it's her alright."
+        },
+        {
+          "s": 1,
+          "t": "Ah, little one. It's about time. Come, I have a contract for you to sign."
+        },
+        {
+          "s": 3,
+          "t": "Whoa! We're not just gonna sign a random contract out of the blue!"
+        },
+        {
+          "sit": "Also, if it's one of your contracts..."
+        },
+        {
+          "sit": "How can I be sure I'm not signing myself up for slave labor or something?"
+        },
+        {
+          "s": 1,
+          "t": "Hardly, hardly... Well, \"labor\" is a part of it, but you will be compensated..."
+        },
+        {
+          "s": 3,
+          "t": "Hah, so it IS as bad as Paimon thought..."
+        },
+        {
+          "s": 2,
+          "t": "I see, so (s) he's the representative you selected... He(She) would indeed be the perfect candidate for the Mikawa Flower Festival."
+        },
+        {
+          "sit": "The Mikawa Flower Festival?"
+        },
+        {
+          "s": 2,
+          "t": "When the youkai still roamed the land, they celebrated an event known as the \"Mikawa Flower Festival.\" It was an occasion for drink, laughter, and merriment."
+        },
+        {
+          "s": 1,
+          "t": "We hosted a version of it during the Test of Courage. Unfortunately, due to time constraints, we weren't able to put on a large celebration."
+        },
+        {
+          "s": 1,
+          "t": "So, I got to thinking, why not have another go? This time, with a Mikawa Flower Festival for youkai and humans alike."
+        },
+        {
+          "s": 1,
+          "t": "One that combines human ingenuity with youkai arts to offer the most innovative and thrilling entertainment of our time.... open to all humans and youkai throughout the land."
+        },
+        {
+          "s": 3,
+          "t": "Entertainment, huh... Wait, kind of like Akitsu Yuugei and Akitsu Haneasobi? Those games were really fun!"
+        },
+        {
+          "s": 2,
+          "t": "For an important event like this, an official representative is required to preside over the festivities. In the past, the role was usually given to the Guuji, or an individual from the Yashiro Commission. But this time..."
+        },
+        {
+          "s": 1,
+          "t": "Neither myself nor the Kamisato family can assume the position, given we represent one side or the other — the youkai or the humans."
+        },
+        {
+          "sit": "But, aren't I human, too?"
+        },
+        {
+          "s": 2,
+          "t": "Human you may be, but you posses a deep connection with the youkai, and you do not hail from this land. That makes you a more neutral option."
+        },
+        {
+          "s": 2,
+          "t": "Moreover, you took part in the previous festival during the Test of Courage. In my estimation, there is no better candidate for the role."
+        },
+        {
+          "s": 1,
+          "t": "Plus, your name has the potential to attract an even greater showing... So, are you going to sign this thing, or what?"
+        },
+        {
+          "s": 3,
+          "t": "Huh, you've got a point... Then, let's go ahead and... Wait! Paimon almost fell into her trap!"
+        },
+        {
+          "sit": "I don't work as a festival ambassador for free."
+        },
+        {
+          "sit": "How much are you willing to offer?"
+        },
+        {
+          "s": 1,
+          "t": "Come now, this is for an important occasion, is it not? Even I've chosen to throw profit to the wind. Surely a... selfless hero like yourself wouldn't turn your back on a good cause?"
+        },
+        {
+          "s": 2,
+          "t": "According to the proposal, the proceeds will be distributed as follows — forty percent to Yae Publishing House and ten percent to the festival representative."
+        },
+        {
+          "s": 3,
+          "t": "Hey, no fair!"
+        },
+        {
+          "sit": "I want thirty percent."
+        },
+        {
+          "s": 1,
+          "t": "Now, ten percent might not sound like much, but Yae Publishing House is going to great lengths for this occasion, both in time and personnel. All you need to do is show your face."
+        },
+        {
+          "sit": "...You say that now, and then you're going to put me to work once I agree."
+        },
+        {
+          "s": 1,
+          "t": "Hah, getting smart, aren't you, little one? In that case, I'll throw in another ten percent from the other half of the proceeds."
+        },
+        {
+          "s": 2,
+          "t": "No. The other half is going to the Shogunate — that is not up for negotiation. But, I am rather curious about the supposed \"great lengths\" you mentioned..."
+        },
+        {
+          "s": 2,
+          "t": "Unless I am mistaken, most of the personnel and supplies are to be provided by the Shogunate. In that sense, forty percent seems rather high for your establishment, does it not?"
+        },
+        {
+          "s": 1,
+          "t": "That Ei... When did she reprogram you to argue back like this?"
+        },
+        {
+          "s": 2,
+          "t": "Proceeds should be distributed according to contribution. Besides, from the very beginning, you planned to allocate an additional ten percent of your share to {NICKNAME}, did you not?"
+        },
+        {
+          "s": 3,
+          "t": "Wait, so earlier... you were just trying to shortchange us!"
+        },
+        {
+          "s": 1,
+          "t": "*sigh* What's the fun in bargaining if you open up with your best offer right off the bat?"
+        },
+        {
+          "s": 3,
+          "t": "Uh... Paimon doesn't see the fun at all, but twenty percent is... acceptable."
+        },
+        {
+          "sit": "Alright, so what do I have to do as the representative?"
+        },
+        {
+          "sit": "Once the representative is confirmed, the rest of the conversation goes quite smoothly."
+        },
+        {
+          "s": 1,
+          "t": "Games have always been a central part of the festival, and both Akitsu Haneasobi and Akitsu Yuugei were extremely popular."
+        },
+        {
+          "s": 1,
+          "t": "So, the plan is to host an event where the attendees have forty-eight hours to create a game of their own. We'll have new and exciting entertainment in no time!"
+        },
+        {
+          "s": 3,
+          "t": "Ohh! Everyone loves fun games! You won't have to worry about attracting humans and youkai to the event!"
+        },
+        {
+          "s": 2,
+          "t": "That is the general plan. I'll leave you to iron out the finer details and contact the participants."
+        },
+        {
+          "s": 2,
+          "t": "This is a critical time for the Shogunate's new development plans, and the survey team is returning momentarily, so I must turn my attention to them."
+        },
+        {
+          "s": 1,
+          "t": "Got it, got it. We'll see you later, then."
+        },
+        {
+          "sit": "Where to now?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Chinju Forest. Let's pay a visit to our old friend, Ioroi."
+        },
+        {
+          "section": "Ioroi"
+        },
+        {
+          "s": 4,
+          "t": "Eek! The smell of humans... Nothing to see here, just a statue... Huh? Wait, why do I smell kitsune..."
+        },
+        {
+          "s": 1,
+          "t": "Remember us, Ioroi?"
+        },
+        {
+          "s": 4,
+          "t": "Ah! It's you youngsters... And... YOU! Hmph, the nasty kitsune who turned Chinju Forest into the playground for her Test of Courage!"
+        },
+        {
+          "s": 3,
+          "t": "Oh, Chinju Forest is supposed to be Ioroi's territory, right? No wonder he's so mad..."
+        },
+        {
+          "s": 4,
+          "t": "Exactly! How could you hold a Test of Courage without inviting me!?"
+        },
+        {
+          "s": 3,
+          "t": "Ohhhhhh, so THAT's what he's angry about!"
+        },
+        {
+          "sit": "But, um, sealed away like this..."
+        },
+        {
+          "sit": "Could you even participate?"
+        },
+        {
+          "s": 4,
+          "t": "...*ahem* Anyway, what brings you all here? Something to discuss?"
+        },
+        {
+          "sit": "(Okay, so he avoided the question completely...)"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, I actually came to apologize about the Test of Courage."
+        },
+        {
+          "s": 1,
+          "t": "It was my mistake not to invite more youkai to the ceremony. So, for this Mikawa Flower Festival, I knew I had to extend a personal invitation to the bake-danuki."
+        },
+        {
+          "s": 5,
+          "t": "Huh? The Mikawa Flower Festival?"
+        },
+        {
+          "s": 6,
+          "t": "Yes!!! The Mikawa Flower Festival!!!"
+        },
+        {
+          "s": 7,
+          "t": "Yes!!! The Mikawa Flower Festival!!!"
+        },
+        {
+          "s": 3,
+          "t": "Huh!? Kichiboushi, Shousei, Gyoubu Koban... Where did you come from!?"
+        },
+        {
+          "sit": "(And why can we understand them all of a sudden...)"
+        },
+        {
+          "sit": "(Is it because of the Kitsune Meal? On second thought, better not to ask.)"
+        },
+        {
+          "s": 4,
+          "t": "Hmph! Never trust an apology from a kitsune! Or an invitation, for that matter! It's just a silly festival... So what if there's delicious food!? Or fun games!?"
+        },
+        {
+          "s": 5,
+          "t": "Yum yum!"
+        },
+        {
+          "s": 6,
+          "t": "Fun fun!"
+        },
+        {
+          "s": 4,
+          "t": "That's enough, you two! Don't fall for the kitsune's cheap tricks! Such hopeless innocent cubs..."
+        },
+        {
+          "s": 1,
+          "t": "What a shame... I was hoping to take you all to the festival, but it would seem Ioroi disapproves."
+        },
+        {
+          "s": 1,
+          "t": "I suppose it makes sense... Poor Ioroi, stuck in this statue all alone while the rest of you got to have fun. How sad that would be..."
+        },
+        {
+          "s": 7,
+          "t": "Poor Ioroi!"
+        },
+        {
+          "s": 4,
+          "t": "E—Excuse you! I am Ioroi, the Kakushigami of the bake-danuki! I'm just... um... Ah, yes! Just worried the cubs will get distracted and stray from the tanuki path..."
+        },
+        {
+          "s": 1,
+          "t": "Ah, I should also mention, I was hoping the bake-danuki could help the humans take their games to the next level, talented as you are in the art of transformation."
+        },
+        {
+          "s": 1,
+          "t": "In Inazuma, only the bake-danuki can hope to match the kitsune in that area."
+        },
+        {
+          "s": 4,
+          "t": "Match!? The kitsune could never rival the transformative gifts of the bake-danuki!"
+        },
+        {
+          "s": 1,
+          "t": "...Ah, well, I was thinking of using the bake-danuki as the symbol of the event in promotions and such. But, alas, it would seem you don't like that idea, Ioroi."
+        },
+        {
+          "s": 1,
+          "t": "No matter — I shall simply seek the help of the kitsune. When the time comes, all of Inazuma will know the kitsune stepped in to accomplish what the bake-danuki could not..."
+        },
+        {
+          "s": 4,
+          "t": "W—Wait!"
+        },
+        {
+          "s": 1,
+          "t": "Heh."
+        },
+        {
+          "sit": "What an obvious strategy..."
+        },
+        {
+          "s": 1,
+          "t": "It worked, didn't it?"
+        },
+        {
+          "s": 4,
+          "t": "Ahem... My dear cubs, transforming into things that already exist is only a small fraction of what it means to become a great bake-danuki..."
+        },
+        {
+          "s": 4,
+          "t": "To even get a quarter of the way through your training, you must be able to turn into things of your own invention, just like when I turned into a gigantic ramen bowl that could fly..."
+        },
+        {
+          "s": 4,
+          "t": "So, go forth and seize this opportunity, so you can advance the name of the... Ah, no, I mean, advance your training!"
+        },
+        {
+          "s": 4,
+          "t": "Not all humans are bad and scary — some are good, just like these youngsters. Go with them and transform into things you've never tried before."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, Ioroi. The little tanuki are safe with me."
+        },
+        {
+          "s": 4,
+          "t": "You're the one I'm worried about..."
+        },
+        {
+          "s": 3,
+          "t": "Well, we're here, too! We'll make sure they don't, uh... stray from the path!"
+        },
+        {
+          "s": 4,
+          "t": "Hm... I'll hold you to that! Now, Kichiboushi, Shousei, Gyoubu Koban, while you're out there, always listen to—"
+        },
+        {
+          "s": 5,
+          "t": "Yep yep! Always listen to White Fur!"
+        },
+        {
+          "s": 6,
+          "t": "And Mr.(Miss) Yellow Fur!"
+        },
+        {
+          "s": 7,
+          "t": "And Auntie Pink—"
+        },
+        {
+          "s": 7,
+          "t": "...*ahem* Miss Pink Fur!"
+        },
+        {
+          "s": 4,
+          "t": "Ah, I almost forgot, given their level of training, speaking to humans will be a problem. Just a moment, I'll cook up a few Bake-Danuki Meals to keep on hand."
+        },
+        {
+          "s": 1,
+          "t": "No need. Here, Miss Pink Fur prepared a special Kitsune Meal for you all. It will give you the ability to speak to humans."
+        },
+        {
+          "s": 4,
+          "t": "Mm!? Y—You stole our tricks, too? A—And changed the name!?"
+        },
+        {
+          "sit": "Seemingly oblivious to Ioroi's loud sounds of protest, Miko prepares a completely non-suspicious feast..."
+        },
+        {
+          "s": 5,
+          "t": "Mm! Yum yum!"
+        },
+        {
+          "s": 7,
+          "t": "Nom nom! Mmm!"
+        },
+        {
+          "s": 4,
+          "t": "*sigh*... Is it really that much better than mine...?"
+        },
+        {
+          "s": 1,
+          "t": "Splendid! That should make our lives easier. Now, we can head into the city and start forming the teams."
+        },
+        {
+          "sit": "Teams?"
+        },
+        {
+          "s": 1,
+          "t": "Well, we need more than bake-danuki power to design these games... Hmm, two humans per team should suffice, I'd say."
+        },
+        {
+          "s": 1,
+          "t": "Now, I need to discuss the layout of the venue with the Yashiro Commission. I'll leave the team recruitment to you."
+        },
+        {
+          "sit": "Put to work already..."
+        },
+        {
+          "sit": "Guess I need to earn that extra ten percent..."
+        },
+        {
+          "s": 3,
+          "t": "Hold on, you're not taking part, Miko? You're really gonna sit out on the fun? You, of all people..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, making games is nowhere near as fun as playing them. Besides, working through the night certainly isn't my idea of a good time."
+        },
+        {
+          "s": 5,
+          "t": "Making games?"
+        },
+        {
+          "s": 6,
+          "t": "Working?"
+        },
+        {
+          "s": 7,
+          "t": "Through the night?"
+        },
+        {
+          "s": 1,
+          "t": "...Anyway, this time, I'm going to wait for the fun to come to me. See you later, little ones."
+        },
+        {
+          "section": "Observe"
+        },
+        {
+          "s": 5,
+          "t": "Eek! A city!"
+        },
+        {
+          "s": 6,
+          "t": "So many houses! So many humans!"
+        },
+        {
+          "s": 7,
+          "t": "Gotta farm beans! White Fur, Yellow Fur, how do we farm beans?"
+        },
+        {
+          "s": 3,
+          "t": "Form teams not \"farm beans\"! Uh... It's kind of hard to explain..."
+        },
+        {
+          "sit": "It's like, finding people with similar interests."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, that's right! People with the same taste. Y'know, into the same thing. It's easier to come up with a game that way."
+        },
+        {
+          "s": 5,
+          "t": "Taste the same... Got it!"
+        },
+        {
+          "s": 6,
+          "t": "Easy peasy! White Fur, dumb."
+        },
+        {
+          "s": 7,
+          "t": "Farm beans that taste the same!"
+        },
+        {
+          "s": 3,
+          "t": "No, wait! That's not... And, they're gone. In different directions, too! *sigh* Let's go after them!"
+        },
+        {
+          "section": "Ioroi"
+        },
+        {
+          "s": 4,
+          "t": "Kichiboushi and the others are young, so their speaking ability is limited... I miss the days when the bake-danuki could run circles around the humans."
+        },
+        {
+          "s": 4,
+          "t": "Hold on, how were you able to understand them from the start? Does that mean the Bake-Danuki Meal from last time is still working...? Hah, take that, sneaky kitsune!"
+        },
+        {
+          "s": 4,
+          "t": "Speaking of... *sniff, sniff* That kitsune is gone, yes? Good. I have a request, young one. Come closer..."
+        },
+        {
+          "s": 4,
+          "t": "You must protect the cubs from that sneaky kitsune at all costs!!!"
+        },
+        {
+          "section": "Sangonomiya Kokomi, Yumemizuki Mizuki"
+        },
+        {
+          "s": 3,
+          "t": "Huh? Gyoubu Koban? What are you doing?"
+        },
+        {
+          "s": 7,
+          "t": "Spying on great youkai! Great youkai whisper about something with humans!"
+        },
+        {
+          "sit": "...A great youkai?"
+        },
+        {
+          "s": 8,
+          "t": "...So, what do you think? Are you interested in our proposal?"
+        },
+        {
+          "s": 9,
+          "t": "Hmm, the idea has a lot of promise, but I'm afraid there are no natural hot springs on Watatsumi island. And, the cost of heating them artificially is a bit too—"
+        },
+        {
+          "s": 8,
+          "t": "One second. I believe someone's listening... Hello over there — you're more than welcome to join, but a face-to-face conversation is more appropriate, don't you think?"
+        },
+        {
+          "s": 7,
+          "t": "Eek! Great youkai found us!"
+        },
+        {
+          "s": 3,
+          "t": "I—It's just us!"
+        },
+        {
+          "s": 10,
+          "t": "{NICKNAME}? Paimon?"
+        },
+        {
+          "s": 8,
+          "t": "There's no need to be nervous, you two. It's not like I think you're corporate spies."
+        },
+        {
+          "s": 8,
+          "t": "As for you... It's been a while since I've met one of your kind. What's your name? Is Ioroi doing well?"
+        },
+        {
+          "s": 7,
+          "t": "Eek...!"
+        },
+        {
+          "s": 8,
+          "t": "Huh..."
+        },
+        {
+          "s": 3,
+          "t": "Oh, uh... This is Gyoubu Koban. It's his first time visiting a city, so he's a bit shy around strangers."
+        },
+        {
+          "sit": "As for Ioroi..."
+        },
+        {
+          "sit": "He's the same as always."
+        },
+        {
+          "s": 8,
+          "t": "So, still sealed in that statue, then? I suppose it can't be helped..."
+        },
+        {
+          "s": 8,
+          "t": "Nice to meet you, Gyoubu Koban. My name is Yumemizuki Mizuki. I'm a yumekui-baku. We're youkai, just like you."
+        },
+        {
+          "s": 7,
+          "t": "Great youkai is... surprisingly friendly?"
+        },
+        {
+          "s": 9,
+          "t": "Ah, looks like he was scared that, as a \"great youkai,\" you were going to do something terrible to him for interrupting our secret meeting."
+        },
+        {
+          "sit": "So, it was actually a secret meeting...?"
+        },
+        {
+          "s": 9,
+          "t": "Not exactly, no. We were discussing the potential of opening a new branch of the Aisa Bathhouse on Watatsumi Island."
+        },
+        {
+          "s": 3,
+          "t": "Oh? Aisa Bathhouse is expanding to Watatsumi Island?"
+        },
+        {
+          "s": 10,
+          "t": "Well, tourism is one of the areas we're hoping to expand. We've been discussing the possibility with Miss Mizuki for quite some time."
+        },
+        {
+          "s": 9,
+          "t": "Still, given the lack of natural springs on Watatsumi island, we're looking at high operating costs. And, if it's not different enough from the main branch, I worry about its ability to draw in customers."
+        },
+        {
+          "s": 8,
+          "t": "All valid points. We do need to differentiate the brand. We could place a greater emphasis on physiotherapy..."
+        },
+        {
+          "s": 8,
+          "t": "Or add some popular activities, such as carefully designed \"games\"..."
+        },
+        {
+          "s": 7,
+          "t": "...Games!"
+        },
+        {
+          "s": 3,
+          "t": "Uhh... Games? In a bathhouse?"
+        },
+        {
+          "s": 8,
+          "t": "Of course! Games are often used in psychological treatment to put patients at ease."
+        },
+        {
+          "s": 8,
+          "t": "Anyway, the topic of games really seemed to pique your interest... Is there something going on?"
+        },
+        {
+          "sit": "Ahem, allow me to explain..."
+        },
+        {
+          "sit": "You briefly explain the situation to everyone..."
+        },
+        {
+          "s": 9,
+          "t": "I see... A new kind of Mikawa Flower Festival. Miss \"Fried Tofu With All the Frills\" is as ingenious as ever."
+        },
+        {
+          "s": 8,
+          "t": "Miko, huh... I knew I smelled scheming in the air..."
+        },
+        {
+          "s": 10,
+          "t": "Oh, uh... That lady again? W—Well, there's a lot of work to do on Watatsumi Island. So, we probably don't have time for something like that... right, Your Excellency?"
+        },
+        {
+          "s": 9,
+          "t": "Hmm... I do think there's potential in turning Watatsumi Island into a tourist destination."
+        },
+        {
+          "s": 9,
+          "t": "We could use the festival as a proof of concept and establish a partnership with Miss Mizuki. If people are drawn to our game, that would mean a lot of positive publicity, which would benefit us in the long term."
+        },
+        {
+          "s": 10,
+          "t": "Ah... B—But, aren't Aisa Bathhouse and Yae Publishing House business rivals?"
+        },
+        {
+          "s": 8,
+          "t": "Rivalries aside, I have no qualm using Yae Publishing House's resources to our advantage."
+        },
+        {
+          "s": 8,
+          "t": "Besides, if I remember correctly, you have a connection to Yae Publishing House as well, don't you, General Gorou? You work on the That's Life column?"
+        },
+        {
+          "s": 10,
+          "t": "Oh, well... Yes, I do..."
+        },
+        {
+          "s": 8,
+          "t": "...If our venture is to focus on games, then as future business partners, I'm sure you would appreciate an opportunity to see what I can do."
+        },
+        {
+          "s": 9,
+          "t": "Hehe, an astute observation, Miss Mizuki. Well, shall we? Getting down to business is often the quickest way to bring people together, after all."
+        },
+        {
+          "s": 8,
+          "t": "...Agreed! Then, why don't we discuss some of the finer details before the festival begins?"
+        },
+        {
+          "s": 10,
+          "t": "Oh, but... Um... *sigh*... Alright... Then, I guess I should—"
+        },
+        {
+          "s": 9,
+          "t": "Actually, Gorou, I was hoping you might attend to the business on Watatsumi Island in the meantime. Just as you said, there is quite a bit to be done..."
+        },
+        {
+          "s": 10,
+          "t": "Huh...?"
+        },
+        {
+          "sit": "She's giving you an out."
+        },
+        {
+          "sit": "She's giving you a way to avoid Miko."
+        },
+        {
+          "s": 10,
+          "t": "...Of course!"
+        },
+        {
+          "s": 9,
+          "t": "In addition, I'd like you to encourage the people of Watatsumi Island to attend the festival. It's a celebration for humans and youkai alike..."
+        },
+        {
+          "s": 9,
+          "t": "...So, that includes our people as well. This should be an occasion that brings people together."
+        },
+        {
+          "s": 10,
+          "t": "...Understood! Leave it to me, Your Excellency."
+        },
+        {
+          "section": "\"Kichiboushi\""
+        },
+        {
+          "s": 5,
+          "t": "White Fur! Yellow Fur! Over here! Kichiboushi found big, sleepy tanuki!"
+        },
+        {
+          "sit": "Hate to break it to you Kichiboushi, but..."
+        },
+        {
+          "s": 11,
+          "t": "Hey... I'm a mujina, not a tanuki!"
+        },
+        {
+          "s": 5,
+          "t": "...Ohhh, mujina youkai that can turn into tanuki?"
+        },
+        {
+          "s": 11,
+          "t": "No, wait... I'm not a mujina or a tanuki. I'm Sayu!"
+        },
+        {
+          "s": 5,
+          "t": "Tanuki... Mujina... Sayu... So many transformations! Sayu is youkai?"
+        },
+        {
+          "sit": "She's a ninja, not a youkai."
+        },
+        {
+          "s": 11,
+          "t": "I don't transform at all! I've been a human this whole time! Who is this guy, anyway? Popping up out of nowhere right when I found a spot to sleep..."
+        },
+        {
+          "s": 3,
+          "t": "Ehehe... Sorry, this is probably the first time Kichiboushi has ever seen a ninja..."
+        },
+        {
+          "s": 12,
+          "t": "Ah, the Big Tanuki and the Great Mujina Youkai are facing off! The rumors around Hanamizaka were true!"
+        },
+        {
+          "s": 11,
+          "t": "Not this again... It's just Sayu!"
+        },
+        {
+          "s": 12,
+          "t": "Oh... Haha, no youkai, huh. My bad, Sayu. I rushed over here as soon as I heard the rumors. Guess I got a bit carried away..."
+        },
+        {
+          "s": 11,
+          "t": "*whimper*... And there goes my nap..."
+        },
+        {
+          "s": 5,
+          "t": "Hahaha, silly humans. Much to learn."
+        },
+        {
+          "s": 12,
+          "t": "Whoa, hold on... Is this guy... a real youkai!?"
+        },
+        {
+          "sit": "His name is Kichiboushi."
+        },
+        {
+          "s": 12,
+          "t": "Well, hello there, Kichiboushi!"
+        },
+        {
+          "s": 5,
+          "t": "Mm! This human... really really warm!"
+        },
+        {
+          "s": 12,
+          "t": "Uh... warm?"
+        },
+        {
+          "sit": "Warm... personality-wise, I'm guessing?"
+        },
+        {
+          "s": 12,
+          "t": "Oh, hahaha... Well, what brings you to Inazuma City, Kichiboushi? We don't often get bake-danuki around these parts."
+        },
+        {
+          "s": 3,
+          "t": "Boy, where do we begin..."
+        },
+        {
+          "sit": "You briefly explain the situation to Yoimiya."
+        },
+        {
+          "s": 12,
+          "t": "Ahhh, I see. You're recruiting people to develop games for the Mikawa Flower Festival..."
+        },
+        {
+          "sit": "You interested?"
+        },
+        {
+          "s": 12,
+          "t": "Well, duh! C'mon, Sayu! Let's do it together!"
+        },
+        {
+          "s": 11,
+          "t": "...Ugh! Right when I was trying to run..."
+        },
+        {
+          "s": 11,
+          "t": "About that... um... I'm pretty busy... uh... practicing ninjutsu and such..."
+        },
+        {
+          "s": 12,
+          "t": "Oh, I heard the bake-danuki are great at ninjutsu! Rumors has it, with a single thought, they can grow taller than a house! Is that true, Kichiboushi?"
+        },
+        {
+          "s": 11,
+          "t": "Taller than a house? I've never heard of a ninjutsu like that..."
+        },
+        {
+          "s": 5,
+          "t": "It's not ninjutsu, it's bake-danuki art! We don't grow taller than house!"
+        },
+        {
+          "s": 11,
+          "t": "S—See...? I knew it wouldn't be that easy..."
+        },
+        {
+          "s": 5,
+          "t": "We grow taller than mountain!"
+        },
+        {
+          "s": 11,
+          "t": "EH!?"
+        },
+        {
+          "s": 12,
+          "t": "Sayu...?"
+        },
+        {
+          "s": 11,
+          "t": "S—Sorry... Just thinking about something sensei always said: \"You can't just focus on drills, Sayu. You need to push the limits of what you know about ninjutsu.\""
+        },
+        {
+          "sit": "Well, this is as good an opportunity as any."
+        },
+        {
+          "s": 11,
+          "t": "I... I guess..."
+        },
+        {
+          "s": 5,
+          "t": "Farm beans, success?"
+        },
+        {
+          "s": 11,
+          "t": "A—Alright, let's go discuss this ninjutsu... Ah, no. This bake-danuki art of transformation! The one you're going to use for the festival!"
+        },
+        {
+          "s": 12,
+          "t": "Yes! I've always wanted to go to a festival with you, Sayu! Let's go to my place to brainstorm! We can even set off some fireworks when we're done!"
+        },
+        {
+          "s": 11,
+          "t": "Uh... I'll pass on the fireworks. They're terrible for my sleep..."
+        },
+        {
+          "section": "Arataki Itto"
+        },
+        {
+          "s": 13,
+          "t": "...Wait, you're saying he's not one of Ushi's friends?"
+        },
+        {
+          "s": 14,
+          "t": "Whoa, pump the brakes... I thought he was your friend."
+        },
+        {
+          "s": 6,
+          "t": "Hehe, long-horned oni and short-horned oni!"
+        },
+        {
+          "s": 14,
+          "t": "He... He talks!"
+        },
+        {
+          "s": 3,
+          "t": "Shousei! There you are!"
+        },
+        {
+          "s": 6,
+          "t": "White Fur! Yellow Fur! Shousei found White Fur and Yellow Fur number two. Both great youkai! Both like to play!"
+        },
+        {
+          "s": 13,
+          "t": "Great youkai... So, he thinks I'm an oni, too?"
+        },
+        {
+          "sit": "What's going on?"
+        },
+        {
+          "s": 14,
+          "t": "Listen, I was just playin' some Genius Invokation with my good bro Thoma during his time off..."
+        },
+        {
+          "s": 13,
+          "t": "And then, out of the blue, this... Shousei appeared right in the middle of our match."
+        },
+        {
+          "s": 6,
+          "t": "Shousei loves to play! Long-horned and short-horned Oni also love to play! We taste the same, hehe!"
+        },
+        {
+          "s": 14,
+          "t": "We what now?"
+        },
+        {
+          "sit": "I can explain..."
+        },
+        {
+          "sit": "You briefly explain the situation to Itto and Thoma..."
+        },
+        {
+          "s": 14,
+          "t": "Oho! The Mikawa Flower Festival! Shoulda opened with that, compadre!"
+        },
+        {
+          "s": 14,
+          "t": "Man, the Arataki Gang really hard-carried the last one. We'll turn this one into somethin' special, too!"
+        },
+        {
+          "s": 15,
+          "t": "Hitotsume Kozou and the others did all the work, Bull-chucker. You're really lumping them in with your gang?"
+        },
+        {
+          "s": 14,
+          "t": "I—It's called doing them a favor... Besides, they look up to me. I'm like a cool older brother..."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... Hitotsume Kozou and his friends did come up with the Akitsu Yuugei game during the last festival. There's no reason not to invite them this time!"
+        },
+        {
+          "s": 14,
+          "t": "Woo, the crew's gettin' back together! I'll round 'em up, hahaha!"
+        },
+        {
+          "s": 13,
+          "t": "...Technically, I'm on vacation, but I'm happy to assist the Yashiro Commission with the festival."
+        },
+        {
+          "s": 14,
+          "t": "That's what I like to hear! Alright, let's round up those three little fellas and start workin' on the Almighty Arataki Great and Glorious Akitsu Yuugei Game..."
+        },
+        {
+          "s": 16,
+          "t": "Not so fast."
+        },
+        {
+          "s": 6,
+          "t": "...Hornless oni?"
+        },
+        {
+          "s": 16,
+          "t": "We have an advertising job to finish, remember, Boss?"
+        },
+        {
+          "s": 14,
+          "t": "Huh?? We... We do!?"
+        },
+        {
+          "s": 16,
+          "t": "Re-shoots, follow-up work... There's still a mountain of things to do."
+        },
+        {
+          "s": 14,
+          "t": "Oh, well... uh..."
+        },
+        {
+          "s": 16,
+          "t": "*ahem* Look at Thoma here, kind enough to help with the festival even during his vacation. I would think the Boss of the Arataki Gang would show even more dedication to his work, but y'know, that's just me..."
+        },
+        {
+          "s": 14,
+          "t": "Uhh... Umm..."
+        },
+        {
+          "s": 13,
+          "t": "Hah... Looks like your time is spoken for, my friend."
+        },
+        {
+          "s": 13,
+          "t": "Wrap up what you need to do, and we can finish our match at the festival. Best of both worlds!"
+        },
+        {
+          "s": 14,
+          "t": "*sigh*... Alright! Those errands are a piece of cake. I'll be back in no time!"
+        },
+        {
+          "s": 14,
+          "t": "Oh, but first, I should introduce you to Kozou and the others. Then, you can head to the festival... without me."
+        },
+        {
+          "s": 16,
+          "t": "Then, let's get a move on! No use standing here talking about it — go make those introductions. We have stuff to do... Sorry, {NICKNAME} and Paimon. I'm sure we'll see you later."
+        },
+        {
+          "s": 6,
+          "t": "Hornless oni, so scary..."
+        },
+        {
+          "s": 13,
+          "t": "Hahaha..."
+        },
+        {
+          "section": "Kamisato Ayaka"
+        },
+        {
+          "s": 17,
+          "t": "Miss Kamisato, this is the list of the stage materials for your review..."
+        },
+        {
+          "s": 18,
+          "t": "Miss Kamisato, I have your schedule for tomorrow..."
+        },
+        {
+          "s": 19,
+          "t": "Hmm... The list looks fine. As for the schedule, let's move the meeting with the Tenryou Commission up a little. They're in charge of festival security, so that should take precedence."
+        },
+        {
+          "s": 3,
+          "t": "Whoa, she looks super busy... Should we come back later?"
+        },
+        {
+          "s": 19,
+          "t": "Hm? Oh... {NICKNAME}!"
+        },
+        {
+          "sit": "You seem busy."
+        },
+        {
+          "sit": "Are we interrupting?"
+        },
+        {
+          "s": 19,
+          "t": "...Oh, no. You're fine. You caught me just as I was finishing up, actually."
+        },
+        {
+          "s": 19,
+          "t": "Lady Guuji said you're the official festival representative, and you've been busy recruiting participants... So, I should do my part too, right?"
+        },
+        {
+          "s": 19,
+          "t": "For large events like the Test of Courage, Brother usually does most of the organizing. But this time, I wanted to take some work off his back."
+        },
+        {
+          "sit": "That should be a big help!"
+        },
+        {
+          "s": 19,
+          "t": "I hope so!"
+        },
+        {
+          "s": 3,
+          "t": "Oh, speaking of the recruitment, we found a bunch of people! We should be good to go!"
+        },
+        {
+          "s": 19,
+          "t": "Oh, already? That was fast... I wasn't sure we would find enough participants. I thought I might have to sign up myself..."
+        },
+        {
+          "sit": "Oh, well there's still time..."
+        },
+        {
+          "sit": "I could go and ask..."
+        },
+        {
+          "s": 19,
+          "t": "Oh, don't worry about it. I can only focus on so many things, anyway. If we have enough people, I should stick to organizing."
+        },
+        {
+          "s": 19,
+          "t": "I suppose I'm a little sad about not taking part... But, I'm looking forward to the festival all the same."
+        },
+        {
+          "s": 19,
+          "t": "When the time comes, perhaps we could check it out tog—"
+        },
+        {
+          "s": 20,
+          "t": "Miss Kamisato! Another letter from the Kanjou Commission!"
+        },
+        {
+          "s": 19,
+          "t": "Ah! Coming! ...Sorry, duty calls. We'll have to talk about our plans another time."
+        },
+        {
+          "s": 19,
+          "t": "My brother's the one overseeing the teams. I believe he's in the courtyard with Lady Guuji. You can go in when you're ready."
+        },
+        {
+          "s": 3,
+          "t": "Thanks, Ayaka! See you later!"
+        },
+        {
+          "s": 19,
+          "t": "See you later."
+        },
+        {
+          "s": 3,
+          "t": "Wow, Ayaka's really working hard... Guess we should follow suit. You're the festival representative, and that makes Paimon the representative of the representative. So, in other words, let's do this!"
+        },
+        {
+          "s": 1,
+          "t": "Ah, it's about time... I could hear you talking outside."
+        },
+        {
+          "s": 21,
+          "t": "I apologize for not greeting you upon arrival. The Lady Guuji and I were discussing something urgent."
+        },
+        {
+          "s": 3,
+          "t": "Oh, don't worry about it! We were talking to Ayaka, anyway."
+        },
+        {
+          "s": 1,
+          "t": "Heh, now that young lady is one enthusiastic volunteer, especially when she heard about your involvement, {NICKNAME}. Solved our personnel problem in one fell swoop..."
+        },
+        {
+          "sit": "So, you took the opportunity to order her around as well?"
+        },
+        {
+          "s": 1,
+          "t": "Hardly... It was entirely her decision. Besides, you really think I could order her around with her big brother standing right there?"
+        },
+        {
+          "s": 21,
+          "t": "I do hope she gets what she wants out of the event... Now, I see the bake-danuki are no longer with you. I assume that means the teams are set?"
+        },
+        {
+          "sit": "Yep. Here's the situation..."
+        },
+        {
+          "sit": "You explain what happened to Ayato..."
+        },
+        {
+          "s": 21,
+          "t": "Heh... Long-horned oni and short-horned oni. Those are some interesting names."
+        },
+        {
+          "s": 21,
+          "t": "I was hoping Thoma would use the festival as an excuse to relax, but it would seem he refuses to remain idle."
+        },
+        {
+          "s": 21,
+          "t": "He even signed up as a participant... Well, here's to hoping the game development is enjoyable, at the very least."
+        },
+        {
+          "s": 1,
+          "t": "...Ah, Mizuki signed up, too? Along with the \"Sole of the Deep\"? Now, this is getting interesting... I knew it was a good idea to put you in charge of recruitment, {NICKNAME}."
+        },
+        {
+          "s": 3,
+          "t": "They're planning to use your festival to promote Aisa Bathhouse!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, is that so? Then, perhaps I should up the ante..."
+        },
+        {
+          "s": 3,
+          "t": "So, Ayato... Is everything set on your end, then?"
+        },
+        {
+          "s": 21,
+          "t": "Yes. The Yashiro Commission will be in contact with each team and arrange for lodging, food, equipment, and travel."
+        },
+        {
+          "s": 21,
+          "t": "We will also determine the overall theme for the games, which will be announced forty-eight hours before the opening of the festival."
+        },
+        {
+          "s": 1,
+          "t": "Yes, yes, that's all well and good. I just have one small adjustment..."
+        },
+        {
+          "sit": "...That doesn't bode well!"
+        },
+        {
+          "sit": "...That REALLY doesn't bode well!"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, why so anxious? I'm just trying to keep things exciting! When we're ready to announce the theme, come to the festival grounds at the foot of Mt. Yougou. We'll see you there."
+        },
+        {
+          "section": "Kamisato Ayato"
+        },
+        {
+          "s": 21,
+          "t": "The Lady Guuji is very... imaginative. There's no telling how the festival will end up in the end."
+        },
+        {
+          "sit": "She can be a handful..."
+        },
+        {
+          "s": 21,
+          "t": "I wouldn't go that far. Though outlandish at times, her ideas usually contain strokes of genius that can be quite practical in the end."
+        },
+        {
+          "s": 21,
+          "t": "Besides, with you and Ayaka involved in the event, trust that I will intervene if things get out of hand. You need not worry."
+        },
+        {
+          "section": "Kujou Sara"
+        },
+        {
+          "s": 22,
+          "t": "...Though the festival has yet to begin, the game development process is sure to attract a crowd."
+        },
+        {
+          "s": 22,
+          "t": "It is the Tenryou Commission's responsibility to maintain security and order throughout the entirety of the proceedings. So, remain vigilant. Understood?"
+        },
+        {
+          "s": 23,
+          "t": "Yes, Ma'am!"
+        },
+        {
+          "s": 3,
+          "t": "Hey, Sara!"
+        },
+        {
+          "s": 22,
+          "t": "Oh, it's you. It's been a while."
+        },
+        {
+          "s": 3,
+          "t": "You guys are here early! There's still three whole days until the festival starts..."
+        },
+        {
+          "s": 22,
+          "t": "Correction — there's a little over forty-eight hours. Besides, many patrons are already here to observe the development process. Festival security starts now."
+        },
+        {
+          "s": 3,
+          "t": "Wait, but what about the Statue of the, uh... Almighty... Narukami, uh... Ogo— Eh, you know the one. Won't you miss out on it again?"
+        },
+        {
+          "sit": "Want us to buy one for you?"
+        },
+        {
+          "s": 22,
+          "t": "...Heh, no need. All Statues of Her Excellency, the Almighty Narukami Ogosho, God of Thunder being sold at this event are an old model."
+        },
+        {
+          "s": 22,
+          "t": "And as it turns out... I already own five of said model at home."
+        },
+        {
+          "s": 3,
+          "t": "Ah, okay... Well, that's definitely more than enough..."
+        },
+        {
+          "s": 22,
+          "t": "Yes, I only own five Statues of Her Excellency at any given time. That is my maximum."
+        },
+        {
+          "s": 22,
+          "t": "Any more, and I'm afraid I would not be able to afford them the proper care."
+        },
+        {
+          "s": 3,
+          "t": "Oh, THAT'S the reason?"
+        },
+        {
+          "s": 22,
+          "t": "...Personal matters aside, I heard you are the representative for this event. You should proceed to the stage and speak with the Lady Guuji."
+        },
+        {
+          "s": 3,
+          "t": "Oh, right... Looks like we're running out of time. Let's go, then! See you later, Sara."
+        },
+        {
+          "s": 22,
+          "t": "Goodbye."
+        },
+        {
+          "s": 24,
+          "t": "...Ma'am! We have a message from Commission headquarters. They need you to return as soon as possible!"
+        },
+        {
+          "s": 22,
+          "t": "Headquarters...? Now, of all times? Alright, keep watch in my absence. I won't be long."
+        },
+        {
+          "s": 1,
+          "t": "Ah, you're here! Now, we can get the ball rolling..."
+        },
+        {
+          "sit": "Are we late?"
+        },
+        {
+          "s": 1,
+          "t": "Right on time, I'd say. I was just about to announce the theme for the games."
+        },
+        {
+          "sit": "Uhh, what's that thing behind you...?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, this? Just a little something to spice things up."
+        },
+        {
+          "s": 1,
+          "t": "So... stay tuned!"
+        },
+        {
+          "s": 13,
+          "t": "Hmm... We should be getting close, right?"
+        },
+        {
+          "s": 11,
+          "t": "So sleepy... Can't wait any more..."
+        },
+        {
+          "s": 8,
+          "t": "A theme decided by Miko and the Yashiro Commission... What's it gonna be...?"
+        },
+        {
+          "s": 1,
+          "t": "One thing we all share... is our capacity to dream."
+        },
+        {
+          "s": 1,
+          "t": "Outlandish fantasies of the mind, nostalgic memories of the past, or telling reflections of our inner selves..."
+        },
+        {
+          "s": 1,
+          "t": "In a similar sense, games also blur the lines between fantasy and reality. Just like our dreams, the bounds of possibility are as limitless as our imagination."
+        },
+        {
+          "s": 1,
+          "t": "...With that in mind, your task is to create a game within the next forty-eight hours centered around the theme of \"dreams.\" The genre and style are completely up to you..."
+        },
+        {
+          "s": 3,
+          "t": "Okay... Nothing too crazy so far..."
+        },
+        {
+          "s": 1,
+          "t": "And, to provide some additional motivation..."
+        },
+        {
+          "s": 1,
+          "t": "The winning team will be awarded the Tanuki Game Award!"
+        },
+        {
+          "s": 1,
+          "t": "As well as a generous sum of Mora... AND a sponsorship from Yae Publishing House to fully develop the game and promote it throughout all Inazuma!"
+        },
+        {
+          "s": 5,
+          "t": "Mm!?"
+        },
+        {
+          "s": 6,
+          "t": "A—All Inazuma!?"
+        },
+        {
+          "s": 7,
+          "t": "Thump thump... *squeal*!?"
+        },
+        {
+          "s": 1,
+          "t": "In the interest of fairness, the evaluation committee will decide the winner based on attendee feedback as well as the opinion of our festival representative."
+        },
+        {
+          "s": 1,
+          "t": "Now, with that out of the way, let the game development begin! The forty-eight hour countdown... begins now."
+        },
+        {
+          "sit": "Although Miko's sudden announcement leaves people reeling, the teams quickly get to work..."
+        },
+        {
+          "s": 1,
+          "t": "Hm, looks like things are going well. We've just started, and it seems like all our teams have a plan."
+        },
+        {
+          "s": 1,
+          "t": "Plus, with the transformative powers of the bake-danuki, bringing those visions to fruition should be a lot easier."
+        },
+        {
+          "s": 1,
+          "t": "As the festival's most important judge and representative... You should go check on the progress, don't you think?"
+        },
+        {
+          "sit": "I really didn't see that coming..."
+        },
+        {
+          "sit": "Me as the main judge? Really?"
+        },
+        {
+          "s": 1,
+          "t": "It all comes down to fairness, as I said. I worked with the Yashiro Commission to come up with the theme, so the judging must go to someone else."
+        },
+        {
+          "s": 1,
+          "t": "No need to stress, though. It's all fun and games, is it not? Just choose the one you enjoy the most."
+        },
+        {
+          "s": 1,
+          "t": "Of course, if it's appearances you're worried about, you could always... Oh, I don't know... check in on the teams and ask about their ideas?"
+        },
+        {
+          "sit": "What do you mean \"appearances\"?"
+        },
+        {
+          "sit": "I plan to take this seriously, like I always do."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, and that proves that I picked the right person. Go on, then — I won't keep you."
+        },
+        {
+          "section": "Thoma, Hitotsume Kozou, Youko, Kappa"
+        },
+        {
+          "s": 13,
+          "t": "Alright... Let's add another elemental reaction here..."
+        },
+        {
+          "s": 15,
+          "t": "Boss Thoma is the best!"
+        },
+        {
+          "s": 25,
+          "t": "Boss Thoma is the best!"
+        },
+        {
+          "s": 13,
+          "t": "Heh, that's nice of you, but it's all thanks to Akitsu Yuugei that I came up with this in the first place, and that was all you..."
+        },
+        {
+          "s": 26,
+          "t": "Anything for Boss Thoma!"
+        },
+        {
+          "s": 3,
+          "t": "Whoa... Guess this team really hit it off..."
+        },
+        {
+          "s": 13,
+          "t": "Oh, hi there, {NICKNAME} and Paimon."
+        },
+        {
+          "s": 3,
+          "t": "Looks like you're getting along great with Kozou and the others! Guess a \"fixer\" can work with just about anyone, huh..."
+        },
+        {
+          "s": 13,
+          "t": "Haha, I have Itto to thank, actually. He introduced me to Kozou and the others after you left that day."
+        },
+        {
+          "s": 13,
+          "t": "We didn't get to see each other much during the Test of Courage, but they're a very friendly group of youkai..."
+        },
+        {
+          "s": 13,
+          "t": "All I had to do was mention the Mikawa Flower Festival, and they agreed to help right away. They even showed up bright and early this morning."
+        },
+        {
+          "s": 3,
+          "t": "That makes sense! It was their dream to host the Mikawa Flower Festival."
+        },
+        {
+          "s": 15,
+          "t": "...Yep! That's right!"
+        },
+        {
+          "s": 26,
+          "t": "Yeah, totally! We've been dreaming about it for a long time!"
+        },
+        {
+          "s": 3,
+          "t": "So, what are you planning for the game? It kinda sounded like you're making a sequel to Akitsu Yuugei!"
+        },
+        {
+          "s": 13,
+          "t": "Hmm... I suppose it's a spiritual sequel of sorts? It's a combination of Akitsu Yuugei and Mondstadt's Ludi Harpastum...I call it, \"Akitsu Harpastum.\""
+        },
+        {
+          "s": 13,
+          "t": "It's pretty simple, actually. Just swing the racket to hit the balls back where they came from."
+        },
+        {
+          "s": 3,
+          "t": "Uhh, but what does that have to do with the theme?"
+        },
+        {
+          "s": 13,
+          "t": "Haha... Good question. The Lady Guuji did say that reminiscing about \"nostalgic memories\" is a form of dreaming, right?"
+        },
+        {
+          "s": 13,
+          "t": "For many years after leaving Mondstadt, the only place I could experience Ludi Harpastum was in my dreams..."
+        },
+        {
+          "s": 13,
+          "t": "Once I was old enough to go back on my own, too much had changed... My age, my mindset... Whatever it was, the Ludi Harpastum of my childhood was gone."
+        },
+        {
+          "sit": "Thoma..."
+        },
+        {
+          "s": 13,
+          "t": "So, I suppose you could say, \"Akitsu Harpastum\" is a childhood dream many years in the making."
+        },
+        {
+          "s": 13,
+          "t": "Oh, and in the play-test stage, I added a few characters that often appear in fairytales and dreamscapes."
+        },
+        {
+          "s": 13,
+          "t": "...Hopefully, that reinforces the theme a bit more, haha. Wanna give it a try?"
+        },
+        {
+          "sit": "Sure!"
+        },
+        {
+          "sit": "Next time for sure."
+        },
+        {
+          "s": 6,
+          "t": "Haha! White Fur, Yellow Fur, get ready!"
+        },
+        {
+          "section": "Yoimiya, Sayu"
+        },
+        {
+          "s": 12,
+          "t": "Just think, all the kids in Inazuma might have a chance to play our game! Ah, I'm so excited! We have to win!"
+        },
+        {
+          "s": 5,
+          "t": "Have to win!"
+        },
+        {
+          "s": 11,
+          "t": "O—Or, we could take a more laid back approach? I mean, we shouldn't jeopardize our sleep or anything..."
+        },
+        {
+          "s": 12,
+          "t": "Hm, you have a point... The most important thing is to have fun."
+        },
+        {
+          "s": 11,
+          "t": "Oh, and learning a ninjutsu to grow taller! *ahem* I mean, learning new ninjutsu in general, hehe..."
+        },
+        {
+          "section": "Sangonomiya Kokomi, Yumemizuki Mizuki"
+        },
+        {
+          "s": 8,
+          "t": "Oh, here's an idea... Let's make the final checkpoint of this stage a ramen stand."
+        },
+        {
+          "s": 7,
+          "t": "Hm? Ramen stand? Why?"
+        },
+        {
+          "s": 9,
+          "t": "Let me guess... another callback to the real-life Lady Guuji?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "s": 3,
+          "t": "Well, we had to pick one, but honestly, all the ideas were pretty good..."
+        },
+        {
+          "s": 1,
+          "t": "It's still early days, so there's no rush to make a decision. Plenty of novels at Yae Publishing House have opened on a high note, only to lose the plot halfway through."
+        },
+        {
+          "s": 1,
+          "t": "You can pick your favorite game once everyone's done with their work."
+        },
+        {
+          "section": "Sayu, Yoimiya"
+        },
+        {
+          "s": 3,
+          "t": "Wow! Look at this! You've made so much progress already!"
+        },
+        {
+          "s": 12,
+          "t": "Hehe, all credit to Kichiboushi! We just told him what we wanted, and he made the set in no time!"
+        },
+        {
+          "s": 11,
+          "t": "He helped with the gameplay, too... All we had was a prototype, and now it's ready for play-testing already. His skills are amazing..."
+        },
+        {
+          "s": 5,
+          "t": "Hm! Kichiboushi, amazing!"
+        },
+        {
+          "sit": "Very amazing!"
+        },
+        {
+          "s": 3,
+          "t": "So, um... how do we play? It doesn't seem super obvious..."
+        },
+        {
+          "s": 12,
+          "t": "The board is infused with youkai power! All you need to do is place your hand on it to enter the \"dreamscape\"... At least, I think that's how it works, right, Kichiboushi?"
+        },
+        {
+          "s": 5,
+          "t": "Orange Fur, very smart!"
+        },
+        {
+          "s": 3,
+          "t": "So, you could say your game unifies human ingenuity with bake-danuki magic to create a scene that is completely illusory... Very creative!"
+        },
+        {
+          "s": 5,
+          "t": "White Fur, suddenly use many big words..."
+        },
+        {
+          "s": 11,
+          "t": "You sure sound official all of a sudden, Paimon... Are you trying to act like a real judge?"
+        },
+        {
+          "sit": "Don't mind her."
+        },
+        {
+          "s": 3,
+          "t": "Hm... This new style of game development deserves a name! How about \"Unreal\"? Ooh! Or \"Unity\"?"
+        },
+        {
+          "sit": "Could you tell us about your game?"
+        },
+        {
+          "s": 12,
+          "t": "You betcha!"
+        },
+        {
+          "s": 3,
+          "t": "...Hey, a little acknowledgment would be nice!"
+        },
+        {
+          "s": 12,
+          "t": "Although, Sayu's the better person to ask! \"Bunshin Phantasm\" is her brain-child, after all."
+        },
+        {
+          "sit": "\"Bunshin Phantasm\"?"
+        },
+        {
+          "s": 11,
+          "t": "Yeah! It's based on a dream I had... In the dream, I learned to make bunshin, and I made them do all my work for me."
+        },
+        {
+          "s": 11,
+          "t": "With my clones around, there was no reason for that lady to come find me, so I could sleep as long as I wanted..."
+        },
+        {
+          "s": 3,
+          "t": "So even when you're asleep, you dream of getting more sleep..."
+        },
+        {
+          "s": 11,
+          "t": "It's just... I got so excited at the prospect that I actually woke myself up... *sigh* If only I could make bunshin in real life..."
+        },
+        {
+          "sit": "I have a feeling..."
+        },
+        {
+          "sit": "Your clones might not want to work any more than you do..."
+        },
+        {
+          "s": 11,
+          "t": "Well, then... Even if some get caught, the others could take a nap in the meantime, right?"
+        },
+        {
+          "s": 3,
+          "t": "But if your clones do all the work, doesn't all that fatigue transfer back to you in the end?"
+        },
+        {
+          "s": 11,
+          "t": "Oh, well, um... When you put it that way... I don't know anymore..."
+        },
+        {
+          "s": 12,
+          "t": "All dreams are nonsensical and complicated in their own way. But that's what makes them interesting!"
+        },
+        {
+          "s": 12,
+          "t": "Anyway, that's our game — \"The Most Wonderful Bunshin Phantasm: Mujina Body Doubles to the Rescue!\""
+        },
+        {
+          "s": 3,
+          "t": "What's a... mujina body double?"
+        },
+        {
+          "s": 11,
+          "t": "That's a long story... Wanna just give it a try?"
+        },
+        {
+          "sit": "Sure!"
+        },
+        {
+          "sit": "Next time for sure."
+        },
+        {
+          "s": 11,
+          "t": "Awesome! All you have to do is put your hand on the board and close your eyes..."
+        },
+        {
+          "section": "Thoma, Hitotsume Kozou, Kappa, Youko"
+        },
+        {
+          "s": 13,
+          "t": "Hmm, we need to fine tune some things if we want to take home that award... Should we add a few more mechanisms?"
+        },
+        {
+          "s": 15,
+          "t": "Anything for Boss Thoma!"
+        },
+        {
+          "s": 26,
+          "t": "Boss Thoma is the best!"
+        },
+        {
+          "s": 25,
+          "t": "Great idea, Boss Thoma!"
+        },
+        {
+          "s": 6,
+          "t": "Boss Thoma is best!"
+        },
+        {
+          "section": "Sangonomiya Kokomi, Yumemizuki Mizuki"
+        },
+        {
+          "s": 3,
+          "t": "Hey there, Mizuki, Kokomi, and Gyoubu Koban! How are things going over here?"
+        },
+        {
+          "s": 9,
+          "t": "Not bad — we've made a lot of progress. Miss Mizuki is very experienced, and Gyoubu Koban's abilities are simply astonishing."
+        },
+        {
+          "s": 7,
+          "t": "Piece of cake! *click click*"
+        },
+        {
+          "s": 3,
+          "t": "Experienced, huh... That must put you at a huge advantage! Is it because you use games in your work?"
+        },
+        {
+          "s": 8,
+          "t": "Hmm, I'm not sure it gives me an advantage, per se... The games I use are for clinical purposes, not entertainment."
+        },
+        {
+          "s": 8,
+          "t": "But if we want that award, we need something a lot more fun. So, my experience only goes so far."
+        },
+        {
+          "s": 9,
+          "t": "That reminds me... The Yashiro Commission chose \"dreams\" as the theme of the competition. Do you think that was targeted at us?"
+        },
+        {
+          "s": 3,
+          "t": "Huh, using \"dreams\" to test a dream-eater... Yeah, it does sound like some kind of challenge..."
+        },
+        {
+          "s": 9,
+          "t": "They knew we wanted to use this as an opportunity to advertise our game. But, now, it's a competition..."
+        },
+        {
+          "s": 9,
+          "t": "Which means, if we lose, our game will be completely overshadowed by the winner."
+        },
+        {
+          "s": 9,
+          "t": "And if we win, she gets a share of the profits as the primary investor... Miss \"Fried Tofu With All the Frills\" is on the top of her game."
+        },
+        {
+          "s": 3,
+          "t": "Wow... That's a lot of scheming..."
+        },
+        {
+          "s": 7,
+          "t": "Mm? Screaming?"
+        },
+        {
+          "s": 8,
+          "t": "On the other hand, if we do win first place, the prestige will help us get the word out, which should increase the popularity of the bathhouse on Watatsumi Island."
+        },
+        {
+          "s": 8,
+          "t": "As for Yae Publishing House's sponsorship... As long as we win the competition, we get to decide the terms."
+        },
+        {
+          "s": 9,
+          "t": "Winner takes all, huh... I suppose it works both ways. This definitely has the Lady Guuji written all over it."
+        },
+        {
+          "s": 8,
+          "t": "My guess... is that she's doing all this for the entertainment factor — for fun, basically."
+        },
+        {
+          "s": 7,
+          "t": "Mm! Fun, fun! Gyoubu Koban likes fun!"
+        },
+        {
+          "s": 9,
+          "t": "Heh, well said. I suppose that's the purpose of a game, after all. For now, let's focus on making our game the best it can be."
+        },
+        {
+          "s": 3,
+          "t": "Good idea! So, what kind of game are you gonna make?"
+        },
+        {
+          "s": 8,
+          "t": "We're calling it, \"A Little Fox's Daydream.\" Basically, you play as a fox navigating between sweet dreams and nightmares in search of delicious fried tofu."
+        },
+        {
+          "sit": "I think I might know who the \"little fox\" is supposed to be..."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, looks like that fox takes some inspiration from, uh... real life..."
+        },
+        {
+          "s": 9,
+          "t": "Well, the design was Miss Mizuki's idea, but I'm completely on board. Sometimes, the only way to meet a challenge is with a challenge of your own."
+        },
+        {
+          "sit": "(Fighting fire with fire, huh...)"
+        },
+        {
+          "s": 8,
+          "t": "That's the definition of fun, don't you think? So, wanna give it a try?"
+        },
+        {
+          "sit": "Sure!"
+        },
+        {
+          "sit": "Next time for sure."
+        },
+        {
+          "s": 9,
+          "t": "Wonderful! Right this way..."
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "s": 1,
+          "t": "Well? Did you get a good look at all the games?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "I want to look around some more..."
+        },
+        {
+          "s": 1,
+          "t": "Oh? Well, hurry back. Don't keep me waiting for too long!"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "I think so."
+        },
+        {
+          "s": 1,
+          "t": "Oh? And what are your thoughts? I'm all ears."
+        },
+        {
+          "section": "Kamisato Ayato"
+        },
+        {
+          "s": 21,
+          "t": "The Lady Guuji's decision to turn this into a competition certainly was... unexpected. But, I digress... What do you think of the award?"
+        },
+        {
+          "sit": "It's very cute."
+        },
+        {
+          "sit": "It's alright..."
+        },
+        {
+          "s": 21,
+          "t": "Is that so? Hehe, make sure to let Ayaka know you think so."
+        },
+        {
+          "section": "Kamisato Ayaka"
+        },
+        {
+          "s": 19,
+          "t": "I can't believe I finished everything in time... That was close."
+        },
+        {
+          "sit": "Organizing a competition out of thin air..."
+        },
+        {
+          "sit": "That must have been a lot of work."
+        },
+        {
+          "s": 19,
+          "t": "Yeah... It was a very last-minute change of plans. We had to get a bunch of supplies ready, like the Tanuki Game Award, which took a while."
+        },
+        {
+          "s": 19,
+          "t": "If only I had a bit more time, I'm sure I could have made it look better..."
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "Sayu's \"Bunshin Phantasm\"..."
+        },
+        {
+          "s": 1,
+          "t": "Bunshin, huh... I'm not surprised she's interested in learning that ninjutsu. I suppose I could find an opportunity to teach her..."
+        },
+        {
+          "s": 3,
+          "t": "Wait, you know how to make bunshin!?"
+        },
+        {
+          "s": 1,
+          "t": "Well, if it's conjuring a body double to sit at the shrine in my place, that's child's play. I'm sure plenty of youkai can do the same."
+        },
+        {
+          "s": 1,
+          "t": "Ah, but best not let Nana find out... Pretend I didn't say anything, okay?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "Thoma's \"Akitsu Harpastum\"..."
+        },
+        {
+          "s": 1,
+          "t": "Akitsu Harpastum, huh? I'm sure that will be a nostalgic experience for many people."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, perhaps a Mondstadt spin on an Inazuman classic will be... Dare I say, a breath of fresh air..."
+        },
+        {
+          "s": 1,
+          "t": "What do you say we drag Ei out here so she can join in on the fun?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "Mizuki's \"A Little Fox's Day—\""
+        },
+        {
+          "s": 1,
+          "t": "Hmm?"
+        },
+        {
+          "sit": "(You quickly cut yourself off upon sensing a sharp look from Miko.)"
+        },
+        {
+          "s": 1,
+          "t": "What an interesting take on the theme... Tell me, did it come from Miss \"Sole of the Deep\" or my dear, old friend?"
+        },
+        {
+          "sit": "You're not going to charge them for using your likeness, are you...?"
+        },
+        {
+          "s": 1,
+          "t": "Heh, not a bad idea. But, I'm more interested in seeing how this plays out, which means... turning a blind eye, for now."
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "You share your play-test insights with Miko..."
+        },
+        {
+          "s": 1,
+          "t": "Mmm, fascinating... Which game are you looking forward to the most?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "Hmm, guess I should go back and check things out some more..."
+        },
+        {
+          "s": 1,
+          "t": "That's the spirit! Give the games another look, and I'm sure one of them will speak to you. Go on, now."
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "s": 1,
+          "t": "Oh? Back so soon? Did you want to withhold judgment until they're done?"
+        },
+        {
+          "section": "Yae Miko"
+        },
+        {
+          "sit": "Hmm, I think I'm good. I don't need to make a call right away."
+        },
+        {
+          "s": 1,
+          "t": "Ah, you don't want to judge an unfinished product? Well, that does make sense..."
+        },
+        {
+          "s": 1,
+          "t": "There are fun things to do at some of the stalls nearby. You can check them out while the contestants work on their games."
+        },
+        {
+          "sit": "You spend some time perusing the stalls and play-testing \"Bunshin Phantasm,\" \"Akitsu Harpastum,\" and \"A Little Fox's Daydream.\"<br/>Soon, night falls."
+        },
+        {
+          "section": "Arrive"
+        },
+        {
+          "s": 3,
+          "t": "Wow... Time really flew by today! It's so late already..."
+        },
+        {
+          "s": 3,
+          "t": "The game booths were cool, but the food was even better! There were vendors selling Dango Milk, Tricolor Dango, Rice Cake Soup, you name it!"
+        },
+        {
+          "sit": "Of course you care about the food the most..."
+        },
+        {
+          "s": 3,
+          "t": "Hehe, Paimon saved a skewer just for you! Here, before it gets cold!"
+        },
+        {
+          "sit": "It's not something you just didn't finish, right?"
+        },
+        {
+          "s": 3,
+          "t": "N—No! Of course not! If you don't want it, Paimon will eat it herself!"
+        },
+        {
+          "sit": "(You enjoy the soft and chewy texture of the snack. With the excitement of the festival all around you, it almost tastes sweeter than usual.)"
+        },
+        {
+          "s": 3,
+          "t": "Tastes great, right? Which means... We should come back for more tomorrow!"
+        },
+        {
+          "sit": "So that's why you saved one for me..."
+        },
+        {
+          "sit": "You've run out Mora to buy it yourself."
+        },
+        {
+          "s": 3,
+          "t": "Hehe... Wait! Do you see that up ahead? What's someone doing out this late..."
+        },
+        {
+          "s": 27,
+          "t": "..."
+        },
+        {
+          "s": 3,
+          "t": "Huh, their clothes look kinda weird... Oh, could they be one of those costumed actors Miko mentioned?"
+        },
+        {
+          "s": 27,
+          "t": "...Heh..."
+        },
+        {
+          "s": 3,
+          "t": "Hey! Hello there! Are you also here for the festival?"
+        },
+        {
+          "s": 27,
+          "t": "...Hyah!"
+        },
+        {
+          "sit": "Paimon! Watch out!"
+        },
+        {
+          "s": 3,
+          "t": "Waaaah!!!"
+        },
+        {
+          "section": "Arrive"
+        },
+        {
+          "s": 27,
+          "t": "..."
+        },
+        {
+          "sit": "(Is that it...?)"
+        },
+        {
+          "s": 27,
+          "t": "..."
+        },
+        {
+          "sit": "(...!)"
+        },
+        {
+          "s": 27,
+          "t": "...Hyah!"
+        },
+        {
+          "sit": "(So fast!)"
+        },
+        {
+          "s": 27,
+          "t": "..."
+        },
+        {
+          "sit": "(When did this dagger get here?)"
+        },
+        {
+          "s": 27,
+          "t": "...Heh..."
+        },
+        {
+          "sit": "(Hold on, I know this feeling... I've felt it several times before...!)"
+        },
+        {
+          "s": 27,
+          "t": "...Hyah!"
+        },
+        {
+          "sit": "(I'm in a dream!!!)"
+        },
+        {
+          "s": 3,
+          "t": "...{NICKNAME}! Hey! Are you alright!?"
+        },
+        {
+          "sit": "...What just happened?"
+        },
+        {
+          "s": 3,
+          "t": "Well, you fought that strange person and made them disappear. But then, all of a sudden, you started backing up like you were super afraid of something..."
+        },
+        {
+          "sit": "...I'm fine now, don't worry."
+        },
+        {
+          "s": 3,
+          "t": "Phew... You nearly gave Paimon a heart attack..."
+        },
+        {
+          "sit": "(I saw a dagger, but it was Tricolor Dango the whole time... So, it was all just a nightmare?)"
+        },
+        {
+          "sit": "(Luckily, I heard the sound of thunder in the dream. Otherwise, it probably would have taken me a lot longer to break out of the nightmare...)"
+        },
+        {
+          "s": 3,
+          "t": "Also, what was with that thunder just now? It came out of nowhere, and it's not even raining!"
+        },
+        {
+          "sit": "Huh...?"
+        },
+        {
+          "s": 3,
+          "t": "What's wrong?"
+        },
+        {
+          "sit": "(So the thunder... wasn't part of the dream?)"
+        },
+        {
+          "sit": "(Who was that person...?)"
+        },
+        {
+          "s": 28,
+          "t": "...Has a \"Nightmare\" returned to Inazuma once again?"
+        },
+        {
+          "s": 29,
+          "t": "Hey, Komura! Time to go. The stalls are closed, so let's head home for the night!"
+        },
+        {
+          "s": 30,
+          "t": "..."
+        },
+        {
+          "s": 29,
+          "t": "Hey! Did you hear me? No more gaming tonight. We can come back tomorrow!"
+        },
+        {
+          "s": 29,
+          "t": "...Komura, Komura!"
+        },
+        {
+          "s": 30,
+          "t": "..."
+        },
+        {
+          "s": 29,
+          "t": "Um... Komura?"
+        },
+        {
+          "s": 30,
+          "t": "What's with the yelling? I can hear you just fine. Let's go."
+        },
+        {
+          "s": 29,
+          "t": "...Huh?"
+        },
+        {
+          "s": 30,
+          "t": "...What? You're not coming? Why are you giving me that look?"
+        },
+        {
+          "s": 29,
+          "t": "Komura, weren't you..."
+        },
+        {
+          "s": 29,
+          "t": "Over there... just now?"
+        }
+      ],
+      "description": "You receive a long-awaited letter from Yae Miko…"
+    }
+  ],
+  "speakers": [
+    "Takeshi",
+    "Yae Miko",
+    "Raiden Shogun",
+    "Paimon",
+    "Ioroi",
+    "\"Kichiboushi\"",
+    "\"Shousei\"",
+    "\"Gyoubu Koban\"",
+    "Yumemizuki Mizuki",
+    "Sangonomiya Kokomi",
+    "Gorou",
+    "Sayu",
+    "Yoimiya",
+    "Thoma",
+    "Arataki Itto",
+    "Hitotsume Kozou",
+    "Kuki Shinobu",
+    "Hirotatsu",
+    "Madarame Hyakubei",
+    "Kamisato Ayaka",
+    "Hirano",
+    "Kamisato Ayato",
+    "Kujou Sara",
+    "Haruto",
+    "Inoue",
+    "Kappa",
+    "Youko",
+    "Nightmare Fragments",
+    "Ei",
+    "Asari",
+    "Komura"
+  ],
+  "id": "q-40190"
+}

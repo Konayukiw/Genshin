@@ -1,0 +1,790 @@
+{
+  "chapter": "Mushroom Realm Mystery",
+  "chapter_title": "Orchard Repose",
+  "act": "Act 2",
+  "act_title": "Orchard Repose",
+  "region": null,
+  "quests": [
+    {
+      "title": "Orchard Repose",
+      "dialogue": [
+        {
+          "section": "Iansan"
+        },
+        {
+          "s": 0,
+          "t": "Have fun around the tribe, you two! I'm gonna start my training for the day."
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 1,
+          "t": "Oh, you're here already!"
+        },
+        {
+          "s": 2,
+          "t": "Yep, my dad whipped up something fantastic as always. He's a great cook! He can turn any protein or vegetable into something delicious."
+        },
+        {
+          "s": 1,
+          "t": "No wonder you look so refreshed! That's the power of a good meal!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, that's right! I was hoping to bring Uncle Acatl with me, but he wasn't home. So, I guess you're stuck with me."
+        },
+        {
+          "s": 2,
+          "t": "Uncle Acatl is our chief, by the way! Who better than the chief to introduce you to the tribe, right?"
+        },
+        {
+          "s": 2,
+          "t": "I've never given an official tour before, so I'm thinking I'll just... explain things as we go along? Is that okay?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! That sounds great."
+        },
+        {
+          "s": 2,
+          "t": "Okay, whew... Then, let's start in... that direction!"
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 2,
+          "t": "My place is over there! See that fruit stand out front? My house is right behind it."
+        },
+        {
+          "s": 1,
+          "t": "You have a fruit stand in front of your house? Does that mean you grow the fruit yourselves?"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, you guessed it! My family runs a huge orchard."
+        },
+        {
+          "s": 2,
+          "t": "We live really close to the main entrance of the tribe. So, every morning, I wake up to the sound of all the people and carts on the road."
+        },
+        {
+          "s": 2,
+          "t": "That's also when my parents start work, so that's how I know it's time to get up."
+        },
+        {
+          "s": 1,
+          "t": "And then you all work in the orchard together."
+        },
+        {
+          "s": 2,
+          "t": "W—Well... Knowing it's time to get up and actually doing it are two separate things."
+        },
+        {
+          "s": 2,
+          "t": "Most of the time, I end up curling under the covers and falling back asleep."
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon gets you! Sleeping in is the best kind of sleep."
+        },
+        {
+          "s": 1,
+          "t": "Plus, when you have {NICKNAME} to wake you up, it's no big deal!"
+        },
+        {
+          "s": 3,
+          "t": "Next time, I'm sleeping in, and you can wake me up."
+        },
+        {
+          "s": 1,
+          "t": "No, no! That was just a joke, heh... Don't scare Paimon like that, {NICKNAME}!"
+        },
+        {
+          "s": 2,
+          "t": "Hahaha, well, maybe you can both sleep in sometime."
+        },
+        {
+          "s": 2,
+          "t": "Once I get up, I usually help my parents around the house, head out for training, then come home for lunch."
+        },
+        {
+          "s": 2,
+          "t": "After lunch is when my parents do their delivery runs, so then it's my turn to work in the orchard."
+        },
+        {
+          "s": 3,
+          "t": "That should be about now, right?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, Paimon would love to see the orchard! Can you show us?"
+        },
+        {
+          "s": 2,
+          "t": "Sure thing! We'll go right after this. But, first... come with me."
+        },
+        {
+          "section": "Varesa, Iansan"
+        },
+        {
+          "s": 2,
+          "t": "Oh, Coach Iansan! I thought it was time for the Pilgrimage. What are you doing back here?"
+        },
+        {
+          "s": 0,
+          "t": "Just stocking up on some battle supplies. I was running low."
+        },
+        {
+          "s": 0,
+          "t": "Oh, hello there, you two. I think I've seen you around the Stadium before. You're the ones helping Kachina, right?"
+        },
+        {
+          "s": 1,
+          "t": "Yep! Paimon is Paimon, and this is {NICKNAME}!"
+        },
+        {
+          "s": 0,
+          "t": "You're amazing! You helped Kachina improve so much in such a short amount of time! She's a lot more confident, too."
+        },
+        {
+          "s": 0,
+          "t": "Her success in the Pilgrimage is the culmination of all her hard work. She should be very proud of herself."
+        },
+        {
+          "s": 3,
+          "t": "I'm sure she'd love to hear that from you in person."
+        },
+        {
+          "s": 0,
+          "t": "Of course, just leave that to me. I know how important that is to her."
+        },
+        {
+          "s": 0,
+          "t": "So, what brings you to the Collective of Plenty?"
+        },
+        {
+          "section": "Iansan, Varesa"
+        },
+        {
+          "s": 1,
+          "t": "We're just doing some adventuring! We don't have any concrete plans."
+        },
+        {
+          "s": 1,
+          "t": "We ran into Varesa on the road, and she was nice enough to lead us the rest of the way. She's even giving us a tour!"
+        },
+        {
+          "s": 2,
+          "t": "It's my pleasure!"
+        },
+        {
+          "s": 0,
+          "t": "Still keeping up with your training, Varesa? No slacking, I hope..."
+        },
+        {
+          "s": 2,
+          "t": "Yes, Coach! Did three full shuttle runs, just as you instructed, Coach!"
+        },
+        {
+          "s": 0,
+          "t": "Good. Then, we'll continue with the training plan... As for your diet... actually, no dieting for now. As you are."
+        },
+        {
+          "s": 0,
+          "t": "Feel free to use any of the equipment around here. But, if you're planning to do strength training, make sure you have a spotter."
+        },
+        {
+          "s": 2,
+          "t": "Of course! Don't need to tell me twice, Coach!"
+        },
+        {
+          "s": 1,
+          "t": "Wait, but isn't a special diet a huge part of body-building? Varesa doesn't need one?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, it's kind of a long story... I suppose you could say Varesa is among the select few who have a natural gift."
+        },
+        {
+          "s": 0,
+          "t": "When she first started training with me, I started her on a standard training regimen and wrote out a simple recipe plan to give to her father."
+        },
+        {
+          "s": 2,
+          "t": "...But, it left me so hungry, I couldn't even muster up the energy to make it to class."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, that was my fault. It was just your average nutrition plan, but Varesa's metabolism is something else."
+        },
+        {
+          "s": 0,
+          "t": "Once I studied her eating habits, I was able to tailor it to her needs."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, Coach is really thoughtful that way! Now, I feel like I'm making real progress, and the training and classes are a lot more fun!"
+        },
+        {
+          "s": 0,
+          "t": "Varesa is currently my top student... She can lift even more than me!"
+        },
+        {
+          "s": 1,
+          "t": "Wait, but... You're the coach! And a victor of the Pilgrimage!"
+        },
+        {
+          "s": 0,
+          "t": "Hahaha, don't sound so surprised. This kind of thing is really common in the fitness world. Everyone starts from a different baseline."
+        },
+        {
+          "s": 1,
+          "t": "Wow, that's amazing! Paimon would have never guessed..."
+        },
+        {
+          "s": 0,
+          "t": "I'm not exaggerating, either. Varesa is extremely strong. All she needs is a bit more confidence..."
+        },
+        {
+          "s": 2,
+          "t": "Oh, well, it's just because Coach is a great teacher! Hehe, it didn't take much effort at all..."
+        },
+        {
+          "s": 3,
+          "t": "Just further proof that you're a natural."
+        },
+        {
+          "s": 2,
+          "t": "Oh believe me, I'm not. I mean, sure, I can face a few monsters and lift some heavy training equipment..."
+        },
+        {
+          "s": 2,
+          "t": "But, I'm useless when it comes to fighting other people. I'm scared I'll hurt someone..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, that makes sense... But, what about the Pilgrimage?"
+        },
+        {
+          "s": 2,
+          "t": "*sigh* I've never placed, or even made it out of the team stage. I'm not good at fighting actual people."
+        },
+        {
+          "s": 0,
+          "t": "When it comes to power, it's all about control. Take these weights, for example."
+        },
+        {
+          "s": 0,
+          "t": "It takes strength to lift them, yes, but also to control the weight when you set them down. True mastery means control during both motions."
+        },
+        {
+          "s": 2,
+          "t": "I know that, and I can do it just fine during training. But, whenever I have to face a real person, I start to doubt myself..."
+        },
+        {
+          "sit": "It's alright."
+        },
+        {
+          "sit": "It'll come with time."
+        },
+        {
+          "s": 2,
+          "t": "Thanks, I appreciate the support. As long as I keep training, I'm sure I'll get it eventually."
+        },
+        {
+          "s": 2,
+          "t": "Well, we should get going, Coach. I told {NICKNAME} and Paimon I would show them around the orchard."
+        },
+        {
+          "s": 0,
+          "t": "Sounds good. I hope you enjoy your time here!"
+        },
+        {
+          "s": 3,
+          "t": "It'll come with time."
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 2,
+          "t": "This is where Coach Iansan lives. I heard there was some kind of incident at the Stadium, so she's not home right now."
+        },
+        {
+          "s": 2,
+          "t": "She asked me to do some upkeep on her equipment here, so we'll have to take a short break. It won't take long!"
+        },
+        {
+          "s": 1,
+          "t": "Whoa, there's all sorts of stuff around here... Is this all training equipment?"
+        },
+        {
+          "s": 2,
+          "t": "Sure is! It's all stuff Coach Iansan uses in her classes! She's taught me so much!"
+        },
+        {
+          "s": 2,
+          "t": "If I'm being honest, though, I don't understand much of the theory behind it. I just do whatever Coach Iansan says and reap the payoff, hehe... She's amazing."
+        },
+        {
+          "s": 3,
+          "t": "That means you're a natural!"
+        },
+        {
+          "s": 1,
+          "t": "Ooh, Paimon wants to try one of these! Can she?"
+        },
+        {
+          "s": 2,
+          "t": "Sure! Here, start with the lightest one."
+        },
+        {
+          "s": 1,
+          "t": "*heave*..."
+        },
+        {
+          "s": 1,
+          "t": "Nope, it won't even budge... You can actually lift these things?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, yeah! It's pretty easy, actually... Coach Iansan is ordering me custom weights because these are too light."
+        },
+        {
+          "s": 1,
+          "t": "Wow, that's amazing! Paimon would have never guessed..."
+        },
+        {
+          "s": 2,
+          "t": "Oh, well, it's just because Coach is a great teacher! Hehe, it didn't take much effort at all..."
+        },
+        {
+          "s": 3,
+          "t": "Just further proof that you're a natural."
+        },
+        {
+          "s": 2,
+          "t": "Oh believe me, I'm not. I mean, sure, I can face a few monsters and lift some heavy training equipment..."
+        },
+        {
+          "s": 2,
+          "t": "But, I'm useless when it comes to fighting other people. I'm scared I'll hurt someone..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, that makes sense... But, what about the Pilgrimage?"
+        },
+        {
+          "s": 2,
+          "t": "*sigh* I've never placed, or even made it out of the team stage. I'm not good at fighting actual people."
+        },
+        {
+          "s": 2,
+          "t": "Coach says, when it comes to power, it's all about control. Take these weights, for example..."
+        },
+        {
+          "s": 2,
+          "t": "It takes strength to lift them, yes, but also to control the weight when you set them down. True mastery means control during both motions."
+        },
+        {
+          "s": 2,
+          "t": "I know that, and I can do it just fine during training. But, whenever I have to face a real person, I start to doubt myself..."
+        },
+        {
+          "sit": "It's alright."
+        },
+        {
+          "sit": "It'll come with time."
+        },
+        {
+          "s": 2,
+          "t": "Thanks, I appreciate the support. As long as I keep training, I'm sure I'll get it eventually. For now... I just need to wrap up this maintenance."
+        },
+        {
+          "s": 2,
+          "t": "And, done! Sorry for the wait. Let's go check out the orchard."
+        },
+        {
+          "s": 3,
+          "t": "It'll come with time."
+        },
+        {
+          "section": "Varesa, Iansan"
+        },
+        {
+          "s": 2,
+          "t": "Oh, Coach Iansan! Are you here to do some training?"
+        },
+        {
+          "s": 0,
+          "t": "Nope. Just doing some maintenance on the equipment here while I have some time."
+        },
+        {
+          "s": 0,
+          "t": "Oh, hey there, you two. It's nice to see you again. We're happy to have you!"
+        },
+        {
+          "s": 0,
+          "t": "So, what brings you to the Collective of Plenty?"
+        },
+        {
+          "section": "Iansan, Varesa"
+        },
+        {
+          "s": 2,
+          "t": "Coach Iansan! Are you here to do some training?"
+        },
+        {
+          "s": 0,
+          "t": "Nope. Just doing some maintenance on the equipment here while I have some time."
+        },
+        {
+          "s": 0,
+          "t": "Oh, it's you two! Welcome to the Collective of Plenty!"
+        },
+        {
+          "s": 0,
+          "t": "Look! I bought this at the Stadium the other day."
+        },
+        {
+          "s": 1,
+          "t": "Wait, we've seen that graffiti design before!"
+        },
+        {
+          "s": 0,
+          "t": "It's not easy to get your hands on one of these! I had to wait in a super long line, haha."
+        },
+        {
+          "s": 2,
+          "t": "Ooh, I bought a top with that design, too! I hung it up right next to my bed, hehe."
+        },
+        {
+          "sit": "Yep, that's me alright."
+        },
+        {
+          "sit": "Ah... how embarrassing..."
+        },
+        {
+          "s": 2,
+          "t": "Ooh, you should sign it for me sometime! It would mean the world to me!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, I meant to ask, what brings you out here, anyway?"
+        },
+        {
+          "s": 3,
+          "t": "Ah... how embarrassing..."
+        },
+        {
+          "s": 0,
+          "t": "Hahaha, don't be shy! After everything you did for Natlan, you deserve the recognition!"
+        },
+        {
+          "section": "Vanana"
+        },
+        {
+          "s": 4,
+          "t": "This is Varesa's orchard... Must keep safe. No bad people or saurians allowed in."
+        },
+        {
+          "s": 4,
+          "t": "But you smell different. Very berry good friends, eat as much fruit as they like, no problem! Full tummy is happy tummy — Varesa says so too."
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 4,
+          "t": "Roar, roar..."
+        },
+        {
+          "s": 2,
+          "t": "Good girl, Vanana! Thanks for guarding the house! Now, let me take a good look at you — did you have another growth spurt?"
+        },
+        {
+          "s": 4,
+          "t": "Roar!"
+        },
+        {
+          "s": 2,
+          "t": "Haha, hey! I was just taking a look, not inviting you to wrestle! Next time, okay?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, this is Vanana. She keeps watch over the orchard when no one's here. She's a tough little thing, but also a clingy baby at heart."
+        },
+        {
+          "s": 1,
+          "t": "Um, did you say... \"little\"? She certainly doesn't look it..."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, this is my family's orchard. C'mon, I'll show you around."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, it's even bigger than Paimon imagined!"
+        },
+        {
+          "s": 1,
+          "t": "Look at all the fruit! It looks delicious!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe, this is the Collective of Plenty, after all. Being so close to the volcano makes the soil extra fertile. So, everything that grows around here is amazing."
+        },
+        {
+          "s": 2,
+          "t": "Especially the fruit. We sell a lot to the other tribes, give some to family and friends, and keep the rest for ourselves."
+        },
+        {
+          "s": 1,
+          "t": "Well, if you have to live next to a volcano, at least you get something good out of it!"
+        },
+        {
+          "s": 2,
+          "t": "That's right! Since we're here, why don't we pick some and have ourselves a little snack!"
+        },
+        {
+          "s": 1,
+          "t": "Wait, but didn't you just eat?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, but there's always room for dessert! Plus, we don't have to pick that many... A few dozen should do it!"
+        },
+        {
+          "sit": "A... A few dozen!?"
+        },
+        {
+          "sit": "You really can eat a lot, huh..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, you know that fruit stand in front of my house? Well, as a kid, whenever my dad was working at the stand, I would tug on his shirt and ask for a piece of fruit."
+        },
+        {
+          "s": 2,
+          "t": "I would scarf it down in a heartbeat and then ask for another. Before long, people would gather around just to watch."
+        },
+        {
+          "s": 2,
+          "t": "My dad told me I made the fruit look so delicious, more and more people started coming to our stand. Which, of course, made me want to eat even more."
+        },
+        {
+          "s": 2,
+          "t": "The customers would ruffle my hair and say, \"It's good to have a healthy appetite. You'll grow up big and strong, for sure.\""
+        },
+        {
+          "s": 2,
+          "t": "I mean, what kid doesn't like a compliment? So, I would smile, which would get my dad to smile, and then my mom, too..."
+        },
+        {
+          "s": 1,
+          "t": "Aww, that's so cute! Plus, free fruit whenever you want? Jealous!"
+        },
+        {
+          "s": 2,
+          "t": "With all that said, it also helped that our fruit actually tastes really good! And, I'm not just saying that — you'll see what I mean in a minute!"
+        },
+        {
+          "s": 2,
+          "t": "Oh, and there's an Epic Feast Showdown in a few days, so we're providing a bunch of the fruit for the desserts."
+        },
+        {
+          "s": 1,
+          "t": "Epic Feast Showdown?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, sorry! It's basically a speed eating contest. We need to prepare a ton of ingredients."
+        },
+        {
+          "s": 2,
+          "t": "So, don't worry about anything going to waste! Okay, let's get picking!"
+        },
+        {
+          "s": 1,
+          "t": "Alright! Hmm, where should we start..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Why is there a mushroom over there?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, that kind of mushroom? They kind of appeared out of nowhere when we first planted the orchard."
+        },
+        {
+          "s": 2,
+          "t": "They grow really fast and don't require any water or fertilizer. Oh, and the flavor is amazing!"
+        },
+        {
+          "s": 2,
+          "t": "You can grill them, stir-fry them, or even eat them raw! The flavor has almost a... fruity taste to it!"
+        },
+        {
+          "s": 1,
+          "t": "A mushroom that tastes like a fruit? That's a new one..."
+        },
+        {
+          "s": 3,
+          "t": "Maybe it absorbed nutrients from the nearby fruit trees?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, that could be! Anyway, as far as I'm concerned, if it tastes like a fruit, then it fits right in! Who cares where it came from?"
+        },
+        {
+          "s": 2,
+          "t": "Go ahead! Pick as much as you want! Might as well get some mushrooms, too, and I'll whip up something to eat!"
+        },
+        {
+          "s": 3,
+          "t": "You really can eat a lot, huh..."
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 2,
+          "t": "Go ahead! Pick as much as you want! Might as well get some mushrooms, too, and I'll whip up something to eat!"
+        },
+        {
+          "section": "Varesa"
+        },
+        {
+          "s": 2,
+          "t": "Whoa, that's quite the haul!"
+        },
+        {
+          "s": 1,
+          "t": "Well, you need a bunch of ingredients for the eating competition, right? Thought we'd give you some help."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and you were right about the fruit! Paimon tried one, and it was one of the sweetest, juiciest pieces of fruit Paimon has ever had! You must sell out every time!"
+        },
+        {
+          "s": 1,
+          "t": "Also Paimon tried one of the mushrooms, too! In a weird way, it really did taste like a fruit!"
+        },
+        {
+          "s": 1,
+          "t": "We should call them \"berryshrooms\"!"
+        },
+        {
+          "sit": "When it comes to food, Paimon's judgment never fails."
+        },
+        {
+          "sit": "Every so often, Paimon knows what she's talking about."
+        },
+        {
+          "s": 1,
+          "t": "Well, Paimon had multiple nations' worth of good food to refine her palate. Her tastebuds never lie!"
+        },
+        {
+          "s": 2,
+          "t": "Well, thanks to your help, we can call it early today. I promised you a meal, didn't I? I'll be right back!"
+        },
+        {
+          "sit": "Before long, Varesa places a piping hot mushroom dish in front of you."
+        },
+        {
+          "s": 2,
+          "t": "I'm not the greatest cook, so it's nothing special. Still, high-quality ingredients are hard to mess up."
+        },
+        {
+          "s": 1,
+          "t": "Don't sell yourself short! It looks great! Paimon can smell the \"umami\" from here!"
+        },
+        {
+          "s": 1,
+          "t": "Whoa! This is completely different from the raw taste!"
+        },
+        {
+          "sit": "Yeah, definitely two distinct flavors."
+        },
+        {
+          "sit": "I like them both."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, I'm glad!"
+        },
+        {
+          "s": 2,
+          "t": "This kind of mushroom is a favorite in the tribe. But, it's not well-known outside the Collective of Plenty."
+        },
+        {
+          "s": 2,
+          "t": "Actually, we're hoping to use the upcoming competition to introduce it to a wider audience. Uncle Atolli has been coming up with new recipes like there's no tomorrow..."
+        },
+        {
+          "s": 2,
+          "t": "Hey, you two should sign up! Only if you want to, of course..."
+        },
+        {
+          "s": 3,
+          "t": "What do you think, Paimon?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, you mean the Epic Feast Showdown? ...Yeah! Paimon would love to sign up! She might not do very well, though..."
+        },
+        {
+          "s": 2,
+          "t": "Don't worry! You can tap out at any time. Nothing goes to waste. I'll take care of anything you can't finish."
+        },
+        {
+          "s": 1,
+          "t": "Oh, good... Wait! Aren't you competing, too? Then, Paimon doesn't stand a chance!"
+        },
+        {
+          "s": 2,
+          "t": "You never know until you try! Besides, from what I just saw, looks like you can hold your own."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, winning isn't the point. Just think of it as an opportunity to try our local delicacies!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, good point!"
+        },
+        {
+          "s": 3,
+          "t": "Guess I'll tag along."
+        },
+        {
+          "s": 1,
+          "t": "Nice! Then, let's sign up together! Time for Paimon to show these people what she's made of!"
+        },
+        {
+          "s": 3,
+          "t": "I like them both."
+        },
+        {
+          "s": 3,
+          "t": "Every so often, Paimon knows what she's talking about."
+        },
+        {
+          "s": 1,
+          "t": "Uh, wait... Something tells Paimon that's not a compliment..."
+        }
+      ],
+      "description": "Varesa accompanies you to her home, the Collective of Plenty, to introduce you to the local customs."
+    }
+  ],
+  "speakers": [
+    "Iansan",
+    "Paimon",
+    "Varesa",
+    "Traveler",
+    "Vanana"
+  ],
+  "id": "ch-2071"
+}

@@ -1,0 +1,597 @@
+{
+  "chapter": "Old Notes and New Friends",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Soheil's Wish",
+  "region": null,
+  "quests": [
+    {
+      "title": "Soheil's Wish",
+      "dialogue": [
+        {
+          "section": "Soheil"
+        },
+        {
+          "s": 0,
+          "t": "Phew, it's a lot cooler here. Mind letting me see the slate?"
+        },
+        {
+          "sit": "Soheil examines the slate, alternating between frowning and marveling."
+        },
+        {
+          "s": 1,
+          "t": "Hey, you're spending too much time on this! You're not trying to commit the text to memory and skimp on our pay, are you?"
+        },
+        {
+          "s": 0,
+          "t": "Sorry, I was just so fascinated. This is my first time seeing writing like this..."
+        },
+        {
+          "sit": "Any discoveries?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Some of it looks like a construction log... It mentions \"Aaru,\" but there's no way to know if it's in any way connected to Aaru Village. Too bad the records say little more..."
+        },
+        {
+          "s": 0,
+          "t": "But this discovery is certainly worth several pages of writing. Thank you very much. Here, as per our agreement."
+        },
+        {
+          "sit": "You're welcome."
+        },
+        {
+          "sit": "You should be thanking Tirzad instead."
+        },
+        {
+          "s": 0,
+          "t": "My next step would be to find a bigger collection of primary materials, but that's going to be difficult without going into the desert..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I have an idea! If you have the time, please hear me out..."
+        },
+        {
+          "s": 2,
+          "t": "Mr. Soheil, are you thinking..."
+        },
+        {
+          "s": 2,
+          "t": "The sage prohibits any researcher from going into the desert."
+        },
+        {
+          "s": 0,
+          "t": "Now, I wouldn't dare challenge the sage's authority, but I'm sure he never prohibited the giving of gifts, right?"
+        },
+        {
+          "s": 1,
+          "t": "Gifts? What are you going to give us?"
+        },
+        {
+          "s": 0,
+          "t": "Something very precious... My archaeology notes."
+        },
+        {
+          "s": 0,
+          "t": "To be honest, I ventured into the desert more than a dozen years ago, but didn't find anything special other than noting the locations of several potential ruins."
+        },
+        {
+          "s": 0,
+          "t": "I believe it's fate that brought me back here to make your acquaintance in these ruins, so I want you to have these notes!"
+        },
+        {
+          "s": 2,
+          "t": "Are you trying to... I get it. That isn't against the rules, but I'm afraid your actions would..."
+        },
+        {
+          "s": 0,
+          "t": "My actions? I am simply presenting a gift as a celebration of my friendship with {NICKNAME} the big hero and Paimon the little hero. Isn't that more than fair?"
+        },
+        {
+          "s": 2,
+          "t": "I suppose..."
+        },
+        {
+          "sit": "It's fair indeed."
+        },
+        {
+          "sit": "It's not very fair..."
+        },
+        {
+          "s": 1,
+          "t": "The world of researchers is way too complicated! He could just have come right out and said he needed our help! Instead, we had to go through this whole charade..."
+        },
+        {
+          "s": 1,
+          "t": "If you ask Paimon, he's just afraid that the big guy over there would rat him out to the sage."
+        },
+        {
+          "sit": "It's because your world is too simple, Paimon."
+        },
+        {
+          "sit": "Wow, Paimon! You actually understood!"
+        },
+        {
+          "sit": "He must have his reasons."
+        },
+        {
+          "s": 1,
+          "t": "Is it? Paimon thinks her world's pretty complicated. Paimon has to remember what every dish tastes like, and all the ways to get different treasures..."
+        },
+        {
+          "s": 1,
+          "t": "Let's take a look at what's written in Soheil's gift!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Looks like he's been having a pretty hard time. He explored the area around the Mausoleum of King Deshret for a month without obtaining any results. He didn't want to give up, and found the Transparent Ruins."
+        },
+        {
+          "s": 1,
+          "t": "And then he found something a lot smaller than the Mausoleum of King Deshret — the Tomb of Carouses. Finally, he was attacked by a group of mercenaries in a place called Lamb-Devourer Rock."
+        },
+        {
+          "s": 1,
+          "t": "Whoa... Even though he went through all that, he still wrote that \"compared to the mockery, having no improvement in knowledge is more painful to endure.\""
+        },
+        {
+          "sit": "He sounded like a completely different person."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! Seems like he really was in it for the knowledge back then. Paimon's a little moved."
+        },
+        {
+          "s": 1,
+          "t": "From that perspective, it wouldn't be an exaggeration for him to call this a precious gift."
+        },
+        {
+          "s": 1,
+          "t": "Let's visit each location mentioned in his notes. If we find something decent, let's bring it back as a gift to him in return!"
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "s": 0,
+          "t": "Phew, it's a lot cooler here. Mind letting me see the slate?"
+        },
+        {
+          "sit": "Soheil examines the slate, alternating between frowning and marveling."
+        },
+        {
+          "s": 1,
+          "t": "Hey, you're spending too much time on this! You're not trying to commit the text to memory and skimp on our pay, are you?"
+        },
+        {
+          "s": 0,
+          "t": "Sorry, I was just so fascinated. This is my first time seeing writing like this..."
+        },
+        {
+          "sit": "Any discoveries?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Some of it looks like a construction log... It mentions \"Aaru,\" but there's no way to know if it's in any way connected to Aaru Village. Too bad the records say little more..."
+        },
+        {
+          "s": 0,
+          "t": "But this discovery is certainly worth several pages of writing. Thank you very much. Here, as per our agreement."
+        },
+        {
+          "sit": "You're welcome."
+        },
+        {
+          "sit": "You should be thanking Tirzad instead."
+        },
+        {
+          "s": 0,
+          "t": "My next step would be to find a bigger collection of primary materials, but that's going to be difficult without going into the desert..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I have an idea! If you have the time, please hear me out..."
+        },
+        {
+          "s": 2,
+          "t": "Mr. Soheil, are you thinking..."
+        },
+        {
+          "s": 2,
+          "t": "The sage prohibits any researcher from going into the desert."
+        },
+        {
+          "s": 0,
+          "t": "Now, I wouldn't dare challenge the sage's authority, but I'm sure he never prohibited the giving of gifts, right?"
+        },
+        {
+          "s": 1,
+          "t": "Gifts? What are you going to give us?"
+        },
+        {
+          "s": 0,
+          "t": "Something very precious... My archaeology notes."
+        },
+        {
+          "s": 0,
+          "t": "To be honest, I ventured into the desert more than a dozen years ago, but didn't find anything special other than noting the locations of several potential ruins."
+        },
+        {
+          "s": 0,
+          "t": "I believe it's fate that brought me back here to make your acquaintance in these ruins, so I want you to have these notes!"
+        },
+        {
+          "s": 2,
+          "t": "Are you trying to... I get it. That isn't against the rules, but I'm afraid your actions would..."
+        },
+        {
+          "s": 0,
+          "t": "My actions? I am simply presenting a gift as a celebration of my friendship with {NICKNAME} the big hero and Paimon the little hero. Isn't that more than fair?"
+        },
+        {
+          "s": 2,
+          "t": "I suppose..."
+        },
+        {
+          "sit": "It's fair indeed."
+        },
+        {
+          "sit": "It's not very fair..."
+        },
+        {
+          "s": 1,
+          "t": "The world of researchers is way too complicated! He could just have come right out and said he needed our help! Instead, we had to go through this whole charade..."
+        },
+        {
+          "s": 1,
+          "t": "If you ask Paimon, he's just afraid that the big guy over there would rat him out to the sage."
+        },
+        {
+          "sit": "It's because your world is too simple, Paimon."
+        },
+        {
+          "sit": "Wow, Paimon! You actually understood!"
+        },
+        {
+          "sit": "He must have his reasons."
+        },
+        {
+          "s": 1,
+          "t": "Is it? Paimon thinks her world's pretty complicated. Paimon has to remember what every dish tastes like, and all the ways to get different treasures..."
+        },
+        {
+          "s": 1,
+          "t": "Plus the names of all those Aranara too!"
+        },
+        {
+          "s": 1,
+          "t": "Let's take a look at what's written in Soheil's gift!"
+        },
+        {
+          "s": 1,
+          "t": "Mm... Looks like he's been having a pretty hard time. He explored the area around the Mausoleum of King Deshret for a month without obtaining any results. He didn't want to give up, and found the Transparent Ruins."
+        },
+        {
+          "s": 1,
+          "t": "And then he found something a lot smaller than the Mausoleum of King Deshret — the Tomb of Carouses. Finally, he was attacked by a group of mercenaries in a place called Lamb-Devourer Rock."
+        },
+        {
+          "s": 1,
+          "t": "Whoa... Even though he went through all that, he still wrote that \"compared to the mockery, having no improvement in knowledge is more painful to endure.\""
+        },
+        {
+          "sit": "He sounded like a completely different person."
+        },
+        {
+          "s": 1,
+          "t": "Yeah! Seems like he really was in it for the knowledge back then. Paimon's a little moved."
+        },
+        {
+          "s": 1,
+          "t": "From that perspective, it wouldn't be an exaggeration for him to call this a precious gift."
+        },
+        {
+          "s": 1,
+          "t": "Let's visit each location mentioned in his notes. If we find something decent, let's bring it back as a gift to him in return!"
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "s": 0,
+          "t": "You're back. Did you find anything special in the desert?"
+        },
+        {
+          "section": "Hulwani"
+        },
+        {
+          "s": 2,
+          "t": "Since the sage didn't specifically ban travelers from entering the desert... Yes, you may go ahead..."
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "sit": "We explored the Transparent Ruins."
+        },
+        {
+          "s": 0,
+          "t": "You went to the Transparent Ruins? Did you find anything?"
+        },
+        {
+          "s": 1,
+          "t": "Of course. Be prepared to be thunderstruck!"
+        },
+        {
+          "sit": "You recount your exploration of the Transparent Ruins to Soheil and give him the three stone slates."
+        },
+        {
+          "s": 0,
+          "t": "Aha! So King Deshret did indeed withhold a secret behind that unknown force. I shall get to the bottom of it."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "This is..."
+        },
+        {
+          "s": 0,
+          "t": "How could this be...?"
+        },
+        {
+          "s": 1,
+          "t": "Hey, you look pale... Did you discover something terrible?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... No, sorry, they're not exactly \"terrible\"... The writings on the stone slates look complicated, but they're actually... Records of leave requests."
+        },
+        {
+          "s": 0,
+          "t": "In addition, the recorded excuses are not any different from that of the young scholars today..."
+        },
+        {
+          "s": 0,
+          "t": "Phew, it's a good thing I failed to find a way to access the Transparent Ruins back in the day. I imagine that I would have been quite livid."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, I must thank you for bringing the slates back. Perhaps I should go ask around about the excuses people make in Mondstadt. That could be enough for me to write a paper..."
+        },
+        {
+          "s": 0,
+          "t": "\"Time Out From a Busy Schedule: On the Evolution of the Perception of Off-Days in Different Societies.\""
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "sit": "We explored the Lamb-Devourer Rock."
+        },
+        {
+          "s": 0,
+          "t": "You weren't in any danger, were you? Not that I doubt you could handle any situation, even if you did encounter Thutmose."
+        },
+        {
+          "sit": "You recount your exploration of Lamb-Devourer Rock to Soheil and give him the stone slate."
+        },
+        {
+          "s": 0,
+          "t": "So there is a secret base after all... No wonder Thutmose still managed to rob me despite all the precautions I took."
+        },
+        {
+          "s": 0,
+          "t": "What a bunch of ignorant fools! They claim to worship King Deshret, and yet they randomly throw such important relics around! Inexcusable!"
+        },
+        {
+          "s": 0,
+          "t": "I must thank you on behalf of the Akademiya for getting such a valuable... Uh..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? What's with the sudden frown? Did you run into something difficult to decipher?"
+        },
+        {
+          "s": 0,
+          "t": "Just the opposite, really. It's a love poem."
+        },
+        {
+          "s": 0,
+          "t": "Perhaps this slate would be more valuable to those from Haravatat. I can already imagine what titles they'll come up with..."
+        },
+        {
+          "s": 0,
+          "t": "\"On the Relationship Between the Development of Rhetoric and the Progress of Civilization.\""
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "sit": "We explored the Tomb of Carouses."
+        },
+        {
+          "s": 0,
+          "t": "So you went to the Tomb of Carouses... It's a miniature version of the Mausoleum of King Deshret, just like I said, right? So, any new discoveries?"
+        },
+        {
+          "sit": "You recount your exploration of the Tomb of Carouses to Soheil and give him the stone slate."
+        },
+        {
+          "s": 0,
+          "t": "It sounds like you didn't find anything special. I guess size isn't the only difference between the two locations."
+        },
+        {
+          "s": 0,
+          "t": "And as for this slate..."
+        },
+        {
+          "s": 1,
+          "t": "What is it, what is it? It has so many words, so it's got to be valuable, right?"
+        },
+        {
+          "s": 0,
+          "t": "From what I can tell, it's an ordinary fable that features some animals."
+        },
+        {
+          "s": 1,
+          "t": "Eh? How can this be?"
+        },
+        {
+          "s": 0,
+          "t": "But that's okay, I can still squeeze a paper out of this, albeit a short one..."
+        },
+        {
+          "s": 0,
+          "t": "\"The Retreat of the Sheep: A Preliminary Study of Environmental Change in the Desert.\""
+        },
+        {
+          "section": "Soheil"
+        },
+        {
+          "sit": "Not yet."
+        },
+        {
+          "s": 0,
+          "t": "Alright. If you do find anything, please share them with me and quench my thirst for knowledge."
+        },
+        {
+          "section": "Soheil, Hulwani"
+        },
+        {
+          "s": 0,
+          "t": "Now that the three ruins have been fully explored, I can finally put my thoughts to rest."
+        },
+        {
+          "s": 0,
+          "t": "Well then, to celebrate the strengthening of our friendship, I shall prepare more gifts of gratitude for our big hero and little hero."
+        },
+        {
+          "sit": "You're welcome."
+        },
+        {
+          "sit": "You scratch our back, we scratch yours."
+        },
+        {
+          "s": 1,
+          "t": "It's nothing, really! Plus, we found lots of treasure based on your notes! So, how's your paper going?"
+        },
+        {
+          "s": 0,
+          "t": "The papers... Yeah, even though I've collected enough materials, I no longer depend on churning out volumes."
+        },
+        {
+          "s": 0,
+          "t": "It's a breakthrough I'm after... I must still go into the Mausoleum of King Deshret myself."
+        },
+        {
+          "s": 2,
+          "t": "But the sage said..."
+        },
+        {
+          "s": 0,
+          "t": "Yes, I get it, it's always about the sage with you... I'm just griping, that's all."
+        },
+        {
+          "sit": "What do you need a breakthrough for?"
+        },
+        {
+          "s": 0,
+          "t": "To become a candidate for the next sage, of course."
+        },
+        {
+          "s": 0,
+          "t": "To outsiders, the difference between a researcher and a sage is that of a small fruit and a larger fruit."
+        },
+        {
+          "s": 0,
+          "t": "In reality, the gap is even greater than the difference between a hilichurl and slime."
+        },
+        {
+          "sit": "Those are two completely different things."
+        },
+        {
+          "sit": "How are they different?"
+        },
+        {
+          "s": 0,
+          "t": "That's exactly it. They are two different things altogether."
+        },
+        {
+          "s": 0,
+          "t": "The sages, with the power they control, virtually have all of us researchers by our throats. They could make or break us with just one word."
+        },
+        {
+          "s": 0,
+          "t": "So many people have labored and fought over papers, some even as old as me. We'd give up our dignity just for a chance to be deemed worthy by the sages."
+        },
+        {
+          "s": 0,
+          "t": "Therefore, I must become a sage myself, or all the suffering I've endured would've been for nothing. I'm sure you'd understand if you were a researcher!"
+        },
+        {
+          "s": 1,
+          "t": "No, Paimon thinks {NICKNAME} would be more like the you in the notes."
+        },
+        {
+          "s": 0,
+          "t": "Notes?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah! Remember what you wrote in your notes? \"Compared to the mockery, having no improvement in knowledge is more painful to endure.\""
+        },
+        {
+          "s": 0,
+          "t": "What? I wrote that?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... The experiences I've had are indeed true. But if it weren't for your reminder, I would have never looked at things from that perspective again."
+        },
+        {
+          "sit": "So you've forgotten all about it..."
+        },
+        {
+          "sit": "It's good to remember everything again."
+        },
+        {
+          "s": 0,
+          "t": "...{NICKNAME}, Paimon. This is a bit abrupt, but there's one more favor I'd like to ask."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Do you want us to look for more stone slates?"
+        },
+        {
+          "s": 0,
+          "t": "No no no, I have enough stone slates... I just... feel like reading my old notes again."
+        },
+        {
+          "s": 0,
+          "t": "Please allow me to take back the archaeology notes I gave you. I'll prepare something else as a gift for you."
+        },
+        {
+          "sit": "Sure."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for all your help, and may your travels be smooth."
+        },
+        {
+          "s": 0,
+          "t": "Also, thanks for reminding me of a time when I was younger. It's a pretty good feeling."
+        }
+      ],
+      "description": "Soheil’s archaeological notes record his desert adventures in his youth. Some of the ruins mentioned may contain treasures and old records. Head into the depths of the desert again to look for them."
+    }
+  ],
+  "speakers": [
+    "Soheil",
+    "Paimon",
+    "Hulwani"
+  ],
+  "id": "q-73110"
+}

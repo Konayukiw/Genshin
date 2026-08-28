@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "data_version": "20260828T0402Z",
+  "generated_at": "2026-08-28T04:02:26.029961+00:00",
+  "locales": [
+    "en",
+    "ja",
+    "zh"
+  ],
+  "quest_types": [
+    "archon",
+    "story",
+    "world",
+    "event",
+    "hangout"
+  ],
+  "counts": {
+    "characters/en": 148,
+    "weapons/en": 286,
+    "artifacts/en": 65,
+    "quests/en": 1789,
+    "characters/ja": 148,
+    "weapons/ja": 286,
+    "artifacts/ja": 65,
+    "quests/ja": 1775,
+    "characters/zh": 148,
+    "weapons/zh": 286,
+    "artifacts/zh": 65,
+    "quests/zh": 1802
+  },
+  "endpoints": {
+    "en": "/v1/en",
+    "ja": "/v1/ja",
+    "zh": "/v1/zh"
+  },
+  "license": "Game content and data © HoYoverse / Cognosphere. Unofficial fan project; not affiliated with or endorsed by HoYoverse."
+}

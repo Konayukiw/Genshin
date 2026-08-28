@@ -1,0 +1,705 @@
+{
+  "name": "Peak Patrol Song",
+  "rarity": 5,
+  "type": "Sword",
+  "base_atk": 44,
+  "passive": {
+    "name": "Halcyon Years Unending",
+    "refinements": {
+      "R1": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 8% and gain a 10% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 8% for every 1,000 DEF the equipping character has, up to a maximum of 25.6%, for 15s.",
+      "R2": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 10% and gain a 12.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 10% for every 1,000 DEF the equipping character has, up to a maximum of 32%, for 15s.",
+      "R3": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 12% and gain a 15% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 12% for every 1,000 DEF the equipping character has, up to a maximum of 38.4%, for 15s.",
+      "R4": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 14% and gain a 17.5% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 14% for every 1,000 DEF the equipping character has, up to a maximum of 44.8%, for 15s.",
+      "R5": "Gain \"Ode to Flowers\" after Normal or Plunging Attacks hit an opponent: DEF increases by 16% and gain a 20% All Elemental DMG Bonus for 6s. Max 2 stacks. Can trigger once per 0.1s. When this effect reaches 2 stacks or the 2nd stack's duration is refreshed, increase all nearby party members' All Elemental DMG Bonus by 16% for every 1,000 DEF the equipping character has, up to a maximum of 51.2%, for 15s."
+    }
+  },
+  "stats": [
+    {
+      "level": 1,
+      "base_atk": 44,
+      "substat": "DEF%",
+      "substat_value": 18.0
+    },
+    {
+      "level": 2,
+      "base_atk": 48,
+      "substat": "DEF%",
+      "substat_value": 18.0
+    },
+    {
+      "level": 3,
+      "base_atk": 51,
+      "substat": "DEF%",
+      "substat_value": 18.0
+    },
+    {
+      "level": 4,
+      "base_atk": 55,
+      "substat": "DEF%",
+      "substat_value": 18.0
+    },
+    {
+      "level": 5,
+      "base_atk": 58,
+      "substat": "DEF%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 6,
+      "base_atk": 62,
+      "substat": "DEF%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 7,
+      "base_atk": 65,
+      "substat": "DEF%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 8,
+      "base_atk": 69,
+      "substat": "DEF%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 9,
+      "base_atk": 72,
+      "substat": "DEF%",
+      "substat_value": 20.9
+    },
+    {
+      "level": 10,
+      "base_atk": 76,
+      "substat": "DEF%",
+      "substat_value": 24.5
+    },
+    {
+      "level": 11,
+      "base_atk": 79,
+      "substat": "DEF%",
+      "substat_value": 24.5
+    },
+    {
+      "level": 12,
+      "base_atk": 83,
+      "substat": "DEF%",
+      "substat_value": 24.5
+    },
+    {
+      "level": 13,
+      "base_atk": 86,
+      "substat": "DEF%",
+      "substat_value": 24.5
+    },
+    {
+      "level": 14,
+      "base_atk": 90,
+      "substat": "DEF%",
+      "substat_value": 24.5
+    },
+    {
+      "level": 15,
+      "base_atk": 93,
+      "substat": "DEF%",
+      "substat_value": 28.2
+    },
+    {
+      "level": 16,
+      "base_atk": 96,
+      "substat": "DEF%",
+      "substat_value": 28.2
+    },
+    {
+      "level": 17,
+      "base_atk": 100,
+      "substat": "DEF%",
+      "substat_value": 28.2
+    },
+    {
+      "level": 18,
+      "base_atk": 103,
+      "substat": "DEF%",
+      "substat_value": 28.2
+    },
+    {
+      "level": 19,
+      "base_atk": 107,
+      "substat": "DEF%",
+      "substat_value": 28.2
+    },
+    {
+      "level": 20,
+      "base_atk": 110,
+      "substat": "DEF%",
+      "substat_value": 31.8
+    },
+    {
+      "level": 21,
+      "base_atk": 145,
+      "substat": "DEF%",
+      "substat_value": 31.8
+    },
+    {
+      "level": 22,
+      "base_atk": 148,
+      "substat": "DEF%",
+      "substat_value": 31.8
+    },
+    {
+      "level": 23,
+      "base_atk": 152,
+      "substat": "DEF%",
+      "substat_value": 31.8
+    },
+    {
+      "level": 24,
+      "base_atk": 155,
+      "substat": "DEF%",
+      "substat_value": 31.8
+    },
+    {
+      "level": 25,
+      "base_atk": 158,
+      "substat": "DEF%",
+      "substat_value": 35.4
+    },
+    {
+      "level": 26,
+      "base_atk": 162,
+      "substat": "DEF%",
+      "substat_value": 35.4
+    },
+    {
+      "level": 27,
+      "base_atk": 165,
+      "substat": "DEF%",
+      "substat_value": 35.4
+    },
+    {
+      "level": 28,
+      "base_atk": 169,
+      "substat": "DEF%",
+      "substat_value": 35.4
+    },
+    {
+      "level": 29,
+      "base_atk": 172,
+      "substat": "DEF%",
+      "substat_value": 35.4
+    },
+    {
+      "level": 30,
+      "base_atk": 176,
+      "substat": "DEF%",
+      "substat_value": 39.1
+    },
+    {
+      "level": 31,
+      "base_atk": 179,
+      "substat": "DEF%",
+      "substat_value": 39.1
+    },
+    {
+      "level": 32,
+      "base_atk": 182,
+      "substat": "DEF%",
+      "substat_value": 39.1
+    },
+    {
+      "level": 33,
+      "base_atk": 186,
+      "substat": "DEF%",
+      "substat_value": 39.1
+    },
+    {
+      "level": 34,
+      "base_atk": 189,
+      "substat": "DEF%",
+      "substat_value": 39.1
+    },
+    {
+      "level": 35,
+      "base_atk": 193,
+      "substat": "DEF%",
+      "substat_value": 42.7
+    },
+    {
+      "level": 36,
+      "base_atk": 196,
+      "substat": "DEF%",
+      "substat_value": 42.7
+    },
+    {
+      "level": 37,
+      "base_atk": 199,
+      "substat": "DEF%",
+      "substat_value": 42.7
+    },
+    {
+      "level": 38,
+      "base_atk": 203,
+      "substat": "DEF%",
+      "substat_value": 42.7
+    },
+    {
+      "level": 39,
+      "base_atk": 206,
+      "substat": "DEF%",
+      "substat_value": 42.7
+    },
+    {
+      "level": 40,
+      "base_atk": 210,
+      "substat": "DEF%",
+      "substat_value": 46.4
+    },
+    {
+      "level": 41,
+      "base_atk": 244,
+      "substat": "DEF%",
+      "substat_value": 46.4
+    },
+    {
+      "level": 42,
+      "base_atk": 248,
+      "substat": "DEF%",
+      "substat_value": 46.4
+    },
+    {
+      "level": 43,
+      "base_atk": 251,
+      "substat": "DEF%",
+      "substat_value": 46.4
+    },
+    {
+      "level": 44,
+      "base_atk": 255,
+      "substat": "DEF%",
+      "substat_value": 46.4
+    },
+    {
+      "level": 45,
+      "base_atk": 258,
+      "substat": "DEF%",
+      "substat_value": 50.0
+    },
+    {
+      "level": 46,
+      "base_atk": 262,
+      "substat": "DEF%",
+      "substat_value": 50.0
+    },
+    {
+      "level": 47,
+      "base_atk": 265,
+      "substat": "DEF%",
+      "substat_value": 50.0
+    },
+    {
+      "level": 48,
+      "base_atk": 268,
+      "substat": "DEF%",
+      "substat_value": 50.0
+    },
+    {
+      "level": 49,
+      "base_atk": 272,
+      "substat": "DEF%",
+      "substat_value": 50.0
+    },
+    {
+      "level": 50,
+      "base_atk": 275,
+      "substat": "DEF%",
+      "substat_value": 53.6
+    },
+    {
+      "level": 51,
+      "base_atk": 310,
+      "substat": "DEF%",
+      "substat_value": 53.6
+    },
+    {
+      "level": 52,
+      "base_atk": 314,
+      "substat": "DEF%",
+      "substat_value": 53.6
+    },
+    {
+      "level": 53,
+      "base_atk": 317,
+      "substat": "DEF%",
+      "substat_value": 53.6
+    },
+    {
+      "level": 54,
+      "base_atk": 321,
+      "substat": "DEF%",
+      "substat_value": 53.6
+    },
+    {
+      "level": 55,
+      "base_atk": 324,
+      "substat": "DEF%",
+      "substat_value": 57.3
+    },
+    {
+      "level": 56,
+      "base_atk": 327,
+      "substat": "DEF%",
+      "substat_value": 57.3
+    },
+    {
+      "level": 57,
+      "base_atk": 331,
+      "substat": "DEF%",
+      "substat_value": 57.3
+    },
+    {
+      "level": 58,
+      "base_atk": 334,
+      "substat": "DEF%",
+      "substat_value": 57.3
+    },
+    {
+      "level": 59,
+      "base_atk": 338,
+      "substat": "DEF%",
+      "substat_value": 57.3
+    },
+    {
+      "level": 60,
+      "base_atk": 341,
+      "substat": "DEF%",
+      "substat_value": 60.9
+    },
+    {
+      "level": 61,
+      "base_atk": 376,
+      "substat": "DEF%",
+      "substat_value": 60.9
+    },
+    {
+      "level": 62,
+      "base_atk": 380,
+      "substat": "DEF%",
+      "substat_value": 60.9
+    },
+    {
+      "level": 63,
+      "base_atk": 383,
+      "substat": "DEF%",
+      "substat_value": 60.9
+    },
+    {
+      "level": 64,
+      "base_atk": 387,
+      "substat": "DEF%",
+      "substat_value": 60.9
+    },
+    {
+      "level": 65,
+      "base_atk": 390,
+      "substat": "DEF%",
+      "substat_value": 64.5
+    },
+    {
+      "level": 66,
+      "base_atk": 394,
+      "substat": "DEF%",
+      "substat_value": 64.5
+    },
+    {
+      "level": 67,
+      "base_atk": 397,
+      "substat": "DEF%",
+      "substat_value": 64.5
+    },
+    {
+      "level": 68,
+      "base_atk": 401,
+      "substat": "DEF%",
+      "substat_value": 64.5
+    },
+    {
+      "level": 69,
+      "base_atk": 404,
+      "substat": "DEF%",
+      "substat_value": 64.5
+    },
+    {
+      "level": 70,
+      "base_atk": 408,
+      "substat": "DEF%",
+      "substat_value": 68.1
+    },
+    {
+      "level": 71,
+      "base_atk": 442,
+      "substat": "DEF%",
+      "substat_value": 68.1
+    },
+    {
+      "level": 72,
+      "base_atk": 446,
+      "substat": "DEF%",
+      "substat_value": 68.1
+    },
+    {
+      "level": 73,
+      "base_atk": 450,
+      "substat": "DEF%",
+      "substat_value": 68.1
+    },
+    {
+      "level": 74,
+      "base_atk": 453,
+      "substat": "DEF%",
+      "substat_value": 68.1
+    },
+    {
+      "level": 75,
+      "base_atk": 457,
+      "substat": "DEF%",
+      "substat_value": 71.8
+    },
+    {
+      "level": 76,
+      "base_atk": 460,
+      "substat": "DEF%",
+      "substat_value": 71.8
+    },
+    {
+      "level": 77,
+      "base_atk": 464,
+      "substat": "DEF%",
+      "substat_value": 71.8
+    },
+    {
+      "level": 78,
+      "base_atk": 467,
+      "substat": "DEF%",
+      "substat_value": 71.8
+    },
+    {
+      "level": 79,
+      "base_atk": 471,
+      "substat": "DEF%",
+      "substat_value": 71.8
+    },
+    {
+      "level": 80,
+      "base_atk": 475,
+      "substat": "DEF%",
+      "substat_value": 75.4
+    },
+    {
+      "level": 81,
+      "base_atk": 509,
+      "substat": "DEF%",
+      "substat_value": 75.4
+    },
+    {
+      "level": 82,
+      "base_atk": 513,
+      "substat": "DEF%",
+      "substat_value": 75.4
+    },
+    {
+      "level": 83,
+      "base_atk": 516,
+      "substat": "DEF%",
+      "substat_value": 75.4
+    },
+    {
+      "level": 84,
+      "base_atk": 520,
+      "substat": "DEF%",
+      "substat_value": 75.4
+    },
+    {
+      "level": 85,
+      "base_atk": 524,
+      "substat": "DEF%",
+      "substat_value": 79.1
+    },
+    {
+      "level": 86,
+      "base_atk": 527,
+      "substat": "DEF%",
+      "substat_value": 79.1
+    },
+    {
+      "level": 87,
+      "base_atk": 531,
+      "substat": "DEF%",
+      "substat_value": 79.1
+    },
+    {
+      "level": 88,
+      "base_atk": 535,
+      "substat": "DEF%",
+      "substat_value": 79.1
+    },
+    {
+      "level": 89,
+      "base_atk": 538,
+      "substat": "DEF%",
+      "substat_value": 79.1
+    },
+    {
+      "level": 90,
+      "base_atk": 542,
+      "substat": "DEF%",
+      "substat_value": 82.7
+    }
+  ],
+  "ascension_materials": [
+    {
+      "phase": 1,
+      "cost": 10000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Consideration",
+          "id": 114069,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Axis of the Secret Source",
+          "id": 112113,
+          "count": 5,
+          "rank": 2
+        },
+        {
+          "name": "Juvenile Fang",
+          "id": 112101,
+          "count": 3,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 2,
+      "cost": 20000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Premonition",
+          "id": 114070,
+          "count": 5,
+          "rank": 3
+        },
+        {
+          "name": "Axis of the Secret Source",
+          "id": 112113,
+          "count": 18,
+          "rank": 2
+        },
+        {
+          "name": "Juvenile Fang",
+          "id": 112101,
+          "count": 12,
+          "rank": 1
+        }
+      ]
+    },
+    {
+      "phase": 3,
+      "cost": 30000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Premonition",
+          "id": 114070,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Sheath of the Secret Source",
+          "id": 112114,
+          "count": 9,
+          "rank": 3
+        },
+        {
+          "name": "Seasoned Fang",
+          "id": 112102,
+          "count": 9,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 4,
+      "cost": 45000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Augury",
+          "id": 114071,
+          "count": 5,
+          "rank": 4
+        },
+        {
+          "name": "Sheath of the Secret Source",
+          "id": 112114,
+          "count": 18,
+          "rank": 3
+        },
+        {
+          "name": "Seasoned Fang",
+          "id": 112102,
+          "count": 14,
+          "rank": 2
+        }
+      ]
+    },
+    {
+      "phase": 5,
+      "cost": 55000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Augury",
+          "id": 114071,
+          "count": 9,
+          "rank": 4
+        },
+        {
+          "name": "Heart of the Secret Source",
+          "id": 112115,
+          "count": 14,
+          "rank": 4
+        },
+        {
+          "name": "Tyrant's Fang",
+          "id": 112103,
+          "count": 9,
+          "rank": 3
+        }
+      ]
+    },
+    {
+      "phase": 6,
+      "cost": 65000,
+      "items": [
+        {
+          "name": "Night-Wind's Mystic Revelation",
+          "id": 114072,
+          "count": 6,
+          "rank": 5
+        },
+        {
+          "name": "Heart of the Secret Source",
+          "id": 112115,
+          "count": 27,
+          "rank": 4
+        },
+        {
+          "name": "Tyrant's Fang",
+          "id": 112103,
+          "count": 18,
+          "rank": 3
+        }
+      ]
+    }
+  ],
+  "id": "11516"
+}

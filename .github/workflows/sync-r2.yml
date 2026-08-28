@@ -1,0 +1,54 @@
+name: sync-data-to-r2
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+  workflow_dispatch:
+
+concurrency:
+  group: sync-r2
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install rclone
+        run: |
+          curl -sfL -o /tmp/rclone.zip https://downloads.rclone.org/rclone-current-linux-amd64.zip
+          unzip -j /tmp/rclone.zip '*/rclone' -d /tmp
+          sudo install /tmp/rclone /usr/local/bin/rclone
+          rclone version
+
+      - name: Configure rclone for R2
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        run: |
+          mkdir -p ~/.config/rclone
+          cat > ~/.config/rclone/rclone.conf <<EOF
+          [r2]
+          type = s3
+          provider = Cloudflare
+          access_key_id = ${R2_ACCESS_KEY_ID}
+          secret_access_key = ${R2_SECRET_ACCESS_KEY}
+          endpoint = https://${CF_ACCOUNT_ID}.r2.cloudflarestorage.com
+          EOF
+
+      - name: Sync data/ to R2 (differential)
+        run: |
+          rclone sync data/ r2:genshin-db/ \
+            --fast-list \
+            --s3-no-check-bucket \
+            --exclude "_recover_log.txt" \
+            --verbose
+
+      - name: Publish manifest last (atomic version bump)
+        run: |
+          rclone copyto data/v1/index.json r2:genshin-db/v1/index.json --verbose
+          echo "Published data_version: $(cat data/v1/index.json | grep -o '"data_version": "[^"]*"')"

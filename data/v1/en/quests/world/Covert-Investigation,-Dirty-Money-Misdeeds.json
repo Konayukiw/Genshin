@@ -1,0 +1,657 @@
+{
+  "chapter": "Covert Investigation, Dirty Money Misdeeds",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Covert Investigation, Dirty Money Misdeeds",
+  "region": null,
+  "quests": [
+    {
+      "title": "Covert Investigation, Dirty Money Misdeeds",
+      "dialogue": [
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 0,
+          "t": "Wait, the person drinking tea over there... Isn't that Yelan?"
+        },
+        {
+          "s": 0,
+          "t": "Ooh, looks like she's having some kind of tea party with friends! We're just in time!"
+        },
+        {
+          "sit": "(Wait, something's not right...)"
+        },
+        {
+          "sit": "(There are eyes on this place, and not the friendly kind, either...)"
+        },
+        {
+          "s": 0,
+          "t": "Uh, aren't we gonna go say hi?"
+        },
+        {
+          "s": 1,
+          "t": "Well, Officer Edler, after all that work, I think we've got them this time."
+        },
+        {
+          "s": 1,
+          "t": "Might take a few days to wrap up things in the field. In the meantime, I think you've earned yourself a break."
+        },
+        {
+          "s": 2,
+          "t": "Much appreciated, Miss Yelan. This case really took it out of me..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh*... Thirteen strongholds... One thieving weasel after another! We rounded up so many people, you almost start to hope a few were innocent — just to balance it out."
+        },
+        {
+          "s": 2,
+          "t": "I'm just glad we finally took down these crooks! Anyway, I'm gonna drop in on that old classmate of mine in Qiaoying Village and reminisce about old times."
+        },
+        {
+          "s": 1,
+          "t": "Don't forget to take some tea and dim sum back to your friends at the Maison Gardiennage."
+        },
+        {
+          "s": 3,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, looks like Yelan's friend left. Paimon kinda wanted to meet her..."
+        },
+        {
+          "sit": "(I have a bad feeling about those two onlookers...)"
+        },
+        {
+          "sit": "(Yelan must have noticed them, right?)"
+        },
+        {
+          "s": 1,
+          "t": "Ah, another pleasant surprise. {NICKNAME}, Paimon, take a seat."
+        },
+        {
+          "s": 1,
+          "t": "Excuse me, a pot of your finest Yunlai White Tea, if you would. And two more place settings."
+        },
+        {
+          "s": 1,
+          "t": "Now, judging by that expression, I assume you came over to ask about the two spies that were just watching us."
+        },
+        {
+          "s": 0,
+          "t": "Aah! Spies? What spies? There were spies around here just now?"
+        },
+        {
+          "sit": "The two of them were definitely up to no good."
+        },
+        {
+          "sit": "They eavesdropped on your conversation with your Fontainian friend."
+        },
+        {
+          "s": 1,
+          "t": "Oh, more than that, I'm sure. I bet they already sent someone to tail Officer Edler. Anything to foil our operation."
+        },
+        {
+          "s": 0,
+          "t": "Ohhh, so you're tracking down some criminals..."
+        },
+        {
+          "s": 0,
+          "t": "They've got some nerve spying on you like that! Pretty bold if you ask Paimon..."
+        },
+        {
+          "s": 1,
+          "t": "Well, those tend to be the kinds of cases that cross my desk. If I could leave it to someone else, I would. I could've been on vacation right now."
+        },
+        {
+          "sit": "If you have to handle it yourself, I guess it must be pretty serious?"
+        },
+        {
+          "sit": "Sounds like quite the criminal syndicate... What's their crime?"
+        },
+        {
+          "s": 1,
+          "t": "Mora-laundering... to the tune of ten figures and counting."
+        },
+        {
+          "s": 0,
+          "t": "Laundry? What does that have to do with Mora? And who are these figures? There are ten of them?"
+        },
+        {
+          "s": 1,
+          "t": "In layman's terms... A certain merchant in Fontaine possesses a large amount of Mora obtained through illicit means. But it's easy to get caught when you're moving that kind of cash."
+        },
+        {
+          "s": 1,
+          "t": "So, you cover your tracks, create a front to avoid detection, and whaddya know? Your illegal Mora now looks completely legit."
+        },
+        {
+          "s": 1,
+          "t": "And, this merchant's front of choice? Fine art and antique auctioneering."
+        },
+        {
+          "s": 1,
+          "t": "He buys goods from all over Teyvat, brings them back to Fontaine and rebrands them as pieces of fine art, driving up their price in the process."
+        },
+        {
+          "s": 1,
+          "t": "Then, when the items go to auction, he buys them up at their inflated price with his own illicit funds. And through this exchange, the proceeds he receives in return are \"clean.\""
+        },
+        {
+          "s": 1,
+          "t": "This process allows him to \"legitimize\" his illicit wealth. He even launders Mora for other criminals as well, a business which earned him the title, the \"Dark Financier.\""
+        },
+        {
+          "sit": "Considering your involvement..."
+        },
+        {
+          "sit": "...I'm guessing some of his \"collectibles\" are from Liyue?"
+        },
+        {
+          "s": 1,
+          "t": "That's to be expected, I suppose. In Chenyu Vale, you can get your hands on exquisite antiques without breaking the bank. Tea sets, porcelain, jade, statues... All easily marketed as pieces of fine art."
+        },
+        {
+          "s": 1,
+          "t": "Liyue goods being used in illicit, underground schemes poses a real threat to our trade standing in the long run."
+        },
+        {
+          "s": 1,
+          "t": "So, instead of getting to enjoy my long-awaited vacation in Fontaine, it's back to work for me."
+        },
+        {
+          "s": 0,
+          "t": "Okay... Paimon thinks she gets it now. It's like... moving Mora from one hand to the other. In other words, just disguising where it originally came from!"
+        },
+        {
+          "s": 0,
+          "t": "But, if you know what this merchant is up to, shouldn't it be pretty easy to catch him?"
+        },
+        {
+          "s": 0,
+          "t": "You go to the auction, wait for him to appear, then nab him right as he goes to purchase his expensive piece of Liyue \"art\"!"
+        },
+        {
+          "s": 1,
+          "t": "Not a bad plan, Paimon. But there are too many loose ends."
+        },
+        {
+          "s": 1,
+          "t": "If you were the mastermind behind this whole scheme, would you really expose yourself as the face of the operation?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, yeah, you wouldn't want to be seen doing the dirty work... You'd send someone else instead. Like, if Paimon was the bad guy, she'd send {NICKNAME}."
+        },
+        {
+          "s": 0,
+          "t": "No, wait! Even if Paimon turned bad, {NICKNAME} would never! Paimon would need, like... a group of minions, or something..."
+        },
+        {
+          "s": 0,
+          "t": "Oh... Ohhhhhhh! Paimon gets it now!"
+        },
+        {
+          "s": 0,
+          "t": "Even if you track down the goods, if this \"Dark Financier\" guy isn't the one doing the buying at the auction, you won't catch him!"
+        },
+        {
+          "s": 1,
+          "t": "It's not just a matter of who's at the auction. You also have to source the goods, transport them back to Fontaine, get them to the auction house... None of which are tasks he performs himself. He has a whole crew to hide behind."
+        },
+        {
+          "s": 1,
+          "t": "Tracking down the goods is already complicated enough. They change hands so many times, the trail is almost impossible to follow."
+        },
+        {
+          "s": 1,
+          "t": "So, the most logical course of action is to play the long game."
+        },
+        {
+          "s": 1,
+          "t": "You start small. You find someone you can follow behind all the smokescreens, who'll lead you straight back to the Dark Financier himself."
+        },
+        {
+          "sit": "Which means... you wanted them to overhear your conversation."
+        },
+        {
+          "sit": "To make them think you've let your guard down."
+        },
+        {
+          "s": 0,
+          "t": "W—Wait, so you were just pretending? And to think, Paimon thought all that stuff about wrapping up the case and taking a break was actually true..."
+        },
+        {
+          "s": 1,
+          "t": "Right you are, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Working with the Millelith and Officer Edler, we managed to launch attacks on all of the Dark Financier's strongholds, which allowed us to nab most of his crew."
+        },
+        {
+          "s": 1,
+          "t": "Those spies just now were his most important agents, the two people he trusts to have direct contact with him."
+        },
+        {
+          "s": 1,
+          "t": "The first is Corder, a senior member of the Fontaine Antique Association in charge of auctioning off the goods, and the other is Doddamani, a ship owner from Sumeru and long-time cargo transporter..."
+        },
+        {
+          "s": 1,
+          "t": "They're under pressure to salvage the situation. So, we let them slip through the cracks on purpose. The goal is to make them think that, by some stroke of luck, they're in the clear and have room to act."
+        },
+        {
+          "s": 1,
+          "t": "They think keeping tabs on Officer Edler will allow them to operate under her radar and get whatever remains of their goods out of Liyue."
+        },
+        {
+          "s": 1,
+          "t": "But little do they know, while their attention's fixed on her, I'll be secretly gathering the intel that's gonna bring them crashing down."
+        },
+        {
+          "s": 1,
+          "t": "So, interested in coming along for the ride?"
+        },
+        {
+          "s": 1,
+          "t": "I'm curious how you take to this line of work. Could be some potential there..."
+        },
+        {
+          "sit": "Taking down a criminal syndicate? I'm in."
+        },
+        {
+          "sit": "Getting to work with Yelan? I'm in."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! We kinda stumbled into this whole thing, but now we're a part of it too!"
+        },
+        {
+          "s": 0,
+          "t": "Let's do it! For Yelan, for the people of Chenyu Vale, and for, uh... the Liyue business world!"
+        },
+        {
+          "s": 1,
+          "t": "I admire your selflessness, {NICKNAME} and Paimon..."
+        },
+        {
+          "s": 1,
+          "t": "Let me be the one to look out for your self-interests, then — namely, your payment. How about we do this the Fontainian way? You'll get exactly what a top agent receives for a dangerous field mission."
+        },
+        {
+          "s": 1,
+          "t": "Getting started is always the hardest part, but luckily, I have a lead."
+        },
+        {
+          "s": 1,
+          "t": "The Dark Financier's crew is even more on guard than usual, so our best bet is to do some counter-surveillance to get on the right track."
+        },
+        {
+          "s": 1,
+          "t": "And, I think I know just the place to start... Let's head northeast and see if I'm right."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "Alright, let's start our investigation here."
+        },
+        {
+          "sit": "You follow Yelan through an uninhabited region in the northeast of Chenyu Vale...<br/> With Yelan's help, you find a covert location from which to scout the beach."
+        },
+        {
+          "sit": "But you don't see any members of the Dark Financier's crew, nor anything else suspicious about the area."
+        },
+        {
+          "s": 0,
+          "t": "So... We can all agree this is just a normal stretch of wilderness, right? Paimon doesn't see any bad guys to nab around here."
+        },
+        {
+          "sit": "Have some patience, Paimon."
+        },
+        {
+          "sit": "It's not time for nabbing bad guys — at least, not yet."
+        },
+        {
+          "s": 1,
+          "t": "Well, it didn't take long for you to understand our role here, {NICKNAME}. Thinking like a top agent already... Impressive."
+        },
+        {
+          "s": 1,
+          "t": "Like I said, we need to start small. If we want to track down the man himself, our best bet is to start with his goods. So, right now, finding his stock is our number one priority."
+        },
+        {
+          "s": 1,
+          "t": "And to do that, locating his hidden stronghold is imperative."
+        },
+        {
+          "s": 1,
+          "t": "Which brings us to why we're here. Pretty good vantage point from up here, don't you think?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, guess so... Paimon can see the port at Yilong Wharf, the boats in the distance, and some kind of tower... What's that for?"
+        },
+        {
+          "s": 1,
+          "t": "It's a lighthouse. The Millelith use it to monitor the situation at sea. In addition, the flashing of the light can also serve as a means of communication."
+        },
+        {
+          "sit": "I think I understand what makes this place so important..."
+        },
+        {
+          "sit": "I don't really get what's so special about this place, though..."
+        },
+        {
+          "s": 1,
+          "t": "Oh? Let's hear it."
+        },
+        {
+          "sit": "Spying on the Millelith helps with their operations..."
+        },
+        {
+          "sit": "It's the perfect spot for counter-surveillance?"
+        },
+        {
+          "sit": "It helps them avoid dangerous routes when transporting their goods?"
+        },
+        {
+          "s": 1,
+          "t": "Not too far off at all, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "The Millelith maintain an impeccable level of security in Chenyu Vale through consistent patrolling."
+        },
+        {
+          "s": 1,
+          "t": "This location offers a perfect vantage point to observe their lighthouse signals and deduce their patterns of behavior, which is a huge help if you need to move goods under the radar."
+        },
+        {
+          "s": 1,
+          "t": "So, we should be able to find traces of the Dark Financier's scouts in this area..."
+        },
+        {
+          "s": 0,
+          "t": "O—Okay... Paimon doesn't quite follow, but she'll take your word for it..."
+        },
+        {
+          "s": 1,
+          "t": "It's simple. Just take this <color=#00E1FFFF>Forensic Imaging Device</color> and investigate the surrounding area. As long as we're meticulous, I'm positive we'll find something."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "Once you equip the <color=#00E1FFFF>Forensic Imaging Device</color>, you can start looking for clues."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "Well? All set?"
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "sit": "I'm ready to investigate."
+        },
+        {
+          "s": 1,
+          "t": "Remember, an eye for detail is key. Clues are often hidden in plain sight..."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "sit": "Hold on, let me check!"
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "Some good finds."
+        },
+        {
+          "s": 1,
+          "t": "Whatever door this key opens could be critical to the investigation. And this carrier pigeon tube contains several coded messages."
+        },
+        {
+          "s": 0,
+          "t": "Huh... So there really is evidence around here. It's like these guys aren't even afraid of getting caught!"
+        },
+        {
+          "s": 0,
+          "t": "What if the Millelith noticed them spying and decided to investigate?"
+        },
+        {
+          "s": 1,
+          "t": "These objects suggest the Dark Financier's scouts were likely disguised as fishermen. People like that are trained not to crack under pressure..."
+        },
+        {
+          "s": 1,
+          "t": "All they'd need to do is come up with a believable excuse, like needing a place to rest. The Millelith can't investigate or apprehend a civilian without probable cause."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, Paimon can just see their smug faces, getting away with something like that..."
+        },
+        {
+          "sit": "The good news is, we managed to find evidence here."
+        },
+        {
+          "sit": "These clues should help move the investigation forward."
+        },
+        {
+          "s": 1,
+          "t": "Not to mention, the traces on these objects are fresh, which means the scout here is still active and wasn't among those caught by Officer Edler."
+        },
+        {
+          "s": 1,
+          "t": "So we need to stay vigilant. We can't let them know we're still on their tail."
+        },
+        {
+          "sit": "Yelan takes out an elaborate set of tools and creates exact replicas of the key and coded messages found at the scene...<br/> She then restores the scene to its original state, erasing any signs that an investigation has taken place."
+        },
+        {
+          "s": 1,
+          "t": "I had a hunch this area was being used as a look-out, and I was right. But that still leaves the question of where the goods are hidden..."
+        },
+        {
+          "s": 1,
+          "t": "Any ideas, {NICKNAME}?"
+        },
+        {
+          "sit": "I might be on to something..."
+        },
+        {
+          "sit": "Nope, not really..."
+        },
+        {
+          "s": 1,
+          "t": "Spot on again, {NICKNAME}. Looks like you don't need anyone to hold your hand when it comes to deductive reasoning."
+        },
+        {
+          "s": 1,
+          "t": "Given a carrier pigeon's speed, the two locations should be close enough to deliver messages quickly. That means the base we're looking for should be within a certain radius..."
+        },
+        {
+          "s": 1,
+          "t": "Ruling out areas within line of sight of the lighthouse as well as places with a lot of foot traffic..."
+        },
+        {
+          "s": 0,
+          "t": "That just leaves... The shallows to the north of Mt. Mingyuan?"
+        },
+        {
+          "s": 1,
+          "t": "That certainly sounds plausible. You have the cover of the mountains, and the advantage of hiding right under the authorities' noses."
+        },
+        {
+          "s": 1,
+          "t": "Well, our next destination is decided then. Let's go."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 0,
+          "t": "Aaannd nothing out of the ordinary here either..."
+        },
+        {
+          "sit": "If we've learned anything from the last place..."
+        },
+        {
+          "sit": "...It's that the more normal it looks, the more it could be hiding."
+        },
+        {
+          "s": 1,
+          "t": "That's right. No detail is too small to investigate. I believe in you."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "Once you equip the <color=#00E1FFFF>Forensic Imaging Device</color>, you can start looking for clues."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 1,
+          "t": "The evidence could be even more well-hidden this time. All set?"
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "sit": "I'm ready to investigate."
+        },
+        {
+          "s": 1,
+          "t": "Alright. I know you have an eye for detail, so use it to your advantage. You've got this."
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "sit": "Hold on, let me check!"
+        },
+        {
+          "section": "Yelan"
+        },
+        {
+          "s": 0,
+          "t": "This must be it! The secret base where they stash their goods! Definitely wasn't easy to find!"
+        },
+        {
+          "s": 1,
+          "t": "Well, well, looks like you tracked it down in no time at all! I see your potential as a solo field agent, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Now, time to test out the key we found earlier. Let's see what surprises could be in store."
+        },
+        {
+          "s": 1,
+          "t": "Mm, this isn't their home turf, so I doubt they had time to set more traps. Should make our lives easier."
+        },
+        {
+          "s": 1,
+          "t": "I'll take it from here. The last thing we want is to leave traces behind in there. Caution is the name of the game."
+        },
+        {
+          "s": 1,
+          "t": "You two keep a look-out. Make sure no one barges in while I'm in there."
+        },
+        {
+          "s": 0,
+          "t": "You got it! This is a first for us, but {NICKNAME} can do anything! He's(She's) got your back!"
+        },
+        {
+          "sit": "I trust Yelan's timing..."
+        },
+        {
+          "sit": "I doubt these guys will come back while we're here..."
+        },
+        {
+          "s": 0,
+          "t": "G—Good point... Yelan doesn't make mistakes like that..."
+        },
+        {
+          "sit": "Yelan opens the door to the stronghold and observes the space. It appears to be an ordinary cellar...<br/>Due to construction difficulties, the top and side walls couldn't be completely sealed, causing water from the soil to seep into the space..."
+        },
+        {
+          "sit": "Noticing this, Yelan covers her hands in a thin sheen of Hydro.<br/>This means she can touch the items in the space without leaving traces behind, because the water from her hands will vaporize over time.<br/> Finally, Yelan enters the stronghold and begins to examine the items sealed within..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, that's done. I've noted the features of all the porcelain items, vases, and teas stored here."
+        },
+        {
+          "s": 1,
+          "t": "We need to keep a look-out for these features at the auction and pinpoint the person attempting to purchase the corresponding goods. Then we can let them lead us to our main target."
+        },
+        {
+          "s": 0,
+          "t": "Wow, that was fast! You must do that all the time, huh?"
+        },
+        {
+          "sit": "What now?"
+        },
+        {
+          "sit": "What's our next move?"
+        },
+        {
+          "s": 1,
+          "t": "Now... we wait. There are countless auctions in Fontaine. We can't possibly monitor them all. Besides, that would be a waste of personnel."
+        },
+        {
+          "s": 1,
+          "t": "I'll continue to conduct surveillance in the area, keep tabs on the situation, and attempt to decipher their coded messages."
+        },
+        {
+          "s": 1,
+          "t": "Once his two lackeys move the goods, we can shift our focus to the upcoming auction, and then we'll have somewhere to start."
+        },
+        {
+          "s": 0,
+          "t": "Got it. All we can do now is wait!"
+        },
+        {
+          "s": 0,
+          "t": "Wait... and then follow them straight to the guy behind this whole thing so we can give him the old one-two punch!"
+        },
+        {
+          "s": 1,
+          "t": "This whole time, Officer Edler has been leading her two stalkers on a wild goose chase around Qiaoying Village. Once they decide it's all a waste of time, it'll be her turn to tail them instead."
+        },
+        {
+          "s": 1,
+          "t": "Not to mention, our operation has already put them under extreme pressure. We've forced their hand. I doubt they'll last more than two days before making a move."
+        },
+        {
+          "s": 1,
+          "t": "So, let's meet back up at Yilong Wharf in two days. Find me near the harbor."
+        }
+      ],
+      "description": "Summer is here, and, following a suggestion from Paimon, you head to Yilong Wharf to sample some refreshing green tea. On your way, you unexpectedly run into Yelan, who appears to be right in the middle of something…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Yelan",
+    "Edler",
+    "Corder"
+  ],
+  "id": "q-40199"
+}

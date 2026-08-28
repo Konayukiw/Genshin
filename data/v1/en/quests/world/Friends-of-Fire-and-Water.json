@@ -1,0 +1,392 @@
+{
+  "chapter": "In the Footsteps of the Chosen of Dragons",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Friends of Fire and Water",
+  "region": null,
+  "quests": [
+    {
+      "title": "Friends of Fire and Water",
+      "dialogue": [
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Sure enough, there are still some Saurians locked up here..."
+        },
+        {
+          "s": 0,
+          "t": "Who'd have thought they'd persist in their wicked ways and keep hurting Saurians, even after we destroyed their base..."
+        },
+        {
+          "s": 0,
+          "t": "Had we known, we could've chased them down and wiped them all out."
+        },
+        {
+          "sit": "Well, they're all done for now."
+        },
+        {
+          "sit": "Yes, I should've been cold and cruel back then!"
+        },
+        {
+          "s": 0,
+          "t": "True. Now let's save 'em, quick!"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "section": "{REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 0,
+          "t": "Hmm? Why are there Saurians in the cages here?"
+        },
+        {
+          "s": 0,
+          "t": "Something's not right here... Wait. Could they all have been captured by those people?"
+        },
+        {
+          "s": 0,
+          "t": "Have we busted some kinda Saurian trafficking ring without even realizing it?"
+        },
+        {
+          "sit": "Wonderful! Villains vanquished, by the by!"
+        },
+        {
+          "sit": "Doesn't matter. We took those villains out either way."
+        },
+        {
+          "s": 0,
+          "t": "That's right! Now let's get all these Saurians outta here!"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "section": "Weakened Blubberbeast, {REALNAME[ID(2)|SHOWHOST(true)]}, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Wait, there's a... Blubberbeast in here? How in the world—? Guess bad guys really will sell anything..."
+        },
+        {
+          "s": 2,
+          "t": "Awrr... Bluboo!"
+        },
+        {
+          "s": 1,
+          "t": "Rroo... Mrrooh!"
+        },
+        {
+          "s": 0,
+          "t": "Huh? You're kinda interested in the Blubberbeast, aren't you, {REALNAME[ID(2)|SHOWHOST(true)]}?"
+        },
+        {
+          "sit": "{REALNAME[ID(2)|SHOWHOST(true)]} listens intently to the cries of the Blubberbeast and, seemingly understanding something, lifts the creature by the tail to take it over to the shallows, where they play together."
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "sit": "The Blubberbeast seems chuffed."
+        },
+        {
+          "sit": "{REALNAME[ID(2)|SHOWHOST(true)]} seems pretty happy, too."
+        },
+        {
+          "s": 0,
+          "t": "Sure does! Maybe they can become friends?"
+        },
+        {
+          "s": 0,
+          "t": "But that Blubberbeast doesn't seem to have the slightest bit of strength, and its two... Err, paws...? Either way, they don't seem able to flap around much."
+        },
+        {
+          "s": 0,
+          "t": "There wasn't even a plate of food around... Perhaps they've been locked up so long that they're starving."
+        },
+        {
+          "s": 0,
+          "t": "If that's so, let's make something for the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat!"
+        },
+        {
+          "section": "Cook for Your Companions"
+        },
+        {
+          "s": 0,
+          "t": "We said we were going to cook, but what exactly should we make?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... We used to feed fish to the Blubberbeast Berrypuff, didn't we? In that case, a fish dish should do just fine!"
+        },
+        {
+          "s": 0,
+          "t": "If we want the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat well... Natlan's special Grilled Fish in Mint Sauce might be a pretty good choice."
+        },
+        {
+          "sit": "That's practically a specialty of mine."
+        },
+        {
+          "sit": "Can't say I've perfected it, but no problem."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's get started then. Paimon will give you some pointers while you're at it!"
+        },
+        {
+          "sit": "Make deeper cuts."
+        },
+        {
+          "sit": "Make shallower cuts."
+        },
+        {
+          "s": 0,
+          "t": "That's right! The deeper the cuts, the deeper the flavor seeps in!"
+        },
+        {
+          "sit": "A little extra salt, a little extra happiness!"
+        },
+        {
+          "sit": "The flavor's great as-is. No need for any salt."
+        },
+        {
+          "s": 0,
+          "t": "Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!"
+        },
+        {
+          "sit": "Mint sauce. The more, the merrier."
+        },
+        {
+          "sit": "Will an aquatic animal like the Blubberbeast be afraid of mint?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, that refreshing, cool taste is going to be awesome!"
+        },
+        {
+          "sit": "Chili peppers are indispensable."
+        },
+        {
+          "sit": "Animals from Fontaine might be allergic to spicy food..."
+        },
+        {
+          "s": 0,
+          "t": "Just the right amount of spiciness — enough to whet the appetite!"
+        },
+        {
+          "sit": "Flame-grilled over scorching heat — crispy on the outside, tender on the inside!"
+        },
+        {
+          "sit": "Slow roasted — tender and juicy!"
+        },
+        {
+          "s": 0,
+          "t": "Heehee, that sounds so delicious, Paimon's drooling already."
+        },
+        {
+          "sit": "After a splendid culinary process, the special fish you grilled for {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast is ready..."
+        },
+        {
+          "section": "Cook for Your Companions"
+        },
+        {
+          "s": 0,
+          "t": "We said we were going to cook, but what exactly should we make?"
+        },
+        {
+          "s": 0,
+          "t": "Blubberbeasts live in the water, so it must eat fish, right? Let's do a fish dish, then."
+        },
+        {
+          "s": 0,
+          "t": "If we want the Blubberbeast and {REALNAME[ID(2)|SHOWHOST(true)]} to eat well... Natlan's special Grilled Fish in Mint Sauce might be a pretty good choice."
+        },
+        {
+          "sit": "That's practically a specialty of mine."
+        },
+        {
+          "sit": "Can't say I've perfected it, but no problem."
+        },
+        {
+          "s": 0,
+          "t": "Alright, let's get started then. Paimon will give you some pointers while you're at it!"
+        },
+        {
+          "sit": "Make deeper cuts."
+        },
+        {
+          "sit": "Make shallower cuts."
+        },
+        {
+          "s": 0,
+          "t": "That's right! The deeper the cuts, the deeper the flavor seeps in!"
+        },
+        {
+          "sit": "A little extra salt, a little extra happiness!"
+        },
+        {
+          "sit": "The flavor's great as-is. No need for any salt."
+        },
+        {
+          "s": 0,
+          "t": "Mmm, that sure tastes rich. {REALNAME[ID(2)|SHOWHOST(true)]} and the Blubberbeast are going to love it!"
+        },
+        {
+          "sit": "Mint sauce. The more, the merrier."
+        },
+        {
+          "sit": "Will an aquatic animal like the Blubberbeast be afraid of mint?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, that refreshing, cool taste is going to be awesome!"
+        },
+        {
+          "sit": "Chili peppers are indispensable."
+        },
+        {
+          "sit": "Animals from Fontaine might be allergic to spicy food..."
+        },
+        {
+          "s": 0,
+          "t": "Just the right amount of spiciness — enough to whet the appetite!"
+        },
+        {
+          "sit": "Flame-grilled over scorching heat — crispy on the outside, tender on the inside!"
+        },
+        {
+          "sit": "Slow roasted — tender and juicy!"
+        },
+        {
+          "s": 0,
+          "t": "Heehee, that sounds so delicious, Paimon's drooling already."
+        },
+        {
+          "section": "Weakened Blubberbeast, {REALNAME[ID(2)|SHOWHOST(true)]}"
+        },
+        {
+          "s": 2,
+          "t": "Aouhhh..."
+        },
+        {
+          "s": 1,
+          "t": "Arawr?"
+        },
+        {
+          "s": 1,
+          "t": "Awwrr..."
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "Aouh?"
+        },
+        {
+          "s": 2,
+          "t": "Aouh..."
+        },
+        {
+          "s": 2,
+          "t": "Auh!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon can't understand their conversation at all, but it seems they've reached an understanding...?"
+        },
+        {
+          "sit": "It's fine if you don't get it."
+        },
+        {
+          "sit": "As long as the emotion's there, that's all that matters."
+        },
+        {
+          "s": 0,
+          "t": "Makes sense. Even though the Blubberbeast doesn't have much strength, it feels like they're really happy — and Paimon feels happy for 'em, too!"
+        },
+        {
+          "section": "Weakened Blubberbeast, {REALNAME[ID(2)|SHOWHOST(true)]}, Paimon"
+        },
+        {
+          "s": 0,
+          "t": "Here comes something yummy! Don't just play around — you have to replenish your energy, too."
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        },
+        {
+          "s": 2,
+          "t": "A... Aooouhh!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, looks like they're having a great time. Will you choke if you eat upside down like that, though...?"
+        },
+        {
+          "sit": "Stay safe. Don't be like that Blubberbeast."
+        },
+        {
+          "s": 0,
+          "t": "Hey, what's with that patronizing tone? Paimon's no Blubberbeast. She's not gonna be so silly as to eat like that."
+        },
+        {
+          "sit": "Try it yourself and you'll see."
+        },
+        {
+          "s": 0,
+          "t": "Hey! Paimon's not gonna eat like that — she isn't a Blubberbeast anyway!"
+        },
+        {
+          "sit": "The Blubberbeast seems to have recovered enough strength for it to flap over and tumble into the sea..."
+        },
+        {
+          "s": 1,
+          "t": "Mmm... Aourgh!"
+        },
+        {
+          "s": 2,
+          "t": "Aohh! Woo... Arr!"
+        },
+        {
+          "s": 0,
+          "t": "Ah, it's gone..."
+        },
+        {
+          "sit": "That's just how things are. I mean, it's not indigenous to Natlan."
+        },
+        {
+          "s": 1,
+          "t": "Rrooh..."
+        },
+        {
+          "s": 0,
+          "t": "Don't be sad, {REALNAME[ID(2)|SHOWHOST(true)]}. You had so much fun just now, and you're already friends!"
+        },
+        {
+          "s": 0,
+          "t": "Anyway, Paimon's got a feeling that this isn't the last we've seen of that Blubberbeast!"
+        },
+        {
+          "s": 1,
+          "t": "Rawr!"
+        }
+      ],
+      "description": "You and Paimon discover a suspicious campsite somewhere within Flower-Feather Clan territory. There, you unexpectedly rescue a Blubberbeast. It seems to make a good friend for your Saurian companion…"
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "{REALNAME[ID(2)|SHOWHOST(true)]}",
+    "Weakened Blubberbeast"
+  ],
+  "id": "q-75108"
+}
