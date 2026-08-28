@@ -107,11 +107,20 @@ export default {
     }
 
     const url = new URL(request.url);
-    const parts = url.pathname.split("/").filter(Boolean);
+    const parts = url.pathname
+      .split("/")
+      .filter(Boolean)
+      .map((p) => {
+        try {
+          return decodeURIComponent(p);
+        } catch {
+          return p;
+        }
+      });
 
     if (parts.length === 0) {
       return json({
-        name: "Genshin DB API",
+        name: "Genshin Database API",
         endpoints: {
           manifest: "/v1",
           locale: "/v1/{locale}",
@@ -154,13 +163,15 @@ export default {
       if (parts.length === 4) {
         return serveKey(env, ctx, request, `v1/${locale}/quests/${qtype}/index.json`);
       }
-      return serveKey(env, ctx, request, `v1/${locale}/quests/${qtype}/${parts[4]}.json`);
+      return serveKey(env, ctx, request,
+        `v1/${locale}/quests/${qtype}/${parts[4].replace(/\.json$/, "")}.json`);
     }
     if (CATEGORIES.has(category)) {
       if (parts.length === 3) {
         return serveKey(env, ctx, request, `v1/${locale}/${category}/index.json`);
       }
-      return serveKey(env, ctx, request, `v1/${locale}/${category}/${parts[3]}.json`);
+      return serveKey(env, ctx, request,
+        `v1/${locale}/${category}/${parts[3].replace(/\.json$/, "")}.json`);
     }
     return err(404, "unknown_category",
       `Category '${category}' is not one of: ${[...CATEGORIES, "quests"].join(", ")}`);
