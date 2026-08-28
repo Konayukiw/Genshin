@@ -209,6 +209,8 @@ def build_entities(maps):
 def build_quests():
     """Process quest files with recovered wiki ids."""
     qmap = load_json(MAPS / "quest_ids.json") if (MAPS / "quest_ids.json").is_file() else {}
+    # quest ids are locale-independent, so reuse the en slug across locales
+    en_slug_by_id = defaultdict(dict)  # {qtype: {quest_id: en_slug}}
     for lang in LOCALES:
         for qtype in QUEST_TYPES:
             srcdir = SRC / LANG_DIR[lang] / QUEST_DIR[qtype][lang] \
@@ -241,8 +243,15 @@ def build_quests():
                     stem = "/".join(parts[1:])[:-5] if len(parts) > 1 else fn[:-5]
                     stem = re.sub(r"（q_\d+）\s*$", "", stem).strip()
                     title = (obj.get("quests") or [{}])[0].get("title") or obj.get("act_title") or stem
-                    slug = unique(slugify_locale(stem) if eid or lang != "ja"
-                                  else slugify_locale(stem), used)
+                    en_slug = en_slug_by_id[qtype].get(eid) if eid else None
+                    if lang == "en":
+                        slug = unique(slugify_en(stem), used)
+                        if eid:
+                            en_slug_by_id[qtype][eid] = slug
+                    elif en_slug:
+                        slug = unique(en_slug, used)
+                    else:
+                        slug = unique(slugify_locale(stem), used)
                     dump_json(DATA / lang / "quests" / qtype / f"{slug}.json", obj)
                     items.append({
                         "id": eid, "slug": slug, "title": title,
