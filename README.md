@@ -25,6 +25,7 @@ genshin/
 
 | エンドポイント | 内容 |
 |---|---|
+| `GET /` | ブラウザ向けエクスプローラー (HTML)。言語→カテゴリ→項目のツリーを展開して JSON を閲覧・検索できる。`Accept: text/html` を送らないクライアントや `/?json` 指定時は従来どおりの JSON を返す |
 | `GET /v1` | マニフェスト (`data_version`, カテゴリ別件数) |
 | `GET /v1/(locale)` | API インデックス |
 | `GET /v1/(locale)/(category)` | キャラクター一覧 (`characters` / `weapons` / `artifacts`) |
@@ -32,6 +33,7 @@ genshin/
 | `GET /v1/(locale)/quests` | 任務一覧 |
 | `GET /v1/(locale)/quests/(type)` | 任務一覧 (`archon` / `story` / `world` / `event` / `hangout`) |
 | `GET /v1/(locale)/quests/(type)/(slug)` | 個別クエスト |
+| `GET /v1/icons` | キャラクターアイコン一覧 |
 
 - すべてのレスポンスに `Access-Control-Allow-Origin: *` (CORS) を付与
 - `data_version` は `data/` 更新のたびに変わるため、クライアントは `/v1` を見て更新を検知

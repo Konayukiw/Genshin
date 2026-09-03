@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>原神データベース API</title>
+<style>
+  :root{
+    --bg:#0e1322; --panel:rgba(255,255,255,.028);
+    --line:rgba(211,188,142,.16); --line-strong:rgba(211,188,142,.38);
+    --gold:#d3bc8e; --gold-hi:#efe0bd; --text:#dce7f6; --muted:#93a2b8;
+    --code-bg:#0a0f1d;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{
+    background:
+      radial-gradient(1100px 520px at 85% -10%, rgba(211,188,142,.07), transparent 60%),
+      radial-gradient(900px 480px at -10% 0%, rgba(76,124,196,.10), transparent 55%),
+      var(--bg);
+    color:var(--text);
+    font-family:"Segoe UI","Yu Gothic UI","Hiragino Sans","Noto Sans JP",system-ui,-apple-system,sans-serif;
+    font-size:15px;line-height:1.6;min-height:100vh;
+  }
+  .wrap{max-width:1000px;margin:0 auto;padding:0 20px}
+  a{color:var(--gold);text-decoration:none}
+  a:hover{color:var(--gold-hi);text-decoration:underline}
+  .mono{font-family:Consolas,Menlo,monospace;font-size:12px}
+
+  header{padding:34px 0 14px;border-bottom:1px solid var(--line)}
+  h1{margin:0;font-size:26px;letter-spacing:.04em;font-weight:650;
+     background:linear-gradient(90deg,#f0e2be,var(--gold) 55%,#b99a63);
+     -webkit-background-clip:text;background-clip:text;color:transparent}
+  .sub{margin:6px 0 0;color:var(--muted);font-size:13.5px}
+  #manifest{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px;font-size:12.5px;color:var(--muted)}
+  .pill{border:1px solid var(--line);border-radius:999px;padding:2px 10px;background:var(--panel)}
+  .pill b{color:var(--gold);font-weight:600}
+
+  main{padding:22px 0 60px}
+  .searchbar{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;
+     position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px}
+  select,input[type=search]{
+    background:#111729;border:1px solid var(--line);color:var(--text);
+    border-radius:8px;padding:9px 12px;font-size:14px;outline:none}
+  select:focus,input[type=search]:focus{border-color:var(--line-strong);box-shadow:0 0 0 3px rgba(211,188,142,.12)}
+  input[type=search]{flex:1;min-width:220px}
+  input[type=search]::placeholder{color:#66748a}
+  .hint{color:var(--muted);font-size:13px;margin:0 0 14px}
+  #results{margin-bottom:22px}
+  .group-title{margin:18px 0 6px;font-size:13px;color:var(--gold);letter-spacing:.06em;font-weight:650}
+  .more-note{color:var(--muted);font-size:12.5px;padding:2px 12px 6px}
+
+  .node{border:1px solid var(--line);border-radius:10px;background:var(--panel);margin-bottom:10px;overflow:hidden}
+  .node-head{display:flex;align-items:center;gap:10px;padding:11px 14px;cursor:pointer;user-select:none}
+  .node-head:hover{background:rgba(211,188,142,.05)}
+  .node-head:focus-visible,.item-head:focus-visible{outline:2px solid var(--line-strong);outline-offset:-2px}
+  .chev{color:var(--gold);font-size:11px;transition:transform .15s ease;flex:none;width:12px}
+  .open > .node-head .chev{transform:rotate(90deg)}
+  .node-label{font-weight:600;font-size:15px}
+  .node-sub{color:var(--muted);font-size:12.5px}
+  .count{margin-left:auto;flex:none;border:1px solid var(--line);color:var(--gold);
+         font-size:12px;border-radius:999px;padding:1px 9px;white-space:nowrap}
+  .node-body{display:none;border-top:1px solid var(--line);padding:10px 12px 12px}
+  .open > .node-body{display:block}
+  .loading,.load-error{color:var(--muted);font-size:13px;padding:6px 8px}
+  .load-error{color:#e0968f}
+  .load-error a{cursor:pointer}
+
+  .item{border:1px solid var(--line);border-radius:8px;margin:6px 0;background:rgba(0,0,0,.14)}
+  .item-head{display:flex;align-items:center;gap:9px;padding:8px 12px;cursor:pointer;user-select:none;flex-wrap:wrap}
+  .item-head:hover{background:rgba(211,188,142,.05)}
+  .item.open > .item-head .chev{transform:rotate(90deg)}
+  .item-name{font-weight:600}
+  .item-en{color:var(--muted);font-size:12.5px}
+  .item-id{margin-left:auto;color:var(--muted);font-size:11.5px;font-family:Consolas,Menlo,monospace}
+  .chip{font-size:11.5px;border-radius:5px;padding:1px 7px;border:1px solid var(--line);color:var(--muted);flex:none;white-space:nowrap}
+  .stars{color:#e8b83f;font-size:12px;letter-spacing:1px;flex:none}
+  .item-json{display:none;border-top:1px solid var(--line);padding:10px 12px}
+  .item.open .item-json{display:block}
+
+  .json-bar{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+  .json-url{font-family:Consolas,Menlo,monospace;font-size:12px;color:var(--muted)}
+  .btn{border:1px solid var(--line-strong);background:transparent;color:var(--gold);
+       border-radius:6px;padding:3px 10px;font-size:12px;cursor:pointer;display:inline-block;text-decoration:none;line-height:1.5}
+  .btn:hover{background:rgba(211,188,142,.12);color:var(--gold-hi);text-decoration:none}
+  pre.json{margin:0;background:var(--code-bg);border:1px solid var(--line);border-radius:8px;
+       padding:12px 14px;overflow:auto;max-height:460px;
+       font-family:Consolas,Menlo,"Courier New",monospace;font-size:12.5px;line-height:1.55;color:#cfd3dc}
+  .j-key{color:#d3bc8e}.j-str{color:#a8c989}.j-num{color:#e2a45f}.j-kw{color:#c48ede}.j-null{color:#8a93a6;font-style:italic}
+
+  footer{border-top:1px solid var(--line);padding:18px 0 30px;color:var(--muted);font-size:12px}
+  @media (max-width:640px){
+    h1{font-size:21px}
+    .item-id{display:none}
+    .count{font-size:11px}
+  }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>✦ 原神データベース API</h1>
+    <p class="sub">キャラクター / 武器 / 聖遺物 / 任務 - ツリーをたどって展開すると JSON データを閲覧できます。</p>
+    <div id="manifest"><span class="pill">マニフェストを読み込み中…</span></div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="searchbar">
+    <select id="s-loc" title="検索対象の言語"></select>
+    <input id="s-q" type="search" placeholder="検索: 名前 / 英語名 / ID / スラグ (例: 胡桃, hutao, 10000046)">
+  </div>
+  <div id="results" hidden></div>
+  <p class="hint" id="hint"> 言語 → カテゴリ の順に展開してください。項目名をクリックすると JSON が表示されます。</p>
+  <div id="tree"></div>
+</main>
+
+<footer>
+  <div class="wrap">
+    Game content and data © HoYoverse / Cognosphere. Unofficial fan project — not affiliated with or endorsed by HoYoverse.<br>
+    API マニフェスト (JSON): <a href="/v1">/v1</a> ・ このページの JSON 版: <a href="/?json">/?json</a>
+  </div>
+</footer>
+
+<script>
+"use strict";
+
+var LOCS = { en: "English", ja: "日本語", zh: "简体中文" };
+var CATS = { characters: "キャラクター", weapons: "武器", artifacts: "聖遺物", quests: "任務" };
+var CAT_ORDER = ["characters", "weapons", "artifacts", "quests"];
+var QTYPES = { archon: "魔神任務", story: "伝説任務", world: "世界任務", event: "イベント任務", hangout: "デート任務" };
+var ELEM_COLOR = { Pyro: "#ff8f5e", Hydro: "#54c8f0", Electro: "#b892e0", Dendro: "#a9ce63", Anemo: "#7cc8ac", Cryo: "#8fdcec", Geo: "#eab84a" };
+var ELEM_ALIAS = { "風": "Anemo", "岩": "Geo", "雷": "Electro", "草": "Dendro", "水": "Hydro", "炎": "Pyro", "氷": "Cryo", "火": "Pyro", "冰": "Cryo", "無": "None", "None": "None" };
+
+function $(s, root) { return (root || document).querySelector(s); }
+function el(tag, cls, text) {
+  var e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+function fmt(n) { return n == null ? "?" : Number(n).toLocaleString("ja-JP"); }
+
+var httpCache = new Map();
+function getJSON(url) {
+  if (httpCache.has(url)) return httpCache.get(url);
+  var p = fetch(url, { headers: { Accept: "application/json" } })
+    .then(function (r) {
+      if (!r.ok) throw new Error("HTTP " + r.status + " (" + url + ")");
+      return r.json();
+    })
+    .catch(function (e) { httpCache.delete(url); throw e; });
+  httpCache.set(url, p);
+  return p;
+}
+
+function highlight(s) {
+  var e = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
+  return e.replace(
+    /("(?:\\.|[^"\\])*")(\s*:)?|\b(true|false)\b|\b(null)\b|(-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?)/g,
+    function (m, str, colon, bool, nul, num) {
+      if (str) return colon
+        ? '<span class="j-key">' + str + "</span>" + colon
+        : '<span class="j-str">' + str + "</span>";
+      if (bool) return '<span class="j-kw">' + bool + "</span>";
+      if (nul) return '<span class="j-null">null</span>';
+      if (num) return '<span class="j-num">' + num + "</span>";
+      return m;
+    });
+}
+
+function jsonView(url, data) {
+  var raw = JSON.stringify(data, null, 2);
+  var box = el("div");
+  var bar = el("div", "json-bar");
+  bar.appendChild(el("span", "json-url", url));
+  var copy = el("button", "btn", "コピー");
+  copy.addEventListener("click", function () {
+    navigator.clipboard.writeText(raw).then(function () {
+      copy.textContent = "コピーしました ✓";
+      setTimeout(function () { copy.textContent = "コピー"; }, 1400);
+    }, function () { copy.textContent = "コピー失敗"; });
+  });
+  var open = el("a", "btn", "生 JSON を開く ↗");
+  open.href = url; open.target = "_blank"; open.rel = "noopener";
+  bar.append(copy, open);
+  var pre = el("pre", "json");
+  pre.innerHTML = highlight(raw);
+  box.append(bar, pre);
+  return box;
+}
+
+function stars(r) {
+  var n = Math.max(0, Math.min(5, parseInt(r, 10) || 0));
+  return el("span", "stars", "★".repeat(n));
+}
+function canonElem(v) {
+  if (!v) return null;
+  if (ELEM_COLOR[v]) return v;
+  return ELEM_ALIAS[v] || null;
+}
+function elemChip(canon, display) {
+  var c = el("span", "chip", display || canon);
+  var col = ELEM_COLOR[canon];
+  if (col) { c.style.color = col; c.style.borderColor = col + "66"; }
+  return c;
+}
+
+function branch(labelText, subText, count, loader) {
+  var node = el("div", "node");
+  var head = el("div", "node-head");
+  head.setAttribute("role", "button");
+  head.setAttribute("tabindex", "0");
+  head.setAttribute("aria-expanded", "false");
+  head.appendChild(el("span", "chev", "▶"));
+  head.appendChild(el("span", "node-label", labelText));
+  if (subText) {
+    var sub = el("span", "node-sub", subText);
+    if (subText.charAt(0) === "/") sub.classList.add("mono");
+    head.appendChild(sub);
+  }
+  if (count != null) head.appendChild(el("span", "count", fmt(count) + " 件"));
+  var body = el("div", "node-body");
+  node.append(head, body);
+
+  var loaded = false, busy = false;
+  function load() {
+    busy = true;
+    var msg = el("div", "loading", "読み込み中…");
+    body.appendChild(msg);
+    loader(body).then(function () {
+      msg.remove();
+      loaded = true;
+      busy = false;
+    }, function (e) {
+      msg.remove();
+      node.classList.remove("open");
+      head.setAttribute("aria-expanded", "false");
+      busy = false;
+      var errEl = el("div", "load-error");
+      errEl.append("読み込みに失敗しました (" + (e && e.message ? e.message : e) + ") ・ ");
+      var retry = el("a", null, "再試行");
+      retry.addEventListener("click", function (ev) {
+        ev.stopPropagation();
+        errEl.remove();
+        node.classList.add("open");
+        head.setAttribute("aria-expanded", "true");
+        load();
+      });
+      errEl.appendChild(retry);
+      body.appendChild(errEl);
+    });
+  }
+  head.addEventListener("click", function () {
+    var opening = !node.classList.contains("open");
+    node.classList.toggle("open", opening);
+    head.setAttribute("aria-expanded", String(opening));
+    if (opening && !loaded && !busy) load();
+  });
+  head.addEventListener("keydown", function (ev) {
+    if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); head.click(); }
+  });
+  return node;
+}
+
+function itemNode(it, kind) {
+  var item = el("div", "item");
+  var head = el("div", "item-head");
+  head.setAttribute("role", "button");
+  head.setAttribute("tabindex", "0");
+  head.setAttribute("aria-expanded", "false");
+  head.appendChild(el("span", "chev", "▶"));
+  var name = it.name || it.title || it.slug || "(no name)";
+  head.appendChild(el("span", "item-name", name));
+  if (it.en_name && it.en_name !== name) head.appendChild(el("span", "item-en", it.en_name));
+
+  if (kind === "characters") {
+    if (it.rarity) head.appendChild(stars(it.rarity));
+    var canon = canonElem(it.element_en || it.element);
+    if (canon && canon !== "None") head.appendChild(elemChip(canon, it.element));
+    if (it.weapon) head.appendChild(el("span", "chip", it.weapon));
+  } else if (kind === "weapons") {
+    if (it.rarity) head.appendChild(stars(it.rarity));
+    if (it.type) head.appendChild(el("span", "chip", it.type));
+    if (it.base_atk) head.appendChild(el("span", "chip", "基礎攻撃力 " + it.base_atk));
+  } else if (kind === "artifacts") {
+    if (it.affixes) head.appendChild(el("span", "chip", "セット効果 " + it.affixes + " 種"));
+  } else if (kind === "quests") {
+    ["chapter", "act", "region"].forEach(function (k) {
+      if (it[k]) head.appendChild(el("span", "chip", it[k]));
+    });
+  }
+  if (it.id) head.appendChild(el("span", "item-id", it.id));
+
+  var jsonBox = el("div", "item-json");
+  item.append(head, jsonBox);
+
+  var loaded = false, busy = false;
+  head.addEventListener("click", function () {
+    var opening = !item.classList.contains("open");
+    item.classList.toggle("open", opening);
+    head.setAttribute("aria-expanded", String(opening));
+    if (!opening || loaded || busy) return;
+    busy = true;
+    var msg = el("div", "loading", "JSON を読み込み中…");
+    jsonBox.appendChild(msg);
+    getJSON(it.url).then(function (data) {
+      msg.remove();
+      jsonBox.appendChild(jsonView(it.url, data));
+      loaded = true;
+      busy = false;
+    }, function (e) {
+      msg.remove();
+      item.classList.remove("open");
+      head.setAttribute("aria-expanded", "false");
+      busy = false;
+      var errEl = el("div", "load-error");
+      errEl.append("読み込みに失敗しました (" + (e && e.message ? e.message : e) + ") ・ ");
+      var retry = el("a", null, "再試行");
+      retry.addEventListener("click", function (ev) {
+        ev.stopPropagation();
+        errEl.remove();
+        item.classList.add("open");
+        head.click();
+      });
+      errEl.appendChild(retry);
+      jsonBox.appendChild(errEl);
+    });
+  });
+  head.addEventListener("keydown", function (ev) {
+    if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); head.click(); }
+  });
+  return item;
+}
+
+function indexLink(body, url) {
+  var d = el("div", "loading");
+  var a = el("a", null, "index.json を開く ↗");
+  a.href = url; a.target = "_blank"; a.rel = "noopener";
+  d.appendChild(a);
+  body.appendChild(d);
+}
+
+function loadLocale(loc, body) {
+  return getJSON("/v1/" + loc).then(function (data) {
+    CAT_ORDER.forEach(function (cat) {
+      var c = (data.categories || {})[cat];
+      if (!c) return;
+      body.appendChild(branch(CATS[cat], null, c.count, function (b) {
+        return cat === "quests" ? loadQuestsRoot(loc, b) : loadCategory(loc, cat, b);
+      }));
+    });
+  });
+}
+
+function loadCategory(loc, cat, body) {
+  var url = "/v1/" + loc + "/" + cat;
+  return getJSON(url).then(function (data) {
+    indexLink(body, url);
+    (data.items || []).forEach(function (it) { body.appendChild(itemNode(it, cat)); });
+  });
+}
+
+function loadQuestsRoot(loc, body) {
+  var url = "/v1/" + loc + "/quests";
+  return getJSON(url).then(function (data) {
+    indexLink(body, url);
+    Object.keys(QTYPES).forEach(function (qt) {
+      var q = (data.quest_types || {})[qt];
+      if (!q) return;
+      body.appendChild(branch(QTYPES[qt], qt, q.count, function (b) {
+        return loadQuestType(loc, qt, b);
+      }));
+    });
+  });
+}
+
+function loadQuestType(loc, qt, body) {
+  var url = "/v1/" + loc + "/quests/" + qt;
+  return getJSON(url).then(function (data) {
+    indexLink(body, url);
+    (data.items || []).forEach(function (it) { body.appendChild(itemNode(it, "quests")); });
+  });
+}
+
+var idxCache = {};
+function searchIndexes(loc) {
+  if (idxCache[loc]) return idxCache[loc];
+  var urls = ["/v1/" + loc + "/characters", "/v1/" + loc + "/weapons", "/v1/" + loc + "/artifacts"];
+  Object.keys(QTYPES).forEach(function (qt) { urls.push("/v1/" + loc + "/quests/" + qt); });
+  idxCache[loc] = Promise.all(urls.map(function (u) {
+    return getJSON(u).catch(function () { return null; });
+  })).then(function (arr) {
+    var groups = [];
+    arr.forEach(function (d, i) {
+      if (d && d.items) {
+        groups.push({
+          key: i < 3 ? ["characters", "weapons", "artifacts"][i] : "quests/" + Object.keys(QTYPES)[i - 3],
+          items: d.items,
+        });
+      }
+    });
+    return groups;
+  });
+  return idxCache[loc];
+}
+
+function matchItem(it, q) {
+  return [it.name, it.en_name, it.title, it.slug, it.id].some(function (v) {
+    return v != null && String(v).toLowerCase().indexOf(q) !== -1;
+  });
+}
+
+function runSearch() {
+  var input = $("#s-q");
+  var q = input.value.trim().toLowerCase();
+  var res = $("#results");
+  var tree = $("#tree");
+  var hint = $("#hint");
+  if (q.length < 2) {
+    res.hidden = true; res.innerHTML = "";
+    tree.hidden = false; hint.hidden = false;
+    return;
+  }
+  res.hidden = false; tree.hidden = true; hint.hidden = true;
+  res.innerHTML = "";
+  res.appendChild(el("div", "loading", "検索中…"));
+  var loc = $("#s-loc").value;
+  searchIndexes(loc).then(function (groups) {
+    res.innerHTML = "";
+    var total = 0;
+    groups.forEach(function (g) {
+      var isQuest = g.key.indexOf("quests/") === 0;
+      var kind = isQuest ? "quests" : g.key;
+      var hits = g.items.filter(function (it) { return matchItem(it, q); });
+      if (!hits.length) return;
+      total += hits.length;
+      var label = isQuest
+        ? "任務 / " + (QTYPES[g.key.split("/")[1]] || g.key.split("/")[1])
+        : CATS[kind];
+      res.appendChild(el("div", "group-title", label + " (" + fmt(hits.length) + " 件)"));
+      hits.slice(0, 40).forEach(function (it) { res.appendChild(itemNode(it, kind)); });
+      if (hits.length > 40) {
+        res.appendChild(el("div", "more-note", "…ほか " + fmt(hits.length - 40) + " 件。絞り込んでください。"));
+      }
+    });
+    if (!total) {
+      res.appendChild(el("div", "loading", "「" + input.value.trim() + "」に一致する項目は見つかりませんでした。"));
+    }
+  }, function (e) {
+    res.innerHTML = "";
+    res.appendChild(el("div", "load-error", "検索に失敗しました: " + (e && e.message ? e.message : e)));
+  });
+}
+
+function pill(k, v) {
+  var s = el("span", "pill");
+  s.append(el("b", null, k + ": "), v);
+  return s;
+}
+
+function init() {
+  var sel = $("#s-loc");
+  Object.keys(LOCS).forEach(function (k) { sel.appendChild(new Option(LOCS[k] + " (" + k + ")", k)); });
+  sel.value = "ja";
+
+  var sTimer = null;
+  $("#s-q").addEventListener("input", function () {
+    clearTimeout(sTimer);
+    sTimer = setTimeout(runSearch, 250);
+  });
+  sel.addEventListener("change", runSearch);
+
+  var mEl = $("#manifest");
+  getJSON("/v1").then(function (m) {
+    mEl.innerHTML = "";
+    mEl.appendChild(pill("データバージョン", m.data_version || "?"));
+    if (m.generated_at) {
+      mEl.appendChild(pill("生成日時", new Date(m.generated_at).toLocaleString("ja-JP")));
+    }
+    var locs = m.locales || Object.keys(LOCS);
+    locs.forEach(function (loc) {
+      var total = CAT_ORDER.reduce(function (s, c) {
+        return s + ((m.counts || {})[c + "/" + loc] || 0);
+      }, 0);
+      mEl.appendChild(pill(LOCS[loc] || loc, fmt(total) + " 件"));
+    });
+    var tree = $("#tree");
+    locs.forEach(function (loc) {
+      tree.appendChild(branch(LOCS[loc] || loc, "/v1/" + loc, null, function (b) {
+        return loadLocale(loc, b);
+      }));
+    });
+  }, function () {
+    mEl.innerHTML = "";
+    mEl.appendChild(el("span", "pill", "マニフェスト (/v1) の取得に失敗しました。時間をおいて再読み込みしてください。"));
+  });
+}
+
+init();
+</script>
+</body>
+</html>

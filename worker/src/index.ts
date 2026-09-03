@@ -6,6 +6,9 @@
  * cache key, so a data push invalidates the API globally without purges.
  *
  * Routes:
+ *   GET /                                    -> HTML explorer for browsers
+ *                                               (JSON with ?json or non-HTML
+ *                                               Accept headers)
  *   GET /v1                                  -> manifest (data_version, counts, ...)
  *   GET /v1/:locale                          -> locale index
  *   GET /v1/:locale/:category                -> category index
@@ -13,6 +16,8 @@
  *   GET /v1/:locale/:category/:slug          -> entity JSON
  *   GET /v1/:locale/quests/:type/:slug       -> quest JSON
  */
+
+import EXPLORER_HTML from "./explorer.html";
 
 export interface Env {
   DATA: R2Bucket;
@@ -119,6 +124,16 @@ export default {
       });
 
     if (parts.length === 0) {
+      const accept = request.headers.get("Accept") ?? "";
+      if (!url.searchParams.has("json") && accept.includes("text/html")) {
+        return new Response(EXPLORER_HTML, {
+          headers: {
+            "Content-Type": "text/html; charset=utf-8",
+            "Cache-Control": "public, max-age=300",
+            ...CORS,
+          },
+        });
+      }
       return json({
         name: "Genshin Database API",
         endpoints: {
