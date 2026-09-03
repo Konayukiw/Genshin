@@ -15,6 +15,8 @@
  *   GET /v1/:locale/quests/:type             -> quest-type index
  *   GET /v1/:locale/:category/:slug          -> entity JSON
  *   GET /v1/:locale/quests/:type/:slug       -> quest JSON
+ *   GET /v1/icons                            -> icon index (id/names/file)
+ *   GET /v1/icons/:file                      -> icon PNG (e.g. kamisato-ayaka.png)
  */
 
 import EXPLORER_HTML from "./explorer.html";
@@ -26,6 +28,14 @@ export interface Env {
 const LOCALES = new Set(["en", "ja", "zh"]);
 const CATEGORIES = new Set(["characters", "weapons", "artifacts"]);
 const QUEST_TYPES = new Set(["archon", "story", "world", "event", "hangout"]);
+const ICON_IMAGE_TYPES: Record<string, string> = {
+  png: "image/png",
+  webp: "image/webp",
+  jpg: "image/jpeg",
+  jpeg: "image/jpeg",
+  gif: "image/gif",
+  svg: "image/svg+xml",
+};
 
 const CORS: Record<string, string> = {
   "Access-Control-Allow-Origin": "*",
@@ -102,6 +112,43 @@ async function serveKey(
   return request.method === "HEAD" ? new Response(null, { headers }) : res;
 }
 
+async function serveIcon(
+  env: Env,
+  ctx: ExecutionContext,
+  request: Request,
+  key: string,
+  contentType: string,
+): Promise<Response> {
+  const url = new URL(request.url);
+  const version = await dataVersion(env, ctx);
+  const cacheKey = new Request(`${url.origin}${url.pathname}?v=${version}`);
+  const cache = caches.default;
+  const cached = await cache.match(cacheKey);
+  if (cached) {
+    return request.method === "HEAD" ? new Response(null, cached) : cached;
+  }
+
+  const etag = `"${version}"`;
+  if (version && request.headers.get("If-None-Match") === etag) {
+    return new Response(null, { status: 304, headers: { ETag: etag, ...CORS } });
+  }
+
+  const obj = await env.DATA.get(key);
+  if (!obj) {
+    return err(404, "not_found", `No icon at ${url.pathname}`);
+  }
+
+  const headers: Record<string, string> = {
+    "Content-Type": contentType,
+    "Cache-Control": "public, max-age=604800",
+    ETag: etag,
+    ...CORS,
+  };
+  const res = new Response(obj.body, { headers });
+  ctx.waitUntil(cache.put(cacheKey, res.clone()));
+  return request.method === "HEAD" ? new Response(null, { headers }) : res;
+}
+
 export default {
   async fetch(request, env, ctx): Promise<Response> {
     if (request.method === "OPTIONS") {
@@ -145,7 +192,7 @@ export default {
           quest: "/v1/{locale}/quests/{quest_type}/{slug}",
         },
         locales: [...LOCALES],
-        categories: [...CATEGORIES, "quests"],
+        categories: [...CATEGORIES, "quests", "icons"],
         quest_types: [...QUEST_TYPES],
       });
     }
@@ -157,6 +204,18 @@ export default {
     }
 
     const locale = parts[1];
+    if (locale === "icons") {
+      if (parts.length === 2) {
+        return serveKey(env, ctx, request, "v1/icons/index.json");
+      }
+      const file = parts.slice(2).join("/");
+      const ext = file.includes(".") ? file.split(".").pop()!.toLowerCase() : "";
+      const imageType = ICON_IMAGE_TYPES[ext];
+      if (!imageType || file !== parts[parts.length - 1]) {
+        return err(404, "not_found", `No icon at ${url.pathname}`);
+      }
+      return serveIcon(env, ctx, request, `v1/icons/${file}`, imageType);
+    }
     if (!LOCALES.has(locale)) {
       return err(404, "unknown_locale", `Locale '${locale}' is not one of: en, ja, zh`);
     }
