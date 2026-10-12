@@ -1,0 +1,289 @@
+{
+  "chapter": "Food Street Must Be Saved!",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Chefs From a Foreign Land",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Chefs From a Foreign Land",
+      "dialogue": [
+        {
+          "section": "Go to the food street"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, Paimon? Long time no see."
+        },
+        {
+          "s": 1,
+          "t": "Shenhe! You're here too?"
+        },
+        {
+          "s": 0,
+          "t": "I came to lend a hand. There's no end to things to do on the food street, and Xiangling and Smiley Yanxiao couldn't handle it on their own."
+        },
+        {
+          "s": 1,
+          "t": "Oh, that makes sense!"
+        },
+        {
+          "s": 0,
+          "t": "Besides... I accidentally punched a hole through a wok with my spatula while practicing cooking recently. Chef Mao thought it best if I stayed away from the kitchen for a while."
+        },
+        {
+          "s": 1,
+          "t": "Well, Paimon can't really argue with that... Wait, what are Yanxiao and the others up to over there?"
+        },
+        {
+          "s": 2,
+          "t": "A dash of salt, soy sauce as needed."
+        },
+        {
+          "s": 3,
+          "t": "How much is \"a dash\"? And what does \"as needed\" even mean!?"
+        },
+        {
+          "s": 2,
+          "t": "High heat, and pour on the oil!"
+        },
+        {
+          "s": 3,
+          "t": "Pour on the oil, he says... But how many milliliters!?"
+        },
+        {
+          "s": 2,
+          "t": "Order up! \"Stone Harbor Delicacies\" is fundamental for any Liyue chef. If you can't even make sense of a dish that simple, we can forget talking about a cook-off."
+        },
+        {
+          "s": 3,
+          "t": "Are all the chefs in Liyue this careless? Back in Fontaine, an attitude like that would get you kicked out of the kitchen by the head chef... Ugh, but why on earth is this so good!?"
+        },
+        {
+          "s": 1,
+          "t": "Xiangling, what are they doing?"
+        },
+        {
+          "s": 4,
+          "t": "It's not every day we meet a chef from another nation, so Smiley Yanxiao wants to test his skills against hers."
+        },
+        {
+          "s": 1,
+          "t": "Wait, isn't that Savanna? She came to Liyue too?"
+        },
+        {
+          "s": 4,
+          "t": "You know her? I heard she's the head chef at Hotel Debord. She's been under a lot of work stress lately, so Escoffier brought her here to take a breather."
+        },
+        {
+          "s": 4,
+          "t": "But it looks like her stress levels just doubled."
+        },
+        {
+          "s": 5,
+          "t": "Hmm... \"A dash of salt\" means highlighting the natural flavor of the ingredients — too much of it would ruin that."
+        },
+        {
+          "s": 5,
+          "t": "\"Soy sauce as needed\" implies the dish relies on it for color and savory flavor, so you can't be stingy with it."
+        },
+        {
+          "s": 5,
+          "t": "And \"high heat, pour on the oil\" means that with sufficiently hot flames, the oil temperature can be brought up high enough to cook the dish quickly. This locks the juice right in, preserving the food's natural taste."
+        },
+        {
+          "s": 5,
+          "t": "The exact amount of seasoning and when to plate the dish are all left to the chef's discretion. It seems Liyue cuisine is built largely on the chef's own accumulated experience."
+        },
+        {
+          "sit": "Classic Escoffier."
+        },
+        {
+          "s": 2,
+          "t": "(Impressive... Stone Harbor Delicacies is just a basic dish, sure, but she dissected the whole technique in a single bite!)"
+        },
+        {
+          "s": 2,
+          "t": "Xiangling, when you step up, bring out your signature dish! She's the real deal. If we lose on our home turf, how will we show our faces outside!?"
+        },
+        {
+          "s": 4,
+          "t": "Oh, come on, this is an international food street, not a round of Masterful Chefs!"
+        },
+        {
+          "s": 4,
+          "t": "Don't treat Escoffier like some terrifying enemy. She's actually super sweet! She only stepped in to help her friend out of a tight spot."
+        },
+        {
+          "s": 3,
+          "t": "(S... Sweet?!)"
+        },
+        {
+          "s": 5,
+          "t": "Miss Xiangling, tasting an opponent's dish and offering critique is a necessary part of culinary exchange, isn't it? That was my reason for stepping in."
+        },
+        {
+          "s": 4,
+          "t": "See? You really do look out for the people around you! I can tell from all the time we've spent together lately!"
+        },
+        {
+          "s": 3,
+          "t": "Escoffier... even all the way here in Liyue, I'm still leaning on you so much."
+        },
+        {
+          "s": 5,
+          "t": "...Keep your head screwed on tight, Savanna. How are you gonna lead a kitchen as head chef otherwise?"
+        },
+        {
+          "sit": "Maybe we skip the cook-off?"
+        },
+        {
+          "sit": "How about a culinary exchange?"
+        },
+        {
+          "s": 5,
+          "t": "How so?"
+        },
+        {
+          "s": 1,
+          "t": "Paimon gets what you mean, {NICKNAME}! Instead of competing, why don't you team up and cook something together?"
+        },
+        {
+          "s": 1,
+          "t": "If Xiangling and Escoffier teamed up, imagine how incredible the food would be! Paimon's getting curious just thinking about it!"
+        },
+        {
+          "sit": "You mean hungry."
+        },
+        {
+          "s": 1,
+          "t": "Come on, can't it be both?"
+        },
+        {
+          "s": 5,
+          "t": "A fine suggestion. Simply watching another chef work yields limited insight."
+        },
+        {
+          "s": 4,
+          "t": "I'm in! I heard Escoffier talking about \"centrifuges\" and \"extractions\" earlier. I didn't get half of it, but I'm dying to learn!"
+        },
+        {
+          "s": 2,
+          "t": "But your cooking styles are polar opposites. What could you possibly make by working together?"
+        },
+        {
+          "s": 3,
+          "t": "Even agreeing on how to cook the dish will be a nightmare, too. If I hear another phrase like \"a dash\" or \"as needed,\" I swear I'll..."
+        },
+        {
+          "s": 6,
+          "t": "This is a complete insult to tradition!"
+        },
+        {
+          "s": 0,
+          "t": "Sir, may I ask what the issue is?"
+        },
+        {
+          "s": 6,
+          "t": "Look at this! Is this what we're supposed to eat during the Moonchase Festival?"
+        },
+        {
+          "s": 0,
+          "t": "What do you think we should eat for the festival, then?"
+        },
+        {
+          "s": 6,
+          "t": "Five-Nut Wangxiao Cakes, of course!"
+        },
+        {
+          "s": 2,
+          "t": "Gramps, you've got to be kidding, right? Most people leave those cakes to gather dust in their pantries until next year's Moonchase!"
+        },
+        {
+          "s": 6,
+          "t": "Utter nonsense! Hmph... no offense, but not a single chef here can make a Wangxiao Cake that beats Five-Nut!"
+        },
+        {
+          "s": 5,
+          "t": "Is this Five-Nut cake really good enough to warrant such praise?"
+        },
+        {
+          "s": 4,
+          "t": "Actually... that particular flavor is pretty controversial around here..."
+        },
+        {
+          "s": 2,
+          "t": "Hmph... Gramps, wanna make a bet? I can whip up an even tastier batch right now, just to prove you wrong!"
+        },
+        {
+          "s": 6,
+          "t": "And if you can't, every single stall here has to sell Five-Nut Wangxiao Cakes!"
+        },
+        {
+          "s": 2,
+          "t": "You're on!"
+        },
+        {
+          "s": 7,
+          "t": "President, what brings you over here? I apologize for the trouble caused, everyone."
+        },
+        {
+          "s": 7,
+          "t": "This is the president of the Chenyu Vale Confectionery Guild. He's probably here to inspect the Moonchase festivities. He's one of the main organizers behind the festival, after all."
+        },
+        {
+          "s": 2,
+          "t": "*gasp* What..."
+        },
+        {
+          "s": 6,
+          "t": "Fine. I'll give you a few days, and I'll be back to taste your cooking then."
+        },
+        {
+          "s": 1,
+          "t": "Looks like Smiley Yanxiao is in trouble..."
+        },
+        {
+          "s": 2,
+          "t": "He's the event organizer. What if he actually forces us all to sell Five-Nut Wangxiao Cakes?!"
+        },
+        {
+          "s": 0,
+          "t": "I suspect he simply wanted to eat some. Why don't we all make one together for him?"
+        },
+        {
+          "s": 1,
+          "t": "Hey, that's it! A Wangxiao Cake made by Xiangling and Escoffier... Oooh, Paimon's mouth is already watering!"
+        },
+        {
+          "s": 5,
+          "t": "We actually have a lot in common when it comes to making confectionery. Combining our talents on Wangxiao Cakes seems like a worthy endeavor to me."
+        },
+        {
+          "s": 2,
+          "t": "I'm in favor of the team-up! Not that I think anything could taste worse than a Five-Nut cake... but better safe than sorry."
+        },
+        {
+          "s": 4,
+          "t": "This is a huge deal for the entire food street, so we really need to come up with a good plan..."
+        },
+        {
+          "s": 1,
+          "t": "Looks like everyone's getting serious! Paimon's actually getting kinda excited!"
+        }
+      ],
+      "description": "You run into several familiar faces at the food street. Something interesting seems to be happening between the chefs of Fontaine and Liyue..."
+    }
+  ],
+  "speakers": [
+    "Shenhe",
+    "Paimon",
+    "Smiley Yanxiao",
+    "Savanna",
+    "Xiangling",
+    "Escoffier",
+    "Guildmaster",
+    "Guild Member"
+  ],
+  "id": "q-71544"
+}

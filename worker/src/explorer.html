@@ -3,499 +3,1165 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="description" content="原神のキャラクター・武器・聖遺物・任務のデータを配信するデータベースAPIです。">
 <link rel="icon" href="data:,">
 <title>原神データベース API</title>
 <style>
+:root{
+  --hdr:56px;
+  --side-w:224px;
+  --sans:"Segoe UI Variable Text","Segoe UI",-apple-system,BlinkMacSystemFont,"Hiragino Sans","Yu Gothic UI","Noto Sans JP","Noto Sans CJK JP",system-ui,sans-serif;
+  --sans-zh:"Segoe UI Variable Text","Segoe UI",-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei UI","Noto Sans SC","Noto Sans CJK SC",system-ui,sans-serif;
+  --mono:ui-monospace,"Cascadia Mono","SF Mono",Consolas,Menlo,monospace;
+  --bg:#ffffff;
+  --bg-2:#f7f8fa;
+  --hover:#f1f3f6;
+  --sel:#eaf0fd;
+  --line:#e5e7eb;
+  --line-2:#d3d8de;
+  --fg:#1b1f24;
+  --fg-2:#57606a;
+  --fg-3:#8a939d;
+  --accent:#2557d6;
+  --ring:rgba(37,87,214,.16);
+  --code:#f6f8fa;
+  --r5:#b8741a;
+  --r4:#7b57c9;
+  --err-bg:#fef3f2;
+  --err-line:#fbcfca;
+  --j-key:#0b4f9e;
+  --j-str:#116329;
+  --j-num:#9a4300;
+  --j-kw:#b3261e;
+}
+@media (prefers-color-scheme: dark){
   :root{
-    --bg:#0e1322; --panel:rgba(255,255,255,.028);
-    --line:rgba(211,188,142,.16); --line-strong:rgba(211,188,142,.38);
-    --gold:#d3bc8e; --gold-hi:#efe0bd; --text:#dce7f6; --muted:#93a2b8;
-    --code-bg:#0a0f1d;
+    --bg:#0e1116;
+    --bg-2:#12161c;
+    --hover:#191e26;
+    --sel:#172343;
+    --line:#252b34;
+    --line-2:#333b46;
+    --fg:#e4e7eb;
+    --fg-2:#9ea7b3;
+    --fg-3:#6c7581;
+    --accent:#7fa3ff;
+    --ring:rgba(127,163,255,.22);
+    --code:#12161c;
+    --r5:#e2ae52;
+    --r4:#b49cf2;
+    --err-bg:#2a1616;
+    --err-line:#5a2a28;
+    --j-key:#8db5ff;
+    --j-str:#9ad3a6;
+    --j-num:#f0b06e;
+    --j-kw:#f3968c;
   }
-  *{box-sizing:border-box}
-  html,body{margin:0;padding:0}
-  body{
-    background:
-      radial-gradient(1100px 520px at 85% -10%, rgba(211,188,142,.07), transparent 60%),
-      radial-gradient(900px 480px at -10% 0%, rgba(76,124,196,.10), transparent 55%),
-      var(--bg);
-    color:var(--text);
-    font-family:"Segoe UI","Yu Gothic UI","Hiragino Sans","Noto Sans JP",system-ui,-apple-system,sans-serif;
-    font-size:15px;line-height:1.6;min-height:100vh;
-  }
-  .wrap{max-width:1000px;margin:0 auto;padding:0 20px}
-  a{color:var(--gold);text-decoration:none}
-  a:hover{color:var(--gold-hi);text-decoration:underline}
-  .mono{font-family:Consolas,Menlo,monospace;font-size:12px}
+}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font:14px/1.6 var(--sans);-webkit-font-smoothing:antialiased}
+:lang(zh){font-family:var(--sans-zh)}
+a{color:var(--accent);text-decoration:none}
+a:hover{text-decoration:underline}
+code,kbd,pre{font-family:var(--mono)}
+button{font:inherit;color:inherit}
+svg{flex:none;display:block}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
-  header{padding:34px 0 14px;border-bottom:1px solid var(--line)}
-  h1{margin:0;font-size:26px;letter-spacing:.04em;font-weight:650;
-     background:linear-gradient(90deg,#f0e2be,var(--gold) 55%,#b99a63);
-     -webkit-background-clip:text;background-clip:text;color:transparent}
-  .sub{margin:6px 0 0;color:var(--muted);font-size:13.5px}
-  #manifest{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px;font-size:12.5px;color:var(--muted)}
-  .pill{border:1px solid var(--line);border-radius:999px;padding:2px 10px;background:var(--panel)}
-  .pill b{color:var(--gold);font-weight:600}
+.top{position:sticky;top:0;z-index:30;display:flex;align-items:center;gap:16px;height:var(--hdr);padding:0 16px;background:var(--bg);border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:8px;flex:none;width:calc(var(--side-w) - 16px);color:var(--fg);font-size:15px;font-weight:600;white-space:nowrap}
+.brand:hover{text-decoration:none}
+.badge{font:500 11px/1 var(--mono);color:var(--fg-2);border:1px solid var(--line-2);border-radius:4px;padding:3px 5px}
+.search{display:flex;align-items:center;gap:8px;flex:1;max-width:520px;height:34px;padding:0 8px 0 10px;border:1px solid var(--line-2);border-radius:8px;background:var(--bg-2);color:var(--fg-3);cursor:text}
+.search:focus-within{border-color:var(--accent);background:var(--bg);box-shadow:0 0 0 3px var(--ring)}
+.search input{flex:1;min-width:0;height:100%;border:0;outline:0;background:transparent;color:var(--fg);font:inherit}
+.search input::placeholder{color:var(--fg-3)}
+.search input:not(:placeholder-shown)+kbd,.search:focus-within kbd{display:none}
+kbd{display:inline-block;font:11px/1 var(--mono);color:var(--fg-2);background:var(--bg);border:1px solid var(--line-2);border-bottom-width:2px;border-radius:4px;padding:2px 5px}
+.seg{display:flex;flex:none;margin-left:auto;padding:2px;border:1px solid var(--line-2);border-radius:8px;background:var(--bg-2)}
+.seg button{border:0;background:transparent;padding:3px 10px;border-radius:6px;font-size:13px;line-height:1.5;color:var(--fg-2);cursor:pointer}
+.seg button:hover{color:var(--fg)}
+.seg button[aria-pressed="true"]{background:var(--bg);color:var(--fg);box-shadow:0 0 0 1px var(--line-2),0 1px 2px rgba(0,0,0,.06)}
+.hdr-link{display:flex;align-items:center;gap:4px;flex:none;font:13px var(--mono);color:var(--fg-2)}
+.hdr-link:hover{color:var(--fg);text-decoration:none}
 
-  main{padding:22px 0 60px}
-  .searchbar{display:flex;gap:10px;margin-bottom:14px;flex-wrap:wrap;
-     position:sticky;top:0;z-index:5;background:var(--bg);padding:10px 0 12px}
-  select,input[type=search]{
-    background:#111729;border:1px solid var(--line);color:var(--text);
-    border-radius:8px;padding:9px 12px;font-size:14px;outline:none}
-  select:focus,input[type=search]:focus{border-color:var(--line-strong);box-shadow:0 0 0 3px rgba(211,188,142,.12)}
-  input[type=search]{flex:1;min-width:220px}
-  input[type=search]::placeholder{color:#66748a}
-  .hint{color:var(--muted);font-size:13px;margin:0 0 14px}
-  #results{margin-bottom:22px}
-  .group-title{margin:18px 0 6px;font-size:13px;color:var(--gold);letter-spacing:.06em;font-weight:650}
-  .more-note{color:var(--muted);font-size:12.5px;padding:2px 12px 6px}
+.app{display:grid;grid-template-columns:var(--side-w) minmax(0,1fr) minmax(0,1.25fr);grid-template-areas:"side list detail";height:calc(100vh - var(--hdr));height:calc(100dvh - var(--hdr))}
+.app[data-mode="about"]{grid-template-columns:var(--side-w) minmax(0,1fr);grid-template-areas:"side detail"}
+.app[data-mode="about"] .list{display:none}
+.side{grid-area:side;position:relative;display:flex;flex-direction:column;padding:12px 8px;background:var(--bg-2);border-right:1px solid var(--line);overflow-y:auto}
+.list{grid-area:list;overflow-y:auto;border-right:1px solid var(--line)}
+.detail{grid-area:detail;overflow-y:auto}
+.side,.list,.detail{min-height:0;scrollbar-width:thin;scrollbar-color:var(--line-2) transparent}
 
-  .node{border:1px solid var(--line);border-radius:10px;background:var(--panel);margin-bottom:10px;overflow:hidden}
-  .node-head{display:flex;align-items:center;gap:10px;padding:11px 14px;cursor:pointer;user-select:none}
-  .node-head:hover{background:rgba(211,188,142,.05)}
-  .node-head:focus-visible,.item-head:focus-visible{outline:2px solid var(--line-strong);outline-offset:-2px}
-  .chev{color:var(--gold);font-size:11px;transition:transform .15s ease;flex:none;width:12px}
-  .open > .node-head .chev{transform:rotate(90deg)}
-  .node-label{font-weight:600;font-size:15px}
-  .node-sub{color:var(--muted);font-size:12.5px}
-  .count{margin-left:auto;flex:none;border:1px solid var(--line);color:var(--gold);
-         font-size:12px;border-radius:999px;padding:1px 9px;white-space:nowrap}
-  .node-body{display:none;border-top:1px solid var(--line);padding:10px 12px 12px}
-  .open > .node-body{display:block}
-  .loading,.load-error{color:var(--muted);font-size:13px;padding:6px 8px}
-  .load-error{color:#e0968f}
-  .load-error a{cursor:pointer}
+.nav{display:flex;flex-direction:column;gap:1px}
+.nav a{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:6px 10px;border-radius:6px;color:var(--fg-2);font-size:13.5px}
+.nav a:hover{background:var(--hover);color:var(--fg);text-decoration:none}
+.nav a[aria-current="page"]{background:var(--sel);color:var(--accent);font-weight:600}
+.nav-n{font:12px var(--mono);color:var(--fg-3)}
+.nav a[aria-current="page"] .nav-n{color:inherit;font-weight:400}
+.nav-group{padding:18px 10px 4px;font-size:12px;font-weight:600;color:var(--fg-3)}
+.side-foot{margin-top:auto;padding:20px 10px 4px;font-size:11.5px;line-height:1.55;color:var(--fg-3)}
+.side-foot p{margin:0 0 8px}
+.side-foot code{font-size:11px;color:var(--fg-2)}
 
-  .item{border:1px solid var(--line);border-radius:8px;margin:6px 0;background:rgba(0,0,0,.14)}
-  .item-head{display:flex;align-items:center;gap:9px;padding:8px 12px;cursor:pointer;user-select:none;flex-wrap:wrap}
-  .item-head:hover{background:rgba(211,188,142,.05)}
-  .item.open > .item-head .chev{transform:rotate(90deg)}
-  .item-name{font-weight:600}
-  .item-en{color:var(--muted);font-size:12.5px}
-  .item-id{margin-left:auto;color:var(--muted);font-size:11.5px;font-family:Consolas,Menlo,monospace}
-  .chip{font-size:11.5px;border-radius:5px;padding:1px 7px;border:1px solid var(--line);color:var(--muted);flex:none;white-space:nowrap}
-  .stars{color:#e8b83f;font-size:12px;letter-spacing:1px;flex:none}
-  .item-json{display:none;border-top:1px solid var(--line);padding:10px 12px}
-  .item.open .item-json{display:block}
+.list-head{position:sticky;top:0;z-index:2;padding:14px 16px 12px;background:var(--bg);border-bottom:1px solid var(--line)}
+.lh-title{display:flex;align-items:baseline;gap:8px;min-width:0}
+.lh-title h2{margin:0;font-size:16px;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lh-count{flex:none;font-size:12.5px;color:var(--fg-3)}
+.lh-req{display:flex;align-items:center;gap:8px;min-width:0;margin-top:6px}
+.lh-path{min-width:0;font:12.5px var(--mono);color:var(--fg-2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.lh-sub{margin:4px 0 0;font-size:12.5px;color:var(--fg-3)}
+.method{flex:none;font:600 10.5px/1 var(--mono);letter-spacing:.04em;color:var(--accent);background:var(--sel);border-radius:4px;padding:4px 6px}
+.list-group{display:flex;justify-content:space-between;padding:16px 16px 6px;font-size:12px;font-weight:600;color:var(--fg-3);border-bottom:1px solid var(--line)}
+.list-group span:last-child{font:12px var(--mono)}
 
-  .json-bar{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
-  .json-url{font-family:Consolas,Menlo,monospace;font-size:12px;color:var(--muted)}
-  .btn{border:1px solid var(--line-strong);background:transparent;color:var(--gold);
-       border-radius:6px;padding:3px 10px;font-size:12px;cursor:pointer;display:inline-block;text-decoration:none;line-height:1.5}
-  .btn:hover{background:rgba(211,188,142,.12);color:var(--gold-hi);text-decoration:none}
-  pre.json{margin:0;background:var(--code-bg);border:1px solid var(--line);border-radius:8px;
-       padding:12px 14px;overflow:auto;max-height:460px;
-       font-family:Consolas,Menlo,"Courier New",monospace;font-size:12.5px;line-height:1.55;color:#cfd3dc}
-  .j-key{color:#d3bc8e}.j-str{color:#a8c989}.j-num{color:#e2a45f}.j-kw{color:#c48ede}.j-null{color:#8a93a6;font-style:italic}
+.row{display:flex;align-items:center;gap:12px;padding:10px 16px;color:inherit;border-bottom:1px solid var(--line)}
+.row:hover{background:var(--hover);text-decoration:none}
+.row[aria-current]{background:var(--sel);box-shadow:inset 3px 0 0 var(--accent)}
+.row:focus-visible{outline-offset:-2px}
+.row-main{flex:1;min-width:0}
+.row-title{display:block;font-weight:500;color:var(--fg);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row-sub{display:block;font-size:12.5px;color:var(--fg-2);overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.row-sub>span+span::before{content:"·";margin:0 6px;color:var(--fg-3)}
 
-  footer{border-top:1px solid var(--line);padding:18px 0 30px;color:var(--muted);font-size:12px}
-  @media (max-width:640px){
-    h1{font-size:21px}
-    .item-id{display:none}
-    .count{font-size:11px}
-  }
+.avatar{flex:none;display:block;border-radius:50%;background:var(--bg-2);border:1px solid var(--line);overflow:hidden}
+.avatar img{display:block;width:100%;height:100%;object-fit:cover}
+.avatar.r5{background:color-mix(in srgb,var(--r5) 14%,var(--bg))}
+.avatar.r4{background:color-mix(in srgb,var(--r4) 14%,var(--bg))}
+.avatar.sm{width:36px;height:36px}
+.avatar.lg{width:72px;height:72px}
+.rarity{flex:none;font:600 12px var(--mono);color:var(--fg-3);white-space:nowrap}
+.rarity.r5{color:var(--r5)}
+.rarity.r4{color:var(--r4)}
+.dot{display:inline-block;width:8px;height:8px;margin-right:5px;border-radius:50%;vertical-align:1px}
+
+.pane{padding:24px 28px 48px}
+.back{display:none}
+.d-head{display:flex;align-items:center;gap:16px;margin-bottom:20px}
+.d-kicker{margin:0;font-size:12.5px;color:var(--fg-3)}
+.d-head h1{margin:0;font-size:22px;font-weight:600;line-height:1.35;overflow-wrap:anywhere}
+.d-sub{margin:2px 0 0;color:var(--fg-2)}
+.props{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));margin:0 0 24px;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.props>div{min-width:0;padding:9px 12px;box-shadow:1px 0 0 var(--line),0 1px 0 var(--line)}
+.props dt{margin-bottom:2px;font-size:11.5px;color:var(--fg-3)}
+.props dd{margin:0;font-size:13.5px;overflow-wrap:anywhere}
+.props dd code{font-size:12.5px}
+
+.req{display:flex;align-items:center;gap:10px;padding:6px 6px 6px 10px;background:var(--bg-2);border:1px solid var(--line);border-radius:8px 8px 0 0}
+.req.solo{border-radius:8px}
+.req-path{flex:1;min-width:0;font-size:12.5px;color:var(--fg);overflow-wrap:anywhere}
+.code{border:1px solid var(--line);border-top:0;border-radius:0 0 8px 8px;overflow:hidden}
+.code-bar{display:flex;align-items:center;gap:6px;padding:6px 6px 6px 12px;font-size:12px;color:var(--fg-3);border-bottom:1px solid var(--line)}
+.grow{flex:1}
+pre.json{margin:0;padding:14px 16px;background:var(--code);color:var(--fg);font-size:12.5px;line-height:1.6;tab-size:2;white-space:pre-wrap;overflow-wrap:anywhere}
+.j-key{color:var(--j-key)}
+.j-str{color:var(--j-str)}
+.j-num{color:var(--j-num)}
+.j-kw{color:var(--j-kw)}
+.j-null{color:var(--fg-3)}
+
+.btn{display:inline-flex;align-items:center;gap:6px;height:28px;padding:0 10px;border:1px solid var(--line-2);border-radius:6px;background:var(--bg);color:var(--fg);font-size:12.5px;white-space:nowrap;cursor:pointer}
+.btn:hover{background:var(--hover);text-decoration:none}
+.icon-btn{display:inline-grid;place-items:center;flex:none;width:28px;height:28px;border:0;border-radius:6px;background:transparent;color:var(--fg-2);cursor:pointer}
+.icon-btn:hover{background:var(--hover);color:var(--fg)}
+
+.doc{max-width:780px}
+.doc h1{margin:8px 0 10px;font-size:28px;font-weight:650;line-height:1.25;letter-spacing:-.01em}
+.lead{max-width:62ch;margin:0 0 24px;font-size:15.5px;color:var(--fg-2)}
+.doc h2{margin:36px 0 12px;padding-top:24px;font-size:17px;font-weight:600;border-top:1px solid var(--line)}
+.doc p{margin:0 0 12px}
+.doc ul{margin:0;padding-left:20px}
+.doc li{margin:4px 0}
+.doc li code,.doc p code{padding:1px 5px;font-size:12.5px;background:var(--bg-2);border:1px solid var(--line);border-radius:4px}
+.doc pre.json{border:1px solid var(--line);border-radius:8px}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px}
+.stat{display:flex;flex-direction:column;padding:14px 16px;border:1px solid var(--line);border-radius:8px;color:var(--fg)}
+.stat:hover{background:var(--hover);border-color:var(--line-2);text-decoration:none}
+.stat-n{font-size:22px;font-weight:600;font-variant-numeric:tabular-nums}
+.stat-l{font-size:12.5px;color:var(--fg-2)}
+.doc-meta{margin:14px 0 0;font-size:12.5px;color:var(--fg-3)}
+.doc .doc-meta code{padding:0;background:none;border:0;color:var(--fg-2)}
+.tbl{overflow-x:auto;border:1px solid var(--line);border-radius:8px}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{padding:9px 14px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line)}
+th{font-size:12px;font-weight:600;color:var(--fg-3);background:var(--bg-2)}
+tr:last-child td{border-bottom:0}
+td code{font-size:12.5px;white-space:nowrap}
+.ep{display:flex;align-items:center;gap:8px}
+.vals code+code{margin-left:6px}
+.legal{font-size:12px;color:var(--fg-3)}
+.doc .legal{margin-top:48px;padding-top:16px;border-top:1px solid var(--line)}
+
+.empty{max-width:560px}
+.empty-text{margin:16px 0 8px;color:var(--fg-2)}
+.empty-hint{display:flex;flex-wrap:wrap;align-items:center;gap:4px;margin:0;font-size:12.5px;color:var(--fg-3)}
+.note{margin:0;padding:16px;font-size:13px;color:var(--fg-3)}
+.pane .note{padding:0}
+.error{margin:16px;padding:12px 14px;font-size:13px;background:var(--err-bg);border:1px solid var(--err-line);border-radius:8px}
+.pane .error{margin:0}
+.error p{margin:0 0 8px}
+.error-detail{font:12px var(--mono);color:var(--fg-2);overflow-wrap:anywhere}
+
+@media (max-width:1023px){
+  .app{grid-template-columns:minmax(0,1fr) minmax(0,1.2fr);grid-template-rows:auto minmax(0,1fr);grid-template-areas:"side side" "list detail"}
+  .app[data-mode="about"]{grid-template-columns:minmax(0,1fr);grid-template-areas:"side" "detail"}
+  .brand{width:auto}
+  .side{flex-direction:row;padding:0 8px;background:var(--bg);border-right:0;border-bottom:1px solid var(--line);overflow-x:auto;overflow-y:hidden;scrollbar-width:none}
+  .side::-webkit-scrollbar{display:none}
+  .nav{flex-direction:row;gap:0}
+  .nav a{padding:10px 10px 8px;border-radius:0;border-bottom:2px solid transparent;font-size:13px;white-space:nowrap}
+  .nav a:hover{background:none}
+  .nav a[aria-current="page"]{background:none;border-bottom-color:var(--accent)}
+  .nav-n,.nav-group,.side-foot{display:none}
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:719px){
+  .top{flex-wrap:wrap;height:auto;padding:10px 16px;gap:10px 12px}
+  .brand{flex:1;font-size:14.5px}
+  .search{order:3;flex-basis:100%;max-width:none}
+  .search kbd,.hdr-link,.empty-hint{display:none}
+  .app{display:block;height:auto}
+  .list,.detail{overflow:visible;border:0}
+  .list-head{position:static}
+  .app[data-mode="list"] .detail,.app[data-mode="item"] .list{display:none}
+  .back{display:inline-flex;align-items:center;gap:4px;margin:-4px 0 16px;font-size:13px}
+  .pane{padding:20px 16px 40px}
+  .doc h1{font-size:23px}
+}
 </style>
 </head>
 <body>
-<header>
-  <div class="wrap">
-    <h1>✦ 原神データベース API</h1>
-    <p class="sub">キャラクター / 武器 / 聖遺物 / 任務 - ツリーをたどって展開すると JSON データを閲覧できます。</p>
-    <div id="manifest"><span class="pill">マニフェストを読み込み中…</span></div>
+<header class="top">
+  <a class="brand" id="brand" href="#/ja"><span id="brand-name">原神データベース API</span> <span class="badge">v1</span></a>
+  <label class="search">
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+    <input id="q" type="search" placeholder="名前・英語名・ID・スラグで検索" autocomplete="off" spellcheck="false" aria-label="検索">
+    <kbd>/</kbd>
+  </label>
+  <div class="seg" id="seg" role="group" aria-label="言語">
+    <button type="button" data-loc="en" lang="en">EN</button><button type="button" data-loc="ja" lang="ja">日本語</button><button type="button" data-loc="zh" lang="zh-Hans">中文</button>
   </div>
+  <a class="hdr-link" href="/v1" target="_blank" rel="noopener">/v1</a>
 </header>
-
-<main class="wrap">
-  <div class="searchbar">
-    <select id="s-loc" title="検索対象の言語"></select>
-    <input id="s-q" type="search" placeholder="検索: 名前 / 英語名 / ID / スラグ (例: 胡桃, hutao, 10000046)">
-  </div>
-  <div id="results" hidden></div>
-  <p class="hint" id="hint"> 言語 → カテゴリ の順に展開してください。項目名をクリックすると JSON が表示されます。</p>
-  <div id="tree"></div>
-</main>
-
-<footer>
-  <div class="wrap">
-    Game content and data © HoYoverse / Cognosphere. Unofficial fan project — not affiliated with or endorsed by HoYoverse.<br>
-    API マニフェスト (JSON): <a href="/v1">/v1</a> ・ このページの JSON 版: <a href="/?json">/?json</a>
-  </div>
-</footer>
-
+<div class="app" id="app">
+  <nav class="side" id="side" aria-label="カテゴリ">
+    <div class="nav" id="nav"></div>
+    <div class="side-foot">
+      <p id="ver"></p>
+      <p class="legal" id="legal"></p>
+    </div>
+  </nav>
+  <section class="list" id="list" aria-label="一覧"></section>
+  <section class="detail" id="detail" aria-label="詳細"></section>
+</div>
+<noscript>
+  <p class="note" lang="ja">JavaScriptが無効化されています。データは <a href="/v1">/v1</a> から直接取得できます。</p>
+  <p class="note" lang="en">JavaScript is disabled. The data is available directly at <a href="/v1">/v1</a>.</p>
+  <p class="note" lang="zh-Hans">JavaScript已禁用。数据可直接通过 <a href="/v1">/v1</a> 获取。</p>
+</noscript>
 <script>
 "use strict";
 
-var LOCS = { en: "English", ja: "日本語", zh: "简体中文" };
-var CATS = { characters: "キャラクター", weapons: "武器", artifacts: "聖遺物", quests: "任務" };
-var CAT_ORDER = ["characters", "weapons", "artifacts", "quests"];
-var QTYPES = { archon: "魔神任務", story: "伝説任務", world: "世界任務", event: "イベント任務", hangout: "デート任務" };
-var ELEM_COLOR = { Pyro: "#ff8f5e", Hydro: "#54c8f0", Electro: "#b892e0", Dendro: "#a9ce63", Anemo: "#7cc8ac", Cryo: "#8fdcec", Geo: "#eab84a" };
-var ELEM_ALIAS = { "風": "Anemo", "岩": "Geo", "雷": "Electro", "草": "Dendro", "水": "Hydro", "炎": "Pyro", "氷": "Cryo", "火": "Pyro", "冰": "Cryo", "無": "None", "None": "None" };
+const LOCALES = ["en", "ja", "zh"];
+const CAT_KEYS = ["characters", "weapons", "artifacts"];
+const QTYPE_KEYS = ["archon", "story", "world", "event", "hangout"];
+const ELEM_COLOR = { Pyro: "#e5653e", Hydro: "#3a8ee6", Electro: "#9b63d9", Dendro: "#6fa83a", Anemo: "#35ae97", Cryo: "#5cbbd4", Geo: "#d29f28" };
+const ELEM_ALIAS = { "風": "Anemo", "岩": "Geo", "雷": "Electro", "草": "Dendro", "水": "Hydro", "炎": "Pyro", "火": "Pyro", "氷": "Cryo", "冰": "Cryo" };
+const SEARCH_LIMIT = 50;
+const ENDPOINT_PATHS = [
+  "/v1",
+  "/v1/{locale}",
+  "/v1/{locale}/{category}",
+  "/v1/{locale}/{category}/{slug}",
+  "/v1/{locale}/quests",
+  "/v1/{locale}/quests/{quest_type}",
+  "/v1/{locale}/quests/{quest_type}/{slug}",
+  "/v1/icons",
+  "/v1/icons/{file}",
+];
+const SVG = {
+  copy: '<rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1h10a1 1 0 0 1 1 1v1"/>',
+  check: '<path d="M20 6 9 17l-5-5"/>',
+  ext: '<path d="M7 17 17 7"/><path d="M8 7h9v9"/>',
+  back: '<path d="m15 18-6-6 6-6"/>',
+};
 
-function $(s, root) { return (root || document).querySelector(s); }
-function el(tag, cls, text) {
-  var e = document.createElement(tag);
-  if (cls) e.className = cls;
-  if (text != null) e.textContent = text;
+const code = (s) => h("code", null, s);
+
+const I18N = {
+  ja: {
+    tag: "ja-JP",
+    site: "原神データベース API",
+    description: "原神のキャラクター・武器・聖遺物・任務のデータを配信するデータベースAPIです。",
+    searchPlaceholder: "名前・英語名・ID・スラグで検索",
+    searchLabel: "検索",
+    langLabel: "言語",
+    navLabel: "カテゴリ",
+    listLabel: "一覧",
+    detailLabel: "詳細",
+    about: "概要",
+    groupData: "データ",
+    groupQuests: "任務",
+    cats: { characters: "キャラクター", weapons: "武器", artifacts: "聖遺物" },
+    qtypes: { archon: "魔神任務", story: "伝説任務", world: "世界任務", event: "イベント任務", hangout: "デート任務" },
+    quests: "任務",
+    count: (n, s) => `${s} 件`,
+    loading: "読み込み中…",
+    searchTitle: (q) => `「${q}」の検索結果`,
+    searchDocTitle: (q) => `「${q}」の検索`,
+    searchScope: "日本語のデータ全体から検索しています",
+    searchMore: (n, s) => `ほか ${s} 件。キーワードを絞り込んでください。`,
+    noHits: "一致する項目は見つかりませんでした。",
+    searchFailed: "検索用の一覧を取得できませんでした",
+    loadFailed: "読み込みに失敗しました。",
+    retry: "再試行",
+    copy: "コピー",
+    copyUrl: "URL をコピー",
+    copied: "コピーしました",
+    copyFailed: "コピーできませんでした",
+    open: "開く",
+    response: "レスポンス",
+    back: "一覧に戻る",
+    notFound: (path, slug) => `${path} に「${slug}」は見つかりませんでした`,
+    untitled: "(名称なし)",
+    rarity: "レアリティ",
+    element: "元素",
+    weapon: "武器",
+    weaponType: "種類",
+    baseAtk: "基礎攻撃力",
+    setBonus: "セット効果",
+    chapter: "章",
+    act: "幕",
+    region: "地域",
+    id: "ID",
+    slug: "スラグ",
+    baseAtkValue: (n) => `基礎攻撃力 ${n}`,
+    setBonusCount: (n) => `${n} 種`,
+    setBonusRow: (n) => `セット効果 ${n} 種`,
+    emptyText: (fromSearch) => `${fromSearch ? "検索結果" : "一覧"}から項目を選ぶと、レスポンスの JSON をここに表示します。`,
+    keyHint: (up, down, slash) => [up, down, " で移動、", slash, " で検索"],
+    lead: "原神のキャラクター・武器・聖遺物・任務のデータを JSON で配信する非公式 API です。英語・日本語・簡体字中国語の 3 言語に対応しています。",
+    dataMeta: (ver, when) => ["日本語データ ・ バージョン ", ver, when ? ` ・ ${when} 生成` : ""],
+    endpoints: "エンドポイント",
+    endpointCols: ["エンドポイント", "内容"],
+    endpointDescs: [
+      "マニフェスト (data_version と件数)",
+      "ロケールの目次",
+      "カテゴリの一覧",
+      "項目の詳細",
+      "任務の種類と件数",
+      "任務の一覧",
+      "任務の詳細",
+      "キャラクターアイコンの一覧",
+      "アイコン画像 (PNG)",
+    ],
+    params: "パラメータ",
+    paramCols: ["名前", "値"],
+    slugValue: () => ["各一覧の ", code("items[].slug")],
+    examples: "使用例",
+    caching: "キャッシュと CORS",
+    cachingNotes: () => [
+      ["すべてのレスポンスに ", code("Access-Control-Allow-Origin: *"), " が付きます。"],
+      [code("ETag"), " と ", code("If-None-Match"), " による 304 応答に対応しています。"],
+      ["データの更新は ", code("/v1"), " の ", code("data_version"), " の変化で検知できます。"],
+    ],
+    legal: "ゲームのコンテンツおよびデータの著作権は © HoYoverse / Cognosphereに帰属します。本プロジェクトは非公式のファンプロジェクトであり、HoYoverse とは関係ありません。",
+  },
+  en: {
+    tag: "en-US",
+    site: "Genshin Database API",
+    description: "Genshin Impact database API for character, weapon, artifact and quest data.",
+    searchPlaceholder: "Search by name, English name, ID or slug",
+    searchLabel: "Search",
+    langLabel: "Language",
+    navLabel: "Categories",
+    listLabel: "List",
+    detailLabel: "Details",
+    about: "Overview",
+    groupData: "Data",
+    groupQuests: "Quests",
+    cats: { characters: "Characters", weapons: "Weapons", artifacts: "Artifacts" },
+    qtypes: { archon: "Archon Quests", story: "Story Quests", world: "World Quests", event: "Event Quests", hangout: "Hangout Events" },
+    quests: "Quests",
+    count: (n, s) => `${s} ${n === 1 ? "item" : "items"}`,
+    loading: "Loading…",
+    searchTitle: (q) => `Results for “${q}”`,
+    searchDocTitle: (q) => `Search “${q}”`,
+    searchScope: "Searching across all English data",
+    searchMore: (n, s) => `${s} more. Try a more specific keyword.`,
+    noHits: "No matching items found.",
+    searchFailed: "Could not load the lists needed for search",
+    loadFailed: "Failed to load.",
+    retry: "Retry",
+    copy: "Copy",
+    copyUrl: "Copy URL",
+    copied: "Copied",
+    copyFailed: "Copy failed",
+    open: "Open",
+    response: "Response",
+    back: "Back to list",
+    notFound: (path, slug) => `“${slug}” was not found in ${path}`,
+    untitled: "(untitled)",
+    rarity: "Rarity",
+    element: "Element",
+    weapon: "Weapon",
+    weaponType: "Type",
+    baseAtk: "Base ATK",
+    setBonus: "Set bonuses",
+    chapter: "Chapter",
+    act: "Act",
+    region: "Region",
+    id: "ID",
+    slug: "Slug",
+    baseAtkValue: (n) => `Base ATK ${n}`,
+    setBonusCount: (n) => `${n} set bonus${n === 1 ? "" : "es"}`,
+    setBonusRow: (n) => `${n} set bonus${n === 1 ? "" : "es"}`,
+    emptyText: (fromSearch) => `Select an item from the ${fromSearch ? "search results" : "list"} to see its JSON response here.`,
+    keyHint: (up, down, slash) => [up, down, " to move, ", slash, " to search"],
+    lead: "A database API for Genshin Impact character, weapon, artifact and quest data. Available in English, Japanese and Simplified Chinese.",
+    dataMeta: (ver, when) => ["English data · Version ", ver, when ? ` · Generated ${when}` : ""],
+    endpoints: "Endpoints",
+    endpointCols: ["Endpoint", "Description"],
+    endpointDescs: [
+      "Manifest (data_version and counts)",
+      "Locale index",
+      "Category list",
+      "Item details",
+      "Quest types and counts",
+      "Quest list",
+      "Quest details",
+      "Character icon list",
+      "Icon image (PNG)",
+    ],
+    params: "Parameters",
+    paramCols: ["Name", "Values"],
+    slugValue: () => [code("items[].slug"), " from each list"],
+    examples: "Examples",
+    caching: "Caching and CORS",
+    cachingNotes: () => [
+      ["Every response includes ", code("Access-Control-Allow-Origin: *"), "."],
+      ["Conditional requests with ", code("ETag"), " and ", code("If-None-Match"), " return 304."],
+      ["Detect data updates by watching ", code("data_version"), " in ", code("/v1"), "."],
+    ],
+    legal: "Game content and data © HoYoverse / Cognosphere. Unofficial fan project - not affiliated with or endorsed by HoYoverse.",
+  },
+  zh: {
+    tag: "zh-CN",
+    site: "原神数据库 API",
+    description: "提供原神角色、武器、圣遗物和任务数据的数据库 API",
+    searchPlaceholder: "按名称、英文名、ID 或 slug 搜索",
+    searchLabel: "搜索",
+    langLabel: "语言",
+    navLabel: "分类",
+    listLabel: "列表",
+    detailLabel: "详情",
+    about: "概览",
+    groupData: "数据",
+    groupQuests: "任务",
+    cats: { characters: "角色", weapons: "武器", artifacts: "圣遗物" },
+    qtypes: { archon: "魔神任务", story: "传说任务", world: "世界任务", event: "活动任务", hangout: "邀约事件" },
+    quests: "任务",
+    count: (n, s) => `${s} 项`,
+    loading: "加载中…",
+    searchTitle: (q) => `“${q}”的搜索结果`,
+    searchDocTitle: (q) => `搜索“${q}”`,
+    searchScope: "正在搜索全部简体中文数据",
+    searchMore: (n, s) => `另有 ${s} 项，请缩小关键词范围。`,
+    noHits: "没有找到匹配的项目。",
+    searchFailed: "无法获取搜索所需的列表",
+    loadFailed: "加载失败。",
+    retry: "重试",
+    copy: "复制",
+    copyUrl: "复制 URL",
+    copied: "已复制",
+    copyFailed: "复制失败",
+    open: "打开",
+    response: "响应",
+    back: "返回列表",
+    notFound: (path, slug) => `在 ${path} 中找不到“${slug}”`,
+    untitled: "（无名称）",
+    rarity: "稀有度",
+    element: "元素",
+    weapon: "武器",
+    weaponType: "类型",
+    baseAtk: "基础攻击力",
+    setBonus: "套装效果",
+    chapter: "章节",
+    act: "幕",
+    region: "地区",
+    id: "ID",
+    slug: "Slug",
+    baseAtkValue: (n) => `基础攻击力 ${n}`,
+    setBonusCount: (n) => `${n} 种`,
+    setBonusRow: (n) => `套装效果 ${n} 种`,
+    emptyText: (fromSearch) => `从${fromSearch ? "搜索结果" : "列表"}中选择项目后，将在此处显示响应 JSON。`,
+    keyHint: (up, down, slash) => [up, down, " 移动，", slash, " 搜索"],
+    lead: "以 JSON 格式提供原神角色、武器、圣遗物和任务数据的非官方 API。支持英语、日语和简体中文 3 种语言。",
+    dataMeta: (ver, when) => ["简体中文数据 · 版本 ", ver, when ? ` · 生成于 ${when}` : ""],
+    endpoints: "端点",
+    endpointCols: ["端点", "说明"],
+    endpointDescs: [
+      "清单（data_version 与数量）",
+      "语言目录",
+      "分类列表",
+      "项目详情",
+      "任务类型与数量",
+      "任务列表",
+      "任务详情",
+      "角色图标列表",
+      "图标图片（PNG）",
+    ],
+    params: "参数",
+    paramCols: ["名称", "值"],
+    slugValue: () => ["各列表中的 ", code("items[].slug")],
+    examples: "使用示例",
+    caching: "缓存与 CORS",
+    cachingNotes: () => [
+      ["所有响应均带有 ", code("Access-Control-Allow-Origin: *"), "。"],
+      ["支持基于 ", code("ETag"), " 与 ", code("If-None-Match"), " 的 304 响应。"],
+      ["可通过 ", code("/v1"), " 中 ", code("data_version"), " 的变化检测数据更新。"],
+    ],
+    legal: "游戏内容与数据 © HoYoverse / Cognosphere。本项目为非官方粉丝项目，与 HoYoverse 无关，亦未获其认可。",
+  },
+};
+
+const state = { loc: "ja", view: "about", slug: null, query: "" };
+const narrow = matchMedia("(max-width: 719px)");
+const navLinks = new Map();
+const navGroups = {};
+let L = I18N.ja;
+let uiLoc = null;
+let mode = null;
+let listKey = null;
+let detailKey = null;
+let listToken = 0;
+let detailToken = 0;
+let savedScroll = 0;
+
+const $ = (s, root = document) => root.querySelector(s);
+
+function h(tag, props, ...kids) {
+  const e = document.createElement(tag);
+  for (const [k, v] of Object.entries(props || {})) {
+    if (v == null || v === false) continue;
+    if (k === "class") e.className = v;
+    else if (k === "html") e.innerHTML = v;
+    else if (k.startsWith("on")) e.addEventListener(k.slice(2), v);
+    else e.setAttribute(k, v === true ? "" : v);
+  }
+  e.append(...kids.flat(Infinity).filter((c) => c != null && c !== false).map((c) => (c instanceof Node ? c : String(c))));
   return e;
 }
-function fmt(n) { return n == null ? "?" : Number(n).toLocaleString("ja-JP"); }
 
-var httpCache = new Map();
-function getJSON(url) {
-  if (httpCache.has(url)) return httpCache.get(url);
-  var p = fetch(url, { headers: { Accept: "application/json" } })
-    .then(function (r) {
-      if (!r.ok) throw new Error("HTTP " + r.status + " (" + url + ")");
-      return r.json();
-    })
-    .catch(function (e) { httpCache.delete(url); throw e; });
-  httpCache.set(url, p);
-  return p;
+function icon(name, size = 14) {
+  return `<svg width="${size}" height="${size}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${SVG[name]}</svg>`;
 }
 
-function highlight(s) {
-  var e = s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-  return e.replace(
-    /("(?:\\.|[^"\\])*")(\s*:)?|\b(true|false)\b|\b(null)\b|(-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?)/g,
-    function (m, str, colon, bool, nul, num) {
-      if (str) return colon
-        ? '<span class="j-key">' + str + "</span>" + colon
-        : '<span class="j-str">' + str + "</span>";
-      if (bool) return '<span class="j-kw">' + bool + "</span>";
-      if (nul) return '<span class="j-null">null</span>';
-      if (num) return '<span class="j-num">' + num + "</span>";
-      return m;
-    });
-}
+const fmt = (n) => (n == null ? "-" : Number(n).toLocaleString(L.tag));
+const countText = (n) => L.count(n, fmt(n));
+const dataLang = (loc) => (loc === "zh" ? "zh-Hans" : loc);
+const isQuest = (view) => view.startsWith("quests/");
+const kindOf = (view) => (isQuest(view) ? "quests" : view);
+const viewLabel = (view) => (isQuest(view) ? L.qtypes[view.slice(7)] : L.cats[view] || L.about);
+const apiPath = (loc, view) => `/v1/${loc}/${view}`;
+const titleOf = (it) => it.name || it.title || it.slug || L.untitled;
+const norm = (s) => String(s).normalize("NFKC").toLowerCase();
 
-function jsonView(url, data) {
-  var raw = JSON.stringify(data, null, 2);
-  var box = el("div");
-  var bar = el("div", "json-bar");
-  bar.appendChild(el("span", "json-url", url));
-  var copy = el("button", "btn", "コピー");
-  copy.addEventListener("click", function () {
-    navigator.clipboard.writeText(raw).then(function () {
-      copy.textContent = "コピーしました ✓";
-      setTimeout(function () { copy.textContent = "コピー"; }, 1400);
-    }, function () { copy.textContent = "コピー失敗"; });
-  });
-  var open = el("a", "btn", "生 JSON を開く ↗");
-  open.href = url; open.target = "_blank"; open.rel = "noopener";
-  bar.append(copy, open);
-  var pre = el("pre", "json");
-  pre.innerHTML = highlight(raw);
-  box.append(bar, pre);
-  return box;
-}
-
-function stars(r) {
-  var n = Math.max(0, Math.min(5, parseInt(r, 10) || 0));
-  return el("span", "stars", "★".repeat(n));
-}
-function canonElem(v) {
-  if (!v) return null;
-  if (ELEM_COLOR[v]) return v;
-  return ELEM_ALIAS[v] || null;
-}
-function elemChip(canon, display) {
-  var c = el("span", "chip", display || canon);
-  var col = ELEM_COLOR[canon];
-  if (col) { c.style.color = col; c.style.borderColor = col + "66"; }
-  return c;
-}
-
-function branch(labelText, subText, count, loader) {
-  var node = el("div", "node");
-  var head = el("div", "node-head");
-  head.setAttribute("role", "button");
-  head.setAttribute("tabindex", "0");
-  head.setAttribute("aria-expanded", "false");
-  head.appendChild(el("span", "chev", "▶"));
-  head.appendChild(el("span", "node-label", labelText));
-  if (subText) {
-    var sub = el("span", "node-sub", subText);
-    if (subText.charAt(0) === "/") sub.classList.add("mono");
-    head.appendChild(sub);
+function safeDecode(s) {
+  try {
+    return decodeURIComponent(s);
+  } catch {
+    return s;
   }
-  if (count != null) head.appendChild(el("span", "count", fmt(count) + " 件"));
-  var body = el("div", "node-body");
-  node.append(head, body);
-
-  var loaded = false, busy = false;
-  function load() {
-    busy = true;
-    var msg = el("div", "loading", "読み込み中…");
-    body.appendChild(msg);
-    loader(body).then(function () {
-      msg.remove();
-      loaded = true;
-      busy = false;
-    }, function (e) {
-      msg.remove();
-      node.classList.remove("open");
-      head.setAttribute("aria-expanded", "false");
-      busy = false;
-      var errEl = el("div", "load-error");
-      errEl.append("読み込みに失敗しました (" + (e && e.message ? e.message : e) + ") ・ ");
-      var retry = el("a", null, "再試行");
-      retry.addEventListener("click", function (ev) {
-        ev.stopPropagation();
-        errEl.remove();
-        node.classList.add("open");
-        head.setAttribute("aria-expanded", "true");
-        load();
-      });
-      errEl.appendChild(retry);
-      body.appendChild(errEl);
-    });
-  }
-  head.addEventListener("click", function () {
-    var opening = !node.classList.contains("open");
-    node.classList.toggle("open", opening);
-    head.setAttribute("aria-expanded", String(opening));
-    if (opening && !loaded && !busy) load();
-  });
-  head.addEventListener("keydown", function (ev) {
-    if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); head.click(); }
-  });
-  return node;
 }
 
-function itemNode(it, kind) {
-  var item = el("div", "item");
-  var head = el("div", "item-head");
-  head.setAttribute("role", "button");
-  head.setAttribute("tabindex", "0");
-  head.setAttribute("aria-expanded", "false");
-  head.appendChild(el("span", "chev", "▶"));
-  var name = it.name || it.title || it.slug || "(no name)";
-  head.appendChild(el("span", "item-name", name));
-  if (it.en_name && it.en_name !== name) head.appendChild(el("span", "item-en", it.en_name));
-
-  if (kind === "characters") {
-    if (it.rarity) head.appendChild(stars(it.rarity));
-    var canon = canonElem(it.element_en || it.element);
-    if (canon && canon !== "None") head.appendChild(elemChip(canon, it.element));
-    if (it.weapon) head.appendChild(el("span", "chip", it.weapon));
-  } else if (kind === "weapons") {
-    if (it.rarity) head.appendChild(stars(it.rarity));
-    if (it.type) head.appendChild(el("span", "chip", it.type));
-    if (it.base_atk) head.appendChild(el("span", "chip", "基礎攻撃力 " + it.base_atk));
-  } else if (kind === "artifacts") {
-    if (it.affixes) head.appendChild(el("span", "chip", "セット効果 " + it.affixes + " 種"));
-  } else if (kind === "quests") {
-    ["chapter", "act", "region"].forEach(function (k) {
-      if (it[k]) head.appendChild(el("span", "chip", it[k]));
-    });
-  }
-  if (it.id) head.appendChild(el("span", "item-id", it.id));
-
-  var jsonBox = el("div", "item-json");
-  item.append(head, jsonBox);
-
-  var loaded = false, busy = false;
-  head.addEventListener("click", function () {
-    var opening = !item.classList.contains("open");
-    item.classList.toggle("open", opening);
-    head.setAttribute("aria-expanded", String(opening));
-    if (!opening || loaded || busy) return;
-    busy = true;
-    var msg = el("div", "loading", "JSON を読み込み中…");
-    jsonBox.appendChild(msg);
-    getJSON(it.url).then(function (data) {
-      msg.remove();
-      jsonBox.appendChild(jsonView(it.url, data));
-      loaded = true;
-      busy = false;
-    }, function (e) {
-      msg.remove();
-      item.classList.remove("open");
-      head.setAttribute("aria-expanded", "false");
-      busy = false;
-      var errEl = el("div", "load-error");
-      errEl.append("読み込みに失敗しました (" + (e && e.message ? e.message : e) + ") ・ ");
-      var retry = el("a", null, "再試行");
-      retry.addEventListener("click", function (ev) {
-        ev.stopPropagation();
-        errEl.remove();
-        item.classList.add("open");
-        head.click();
-      });
-      errEl.appendChild(retry);
-      jsonBox.appendChild(errEl);
-    });
-  });
-  head.addEventListener("keydown", function (ev) {
-    if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); head.click(); }
-  });
-  return item;
-}
-
-function indexLink(body, url) {
-  var d = el("div", "loading");
-  var a = el("a", null, "index.json を開く ↗");
-  a.href = url; a.target = "_blank"; a.rel = "noopener";
-  d.appendChild(a);
-  body.appendChild(d);
-}
-
-function loadLocale(loc, body) {
-  return getJSON("/v1/" + loc).then(function (data) {
-    CAT_ORDER.forEach(function (cat) {
-      var c = (data.categories || {})[cat];
-      if (!c) return;
-      body.appendChild(branch(CATS[cat], null, c.count, function (b) {
-        return cat === "quests" ? loadQuestsRoot(loc, b) : loadCategory(loc, cat, b);
-      }));
-    });
-  });
-}
-
-function loadCategory(loc, cat, body) {
-  var url = "/v1/" + loc + "/" + cat;
-  return getJSON(url).then(function (data) {
-    indexLink(body, url);
-    (data.items || []).forEach(function (it) { body.appendChild(itemNode(it, cat)); });
-  });
-}
-
-function loadQuestsRoot(loc, body) {
-  var url = "/v1/" + loc + "/quests";
-  return getJSON(url).then(function (data) {
-    indexLink(body, url);
-    Object.keys(QTYPES).forEach(function (qt) {
-      var q = (data.quest_types || {})[qt];
-      if (!q) return;
-      body.appendChild(branch(QTYPES[qt], qt, q.count, function (b) {
-        return loadQuestType(loc, qt, b);
-      }));
-    });
-  });
-}
-
-function loadQuestType(loc, qt, body) {
-  var url = "/v1/" + loc + "/quests/" + qt;
-  return getJSON(url).then(function (data) {
-    indexLink(body, url);
-    (data.items || []).forEach(function (it) { body.appendChild(itemNode(it, "quests")); });
-  });
-}
-
-var idxCache = {};
-function searchIndexes(loc) {
-  if (idxCache[loc]) return idxCache[loc];
-  var urls = ["/v1/" + loc + "/characters", "/v1/" + loc + "/weapons", "/v1/" + loc + "/artifacts"];
-  Object.keys(QTYPES).forEach(function (qt) { urls.push("/v1/" + loc + "/quests/" + qt); });
-  idxCache[loc] = Promise.all(urls.map(function (u) {
-    return getJSON(u).catch(function () { return null; });
-  })).then(function (arr) {
-    var groups = [];
-    arr.forEach(function (d, i) {
-      if (d && d.items) {
-        groups.push({
-          key: i < 3 ? ["characters", "weapons", "artifacts"][i] : "quests/" + Object.keys(QTYPES)[i - 3],
-          items: d.items,
-        });
-      }
-    });
-    return groups;
-  });
-  return idxCache[loc];
-}
-
-function matchItem(it, q) {
-  return [it.name, it.en_name, it.title, it.slug, it.id].some(function (v) {
-    return v != null && String(v).toLowerCase().indexOf(q) !== -1;
-  });
-}
-
-function runSearch() {
-  var input = $("#s-q");
-  var q = input.value.trim().toLowerCase();
-  var res = $("#results");
-  var tree = $("#tree");
-  var hint = $("#hint");
-  if (q.length < 2) {
-    res.hidden = true; res.innerHTML = "";
-    tree.hidden = false; hint.hidden = false;
-    return;
-  }
-  res.hidden = false; tree.hidden = true; hint.hidden = true;
-  res.innerHTML = "";
-  res.appendChild(el("div", "loading", "検索中…"));
-  var loc = $("#s-loc").value;
-  searchIndexes(loc).then(function (groups) {
-    res.innerHTML = "";
-    var total = 0;
-    groups.forEach(function (g) {
-      var isQuest = g.key.indexOf("quests/") === 0;
-      var kind = isQuest ? "quests" : g.key;
-      var hits = g.items.filter(function (it) { return matchItem(it, q); });
-      if (!hits.length) return;
-      total += hits.length;
-      var label = isQuest
-        ? "任務 / " + (QTYPES[g.key.split("/")[1]] || g.key.split("/")[1])
-        : CATS[kind];
-      res.appendChild(el("div", "group-title", label + " (" + fmt(hits.length) + " 件)"));
-      hits.slice(0, 40).forEach(function (it) { res.appendChild(itemNode(it, kind)); });
-      if (hits.length > 40) {
-        res.appendChild(el("div", "more-note", "…ほか " + fmt(hits.length - 40) + " 件。絞り込んでください。"));
-      }
-    });
-    if (!total) {
-      res.appendChild(el("div", "loading", "「" + input.value.trim() + "」に一致する項目は見つかりませんでした。"));
-    }
-  }, function (e) {
-    res.innerHTML = "";
-    res.appendChild(el("div", "load-error", "検索に失敗しました: " + (e && e.message ? e.message : e)));
-  });
-}
-
-function pill(k, v) {
-  var s = el("span", "pill");
-  s.append(el("b", null, k + ": "), v);
+function hrefFor(loc, view, slug) {
+  let s = "#/" + loc;
+  if (view !== "about") s += "/" + view;
+  if (view !== "about" && slug != null) s += "/" + encodeURIComponent(slug);
   return s;
 }
 
-function init() {
-  var sel = $("#s-loc");
-  Object.keys(LOCS).forEach(function (k) { sel.appendChild(new Option(LOCS[k] + " (" + k + ")", k)); });
-  sel.value = "ja";
+function parseHash() {
+  const parts = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean).map(safeDecode);
+  const loc = LOCALES.includes(parts[0]) ? parts[0] : "ja";
+  if (parts[1] === "quests" && QTYPE_KEYS.includes(parts[2])) return { loc, view: "quests/" + parts[2], slug: parts[3] ?? null };
+  if (CAT_KEYS.includes(parts[1])) return { loc, view: parts[1], slug: parts[2] ?? null };
+  return { loc, view: "about", slug: null };
+}
 
-  var sTimer = null;
-  $("#s-q").addEventListener("input", function () {
-    clearTimeout(sTimer);
-    sTimer = setTimeout(runSearch, 250);
+const http = new Map();
+function getJSON(url) {
+  let p = http.get(url);
+  if (!p) {
+    p = fetch(url, { headers: { Accept: "application/json" } }).then((r) => {
+      if (!r.ok) throw new Error(`HTTP ${r.status} (${safeDecode(url)})`);
+      return r.json();
+    });
+    p.catch(() => http.delete(url));
+    http.set(url, p);
+  }
+  return p;
+}
+
+let iconsPromise = null;
+function iconMap() {
+  iconsPromise ??= getJSON("/v1/icons").then(
+    (d) => new Map((d.items || []).map((i) => [String(i.id), i.file])),
+    () => {
+      iconsPromise = null;
+      return new Map();
+    },
+  );
+  return iconsPromise;
+}
+
+const countsCache = new Map();
+function counts(loc) {
+  if (!countsCache.has(loc)) {
+    const p = Promise.all([getJSON("/v1"), getJSON(`/v1/${loc}/quests`).catch(() => null)]).then(([m, q]) => {
+      const c = { quests: m.counts?.[`quests/${loc}`] };
+      for (const k of CAT_KEYS) c[k] = m.counts?.[`${k}/${loc}`];
+      for (const k of QTYPE_KEYS) c["quests/" + k] = q?.quest_types?.[k]?.count;
+      return c;
+    });
+    p.catch(() => countsCache.delete(loc));
+    countsCache.set(loc, p);
+  }
+  return countsCache.get(loc);
+}
+
+const searchCache = new Map();
+function searchIndexes(loc) {
+  if (!searchCache.has(loc)) {
+    const views = [...CAT_KEYS, ...QTYPE_KEYS.map((q) => "quests/" + q)];
+    const p = Promise.all(views.map((view) => getJSON(apiPath(loc, view)).then((d) => ({ view, items: d.items || [] }), () => null)))
+      .then((groups) => {
+        const ok = groups.filter(Boolean);
+        if (!ok.length) throw new Error(I18N[loc].searchFailed);
+        return ok;
+      });
+    p.catch(() => searchCache.delete(loc));
+    searchCache.set(loc, p);
+  }
+  return searchCache.get(loc);
+}
+
+function highlight(s) {
+  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(
+    /("(?:\\.|[^"\\])*")(\s*:)?|\b(true|false)\b|\b(null)\b|(-?\d+(?:\.\d+)?(?:[eE][+-]?\d+)?)/g,
+    (m, str, colon, bool, nul, num) => {
+      if (str) return colon ? `<span class="j-key">${str}</span>${colon}` : `<span class="j-str">${str}</span>`;
+      if (bool) return `<span class="j-kw">${bool}</span>`;
+      if (nul) return '<span class="j-null">null</span>';
+      if (num) return `<span class="j-num">${num}</span>`;
+      return m;
+    },
+  );
+}
+
+function elemOf(it) {
+  const v = it.element_en || it.element;
+  if (!v) return null;
+  return ELEM_COLOR[v] ? v : ELEM_ALIAS[v] || null;
+}
+
+function elemTag(it) {
+  const canon = elemOf(it);
+  if (!canon) return it.element || null;
+  return h("span", null, h("i", { class: "dot", style: `background:${ELEM_COLOR[canon]}` }), it.element || canon);
+}
+
+function rarity(n) {
+  const r = parseInt(n, 10);
+  return r ? h("span", { class: `rarity r${r}`, title: `${L.rarity} ${r}` }, `★${r}`) : null;
+}
+
+function avatar(file, size, rar) {
+  const wrap = h("span", { class: `avatar ${size}${rar ? " r" + rar : ""}` });
+  if (file) {
+    const img = h("img", { src: "/v1/icons/" + encodeURIComponent(file), alt: "", loading: "lazy", decoding: "async" });
+    img.addEventListener("error", () => img.remove());
+    wrap.append(img);
+  }
+  return wrap;
+}
+
+function copyBtn(getText, label, iconOnly) {
+  const b = h("button", { type: "button", class: iconOnly ? "icon-btn" : "btn", title: label, "aria-label": label, html: icon("copy") }, iconOnly ? null : label);
+  const original = b.innerHTML;
+  let timer = 0;
+  b.addEventListener("click", () => {
+    const done = (msg, ok) => {
+      b.innerHTML = (ok ? icon("check") : "") + (iconOnly ? "" : msg);
+      b.title = msg;
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        b.innerHTML = original;
+        b.title = label;
+      }, 1400);
+    };
+    navigator.clipboard.writeText(getText()).then(() => done(L.copied, true), () => done(L.copyFailed, false));
   });
-  sel.addEventListener("change", runSearch);
+  return b;
+}
 
-  var mEl = $("#manifest");
-  getJSON("/v1").then(function (m) {
-    mEl.innerHTML = "";
-    mEl.appendChild(pill("データバージョン", m.data_version || "?"));
-    if (m.generated_at) {
-      mEl.appendChild(pill("生成日時", new Date(m.generated_at).toLocaleString("ja-JP")));
+function errorBox(e, retry) {
+  return h("div", { class: "error", role: "alert" },
+    h("p", null, L.loadFailed),
+    h("p", { class: "error-detail" }, e && e.message ? e.message : String(e)),
+    h("button", { type: "button", class: "btn", onclick: retry }, L.retry));
+}
+
+function rowFor(it, loc, view, icons) {
+  const kind = kindOf(view);
+  const title = titleOf(it);
+  const en = it.en_name && it.en_name !== title ? it.en_name : null;
+  const sub = [];
+  let lead = null;
+  let tail = null;
+  if (kind === "characters") {
+    lead = avatar(icons && icons.get(String(it.id)), "sm", it.rarity);
+    sub.push(en, elemTag(it), it.weapon);
+    tail = rarity(it.rarity);
+  } else if (kind === "weapons") {
+    sub.push(en, it.type, it.base_atk ? L.baseAtkValue(it.base_atk) : null);
+    tail = rarity(it.rarity);
+  } else if (kind === "artifacts") {
+    sub.push(en, it.affixes ? L.setBonusRow(it.affixes) : null);
+  } else {
+    sub.push(it.chapter !== title ? it.chapter : null, it.act, it.region);
+  }
+  const parts = sub.filter((s) => s != null && s !== "").map((s) => h("span", null, s));
+  return h("a", { class: "row", href: hrefFor(loc, view, it.slug), "data-view": view, "data-slug": it.slug },
+    lead,
+    h("span", { class: "row-main" },
+      h("span", { class: "row-title" }, title),
+      parts.length ? h("span", { class: "row-sub" }, parts) : null),
+    tail);
+}
+
+function markCurrent(scroll) {
+  const list = $("#list");
+  const prev = list.querySelector(".row[aria-current]");
+  if (prev) prev.removeAttribute("aria-current");
+  if (state.slug == null) return;
+  for (const row of list.querySelectorAll(".row")) {
+    if (row.dataset.view === state.view && row.dataset.slug === state.slug) {
+      row.setAttribute("aria-current", "true");
+      if (scroll && !narrow.matches) row.scrollIntoView({ block: "center" });
+      return;
     }
-    var locs = m.locales || Object.keys(LOCS);
-    locs.forEach(function (loc) {
-      var total = CAT_ORDER.reduce(function (s, c) {
-        return s + ((m.counts || {})[c + "/" + loc] || 0);
-      }, 0);
-      mEl.appendChild(pill(LOCS[loc] || loc, fmt(total) + " 件"));
-    });
-    var tree = $("#tree");
-    locs.forEach(function (loc) {
-      tree.appendChild(branch(LOCS[loc] || loc, "/v1/" + loc, null, function (b) {
-        return loadLocale(loc, b);
-      }));
-    });
-  }, function () {
-    mEl.innerHTML = "";
-    mEl.appendChild(el("span", "pill", "マニフェスト (/v1) の取得に失敗しました。時間をおいて再読み込みしてください。"));
+  }
+}
+
+function matches(it, q) {
+  return [it.name, it.en_name, it.title, it.slug, it.id].some((v) => v != null && norm(v).includes(q));
+}
+
+function prefixRank(it, q) {
+  return [it.name, it.en_name, it.title].some((v) => v != null && norm(v).startsWith(q)) ? 0 : 1;
+}
+
+async function renderList() {
+  const token = ++listToken;
+  const { loc, view, query } = state;
+  const list = $("#list");
+  const head = h("div", { class: "list-head" });
+  const body = h("div", null, h("p", { class: "note" }, L.loading));
+  const count = h("span", { class: "lh-count" });
+  list.replaceChildren(head, body);
+  list.scrollTop = 0;
+  try {
+    if (query) {
+      head.append(
+        h("div", { class: "lh-title" }, h("h2", null, L.searchTitle(query)), count),
+        h("p", { class: "lh-sub" }, L.searchScope));
+      const [groups, icons] = await Promise.all([searchIndexes(loc), iconMap()]);
+      if (token !== listToken) return;
+      const q = norm(query);
+      const frag = document.createDocumentFragment();
+      let total = 0;
+      for (const g of groups) {
+        const hits = g.items.filter((it) => matches(it, q)).sort((a, b) => prefixRank(a, q) - prefixRank(b, q));
+        if (!hits.length) continue;
+        total += hits.length;
+        frag.append(h("div", { class: "list-group" }, h("span", null, viewLabel(g.view)), h("span", null, fmt(hits.length))));
+        for (const it of hits.slice(0, SEARCH_LIMIT)) frag.append(rowFor(it, loc, g.view, icons));
+        if (hits.length > SEARCH_LIMIT) {
+          const rest = hits.length - SEARCH_LIMIT;
+          frag.append(h("p", { class: "note" }, L.searchMore(rest, fmt(rest))));
+        }
+      }
+      count.textContent = countText(total);
+      body.replaceChildren(total ? frag : h("p", { class: "note" }, L.noHits));
+    } else {
+      const path = apiPath(loc, view);
+      head.append(
+        h("div", { class: "lh-title" }, h("h2", null, viewLabel(view)), count),
+        h("div", { class: "lh-req" }, h("span", { class: "method" }, "GET"), h("a", { class: "lh-path", href: path, target: "_blank", rel: "noopener" }, path)));
+      const [idx, icons] = await Promise.all([getJSON(path), view === "characters" ? iconMap() : null]);
+      if (token !== listToken) return;
+      const items = idx.items || [];
+      const frag = document.createDocumentFragment();
+      for (const it of items) frag.append(rowFor(it, loc, view, icons));
+      count.textContent = countText(items.length);
+      body.replaceChildren(frag);
+    }
+    markCurrent(true);
+  } catch (e) {
+    if (token !== listToken) return;
+    body.replaceChildren(errorBox(e, () => {
+      listKey = null;
+      render();
+    }));
+  }
+}
+
+function backLink() {
+  return h("a", { class: "back", href: hrefFor(state.loc, state.view, null), html: icon("back") }, L.back);
+}
+
+function propsList(it, kind) {
+  const rows = [];
+  const add = (label, value) => {
+    if (value == null || value === "") return;
+    rows.push(h("div", null, h("dt", null, label), h("dd", null, value)));
+  };
+  if (kind === "characters") {
+    add(L.rarity, rarity(it.rarity));
+    add(L.element, elemTag(it));
+    add(L.weapon, it.weapon);
+  } else if (kind === "weapons") {
+    add(L.rarity, rarity(it.rarity));
+    add(L.weaponType, it.type);
+    add(L.baseAtk, it.base_atk);
+  } else if (kind === "artifacts") {
+    add(L.setBonus, it.affixes ? L.setBonusCount(it.affixes) : null);
+  } else {
+    add(L.chapter, it.chapter !== titleOf(it) ? it.chapter : null);
+    add(L.act, it.act);
+    add(L.region, it.region);
+  }
+  add(L.id, it.id != null ? code(it.id) : null);
+  add(L.slug, code(it.slug));
+  return h("dl", { class: "props" }, rows);
+}
+
+function endpoint(url, data) {
+  const raw = JSON.stringify(data, null, 2);
+  return h("section", null,
+    h("div", { class: "req" },
+      h("span", { class: "method" }, "GET"),
+      h("code", { class: "req-path" }, safeDecode(url)),
+      copyBtn(() => new URL(url, location.origin).href, L.copyUrl, true)),
+    h("div", { class: "code" },
+      h("div", { class: "code-bar" },
+        h("span", null, L.response),
+        h("span", { class: "grow" }),
+        copyBtn(() => raw, L.copy, false),
+        h("a", { class: "btn", href: url, target: "_blank", rel: "noopener", html: icon("ext") }, L.open)),
+      h("pre", { class: "json", html: highlight(raw) })));
+}
+
+async function renderItem(pane, token) {
+  const { loc, view, slug } = state;
+  const kind = kindOf(view);
+  pane.replaceChildren(backLink(), h("p", { class: "note" }, L.loading));
+  try {
+    const [idx, icons] = await Promise.all([getJSON(apiPath(loc, view)), kind === "characters" ? iconMap() : null]);
+    if (token !== detailToken) return;
+    const it = (idx.items || []).find((x) => x.slug === slug);
+    if (!it) throw new Error(L.notFound(apiPath(loc, view), slug));
+    const data = await getJSON(it.url);
+    if (token !== detailToken) return;
+    const title = titleOf(it);
+    const en = it.en_name && it.en_name !== title ? it.en_name : null;
+    document.title = `${title} - ${L.site}`;
+    pane.replaceChildren(
+      backLink(),
+      h("header", { class: "d-head" },
+        kind === "characters" ? avatar(icons.get(String(it.id)), "lg", it.rarity) : null,
+        h("div", null,
+          h("p", { class: "d-kicker" }, viewLabel(view)),
+          h("h1", null, title),
+          en ? h("p", { class: "d-sub", lang: "en" }, en) : null)),
+      propsList(it, kind),
+      endpoint(it.url, data));
+  } catch (e) {
+    if (token !== detailToken) return;
+    pane.replaceChildren(backLink(), errorBox(e, () => {
+      detailKey = null;
+      render();
+    }));
+  }
+}
+
+function renderEmpty(pane) {
+  const { loc, view, query } = state;
+  const path = apiPath(loc, view);
+  pane.classList.add("empty");
+  if (!query) {
+    pane.append(h("div", { class: "req solo" },
+      h("span", { class: "method" }, "GET"),
+      h("code", { class: "req-path" }, path),
+      copyBtn(() => location.origin + path, L.copyUrl, true)));
+  }
+  pane.append(
+    h("p", { class: "empty-text" }, L.emptyText(Boolean(query))),
+    h("p", { class: "empty-hint" }, L.keyHint(h("kbd", null, "↑"), h("kbd", null, "↓"), h("kbd", null, "/"))));
+}
+
+function table(headers, rows) {
+  return h("div", { class: "tbl" }, h("table", null,
+    h("thead", null, h("tr", null, headers.map((t) => h("th", null, t)))),
+    h("tbody", null, rows.map((r) => h("tr", null, r.map((c, i) => h("td", { class: i ? "vals" : null }, c)))))));
+}
+
+async function renderAbout(pane, token) {
+  const loc = state.loc;
+  const origin = location.origin;
+  const stats = h("div", { class: "stats" });
+  const meta = h("p", { class: "doc-meta" }, L.loading);
+  const codes = (list) => list.map((v) => code(v));
+  pane.classList.add("doc");
+  pane.replaceChildren(
+    h("h1", null, L.site),
+    h("p", { class: "lead" }, L.lead),
+    stats,
+    meta,
+    h("h2", null, L.endpoints),
+    table(L.endpointCols, ENDPOINT_PATHS.map((p, i) => [h("span", { class: "ep" }, h("span", { class: "method" }, "GET"), code(p)), L.endpointDescs[i]])),
+    h("h2", null, L.params),
+    table(L.paramCols, [
+      [code("locale"), codes(LOCALES)],
+      [code("category"), codes(CAT_KEYS)],
+      [code("quest_type"), codes(QTYPE_KEYS)],
+      [code("slug"), L.slugValue()],
+    ]),
+    h("h2", null, L.examples),
+    h("pre", { class: "json" }, `curl ${origin}/v1\ncurl ${origin}/v1/${loc}/characters`),
+    h("h2", null, L.caching),
+    h("ul", null, L.cachingNotes().map((parts) => h("li", null, parts))),
+    h("p", { class: "legal" }, L.legal));
+  try {
+    const [m, c] = await Promise.all([getJSON("/v1"), counts(loc)]);
+    if (token !== detailToken) return;
+    for (const k of [...CAT_KEYS, "quests"]) {
+      const view = k === "quests" ? "quests/archon" : k;
+      stats.append(h("a", { class: "stat", href: hrefFor(loc, view, null) },
+        h("span", { class: "stat-n" }, fmt(c[k])),
+        h("span", { class: "stat-l" }, k === "quests" ? L.quests : L.cats[k])));
+    }
+    const when = m.generated_at ? new Date(m.generated_at).toLocaleString(L.tag, { dateStyle: "medium", timeStyle: "short" }) : null;
+    meta.replaceChildren(...L.dataMeta(code(m.data_version || "-"), when));
+  } catch (e) {
+    if (token !== detailToken) return;
+    meta.replaceWith(errorBox(e, () => {
+      detailKey = null;
+      render();
+    }));
+  }
+}
+
+function renderDetail() {
+  const token = ++detailToken;
+  const detail = $("#detail");
+  const pane = h("div", { class: "pane" });
+  detail.replaceChildren(pane);
+  detail.scrollTop = 0;
+  if (mode === "about") renderAbout(pane, token);
+  else if (mode === "item") renderItem(pane, token);
+  else renderEmpty(pane);
+}
+
+function applyLocale() {
+  if (uiLoc === state.loc) return;
+  uiLoc = state.loc;
+  L = I18N[uiLoc];
+  document.documentElement.lang = dataLang(uiLoc);
+  $('meta[name="description"]').setAttribute("content", L.description);
+  $("#brand-name").textContent = L.site;
+  const input = $("#q");
+  input.placeholder = L.searchPlaceholder;
+  input.setAttribute("aria-label", L.searchLabel);
+  $("#seg").setAttribute("aria-label", L.langLabel);
+  $("#side").setAttribute("aria-label", L.navLabel);
+  $("#list").setAttribute("aria-label", L.listLabel);
+  $("#detail").setAttribute("aria-label", L.detailLabel);
+  $("#legal").textContent = L.legal;
+  navGroups.data.textContent = L.groupData;
+  navGroups.quests.textContent = L.groupQuests;
+  for (const [view, a] of navLinks) a.firstChild.textContent = viewLabel(view);
+}
+
+function updateNav() {
+  const loc = state.loc;
+  for (const [view, a] of navLinks) {
+    a.href = hrefFor(loc, view, null);
+    if (view === state.view) a.setAttribute("aria-current", "page");
+    else a.removeAttribute("aria-current");
+  }
+  const side = $("#side");
+  const active = navLinks.get(state.view);
+  if (active && side.scrollWidth > side.clientWidth) {
+    const left = active.offsetLeft - 16;
+    if (left < side.scrollLeft || active.offsetLeft + active.offsetWidth > side.scrollLeft + side.clientWidth) side.scrollLeft = left;
+  }
+  counts(loc).then((c) => {
+    if (loc !== state.loc) return;
+    for (const [view, a] of navLinks) {
+      const n = a.querySelector(".nav-n");
+      if (n) n.textContent = c[view] != null ? fmt(c[view]) : "";
+    }
+  }, () => {});
+}
+
+function modeOf() {
+  if (state.view !== "about" && state.slug != null) return "item";
+  if (state.query || state.view !== "about") return "list";
+  return "about";
+}
+
+function render() {
+  applyLocale();
+  $("#app").dataset.mode = mode;
+  $("#brand").href = hrefFor(state.loc, "about", null);
+  for (const b of $("#seg").children) b.setAttribute("aria-pressed", String(b.dataset.loc === state.loc));
+  updateNav();
+
+  const lk = state.query ? `s|${state.loc}|${state.query}` : state.view !== "about" ? `v|${state.loc}|${state.view}` : null;
+  if (lk && lk !== listKey) {
+    listKey = lk;
+    renderList();
+  } else {
+    markCurrent(false);
+  }
+
+  const dk = mode === "item" ? `i|${state.loc}|${state.view}|${state.slug}`
+    : mode === "about" ? `a|${state.loc}`
+    : `e|${state.loc}|${state.query ? "?" : state.view}`;
+  if (dk !== detailKey) {
+    detailKey = dk;
+    renderDetail();
+  }
+
+  if (mode === "about") document.title = L.site;
+  else if (mode === "list") document.title = `${state.query ? L.searchDocTitle(state.query) : viewLabel(state.view)} - ${L.site}`;
+}
+
+function route() {
+  const next = parseHash();
+  const canonical = hrefFor(next.loc, next.view, next.slug);
+  if (safeDecode(location.hash) !== safeDecode(canonical)) history.replaceState(null, "", canonical);
+  const prevMode = mode;
+  Object.assign(state, next);
+  mode = modeOf();
+  let restore = 0;
+  if (mode === "item" && prevMode !== "item") savedScroll = scrollY;
+  else if (mode !== "item" && prevMode === "item") restore = savedScroll;
+  render();
+  if (narrow.matches) scrollTo(0, restore);
+}
+
+function setQuery(raw) {
+  const q = raw.trim();
+  const valid = /[^\x00-\x7f]/.test(q) ? q.length >= 1 : q.length >= 2;
+  const next = valid ? q : "";
+  if (next === state.query) return;
+  state.query = next;
+  if (next && narrow.matches && state.slug != null) {
+    state.slug = null;
+    history.replaceState(null, "", hrefFor(state.loc, state.view, null));
+  }
+  mode = modeOf();
+  render();
+  if (narrow.matches) scrollTo(0, 0);
+}
+
+async function switchLocale(loc) {
+  if (loc === state.loc) return;
+  let slug = state.slug;
+  if (slug != null) {
+    try {
+      const idx = await getJSON(apiPath(loc, state.view));
+      if (!(idx.items || []).some((i) => i.slug === slug)) slug = null;
+    } catch {
+      slug = null;
+    }
+  }
+  location.hash = hrefFor(loc, state.view, slug);
+}
+
+function init() {
+  const link = (view) => {
+    const a = h("a", { "data-view": view }, h("span", null, ""), view === "about" ? null : h("span", { class: "nav-n" }));
+    navLinks.set(view, a);
+    return a;
+  };
+  navGroups.data = h("div", { class: "nav-group" });
+  navGroups.quests = h("div", { class: "nav-group" });
+  $("#nav").append(
+    link("about"),
+    navGroups.data,
+    ...CAT_KEYS.map((k) => link(k)),
+    navGroups.quests,
+    ...QTYPE_KEYS.map((q) => link("quests/" + q)));
+
+  for (const b of $("#seg").children) b.addEventListener("click", () => switchLocale(b.dataset.loc));
+
+  const input = $("#q");
+  let timer = 0;
+  input.addEventListener("input", () => {
+    clearTimeout(timer);
+    timer = setTimeout(() => setQuery(input.value), 180);
   });
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Escape") {
+      input.value = "";
+      setQuery("");
+    } else if (e.key === "ArrowDown" || e.key === "Enter") {
+      clearTimeout(timer);
+      setQuery(input.value);
+      const first = $("#list .row");
+      if (first && mode !== "about") {
+        e.preventDefault();
+        first.focus();
+      }
+    }
+  });
+
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "/" || e.ctrlKey || e.metaKey || e.altKey) return;
+    if (/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement && document.activeElement.tagName)) return;
+    e.preventDefault();
+    input.focus();
+    input.select();
+  });
+
+  $("#list").addEventListener("keydown", (e) => {
+    if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+    const rows = [...e.currentTarget.querySelectorAll(".row")];
+    const i = rows.indexOf(document.activeElement);
+    if (i < 0) return;
+    e.preventDefault();
+    const next = rows[i + (e.key === "ArrowDown" ? 1 : -1)];
+    if (!next) return;
+    next.focus();
+    if (!narrow.matches) {
+      history.replaceState(null, "", next.getAttribute("href"));
+      route();
+    }
+  });
+
+  getJSON("/v1").then((m) => {
+    $("#ver").replaceChildren("data_version ", code(m.data_version || "-"));
+  }, () => {});
+
+  window.addEventListener("hashchange", route);
+  route();
 }
 
 init();

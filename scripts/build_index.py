@@ -1,18 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Rebuild every index.json under data/v1/ from the entity / quest files.
 
-data/v1/ is the single source of truth: entity and quest JSONs are added or
-edited in place (each carries its own "id"), then this script regenerates
-
-- data/v1/<locale>/<category>/index.json      (characters / weapons / artifacts)
-- data/v1/<locale>/quests/<type>/index.json   + data/v1/<locale>/quests/index.json
-- data/v1/<locale>/index.json
-- data/v1/icons/index.json
-- data/v1/index.json                          (manifest, new data_version)
-
-Nothing is ever deleted. Items already listed in an index keep their position;
-new files are appended in slug order.
-"""
 import io
 import json
 import re
@@ -29,8 +16,8 @@ LOCALES = ("en", "ja", "zh")
 CATEGORIES = ("characters", "weapons", "artifacts")
 QUEST_TYPES = ("archon", "story", "world", "event", "hangout")
 ICON_EXTS = (".png", ".webp", ".jpg", ".jpeg", ".gif", ".svg")
-VARIANT_SUFFIX_RE = re.compile(r"\s*\([^()]*\)$")  # "Manekin (Anemo)" -> "Manekin"
-TRAVELER_IDS = {"10000005", "10000007"}  # Aether / Lumine variants share en_name "Traveler"
+VARIANT_SUFFIX_RE = re.compile(r"\s*\([^()]*\)$")
+TRAVELER_IDS = {"10000005", "10000007"}
 
 
 def load_json(p):
@@ -45,7 +32,6 @@ def dump_json(p, obj):
 
 
 def ordered_files(dirpath, key="slug"):
-    """-> [(slug, path)] for every entry file, keeping the existing index order."""
     files = {p.stem: p for p in dirpath.glob("*.json") if p.name != "index.json"}
     idx = dirpath / "index.json"
     prev = [i[key] for i in load_json(idx)["items"]] if idx.is_file() else []
@@ -55,9 +41,8 @@ def ordered_files(dirpath, key="slug"):
 
 
 def build_entities():
-    """-> {category: {id: en item}}, used for cross-locale enrichment."""
     canonical = {cat: {} for cat in CATEGORIES}
-    for lang in LOCALES:  # "en" first so the canonical fields exist for ja / zh
+    for lang in LOCALES:
         for cat in CATEGORIES:
             items = []
             for slug, p in ordered_files(DATA / lang / cat):
@@ -69,7 +54,7 @@ def build_entities():
                     en_name = name
                 elif en:
                     en_name = en["name"]
-                    if cat == "characters" and "-" in eid:  # element variants
+                    if cat == "characters" and "-" in eid:
                         en_name = ("Traveler" if eid.split("-")[0] in TRAVELER_IDS
                                    else VARIANT_SUFFIX_RE.sub("", en_name))
                 else:
@@ -127,7 +112,6 @@ def build_quests():
 
 
 def build_icons(canonical):
-    """Icons are named after the en character slug; every icon must map to one."""
     icon_dir = DATA / "icons"
     names = {lang: {i["id"]: i["name"]
                     for i in load_json(DATA / lang / "characters" / "index.json")["items"]}

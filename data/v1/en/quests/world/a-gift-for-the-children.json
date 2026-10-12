@@ -1,0 +1,322 @@
+{
+  "chapter": "A Gift for the Children",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "A Gift for the Children",
+  "region": null,
+  "quests": [
+    {
+      "title": "A Gift for the Children",
+      "dialogue": [
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "s": 0,
+          "t": "Your Majesty, we're here."
+        },
+        {
+          "sit": "What's our task this time?"
+        },
+        {
+          "s": 1,
+          "t": "Let me ask a question first. What kind of gifts do you think the children of Snezhnaya like the most?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Paimon would pick a yummy snack or something, but kids would probably like toys more."
+        },
+        {
+          "s": 1,
+          "t": "Toys... What kind of toys?"
+        },
+        {
+          "s": 0,
+          "t": "Well, it's hard to say for sure... Why do you ask?"
+        },
+        {
+          "s": 1,
+          "t": "Understanding the preferences of the people is a part of understanding the nation as a whole, no? I would like to begin with the children."
+        },
+        {
+          "sit": "In that case..."
+        },
+        {
+          "sit": "We'll need to look into it."
+        },
+        {
+          "s": 1,
+          "t": "Very well. I only ask that you not reveal I am the one behind this."
+        },
+        {
+          "s": 1,
+          "t": "Whenever I arrange a gift for a subject, the recipient is always grateful, but I find myself unable to discern whether they actually like it."
+        },
+        {
+          "s": 0,
+          "t": "Oh..."
+        },
+        {
+          "s": 1,
+          "t": "Well, I'll leave you to it. I still have official duties to attend to."
+        },
+        {
+          "s": 2,
+          "t": "Do you require my assistance with anything, respected Consultant?"
+        },
+        {
+          "s": 0,
+          "t": "Not this time, Chayka! If it's toys we're talking about, we know just who to ask."
+        },
+        {
+          "s": 0,
+          "t": "Hm... Let's go to Morepesok. We should be able to find him there."
+        },
+        {
+          "section": "Go to Morepesok"
+        },
+        {
+          "s": 3,
+          "t": "When are you leaving this time?"
+        },
+        {
+          "s": 4,
+          "t": "Can't you stay a few more days? Please?"
+        },
+        {
+          "s": 5,
+          "t": "Don't be like that. You know I still have work to do. But I won't be going abroad much, so I'll be able to come home a bit more often. I promise."
+        },
+        {
+          "s": 3,
+          "t": "Okay, fine..."
+        },
+        {
+          "s": 0,
+          "t": "There you are! The greatest toy salesman in all of Snezhnaya!"
+        },
+        {
+          "s": 5,
+          "t": "Comrade and Paimon? What brings you out here?"
+        },
+        {
+          "s": 0,
+          "t": "We wanted to ask you what kind of toys the kids in Snezhnaya like the most."
+        },
+        {
+          "s": 5,
+          "t": "...You know \"toy salesman\" is just a cover, right?"
+        },
+        {
+          "sit": "Yeah, but after playing the part for so long..."
+        },
+        {
+          "sit": "You've probably picked up a few things, right?"
+        },
+        {
+          "s": 5,
+          "t": "Well, you're not wrong. Where is this coming from, though?"
+        },
+        {
+          "s": 0,
+          "t": "We, um... have a friend who wants to get into the toy business."
+        },
+        {
+          "s": 5,
+          "t": "I see. Then I'll definitely help you out. Any friend of yours is a friend of mine."
+        },
+        {
+          "s": 5,
+          "t": "Alright then... Teucer, Tonia, lemme ask you a question. What kind of toys do the kids of Snezhnaya like the most these days?"
+        },
+        {
+          "s": 3,
+          "t": "Toys? Ohh, the ones that move!"
+        },
+        {
+          "s": 4,
+          "t": "Yeah, and it needs to be cute! Something you could keep as a companion!"
+        },
+        {
+          "s": 3,
+          "t": "Just like the \"Gobblefin\" you brought back for us that one time! The kids next door are always asking to play with it."
+        },
+        {
+          "s": 5,
+          "t": "Oh, yeah. Something like that should fit the bill perfectly. Just give me two days, and I'll have a sample ready for you."
+        },
+        {
+          "sit": "Two whole days?"
+        },
+        {
+          "s": 5,
+          "t": "You might not know, but due to material shortages, toy production in Snezhnaya has been put on hold for quite some time. I'll have to go through some special channels to get a sample."
+        },
+        {
+          "s": 0,
+          "t": "Guess it can't be helped. Let's meet up in two days then."
+        },
+        {
+          "section": "Return to Zapolyarny Palace"
+        },
+        {
+          "s": 0,
+          "t": "Tartaglia, what are you doing here?"
+        },
+        {
+          "s": 5,
+          "t": "I had some \"toy salesman\" business to attend to, and thought it'd be best to just meet up here. Saves you a trip to Morepesok at least."
+        },
+        {
+          "s": 0,
+          "t": "Makes sense... And you brought Teucer and Tonia with you?"
+        },
+        {
+          "s": 5,
+          "t": "My hands were tied — they insisted on joining me and wouldn't take no for an answer. Shouldn't be a problem, though. I mean after all, we're here on toy business, aren't we?"
+        },
+        {
+          "sit": "Of course."
+        },
+        {
+          "s": 3,
+          "t": "Is that toy seller friend of yours coming, {M#Mister}{F#Miss} {NICKNAME}?"
+        },
+        {
+          "s": 4,
+          "t": "We've never met another toy merchant before. Are they as impressive as our brother?"
+        },
+        {
+          "s": 0,
+          "t": "Uh, haha... That friend can't make it right now. Let's just take a look at the sample first, and we'll be sure to pass it on to them."
+        },
+        {
+          "s": 5,
+          "t": "No problem. It's right here. It's called, \"Gobblefin.\""
+        },
+        {
+          "s": 1,
+          "t": "So, this is the kind of toy the children of Snezhnaya are partial to?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, the Tsaritsa..."
+        },
+        {
+          "s": 1,
+          "t": "I happened to have some spare time, and Chayka mentioned you'd prepared a sample, so I came over to take a look."
+        },
+        {
+          "s": 5,
+          "t": "Your toy seller friend is... Ahem, Your Majesty! Greetings! Teucer, Tonia, quick, bow to Her Majesty."
+        },
+        {
+          "s": 3,
+          "t": "Brother, you never told us your biggest competitor in the toy business... was the Tsaritsa!"
+        },
+        {
+          "s": 1,
+          "t": "Competitor..."
+        },
+        {
+          "s": 5,
+          "t": "Ahaha... I—I never expected Her Majesty to share an interest in toys. Excellent taste!"
+        },
+        {
+          "s": 1,
+          "t": "...Hm?"
+        },
+        {
+          "s": 0,
+          "t": "Ahem..."
+        },
+        {
+          "s": 1,
+          "t": "Ah, the greatest toy merchant in all of Snezhnaya. You may dispense with the formalities."
+        },
+        {
+          "s": 5,
+          "t": "Thank you, Your Majesty. Please forgive my momentary lapse in composure just now. I did not expect {NICKNAME}'s merchant friend... to be you."
+        },
+        {
+          "s": 1,
+          "t": "No forgiveness necessary. As you said, I have had some interest in the toy industry lately. Now, tell me about this sample. It looks rather ordinary."
+        },
+        {
+          "s": 5,
+          "t": "This toy was popular in the past because it was fun to play with and didn't cost much. It was something most kids could afford, and then take to play with their friends."
+        },
+        {
+          "s": 1,
+          "t": "I see. Are children today still able to afford it?"
+        },
+        {
+          "s": 5,
+          "t": "This kind of toy stopped being produced in Snezhnaya a long time ago, actually. When resources are scarce, toys are always the first to go."
+        },
+        {
+          "s": 5,
+          "t": "Nowadays, you have to go abroad to get your hands on one, and that's not something an ordinary family can afford."
+        },
+        {
+          "s": 1,
+          "t": "...Understood. Chayka, have someone evaluate the cost and set aside funds to restart the production line for this toy."
+        },
+        {
+          "s": 3,
+          "t": "Huh? You really mean it, Your Majesty?"
+        },
+        {
+          "s": 2,
+          "t": "Your Majesty..."
+        },
+        {
+          "s": 1,
+          "t": "You need not concern yourself with coming up with the funds. I have already discussed it with Danica, and I've decided to reduce my personal expenses so those funds can be used for more meaningful purposes."
+        },
+        {
+          "s": 1,
+          "t": "Danica likes to say, \"The Tsaritsa is the face of the kingdom,\" so she refuses to let me cut too much on food and clothing."
+        },
+        {
+          "s": 1,
+          "t": "In truth, this kingdom is made up of many faces. If it is within my power to put smiles upon them, then that is power well spent. I hardly think Danica can disagree with that."
+        },
+        {
+          "s": 3,
+          "t": "Thanks, Your Majesty!"
+        },
+        {
+          "s": 4,
+          "t": "Thanks, Your Majesty!"
+        },
+        {
+          "s": 5,
+          "t": "Thank you so much, Your Majesty."
+        },
+        {
+          "s": 0,
+          "t": "Going to all that trouble so you can give gifts to kids... That's gotta be \"love,\" huh?"
+        },
+        {
+          "s": 1,
+          "t": "It's nothing. When children are having their childhood stripped away from them, I simply cannot turn a blind eye."
+        },
+        {
+          "s": 1,
+          "t": "In this instance, dwelling on whether my will and emotions have been influenced by the Heavenly Principles is ultimately meaningless."
+        }
+      ],
+      "description": "What kind of gifts do the children of Snezhnaya like? This is a question that even the Tsaritsa is pondering and needs your help with..."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Anastasya",
+    "Chayka",
+    "Teucer",
+    "Tonia",
+    "Childe"
+  ],
+  "id": "q-77667"
+}

@@ -1,0 +1,4311 @@
+{
+  "chapter": "Hangout Event: Kaveh",
+  "chapter_title": "The Pendulum of Weal and Woe",
+  "act": "Act 1",
+  "act_title": "The Pendulum of Weal and Woe",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19058",
+      "title": "The Sixth Proposal",
+      "dialogue": [
+        {
+          "s": 0,
+          "t": "I've taken a look at your proposal. It's much better than the ones you showed me before, but I'd still like to make some changes..."
+        },
+        {
+          "s": 1,
+          "t": "...Come on, not again? Isn't this the sixth proposal I've shown you? What's your issue this time?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... It's a bit hard to put into words, but the design still doesn't look quite right to me."
+        },
+        {
+          "s": 1,
+          "t": "I have to say, that's a terribly vague and unconvincing explanation. Please enlighten me — what would feel more \"right\" to you?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, for starters, don't you think this roof is jutting out a bit too far from the top? It looks almost like the head of a fungus."
+        },
+        {
+          "s": 0,
+          "t": "This door, too — I don't think it needs to be nearly this large. If you could reduce it to around my height, you could use the leftover materials to construct a few more rooms—"
+        },
+        {
+          "s": 1,
+          "t": "I... *deep breath* The roof and the door are the most fundamental parts of a building. If we were to change them, then what would be left of the design!?"
+        },
+        {
+          "s": 1,
+          "t": "Even if the soul of the building won't be lost, all traces of architectural style would be gone. Anyone with the slightest inkling of architectural knowledge would know to leave them alone!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, I understand the principles of what you are saying, of course, but the truth remains that I'm still a bit unhappy with this design as-is. Is there anything else that you can do?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, actually, I just got an idea. Can we get rid of all the extraneous sections on the roof, so the whole design will just be one vertical structure, similar to that of a tree trunk?"
+        },
+        {
+          "s": 1,
+          "t": "...What!?"
+        },
+        {
+          "s": 0,
+          "t": "Don't architects often say that symmetry makes everything more balanced and pleasing to the eye? This way, the proportions will be completely balanced."
+        },
+        {
+          "s": 1,
+          "t": "I... I really don't know how you managed to come up with such a ridiculous idea. Wait, don't tell me... Someone hired you specifically to commission me and put me through the wringer? Come to think of it, though, I really don't think I've gotten on anyone's bad side recently..."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, that's it, I will not be working on this commission anymore. Goodbye! Maybe you can find yourself some other genius who'll be able to satisfy your demands."
+        },
+        {
+          "s": 0,
+          "t": "Hey, young man, please wait... *sigh*..."
+        },
+        {
+          "sit": "(Kaveh looks like he's in a bad mood. I should go check up on him.)"
+        },
+        {
+          "s": 0,
+          "t": "*sigh*... Were my requests out of line?"
+        },
+        {
+          "s": 1,
+          "t": "Taking this commission was truly the worst decision ever..."
+        },
+        {
+          "sit": "Are you all right?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Oh, hey, I wasn't expecting to run into you here."
+        },
+        {
+          "s": 1,
+          "t": "Actually, while we're on that, what are you doing here at the tavern? Don't listen to anyone who says that drinking is an elegant pastime. It's no good for your health."
+        },
+        {
+          "sit": "I followed you here."
+        },
+        {
+          "sit": "I saw you arguing with someone just now..."
+        },
+        {
+          "s": 1,
+          "t": "Uh... So you saw all that, did you? Ugh, I thought I was in the clear — I made sure to double check that nobody I knew was around..."
+        },
+        {
+          "s": 1,
+          "t": "Ahem... Anyway, thanks for looking out for me. Honestly, it wasn't that big of a deal. I'm used to it by now."
+        },
+        {
+          "s": 1,
+          "t": "Stress is just an inescapable part of being a working adult. Boss! I'll have a glass of wine — same as last time."
+        },
+        {
+          "s": 1,
+          "t": "Do you want something, too? I'll put it on my tab."
+        },
+        {
+          "sit": "I'll have a glass of juice."
+        },
+        {
+          "s": 2,
+          "t": "Wine and a glass of juice, coming right up."
+        },
+        {
+          "sit": "Kaveh chugs down his entire glass of wine..."
+        },
+        {
+          "s": 1,
+          "t": "I know you're already keeping a secret for me, but if you could add this one to the list as well, I'd really appreciate it. Arguing with a client is not a good look for me... If word gets out, other potential clients might be afraid to work with me."
+        },
+        {
+          "s": 1,
+          "t": "That guy, though... What was he even going on about!? All those ridiculous demands of his... he's just a blabbering fool trying to act like a know-it-all!"
+        },
+        {
+          "sit": "(Kaveh seems a lot more honest after he's had some wine...)"
+        },
+        {
+          "s": 1,
+          "t": "Another glass, please, Boss! I'm not leaving today 'til someone has to carry me out!"
+        },
+        {
+          "s": 2,
+          "t": "You've got it, sir! Haha. Gotta say though, it almost feels like you're saying that every other day now..."
+        },
+        {
+          "s": 1,
+          "t": "It really is every other day that you'd run into a client who knows nothing about construction requirements or architectural style. If this was in the past, I'd never have gone through six whole drafts trying to accommodate the client's preferences."
+        },
+        {
+          "s": 1,
+          "t": "But perhaps getting \"used\" to this just means that I've grown \"numb\" to it. I've worked on so many projects since graduation, and none of them have been approved at the first pass..."
+        },
+        {
+          "s": 1,
+          "t": "I would spend a lot of time altering my designs, and by the time the clients were finally satisfied, all my passion and enthusiasm would be gone. It feels like I'm straying further and further from my artistic vision with every change I have to make."
+        },
+        {
+          "s": 1,
+          "t": "I suppose, though, that just sticking to your guns and completely disregarding other people's feedback would also not be a good thing."
+        },
+        {
+          "s": 1,
+          "t": "All of this makes for a real paradox, one that particularly crops up in my work, too. In the end, what is the true meaning of art? Should I see it as a divine gift of inspiration from the gods, or an expression of the light of my own wisdom?"
+        },
+        {
+          "s": 2,
+          "t": "Here's your drink. How are you already spouting nonsense after just one glass? Your tolerance is usually much better than that."
+        },
+        {
+          "s": 1,
+          "t": "Boss, what do you think is the meaning of art?"
+        },
+        {
+          "s": 2,
+          "t": "The meaning of art? Really, my friend, who in Sumeru understands art better than you?"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, I dunno about art, but I do know that I'm interested in business, and some patrons are waiting to be served. So you'll have to excuse me for now... Just holler if you need anything."
+        },
+        {
+          "s": 1,
+          "t": "...What do you think, {NICKNAME}?"
+        },
+        {
+          "sit": "Something that embodies the creator's efforts and dedication?"
+        },
+        {
+          "sit": "I honestly have no idea..."
+        },
+        {
+          "s": 1,
+          "t": "Yes, art shouldn't be self-indulgent entertainment saved for the elite."
+        },
+        {
+          "s": 1,
+          "t": "Let's say that I built a house for someone. If they don't like how it looks, then no matter how brilliant it may appear to me, they won't be happy with it."
+        },
+        {
+          "s": 1,
+          "t": "The problem is that it can be very difficult to get validated by others. I could compromise my personal standards to accommodate my clients, but often, that'd just mean creating a final product that I would struggle to look at."
+        },
+        {
+          "s": 1,
+          "t": "Exactly. So our thoughts on the meaning of art are rather similar."
+        },
+        {
+          "s": 1,
+          "t": "In Sumeru, and especially Sumeru of the past, the arts are not a popular discussion topic. Trying to talk about the arts is basically the key to killing any conversation."
+        },
+        {
+          "s": 1,
+          "t": "It's too bad that I'm not in my best form today... Otherwise, we could have talked about this for a little longer."
+        },
+        {
+          "s": 1,
+          "t": "No worries. It was just an offhand question."
+        },
+        {
+          "s": 1,
+          "t": "It's been bothering me for a while. Even when I'm awake, the question haunts me like a bad dream. I still haven't found a good answer to it... or maybe, there was never a correct answer in the first place."
+        },
+        {
+          "sit": "(Kaveh still looks dejected, and even the wine didn't help his mood. How can I help cheer him up?)"
+        },
+        {
+          "sit": "(Hmm, maybe I should play it safe and just make a simple suggestion...)"
+        },
+        {
+          "sit": "I'll help you convince the client to come to your side."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Ah, thanks for offering, but you've seen how he is... He's not going to listen to anything I say."
+        },
+        {
+          "s": 1,
+          "t": "He understands nothing about my design, and all the suggestions he made were as if he just wanted to mock me."
+        },
+        {
+          "sit": "I don't think he was intentionally trying to be difficult."
+        },
+        {
+          "s": 1,
+          "t": "...Okay, it is possible that I was just jaded by my frustration."
+        },
+        {
+          "s": 1,
+          "t": "Well, given I'm already on my sixth draft, I can probably push myself to make a seventh... Let's go have another talk with him. I know where we'd be able to find the guy."
+        },
+        {
+          "sit": "If you can convince even him to see your point of view..."
+        },
+        {
+          "s": 1,
+          "t": "You mean... If I manage to get him to see things my way, then this project would also gain recognition from many people?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... you've got a point. Let's hear him out one more time, then."
+        },
+        {
+          "s": 1,
+          "t": "Time to get going. I know where we'd be able to find the guy."
+        },
+        {
+          "s": 1,
+          "t": "There's no time to waste... The wine can wait until another time. I'll go take care of the bill."
+        },
+        {
+          "s": 1,
+          "t": "Sounds great to me! I don't even want to think about this project anymore. But what should we do? It's probably not a good idea to just drink until I pass out here..."
+        },
+        {
+          "sit": "Why did you decide to become an architect?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Where did that come from..."
+        },
+        {
+          "s": 1,
+          "t": "I mean, it's not like it's some kind of secret. You probably already know some bits and pieces of my past."
+        },
+        {
+          "s": 1,
+          "t": "My mother is also an architect. I've always adored her drawings, and when I was young, I used to sit next to her and watch her bring all kinds of buildings to life on paper. You could say my interest in architecture just naturally grew with time."
+        },
+        {
+          "sit": "Would she be able to understand how you're feeling right now?"
+        },
+        {
+          "s": 1,
+          "t": "Perhaps. In fact, I have also seen my mother argue with her clients... But she would always quickly find the motivation to return to her work."
+        },
+        {
+          "s": 1,
+          "t": "Unfortunately, I've barely had any contact with her since she remarried and moved abroad... Even if I wanted to ask her about her ability to stay positive after an argument, it would seem rude to barge into her life again over something as trivial as that."
+        },
+        {
+          "s": 1,
+          "t": "I did remember something else, though. When my mother left, she only carried some small personal luggage with her. She left most of the belongings in the house to me."
+        },
+        {
+          "s": 1,
+          "t": "At the time she even told me that it would be great if I could learn a few lessons from her life experiences, so my life and career could go a little more smoothly."
+        },
+        {
+          "s": 1,
+          "t": "I hadn't quite come to grips with my emotions, and didn't really have it in me to go through any sentimental items, so I just packed anything with memories away in a box, and haven't reopened it since."
+        },
+        {
+          "s": 1,
+          "t": "It's been a really long time... Now that so many years have passed, maybe I have finally developed the maturity I need to face those memories without losing my mind. Yeah... I should dig it out and take a look."
+        },
+        {
+          "sit": "Um... Do you think I can come with you?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Ah... Sorry, I've had too much to drink and wasn't thinking clearly. You're right... I should do these kinds of things with the support of a friend."
+        },
+        {
+          "s": 1,
+          "t": "Uh... speaking of that... I can call you a friend now, right...?"
+        },
+        {
+          "s": 1,
+          "t": "Either way, thanks for reminding me that I can invite you to come along. Had I just gone back by myself, it would have looked like I'm deliberately trying to keep things from you."
+        },
+        {
+          "s": 1,
+          "t": "Ugh, thinking too hard about the words is giving me a headache, so I'll just give it to you straight. Ahem. Thanks to your advice, I have decided to put my current projects on pause for now, and spend some time trying to rekindle the passion for my craft."
+        },
+        {
+          "s": 1,
+          "t": "If you want to stick around and see how this will turn out, you'll be sure to encounter some bits and pieces of my past. Do you think you'd find that too boring?"
+        },
+        {
+          "sit": "I don't think so."
+        },
+        {
+          "s": 1,
+          "t": "Alright, then let's head back together. I mean, you already know where I live..."
+        },
+        {
+          "s": 1,
+          "t": "Hah, who knew that the day would come when I, too, would have some friends over."
+        },
+        {
+          "s": 1,
+          "t": "Let me see... I should have tidied up the place before I left the house this morning. Alhaitham shouldn't be home now, either — he's usually in the records room at this time of the day."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, there's no more time for drinks. I'll go take care of the bill."
+        },
+        {
+          "s": 1,
+          "t": "A different career... I see, that's not a bad idea."
+        },
+        {
+          "s": 1,
+          "t": "I think I've heard a saying somewhere before — eighty percent of a working adult's woes are due to not having enough Mora in the bank."
+        },
+        {
+          "s": 1,
+          "t": "It's just a saying, of course, but even I will admit that my life would be a lot better if I could make additional Mora."
+        },
+        {
+          "s": 1,
+          "t": "And if I want to make Mora, I should finish that ridiculous commission... But I really can't find it in me to go back and talk to him right now."
+        },
+        {
+          "s": 1,
+          "t": "Hold on! I just remembered that I used to have a senior classmate by the name of Alkami. If memory serves me right, he's no longer taking private commissions, but he's still doing pretty well for himself."
+        },
+        {
+          "s": 1,
+          "t": "Maybe I'll be able to get some advice from him... Yeah, I should get on this right away! No more wine for me today — I'll grab the bill and be on my way."
+        }
+      ],
+      "description": "You run into Kaveh on the streets of Sumeru City. He seems to be embroiled in an argument with a client..."
+    },
+    {
+      "id": "q-19059",
+      "title": "A Refuge in the Sands",
+      "dialogue": [
+        {
+          "s": 0,
+          "t": "Kaveh? What are you doing here...?"
+        },
+        {
+          "s": 1,
+          "t": "I—I've changed my mind. Uh... I was overreacting earlier. Can we try discussing the project some more?"
+        },
+        {
+          "s": 0,
+          "t": "My apologies as well. Now that I think about it, some of my requests were indeed a bit unreasonable."
+        },
+        {
+          "s": 0,
+          "t": "If I chose you to create the design for my project, I should have a bit more faith in your vision."
+        },
+        {
+          "s": 1,
+          "t": "Ah, thank you for understanding. Mutual trust is the basis for good communication. Now that we've got that out of the way, I think we can have a more productive conversation."
+        },
+        {
+          "s": 1,
+          "t": "To be perfectly honest... your commission request has been the most peculiar one I've ever received."
+        },
+        {
+          "s": 1,
+          "t": "Even now, I still know nothing about the building's intended purpose. All I know is that you want to build something in the desert for public use."
+        },
+        {
+          "s": 1,
+          "t": "I am aware that overly specific requests will restrain the architect's artistic freedom. However, knowing nothing about the intended purpose of the building also means I have no idea if I'm on the right track."
+        },
+        {
+          "s": 1,
+          "t": "I've produced several draft proposals for you to choose from, and you've rejected every single one. If we don't get on the same page, it could be a decade before we can finally break ground on this project."
+        },
+        {
+          "s": 0,
+          "t": "Yes, I've given this some thought already. I think we can go with the general direction of the latest proposal that you just showed me."
+        },
+        {
+          "s": 0,
+          "t": "It's just..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Just what?"
+        },
+        {
+          "s": 0,
+          "t": "Putting the building design aside, can we get some less expensive materials for the floor tiles? I know someone in the business, and the red bricks he sells can go for pretty cheap."
+        },
+        {
+          "s": 0,
+          "t": "The timber here as well. We should be able to find some substitutes..."
+        },
+        {
+          "s": 1,
+          "t": "Ahh... Please give me a moment, my head's starting to hurt again. Just please hold on for a second..."
+        },
+        {
+          "s": 1,
+          "t": "So, let me get this straight, you want to reduce the cost of the project, right? But if we implement your suggestions, then I'm afraid we have to scrap the entire design."
+        },
+        {
+          "s": 1,
+          "t": "Architectural design cannot be neatly split into discrete parts — any change to one part of the design will affect the quality of the whole thing. I decided to utilize high-end timber for this section because the weight-bearing structure requires the supporting materials to be durable and strong."
+        },
+        {
+          "s": 1,
+          "t": "Same with the tiles... Switch them out, and the entire mural will have to be redesigned. More importantly, if we make such a change, both its practical functionality and aesthetic value will take a great hit."
+        },
+        {
+          "s": 1,
+          "t": "If all you need is a building with a roof that can keep people dry in the rain, you shouldn't have commissioned me. Many architects would be able to build you one of those while charging far less in commission fees."
+        },
+        {
+          "s": 0,
+          "t": "Actually, I... *sigh* Please tell me, are you absolutely sure that there's no room for any changes in this draft of the design?"
+        },
+        {
+          "s": 1,
+          "t": "I think the most important thing for me is to understand what you would actually like to get. If you could tell me more about your vision, I might be able to work with the design some more. You are the client, after all. You should have the final say on how the project turns out."
+        },
+        {
+          "s": 0,
+          "t": "I... want to build something unique. Something quiet and warm inside, a refuge that can block out the world outside."
+        },
+        {
+          "s": 0,
+          "t": "I want all who enter this building to be able to temporarily forget everything that's going on outside of the building, and just focus on their task at hand."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... that's a bit more information than last time, but it's still extremely vague. To put it another way, every rich person who wants to build a mansion for themselves would request something like this."
+        },
+        {
+          "s": 1,
+          "t": "We've gone through many proposals, and this draft is already the cheapest one. Cutting costs by substituting building materials will not only detract from the overall effect of the building, it also won't save you much Mora in the grand scheme of things."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for giving it so much thought. Please give me some more time to mull over the budget... I'll get back to you once I've figured out a solution."
+        },
+        {
+          "s": 0,
+          "t": "I still have a few business meetings that I must attend, so I'm afraid I'll have to leave for now. You can just leave the proposal as-is. I'll get in touch once I've given it some more thought."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "Why do I feel like he's hiding something?"
+        },
+        {
+          "s": 1,
+          "t": "I also have a similar feeling."
+        },
+        {
+          "sit": "Should we follow him and see if anything unusual comes up?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Is that really okay? I mean, what he does now is none of our business..."
+        },
+        {
+          "s": 1,
+          "t": "He does seem really suspicious, though. He dresses like a rich person, but when you talk to him, he hardly sounds the part."
+        },
+        {
+          "sit": "He sounds super frugal, too."
+        },
+        {
+          "s": 1,
+          "t": "That's actually pretty common. Not all rich people are spendthrifts. Many are just as if not more stingy than him."
+        },
+        {
+          "s": 1,
+          "t": "The more Mora some people have, the more they love interfering with people's lives — like constantly reminding you to pay back your debts, or hinting every other day that it's time for you to pay rent."
+        },
+        {
+          "s": 1,
+          "t": "Actually, now that I think about it, I'm not even sure this person really wants to work on this project with me. Putting his vague requests aside, he's still finding excuses to procrastinate even when we've decided on a plan."
+        },
+        {
+          "s": 1,
+          "t": "Who knows how long construction will take if he keeps delaying things like this... We should find him again and get some clearer answers. The sooner we can break ground on this, the better."
+        },
+        {
+          "sit": "You search the area with Kaveh, but find no trace of Badawi..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, look! Isn't that Badawi? It sure looks like him, but he's dressed completely different now. What is he up to?"
+        },
+        {
+          "s": 3,
+          "t": "Didn't I tell you before? I'm not looking for more workers."
+        },
+        {
+          "s": 3,
+          "t": "Plus, aren't you a bit old for physical labor? If something happens to you, I won't be able to pay for it."
+        },
+        {
+          "s": 0,
+          "t": "Oh, you won't have to worry about that. I grew up as an Eremite mercenary, and worked in the desert my entire life. My body's still in great shape."
+        },
+        {
+          "s": 0,
+          "t": "I don't have many talents, but I still have my muscle. If you need someone to unload goods or drive away sumpter beasts, I'm your man."
+        },
+        {
+          "s": 3,
+          "t": "You used to be an Eremite mercenary?"
+        },
+        {
+          "s": 0,
+          "t": "I know there are a lot of bad apples in our ranks, but most are just trying to make a living. We're not that greedy by nature, and will do our best when given a job."
+        },
+        {
+          "s": 3,
+          "t": "Hmm, let me think..."
+        },
+        {
+          "s": 3,
+          "t": "I'm sorry, but I still can't take you in. I don't have any open positions right now and don't have the Mora for anything more. How about this... why don't you try your luck somewhere else."
+        },
+        {
+          "s": 0,
+          "t": "Okay, okay... *sigh*"
+        },
+        {
+          "s": 1,
+          "t": "He used to be a member of the Eremites? Huh, from the way he dressed, I would have thought he was a merchant from the rainforest... Let's ask him about it."
+        },
+        {
+          "s": 1,
+          "t": "We meet again."
+        },
+        {
+          "s": 0,
+          "t": "Huh? Why are you guys here?"
+        },
+        {
+          "s": 1,
+          "t": "That's what we wanted to ask you. Who are you? Why did you dress up like a merchant to talk to me about our project?"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "There's no need for us to continue this project if you still want to keep hiding things from us. I don't work with individuals I can't trust."
+        },
+        {
+          "s": 0,
+          "t": "Believe me, I didn't have any bad intentions... It's just..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, there's no point hiding anything anymore. The building I'm trying to commission you for is not really a personal residence for me, but rather a library for children living in the desert."
+        },
+        {
+          "s": 1,
+          "t": "A library...? Funded entirely by yourself? Shouldn't this be the responsibility of the Akademiya?"
+        },
+        {
+          "s": 1,
+          "t": "I've heard that the Akademiya will be looking to prioritize the desert with the allocation of educational resources and materials. It sent over a large shipment of regular goods just last month."
+        },
+        {
+          "s": 0,
+          "t": "You're right, and I was aware of these happenings as well. I just figured... what I want to do is a separate effort from what's already being done by the Akademiya."
+        },
+        {
+          "s": 0,
+          "t": "The desert is too vast. Even if the Akademiya spends a lot of effort trying to disseminate knowledge in those parts, it might still take decades, if not centuries, to reduce the educational gap that already exists between the two regions."
+        },
+        {
+          "s": 0,
+          "t": "And what's more... I don't know if the Akademiya would ever reverse its stance in the future."
+        },
+        {
+          "s": 0,
+          "t": "All I know is that as a desert-dweller, we should not wait passively for good things to happen to us. If we only did that, we'd never be able to stand up and hold our heads high."
+        },
+        {
+          "s": 0,
+          "t": "I don't have much longer left on this world, so I just want to use whatever time I have to contribute something to my homeland."
+        },
+        {
+          "sit": "Why didn't you just tell us that from the start?"
+        },
+        {
+          "sit": "Why did you feel like you needed to lie?"
+        },
+        {
+          "s": 0,
+          "t": "I didn't want you to know that I came from the desert. I've lived in the desert my entire life, and there wasn't anyone here that I could trust. I figured I needed as much safety as I could get."
+        },
+        {
+          "s": 1,
+          "t": "To the point that you even disguised your identity? That's certainly taking \"playing it safe\" to the next level... Hold on, don't tell me you've also been scammed before?"
+        },
+        {
+          "s": 0,
+          "t": "When I first came to Sumeru City, I brought a lot of Mora hoping to find an architect that I could work with."
+        },
+        {
+          "s": 0,
+          "t": "Someone agreed to take on the project, and even took a sum of Mora from me, but then disappeared without a trace."
+        },
+        {
+          "s": 0,
+          "t": "After that, I heard that there are a lot of untrustworthy people in this business. Some would run as soon as they've been paid, while others would deliberately use expensive materials and take a cut of the construction funding."
+        },
+        {
+          "s": 0,
+          "t": "I spent a while collecting information in the city, and eventually learned that you're the most famous architect in all of Sumeru. I figured that you wouldn't need to make Mora by scamming people, so I decided to reach out to you..."
+        },
+        {
+          "s": 0,
+          "t": "By the way, how did you know I was scammed? I don't think I've ever mentioned that to anybody."
+        },
+        {
+          "s": 1,
+          "t": "Just a hunch. A while ago, I accepted an offer to work on a project in the desert, and was also scammed out of a large sum of Mora."
+        },
+        {
+          "s": 1,
+          "t": "I ran into someone who was living in a pretty run-down house. I noticed a load-bearing wall on the verge of collapse and suggested that I build a new house for him."
+        },
+        {
+          "s": 1,
+          "t": "He said that he had no way to pay for it, so I loaned him some of my own Mora, and told him to get some stone and timber from the local vendors. Soon after that, I found out that he had gone gambling with all the money, and lost everything, down to the last coin."
+        },
+        {
+          "s": 1,
+          "t": "And after that, he even borrowed Mora from me twice more, using a different excuse each time. I didn't even suspect him of any wrongdoing until he hired a group of mercenaries and tried to ambush me in his own house."
+        },
+        {
+          "s": 1,
+          "t": "According to him, I looked like an easy target because I was an Akademiya scholar who didn't have any family or friends in the desert. Hmph, what kind of person would just look at someone else and think \"this guy looks like an easy target\"?"
+        },
+        {
+          "s": 0,
+          "t": "...Those kinds of things do happen every once in a while, yes. Folks like him are the exact reason why us desert-dwellers' reputation have gone down the drain! I must apologize to you on their behalf."
+        },
+        {
+          "s": 1,
+          "t": "It's alright. You were also scammed by someone from Kshahrewar, after all. I should apologize to you on their behalf."
+        },
+        {
+          "s": 1,
+          "t": "Ultimately, neither of our experiences had anything to do with the desert or the rainforest. People who are new to an area are always easy targets for criminals."
+        },
+        {
+          "sit": "Bad people are everywhere."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, you'll find both good and bad people everywhere... I can't understand the logic of those who like to take advantage of others, but I have to accept their existence as a fact of life."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, I digress. Let's return to the topic at hand. Did you keep rejecting my designs because you thought I was deliberately using expensive materials to take a cut as a middleman?"
+        },
+        {
+          "s": 0,
+          "t": "That's what I was afraid of initially, yes. I eventually understood that you weren't out to cheat me... but unfortunately, I still don't have nearly enough Mora to pay for the design you proposed."
+        },
+        {
+          "s": 0,
+          "t": "I've done the math, and know that we should be able to make it if we cut some corners. However, after our conversations, I can see that you're passionate about your design, and I'm quite fond of the proposal as well."
+        },
+        {
+          "s": 0,
+          "t": "So... I decided to try and see if I can afford your proposal as is. I've been looking for work every day, and in another month, I should be able to cobble together enough Mora together to meet the budget."
+        },
+        {
+          "s": 1,
+          "t": "By \"cobble together,\" you mean you're going to spend your entire life's savings on this project? But then, what will you do if something unexpected comes up, and you find yourself stuck with no emergency fund?"
+        },
+        {
+          "s": 0,
+          "t": "To be honest, I haven't really thought about that. I mean... when you've lived to be my age and something happens, you can't really call it \"unexpected\" anymore."
+        },
+        {
+          "s": 0,
+          "t": "All I want is to build this library before I leave this world, so that the children of the future would have some books to read, and the desert-dwellers would be able to learn their letters and pick up some practical knowledge."
+        },
+        {
+          "sit": "You seem really passionate about this project."
+        },
+        {
+          "s": 0,
+          "t": "A while ago, I heard that the Akademiya had decided to recruit a number of exceptional children from the desert. Of course, this is welcome news. But as someone who spent their entire life in the desert, I still have a few concerns."
+        },
+        {
+          "s": 0,
+          "t": "I know the desert life and can predict what the problems will be. Many children from the desert have had neither the interest nor the proper environment to learn."
+        },
+        {
+          "s": 0,
+          "t": "So even if the Akademiya would take them in, once they enter the halls, they might find themselves surrounded by other children who look and act very differently from them. And as a result, they might become socially isolated."
+        },
+        {
+          "s": 1,
+          "t": "...Yes, I can imagine that."
+        },
+        {
+          "s": 1,
+          "t": "My father passed away at an early age. Even though I had a good number of friends during my years at the Akademiya, for some time, I still sensed many critical looks in my direction."
+        },
+        {
+          "s": 1,
+          "t": "I'm sure a child coming all the way from the desert will have an even harder time."
+        },
+        {
+          "s": 1,
+          "t": "But let's bring this back to the building itself. I think you said that you want this building to be quiet and warm, with its doors serving as a solid barrier to block out the sound and fury outside and allow one to focus on the book in their hands."
+        },
+        {
+          "s": 1,
+          "t": "Building it according to the current plan will be quite costly. Even if I don't charge you any commission fees, I don't think we'd be able to keep it under your budget..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Any ideas on what we can do?"
+        },
+        {
+          "s": 1,
+          "t": "A slightly different style? Hmm, give me a minute..."
+        },
+        {
+          "s": 1,
+          "t": "Most architects would probably prioritize cutting costs and removing extra features in this situation. Indeed, converting the building into a simple bungalow would solve most of our problems... However, I do not think this would be the best solution."
+        },
+        {
+          "s": 1,
+          "t": "While it's true that the aesthetic value of a building is often viewed as an afterthought, neglecting it has some long-term negative consequences. It is especially undesirable in this situation as the library will serve a high number of children, many of whom would have never been exposed to structures that may be considered elegant or beautiful."
+        },
+        {
+          "s": 1,
+          "t": "To completely give up on the more aesthetic design would mean stripping the children of an opportunity to appreciate the beauty of architecture. I share Badawi's sentiments in wanting to preserve a more complex design."
+        },
+        {
+          "s": 1,
+          "t": "However, if we can reduce the ornate aspects of the design while maintaining its fundamental elegance... Which is to say, we won't touch the arches and stone pillars, but make changes elsewhere... Hmm, this is definitely a first..."
+        },
+        {
+          "s": 1,
+          "t": "To make up for the loss of regular details, we would need to put a lot of extra effort into the layout, lines, and color."
+        },
+        {
+          "s": 0,
+          "t": "I see... Would that really be okay?"
+        },
+        {
+          "s": 1,
+          "t": "It just increases the difficulty of the design. You should feel lucky that out of all the architects in the city, you chose to approach me. Most of the others would have given up on this project by now."
+        },
+        {
+          "s": 1,
+          "t": "As for inspiration... I think I might have something in mind, but I'd need to visit the site to make sure. Where do you want this place to be built? Tell me the exact location."
+        },
+        {
+          "s": 0,
+          "t": "Aaru Village. Although it wasn't my childhood home, I think it'll be the best site for such a building."
+        },
+        {
+          "s": 1,
+          "t": "Okay, then we can pay a visit to Aaru Village."
+        },
+        {
+          "s": 0,
+          "t": "Is there something I can do for you? I've already caused you a lot of trouble before, and now, you're revising the design again because of me... Which draft are we even on now? It's making me feel terribly guilty."
+        },
+        {
+          "s": 1,
+          "t": "Let me think... You said you used to be an Eremite mercenary, right? In that case, you could help us clear out some monsters that are blocking the way to Aaru Village."
+        },
+        {
+          "s": 1,
+          "t": "We want to keep the roads clear, and reduce the loss of materials during transport to a minimum. If everything goes well, that'll help us save some Mora."
+        },
+        {
+          "s": 0,
+          "t": "Alright, just leave it to me! Haha, if there's anything I'm good at, it's clearing out monsters!"
+        },
+        {
+          "s": 1,
+          "t": "What are you waiting for, then? Let's pack up, and get ready to go."
+        },
+        {
+          "s": 1,
+          "t": "Sponsor the project? You mean... convince wealthy merchants to join our cause, and pool their money together to build the library?"
+        },
+        {
+          "s": 1,
+          "t": "That does make sense. A library is a big project, and it's going to be hard to fund it with just a single person's Mora."
+        },
+        {
+          "s": 1,
+          "t": "What do you think? If we can find others to sponsor the project, we could potentially increase the size of the building two or threefold."
+        },
+        {
+          "s": 0,
+          "t": "It's all fine with me. But... where do you think we'll be able to find these sponsors?"
+        },
+        {
+          "s": 1,
+          "t": "Well... You're right, if I really think about it, I'm not too familiar with many big name merchants..."
+        },
+        {
+          "sit": "Can we ask Dori?"
+        },
+        {
+          "s": 1,
+          "t": "Her? Hard pass. With her shrewd and greedy personality, she would never put Mora into something like this."
+        },
+        {
+          "sit": "Maybe she can connect us with some of her contacts?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm, now there's an idea. She probably won't say no if all she'll need to do is to make some introductions instead of spending Mora."
+        },
+        {
+          "s": 1,
+          "t": "Let's go and pay her a visit."
+        },
+        {
+          "s": 4,
+          "t": "Plus, aren't you a bit old for physical labor? If something happens to you, I won't be able to pay for it."
+        },
+        {
+          "s": 0,
+          "t": "I don't have many talents, but I still have my muscle. If you need someone to unload goods or drive away sumpter beasts, I'm your man."
+        },
+        {
+          "s": 0,
+          "t": "I know there are a lot of bad apples in our ranks, but most are just trying to make a living. We're not that greedy by nature, and will do our best when given a job."
+        },
+        {
+          "s": 4,
+          "t": "How about this... why don't you try your luck with some of the folks over there?"
+        }
+      ],
+      "description": "You decide to help Kaveh convince the client to come to his side. However, it seems like the client's trying to hide something from you..."
+    },
+    {
+      "id": "q-19071",
+      "title": "A Whole New Style",
+      "dialogue": [
+        {
+          "s": 1,
+          "t": "Most materials going from Caravan Ribat to Aaru Village would pass through here."
+        },
+        {
+          "s": 1,
+          "t": "There are a lot of monsters out here today. Let's clear the area. If you find it hard to keep up, just let us know."
+        },
+        {
+          "s": 0,
+          "t": "Oh, don't worry about me, this is nothin'. I'll be careful though, and you should do the same."
+        },
+        {
+          "s": 0,
+          "t": "Phew... *grimace*..."
+        },
+        {
+          "sit": "Are you hurt?"
+        },
+        {
+          "s": 0,
+          "t": "I'm fine. Haha, I've spent my entire life fighting these kinds of monsters in the desert, after all. They won't get the best of me."
+        },
+        {
+          "s": 0,
+          "t": "But it's one thing to fight against monsters, and another to fight against an old injury... Ugh, it's something I picked up when I was young. There were many fights between mercenary brigades back then, and one day, someone stabbed me in the back."
+        },
+        {
+          "s": 0,
+          "t": "I didn't think much of it back then, but with age it's caught up to me."
+        },
+        {
+          "s": 0,
+          "t": "Few mercenaries get to enjoy their later years. Failing health tends to take the joy out of reputation and wealth, and many mercenaries never even made much of the latter to begin with."
+        },
+        {
+          "s": 1,
+          "t": "Is there someone you know who can help to look after you?"
+        },
+        {
+          "s": 0,
+          "t": "Unfortunately, no. My wife passed away at an early age, and I don't have any children."
+        },
+        {
+          "s": 0,
+          "t": "Sometimes I'd close my eyes, and realize most of my life story has already been written. I have many regrets about my past, but at the same time, I also know that there were never many options for me in the first place."
+        },
+        {
+          "s": 0,
+          "t": "I joined the Eremites when I was young, and won many battles with them. My survival was more a matter of luck than actual ability."
+        },
+        {
+          "s": 0,
+          "t": "If at all possible, I want future children of the desert to have some more options in life. I don't want them to turn out like me."
+        },
+        {
+          "s": 0,
+          "t": "My apologies. The older we get, the more we tend to ramble. Seems like we've already cleared out most of the monsters. Let's hurry over to Aaru Village."
+        },
+        {
+          "sit": "Badawi walks into the distance as he talks. Kaveh is lost in thought as he observes the figure of the elderly man..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "What's on your mind?"
+        },
+        {
+          "s": 1,
+          "t": "I think it's really admirable of him to spend his whole life's savings on people he's never met."
+        },
+        {
+          "s": 1,
+          "t": "Maybe he's doing this out of the kindness of his heart, a kindness that hasn't been eroded away by the struggles of his life."
+        },
+        {
+          "sit": "Doesn't that also sound like you, Kaveh?"
+        },
+        {
+          "sit": "You're also that kind of person, which is why you're helping him."
+        },
+        {
+          "s": 1,
+          "t": "...Perhaps. To clarify, though, I don't think I'm quite the same..."
+        },
+        {
+          "s": 1,
+          "t": "Some people call me an idealist. Sure, I do have some \"idealist\" sentiments, such as wanting everyone to be able to lead a happy life."
+        },
+        {
+          "s": 1,
+          "t": "But my situation is... more complex than that. In the beginning, what drove me to harbor those thoughts was less \"idealism,\" and more a sense of guilt."
+        },
+        {
+          "s": 1,
+          "t": "When I was young, I encouraged my father on a whim to take part in the first Interdarshan Championship hosted by the Akademiya."
+        },
+        {
+          "s": 1,
+          "t": "He set off confidently hoping to win something for me, but failed to clinch the title. What's more, he fell into depression after the competition, and requested to join an investigative research project in the desert."
+        },
+        {
+          "s": 1,
+          "t": "I never saw him again. Word has it that he got caught in quicksand. Even if other factors may have contributed to his death, the fundamental cause still circles back to me."
+        },
+        {
+          "s": 1,
+          "t": "I started doing many things in life because I wanted to make amends. Even in cases where I couldn't do something for a specific person, I still did whatever I could. I think I just wanted... to make myself feel a little better."
+        },
+        {
+          "sit": "And is that still how you feel?"
+        },
+        {
+          "s": 1,
+          "t": "At this point, even I don't know."
+        },
+        {
+          "s": 1,
+          "t": "I've tried self-reflection, but it didn't help. I can't seem to walk away from many things that I see or hear about, even if they don't directly concern me, and I can't quite pinpoint the source of it."
+        },
+        {
+          "s": 1,
+          "t": "Maybe it's just like what those Vahumana scholars often say — it's hard for people to truly understand themselves."
+        },
+        {
+          "s": 1,
+          "t": "I could be doing things out of endless guilt, or I could be doing them out of a strong sense of empathy. It could even just be a matter of conceit. The potential motivations could number in the dozens, but the actions they result in are the same."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, I suppose I don't really mind being called an idealist. They also used that term to describe my father. It seemed to carry fewer connotations back when he was around."
+        },
+        {
+          "s": 1,
+          "t": "I've known Alhaitham for many years now, and discussed my ideology with him for nearly as long. Uh, maybe \"argued\" is a better word for it..."
+        },
+        {
+          "s": 1,
+          "t": "He told me a long time ago that no matter how strong of a swimmer you may be, you'll still get dragged under by the others who are drowning once you run out of stamina. He believes this is the fate that awaits all idealists."
+        },
+        {
+          "s": 1,
+          "t": "I still believe I should live by my ideals, and I've given him countless reasons why I think it's a good idea to do so. Perhaps my ideals are flawed, but are there really any perfect things in this world?"
+        },
+        {
+          "s": 1,
+          "t": "Unfortunately, he remains unconvinced. His personality is the exact opposite of my own. If someone happens to drown next to him, he'll most likely stand on the shore, and mumble something along the lines of \"respecting other people's fates.\""
+        },
+        {
+          "s": 1,
+          "t": "But as you can see, I'm not the only idealist in the world. Just as there are different seasons, there are also different people. There are many others who will continue to care about the fates of those who are not directly related to them."
+        },
+        {
+          "s": 1,
+          "t": "...And when I finally run out of stamina, someone will also reach out and bring me back to shore..."
+        },
+        {
+          "s": 1,
+          "t": "...Someone will help me, right? ...Yes, I've already been helped like that before."
+        },
+        {
+          "sit": "Should I have a life preserver at the ready?"
+        },
+        {
+          "sit": "I'll help you when the time comes."
+        },
+        {
+          "s": 1,
+          "t": "Oh please, it's not like we're actually talking about swimming! ...Also, just so you know, I actually took a swimming elective back in the day. Don't underestimate my skills."
+        },
+        {
+          "s": 1,
+          "t": "Haha, but you've helped me plenty already! If you didn't reach out to me, I would probably be passed out on the tavern table right now instead of talking with Badawi."
+        },
+        {
+          "s": 1,
+          "t": "Either way, I'm feeling much better than when you first found me at the tavern. I can feel inspiration already welling up inside of me... maybe this will be just the opportunity I needed to create a whole new style!"
+        },
+        {
+          "s": 1,
+          "t": "Alright, let's head to Aaru Village!"
+        },
+        {
+          "s": 1,
+          "t": "Now that we're here, it's my partner's time to shine. Mehrak!"
+        },
+        {
+          "s": 5,
+          "t": "Beep-boop!"
+        },
+        {
+          "s": 0,
+          "t": "What's this?"
+        },
+        {
+          "s": 1,
+          "t": "My toolbox. I built it using an ancient mechanical core. It's not too smart, but it's super useful, and can help me with a variety of tasks."
+        },
+        {
+          "s": 1,
+          "t": "I'll take Mehrak and find a suitable location for the building. Once that is done, I'll get to work on a few designs..."
+        },
+        {
+          "s": 6,
+          "t": "{NICKNAME}?"
+        },
+        {
+          "sit": "Setaria?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, you know each other?"
+        },
+        {
+          "s": 6,
+          "t": "Hello, I suppose you must be Kaveh from Kshahrewar. I've heard of you before. My name is Setaria, and I'm currently the person in charge of promoting educational assistance programs here in the desert."
+        },
+        {
+          "s": 1,
+          "t": "Educational assistance programs... Then you must be familiar with the local conditions here."
+        },
+        {
+          "s": 6,
+          "t": "I can't say I'm too familiar just yet, but if you have any questions, I'll try my best to answer them."
+        },
+        {
+          "s": 1,
+          "t": "I've been commissioned by Mr. Badawi to build a library in the desert. We've settled on the general design direction, but we are trying to finalize some details based on the conditions around the intended location."
+        },
+        {
+          "s": 6,
+          "t": "A library? Do you intend to open it to the public for free?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. I want to make sure the children will have books to read."
+        },
+        {
+          "s": 6,
+          "t": "That's fantastic, I'm sure the children will be thrilled. Right now, we don't have access to many paper books, or a quiet place to read. Truth be told, this very thing has been keeping me up at night."
+        },
+        {
+          "s": 1,
+          "t": "Let me get straight to my questions, then. Can you estimate the number of children around here who'd be interested in reading? Besides the usual noise of village pedestrians, are there any other sources of noise in the village?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, and have any landslides occurred here recently? And also, where are the spots around the village that have been most affected by wind and erosion?"
+        },
+        {
+          "sit": "Setaria considers Kaveh's questions and offers her answers..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "...Alright, that should be everything."
+        },
+        {
+          "s": 1,
+          "t": "Badawi, let's go over the budget again. We'll keep the building structure the same, but make the place a little bigger, so it'll be able to hold more people, and get better natural light."
+        },
+        {
+          "s": 1,
+          "t": "The parts of the project that'd cost the most will be the insulation and ventilation materials. I'm sure you understand, no one likes to read in a place that's hot and stuffy."
+        },
+        {
+          "s": 1,
+          "t": "I want to make significant changes to the arrangement of the bookshelves, tables and chairs. I'll go over the specifics of that shortly. I have two plans in mind — both are pretty minimalist in style, but will provide a very different ambiance from the world outside."
+        },
+        {
+          "s": 1,
+          "t": "Our final cost should be around seventy percent of the last figure I quoted. The whole thing should take around half a year to complete."
+        },
+        {
+          "s": 1,
+          "t": "Mehrak has produced a sketch for you all to see. If everyone's okay with it, then we'll proceed with that as the formal plan."
+        },
+        {
+          "sit": "You've got a new design plan already?"
+        },
+        {
+          "s": 1,
+          "t": "The inspiration just came to me naturally, all I did was put the thoughts to paper."
+        },
+        {
+          "s": 1,
+          "t": "I must give you credit, though, if it weren't for your advice and suggestions, I probably wouldn't have landed on this new style so quickly."
+        },
+        {
+          "s": 1,
+          "t": "According to the traditions of my profession, I should probably name this style after you. Let's call it the \"{NICKNAME} Style.\""
+        },
+        {
+          "s": 1,
+          "t": "In the meantime, let's look forward to the day when this building is completed and can finally open its doors."
+        }
+      ],
+      "description": "After hearing about the client's budget problems, Kaveh decides to adopt a more cost-effective and simplistic style."
+    },
+    {
+      "id": "q-19072",
+      "title": "Wealthy Merchant",
+      "dialogue": [
+        {
+          "s": 7,
+          "t": "Ohoho, now here are some unexpected guests. What brings you to the Palace of Alcazarzaray?"
+        },
+        {
+          "s": 7,
+          "t": "When I saw Kaveh, I almost thought it must be that time of month again. Sadly for me, I must wait a few more days before I can collect my shiny Mora..."
+        },
+        {
+          "s": 1,
+          "t": "Hey, can't you think of something else for a change? You are literally living in an objet d'art, and yet your mind is still fixated on nothing but Mora?"
+        },
+        {
+          "s": 1,
+          "t": "What is the point of wealth, anyway? Is your happiness entirely dependent on your hoard of cold, emotionless Mora?"
+        },
+        {
+          "s": 7,
+          "t": "That's exactly right! Mora is extremely valuable, you see. If you don't keep your mind on it, your Mora may just find its way to somebody else's pockets!"
+        },
+        {
+          "s": 7,
+          "t": "If you ask me, this place is still way too empty. Just give me some time, and I'll fill it to the brim with lots and lots of Mora!"
+        },
+        {
+          "s": 1,
+          "t": "You're hopeless..."
+        },
+        {
+          "sit": "Let's get back to why we're here."
+        },
+        {
+          "s": 7,
+          "t": "Ooh? So you have an actual reason to visit me? Alright, let's hear it."
+        },
+        {
+          "sit": "We would like to ask for your help in introducing us to some merchants."
+        },
+        {
+          "s": 7,
+          "t": "Merchants? Why? Is there some kind of business opportunity?"
+        },
+        {
+          "sit": "You describe the library construction project to Dori..."
+        },
+        {
+          "s": 7,
+          "t": "Oh, I see. So you're just looking for someone to help you foot the bill..."
+        },
+        {
+          "s": 1,
+          "t": "Ugh, I knew you wouldn't be interested in something like this. Still, you wouldn't refuse just making some introductions for us, would you?"
+        },
+        {
+          "s": 7,
+          "t": "Sure, I can connect you with some folks. But with every service comes a fee, you know!"
+        },
+        {
+          "s": 1,
+          "t": "A fee? You mean just for introductions!?"
+        },
+        {
+          "s": 7,
+          "t": "Of course! Making introductions means using my connections and putting my reputation on the line. Why wouldn't I charge a fee for something so important!"
+        },
+        {
+          "s": 7,
+          "t": "Since we've known each other for so long, though, I'll give you a huge returning customer discount. Hmm... how about five hundred thousand Mora?"
+        },
+        {
+          "s": 1,
+          "t": "Five hundred thousand... *sigh* I guess that's okay. But why are you charging a fee before we've even secured any funding? That just doesn't seem right."
+        },
+        {
+          "s": 1,
+          "t": "Besides, by helping us out, you'd be doing a great service to the public! Can't you take your mind off your Mora even for just one second, and focus on something far more important?"
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "*sigh* Very well. Since you're so passionate about this project, I'll help you out and waive the introduction fees."
+        },
+        {
+          "s": 7,
+          "t": "Three of my business partners came by earlier today to discuss some things with me, and they still haven't left yet. I'll arrange a meeting for you. Just so we're clear, it'll be up to you to present your project and discuss any deals!"
+        },
+        {
+          "sit": "Thank you."
+        },
+        {
+          "s": 1,
+          "t": "Th—Thank you so much."
+        },
+        {
+          "s": 7,
+          "t": "You can wait here. I'll bring them over to you."
+        },
+        {
+          "s": 8,
+          "t": "Dori gave us a brief introduction about the two of you. You are Kaveh, the renowned architect. And you are the Traveler, practically all of Teyvat has heard of you by now."
+        },
+        {
+          "s": 8,
+          "t": "To be frank, I don't feel like there's an obvious business opportunity here. But, since Dori took the time to introduce you, we can spend some time to have a conversation. So, let's hear your idea."
+        },
+        {
+          "s": 1,
+          "t": "Alright, here's the situation. I've been commissioned to build a library in the desert, with the intended goal of allowing the desert-dwellers to have more access to reading materials."
+        },
+        {
+          "s": 9,
+          "t": "So it's a public welfare project?"
+        },
+        {
+          "s": 1,
+          "t": "Correct."
+        },
+        {
+          "s": 10,
+          "t": "Hmm, then the commission fees will likely be very low. You should be careful."
+        },
+        {
+          "s": 1,
+          "t": "I'm not too concerned about how much I'll get for the commission fees, actually. I'm fine with doing it for free. I just want to get this project rolling as soon as possible... we're just a little short on funding."
+        },
+        {
+          "s": 8,
+          "t": "So what? You can't possibly expect that we'd just cover the shortfall for you?"
+        },
+        {
+          "s": 8,
+          "t": "Besides, what does a library in the desert have to do with us? If you want to build it, build it yourself with your own Mora. Seems simple enough to me..."
+        },
+        {
+          "s": 9,
+          "t": "Hey, there's no need to be so harsh. They are Dori's associates, after all. Here, can you tell us a bit more about what we can gain from sponsoring this project?"
+        },
+        {
+          "sit": "You can get the naming rights to the library."
+        },
+        {
+          "sit": "You can get Kaveh's client to advertise your businesses in the desert."
+        },
+        {
+          "s": 9,
+          "t": "Hmm... So we'd mostly be doing it for reputation and exposure? There is some value to that — it could make doing business in the desert a bit easier."
+        },
+        {
+          "s": 8,
+          "t": "Well, just speaking for myself, I've got nothing in the desert."
+        },
+        {
+          "s": 10,
+          "t": "I also have a concern... It feels like there's not much to profit from in the short term, but in the long term, the reputation gain also doesn't sound like it'd offset the cost of the sponsorship."
+        },
+        {
+          "s": 1,
+          "t": "Then how about this: what if instead of building a single library, we commit to an entire complex of buildings dedicated to culture and education?"
+        },
+        {
+          "s": 8,
+          "t": "Wouldn't that just cost more?"
+        },
+        {
+          "s": 9,
+          "t": "Yes, but in that case... Mr. Kaveh, please tell us what you have in mind."
+        },
+        {
+          "s": 1,
+          "t": "I'll just give an example. If we were to build a library and a school near Aaru Village, then the desert dwellers would gradually begin to migrate towards the area."
+        },
+        {
+          "s": 1,
+          "t": "A whole suite of buildings will be able to host more traffic, and thus drive the economic development of the entire area. In turn, that would lead to direct business opportunities."
+        },
+        {
+          "s": 1,
+          "t": "I've been to the desert several times. Although there are still many lingering tensions between the two regions, the amount of interaction has been steadily increasing, and in the long term, the desert will only become more and more important to Sumeru."
+        },
+        {
+          "s": 9,
+          "t": "Hmm, you do have a point."
+        },
+        {
+          "s": 10,
+          "t": "Education in the desert is indeed an industry that has not been tapped into. If we can be the first to place stakes in the area..."
+        },
+        {
+          "s": 8,
+          "t": "Hmph, and you'd just believe anything he tells you?"
+        },
+        {
+          "s": 1,
+          "t": "Even the greenest amateurs know that urban planning will affect population flow. If you don't believe me, you can ask anyone on the street to confirm it to you."
+        },
+        {
+          "s": 8,
+          "t": "You..."
+        },
+        {
+          "sit": "You don't seem to think about your questions very thoroughly before speaking."
+        },
+        {
+          "s": 1,
+          "t": "Hey, why are you starting to sound like Alhaitham?"
+        },
+        {
+          "sit": "Please only ask questions that are relevant to the discussion."
+        },
+        {
+          "s": 9,
+          "t": "Wait, something just occurred to me. If we're going to build a library in the desert, Aaru Village would obviously be the best place for it..."
+        },
+        {
+          "s": 9,
+          "t": "But it seems we're not the only ones with our eyes on the village. I heard a rumor a while back saying a lot of land and buildings in Aaru Village have already been secretly purchased by a big name merchant."
+        },
+        {
+          "s": 10,
+          "t": "What?"
+        },
+        {
+          "s": 1,
+          "t": "What?"
+        },
+        {
+          "s": 9,
+          "t": "In other words... if we try to join the fray now, there won't be much left for us."
+        },
+        {
+          "s": 9,
+          "t": "If we want to build a suite of buildings focused on education and culture, Aaru Village is the prime location. If we want to build it anywhere else, we'll have to deal with a far larger list of problems. It's not impossible, I suppose, but..."
+        },
+        {
+          "s": 10,
+          "t": "Then there's no hurry. We can wait for Aaru Village to develop more first, and get into the market for expansion to other areas."
+        },
+        {
+          "s": 1,
+          "t": "Uh... But if you were to do that..."
+        },
+        {
+          "s": 8,
+          "t": "Is there nothing else to discuss? Great timing — I've pretty much heard all I want to hear. If there are no other urgent matters, I'll be on my way."
+        },
+        {
+          "s": 10,
+          "t": "I'll be off as well. If you have any new ideas, please feel free to reach out."
+        },
+        {
+          "s": 9,
+          "t": "It seems like the others are not interested in funding this, so no point in me doing this on my own. Let's revisit this another time."
+        },
+        {
+          "s": 1,
+          "t": "Hey, guys—wait! ...Ugh."
+        },
+        {
+          "s": 1,
+          "t": "Well, what can I say... I guess it went somewhat as expected. They are Dori's friends, after all. As soon as they heard that there's not much Mora in this for them, they lost all interest."
+        },
+        {
+          "sit": "That's just business, I guess."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, it's just another day doing business with people, but I can never get used to that... Those people never think of anyone other than themselves."
+        },
+        {
+          "s": 1,
+          "t": "Looks like we'll have to figure out some other way to get the funding... let's go."
+        },
+        {
+          "s": 7,
+          "t": "How did the meeting go? Want to talk about it?"
+        }
+      ],
+      "description": "After hearing about the client's budget problems, Kaveh decides to solicit some rich merchants for a potential sponsorship."
+    },
+    {
+      "id": "q-19074",
+      "title": "The Price of a Wish",
+      "dialogue": [
+        {
+          "s": 7,
+          "t": "Oh, where did all that passion go from earlier, hmm? I take it you weren't able to find a sponsor for your project?"
+        },
+        {
+          "s": 1,
+          "t": "Please don't tell me that you're here to mock us."
+        },
+        {
+          "s": 7,
+          "t": "Hmph, what kind of person do you take me for? Would the kind and generous Lord Sangemah Bay really do such a thing? I will say though, I more or less expected this outcome even before I introduced them to you."
+        },
+        {
+          "s": 7,
+          "t": "You can try to talk up the project all you want, but the facts will remain the same. This project is high-investment with slow-returns. No sane person would put their money into this."
+        },
+        {
+          "s": 1,
+          "t": "But this isn't just a business project, right?"
+        },
+        {
+          "s": 1,
+          "t": "Also, if you already knew no one would want to partner with us, why did you still try to charge me five hundred thousand Mora? You scammer!"
+        },
+        {
+          "s": 7,
+          "t": "Ahem. You might want to remember who your creditor is before you start talking like that, Kaveh."
+        },
+        {
+          "s": 1,
+          "t": "I'll pay back every last coin that I still owe you, but that's a completely different matter."
+        },
+        {
+          "s": 7,
+          "t": "Alright, since you're so devastated about this, I'll set you up for dinner with another big name merchant."
+        },
+        {
+          "s": 7,
+          "t": "In fact, I'll be inviting the most famous merchant in all of Sumeru, so I'll be counting on your performance!"
+        },
+        {
+          "s": 1,
+          "t": "What? Really?"
+        },
+        {
+          "s": 1,
+          "t": "I... I would like to sincerely apologize for my attitude just now."
+        },
+        {
+          "s": 1,
+          "t": "So, where would we be meeting this merchant?"
+        },
+        {
+          "s": 7,
+          "t": "Follow me! Oh, I suppose both of you can come."
+        },
+        {
+          "s": 7,
+          "t": "This is the place."
+        },
+        {
+          "s": 1,
+          "t": "You said you're going to introduce us to the most famous merchant in Sumeru... Well, where are they?"
+        },
+        {
+          "s": 7,
+          "t": "You still don't get it, huh? The most famous merchant in Sumeru—"
+        },
+        {
+          "sit": "Is Lord Sangemah Bay?"
+        },
+        {
+          "s": 1,
+          "t": "Huh!? So you meant yourself all along? Then why did you bring us here?"
+        },
+        {
+          "s": 7,
+          "t": "Well, I've given it some thought, and that complex of education and culture buildings that you mentioned does hold some promise."
+        },
+        {
+          "s": 7,
+          "t": "It will be a pretty big Mora sink, and I'll have to fund it all on my own, but that's not really a problem for me."
+        },
+        {
+          "s": 1,
+          "t": "Seriously?"
+        },
+        {
+          "s": 1,
+          "t": "Where's this generosity coming from so suddenly? Are you trying to scam me again?"
+        },
+        {
+          "s": 7,
+          "t": "The reasons are not important. What's important is that I'm willing to help you."
+        },
+        {
+          "s": 7,
+          "t": "However, you know just as well as me that once this project actually breaks ground, it'll start sucking Mora from my pockets like crazy. So to cut costs... hmm..."
+        },
+        {
+          "s": 1,
+          "t": "I get it, I get it. I won't charge any commission fees, and I'll take responsibility for the entire project."
+        },
+        {
+          "s": 7,
+          "t": "Splendid! Then let's sign the contract right away."
+        },
+        {
+          "sit": "Dori prepares two contracts. After a brief read, Kaveh signs them at record speed."
+        },
+        {
+          "s": 1,
+          "t": "Phew... This way, the children of the desert will have some books to read. Their lives should improve a bit after this."
+        },
+        {
+          "sit": "You seem rather pleased."
+        },
+        {
+          "s": 1,
+          "t": "Of course. There are few things better than using my knowledge to help other people change their fates."
+        },
+        {
+          "s": 1,
+          "t": "I must thank you as well, Dori. I used to say you only cared about Mora, which might have been some prejudice on my part. Sorry for that. I will also try to pay back my debts as soon as possible."
+        },
+        {
+          "s": 1,
+          "t": "Now, let's have a quick discussion. Where would you want the library to be built? That will be the most important building."
+        },
+        {
+          "s": 7,
+          "t": "Hehe, there's no rush! I'll provide you with a copy of the deed when we get back. You can just use the address on the document to find the lot."
+        },
+        {
+          "s": 1,
+          "t": "Huh... the deed?"
+        },
+        {
+          "sit": "You don't mean..."
+        },
+        {
+          "s": 1,
+          "t": "So hold on a sec... The person who has been buying up everything around Aaru Village was you all along!?"
+        },
+        {
+          "s": 7,
+          "t": "Oh my, did I not tell you about that? Yep, yours truly has been buying up all the land. I must thank you for bringing your ideas to me — before our conversation, I had no idea what to build on all those lots!"
+        },
+        {
+          "s": 7,
+          "t": "So from my perspective, this has been a great turn of events. I didn't put much in, and easily got a lot in return."
+        },
+        {
+          "s": 1,
+          "t": "But what about my commission fees!?"
+        },
+        {
+          "s": 7,
+          "t": "Huh, didn't you waive those yourself? I was just going to say that to cut costs, we mustn't procrastinate and should start construction as soon as possible."
+        },
+        {
+          "s": 7,
+          "t": "But before I could finish my sentence, you volunteered to waive your commission fees, and even promised to take responsibility for the whole project from start to finish. I am so touched, really!"
+        },
+        {
+          "s": 1,
+          "t": "It's obvious that you used every trick in the book to deceive me... You deliberately paused for a long time while talking about the project, and kept glancing at me with that menacing look in your eyes!"
+        },
+        {
+          "s": 7,
+          "t": "Huh, you really think so? Well, the contract's already been signed, so there's no point in dwelling on the details. You know what? I'll pay for tonight's dinner."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Fine, I'll drop the argument on the commission fees. But since you said you're paying for dinner..."
+        },
+        {
+          "s": 1,
+          "t": "I'm going to order the best dishes and booze this place has to offer, and lots of it. Tonight, we're feasting until I've recouped my full commission fees!"
+        }
+      ],
+      "description": "You were unable to secure a sponsorship deal, but Dori seems to have more to say..."
+    },
+    {
+      "id": "q-19075",
+      "title": "Past Mementos",
+      "dialogue": [
+        {
+          "s": 1,
+          "t": "Alhaitham isn't in, so feel free to sit wherever. I'll bring out the box."
+        },
+        {
+          "sit": "Kaveh brings out a box and dusts it off..."
+        },
+        {
+          "s": 1,
+          "t": "*sigh*"
+        },
+        {
+          "sit": "What's wrong?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, nothing. I just didn't realize how much time had passed. The box is pretty dusty, which means it's already been a while since I've moved into this place... and many years since my mother moved to Fontaine."
+        },
+        {
+          "s": 1,
+          "t": "I'm happy for her. I hope she'll be able to find happiness there. She raised me all by herself after my father passed away. It definitely wasn't easy for her."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, enough about that, let's see what I packed into this box. Uh, what are all these things..."
+        },
+        {
+          "sit": "Is that a... drawing?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, I remember now. This is a drawing I made in Port Ormos."
+        },
+        {
+          "s": 1,
+          "t": "Obviously, I wouldn't call it anything special now, but I was less than five years old when I made this drawing. That's more than twenty years ago... Heh, you could say it's pretty good for a child of that age."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, now that I've said that out loud, I suppose I do have some level of artistic talent, right?"
+        },
+        {
+          "sit": "Why do you say that?"
+        },
+        {
+          "sit": "You don't sound as confident as you used to be."
+        },
+        {
+          "s": 1,
+          "t": "Criticism and self-doubt have always been a part of the artistic process. Without criticism, there can be no improvement. It's normal for me to question my abilities from time to time."
+        },
+        {
+          "s": 1,
+          "t": "I admit that I may have spent a little too long questioning myself this time around, but as you know, the heart tends to dwell on whatever it pleases..."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Anyway, never mind... The more I talk about it, the less confident I feel. Let's see what else we have in the box."
+        },
+        {
+          "s": 1,
+          "t": "Ah, my building blocks... it's been years since I've last seen these. When I was a kid, I used to stack them super high, and could even stabilize the tower to keep it from tumbling over."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and this blueprint... Haha, I made it by copying my mother's sketch, and the aspect ratio was horrendous. It's still technically the first blueprint I made myself, though."
+        },
+        {
+          "s": 1,
+          "t": "I was super proud of myself when I finished it, and put it in the same pile as my mother's sketches, hoping she'd notice and compliment me for my good work."
+        },
+        {
+          "s": 1,
+          "t": "Unfortunately, my mother didn't realize that I had put it there. When she had a meeting with a client the next day, she handed my blueprint to him by mistake. The client was completely confused by this \"new\" blueprint, but apparently he felt too tongue-tied to question such a famous architect."
+        },
+        {
+          "s": 1,
+          "t": "It was only a few days later that he finally gathered up the courage to pay my mother a visit. He asked, \"the door in this blueprint is even taller than the roof... Is this supposed to be part of the design?\""
+        },
+        {
+          "sit": "And what happened after that?"
+        },
+        {
+          "s": 1,
+          "t": "My mother took me with her to personally apologize to the client several times."
+        },
+        {
+          "s": 1,
+          "t": "She didn't scold me about it in private, though. Instead, she went over all the steps required to draw a good blueprint, and was very patient throughout the whole process. I still remember it like it was yesterday."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... let's see, is there anything else left in this box? ...Huh, what was this again?"
+        },
+        {
+          "sit": "A notebook with a lock?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, this is my mother's notebook. She used to write and sketch in it all the time."
+        },
+        {
+          "s": 1,
+          "t": "When I was a child, I used to be super fascinated by this notebook, and always pestered my mother to let me read it. After asking her a few times, she told me that I could read it as long as I could guess the password."
+        },
+        {
+          "s": 1,
+          "t": "Huh, wonder why she didn't take this notebook with her... Did she leave it to me on purpose?"
+        },
+        {
+          "sit": "You could open it and take a look."
+        },
+        {
+          "s": 1,
+          "t": "Hah, if only I could... I never managed to guess the password."
+        },
+        {
+          "sit": "Even after all those years?"
+        },
+        {
+          "s": 1,
+          "t": "Hey, it's not a matter of time, it's a matter of inspiration! That's what we need to guess the password."
+        },
+        {
+          "s": 1,
+          "t": "Who knows, maybe this time, something will click in my head, and the answer will just present itself. Let me think, hmm... what could it be...?"
+        },
+        {
+          "sit": "Your name?"
+        },
+        {
+          "sit": "Your birthday?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, I could tell what you were thinking. Don't worry, I tried all the easy guesses a long time ago."
+        },
+        {
+          "s": 1,
+          "t": "I've tried my name, my father's name, my mother's name, my grandparents' names on both sides, and all of our birthdays... I've tried every name and number remotely related to my family."
+        },
+        {
+          "s": 1,
+          "t": "I've even tried stuff like \"LOVEYOUKAVEH,\" \"TAKECARE,\" and \"YOURSTRULY.\" I've tried every cheesy phrase and well wish in the book, but this lock has refused to budge."
+        },
+        {
+          "s": 1,
+          "t": "I wouldn't try that route again... I have a hunch that it won't be that simple. Also, if she really did use something like that, she'd never hear the end of it from the folks over at Haravatat if they ever found out."
+        },
+        {
+          "sit": "We can try asking some of her old acquaintances..."
+        },
+        {
+          "s": 1,
+          "t": "So we could find someone who was close to my mother, and see if they might know anything? Hmm, I see what you're saying... But who should we talk to for that?"
+        },
+        {
+          "s": 1,
+          "t": "My mother was never really the one to be social. My father was the one with more friends, but all of those connections were severed when he died."
+        },
+        {
+          "s": 1,
+          "t": "Let me think... Is there still someone at the Akademiya who would know my mother... Ah, actually, there is someone. Professor Zaha Hadi."
+        },
+        {
+          "sit": "Who is that?"
+        },
+        {
+          "s": 1,
+          "t": "Huh, you've really never heard of her? She's a famous Kshahrewar scholar, and leading expert in formal garden design. My mother studied under her as a student many years ago."
+        },
+        {
+          "s": 1,
+          "t": "Professor Zaha Hadi published many works during her career, so I was also able to learn a lot by studying her essays. If there's anyone who still remembers my mom, it'd be her."
+        },
+        {
+          "s": 1,
+          "t": "She's older now and is no longer teaching at the Akademiya. If I remember correctly, she spends most of her time around the Bimarstan area."
+        },
+        {
+          "s": 1,
+          "t": "Let's go take a look. We might run into her if we're lucky."
+        },
+        {
+          "s": 1,
+          "t": "...Yeah, you're right. Although I was hoping to find some words of wisdom from my mother, if I stop and think about it, her words may not be the advice that I need to hear right at this moment."
+        },
+        {
+          "s": 1,
+          "t": "Everyone's life journey is different. Traveler, you've visited many lands and met many people, so I'm sure you've run into situations where some advice wasn't exactly suitable for the situation at hand."
+        },
+        {
+          "s": 1,
+          "t": "Ah, I just got an idea, though. If I want to rekindle the creative passion that I had before, instead of trying to unlock an old notebook, why don't I take a walk around the parts of town that had changed my life?"
+        },
+        {
+          "s": 1,
+          "t": "What do you think?"
+        },
+        {
+          "sit": "Sounds good to me."
+        },
+        {
+          "s": 1,
+          "t": "I'm glad you agree. Then let's start by taking a quick stroll around the Akademiya."
+        }
+      ],
+      "description": "You accompany Kaveh back to his place, where he digs out a number of mementos from his childhood. Are there any interesting stories behind these simple objects?"
+    },
+    {
+      "id": "q-19076",
+      "title": "The First Ideal",
+      "dialogue": [
+        {
+          "s": 1,
+          "t": "Of all the places in the Akademiya, I remember this one most. When my studies got busy, I used to pull all-nighters here trying to finish my blueprints."
+        },
+        {
+          "s": 1,
+          "t": "Heh, who doesn't miss their time at the Akademiya? Life was a lot simpler then, and we all had far less troubles."
+        },
+        {
+          "s": 1,
+          "t": "I created many designs that I thought were beautiful in the House of Daena. I drew whatever came to mind, since I didn't have to care about budget constraints, or turning them into reality."
+        },
+        {
+          "sit": "Why did you like to draw in the House of Daena?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm, if I had to give a reason... It'd probably be because I like the ambiance here?"
+        },
+        {
+          "s": 1,
+          "t": "The Akademiya also had a rule that allowed scholars to annotate any physical books they came across. As a result, the books here are chock-full of scholars' wisdom across many generations."
+        },
+        {
+          "s": 1,
+          "t": "Alhaitham!? Why are you here?"
+        },
+        {
+          "s": 11,
+          "t": "The House of Daena is a public space. Anyone can come here, no?"
+        },
+        {
+          "s": 1,
+          "t": "But shouldn't you be at the records room at this hour? You're not here hoping to see me make a fool of myself, are you?"
+        },
+        {
+          "s": 11,
+          "t": "You think I would derive amusement from watching you fall into depression over your life's various troubles? If that's the case, then I suppose I must have been entertaining myself for years."
+        },
+        {
+          "s": 11,
+          "t": "I came here to pick up a few files. If your voice hadn't managed to get through my soundproof earpieces, I probably wouldn't have noticed you."
+        },
+        {
+          "s": 1,
+          "t": "Alright, alright, I admit I was probably overreacting just now."
+        },
+        {
+          "sit": "Well, want to continue the story?"
+        },
+        {
+          "sit": "I want to know what happened next."
+        },
+        {
+          "s": 1,
+          "t": "Uh, probably not when he's right here with us. As his senior, I shouldn't try to tarnish his reputation."
+        },
+        {
+          "s": 11,
+          "t": "There was nothing embarrassing or shameful about it."
+        },
+        {
+          "s": 11,
+          "t": "When I was still a student at the Akademiya, I once collaborated with Kaveh on a research project. A collaboration is usually beneficial for all parties, but due to issues with our personalities, we ended up going our separate ways before completing the project."
+        },
+        {
+          "s": 11,
+          "t": "We had a number of differences, and they remain unresolved even today, but there's no point going into that right now."
+        },
+        {
+          "s": 11,
+          "t": "The more important question is why are you at the House of Daena?"
+        },
+        {
+          "sit": "Kaveh's feeling a little..."
+        },
+        {
+          "s": 1,
+          "t": "Ahem! As a senior scholar, isn't it my responsibility to offer my friend a quick tour and explanation of the Akademiya's architecture?"
+        },
+        {
+          "s": 11,
+          "t": "I see, then let me guess, your next stop will be the pavilions around Razan Garden? Our famed architect sure loves showing off that corner to all his friends."
+        },
+        {
+          "s": 11,
+          "t": "Oh, and Kaveh, a lot of the books you annotated have been moved to the innermost section of that bookshelf over there. You'll have to dig them out yourself if you need to find them."
+        },
+        {
+          "s": 1,
+          "t": "Huh? But why would you know that? Don't tell me you've finally had an epiphany, and realized that there's great virtue in respecting your elders' work..."
+        },
+        {
+          "s": 11,
+          "t": "Sure, if that will give you some self-confidence."
+        },
+        {
+          "s": 11,
+          "t": "Leave any words of thanks you may have to the ex-Grand Conservator. The last time he was here, he was complaining that he had received reports from current students — the main grievance being that \"the annotations are too long and difficult to read.\""
+        },
+        {
+          "s": 11,
+          "t": "As a result, the books you annotated have been moved to the back shelves."
+        },
+        {
+          "s": 1,
+          "t": "What!? But all of my annotations were extremely important... Instead of reporting me, they should have been thanking me for my service! The notes that I took... They couldn't have asked for a better analysis of those books!"
+        },
+        {
+          "s": 1,
+          "t": "Okay, just you wait, I'm going to fix this right now. I'll dig all the books out, and return them to the proper shelves!"
+        },
+        {
+          "s": 11,
+          "t": "Heh. Oh, we'll wait."
+        },
+        {
+          "sit": "Waiting is about all we can do..."
+        },
+        {
+          "s": 11,
+          "t": "Anyway, you were about to say he's feeling a bit down?"
+        },
+        {
+          "sit": "He was put through the wringer recently by a particularly difficult client."
+        },
+        {
+          "s": 11,
+          "t": "\"Put through the wringer\" — what an interesting phrase. I assume he used those exact words himself."
+        },
+        {
+          "sit": "It doesn't seem far from the truth, though."
+        },
+        {
+          "s": 11,
+          "t": "He probably did suffer quite a bit, that's true. He always spends a lot of time editing his proposals, with the goal of satisfying as many of the client's preferences as possible."
+        },
+        {
+          "s": 11,
+          "t": "But the satisfaction of one client will not translate to general satisfaction with his work. Many problems in life can only be solved by a fundamental change of attitude. As the leading genius of Kshahrewar, Kaveh should have both the right and the confidence to reject any unreasonable demands."
+        },
+        {
+          "s": 11,
+          "t": "There are plenty of architects in Sumeru who are inferior to him in skill, yet far more irascible in temperament. What's more, there are plenty of people who look up to such individuals as paragons of \"staying true to one's principles.\""
+        },
+        {
+          "sit": "So, the problem is with Kaveh...?"
+        },
+        {
+          "s": 11,
+          "t": "Clearly, his predicament is inevitable, since he holds other people's feelings as more important than his own."
+        },
+        {
+          "s": 11,
+          "t": "Of course, each person is different, and we should respect the paths that they have chosen for themselves."
+        },
+        {
+          "s": 11,
+          "t": "Admonitions will serve no purpose. People tend to succumb to familiar pitfalls, and this is especially true for those who believe it's their duty to carry more burdens on their shoulders."
+        },
+        {
+          "s": 1,
+          "t": "Looks like you were having an enjoyable chat while I was gone. Were you talking about me by any chance?"
+        },
+        {
+          "s": 11,
+          "t": "What do you think?"
+        },
+        {
+          "s": 1,
+          "t": "Hmph, what else is there to talk about? Surely, no one would be interested in talking about the files that you were browsing through earlier."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, you should take a look at this! Look at this comment on page eighty-two: \"Dear Kaveh, thank you so much for annotating this book in such detail. It was a great help to me!\""
+        },
+        {
+          "s": 1,
+          "t": "See that? Now that's how a student should treat their seniors!"
+        },
+        {
+          "s": 11,
+          "t": "And it looks like you're already in a much better mood now. It really doesn't take much to make you happy, huh."
+        },
+        {
+          "s": 1,
+          "t": "Me? Happy? I'm mocking that retired blockhead for being so full of himself! He understands nothing about the true beauty of architecture! When I can find some time, I'll have a serious talk with him about making sure these books are put where they belong."
+        },
+        {
+          "s": 11,
+          "t": "Why don't you just move all the books yourself? It's not like he hasn't cursed you out before. What was that nickname he gave you while you were in the Akademiya? \"The Urchin of Kshahrewar\"?"
+        },
+        {
+          "sit": "Wait, what?"
+        },
+        {
+          "s": 11,
+          "t": "Kaveh had a habit of scribbling and writing in all kinds of books."
+        },
+        {
+          "s": 1,
+          "t": "Hey...! You didn't need to bring that up! At least not when I'm still standing here!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, actually, I also found a really old sketch in one of the books over there. See? Doesn't it remind you of something?"
+        },
+        {
+          "sit": "An arch bridge?"
+        },
+        {
+          "sit": "I don't really get it..."
+        },
+        {
+          "s": 11,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Don't tell me even you don't get it."
+        },
+        {
+          "s": 11,
+          "t": "Hmm? Don't ask me. This is the time you specifically put aside to brag about yourself. Feel free to hoard all the spotlight you want."
+        },
+        {
+          "s": 1,
+          "t": "You... Ahem, in that case, allow me to explain. Although this sketch is a little abstract, you can plainly see from the road plans that this was an original concept for the expansion of Port Ormos."
+        },
+        {
+          "s": 11,
+          "t": "We can also plainly see that the designer was a huge fan of this project. It's the project he loves to talk about the most, second to the Palace of Alcazarzaray."
+        },
+        {
+          "s": 1,
+          "t": "If I don't keep bringing up the neat projects that I've done, how would anyone know that I was the one who did them in the first place?"
+        },
+        {
+          "s": 1,
+          "t": "There shouldn't be any complaints about Port Ormos... If I remember correctly, the construction process was very smooth, everything was made ready ahead of time, and there were very few safety concerns."
+        },
+        {
+          "s": 11,
+          "t": "There are indeed no records of any complaints about this project. A most impressive achievement."
+        },
+        {
+          "s": 1,
+          "t": "See? What did I tell you?"
+        },
+        {
+          "s": 1,
+          "t": "C'mon, let's take a stroll through Port Ormos next! I'll tell you all about the designs I made for the place!"
+        },
+        {
+          "sit": "Are you going to come too, Alhaitham?"
+        },
+        {
+          "s": 11,
+          "t": "No need. It's almost time to clock out for the day, and I don't intend on bringing any unfinished work home."
+        },
+        {
+          "s": 1,
+          "t": "Hmph, suit yourself, it's not like you know how to appreciate artistry anyway. Let's go, {NICKNAME}. I'll take you to Port Ormos."
+        },
+        {
+          "s": 1,
+          "t": "Port Ormos..."
+        },
+        {
+          "sit": "Did you design one of the buildings here?"
+        },
+        {
+          "s": 1,
+          "t": "No, I didn't design any one specific building. Most of my work here concerned structural renovation."
+        },
+        {
+          "s": 1,
+          "t": "Port Ormos had already existed since I was still a young child. It wasn't as large as it is now, though — it only came to its current size after a sizable expansion. I was part of that project."
+        },
+        {
+          "s": 1,
+          "t": "The arch bridge over there, for example... That was one of my designs."
+        },
+        {
+          "sit": "How did you come up with the idea for it?"
+        },
+        {
+          "s": 1,
+          "t": "When I was first tasked with the project, I decided to reference the growth patterns of nearby trees to split Port Ormos into two levels. My goal was to improve the overall utilization of space."
+        },
+        {
+          "s": 1,
+          "t": "We ran into a lot of issues during construction, but thankfully, we were still able to achieve the original vision."
+        },
+        {
+          "s": 1,
+          "t": "Residents can now behold all the ships entering and leaving the harbor from the vantage point of the bridge, while visitors can recognize the sight of Port Ormos from a long ways away."
+        },
+        {
+          "s": 1,
+          "t": "I was still young and new to the trade back then... I could hardly believe that an idea in my head had become reality, and remain in the world for many years to come."
+        },
+        {
+          "s": 1,
+          "t": "The true cornerstone of the creative process... The point about the design that will be ultimately used to judge its true worth. It was the first time that it became crystal clear in my mind."
+        },
+        {
+          "s": 1,
+          "t": "Once built, a building will continue to stand. Countless people will see it, and countless more will step inside it. Its final worth — whether it's \"good\" or \"bad\" — will be assessed by the countless generations of people that interact with the building during their lives."
+        },
+        {
+          "s": 1,
+          "t": "You think so? I'm glad to hear that. But even with this project, I still had one small regret."
+        },
+        {
+          "s": 1,
+          "t": "My budget was tight, and I was unable to use the higher-quality timber I had originally intended for the design. I knew that some concessions on aesthetics would be needed because I agreed to a proposal that prioritized the practical functions of the project."
+        },
+        {
+          "s": 1,
+          "t": "Us creative types know better than anyone that most projects cannot be completed without a few regrets. Even the Palace of Alcazarzaray is not perfect."
+        },
+        {
+          "sit": "But having no regrets would also mean you had no higher hopes for the future."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, you're right... I should learn to look toward future opportunities, and believe that any regrets I have can be overcome in time."
+        },
+        {
+          "s": 1,
+          "t": "We've spent long enough here. There's still one last place I want to go, but it's a little far... Would you be interested in a quick trip to the desert?"
+        },
+        {
+          "sit": "I wouldn't mind."
+        },
+        {
+          "s": 1,
+          "t": "Great. Most of my projects over the last few years have had something to do with the desert, partially because there's a special place there that I often visit."
+        },
+        {
+          "s": 1,
+          "t": "This is a rare opportunity, so why don't you come along and see it for yourself?"
+        },
+        {
+          "s": 1,
+          "t": "If you ever feel down, maybe you'll be able to go there and feel better, too."
+        },
+        {
+          "s": 1,
+          "t": "Who would have thought that so many Primal Constructs could have congregated here while I was gone..."
+        },
+        {
+          "s": 1,
+          "t": "We won't be able to sit and talk peacefully with these guys around. Let's clear the area."
+        },
+        {
+          "s": 1,
+          "t": "Isn't this place great? I often come here to clear my mind when I'm dealing with a difficult situation."
+        },
+        {
+          "s": 1,
+          "t": "You know what I mean... everyone finds themselves in frustrating situations once in a while."
+        },
+        {
+          "s": 1,
+          "t": "Just take me as an example. My family life got shaken up quite a bit when I was young, I struggled in school, and I got into a huge pile of debt building the Palace of Alcazarzaray..."
+        },
+        {
+          "s": 1,
+          "t": "Although Alhaitham thinks that it's because of my personality that I continue to live in the shadow of the past, I think it's also just a part of life... Plus, if I look back, I've honestly had my fair share of good luck as well."
+        },
+        {
+          "s": 1,
+          "t": "You could probably say I've followed in the path of my mother. Like her, I've gained a name for myself as an architect, built something that's seen as my magnum opus, and found many projects that others have entrusted to me to finish."
+        },
+        {
+          "sit": "You also haven't completely lost your passion for life."
+        },
+        {
+          "s": 1,
+          "t": "Life is too boring when you live with no enthusiasm and passion. Only those who believe in the inherent meaning of it can capture the small nuances of everyday life, and turn them into inspiration for beautiful designs."
+        },
+        {
+          "s": 1,
+          "t": "Of course, I will concede that loving something also means taking it to heart, so to an extent, caring is also a source of pain. If I didn't love my work, I wouldn't be so torn up about it all the time."
+        },
+        {
+          "s": 1,
+          "t": "...But still, isn't this place beautiful? Despite the erosion from the winds and changing seasons, you can still perceive its past beauty and glory."
+        },
+        {
+          "s": 1,
+          "t": "With different landforms come different architectural styles. The desert's history has left it with few records regarding its buildings, so I often visit the desert to investigate things in person."
+        },
+        {
+          "s": 1,
+          "t": "The sight here has moved me ever since the first time I laid my eyes on it. I told myself that one day, I would also be able to create buildings that move others."
+        },
+        {
+          "s": 1,
+          "t": "My pain will one day fade into nothing just as I reach the end of my life, but buildings are different."
+        },
+        {
+          "s": 1,
+          "t": "They are far more valuable than most materialistic things, and far more durable than human flesh. As long as there remain souls in the world who can decipher the meaning behind them, they will also have acknowledged me across the vast stream of time."
+        },
+        {
+          "s": 1,
+          "t": "If you were to ask me what art is, that would be my answer."
+        },
+        {
+          "sit": "Now that's more like the Kaveh I know."
+        },
+        {
+          "s": 1,
+          "t": "You think so? But I feel I've always been like this."
+        },
+        {
+          "s": 1,
+          "t": "Remember that question I brought up before? The one about whether I should see art as a divine gift of inspiration from the gods, or as a product of my own existential struggle?"
+        },
+        {
+          "s": 1,
+          "t": "I still haven't found an answer to that yet, but if art wasn't inherently paradoxical and enigmatic, then people probably wouldn't be drawn to it."
+        },
+        {
+          "s": 1,
+          "t": "Those who pursue art will be unable to avoid the pain that it naturally brings. We'll often be floating on cloud nine one second, and sinking in a mire the next."
+        },
+        {
+          "s": 1,
+          "t": "I'll try gathering my thoughts again once I've found a way to define art in the first place."
+        },
+        {
+          "s": 1,
+          "t": "In any case, thank you so much for listening to everything I had to say."
+        },
+        {
+          "s": 12,
+          "t": "(Upon opening the book, you are greeted by a series of beautiful illustrations.)"
+        },
+        {
+          "s": 13,
+          "t": "(Next to the lovely images are some notes in equally gorgeous handwriting. The commentary is extremely thorough, and appears to be even more professional than the book's original contents.)"
+        },
+        {
+          "s": 14,
+          "t": "(A brand-new volume. Seems like very few people have been interested in reading it.)"
+        },
+        {
+          "s": 1,
+          "t": "Here, this is a great example. This book, \"History of Ancient Sumeru Architecture,\" contains some analysis that I did many years ago."
+        },
+        {
+          "s": 1,
+          "t": "Ah, I guess it's probably from when we worked on that research project together. Anyway, he probably never cared to tell you this, but the House of Daena is where Alhaitham and I first met."
+        },
+        {
+          "s": 1,
+          "t": "It was my fault for feeling bad for him. I thought he must have gotten into some kind of trouble, and went over to ask if he needed anything, not realizing that—"
+        },
+        {
+          "s": 11,
+          "t": "Not realizing that you were in fact the one in a whole heap of trouble?"
+        }
+      ],
+      "description": "Kaveh decides to put aside his mother's notebook for now. You agree to take a walk around with him."
+    },
+    {
+      "id": "q-19077",
+      "title": "Wondrous Times",
+      "dialogue": [
+        {
+          "s": 15,
+          "t": "Hmm, what am I supposed to do now... Forget it, I'll just head back."
+        },
+        {
+          "s": 1,
+          "t": "Tighnari? What are you doing here?"
+        },
+        {
+          "s": 15,
+          "t": "Oh, it's you! Good to finally see you again."
+        },
+        {
+          "s": 15,
+          "t": "I came into the city to buy some experiment reagents, hoping to bring them back with me to Gandharva Ville."
+        },
+        {
+          "s": 15,
+          "t": "But as soon as I got here, I noticed someone banging on Cyrus' door. You've all heard of Cyrus, right? He's an ex-sage and Cyno's adoptive father."
+        },
+        {
+          "s": 15,
+          "t": "I was thinking about going over to ask what's happening. That granny over there may appear old and frail, but her vocal cords certainly sound loud and healthy as ever."
+        },
+        {
+          "s": 1,
+          "t": "...Granny?"
+        },
+        {
+          "s": 15,
+          "t": "Yeah, she's just over there. You can go check out the situation yourselves in a moment."
+        },
+        {
+          "s": 15,
+          "t": "*sniff* Kaveh, were you at the tavern?"
+        },
+        {
+          "s": 1,
+          "t": "I had a quick drink or two. Can you still smell the alcohol?"
+        },
+        {
+          "s": 15,
+          "t": "Drinking in broad daylight... Really? You want to pass out by the road and get run over by a Sumpter Beast like some mindless Fungus? Huh?"
+        },
+        {
+          "s": 15,
+          "t": "And you, {NICKNAME}. You didn't try to stop him?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... I..."
+        },
+        {
+          "s": 15,
+          "t": "You look like a wreck, Kaveh. What happened? Are you feeling down again?"
+        },
+        {
+          "s": 15,
+          "t": "You know what, I'm hosting a meal at Pardis Dhyai tomorrow evening. Do you want to come?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Oh, I had no idea... Let me think for a moment. Uh, I'll come if I can find some time."
+        },
+        {
+          "s": 15,
+          "t": "Alright, then I'll plan on reserving two seats for you."
+        },
+        {
+          "s": 15,
+          "t": "I'll be heading back to Gandharva Ville for now. I have a feeling that argument over there is gonna continue for quite some time. It might be best if we don't get involved."
+        },
+        {
+          "s": 1,
+          "t": "A granny who lives nearby... Let's go take a look."
+        },
+        {
+          "s": 16,
+          "t": "Hah, so plan on keeping yourself locked in there, huh? Fine by me, if you're not going to come out, then I'm not going to leave!"
+        },
+        {
+          "s": 16,
+          "t": "My tomato was growing so well — it had all the potential to become the best tomato this year... And you cut it straight from the vine!?"
+        },
+        {
+          "s": 17,
+          "t": "I already told you, I had nothing to do with it! Why would I take a tomato that's still weeks from ripening?"
+        },
+        {
+          "s": 17,
+          "t": "You'd have to be awfully \"green\" as an investigator to think it was me."
+        },
+        {
+          "s": 16,
+          "t": "..."
+        },
+        {
+          "s": 17,
+          "t": "You see, the word \"green\" here could refer both to the color of the tomato, and the fact that your skills could use some—"
+        },
+        {
+          "s": 16,
+          "t": "Enough nonsense. Just come out and face me, you coward!"
+        },
+        {
+          "s": 17,
+          "t": "You're out of your mind. If I've actually done something wrong, then get a matra and pull me out by force, why don't ya!"
+        },
+        {
+          "s": 16,
+          "t": "Why you—"
+        },
+        {
+          "sit": "Don't tell me this is..."
+        },
+        {
+          "s": 1,
+          "t": "Professor Zaha Hadi?"
+        },
+        {
+          "s": 16,
+          "t": "And who are you— Oh, Kaveh! Fancy seeing you here!"
+        },
+        {
+          "s": 16,
+          "t": "How long has it been? C'mon, get over here and let the Professor take a good look at you... Not bad, not bad. You've grown taller again!"
+        },
+        {
+          "s": 1,
+          "t": "Um... Professor, what's going on here?"
+        },
+        {
+          "s": 16,
+          "t": "Ah, it's no big deal, really. A few of us old scholars got bored in our retirement, and decided to put together a vegetable growing competition. At the end, whoever loses will have to go up on stage and do a performance for the winners."
+        },
+        {
+          "s": 16,
+          "t": "Which brings us to our current predicament... Hehe, my tomato was sure to win until a certain someone decided they couldn't bear to lose."
+        },
+        {
+          "s": 17,
+          "t": "Hey, don't try to defame me in front of the kids! If we're airing each other's dirty laundry now, then why don't we talk about you sneaking into Jannat's garden the other night—"
+        },
+        {
+          "s": 16,
+          "t": "Ahem! Lucky for you, seeing these youngsters come to pay their respects today has put me in a better mood. I'll let you off the hook for now."
+        },
+        {
+          "s": 16,
+          "t": "C'mon, let's go. We'll take our conversation elsewhere. He doesn't need to be a part of it."
+        },
+        {
+          "s": 1,
+          "t": "A—Ah yes, of course."
+        },
+        {
+          "s": 15,
+          "t": "Alhaitham also got my invite, right? Will he be coming to join us?"
+        },
+        {
+          "s": 1,
+          "t": "Hmph, that guy? He's never been a fan of social gatherings. I wouldn't get my hopes up if I were you."
+        },
+        {
+          "s": 15,
+          "t": "Are you sure? ...Alright then, I guess we won't wait for him."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, let's go! ...Uh, I mean, maybe we should give him a little more time. We can keep chatting for a while longer."
+        },
+        {
+          "s": 15,
+          "t": "Oh, sure."
+        },
+        {
+          "s": 1,
+          "t": "You still haven't told me... What's the occasion for getting us together here at Pardis Dhyai?"
+        },
+        {
+          "s": 15,
+          "t": "We're celebrating the end of the first phase of Collei's studies. I wanted to thank you all for the help you've given her along the way."
+        },
+        {
+          "s": 18,
+          "t": "Then... Where's Collei?"
+        },
+        {
+          "s": 15,
+          "t": "She said she wanted to show everyone a bit of what she's learned, so she's still doing some last-minute prep at home. She'll be here shortly."
+        },
+        {
+          "s": 15,
+          "t": "Anyway, let's get started... *sigh* To tell you the truth, I'm actually not so confident that the second phase will go as well as the first."
+        },
+        {
+          "s": 15,
+          "t": "The curriculum will become a lot more involved, and I'm worried that she won't be able to get through all of it. I was hoping we could brainstorm about it together before she gets here."
+        },
+        {
+          "s": 1,
+          "t": "I knew this wouldn't be just a simple free dinner... Is that why you also invited Alhaitham?"
+        },
+        {
+          "s": 15,
+          "t": "Yes, I thought it would be good if we could all put our heads together about this."
+        },
+        {
+          "s": 15,
+          "t": "Anyway, let's take a quick trip down memory lane. What did you guys do when you ran into a problem that you didn't know how to solve, or got assigned a project that you knew you weren't going to finish on time?"
+        },
+        {
+          "s": 18,
+          "t": "Never happened to me."
+        },
+        {
+          "s": 1,
+          "t": "I'd just pull another all-nighter."
+        },
+        {
+          "s": 15,
+          "t": "You two are hopeless... Does anyone have a more useful answer to the question?"
+        },
+        {
+          "sit": "Perhaps you could adjust the pace of the curriculum?"
+        },
+        {
+          "s": 1,
+          "t": "Ooh! That's a good point! Confidence is the most important thing. Once you lose your sense of confidence, it'll become all but impossible to find the motivation to study."
+        },
+        {
+          "s": 15,
+          "t": "Hmm, this could be a potential direction. I have already redesigned the literacy curriculum, and I was originally hoping to ask Alhaitham for his opinion, but..."
+        },
+        {
+          "s": 11,
+          "t": "It's very simple. Instead of focusing on the amount of material you would like to teach, focus on the amount the student would be able to remember."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you actually showed up! I could probably count the number of times you've actually come to gatherings like this on just one hand."
+        },
+        {
+          "s": 11,
+          "t": "It's still more than the number of times you've managed to get a proposal approved on the first try."
+        },
+        {
+          "s": 1,
+          "t": "Hmph, as long as you're still aware. So, what made the difference this time? Are you looking to drink your sorrows away with some friends?"
+        },
+        {
+          "s": 11,
+          "t": "That's your purpose for being here, not mine. Don't project your ways of thinking onto me."
+        },
+        {
+          "s": 1,
+          "t": "So you're saying the only reason you came is to help Tighnari with his brainstorming?"
+        },
+        {
+          "s": 11,
+          "t": "Precisely. Collei will have a long road in front of her."
+        },
+        {
+          "s": 1,
+          "t": "Hey, just to get one thing clear, even if Collei manages to make her way to the Akademiya, we cannot let her enroll in Haravatat! Kshahrewar is obviously the best choice for her. She's been a trainee forest ranger for so long, she'll definitely be good with her hands."
+        },
+        {
+          "s": 18,
+          "t": "What are you saying? Spantamad is the better choice. It's where I graduated from, after all."
+        },
+        {
+          "s": 1,
+          "t": "Then what about Amurta? That's the Darshan her master actually graduated from."
+        },
+        {
+          "s": 11,
+          "t": "There are only two other Darshans left. We might as well select all of them on her enrollment application."
+        },
+        {
+          "s": 1,
+          "t": "You...! I'm trying to have a serious discussion here!"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, you aren't associated with any of the six Darshans. In your opinion, which Darshan would be the best choice for Collei?"
+        },
+        {
+          "sit": "I think she should get through the second phase of her studies first."
+        },
+        {
+          "s": 18,
+          "t": "Well said."
+        },
+        {
+          "s": 15,
+          "t": "Agreed. And my goal in inviting you here was to gather some thoughts on the execution of this second phase."
+        },
+        {
+          "s": 11,
+          "t": "Phase two far exceeds phase one in both curriculum complexity and the speed of instruction. I hope Collei has prepared herself for what is coming."
+        },
+        {
+          "s": 1,
+          "t": "Hey, what are you thinking now? Please don't tell me you're planning on lending her those abstruse books from your home library."
+        },
+        {
+          "s": 11,
+          "t": "Actually, I was thinking about lending her a professions guide."
+        },
+        {
+          "s": 1,
+          "t": "I'll make sure to write \"DON'T BECOME AN ARCHITECT\" on the front page of that."
+        },
+        {
+          "sit": "But don't you love your job, Kaveh?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe. You're right, I can't deny that."
+        },
+        {
+          "s": 18,
+          "t": "Is there another phase after phase two? What's the ultimate goal of all of this? Are we trying to prepare her for a job in the Akademiya?"
+        },
+        {
+          "s": 15,
+          "t": "Ah, we don't need to think that far ahead. Hold that thought, though. I think my vegetables are done..."
+        },
+        {
+          "sit": "Everyone enjoys a relaxed and pleasant dinner..."
+        },
+        {
+          "s": 1,
+          "t": "I'm telling you, that client had no idea what he was talking about! No matter what I did, he had something bad to say about it!"
+        },
+        {
+          "sit": "(Kaveh sure gets drunk fast...)"
+        },
+        {
+          "s": 15,
+          "t": "Have you considered finding another client?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, they're all the same. I haven't had a good night's sleep for months now! Hmph, who do they think they are, ordering me to alter my design over and over again just because they have some Mora?"
+        },
+        {
+          "s": 11,
+          "t": "It's too late now to change careers. You might as well try to find some joy in the pain."
+        },
+        {
+          "s": 11,
+          "t": "Besides, you'll be getting up in the middle of the night to make edits to your own design even when the client doesn't request it."
+        },
+        {
+          "s": 1,
+          "t": "No... *hic* ...that's not true!"
+        },
+        {
+          "s": 18,
+          "t": "Cheer up, Kaveh. I'll tell you a new joke."
+        },
+        {
+          "s": 15,
+          "t": "We'll save that for the end, Cyno. You can keep it to yourself until then."
+        },
+        {
+          "s": 1,
+          "t": "I... Whatever! I'm not going to use my brain anymore! Let's drink tonight to our hearts' content!"
+        },
+        {
+          "s": 16,
+          "t": "Is Faranak still doing well?"
+        },
+        {
+          "s": 1,
+          "t": "Yes, as far as I know. She left for Fontaine some time ago, and started a new life for herself. She's still doing work related to architecture, though."
+        },
+        {
+          "s": 16,
+          "t": "Ah yes, I did hear about that. Did that upset you at all?"
+        },
+        {
+          "s": 1,
+          "t": "No, not at all. She's already sacrificed a lot raising me as a single mother."
+        },
+        {
+          "s": 16,
+          "t": "That's good to hear. Your mother did struggle quite a bit those few years... It's probably a good thing that she found a new place to call home."
+        },
+        {
+          "s": 16,
+          "t": "Sometimes I wonder if things were harder for her because she was so beautiful. People were always drawn to her beauty first, only to realize she had a sensitive and vulnerable heart underneath."
+        },
+        {
+          "s": 16,
+          "t": "She was still quite young when she first joined my class as a student. Beautiful and radiant with her golden hair, yet quiet and single-minded, she seemed like a lass from some aristocratic house who was seeing the outside world for the first time."
+        },
+        {
+          "s": 16,
+          "t": "She had to make a lot of drastic changes in her life to raise you on her own."
+        },
+        {
+          "s": 16,
+          "t": "Even during her time in the Akademiya, she was a thorough perfectionist. If she was unsatisfied with something she had made, she'd insist on redoing it even if I was perfectly happy with it."
+        },
+        {
+          "s": 16,
+          "t": "She had many admirers, and they'd always fill up the first few rows of seats, hoping they could get closer to her sitting in the first row. If it were any of my other classes, you'd have found nobody sitting in the front."
+        },
+        {
+          "s": 16,
+          "t": "But every time I saw her, she was always in that same rigid pose. She'd have one hand on her forehead, with the other clutching her pencil. Her eyebrows would be knitted in a frown as she concentrated on the blueprint in front of her."
+        },
+        {
+          "s": 1,
+          "t": "I'm sure she had many difficult moments in her life, how did she cope with the stress?"
+        },
+        {
+          "s": 16,
+          "t": "I'm not too sure, she never talked about such things with me. She rarely opened up to other people, you know."
+        },
+        {
+          "s": 16,
+          "t": "I do remember one time though when she got into a heated argument with a friend. She said something that I found very memorable."
+        },
+        {
+          "s": 16,
+          "t": "She said: \"True art cannot be understood, but as an artist, I wish some people could understand its meaning and value.\""
+        },
+        {
+          "s": 16,
+          "t": "If you ask me, that's probably the greatest source of pain for geniuses of their craft. It's extremely hard for them to find someone who can truly understand their ideas."
+        },
+        {
+          "s": 1,
+          "t": "So that's how it is, hmm... I wonder if the password could be..."
+        },
+        {
+          "sit": "\"Understanding\"?"
+        },
+        {
+          "sit": "\"Acknowledgment\"?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... I tried both just now. Seems those aren't it, either."
+        },
+        {
+          "s": 16,
+          "t": "What are you trying to do?"
+        },
+        {
+          "s": 1,
+          "t": "My mother left her notebook to me, but it has a password and I haven't figured out what it is yet. I'm trying to learn more about her so I'd have a better chance at cracking the code... Thank you for all that you told us."
+        },
+        {
+          "s": 16,
+          "t": "Haha, it's the least I can do. Talking to youngsters like yourself makes me feel younger, too. Honestly, looking at you now, I can see how much you resemble her... It's almost as if she's standing right in front of me again."
+        },
+        {
+          "s": 16,
+          "t": "Your personalities are quite alike, too. You're both stubborn, and both a little awkward. Of course, I'm sure the similarities are mostly superficial... but so long as you continue to harbor those traits, you'll find a lot of difficulties in your work."
+        },
+        {
+          "s": 16,
+          "t": "I've taught a lot of students over my career, and in my experience, very few genius architects of Kshahrewar ever found happiness for themselves."
+        },
+        {
+          "s": 16,
+          "t": "They would know exactly what they want to express, and fight for it tooth and nail, which inevitably led to arguments with their clients."
+        },
+        {
+          "s": 16,
+          "t": "Some clients would choose to respect the architects' vision, or just let the argument go because of the architects' reputation, but those are the rare ones."
+        },
+        {
+          "s": 16,
+          "t": "When Faranak first graduated, she was getting into arguments with her clients nearly every single day. I think it only got a little better when she met your father."
+        },
+        {
+          "s": 1,
+          "t": "I see... But could he understand the designs my mother made?"
+        },
+        {
+          "s": 16,
+          "t": "No, I think they were probably beyond him, too. But despite that, he still stayed next to her, listening to her joys and sharing in her sorrows."
+        },
+        {
+          "s": 16,
+          "t": "Faranak had many admirers, but she ended up choosing your father. His support probably played a part in that decision."
+        },
+        {
+          "s": 1,
+          "t": "Hmm... So instead of \"understanding,\" perhaps all we need is just \"companionship\"..."
+        },
+        {
+          "sit": "Maybe that's what she was trying to tell you?"
+        },
+        {
+          "s": 1,
+          "t": "...Huh, it worked!"
+        },
+        {
+          "s": 16,
+          "t": "Oh, was that the right password?"
+        },
+        {
+          "s": 1,
+          "t": "Yes!"
+        },
+        {
+          "s": 16,
+          "t": "Then you should be on your way, child. Find a quiet place and see what she wanted to say to you."
+        },
+        {
+          "s": 16,
+          "t": "Being the awkward person that she is, I suppose there were many things that Faranak could never say out loud. Instead, she probably left them in her diary hoping that they would make their way to you one day."
+        },
+        {
+          "s": 16,
+          "t": "If you're ever in a mood to chat again, just come and find me here. You're always welcome to discuss architecture topics with me as well."
+        },
+        {
+          "s": 1,
+          "t": "Thank you so much, Professor."
+        },
+        {
+          "s": 16,
+          "t": "Haha, there's no need to be so formal. I'll let you kids go. It's time for me to take another stroll around the vegetable garden."
+        },
+        {
+          "s": 1,
+          "t": "I wonder what my mother could have written about..."
+        },
+        {
+          "sit": "Kaveh starts quickly flipping through the notebook, revealing lines upon lines of elegant handwriting."
+        },
+        {
+          "s": 19,
+          "t": "\"They all say Zaha Hadi's class is the toughest, but I think it's actually not too bad. On the other hand, though, structural mechanics is definitely a pain no matter how you try to approach it... I doubled down and managed to get through it in the end.\""
+        },
+        {
+          "s": 19,
+          "t": "\"I met someone special. At first, I didn't think much of him, but now I feel very happy whenever I get to spend time with him.\""
+        },
+        {
+          "s": 19,
+          "t": "\"We decided to name our son Kaveh. I don't think a younger me would have ever imagined forming such an intimate bond with another person... Back then, I lived only in the shadow of myself, as well as that of the dream in my heart.\""
+        },
+        {
+          "s": 19,
+          "t": "\"The bad news came, and even though it's been several days now, I still can't bring myself to come to terms with what happened. My eyes are so swollen that it's hard to see. What if they are all lying to me, and this is just a long, cruel dream?\""
+        },
+        {
+          "s": 19,
+          "t": "\"But I have to face reality. I still have someone to take care of. No matter what happens, I'll do my best to raise my son on my own.\""
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Is this... a drawing? Seems like it was done by my mother."
+        },
+        {
+          "s": 1,
+          "t": "This blonde man was probably my father... But who are the other people in the picture? Huh? Why do a few of them look somewhat familiar..."
+        },
+        {
+          "sit": "Yeah, they do seem familiar..."
+        },
+        {
+          "s": 1,
+          "t": "From the dates in the notebook, she probably drew this more than thirty years ago. I hadn't even been born yet."
+        },
+        {
+          "s": 1,
+          "t": "...Maybe we were thinking too much. Oh! There are a few lines written in the diary about this as well."
+        },
+        {
+          "s": 19,
+          "t": "\"The one who invited us to the gathering is a talkative woman. Including us, three couples showed up... There was also a person who came alone.\""
+        },
+        {
+          "s": 19,
+          "t": "\"The talkative woman introduced everyone to each other. She spoke really quickly, so I couldn't quite catch everything she said, but I also didn't feel like asking her to repeat herself.\""
+        },
+        {
+          "s": 19,
+          "t": "\"My husband seems to be friends with the man with long ears. I couldn't really join their conversation, so I've resigned myself to sitting in a corner and drawing in my notebook.\""
+        },
+        {
+          "s": 19,
+          "t": "\"I don't think I'd be able to become friends with any of these people... especially that stiff-looking couple.\""
+        },
+        {
+          "s": 19,
+          "t": "\"That man is certainly very handsome, but he would constantly alternate between disjointed and serious ways of talking... His wife is a bit more bearable.\""
+        },
+        {
+          "s": 19,
+          "t": "\"We were not acquainted with each other to begin with, and I doubt we'll see each other again after this gathering. The ambiance of this gathering is surprisingly pleasant, however. Talking to people can allow us to find some peace after a long day.\""
+        },
+        {
+          "s": 19,
+          "t": "\"Maybe my son will also partake in these gatherings in the future. I hope he'll be able to make many friends.\""
+        },
+        {
+          "s": 1,
+          "t": "Who would have thought my mother used to attend that kind of thing... It seemed she was only good at talking about her own work, and found it difficult to join into other conversations. As a result, she often kept to herself and would be off to the side drawing."
+        },
+        {
+          "s": 1,
+          "t": "There's more written on the back... Oh, it seems like it was written to me."
+        },
+        {
+          "s": 19,
+          "t": "\"Kaveh, I was both overjoyed and distressed when I learned of your decision to continue your studies in Kshahrewar.\""
+        },
+        {
+          "s": 19,
+          "t": "\"You are very talented, and I am confident that you will become an architect of much acclaim. However, the more talented you are as an artist, the more misery and anguish you may encounter.\""
+        },
+        {
+          "s": 19,
+          "t": "\"No one will be able to help you during your journey as an artist. But outside of your life as a creator, you can learn to form connections with other people, and enjoy many other things in life. It's the only way to alleviate your suffering.\""
+        },
+        {
+          "s": 19,
+          "t": "\"Whenever you feel down, seek out a friend to sit and have a chat. You can accumulate joy and fulfillment by spending time with them. The positive feelings you gain will get you through the long and difficult years. Never forget that companionship is the most important thing of all.\""
+        },
+        {
+          "s": 1,
+          "t": "So that's the answer she prepared for me... She really thought long and hard about me and my future."
+        },
+        {
+          "s": 1,
+          "t": "Well, now that I've read her words... Do you think I should accept Tighnari's invite, and attend that dinner at Pardis Dhyai?"
+        },
+        {
+          "sit": "Wait, you were actually considering not going?"
+        },
+        {
+          "s": 1,
+          "t": "Uh... The thought had definitely crossed my mind."
+        },
+        {
+          "s": 1,
+          "t": "Although it'd be nice to get together with friends and chat the night away... I don't want to bring down other people's moods because I'm sad."
+        },
+        {
+          "s": 1,
+          "t": "Besides, don't most people hate the feeling of seeing their friends troubled and being unable to help? And what's worse, nearly all of my problems can't be easily resolved with some encouraging words or gesture."
+        },
+        {
+          "s": 1,
+          "t": "And don't forget, I'm also older than all of them... As their senior, I should appear to be a bit more responsible."
+        },
+        {
+          "sit": "But Tighnari saw right through you."
+        },
+        {
+          "sit": "It's normal for friends to take care of each other."
+        },
+        {
+          "s": 1,
+          "t": "Ah, you're right... *sigh* I really didn't expect to run into him here. I swear, his nose must be just as sensitive as his ears..."
+        },
+        {
+          "s": 1,
+          "t": "Well then, I guess... it's best that we go and join him for dinner. *sigh* That means I'll owe him yet another meal now..."
+        },
+        {
+          "s": 1,
+          "t": "You know what, I'm not going to overthink it. I'll see you tomorrow at Pardis Dhyai!"
+        },
+        {
+          "s": 1,
+          "t": "You're not wrong, but I keep feeling like I haven't really helped them much in return..."
+        },
+        {
+          "sit": "It's always fun to have you around, Kaveh."
+        },
+        {
+          "s": 1,
+          "t": "Wait, do you mean it? You're not... making fun of me, are you?"
+        },
+        {
+          "s": 1,
+          "t": "I've gotten so used to sarcasm that I can't tell what's genuinely a compliment anymore. Wait! By \"fun,\" did you mean..."
+        },
+        {
+          "s": 1,
+          "t": "You know what, I'm not going to overthink it. I'll see you tomorrow at Pardis Dhyai!"
+        },
+        {
+          "s": 20,
+          "t": "(Zaha Hadi is still arguing back and forth with Cyrus. It seems that they're not actually angry anymore, but just arguing to pass the time.)"
+        },
+        {
+          "s": 17,
+          "t": "Stop trying to break down my door, Zaha Hadi! You know I'm not going to come out!"
+        }
+      ],
+      "description": "Kaveh suggests that you pay a visit to his mother's former professor. Maybe Professor Zaha Hadi will have the clues you seek..."
+    },
+    {
+      "id": "q-19078",
+      "title": "Treasure and True Interest",
+      "dialogue": [
+        {
+          "s": 21,
+          "t": "Ah, Kaveh, it's you! It's been a while — what have you been up to recently?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, it's been a long time, Alkami. Things haven't changed much for me. I'm still taking private commissions for all kinds of projects."
+        },
+        {
+          "s": 21,
+          "t": "I heard that you were the genius behind the Palace of Alcazarzaray? I bet you're set for Mora after a project of that size?"
+        },
+        {
+          "s": 1,
+          "t": "Uhh... Well, it's hard to make a profit from every project, you know..."
+        },
+        {
+          "s": 21,
+          "t": "Hard to make a profit? Haha, you've gotta be joking! I've never met an architect who didn't make a profit from a project."
+        },
+        {
+          "s": 21,
+          "t": "Unless... the client fled before they paid the commission fee in full? But that doesn't sound right, either... Doesn't Dori have a pretty decent reputation in our local business circles? I don't think she's ever been involved in any kind of big scandal..."
+        },
+        {
+          "s": 1,
+          "t": "Well, about that... I mean, it was complicated..."
+        },
+        {
+          "s": 21,
+          "t": "I understand. Either way, doing one project after another sure gets exhausting over the years, eh? I've been there, so I can feel your pain."
+        },
+        {
+          "s": 21,
+          "t": "I mean, I obviously never had your reputation to live up to. That must've been stressful. But I'm sure we faced all the same problems: Trying to keep your client in a good mood while you're trying to stop them from micromanaging things they don't know the first thing about... Heh, I don't miss it. Thankfully, that's all behind me now."
+        },
+        {
+          "sit": "Did you start a new career?"
+        },
+        {
+          "s": 21,
+          "t": "Hmm... not exactly. My work is still closely related to architecture."
+        },
+        {
+          "s": 21,
+          "t": "Judging from the look on your face, you're still strapped for Mora. That's quite unfortunate. You're the most artistically gifted graduate the Kshahrewar Darshan has seen in decades, but it looks like you still have a lot to learn in terms of making Mora."
+        },
+        {
+          "s": 21,
+          "t": "With that said, us Kshahrewar grads should still look out for each other. Hmm... what if I told you about an idea that'll absolve you of all your Mora troubles going forward?"
+        },
+        {
+          "s": 1,
+          "t": "Are you serious? But something like that has got to be some kind of top-level business secret. Are you sure you can just share something like that with me?"
+        },
+        {
+          "s": 1,
+          "t": "Besides, I don't want to just take something like that without offering anything in return. I still have a little Mora... Or is there something that I can help you with?"
+        },
+        {
+          "s": 21,
+          "t": "Haha, you're too kind. This is just a simple tip. Even if I didn't bring it up, I'm sure you'd hear it from the others sooner or later. The idea is this: I recently opened up a training center with the goal of educating people in architecture design."
+        },
+        {
+          "s": 21,
+          "t": "Compared to the classes taught by those old fossils at the Akademiya, my classes are more condensed and streamlined, and will allow people to quickly get their foot in the door."
+        },
+        {
+          "s": 21,
+          "t": "Unlike the Akademiya, I won't turn down anyone who's interested, rich or poor. As long as someone wishes to learn more about architecture, I'll accept them into my training center."
+        },
+        {
+          "s": 21,
+          "t": "It just so happens that I'm still looking for a few more instructors. So, what do you say? Interested in coming over to give a few lectures?"
+        },
+        {
+          "s": 21,
+          "t": "Regardless of the pay, I already can guarantee that it'll be far more comfortable than working on random people's private commissions."
+        },
+        {
+          "s": 1,
+          "t": "Ah, so you want me to join you as an instructor. Hmm, that does sound like something I'd be able to do. Sounds like a pretty stable job, too..."
+        },
+        {
+          "s": 1,
+          "t": "What do you think, {NICKNAME}?"
+        },
+        {
+          "sit": "At least you won't have to deal with clients anymore."
+        },
+        {
+          "sit": "I think you can give it a go."
+        },
+        {
+          "s": 21,
+          "t": "Then, it's a deal?"
+        },
+        {
+          "s": 1,
+          "t": "Yes, it's a deal. Thank you, Alkami."
+        },
+        {
+          "s": 21,
+          "t": "Haha, like I said, there's no need to thank me for this. The lecture room is not far from here, so you can just come straight here tomorrow morning."
+        },
+        {
+          "s": 21,
+          "t": "As for the pay... How about we start at three hundred thousand Mora per lecture?"
+        },
+        {
+          "s": 1,
+          "t": "Three hundred thousand!? Are you serious? How could you offer so much?"
+        },
+        {
+          "s": 21,
+          "t": "Haha, it would seem that you're still oblivious to your own economic worth. Three hundred thousand is nothing compared to the prestige of having the Light of Kshahrewar as one of my instructors."
+        },
+        {
+          "s": 21,
+          "t": "Three hundred thousand is also just the base rate. Just trust me on this, the longer you stick with me, the more you'll come to understand your true value in the market."
+        },
+        {
+          "s": 21,
+          "t": "I have to go make some preparations now... See you tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "I was never particularly close with Alkami when we were in school. Who would have thought that he'd be so nice and friendly?"
+        },
+        {
+          "s": 1,
+          "t": "I've hosted free lectures before, but this would be my first time being hired to lecture for a formal business. Three hundred thousand Mora per lecture... Whew, I'm so excited that I'm starting to get nervous."
+        },
+        {
+          "sit": "I'll join you for the lecture."
+        },
+        {
+          "s": 1,
+          "t": "Thanks so much. *sigh* I think I will be able to relax a bit more with a friend in the audience."
+        },
+        {
+          "s": 1,
+          "t": "Now, what should I talk about tomorrow? Some lessons I've learned over the past few years? Hmm, I should probably save those for later... for my first lecture, I should start by getting them more interested in the field..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, let's meet here again tomorrow morning. I should hurry home and create some kind of lesson plan. If I'm going to become an instructor, I should make sure I show up prepared."
+        },
+        {
+          "s": 22,
+          "t": "(The materials cover a variety of architectural knowledge. At first glance, nothing appears to be amiss.)"
+        },
+        {
+          "s": 21,
+          "t": "Oh, I didn't expect you two to get here so early."
+        },
+        {
+          "s": 1,
+          "t": "I was up last night preparing for the lecture, but I ended up getting so excited that I couldn't fall asleep. Here, I've prepared a lesson plan — do you want to take a look?"
+        },
+        {
+          "s": 21,
+          "t": "Lesson plan? Ah... I must commend you for your dedication."
+        },
+        {
+          "s": 21,
+          "t": "But the training center has already developed its own set of teaching materials. Instead of using your own plan, you can just use what we have here. Of course, you're always welcome to work in some of your own content to add more fun and flavor."
+        },
+        {
+          "sit": "Can I take a look at your materials?"
+        },
+        {
+          "s": 21,
+          "t": "Sure, be my guest."
+        },
+        {
+          "sit": "(The materials cover a variety of architectural knowledge. At first glance, nothing appears to be amiss.)"
+        },
+        {
+          "s": 21,
+          "t": "It's almost time for the lecture to start. Feel free to head in and start the class whenever you're ready."
+        },
+        {
+          "s": 1,
+          "t": "Huh, so you've already developed your own set of teaching materials... Seems like I won't need the stuff I've prepared after all. Anyway, shouldn't be a problem, I'll just go ahead and use your materials."
+        },
+        {
+          "s": 1,
+          "t": "There's something else I want to ask, though... This isn't going to be a large class, is it?"
+        },
+        {
+          "s": 21,
+          "t": "Ah, no need to stress. There are only twenty people in this class."
+        },
+        {
+          "s": 21,
+          "t": "There are fourteen classes at my training center. Out of all of them, the first class has the best grades, so I've directed them to you. We'll see how well they will take to your lectures."
+        },
+        {
+          "s": 1,
+          "t": "Twenty people, huh... Alright, I think I can handle that."
+        },
+        {
+          "s": 21,
+          "t": "Oh, and one last thing: in the interest of keeping a quiet learning space, only instructors and students are allowed in the classroom when class is in session."
+        },
+        {
+          "s": 21,
+          "t": "I'm sorry to say this, but your friend will have to wait outside while you teach the class."
+        },
+        {
+          "sit": "It's okay, I was thinking about taking a walk anyway."
+        },
+        {
+          "s": 1,
+          "t": "Ah, sorry about that. I'll meet you at the door when the class is over then."
+        },
+        {
+          "sit": "(Is Alkami really as nice as he seems? I should probably ask around a bit.)"
+        },
+        {
+          "s": 23,
+          "t": "Hey there. Can I help you?"
+        },
+        {
+          "sit": "Do you know a man by the name of Alkami?"
+        },
+        {
+          "sit": "I'm wondering if you know anything about Alkami."
+        },
+        {
+          "s": 23,
+          "t": "Oh, Alkami? You mean that rich guy who's been making quite the name for himself? Yeah, he commissioned a set of furniture from me a while back. Paid a great deal of Mora for it, too."
+        },
+        {
+          "s": 23,
+          "t": "I heard he earned a fortune working as a renowned architect. Now he's opened a training center so others can follow in his footsteps."
+        },
+        {
+          "s": 23,
+          "t": "If the tuition wasn't sky-high, I'd enroll my child in a heartbeat. Architecture really sounds like a lucrative profession..."
+        },
+        {
+          "sit": "Before long, Kaveh's class is over..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, everyone, there's no need to be nervous."
+        },
+        {
+          "s": 1,
+          "t": "Class is over, so we can just chat for a bit. I shouldn't have lost my temper during the lecture — did I scare anybody?"
+        },
+        {
+          "s": 24,
+          "t": "No, you weren't scary at all, Mr. Kaveh... W—We were just a bit lost and didn't get what you were talking about..."
+        },
+        {
+          "sit": "Did something happen, Kaveh?"
+        },
+        {
+          "s": 1,
+          "t": "Ugh, don't get me started. I was trying to use Alkami's materials, so I flipped through some pages and gave them a closer look... The more I read, the more upset I became."
+        },
+        {
+          "s": 1,
+          "t": "Alkami may fool an amateur, but he can't fool anyone who's active in our profession. The materials he made are completely useless for teaching real architecture!"
+        },
+        {
+          "sit": "Why do you say that?"
+        },
+        {
+          "s": 1,
+          "t": "In my opinion, the most important skill of an architect is their ability to craft a design. In other words, they must be able to conceptualize ideas."
+        },
+        {
+          "s": 1,
+          "t": "There are tens of thousands of buildings in the world, as well as a countless number of architectural styles. Some designs emphasize aesthetics, while others prioritize practicality."
+        },
+        {
+          "s": 1,
+          "t": "The architects who can critically evaluate the quality and fit of different designs are those who can come up with great designs of their own. But you won't get any of that from the teaching materials they're using here."
+        },
+        {
+          "s": 1,
+          "t": "All these students are doing in class is rote memorization of existing designs. They are learning nothing about the underlying principles."
+        },
+        {
+          "s": 1,
+          "t": "How can they expect to become real architects? When they're done with this class, all they'll become are dilettantes with a pitiful smattering of architectural knowledge."
+        },
+        {
+          "s": 25,
+          "t": "B—But Mr. Kaveh, we didn't really understand anything you said after you threw away the materials, either..."
+        },
+        {
+          "s": 25,
+          "t": "What's the big deal anyway? It's not like we're looking to make some works of art... we just want to make some Mora."
+        },
+        {
+          "s": 1,
+          "t": "You're studying architecture to make Mora?"
+        },
+        {
+          "s": 26,
+          "t": "Yeah! Why else would we be studying here?"
+        },
+        {
+          "s": 26,
+          "t": "My biggest dream is to become someone like Mr. Alkami. Once I finally make my fortune in architecture, I'll be able to buy anything I like!"
+        },
+        {
+          "s": 1,
+          "t": "...In that case, I'm afraid you'll probably be disappointed. The reality is that the work of an architect is very difficult, and the pay is not lucrative at all. Believe me, I'm a perfect example."
+        },
+        {
+          "s": 25,
+          "t": "But how? Mr. Alkami just told us last night that you made a killing by building the Palace of Alcazarzaray!"
+        },
+        {
+          "s": 25,
+          "t": "He also said that as long as we graduate from his class, waves upon waves of people will reach out to us with private commissions, and we can just sit back and wait for Mora to fill up our pockets."
+        },
+        {
+          "s": 25,
+          "t": "It won't be long before I can put these miserable days behind me..."
+        },
+        {
+          "s": 1,
+          "t": "Come on... and you all believed everything he said?"
+        },
+        {
+          "s": 24,
+          "t": "But Mr. Alkami is really rich, isn't he?"
+        },
+        {
+          "s": 1,
+          "t": "You... Hmph, it's pointless trying to argue this with you right now. You've already filled your heads with pipe dreams."
+        },
+        {
+          "s": 1,
+          "t": "Let's go, {NICKNAME}. Let's hear about Alkami's true plans from the man himself!"
+        },
+        {
+          "s": 21,
+          "t": "What's wrong, Kaveh? You look quite flustered. Did one of my students offend you?"
+        },
+        {
+          "s": 21,
+          "t": "Were the students not astute enough for your liking? I must implore you to go a bit easier on them. After all, they're nothing like the genius scholars you're used to dealing with at the Akademiya. We don't need to strive for perfect understanding... as long as some knowledge has been passed on, that's good enough."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, I'm mad at them, but I'm even more upset that you're scamming people under the guise of teaching them about architecture!"
+        },
+        {
+          "s": 1,
+          "t": "The students are all here hoping for a quick way to make money, but we both know that an architect's life is hard and exhausting. Just a little while ago, I was toiling over the sixth draft of a design for a client."
+        },
+        {
+          "s": 1,
+          "t": "If your client is unhappy, you can't break ground, and the longer a project goes, the longer it takes for you to get paid in full. What's worse, if your client disappears in the middle of a project, good luck getting anything from them ever again!"
+        },
+        {
+          "s": 1,
+          "t": "You know all of this just as well as I do. Why lie to them?"
+        },
+        {
+          "s": 21,
+          "t": "*sigh*... Look, Kaveh, you may be the Light of Kshahrewar, but like I said, you still have a lot to learn about making Mora."
+        },
+        {
+          "s": 21,
+          "t": "You may deny it all you want, but it's a fact that in today's Sumeru, architecture is a terrible profession."
+        },
+        {
+          "s": 21,
+          "t": "Our clients care very little for the effort we pour into our designs. Instead of appreciating us, they spend all their time nitpicking details and demanding changes, often forcing all kinds of ridiculous ideas onto us."
+        },
+        {
+          "s": 1,
+          "t": "...I suppose that's more or less true. Go on."
+        },
+        {
+          "s": 21,
+          "t": "Why should we cling onto a profession that's difficult and unrewarding? If the field is dying, then a person who still wants to make a good living will just have to change their strategy."
+        },
+        {
+          "s": 21,
+          "t": "If it's near-impossible to make money as an architect, then why not just establish a training center, and train other people to become architects in our stead?"
+        },
+        {
+          "s": 1,
+          "t": "Wait, how does that make any sense? Aren't you just leading them into the same trap?"
+        },
+        {
+          "s": 21,
+          "t": "We are already stuck, my friend. The more people we can lead into this pit and stack as padding beneath our feet, the more comfortable our lives will be."
+        },
+        {
+          "sit": "So... instead of making money from architecture, you made your money from your students?"
+        },
+        {
+          "s": 21,
+          "t": "That's right. Making money as an architect is a slow and agonizing process. In comparison, earning tuition from a training center is far easier."
+        },
+        {
+          "s": 21,
+          "t": "None of the students will ever know, however. In their eyes, all of my income was earned during my years as an architect. It's easy for them to fall for my promise. After all, everyone wants to live the dream of being the person who can spend millions without batting an eye."
+        },
+        {
+          "s": 21,
+          "t": "The more students I get, the more money I earn, and the more real that dream becomes."
+        },
+        {
+          "s": 1,
+          "t": "And then what? Once they graduate, they'll still find out the truth about architecture, and struggle to stay afloat amid all the problems we already talked about."
+        },
+        {
+          "s": 1,
+          "t": "When that happens, your facade will pop like a soap bubble. No one will believe you anymore!"
+        },
+        {
+          "s": 21,
+          "t": "Ah, but that's just one way to look at the problem. No two people have the same amount of talent. Even if they fail to strike gold in the future, you can't say that it's my fault and mine alone."
+        },
+        {
+          "s": 21,
+          "t": "Oh, and also, I never actually promised that they would achieve financial freedom as long as they become architects. All I did was nudge them towards that belief."
+        },
+        {
+          "s": 21,
+          "t": "I'm not even scared if they do come back and stir up trouble. My training center has all the required permits and certifications. Even the Dendro Archon herself couldn't find fault in any part of my business."
+        },
+        {
+          "s": 1,
+          "t": "You... How can you sleep at night knowing that you're doing all this? Tell me, is your heart carved out of brick and stone?"
+        },
+        {
+          "s": 1,
+          "t": "I can't believe that I once saw you as a decent human being. I... I am beyond disappointed in you!"
+        },
+        {
+          "s": 21,
+          "t": "And the same goes to you. How many years has it been since you graduated from the Akademiya? If you still can't accept something like this... do you just plan on keeping that worthless naivete of yours until the end of time?"
+        },
+        {
+          "s": 21,
+          "t": "Only fools will see art as revered and sacred. In the end, art is just another business. Being successful at running a business is an art form in itself."
+        },
+        {
+          "s": 21,
+          "t": "I urge you to think about what I've said. Offloading your pain onto others is the only way a person can live comfortably in this world."
+        },
+        {
+          "s": 21,
+          "t": "As the light of the Kshahrewar, you've accumulated plenty of fame and respect. It's high time that you use those resources to improve the circumstances of your own life."
+        },
+        {
+          "s": 21,
+          "t": "Think it over, Kaveh. I still believe our collaboration could be very fruitful."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "He's gone."
+        },
+        {
+          "sit": "What do you plan to do next?"
+        },
+        {
+          "s": 1,
+          "t": "...I'm so mad, I feel a headache coming on. There's nothing more I can say to him. I'll resign from my position as instructor."
+        },
+        {
+          "sit": "You'll give up the Mora?"
+        },
+        {
+          "s": 1,
+          "t": "Of course. I'm sure you've realized that as long as I remained at this center, he would be able to use my name to advertise this place. Even if I just sit back and do nothing, others will be deceived and suffer because of me."
+        },
+        {
+          "s": 1,
+          "t": "He is right about one thing, though... these kinds of training centers are everywhere, and even if the Akademiya was to find out about it, it's unlikely that they would take any real action against it."
+        },
+        {
+          "s": 1,
+          "t": "The most that they could accuse him of is false advertising... And even that would be hard to prove."
+        },
+        {
+          "sit": "There's something strange about all of this."
+        },
+        {
+          "s": 1,
+          "t": "Oh? Did you notice something else?"
+        },
+        {
+          "sit": "Some of the students didn't appear to be very wealthy."
+        },
+        {
+          "sit": "Not everyone should be able to pay such exorbitant tuition fees."
+        },
+        {
+          "s": 1,
+          "t": "...Yeah, you've got a point."
+        },
+        {
+          "s": 1,
+          "t": "The rate he gave me was three hundred thousand Mora per lecture. That probably came out of the students' tuition... and who knows just how much he's been charging the students for attending his classes."
+        },
+        {
+          "s": 1,
+          "t": "If you're gambling everything on making it rich as an architect, are you really going to have the Mora to pay for that kind of tuition?"
+        },
+        {
+          "sit": "We can try asking the students."
+        },
+        {
+          "s": 1,
+          "t": "Right. We should hurry, the students didn't believe a word I was telling them... They're still daydreaming about making millions."
+        },
+        {
+          "s": 1,
+          "t": "We're never going to get any information from them again if we let Alkami talk to them first. Let's move now, before he's had the chance to react!"
+        },
+        {
+          "s": 24,
+          "t": "Oh, Mr. Kaveh? What are you doing back here?"
+        },
+        {
+          "s": 1,
+          "t": "Class finished a while ago, but you're still here... Why haven't you gone home?"
+        },
+        {
+          "s": 24,
+          "t": "I wanted to stay for a little longer. I'm still thinking about everything you taught during the class... Even though a lot of it went right over my head, I still thought the houses you drew were really pretty."
+        },
+        {
+          "s": 1,
+          "t": "Of course they were! All the examples I drew were world-famous landmarks. Each one was the magnum opus of a celebrated architect."
+        },
+        {
+          "s": 1,
+          "t": "It's a good thing that you could recognize them for their beauty. The accumulation of knowledge is the first step to artistic expression. Instead of rote memorization, you should try to relate and to understand, and after that, try to resonate with the work."
+        },
+        {
+          "s": 24,
+          "t": "Resonate?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. When I first got into architecture, there were many things about it that I couldn't understand at all. I would find a building to be beautiful, but have no idea what made it so good."
+        },
+        {
+          "s": 1,
+          "t": "And for most people, just being able to admire a building is enough. To become a good architect, however, you must also learn to assess and appraise."
+        },
+        {
+          "s": 1,
+          "t": "Going from admiration to assessment will take a lot of time and specialized knowledge. And I'm afraid that some superficial speed training won't be enough to take you there."
+        },
+        {
+          "s": 24,
+          "t": "Just as I thought... Becoming an architect won't be as easy as Mr. Alkami made it out to be, right?"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "I'm sorry. I'm not trying to crush your dreams — all I want to tell you is that an architect's life is not as carefree and easy as others may make it out to be."
+        },
+        {
+          "s": 24,
+          "t": "I understand. Thank you for telling me the truth, Mr. Kaveh. I think I'll still stay here for the time being, though, since my family still hasn't paid everything off."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? Paid off what?"
+        },
+        {
+          "s": 24,
+          "t": "...Sorry, I can't say anything more. Mr. Alkami made it very clear that anyone who talks about it will be kicked out of the class..."
+        },
+        {
+          "s": 1,
+          "t": "Don't listen to him. I am the most famous architect in Sumeru. If he kicks you out, then I'll just take you in instead."
+        },
+        {
+          "s": 24,
+          "t": "Really?"
+        },
+        {
+          "s": 1,
+          "t": "Why would I pull your leg? I can see you have some talent, so as long as you get your fundamentals down, you should be able to pass the entrance exam, and continue your studies at the Akademiya."
+        },
+        {
+          "s": 24,
+          "t": "Th—Then, please keep this a secret for me, Mr. Kaveh. Truth be told, my family's not very well-off, so we couldn't really afford the tuition for this class."
+        },
+        {
+          "s": 24,
+          "t": "Mr. Alkami was the one who reached out to my parents. He told them that he knew a merchant by the name of Fakhr, and that we could get a loan from him."
+        },
+        {
+          "s": 24,
+          "t": "He told all the students that once we graduate, people would come flocking to commission us for projects. If everything went well, we'd be able to pay off everything in just a few years, and all the Mora we make after that would be ours."
+        },
+        {
+          "s": 1,
+          "t": "...How much did your family borrow from this merchant?"
+        },
+        {
+          "s": 24,
+          "t": "I think it was several million Mora..."
+        },
+        {
+          "s": 1,
+          "t": "And what was the interest rate?"
+        },
+        {
+          "s": 24,
+          "t": "I... I'm not really sure. My parents were the ones who signed the contract. All I know is that the stack of papers was as thick as a slab of rock..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "Something doesn't feel right about all of this."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, I have a bad feeling, too. Something about the whole thing feels dastardly familiar."
+        },
+        {
+          "s": 1,
+          "t": "We need to find that merchant to confirm. But if we were to confront him right now, there's no way he'd admit to anything..."
+        },
+        {
+          "sit": "We can pretend to be potential customers."
+        },
+        {
+          "s": 1,
+          "t": "Good idea. Hey, tell me, do you know where we'd be able to find this merchant?"
+        },
+        {
+          "s": 24,
+          "t": "We last saw him on the north shore of Port Ormos. Who knows if he's still in that area, though..."
+        },
+        {
+          "s": 1,
+          "t": "Well, it'd still be worth taking a look. Architecture... no, the arts shouldn't be used as bait for a scam."
+        },
+        {
+          "s": 1,
+          "t": "We need to do something before the students' lives are ruined even further."
+        },
+        {
+          "s": 27,
+          "t": "Did you hear? Alkami recruited Kaveh to be an instructor!"
+        },
+        {
+          "s": 28,
+          "t": "Heh, I bet that'll boost his enrollment numbers!"
+        },
+        {
+          "s": 27,
+          "t": "Really makes you jealous, eh? If you think about it, Alkami was never that talented himself as an architect. If we're just talking about professional skill, no one would pay for a class with him."
+        },
+        {
+          "s": 28,
+          "t": "That's true, but you've got to admit, his advertisements are really effective... After all, the Akademiya only admits those that can pass its entrance exam, so only a few people could hope to study architecture in the halls of the Kshahrewar."
+        },
+        {
+          "s": 28,
+          "t": "For those who can't pass the exam, or who just want to jump straight into the industry, the training center is the best bang for the Mora."
+        },
+        {
+          "s": 27,
+          "t": "Man, to have that kind of business acumen..."
+        },
+        {
+          "s": 29,
+          "t": "Oh? I don't think I've ever seen you guys before. Here for business?"
+        },
+        {
+          "s": 1,
+          "t": "You're Fakhr, right?"
+        },
+        {
+          "s": 29,
+          "t": "Yes, may I ask who introduced you?"
+        },
+        {
+          "s": 1,
+          "t": "Alkami. My friend here wants to enroll in his architecture class, but they're a bit short on money. Alkami told us that you're the man to go to in this kind of situation."
+        },
+        {
+          "sit": "That's right."
+        },
+        {
+          "sit": "I'm really interested in architecture."
+        },
+        {
+          "s": 29,
+          "t": "Oh, sounds like his business is booming. How much do you need?"
+        },
+        {
+          "s": 1,
+          "t": "Let me see... I'd say around three million Mora."
+        },
+        {
+          "s": 29,
+          "t": "Oof... You call that \"a bit short on money\"? Anyway, since you're here because of Alkami, I can work things out for you. Make sure you sign the contract, though. Lots of people are borrowing money from me nowadays."
+        },
+        {
+          "sit": "What contract?"
+        },
+        {
+          "s": 29,
+          "t": "Ah, here you go. Don't worry, there's nothing particularly unusual about it. All you need to do is to pay back the loan in full within three years."
+        },
+        {
+          "s": 1,
+          "t": "And what if they won't be able to pay it back?"
+        },
+        {
+          "s": 29,
+          "t": "What do you mean, won't be able to pay it back? Once you graduate from Alkami's place, you'll be making millions of Mora a year, easy. At that point, paying this off will be a piece of cake."
+        },
+        {
+          "s": 29,
+          "t": "And even if you were to run into some difficulties and need to delay the installments, it's no big deal. We are all reasonable people here — if you can't pay quickly, you can just pay it back over a longer period. All that would change is your interest rates would get a little higher."
+        },
+        {
+          "s": 29,
+          "t": "It's hard work running a business. If we're taking risks to supply you with Mora, it's only fair that you take on a bit of the financial risk as well."
+        },
+        {
+          "s": 29,
+          "t": "Anyway, there's no point in tying yourself in knots over the contract. With the way you're reading every single line, it's like you're worried you're about to get scammed outta your whole life's savings. Why would I lie to you? Tons of students at Alkami's place have signed the contract. Aren't they all doing pretty well for themselves?"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "I just did some calculations in my head. When you say the interest will get a little higher... do you mean it'll get higher than thirty percent?"
+        },
+        {
+          "s": 1,
+          "t": "Of course, the contract did a great job of trying to obfuscate that fact. It only listed the amount that you'll have to repay every day, which gives the false impression that the amount hasn't actually increased by all that much."
+        },
+        {
+          "s": 1,
+          "t": "If you actually do the math, however, it's clear that the amount you need to pay on interest alone will amount to hundreds of thousands of Mora per year. Most people can't even make that much Mora in a year... Your greed really knows no bounds."
+        },
+        {
+          "s": 1,
+          "t": "Even my creditor doesn't dare to raise rates that high. Once a family's signed on to a scheme like this, there's no getting out."
+        },
+        {
+          "s": 29,
+          "t": "What are you trying to say, huh?"
+        },
+        {
+          "sit": "We mean to put you in jail for your crimes."
+        },
+        {
+          "sit": "The matra will happily answer that question."
+        },
+        {
+          "s": 29,
+          "t": "Hmph, I figured something was off when two well-dressed people came looking for a loan. Think you got the better of me?"
+        },
+        {
+          "s": 29,
+          "t": "Too many people are sticking their noses where they don't belong these days. Luckily for me, though, this is a pretty secluded spot. Hey, come out and teach these guys a lesson!"
+        },
+        {
+          "s": 1,
+          "t": "Ah, Eremites? Hmph, I've already fought off more than my fair share of them when I was working in the desert."
+        },
+        {
+          "s": 1,
+          "t": "There are only a few of them, so they shouldn't pose much of a threat. Mehrak, you're up!"
+        },
+        {
+          "s": 29,
+          "t": "Hmph... Who are you, and what do you want?"
+        },
+        {
+          "s": 29,
+          "t": "I don't think we've done anything to hurt or offend you, so why go this far to destroy my livelihood?"
+        },
+        {
+          "s": 1,
+          "t": "...Debt has the power to upend your whole life. I know very well just how miserable living in debt can be."
+        },
+        {
+          "s": 1,
+          "t": "But my debts are the culmination of many different factors, and my interest rate is still somewhat reasonable. As long as I continue to work with my situation in mind, my debts will eventually be paid off."
+        },
+        {
+          "s": 1,
+          "t": "But these students are different. They have neither the mental preparation nor the financial resources to pay back a debt like this."
+        },
+        {
+          "s": 1,
+          "t": "You sold the dreams of becoming an architect to the students as bait, urging them to take on insurmountable amounts of debt to satisfy your greed."
+        },
+        {
+          "s": 29,
+          "t": "Hah, everyone knows there's no such thing as a free lunch. It's their own fault for falling into the trap."
+        },
+        {
+          "s": 29,
+          "t": "And if we're going to talk about greed, aren't those students the ones who are blinded by it? They completely ignore the risk that's right there in front of them."
+        },
+        {
+          "sit": "That's no excuse for your actions."
+        },
+        {
+          "s": 1,
+          "t": "Hah, and here comes the silver tongue. Surely you used that to reel in the students as well. Even now, many of them are still hopelessly dreaming of striking gold after they graduate."
+        },
+        {
+          "s": 1,
+          "t": "...People grow by learning from their mistakes. I hope this will be a valuable lesson to them."
+        },
+        {
+          "s": 1,
+          "t": "Let's head back to the Akademiya and turn this guy over to the matra. They should be able to link him with Alkami's business."
+        },
+        {
+          "s": 1,
+          "t": "Cyno? Didn't think I would run into you here."
+        },
+        {
+          "s": 18,
+          "t": "My vacation just ended not too long ago, so I'm going over some cases at the Akademiya. Who's this?"
+        },
+        {
+          "sit": "You describe everything that's happened to Cyno..."
+        },
+        {
+          "s": 18,
+          "t": "I see. Charging an interest rate over thirty percent indeed constitutes a crime."
+        },
+        {
+          "s": 18,
+          "t": "As it is highly likely that Alkami's also benefiting from this scheme, the matra will open an investigation on him as well. The training center will be closed until further notice."
+        },
+        {
+          "s": 18,
+          "t": "Any funds we manage to recover from the suspects will be returned to the students. It's unclear how much we'll be able to get back, however, given their extravagant spending."
+        },
+        {
+          "s": 1,
+          "t": "That should still be enough. Once the students realize the error of their ways, they won't fall so easily for such traps in the future."
+        },
+        {
+          "s": 1,
+          "t": "Anyway, thank you for your help. I hope this won't be too much trouble for you?"
+        },
+        {
+          "s": 18,
+          "t": "It's no trouble — just another day at work. How did you two get tangled up in this anyway?"
+        },
+        {
+          "sit": "Alkami tried to hire Kaveh as one of his instructors."
+        },
+        {
+          "s": 18,
+          "t": "Did you accept any Mora from him?"
+        },
+        {
+          "s": 1,
+          "t": "He promised to pay me three hundred thousand Mora per lecture, but I resigned as soon as I finished the first session. I didn't take a single coin."
+        },
+        {
+          "s": 18,
+          "t": "Ah, that's good."
+        },
+        {
+          "s": 1,
+          "t": "Hmm? What do you mean, \"that's good\"? Would you have taken me into custody as well if I had actually accepted any Mora?"
+        },
+        {
+          "s": 18,
+          "t": "I wouldn't have gone that far, but had he insisted that you were also an active participant in his schemes, under our rules, we would have been required to open an investigation on you as well."
+        },
+        {
+          "s": 18,
+          "t": "Either way, though, I believe you are innocent in all of this. Had you actually been alright with making money through less than noble means, your life wouldn't be the mess it currently is."
+        },
+        {
+          "s": 1,
+          "t": "Hey, what was that? What do you mean my life is a mess?"
+        },
+        {
+          "s": 18,
+          "t": "Never mind, your life is fine."
+        },
+        {
+          "s": 1,
+          "t": "...You're just messing with me now, aren't you?"
+        },
+        {
+          "s": 18,
+          "t": "Let's get back to business. If Alkami's case can be successfully resolved, you'll be eligible for a monetary reward from the Akademiya. Don't forget to pick it up after the fact."
+        },
+        {
+          "s": 1,
+          "t": "Huh, I didn't even know there was such a thing. I never would've guessed. Ahem, what I'm trying to say is that we didn't report Alkami because we thought we could make some Mora off of it."
+        },
+        {
+          "s": 18,
+          "t": "The reward will be given regardless of your personal motivations. It was implemented with the intent of encouraging people to supply tips to the matra."
+        },
+        {
+          "s": 1,
+          "t": "Fine."
+        },
+        {
+          "s": 18,
+          "t": "Is there anything else?"
+        },
+        {
+          "s": 1,
+          "t": "I want to go back to the training center one more time and talk to some of the kids."
+        },
+        {
+          "s": 18,
+          "t": "Sure, but you should wait until tomorrow. My subordinates will shut down the center today, and summon the students to gather information on the total amount of Mora they've lost in the scam."
+        },
+        {
+          "s": 1,
+          "t": "Alright, then I'll stay out of their way. I can talk to the kids tomorrow."
+        },
+        {
+          "s": 18,
+          "t": "I have a few other things to take care of, so I'll be off for now. If you want to follow up on this case, just come find me again, or ask one of the matra."
+        },
+        {
+          "s": 1,
+          "t": "Phew... That should finally be the end of that. Ugh, who would have thought it would turn out like this? All I wanted was to find a new gig and earn some Mora."
+        },
+        {
+          "s": 1,
+          "t": "To think Alkami would sink this low... it still makes me really upset."
+        },
+        {
+          "s": 1,
+          "t": "Still... I think I feel a little better now than when you found me back at the tavern."
+        },
+        {
+          "sit": "Oh? How so?"
+        },
+        {
+          "s": 1,
+          "t": "It's a little ironic, but you could say it's because I've realized that there are many circumstances in the world that are even worse than my own. Now that I've seen such things firsthand, I suppose I've earned a new sense of appreciation for my life."
+        },
+        {
+          "s": 1,
+          "t": "How should I put it? ...I'm pretty stubborn when it comes to my profession, so I often argue with my clients."
+        },
+        {
+          "s": 1,
+          "t": "The arguments are usually extremely frustrating, and every once in a while, I'd wonder if I only became an architect because fate wanted me to pay for some sins I'd committed in a previous life."
+        },
+        {
+          "s": 1,
+          "t": "Alkami's suggestion would have allowed me to quit my life as an architect and earn money solely from my reputation. But now that I've experienced that for myself... I can confidently say that I'd never want to do it again."
+        },
+        {
+          "sit": "And that's why he thinks you're too rigid when it comes to making Mora."
+        },
+        {
+          "s": 1,
+          "t": "Every scholar has their own sense of pride and a line that they don't like to cross. Of course, when faced with the vicissitudes of life, some will surrender these things to seek a more comfortable life. I can understand that."
+        },
+        {
+          "s": 1,
+          "t": "Just speaking for myself though, I don't think that's something I'd ever be able to do. The voice in my heart would just keep repeating one thing: the moment I turn away from my dreams would be the moment my career ends."
+        },
+        {
+          "s": 1,
+          "t": "If I stop devoting everything to my creative activities, I'd be able to lead a more comfortable life, but at the same time, my sense of intuition and understanding for the arts would also begin to degrade."
+        },
+        {
+          "s": 1,
+          "t": "At that point, any materialistic ease I may have gained in life would just become another form of torment. In comparison, my current life comes with its share of difficulties, but at least I'd never have to deal with that kind of existential reckoning."
+        },
+        {
+          "sit": "I can understand that."
+        },
+        {
+          "sit": "It's good to stay true to yourself."
+        },
+        {
+          "s": 1,
+          "t": "Haha, I appreciate it. You may call me conceited for this, but I would also like to think I'm talented enough to be able to lead a decent life without compromising my pride."
+        },
+        {
+          "s": 1,
+          "t": "It's certainly not easy, but... I want to keep at it."
+        },
+        {
+          "s": 1,
+          "t": "My thanks again for being such a great help throughout all of this. I'm planning to pay another visit to those kids tomorrow — want to come with me?"
+        },
+        {
+          "sit": "Sure, I'll come."
+        },
+        {
+          "s": 1,
+          "t": "Alright, I'll see you tomorrow then. Get some good rest."
+        },
+        {
+          "s": 26,
+          "t": "I never would have guessed Mr. Alkami was a scammer..."
+        },
+        {
+          "s": 30,
+          "t": "The training center has been shut down, and the matra have promised to return some of our tuition. But we've already spent so much time on this class... what should we do next?"
+        },
+        {
+          "s": 24,
+          "t": "Mr. Kaveh said we can keep working on our fundamentals, and try to get into the Akademiya."
+        },
+        {
+          "s": 26,
+          "t": "Hah, easier said than done... if it was easier to get into the Akademiya, none of us would have signed up for this class in the first place."
+        },
+        {
+          "s": 26,
+          "t": "Only the best of the best can get into the Akademiya studying on their own."
+        },
+        {
+          "s": 24,
+          "t": "...Mr. Kaveh might be willing to teach us."
+        },
+        {
+          "s": 30,
+          "t": "Why? What reason does he have to stick around?"
+        },
+        {
+          "s": 1,
+          "t": "Ahem. So, you're the only ones that showed up today, huh?"
+        },
+        {
+          "s": 30,
+          "t": "Huh? Kaveh's here!"
+        },
+        {
+          "s": 1,
+          "t": "Now, that's \"Mr. Kaveh\" to you. I am here as your instructor, so let's keep things a little more proper."
+        },
+        {
+          "s": 1,
+          "t": "I'll keep instructing you for a while longer. You can pass on the message to the other students. As long as someone wants to come, they can join the class."
+        },
+        {
+          "s": 1,
+          "t": "Oh also, I'm usually pretty busy, so I'll only be able to teach architecture fundamentals on my days off. Another disclaimer, I can't promise that you'll all be able to understand everything I'm going to teach."
+        },
+        {
+          "s": 1,
+          "t": "Architecture is not an easy profession. Aesthetics aside, even the basics of safe design can already be a handful for most people."
+        },
+        {
+          "s": 1,
+          "t": "If you want to design safe buildings, you'll have to go through a systematic study of structural engineering."
+        },
+        {
+          "s": 1,
+          "t": "And just as a heads up, all of this will be a huge step up from the superficial stuff you were learning before. It'll take both talent and perseverance to get through the course. I don't want to hear anyone say that I didn't warn you."
+        },
+        {
+          "s": 24,
+          "t": "We'll try our best."
+        },
+        {
+          "s": 1,
+          "t": "Hah, it seems some of you are really serious about this after all."
+        },
+        {
+          "s": 1,
+          "t": "Alright everyone, pack your stuff up. No need to prepare much for today's class — we're going to go on a quick field trip."
+        },
+        {
+          "sit": "Where to?"
+        },
+        {
+          "s": 1,
+          "t": "You'll know once we get there. Come on, let's get going. We'll be off once everyone's grabbed their pencils and sketch pads."
+        },
+        {
+          "s": 1,
+          "t": "This lighthouse has been around for a long time, and I handled its renovations when I first graduated from the Akademiya."
+        },
+        {
+          "s": 1,
+          "t": "The point of today is not so much about the lighthouse as a building, however."
+        },
+        {
+          "s": 1,
+          "t": "I just want you to take a look at it and do a bit of self-reflection. If you were tasked today with designing a building, how would you want it to look like?"
+        },
+        {
+          "s": 1,
+          "t": "Don't think about how you'd actually go about building it for now. Just put your ideas to paper, and draw the prettiest building that comes to your mind."
+        },
+        {
+          "s": 24,
+          "t": "So it can be... any kind of building?"
+        },
+        {
+          "s": 1,
+          "t": "Yep, as long as you think it'd look good. It doesn't even necessarily have to be a building. If you want, you can draw trees, the ocean, or even a garden area. Draw whatever you'd like."
+        },
+        {
+          "sit": "What's the point of this exercise?"
+        },
+        {
+          "s": 1,
+          "t": "In my experience, it's best to approach the study of architecture from a point of personal interest, rather than for the sake of a career."
+        },
+        {
+          "s": 1,
+          "t": "Both the study and practice of architectural design are extremely difficult. A person who's forced to work on projects that they don't resonate with will only struggle and suffer."
+        },
+        {
+          "s": 1,
+          "t": "So at least for today... I hope the students will be able to create something that they enjoy. There's no need to think about it too hard — they'll have plenty of time in the future to revisit the design and make changes."
+        },
+        {
+          "s": 1,
+          "t": "What do you think? Want to try your hand at it as well? Don't forget that this is a free class from Mr. Kaveh, the light of the Kshahrewar. On a normal day, this would cost you three hundred thousand Mora..."
+        },
+        {
+          "s": 24,
+          "t": "Mr. Kaveh looked really angry..."
+        },
+        {
+          "s": 25,
+          "t": "Who cares about him? Maybe he's just worried that we'll take all of his commissions once we finally graduate!"
+        },
+        {
+          "s": 26,
+          "t": "B—But that can't be it, right? Mr. Kaveh is super famous..."
+        },
+        {
+          "s": 25,
+          "t": "Who knows? My dad told me that the more famous someone is, the more arrogant and stubborn they become. Approachable people like Mr. Alkami are the rare ones!"
+        },
+        {
+          "s": 31,
+          "t": "Hello. This institution has been shut down by order of the matra. We are currently conducting an investigation of all related personnel."
+        },
+        {
+          "s": 31,
+          "t": "Please come back tomorrow if you have any business here."
+        },
+        {
+          "s": 32,
+          "t": "A matra investigation has indicated that Alkami, the owner of this training center, coerced the families of his students to take on usurious loans with the intent of making huge profits."
+        },
+        {
+          "s": 32,
+          "t": "This training center is now closed. All recovered funds will be returned to the victims after confirmation with the relevant individuals."
+        }
+      ],
+      "description": "Kaveh mentioned a Kshahrewar senior of his who has somehow struck gold without taking any personal commissions. You resolve to ask him for some career tips."
+    }
+  ],
+  "speakers": [
+    "Badawi",
+    "Kaveh",
+    "Lambad",
+    "Roya",
+    "Knocking on Door",
+    "Mehrak",
+    "Setaria",
+    "Dori",
+    "Tippu",
+    "Rubab",
+    "Qasimi",
+    "Alhaitham",
+    "Paimon",
+    "\"Graphical Illustrations of Ancient Architecture\"",
+    "Evolution of Ancient Literature",
+    "Tighnari",
+    "Zaha Hadi",
+    "Cyrus",
+    "Cyno",
+    "Faranak",
+    "Observe Zaha Hadi",
+    "Alkami",
+    "Read Teaching Materials",
+    "Adan",
+    "Uzayr",
+    "Waiz",
+    "Tanisha",
+    "Aabid",
+    "Adil",
+    "Fakhr",
+    "Shurayh",
+    "Nabil",
+    "Noticeboard"
+  ],
+  "id": "ch-108101"
+}

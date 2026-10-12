@@ -1,11 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Fetch LUNABASE (lunnoa1013/LUNABASE-Simulator, data/ only) into _tmp/LUNABASE
-and list characters / weapons / artifacts it has that data/v1 does not.
 
-LUNABASE is the id source for entities: a new character / weapon / artifact
-added to data/v1 should carry the id LUNABASE assigns it. Requires `gh auth
-login` with access to the (private) repo.
-"""
 import io
 import json
 import subprocess
@@ -21,7 +15,6 @@ DEST = ROOT / "_tmp" / "LUNABASE"
 LUNA = DEST / "data"
 
 LOCALES = ("en", "ja", "zh")
-# Removed from data/v1 on purpose (unreleased Traveler entries, nameless test swords)
 IGNORE_IDS = {"10000134", "10000135", "390002", "390003"}
 
 

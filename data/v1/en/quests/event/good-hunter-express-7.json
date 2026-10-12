@@ -1,0 +1,73 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "Sorry, but I'm busy right now."
+        },
+        {
+          "s": 0,
+          "t": "It's fine, I can wait — turnabout is fair play, after all."
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "Thanks, you're a lifesaver!"
+        },
+        {
+          "s": 0,
+          "t": "You might want to be careful while you deliver it. Don't touch any elements, and don't take too big a step, now."
+        },
+        {
+          "s": 0,
+          "t": "You do have to be quick about it, though. Wallit's impatience is pretty well-known around here."
+        },
+        {
+          "section": "Deliver the food to Short-Tempered Wallit"
+        },
+        {
+          "s": 1,
+          "t": "Come on, why isn't it here yet?"
+        },
+        {
+          "section": "Speak to Short-Tempered Wallit"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "Yup, Wallit ordered some Fisherman's Toast today before heading off to the Stone Gate on the border between Mondstadt and Liyue."
+        },
+        {
+          "s": 0,
+          "t": "Really, though, who orders take-out for finger food?"
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Oh, it's finally here, is it? Thanks so much. Now, pass it to me real quick — I have work to do after this."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Short-Tempered Wallit"
+  ],
+  "id": "q-41158"
+}

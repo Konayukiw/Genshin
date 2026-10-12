@@ -1,0 +1,3689 @@
+{
+  "chapter": "Hangout Event: Beidou",
+  "chapter_title": "When the Crux Shines Bright",
+  "act": "Act 1",
+  "act_title": "When the Crux Shines Bright",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19050",
+      "title": "A Special Guest",
+      "dialogue": [
+        {
+          "section": "Go to The Alcor"
+        },
+        {
+          "s": 0,
+          "t": "Well, would you look who's here! Looks like it's going to be a day to remember. Guys, look who the sea washed up!"
+        },
+        {
+          "s": 1,
+          "t": "Ahoy there, Traveler. Hah, so Captain really did invite you to join the homecoming celebration!"
+        },
+        {
+          "s": 2,
+          "t": "Hey! I heard that you took care of another crisis while you were in Inazuma. Are the rumors true?"
+        },
+        {
+          "s": 1,
+          "t": "That's what I heard, too. Thanks to you, Inazuma's Vision Hunt Decree was finally put to an end... Well done, Traveler!"
+        },
+        {
+          "s": 0,
+          "t": "Captain's got quite the eye for people. She said she was sure that your trip to Inazuma would stir up some waves, and sure enough..."
+        },
+        {
+          "sit": "All I wanted was to have a chat with the Electro Archon."
+        },
+        {
+          "sit": "It was a joint effort, I can't take all the credit."
+        },
+        {
+          "s": 1,
+          "t": "Heh, look at you, being so modest. We all know what you did to protect Liyue Harbor..."
+        },
+        {
+          "s": 0,
+          "t": "I've heard that they tell stories about you in Mondstadt too: the \"Honorary Knight\"... Pretty impressive!"
+        },
+        {
+          "s": 2,
+          "t": "I'd say someone of your caliber would be right at home in The Crux. Right, sailors?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, that's right! Wow, I'm getting excited just thinking of being the Traveler's crewmate!"
+        },
+        {
+          "s": 1,
+          "t": "Hey, whaddya say we arm wrestle?"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, I was worried you'd be too busy to show up."
+        },
+        {
+          "s": 0,
+          "t": "Oh, Captain on deck!"
+        },
+        {
+          "s": 2,
+          "t": "Captain! We were just trying to talk the Traveler into joining the crew."
+        },
+        {
+          "s": 1,
+          "t": "Yeah c'mon, Captain Beidou! Surely you've got a way to get the Traveler onboard."
+        },
+        {
+          "s": 3,
+          "t": "{F#She}{M#He}'s onboard right now for the celebration, isn't {F#she}{M#he}?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah, but just one celebration together is not enough. You know what we mean, Captain!"
+        },
+        {
+          "s": 3,
+          "t": "Alright, alright, I get it now. There is something special about you, {NICKNAME}. You earned everyone's respect, myself included."
+        },
+        {
+          "s": 3,
+          "t": "So it goes without saying that The Crux would be honored to have a crew member such as yourself."
+        },
+        {
+          "s": 1,
+          "t": "No doubt about that!"
+        },
+        {
+          "s": 3,
+          "t": "But then again, a hero like yourself doesn't just set off on a journey without some bigger purpose in mind."
+        },
+        {
+          "s": 3,
+          "t": "So should a hero really drop what they are doing just to spend day after day drifting at sea with us?"
+        },
+        {
+          "s": 3,
+          "t": "If that were the case, then The Crux, known for always moving forward to the next horizon, would instead be holding someone back."
+        },
+        {
+          "s": 2,
+          "t": "Right... Uh, I guess we didn't think that part through."
+        },
+        {
+          "s": 3,
+          "t": "Remember, rather than seeking out strong members to join us, you should be focusing on making yourselves the strongest that you can be! If we are powerful, they will come to us."
+        },
+        {
+          "s": 3,
+          "t": "Isn't that why everyone here chose to come aboard in the first place?"
+        },
+        {
+          "s": 0,
+          "t": "Yes... A strong sailor is always looking for a sturdy ship!"
+        },
+        {
+          "s": 1,
+          "t": "I guess I almost forgot the first lesson you ever taught me... Thanks for the reminder, Captain!"
+        },
+        {
+          "s": 3,
+          "t": "Just be sure you all keep that in mind! There's no more need to hound the Traveler. As you were! The Traveler and I have something to discuss."
+        },
+        {
+          "section": "Talk to Beidou"
+        },
+        {
+          "s": 3,
+          "t": "Chief Mate Juza is breaking in the newcomers. But, I think we can spare you the tedium of that."
+        },
+        {
+          "s": 3,
+          "t": "After this, the new crew members will be arranged into two teams for more specialized training, according to their own aptitudes and the needs of the fleet."
+        },
+        {
+          "s": 3,
+          "t": "One team will learn comprehensive survival skills, including maritime emergency rescue, marine meteorology, psychological counseling, and so on."
+        },
+        {
+          "s": 3,
+          "t": "They will serve as the support team for the fleet, ensuring safe navigation. That's why we call them \"The Shield of The Crux.\""
+        },
+        {
+          "sit": "What's the other team? \"The Spear of The Crux\"?"
+        },
+        {
+          "s": 3,
+          "t": "That's right. You catch on quick."
+        },
+        {
+          "sit": "What's the other team? \"The Pen of The Crux\"?"
+        },
+        {
+          "s": 3,
+          "t": "The Pen of The Crux? Hahahaha! That's a wild idea."
+        },
+        {
+          "s": 3,
+          "t": "Unfortunately, this ain't the Wanwen Bookhouse, kid."
+        },
+        {
+          "sit": "What's the other team? \"The Vision of The Crux\"?"
+        },
+        {
+          "s": 3,
+          "t": "The Vision of The Crux? Hahahaha! We don't have that many Visions, kid."
+        },
+        {
+          "s": 3,
+          "t": "As one might expect, we call the other team the \"Spear of The Crux,\" because they will be learning about naval warfare. They will make up the armed portion of our crew."
+        },
+        {
+          "s": 3,
+          "t": "Also, they are responsible for handling the fleet's cargo deals."
+        },
+        {
+          "s": 3,
+          "t": "So, what do you think? Which team is for you?"
+        },
+        {
+          "sit": "The Shield of The Crux."
+        },
+        {
+          "s": 3,
+          "t": "Heh, as I expected. You have a will to protect others."
+        },
+        {
+          "s": 3,
+          "t": "There are two main subjects that The Shield of The Crux focuses on, survival knowledge and entertainment."
+        },
+        {
+          "s": 3,
+          "t": "As I was saying earlier, survival knowledge includes prevention of injuries and diseases at sea, navigation and cartography, basic meteorology, etc."
+        },
+        {
+          "s": 3,
+          "t": "You can go learn about these skills from Yinxing, Huixing, and Liushi. They are all seasoned hands in their respective fields."
+        },
+        {
+          "sit": "I thought I would be learning from you, Captain."
+        },
+        {
+          "sit": "There are crewmates who know even more than you, Captain?"
+        },
+        {
+          "s": 3,
+          "t": "Each sailor has their own strengths and weaknesses. I'm no rookie, of course, but you shouldn't underestimate the knowledge of the crew."
+        },
+        {
+          "s": 3,
+          "t": "If there's anything I'm most proud of in the fleet, it's my people!"
+        },
+        {
+          "s": 3,
+          "t": "Go and get to work. I'll have some questions to test you later. Heh, I look forward to seeing how you do."
+        },
+        {
+          "s": 3,
+          "t": "Heh, you truly are an adventurer at heart."
+        },
+        {
+          "s": 3,
+          "t": "Let's start with the fundamentals for any armed crew member: basic boat handling."
+        },
+        {
+          "s": 3,
+          "t": "Follow me."
+        },
+        {
+          "section": "Have a taste of sailor training"
+        },
+        {
+          "s": 3,
+          "t": "So after we dropped you off in Ritou, we found a shipwreck nearby. Probably belonged to Inazuman pirates."
+        },
+        {
+          "s": 3,
+          "t": "We searched the wreckage and found a map."
+        },
+        {
+          "s": 3,
+          "t": "At first, I thought it was a nautical chart. I was thinking we might discover a new sailing route if we were lucky."
+        },
+        {
+          "s": 3,
+          "t": "But after a closer look, I realized that it wasn't a map of the sea at all. It was a Liyue treasure map, and no ordinary one at that."
+        },
+        {
+          "sit": "Is an evil chi active in the area?"
+        },
+        {
+          "sit": "Is there a great demonic presence in the area?"
+        },
+        {
+          "s": 3,
+          "t": "Um... nothing like that. I just mean that the map was a mess. So it was the most I could do to figure out that the treasure was probably in Liyue."
+        },
+        {
+          "s": 3,
+          "t": "As for its exact location, I have no idea."
+        },
+        {
+          "s": 3,
+          "t": "I'd say I've explored Liyue pretty extensively, but still, this one managed to beat me."
+        },
+        {
+          "s": 3,
+          "t": "So I thought of you. Nobody can beat you when it comes to treasure hunting on land, right?"
+        },
+        {
+          "sit": "You know me too well."
+        },
+        {
+          "sit": "I wouldn't say I'm the best treasure hunter of all time... only the best to date."
+        },
+        {
+          "s": 3,
+          "t": "Is that right? Well then, it looks like I'm in good hands."
+        },
+        {
+          "s": 3,
+          "t": "Here's the map, see what you can make of it."
+        },
+        {
+          "s": 3,
+          "t": "So? Where do you think it is?"
+        },
+        {
+          "sit": "I think it's Guili Plains, just very badly drawn."
+        },
+        {
+          "sit": "I think it's Qingce Village, just very badly drawn."
+        },
+        {
+          "s": 3,
+          "t": "Guili Plains... Huh, I never would have gotten that. How can you tell?"
+        },
+        {
+          "sit": "Call it a treasure hunter's intuition."
+        },
+        {
+          "sit": "Compared against a regular map, the topography of the area most closely resembles the Guili Plains."
+        },
+        {
+          "s": 3,
+          "t": "Ohh... okay then."
+        },
+        {
+          "s": 3,
+          "t": "So you do live up to the hype. I can't believe you noticed that — you sure have an eye for detail."
+        },
+        {
+          "s": 3,
+          "t": "Let's head over there and take a look. I'll need you to help me zero in on the specific location once we're there."
+        },
+        {
+          "s": 3,
+          "t": "Qingce Village... I don't see the resemblance at all. How'd you come to that conclusion?"
+        },
+        {
+          "sit": "Call it a treasure hunter's intuition."
+        },
+        {
+          "sit": "Qingce Village has a lot of terraced land, which seems to match the contour lines on this map."
+        },
+        {
+          "s": 3,
+          "t": "Ohh... okay then."
+        },
+        {
+          "s": 3,
+          "t": "I'm definitely a rookie at this, haha. But your word's good enough for me. Time for a trip to Qingce."
+        },
+        {
+          "s": 3,
+          "t": "You're coming with me, of course. I'll need you to help me zero in on the specific location once we're there."
+        },
+        {
+          "section": "Go to a quiet spot to talk details with Beidou"
+        },
+        {
+          "s": 3,
+          "t": "I'm glad you came, {NICKNAME}. Welcome back aboard."
+        },
+        {
+          "sit": "The crew seemed excited to see me. Thanks for helping me out back there."
+        },
+        {
+          "s": 3,
+          "t": "Hey, don't mention it! As a host, it would be pretty embarrassing to continue letting my guest be put on the spot like that."
+        },
+        {
+          "sit": "You run a tight ship, Captain."
+        },
+        {
+          "s": 3,
+          "t": "Do I? Haha! To be honest, I don't care for that kind of reputation. I don't want people to see me like some big-shot official from Yujing Terrace."
+        },
+        {
+          "s": 3,
+          "t": "But I'll take it as a compliment. I'm glad you see me as well-respected."
+        },
+        {
+          "sit": "You are a wise leader."
+        },
+        {
+          "s": 3,
+          "t": "Heh, thanks. I'll take that."
+        },
+        {
+          "s": 3,
+          "t": "Some rumors have it that the leader of The Crux is so powerful that she could slay the mighty leviathan, Haishan, without breaking a sweat."
+        },
+        {
+          "s": 3,
+          "t": "I can't go getting too caught up in my own reputation, though. That's certainly not how The Crux made it to where we are today."
+        },
+        {
+          "s": 3,
+          "t": "As the head of the fleet, my task is to keep us on the right course, no matter how turbulent the seas may become."
+        },
+        {
+          "s": 3,
+          "t": "But then again, the crew isn't usually this riled up. It's not that they're arrogant, they're just bubbling with ambition, that's all."
+        },
+        {
+          "s": 3,
+          "t": "Their excitement today comes from their great respect for you — both your strength and your character... So please, don't take it the wrong way."
+        },
+        {
+          "sit": "Why would I? I'm actually quite interested in the life of a sailor."
+        },
+        {
+          "s": 3,
+          "t": "Oh, is that so? Well, it just so happens that we're doing some recruitment and training for new crew members while we're back. It'll be a first-rate chance to learn the life of a sailor."
+        },
+        {
+          "s": 3,
+          "t": "Since you're interested, why don't you come along and experience a sailor's life firsthand?"
+        },
+        {
+          "s": 3,
+          "t": "I'm curious to see if you'll take the sea by storm in the same way you have on land."
+        },
+        {
+          "sit": "Alright, Captain. Show me the ropes."
+        },
+        {
+          "s": 3,
+          "t": "Good, come with me, I've got something interesting for you to see."
+        },
+        {
+          "sit": "Maybe not by storm, but I'll try and make a splash?"
+        },
+        {
+          "s": 3,
+          "t": "Nice! Come with me. Let's see how big of a splash you can manage."
+        },
+        {
+          "s": 3,
+          "t": "All good then. Great. Actually, speaking of Inazuma, I think your good luck must have rubbed off on me on the way over. I made an interesting find on the beach shortly after we parted ways."
+        },
+        {
+          "s": 3,
+          "t": "Let's talk about it over there, where it's a little quieter."
+        }
+      ],
+      "description": "The Crux returns safely from Inazuma and is preparing to celebrate. The only difference is that today, you're the guest of honor..."
+    },
+    {
+      "id": "q-19051",
+      "title": "Life on the High Seas",
+      "dialogue": [
+        {
+          "section": "Learn from Yinxing"
+        },
+        {
+          "s": 3,
+          "t": "Hmm? So you've already finished talking to the crew, huh? Heh, I thought it would take you a while longer. So, what did you think?"
+        },
+        {
+          "sit": "It was a breeze. I've got everything down pat."
+        },
+        {
+          "s": 3,
+          "t": "You sound confident, but don't underestimate The Shield of The Crux."
+        },
+        {
+          "s": 3,
+          "t": "I gotta admit though, I like your attitude, kid. Okay, let's get started!"
+        },
+        {
+          "sit": "It was a little hard, but I can handle it."
+        },
+        {
+          "s": 3,
+          "t": "Haha. Now you know that The Shield of The Crux is not such an easy job. Let's get started."
+        },
+        {
+          "sit": "It was pretty difficult. I'll need some time to review."
+        },
+        {
+          "s": 3,
+          "t": "Haha! There's that modesty of yours again, I didn't think that I'd ever hear the word \"difficult\" come out of your mouth. Come on, let's get on with it!"
+        },
+        {
+          "s": 3,
+          "t": "First of all, life on the sea isn't always plain sailing. Injuries and illnesses happen all the time."
+        },
+        {
+          "s": 3,
+          "t": "But what is the single biggest danger facing crew members?"
+        },
+        {
+          "sit": "Amputations."
+        },
+        {
+          "sit": "Cold weather."
+        },
+        {
+          "s": 3,
+          "t": "Hmm? Is that your final answer? Haha! Alright, on to the second question."
+        },
+        {
+          "s": 3,
+          "t": "As you've just learned, the fleet plots its route using nautical charts. The charts used by The Crux have additional charts attached."
+        },
+        {
+          "s": 3,
+          "t": "The supplementary chart has lots of lines in various colors for added reference. What is the purpose of these lines?"
+        },
+        {
+          "sit": "To mark different types of currents."
+        },
+        {
+          "sit": "To mark special locations."
+        },
+        {
+          "sit": "To add color and depth to the chart in a way that expresses the draughtsman's aesthetic preferences and fosters a greater appreciation of art among the crew."
+        },
+        {
+          "s": 3,
+          "t": "Okay, interesting, interesting. Now, last question..."
+        },
+        {
+          "s": 3,
+          "t": "On longer voyages, we have to be especially careful to avoid certain weather hazards that pose a threat to the integrity of the ship and the lives of the crew. For example, waterspouts."
+        },
+        {
+          "s": 3,
+          "t": "So, my question is, how can we reliably predict waterspouts, so we can avoid them?"
+        },
+        {
+          "sit": "When Sea Drake says a waterspout is coming, it's coming."
+        },
+        {
+          "sit": "The presence of dark clouds and strong winds in opposite directions, plus white vortices in the clouds."
+        },
+        {
+          "sit": "The presence of dark clouds and strong winds in opposite directions, plus rings of white spots in the clouds."
+        },
+        {
+          "s": 3,
+          "t": "Okay! Those are all my questions. Do you want to know how you did?"
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, I gotta say, each time I think I've wrapped my head around how great you are, you surprise me with something new."
+        },
+        {
+          "s": 3,
+          "t": "You got them all correct. They weren't the most difficult questions, but they weren't ones you could bluff your way through, either. You've clearly been paying attention to my crew."
+        },
+        {
+          "s": 3,
+          "t": "Okay then! Now it's time to apply that endless talent of yours to learning some new recreational activities."
+        },
+        {
+          "sit": "Why learn recreational activities?"
+        },
+        {
+          "sit": "To be clear, wrestling sea monsters bare-handed is not my idea of recreation..."
+        },
+        {
+          "s": 3,
+          "t": "Hah! Don't worry, all our recreational activities are respectable and, uh, above-board."
+        },
+        {
+          "s": 3,
+          "t": "You need to realize that being out at sea might be fun for the first few days while everything's new, but before too long..."
+        },
+        {
+          "s": 3,
+          "t": "...looking at the same old sea every day and being so isolated from everything can really cause people to struggle mentally."
+        },
+        {
+          "s": 3,
+          "t": "That is why regular recreational activities are an absolute necessity."
+        },
+        {
+          "s": 3,
+          "t": "We offer a lot of fun courses for our newcomer training, including fishing, photography, chess..."
+        },
+        {
+          "s": 3,
+          "t": "Oh! And thanks to Kazuha, these days we also offer poetry and music appreciation as well as communal wind listening..."
+        },
+        {
+          "s": 3,
+          "t": "Each newcomer has to participate in at least one, so that they've got some way of keeping themselves occupied at sea further down the line."
+        },
+        {
+          "s": 3,
+          "t": "Of course, if you'd prefer wrestling sea monsters with your bare hands, that can be arranged."
+        },
+        {
+          "sit": "Now you're talking my language..."
+        },
+        {
+          "sit": "I was just kidding..."
+        },
+        {
+          "s": 3,
+          "t": "Hahaha, well, for today at least, let's stick to the training schedule drawn up by Juza."
+        },
+        {
+          "s": 3,
+          "t": "If I remember correctly, it should be photography today... Come on, I'll show you."
+        },
+        {
+          "s": 3,
+          "t": "Now then, let's see... out of these three questions, you got a total of..."
+        },
+        {
+          "s": 3,
+          "t": "...two correct answers!"
+        },
+        {
+          "s": 3,
+          "t": "Not bad! After all, you didn't have much time to prepare. Plenty of people get through their whole training and still don't do this well."
+        },
+        {
+          "s": 3,
+          "t": "It seems that your survival know-how is now up to the standard required of qualified crew members. Time to move on — next up we have some Shield of The Crux recreational programs for you."
+        },
+        {
+          "sit": "Why learn recreational activities?"
+        },
+        {
+          "sit": "To be clear, wrestling sea monsters bare-handed is not my idea of recreation..."
+        },
+        {
+          "s": 3,
+          "t": "Hah! Don't worry, all our recreational activities are respectable and, uh, above-board."
+        },
+        {
+          "s": 3,
+          "t": "You need to realize that being out at sea might be fun for the first few days while everything's new, but before too long..."
+        },
+        {
+          "s": 3,
+          "t": "...looking at the same old sea every day and being so isolated from everything can really cause people to struggle mentally."
+        },
+        {
+          "s": 3,
+          "t": "That is why regular recreational activities are an absolute necessity."
+        },
+        {
+          "s": 3,
+          "t": "We offer a lot of fun courses for our newcomer training, including fishing, photography, chess..."
+        },
+        {
+          "s": 3,
+          "t": "Oh! And thanks to Kazuha, these days we also offer poetry and music appreciation as well as communal wind listening..."
+        },
+        {
+          "s": 3,
+          "t": "Each newcomer has to participate in at least one, so that they've got some way of keeping themselves occupied at sea further down the line."
+        },
+        {
+          "s": 3,
+          "t": "Of course, if you'd prefer wrestling sea monsters with your bare hands, that can be arranged."
+        },
+        {
+          "sit": "Now you're talking my language..."
+        },
+        {
+          "sit": "I was just kidding..."
+        },
+        {
+          "s": 3,
+          "t": "Hahaha, well, for today at least, let's stick to the training schedule drawn up by Juza."
+        },
+        {
+          "s": 3,
+          "t": "If I remember correctly, it should be photography today... Come on, I'll show you."
+        },
+        {
+          "s": 3,
+          "t": "Congratulations, you... Huh, wait a second, you didn't pass. Were my questions too difficult?"
+        },
+        {
+          "s": 3,
+          "t": "Hmm... They didn't seem to be all that hard..."
+        },
+        {
+          "s": 3,
+          "t": "Did you get them wrong on purpose, or...?"
+        },
+        {
+          "s": 3,
+          "t": "Just kidding. I know you wouldn't do that. I guess you're just not really suited for life on the sea."
+        },
+        {
+          "s": 3,
+          "t": "In that case, how about we take a trip back to Liyue Harbor? Looks like you and the sea are not made for each other. Dry land is where you really come into your own."
+        },
+        {
+          "s": 3,
+          "t": "I've actually been hoping for the chance to give you an insider look at how some of The Crux's important business is conducted."
+        },
+        {
+          "section": "Learn from Yinxing"
+        },
+        {
+          "s": 4,
+          "t": "Hello, Traveler. I am Yinxing, The Crux's surgeon at sea."
+        },
+        {
+          "s": 4,
+          "t": "Whenever a sailor has a health problem, they come to me. I deal with it all — from seasickness and common colds, to amputations, and everything in between."
+        },
+        {
+          "sit": "I'd like to learn about treating injuries and illnesses at sea."
+        },
+        {
+          "s": 4,
+          "t": "Oh, I presume the Captain arranged this, correct? Alright then, let's begin."
+        },
+        {
+          "s": 4,
+          "t": "First of all, let me ask you this. What do you think is the biggest danger that all new crew members face?"
+        },
+        {
+          "sit": "Getting seasick?"
+        },
+        {
+          "sit": "Catching a cold?"
+        },
+        {
+          "sit": "Losing a limb?"
+        },
+        {
+          "s": 4,
+          "t": "That can certainly be a problem at sea, but it's not the biggest danger. The most dangerous thing for a newcomer is to underestimate the dangers of life at sea."
+        },
+        {
+          "s": 4,
+          "t": "I have seen many new crew members who see themselves as young and fighting fit and have no regard for safety. They think that since they are tough enough to look after themselves on land, they'll be fine at sea as well."
+        },
+        {
+          "s": 4,
+          "t": "Those are the ones that always end up in the sick bay. Everyone should know that being a sailor, especially on a long voyage, is a brutal job in an unforgiving environment."
+        },
+        {
+          "s": 4,
+          "t": "We have to face malnutrition when we're short on supplies, all kinds of injuries and diseases that the harsh ocean weather can bring..."
+        },
+        {
+          "s": 4,
+          "t": "...and even the psychological problems that can arise due to isolation and the lack of entertainment."
+        },
+        {
+          "s": 4,
+          "t": "To make things worse, the lack of medication and treatment options at sea can result in even minor health problems becoming serious, or even fatal..."
+        },
+        {
+          "sit": "Hence, the need for amputations...?"
+        },
+        {
+          "s": 4,
+          "t": "Haha, you probably thought I was joking, right? That's not surprising. Most newcomers think the same way."
+        },
+        {
+          "s": 4,
+          "t": "But hopefully you now realize that with a little extra precaution, a lot of these things can be avoided..."
+        },
+        {
+          "s": 4,
+          "t": "Well, I think that's enough for you to think over for now."
+        },
+        {
+          "s": 4,
+          "t": "Is there anything else you would like to know?"
+        },
+        {
+          "sit": "What's Beidou's view on this?"
+        },
+        {
+          "s": 4,
+          "t": "Captain Beidou?... Out of everyone I have met, she probably values people's lives and safety the most."
+        },
+        {
+          "s": 4,
+          "t": "Although I'm just a doctor, Beidou has given me the full authority to send any newcomers who I don't see as fit for service off the ship until they are ready to come back with the right attitude."
+        },
+        {
+          "s": 4,
+          "t": "Every time we're stocking up before a voyage, medicine takes top priority. I'm even allowed to choose the suppliers regardless of the price, we have adequate budget for medical expenses."
+        },
+        {
+          "s": 4,
+          "t": "Do you know what Mora-Grubber, our bookkeeper, calls this?"
+        },
+        {
+          "s": 4,
+          "t": "A significant financial risk. Hehe."
+        },
+        {
+          "s": 4,
+          "t": "But Beidou knows the importance of having a healthy crew. That's why she has authorized me regardless."
+        },
+        {
+          "s": 4,
+          "t": "She places her full trust in me and believes that I can solve these problems... Of course, I have proven her right."
+        },
+        {
+          "s": 4,
+          "t": "So, to answer your question, that's how she thinks!"
+        },
+        {
+          "sit": "What happens to the crew members who have had limbs amputated?"
+        },
+        {
+          "s": 4,
+          "t": "Hmm? Are you concerned about them? No wonder Captain Beidou thinks you are different, there must be more to you than just your strength."
+        },
+        {
+          "s": 4,
+          "t": "If you can convince Mora-Grubber to show you the books, you'll see there is a regular fixed cost, titled \"Convalescence Payments and Incapacity Support for Injured Crew Members.\""
+        },
+        {
+          "s": 4,
+          "t": "Regardless of the fleet's income, those who have fought alongside us will certainly receive their compensation every year."
+        },
+        {
+          "s": 4,
+          "t": "Some of those that have returned to land have started small businesses, while others have chosen to go out traveling the world."
+        },
+        {
+          "s": 4,
+          "t": "The money is intended to allow them to live their lives as freely as possible. I'm sure being based on land helps a lot with that, too..."
+        },
+        {
+          "s": 4,
+          "t": "Still, we can't pretend like it solves everything. They call them life-changing injuries for a reason, you know?"
+        },
+        {
+          "s": 4,
+          "t": "But if nothing else, it's good to know that while Captain Beidou is in charge of The Crux, no one will get forgotten."
+        },
+        {
+          "sit": "Thanks. I've learned a lot."
+        },
+        {
+          "s": 4,
+          "t": "My pleasure. Okay, let's leave it there, then. Be sure to take good care of your health."
+        },
+        {
+          "section": "Consult Huixing the navigator"
+        },
+        {
+          "s": 5,
+          "t": "Listen up! Everyone can go back and call it a day! The photography session has been postponed."
+        },
+        {
+          "s": 3,
+          "t": "What's going on here, Juza?"
+        },
+        {
+          "s": 5,
+          "t": "Oh, Captain! There you are!"
+        },
+        {
+          "s": 5,
+          "t": "Well, Captain, the photography teacher just sent word saying that she's fallen ill and doesn't want to risk coming in, in case she keels over in class."
+        },
+        {
+          "s": 3,
+          "t": "I see, {NICKNAME}. That's quite unfortunate..."
+        },
+        {
+          "sit": "Captain, if I may, I know a little about photography."
+        },
+        {
+          "s": 3,
+          "t": "Oh? Quite the multi-talented one, aren't you."
+        },
+        {
+          "s": 3,
+          "t": "In that case, why don't you help us out and lead the class today?"
+        },
+        {
+          "s": 5,
+          "t": "Yeah... unfortunately, the original teacher canceled at short notice, so there's no time to schedule anything else instead."
+        },
+        {
+          "s": 5,
+          "t": "It would be great if the Traveler could step in as the teacher for the day!"
+        },
+        {
+          "s": 3,
+          "t": "It's up to you, {NICKNAME}."
+        },
+        {
+          "s": 3,
+          "t": "Great, it's settled then! Juza, let's muster everyone over here to meet the new teacher!"
+        },
+        {
+          "s": 5,
+          "t": "Yes, Captain!"
+        },
+        {
+          "s": 3,
+          "t": "That should be everyone. Take it away, Traveler."
+        },
+        {
+          "sit": "Before I begin, I do have one condition."
+        },
+        {
+          "s": 3,
+          "t": "Oh yeah? What's that?"
+        },
+        {
+          "sit": "Since this is a photography course, there has to be a subject. We will need a model."
+        },
+        {
+          "s": 3,
+          "t": "Fair enough. It seems like you already have someone in mind."
+        },
+        {
+          "s": 3,
+          "t": "So who will it be?"
+        },
+        {
+          "sit": "I think the most suitable model is... Chief Mate Juza!"
+        },
+        {
+          "s": 5,
+          "t": "Whoa? Me? You can't be serious! If a bad picture of a guy like me gets to the crew..."
+        },
+        {
+          "s": 5,
+          "t": "I'm sure everyone will blame the photographer for doing a bad job. I'm just thinking about your reputation here, Traveler. You'd better find someone else..."
+        },
+        {
+          "s": 5,
+          "t": "Ah, how about our Captain Beidou? I think she would be great."
+        },
+        {
+          "sit": "I think the most suitable model is... Yinxing!"
+        },
+        {
+          "s": 4,
+          "t": "Huh, me? But, but... Oh actually! I just remembered that the legs of these new chairs that I purchased are a bit too long... so I should go take care of that immediately."
+        },
+        {
+          "sit": "Is it the doctor's job to amputate chairs, too?"
+        },
+        {
+          "s": 4,
+          "t": "Uh... Anyway, I can't do it. I have things to do!"
+        },
+        {
+          "s": 4,
+          "t": "I really should get going..."
+        },
+        {
+          "sit": "Hmm... I think the most suitable model is... Xu Liushi!"
+        },
+        {
+          "s": 6,
+          "t": "Ah... Look at the horizon! There's a storm brewing in the distance..."
+        },
+        {
+          "s": 6,
+          "t": "But on a day like this... how is it possible? I guess I need to keep a good lookout today."
+        },
+        {
+          "sit": "Why can't you keep a lookout and attend class at the same time?"
+        },
+        {
+          "s": 6,
+          "t": "Haha, of course I can. But I think that's enough multitasking without adding modeling to the list, too."
+        },
+        {
+          "sit": "Hmm... I think the most suitable model is... Captain Beidou!"
+        },
+        {
+          "s": 3,
+          "t": "Me? Ahahaha! Well, we could do that, or..."
+        },
+        {
+          "s": 3,
+          "t": "Guyun Stone Forest looks extraordinary today, it'd be a pity not to capture the scenery for posterity."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, so how about we snap Guyun Stone Forest for today's class? Then there'd be no need for a model... Ahem."
+        },
+        {
+          "s": 5,
+          "t": "Come on, Captain! We talked about this, the photography class is supposed to be portrait photography! Have you forgotten?"
+        },
+        {
+          "s": 5,
+          "t": "\"Scenery looks nice at first, but it gets boring after a while. I bet it'd keep the crew more entertained if we got them learning portrait photography, so they could record moments in each other's daily lives.\""
+        },
+        {
+          "s": 5,
+          "t": "Those were your exact words, Captain."
+        },
+        {
+          "s": 3,
+          "t": "Hehe... Were they, now? Strange, I don't seem to remember anything about that..."
+        },
+        {
+          "s": 3,
+          "t": "Well then, {NICKNAME}, in that case — how about Huixing? I bet she's perfect for the Kamera!"
+        },
+        {
+          "s": 3,
+          "t": "Or Furong, or Mora-Grubber... even Little Yue!"
+        },
+        {
+          "s": 2,
+          "t": "Seriously, Captain? Little Yue? You're just trying to wriggle your way out of this. This isn't like you!"
+        },
+        {
+          "s": 2,
+          "t": "You are the captain, after all. Of all of us, you're the best suited to being a model."
+        },
+        {
+          "s": 5,
+          "t": "I agree! You were the one who invited the Traveler to be the teacher, so you should cooperate, Captain."
+        },
+        {
+          "s": 5,
+          "t": "Besides, Captain, you've never had your photo taken. It's high time you got one. You know, a heroic and striking kind of picture!"
+        },
+        {
+          "s": 5,
+          "t": "We can even use it to promote the fleet during recruitment..."
+        },
+        {
+          "s": 3,
+          "t": "Real funny guys..."
+        },
+        {
+          "sit": "Trust me, Captain. You are the best candidate."
+        },
+        {
+          "s": 3,
+          "t": "Well, if you say so... I'm not one to spoil the fun."
+        },
+        {
+          "s": 3,
+          "t": "So what do I do now, Traveler?"
+        },
+        {
+          "sit": "You can just strike an epic pose."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... like this?"
+        },
+        {
+          "sit": "Smile and be happy."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... like this?"
+        },
+        {
+          "sit": "Uh, you look a little nervous."
+        },
+        {
+          "sit": "Uh, you look a little stiff."
+        },
+        {
+          "s": 3,
+          "t": "Hah! You're kidding, right? I've never had my photo taken before, but something this simple shouldn't be a challenge for me."
+        },
+        {
+          "s": 3,
+          "t": "It must be... the lighting or something! You've got it wrong... Ahem."
+        },
+        {
+          "sit": "Perhaps you feel uncomfortable with so many people around?"
+        },
+        {
+          "sit": "Perhaps you feel uncomfortable posing here?"
+        },
+        {
+          "s": 3,
+          "t": "I never said that."
+        },
+        {
+          "sit": "We can go somewhere quieter."
+        },
+        {
+          "sit": "We can go somewhere with a better view."
+        },
+        {
+          "s": 3,
+          "t": "You mean go somewhere else and then bring the final photo back as teaching material?"
+        },
+        {
+          "s": 5,
+          "t": "Sounds good to me, haha! That's a good idea, isn't it guys?"
+        },
+        {
+          "s": 3,
+          "t": "Hmm, the lighting may still be a problem..."
+        },
+        {
+          "s": 3,
+          "t": "But I'm open to persuasion. If you have a suitable place in mind, I can consider it..."
+        },
+        {
+          "s": 3,
+          "t": "Just to be clear, I won't necessarily agree. It depends on the place you have in mind."
+        },
+        {
+          "sit": "How about the top of Mt. Tianheng, overlooking all of Liyue Harbor?"
+        },
+        {
+          "s": 3,
+          "t": "The fishing village near Wangshu Inn? That place is deserted now, isn't it?"
+        },
+        {
+          "s": 3,
+          "t": "How do you even know that place anyway? It's tiny! I don't think I've ever seen it on a single map."
+        },
+        {
+          "sit": "I once found some treasure there."
+        },
+        {
+          "s": 3,
+          "t": "Haha, treasure? There? I guess I missed out on that one."
+        },
+        {
+          "s": 3,
+          "t": "It just so happens that that little village is where I grew up. And now that you've mentioned it, it's given me the urge to go back and take a look around."
+        },
+        {
+          "s": 3,
+          "t": "How about we take this opportunity to pay my old home a visit?"
+        },
+        {
+          "sit": "Xu Liushi told me you once lived there."
+        },
+        {
+          "s": 3,
+          "t": "I'm surprised that you'd remember such a trivial detail."
+        },
+        {
+          "s": 3,
+          "t": "He's right though, I did live there for a while. And now that you've mentioned it, it's given me the urge to go back and take a look around."
+        },
+        {
+          "s": 3,
+          "t": "Well then, let's go. We can take this opportunity to pay my old home a visit."
+        },
+        {
+          "s": 3,
+          "t": "A view overlooking Liyue Harbor, huh? Sounds nice, but..."
+        },
+        {
+          "s": 3,
+          "t": "On second thought... I don't have any love for a lifeless gadget like the Kamera."
+        },
+        {
+          "s": 3,
+          "t": "I'd prefer to be having fun together with my crew! I guess I'm used to that rowdy bunch."
+        },
+        {
+          "s": 3,
+          "t": "So I think we can just forget the whole modeling thing for now."
+        },
+        {
+          "s": 3,
+          "t": "Sorry about that, {NICKNAME}, I guess I'll owe you a favor!"
+        },
+        {
+          "s": 3,
+          "t": "Well... Yaoguang Shoal is pretty relaxing."
+        },
+        {
+          "s": 3,
+          "t": "But if I want to enjoy the ocean breeze, why don't I just stay onboard The Alcor and enjoy the breeze with my crew? That'd be more fun if you ask me."
+        },
+        {
+          "s": 3,
+          "t": "So I think we can just forget the whole modeling thing for now."
+        },
+        {
+          "s": 3,
+          "t": "Sorry about that, {NICKNAME}, I guess I'll owe you a favor!"
+        },
+        {
+          "section": "Consult Huixing the navigator"
+        },
+        {
+          "s": 2,
+          "t": "Sorry about earlier, Traveler..."
+        },
+        {
+          "s": 2,
+          "t": "We were so caught up on getting you to join the fleet that we didn't notice we were going a little overboard... Good thing the Captain stepped in."
+        },
+        {
+          "sit": "It's okay. I was hoping to learn a little more about cartography."
+        },
+        {
+          "s": 2,
+          "t": "Oh! Well, in that case, you have come to the right person. I'm not just blowing smoke, you're looking at the most talented navigator in Liyue Harbor."
+        },
+        {
+          "s": 2,
+          "t": "I'll start by introducing some chart-reading essentials for new sailors. Feel free to interrupt if you have any questions."
+        },
+        {
+          "s": 2,
+          "t": "Let's start with what to look for when you get a set of complicated charts."
+        },
+        {
+          "s": 2,
+          "t": "First, you should always look at any indicated shorelines, islands or reefs, water depths, hydrological conditions, and other hazards."
+        },
+        {
+          "s": 2,
+          "t": "With these features in mind, you can answer the basic question of \"can I chart a safe course through this area.\""
+        },
+        {
+          "s": 2,
+          "t": "Visually, nautical charts are a little unique. Unlike land maps, most charts do not have a fixed scale, which means that it can be hard to precisely determine the exact distance between two points."
+        },
+        {
+          "s": 2,
+          "t": "The most advanced nautical charts come with a supplementary chart, which has different colored lines marked on it to indicate distances."
+        },
+        {
+          "s": 2,
+          "t": "It's worth mentioning that under my direction, The Crux is using these advanced kinds of charts!"
+        },
+        {
+          "s": 2,
+          "t": "Some cartographers mark out other points of interest on their charts, usually with their own special symbols. If they don't leave any accompanying notes, they can be very difficult to interpret."
+        },
+        {
+          "sit": "For example, charts inherited from the previous navigator?"
+        },
+        {
+          "s": 2,
+          "t": "Haha, not only those. We have tattered and torn charts that we've picked up from all over the place."
+        },
+        {
+          "s": 2,
+          "t": "To be honest, it can be quite a challenge, even for me. Some of these charts are really old and have symbols that I have never seen before..."
+        },
+        {
+          "s": 2,
+          "t": "But if we don't decipher them, we will certainly miss many secrets of the sea."
+        },
+        {
+          "s": 2,
+          "t": "Fortunately, we have the Captain with us. She managed to find some ancient books on semiotics that I can use to study the charts further."
+        },
+        {
+          "s": 2,
+          "t": "I don't think anyone other than our Captain could manage to get these kinds of resources. Old charts and ancient books on semiotics are not the kinds of things that are sold in your average marketplace..."
+        },
+        {
+          "s": 2,
+          "t": "Oops! I've gotten off-topic, hehe. Well, that just about covers the basics of chart-reading."
+        },
+        {
+          "s": 2,
+          "t": "Is there anything else you would like to know, Traveler?"
+        },
+        {
+          "sit": "Do you have experience drafting nautical charts?"
+        },
+        {
+          "s": 2,
+          "t": "Drafting charts? That's certainly a more advanced topic. To be honest, I've only attained a smattering of knowledge in that area."
+        },
+        {
+          "s": 2,
+          "t": "The charts we are using now are just revised versions of the ones left by the previous navigator."
+        },
+        {
+          "s": 2,
+          "t": "So my mapping experiences have been primarily limited to updating our charts to reflect changes in the sea."
+        },
+        {
+          "s": 2,
+          "t": "I think you can ask Captain Beidou more about cartography."
+        },
+        {
+          "s": 2,
+          "t": "One time, the fleet sailed into an uncharted area by mistake. It wasn't long before we turned the fleet around and returned the way we came out for fear of potential hazards."
+        },
+        {
+          "s": 2,
+          "t": "But Captain Beidou still managed to draft a simple chart of the area we sailed through for if and when we explore the area again."
+        },
+        {
+          "s": 2,
+          "t": "Incredible, isn't it? I was amazed to see that the Captain could even do cartography."
+        },
+        {
+          "sit": "Then why does she need you as a navigator?"
+        },
+        {
+          "s": 2,
+          "t": "Because I have the talent, and she doesn't want to let it go to waste. Hehe. She treats the whole crew that way."
+        },
+        {
+          "s": 2,
+          "t": "I initially had the same question myself. After all, in many fleets the captain also works as the navigator. I couldn't understand her reasoning at the time, so I asked her."
+        },
+        {
+          "s": 2,
+          "t": "She just laughed and told me to wise up, saying that even Rex Lapis never fights alone."
+        },
+        {
+          "s": 2,
+          "t": "She wants everyone onboard to master their role, so that The Crux is not floating on her alone."
+        },
+        {
+          "s": 2,
+          "t": "That way, if the day ever comes when she's no longer with the fleet, we will still be able to sail onward without her."
+        },
+        {
+          "s": 2,
+          "t": "Captain Beidou may seem aloof and even act careless sometimes, but the truth is that she's very considerate of everyone onboard."
+        },
+        {
+          "sit": "Nothing else, thank you."
+        },
+        {
+          "s": 2,
+          "t": "My pleasure. A friend of Captain Beidou is a friend of mine!"
+        },
+        {
+          "section": "Learn a thing or two from Xu Liushi"
+        },
+        {
+          "s": 3,
+          "t": "Here we are. This is the old house of the village chief."
+        },
+        {
+          "s": 3,
+          "t": "I bet he never expected that the little girl he took in would grow up to be seen as a curse that brought about the village's total destruction."
+        },
+        {
+          "sit": "If you're cursed, then I think I am too."
+        },
+        {
+          "s": 3,
+          "t": "What do you mean?"
+        },
+        {
+          "sit": "The Anemo Archon's Gnosis was taken after I arrived in Mondstadt."
+        },
+        {
+          "s": 3,
+          "t": "Haha, is that all?"
+        },
+        {
+          "sit": "The Geo Archon's Gnosis was also taken after I arrived in Liyue."
+        },
+        {
+          "s": 3,
+          "t": "And then lemme guess — you got to Inazuma and the Electro Archon's Gnosis was taken as well?"
+        },
+        {
+          "s": 3,
+          "t": "Heh, well you seem to wreak havoc on a grander scale than I ever could."
+        },
+        {
+          "sit": "Does that make you feel better now?"
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha. I get it, you're trying to convince me that I'm not cursed."
+        },
+        {
+          "s": 3,
+          "t": "I appreciate it, and I'll take it."
+        },
+        {
+          "s": 3,
+          "t": "Let's not forget that the people whose names stick around are the ones who emerge from the stormy seas unscathed, and the ones who get swept away in the wind are the fledgling birds who couldn't hack it."
+        },
+        {
+          "s": 3,
+          "t": "I for one have never encountered a storm I couldn't weather."
+        },
+        {
+          "s": 3,
+          "t": "But your journey's far from over, isn't it? Just remember, there's no telling what else you might encounter in this vast world."
+        },
+        {
+          "s": 3,
+          "t": "So if you ever find some idiot trying to brand you as a scapegoat just because you're the one who lived to tell the tale, tell them Captain Beidou demands to have the honor along with you."
+        },
+        {
+          "s": 3,
+          "t": "Remember, you'll always have the captain of The Crux to back you up wherever you go."
+        },
+        {
+          "sit": "I suppose we're just two scapegoats looking out for each other."
+        },
+        {
+          "s": 3,
+          "t": "Hahaha! Two cursed scapegoats banding together for survival... sounds like a recipe for disaster, but at the same time..."
+        },
+        {
+          "s": 3,
+          "t": "I kinda dig it."
+        },
+        {
+          "s": 3,
+          "t": "I'm lucky to have a friend like you!"
+        },
+        {
+          "s": 3,
+          "t": "Okay, it's time to get back to our photography. Right, teacher?"
+        },
+        {
+          "sit": "You finally remembered what we're here for."
+        },
+        {
+          "sit": "I thought you might not be in the mood."
+        },
+        {
+          "s": 3,
+          "t": "C'mon, let's not waste any time... Get it done while you can, before I change my mind."
+        },
+        {
+          "s": 3,
+          "t": "So, do I need to strike a pose?"
+        },
+        {
+          "s": 3,
+          "t": "Alright, how about this?"
+        },
+        {
+          "s": 3,
+          "t": "Wh—What!? The nerve! What do you think this is!?"
+        },
+        {
+          "s": 3,
+          "t": "I don't want to do this whole modeling thing!"
+        },
+        {
+          "s": 3,
+          "t": "Hey, cut it out! No more pictures!"
+        },
+        {
+          "section": "Learn a thing or two from Xu Liushi"
+        },
+        {
+          "s": 6,
+          "t": "Hello, Traveler. Are you here to learn about marine meteorology?"
+        },
+        {
+          "sit": "Wait, how did you know?"
+        },
+        {
+          "s": 6,
+          "t": "Haha, in my line of work, I've got to have a pair of sharp eyes."
+        },
+        {
+          "s": 6,
+          "t": "I saw the captain showing you around the training grounds, and then you went to see Yinxing and Huixing."
+        },
+        {
+          "s": 6,
+          "t": "So, I figured that she probably wants you to get to know the life of a crew member."
+        },
+        {
+          "sit": "You have a real knack for your work."
+        },
+        {
+          "sit": "Looks like Beidou got the right person for the job."
+        },
+        {
+          "s": 6,
+          "t": "Hehe! Okay, let's get started. First, I'll introduce you to the basics of meteorology."
+        },
+        {
+          "s": 6,
+          "t": "Marine meteorology basically means keeping tabs on the weather as well as other ocean phenomena, so things like sea fog, storm surges, waterspouts, and so on..."
+        },
+        {
+          "s": 6,
+          "t": "These are all potential threats to safe navigation. Luckily, whatever weather might be coming up, there's always some kind of sign that gives it away in advance."
+        },
+        {
+          "s": 6,
+          "t": "Take waterspouts for example. They're caused by high-speed rotating winds on the surface of the ocean. They can engulf large ships and do immense damage."
+        },
+        {
+          "s": 6,
+          "t": "But, if you know that waterspouts can only form in an environment with high temperature, high humidity, and large clouds, then you can be well-prepared."
+        },
+        {
+          "s": 6,
+          "t": "You will be even more alert if you also know that the presence of winds blowing in opposite directions with a significant difference in speed is a direct precursor to the formation of waterspouts."
+        },
+        {
+          "s": 6,
+          "t": "And most importantly, if you spot a small white vortex emerging from the clouds, you should immediately notify the crew to steer clear of what's ahead."
+        },
+        {
+          "s": 6,
+          "t": "So there you go, those are the warning signs of waterspouts. I am proud to say that, over the years, I haven't let a single one sneak up on my watch."
+        },
+        {
+          "sit": "You must have sharp eyesight."
+        },
+        {
+          "s": 6,
+          "t": "Well, I'm good at reading the sea, but I'm not as good as the captain when it comes to reading people."
+        },
+        {
+          "s": 6,
+          "t": "Do you know the small fishing village next to Wangshu Inn? I heard that when Captain was a kid, she worked there fishing with the adults."
+        },
+        {
+          "s": 6,
+          "t": "Later, she made her way into the harbor, where she struggled to make a living. Heh, managing to survive in an environment like that as a kid is solid proof of the Captain's capabilities."
+        },
+        {
+          "s": 6,
+          "t": "If it wasn't for her, I never would have dreamed of taking this job. She gave me confidence and told me I could do it."
+        },
+        {
+          "s": 6,
+          "t": "You may not have heard, but I'm best known outside the Crux Fleet for a slightly infamous story involving me, Third-Round Knockout, and a few too many..."
+        },
+        {
+          "s": 6,
+          "t": "Who would ever have thought that the rookie sailor who fell drunk into the sea and became a laughingstock among their now-former crewmates would then go on to become a lookout for The Crux? But it's the unbelievable truth, haha."
+        },
+        {
+          "s": 6,
+          "t": "It proves that having skills alone is not enough. You need someone like the Captain who is a good judge of character."
+        },
+        {
+          "sit": "Sounds like you have a lot of experience."
+        },
+        {
+          "s": 6,
+          "t": "I've gotta confess, I learned almost everything I know from the Captain."
+        },
+        {
+          "s": 6,
+          "t": "All the stuff about meteorology that I just told you about... she's the real expert."
+        },
+        {
+          "s": 6,
+          "t": "Do you know the small fishing village next to Wangshu Inn? I heard that when Captain Beidou was a kid, she worked there, fishing."
+        },
+        {
+          "s": 6,
+          "t": "Later, she made her way into the harbor, where she struggled to make a living. Heh, growing up in an environment like that, it's no wonder she knows everything about the sea."
+        },
+        {
+          "s": 6,
+          "t": "When I first came onboard, I lived every day wallowing in doubt, wondering if my former career as a sailor was all just a waste."
+        },
+        {
+          "s": 6,
+          "t": "But as I gradually learned some new things and became more experienced, I finally realized what makes The Crux so great."
+        },
+        {
+          "s": 6,
+          "t": "After all, not every fleet has the \"Uncrowned Lord of the Ocean\" as their leader. I feel lucky just to have joined."
+        },
+        {
+          "sit": "Thanks for your time. I think I've learned all that I need for now."
+        },
+        {
+          "s": 6,
+          "t": "Find me anytime if you want to know more."
+        },
+        {
+          "section": "Report back to Beidou"
+        },
+        {
+          "s": 3,
+          "t": "So, is it done yet? Please don't tell me that it looks weird..."
+        },
+        {
+          "sit": "Not at all, it's perfect."
+        },
+        {
+          "sit": "You were born to be a model."
+        },
+        {
+          "s": 3,
+          "t": "Show me."
+        },
+        {
+          "sit": "Only if you promise to give it back."
+        },
+        {
+          "sit": "Only if you promise not to beat me up if you don't like it..."
+        },
+        {
+          "s": 3,
+          "t": "Sure, whatever. Now give it here!"
+        },
+        {
+          "s": 3,
+          "t": "Hmm, yes... I see... Alright! On behalf of The Crux, thank you very much for your photography class today. You've been an excellent teacher, and I couldn't be more satisfied."
+        },
+        {
+          "s": 3,
+          "t": "Now, as Captain of The Crux, I am exercising my official right..."
+        },
+        {
+          "s": 3,
+          "t": "...to requisition this photograph for future promotion and recruitment purposes!"
+        },
+        {
+          "s": 3,
+          "t": "So I'm afraid I'll be holding on to this. That's fine with you, though, right? Haha..."
+        },
+        {
+          "section": "Go to the photography class"
+        },
+        {
+          "s": 3,
+          "t": "Hmm. It's certainly seen better days..."
+        },
+        {
+          "s": 3,
+          "t": "It was never that impressive, but at least back in the day it was a lively village and home to several families."
+        },
+        {
+          "s": 3,
+          "t": "I wonder how long these last few old houses will remain standing."
+        },
+        {
+          "sit": "So what exactly happened here?"
+        },
+        {
+          "s": 3,
+          "t": "Nothing as dramatic as you might think. A few small incidents occurred and then people began to leave."
+        },
+        {
+          "s": 3,
+          "t": "C'mon, let's take a walk around."
+        },
+        {
+          "section": "Head to the fishing village near Wangshu Inn"
+        },
+        {
+          "s": 3,
+          "t": "\"To Zhong...\""
+        },
+        {
+          "s": 3,
+          "t": "...Zhong? Hmm, I barely remember this name."
+        },
+        {
+          "sit": "Maybe you've been gone too long."
+        },
+        {
+          "sit": "It's probably because you were little at the time."
+        },
+        {
+          "s": 3,
+          "t": "You're right. I was only about five or six years old when I first arrived here."
+        },
+        {
+          "s": 3,
+          "t": "I was homeless and had to wander around the streets. I remember finally managing to find half a Rice Bun, but then a stray dog jumped out and snatched it away from me."
+        },
+        {
+          "s": 3,
+          "t": "Half a Rice Bun was not something I was willing to give up so easily at the time, so I chased it all the way to this neighborhood."
+        },
+        {
+          "s": 3,
+          "t": "Then a few fishermen saw us running and stopped me. They were kind enough to give me some food."
+        },
+        {
+          "s": 3,
+          "t": "Seeing me stop, the dog also stopped running."
+        },
+        {
+          "s": 3,
+          "t": "But straight away, it keeled over and never got up again. Maybe it was too tired or maybe it had starved to death."
+        },
+        {
+          "s": 3,
+          "t": "I went over and saw that the dog still had the half Rice Bun in its mouth. It didn't let go even at the very end... Heh, poor thing."
+        },
+        {
+          "s": 3,
+          "t": "Had I known the dog was so weak, I would have let it take that half Rice Bun."
+        },
+        {
+          "sit": "That's when the villagers here took you in?"
+        },
+        {
+          "s": 3,
+          "t": "I could tell they were wary of me at first. I was the dirty little kid who had just chased a dog to death over some scraps of food."
+        },
+        {
+          "s": 3,
+          "t": "But I got lucky. The village chief took pity on me and brought me to their home. That's how I ended up staying here."
+        },
+        {
+          "sit": "What made you leave later?"
+        },
+        {
+          "s": 3,
+          "t": "Hehe..."
+        },
+        {
+          "s": 3,
+          "t": "Do you know what the name \"Beidou\" means?"
+        },
+        {
+          "s": 3,
+          "t": "Come on, I'll explain along the way."
+        },
+        {
+          "s": 3,
+          "t": "How about this pose?"
+        },
+        {
+          "s": 3,
+          "t": "I can't wait to see how you perform."
+        },
+        {
+          "s": 4,
+          "t": "Be sure to take good care of yourself."
+        },
+        {
+          "s": 2,
+          "t": "One day, I will decipher all these symbols."
+        },
+        {
+          "s": 6,
+          "t": "Find me anytime if you want to know more."
+        },
+        {
+          "s": 3,
+          "t": "Now, Upriver is long gone and Downriver is all but deserted. It won't be long before no one even remembers what these places are called."
+        },
+        {
+          "s": 3,
+          "t": "Without the village chief to handle the situation, people began blaming each other. There were even rumors that some families had been overfishing, leaving nothing for the rest of the village to catch."
+        },
+        {
+          "s": 3,
+          "t": "They said I was a living curse, and the downfall of the village was all my fault."
+        },
+        {
+          "s": 3,
+          "t": "Then some of the villagers started shouting and drove me out of the village."
+        },
+        {
+          "s": 3,
+          "t": "They shouted, \"Nandou controls life! Beidou controls death... Beidou controls death!\""
+        }
+      ],
+      "description": "At Beidou's invitation, you take part in the \"Shield of the Crux\" sailor training. Time to get a taste of life out at sea, far from any dry land..."
+    },
+    {
+      "id": "q-19052",
+      "title": "Beneath the Surface",
+      "dialogue": [
+        {
+          "section": "Go to the small vessel that Beidou has prepared"
+        },
+        {
+          "s": 3,
+          "t": "These are some older Skirmish Boats that we keep on The Alcor as backup."
+        },
+        {
+          "s": 3,
+          "t": "Although they've been made redundant by newer models now, they're still fully kitted out."
+        },
+        {
+          "s": 3,
+          "t": "They are perfect for when we need to do simulated battles as part of crew training."
+        },
+        {
+          "sit": "I thought I'd be steering The Alcor in a battle simulation."
+        },
+        {
+          "s": 3,
+          "t": "Hahaha, disappointed? So this isn't quite on the scale that you had in mind, huh?"
+        },
+        {
+          "s": 3,
+          "t": "To be honest, The Alcor going into battle is the last thing I'd ever want to see."
+        },
+        {
+          "s": 3,
+          "t": "In fact, out of all the confrontations we've ever had, almost all were resolved by negotiation."
+        },
+        {
+          "s": 3,
+          "t": "Only when negotiations fail do we consider deploying our armed fighters and Skirmish Boats, and they alone are enough to handle most situations."
+        },
+        {
+          "s": 3,
+          "t": "The only reason The Alcor would ever need to open fire would be if it were a fight to the death."
+        },
+        {
+          "s": 3,
+          "t": "The Alcor serves only two purposes, to deter or to destroy."
+        },
+        {
+          "s": 3,
+          "t": "We are an armed fleet with a strong sense of justice, not war-hungry lunatics."
+        },
+        {
+          "s": 3,
+          "t": "We are very careful about determining when to use force and exactly what level of force to use."
+        },
+        {
+          "s": 3,
+          "t": "All of this is to say that mastering a small attack craft is quite enough for new crew members."
+        },
+        {
+          "s": 3,
+          "t": "Do you have any experience piloting small armed vessels?"
+        },
+        {
+          "sit": "Sure do, I can even sail and fire at the same time."
+        },
+        {
+          "s": 3,
+          "t": "You mean you can do the jobs of a helmsman and a gunner simultaneously...? That's quite an achievement."
+        },
+        {
+          "s": 3,
+          "t": "Even in The Crux, there are few who can do that."
+        },
+        {
+          "s": 3,
+          "t": "Seems like you're a natural."
+        },
+        {
+          "sit": "Of course, I can even navigate a ship right through a whirlpool."
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha, you're the first person I've ever met who is so dismissive of the power of the sea."
+        },
+        {
+          "s": 3,
+          "t": "But I guess to put it another way, you're already a seasoned veteran, huh?"
+        },
+        {
+          "s": 3,
+          "t": "In that case, I will skip the basics on how to operate your craft."
+        },
+        {
+          "s": 3,
+          "t": "The goal of this exercise is simple: Steer your Skirmish Boat along the prescribed route and return here within the time limit."
+        },
+        {
+          "s": 3,
+          "t": "You can start when you're ready. I'll be waiting here, so I can observe your skills."
+        },
+        {
+          "section": "Complete the boat handling challenge"
+        },
+        {
+          "s": 3,
+          "t": "Nicely done! {NICKNAME}, that was a joy to watch."
+        },
+        {
+          "s": 3,
+          "t": "Perfect timing on the turns, and you kept your craft stable on the straightaway. It was like watching a well-rehearsed show."
+        },
+        {
+          "sit": "I'd call that pretty routine."
+        },
+        {
+          "sit": "I've had a lot of training in sailing."
+        },
+        {
+          "s": 3,
+          "t": "Hahaha. Alright — it's high time I introduced you to some of the more serious business that The Crux takes on."
+        },
+        {
+          "s": 3,
+          "t": "Come with me. We're going to Liyue Harbor."
+        },
+        {
+          "s": 3,
+          "t": "Hah, not so on form today, {NICKNAME}, huh?"
+        },
+        {
+          "sit": "Yeah, I'm a little rusty."
+        },
+        {
+          "sit": "I fazed out a little."
+        },
+        {
+          "s": 3,
+          "t": "I'm sure the boat is partly to blame. It's a pretty old craft, so it can be a little sluggish to operate."
+        },
+        {
+          "s": 3,
+          "t": "So, don't worry about it. Just remind me to have Juza make some improvements to it when we get back."
+        },
+        {
+          "s": 3,
+          "t": "Anyway, that was all just to get you warmed up..."
+        },
+        {
+          "s": 3,
+          "t": "What I really want to show you is the more serious side of The Crux's business."
+        },
+        {
+          "s": 3,
+          "t": "Come with me. We're going to Liyue Harbor."
+        },
+        {
+          "s": 3,
+          "t": "You may be aware that as an armed fleet, The Crux is kinda like the maritime equivalent of a Guard for Hire."
+        },
+        {
+          "s": 3,
+          "t": "We work as an armed carrier, earning our keep by successfully delivering the goods entrusted to us from A to B."
+        },
+        {
+          "s": 3,
+          "t": "Aside from that though, there is also one other important way we make income..."
+        },
+        {
+          "sit": "Bounties for capturing pirates on the Ministry of Civil Affairs' wanted list?"
+        },
+        {
+          "sit": "Consultancy fees for running fast-track training courses for other crews?"
+        },
+        {
+          "sit": "Remuneration for completing Adventurers' Guild commissions?"
+        },
+        {
+          "s": 7,
+          "t": "Actually, it's trading. In certain kinds of goods."
+        },
+        {
+          "s": 3,
+          "t": "Hey! My hotshot accountant! Nice of you to join us."
+        },
+        {
+          "s": 7,
+          "t": "Cut it out, boss."
+        },
+        {
+          "s": 7,
+          "t": "Juza sent me here with a message. He says preparations are now underway. If you give me the all-clear, I'll head straight over."
+        },
+        {
+          "s": 3,
+          "t": "Okay. Be careful."
+        },
+        {
+          "sit": "What's your bookkeeper doing here?"
+        },
+        {
+          "s": 3,
+          "t": "Well... She has something to take care of."
+        },
+        {
+          "s": 3,
+          "t": "Mora-Grubber was right though. The other important side to our business — the less official side — is doing exactly what merchants do."
+        },
+        {
+          "s": 3,
+          "t": "Importing here, exporting there. The only difference between us and regular merchants is that our transactions aren't entirely above-board."
+        },
+        {
+          "s": 3,
+          "t": "You'll see what I mean by that shortly. I'm taking you to see one such transaction for yourself."
+        },
+        {
+          "s": 3,
+          "t": "Come on, let's go meet our trading partner for the day."
+        },
+        {
+          "section": "Talk to Beidou"
+        },
+        {
+          "s": 8,
+          "t": "Fresh seafood! Fresh seafood! Catch it while you can!"
+        },
+        {
+          "s": 3,
+          "t": "What do you have?"
+        },
+        {
+          "s": 8,
+          "t": "Hello there! Here at Nei's Professional Fishmonger's, we got everything you could ask for."
+        },
+        {
+          "s": 8,
+          "t": "So what do you need?"
+        },
+        {
+          "s": 3,
+          "t": "I want a bass head with all the teeth removed. If there's a single tooth in there, I don't want it."
+        },
+        {
+          "s": 8,
+          "t": "Huh? ...You know bass have pharyngeal teeth, right? In the throat? How do you expect me to get all those out?"
+        },
+        {
+          "s": 3,
+          "t": "Then I'll have a bass trunk with two swim bladders. Again, if it's short by one swim bladder, it's not the bass I want."
+        },
+        {
+          "s": 8,
+          "t": "You're not making this easy for me... One bass means one swim bladder. 'Fraid that's not up to me."
+        },
+        {
+          "s": 3,
+          "t": "Okay, then I'll take a bass tail with scales that are yellow on the outside, black on the inside. Also, it's gotta have a total of 81 scales, that's 7 times 7. No more, no less."
+        },
+        {
+          "s": 8,
+          "t": "What kind of fish scales are yellow outside and black inside? You sure this is a fish you're talking about?"
+        },
+        {
+          "s": 8,
+          "t": "In any case, you can try all you want but seven times seven is never gonna get you 81..."
+        },
+        {
+          "s": 8,
+          "t": "Pardon my asking but you're not a fish expert, are you? I'm sorry, Ma'am! But I'm afraid I don't have any of the things you're looking for."
+        },
+        {
+          "sit": "Didn't you say you have everything we could ask for?"
+        },
+        {
+          "s": 8,
+          "t": "Look, I'm a professional, and so are most of the people I serve. I can accommodate anything they ask for. Seems you two are amateurs, so I'm sorry, but you'll have to go someplace else."
+        },
+        {
+          "s": 3,
+          "t": "Anywhere you'd recommend?"
+        },
+        {
+          "s": 8,
+          "t": "Hehe, like I said, Nei's Professional Fishmonger's is for professionals. For amateurs, the place to go to would be Wai's Amateur Fishmonger's."
+        },
+        {
+          "section": "Meet Beidou in Liyue Harbor"
+        },
+        {
+          "s": 9,
+          "t": "Are you two here to collect your order? Huh? Bei... Ahem!"
+        },
+        {
+          "s": 3,
+          "t": "Yes, Sir. We're here about that bass."
+        },
+        {
+          "s": 9,
+          "t": "I didn't expect you to come in person. But we still need to follow procedure."
+        },
+        {
+          "s": 9,
+          "t": "The bass you want is not a standard specimen. Our fishermen need to wait for the right moment to catch it."
+        },
+        {
+          "s": 9,
+          "t": "You know the rules, I take it?"
+        },
+        {
+          "s": 3,
+          "t": "Of course."
+        },
+        {
+          "sit": "What rules?"
+        },
+        {
+          "s": 9,
+          "t": "Hehe. As you know, timing and location are everything when it comes to fishing. You have to wait till all the conditions are just right: that means the tide, the moon, and the wind."
+        },
+        {
+          "s": 9,
+          "t": "So let me ask you this. When will the tide come in?"
+        },
+        {
+          "s": 3,
+          "t": "The fishing song will sound out at midnight."
+        },
+        {
+          "s": 9,
+          "t": "How drunk will the moon be before the party's over?"
+        },
+        {
+          "s": 3,
+          "t": "It won't stop while the star of death shines."
+        },
+        {
+          "s": 9,
+          "t": "I see, yes... Which way will the sea breeze be blowin'?"
+        },
+        {
+          "s": 3,
+          "t": "The breeze should be bound for Guyun."
+        },
+        {
+          "s": 9,
+          "t": "Alright then. Well received, I will go and make arrangements. Ahem..."
+        },
+        {
+          "s": 3,
+          "t": "Great! I think that wraps up everything we needed to do in Liyue Harbor. Let's head back and wait for the delivery."
+        },
+        {
+          "sit": "That's it? But where's our fish?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, I thought we were pretty clear, weren't we?"
+        },
+        {
+          "sit": "What did all those riddles mean?"
+        },
+        {
+          "s": 3,
+          "t": "The three people we just met are our business partners. Nei's Professional Fishmonger's and Wai's Amateur Fishmonger's are just cover names."
+        },
+        {
+          "s": 3,
+          "t": "The bass, obviously, is the code name for the goods. The numbers of teeth, swim bladders, and scales all represent different specifications."
+        },
+        {
+          "s": 3,
+          "t": "Meanwhile, the conversation I had with the warehouse keeper was the instructions for the deal itself. Lemme translate it for you..."
+        },
+        {
+          "s": 3,
+          "t": "Tonight at midnight, the deal will take place in Guyun Stone Forest. The Alcor will wait there as long as needed."
+        },
+        {
+          "s": 3,
+          "t": "As for what the actual goods are, well, you'll see tonight."
+        },
+        {
+          "sit": "This is all so mysterious... is it as shady as it seems?"
+        },
+        {
+          "sit": "We're not doing anything illegal here, are we?"
+        },
+        {
+          "s": 3,
+          "t": "What if I were to say yes? What would you do then?"
+        },
+        {
+          "sit": "Try and persuade Ningguang to give you a light sentence..."
+        },
+        {
+          "sit": "Pretend I didn't see anything..."
+        },
+        {
+          "sit": "I need to think about it..."
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha, thank you, {NICKNAME}. But don't worry, everything will be fine."
+        },
+        {
+          "s": 3,
+          "t": "I deeply value you as a friend, but ultimately, you're not with The Crux."
+        },
+        {
+          "s": 3,
+          "t": "I definitely don't want to cause you any trouble just because you hung out with me."
+        },
+        {
+          "s": 3,
+          "t": "So rest assured, we haven't broken any laws — at least not today."
+        },
+        {
+          "section": "Talk to Nei"
+        },
+        {
+          "s": 9,
+          "t": "Captain Beidou. You gave me quite the surprise when you showed up in person earlier today."
+        },
+        {
+          "s": 3,
+          "t": "Well, my friend is visiting, so I wanted to show {M#him}{F#her} how The Crux handles some of its important business."
+        },
+        {
+          "s": 9,
+          "t": "I see. You two must be close."
+        },
+        {
+          "s": 3,
+          "t": "You got that right! Now, down to business."
+        },
+        {
+          "s": 3,
+          "t": "Have you brought the goods?"
+        },
+        {
+          "s": 9,
+          "t": "Yep, all here. Please, feel free to take stock."
+        },
+        {
+          "s": 10,
+          "t": "Stop! Nobody move!"
+        },
+        {
+          "s": 10,
+          "t": "We have received certain information pertaining to a potential illegal business transaction at this location."
+        },
+        {
+          "s": 10,
+          "t": "Apologies, Captain Beidou, but I'm going to need to inspect those goods."
+        },
+        {
+          "sit": "(Oh no. Should I run for it?)"
+        },
+        {
+          "sit": "(Oh no. Should I distract him while Beidou retreats?)"
+        },
+        {
+          "s": 3,
+          "t": "Oh? An illegal business transaction, you say? All the goods are here. If you have any suspicions, please inspect them at your leisure."
+        },
+        {
+          "s": 11,
+          "t": "C—Captain, everything's been checked. It's just a bunch of potatoes, flour, and so on, and... all the paperwork checks out too."
+        },
+        {
+          "s": 10,
+          "t": "Huh?"
+        },
+        {
+          "s": 12,
+          "t": "Everything's been checked thrice over... there's not a single contraband item here. The paperwork was approved by the Ministry of Civil Affairs and the tax declarations are all in order..."
+        },
+        {
+          "s": 3,
+          "t": "Looks like you've managed to clear everything up — I suppose we can put this down as a simple misunderstanding?"
+        },
+        {
+          "s": 10,
+          "t": "Yes, apologies... this was a mistake on our end."
+        },
+        {
+          "s": 10,
+          "t": "C'mon, let's go!"
+        },
+        {
+          "s": 9,
+          "t": "Bravo, Captain Beidou. This was rather ingenious."
+        },
+        {
+          "sit": "Wait a second. What's going on?"
+        },
+        {
+          "sit": "All this mystery over some potatoes and flour?"
+        },
+        {
+          "s": 9,
+          "t": "Seems like your friend still has a little catching up to do."
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha, I know you have a lot of questions, {NICKNAME}. Come on, take a walk with me, and I'll lay it all out for you."
+        },
+        {
+          "s": 9,
+          "t": "I'll leave you both to it. Captain Beidou, I look forward to doing business with you again. Take care."
+        },
+        {
+          "section": "Talk to Mr. Iron Abacus"
+        },
+        {
+          "s": 3,
+          "t": "Looking at the time, it should be any second now."
+        },
+        {
+          "s": 3,
+          "t": "Look, that's the signal!"
+        },
+        {
+          "s": 3,
+          "t": "Haha, tonight's real deal is officially done."
+        },
+        {
+          "s": 3,
+          "t": "Do you have any more questions?"
+        },
+        {
+          "sit": "I have a feeling Ningguang is not so easy to fool."
+        },
+        {
+          "s": 3,
+          "t": "You're right. Never underestimate her. But as long as we don't take things too far, she won't look into it too closely."
+        },
+        {
+          "s": 3,
+          "t": "She knows that neither you nor I would do anything to harm Liyue."
+        },
+        {
+          "s": 3,
+          "t": "In any case, there's another higher-level watch list at the Ministry of Civil Affairs above the one we're on. It's top-secret. Even I don't know whose names are on it."
+        },
+        {
+          "s": 3,
+          "t": "But I do know that the individuals and organizations on that list are the ones the Qixing are really wary of."
+        },
+        {
+          "s": 3,
+          "t": "Haha, I've gotten off-topic. On some level, Ningguang and I are actually business partners too."
+        },
+        {
+          "s": 3,
+          "t": "Reason being, I'm the only one who can get her some of the more obscure treasures she wants."
+        },
+        {
+          "sit": "What is the real deal?"
+        },
+        {
+          "s": 3,
+          "t": "It's complicated."
+        },
+        {
+          "s": 3,
+          "t": "All you need to know is that what might be easily attainable for some people can often be a lifesaver for others who can't get their hands on it."
+        },
+        {
+          "s": 3,
+          "t": "That's where we come in. It's as simple as that."
+        },
+        {
+          "sit": "Do you mean... weapons?"
+        },
+        {
+          "sit": "Do you mean... medicine?"
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha..."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}... you still have some important things to take care of, don't you?"
+        },
+        {
+          "s": 3,
+          "t": "As long as you don't know what I was referring to, you'll be safe."
+        },
+        {
+          "s": 3,
+          "t": "So I'm sorry, but I can't tell you for now."
+        },
+        {
+          "s": 3,
+          "t": "Of course, if the day comes when you've traveled to every corner of the world, found your sibling, and neatly tied up all your loose ends along the way..."
+        },
+        {
+          "s": 3,
+          "t": "You are welcome to come back here, and I will tell you all about it."
+        },
+        {
+          "s": 3,
+          "t": "You will always be welcome in the Crux Fleet. I hope I get to see you onboard again someday."
+        },
+        {
+          "section": "Go to Guyun Stone Forest"
+        },
+        {
+          "s": 13,
+          "t": "Fresh seafood! Fresh seafood! Come take a look!"
+        },
+        {
+          "s": 3,
+          "t": "Is this Wai's Amateur Fishmonger's?"
+        },
+        {
+          "s": 13,
+          "t": "That's the one! We have all kinds of amateur stuff here. The more amateur, the more of it we've got!"
+        },
+        {
+          "s": 13,
+          "t": "What would you like?"
+        },
+        {
+          "s": 3,
+          "t": "We'd like a bass head."
+        },
+        {
+          "s": 13,
+          "t": "No problem! Ours are all toothless, mind you."
+        },
+        {
+          "s": 3,
+          "t": "And a bass trunk."
+        },
+        {
+          "s": 13,
+          "t": "No problem! I'll stick an extra swim bladder in there for ya, on the house."
+        },
+        {
+          "s": 3,
+          "t": "And a tail."
+        },
+        {
+          "s": 13,
+          "t": "Sure thing! I'll paint the scales yellow on the outside and black on the inside, so you can tell at a glance: This ain't no ordinary fishtail!"
+        },
+        {
+          "sit": "Do the scales add up to 81, or seven times seven?"
+        },
+        {
+          "s": 13,
+          "t": "If it's seven times seven you want, I can do you 81, 138, or even 648! It's up to you!"
+        },
+        {
+          "s": 3,
+          "t": "Great! I like your style. We have a deal."
+        },
+        {
+          "s": 13,
+          "t": "Appreciate your patronage! Please take your order to our warehouse manager over there."
+        },
+        {
+          "sit": "Don't you have the fish here?"
+        },
+        {
+          "s": 13,
+          "t": "Hehe! A real amateur if I ever met one! Proud to have you as a customer."
+        },
+        {
+          "s": 13,
+          "t": "No, we don't have the fish here. All fish sold at Wai's Amateur Fishmonger's are still swimming in the sea."
+        },
+        {
+          "s": 13,
+          "t": "Once we get the order in from the customer, we go fish it out for them. The warehouse handles that side of things."
+        },
+        {
+          "s": 13,
+          "t": "Pay first, then we bring you the goods! That way, you get the freshest catch!"
+        },
+        {
+          "section": "Wait till early morning (00:00 – 05:00)"
+        },
+        {
+          "s": 3,
+          "t": "Start whenever you're ready. Don't keep me waiting too long — show me how it's done."
+        },
+        {
+          "s": 8,
+          "t": "Fresh seafood! Fresh seafood! Catch it while you can!"
+        },
+        {
+          "s": 13,
+          "t": "Fresh seafood! Fresh seafood! Come take a look!"
+        },
+        {
+          "s": 3,
+          "t": "I bet you're wondering why that guy was saying he didn't have what we wanted."
+        },
+        {
+          "s": 3,
+          "t": "The truth is, that was exactly what I wanted the Ministry of Civil Affairs to believe."
+        },
+        {
+          "s": 3,
+          "t": "In other words, whenever you or I crop up in Liyue Harbor, it almost always draws their attention."
+        },
+        {
+          "s": 3,
+          "t": "Not that there's any animosity behind it, mind you. In their words, it's a security precaution to prevent people like us from causing unnecessary trouble."
+        },
+        {
+          "s": 3,
+          "t": "But how does that saying go again? Ah yes: Sometimes, the closer you are to something, the less you can see."
+        },
+        {
+          "s": 3,
+          "t": "After all, the Ministry of Civil Affairs sent the Millelith to us."
+        }
+      ],
+      "description": "At Beidou's invitation, you take part in the \"Spear of the Crux\" sailor training. Time to get a taste of the side of sailor life that few know about..."
+    },
+    {
+      "id": "q-19053",
+      "title": "Guili Plains Treasure Hunt",
+      "dialogue": [
+        {
+          "section": "Go to Guili Plains"
+        },
+        {
+          "s": 14,
+          "t": "Keep digging, boys! Once we have our hands on the treasure, everyone gets a share!"
+        },
+        {
+          "s": 3,
+          "t": "You can all hold it right there!"
+        },
+        {
+          "s": 14,
+          "t": "Huh!? Who's that barking orders?"
+        },
+        {
+          "s": 14,
+          "t": "Do you know who you're up against here? Keep going if you've got a death wish..."
+        },
+        {
+          "s": 14,
+          "t": "What the...!? It's, it's..."
+        },
+        {
+          "s": 14,
+          "t": "C—C—Captain... B—B—B—Beidou!!!"
+        },
+        {
+          "s": 14,
+          "t": "Run, boys! Run!!!"
+        },
+        {
+          "s": 3,
+          "t": "Nobody move!"
+        },
+        {
+          "s": 14,
+          "t": "..."
+        },
+        {
+          "s": 14,
+          "t": "Captain Beidou! Lord of the Ocean! This is all my fault, I didn't know who I was up against, I—I don't have a death wish, I swear..."
+        },
+        {
+          "s": 14,
+          "t": "I got a big mouth is all... It's always saying things it shouldn't. I swear I'll wash it out with soap the moment I get back..."
+        },
+        {
+          "s": 14,
+          "t": "Please, have mercy. Will you spare us?"
+        },
+        {
+          "s": 3,
+          "t": "Hmph!"
+        },
+        {
+          "s": 14,
+          "t": "..."
+        },
+        {
+          "s": 14,
+          "t": "W—Well, spare them, at least... These guys are just trying to put food in their mouths. They'd never hurt a soul!"
+        },
+        {
+          "s": 14,
+          "t": "If you need to take anyone, take me. Please, let them go!"
+        },
+        {
+          "s": 14,
+          "t": "It was me that disrespected you... they never did, and never would!"
+        },
+        {
+          "s": 3,
+          "t": "Is that right?"
+        },
+        {
+          "s": 3,
+          "t": "Fine. Seems like you've got a heart in there somewhere, seeing how you treat your crew... I'll let you off the hook this time."
+        },
+        {
+          "s": 3,
+          "t": "Get outta here!"
+        },
+        {
+          "s": 14,
+          "t": "Thank you, Captain Beidou! Thank you!"
+        },
+        {
+          "s": 3,
+          "t": "Wait!"
+        },
+        {
+          "s": 14,
+          "t": "Yes? What else might the merciful and mighty Beidou require?"
+        },
+        {
+          "s": 3,
+          "t": "This treasure is still up for grabs. The Crux Fleet honors the rule of first-come, first-served."
+        },
+        {
+          "s": 3,
+          "t": "You found it first. So, name your price."
+        },
+        {
+          "s": 3,
+          "t": "I can't have any rumors going around about Captain Beidou stealing other people's treasure, can I?"
+        },
+        {
+          "s": 14,
+          "t": "Captain Beidou, we wouldn't dare take Mora from you!"
+        },
+        {
+          "s": 14,
+          "t": "T—Take the treasure as an apology for my foolish words!"
+        },
+        {
+          "s": 14,
+          "t": "Please, take it. Please."
+        },
+        {
+          "s": 3,
+          "t": "Oh? Well, if you insist..."
+        },
+        {
+          "s": 3,
+          "t": "I accept your kind offer, and I'll make you one in return. You don't seem like terrible folks, so let me help you get onto the right track."
+        },
+        {
+          "s": 3,
+          "t": "If you want to mend your ways and put all this behind you, The Crux can probably arrange some odd jobs in the port for you."
+        },
+        {
+          "s": 3,
+          "t": "It'd be humble work, but at least it'd get you on your feet and making an honest living — a much better deal than what you've got going now, if you ask me."
+        },
+        {
+          "s": 14,
+          "t": "Wow, uh... thank you, Captain Beidou! On behalf of me and all my boys."
+        },
+        {
+          "section": "Stop the Treasure Hoarders who are currently digging"
+        },
+        {
+          "s": 3,
+          "t": "Nope, not here either."
+        },
+        {
+          "s": 3,
+          "t": "Now that we've searched all the places of interest in this area, and come up with nothing... {NICKNAME}, you got any ideas?"
+        },
+        {
+          "sit": "What is the treasure you're looking for?"
+        },
+        {
+          "s": 3,
+          "t": "It's a..."
+        },
+        {
+          "s": 14,
+          "t": "Captain Beidou! Captain Beidou!"
+        },
+        {
+          "s": 3,
+          "t": "Huh? What brings you back here?"
+        },
+        {
+          "s": 14,
+          "t": "Captain Beidou! Actually, we've just been wandering around nearby... we didn't go far..."
+        },
+        {
+          "s": 14,
+          "t": "Because we were thinking about what you said, and..."
+        },
+        {
+          "s": 14,
+          "t": "Well... Me and the boys decided that... we're ready to move away from all of this and get on the straight and narrow!"
+        },
+        {
+          "s": 3,
+          "t": "Oh? Are you sure?"
+        },
+        {
+          "s": 14,
+          "t": "Yes! Absolutely sure!"
+        },
+        {
+          "s": 3,
+          "t": "Okay then. But I'll warn you right now that you won't have it easy. It might just be menial work in the port, but in the eyes of the general public, you'll be associates of The Crux."
+        },
+        {
+          "s": 3,
+          "t": "So there'll be a grueling test you have to go through before you can start."
+        },
+        {
+          "s": 14,
+          "t": "I understand! I understand!"
+        },
+        {
+          "s": 14,
+          "t": "Truth be told, Captain, it's only because it's you, the mighty and honorable Captain Beidou. If it'd been anyone else, I don't think I'd have listened."
+        },
+        {
+          "s": 14,
+          "t": "And since you've made us this kind offer, I'd like to ask, if I might be so bold... is there any hope at all for us to become full members of The Crux in the future? Even the tiniest shred of hope?"
+        },
+        {
+          "s": 3,
+          "t": "Hmph, well there's no place in The Crux for delusions of grandeur, that's for sure!"
+        },
+        {
+          "s": 3,
+          "t": "But then again... everybody has to start somewhere."
+        },
+        {
+          "s": 3,
+          "t": "So it comes down to you. If you manage to impress me, and earn the respect of my crew..."
+        },
+        {
+          "s": 3,
+          "t": "...then yeah. Nothing's impossible."
+        },
+        {
+          "s": 14,
+          "t": "Thank you, Captain Beidou! Thank you a thousand times over!"
+        },
+        {
+          "s": 14,
+          "t": "I couldn't help but notice you were searching for something else. It still hasn't turned up?"
+        },
+        {
+          "s": 3,
+          "t": "Why, do you have any clues?"
+        },
+        {
+          "s": 14,
+          "t": "We heard about two treasures, both in Guili Plains. We were still looking for the first one when you found us."
+        },
+        {
+          "s": 14,
+          "t": "So maybe the other one might be what you're looking for?"
+        },
+        {
+          "sit": "Where is it?"
+        },
+        {
+          "s": 14,
+          "t": "Not too far from here, but I'm just not sure of the exact location..."
+        },
+        {
+          "s": 14,
+          "t": "All the info we got about this treasure came from the black market. The answer's hidden inside a poem, which goes like this:"
+        },
+        {
+          "s": 14,
+          "t": "\"Drunkenly I gazed at the ruins long forsaken, and lay beneath red leaves whose branches cast a crooked shade. The dusk sun shone upon the sea as I awakened, but Guyun stood twixt weary eyes and the sight of home they crave.\""
+        },
+        {
+          "s": 14,
+          "t": "As for the \"ruins long forsaken\" part, I do know of some ruins near here."
+        },
+        {
+          "s": 14,
+          "t": "But beyond that line... I just... I don't..."
+        },
+        {
+          "s": 14,
+          "t": "*sigh* I'm just not smart enough!"
+        },
+        {
+          "s": 3,
+          "t": "Haha, so a treasure clue hidden in a poem, huh? Don't worry, we got this."
+        },
+        {
+          "s": 3,
+          "t": "See my friend here? If they taught treasure hunting as an art form, you'd probably be calling {M#him}{F#her} \"Grandmaster.\" This kind of thing's a piece of cake for {M#him}{F#her}."
+        },
+        {
+          "s": 3,
+          "t": "Am I right, {NICKNAME}?"
+        },
+        {
+          "sit": "Ahem... let's maybe head to the site first?"
+        },
+        {
+          "sit": "Ahem... I have no interest in being a grandmaster of anything."
+        },
+        {
+          "s": 3,
+          "t": "Haha, okay then, let's start by heading to the site and surveying the scene. Maybe we'll find some other clues over there."
+        },
+        {
+          "s": 14,
+          "t": "O—Okay! Come on, boys! You heard the captain — lead the way!"
+        },
+        {
+          "section": "Investigate suspicious locations nearby"
+        },
+        {
+          "s": 3,
+          "t": "Found it! At long last, the treasure is finally in our hands... A check from the Northland Bank."
+        },
+        {
+          "s": 3,
+          "t": "You really came through, {NICKNAME}. We found the spot in no time."
+        },
+        {
+          "s": 3,
+          "t": "Without your help, I don't think I ever would have gotten my hands on it."
+        },
+        {
+          "sit": "I was expecting it to be something a little more unique."
+        },
+        {
+          "s": 3,
+          "t": "To us, this is just a check that you can exchange at Northland Bank for some Mora."
+        },
+        {
+          "s": 3,
+          "t": "But to some people, it's of huge importance."
+        },
+        {
+          "sit": "Is it worth a lot of Mora?"
+        },
+        {
+          "s": 3,
+          "t": "Not much, but enough for an average person to survive on for a while. But there's more to this particular check than that."
+        },
+        {
+          "s": 3,
+          "t": "When I found the treasure map, it was tightly sealed inside a small bottle along with a letter."
+        },
+        {
+          "s": 3,
+          "t": "I'll let you read it for yourself."
+        },
+        {
+          "s": 3,
+          "t": "Finished?"
+        },
+        {
+          "sit": "So, it's the dying wish of a man who met a tragic fate."
+        },
+        {
+          "sit": "So, it's the last will of a faithful son."
+        },
+        {
+          "s": 3,
+          "t": "Yeah. I can't fault him for what he did, but the way things turned out... All I can say is, life is unpredictable."
+        },
+        {
+          "s": 3,
+          "t": "Well, let's fulfill his final wish by taking this check to where it belongs."
+        },
+        {
+          "section": "Investigate suspicious locations nearby"
+        },
+        {
+          "s": 3,
+          "t": "Well, this is it. Oh, boys! It's time for your first job!"
+        },
+        {
+          "s": 3,
+          "t": "Give this check to the old lady who lives in that wooden hut. Tell her it's a welfare payment from the Liyue Ministry of Civil Affairs."
+        },
+        {
+          "s": 14,
+          "t": "Yes, Boss!"
+        },
+        {
+          "sit": "Ahem..."
+        },
+        {
+          "s": 3,
+          "t": "What's up?"
+        },
+        {
+          "sit": "I have some Sakura Blooms that I picked up in Inazuma. I want her to have them, too."
+        },
+        {
+          "s": 3,
+          "t": "Haha, I see..."
+        },
+        {
+          "s": 3,
+          "t": "But you only find Sakura Blooms in certain places, right? It must have been quite a bit of work collecting all these, surely?"
+        },
+        {
+          "s": 3,
+          "t": "Let's just pick one, huh? One's enough to show that you care."
+        },
+        {
+          "s": 3,
+          "t": "You've already helped me out so much today."
+        },
+        {
+          "s": 3,
+          "t": "Okay! Off you go, then. Take her the Sakura Bloom along with the check, and if she asks, tell her..."
+        },
+        {
+          "s": 3,
+          "t": "...your child in a faraway land sends his best wishes."
+        },
+        {
+          "section": "Talk to Beidou"
+        },
+        {
+          "s": 14,
+          "t": "These are the \"long forsaken ruins\" from the poem. Apparently, they were once full of treasure."
+        },
+        {
+          "s": 14,
+          "t": "But judging by the state of them now, it's probably long gone."
+        },
+        {
+          "s": 3,
+          "t": "Hmm, it seems that we need to dig deeper into this poem."
+        },
+        {
+          "s": 3,
+          "t": "\"Drunkenly I gazed at the ruins long forsaken, and lay beneath red leaves whose branches cast a crooked shade. The dusk sun shone upon the sea as I awakened, but Guyun stood twixt weary eyes and the sight of home they crave.\""
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, do you have any ideas?"
+        },
+        {
+          "sit": "Maybe \"gazed at the ruins\" means the writer wasn't right here, but..."
+        },
+        {
+          "s": 3,
+          "t": "...Ah, somewhere you can see the ruins from? So, somewhere not too far from here?"
+        },
+        {
+          "sit": "The second line means there's probably a red-leaved tree around..."
+        },
+        {
+          "s": 3,
+          "t": "Yeah... and maybe the shadow cast by the tree is supposed to hint at something?"
+        },
+        {
+          "sit": "The third line... perhaps the \"dusk sun\" has something to do with the timing?"
+        },
+        {
+          "s": 14,
+          "t": "Oh! I got it! This guy fell asleep and woke up just before sunset!"
+        },
+        {
+          "s": 3,
+          "t": "Dusk and the shadow of a red-leaved tree... hmm, I think we can work with that."
+        },
+        {
+          "s": 3,
+          "t": "Let's take a look around, {NICKNAME}. I think we're getting close."
+        },
+        {
+          "section": "Follow the clues in the poem to look for the treasure"
+        },
+        {
+          "s": 3,
+          "t": "It should be around here, right?"
+        },
+        {
+          "s": 3,
+          "t": "Hmm? Who are they..."
+        },
+        {
+          "s": 3,
+          "t": "Oh, it's a bunch of Treasure Hoarders... I guess the treasure's for real, then."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, there are quite a few of them. If things go south and fists start flying, stay behind me."
+        },
+        {
+          "s": 3,
+          "t": "I'm more than a match for these amateurs."
+        },
+        {
+          "s": 3,
+          "t": "Right, let's see what we've got in here..."
+        },
+        {
+          "s": 3,
+          "t": "Tsk... This isn't what we're looking for."
+        },
+        {
+          "s": 3,
+          "t": "Let's see if there's anything there..."
+        },
+        {
+          "s": 3,
+          "t": "Nothing... Hmm, let's keep looking."
+        }
+      ],
+      "description": "At your suggestion, the two of you decide to seek the treasure in the Guili Plains. What will you encounter on the way?"
+    },
+    {
+      "id": "q-19054",
+      "title": "Qingce Village Treasure Hunt",
+      "dialogue": [
+        {
+          "section": "Go to Qingce Village"
+        },
+        {
+          "s": 15,
+          "t": "Ah, Beidou! Wow, and the Traveler... my goodness, what's the occasion? Just here to visit us old folks once again?"
+        },
+        {
+          "s": 15,
+          "t": "It hasn't been all that long since we last had a visit from The Crux."
+        },
+        {
+          "s": 15,
+          "t": "But I'm glad you picked today. You're just the people I need. These two young rascals... they've been arguing with each other non-stop about some petty nonsense or other..."
+        },
+        {
+          "s": 15,
+          "t": "I'm too old to get through to them. They won't listen to me. Please, talk some sense into them!"
+        },
+        {
+          "s": 3,
+          "t": "Rest assured, Granny Ruoxin. Whatever the situation is, {NICKNAME} and I will take care of it."
+        },
+        {
+          "s": 16,
+          "t": "Oh, thank goodness, it's Captain Beidou! You couldn't have come at a better time. You're the voice of reason I need in this situation!"
+        },
+        {
+          "s": 17,
+          "t": "Captain, please! Help me get justice!"
+        },
+        {
+          "s": 3,
+          "t": "Whoa! What exactly's going on here? Spit it out, tell me everything."
+        },
+        {
+          "s": 16,
+          "t": "It makes me mad just talking about it. Ji here — I don't know if he's got a screw loose or what his problem is, but anyway, he took it upon himself to raise, well, practically a whole army of finches, okay, and now guess what? They fly onto my land and completely destroy at least half of my crops!"
+        },
+        {
+          "s": 16,
+          "t": "I asked him to pay compensation, but he refused. Now how is that fair?"
+        },
+        {
+          "s": 17,
+          "t": "Captain, I'm innocent... they're not even my finches!"
+        },
+        {
+          "s": 17,
+          "t": "I just thought they looked kinda cute, y'know, so I fed 'em a couple times... they're wild birds though!"
+        },
+        {
+          "s": 16,
+          "t": "A couple times? Are you kidding me? That's rich. Really rich. There were two of them when you first started. Two finches. Now you have a whole roof full of finch nests."
+        },
+        {
+          "s": 16,
+          "t": "I swear every time I come by your place, I think I'm at a bird market. I'm telling you, you are not gonna get away with this anymore."
+        },
+        {
+          "s": 17,
+          "t": "So... yeah, I mean, they laid a few eggs, made a few nests... But finches gonna finch, y'know? These are wild birds, I mean, they'll do whatever they please..."
+        },
+        {
+          "s": 3,
+          "t": "So that's how it is. I think I got the picture. Hmm..."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, what's your take?"
+        },
+        {
+          "sit": "I think Ji is responsible. He has been feeding them too much, and now they're destroying people's crops."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, you have a point."
+        },
+        {
+          "s": 3,
+          "t": "Ji, let's say I'm interested in buying these finches off you. What would you say to that?"
+        },
+        {
+          "s": 17,
+          "t": "Are you serious, Captain? Oh, that'd be great! Honestly, with all this trouble they've been causing me lately, they've become a bit of a burden... so if you're happy to take them off my hands, that would be perfect."
+        },
+        {
+          "s": 3,
+          "t": "Alright. Deal. My only condition is, you have to use some of the money to compensate Wenjing for her losses."
+        },
+        {
+          "s": 17,
+          "t": "Ah, come on... but I never raised them, did I?"
+        },
+        {
+          "s": 3,
+          "t": "Well, you tell me! You took my deal, that means you admitted to being their owner, doesn't it? Otherwise, what gives you the right to sell them to me?"
+        },
+        {
+          "s": 16,
+          "t": "Captain Beidou's right! If you didn't raise them, what makes you think you can go taking her money for them, huh?"
+        },
+        {
+          "s": 17,
+          "t": "I... uh... well..."
+        },
+        {
+          "s": 3,
+          "t": "Don't worry. My offer includes plenty left over for you after deducting the compensation."
+        },
+        {
+          "s": 3,
+          "t": "This way you get something back for looking after them."
+        },
+        {
+          "s": 17,
+          "t": "Okay then... okay! I'll pay the compensation!"
+        },
+        {
+          "s": 15,
+          "t": "I hope you two are very grateful indeed to Beidou. I daresay no one else would be quite so accommodating toward the people of our village!"
+        },
+        {
+          "sit": "I think Ji is innocent. He can't control where the finches make their nests."
+        },
+        {
+          "s": 3,
+          "t": "Hmm. Fair point."
+        },
+        {
+          "s": 3,
+          "t": "Granny Ruoxin, is there anything left over from the relief funds delivered by The Crux on our last visit?"
+        },
+        {
+          "s": 3,
+          "t": "Technically, this would be a case of avian damage to agriculture. It meets the relief criteria, so we can use these funds to cover Wenjing's losses."
+        },
+        {
+          "s": 15,
+          "t": "Why yes, there is plenty left over. The Crux brings such a generous sum each time, there's no way our small village could ever use up all of it."
+        },
+        {
+          "s": 16,
+          "t": "Oh, thank you, Captain Beidou! You can bet I never would have managed to get Ji to pay up, even if I spent my whole life trying to persuade him!"
+        },
+        {
+          "s": 17,
+          "t": "Thank you, Captain! You can bet I never would have been able to afford the compensation out of my own pocket..."
+        },
+        {
+          "s": 17,
+          "t": "I'll drive those finches away the moment I get back. I can't let them carry on ruining the neighbors' crops!"
+        },
+        {
+          "s": 15,
+          "t": "Beidou, you do so much for our village, and we could never hope to repay you."
+        },
+        {
+          "s": 3,
+          "t": "Granny Ruoxin, as you know, many of the boys from your fine village do sterling work for The Crux."
+        },
+        {
+          "s": 3,
+          "t": "The fleet wouldn't be what it is today without them. So please, think nothing of it."
+        },
+        {
+          "s": 3,
+          "t": "Ji, Wenjing, I guess you're free to go."
+        },
+        {
+          "s": 18,
+          "t": "Captain Beidou! Captain Beidou, you're here."
+        },
+        {
+          "s": 3,
+          "t": "Pops Xing! It's been a long time. How have you been?"
+        },
+        {
+          "s": 18,
+          "t": "*sigh* Don't get me started... I've been having some real trouble with that neighbor of mine, Ren. We keep having the same argument, and it just goes nowhere."
+        },
+        {
+          "s": 18,
+          "t": "I heard you were in the village, so I rushed over to seek your help."
+        },
+        {
+          "s": 3,
+          "t": "What's the issue?"
+        },
+        {
+          "s": 18,
+          "t": "Come with me, you'll see. Let's go find Ren and clear this whole thing up face to face."
+        },
+        {
+          "section": "Go to Ren for a little conversation"
+        },
+        {
+          "s": 19,
+          "t": "C—Captain Beidou? You're here."
+        },
+        {
+          "s": 3,
+          "t": "Heh. I heard that you and Pops Xing had a little misunderstanding. So what's up? Tell me about it."
+        },
+        {
+          "s": 18,
+          "t": "Ren planted a tree on his property a few years back."
+        },
+        {
+          "s": 18,
+          "t": "I had no issue with it at the time. It's just a tree. But a few years on, it's grown taller than the roof of my house!"
+        },
+        {
+          "s": 18,
+          "t": "Every morning when I get up and open the window, I just want to feel the sun on my face, but I'm greeted instead by the looming shadow of my neighbor's tree. It really affects my mood."
+        },
+        {
+          "s": 18,
+          "t": "I asked Ren to cut it down, so I could get some sunlight back on my property."
+        },
+        {
+          "s": 18,
+          "t": "But he said no! Ugh! It's like he's done this on purpose just to drive me crazy..."
+        },
+        {
+          "s": 19,
+          "t": "Captain Beidou, you gotta believe me, I didn't intend to block the sunlight, but there's nothing I can do about it now."
+        },
+        {
+          "s": 19,
+          "t": "It's not just any old tree, you see... that tree was planted there by my late father!"
+        },
+        {
+          "s": 19,
+          "t": "Not long after he planted it, he passed away, and just before he passed, he left me with some parting words."
+        },
+        {
+          "s": 19,
+          "t": "He said our family's fortune was inauspicious, and we needed something to suppress the bad luck. That's what he planted the tree for... how can I just chop it down?"
+        },
+        {
+          "s": 19,
+          "t": "I'll be honest, I spent a few years studying in Liyue Harbor, so I don't actually share his superstitious beliefs..."
+        },
+        {
+          "s": 19,
+          "t": "But still... that doesn't change the fact that this was my father's dying wish."
+        },
+        {
+          "s": 3,
+          "t": "Ok. I think I'm all clear on the situation."
+        },
+        {
+          "s": 3,
+          "t": "{NICKNAME}, what are you thinking?"
+        },
+        {
+          "sit": "I don't think it's fair for Pops Xing to suffer over this."
+        },
+        {
+          "s": 3,
+          "t": "Yeah, you have a point."
+        },
+        {
+          "s": 3,
+          "t": "Ren, I'm truly sorry to hear that your father passed away. But look... you can't use that as an excuse for harming other people."
+        },
+        {
+          "s": 3,
+          "t": "You really should have thought about the impact that planting that tree would have on your neighbors before you went ahead with it."
+        },
+        {
+          "s": 3,
+          "t": "However, this tree is special to you... I understand that, and it would be cruel to make you chop it down."
+        },
+        {
+          "s": 3,
+          "t": "So how about you move the tree to somewhere where it won't block the sunlight? Somewhere else in your courtyard, or even outside it if you have to. Just as long as it stops posing a problem for Pops Xing."
+        },
+        {
+          "s": 3,
+          "t": "Ren, Pops Xing — thoughts?"
+        },
+        {
+          "s": 18,
+          "t": "Your idea works for me, Captain Beidou! Forcing Ren to cut it down was never my real goal, I just want some sunlight back. That's all I ask."
+        },
+        {
+          "s": 19,
+          "t": "*sigh* Honestly, I already considered that. It's a nice idea, but the tree's way too big. We haven't got the manpower in the village to take on a task like that..."
+        },
+        {
+          "s": 3,
+          "t": "Oh, you don't need to worry about that. I'll just have my crew head down to the harbor and find you a few pairs of strong arms. Problem solved."
+        },
+        {
+          "s": 3,
+          "t": "While they're at it, I'll have them find you a gardener, too. This tree is a little overdue for a manicure..."
+        },
+        {
+          "s": 19,
+          "t": "Wow, thank you so much, Captain Beidou. Now that this is resolved, it'll be such a relief to be able to put it all behind me."
+        },
+        {
+          "s": 19,
+          "t": "On a separate note... I remember The Crux last visited the village not very long ago."
+        },
+        {
+          "s": 19,
+          "t": "Is there some special reason why you're back in person so soon?"
+        },
+        {
+          "sit": "I think Ren deserves some leniency."
+        },
+        {
+          "s": 3,
+          "t": "Mmm, I was thinking along the same lines as you."
+        },
+        {
+          "s": 3,
+          "t": "Look Pops, I'm not trying to make excuses for Ren, but just try putting yourself in his shoes for a moment."
+        },
+        {
+          "s": 3,
+          "t": "Ren's desire to protect his tree isn't for money, or because he wants to hurt anyone, or for the sake of any superstition."
+        },
+        {
+          "s": 3,
+          "t": "He just wants to honor his father's dying wish. Pops... you have kids, too, right?"
+        },
+        {
+          "s": 18,
+          "t": "Yeah... when you put it like that..."
+        },
+        {
+          "s": 3,
+          "t": "Pops, if you can agree to it, I'll have a word with Granny Ruoxin and see about getting you some money from the relief fund, as compensation for having your sunlight blocked..."
+        },
+        {
+          "s": 3,
+          "t": "As for the tree..."
+        },
+        {
+          "s": 18,
+          "t": "Uh... that sounds good to me! Whatever you think, Captain Beidou..."
+        },
+        {
+          "s": 18,
+          "t": "The tree can stay!"
+        },
+        {
+          "s": 18,
+          "t": "Some compensation would make me feel much better about the whole thing."
+        },
+        {
+          "s": 19,
+          "t": "Thank you, Captain Beidou! And thank you for understanding, Pops Xing! I'll make sure to trim it back when I get home to let some more light through..."
+        },
+        {
+          "s": 19,
+          "t": "It'll be such a relief not to have to worry about this anymore."
+        },
+        {
+          "s": 19,
+          "t": "On a separate note... I remember The Crux last visited the village not very long ago."
+        },
+        {
+          "s": 19,
+          "t": "Is there some special reason why you're back in person so soon?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, nothing all that special, just personal reasons. I'm looking for some treasure."
+        },
+        {
+          "s": 19,
+          "t": "Huh? Treasure? Wait a second... that reminds me, I saw Changping and Defu arguing in the fields earlier. It sounded like they were both trying to lay claim to some treasure..."
+        },
+        {
+          "s": 19,
+          "t": "I don't know if it's related to the one you were looking for. But anyway, they're probably still there now."
+        },
+        {
+          "s": 3,
+          "t": "Really? Okay, well, you and Pops Xing can go about your business now. I'll go see what the situation is."
+        },
+        {
+          "section": "Look for Changping and Defu"
+        },
+        {
+          "s": 20,
+          "t": "Huh? Beidou!? You're just in time. Defu is being completely unreasonable!"
+        },
+        {
+          "s": 3,
+          "t": "What happened?"
+        },
+        {
+          "s": 21,
+          "t": "I'm not being unreasonable, Captain. I got Changping to help me plow my land, because it's the busy season."
+        },
+        {
+          "s": 21,
+          "t": "And then, what do you know — he plows up a treasure chest!"
+        },
+        {
+          "s": 21,
+          "t": "Way I see it, it's my land, so the treasure belongs to me. Right? I think it's a pretty clear-cut case."
+        },
+        {
+          "s": 20,
+          "t": "You say that, Defu, but what you're forgetting is that I came to help you plow your fields out of the goodness of my heart, and you haven't paid me a single Mora."
+        },
+        {
+          "s": 20,
+          "t": "It was also my plowing that turned up this chest. However you cut it, surely I'm entitled to at least some of the treasure?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, the domestic drama just keeps coming today. What are your thoughts, {NICKNAME}?"
+        },
+        {
+          "sit": "I know a legal expert. I think she is better suited to handling this kind of stuff."
+        },
+        {
+          "sit": "I don't have your clout. You should be the one making the call."
+        },
+        {
+          "s": 3,
+          "t": "Okay. I think I'm up to speed here. If you two really want to take this further, I can get a legal expert from Liyue Harbor to adjudicate."
+        },
+        {
+          "s": 3,
+          "t": "As for the costs, I'll cover them. What do you think?"
+        },
+        {
+          "s": 20,
+          "t": "Umm..."
+        },
+        {
+          "s": 21,
+          "t": "Uhh..."
+        },
+        {
+          "s": 3,
+          "t": "Neither of you seems thrilled about this course of action. Okay, so plan B."
+        },
+        {
+          "s": 3,
+          "t": "I'll be straight with you — the reason I came here today was to look for some treasure. Chances are it's hiding right there in the chest you're both fighting over."
+        },
+        {
+          "s": 3,
+          "t": "So how about you two stop fighting over it, and do me a favor by handing it to me?"
+        },
+        {
+          "s": 3,
+          "t": "Of course, I'll be indebted to both of you. If either of you ever needs anything in the future, The Crux will not hesitate to lend you our support."
+        },
+        {
+          "s": 21,
+          "t": "Captain, you're far too kind, really. Indebted? That won't be necessary. If you want this chest, you go ahead and take it."
+        },
+        {
+          "s": 20,
+          "t": "Yep, totally agree! If only I'd known you were looking for this chest..."
+        },
+        {
+          "s": 20,
+          "t": "You should've said something! I would have delivered it to you personally to save you the trip."
+        },
+        {
+          "s": 21,
+          "t": "It seems like it's been quite a busy day for you. Helping us settle all our little quarrels..."
+        },
+        {
+          "s": 21,
+          "t": "Come on! Let's go to the village. I'll rally the masses, we'll get some good food and good drink, and have a good old get-together!"
+        },
+        {
+          "s": 20,
+          "t": "Don't worry about the chest. I'll carry it over!"
+        },
+        {
+          "section": "Take part in the village banquet"
+        },
+        {
+          "s": 15,
+          "t": "What a fine day today has been... Beidou has solved an awful lot of problems in our village."
+        },
+        {
+          "s": 17,
+          "t": "She sure has! Without Captain Beidou, that compensation payment would've bankrupted me."
+        },
+        {
+          "s": 19,
+          "t": "Yeah, and if it weren't for Captain Beidou, I'd still be arguing with Pops Xing!"
+        },
+        {
+          "s": 21,
+          "t": "Hear, hear! We all have plenty to thank Captain Beidou for, I'm sure. I propose a toast in her honor!"
+        },
+        {
+          "s": 20,
+          "t": "To Captain Beidou! Cheers!"
+        },
+        {
+          "s": 3,
+          "t": "I couldn't ask for more than the chance to get everyone together and drink to our hearts' content. Cheers!"
+        },
+        {
+          "s": 3,
+          "t": "Whew! That really hit the spot. {NICKNAME}, wanna get some air? The view in this place is pretty good."
+        },
+        {
+          "s": 3,
+          "t": "We can take a look through the contents of that chest while we're at it. Changping placed it by the waterwheel."
+        },
+        {
+          "sit": "Are you sure you haven't had too much to drink?"
+        },
+        {
+          "s": 3,
+          "t": "Pff! Are you kidding? Beidou can handle her liquor!"
+        },
+        {
+          "s": 3,
+          "t": "Come on, come on, let's go."
+        },
+        {
+          "section": "Go to the waterwheel where the chest is"
+        },
+        {
+          "s": 3,
+          "t": "So I've been thinking, everyone seems to trust me enough to let me have the final word on their disputes..."
+        },
+        {
+          "s": 3,
+          "t": "But don't you think some of my solutions can be a little stupid?"
+        },
+        {
+          "s": 3,
+          "t": "You can laugh, I don't mind. Take Changping and Defu's wrangling over that chest, for instance..."
+        },
+        {
+          "s": 3,
+          "t": "I had no clue who it should belong to. So I just came up with this stupid idea of taking it for myself. At least that way, neither of them would feel like it was unfair."
+        },
+        {
+          "s": 3,
+          "t": "But I mean, I'm no Ningguang. I can't make a perfect deal every time."
+        },
+        {
+          "s": 3,
+          "t": "And I'm no Yanfei, either. Not all my judgment calls are gonna be 100% fair and square."
+        },
+        {
+          "s": 3,
+          "t": "I am Beidou, and my strength is in trading favors."
+        },
+        {
+          "sit": "So the captain of The Crux just hands out favors to everyone all the time?"
+        },
+        {
+          "s": 3,
+          "t": "Haha, you think I should be more selective?"
+        },
+        {
+          "s": 3,
+          "t": "Some people think their favors are so valuable that they need to plan out how and when to use them to maximize the return on their investment. They view the favor as a bargaining chip."
+        },
+        {
+          "s": 3,
+          "t": "Others see doing favors as a burden. Not worth anything in monetary terms, and prone to getting you locked in a cycle of constantly returning the favor back and forth."
+        },
+        {
+          "s": 3,
+          "t": "But the way I see it, favors are what keep people connected to one another."
+        },
+        {
+          "s": 3,
+          "t": "Over thousands of years, the people of Liyue have created bonds between each other by doing someone a favor here, and asking for a favor there."
+        },
+        {
+          "s": 3,
+          "t": "This means that no individual is truly on their own out there. When someone falls down, there's an invisible net made of human connections, waiting to catch them and get them back on their feet."
+        },
+        {
+          "s": 3,
+          "t": "Over the years, I have come to owe favors to a great many people, and many other people have come to owe me one."
+        },
+        {
+          "s": 3,
+          "t": "These are the countless bonds between us, like so many fish in the sea. And they are the reason that The Crux and I have survived the countless hardships we've faced."
+        },
+        {
+          "s": 3,
+          "t": "I believe that if there ever comes a day when the world is overrun by monsters, Liyue's legal system collapses, and the land is thrust back into an age of war..."
+        },
+        {
+          "s": 3,
+          "t": "It is these bonds that will see us all through the dark days ahead, until we come out on the other side."
+        },
+        {
+          "sit": "So the reason you asked for my help with finding the treasure today was so that you can owe me a favor?"
+        },
+        {
+          "s": 3,
+          "t": "I'm not saying that. But either way, we have a pretty firm bond between us already, don't you think?"
+        },
+        {
+          "s": 3,
+          "t": "Haha! Was this wind brewed in a winery? It's making me light-headed..."
+        },
+        {
+          "s": 3,
+          "t": "I feel like I'm forgetting something... something we were literally just talking about..."
+        },
+        {
+          "sit": "If you forgot, that means it's not important."
+        },
+        {
+          "sit": "You did mention that treasure chest..."
+        },
+        {
+          "s": 3,
+          "t": "Oh, yeah! The chest! Haha... I got so immersed in our conversation that I forgot all about the main event..."
+        },
+        {
+          "s": 3,
+          "t": "Come on. Let's open it up and see what's inside."
+        },
+        {
+          "s": 3,
+          "t": "Hahahaha. That's it? A whole lot of nothing?"
+        },
+        {
+          "s": 3,
+          "t": "It's not exactly what I was looking for... but you know what, I don't care. The fun part was going on a treasure hunt with you!"
+        },
+        {
+          "s": 3,
+          "t": "Come on, let's get back to the party! Tonight, we go big before we go home!"
+        },
+        {
+          "s": 15,
+          "t": "It's not often this village gets so lively. Make yourself at home, Traveler, help yourself to some food and drink."
+        },
+        {
+          "s": 17,
+          "t": "It's not just me saying this, honestly — those finches are the cutest little things! So plump and fluffy... Traveler, do you want to swing by my place and see them?"
+        },
+        {
+          "s": 16,
+          "t": "Ji may not be the sharpest tool in the shed, but even I can't deny he's just a big softie at heart."
+        },
+        {
+          "s": 19,
+          "t": "Why isn't Pops Xing here tonight?"
+        },
+        {
+          "s": 21,
+          "t": "Changping, come on, let me top you off!"
+        },
+        {
+          "s": 20,
+          "t": "Thanks, but no thanks... I'm getting a little light-headed..."
+        },
+        {
+          "s": 22,
+          "t": "The crystal-clear fluid that fills this cup is a fruit juice that Beidou specially ordered for you."
+        }
+      ],
+      "description": "At your suggestion, the two of you decide to seek the treasure in Qingce Village. What will you encounter on the way?"
+    }
+  ],
+  "speakers": [
+    "Sea Drake",
+    "Furong",
+    "Huixing",
+    "Beidou",
+    "Yinxing",
+    "Juza",
+    "Xu Liushi",
+    "Mora-Grubber",
+    "Nei",
+    "Mr. Iron Abacus",
+    "Yijian",
+    "Gui'an",
+    "Gongjun",
+    "Wai",
+    "Golden Alligator",
+    "Granny Ruoxin",
+    "Wenjing",
+    "Ji",
+    "Pops Xing",
+    "Ren",
+    "Changping",
+    "Defu",
+    "Observe Cup"
+  ],
+  "id": "ch-102401"
+}

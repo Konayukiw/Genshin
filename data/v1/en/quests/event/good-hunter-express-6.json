@@ -1,0 +1,73 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "I've got other matters to settle right now."
+        },
+        {
+          "s": 0,
+          "t": "Well, okay. I'll see who else I can get to take this commission."
+        },
+        {
+          "section": "Speak to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "That would be great, thank you!"
+        },
+        {
+          "s": 0,
+          "t": "Make sure you stay safe. Try not to get attacked by anything in the ruins, and remember not to run too fast, or the dish might fall out."
+        },
+        {
+          "s": 0,
+          "t": "Please hurry, this dish won't taste good if it gets cold."
+        },
+        {
+          "section": "Deliver the food to Hardworking Silio"
+        },
+        {
+          "s": 1,
+          "t": "I'm so hungry..."
+        },
+        {
+          "section": "Speak to Hardworking Silio"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "That's right. Silio ordered another serving of Mondstadt Grilled Fish today before heading to Stormterror's Lair. Could you help us and deliver this to him real quick?"
+        },
+        {
+          "s": 0,
+          "t": "This serving of Mondstadt Grilled Fish can't come into contact with any strange elements, or it might end up tasting funny."
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Great! This meal should give me enough energy to finally get out of this blasted place."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Hardworking Silio"
+  ],
+  "id": "q-41155"
+}

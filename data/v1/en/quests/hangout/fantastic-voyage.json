@@ -1,0 +1,2291 @@
+{
+  "chapter": "Hangout Event: Bennett",
+  "chapter_title": "Fantastic Voyage",
+  "act": "Act 1",
+  "act_title": "Fantastic Voyage",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19041",
+      "title": "Adventurous Acquaintance",
+      "dialogue": [
+        {
+          "section": "Go to the front desk of the Adventurers' Guild"
+        },
+        {
+          "s": 0,
+          "t": "Ah, it's you! Didn't think I'd be running into you here... Hehe, I guess it's my lucky day..."
+        },
+        {
+          "s": 0,
+          "t": "How're your adventures going lately? Did you come here to get a new commission from Katheryne, or to get paid?"
+        },
+        {
+          "s": 0,
+          "t": "And where're you going after this? Bet you've got a really exciting adventure lined up, huh?"
+        },
+        {
+          "sit": "You are...?"
+        },
+        {
+          "s": 0,
+          "t": "The name's Bennett. I'm your run-of-the-mill adventurer from Mondstadt!"
+        },
+        {
+          "sit": "Nice to meet you, Bennett!"
+        },
+        {
+          "s": 0,
+          "t": "Ah... I'm talking too much, aren't I... I'm sorry..."
+        },
+        {
+          "s": 0,
+          "t": "I was just so excited to run into someone I admire so much... And, uh... maybe a little starstruck, too... haha..."
+        },
+        {
+          "sit": "You... admire me?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! You're the mysterious Traveler, the hero who quelled the Stormterror crisis, and the leader of your own adventure team to boot!"
+        },
+        {
+          "s": 0,
+          "t": "If I'm being honest... I'm totally jealous of all your achievements..."
+        },
+        {
+          "sit": "{NICKNAME}'s Adventure Team..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, word's been spreading in adventurer circles for a long time now. Your adventure team shows up all over the continent..."
+        },
+        {
+          "s": 0,
+          "t": "It might look like you're just handling a bunch of boring commissions, but then, as soon as something big goes down, you're always there!"
+        },
+        {
+          "sit": "That's just coincidence..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, I just really envy you. You're sort of like... the protagonist of this world, or something. Hahaha..."
+        },
+        {
+          "s": 0,
+          "t": "Me, on the other hand, I'm just some unlucky guy. My adventure team even..."
+        },
+        {
+          "s": 0,
+          "t": "Ah— never mind, I shouldn't get all down in the dumps in front of someone I admire. I should be open to see what I can learn!"
+        },
+        {
+          "s": 0,
+          "t": "Speaking of which... I have a favor to ask..."
+        },
+        {
+          "s": 0,
+          "t": "Um... when you go adventuring later, can I come and watch?"
+        },
+        {
+          "sit": "...You just want to stand there and watch?"
+        },
+        {
+          "sit": "Aren't you going to give me a hand!?"
+        },
+        {
+          "s": 0,
+          "t": "Eh-hehe... Maybe you don't know. I'm a really unlucky person to have around..."
+        },
+        {
+          "s": 0,
+          "t": "If you brought me along on an adventure, my bad luck would probably just screw everything up!"
+        },
+        {
+          "s": 0,
+          "t": "I don't want to get you into any trouble, so just let me watch from the sidelines... that'd be good enough for me..."
+        },
+        {
+          "sit": "You're that excited to see me...?"
+        },
+        {
+          "sit": "I have my reasons..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? Something else?"
+        },
+        {
+          "s": 0,
+          "t": "...I guess you're right. Even just the chance to talk with you would be great, too. Yeah... let's forget about adventuring for now, hah..."
+        },
+        {
+          "s": 0,
+          "t": "But, uh... what would we do instead?"
+        },
+        {
+          "s": 0,
+          "t": "Apart from going on adventures... the only other thing I do is take care of my dads in the Adventurers' Guild..."
+        },
+        {
+          "s": 0,
+          "t": "So... I really can't think of anything else to do besides adventuring."
+        },
+        {
+          "sit": "Let me think about it."
+        },
+        {
+          "s": 0,
+          "t": "Alright! I feel like whatever we do, as long as you're involved, it'll be totally worth it!"
+        },
+        {
+          "s": 0,
+          "t": "Uh... but don't forget, I'll be bringing my bad luck with me..."
+        },
+        {
+          "s": 0,
+          "t": "So it probably won't be a very fun trip... haha..."
+        },
+        {
+          "sit": "It won't bother me."
+        },
+        {
+          "sit": "I'm looking forward to it."
+        },
+        {
+          "sit": "As long as you don't cause too much trouble."
+        },
+        {
+          "s": 0,
+          "t": "That's good, that's good... I was afraid you'd back out."
+        },
+        {
+          "s": 0,
+          "t": "Really? Looking forward to hanging out with someone like me...?"
+        },
+        {
+          "s": 0,
+          "t": "Seems like the rumors are all true! You really are a nice person able to bring people together, hehe."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I, uh... I'll try, although most of the time it's completely out of my control..."
+        },
+        {
+          "s": 0,
+          "t": "So, where are we gonna go?"
+        },
+        {
+          "sit": "How about we hang out around town?"
+        },
+        {
+          "sit": "How about a walk in the wild?"
+        },
+        {
+          "s": 0,
+          "t": "Cool, that would be nice! I was planning to stock up on some adventuring supplies anyway..."
+        },
+        {
+          "s": 0,
+          "t": "Oh! Sorry, I'm back talking about adventuring again. You must think I'm so boring..."
+        },
+        {
+          "s": 0,
+          "t": "Really!? Well, of course you do. You are a famous adventurer, after all."
+        },
+        {
+          "s": 0,
+          "t": "How about we go to the souvenir store?"
+        },
+        {
+          "s": 0,
+          "t": "\"With Wind Comes Glory\" is my favorite shop ever. What can I say, Mondstadt's where I grew up."
+        },
+        {
+          "s": 0,
+          "t": "Let's go!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, um... a—alright, haha..."
+        },
+        {
+          "s": 0,
+          "t": "How about we go to the souvenir store?"
+        },
+        {
+          "s": 0,
+          "t": "\"With Wind Comes Glory\" is my favorite shop ever. What can I say, Mondstadt's where I grew up."
+        },
+        {
+          "s": 0,
+          "t": "Let's go!"
+        },
+        {
+          "s": 0,
+          "t": "That's a good idea!"
+        },
+        {
+          "s": 0,
+          "t": "For someone like me, I'm actually way more familiar with the wilderness than the city, especially around Mondstadt!"
+        },
+        {
+          "s": 0,
+          "t": "I mean, I'm not on the same level as Fischl, who is also in the Adventurers' Guild. But that's expected, because she works in the Intelligence Department."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I know this gorgeous place. It's sort of a dandelion-covered meadow."
+        },
+        {
+          "s": 0,
+          "t": "It's got a great Mondstadt feel. Do you want to check it out?"
+        },
+        {
+          "sit": "Can't wait!"
+        },
+        {
+          "sit": "I can accompany you for a quick look."
+        },
+        {
+          "s": 0,
+          "t": "Awesome! I was worried that it wouldn't be your thing..."
+        },
+        {
+          "s": 0,
+          "t": "Shall we?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... okay, I'll try not to let you down, haha..."
+        },
+        {
+          "s": 0,
+          "t": "Shall we?"
+        },
+        {
+          "s": 0,
+          "t": "Really? I didn't mishear you, did I?"
+        },
+        {
+          "s": 0,
+          "t": "You mean... go adventure with you, just like we'd do if I was on your adventure team?"
+        },
+        {
+          "s": 0,
+          "t": "Wow! I never thought I'd get an opportunity like this!"
+        },
+        {
+          "sit": "Come on, I'm not as great as you make out..."
+        },
+        {
+          "sit": "I've always wanted to go adventuring with you, too."
+        },
+        {
+          "s": 0,
+          "t": "Don't be so modest! I've heard about all the great things you've done, not to mention the high praise you get from the Adventurers' Guild..."
+        },
+        {
+          "s": 0,
+          "t": "Aw, shucks... hearing you say that has got me all flustered, hehe... but I'm happy to hear it!"
+        },
+        {
+          "s": 0,
+          "t": "...By the way, since we've got this rare chance to work together, let me share some recent intel with you!"
+        },
+        {
+          "s": 0,
+          "t": "According to my friend Fischl in the Guild, a mysterious and dangerous ruin has recently been discovered..."
+        },
+        {
+          "s": 0,
+          "t": "Based on how the Guild ranks the difficulty of its commissions, it's probably between a Rank B and a Rank A."
+        },
+        {
+          "s": 0,
+          "t": "Normally, I wouldn't feel confident about taking on this level of commission..."
+        },
+        {
+          "s": 0,
+          "t": "After all, with my poor luck, it's safer for me to take on commissions that are a few notches lower than my actual ability, haha."
+        },
+        {
+          "s": 0,
+          "t": "But since you'll be joining me this time, it'll be a piece of cake, right?"
+        },
+        {
+          "sit": "Does defeating Stormterror count as an S-rank commission?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! Defeating Stormterror puts you on par with Guild Master Cyrus in my mind."
+        },
+        {
+          "sit": "Would stealing the Holy Lyre der Himmel count as an S-rank commission?"
+        },
+        {
+          "s": 0,
+          "t": "There's no way the Guild would issue an illegal commission like that!"
+        },
+        {
+          "s": 0,
+          "t": "Heh... By the way, this ruin might be a dangerous one, but that usually means there'll be some great treasure hidden inside. I can't wait!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, uh... do you usually make some food before you set out on an adventure?"
+        },
+        {
+          "sit": "I do."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... the cautious choice. No wonder you're so good at this."
+        },
+        {
+          "s": 0,
+          "t": "Seems I really can learn a few things from you, hehe."
+        },
+        {
+          "s": 0,
+          "t": "In that case, as per your tradition, let's get cooking!"
+        },
+        {
+          "s": 0,
+          "t": "Oh yeah — I actually invented a pretty nice dish recently!"
+        },
+        {
+          "s": 0,
+          "t": "I can't say it's super tasty, but I think it'd be perfect for an adventure. So, how about I show you how to make it?"
+        },
+        {
+          "sit": "Okay, how about I fetch the ingredients and you cook?"
+        },
+        {
+          "s": 0,
+          "t": "Cool! I really miss that old feeling of working with a partner."
+        },
+        {
+          "sit": "Nice, and thank you!"
+        },
+        {
+          "s": 0,
+          "t": "Oh wait till you see— Oh, uh... huh. Ingredients... seem to be in short supply, hehe..."
+        },
+        {
+          "s": 0,
+          "t": "I'm really sorry... I probably need your help to get some."
+        },
+        {
+          "s": 0,
+          "t": "The ingredients needed for this dish are... Mint, Radish, and Slime Condensate. One of each, please."
+        },
+        {
+          "s": 0,
+          "t": "You got that, right? I'll wait for you near the pot at Good Hunter. Come find me when you're done collecting!"
+        },
+        {
+          "s": 0,
+          "t": "Oh! I guess you're such a pro that you don't need to worry about that, huh? Awesome..."
+        },
+        {
+          "s": 0,
+          "t": "Then what are we waiting for? Let's go!"
+        }
+      ],
+      "description": "You make the acquaintance of a rather passionate adventurer at the front desk of the Mondstadt Adventurers' Guild..."
+    },
+    {
+      "id": "q-19042",
+      "title": "Something... Other Than Adventure?",
+      "dialogue": [
+        {
+          "section": "Go to With Wind Comes Glory"
+        },
+        {
+          "s": 0,
+          "t": "Marjorie!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, hello, Bennett! I haven't seen you for a long time. I thought you were off adventuring in some faraway place that I've never heard of."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, no, no, it's just I got myself into a tight spot out there. Ended up getting held up for quite a while..."
+        },
+        {
+          "s": 1,
+          "t": "Ahaha... what else is new? So, what are you looking to buy this time?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, I was just checking in to see if the stuff I ordered last time was ready. Thought I'd bring my friend along."
+        },
+        {
+          "s": 1,
+          "t": "You mean \"Herman's Custom Adventure Map\"..."
+        },
+        {
+          "s": 0,
+          "t": "That's right! An adventure map drawn personally by Herman, the great adventurer. It shows loads of recommended places for adventuring, and with his comments, too!"
+        },
+        {
+          "s": 1,
+          "t": "Well, it did arrive, but unfortunately, the cart tipped over in a puddle on the way here..."
+        },
+        {
+          "s": 1,
+          "t": "Most of the goods were fine, but since the adventure map was an ink drawing, it's completely ruined..."
+        },
+        {
+          "s": 0,
+          "t": "What... oh, shoot! That's such a shame!"
+        },
+        {
+          "sit": "You really are unlucky, Bennett..."
+        },
+        {
+          "s": 0,
+          "t": "Aw, I'd been looking forward to that for so long... I was this close to getting my hands on it..."
+        },
+        {
+          "sit": "Poor Marjorie..."
+        },
+        {
+          "s": 1,
+          "t": "Yes, I am the one who has to bear the loss, after all..."
+        },
+        {
+          "s": 1,
+          "t": "(*sigh* Maybe I should reconsider whether I'm happy to accept orders from Bennett in the future...)"
+        },
+        {
+          "s": 0,
+          "t": "Okay, well, do you have any Alchemist's Goggles?"
+        },
+        {
+          "s": 0,
+          "t": "I've been thinking about replacing the old goggles on my head for a long time. I heard that there's a new type of goggles made specially for alchemists!"
+        },
+        {
+          "s": 0,
+          "t": "When you wear them, you can see all the elements, even the slightest traces of elemental energy!"
+        },
+        {
+          "sit": "That's quite useful."
+        },
+        {
+          "sit": "I feel like I can do all of that already..."
+        },
+        {
+          "s": 1,
+          "t": "Oh... I'm afraid these \"Alchemist's Goggles\" you refer to are just a rumor..."
+        },
+        {
+          "s": 1,
+          "t": "I talked to that alchemist, Timaeus... He told me there's no such thing."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, are you kidding me? My hopes dashed, yet again..."
+        },
+        {
+          "s": 0,
+          "t": "Well... how about some Slime Gel Gloves? They exist, right? I saw an adventurer using them once."
+        },
+        {
+          "s": 0,
+          "t": "No matter what the weather, they can grip onto rock when climbing. I call them... non-slip gloves."
+        },
+        {
+          "s": 1,
+          "t": "Those do exist..."
+        },
+        {
+          "s": 1,
+          "t": "Unfortunately, we sold out of them just yesterday. They are quite a popular product."
+        },
+        {
+          "sit": "I don't think we are going to get anything here..."
+        },
+        {
+          "s": 0,
+          "t": "Haha... It's okay, no big deal! I'm pretty much used to coming home empty-handed when I go shopping."
+        },
+        {
+          "s": 0,
+          "t": "Don't let it bother you. Oh — hey, how about I treat you to a meal at Good Hunter?"
+        },
+        {
+          "s": 0,
+          "t": "We've been hanging out for a while now, you must be getting hungry, right? Let's go!"
+        },
+        {
+          "sit": "Let's head somewhere else..."
+        },
+        {
+          "section": "Go to With Wind Comes Glory"
+        },
+        {
+          "s": 2,
+          "t": "Mondstadt General Goods Special Offer — 50% Off All Items!"
+        },
+        {
+          "section": "Accompany Bennett to go shopping"
+        },
+        {
+          "s": 0,
+          "t": "Hi, Sara! Table for two, please!"
+        },
+        {
+          "s": 3,
+          "t": "Ah... I'm so sorry, I don't think we'll be able to serve you two today."
+        },
+        {
+          "s": 0,
+          "t": "Huh? How come? It doesn't seem really busy here."
+        },
+        {
+          "s": 3,
+          "t": "Ahh... well... how can I put this, just before you two arrived, we received an order..."
+        },
+        {
+          "s": 3,
+          "t": "An entire delegation from Snezhnaya has come to stay at the Goth Grand Hotel, and they asked us to provide a meal service."
+        },
+        {
+          "s": 3,
+          "t": "So, although you might not see many people here, the kitchen is in fact busier than it's ever been."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* They really know how to rope people into doing things for them. If only they hadn't offered to pay so much..."
+        },
+        {
+          "sit": "Looks like we'll have to give up..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, who'd have thought we'd have so much trouble just trying to get some food..."
+        },
+        {
+          "sit": "I'll bet it's those pesky Fatui again!"
+        },
+        {
+          "s": 0,
+          "t": "Oh. I've actually never had any dealings with them..."
+        },
+        {
+          "s": 0,
+          "t": "But I have heard that they're arrogant and aggressive."
+        },
+        {
+          "s": 0,
+          "t": "In which case, there probably isn't much we can do about it..."
+        },
+        {
+          "s": 0,
+          "t": "Well... how 'bout we just head to Mondstadt General Goods? We can at least get some basic adventure supplies!"
+        },
+        {
+          "s": 0,
+          "t": "What do you think? You're in, right? Hehe, let's go."
+        },
+        {
+          "section": "Accompany Bennett to go shopping"
+        },
+        {
+          "s": 0,
+          "t": "Huh, that's strange... the owner, Blanche, isn't here. Hmm... That's really rare."
+        },
+        {
+          "s": 0,
+          "t": "Let's go over there and see what that sign says."
+        },
+        {
+          "section": "Go to Good Hunter"
+        },
+        {
+          "s": 0,
+          "t": "Wow! Is this for real? A discount!?"
+        },
+        {
+          "sit": "This store's generally not considered tight-fisted, is it?"
+        },
+        {
+          "sit": "Don't most places have a sale every now and then?"
+        },
+        {
+          "s": 0,
+          "t": "I mean, sure, but... not when I'm around!"
+        },
+        {
+          "s": 0,
+          "t": "I've never had such good luck before!"
+        },
+        {
+          "s": 0,
+          "t": "Heh, it must be because I'm with you! Wow, lucky folk really have it different."
+        },
+        {
+          "sit": "That's a bit of an exaggeration..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, you're so nice."
+        },
+        {
+          "s": 0,
+          "t": "Then again, any discount's a bit meaningless without Blanche being here."
+        },
+        {
+          "s": 0,
+          "t": "Shall we wait here for a while?"
+        },
+        {
+          "s": 0,
+          "t": "When Blanche comes back, I'm gonna buy a bunch!"
+        },
+        {
+          "s": 0,
+          "t": "After all, this is a rare opportunity, especially for someone like me..."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* Blanche is taking quite a while..."
+        },
+        {
+          "s": 0,
+          "t": "It must be an emergency. I feel like she hardly ever leaves the counter."
+        },
+        {
+          "sit": "Let's wait a little longer..."
+        },
+        {
+          "sit": "I have a bad feeling about this..."
+        },
+        {
+          "s": 0,
+          "t": "Really? Don't worry. If we managed to catch a sale, today's gotta be a good day!"
+        },
+        {
+          "s": 0,
+          "t": "Patience is a virtue for adventurers, too! There's no rush..."
+        },
+        {
+          "s": 0,
+          "t": "Do you think that... Blanche is in some kind of trouble?"
+        },
+        {
+          "s": 0,
+          "t": "I'm getting a bit worried... The 50% discount is a big deal, but... compared to Blanche's safety, I mean..."
+        },
+        {
+          "sit": "You are overthinking things..."
+        },
+        {
+          "sit": "Yeah, it's been too long..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... It's probably just all this waiting around making my imagination run wild, I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... C'mon, snap out of it..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "... ..."
+        },
+        {
+          "s": 0,
+          "t": "I don't usually say this..."
+        },
+        {
+          "s": 0,
+          "t": "But... do you think it's time we gave up...?"
+        },
+        {
+          "s": 0,
+          "t": "Blanche probably won't be back today, right?"
+        },
+        {
+          "s": 0,
+          "t": "I guess I overestimated my luck, haha..."
+        },
+        {
+          "sit": "It's just a coincidence..."
+        },
+        {
+          "s": 0,
+          "t": "That's right, I shouldn't let myself get down about it..."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry, I got so obsessed with the idea of that discount that I didn't stop to consider your feelings..."
+        },
+        {
+          "s": 4,
+          "t": "Oh... are you... waiting for me?"
+        },
+        {
+          "s": 0,
+          "t": "Blanche! We've been waiting for you for ages. You're finally back!"
+        },
+        {
+          "s": 0,
+          "t": "I was getting worried about you... What happened? Did you run into some kind of trouble?"
+        },
+        {
+          "s": 4,
+          "t": "Oh... Nothing like that. I was just sorting some things out at home. Thanks for your concern, though."
+        },
+        {
+          "s": 4,
+          "t": "But, why are you two waiting anyway? I posted a notice saying that we'd be closed today..."
+        },
+        {
+          "s": 0,
+          "t": "Closed!?"
+        },
+        {
+          "s": 0,
+          "t": "We didn't see a sign like that... And anyway, isn't it 50% off the whole store today? That's the whole reason we waited all this time."
+        },
+        {
+          "s": 4,
+          "t": "Uh, let me check..."
+        },
+        {
+          "s": 4,
+          "t": "Hmm... that's weird. It looks like someone removed the closed sign. Or... maybe the wind blew it away?"
+        },
+        {
+          "s": 4,
+          "t": "The half price notice you saw was for yesterday... Sorry about that."
+        },
+        {
+          "s": 0,
+          "t": "Oh..."
+        },
+        {
+          "sit": "Cheer up, Bennett..."
+        },
+        {
+          "sit": "This is so you, Bennett..."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry... I should have seen this coming..."
+        },
+        {
+          "s": 0,
+          "t": "So, so, sorry! I feel like I've done nothing but waste your time all day..."
+        },
+        {
+          "s": 0,
+          "t": "No matter what I do, I really can't shake my bad luck..."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* It's getting a bit late. I don't think you can accomplish anything if you keep on hanging out with me..."
+        },
+        {
+          "s": 0,
+          "t": "So... let's part ways for now, and maybe next time it'll be different..."
+        },
+        {
+          "s": 0,
+          "t": "...That is, if you still want to hang out with me next time... heh..."
+        },
+        {
+          "s": 0,
+          "t": "Thanks... I'm fine. I should have seen this coming..."
+        }
+      ],
+      "description": "You agree to travel with Bennett, but you're doing some things unrelated to adventure this time — for example... running around the city?"
+    },
+    {
+      "id": "q-19043",
+      "title": "What Is This, a Day Trip?",
+      "dialogue": [
+        {
+          "section": "Go to the \"dandelion meadow\""
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Is this definitely the right place?"
+        },
+        {
+          "sit": "It's not quite what I expected..."
+        },
+        {
+          "s": 0,
+          "t": "Ah... what happened? It wasn't like this the last time I saw it!"
+        },
+        {
+          "s": 0,
+          "t": "The dandelions are all stripped bare of seeds..."
+        },
+        {
+          "s": 0,
+          "t": "Was there a wind storm? Or did some strange creature come by..."
+        },
+        {
+          "s": 0,
+          "t": "I'm so sorry... bringing you all this way only for you to end up seeing nothing..."
+        },
+        {
+          "sit": "You couldn't have predicted this, no need to apologize."
+        },
+        {
+          "s": 0,
+          "t": "Well, that's true... but then again, the unpredictable is to be expected when my luck's involved..."
+        },
+        {
+          "s": 0,
+          "t": "Really? You're not just saying that because you don't wanna hurt my feelings, are you? Heh, you're so nice."
+        },
+        {
+          "s": 0,
+          "t": "You're right, I just got careless. With my poor luck, I should have been extra careful... sorry about that."
+        },
+        {
+          "s": 0,
+          "t": "Well, there's not much reason to stay here anymore."
+        },
+        {
+          "s": 0,
+          "t": "But, how about we take a walk around the area? Maybe we'll find something interesting."
+        },
+        {
+          "section": "Go to the \"dandelion meadow\""
+        },
+        {
+          "s": 5,
+          "t": "...Is that it!? What a letdown."
+        },
+        {
+          "s": 0,
+          "t": "Isn't that the peak of Starsnatch Cliff up ahead?"
+        },
+        {
+          "s": 0,
+          "t": "The view goes for miles from up there. I bet you've been here before, right? ... Come on, let's go!"
+        },
+        {
+          "s": 5,
+          "t": "How come the weather suddenly brightened up the second Bennett left?"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Do you see that? There's a monster camp up ahead!"
+        },
+        {
+          "s": 0,
+          "t": "I can see a whole load of treasure chests with no monsters guarding them!"
+        },
+        {
+          "sit": "That's rare..."
+        },
+        {
+          "s": 0,
+          "t": "I was hoping I'd get a chance to flex my muscles a bit! Where did all the monsters go? This is weird."
+        },
+        {
+          "s": 0,
+          "t": "For me, this kind of good fortune is super rare. It must be because you're here, hehe."
+        },
+        {
+          "s": 0,
+          "t": "Let's go check it out! Ooh... I wonder what goodies are hidden in those chests?"
+        },
+        {
+          "sit": "It feels a bit off..."
+        },
+        {
+          "section": "Accompany Bennett on a walk"
+        },
+        {
+          "s": 0,
+          "t": "Whew... we didn't miss any, right?"
+        },
+        {
+          "sit": "How can this be!"
+        },
+        {
+          "sit": "I can't believe there was nothing good at all..."
+        },
+        {
+          "sit": "No wonder there were no monsters guarding them..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? What's the problem?"
+        },
+        {
+          "s": 0,
+          "t": "We got so much stuff today! We should be happy... How come you look so down?"
+        },
+        {
+          "sit": "Does that mean you usually..."
+        },
+        {
+          "sit": "Surely not..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? Chests are always like this, aren't they?"
+        },
+        {
+          "s": 0,
+          "t": "A few loose Mora, occasionally a cabbage, maybe a radish or something."
+        },
+        {
+          "s": 0,
+          "t": "A bit of Mora and some ingredients to fill our stomachs, that's good enough for me!"
+        },
+        {
+          "s": 0,
+          "t": "The kind of chests you mentioned that have weapons, artifacts, or some other treasures inside..."
+        },
+        {
+          "s": 0,
+          "t": "Aren't they super, super rare?"
+        },
+        {
+          "s": 0,
+          "t": "I've only ever seen them in places that are so dangerous you'd have to risk life and limb to get there..."
+        },
+        {
+          "s": 0,
+          "t": "So that's how it is!? ...Ugh, and I actually thought this was the norm."
+        },
+        {
+          "s": 0,
+          "t": "I can't believe even chests are after me... hmph."
+        },
+        {
+          "s": 0,
+          "t": "Let's keep walking. Who knows when the monsters might return."
+        },
+        {
+          "s": 0,
+          "t": "Shall we?"
+        },
+        {
+          "s": 0,
+          "t": "Right? So let's not ask for too much."
+        },
+        {
+          "s": 0,
+          "t": "Let's keep walking. Who knows when the monsters might return."
+        },
+        {
+          "s": 0,
+          "t": "Shall we?"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "It's so nice here. The breeze is so comforting... Really lifts my mood."
+        },
+        {
+          "s": 0,
+          "t": "I've been adventuring alone for a long time. It feels so nice to have company. Honestly, I miss it a lot, hehe."
+        },
+        {
+          "s": 0,
+          "t": "Oh, uh, not that I'm super lonely or anything. I've got my dads to keep me company when I'm not out adventuring."
+        },
+        {
+          "s": 0,
+          "t": "Actually... did I tell you about my dads already?"
+        },
+        {
+          "s": 0,
+          "t": "Back in the day, they were all great adventurers. They've got so many cool stories."
+        },
+        {
+          "s": 0,
+          "t": "They were the ones who rescued me from a perilous place when I was just a baby, and together they raised me."
+        },
+        {
+          "s": 0,
+          "t": "Now they're all old and frail. Some of them can't even walk by themselves anymore. So it's my turn to take care of them."
+        },
+        {
+          "s": 0,
+          "t": "I'd love to take you to meet them sometime. You'd be blown away by some of their stories!"
+        },
+        {
+          "s": 0,
+          "t": "Absolutely! I picked up most of my adventure expertise from them. They're incredible!"
+        },
+        {
+          "s": 0,
+          "t": "By the way, you did bring a wind glider with you today, right?"
+        },
+        {
+          "s": 0,
+          "t": "The weather is so nice and the wind speed is perfect. Why don't we take the chance to go for a glide?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Aww..."
+        },
+        {
+          "sit": "What happened to the weather..."
+        },
+        {
+          "sit": "Your bad luck is getting ridiculous!"
+        },
+        {
+          "s": 0,
+          "t": "Eh-he... sorry, I didn't see this coming... not to this extent, at least."
+        },
+        {
+          "s": 0,
+          "t": "Well, it seems that we'd better give up on that idea. Let's go do something else..."
+        },
+        {
+          "s": 7,
+          "t": "Bennett! So there you are!"
+        },
+        {
+          "s": 0,
+          "t": "Hi, Jack! Is something going on? Are you here to see me?"
+        },
+        {
+          "s": 7,
+          "t": "Some of the older adventurers in the guild are really hurting from their arthritis again... it could be because of the humidity today..."
+        },
+        {
+          "s": 0,
+          "t": "You mean my dads? That's too bad. They'll need someone to take care of them."
+        },
+        {
+          "s": 7,
+          "t": "Well, you're the one who usually looks after them, right? They're all asking for you!"
+        },
+        {
+          "s": 0,
+          "t": "Okay, I'll be right over!"
+        },
+        {
+          "s": 0,
+          "t": "O—Oh, wait..."
+        },
+        {
+          "sit": "It's okay, this is important."
+        },
+        {
+          "sit": "I'll see you next time we get a chance."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, thanks for understanding. Though, I feel pretty bad leaving you here..."
+        },
+        {
+          "s": 7,
+          "t": "We'd better hurry back. They're all waiting for you."
+        },
+        {
+          "s": 0,
+          "t": "Okay... okay, sure. Well... I have to go now. Let me treat you to something next time... bye..."
+        },
+        {
+          "s": 0,
+          "t": "No, not really! I mean, I have to be careful to make sure they don't get affected by my bad luck, but apart from that, it's kinda fun taking care of them!"
+        },
+        {
+          "s": 0,
+          "t": "By the way, you did bring a wind glider with you today, right?"
+        },
+        {
+          "s": 0,
+          "t": "The weather is so nice and the wind speed is perfect. Why don't we take the chance to go for a glide?"
+        },
+        {
+          "s": 6,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Aww..."
+        },
+        {
+          "sit": "What happened to the weather..."
+        },
+        {
+          "sit": "Your bad luck is getting ridiculous!"
+        },
+        {
+          "s": 0,
+          "t": "Eh-he... sorry, I didn't see this coming... not to this extent, at least."
+        },
+        {
+          "s": 0,
+          "t": "Well, it seems that we'd better give up on that idea. Let's go do something else..."
+        },
+        {
+          "s": 7,
+          "t": "Bennett! So there you are!"
+        },
+        {
+          "s": 0,
+          "t": "Hi, Jack! Is something going on? Are you here to see me?"
+        },
+        {
+          "s": 7,
+          "t": "Some of the older adventurers in the guild are really hurting from their arthritis again... it could be because of the humidity today..."
+        },
+        {
+          "s": 0,
+          "t": "You mean my dads? That's too bad. They'll need someone to take care of them."
+        },
+        {
+          "s": 7,
+          "t": "Well, you're the one who usually looks after them, right? They're all asking for you!"
+        },
+        {
+          "s": 0,
+          "t": "Okay, I'll be right over!"
+        },
+        {
+          "s": 0,
+          "t": "O—Oh, wait..."
+        },
+        {
+          "sit": "It's okay, this is important."
+        },
+        {
+          "sit": "I'll see you next time we get a chance."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, thanks for understanding. Though, I feel pretty bad leaving you here..."
+        },
+        {
+          "s": 7,
+          "t": "We'd better hurry back. They're all waiting for you."
+        },
+        {
+          "s": 0,
+          "t": "Okay... okay, sure. Well... I have to go now. Let me treat you to something next time... bye..."
+        }
+      ],
+      "description": "You agree to travel with Bennett, but you're doing some things unrelated to adventure this time — for example... having a stroll in the great outdoors?"
+    },
+    {
+      "id": "q-19044",
+      "title": "Treacherous Thermadon",
+      "dialogue": [
+        {
+          "section": "Help Bennett gather ingredients"
+        },
+        {
+          "s": 0,
+          "t": "Now that we've got our ingredients, allow me to handle the cooking!"
+        },
+        {
+          "s": 0,
+          "t": "It's done!"
+        },
+        {
+          "s": 0,
+          "t": "I forgot the exact order you're supposed to add the ingredients in, but... it should be alright."
+        },
+        {
+          "s": 0,
+          "t": "I'll pack it up and leave it with you until we get to the ruins."
+        },
+        {
+          "sit": "Are you sure it's okay to eat?"
+        },
+        {
+          "s": 0,
+          "t": "I think so...? Should be... pretty much... basically the same as when I first came up with it. So... yup!"
+        },
+        {
+          "sit": "I feel like this dish... reeks of misfortune."
+        },
+        {
+          "s": 0,
+          "t": "Huh? It's just an ordinary dish... hearing you say that is really kind of disappointing..."
+        },
+        {
+          "s": 0,
+          "t": "Well, now that the food is ready, let's head for those mysterious ruins!"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "It feels pretty ordinary here... I was expecting some kind of sense of impending doom."
+        },
+        {
+          "s": 0,
+          "t": "Could it be that because you're here with me, I'm feeling more at ease? Hehe..."
+        },
+        {
+          "s": 0,
+          "t": "Ahh, it looks like... the door in the front is closed and only the door behind us is open..."
+        },
+        {
+          "s": 0,
+          "t": "That mechanism must be for opening the next door, right?"
+        },
+        {
+          "sit": "I think so."
+        },
+        {
+          "sit": "Well, that's pretty much our only option."
+        },
+        {
+          "s": 0,
+          "t": "Right. Well, we're on the same page at least."
+        },
+        {
+          "s": 0,
+          "t": "I'll go try to operate it."
+        },
+        {
+          "s": 0,
+          "t": "Just as I expected, hehe."
+        },
+        {
+          "sit": "But now the door behind us is closed..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, so it is..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... a true adventurer can't just barge on forward. It's also important to make sure there is a way back. That's what my dads always say."
+        },
+        {
+          "s": 0,
+          "t": "Lemme try the mechanism one more time..."
+        },
+        {
+          "s": 8,
+          "t": "*clicking sounds*"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, it seems to be... jammed."
+        },
+        {
+          "sit": "Not what I expected, but not exactly unexpected."
+        },
+        {
+          "s": 0,
+          "t": "This is not good... It seems that we can't get back the way we came."
+        },
+        {
+          "sit": "Does that mean... we're locked in here?"
+        },
+        {
+          "s": 0,
+          "t": "I think so, at least, it seems that way for now..."
+        },
+        {
+          "s": 0,
+          "t": "But, don't let it get you down!"
+        },
+        {
+          "s": 0,
+          "t": "This kind of thing happens all the time. We just have to believe that there's always a way out."
+        },
+        {
+          "s": 0,
+          "t": "What the... What's going on..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, did you hear that?"
+        },
+        {
+          "s": 0,
+          "t": "Sounded like it came from the door up ahead of us... Could there be other people in the ruin, too?"
+        },
+        {
+          "s": 0,
+          "t": "Let's go check it out!"
+        },
+        {
+          "section": "Enter the ruins"
+        },
+        {
+          "s": 9,
+          "t": "Have you found a way out yet? ... Forget it, why did I even get my hopes up, anyway?"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "Hello, fellow adventurer! We, like you, are here to—"
+        },
+        {
+          "s": 9,
+          "t": "...BENNETT!?"
+        },
+        {
+          "s": 0,
+          "t": "Ah— Royce...!? It's you!"
+        },
+        {
+          "s": 9,
+          "t": "Oh no, oh please, oh no, no, no..."
+        },
+        {
+          "s": 0,
+          "t": "I'm so happy to see you again! How are you doing? I've been thinking about you and the other guild members a lot recently..."
+        },
+        {
+          "s": 9,
+          "t": "This is the worst! Ugh... Why did I have to run into you..."
+        },
+        {
+          "s": 0,
+          "t": "Oh..."
+        },
+        {
+          "s": 9,
+          "t": "It took me forever to get this door open! Finally, I was about to advance further in, and all of a sudden... it closes again."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I guess that's because I activated the mechanism just now..."
+        },
+        {
+          "s": 9,
+          "t": "I knew it, I knew it! Of course it was you, I knew it as soon as I saw you."
+        },
+        {
+          "s": 9,
+          "t": "As long as you are around, no adventure can ever be a smooth ride! Ugh... This is turning into a very bad day..."
+        },
+        {
+          "sit": "That's a bit harsh, isn't it?"
+        },
+        {
+          "sit": "How can you blame it all on someone else?"
+        },
+        {
+          "s": 9,
+          "t": "Who are you? And what the heck were you thinking, teaming up with Bennett!"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Don't fight, don't fight..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, let me introduce Royce, a former member of Benny's Adventure Team, and... an old friend of mine."
+        },
+        {
+          "s": 9,
+          "t": "Friend!? I didn't even tell you I was leaving the team, and you still think of me as... your friend...?"
+        },
+        {
+          "s": 9,
+          "t": "Ugh, never mind, I'm a little on edge because of what just happened. I'm sorry."
+        },
+        {
+          "s": 0,
+          "t": "Well, it was my fault... haha..."
+        },
+        {
+          "s": 9,
+          "t": "Ya think? *sigh* I left because at that time, I really couldn't stand it a second longer. My adventures always used to go off without a hitch..."
+        },
+        {
+          "s": 9,
+          "t": "But after joining your adventure team, I was tripping and falling one day, getting struck by lightning the next— Oh, and the number of times ruins would cave in on us..."
+        },
+        {
+          "s": 9,
+          "t": "I just couldn't dismiss it as \"mere coincidence\" anymore..."
+        },
+        {
+          "s": 9,
+          "t": "The last straw was when my left leg got hit by that random explosion that came out of nowhere. After that, I couldn't stand it anymore... both literally and figuratively. *sigh* So I left... and went back to being an independent adventurer..."
+        },
+        {
+          "s": 9,
+          "t": "Only afterward did I start hearing the horror stories about Benny's Adventure Team... *sigh*"
+        },
+        {
+          "sit": "Bennett didn't volunteer for this bad luck."
+        },
+        {
+          "sit": "So that's why you left him?"
+        },
+        {
+          "s": 9,
+          "t": "I didn't think about it much at the time, I was just focused on my own survival, but... there was no other way..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, alright, it's all in the past now. Talking about all the bad things that happened will only make you more upset, right?"
+        },
+        {
+          "s": 0,
+          "t": "Um... Royce... I still want to say sorry for all the trouble I caused you..."
+        },
+        {
+          "s": 9,
+          "t": "Oh... no need to apologize to me. I have made my fair share of mistakes, too..."
+        },
+        {
+          "s": 0,
+          "t": "Oh! Yeah... there's one more thing I need to tell you. The door we came through on the way in also got closed, and... I don't think we can get it open again."
+        },
+        {
+          "s": 0,
+          "t": "So we are probably trapped here now. What a pain in the butt, haha..."
+        },
+        {
+          "s": 9,
+          "t": "..."
+        },
+        {
+          "s": 9,
+          "t": "BENNETT!!!"
+        },
+        {
+          "s": 9,
+          "t": "Ugh! Everything always goes wrong when I'm with you!"
+        },
+        {
+          "s": 0,
+          "t": "Oh... well... there's nothing I can do... sorry."
+        },
+        {
+          "s": 9,
+          "t": "Ugh, what am I gonna do!? I've used up all of my supplies already!"
+        },
+        {
+          "s": 9,
+          "t": "This is it... This is how I go, isn't it...? Here, today, and all because of Bennett... *whimpers*"
+        },
+        {
+          "s": 0,
+          "t": "Well... I don't know what I could do to apologize. If you don't mind, maybe we can share some of our supplies with you."
+        },
+        {
+          "s": 0,
+          "t": "Ah, but of course, I'll have to check with my partner first. So, what do you think?"
+        },
+        {
+          "s": 9,
+          "t": "...You're right, I really shouldn't have put the blame on him like that."
+        },
+        {
+          "sit": "No way. You don't owe him anything."
+        },
+        {
+          "s": 9,
+          "t": "Ugh... alright... I am quite hungry. I suppose I shall accept your kind offer."
+        },
+        {
+          "s": 9,
+          "t": "...Is this the \"supplies\" you were talking about? Why do I have the feeling that this dish is... a bit suspect?"
+        },
+        {
+          "s": 0,
+          "t": "It's fine, honestly! It's been with my partner all along, so it shouldn't be tainted with my bad luck..."
+        },
+        {
+          "s": 9,
+          "t": "If that's true then... okay. Anyway, this is not a time to nitpick."
+        },
+        {
+          "s": 9,
+          "t": "Then... I guess I'll just have... little bite..."
+        },
+        {
+          "s": 9,
+          "t": "Hmm, tastes a little... Huh, what a strange texture... Ugh, what is that churning feeling in my stomach..."
+        },
+        {
+          "s": 9,
+          "t": "...B—Bennett..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, what's wrong? Royce!"
+        },
+        {
+          "s": 0,
+          "t": "But it was because of my bad luck, though..."
+        },
+        {
+          "sit": "This is why you should focus on yourself more."
+        },
+        {
+          "sit": "Stop trying to accommodate others all the time."
+        },
+        {
+          "s": 0,
+          "t": "So you mean... as the unlucky one, I should think of myself more..."
+        },
+        {
+          "sit": "Bennett, you did nothing wrong."
+        },
+        {
+          "sit": "If you only think about caring for others, who will take care of you?"
+        },
+        {
+          "s": 0,
+          "t": "Heh... You do have a point there..."
+        },
+        {
+          "s": 0,
+          "t": "It's just, I've been used to thinking this way for a long time. Hearing you say that, though, I feel like maybe I do need to take better care of myself."
+        },
+        {
+          "s": 0,
+          "t": "Uh... I'm sorry, Royce, we'll have to keep the rest of our supplies for ourselves. But, let's try to find a way out together."
+        },
+        {
+          "s": 9,
+          "t": "Hmph, nobody cares about your supplies. Knowing you, they're probably cursed anyway!"
+        },
+        {
+          "s": 9,
+          "t": "And as for finding the exit together — count me out!"
+        },
+        {
+          "s": 9,
+          "t": "With Bennett around, I'm sure any exit I find will only be blocked!"
+        },
+        {
+          "s": 0,
+          "t": "Well... then take care, Royce."
+        },
+        {
+          "s": 9,
+          "t": "You—"
+        },
+        {
+          "s": 9,
+          "t": "*sigh* ...You take care too Bennett."
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 8,
+          "t": "This mechanism makes clacking, whirring noises. It appears to be stuck."
+        },
+        {
+          "s": 0,
+          "t": "Aww... Still not a clue."
+        },
+        {
+          "s": 0,
+          "t": "Is there really no way out of here apart from that broken mechanism?"
+        },
+        {
+          "sit": "I'm afraid so..."
+        },
+        {
+          "s": 0,
+          "t": "Well, guess our only hope now is to wait for help."
+        },
+        {
+          "s": 0,
+          "t": "The Adventurers' Guild might notice our disappearance and send someone."
+        },
+        {
+          "s": 0,
+          "t": "Then again, that depends on how lucky we are... If the rescue team takes too long to find us, we might already be..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, I hate feeling helpless, sitting here waiting for the end to come..."
+        },
+        {
+          "sit": "...You really have zero expectations when it comes to luck."
+        },
+        {
+          "sit": "What if help does arrive in time?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Yeah, I am being a bit too pessimistic. No, come on, this isn't like me."
+        },
+        {
+          "s": 0,
+          "t": "Okay, let's double-check our supplies. Our priority right now is figuring out how long we can hold out."
+        },
+        {
+          "s": 0,
+          "t": "Take out the dish I packed."
+        },
+        {
+          "s": 0,
+          "t": "Huh... It's probably a little late for this, but..."
+        },
+        {
+          "s": 0,
+          "t": "...It looks kinda strange. Hmm, was there really something wrong with my cooking?"
+        },
+        {
+          "sit": "Hate to say, I told you so..."
+        },
+        {
+          "sit": "You might get food poisoning if you eat it."
+        },
+        {
+          "s": 0,
+          "t": "Ah! This is bad. This is all we've got in terms of supplies."
+        },
+        {
+          "s": 0,
+          "t": "I should have thought this through more..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, wait a minute..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "Maybe we can find another use for it..."
+        },
+        {
+          "sit": "Like what?"
+        },
+        {
+          "s": 0,
+          "t": "Long story short..."
+        },
+        {
+          "s": 0,
+          "t": "I once got injured when I was in this severely dangerous place and I got knocked unconscious. I really thought that was going to be the end of me."
+        },
+        {
+          "s": 0,
+          "t": "But, turns out that's not how it went. Instead, according to Guild Master Cyrus who rescued me..."
+        },
+        {
+          "s": 0,
+          "t": "After I lost consciousness, it was as if my bad luck just stopped affecting me. He took me back to Mondstadt without encountering any trouble at all along the way."
+        },
+        {
+          "s": 0,
+          "t": "And another time, I got knocked out in a field during a thunderstorm, but then I went the whole night without getting struck by lightning..."
+        },
+        {
+          "s": 0,
+          "t": "I wonder if my bad luck is related to whether I'm awake or not. Or in other words, it might be my consciousness that brings me bad luck."
+        },
+        {
+          "sit": "You mean... you want to sacrifice yourself?"
+        },
+        {
+          "s": 0,
+          "t": "Not really a sacrifice. I was just thinkin'..."
+        },
+        {
+          "s": 0,
+          "t": "Maybe if I eat this strange dish... it's possible that I'll lose consciousness, right?"
+        },
+        {
+          "s": 0,
+          "t": "Once my bad luck is gone, surely help will be here soon!"
+        },
+        {
+          "sit": "No, you're sacrificing yourself for others again..."
+        },
+        {
+          "sit": "Bennett, no way, that's just too tragic!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, it's okay. It's better than dragging you and Royce down with me."
+        },
+        {
+          "s": 0,
+          "t": "You made a great point earlier when you said that I should take better care of myself, but right now, this is a life-or-death situation. Hope you can understand."
+        },
+        {
+          "s": 0,
+          "t": "Here goes!"
+        },
+        {
+          "sit": "Bennett!"
+        },
+        {
+          "s": 10,
+          "t": "The main entrance is shut tightly... There seems to be no way to open it."
+        },
+        {
+          "s": 11,
+          "t": "The door is shut tightly... There seems to be no way to open it."
+        }
+      ],
+      "description": "You should only go adventuring after making sure that you're fully prepared! You and Bennett prepare some food before you challenge the Deserted Ruins of Thermadon."
+    },
+    {
+      "id": "q-19045",
+      "title": "Expansive Eya",
+      "dialogue": [
+        {
+          "section": "Enter the ruins"
+        },
+        {
+          "s": 0,
+          "t": "It feels pretty ordinary here... I was expecting some kind of sense of impending doom."
+        },
+        {
+          "s": 0,
+          "t": "Could it be that because you're here with me, I'm feeling more at ease? Hehe..."
+        },
+        {
+          "s": 0,
+          "t": "I've caught the scent of treasure in the air! Come on, let's go!"
+        },
+        {
+          "section": "Enter the ruins"
+        },
+        {
+          "s": 5,
+          "t": "It's so dusty. Paimon bets no one has been here in a long, long time."
+        },
+        {
+          "s": 5,
+          "t": "Hey, that looks like a notebook!"
+        },
+        {
+          "s": 0,
+          "t": "Ah! *cough* *cough* I'm fine... don't let me influence your... thinking..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh... is it over yet... I think I..."
+        },
+        {
+          "s": 0,
+          "t": "Go stand by the mechanism, and when we're both ready, let's trigger them!"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "This room's setup seems to be somewhat tricky."
+        },
+        {
+          "s": 0,
+          "t": "The things that stand out are the two mechanisms in front of us, one on the left, and one on the right."
+        },
+        {
+          "s": 0,
+          "t": "But... it seems like there's some sort of danger lurking around the mechanisms..."
+        },
+        {
+          "s": 0,
+          "t": "If my years of adventure experience are anything to go by, it would be a disaster if we activated the wrong mechanism, haha."
+        },
+        {
+          "s": 0,
+          "t": "How about letting me try it out first?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, leave it to me."
+        },
+        {
+          "s": 0,
+          "t": "Ah, but as you know, I really don't have any luck."
+        },
+        {
+          "s": 0,
+          "t": "So I'll leave it to you to decide which of these two mechanisms we should trigger."
+        },
+        {
+          "s": 0,
+          "t": "That's the one I was thinking of, too! Let's see..."
+        },
+        {
+          "s": 12,
+          "t": "*clicking sounds*"
+        },
+        {
+          "s": 0,
+          "t": "What was that noise...?"
+        },
+        {
+          "s": 0,
+          "t": "Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one."
+        },
+        {
+          "s": 0,
+          "t": "This... this is really bad..."
+        },
+        {
+          "s": 0,
+          "t": "Actually, I was thinking of the one on the left, so maybe that means that the one on the right must be the correct one. Let me see..."
+        },
+        {
+          "s": 12,
+          "t": "*clicking sounds*"
+        },
+        {
+          "s": 0,
+          "t": "What was that noise...?"
+        },
+        {
+          "s": 0,
+          "t": "Oh no! It looks like all the exits are blocked! Guess I still managed to get the wrong one."
+        },
+        {
+          "s": 0,
+          "t": "This... this is really bad..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... I could try it out myself..."
+        },
+        {
+          "s": 0,
+          "t": "But... What do you think we should do? Let's do it your way!"
+        },
+        {
+          "sit": "Take one each, activate them simultaneously."
+        },
+        {
+          "s": 0,
+          "t": "Well, that's a possibility... yeah."
+        },
+        {
+          "s": 0,
+          "t": "Let's try it then! I'll take the right side, you take the left!"
+        },
+        {
+          "section": "Accompany Bennett and proceed onward"
+        },
+        {
+          "s": 0,
+          "t": "Oh... so this room has..."
+        },
+        {
+          "s": 0,
+          "t": "...Four mechanisms. Which means..."
+        },
+        {
+          "sit": "We need four people..."
+        },
+        {
+          "sit": "Two of us won't be enough..."
+        },
+        {
+          "s": 0,
+          "t": "That's what I'm thinking, based on the last room..."
+        },
+        {
+          "s": 0,
+          "t": "I think we're gonna need four people to trigger all the mechanisms at the same time."
+        },
+        {
+          "s": 0,
+          "t": "Ahhh... If only the rest of Benny's Adventure Team were here..."
+        },
+        {
+          "sit": "What's the deal with Benny's Adventure Team, anyway?"
+        },
+        {
+          "s": 0,
+          "t": "...I hate to admit it, but the truth is... it's gone. It remains in name alone."
+        },
+        {
+          "s": 0,
+          "t": "The only reason Katheryne hasn't deregistered \"Benny's Adventure Team\" is because she took pity on me."
+        },
+        {
+          "s": 0,
+          "t": "In fact... *sigh* the number of adventurers on the team has been below the registration requirements for a long time already."
+        },
+        {
+          "sit": "You mean... you're the only one left?"
+        },
+        {
+          "sit": "All the other members are gone?"
+        },
+        {
+          "s": 0,
+          "t": "Haha... yeah. Royce, Heckler, and Jack were all members of Benny's Adventure Team."
+        },
+        {
+          "s": 0,
+          "t": "A lot of things went down, but mostly it ended because of my bad luck."
+        },
+        {
+          "s": 0,
+          "t": "I completely understand why they quit the team. I'd never want to put them in danger on my account. *sigh*"
+        },
+        {
+          "sit": "Don't take it personally."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, I felt really let down at first, but I'm pretty much used to it now. It's okay!"
+        },
+        {
+          "s": 0,
+          "t": "Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!"
+        },
+        {
+          "sit": "You can do it, Bennett!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, thank you."
+        },
+        {
+          "s": 0,
+          "t": "Let's focus on the problem at hand..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, sorry, the thought of the adventure team got me all sentimental."
+        },
+        {
+          "s": 0,
+          "t": "Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms."
+        },
+        {
+          "sit": "You mean, the solution may be different from the previous room?"
+        },
+        {
+          "sit": "You're right, we shouldn't jump to conclusions."
+        },
+        {
+          "s": 0,
+          "t": "Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues."
+        },
+        {
+          "s": 0,
+          "t": "Heh, don't say that! Adventurers should be free to do what they please, so leaving an adventure team is a completely normal thing to do."
+        },
+        {
+          "s": 0,
+          "t": "Even though I'm the only one left on Benny's Adventure Team... One day, I'm gonna make sure its name is known all over Teyvat!"
+        },
+        {
+          "sit": "You can do it, Bennett!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, thank you."
+        },
+        {
+          "s": 0,
+          "t": "Let's focus on the problem at hand..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, sorry, the thought of the adventure team got me all sentimental."
+        },
+        {
+          "s": 0,
+          "t": "Now that I think about it more carefully... Maybe we're making too many assumptions about the solution to these mechanisms."
+        },
+        {
+          "sit": "You mean, the solution may be different from the previous room?"
+        },
+        {
+          "sit": "You're right, we shouldn't jump to conclusions."
+        },
+        {
+          "s": 0,
+          "t": "Exactly. Okay, I'll take a quick look at these mechanisms while you look around for any other clues."
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "An adventurer's notebook? What's it doing here...?"
+        },
+        {
+          "s": 0,
+          "t": "Maybe it's got some clues on how to crack these mechanisms! Shall we take a look?"
+        },
+        {
+          "s": 0,
+          "t": "Whoa... It really does have some information about them."
+        },
+        {
+          "sit": "It's some very valuable guidance."
+        },
+        {
+          "sit": "Why do I feel... it's a bit ominous?"
+        },
+        {
+          "s": 0,
+          "t": "It seems that the writer is holding something back."
+        },
+        {
+          "s": 0,
+          "t": "Well, since they've placed their hopes on future adventurers, we can't let them down."
+        },
+        {
+          "s": 0,
+          "t": "The notes say that the mechanism at the entrance needs to be controlled by someone continuously..."
+        },
+        {
+          "s": 0,
+          "t": "But if the mechanisms are activated in the wrong sequence, the person in charge of the mechanism at the entrance will..."
+        },
+        {
+          "sit": "Get hurt?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, I guess that's what the notes are referring to when they say... \"Eric can't hold on anymore\"..."
+        },
+        {
+          "sit": "...Die?"
+        },
+        {
+          "s": 0,
+          "t": "Uh... You think so!? Surely it can't be that bad!"
+        },
+        {
+          "s": 0,
+          "t": "It says in the notes that Eric \"can't hold on anymore.\" That at least proves that it is possible to \"hold on\" up to a point."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, I'll take that role."
+        },
+        {
+          "sit": "Who says it's up to you?"
+        },
+        {
+          "sit": "We should at least do rock, paper, scissors..."
+        },
+        {
+          "s": 0,
+          "t": "Haha, it's okay, it's okay. Getting injured is just part of my daily routine."
+        },
+        {
+          "s": 0,
+          "t": "I'm pretty used to it by now. At the very least, I should be able to last longer than this Eric guy, haha."
+        },
+        {
+          "s": 0,
+          "t": "And more importantly, I trust you!"
+        },
+        {
+          "s": 0,
+          "t": "You can definitely crack this mechanism puzzle, right? I mean, come on! You're the great adventurer that I've always admired."
+        },
+        {
+          "sit": "Bennett..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, alright, let's just focus on solving these mechanisms!"
+        },
+        {
+          "s": 0,
+          "t": "Remember what the notes say... Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "\"The number of torches is not the hint for the activation sequence...\""
+        },
+        {
+          "s": 0,
+          "t": "\"Perhaps... the sequence is related to the position of the torches on the ground.\""
+        },
+        {
+          "s": 0,
+          "t": "Well, don't put too much pressure on yourself just because you're afraid I'll get hurt!"
+        },
+        {
+          "s": 0,
+          "t": "Just go with your gut and do it."
+        },
+        {
+          "section": "Open the mechanism together with Bennett"
+        },
+        {
+          "s": 0,
+          "t": "I'm... sorry..."
+        },
+        {
+          "s": 0,
+          "t": "I don't think my body... can... take this anymore..."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry... I failed you..."
+        },
+        {
+          "section": "Accompany Bennett and proceed onward"
+        },
+        {
+          "s": 0,
+          "t": "Wow, that was quite a haul!"
+        },
+        {
+          "s": 0,
+          "t": "This must be the proudest moment for any adventurer!"
+        },
+        {
+          "s": 0,
+          "t": "Not only getting the chest, but having this golden opportunity to join you on an adventure. For me, that's a pretty major treasure already, hehe..."
+        },
+        {
+          "sit": "The feeling is mutual."
+        },
+        {
+          "s": 0,
+          "t": "Really! Then I'm honored, haha."
+        },
+        {
+          "sit": "The chest is the most important thing here."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... I guess you're right, finding chests is where the real romance of being an adventurer lies!"
+        },
+        {
+          "s": 0,
+          "t": "But there's one other thing that I find the most amazing of all..."
+        },
+        {
+          "s": 0,
+          "t": "...The fact that nothing really bad happened to us this whole adventure. This is the first time in my whole adventure career that it's ever turned out this way!"
+        },
+        {
+          "sit": "This is just one of the many possible outcomes."
+        },
+        {
+          "sit": "But it shows that fortunate outcomes do exist."
+        },
+        {
+          "s": 0,
+          "t": "That sounds very deep... but I think I get what you're saying."
+        },
+        {
+          "s": 0,
+          "t": "You are saying that no matter how unlucky I might be, there will always be times when luck is on my side, right?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah... This is a really big thing for me."
+        },
+        {
+          "s": 0,
+          "t": "And you know, I have a feeling that..."
+        },
+        {
+          "s": 0,
+          "t": "...It was your kindness and goodwill towards me that helped me avoid a lot of bad luck... even find a little good luck..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, it's a bit embarrassing to say that out loud, but all in all, thank you... for everything!"
+        },
+        {
+          "s": 0,
+          "t": "I hope I get to go on another adventure with you soon!"
+        },
+        {
+          "section": "Talk to Bennett"
+        },
+        {
+          "s": 0,
+          "t": "Cooool! The door is open. We got it right!"
+        },
+        {
+          "s": 0,
+          "t": "Good thing we went with your idea. You definitely live up to your reputation."
+        },
+        {
+          "s": 0,
+          "t": "And... I haven't had this feeling of working together with friends in ages. I've really missed it, hehe."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, let's move on!"
+        },
+        {
+          "section": "Investigate the room with Bennett"
+        },
+        {
+          "s": 0,
+          "t": "You... you solved it?"
+        },
+        {
+          "s": 0,
+          "t": "Haha! That's the great adventurer I'm talking about! Awesome!"
+        },
+        {
+          "s": 0,
+          "t": "Let's go and open the chest, shall we? I can't wait!"
+        },
+        {
+          "s": 0,
+          "t": "Oh! Uh... heh, I didn't really do anything. You're the one who nailed this."
+        },
+        {
+          "s": 0,
+          "t": "Let's go and open the chest, shall we? I can't wait!"
+        }
+      ],
+      "description": "An adventurer requires naught but courage and strength. The two of you prepare to head directly to the Deserted Ruins of Eya."
+    }
+  ],
+  "speakers": [
+    "Bennett",
+    "Marjorie",
+    "Mondstadt General Goods Order Board",
+    "Sara",
+    "Blanche",
+    "Paimon",
+    "...",
+    "Jack",
+    "Mechanical Device",
+    "Royce",
+    "Main Entrance",
+    "Door",
+    "???"
+  ],
+  "id": "ch-103201"
+}

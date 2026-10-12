@@ -1,0 +1,85 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "I have other things to do."
+        },
+        {
+          "s": 0,
+          "t": "Okay. I'll look for someone else to help out..."
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "That would be great, thank you!"
+        },
+        {
+          "s": 0,
+          "t": "Please be careful while you make the delivery. Don't let any strange elements touch the food."
+        },
+        {
+          "s": 0,
+          "t": "Also, do your best to avoid monsters, or they might knock the dish over."
+        },
+        {
+          "s": 0,
+          "t": "Please hurry, this dish won't taste good if it gets cold."
+        },
+        {
+          "section": "Deliver the food to Short-Tempered Wallit"
+        },
+        {
+          "s": 1,
+          "t": "Why hasn't my order arrived yet... What's with all this dilly-dallying, anyway?"
+        },
+        {
+          "section": "Speak to Short-Tempered Wallit"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "Yup, you've come at just the right moment — I'd just finished preparing this Sweet Madame."
+        },
+        {
+          "s": 0,
+          "t": "Wallit ordered it earlier, and requested that we deliver it to a location west of the Dawn Winery later in the day..."
+        },
+        {
+          "s": 0,
+          "t": "If you don't mind helping us out, could you take his order to him real quick?"
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Oh, finally! Thank you, thank you."
+        },
+        {
+          "s": 1,
+          "t": "I've got to finish this quickly. I still have a ton of things to do..."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Short-Tempered Wallit"
+  ],
+  "id": "q-41143"
+}

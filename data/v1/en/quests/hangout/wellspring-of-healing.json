@@ -1,0 +1,2631 @@
+{
+  "chapter": "Hangout Event: Barbara",
+  "chapter_title": "Wellspring of Healing",
+  "act": "Act 1",
+  "act_title": "Wellspring of Healing",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19001",
+      "title": "Sister Victoria's Vexation",
+      "dialogue": [
+        {
+          "section": "Talk to Sister Victoria"
+        },
+        {
+          "s": 0,
+          "t": "I sure hope Sister Barbara is okay..."
+        },
+        {
+          "sit": "What's happened to Barbara?"
+        },
+        {
+          "s": 0,
+          "t": "Sister Barbara said that she was going out to pick some herbs earlier, but I'm afraid that she has yet to return."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Perhaps I should report the matter to the Knights of Favonius..."
+        },
+        {
+          "sit": "I'll go search for Barbara."
+        },
+        {
+          "s": 0,
+          "t": "You? Well, I guess as the Honorary Knight, you may very well be a good fit for the task..."
+        },
+        {
+          "s": 0,
+          "t": "Not to mention it would save me the trouble of reporting the matter to the Knights..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, I'll leave it to you. Before Sister Barbara departed, she said that she was headed to Wolvendom to pick some herbs."
+        },
+        {
+          "s": 0,
+          "t": "You could start by looking for her there."
+        },
+        {
+          "section": "Search for Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Huh, how strange... I can't seem to find any..."
+        },
+        {
+          "sit": "Barbara, I've finally found you."
+        },
+        {
+          "s": 1,
+          "t": "O—Oh, it's you! What are you doing here? Is something the matter?"
+        },
+        {
+          "sit": "You'd been gone for some time, we decided to come looking for you."
+        },
+        {
+          "s": 1,
+          "t": "Oh, I see. No need to worry, there hasn't been any sign of danger. I'm just here to gather some red Wolfhook berries, that's all."
+        },
+        {
+          "s": 1,
+          "t": "But the strange thing is, there should be lots of them here... and I can't seem to find any."
+        },
+        {
+          "s": 1,
+          "t": "Hmm, anyway, no need to worry about me. I'll just have another look around here, and if I can't find any, I'll just—"
+        },
+        {
+          "s": 2,
+          "t": "Miss Barbara... Hmm..."
+        },
+        {
+          "s": 2,
+          "t": "She's not here either..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Somebody seems to be coming this way!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, I'm sorry, but... please, just keep quiet, okay? Don't let them find us..."
+        },
+        {
+          "sit": "Why would you want to hide?"
+        },
+        {
+          "s": 1,
+          "t": "Because... Well, just because."
+        },
+        {
+          "sit": "Let's go deeper into the forest and wait for them to leave."
+        },
+        {
+          "s": 1,
+          "t": "O—Oh, alright... I'll just leave it to you, then."
+        },
+        {
+          "s": 1,
+          "t": "Please, just... just don't tell them that I'm here, alright?"
+        },
+        {
+          "s": 1,
+          "t": "Alright then... Let's head this way."
+        },
+        {
+          "section": "Search for Barbara"
+        },
+        {
+          "s": 0,
+          "t": "Sister Barbara... Where have you gone?"
+        },
+        {
+          "section": "Talk to Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Shh... Keep your voice down. We mustn't let that person find us here."
+        },
+        {
+          "s": 1,
+          "t": "...This should be a good spot. Let's wait here for a while."
+        },
+        {
+          "sit": "Why are you trying to avoid being seen?"
+        },
+        {
+          "s": 1,
+          "t": "Well... it's a little embarrassing to say, but..."
+        },
+        {
+          "s": 1,
+          "t": "In Mondstadt, I often perform songs for people. Because it's been so well received, the other sisters have started encouraging me to perform across Teyvat. Now, more and more people are showing up to hear me perform."
+        },
+        {
+          "s": 1,
+          "t": "I'm happy to see such turnouts, don't get me wrong... but... Now, people always stop me on the street when I go shopping, or when I go out for personal matters..."
+        },
+        {
+          "s": 1,
+          "t": "I know that all they want is to get my autograph, or to ask me how I'm doing, which isn't a bad thing."
+        },
+        {
+          "s": 1,
+          "t": "And... I'm very thankful for all my fans, but... there are simply too many of them."
+        },
+        {
+          "s": 1,
+          "t": "I always do my best to fulfill their requests and not let them down."
+        },
+        {
+          "s": 1,
+          "t": "But... sometimes... I feel that I just don't have the strength to do so."
+        },
+        {
+          "s": 1,
+          "t": "Even when I'm in the church, people will still come hoping to greet me. I'm constantly in a state of tension, no matter where I go."
+        },
+        {
+          "s": 1,
+          "t": "The reason I came here was not only to find Wolfhooks for making Tunner's cough medicine, but also to have some quiet time alone..."
+        },
+        {
+          "s": 1,
+          "t": "Do you understand that feeling? To sit peacefully and not think about anything... just by yourself. It's simply the feeling of relaxation."
+        },
+        {
+          "s": 1,
+          "t": "It's been far too long since I've had that feeling. Before I knew it, I was out here all day and forgot to return to the city."
+        },
+        {
+          "sit": "If you're looking for Wolfhooks, there should be plenty nearby."
+        },
+        {
+          "s": 1,
+          "t": "Well, yes, there are plenty of the normal variety... but I'm looking for red Wolfhooks. No matter how hard I look, I can't seem to find any. I clearly remember that they always grow here."
+        },
+        {
+          "sit": "Let's wait for that person to leave and then we can go look for some."
+        },
+        {
+          "s": 1,
+          "t": "I guess that's all we can do for now. Although, it certainly isn't nice to treat someone that way... But today, I simply wish to keep to myself."
+        },
+        {
+          "sit": "It's alright, this is a perfect place for two people to spend some time together."
+        },
+        {
+          "s": 1,
+          "t": "Wh— Huh? Wh—What do you mean? Y—You..."
+        },
+        {
+          "s": 1,
+          "t": "I—I'm sorry. I think we should go... Yes, it's time to go!"
+        },
+        {
+          "s": 1,
+          "t": "Well, my father has always worked at the Church... And the Church has always looked after me."
+        },
+        {
+          "s": 1,
+          "t": "I guess it was only natural for me to join the Church when I grew up."
+        },
+        {
+          "s": 1,
+          "t": "And besides, my sister works in the Knights of Favonius..."
+        },
+        {
+          "s": 1,
+          "t": "I can't even begin to compare with her! Not only is she adept with a blade, she's also capable of shouldering all the Knights of Favonius' matters on her own."
+        },
+        {
+          "s": 1,
+          "t": "I guess that's just who she is. I've never been able to come close to competing with her."
+        },
+        {
+          "s": 1,
+          "t": "Aside from singing and performing, I don't really have any abilities worth mentioning. Besides, my singing alone could never truly heal the wounds of others."
+        },
+        {
+          "s": 1,
+          "t": "I suppose that's another reason why I decided to join the Church — to learn how to truly heal others."
+        },
+        {
+          "s": 1,
+          "t": "Though I may not be particularly skilled in battle, being able to heal the wounds of others is good in its own right. At least, that's what I think."
+        },
+        {
+          "sit": "Does that mean I can come to you when I need healing, too?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! You are the Honorary Knight, after all. Feel free to find me for healing anytime!"
+        },
+        {
+          "s": 1,
+          "t": "Alright, then! That person should be long gone by now. I still need to find some of those Wolfhooks."
+        },
+        {
+          "s": 1,
+          "t": "I can't seem to find any of the red variety anywhere..."
+        },
+        {
+          "sit": "I'll lend you a hand."
+        },
+        {
+          "sit": "We can go look together."
+        },
+        {
+          "s": 1,
+          "t": "Your help would be much appreciated! Let's search the nearby area, I'm sure we'll find some in no time."
+        },
+        {
+          "s": 1,
+          "t": "Strange... I'm almost certain I've seen lots of red Wolfhooks growing here before..."
+        },
+        {
+          "s": 1,
+          "t": "My family? Well, my father left on an expedition together with Grand Master Varka and has yet to return."
+        },
+        {
+          "s": 1,
+          "t": "And as for the other person I can call family... Well, she doesn't have much time to look after me."
+        },
+        {
+          "s": 1,
+          "t": "And besides, I'm more than capable of taking care of myself, so there's no need for me to bother her."
+        },
+        {
+          "sit": "Ah yes, Grand Master Varka. I remember he's..."
+        },
+        {
+          "s": 1,
+          "t": "That's right! The Grand Master of the Knights of Favonius. I'm sure you've heard his name mentioned before."
+        },
+        {
+          "s": 1,
+          "t": "Seamus Pegg... Cardinal of Daybreak and the Seneschal of the Church of Favonius."
+        },
+        {
+          "s": 1,
+          "t": "That's my father."
+        },
+        {
+          "s": 1,
+          "t": "But it's been some time since I last saw him, and I'm still uncertain of when Grand Master Varka's expedition will finally be finished."
+        },
+        {
+          "sit": "What was the purpose of Grand Master Varka's expedition?"
+        },
+        {
+          "s": 1,
+          "t": "I don't know... My father only briefly mentioned the matter to me before he set off."
+        },
+        {
+          "s": 1,
+          "t": "He also turned over all his responsibilities in the Church to Cardinal Calvin."
+        },
+        {
+          "sit": "I don't think I've ever met this \"Cardinal Calvin.\""
+        },
+        {
+          "s": 1,
+          "t": "Cardinal Calvin has been taking care of various matters since the departure of my father and Grand Master Varka. He's so busy that he seldom ever leaves his room. Even the other sisters in the Church rarely ever see him."
+        },
+        {
+          "s": 1,
+          "t": "The only time I've seen him recently was when the Holy Lyre der Himmel was stolen. He went to the Knights of Favonius in such a hurry that he hadn't even fastened all the buttons on his garments."
+        },
+        {
+          "s": 1,
+          "t": "Speaking of which, you still remember that day, right? You recovered the Holy Lyre der Himmel together with that bard and Jean... Uh, I mean, the Acting Grand Master."
+        },
+        {
+          "s": 1,
+          "t": "...I was shocked to see the Holy Lyre der Himmel in such a condition. Thank the heavens that the bard was able to mend it."
+        },
+        {
+          "s": 1,
+          "t": "We'd never hear the end of it from Cardinal Calvin if something were to ever happen to the Holy Lyre der Himmel."
+        },
+        {
+          "s": 1,
+          "t": "Huh? What do you two seem so nervous about?"
+        },
+        {
+          "s": 1,
+          "t": "There's nothing wrong with the Holy Lyre der Himmel... is there?"
+        },
+        {
+          "sit": "(Look at Barbara with an innocent gaze.)"
+        },
+        {
+          "sit": "Th—The Holy Lyre? Oh... Um, I wouldn't know..."
+        },
+        {
+          "s": 1,
+          "t": "Well... anyway. At least the Holy Lyre der Himmel is fixed..."
+        },
+        {
+          "s": 1,
+          "t": "Never mind the lyre for now. I think that person should be long gone — and I still need to pick those Wolfhooks."
+        },
+        {
+          "s": 1,
+          "t": "...I can't seem to find any of the red variety anywhere..."
+        },
+        {
+          "sit": "I'll lend you a hand."
+        },
+        {
+          "sit": "We can go look together."
+        },
+        {
+          "s": 1,
+          "t": "Your help would be much appreciated! Let's search the nearby area, I'm sure we'll find some in no time."
+        },
+        {
+          "s": 1,
+          "t": "Strange... I'm almost certain I've seen lots of red Wolfhooks growing here before..."
+        },
+        {
+          "s": 1,
+          "t": "Huh? But didn't you return the lyre together with Acting Grand Master Jean and that bard?"
+        },
+        {
+          "s": 1,
+          "t": "And then, that bard used some sort of magic to fix the broken Holy Lyre der Himmel..."
+        },
+        {
+          "s": 1,
+          "t": "Hey! Why do you look so nervous?"
+        },
+        {
+          "s": 1,
+          "t": "Is there something wrong with the Holy Lyre der Himmel?"
+        },
+        {
+          "sit": "Wh—What do you mean? The Church is looking after it now, right?"
+        },
+        {
+          "sit": "N—No, nothing's wrong with it... The bard fixed it, didn't he?"
+        },
+        {
+          "s": 1,
+          "t": "I see..."
+        },
+        {
+          "s": 1,
+          "t": "Never mind, we'll talk about it later. That person who was looking for me should be long gone by now, and I still need to go pick those Wolfhooks."
+        },
+        {
+          "sit": "I—I'll lend you a hand!"
+        },
+        {
+          "sit": "We can go together!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, really? Well, your help would be much appreciated! Let's search the nearby area, I'm sure we'll find some in no time."
+        },
+        {
+          "s": 1,
+          "t": "Remember, we're looking for red Wolfhooks. Don't get them mixed up."
+        },
+        {
+          "s": 1,
+          "t": "Strange... I'm almost certain that I've seen lots of those red Wolfhooks growing here before..."
+        },
+        {
+          "section": "Talk to Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Strange... who could it be?"
+        },
+        {
+          "section": "Follow Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Oh! Were you able to find some red Wolfhook berries?"
+        },
+        {
+          "sit": "Yes, here they are!"
+        },
+        {
+          "s": 1,
+          "t": "Let me have a look... Yep, that should be enough!"
+        },
+        {
+          "s": 1,
+          "t": "But it's still strange, I know for sure that I've seen lots of red Wolfhooks growing here before..."
+        },
+        {
+          "s": 1,
+          "t": "I wonder if someone had already gathered them all..."
+        },
+        {
+          "s": 1,
+          "t": "Well, never mind... Thankfully, the berries you gathered should be just enough. Let's go!"
+        },
+        {
+          "section": "Search for Red Wolfhooks"
+        },
+        {
+          "s": 1,
+          "t": "Strange, I can't seem to find those red Wolfhooks anywhere."
+        }
+      ],
+      "description": "Sister Victoria seems to be troubled by something..."
+    },
+    {
+      "id": "q-19002",
+      "title": "Sudden Shouting",
+      "dialogue": [
+        {
+          "section": "Convince Albert to leave"
+        },
+        {
+          "s": 3,
+          "t": "Barbara-sama... Are you here?"
+        },
+        {
+          "sit": "What are you shouting about?"
+        },
+        {
+          "s": 3,
+          "t": "Uh — who, me? Ah, well... I'm looking for Barbara-sama."
+        },
+        {
+          "s": 3,
+          "t": "I was originally planning to give her some herbs at the Cathedral, but Sister Victoria told me she had gone out to attend to some matters."
+        },
+        {
+          "s": 3,
+          "t": "When I sought Barbara-sama for healing recently, she mentioned to me that the Church was running low on certain medicine ingredients..."
+        },
+        {
+          "s": 3,
+          "t": "I seem to remember the ingredient she mentioned... some type of red Wolfhook berry."
+        },
+        {
+          "s": 3,
+          "t": "I figured she was most likely somewhere out here picking Wolfhooks, so I thought I'd come and lend her a hand."
+        },
+        {
+          "s": 3,
+          "t": "Besides, as leader of the Barbara Fan Club, how could I ever let Barbara-sama go wandering alone in such a dangerous place?"
+        },
+        {
+          "s": 3,
+          "t": "So I decided to come to Wolvendom, looking for Barbara-sama and picking red Wolfhooks along the way."
+        },
+        {
+          "s": 3,
+          "t": "That's right, and I'll take them back to the Church shortly. After all, I am the leader of the Barbara Fan Club. It's my duty to make sure Barbara-sama's life's easier."
+        },
+        {
+          "s": 3,
+          "t": "Huh? But... judging from your expression, you've never heard of the Barbara Fan Club?"
+        },
+        {
+          "s": 3,
+          "t": "Oh, you can't be serious! It's only the biggest club for Barbara-sama fans in all of Mondstadt."
+        },
+        {
+          "s": 3,
+          "t": "Hehe, even Huffman's a member now!"
+        },
+        {
+          "sit": "Even Huffman?"
+        },
+        {
+          "s": 3,
+          "t": "Of course! Barbara-sama has a lot of fans in Mondstadt that wish to support her, you know."
+        },
+        {
+          "s": 3,
+          "t": "Uh... Anyways, the Barbara Fan Club will have to wait for the moment, I'll fill you in on how great it is when I have time later. I must keep searching for Barbara-sama for now."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* I don't really even know if Barbara-sama is anywhere around here."
+        },
+        {
+          "sit": "It is dangerous here, there are lots of monsters roaming about."
+        },
+        {
+          "s": 3,
+          "t": "Yes, I'm well aware. That's exactly why as leader of the Barbara Fan Club, I could never let Barbara-sama wander here alone."
+        },
+        {
+          "s": 3,
+          "t": "Huh? Wait a second, what do you mean, \"anymore\"? Did you see her here earlier?"
+        },
+        {
+          "s": 3,
+          "t": "So Barbara-sama is somewhere close by!"
+        },
+        {
+          "s": 3,
+          "t": "*sigh* You might be right... I should go back and gather more people to help with the search."
+        },
+        {
+          "s": 3,
+          "t": "Since Barbara-sama came here to pick those red Wolfhooks, we could just follow the trail of those specific berries to lead us right to her."
+        },
+        {
+          "sit": "There might be some other areas where Wolfhooks grow that you haven't heard about, perhaps Barbara went somewhere else?"
+        },
+        {
+          "s": 3,
+          "t": "Um, maybe... But this is the only place they could be... She wouldn't go anywhere else if those were what she was looking for."
+        },
+        {
+          "s": 3,
+          "t": "Could she really have returned to Mondstadt?"
+        },
+        {
+          "s": 3,
+          "t": "Ah, you're right. I should probably try searching some other areas."
+        },
+        {
+          "s": 3,
+          "t": "I heard it from Sister Victoria herself. She told me that she overheard another sister saying that Barbara-sama had come to Wolvendom to pick Wolfhook berries."
+        },
+        {
+          "s": 3,
+          "t": "In fact... I could have sworn I heard Barbara-sama's voice when I came here..."
+        },
+        {
+          "s": 3,
+          "t": "By the way... You didn't happen to see any sign of Barbara-sama when you arrived, did you? Perhaps I was hearing things..."
+        },
+        {
+          "sit": "There are all sorts of monsters in Wolvendom, and not to mention wolves... That must be what you heard."
+        },
+        {
+          "s": 3,
+          "t": "No way! How could I ever mistake the sound of some monsters for Barbara-sama's sweet voice!?"
+        },
+        {
+          "s": 3,
+          "t": "Well, of course you didn't hear anything... You were focused on defeating monsters the whole time."
+        },
+        {
+          "s": 3,
+          "t": "Ugh, you might be right... I haven't heard any sign of her since."
+        },
+        {
+          "s": 3,
+          "t": "Unless she's intentionally trying to avoid me... But she'd never have any reason to do that."
+        },
+        {
+          "sit": "Of course not."
+        },
+        {
+          "s": 3,
+          "t": "Right. Hmm, well, it seems that Barbara-sama may have already left the area..."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* Alright then, Barbara-sama must be somewhere else..."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* But I still feel a bit worried. I'll go report the matter to Huffman and then have another look around the church."
+        },
+        {
+          "s": 3,
+          "t": "Here, you can have these red Wolfhooks I picked earlier. There's no way I'd be able to carry them all back to the city. I'll take what I can to the church after I get back."
+        },
+        {
+          "s": 3,
+          "t": "Ugh, I just hope that Barbara-sama did indeed go back to the city..."
+        },
+        {
+          "s": 3,
+          "t": "Well, whatever. I don't have time to keep talking like this. I should keep searching for Barbara-sama..."
+        },
+        {
+          "s": 3,
+          "t": "...And you should go back to whatever it is you were doing."
+        },
+        {
+          "section": "Convince Albert to leave"
+        },
+        {
+          "s": 1,
+          "t": "Strange... who could it be?"
+        },
+        {
+          "section": "Follow Albert"
+        },
+        {
+          "s": 4,
+          "t": "Whew, it seems Barbara's already left. *sigh* Good..."
+        },
+        {
+          "s": 3,
+          "t": "*cough* My throat is getting... *cough*"
+        },
+        {
+          "s": 3,
+          "t": "Oh, I guess Barbara-sama isn't here after all..."
+        },
+        {
+          "sit": "Surely you're not going to give up so easily?"
+        },
+        {
+          "s": 3,
+          "t": "*cough* No, it's not that... I just... *cough*"
+        },
+        {
+          "sit": "I'll help you keep calling for her."
+        },
+        {
+          "s": 3,
+          "t": "Al— *cough* ...Alright. My throat won't hold up much longer..."
+        },
+        {
+          "sit": "BARBARA — WHERE ARE YOU!!!???"
+        },
+        {
+          "sit": "BARBARA — ARE YOU THERE!!!???"
+        },
+        {
+          "s": 3,
+          "t": "Heh... It's no wonder you've become the Honorary Knight, you certainly give it your all — *cough*"
+        },
+        {
+          "sit": "See, Barbara's nowhere to be found here. Let's head back."
+        },
+        {
+          "s": 3,
+          "t": "Ugh... Oh, alright. It seems Barbara-sama isn't anywhere around here. Let's return to the city."
+        },
+        {
+          "s": 3,
+          "t": "*cough* Once Barbara-sama returns to Mondstadt, though... I'll have to ask her to heal my throat... *cough*"
+        },
+        {
+          "section": "Follow Albert"
+        },
+        {
+          "s": 0,
+          "t": "Sister Barbara... Where have you gone?"
+        },
+        {
+          "section": "Talk to Albert"
+        },
+        {
+          "s": 1,
+          "t": "So... is he gone now?"
+        },
+        {
+          "sit": "Yeah, he's gone for now."
+        },
+        {
+          "s": 1,
+          "t": "Whew, thank you! Although... I guess I'm not being very polite towards him..."
+        },
+        {
+          "sit": "Why are you trying to avoid being seen?"
+        },
+        {
+          "s": 1,
+          "t": "Well... it's a little embarrassing to say, but..."
+        },
+        {
+          "s": 1,
+          "t": "In Mondstadt, I often perform songs for people. Because it's been so well received, the other sisters have started encouraging me to perform across Teyvat. Now, more and more people are showing up to hear me perform."
+        },
+        {
+          "s": 1,
+          "t": "I'm happy to see such turnouts, don't get me wrong... but... Now, people always stop me on the street when I go shopping, or when I go out for personal matters..."
+        },
+        {
+          "s": 1,
+          "t": "I know that all they want is to get my autograph, or to ask me how I'm doing, which isn't a bad thing."
+        },
+        {
+          "s": 1,
+          "t": "And... I'm very thankful for all my fans, but... there are simply too many of them."
+        },
+        {
+          "s": 1,
+          "t": "I always do my best to fulfill their requests and not let them down."
+        },
+        {
+          "s": 1,
+          "t": "But... sometimes... I feel that I just don't have the strength to do so."
+        },
+        {
+          "s": 1,
+          "t": "Even when I'm in the church, people will still come hoping to greet me. I'm constantly in a state of tension, no matter where I go."
+        },
+        {
+          "s": 1,
+          "t": "The reason I came here was not only to find Wolfhooks for making Tunner's cough medicine, but also to have some quiet time alone..."
+        },
+        {
+          "s": 1,
+          "t": "Do you understand that feeling? To sit peacefully and not think about anything... just by yourself. It's simply the feeling of relaxation."
+        },
+        {
+          "s": 1,
+          "t": "It's been far too long since I've had that feeling. Before I knew it, I was out here all day and forgot to return to the city."
+        },
+        {
+          "sit": "If you're looking for Wolfhooks, there should be plenty nearby."
+        },
+        {
+          "s": 1,
+          "t": "No, I couldn't find any... The kind I'm looking for are red."
+        },
+        {
+          "s": 1,
+          "t": "I remember seeing them here before, but I've already searched the area and there aren't any. I wonder if someone had already picked them? No, people seldom come out here..."
+        },
+        {
+          "sit": "Are these the kind of Wolfhook you're looking for?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Yes, those are the ones! And you've found so many, these will be more than enough! But where did you..."
+        },
+        {
+          "s": 1,
+          "t": "Oh my... Oh, I've been far too impolite."
+        },
+        {
+          "s": 1,
+          "t": "Albert came all this way just to help me, and I..."
+        },
+        {
+          "s": 1,
+          "t": "But if I were to go and apologize to him, it would probably only make him feel even worse."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* I guess I'm still just too immature..."
+        },
+        {
+          "s": 1,
+          "t": "Let's just head back to the city for now. I'll think of a way to make it up to Albert later."
+        },
+        {
+          "sit": "But no one even knows about this matter..."
+        },
+        {
+          "s": 1,
+          "t": "Well, I know, and you also know. And we mustn't forget that Barbatos also knows. We certainly can't say that \"no one knows about this matter,\" don't you think?"
+        },
+        {
+          "s": 1,
+          "t": "Besides, as a deaconess, I could never simply ignore such a matter. I must take the appropriate actions and make things right."
+        },
+        {
+          "s": 1,
+          "t": "I'll see to that matter on my own. Anyway, the berries you have here will be just enough. We should get going."
+        }
+      ],
+      "description": "Someone suddenly starts calling for Barbara in Wolvendom..."
+    },
+    {
+      "id": "q-19003",
+      "title": "The Church's Affairs",
+      "dialogue": [
+        {
+          "section": "Leave Wolvendom with Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Ahh... Glad we've finally made it out of there. The Wolvendom forest is a nice getaway to be alone for a while, but there's not much sunlight..."
+        },
+        {
+          "s": 1,
+          "t": "If you stay in there for too long, you can't help but start feeling a little gloomy."
+        },
+        {
+          "s": 1,
+          "t": "A little sunlight always helps keep your spirits up!"
+        },
+        {
+          "s": 1,
+          "t": "Ah yes, now that we're here, I'd like to go to Dawn Winery and check on Tunner's condition."
+        },
+        {
+          "s": 1,
+          "t": "I've told him before that he should take it easy and rest for a while, but he never seems to listen... He even told me not to let Guy know anything about it."
+        },
+        {
+          "s": 1,
+          "t": "I'd like to check on him before going back and deciding which medicine I'll need to make."
+        },
+        {
+          "s": 1,
+          "t": "Umm, would it be possible to... you know... ask for your help again? If you could go back and report to Sister Victoria while I check on Tunner, that would be a big help!"
+        },
+        {
+          "s": 1,
+          "t": "She's most certainly worried about me after being away so long."
+        },
+        {
+          "s": 1,
+          "t": "And besides, there's a lot of matters I still need to take care of back at the Cathedral... It would be better if I let her know the situation."
+        },
+        {
+          "sit": "Perhaps it'd be better for you to tell her yourself..."
+        },
+        {
+          "sit": "Leave it to us!"
+        },
+        {
+          "s": 1,
+          "t": "Oh... you must have other matters to attend to... No problem then. I guess I'll go talk to her myself."
+        },
+        {
+          "s": 1,
+          "t": "Aww, thank you so much! I truly appreciate it."
+        },
+        {
+          "section": "Leave Wolvendom with Barbara"
+        },
+        {
+          "s": 0,
+          "t": "Sister Barbara... Where have you gone?"
+        },
+        {
+          "section": "Report back to Sister Victoria"
+        },
+        {
+          "s": 1,
+          "t": "Sister Victoria told me you already helped tidy up the Cathedral! Thank you so much!"
+        },
+        {
+          "sit": "When did you get back?"
+        },
+        {
+          "s": 1,
+          "t": "I just returned a short while ago. I can't thank you enough for how much you've helped me today, both here in the Cathedral and back in Wolvendom..."
+        },
+        {
+          "s": 1,
+          "t": "You must be thirsty after so much work, no? How about I treat you to a drink?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, I've just remembered that the Cat's Tail is promoting a special drink recently."
+        },
+        {
+          "s": 1,
+          "t": "Miss Margaret said that the name of the drink is \"Fantastic Summer-Serendipity Coral Sparkling Tea,\" haha!"
+        },
+        {
+          "s": 1,
+          "t": "She also mentioned that it's her secret weapon to beating Angel's Share in drink sales."
+        },
+        {
+          "s": 1,
+          "t": "Word is that the drink's pretty good, but there's always a line to get it. We'll probably have to wait if we want some..."
+        },
+        {
+          "s": 1,
+          "t": "If you'd rather not stand in line, I could make you a glass of my very own Chilibrew."
+        },
+        {
+          "s": 1,
+          "t": "Which would you like to drink?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah, it does sound amazing. I'm not sure how Margaret came up with such a name..."
+        },
+        {
+          "s": 1,
+          "t": "But I have heard that the drink is quite popular now. There's even a line of people waiting to purchase it every day."
+        },
+        {
+          "s": 1,
+          "t": "If you'd like to get one, we should head over to the Cat's Tail as quickly as we can."
+        },
+        {
+          "s": 1,
+          "t": "However... even though I've already requested a half day of leave from Sister Victoria, she still insists that I let her know where I'm going..."
+        },
+        {
+          "s": 1,
+          "t": "With so many people trying to get in on the newest Cat's Tail offering, I'm worried we'll have to wait for ages if we get there too late."
+        },
+        {
+          "s": 1,
+          "t": "Ah, I've got it! Why don't you help me check in with Sister Victoria while I get in line at the Cat's Tail? That would save us some time!"
+        },
+        {
+          "s": 1,
+          "t": "What do you think?"
+        },
+        {
+          "sit": "Sounds good to me."
+        },
+        {
+          "s": 1,
+          "t": "It's settled then! Let's meet up at the entrance to the Cat's Tail."
+        },
+        {
+          "sit": "But what if you run into people asking for an autograph?"
+        },
+        {
+          "s": 1,
+          "t": "I—It'll be fine... I'll just tell them that today is my day off. I'm sure they'll understand."
+        },
+        {
+          "s": 1,
+          "t": "Let's get going then. See you at the Cat's Tail!"
+        },
+        {
+          "s": 1,
+          "t": "Coming right up! But I should warn you, the flavor is quite unique, I'm not sure how you'll handle it."
+        },
+        {
+          "sit": "I should be fine... I think..."
+        },
+        {
+          "s": 1,
+          "t": "Alright, let me think... to make this drink, we'll need some fresh Jueyun Chilis and Sweet Flowers."
+        },
+        {
+          "s": 1,
+          "t": "The key to a good batch of Chilibrew is not the quantity of ingredients, but the quality of ingredients."
+        },
+        {
+          "s": 1,
+          "t": "I know where to gather fresh Jueyun Chilis, but Sweet Flowers might be a bit tricky... Though they're easy to find, high-quality Sweet Flowers are few and far between..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, why don't we split up to search for ingredients? Once we've found the ingredients we need, we can meet up just south of the Whispering Woods."
+        },
+        {
+          "sit": "Alright, let's split up."
+        },
+        {
+          "s": 1,
+          "t": "Alright, I'll head to the Whispering Woods to gather Sweet Flowers while you go search for Jueyun Chilis around Stone Gate."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and by the way... Even though I've already requested a half day's leave from Sister Victoria, she always insists that I still give her my itinerary for any trips I take."
+        },
+        {
+          "s": 1,
+          "t": "While I head over to the Whispering Woods, could you please check in with Sister Victoria and let her know where I will be?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, you really think so? Okay then."
+        },
+        {
+          "s": 1,
+          "t": "With the Honorary Knight by my side, I can gather ingredients without a care in the world!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, and by the way... Even though I've already requested a half day's leave from Sister Victoria, she always insists that I still give her my itinerary for any trips I take."
+        },
+        {
+          "s": 1,
+          "t": "We should go check in with Sister Victoria first. We could say... hmm... we're going out to gather some herbs!"
+        },
+        {
+          "section": "Report back to Sister Victoria"
+        },
+        {
+          "s": 0,
+          "t": "Oh, you're back again. If you're looking for Sister Barbara... she's yet to return."
+        },
+        {
+          "sit": "We found Barbara in Wolvendom."
+        },
+        {
+          "sit": "Barbara is at Dawn Winery checking on Tunner."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I see... Thank Barbatos that she's alright."
+        },
+        {
+          "s": 0,
+          "t": "But it sounds like she won't be back any time soon... Hmm, perhaps I'll have to pass her responsibilities in the Cathedral to someone else..."
+        },
+        {
+          "sit": "We can help."
+        },
+        {
+          "s": 0,
+          "t": "Oh, well that's most kind of you. I certainly wouldn't want to trouble you..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Let me think for a moment... Ah yes, you could help tidy up around the Cathedral a bit."
+        },
+        {
+          "s": 0,
+          "t": "People tend to bring dust in as they come into the Cathedral, so the floor is often quite dirty."
+        },
+        {
+          "s": 0,
+          "t": "Cleaning and the like have always been Sister Barbara's responsibility... So the moment she's gone, everything starts getting dirty..."
+        },
+        {
+          "sit": "Barbara is responsible for cleaning a place this huge by herself?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, that's right. She always said that she could handle it herself and that there's no need to ask anyone else to help her."
+        },
+        {
+          "s": 0,
+          "t": "But she does often appear quite exhausted after she's finished with the cleaning."
+        },
+        {
+          "s": 0,
+          "t": "To be honest, I'm most surprised that you are willing to help... Or rather, that Barbara is willing to let you help."
+        },
+        {
+          "s": 0,
+          "t": "However, this would help to lighten her burden."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, I'll let you handle the cleaning for now, Honorary Knight."
+        },
+        {
+          "section": "Clean the Cathedral grounds"
+        },
+        {
+          "s": 0,
+          "t": "Your kindness will not go unnoticed, Honorary Knight. Barbatos bless you."
+        },
+        {
+          "section": "Talk to Sister Victoria"
+        },
+        {
+          "s": 0,
+          "t": "Oh? Sister Barbara, is something the matter?"
+        },
+        {
+          "s": 1,
+          "t": "I'd like to go to the Whispering Woods to pick some herbs, it shouldn't take long!"
+        },
+        {
+          "s": 0,
+          "t": "Oh? But didn't you just submit a request for half a day's leave to see a friend? Now you suddenly intend to go herb-picking?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... I thought you would take a rest today..."
+        },
+        {
+          "s": 0,
+          "t": "Still, you may do as you please with your plans, I won't interfere."
+        },
+        {
+          "s": 0,
+          "t": "But the Whispering Woods are quite a distance away, perhaps you should request a guard from the Knights of Favonius?"
+        },
+        {
+          "sit": "I will accompany Barbara."
+        },
+        {
+          "s": 1,
+          "t": "With the Honorary Knight by my side, I'm sure everything will be just fine!"
+        },
+        {
+          "s": 0,
+          "t": "Thank you for informing me, I've noted down your plans. Please do come back soon."
+        },
+        {
+          "s": 1,
+          "t": "Thank you."
+        },
+        {
+          "s": 1,
+          "t": "Alright, we're good to go. Let's head out!"
+        },
+        {
+          "section": "Talk to Sister Victoria"
+        },
+        {
+          "s": 0,
+          "t": "Yes, my child?"
+        },
+        {
+          "sit": "About Barbara's time off..."
+        },
+        {
+          "s": 0,
+          "t": "Oh yes, Sister Barbara just submitted her request for half a day's leave. She said she had plans with a friend."
+        },
+        {
+          "s": 0,
+          "t": "I must say though, it is quite unusual for Barbara to request time off just to see a friend..."
+        },
+        {
+          "s": 0,
+          "t": "But that's beside the point. What is it you'd like to ask me?"
+        },
+        {
+          "sit": "About \"Fantastic Summer-Serendipity Coral Sparkling Tea\"..."
+        },
+        {
+          "s": 0,
+          "t": "Oh? You mean to tell me that Barbara intends to accompany you to buy this... special drink?"
+        },
+        {
+          "s": 0,
+          "t": "Then you must be the friend that she mentioned, I presume?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm, seeing as you're the Honorary Knight, I guess that's fine..."
+        },
+        {
+          "s": 0,
+          "t": "Well then, please take good care of Sister Barbara."
+        },
+        {
+          "sit": "Why does Barbara always have to report her plans?"
+        },
+        {
+          "s": 0,
+          "t": "Well, as you may already know, Sister Barbara is quite popular in Mondstadt for several reasons..."
+        },
+        {
+          "s": 0,
+          "t": "Although the citizens here may only be acting out of good intention, there are too many of them, and Sister Barbara can't handle it all."
+        },
+        {
+          "s": 0,
+          "t": "If they appear while she is working here at the Church, we can come and intervene."
+        },
+        {
+          "s": 0,
+          "t": "But if she's approached by fans during her time off, then she can only fend for herself."
+        },
+        {
+          "s": 0,
+          "t": "And not to mention, she's too... kind. She'll always try to fulfill the requests of the citizens of Mondstadt, even when it takes a heavy toll and leaves her more exhausted than actual working hours."
+        },
+        {
+          "s": 0,
+          "t": "So with that in mind, we thought we'd have Sister Barbara always tell us where she'd be, just in case we need to come rescue her from the crowds."
+        },
+        {
+          "s": 0,
+          "t": "My hope is that Sister Barbara stops pushing herself so hard..."
+        },
+        {
+          "section": "Talk to Sister Victoria"
+        },
+        {
+          "s": 0,
+          "t": "Yes, my child?"
+        },
+        {
+          "sit": "About Barbara's itinerary..."
+        },
+        {
+          "s": 0,
+          "t": "Oh? Sister Barbara wishes to go to the Whispering Woods to pick herbs?"
+        },
+        {
+          "s": 0,
+          "t": "I see... In fact, Sister Barbara just requested a half day's leave to go meet a friend. Now she suddenly intends to go herb-picking?"
+        },
+        {
+          "s": 0,
+          "t": "I'm sure Sister Barbara has her reasons... Will you be accompanying her?"
+        },
+        {
+          "sit": "Yes, I will be accompanying her."
+        },
+        {
+          "s": 0,
+          "t": "Ah, I trust she will be in good hands then. Please take good care of Sister Barbara, Honorary Knight."
+        },
+        {
+          "sit": "Why does Barbara always have to report her plans?"
+        },
+        {
+          "s": 0,
+          "t": "Well, as you may already know, Sister Barbara is quite popular in Mondstadt for several reasons..."
+        },
+        {
+          "s": 0,
+          "t": "Although the citizens here may only be acting out of good intention, there are too many of them, and Sister Barbara can't handle it all."
+        },
+        {
+          "s": 0,
+          "t": "If they appear while she is working here at the Church, we can come and intervene."
+        },
+        {
+          "s": 0,
+          "t": "But if she's approached by fans during her time off, then she can only fend for herself."
+        },
+        {
+          "s": 0,
+          "t": "And not to mention, she's too... kind. She'll always try to fulfill the requests of the citizens of Mondstadt, even when it takes a heavy toll and leaves her more exhausted than actual working hours."
+        },
+        {
+          "s": 0,
+          "t": "So with that in mind, we thought we'd have Sister Barbara always tell us where she'd be, just in case we need to come rescue her from the crowds."
+        },
+        {
+          "s": 0,
+          "t": "My hope is that Sister Barbara stops pushing herself so hard..."
+        }
+      ],
+      "description": "At Barbara's request, you head back to Mondstadt to report to Sister Victoria."
+    },
+    {
+      "id": "q-19004",
+      "title": "The First Chilibrew Ingredient",
+      "dialogue": [
+        {
+          "section": "Head near Stone Gate"
+        },
+        {
+          "s": 4,
+          "t": "This seems like the right place, but Barbara isn't here..."
+        },
+        {
+          "s": 4,
+          "t": "Well, let's wait here a while, she'll probably be back soon."
+        },
+        {
+          "s": 4,
+          "t": "Ugh, it's been ages, where in Teyvat did she go...?"
+        },
+        {
+          "sit": "I'm a little worried..."
+        },
+        {
+          "sit": "Let's look for her."
+        },
+        {
+          "s": 4,
+          "t": "Paimon's worried too, Barbara should have been back by now."
+        },
+        {
+          "s": 4,
+          "t": "She said she wanted to go to the Whispering Woods and pick Sweet Flowers — let's head over there."
+        },
+        {
+          "section": "Collect Fresh Jueyun Chili"
+        },
+        {
+          "s": 1,
+          "t": "Wha—? How did you two... Quickly, this way, try not to make a sound."
+        },
+        {
+          "sit": "We thought something might have happened, so we came looking for you."
+        },
+        {
+          "s": 1,
+          "t": "Oh, I'm so sorry, I ran into something unexpected... *sigh* There's no heading back now..."
+        },
+        {
+          "sit": "What are you doing here?"
+        },
+        {
+          "s": 1,
+          "t": "Long story short... I was picking Sweet Flowers, and suddenly a group of Treasure Hoarders appeared."
+        },
+        {
+          "s": 1,
+          "t": "They'd seized a merchant of some kind and were pushing her around. It sounded like they were demanding money from her..."
+        },
+        {
+          "s": 1,
+          "t": "I took cover right away, but I've been trailing them ever since."
+        },
+        {
+          "s": 1,
+          "t": "I guess they were too caught up with the merchant to notice me."
+        },
+        {
+          "s": 1,
+          "t": "I followed them this far, but it seemed like they knew somebody was following them, so I didn't go any further..."
+        },
+        {
+          "sit": "That was risky, what if you'd been discovered?"
+        },
+        {
+          "s": 1,
+          "t": "Don't worry about me, they're only Treasure Hoarders after all. Anyway, I've got a Vision, it's enough to protect myself."
+        },
+        {
+          "s": 1,
+          "t": "As for the person they seized... they might be in danger. That's why I was secretly trailing them."
+        },
+        {
+          "sit": "Best to go back and get the Knights of Favonius involved."
+        },
+        {
+          "s": 1,
+          "t": "I thought of getting the Knights involved, but I was worried it would take too long... What if the Treasure Hoarders did something terrible while I was gone...?"
+        },
+        {
+          "s": 1,
+          "t": "I was trying to think of some way of rescuing the merchant when you showed up."
+        },
+        {
+          "s": 1,
+          "t": "So... Honorary Knight, maybe you could, uh..."
+        },
+        {
+          "sit": "Say no more, I'm sure these Treasure Hoarders will respond well to a little \"direct intervention.\""
+        },
+        {
+          "s": 1,
+          "t": "Yay! I'll leave it to you, Honorary Knight. I'll handle the aftercare."
+        },
+        {
+          "sit": "I try to refrain from intervening too directly whenever possible..."
+        },
+        {
+          "s": 1,
+          "t": "Oh... B—But sometimes — I mean — for some people, it's hard to persuade them without, you know... \"direct intervention.\""
+        },
+        {
+          "s": 1,
+          "t": "Please, Honorary Knight, it's up to you. I'll handle the aftercare."
+        }
+      ],
+      "description": "To make some Chilibrew, Barbara has asked you to look for some fresh Jueyun Chilis near the Stone Gate."
+    },
+    {
+      "id": "q-19005",
+      "title": "Knight and Deaconess, Ready for Battle!",
+      "dialogue": [
+        {
+          "section": "Defeat the Treasure Hoarders"
+        },
+        {
+          "s": 5,
+          "t": "Thank you, I can't express my gratitude..."
+        },
+        {
+          "s": 5,
+          "t": "I'm a merchant from Liyue. I was on my way to Mondstadt..."
+        },
+        {
+          "s": 5,
+          "t": "I had no idea there were Treasure Hoarders on the road. They seized me and brought me here..."
+        },
+        {
+          "s": 5,
+          "t": "If it weren't for you, gods know what would have happened to me."
+        },
+        {
+          "s": 5,
+          "t": "Oh! Please allow me to repay your kindness. The Treasure Hoarders already made off with most of my things, but let me see here..."
+        },
+        {
+          "s": 5,
+          "t": "So, there are still a few bottles of Chilibrew... a few Sweet Flowers, and... here's some Mora!"
+        },
+        {
+          "s": 1,
+          "t": "No, no, no, we don't need a reward! Rescuing those in need is only natural..."
+        },
+        {
+          "s": 1,
+          "t": "Besides, I'm the Deaconess of the Church of Favonius, and this is the Knights of Favonius' Honorary Knight."
+        },
+        {
+          "s": 1,
+          "t": "As a visitor from Liyue, we have a duty to guard your safety."
+        },
+        {
+          "s": 5,
+          "t": "I won't hear of it! You rescued me, it's only right that your kindness is repaid."
+        },
+        {
+          "s": 5,
+          "t": "I'm afraid I have nothing of great value to offer, but please choose what you'd like."
+        },
+        {
+          "s": 1,
+          "t": "Umm, okay... I just don't know what to choose..."
+        },
+        {
+          "s": 1,
+          "t": "Liyue Chilibrew might be delicious, but with those Sweet Flowers, I'd have enough ingredients to make my own..."
+        },
+        {
+          "s": 1,
+          "t": "I know! You have way more adventuring experience than me, you'll be better at this..."
+        },
+        {
+          "s": 1,
+          "t": "You choose! What do you think is the most fitting reward?"
+        },
+        {
+          "s": 5,
+          "t": "Yes, adventurers are savvy when it comes to rewards... What'll it be? Liyue's famous Chilibrew, Sweet Flowers, or Mora?"
+        },
+        {
+          "sit": "I'd like to try that Liyue Chilibrew..."
+        },
+        {
+          "s": 5,
+          "t": "This? I mean, sure! I don't know if you'll enjoy it..."
+        },
+        {
+          "s": 5,
+          "t": "There are two of you, so you'll be needing a couple of bottles."
+        },
+        {
+          "s": 5,
+          "t": "Here you go, pace yourselves! Thanks again for your help, I better get moving."
+        },
+        {
+          "s": 5,
+          "t": "The sensible option, hahaha. A seasoned adventurer, I see."
+        },
+        {
+          "s": 5,
+          "t": "Here you go. Thanks again for your help, I better get moving."
+        },
+        {
+          "s": 1,
+          "t": "Mora? That is sensible... But I guess that's to be expected from a seasoned adventurer."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* It's getting late... and I doubt there's enough time to go looking for Sweet Flowers..."
+        },
+        {
+          "s": 1,
+          "t": "Let's head back to Mondstadt, as for the Chilibrew... I'll have to make some for you next time."
+        },
+        {
+          "s": 5,
+          "t": "Really? Sweet Flowers in a Chilibrew...? I guess it's all Chilibrew at the end of the day, but the Mondstadt version sure sounds... interesting."
+        },
+        {
+          "s": 5,
+          "t": "Sweet Flowers it is, these are an excellent batch. Thanks again for your help, I better get moving."
+        },
+        {
+          "s": 1,
+          "t": "These Sweet Flowers look fantastic, and now we've finally got all the ingredients we need for the Chilibrew."
+        },
+        {
+          "s": 1,
+          "t": "Let's get back to Mondstadt. When we're inside the city, why don't you wait for me in the garden next to the Adventurers' Guild?"
+        },
+        {
+          "s": 1,
+          "t": "When the Chilibrew is ready, I'll bring it straight over."
+        },
+        {
+          "section": "Talk to Caishan"
+        },
+        {
+          "s": 1,
+          "t": "Liyue Chilibrew... I've never tried it, I wonder what the flavor's like..."
+        },
+        {
+          "s": 1,
+          "t": "Well, here goes nothing."
+        },
+        {
+          "s": 1,
+          "t": "*coughing*"
+        },
+        {
+          "s": 1,
+          "t": "Wh—Whoa... spicy... throat's on fire..."
+        },
+        {
+          "s": 1,
+          "t": "...This isn't like the Chilibrew I make at all..."
+        },
+        {
+          "s": 1,
+          "t": "...Wh—What do you think?"
+        },
+        {
+          "sit": "It's... something new..."
+        },
+        {
+          "sit": "*coughing*"
+        },
+        {
+          "s": 1,
+          "t": "Whew...I guess we don't have to finish them. It's getting late, and I doubt there's enough time to go looking for Sweet Flowers..."
+        },
+        {
+          "s": 1,
+          "t": "When we get time, I'll make some for you. My version's a little easier on the tongue. Less... stimulating."
+        },
+        {
+          "s": 1,
+          "t": "Let's head back to Mondstadt, my break's nearly over."
+        },
+        {
+          "s": 1,
+          "t": "Thanks for your company today, Honorary Knight. Even though it was only half a day, I had a great time."
+        },
+        {
+          "s": 1,
+          "t": "Next time, you can try my special Chilibrew."
+        },
+        {
+          "section": "Head to the garden near the Adventurers' Guild and wait for Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Sorry for the delay, the Chilibrew's ready! Why don't we drink these here?"
+        },
+        {
+          "s": 1,
+          "t": "Here, this one is for you. Let me know what you think!"
+        },
+        {
+          "sit": "This is... pretty good."
+        },
+        {
+          "s": 1,
+          "t": "Really? Is the flavor okay for you?"
+        },
+        {
+          "s": 1,
+          "t": "I was worried you might not like it."
+        },
+        {
+          "sit": "So what got you into Chilibrew?"
+        },
+        {
+          "sit": "You've got an... interesting taste in drinks..."
+        },
+        {
+          "s": 1,
+          "t": "Um... Now that you mention it, I guess I'm the only one in the whole of Mondstadt that likes Chilibrew."
+        },
+        {
+          "s": 1,
+          "t": "Well... I like Chilibrew because... actually, it's a little embarrassing..."
+        },
+        {
+          "s": 1,
+          "t": "At first, I drank Chilibrew just to keep me awake..."
+        },
+        {
+          "s": 1,
+          "t": "When I first began singing practice, I had to get up early every day."
+        },
+        {
+          "s": 1,
+          "t": "After practice, I would go to work at the Church to take care of official matters."
+        },
+        {
+          "s": 1,
+          "t": "But because I was getting up so early... my singing wasn't getting any better. Sometimes I'd be half asleep, singing the wrong lyrics, it was a disaster..."
+        },
+        {
+          "s": 1,
+          "t": "I went to people for advice on how to stay awake. They had all kinds of methods: running, chewing mint... one adventurer even told me that they'd fight slimes to stave off sleep..."
+        },
+        {
+          "s": 1,
+          "t": "None of those ideas worked for me, they were too time-consuming. By the time I started to feel awake, there was hardly any time left for practice."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, that was until I started chewing Jueyun Chilis..."
+        },
+        {
+          "sit": "And that didn't... affect your voice?"
+        },
+        {
+          "sit": "Sounds bad for singing..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, that's what Sara said... She told me not to chew them, but to use the Jueyun Chilis to make some kind of drink, something milder in flavor..."
+        },
+        {
+          "s": 1,
+          "t": "Using Sweet Flowers to temper the flavor was also her idea."
+        },
+        {
+          "s": 1,
+          "t": "That's when I started using this new and improved Chilibrew method. After a while... I actually started to enjoy the flavor."
+        },
+        {
+          "s": 1,
+          "t": "Whenever I drank it, the spiciness would always push me to work harder..."
+        },
+        {
+          "sit": "I guess that's what \"hard work\" tastes like..."
+        },
+        {
+          "sit": "Sounds like this bottle of Chilibrew is a reflection of your determination."
+        },
+        {
+          "s": 1,
+          "t": "I don't know what to say..."
+        },
+        {
+          "s": 1,
+          "t": "My determination is nothing compared to yours. I heard Amber say that you're traveling far and wide, looking for your sibling. Is that true?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, the things you've faced, and those yet to come... are more difficult than a few bad songs."
+        },
+        {
+          "s": 1,
+          "t": "Even if I can't assist you in other ways, when it comes to healing, you can count on me. No matter the wound, I will help you recover."
+        },
+        {
+          "s": 1,
+          "t": "Uh — have I said too much? Sorry, I'm not used to taking a break, I keep boring you to death..."
+        },
+        {
+          "s": 1,
+          "t": "It's not often I get so much freedom. Let's just... take our time and drink our drinks."
+        },
+        {
+          "s": 1,
+          "t": "Tomorrow, it's back to chasing our dreams with hard work."
+        },
+        {
+          "s": 1,
+          "t": "I hope our dreams can come true, in the end."
+        }
+      ],
+      "description": "Repel the Treasure Hoarders and rescue the merchant being threatened by them."
+    },
+    {
+      "id": "q-19006",
+      "title": "The Second Chilibrew Ingredient",
+      "dialogue": [
+        {
+          "section": "Look for High-quality Sweet Flowers"
+        },
+        {
+          "s": 1,
+          "t": "Whew... I guess that takes care of them."
+        },
+        {
+          "sit": "Piece of cake."
+        },
+        {
+          "s": 1,
+          "t": "You truly are the Honorary Knight, you barely broke a sweat."
+        },
+        {
+          "sit": "Think I slipped a disc."
+        },
+        {
+          "s": 1,
+          "t": "More than a few monsters, but you made it look easy."
+        },
+        {
+          "s": 1,
+          "t": "Ah! S—Stop right there, looks like you hurt yourself... On your arm there!"
+        },
+        {
+          "sit": "Barely a graze, nothing to worry about."
+        },
+        {
+          "s": 1,
+          "t": "No no no, even a graze can turn into a wound of unimaginable evil if you let it."
+        },
+        {
+          "s": 1,
+          "t": "Wait just a second, I'll have it healed in no time."
+        },
+        {
+          "s": 1,
+          "t": "That should do it. Okay, let's have a look for these Sweet Flowers."
+        },
+        {
+          "s": 2,
+          "t": "H—Hello there... Excuse me, but aren't you the Deaconess of the Church of Favonius?"
+        },
+        {
+          "s": 1,
+          "t": "...Yes, I am... Are you alright?"
+        },
+        {
+          "s": 6,
+          "t": "Praise the Archons! Please, can you heal me?"
+        },
+        {
+          "s": 6,
+          "t": "I'm a... I'm a Hunter, from Springvale! I was attacked by monsters when I passed through here."
+        },
+        {
+          "s": 6,
+          "t": "I was lucky to have escaped, but please — won't you heal me?"
+        },
+        {
+          "sit": "You're not... dressed like a hunter."
+        },
+        {
+          "sit": "The leader of the Springvale hunters... what's their name again?"
+        },
+        {
+          "sit": "Springvale's quite a distance away... What is it you're hunting out here?"
+        },
+        {
+          "sit": "You're dressed a bit like a Treasure Hoarder..."
+        },
+        {
+          "s": 6,
+          "t": "I... decided to do some private hunting today — so I just threw on any old thing..."
+        },
+        {
+          "s": 6,
+          "t": "Leader... leader... That's gotta be, um... Is this a trick question...?"
+        },
+        {
+          "s": 6,
+          "t": "Forest boar! I'm hunting forest boar! Hahaha, when you think about it, isn't life just one big forest boar hunt...?"
+        },
+        {
+          "s": 6,
+          "t": "Treasure who now? *cough* Don't be silly! Would a Treasure Hoarder get injured and then stop a couple of passers-by begging to be healed...?"
+        },
+        {
+          "s": 6,
+          "t": "Bah! Don't be ridiculous... Me? A Treasure Hoarder?"
+        },
+        {
+          "s": 6,
+          "t": "L—Look here, aren't these monster injuries? How could I have done this to myself?"
+        },
+        {
+          "sit": "Well then, let's head to Springvale and see if we can't find out your identity..."
+        },
+        {
+          "s": 6,
+          "t": "How can you be so heartless!? How could I make the journey with all these terrible injuries!?"
+        },
+        {
+          "s": 6,
+          "t": "Hmph, it's no wonder, looking at you... you adventurers are all alike, suspicious by nature..."
+        },
+        {
+          "s": 6,
+          "t": "Sister Deaconess, you believe me right? Heal me, I beg of you..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Yes, I will heal you."
+        },
+        {
+          "s": 1,
+          "t": "Oh... His wounds look difficult to heal. I'll need some herbs... Can you watch him for me?"
+        },
+        {
+          "sit": "...No problem. See what you can find, I'll take care of him."
+        },
+        {
+          "s": 1,
+          "t": "Okay, I'm going to look for some Small Lamp Grass in the area."
+        },
+        {
+          "s": 1,
+          "t": "Please stay with him, and make sure no monsters get to him."
+        },
+        {
+          "sit": "I'll go with you, this fellow could do with some monster-hiding practice."
+        },
+        {
+          "sit": "It's too dangerous to go alone, let's go together. This fellow should be able to look after himself."
+        },
+        {
+          "s": 6,
+          "t": "You..."
+        },
+        {
+          "s": 6,
+          "t": "Hmph... fine. Heartless adventurer..."
+        },
+        {
+          "s": 6,
+          "t": "I'll stay hidden, Sister Deaconess, but please be back soon, I beg of you!"
+        },
+        {
+          "s": 1,
+          "t": "We'll be back soon, don't worry."
+        },
+        {
+          "s": 1,
+          "t": "Oh... uh... okay. But I should heal him first..."
+        },
+        {
+          "s": 6,
+          "t": "Wait a minute... Y'know, I'm suddenly feeling a lot better. Where was I..."
+        },
+        {
+          "s": 6,
+          "t": "Uh, Sister Deaconess... I should be going. I won't be needing your healing today, thank you."
+        },
+        {
+          "sit": "Sir, stop where you are."
+        },
+        {
+          "s": 6,
+          "t": "...But w—we're done here, no? Is there a problem? I—I haven't done anything..."
+        },
+        {
+          "sit": "We just want to get you healed at the Church is all. What's the matter, shy?"
+        },
+        {
+          "s": 6,
+          "t": "What's your problem? You're not making any sense! I just asked to be healed, is there some law against that?"
+        },
+        {
+          "sit": "I'm just a humble Honorary Knight, no need to get excited... Take a walk with me."
+        },
+        {
+          "s": 6,
+          "t": "You think I'm afraid of you? If you wanna catch me, you better be up to the task!"
+        }
+      ],
+      "description": "To make some Chilibrew, you prepare to go with Barbara to the Whispering Woods to look for some Sweet Flowers."
+    },
+    {
+      "id": "q-19007",
+      "title": "Ulterior Motive...?",
+      "dialogue": [
+        {
+          "section": "Defeat the Treasure Hoarder"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "That's the last we'll see of him! Whatever he was planning, he won't try it now..."
+        },
+        {
+          "s": 1,
+          "t": "Thank you..."
+        },
+        {
+          "sit": "You don't sound too happy about it..."
+        },
+        {
+          "s": 1,
+          "t": "I had a look at his wounds... I think he really did need healing."
+        },
+        {
+          "s": 1,
+          "t": "Even if he was a Treasure Hoarder..."
+        },
+        {
+          "s": 1,
+          "t": "Still, I'm sure you made the right decision. If he did have some ulterior motive, we might have fallen into a trap."
+        },
+        {
+          "s": 1,
+          "t": "Whatever the case, if he does have others lurking about, we're probably still in danger. We should go back to Mondstadt."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* It looks like Chilibrew isn't in the cards this time. I'll have to get around to making one for you next time."
+        },
+        {
+          "s": 1,
+          "t": "I'm... heading back to Mondstadt. You should come as well — don't spend too long out here."
+        }
+      ],
+      "description": "Defeat the suspicious person"
+    },
+    {
+      "id": "q-19008",
+      "title": "Healing Is My Job",
+      "dialogue": [
+        {
+          "section": "Look for Fresh Small Lamp Grass"
+        },
+        {
+          "s": 6,
+          "t": "Sister Deaconess... you're back!"
+        },
+        {
+          "s": 1,
+          "t": "This should do the trick, hold on a moment..."
+        },
+        {
+          "sit": "No sudden moves."
+        },
+        {
+          "sit": "I'm watching you."
+        },
+        {
+          "s": 6,
+          "t": "You adventurers... really are jumpy these days."
+        },
+        {
+          "s": 1,
+          "t": "Alright, that should do it. But just to be safe, you should probably pay a visit to the Church."
+        },
+        {
+          "s": 6,
+          "t": "Haha... no need. I should be able to recover by myself."
+        },
+        {
+          "s": 6,
+          "t": "Uh... S—Sister Deaconess..."
+        },
+        {
+          "s": 6,
+          "t": "Why... weren't you suspicious of me? Like the adventurer here?"
+        },
+        {
+          "s": 6,
+          "t": "Surely you've heard about the Treasure Hoarders and their methods... haha..."
+        },
+        {
+          "s": 6,
+          "t": "Feigning injury by the roadside, begging for healing to get close to travelers, then striking at the opportune moment... Y'know, stuff like that..."
+        },
+        {
+          "s": 6,
+          "t": "And... that's just one of their methods. Weren't you... worried that I might've been looking to harm you?"
+        },
+        {
+          "s": 1,
+          "t": "Um... It crossed my mind."
+        },
+        {
+          "s": 6,
+          "t": "And yet... Why did you still help me?"
+        },
+        {
+          "s": 1,
+          "t": "The fact was, you needed healing, right?"
+        },
+        {
+          "s": 1,
+          "t": "And you hadn't done anything wrong. You just asked me for help."
+        },
+        {
+          "s": 1,
+          "t": "Whatever your true identity, in my eyes, you were merely a person in need of healing."
+        },
+        {
+          "s": 6,
+          "t": "Sister Deaconess..."
+        },
+        {
+          "s": 6,
+          "t": "The truth is... I am a Treasure Hoarder. My plan was to feign injury in order to take advantage of the situation..."
+        },
+        {
+          "s": 6,
+          "t": "But I ran into a group of monsters — I barely made it out. Then I realized I actually had to seek help from someone, anyone..."
+        },
+        {
+          "s": 6,
+          "t": "But travelers all kept their distance, none of them believed me... Until you showed up."
+        },
+        {
+          "s": 6,
+          "t": "I—I can't thank you enough for healing me. I feel strong enough to carry on now... I won't trouble you anymore."
+        },
+        {
+          "s": 1,
+          "t": "Oh... Well, the best thing would be for you to come back to Mondstadt with us. The Church can help with your treatment, you're not fully healed yet..."
+        },
+        {
+          "s": 6,
+          "t": "Please! I've taken up enough of your time."
+        },
+        {
+          "s": 6,
+          "t": "Oh, these are for you. I'm afraid I have nothing of value to give, but... I picked these Sweet Flowers from nearby."
+        },
+        {
+          "s": 6,
+          "t": "Take them, as thanks for healing me. I will remember your kindness."
+        },
+        {
+          "s": 6,
+          "t": "In the future, if you have any trouble with... Treasure Hoarders... just mention my name, Uwe. I guarantee, they won't dare touch the hem of your jacket!"
+        },
+        {
+          "s": 6,
+          "t": "I must go. Farewell."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, what a strange character... but I hope his wounds will be okay."
+        },
+        {
+          "s": 1,
+          "t": "At least we got a hold of some Sweet Flowers! We were running out of time for me to whip you up some Chilibrew."
+        },
+        {
+          "s": 1,
+          "t": "Wow... this is a great batch! That's everything we need. It's getting late, let's get back to Mondstadt."
+        },
+        {
+          "section": "Look for Fresh Small Lamp Grass"
+        },
+        {
+          "s": 6,
+          "t": "Y—You got a problem? Stop looking at me like that..."
+        },
+        {
+          "section": "Accompany Barbara while she heals Uwe"
+        },
+        {
+          "s": 1,
+          "t": "Well, we're back. Whew... that was pretty tiring."
+        },
+        {
+          "sit": "Why did you choose to heal that guy even though you knew he was suspicious?"
+        },
+        {
+          "s": 1,
+          "t": "I'm a deaconess, healing the wounded is something I must do."
+        },
+        {
+          "s": 1,
+          "t": "Besides... I have a Vision. Even if he did try anything, I'd have been able to handle it."
+        },
+        {
+          "s": 1,
+          "t": "Not to mention, I had the Honorary Knight with me. If there'd been any danger... you would definitely have protected me, right?"
+        },
+        {
+          "sit": "And if I hadn't been there...?"
+        },
+        {
+          "sit": "What if you'd been on your own?"
+        },
+        {
+          "s": 1,
+          "t": "If I was alone... Mm..."
+        },
+        {
+          "s": 1,
+          "t": "Well, for a Vision-bearer, I'm more adept at healing. If there were too many enemies, I guess I would've been defeated after a while..."
+        },
+        {
+          "s": 1,
+          "t": "However, because I would've been alone... I wouldn't have risked an ambush by stopping to heal him myself. I would've just left some herbs with him instead."
+        },
+        {
+          "s": 1,
+          "t": "I'm good at remembering self-defense tactics like that."
+        },
+        {
+          "s": 1,
+          "t": "After all, as Sister Victoria always says... don't go around healing people in the wild..."
+        },
+        {
+          "s": 1,
+          "t": "Then again... What's the point of having a Vision if I can't stretch the rules once in a while? Hehe..."
+        },
+        {
+          "s": 1,
+          "t": "Oh — the Chilibrew! It shouldn't take long to make... Why don't you wait for me in the garden next to the Adventurers' Guild?"
+        },
+        {
+          "s": 1,
+          "t": "I'll bring it straight over when it's ready."
+        }
+      ],
+      "description": "To heal Uwe, you accompany Barbara to search the Whispering Woods for Small Lamp Grass."
+    },
+    {
+      "id": "q-19009",
+      "title": "A Very Special Beverage",
+      "dialogue": [
+        {
+          "section": "Look for Barbara around The Cat's Tail"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Th—Thank you for all your support... P—Please, one at a time..."
+        },
+        {
+          "s": 7,
+          "t": "Barbara-sama, I never expected I would have a chance to meet you here today! Are you here attending to matters for the Church?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, I—I guess you could say that..."
+        },
+        {
+          "s": 8,
+          "t": "Barbara-sama, may I get your autograph?"
+        },
+        {
+          "s": 8,
+          "t": "I— My daughter Ellin is a big fan of yours..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, is that so? Hehe... A—Alright, just one moment..."
+        },
+        {
+          "s": 9,
+          "t": "Oh gosh... Barbara-sama, I love your style! Please tell me how I can be more like you!"
+        },
+        {
+          "s": 1,
+          "t": "O—Oh, really? Well, I—I am still learning and growing myself..."
+        },
+        {
+          "s": 1,
+          "t": "I—I guess all I can say is... Do your best every day!"
+        },
+        {
+          "s": 7,
+          "t": "Oh, Barbara-sama!"
+        },
+        {
+          "s": 8,
+          "t": "Barbara-sama!"
+        },
+        {
+          "s": 9,
+          "t": "Barbara-sama..."
+        },
+        {
+          "s": 1,
+          "t": "Ohh... Oh my..."
+        },
+        {
+          "sit": "(Looks like we might need to intervene...)"
+        },
+        {
+          "sit": "(Barbara needs rescuing from the crowd...)"
+        },
+        {
+          "section": "Persuade Schulz"
+        },
+        {
+          "s": 7,
+          "t": "Oh, Barbara-sama! You're so hard-working... If I put in as much effort as you, who knows where my apprenticeship would take me!"
+        },
+        {
+          "sit": "Barbara's currently on leave, please don't disturb her."
+        },
+        {
+          "s": 7,
+          "t": "Barbara-sama? On leave? Phew... For a moment, I thought I was disturbing her work..."
+        },
+        {
+          "s": 7,
+          "t": "Barbara-sama! Can I get an autograph?"
+        },
+        {
+          "sit": "(This is bad...)"
+        },
+        {
+          "s": 7,
+          "t": "You... You must be the Honorary Knight! What are you and Barbara-sama doing he—"
+        },
+        {
+          "sit": "We're... on official business."
+        },
+        {
+          "s": 7,
+          "t": "Uh... Of course! Barbara-sama is working after all... Forgive me, I'll leave you in peace."
+        },
+        {
+          "section": "Persuade Herman"
+        },
+        {
+          "s": 8,
+          "t": "Barbara-sama, can I get an autograph? Ellin would be so happy, she's your biggest fan!"
+        },
+        {
+          "s": 8,
+          "t": "Uh... If she's on leave then... an autograph won't be a problem. Right?"
+        },
+        {
+          "s": 8,
+          "t": "Barbara-sama, I — ahem, my daughter, eh-he — would love an autograph. Ellin really is your biggest fan!"
+        },
+        {
+          "sit": "(Uh oh...)"
+        },
+        {
+          "s": 8,
+          "t": "Ah!? W—Wait! I, uh..."
+        },
+        {
+          "sit": "Barbara is on official business right now."
+        },
+        {
+          "s": 8,
+          "t": "Oh, is that right! Well then, uh... I'll leave her to it. Ellin looks busy with her training, some other time perhaps..."
+        },
+        {
+          "section": "Persuade Susie"
+        },
+        {
+          "s": 9,
+          "t": "Please, Barbara-sama, teach me your style! How can I be more like you?"
+        },
+        {
+          "s": 9,
+          "t": "Oh — perfect! I've got so much to learn from Barbara-sama. She'd never have the time if she was working..."
+        },
+        {
+          "s": 9,
+          "t": "Please, Barbara-sama, teach me your style! How can I be more like you?"
+        },
+        {
+          "sit": "(Darn...)"
+        },
+        {
+          "s": 9,
+          "t": "Uhh, sure... considerate to others... Huh? Aren't you that Honorary Knight? You and Barbara-sama must be..."
+        },
+        {
+          "sit": "Uh — we're... on official business."
+        },
+        {
+          "s": 9,
+          "t": "Official business? Oh, I—I thought... Apologies. I—I just got so excited when I saw Barbara-sama..."
+        },
+        {
+          "s": 9,
+          "t": "Yes, you're right... Being considerate to others is the right place to start."
+        },
+        {
+          "s": 9,
+          "t": "...Barbara-sama and the Honorary Knight in the same place — this must be incredibly important official business... I—I'll take my leave."
+        },
+        {
+          "section": "Talk to Barbara"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Where did everybody..."
+        },
+        {
+          "sit": "They came to their senses once I'd given them the lowdown."
+        },
+        {
+          "s": 1,
+          "t": "The lowdown... You mean, you persuaded them to leave for now...?"
+        },
+        {
+          "sit": "I temporarily persuaded them to beat it."
+        },
+        {
+          "s": 1,
+          "t": "Whew... I shouldn't be saying this but... thanks for intervening."
+        },
+        {
+          "s": 1,
+          "t": "I understand everybody's enthusiasm, but the longer I stay here the more people will gather. It's always been that way."
+        },
+        {
+          "s": 1,
+          "t": "I just don't know how to turn them away. In the end, the Knights of Favonius always have to come and restore order."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* If only I had your way with words..."
+        },
+        {
+          "s": 1,
+          "t": "Here, it's the Fantastic Summer-Serendipity Coral Sparkling Tea you wanted. I ordered this one especially for you."
+        },
+        {
+          "s": 1,
+          "t": "I hardly ever get a day off. Why don't we... take a stroll outside the city together and finish our drinks?"
+        },
+        {
+          "s": 1,
+          "t": "Please, there's no need to rush... One at a time..."
+        },
+        {
+          "s": 1,
+          "t": "I'm sorry, can you wait a bit longer? I'm still on a break..."
+        },
+        {
+          "s": 9,
+          "t": "Barbara-sama! There's still so much I want to learn from you!"
+        },
+        {
+          "s": 8,
+          "t": "It would make me— uh, my daughter so happy, Barbara-sama!"
+        },
+        {
+          "s": 7,
+          "t": "Barbara-sama! Don't forget my autograph!"
+        },
+        {
+          "s": 1,
+          "t": "Please! Settle down, I—"
+        },
+        {
+          "s": 9,
+          "t": "Oh — I think Monroe might want one too..."
+        },
+        {
+          "s": 7,
+          "t": "And Mr. Wagner! ...Wait, he wouldn't want one, would he...? Uh — let me ask him, though..."
+        },
+        {
+          "s": 8,
+          "t": "Oh! A friend of mine was asking about autographs, Barbara-sama — make that two!"
+        },
+        {
+          "s": 1,
+          "t": "Ohh my..."
+        },
+        {
+          "sit": "They're gonna keep asking for more and more..."
+        },
+        {
+          "s": 1,
+          "t": "So sorry, please... H—Hold on a moment..."
+        },
+        {
+          "s": 1,
+          "t": "Whew... Sorry to keep you waiting so long."
+        },
+        {
+          "sit": "I've waited longer..."
+        },
+        {
+          "s": 1,
+          "t": "You look like you're about to fall asleep! I feel terrible. It was me who invited you for a drink, and here I am wasting your time..."
+        },
+        {
+          "s": 1,
+          "t": "Here, it's the Fantastic Summer-Serendipity Coral Sparkling Tea you wanted. I ordered this one especially for you."
+        },
+        {
+          "s": 1,
+          "t": "At least Miss Margaret didn't make our drinks in advance. The flavor would've changed completely by now..."
+        },
+        {
+          "sit": "You don't look too good..."
+        },
+        {
+          "sit": "You look exhausted..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, how can I put this... Those relaxing moments of freedom in Wolvendom...? The rush just now kinda ruined that for me."
+        },
+        {
+          "s": 1,
+          "t": "But as long as I can bring everybody a smile..."
+        },
+        {
+          "s": 1,
+          "t": "Although, perhaps you can stay with me a while longer? Let's take a stroll outside the city and finish our drinks."
+        },
+        {
+          "s": 1,
+          "t": "We have to seize every bit of free time we get, even if it only lasts a moment."
+        },
+        {
+          "section": "Follow Barbara"
+        },
+        {
+          "s": 1,
+          "t": "It looks so peaceful here, nobody's passing through except us. Let's rest for a while."
+        },
+        {
+          "sit": "That sudden crowd back there in the city... you must be exhausted."
+        },
+        {
+          "sit": "What's the Barbara Fan Club?"
+        },
+        {
+          "sit": "I get the feeling you're more popular than the average sister..."
+        },
+        {
+          "s": 1,
+          "t": "There's more than one answer to that question."
+        },
+        {
+          "s": 1,
+          "t": "A deaconess shouldn't ever be self-interested or let other people down..."
+        },
+        {
+          "s": 1,
+          "t": "But at the end of the day, it's like my father said: I just don't know how to turn people away."
+        },
+        {
+          "s": 1,
+          "t": "My father and Sister Victoria always told me, if I wanted to become a proper deaconess, I would have to learn how to turn away others."
+        },
+        {
+          "s": 1,
+          "t": "But I've never been able to... When I see somebody in need, I lend a hand without a second thought."
+        },
+        {
+          "s": 1,
+          "t": "If I see somebody struggling, I want to help them solve the problem. If somebody comes to me with a request, I can't help but do my best."
+        },
+        {
+          "s": 1,
+          "t": "No matter how tiring, I'm happy as long as I can bring a smile to everybody."
+        },
+        {
+          "s": 1,
+          "t": "*sigh* Perhaps... I'm not a proper deaconess after all."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, I'm so used to it by now, but thanks for wanting to intervene."
+        },
+        {
+          "s": 1,
+          "t": "Usually, the Knights of Favonius end up arriving to restore order. Then someone from the Church comes to escort me away."
+        },
+        {
+          "s": 1,
+          "t": "It's happened so many times already, I don't really notice it anymore."
+        },
+        {
+          "sit": "Isn't it a little exhausting?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! More than a little, to say the least..."
+        },
+        {
+          "s": 1,
+          "t": "But exhaustion for the sake of not letting everybody down is okay."
+        },
+        {
+          "s": 1,
+          "t": "Heh, that thing? Uhh... It's a group of my Mondstadt... supporters."
+        },
+        {
+          "s": 1,
+          "t": "But I'm usually in the Cathedral. The knights and sisters stationed outside the Church won't let them in."
+        },
+        {
+          "s": 1,
+          "t": "So they support me in other ways — cleaning the Cathedral, helping their fellow citizens with difficult matters, stuff like that."
+        },
+        {
+          "s": 1,
+          "t": "It's... very considerate, though sometimes they get carried away."
+        },
+        {
+          "sit": "And how many members does the group have?"
+        },
+        {
+          "s": 1,
+          "t": "Uh, I'm not really sure... but of the ones I know, there's Mr. Albert and Mr. Huffman."
+        },
+        {
+          "sit": "Ah yes, the knight..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, do you know Mr. Huffman? He's a very strict knight, not to mention disciplined."
+        },
+        {
+          "s": 1,
+          "t": "He's never asked for my autograph or tried to make conversation. Every time he comes to the Cathedral on official business, his face is a picture of seriousness."
+        },
+        {
+          "s": 1,
+          "t": "I'd never have known if I hadn't overheard Mr. Albert talking about it."
+        },
+        {
+          "s": 1,
+          "t": "When I found out, I had someone deliver my autograph to him. I hope he was happy with it."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, it's a little embarrassing... Do you know what an \"idol\" is?"
+        },
+        {
+          "s": 1,
+          "t": "I guess you've heard that I... sometimes sing for the people in Mondstadt?"
+        },
+        {
+          "s": 1,
+          "t": "I can use the power of my Vision to heal physical wounds, but it's no use on someone afflicted by sadness."
+        },
+        {
+          "s": 1,
+          "t": "I found out in a magazine that there was such a thing as an \"idol.\""
+        },
+        {
+          "s": 1,
+          "t": "In the magazine, it said that an idol was... a person that spreads love and hope through song and dance."
+        },
+        {
+          "s": 1,
+          "t": "I don't know if it's really possible, but... at least the residents of Mondstadt seem to like my singing."
+        },
+        {
+          "sit": "There was once an idol who stopped a war with their singing."
+        },
+        {
+          "s": 1,
+          "t": "R—Really? That's so impressive..."
+        },
+        {
+          "s": 1,
+          "t": "Do you know that idol? They sound like a mighty Vision bearer."
+        },
+        {
+          "s": 1,
+          "t": "Still, using song and dance to heal the sick of heart... It's easier said than done."
+        },
+        {
+          "s": 1,
+          "t": "I don't know if I'm up to it. I'm not even very good at being a deaconess..."
+        },
+        {
+          "sit": "Why, sure you are."
+        },
+        {
+          "sit": "You're already a very gifted healer."
+        },
+        {
+          "s": 1,
+          "t": "Aw, if that really is true... then that's amazing."
+        },
+        {
+          "s": 1,
+          "t": "...Thank you. It's been a long time since I've had such a long conversation, and it's all me complaining! Thanks for listening."
+        },
+        {
+          "s": 1,
+          "t": "The support of an Honorary Knight goes a long way!"
+        },
+        {
+          "s": 1,
+          "t": "*sigh* So... we've still not finished our drinks! Let's finish them off while we're here."
+        },
+        {
+          "s": 1,
+          "t": "We can rest today, but it's back to the grindstone tomorrow."
+        }
+      ],
+      "description": "After helping to clean up the Cathedral, you get ready to meet Barbara at The Cat's Tail."
+    }
+  ],
+  "speakers": [
+    "Victoria",
+    "Barbara",
+    "???",
+    "Albert",
+    "Paimon",
+    "Caishan",
+    "Uwe",
+    "Schulz",
+    "Herman",
+    "Susie"
+  ],
+  "id": "ch-101401"
+}

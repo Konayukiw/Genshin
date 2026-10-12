@@ -1,0 +1,3451 @@
+{
+  "chapter": "Hangout Event: Thoma",
+  "chapter_title": "A Housekeeper's Daily Chores",
+  "act": "Act 1",
+  "act_title": "A Housekeeper's Daily Chores",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19111",
+      "title": "Behind His Back",
+      "dialogue": [
+        {
+          "section": "Go to the place you and Thoma agreed on"
+        },
+        {
+          "s": 0,
+          "t": "Haven't seen Thoma in a while... Who knows what that guy's working on these days?"
+        },
+        {
+          "s": 1,
+          "t": "Probably something of the utmost importance, as ever... taking guests out for lavish meals, cleaning up around the house, the usual..."
+        },
+        {
+          "s": 0,
+          "t": "We have people like that to thank for the decline of the samurai spirit in this day and age. If you're just gonna schmooze your way through every problem in life, you might as well put your blade on the scrap heap. It's like everything — use it or lose it!"
+        },
+        {
+          "s": 0,
+          "t": "Also, I heard he's Mondstadt born and bred... just saying."
+        },
+        {
+          "s": 1,
+          "t": "Oh, well, no wonder. What do you think Miss Kamisato even sees in that guy?"
+        },
+        {
+          "sit": "Time to put a stop to this..."
+        },
+        {
+          "sit": "Let's leave them be..."
+        },
+        {
+          "s": 2,
+          "t": "*yawn*... Sorry, haven't slept too well the last couple of days on account of all this rain we've been having."
+        },
+        {
+          "s": 2,
+          "t": "Wait, what're you all doing here? Has something happened?"
+        },
+        {
+          "s": 0,
+          "t": "Hmph... we were just having a little chat on our break. It's time we were going — there's still lots to do."
+        },
+        {
+          "s": 0,
+          "t": "We're busy people, Thoma. You'd do well to grow a sense of urgency, too."
+        },
+        {
+          "s": 2,
+          "t": "Thank you gentlemen. I'll think about that when my vacation's over."
+        },
+        {
+          "s": 2,
+          "t": "Sorry I'm a little late, {NICKNAME}, something came up."
+        },
+        {
+          "sit": "You heard everything... didn't you?"
+        },
+        {
+          "s": 2,
+          "t": "Yep... I sure did."
+        },
+        {
+          "s": 2,
+          "t": "No big deal, though. People like to criticize those who don't fit in. It's the same everywhere."
+        },
+        {
+          "s": 2,
+          "t": "If a little private gossiping helps them let off some steam, well, good for them. It does no harm to the Kamisato Clan."
+        },
+        {
+          "s": 2,
+          "t": "Wouldn't you agree?"
+        },
+        {
+          "sit": "Sorry, I can't say I agree."
+        },
+        {
+          "s": 2,
+          "t": "Exactly. Or live and let live, as they say."
+        },
+        {
+          "s": 2,
+          "t": "Today it's time for a hard-earned rest. There's been so much to deal with since I got out of Komore Teahouse — this vacation's been a long time coming."
+        },
+        {
+          "s": 2,
+          "t": "There's too much going on here. Let's find somewhere more peaceful to discuss the plan for the day."
+        },
+        {
+          "s": 2,
+          "t": "You're still my guest, after all, and I'd like to hear your ideas."
+        },
+        {
+          "s": 2,
+          "t": "Oh?"
+        },
+        {
+          "sit": "It makes me uncomfortable."
+        },
+        {
+          "sit": "We should tell them how much you do for the Commission."
+        },
+        {
+          "s": 2,
+          "t": "I'm touched that that's how you see the situation."
+        },
+        {
+          "s": 2,
+          "t": "I don't think we need to go down that route, though... in any case, as a housekeeper, it's hardly my place to get all high and mighty with other staff in the Yashiro Commission."
+        },
+        {
+          "s": 2,
+          "t": "But you're my guest and I live to serve, so if you have any other thoughts on the matter, please do share them with me."
+        },
+        {
+          "s": 2,
+          "t": "I'm willing to give anything you suggest a shot — as long as it's a serious suggestion, of course."
+        },
+        {
+          "sit": "(I'll ask around at the Yashiro Commission...)"
+        },
+        {
+          "s": 2,
+          "t": "I'll be waiting for you right here. Just come and find me if you need anything."
+        }
+      ],
+      "description": "At Thoma's invitation, you come to the Yashiro Commission, only to hear two samurai talking about him behind his back..."
+    },
+    {
+      "id": "q-19112",
+      "title": "Host's Invitation",
+      "dialogue": [
+        {
+          "section": "Discuss hospitality with Thoma"
+        },
+        {
+          "s": 2,
+          "t": "I keep thinking, since I'm the host here, we ought to do something you'll enjoy."
+        },
+        {
+          "s": 2,
+          "t": "But despite that, I still haven't got a clear plan on where to take you."
+        },
+        {
+          "s": 2,
+          "t": "What do you usually prefer — indoor or outdoor activities?"
+        },
+        {
+          "sit": "Let's stay indoors."
+        },
+        {
+          "sit": "Let's head out."
+        },
+        {
+          "s": 2,
+          "t": "Sounds like a plan. I don't really feel like spending my day running all over the place, either."
+        },
+        {
+          "s": 2,
+          "t": "In which case, let's head to Komore Teahouse."
+        },
+        {
+          "s": 2,
+          "t": "There's nowhere better to sit and chat quietly with a pot of tea."
+        },
+        {
+          "s": 2,
+          "t": "I'll head over there now to get a few things prepared. Come and join me when you're ready."
+        },
+        {
+          "s": 2,
+          "t": "You want to go out for a stroll? Perfect, I have a couple of places I was going to recommend."
+        },
+        {
+          "s": 2,
+          "t": "If you like cats and dogs, there's a great place I can take you."
+        },
+        {
+          "s": 2,
+          "t": "I go there pretty much every time I have a day off. You can't help but be in a good mood when you're surrounded by cute animals."
+        },
+        {
+          "s": 2,
+          "t": "Failing that, we could go downtown if you'd prefer?"
+        },
+        {
+          "s": 2,
+          "t": "Narukami Island will be packed right now, so we could go to Ritou instead."
+        },
+        {
+          "s": 2,
+          "t": "Hehe, back to where we first met. I haven't been there in a long time, actually."
+        },
+        {
+          "s": 2,
+          "t": "Which one are you feeling? It's up to you."
+        },
+        {
+          "sit": "Let's hit the town."
+        },
+        {
+          "s": 2,
+          "t": "Haha, I had a feeling you'd pick that one, nice to know we share the same interests"
+        },
+        {
+          "s": 2,
+          "t": "There's a sakura tree in Hanamizaka where I go to feed them. Let's meet there in a short while."
+        },
+        {
+          "s": 2,
+          "t": "I need to go grab a few things — can't go there empty-handed..."
+        },
+        {
+          "s": 2,
+          "t": "Okay! Let's go straight there."
+        },
+        {
+          "s": 2,
+          "t": "I know Ritou pretty well, so I'll give you the grand tour."
+        },
+        {
+          "s": 2,
+          "t": "Today's a rare day off, so above all, let's enjoy ourselves!"
+        },
+        {
+          "sit": "Let's stay indoors."
+        },
+        {
+          "sit": "I wanna see these cats and dogs!"
+        }
+      ],
+      "description": "Thoma would like to do something for you to thank you for your help during the Vision Hunt Decree..."
+    },
+    {
+      "id": "q-19113",
+      "title": "Thanks for Your Hospitality!",
+      "dialogue": [
+        {
+          "section": "Look for Thoma at Komore Teahouse"
+        },
+        {
+          "s": 2,
+          "t": "Oh, welcome! It must've been a while since you were last here."
+        },
+        {
+          "s": 2,
+          "t": "Since it's about time to eat, I couldn't resist whipping up a little something for us."
+        },
+        {
+          "s": 2,
+          "t": "So please, help yourself. Hope you enjoy it."
+        },
+        {
+          "s": 2,
+          "t": "And... I can't claim to compete with the likes of Uyuu Restaurant's chef, but I think I did alright."
+        },
+        {
+          "s": 2,
+          "t": "What's wrong? You look shocked!"
+        },
+        {
+          "sit": "After that hot pot game, I figured self-sabotage was your cooking style..."
+        },
+        {
+          "s": 2,
+          "t": "Whoa, whoa, there's been a misunderstanding!"
+        },
+        {
+          "s": 2,
+          "t": "I admit, I may have added a few weird things to that hot pot. But it was just a game!"
+        },
+        {
+          "s": 2,
+          "t": "For normal meals, I cook normal dishes. I am a housekeeper, after all — wouldn't have gotten very far without a few culinary skills!"
+        },
+        {
+          "s": 2,
+          "t": "Anyway, please dig in. I won't get the chance to cook for you like this every day."
+        },
+        {
+          "s": 2,
+          "t": "Well, seems like my cooking has your seal of approval."
+        },
+        {
+          "sit": "Thanks for your hospitality."
+        },
+        {
+          "sit": "It was delicious!"
+        },
+        {
+          "s": 2,
+          "t": "You're welcome. When you're out adventuring on your own, you've got to maintain your quality of life."
+        },
+        {
+          "s": 2,
+          "t": "Take your cape, for example. I definitely see one or two loose threads there."
+        },
+        {
+          "s": 2,
+          "t": "If you ignore them, sooner or later the whole seam is going to come undone, and then you'll have a really tough time mending it."
+        },
+        {
+          "s": 2,
+          "t": "Let me sew it up for you later — I'm pretty handy with a needle and thread."
+        },
+        {
+          "s": 2,
+          "t": "Speaking of housekeeping — I can say with confidence that you won't find anyone as handy around the home as I am."
+        },
+        {
+          "s": 2,
+          "t": "Cleaning, cooking, and mending are among my greatest strengths. You can always feel free to hand me jobs like this."
+        },
+        {
+          "sit": "Housekeeping, huh..."
+        },
+        {
+          "sit": "If this is your strength..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? What is it?"
+        },
+        {
+          "sit": "You could run a housekeeping class for the Yashiro Commission!"
+        },
+        {
+          "sit": "This is how you can start winning more respect!"
+        },
+        {
+          "s": 2,
+          "t": "Wait... you're suggesting I teach housekeeping to the Yashiro Commission staff?"
+        },
+        {
+          "s": 2,
+          "t": "I'm not sure it would work... I doubt anyone would sign up for that class."
+        },
+        {
+          "s": 2,
+          "t": "I just don't think it's realistic to change people's perception of me by showcasing my housekeeping skills... I'm surprised that whole matter is still troubling you, actually."
+        },
+        {
+          "s": 2,
+          "t": "With that being said, finding an opportunity to share some housekeeping wisdom with the Yashiro Commission would certainly be in people's best interests."
+        },
+        {
+          "s": 2,
+          "t": "Life maintenance is important. You have to look after yourself if you're going to bring your best self to your work."
+        },
+        {
+          "s": 2,
+          "t": "You know what? Let's give it a try! But first, how do you think I should promote it?"
+        },
+        {
+          "s": 2,
+          "t": "You think so? In that case, I need to prepare."
+        },
+        {
+          "s": 2,
+          "t": "If I'm going to end up with a lot of students, I should make sure I have all the supplies I need for the class."
+        },
+        {
+          "s": 2,
+          "t": "Tables and chairs I can sort out easily enough, but I'll need to stock up on materials and ingredients for the textiles and cookery segments..."
+        },
+        {
+          "sit": "I can handle that."
+        },
+        {
+          "s": 2,
+          "t": "Are you sure? That'd be greatly appreciated. Umm, let's see... to start with, I'll be needing Lavender Melon, Fowl, and Flour."
+        },
+        {
+          "s": 2,
+          "t": "Once we have all our essentials, we can figure out the next steps."
+        },
+        {
+          "s": 2,
+          "t": "I really hope everything goes smoothly..."
+        },
+        {
+          "s": 2,
+          "t": "Alright then. If we're only opening this up to Yashiro Commission staff, it shouldn't take too much preparation."
+        },
+        {
+          "s": 2,
+          "t": "Tables and chairs I can sort out easily enough, but we'll need to think some more about how exactly to promote this."
+        },
+        {
+          "s": 2,
+          "t": "Let's start by asking around at the Yashiro Commission headquarters."
+        }
+      ],
+      "description": "Thoma heads to Komore Teahouse first. He seems to be preparing something..."
+    },
+    {
+      "id": "q-19114",
+      "title": "Start Spreadin' the News",
+      "dialogue": [
+        {
+          "section": "Gather 1 serving of Lavender Melon, Fowl, and Flour each"
+        },
+        {
+          "s": 3,
+          "t": "Welcome to Ogura Textiles & Kimo... Oh! Hi, Thoma! What brings you here?"
+        },
+        {
+          "s": 3,
+          "t": "Looking to buy some fabric? We have a new batch in — it's a great choice if you're looking to make loungewear..."
+        },
+        {
+          "s": 2,
+          "t": "It sounds interesting, I'll take a look! But, the main reason I'm here today, though, is to pick your brain about something."
+        },
+        {
+          "s": 3,
+          "t": "Oh? And what might that be?"
+        },
+        {
+          "s": 2,
+          "t": "Well, we're thinking of starting a housekeeping class."
+        },
+        {
+          "s": 2,
+          "t": "Problem is, I'm not sure where to go looking for students. So I was wondering if you might help me spread the word."
+        },
+        {
+          "s": 2,
+          "t": "Among other things, I'll be teaching some handy sewing techniques. So, providing everything goes smoothly, I'll be needing to buy quite a lot of fabric from your store."
+        },
+        {
+          "s": 2,
+          "t": "Do you think you'd be able to lend a hand?"
+        },
+        {
+          "s": 3,
+          "t": "Of course, it'd be my pleasure! And thank you for supporting my business, Thoma."
+        },
+        {
+          "s": 3,
+          "t": "As it happens, several of my regular customers do have an interest in housekeeping."
+        },
+        {
+          "s": 3,
+          "t": "After I've closed up for the day, I'll go and talk to them for you. I'm almost certain that they'll want to sign up."
+        },
+        {
+          "s": 3,
+          "t": "The only thing is, I'm not sure there's enough of them for a whole class... Ah, I know — Yuuko is supposed to be very well connected in the community. Why don't you go and ask her?"
+        },
+        {
+          "s": 2,
+          "t": "Yuuko? Hmm... I'm sure I've heard that name somewhere before."
+        },
+        {
+          "s": 2,
+          "t": "So she has an interest in housekeeping?"
+        },
+        {
+          "s": 3,
+          "t": "If I remember correctly, she mentioned in conversation once that she's tried knitting a sweater a few times, but just can't get the hang of it."
+        },
+        {
+          "s": 3,
+          "t": "With your housekeeping expertise, I'm sure you'd be able to get her interested."
+        },
+        {
+          "s": 2,
+          "t": "Great. Thanks for all your help, Miss Ogura."
+        },
+        {
+          "s": 2,
+          "t": "Alright, let's go try our luck with Yuuko, {NICKNAME}."
+        },
+        {
+          "section": "Advertise the housekeeping course to the city merchants"
+        },
+        {
+          "s": 4,
+          "t": "Honestly, my husband doesn't lift a finger around the house..."
+        },
+        {
+          "s": 4,
+          "t": "The moment he's home on his day off, it's shoes off and straight to bed so he can just lie there doing nothing."
+        },
+        {
+          "s": 5,
+          "t": "*sigh* I have one of those at home, as well..."
+        },
+        {
+          "s": 5,
+          "t": "I know his work is tiring, but recently I've been really struggling with all the housework. It's starting to give me a backache."
+        },
+        {
+          "s": 4,
+          "t": "They act like it's our job just because we do it. But nobody trained us either..."
+        },
+        {
+          "s": 2,
+          "t": "Hello, ladies. Might I ask which one of you is Yuuko?"
+        },
+        {
+          "s": 4,
+          "t": "That would be me. Sorry, I don't believe I've had the pleasure."
+        },
+        {
+          "s": 2,
+          "t": "I'm Thoma, the housekeeper for the Yashiro Commission."
+        },
+        {
+          "s": 2,
+          "t": "We're looking to start a housekeeping class at the Commission headquarters. I was just wondering whether that might be something that interests you."
+        },
+        {
+          "s": 4,
+          "t": "Housekeeping? As a class?"
+        },
+        {
+          "s": 2,
+          "t": "That's right, yes. We'll be teaching a whole bunch of handy housework tips and tricks. Sweeping, mopping, laundry, cookery, you know, that sort of thing. All based on my years of experience as a housekeeper."
+        },
+        {
+          "s": 2,
+          "t": "The class is free, of course. The only cost to you is the materials used during the class."
+        },
+        {
+          "s": 4,
+          "t": "What do you think?"
+        },
+        {
+          "s": 5,
+          "t": "I think this is suspiciously coincidental..."
+        },
+        {
+          "s": 2,
+          "t": "Well, I'll be straight with you, ladies... I believe the classes are free for a limited time only, right {NICKNAME}?"
+        },
+        {
+          "sit": "That's right."
+        },
+        {
+          "sit": "If I were you, I'd take the chance while it's there."
+        },
+        {
+          "s": 2,
+          "t": "So far, attendance has been a little on the slow side, so we decided to start offering free trial classes. In other words, we won't charge you for the first few classes you attend."
+        },
+        {
+          "s": 2,
+          "t": "After the trial period comes to an end and if you're still satisfied with the results, you can book more classes for yourself and complete the rest of the course. I'll be sure to give you a favorable price."
+        },
+        {
+          "s": 4,
+          "t": "I see... It certainly sounds reasonable."
+        },
+        {
+          "s": 4,
+          "t": "But I have a question... Is this class restricted to women only?"
+        },
+        {
+          "s": 2,
+          "t": "Not at all! It's open to people of all genders and ages. The way I see it, housework comprises an essential set of skills that no one can afford to be without."
+        },
+        {
+          "s": 2,
+          "t": "You've got to know how to look after yourself. Life should come before work, don't you think?"
+        },
+        {
+          "s": 4,
+          "t": "Well said. In that case, I'll bring my husband along. Sounds like he could learn a thing or two from you."
+        },
+        {
+          "s": 5,
+          "t": "Me too!"
+        },
+        {
+          "s": 5,
+          "t": "Oh, and while you're at it, have you thought about asking Nagano?"
+        },
+        {
+          "s": 5,
+          "t": "I'm sure older folks like him would have time to attend. The more the merrier, right?"
+        },
+        {
+          "s": 4,
+          "t": "Thank you, Thoma. Please excuse us."
+        },
+        {
+          "s": 2,
+          "t": "Alright, I'll see if I can convince the older folks to come along and make up the numbers."
+        },
+        {
+          "section": "Advertise the housekeeping course to the city housewives"
+        },
+        {
+          "s": 6,
+          "t": "Housekeeping class, eh..."
+        },
+        {
+          "s": 6,
+          "t": "I was handy around the home back in the day. Sadly, the older I get, the fewer things I'm able to do myself."
+        },
+        {
+          "s": 6,
+          "t": "You're very young. Are you quite sure you're up to the task of teaching housekeeping? It's not as easy as you might think."
+        },
+        {
+          "sit": "Thoma is a housekeeping expert."
+        },
+        {
+          "sit": "Don't underestimate Thoma!"
+        },
+        {
+          "s": 2,
+          "t": "I will do my very best."
+        },
+        {
+          "s": 2,
+          "t": "As housekeeper for the Kamisato Clan, I've been honing my craft for a long time now. I believe I'm up to the task."
+        },
+        {
+          "s": 6,
+          "t": "Very good, young man! Well then, I shall have to come and see for myself."
+        },
+        {
+          "s": 6,
+          "t": "If you are as good as you claim to be, I will encourage everyone I know to attend your classes. And if I find your skills to be lacking, I will be quite happy to teach a few things myself."
+        },
+        {
+          "s": 2,
+          "t": "What can I say — we'll be honored to have you in attendance, Sir."
+        },
+        {
+          "s": 2,
+          "t": "Well then... that will probably just about do it as far as promotion is concerned. Let's head back to the Yashiro Commission, {NICKNAME}."
+        },
+        {
+          "section": "Advertise the housekeeping course to the city's senior folk"
+        },
+        {
+          "s": 2,
+          "t": "Welcome, one and all. This is my first time teaching a housekeeping class, just as, I'm sure, it's your first time attending one."
+        },
+        {
+          "s": 2,
+          "t": "I'd like to start from the theory, if I may, and talk a little bit about why mastering the discipline of housekeeping is such an important thing."
+        },
+        {
+          "s": 3,
+          "t": "Quick, come in, Thoma's started the class already."
+        },
+        {
+          "sit": "There's so many people..."
+        },
+        {
+          "sit": "Everyone looks keen to learn."
+        },
+        {
+          "s": 3,
+          "t": "Well, of course. No one's ever held a class like this in the past."
+        },
+        {
+          "s": 3,
+          "t": "I saved you a place. Please take a seat."
+        },
+        {
+          "s": 2,
+          "t": "The way I see it, housekeeping is a unique skillset that empowers you to set your life in order."
+        },
+        {
+          "s": 2,
+          "t": "Nowhere are these skills more pertinent than in the context of a marital relationship. In a marriage, the lives of two people become closely intertwined."
+        },
+        {
+          "s": 2,
+          "t": "If you can't look after yourself properly, that burden ends up being shouldered by your partner. This, in turn, will start to take a toll upon the relationship..."
+        },
+        {
+          "s": 2,
+          "t": "Umm... huh, what are you doing here?"
+        },
+        {
+          "s": 0,
+          "t": "What the..."
+        },
+        {
+          "s": 1,
+          "t": "Huh?"
+        },
+        {
+          "s": 4,
+          "t": "I brought him. Didn't you say men can study housekeeping too?"
+        },
+        {
+          "s": 5,
+          "t": "Wipe that look off your face! Aren't you going to greet the teacher?"
+        },
+        {
+          "s": 0,
+          "t": "No, it's... I..."
+        },
+        {
+          "s": 4,
+          "t": "Darling?"
+        },
+        {
+          "s": 0,
+          "t": "H—Hello, teacher."
+        },
+        {
+          "s": 1,
+          "t": "For the love of... Hello, teacher."
+        },
+        {
+          "s": 2,
+          "t": "Well hello, and welcome. Now that you're here, I expect you to pay attention and work hard."
+        },
+        {
+          "s": 2,
+          "t": "Well, let's keep going. Housekeeping is not difficult per se — the difficult part is consistency: keeping on top of it over a long stretch of time."
+        },
+        {
+          "s": 2,
+          "t": "To keep up with housework on an ongoing basis, you either have to love everything about it, or you need a few tricks up your sleeve to make things easier. So, for today's topic, we're going to focus on \"How to make light work... of housework!\""
+        },
+        {
+          "sit": "(Thoma is taking to this quite well...)"
+        },
+        {
+          "sit": "(So far so good.)"
+        },
+        {
+          "s": 2,
+          "t": "Excuse me, you over there. Focus, please."
+        },
+        {
+          "s": 2,
+          "t": "I like to see active engagement in my lessons."
+        },
+        {
+          "s": 2,
+          "t": "That is unless some of you are looking to stay behind after class to catch up..."
+        },
+        {
+          "section": "Go to the Yashiro Commission to take part in the housekeeping course"
+        },
+        {
+          "s": 2,
+          "t": "To be honest, with this being my first time holding a class, I've got no idea how many people to expect."
+        },
+        {
+          "s": 2,
+          "t": "I just hope it goes well. Anyway, tonight I'll set up the tables and chairs, then tomorrow we can meet back at the Yashiro Commission headquarters."
+        },
+        {
+          "s": 2,
+          "t": "So, what do you think the turnout will be like, {NICKNAME}?"
+        },
+        {
+          "sit": "I'm sure lots of people will come."
+        },
+        {
+          "s": 2,
+          "t": "I sure hope so. We promoted it pretty hard, after all."
+        },
+        {
+          "s": 2,
+          "t": "This is the weirdest feeling. Housekeeping has always been something I do alone, but now I'm about to face a class full of students."
+        },
+        {
+          "s": 2,
+          "t": "You'd better show up to class tomorrow!"
+        },
+        {
+          "sit": "I'm not super optimistic..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, truth be told, I'm a little nervous myself."
+        },
+        {
+          "s": 2,
+          "t": "But I'm sure it will turn out okay. We put in the legwork, after all."
+        },
+        {
+          "s": 2,
+          "t": "Guess we'll have to wait and see what tomorrow brings. As for tonight, I need a good rest."
+        },
+        {
+          "s": 2,
+          "t": "See you tomorrow, {NICKNAME}!"
+        },
+        {
+          "section": "Return to the Yashiro Commission to make final preparations"
+        },
+        {
+          "s": 2,
+          "t": "Great, that's all the ingredients we need. Time to hit the streets and launch our grand advertising campaign."
+        },
+        {
+          "s": 2,
+          "t": "As it happens, I know someone in town who runs a textiles business. I'm sure she must know lots of people interested in housekeeping."
+        },
+        {
+          "s": 2,
+          "t": "So let's pay her a visit."
+        },
+        {
+          "section": "Wait until the following day (08:00 – 24:00)"
+        },
+        {
+          "s": 2,
+          "t": "I don't think we've got enough..."
+        },
+        {
+          "s": 2,
+          "t": "I'll need Lavender Melon, Fowl, and Flour. Thanks again in advance."
+        },
+        {
+          "section": "Give the housekeeping course materials you collected to Thoma"
+        },
+        {
+          "s": 6,
+          "t": "If you are as good as you claim to be, I will encourage everyone I know to attend your classes. And if I find your skills to be lacking, I will be quite happy to teach a few things myself."
+        },
+        {
+          "s": 2,
+          "t": "What can I say — we'll be honored to have you in attendance, Sir."
+        },
+        {
+          "s": 2,
+          "t": "Well then... that will probably just about do it as far as promotion is concerned. Let's head back to the Yashiro Commission, {NICKNAME}."
+        }
+      ],
+      "description": "Help Thoma advertise his housekeeping course to attract more people to come."
+    },
+    {
+      "id": "q-19115",
+      "title": "Small-Scale Changes",
+      "dialogue": [
+        {
+          "section": "Advertise the housekeeping course to Furuta"
+        },
+        {
+          "s": 7,
+          "t": "Ah, Thoma and a guest. This is a rare combination."
+        },
+        {
+          "s": 7,
+          "t": "Has something happened?"
+        },
+        {
+          "s": 2,
+          "t": "Not at all! We were just... thinking of starting a housekeeping class."
+        },
+        {
+          "s": 7,
+          "t": "A housekeeping class? How wonderful. Do you know, I've always wanted to have Koharu learn from you. Finally, the time has come."
+        },
+        {
+          "s": 7,
+          "t": "I'm guessing you intend to open the class up to the whole Yashiro Commission? Not just housekeeping staff and servants, right?"
+        },
+        {
+          "s": 7,
+          "t": "In which case, why don't you do a big spring-clean of the Commission itself? It would be a great way to showcase your methods."
+        },
+        {
+          "s": 7,
+          "t": "Seeing is believing, after all. You could spend a long time trying to convince them with words alone — or you could let them see you in action with their own eyes."
+        },
+        {
+          "sit": "Sounds like a good idea, actually..."
+        },
+        {
+          "sit": "Are you sure this is a good idea?"
+        },
+        {
+          "s": 2,
+          "t": "I like Furuta's suggestion, and it's not like we have a better idea anyway."
+        },
+        {
+          "s": 2,
+          "t": "In which case, heck, why not — let's showcase the appeal of housekeeping for all in the Yashiro Commission to see!"
+        },
+        {
+          "s": 2,
+          "t": "Let's get started, {NICKNAME}!"
+        },
+        {
+          "section": "Complete the housekeeping tasks within the time limit"
+        },
+        {
+          "s": 2,
+          "t": "Welcome, {NICKNAME}!"
+        },
+        {
+          "sit": "Not many people have showed up..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, don't be too upset. This is normal."
+        },
+        {
+          "s": 2,
+          "t": "With things like this, you can't expect to change people's views overnight. It takes time and effort."
+        },
+        {
+          "s": 2,
+          "t": "Well then, looks like I'm all yours for this class. I mentioned earlier about sewing up your clothes for you, didn't I?"
+        },
+        {
+          "s": 2,
+          "t": "I also want to take this opportunity to teach you how to knit a sweater. That way, you'll be able to make yourself some warm clothes before the winter comes."
+        },
+        {
+          "sit": "I didn't manage to get you the respect you deserved..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, the fact that you're so ready to look out for me has already made me very happy."
+        },
+        {
+          "s": 2,
+          "t": "But really, it doesn't bother me at all. Once in a while, someone takes issue with my background, interests, or the nature of my work, and that's okay. You can't expect everyone in life to see things the way you do."
+        },
+        {
+          "s": 2,
+          "t": "People are always going to talk. It's in their nature, and you can't do much to stop them. I don't mind what they say about me — what I care about is the wellbeing of the Kamisato Clan."
+        },
+        {
+          "s": 2,
+          "t": "But that's enough about all that. Come on, grab your needle and let's get knitting."
+        },
+        {
+          "s": 2,
+          "t": "Let's start with a classic stockinette stitch. First, wrap the yarn around, pull it through here, then hang it on the needle..."
+        },
+        {
+          "s": 2,
+          "t": "Put your thumb on the yarn here, index finger here, and pull it tight."
+        },
+        {
+          "sit": "Like this?"
+        },
+        {
+          "s": 2,
+          "t": "You learn pretty quick! But you need to pay close attention to this..."
+        },
+        {
+          "s": 2,
+          "t": "Exactly, just like that. Now, set yourself a small goal to start with, for example, knit a scarf by the time winter arrives."
+        },
+        {
+          "s": 2,
+          "t": "Scarves are always a great choice. When it's finished, you can either wear it yourself, or gift it to a friend!"
+        },
+        {
+          "s": 2,
+          "t": "Just imagining it warms my heart."
+        },
+        {
+          "section": "Go to the Yashiro Commission to take part in the housekeeping course"
+        },
+        {
+          "s": 2,
+          "t": "Whew... the whole Yashiro Commission looks as good as new."
+        },
+        {
+          "s": 2,
+          "t": "We had a lot of spectators, huh. I wonder if we managed to get any of them interested."
+        },
+        {
+          "s": 2,
+          "t": "Either way, thanks for your help, {NICKNAME}."
+        },
+        {
+          "s": 2,
+          "t": "I usually handle all of this stuff on my own. Having you join me today was a pretty great experience."
+        },
+        {
+          "sit": "It's nothing."
+        },
+        {
+          "sit": "Fingers crossed your class goes well."
+        },
+        {
+          "s": 2,
+          "t": "Here's hoping! I'll set out some tables and chairs tonight. I've got no idea how many people will show up tomorrow."
+        },
+        {
+          "s": 2,
+          "t": "Make sure you get some good rest tonight. I'll see you tomorrow!"
+        },
+        {
+          "section": "Wait until the following day (08:00 – 24:00)"
+        },
+        {
+          "s": 8,
+          "t": "Housekeeping, you say..."
+        },
+        {
+          "s": 8,
+          "t": "You know, since it's Thoma teaching, I'd definitely be up for going."
+        },
+        {
+          "s": 8,
+          "t": "Unfortunately, I have quite a lot going on over the next couple of days... but could I swing by once my schedule's freed up? I'd definitely like to give it a try."
+        },
+        {
+          "s": 2,
+          "t": "No problem at all. You can join whenever you like."
+        },
+        {
+          "s": 8,
+          "t": "Thanks, Thoma!"
+        },
+        {
+          "s": 8,
+          "t": "Also, this isn't really my place, but if you're starting a housekeeping class — haven't you thought about asking Furuta?"
+        },
+        {
+          "s": 8,
+          "t": "As the Kamisato Clan's butler, I'm sure she'd know a lot about housekeeping."
+        },
+        {
+          "sit": "Sounds like someone we should speak to."
+        },
+        {
+          "s": 2,
+          "t": "Sure, let's go pay her a visit."
+        },
+        {
+          "s": 2,
+          "t": "Let's hope this goes smoothly..."
+        },
+        {
+          "section": "Housekeeping Challenging: Plant-Watering"
+        },
+        {
+          "s": 8,
+          "t": "As the Kamisato Clan's butler, I'm sure she'd know a lot about housekeeping."
+        },
+        {
+          "sit": "Sounds like someone we should speak to."
+        },
+        {
+          "s": 2,
+          "t": "Sure, let's go pay her a visit."
+        },
+        {
+          "s": 2,
+          "t": "Let's hope this goes smoothly..."
+        }
+      ],
+      "description": "Help Thoma advertise his housekeeping course at the Yashiro Commission to attract even more people to come."
+    },
+    {
+      "id": "q-19116",
+      "title": "Under the Same Shade",
+      "dialogue": [
+        {
+          "section": "Meet Thoma at the place where stray cats and dogs gather"
+        },
+        {
+          "s": 2,
+          "t": "This is a pretty good spot, right?"
+        },
+        {
+          "s": 2,
+          "t": "There are tons of stray cats and dogs here at the outskirts. Every time I come to Komore Teahouse, I bring some food for them."
+        },
+        {
+          "s": 2,
+          "t": "It just sort of became a tradition over time... at first it was a bit of a chore, but the more time I spent with them, the more I came to enjoy it."
+        },
+        {
+          "sit": "They seem to like you a lot."
+        },
+        {
+          "s": 2,
+          "t": "You think so? Well, feed them enough times, and I'm sure you'll win their affection, too."
+        },
+        {
+          "s": 2,
+          "t": "Not only that, you'll also start to feel that they're your responsibility. Whenever you have any free time, you'll find yourself desperate to come and visit them."
+        },
+        {
+          "s": 2,
+          "t": "Why don't you try feeding them, {NICKNAME}?"
+        },
+        {
+          "s": 2,
+          "t": "I brought some of their favorite food just so you can get into their good graces."
+        },
+        {
+          "sit": "Okay, I guess I'll try."
+        },
+        {
+          "sit": "Is it definitely safe?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry, I've trained them to not be aggressive toward humans."
+        },
+        {
+          "s": 2,
+          "t": "They'll still run away if they find someone threatening, but I'm pretty sure they'll like you."
+        },
+        {
+          "s": 2,
+          "t": "You're an approachable person, and they can tell. Animals are very sensitive to these things."
+        },
+        {
+          "section": "Feed the strays"
+        },
+        {
+          "s": 2,
+          "t": "That didn't take long. Look at that, best buds already!"
+        },
+        {
+          "s": 2,
+          "t": "Some of the dogs are even showing their bellies — that's a sign they really trust you."
+        },
+        {
+          "s": 2,
+          "t": "Well, you'll rarely see Taroumaru roll onto his back, though. He's a ninja dog, so he's always on guard in case an enemy approaches..."
+        },
+        {
+          "s": 2,
+          "t": "Speaking of ninja dogs, I actually saw one the other day on the beach north of Konda Village."
+        },
+        {
+          "sit": "Why would there be ninja dogs in the wild?"
+        },
+        {
+          "s": 2,
+          "t": "That's the thing. They rarely go off on their own. Usually, they stick with their human ninja partners."
+        },
+        {
+          "s": 2,
+          "t": "After retiring, most ninja dogs are taken in by their partner. Or sometimes, someone else in the Yashiro Commission will take them in."
+        },
+        {
+          "s": 2,
+          "t": "It's extremely rare to find them on their own in the wild. So it makes me a little concerned."
+        },
+        {
+          "sit": "Why don't you adopt it?"
+        },
+        {
+          "sit": "We could adopt it together?"
+        },
+        {
+          "s": 2,
+          "t": "Haha, believe me, I wanted to bring it back to the Yashiro Commission. But it wouldn't let me."
+        },
+        {
+          "s": 2,
+          "t": "I tried establishing some trust by petting it on the head, but it gave me a nasty bite."
+        },
+        {
+          "s": 2,
+          "t": "Still, I don't wanna give up on it... Nobody really goes out that way, and I don't know what it would have to eat out there."
+        },
+        {
+          "sit": "Why don't we go and see it together?"
+        },
+        {
+          "s": 2,
+          "t": "That would be great. Even though it's not the most approachable dog, I still want to give it another try."
+        },
+        {
+          "s": 2,
+          "t": "It seems to sit in the same spot on the beach all day, only moving to take a few paces back when the tide comes in. Last time I saw it, its fur was soaking wet."
+        },
+        {
+          "s": 2,
+          "t": "Ultimately, bringing it back to the Yashiro Commission is going to be a lot better for it than leaving it sitting out in the elements all day."
+        },
+        {
+          "s": 2,
+          "t": "Or... we could even bring it back to Komore Teahouse, to make friends with Taroumaru..."
+        },
+        {
+          "s": 2,
+          "t": "Well, let's see if we even get that far."
+        },
+        {
+          "s": 2,
+          "t": "That's a good idea."
+        },
+        {
+          "s": 2,
+          "t": "It was in a very aggressive mood the last time I saw it. I'm worried it might bite you if we tried to approach it, though."
+        },
+        {
+          "s": 2,
+          "t": "Let's wait until it's in need before going to its aid — that's probably safer."
+        },
+        {
+          "s": 2,
+          "t": "But back to our other animal friends. Now that the weather's getting colder, I'm wondering whether I should knit some sweaters for these strays."
+        },
+        {
+          "s": 2,
+          "t": "Problem is, most of them don't actually like being touched, so I can't take their measurements very easily."
+        },
+        {
+          "sit": "We could photograph them?"
+        },
+        {
+          "s": 2,
+          "t": "That's not a bad idea! We could take photos of them from different angles, then work out their measurements by using other objects in the picture as a reference..."
+        },
+        {
+          "s": 2,
+          "t": "See, you're the real fixer here. Let's give it a try!"
+        },
+        {
+          "s": 2,
+          "t": "Just place some food here, and they'll come running."
+        }
+      ],
+      "description": "There are many stray cats and dogs gathered under the sakura tree that Thoma saw."
+    },
+    {
+      "id": "q-19117",
+      "title": "Ninken by the Shore",
+      "dialogue": [
+        {
+          "section": "Look for the ninken that has wandered off into the wild"
+        },
+        {
+          "s": 2,
+          "t": "Oh... see it? It's that one, just up ahead."
+        },
+        {
+          "s": 2,
+          "t": "Judging by the breed and apparel, it definitely is a ninja dog from the Shuumatsuban."
+        },
+        {
+          "s": 2,
+          "t": "It's looking a little more docile today. Shall we try and get closer?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, uh, you should stay a few paces behind me. I know it looks calm, but if it gets riled up, it could pounce and bite in an instant."
+        },
+        {
+          "s": 2,
+          "t": "Here doggy, good doggy... you hungry my friend? I brought you a nice little snack..."
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof! *growl*"
+        },
+        {
+          "s": 2,
+          "t": "You're a vicious little thing, aren't you? You almost bit me again!"
+        },
+        {
+          "s": 2,
+          "t": "Look at you, wasting away... you must wanna eat a little something?"
+        },
+        {
+          "s": 2,
+          "t": "You don't have to come back with us, but c'mon — a dog's gotta eat, right?"
+        },
+        {
+          "s": 2,
+          "t": "You're not worried it's poisoned, are you? Here, I'll take the first bite."
+        },
+        {
+          "s": 2,
+          "t": "See? Delicious and poison-free."
+        },
+        {
+          "sit": "Thoma..."
+        },
+        {
+          "sit": "You're really putting yourself out there..."
+        },
+        {
+          "s": 2,
+          "t": "Come on, just have a bite. A little tiny bite, and then I'll leave you alone, how's that sound?"
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof, woof!"
+        },
+        {
+          "s": 2,
+          "t": "Looks like it has zero intention of eating the food we brought... Is it just me, or does it look kind of on edge?"
+        },
+        {
+          "s": 2,
+          "t": "Maybe it's something in the sea... Or something nearby that's got him on alert."
+        },
+        {
+          "sit": "Those monsters, perhaps?"
+        },
+        {
+          "s": 2,
+          "t": "You think he was attacked by monsters... Hmm, it's possible."
+        },
+        {
+          "s": 2,
+          "t": "People do tend to lose their appetite in dangerous situations. Maybe it's the same for dogs, too. Let's clear out the area on behalf of our canine companion here."
+        },
+        {
+          "s": 2,
+          "t": "Thanks for helping out. This place should be a little more tranquil now, {NICKNAME}."
+        },
+        {
+          "section": "Clear out the nearby monsters"
+        },
+        {
+          "s": 2,
+          "t": "Here doggy, look — no more danger."
+        },
+        {
+          "s": 2,
+          "t": "You've gotta wanna eat a little something now? Come on, eat up, then let's get you back to Komore Teahouse."
+        },
+        {
+          "s": 2,
+          "t": "Whatever's on your mind, you can tell me and Taroumaru all about it."
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof! *growl*"
+        },
+        {
+          "sit": "It still doesn't want to cooperate."
+        },
+        {
+          "sit": "Looks like we failed..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* Rejected again."
+        },
+        {
+          "s": 2,
+          "t": "And there I was thinking that I was the one it didn't like. I didn't expect it to be so on edge around you, too."
+        },
+        {
+          "s": 2,
+          "t": "Well, to me, this proves that it simply doesn't want to leave this place. For now, let's not force it."
+        },
+        {
+          "s": 2,
+          "t": "Time to head back to the Yashiro Commission headquarters. I'll see if I can find its owner, so they can come and collect it."
+        },
+        {
+          "sit": "But it's from the Shuumatsuban..."
+        },
+        {
+          "s": 2,
+          "t": "That's right — the Shuumatsuban only answer to the Yashiro Commissioner, Kamisato Ayato. Under most circumstances, no one else has the authority to inquire into their business."
+        },
+        {
+          "s": 2,
+          "t": "However, I was talking to Commissioner Ayato a while back, and he agreed to let me bend the rules in exceptional circumstances."
+        },
+        {
+          "s": 2,
+          "t": "That doesn't mean I can mobilize the Shuumatsuban to do my bidding, of course. But I'll be able to get the intel we need, no problem. It's sort of a prerogative I have."
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof, woof, woof!"
+        },
+        {
+          "s": 2,
+          "t": "Alright, there's a good dog, calm down. We're not gonna take you away."
+        },
+        {
+          "s": 2,
+          "t": "It's much safer here now, see? We're gonna leave now, make sure to give yourself a good rest."
+        },
+        {
+          "s": 2,
+          "t": "Alright, let's go, {NICKNAME}."
+        },
+        {
+          "section": "Observe the ninken's responses"
+        },
+        {
+          "s": 10,
+          "t": "This ninja dog you speak of... it rings a bell."
+        },
+        {
+          "s": 10,
+          "t": "Could I trouble you to describe it again for me?"
+        },
+        {
+          "s": 2,
+          "t": "A red Shiba, with a scar on its eye, dressed in black stealth wear..."
+        },
+        {
+          "s": 10,
+          "t": "Ah, I think I know. You must be talking about Inu Shoushou."
+        },
+        {
+          "sit": "\"Inu Shoushou\"?"
+        },
+        {
+          "sit": "Is that its name?"
+        },
+        {
+          "s": 10,
+          "t": "That's right. I'm really surprised that's where you found him..."
+        },
+        {
+          "s": 2,
+          "t": "Perfect! Now that we've figured out his identity, we can get its owner to go and collect it."
+        },
+        {
+          "s": 2,
+          "t": "I should add, it's never good to have dogs run away like this. The poor thing's out there all on his own with no real food or shelter, day and night."
+        },
+        {
+          "s": 2,
+          "t": "So, shall we go find the owner and see if they have time to fetch him?"
+        },
+        {
+          "s": 10,
+          "t": "I'm sorry. That won't be possible."
+        },
+        {
+          "s": 2,
+          "t": "Why?"
+        },
+        {
+          "s": 10,
+          "t": "I'm afraid I can't disclose the owner's identity."
+        },
+        {
+          "s": 10,
+          "t": "What I can tell you is they went out to sea on a dangerous mission, and... he won't be coming back."
+        },
+        {
+          "s": 10,
+          "t": "I had no idea that he hadn't taken Inu Shoushou along with him. Seems he decided to face this one alone."
+        },
+        {
+          "s": 10,
+          "t": "I can only assume that Inu Shoushou is waiting for his owner to come back, which is why he refuses to move from the beach..."
+        },
+        {
+          "sit": "But that means..."
+        },
+        {
+          "sit": "Inu Shoushou will be waiting forever..."
+        },
+        {
+          "s": 2,
+          "t": "Did Inu Shoushou's owner leave anything behind?"
+        },
+        {
+          "s": 2,
+          "t": "You know, any personal items, or a Shuumatsuban uniform perhaps?"
+        },
+        {
+          "s": 10,
+          "t": "Most of his possessions disappeared along with the man himself. The only thing I can think of is the Kunai he used to train with."
+        },
+        {
+          "s": 10,
+          "t": "Come with me. I'll see if I can find it for you."
+        },
+        {
+          "s": 10,
+          "t": "Ah, yes, this looks like the one."
+        },
+        {
+          "s": 10,
+          "t": "The reason this Kunai stands out in my memory is because when he first joined the Shuumatsuban, he trained at it harder than anyone else, to the point where the tip became blunt from erosion."
+        },
+        {
+          "s": 10,
+          "t": "Take it. The Shuumatsuban will make sure to cover Inu Shoushou's daily expenses."
+        },
+        {
+          "s": 2,
+          "t": "Thank you kindly. Let's just hope Inu Shoushou remembers the scent of this Kunai... Then again, I'm certain he will."
+        },
+        {
+          "s": 2,
+          "t": "Let's go pay Inu Shoushou another visit, {NICKNAME}."
+        },
+        {
+          "section": "Go to the Yashiro Commission to ask about the ninken's master"
+        },
+        {
+          "s": 2,
+          "t": "Hey, Inu Shoushou..."
+        },
+        {
+          "s": 11,
+          "t": "Woof! ...Woof?"
+        },
+        {
+          "s": 2,
+          "t": "I know, I know, how come this strange man suddenly knows your name?"
+        },
+        {
+          "s": 2,
+          "t": "You're waiting for your master to come home, aren't you? Mind if we wait with you?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry, we're not looking to suddenly whisk you away. Look at this, do you know what it is?"
+        },
+        {
+          "s": 11,
+          "t": "Woof, woof! Woof!"
+        },
+        {
+          "s": 2,
+          "t": "As I thought. You remember."
+        },
+        {
+          "sit": "Inu Shoushou..."
+        },
+        {
+          "sit": "He seems to be more affectionate this time."
+        },
+        {
+          "s": 2,
+          "t": "Excellent. It looks like what he needed wasn't for us to take him away, but for us to accompany him."
+        },
+        {
+          "s": 2,
+          "t": "You know, I sometimes did this too, when I first arrived in Inazuma. I just stood on the beach, looking out at the horizon."
+        },
+        {
+          "s": 2,
+          "t": "Everyone has people and events from their past that they look back on fondly. I guess we only grow when we realize that those things aren't coming back."
+        },
+        {
+          "s": 2,
+          "t": "The Shuumatsuban is not a peaceful organization, and being a ninja is an extremely dangerous profession."
+        },
+        {
+          "s": 2,
+          "t": "Many of the Shuumatsuban's ninjas have paid the ultimate price in the course of carrying out top-secret missions. The Shuumatsuban never discloses their identities, and doesn't publicly commemorate them."
+        },
+        {
+          "s": 2,
+          "t": "But at least now, Inu Shoushou, you're not the only one in the world who remembers him."
+        },
+        {
+          "s": 2,
+          "t": "From today onward, we will join you in honoring his memory."
+        },
+        {
+          "s": 11,
+          "t": "Woof..."
+        },
+        {
+          "s": 2,
+          "t": "I think that means \"deal,\" right, {NICKNAME}?"
+        },
+        {
+          "sit": "It's a deal alright."
+        },
+        {
+          "s": 2,
+          "t": "Hey, in the future, let's try and come back here from time to time, when we get the chance."
+        },
+        {
+          "s": 2,
+          "t": "Maybe we could build a little kennel for him. In the long-term, being out in the cold and wet like this could start to cause joint problems."
+        },
+        {
+          "s": 2,
+          "t": "I could make some winter clothes for him, too. In fact, I'd better get started..."
+        },
+        {
+          "section": "Keep the ninken company with Thoma"
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof! *growl*"
+        },
+        {
+          "s": 2,
+          "t": "You're a vicious little thing, aren't you? You almost bit me again!"
+        },
+        {
+          "s": 2,
+          "t": "Look at you, wasting away... you must wanna eat a little something?"
+        },
+        {
+          "s": 2,
+          "t": "You don't have to come back with us, but c'mon — a dog's gotta eat, right?"
+        },
+        {
+          "s": 2,
+          "t": "You're not worried it's poisoned, are you? Here, I'll take the first bite."
+        },
+        {
+          "s": 2,
+          "t": "See? Delicious and poison-free."
+        },
+        {
+          "sit": "Thoma..."
+        },
+        {
+          "sit": "You're really putting yourself out there..."
+        },
+        {
+          "s": 2,
+          "t": "Come on, just have a bite. A little tiny bite, and then I'll leave you alone, how's that sound?"
+        },
+        {
+          "s": 9,
+          "t": "Woof! Woof, woof!"
+        },
+        {
+          "s": 2,
+          "t": "Looks like it has zero intention of eating the food we brought... Is it just me, or does it look kind of on edge?"
+        },
+        {
+          "s": 2,
+          "t": "Maybe it's something in the sea... Or something nearby that's got him on alert."
+        },
+        {
+          "sit": "Those monsters, perhaps?"
+        },
+        {
+          "s": 2,
+          "t": "You think he was attacked by monsters... Hmm, it's possible."
+        },
+        {
+          "s": 2,
+          "t": "People do tend to lose their appetite in dangerous situations. Maybe it's the same for dogs, too. Let's clear out the area on behalf of our canine companion here."
+        },
+        {
+          "s": 2,
+          "t": "Thanks for helping out. This place should be a little more tranquil now, {NICKNAME}."
+        }
+      ],
+      "description": "You find the masterless ninken that Thoma mentioned, but its attitude is a bit..."
+    },
+    {
+      "id": "q-19118",
+      "title": "Bits and Bobs for Cats and Dogs",
+      "dialogue": [
+        {
+          "section": "Take photos of the stray cats and dogs from different angles (0/2)"
+        },
+        {
+          "s": 2,
+          "t": "*yawn* So sleepy..."
+        },
+        {
+          "s": 2,
+          "t": "I had some things I needed to do, so I ended up burning the midnight oil to get those sweaters knitted."
+        },
+        {
+          "s": 2,
+          "t": "I wonder if they'll actually suit them though... Hmm, let's start by testing them out on the friendlier ones, {NICKNAME}."
+        },
+        {
+          "s": 2,
+          "t": "This one's for Petal, this one's for Darko, and this one's for Goldilocks..."
+        },
+        {
+          "sit": "Most of them look great."
+        },
+        {
+          "sit": "Nice job."
+        },
+        {
+          "s": 2,
+          "t": "With any luck, that should see them through the winter."
+        },
+        {
+          "s": 2,
+          "t": "Then, come the spring, a new year will begin..."
+        },
+        {
+          "s": 2,
+          "t": "...and they'll be free to roam the wilds once again."
+        },
+        {
+          "s": 2,
+          "t": "You know, if you take one day at a time and be kind to the world, good things will come your way eventually."
+        },
+        {
+          "s": 2,
+          "t": "That might sound a bit naive, but I really do believe it."
+        },
+        {
+          "s": 2,
+          "t": "At least... it seems to have worked for me, you know?"
+        },
+        {
+          "section": "Dress the stray cats and dogs in sweaters with Thoma"
+        },
+        {
+          "s": 2,
+          "t": "Well, I think we've got enough photos now."
+        },
+        {
+          "s": 2,
+          "t": "I can't get over how cute they are! They're just adorable, aren't they, {NICKNAME}?"
+        },
+        {
+          "sit": "They're super cute."
+        },
+        {
+          "s": 2,
+          "t": "I'll have to think carefully about what kind of sweaters to knit for each of them."
+        },
+        {
+          "s": 2,
+          "t": "The colors should be complementary... Hmm... Well you know what? Let's buy some yarn from the next store we pass."
+        },
+        {
+          "sit": "They're a pain in the butt."
+        },
+        {
+          "s": 2,
+          "t": "Haha, you mean because they won't keep still?"
+        },
+        {
+          "s": 2,
+          "t": "In their defense, they've not really had proper training. It's natural for them to want to move around."
+        },
+        {
+          "s": 2,
+          "t": "You know, the first time I came here, there was just one stray dog on its own."
+        },
+        {
+          "s": 2,
+          "t": "I still remember the first time I fed it. It was a rainy day."
+        },
+        {
+          "s": 2,
+          "t": "The Kamisato Clan had just introduced a series of new policies, but a few of the more stubborn clan elders were extremely resistant to the changes."
+        },
+        {
+          "s": 2,
+          "t": "I was holding my umbrella, on my way to visit one such gentleman of senior status. The plan was to talk him into supporting the clan's decision."
+        },
+        {
+          "s": 2,
+          "t": "Sadly, he wasn't interested in having a conversation — he didn't even let me in. As soon as he saw me coming, he got his samurai to send me away."
+        },
+        {
+          "sit": "Some things even Thoma can't fix, huh?"
+        },
+        {
+          "s": 2,
+          "t": "I mean, I fixed it in the end of course. It's just that the first few visits didn't go so smoothly."
+        },
+        {
+          "s": 2,
+          "t": "So anyway, after they turned me away, the weather went from bad to worse. The wind was so strong it rendered my umbrella completely useless... Before long, I was drenched from head to toe — I must have looked like a real mess."
+        },
+        {
+          "s": 2,
+          "t": "I decided to take shelter under a tree, and found a stray dog sitting there who had the same idea as me."
+        },
+        {
+          "s": 2,
+          "t": "It saw me and moved a little further in, like it was trying to make room for me."
+        },
+        {
+          "s": 2,
+          "t": "So, we sat there together. I shared my Onigiri with it — stone cold by this point, but still edible — and we ended up huddling together, waiting for the rain to stop."
+        },
+        {
+          "s": 2,
+          "t": "As far as the big shots are concerned, I'm just an expendable servant boy. I always have to be mindful about what they might want, and what I can do for them in return."
+        },
+        {
+          "s": 2,
+          "t": "But when I'm with these little guys and gals, everything's so much simpler. One stone-cold Onigiri, and hey presto. We're friends for life."
+        },
+        {
+          "s": 2,
+          "t": "Even when I show up empty-handed, they still come to me. When it comes down to it, I think it's these simple and straightforward connections that I value the most."
+        },
+        {
+          "s": 2,
+          "t": "Sorry, ended up giving you the unabridged version! Shall we come visit this place again some other time?"
+        },
+        {
+          "sit": "Yep, see you next time!"
+        },
+        {
+          "sit": "As soon as you've done your knitting!"
+        },
+        {
+          "s": 2,
+          "t": "Great. I'll see you soon!"
+        },
+        {
+          "section": "Wait until the following day (08:00 – 24:00)"
+        },
+        {
+          "s": 2,
+          "t": "Ahh, they're so cute... Come on, let's take some photos, {NICKNAME}."
+        }
+      ],
+      "description": "You meet up with Thoma again, and he brings the finished sweater."
+    },
+    {
+      "id": "q-19119",
+      "title": "A Trip for Two in Ritou",
+      "dialogue": [
+        {
+          "section": "Go to Ritou and talk to Thoma"
+        },
+        {
+          "s": 2,
+          "t": "I haven't been to Ritou in a long time, but it feels like the place hasn't changed at all."
+        },
+        {
+          "s": 2,
+          "t": "Then again, a long time for humans is a blink of an eye for the natural environment."
+        },
+        {
+          "s": 2,
+          "t": "Makes me wonder... what is Mondstadt like these days?"
+        },
+        {
+          "sit": "Wait, you've been to Mondstadt?"
+        },
+        {
+          "sit": "You miss Mondstadt?"
+        },
+        {
+          "s": 2,
+          "t": "Yeah. I actually grew up there."
+        },
+        {
+          "s": 2,
+          "t": "Later, my father moved back to Inazuma, and then we never heard from him. I wanted to take him some Dandelion Wine, so I took the boat here from Mondstadt."
+        },
+        {
+          "s": 2,
+          "t": "Unfortunately, we hit a huge storm on the way, which sank the boat. I fell unconscious, but was somehow lucky enough to float the rest of the way to Inazuma on debris from the wreckage."
+        },
+        {
+          "s": 2,
+          "t": "I'll spare you the rest for now. Lemme take you around."
+        },
+        {
+          "s": 2,
+          "t": "This is a branch of the Chuyu Trading Company, based in Liyue. They sell ore from that region."
+        },
+        {
+          "s": 2,
+          "t": "I'm guessing you would have seen shops that look like this over there, {NICKNAME}?"
+        },
+        {
+          "sit": "Yes, I have."
+        },
+        {
+          "sit": "Actually, the ones in Liyue are a little fancier..."
+        },
+        {
+          "s": 12,
+          "t": "Ah, hello there. What brings the two of you all the way out to Ritou today?"
+        },
+        {
+          "s": 12,
+          "t": "Since you're here, you should pick out a special something. We've got some fantastic pieces in at the moment."
+        },
+        {
+          "s": 12,
+          "t": "Like this Noctilucous Jade Necklace, or this Cor Lapis Bracelet. They may not be top tier in terms of ore quality, but the craftsmanship is simply exquisite."
+        },
+        {
+          "s": 12,
+          "t": "Do either of them pique your interest?"
+        },
+        {
+          "sit": "I quite like the necklace, but..."
+        },
+        {
+          "sit": "Maybe the bracelet would suit me better?"
+        },
+        {
+          "s": 2,
+          "t": "I think both suit you very nicely."
+        },
+        {
+          "s": 2,
+          "t": "To heck with it — how often do we get to do this? We'll take them both."
+        },
+        {
+          "s": 2,
+          "t": "But you've gotta be fair to us with the price, Ma'am. My friend here is actually from Liyue."
+        },
+        {
+          "s": 12,
+          "t": "Oh, really? Well, say no more, Thoma, I wouldn't dream of overcharging. How does this figure look to you?"
+        },
+        {
+          "s": 2,
+          "t": "It looks very reasonable. Deal! Now, {NICKNAME}, lemme take you somewhere else."
+        },
+        {
+          "section": "Roam the streets with Thoma"
+        },
+        {
+          "s": 2,
+          "t": "This is Sailing Breeze, a purveyor of Mondstadt wines."
+        },
+        {
+          "s": 2,
+          "t": "As it turned out, one of the first things that greeted me here when I arrived wasn't my father, but wine from my hometown."
+        },
+        {
+          "s": 2,
+          "t": "It must be said though, the wines here aren't quite up to the Dawn Winery standard..."
+        },
+        {
+          "s": 2,
+          "t": "Back when my father was still in Mondstadt, he used to talk fondly of the Angel's Share."
+        },
+        {
+          "s": 2,
+          "t": "Of course, I was still a kid back then, so I never did get to join him for a drink."
+        },
+        {
+          "s": 2,
+          "t": "And now that I'm actually old enough, the opportunity is gone..."
+        },
+        {
+          "sit": "You'll get the chance one day."
+        },
+        {
+          "sit": "You'll have that drink one day."
+        },
+        {
+          "s": 2,
+          "t": "I hope so."
+        },
+        {
+          "s": 2,
+          "t": "You've been to Mondstadt, right? I assume you've been to the Angel's Share?"
+        },
+        {
+          "s": 2,
+          "t": "I hear the owner's quite a formidable businessman. Given the chance, I'd love to meet him."
+        },
+        {
+          "s": 2,
+          "t": "When that day comes, we should also grab a drink... ah, wait, what am I saying. Maybe when you're older."
+        },
+        {
+          "section": "Listen to Thoma's story about wine"
+        },
+        {
+          "s": 2,
+          "t": "Here we are. Bet this takes you back, huh?"
+        },
+        {
+          "sit": "I wonder how Kurisu's doing?"
+        },
+        {
+          "s": 2,
+          "t": "I'm sure he's getting by. He wrote me not long ago, actually, asking me to deal with a situation for one of the merchants."
+        },
+        {
+          "sit": "We spent quite an eventful time here."
+        },
+        {
+          "s": 2,
+          "t": "We sure did. Katsuie, from the Kanjou Commission, was persecuting those poor merchants, until you stepped in, of course."
+        },
+        {
+          "s": 2,
+          "t": "A lot of people in Ritou are still very grateful to you for that. They ask me about you sometimes."
+        },
+        {
+          "s": 2,
+          "t": "If you're interested, I could set up a meal for all of us if you'd like."
+        },
+        {
+          "s": 13,
+          "t": "Excuse me — Thoma?"
+        },
+        {
+          "s": 13,
+          "t": "It is you! What a coincidence. I was just about to send someone to deliver a gift to you."
+        },
+        {
+          "s": 2,
+          "t": "I don't believe we've met? And if there's a gift involved here, I'm not sure I've earned it! Is there something I can do for you?"
+        },
+        {
+          "s": 13,
+          "t": "No, no, you don't know me, but I've heard of you before."
+        },
+        {
+          "s": 13,
+          "t": "I ran into some trouble a while back, asked Kurisu for some help, and he said you were the one that resolved the situation."
+        },
+        {
+          "s": 2,
+          "t": "Must be tough for the guy. I hope everything gets back to normal as soon as possible..."
+        },
+        {
+          "s": 13,
+          "t": "If you're on the receiving end of someone's kindness, you can't let it go unacknowledged. So, I tried to pick out something that I thought you might like..."
+        },
+        {
+          "s": 2,
+          "t": "Something... you thought I might like?"
+        },
+        {
+          "s": 13,
+          "t": "That's right! So here it is — some confectionery from Yumeno Tennenan, a fine purveyor of Inazuman delicacies. Each one costs a small fortune."
+        },
+        {
+          "s": 13,
+          "t": "I thought this would be the only fitting way to repay someone of your stature!"
+        },
+        {
+          "s": 13,
+          "t": "Not to mention that the value of your assistance far outweighs the value of my gift."
+        },
+        {
+          "s": 13,
+          "t": "Do you like it?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, I don't know how you did it, but you managed to cater to my tastes perfectly."
+        },
+        {
+          "s": 2,
+          "t": "I humbly accept your gift. Keep up the good work in your line of business, and if you have any further problems, feel free to come find me."
+        },
+        {
+          "s": 13,
+          "t": "I will! Thanks again, Thoma!"
+        },
+        {
+          "s": 13,
+          "t": "I'll leave you in peace now. Have a good day!"
+        },
+        {
+          "s": 2,
+          "t": "You too, goodbye."
+        },
+        {
+          "s": 2,
+          "t": "Pretty high-energy guy, huh."
+        },
+        {
+          "s": 2,
+          "t": "You wanna try, {NICKNAME}? This store is indeed renowned in Inazuma. In fact, demand is so high that it's very difficult to come by their products."
+        },
+        {
+          "s": 2,
+          "t": "They're all handmade by top chefs, and the flavor is as authentic as it gets."
+        },
+        {
+          "sit": "Tastes pretty good."
+        },
+        {
+          "s": 2,
+          "t": "Great, I'm glad you like it."
+        },
+        {
+          "s": 2,
+          "t": "I'll see about trying to make my own when I get the chance. They're made to a traditional family recipe though, so replicating them won't be easy."
+        },
+        {
+          "sit": "Your cooking is better."
+        },
+        {
+          "s": 2,
+          "t": "Haha... you flatter me."
+        },
+        {
+          "s": 2,
+          "t": "The store is at least a few decades old, and the chefs who make these have been at it their whole lives. Not sure my ability is on par with that..."
+        },
+        {
+          "s": 2,
+          "t": "But if you're happy to be my taste-tester on a regular-enough basis, maybe one day I'll be able to reach their level."
+        },
+        {
+          "s": 2,
+          "t": "Okay, that about wraps up our nostalgia trip to the International Trade Association. I think we've just seen about everything there is to see in the city."
+        },
+        {
+          "s": 2,
+          "t": "Let's keep heading this way. We don't get to hang out all that often — it'd be a shame to head back so soon."
+        },
+        {
+          "s": 2,
+          "t": "Now that the Sakoku Decree has ended, there's some disagreements within the International Trade Association. He's doing his best to mediate."
+        },
+        {
+          "s": 2,
+          "t": "Here we are. Bet this takes you back, huh?"
+        },
+        {
+          "sit": "I wonder how Kurisu's doing?"
+        },
+        {
+          "s": 2,
+          "t": "I'm sure he's getting by. He wrote me not long ago, actually, asking me to deal with a situation for one of the merchants."
+        },
+        {
+          "s": 2,
+          "t": "Kurisu works tirelessly to maintain some sort of order within the business world, despite the entire industry being less than ideal."
+        },
+        {
+          "s": 2,
+          "t": "Must be tough for the guy. I hope everything gets back to normal as soon as possible..."
+        },
+        {
+          "sit": "We spent quite an eventful time here."
+        },
+        {
+          "s": 2,
+          "t": "We sure did. Katsuie, from the Kanjou Commission, was persecuting those poor merchants, until you stepped in, of course."
+        },
+        {
+          "s": 2,
+          "t": "A lot of people in Ritou are still very grateful to you for that. They ask me about you sometimes."
+        },
+        {
+          "s": 2,
+          "t": "If you're interested, I could set up a meal for all of us if you'd like."
+        },
+        {
+          "s": 13,
+          "t": "Excuse me — Thoma?"
+        },
+        {
+          "s": 13,
+          "t": "It is you! What a coincidence. I was just about to send someone to deliver a gift to you."
+        },
+        {
+          "s": 2,
+          "t": "I don't believe we've met? And if there's a gift involved here, I'm not sure I've earned it! Is there something I can do for you?"
+        },
+        {
+          "s": 13,
+          "t": "No, no, you don't know me, but I've heard of you before."
+        },
+        {
+          "s": 13,
+          "t": "I ran into some trouble a while back, asked Kurisu for some help, and he said you were the one that resolved the situation."
+        },
+        {
+          "s": 13,
+          "t": "If you're on the receiving end of someone's kindness, you can't let it go unacknowledged. So, I tried to pick out something that I thought you might like..."
+        },
+        {
+          "s": 2,
+          "t": "Something... you thought I might like?"
+        },
+        {
+          "s": 13,
+          "t": "That's right! So here it is — some confectionery from Yumeno Tennenan, a fine purveyor of Inazuman delicacies. Each one costs a small fortune."
+        },
+        {
+          "s": 13,
+          "t": "I thought this would be the only fitting way to repay someone of your stature!"
+        },
+        {
+          "s": 13,
+          "t": "Not to mention that the value of your assistance far outweighs the value of my gift."
+        },
+        {
+          "s": 13,
+          "t": "Do you like it?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Haha, I don't know how you did it, but you managed to cater to my tastes perfectly."
+        },
+        {
+          "s": 2,
+          "t": "I humbly accept your gift. Keep up the good work in your line of business, and if you have any further problems, feel free to come find me."
+        },
+        {
+          "s": 13,
+          "t": "I will! Thanks again, Thoma!"
+        },
+        {
+          "s": 13,
+          "t": "I'll leave you in peace now. Have a good day!"
+        },
+        {
+          "s": 2,
+          "t": "You too, goodbye."
+        },
+        {
+          "s": 2,
+          "t": "Pretty high-energy guy, huh."
+        },
+        {
+          "s": 2,
+          "t": "You wanna try, {NICKNAME}? This store is indeed renowned in Inazuma. In fact, demand is so high that it's very difficult to come by their products."
+        },
+        {
+          "s": 2,
+          "t": "They're all handmade by top chefs, and the flavor is as authentic as it gets."
+        },
+        {
+          "sit": "Tastes pretty good."
+        },
+        {
+          "s": 2,
+          "t": "Great, I'm glad you like it."
+        },
+        {
+          "s": 2,
+          "t": "I'll see about trying to make my own when I get the chance. They're made to a traditional family recipe though, so replicating them won't be easy."
+        },
+        {
+          "sit": "Your cooking is better."
+        },
+        {
+          "s": 2,
+          "t": "Haha... you flatter me."
+        },
+        {
+          "s": 2,
+          "t": "The store is at least a few decades old, and the chefs who make these have been at it their whole lives. Not sure my ability is on par with that..."
+        },
+        {
+          "s": 2,
+          "t": "But if you're happy to be my taste-tester on a regular-enough basis, maybe one day I'll be able to reach their level."
+        },
+        {
+          "s": 2,
+          "t": "Okay, that about wraps up our nostalgia trip to the International Trade Association. I think we've just seen about everything there is to see in the city."
+        },
+        {
+          "s": 2,
+          "t": "Let's keep heading this way. We don't get to hang out all that often — it'd be a shame to head back so soon."
+        },
+        {
+          "section": "Roam the streets with Thoma"
+        },
+        {
+          "s": 2,
+          "t": "I come to this place every time I visit Ritou."
+        },
+        {
+          "s": 2,
+          "t": "The view here isn't as spectacular as on Narukami Island, but if you're looking for a relaxing spot, you can't beat this one."
+        },
+        {
+          "s": 2,
+          "t": "Alright, time to call it a day. Let's head back."
+        },
+        {
+          "sit": "Hold on."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Not ready to leave yet?"
+        },
+        {
+          "s": 2,
+          "t": "Come to think of it, I do have a couple more places I could take you..."
+        },
+        {
+          "sit": "I have a gift for you, too."
+        },
+        {
+          "sit": "I want to repay your kindness, too."
+        },
+        {
+          "s": 2,
+          "t": "Haha, there's no need for that."
+        },
+        {
+          "s": 2,
+          "t": "The whole reason I took you out was to thank you for all the help you gave us during the Vision Hunt Decree."
+        },
+        {
+          "s": 2,
+          "t": "As long as you enjoyed yourself, that's all I could ask for. You don't have to give me a gift."
+        },
+        {
+          "sit": "But I think you'll like it."
+        },
+        {
+          "sit": "It's nothing expensive."
+        },
+        {
+          "s": 2,
+          "t": "Really? Okay, well now I'm excited!"
+        },
+        {
+          "s": 2,
+          "t": "Oh my... it's..."
+        },
+        {
+          "sit": "A Windwheel Aster."
+        },
+        {
+          "sit": "A little something from Mondstadt."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "This really... I wasn't expecting this."
+        },
+        {
+          "s": 2,
+          "t": "I'm a little lost for words... This gift is... invaluable."
+        },
+        {
+          "sit": "It didn't cost anything..."
+        },
+        {
+          "s": 2,
+          "t": "I know, but I don't mean its material value. I'm talking about its value to me specifically."
+        },
+        {
+          "s": 2,
+          "t": "Let me put it this way. The confectionery I received from that merchant earlier — thoughtful gift, don't get me wrong, but at the end of the day, I know it's mostly transactional."
+        },
+        {
+          "s": 2,
+          "t": "I helped him out, so it's standard procedure for him to get a gift for me in return. Also, he picked a brand of fancy confectionery that he thought would meet me at my level, and make it easier for him to approach me with any future requests."
+        },
+        {
+          "s": 2,
+          "t": "If you lend Mora to someone, you can guarantee that any gift you receive in return will have been chosen according to its material value."
+        },
+        {
+          "s": 2,
+          "t": "But the gift you just gave me can't be weighed in the same terms."
+        },
+        {
+          "sit": "I'm just glad you like it."
+        },
+        {
+          "sit": "I don't want anything in return."
+        },
+        {
+          "s": 2,
+          "t": "Okay, well... at least take this in return."
+        },
+        {
+          "s": 2,
+          "t": "It's an omamori I always carry with me. Again, nothing expensive."
+        },
+        {
+          "s": 2,
+          "t": "But it can bring the bearer good luck... seriously, I'm not making that up. My father told me."
+        },
+        {
+          "s": 2,
+          "t": "He gave it to my mom, and she gave it to me just before I came to Inazuma."
+        },
+        {
+          "s": 2,
+          "t": "Who knows, maybe this omamori was the only reason I survived the storm and made it to Inazuma in the first place."
+        },
+        {
+          "s": 2,
+          "t": "Whatever the truth of it is, I'd like you to have it."
+        },
+        {
+          "s": 2,
+          "t": "And I'm sure it'll be bustling with life again soon enough now that the Sakoku Decree's been abolished."
+        },
+        {
+          "s": 2,
+          "t": "Once I'm on top of things, I think I'll have to ask milady for a long vacation, so I can take a trip back home. I don't see that happening anytime soon, though... I have a long list of things to get through."
+        },
+        {
+          "s": 2,
+          "t": "I come to this place every time I visit Ritou."
+        },
+        {
+          "s": 2,
+          "t": "The view here isn't as spectacular as on Narukami Island, but if you're looking for a relaxing spot, you can't beat this one."
+        },
+        {
+          "s": 2,
+          "t": "I believe that the Sakoku Decree will be repealed one day, and this place will flourish again like it did in the old days."
+        },
+        {
+          "s": 2,
+          "t": "When the winds of freedom finally blow away the gloom... I think I'll have to ask milady for a long vacation, so I can take a trip back home."
+        },
+        {
+          "s": 2,
+          "t": "Alright, time to call it a day. Let's head back."
+        },
+        {
+          "sit": "Hold on."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Not ready to leave yet?"
+        },
+        {
+          "s": 2,
+          "t": "Come to think of it, I do have a couple more places I could take you..."
+        },
+        {
+          "sit": "I have a gift for you, too."
+        },
+        {
+          "sit": "I want to repay your kindness, too."
+        },
+        {
+          "s": 2,
+          "t": "Haha, there's no need for that."
+        },
+        {
+          "s": 2,
+          "t": "The whole reason I took you out was to thank you for all the help you gave us during the Vision Hunt Decree."
+        },
+        {
+          "s": 2,
+          "t": "As long as you enjoyed yourself, that's all I could ask for. You don't have to give me a gift."
+        },
+        {
+          "sit": "But I think you'll like it."
+        },
+        {
+          "sit": "It's nothing expensive."
+        },
+        {
+          "s": 2,
+          "t": "Really? Okay, well now I'm excited!"
+        },
+        {
+          "s": 2,
+          "t": "Oh my... it's..."
+        },
+        {
+          "sit": "A Windwheel Aster."
+        },
+        {
+          "sit": "A little something from Mondstadt."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "This really... I wasn't expecting this."
+        },
+        {
+          "s": 2,
+          "t": "I'm a little lost for words... This gift is... invaluable."
+        },
+        {
+          "sit": "It didn't cost anything..."
+        },
+        {
+          "s": 2,
+          "t": "I know, but I don't mean its material value. I'm talking about its value to me specifically."
+        },
+        {
+          "s": 2,
+          "t": "Let me put it this way. The confectionery I received from that merchant earlier — thoughtful gift, don't get me wrong, but at the end of the day, I know it's mostly transactional."
+        },
+        {
+          "s": 2,
+          "t": "I helped him out, so it's standard procedure for him to get a gift for me in return. Also, he picked a brand of fancy confectionery that he thought would meet me at my level, and make it easier for him to approach me with any future requests."
+        },
+        {
+          "s": 2,
+          "t": "If you lend Mora to someone, you can guarantee that any gift you receive in return will have been chosen according to its material value."
+        },
+        {
+          "s": 2,
+          "t": "But the gift you just gave me can't be weighed in the same terms."
+        },
+        {
+          "sit": "I'm just glad you like it."
+        },
+        {
+          "sit": "I don't want anything in return."
+        },
+        {
+          "s": 2,
+          "t": "Okay, well... at least take this in return."
+        },
+        {
+          "s": 2,
+          "t": "It's an omamori I always carry with me. Again, nothing expensive."
+        },
+        {
+          "s": 2,
+          "t": "But it can bring the bearer good luck... seriously, I'm not making that up. My father told me."
+        },
+        {
+          "s": 2,
+          "t": "He gave it to my mom, and she gave it to me just before I came to Inazuma."
+        },
+        {
+          "s": 2,
+          "t": "Who knows, maybe this omamori was the only reason I survived the storm and made it to Inazuma in the first place."
+        },
+        {
+          "s": 2,
+          "t": "Whatever the truth of it is, I'd like you to have it."
+        }
+      ],
+      "description": "You have a relaxing time together with Thoma in Ritou."
+    },
+    {
+      "id": "q-19121",
+      "title": "Unforeseen Circumstances",
+      "dialogue": [
+        {
+          "section": "Ask the Yashiro Commission members questions"
+        },
+        {
+          "s": 14,
+          "t": "Oh... Ugh, this is going to be a problem..."
+        },
+        {
+          "sit": "What's the matter?"
+        },
+        {
+          "s": 14,
+          "t": "Oh... you're Miss Kamisato's friend, aren't you?"
+        },
+        {
+          "s": 14,
+          "t": "Basically, something downright awful's happened, and we're discussing what on earth we should do about it..."
+        },
+        {
+          "s": 14,
+          "t": "In preparation for the festival next month, we procured some very precious ceremonial implements from another island."
+        },
+        {
+          "s": 14,
+          "t": "But as luck would have it, our ship got hit by strong winds out at sea. The entire shipment is now sitting at the bottom of the ocean."
+        },
+        {
+          "sit": "Do you have a backup plan?"
+        },
+        {
+          "s": 14,
+          "t": "Well, certainly there's no time to go all the way back out there and buy another batch... Our only option is a gentleman based on Narukami Island by the name of Yuusaku."
+        },
+        {
+          "s": 14,
+          "t": "But he's a shrewd one. He caught on to the fact that we needed the goods urgently and raised prices sky-high."
+        },
+        {
+          "s": 14,
+          "t": "Clearly he wants to take us for every Mora we're worth — it's a real dilemma."
+        },
+        {
+          "sit": "Can't you barter him down?"
+        },
+        {
+          "sit": "Use the Yashiro name to put pressure on him."
+        },
+        {
+          "s": 14,
+          "t": "We've tried, but he just won't budge. It doesn't help that he has something of a feud with the Yashiro Commission..."
+        },
+        {
+          "s": 14,
+          "t": "He once sold us some ceremonial implements of exceptionally poor quality. We returned the items and exposed his malpractice in the process."
+        },
+        {
+          "s": 14,
+          "t": "He's resented us ever since. Now that he actually has the chance to get back at us, there's no way he'll back down."
+        },
+        {
+          "s": 14,
+          "t": "The Yashiro Commission doesn't have any direct authority over merchants. We could file a formal complaint, but the process is long and drawn out, and the festival is drawing nearer every day."
+        },
+        {
+          "sit": "(This seems like a job for Thoma...)"
+        },
+        {
+          "sit": "(It can't hurt to discuss this with Thoma...)"
+        },
+        {
+          "s": 14,
+          "t": "Kazumasa and Furusawa have marched off to see him, but I don't know whether they'll be able to resolve it."
+        },
+        {
+          "s": 14,
+          "t": "I really hope the festival goes smoothly..."
+        },
+        {
+          "section": "Negotiate with the merchants in the city"
+        },
+        {
+          "s": 0,
+          "t": "Your asking price just isn't realistic. What point are you trying to make here, huh?"
+        },
+        {
+          "s": 1,
+          "t": "If the festival gets delayed, don't say we didn't warn you!"
+        },
+        {
+          "s": 15,
+          "t": "*clears throat*..."
+        },
+        {
+          "s": 15,
+          "t": "Help!!! I'm being attacked by Yashiro samurai!"
+        },
+        {
+          "s": 0,
+          "t": "What!? Hey, cut that out!"
+        },
+        {
+          "s": 1,
+          "t": "You little... Ahem, t—take it easy, would you? Look, we're not going to harm you, alright?"
+        },
+        {
+          "s": 15,
+          "t": "The Yashiro Commission is forcing me to sell against my will! Doushin! I need a Doushin!"
+        },
+        {
+          "s": 0,
+          "t": "Tsk, looks like there's no negotiation to be had here. Come on, let's get out of here!"
+        },
+        {
+          "s": 1,
+          "t": "Wait up..."
+        },
+        {
+          "s": 15,
+          "t": "Hmph, is that all they got? Amateurs. The nerve... Oh, hello... you're..."
+        },
+        {
+          "s": 2,
+          "t": "Hello again."
+        },
+        {
+          "s": 15,
+          "t": "Wait, I know you! Well, if it isn't the Yashiro Commission's errand boy — Thoma!"
+        },
+        {
+          "s": 15,
+          "t": "Do you know how long the Tenryou Commission locked me up for? And all thanks to you, going on about my goods being cheap fakes!"
+        },
+        {
+          "s": 2,
+          "t": "You almost make it sound like I planted something and framed you. Those goods were defective, you know that, right?"
+        },
+        {
+          "s": 15,
+          "t": "Ugh, you're so pedantic! Think how many festivals there are in a given year. Now take candles, for example — do you have any idea how many they go through? I could switch half of them out for duds without a single person noticing, and make a small fortune in the process..."
+        },
+        {
+          "s": 15,
+          "t": "I was happily providing you with some much-needed supplies. Not only were you ungrateful, you had the audacity to report me."
+        },
+        {
+          "s": 15,
+          "t": "Well, now the tables have finally turned and you're begging for my help. Can you really blame me for charging a little extra?"
+        },
+        {
+          "sit": "This is more than a \"little\" extra..."
+        },
+        {
+          "sit": "This price is bankruptcy, even for the Yashiro Commission..."
+        },
+        {
+          "s": 15,
+          "t": "Look, I found out what happened. The Commission's shipment ran into a storm and is now lying at the bottom of the ocean."
+        },
+        {
+          "s": 15,
+          "t": "The festival's right around the corner, so postponing it isn't an option. Right now, I'm the only one selling what you need..."
+        },
+        {
+          "s": 15,
+          "t": "If the festival goes pear-shaped and Guuji Yae or the Almighty Shogun hears about it, they are not going to be happy... and then you'll have a real problem on your hands."
+        },
+        {
+          "s": 15,
+          "t": "So you might want to consider your position here!"
+        },
+        {
+          "s": 2,
+          "t": "C'mon boss, this is all a little heartless. Besides, aside from the Yashiro Commission, no one else buys ceremonial items. Surely resolving this dispute swiftly is in your interest too?"
+        },
+        {
+          "s": 15,
+          "t": "Don't give me that. The fact is, you're desperate to buy, and I ain't desperate to sell."
+        },
+        {
+          "s": 15,
+          "t": "The batch I have here can go to waste for all I care — it'd be no great loss."
+        },
+        {
+          "s": 2,
+          "t": "Looks like we can't come to an agreement, then..."
+        },
+        {
+          "s": 15,
+          "t": "Well, I'm glad it's dawning on you. You can either pay up, or look like a bunch of idiots when the festival comes around. Your choice!"
+        },
+        {
+          "s": 15,
+          "t": "*sigh* Time's precious, and I've given you a fair slice of mine today. When you're ready to pay, I'll be ready to talk."
+        },
+        {
+          "sit": "He already left..."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, I think it's pretty clear that he doesn't intend to discuss this any further."
+        },
+        {
+          "s": 2,
+          "t": "I guess his time in the Police Station didn't make for happy memories."
+        },
+        {
+          "sit": "Do you want me to mention this to Guuji Yae?"
+        },
+        {
+          "sit": "Do you want me to mention this to the Raiden Shogun?"
+        },
+        {
+          "s": 2,
+          "t": "No need."
+        },
+        {
+          "s": 2,
+          "t": "I can't say I think much of the way Yuusaku is acting... but ultimately, the issue here lies with the Yashiro Commission."
+        },
+        {
+          "s": 2,
+          "t": "We were the ones who lost the goods, so the responsibility is on us to find a solution. Otherwise, even if we ride this out, the Yashiro Commission's reputation will take a huge hit."
+        },
+        {
+          "s": 2,
+          "t": "Let's go. There are a few people I want to introduce you to."
+        },
+        {
+          "s": 2,
+          "t": "*sigh*..."
+        },
+        {
+          "section": "Go with Thoma to meet \"a friend\""
+        },
+        {
+          "s": 16,
+          "t": "Ah, if it isn't Thoma!"
+        },
+        {
+          "s": 16,
+          "t": "I must say I'm surprised to see you. Last I heard you were in Ritou... then you just vanished into thin air."
+        },
+        {
+          "s": 16,
+          "t": "Who's the new face?"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, a friend."
+        },
+        {
+          "s": 16,
+          "t": "\"Friend\"? What, uh, line of work is this {F#young lady}{M#guy} in, then?"
+        },
+        {
+          "s": 2,
+          "t": "They're not a connection, if that's what you're thinking. Just a regular friend."
+        },
+        {
+          "s": 2,
+          "t": "No vested interests here. I originally wanted to take {F#her}{M#him} out for some down time, but we've ended up mired in Commission-related complications."
+        },
+        {
+          "s": 16,
+          "t": "Hahaha... Okay, I see, my mistake."
+        },
+        {
+          "s": 16,
+          "t": "So, what's the situation today, then? I only ever see you when you need something."
+        },
+        {
+          "s": 2,
+          "t": "I remember last time we spoke, you were grumbling about a lack of Iron Ore. Have you made any progress on that front?"
+        },
+        {
+          "s": 16,
+          "t": "Why? You got any supplier recommendations?"
+        },
+        {
+          "s": 16,
+          "t": "You're a little out of the loop, my friend — we increased our bid price a while back. Soon after, we found plenty of sellers were pulling out all the stops to import stock from wherever they could get ahold of it."
+        },
+        {
+          "s": 16,
+          "t": "I heard some people were so eager to get in on the action that they even took out loans to get ahead of the competition. If you were hoping to enter the bidding now... I'm afraid you're a little late to the party."
+        },
+        {
+          "s": 2,
+          "t": "Sounds like now you have the opposite problem — more Iron Ore than you know what to do with."
+        },
+        {
+          "s": 16,
+          "t": "That's right, we're going to have to select a few sellers from the pool. There are certain candidates under consideration already, but we're still on the fence."
+        },
+        {
+          "s": 2,
+          "t": "I see. Well, would you mind if I gave you a couple of tips?"
+        },
+        {
+          "s": 2,
+          "t": "As it happens, I'd noticed that shipments of Iron Ore had recently picked up. I looked into it a little, and managed to get a sense of which sellers had the quality stock, which offered competitive prices, and so on."
+        },
+        {
+          "s": 16,
+          "t": "You don't say? Alright then, here's the list of sellers. Give me your thoughts."
+        },
+        {
+          "s": 2,
+          "t": "These two are veterans of the business. Regular sales, quality stock, but their price is a little steep. I think you could talk them down, though — I'd say to around 80% of what they've quoted you."
+        },
+        {
+          "s": 2,
+          "t": "This one sprung up out of nowhere recently in Ritou. Their approach is high volume, small profit margins. The quality's not too bad, but there's always a few duds, so you'd need to inspect the goods thoroughly upon receipt."
+        },
+        {
+          "s": 2,
+          "t": "This one grabbed a loan and leapt straight onto the bandwagon. In their haste, I fear they may have ended up with a mixed bag as far as quality is concerned. Given that their price isn't particularly competitive, either... I wouldn't consider them if I were you."
+        },
+        {
+          "s": 16,
+          "t": "Wait, I know this name... Ah, yes. I believe we're on the same page here."
+        },
+        {
+          "s": 2,
+          "t": "Haha... To be completely up front, this is really quite important to me, so your help in this regard would be greatly appreciated."
+        },
+        {
+          "s": 16,
+          "t": "Don't mention it, it's no skin off my back."
+        },
+        {
+          "s": 16,
+          "t": "There is something I hope you could do for me in return, though. Recently, several of our deliveries of Iron Ore have been getting stolen. Is there anything you can do to help?"
+        },
+        {
+          "s": 16,
+          "t": "It's the worst on the road between Konda Village and Inazuma City... something always seems to happen along that stretch."
+        },
+        {
+          "s": 2,
+          "t": "No problem. We'll be back before you know it."
+        },
+        {
+          "sit": "What is going on here...?"
+        },
+        {
+          "s": 2,
+          "t": "I guess you have a few questions, {NICKNAME}... I'll explain everything later — but it looks like we'll need to get to work pretty soon."
+        },
+        {
+          "section": "Go to Konda Village and help with a delivery"
+        },
+        {
+          "s": 2,
+          "t": "Worry no more, good sir, your goods have been safely delivered."
+        },
+        {
+          "s": 16,
+          "t": "Good to know. As for the issue you needed my help with, I have someone on the case — you can expect a resolution very shortly."
+        },
+        {
+          "s": 16,
+          "t": "You always seem to be cleaning up for other people behind the scenes, it must keep you pretty busy. Seems to eat up all of your personal time, too."
+        },
+        {
+          "s": 16,
+          "t": "Speaking of... I'm going to need your help again in a few days time. There's a meeting coming up, and several trade associations will be fighting tooth and nail over the chance to make a profit. You'll have to mediate on this one."
+        },
+        {
+          "s": 2,
+          "t": "Ah, that rings a bell. Not a problem, I'll be there."
+        },
+        {
+          "s": 16,
+          "t": "One other thing... I heard Sakai gave our guy a loan a while back. Just thought you might be interested to know."
+        },
+        {
+          "s": 2,
+          "t": "Is that so? Sounds like I should go talk to him, then. Thanks again for all your help, much obliged."
+        },
+        {
+          "s": 16,
+          "t": "Think nothing of it. Goodbye for now, I'll see you in a few days' time."
+        },
+        {
+          "s": 2,
+          "t": "Okay, this problem is halfway solved."
+        },
+        {
+          "sit": "So, who was that?"
+        },
+        {
+          "sit": "What were you talking about?"
+        },
+        {
+          "s": 2,
+          "t": "That was the quartermaster of the Tenryou Commission. He's in charge of all their procurement, and also responsible for keeping their weapon supplies intact."
+        },
+        {
+          "s": 2,
+          "t": "Making weapons involves purchasing raw materials, so he's the key decision-maker in all the related trade in Iron Ore."
+        },
+        {
+          "s": 2,
+          "t": "The Iron Ore trade is actually what I was discussing with him just now."
+        },
+        {
+          "sit": "But what does that have to do with ceremonial affairs...?"
+        },
+        {
+          "s": 2,
+          "t": "On the surface, not a whole lot, I'll admit. But you'll see. Very shortly."
+        },
+        {
+          "s": 2,
+          "t": "But before that, time to go visit another old friend of mine."
+        },
+        {
+          "section": "Report back to Yasutake"
+        },
+        {
+          "s": 0,
+          "t": "*sigh*... What do we do now?"
+        },
+        {
+          "s": 1,
+          "t": "We could try... asking him nicely? Maybe he'd have a change of heart?"
+        },
+        {
+          "s": 0,
+          "t": "I highly doubt that would work..."
+        },
+        {
+          "s": 0,
+          "t": "Then again, since we don't have any other options, we might as well give it a try."
+        },
+        {
+          "s": 1,
+          "t": "But the samurai spirit..."
+        },
+        {
+          "s": 0,
+          "t": "We serve the head of the clan. If the clan is in trouble, we must bear whatever humiliation comes our way to resolve the situation. This, too, is the samurai spirit!"
+        },
+        {
+          "s": 15,
+          "t": "Phew... Uh, i—is anyone there?"
+        },
+        {
+          "s": 0,
+          "t": "Huh, what's he doing here?"
+        },
+        {
+          "s": 1,
+          "t": "He must be here to make fun of us."
+        },
+        {
+          "s": 0,
+          "t": "There's nothin' we can do about it. Brace yourself..."
+        },
+        {
+          "s": 0,
+          "t": "I apologize!"
+        },
+        {
+          "s": 15,
+          "t": "I apologize!"
+        },
+        {
+          "s": 0,
+          "t": "...Huh?"
+        },
+        {
+          "s": 15,
+          "t": "I apologize! Forgive me, I'll sell to you at the original price... no, what am I saying, make that half price!"
+        },
+        {
+          "s": 0,
+          "t": "What's going on here?"
+        },
+        {
+          "s": 15,
+          "t": "Thoma? Thoma, are you here?"
+        },
+        {
+          "s": 15,
+          "t": "I was completely in the wrong. However much you need, I'll sell it to you. I've got a warehouse full of stock, too, if you need more. Please, you'll have everything you could need!"
+        },
+        {
+          "s": 2,
+          "t": "...And without any duds this time, I assume?"
+        },
+        {
+          "s": 15,
+          "t": "None, none whatsoever! I'll stake my whole reputation on it — no fakes, no defects! I give you my word!"
+        },
+        {
+          "s": 15,
+          "t": "P—Please, this is my whole livelihood... don't cut me off..."
+        },
+        {
+          "s": 2,
+          "t": "Since you've promised not to sneak in any fakes this time around, go ahead with the shipment. Once we've inspected the goods, and if all's in order, I'm sure whatever problems you're presently facing will quickly disappear."
+        },
+        {
+          "s": 15,
+          "t": "Okay, I'll deliver the goods right away! Right away, I promise..."
+        },
+        {
+          "s": 2,
+          "t": "You see what I mean? Getting things settled as soon as possible is in everyone's best interests."
+        },
+        {
+          "s": 2,
+          "t": "*sigh*... Alright, with that taken care of, let's get out of here."
+        },
+        {
+          "s": 0,
+          "t": "Why was he apologizing... to Thoma?"
+        },
+        {
+          "s": 1,
+          "t": "What's going on here? Hey, Thoma..."
+        },
+        {
+          "s": 1,
+          "t": "That's strange, where'd he go? He was right here a second ago..."
+        },
+        {
+          "s": 2,
+          "t": "Okay, the floors are done."
+        },
+        {
+          "s": 2,
+          "t": "Next, I need to dust down the railings..."
+        },
+        {
+          "s": 2,
+          "t": "I only took one day off, but look how much dust has gathered. This is what I mean when I say cleaning is a daily chore."
+        },
+        {
+          "sit": "Just now..."
+        },
+        {
+          "sit": "What happened?"
+        },
+        {
+          "s": 2,
+          "t": "You remember what he said, don't you? His goods could go unsold, and it wouldn't bother him."
+        },
+        {
+          "s": 2,
+          "t": "So the solution in this case was to cut off his main line of business, and make him really feel the heat."
+        },
+        {
+          "s": 2,
+          "t": "The Yashiro Commission doesn't have the authority to meddle in the business world. But, as it happened, I knew a few of his major customers, so I sorted it out privately."
+        },
+        {
+          "s": 2,
+          "t": "When he realized he couldn't shift his product, had no source of revenue, and wouldn't be able to pay off his loan... he suddenly felt the pressure."
+        },
+        {
+          "s": 2,
+          "t": "Then, I just had to make sure he caught wind of what the cause of his problems was, so he'd seek us out to make an apology."
+        },
+        {
+          "sit": "Sounds like you gave him the full Thoma treatment."
+        },
+        {
+          "s": 2,
+          "t": "It's no big deal. I've dealt with plenty of situations like this in the past."
+        },
+        {
+          "s": 2,
+          "t": "I know you'd like people to look up to me more, but... it doesn't bother me all that much."
+        },
+        {
+          "s": 2,
+          "t": "I'm just the housekeeper of the Kamisato Clan — reputation isn't all that important to me. On the contrary, having too good of a reputation can be restrictive."
+        },
+        {
+          "s": 2,
+          "t": "You feel indignant for my sake when you hear people spreading gossip about me, don't you? That says that in your mind, I'm not the kind of person they say I am."
+        },
+        {
+          "s": 2,
+          "t": "For me, that's enough. All I need is for the people I'm close with to know the real me."
+        },
+        {
+          "s": 2,
+          "t": "Thanks for your help in averting a potential crisis for the Yashiro Commission. I owe you one! I'll have to entertain you again some time."
+        },
+        {
+          "s": 2,
+          "t": "Ah, plus I didn't get very far with entertaining you this time around... so, I guess I owe the both you!"
+        },
+        {
+          "section": "Find a sample of Noctilucous Jade"
+        },
+        {
+          "s": 17,
+          "t": "Argh, man this hurts... those monsters came out of nowhere..."
+        },
+        {
+          "s": 17,
+          "t": "Thank you both for your help. Who are you...?"
+        },
+        {
+          "s": 2,
+          "t": "Hi there. Yasutake commissioned us to come and assist with the delivery."
+        },
+        {
+          "s": 17,
+          "t": "Wonderful. I was starting to think I'd never get this Iron Ore to its destination."
+        },
+        {
+          "s": 17,
+          "t": "Um... so, do I owe you anything for this?"
+        },
+        {
+          "s": 2,
+          "t": "Nope, this is between us and Yasutake."
+        },
+        {
+          "s": 2,
+          "t": "He's the one you should be thanking, if anyone."
+        },
+        {
+          "s": 2,
+          "t": "Alright {NICKNAME}, let's do this!"
+        },
+        {
+          "s": 2,
+          "t": "Alright, I think we can leave the goods here."
+        },
+        {
+          "s": 17,
+          "t": "Many thanks."
+        },
+        {
+          "s": 17,
+          "t": "There were so many monsters, I didn't even see where they came from... It was a dicey situation..."
+        },
+        {
+          "s": 2,
+          "t": "The route should be safe from here on out. We'll be heading off now."
+        },
+        {
+          "s": 17,
+          "t": "Sure thing. Again, my thanks to both of you."
+        },
+        {
+          "s": 2,
+          "t": "All in a day's work. Come on, let's go, {NICKNAME}."
+        },
+        {
+          "section": "Talk to the cargo merchant"
+        },
+        {
+          "s": 2,
+          "t": "Okay, is this enough?"
+        },
+        {
+          "s": 18,
+          "t": "Plenty. Leave the rest to me, I promise you'll be satisfied customers."
+        },
+        {
+          "s": 18,
+          "t": "You know Thoma, you haven't changed one bit. Same mindset, same style of working."
+        },
+        {
+          "s": 18,
+          "t": "I sure hope the two of us never get into a conflict. Fingers crossed our cooperation will stay happy and healthy for a long time to come."
+        },
+        {
+          "s": 2,
+          "t": "Don't you worry, unless you've got plans to cause trouble for the Yashiro Commission, the future looks bright for all our future dealings."
+        },
+        {
+          "s": 18,
+          "t": "Phew, that's good to hear. Okay, I'll be seeing you, folks."
+        },
+        {
+          "sit": "Can we really trust this guy?"
+        },
+        {
+          "sit": "It felt like there was a subtext to your whole conversation..."
+        },
+        {
+          "s": 2,
+          "t": "Don't worry."
+        },
+        {
+          "s": 2,
+          "t": "People whose attention is always focused on other people's weaknesses tend to expose their own weaknesses pretty easily."
+        },
+        {
+          "s": 2,
+          "t": "Let's head back to the Yashiro Commission headquarters."
+        },
+        {
+          "section": "Deliver the cargo out of the city"
+        },
+        {
+          "s": 2,
+          "t": "...Oh, that whole situation, huh."
+        },
+        {
+          "s": 2,
+          "t": "I heard a thing or two about it. I was planning on finding some time to sort it out after entertaining you."
+        },
+        {
+          "sit": "So you know a solution?"
+        },
+        {
+          "s": 2,
+          "t": "It's hard to say for sure. I'd need to talk with the guy first."
+        },
+        {
+          "s": 2,
+          "t": "Since this has piqued your interest — how about we head over there together?"
+        },
+        {
+          "s": 2,
+          "t": "Still... the original plan here was to focus on your enjoyment, not rope you into the trials and tribulations of the Yashiro Commission."
+        },
+        {
+          "sit": "I want people to give you the respect you deserve."
+        },
+        {
+          "s": 2,
+          "t": "Ah, so that's your goal here."
+        },
+        {
+          "s": 2,
+          "t": "Well, if that is what you really want, I'd better give this my best shot."
+        },
+        {
+          "sit": "Trials and tribulations with Thoma are bound to be fun!"
+        },
+        {
+          "s": 2,
+          "t": "Oh? You think so?"
+        },
+        {
+          "s": 2,
+          "t": "Well, in that case, I guess I'd better look alive!"
+        },
+        {
+          "s": 2,
+          "t": "C'mon then, let's get ourselves over to Yuusaku and see what's what."
+        },
+        {
+          "s": 2,
+          "t": "I got some intel on him once before. At this time of day, he should be downtown in Inazuma City."
+        },
+        {
+          "section": "Report back to Sakai"
+        },
+        {
+          "s": 18,
+          "t": "Ah, Thoma. You too?"
+        },
+        {
+          "s": 18,
+          "t": "Yasutake sent someone over already. But I'm telling you, Thoma, I just don't know if it's feasible."
+        },
+        {
+          "s": 2,
+          "t": "Really? Why, is there a problem?"
+        },
+        {
+          "s": 18,
+          "t": "You betcha. The guy owes me Mora, for sure, but there's a long repayment period on that loan. If I go hounding him for Mora now, that makes me the bad guy."
+        },
+        {
+          "s": 2,
+          "t": "But as I recall, the only reason he was entitled to such a long period was because at the outset, he had a business relationship with the Yashiro Commission."
+        },
+        {
+          "s": 2,
+          "t": "So, if we sever ties with him, surely he'd have to pay you back right away."
+        },
+        {
+          "s": 18,
+          "t": "In principle, that's how it works. But I'd still be the one who has to take all the flak."
+        },
+        {
+          "s": 18,
+          "t": "I'm just a small-timer, you know? People like me need stability and security, not to go rocking the boat..."
+        },
+        {
+          "s": 2,
+          "t": "C'mon now, let's work something out. Weren't you after some Noctilucous Jade last time we spoke? We can put our heads together and get hold of some for you."
+        },
+        {
+          "s": 18,
+          "t": "Hmm... Well, Noctilucous Jade would be good for starters, but..."
+        },
+        {
+          "s": 2,
+          "t": "For starters? I'd say that's plenty for now... You don't want to go biting off more than you can chew, right?"
+        },
+        {
+          "s": 18,
+          "t": "You... okay, fine."
+        },
+        {
+          "s": 18,
+          "t": "If you bring me some Noctilucous Jade, I'll get my hands dirty for you!"
+        },
+        {
+          "s": 2,
+          "t": "Great. Alright, let's go and find some, {NICKNAME}."
+        },
+        {
+          "section": "Tell Thoma of the Yashiro Commission emergency"
+        },
+        {
+          "s": 16,
+          "t": "Thank you for helping look into the situation with our deliveries."
+        },
+        {
+          "section": "Go to the Yashiro Commission to witness the denouement of the emergency"
+        },
+        {
+          "s": 18,
+          "t": "You can't buy Noctilucous Jade anywhere these days, it's been a real headache..."
+        },
+        {
+          "section": "Go with Thoma to see Sakai"
+        },
+        {
+          "s": 19,
+          "t": "...You're asking me what I think Thoma could do better?"
+        },
+        {
+          "s": 19,
+          "t": "He's busy enough as it is, don't you think? I barely see him around here at the Commission."
+        },
+        {
+          "s": 19,
+          "t": "And when I do, more often than not, he's busy with the housework."
+        },
+        {
+          "s": 19,
+          "t": "I think he should carry on doing what he's doing. Everyone's got their own way of living, and Thoma's no different."
+        },
+        {
+          "s": 20,
+          "t": "Greetings, welcome to the Yashiro Commission."
+        },
+        {
+          "sit": "About Thoma..."
+        },
+        {
+          "s": 20,
+          "t": "People have been talking about him behind his back? Surely not."
+        },
+        {
+          "s": 20,
+          "t": "He does a wonderful job and always remains modest about it. Why would anyone single him out?"
+        },
+        {
+          "s": 20,
+          "t": "Huh, I can't figure it out. Try asking someone else."
+        },
+        {
+          "s": 2,
+          "t": "So, have you had any ideas?"
+        },
+        {
+          "s": 14,
+          "t": "I really hope the festival goes smoothly..."
+        }
+      ],
+      "description": "You receive word of the latest crisis while trying to help Thoma win respect..."
+    }
+  ],
+  "speakers": [
+    "Kazumasa",
+    "Furusawa",
+    "Thoma",
+    "Ogura Mio",
+    "Yuuko",
+    "Yuuri",
+    "Nagano",
+    "Furuta",
+    "Hirano",
+    "Ninken",
+    "Kazuaki",
+    "Inu Shoushou",
+    "Qiuyue",
+    "Keiichi",
+    "Kiyoe",
+    "Yuusaku",
+    "Yasutake",
+    "Hironori",
+    "Sakai",
+    "Takashi",
+    "Masanobu"
+  ],
+  "id": "ch-105001"
+}

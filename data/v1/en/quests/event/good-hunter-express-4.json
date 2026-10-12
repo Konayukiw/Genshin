@@ -1,0 +1,81 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "I'd love to, but I have to get going."
+        },
+        {
+          "s": 0,
+          "t": "Eh? Oh, alright then. I'll ask somebody else. I don't get it... Why is everybody ordering take-out lately?"
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "Great! Thanks for helping."
+        },
+        {
+          "s": 0,
+          "t": "Just remember not to get hit or run too fast. I don't think Wallit will accept Tea Break Pancakes that look all messed up."
+        },
+        {
+          "section": "Deliver the food to Short-Tempered Wallit"
+        },
+        {
+          "s": 1,
+          "t": "Why isn't it here yet? I have things to do, you know!"
+        },
+        {
+          "section": "Speak to Short-Tempered Wallit"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "That's right. Great timing, Traveler! Wallit ordered a stack of Tea Break Pancakes from us earlier. Don't worry, he's already paid beforehand."
+        },
+        {
+          "s": 0,
+          "t": "He wants us to bring it to a place south of Brightcrown Canyon..."
+        },
+        {
+          "s": 0,
+          "t": "But we've been getting more and more take-out orders lately for some reason, and we can barely keep up."
+        },
+        {
+          "s": 0,
+          "t": "If you don't mind, could you help us with this delivery?"
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Oh, it's finally here, is it? Give it here — I have things to do and places to be."
+        },
+        {
+          "s": 1,
+          "t": "I've heard that you can find suitable brewing ingredients around these parts..."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Short-Tempered Wallit"
+  ],
+  "id": "q-41149"
+}

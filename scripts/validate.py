@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Validate data/v1/: JSON parseability, index/file consistency, id coverage."""
+
 import io
 import json
 import sys
@@ -22,7 +22,6 @@ def check(cond, msg):
 
 
 def main():
-    # 1. every JSON parses
     n_files = 0
     for p in DATA.rglob("*.json"):
         n_files += 1
@@ -32,7 +31,6 @@ def main():
             errors.append(f"unparseable: {p.relative_to(DATA)}: {e}")
     print(f"parsed {n_files} JSON files")
 
-    # 2. manifest + locale/category index consistency
     manifest = json.loads((DATA / "index.json").read_text(encoding="utf-8"))
     check(bool(manifest.get("data_version")), "manifest missing data_version")
     check(manifest.get("locales") == list(LOCALES), "manifest locales mismatch")
@@ -58,7 +56,6 @@ def main():
                      if p.name != "index.json"}
             check(set(slugs) == files, f"{lang}/quests/{qt}: index slugs != files")
 
-    # icons: every listed file exists and belongs to a known character
     icons = json.loads((DATA / "icons" / "index.json").read_text(encoding="utf-8"))
     char_ids = {i["id"] for i in json.loads(
         (DATA / "en" / "characters" / "index.json").read_text(encoding="utf-8"))["items"]}
@@ -68,8 +65,6 @@ def main():
         check(i["id"] in char_ids, f"icons: unknown character id {i['id']}")
     print(f"icons: {icons['count']}/{len(char_ids)} characters")
 
-    # 3. cross-locale id parity for entities (report only; untranslated items
-    #    in a given locale may legitimately lack an id)
     idsets = {}
     for cat in CATS:
         s = {}
@@ -81,7 +76,6 @@ def main():
         print(f"{cat}: en={len(s['en'])} ja={len(s['ja'])} zh={len(s['zh'])} "
               f"common={len(mask)}")
 
-    # 4. quest id coverage summary
     for qt in QTYPES:
         row = []
         for lang in LOCALES:

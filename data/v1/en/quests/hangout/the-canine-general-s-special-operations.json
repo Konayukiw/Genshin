@@ -1,0 +1,2802 @@
+{
+  "chapter": "Hangout Event: Gorou",
+  "chapter_title": "The Canine General's Special Operations",
+  "act": "Act 1",
+  "act_title": "The Canine General's Special Operations",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19018",
+      "title": "Accidental Encounter",
+      "dialogue": [
+        {
+          "section": "Talk to Gorou"
+        },
+        {
+          "s": 0,
+          "t": "There was definitely something strange about the way she looked at me at the end there... Could she be plotting something?"
+        },
+        {
+          "s": 0,
+          "t": "Sorry that you had to see that. The real reason I'm here at Yae Publishing House is to buy some books for Her Excellency."
+        },
+        {
+          "s": 0,
+          "t": "Since Watatsumi Island signed a peace treaty with the Shogunate, we've had much closer contact than we did before."
+        },
+        {
+          "s": 0,
+          "t": "I also wanted to come and see what things are like in an area ruled by the Shogunate. I hadn't counted on running into her..."
+        },
+        {
+          "sit": "Do you know Yae Miko well?"
+        },
+        {
+          "s": 0,
+          "t": "I've interacted with her a few times before, but I can't say I've ever gotten used to it."
+        },
+        {
+          "s": 0,
+          "t": "I've never been good at dealing with people like her. The way she towers over me, and speaks so cryptically... something about her is strangely intimidating..."
+        },
+        {
+          "s": 0,
+          "t": "I could probably deal with her in battle, but I don't know where to start when I run into her in normal life. I guess this is a weakness of mine."
+        },
+        {
+          "sit": "It's okay, let's just ignore her."
+        },
+        {
+          "s": 0,
+          "t": "You're right. I've heard Her Excellency say the same thing before — in any battle, you need to think about how to avoid your shortcomings. As long as I don't come into contact with Yae Miko, everything should be fine."
+        },
+        {
+          "sit": "Actually, Yae Miko's not all bad..."
+        },
+        {
+          "sit": "Let's steer clear of Yae Publishing House for now, then."
+        },
+        {
+          "s": 0,
+          "t": "Really? Phew, well, it's a relief to hear that."
+        },
+        {
+          "s": 0,
+          "t": "In that case, I still have some business to take care of with the Yae Publishing House."
+        },
+        {
+          "sit": "What is it?"
+        },
+        {
+          "s": 0,
+          "t": "They run a monthly magazine called \"That's Life,\" which has an advice column. Readers write in about their problems, and I'm responsible for responding to them."
+        },
+        {
+          "s": 0,
+          "t": "I'm not quite sure why they chose me, but it's my job now, and I can't give it up just like that."
+        },
+        {
+          "s": 0,
+          "t": "Yae Miko just handed me the latest batch of readers' letters. Let's find a place to write the replies, then pack them up and send them back to Yae Publishing House."
+        },
+        {
+          "s": 0,
+          "t": "Okay, whatever you think's best. Let's avoid Yae Publishing House for now."
+        },
+        {
+          "s": 0,
+          "t": "Actually, there's something else I have to sort out while I'm on Narukami Island. It's a personal matter."
+        },
+        {
+          "s": 0,
+          "t": "Back when we were fighting the Shogun's Army at Nazuchi Beach, I had a box with me that contained some very important items."
+        },
+        {
+          "s": 0,
+          "t": "The odds were stacked against us that day, and the resistance was forced to retreat. I had to abandon the box, but I managed to quickly bury it first."
+        },
+        {
+          "s": 0,
+          "t": "I went back to collect it on this trip, but it turned out someone had already dug it up. So I asked around the area, and the locals said that apparently, the Adventurers' Guild had beaten me to it."
+        },
+        {
+          "s": 0,
+          "t": "That box is very important to me. I have to get it back from the Adventurers' Guild. Would you mind coming along?"
+        },
+        {
+          "sit": "No problem."
+        },
+        {
+          "sit": "Well, since you asked..."
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much. Let's head right over — time is of the essence."
+        },
+        {
+          "s": 0,
+          "t": "Really? That would be great."
+        },
+        {
+          "s": 0,
+          "t": "To be honest, this is something that's always worried me. If the soldiers ever saw me in this kind of embarrassing situation, they'd be very disappointed."
+        },
+        {
+          "s": 0,
+          "t": "So, I have to overcome it. For their sake."
+        },
+        {
+          "s": 0,
+          "t": "As soon as I've worked through this, let's go take on Yae Miko again!"
+        },
+        {
+          "s": 0,
+          "t": "First things first, though. Do you have any ideas on where to begin, {NICKNAME}?"
+        },
+        {
+          "sit": "I can act as a personality you find difficult to deal with..."
+        },
+        {
+          "s": 0,
+          "t": "Good plan."
+        },
+        {
+          "s": 0,
+          "t": "Start by studying some theory, address the fear at its root, and then I'll have nothing to be afraid of."
+        },
+        {
+          "s": 0,
+          "t": "But where would I go to learn about this? I wouldn't know anyone on Narukami Island... Oh! Let's go back to Watatsumi Island and ask around there."
+        },
+        {
+          "s": 0,
+          "t": "I see. So if you pretend to be someone like her, I can keep practicing on you."
+        },
+        {
+          "s": 0,
+          "t": "If I can get the better of you, then I'll be able to hold my own when similar situations come up in the future."
+        },
+        {
+          "s": 0,
+          "t": "Good plan! Let's see... Where should we start?"
+        },
+        {
+          "sit": "Have you found yourself in scenarios like this before?"
+        },
+        {
+          "s": 0,
+          "t": "Now that you mention it, I remember having a similar experience back on Watatsumi Island."
+        },
+        {
+          "s": 0,
+          "t": "I was with my subordinates at the time. We ran into a merchant, I got caught up talking to them, and I don't quite know what happened, but I ended up buying a lot of things from them."
+        },
+        {
+          "sit": "Then I'll pretend to be a merchant!"
+        },
+        {
+          "s": 0,
+          "t": "I think we can give it a try. There's an island called Ritou nearby — why don't we go there?"
+        },
+        {
+          "s": 0,
+          "t": "I heard all the outlander merchants are based there, so it might help to create the right atmosphere."
+        },
+        {
+          "s": 0,
+          "t": "This place looks nice and quiet."
+        },
+        {
+          "s": 0,
+          "t": "Why don't we write the replies here? The sooner I get them finished and handed back to the publisher, the sooner we can go do something else."
+        },
+        {
+          "s": 0,
+          "t": "I just hope I don't have another run-in with you-know-who at Yae Publishing House later..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, the writing could take me some time. The questions I receive are often so strange that I have to think long and hard about how to best answer them."
+        },
+        {
+          "sit": "I'll go keep watch at Yae Publishing House."
+        },
+        {
+          "s": 0,
+          "t": "Great. Let's write the replies together. I'm actually interested to hear your perspective."
+        },
+        {
+          "s": 0,
+          "t": "Let me see here... hmm, let's start with this one."
+        },
+        {
+          "s": 0,
+          "t": "\"Today, a new guy came to our village. He was good-looking and had a lovely voice.\""
+        },
+        {
+          "s": 0,
+          "t": "\"When I peeked at him from behind the door, I felt my cheeks getting hotter, and my heart started beating faster and faster...\""
+        },
+        {
+          "s": 0,
+          "t": "See, I can tell right away that this is exactly the kind of question I'm no good at dealing with. The letter seems to be from a young lady... which is not a demographic where I can offer much expertise..."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, what's your take?"
+        },
+        {
+          "sit": "It sounds like she's falling in love."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Well, I don't know what it's like to be in love, but if you say so, {NICKNAME}, I think it makes sense."
+        },
+        {
+          "s": 0,
+          "t": "I'll reply like this then: \"It's likely that the feelings you're experiencing right now won't occur many times in your life. I urge you to summon the courage to seize this opportunity and see where it takes you — no matter where that may be.\""
+        },
+        {
+          "sit": "More professional than I expected..."
+        },
+        {
+          "s": 0,
+          "t": "What? Really?"
+        },
+        {
+          "s": 0,
+          "t": "But that's how it is in battle, too. Opportunities to seize victory are fleeting — when they arise, you have to capitalize on them right away."
+        },
+        {
+          "s": 0,
+          "t": "I imagine it's the same in love? That's my suggestion, anyway... Come on, let's read the next letter."
+        },
+        {
+          "sit": "It sounds like she's falling ill."
+        },
+        {
+          "s": 0,
+          "t": "Hmmm... I think so too."
+        },
+        {
+          "s": 0,
+          "t": "Many soldiers have developed similar symptoms in the past when we march in the rain. It's easy to catch a cold in wet weather."
+        },
+        {
+          "s": 0,
+          "t": "I've taken care of ill soldiers personally in the past, so I know this problem well."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, I'll reply: \"The temperature has dropped recently, and it's likely that you've caught a cold. Taking medicine will be an important part of your recovery, but don't overlook the importance of keeping warm and getting plenty of rest, too.\""
+        },
+        {
+          "s": 0,
+          "t": "I think that should do... Come on, let's read the next letter."
+        },
+        {
+          "sit": "What does this one say?"
+        },
+        {
+          "s": 0,
+          "t": "\"My neighbor is always borrowing money from me, but never seems to be able to pay me back on time. I have tried subtly raising the issue in conversation several times, but he always finds a way to dodge my questions...\""
+        },
+        {
+          "s": 0,
+          "t": "\"He was kind to me when I was young. I don't want to make things ugly, but the money issue bothers me a lot. Please help me.\""
+        },
+        {
+          "s": 0,
+          "t": "If this is a dispute between neighbors, it must be settled as soon as possible. It's like when conflict arises between generals in the army — the proper policy is to resolve it without delay."
+        },
+        {
+          "s": 0,
+          "t": "The most important thing in military regulations is fairness. It is only right to pay back a debt. I want to suggest that the writer demands their money back in no uncertain terms. Do you think it makes sense?"
+        },
+        {
+          "sit": "I completely agree."
+        },
+        {
+          "s": 0,
+          "t": "Okay, so let's reply along those lines."
+        },
+        {
+          "s": 0,
+          "t": "Let me think... how about this: \"It is good that you want to repay your neighbor's kindness, but be aware that you can find other ways to do this that don't involve lending them money. Right now, the most important thing for you to do is demand your money back. Being kind does not mean allowing your neighbor to walk all over you.\""
+        },
+        {
+          "s": 0,
+          "t": "And we are done with that letter. The next one seems longer, let me see..."
+        },
+        {
+          "sit": "Perhaps take a softer tone..."
+        },
+        {
+          "s": 0,
+          "t": "That makes sense, too. Giving the neighbor an ultimatum would likely harm the relationship between them."
+        },
+        {
+          "s": 0,
+          "t": "But the letter also makes it clear that no matter how many hints the writer gives him, the neighbor won't return the money..."
+        },
+        {
+          "s": 0,
+          "t": "In that case, how about we reply like this:"
+        },
+        {
+          "s": 0,
+          "t": "\"Why not ask to borrow some money from your neighbor? Any sum he agrees to lend you can be used to offset the amount he owes. Even if he refuses to lend to you, at least by asking to borrow from him, you are sending him the message that your own financial position is far from optimal, and he will be unlikely to ask you for money again in the near future.\""
+        },
+        {
+          "sit": "Are you sure that will work?"
+        },
+        {
+          "s": 0,
+          "t": "I don't know. But it's worth a try. The most important thing is to muster the courage to resist, and not give the other person the impression that you are someone they can take advantage of."
+        },
+        {
+          "s": 0,
+          "t": "And we are done with this letter. The next one seems longer, let me see..."
+        },
+        {
+          "s": 0,
+          "t": "\"Hello, I was born on Narukami Island and I'm now a soldier in the resistance...\""
+        },
+        {
+          "s": 0,
+          "t": "So this is from one of my troops?"
+        },
+        {
+          "sit": "Is it someone you know?"
+        },
+        {
+          "s": 0,
+          "t": "Most likely. But I'm not sure who."
+        },
+        {
+          "s": 0,
+          "t": "Before passing any readers' letters on to me, Yae Publishing House has their staff copy each one by hand and redact all names in the process."
+        },
+        {
+          "s": 0,
+          "t": "So I can't be sure who exactly this is... anyway, let's keep reading."
+        },
+        {
+          "s": 0,
+          "t": "\"I couldn't turn a blind eye to the Vision Hunt Decree, and my anger drove me to join the resistance. My comrades and I have fought side by side, and I have formed deep friendships with them.\""
+        },
+        {
+          "s": 0,
+          "t": "\"Since we achieved our goal and the war came to an end, I have remained on Watatsumi Island. But this is not my hometown, and I often find myself dreaming of the cherry blossoms falling on Narukami Island.\""
+        },
+        {
+          "s": 0,
+          "t": "\"I now don't know whether to stay here or return home. The resistance has treated me well, and I've long been disillusioned by the Shogunate, but my hometown tugs constantly at my heartstrings...\""
+        },
+        {
+          "s": 0,
+          "t": "How should I reply to him, {NICKNAME}?"
+        },
+        {
+          "sit": "You'll have to answer this one, Gorou."
+        },
+        {
+          "sit": "I can't help you this time."
+        },
+        {
+          "s": 0,
+          "t": "Let me think about it."
+        },
+        {
+          "s": 0,
+          "t": "To be blunt, I obviously don't want any soldiers under my command to leave."
+        },
+        {
+          "s": 0,
+          "t": "But, if making them stay causes them pain... how are my actions any different from the Vision Hunt Decree?"
+        },
+        {
+          "s": 0,
+          "t": "I suppose I'll reply... \"Narukami Island has changed. You should go back and visit.\""
+        },
+        {
+          "s": 0,
+          "t": "...That should do it."
+        },
+        {
+          "sit": "Gorou..."
+        },
+        {
+          "sit": "Are you okay?"
+        },
+        {
+          "s": 0,
+          "t": "I'll be okay. Come on, let's finish the rest of the letters."
+        },
+        {
+          "s": 0,
+          "t": "Thanks to you, {NICKNAME}, writing the responses went very smoothly this time. Let's go and deliver them to the Yae Publishing House, shall we?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, you want to scout ahead?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, that works. This way, if Yae Miko's lying in wait for me there, I can avoid her."
+        },
+        {
+          "s": 0,
+          "t": "But stay sharp, okay! She is a force to be reckoned with... you must be sure to tread carefully."
+        },
+        {
+          "s": 0,
+          "t": "If you spot her, get yourself back here right away, and we'll run for our lives!"
+        },
+        {
+          "s": 0,
+          "t": "I mean, um, ahem, we'll make a strategic retreat... Anyway. I'm counting on you."
+        },
+        {
+          "section": "Go to a quiet spot to finish writing the replies"
+        },
+        {
+          "s": 1,
+          "t": "I really can't recommend that store highly enough. A couple more visits, and you'll find that the fur on your tail is silky-smooth."
+        },
+        {
+          "s": 1,
+          "t": "A gorgeous tail like yours deserves lots of tender loving care. Hehe... don't you agree?"
+        },
+        {
+          "s": 0,
+          "t": "No need, I'm not interested in that kind of thing."
+        },
+        {
+          "s": 1,
+          "t": "You say that... but do I see your ears saying otherwise?"
+        },
+        {
+          "s": 1,
+          "t": "Although your tail isn't professionally maintained, the fur doesn't look dry and coarse. To me, this says you like to take care of it."
+        },
+        {
+          "s": 1,
+          "t": "I'm also guessing that you like to curl up into a fetal position and hug your fluffy tail tight as you go off to sleep."
+        },
+        {
+          "s": 0,
+          "t": "How do you kn— Ahem!"
+        },
+        {
+          "s": 0,
+          "t": "Don't be ridiculous! I'm a high-ranking general of Watatsumi Island, how could I do such a thing!"
+        },
+        {
+          "s": 1,
+          "t": "It's okay, there's no need to be embarrassed. The desire to cuddle up to a soft tail while sleeping is quite natural."
+        },
+        {
+          "s": 0,
+          "t": "Really?"
+        },
+        {
+          "s": 0,
+          "t": "Wait, no, why are we still on this topic..."
+        },
+        {
+          "s": 0,
+          "t": "In fact, why am I even here talking about tails with you in the first place?"
+        },
+        {
+          "s": 1,
+          "t": "Why... Because you are blessed with a wonderful fluffy tail, that's why. I think it's very cute."
+        },
+        {
+          "s": 0,
+          "t": "Argh, I'm trapped... how do I get out of this..."
+        },
+        {
+          "sit": "Alright, that's enough!"
+        },
+        {
+          "sit": "Don't bully Gorou!"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}... Thank goodness."
+        },
+        {
+          "s": 0,
+          "t": "Please, save me..."
+        },
+        {
+          "s": 1,
+          "t": "Oh? And how is my favorite little one doing, hmm?"
+        },
+        {
+          "s": 1,
+          "t": "I didn't expect to meet you here. We were just talking about tails..."
+        },
+        {
+          "s": 1,
+          "t": "Gorou has a beautiful tail, don't you think? Doesn't it make you want to stroke it?"
+        },
+        {
+          "sit": "(Look warily at Yae Miko)"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, don't be nervous. Just follow your heart's desire."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}'s not going to fall for it. We've fought side by side!"
+        },
+        {
+          "sit": "(Steal a glance at Gorou's tail)"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Not you too..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe. Gorou, now do you understand how appealing your tail is?"
+        },
+        {
+          "s": 2,
+          "t": "Pardon me. Lady Guuji, we have completed the matter you instructed us about previously."
+        },
+        {
+          "s": 2,
+          "t": "We have selected a very skilled artist to be in charge. I'm confident that the finished products will be to your satisfaction..."
+        },
+        {
+          "s": 1,
+          "t": "I'll take a look later, and if everything's in order, place it in front of the store."
+        },
+        {
+          "s": 1,
+          "t": "Alright, I won't tease the two of you any further."
+        },
+        {
+          "s": 1,
+          "t": "Do make the most of your trip here, won't you? Quite a lot has changed."
+        },
+        {
+          "s": 1,
+          "t": "Hehe... I wish you both a fun-filled time on Narukami Island."
+        }
+      ],
+      "description": "You meet Gorou and Yae Miko near Yae Publishing House. Gorou seems to be somewhat troubled..."
+    },
+    {
+      "id": "q-19019",
+      "title": "What Shall We Do?",
+      "dialogue": [
+        {
+          "section": "Seek solutions on Watatsumi Island"
+        },
+        {
+          "s": 0,
+          "t": "Phew, I feel more at ease on Watatsumi Island."
+        },
+        {
+          "s": 0,
+          "t": "I had an idea on the way here."
+        },
+        {
+          "s": 0,
+          "t": "Many of my army comrades are older than me, and I'm sure that handling this kind of situation must be second nature to them by now. So I thought we could go ask them for advice."
+        },
+        {
+          "s": 0,
+          "t": "But I can't just go to them and say, \"Hey, I'm no good at this.\" So instead, I'm going to go with a cover story: that I'm \"asking for a friend.\""
+        },
+        {
+          "s": 3,
+          "t": "I see, so you're saying that you're... your friend, sorry, is having some trouble with a certain someone who has an intense personality?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. So I'm here on my friend's behalf to ask you for advice on a coping strategy."
+        },
+        {
+          "s": 3,
+          "t": "Hmm... Based on my experience, the easiest way to deal with people like that is just go through the motions."
+        },
+        {
+          "sit": "What's the logic behind that?"
+        },
+        {
+          "s": 3,
+          "t": "Well you see, General Gorou— General Gorou's friend, I mean, always listens intently when other people are talking, and takes them very seriously."
+        },
+        {
+          "s": 3,
+          "t": "No matter who the other person is, General Gorou's friend treats them all equally — which, don't get me wrong, is something I admire very much."
+        },
+        {
+          "s": 3,
+          "t": "But the other side of the coin is that it makes General Gorou's friend very susceptible to falling for the other party's verbal traps and being led by the nose."
+        },
+        {
+          "s": 3,
+          "t": "If something like that is bothering you, your best bet is simply to not give the other party your full, undivided attention. Don't hang on their every word, and when they ask a difficult question, just gloss over it."
+        },
+        {
+          "s": 0,
+          "t": "That makes a lot of sense, actually... so that's how it's done."
+        },
+        {
+          "s": 3,
+          "t": "Haha, well, it's something to try. Whether it'll actually work in this case is a different question."
+        },
+        {
+          "s": 3,
+          "t": "Going through the motions is a skill that everyone has to get the hang of as they get older. I'm guessing General Gorou's friend is on the younger side."
+        },
+        {
+          "s": 0,
+          "t": "Well, on my friend's behalf, thank you for your advice."
+        },
+        {
+          "s": 3,
+          "t": "Don't mention it. Oh yes, I heard that Miwa from Sangonomiya Shrine is also in the area. Why don't you ask her for advice, too?"
+        },
+        {
+          "s": 3,
+          "t": "She's supposed to be good with interpersonal stuff. It can't hurt to get another perspective."
+        },
+        {
+          "s": 0,
+          "t": "Makes sense... Alright {NICKNAME}, let's see what Miwa has to say."
+        },
+        {
+          "section": "Ask Shuuhei for suggestions"
+        },
+        {
+          "s": 4,
+          "t": "General Gorou, and the Captain of Swordfish II... What are you doing here?"
+        },
+        {
+          "s": 0,
+          "t": "We wanted to ask you about something."
+        },
+        {
+          "s": 4,
+          "t": "I see, so General Gorou's... friend wants to overcome his weakness, right?"
+        },
+        {
+          "s": 0,
+          "t": "That's right, do you have any advice?"
+        },
+        {
+          "s": 4,
+          "t": "Hmmm... let me think..."
+        },
+        {
+          "s": 4,
+          "t": "My advice would be to hide what you are really thinking."
+        },
+        {
+          "sit": "Hide your thoughts..."
+        },
+        {
+          "sit": "Interesting..."
+        },
+        {
+          "s": 4,
+          "t": "Cast your minds back. Why do you think Yae Miko was able to tease General Gorou's friend, and not the other way around?"
+        },
+        {
+          "s": 4,
+          "t": "It's because she always has that same smile on her face, so no one ever knows what she's really thinking. She's already won the battle right from the start."
+        },
+        {
+          "s": 4,
+          "t": "If General Gorou's friend wants to go head-on with her, he must at least learn to do as she does — to conceal the workings of his mind."
+        },
+        {
+          "s": 0,
+          "t": "You make so much sense. So what you're saying is, my friend just needs to keep his cool, and she won't have the chance to take advantage of him."
+        },
+        {
+          "s": 4,
+          "t": "Exactly."
+        },
+        {
+          "s": 4,
+          "t": "Many things look complicated on the surface, but often all it comes down to is who loses their cool first."
+        },
+        {
+          "s": 0,
+          "t": "Wonderful! You have my gratitude."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure with your approach, that friend of mine will be able to overcome his weakness, haha."
+        },
+        {
+          "s": 4,
+          "t": "Then I wish General Gorou's friend a great victory."
+        },
+        {
+          "s": 0,
+          "t": "Well, I'm slowly starting to gain confidence!"
+        },
+        {
+          "s": 0,
+          "t": "Oh {NICKNAME}, I've suddenly remembered — Her Excellency updated her General Operational Directives recently."
+        },
+        {
+          "s": 0,
+          "t": "Who knows, there may be some useful suggestions in there, too. Let's go take a look, just to be thorough."
+        },
+        {
+          "section": "Ask Miwa for suggestions"
+        },
+        {
+          "s": 0,
+          "t": "Let's see..."
+        },
+        {
+          "s": 0,
+          "t": "Deployment and mobilization... logistics... conflict resolution... dealing with outlander merchants..."
+        },
+        {
+          "s": 0,
+          "t": "Aha! I've got it!"
+        },
+        {
+          "s": 0,
+          "t": "\"How to avoid awkward social situations.\" That's Her Excellency for you... she thinks of everything, doesn't she?"
+        },
+        {
+          "sit": "What does it say?"
+        },
+        {
+          "s": 0,
+          "t": "\"Socializing is as important as a decisive battle. Know yourself and your enemy to succeed.\""
+        },
+        {
+          "s": 0,
+          "t": "Boy, if even Her Excellency treats this so seriously, then we'd really better be careful."
+        },
+        {
+          "s": 0,
+          "t": "What I take from this is, it's not enough just to learn some general countermeasures. We need specific knowledge of Yae Miko's individual weaknesses to achieve ultimate victory."
+        },
+        {
+          "s": 0,
+          "t": "But how do we figure her out?"
+        },
+        {
+          "sit": "I think we can visit Yae Publishing House."
+        },
+        {
+          "s": 0,
+          "t": "Yae Publishing House... makes sense."
+        },
+        {
+          "s": 0,
+          "t": "Since she goes there often, perhaps we can find some telling details about her there."
+        },
+        {
+          "s": 0,
+          "t": "Let's go and investigate."
+        },
+        {
+          "section": "Follow Gorou to look for the directives"
+        },
+        {
+          "s": 5,
+          "t": "Greetings. Here to buy some books? We just got a new batch of light novels in — these ones are all the rage at the moment."
+        },
+        {
+          "s": 5,
+          "t": "I must say that Lady Guuji has a keen eye for a good book. Almost every one she picks is a bestseller..."
+        },
+        {
+          "s": 5,
+          "t": "Apparently, the rumor goes that if you can impress Lady Guuji with your writing, you're just one small step away from becoming the next big author."
+        },
+        {
+          "sit": "Are these books personally selected by Yae Miko?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. Well, first, we screen all manuscripts, filter out the bad ones, and write synopses for the rest. Then, we send those to Lady Guuji for final approval."
+        },
+        {
+          "s": 0,
+          "t": "So, you have close dealings with Guuji Yae? What sort of person is she?"
+        },
+        {
+          "s": 5,
+          "t": "Hmm, well for starters, she's a very busy person. Whenever she visits the Yae Publishing House, she never stays for long... so actually, we don't know a whole lot about her..."
+        },
+        {
+          "s": 5,
+          "t": "Still, she seems very invested in Yae Publishing House, and on occasion she'll share some of her promotional strategies with us."
+        },
+        {
+          "s": 5,
+          "t": "Take \"That's Life\" magazine, for example. When we first started running it, sales were very poor — the return was barely covering costs, and for a while it was on the verge of being axed."
+        },
+        {
+          "s": 5,
+          "t": "But the fans weren't happy about the prospect of their favorite magazine being discontinued. They kept writing in, begging us to keep it going. So in the end, Lady Guuji stepped in and drew up a new marketing plan."
+        },
+        {
+          "s": 5,
+          "t": "Next thing you know, sales are through the roof!"
+        },
+        {
+          "s": 0,
+          "t": "\"That's Life\"? Wait, isn't that..."
+        },
+        {
+          "sit": "What's up?"
+        },
+        {
+          "s": 0,
+          "t": "Nothing... it just reminded me of something unrelated."
+        },
+        {
+          "s": 0,
+          "t": "I didn't realize Yae Miko personally handled the marketing for Yae Publishing House. Yet more proof of her unparalleled skill in reading people's minds..."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, thank you very much. Is there anything more you can tell me about Guuji Yae?"
+        },
+        {
+          "s": 5,
+          "t": "Uh, no. That's all..."
+        },
+        {
+          "s": 5,
+          "t": "Look, I'm not sure what your plan is here, but I caution you against trying to second-guess Lady Guuji."
+        },
+        {
+          "s": 5,
+          "t": "Just my opinion, but she's the most mysterious person I've ever met!"
+        },
+        {
+          "s": 0,
+          "t": "You think she's mysterious, too? ...I guess we can forget about getting any insights this way, then."
+        },
+        {
+          "s": 0,
+          "t": "Actually, you said that this batch of light novels was handpicked by her, right?"
+        },
+        {
+          "s": 0,
+          "t": "Maybe we could take a brief look? Perhaps we can get some inspiration from them."
+        },
+        {
+          "s": 5,
+          "t": "Sure. If you are interested, I recommend this book: \"I've Been to Other Worlds But I've Never Tasted Defeat.\""
+        },
+        {
+          "s": 5,
+          "t": "The protagonist doesn't have any particularly exciting abilities, but never fails to defeat strong opponents. It's all thanks to their wealth of experience and cunning strategies."
+        },
+        {
+          "s": 0,
+          "t": "Cunning strategies... In that sense, it sounds similar to Her Excellency, Sangonomiya."
+        },
+        {
+          "s": 5,
+          "t": "Oh, there's an iconic line in this book that people quite like: \"One who relinquishes nothing also gains nothing.\" If you want to win when you're at a disadvantage, a little sacrifice is probably going to be necessary."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for the valuable advice."
+        },
+        {
+          "s": 0,
+          "t": "Well, one more string to our strategic bow. Although I didn't learn much about my enemy, I've still learned a lot from everyone."
+        },
+        {
+          "s": 0,
+          "t": "It's time to put these theories to the test. Let's go to Yae Miko's lair... the Grand Narukami Shrine!"
+        },
+        {
+          "section": "Go to Yae Publishing House"
+        },
+        {
+          "s": 0,
+          "t": "So this is the Grand Narukami Shrine... it's the first time I've been to this place."
+        },
+        {
+          "s": 6,
+          "t": "Hello there. You look like you have something weighing on your mind. Would you like to draw a Fortune Slip?"
+        },
+        {
+          "s": 6,
+          "t": "The Grand Narukami Shrine's Fortune Slips have always been very accurate."
+        },
+        {
+          "s": 0,
+          "t": "I've heard that the generals of the past used to employ all sorts of divination techniques to find out their fortune before a battle."
+        },
+        {
+          "s": 0,
+          "t": "I'm not in the habit of it, but since the opportunity's come up, I'd like to give it a try."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, let's draw one together."
+        },
+        {
+          "sit": "Select the center-right Fortune Slip."
+        },
+        {
+          "sit": "Select the center-left Fortune Slip."
+        },
+        {
+          "s": 0,
+          "t": "Let's see what we've drawn..."
+        },
+        {
+          "s": 0,
+          "t": "I—It's Great Misfortune..."
+        },
+        {
+          "s": 0,
+          "t": "Hold me, {NICKNAME}, I don't feel so good..."
+        },
+        {
+          "sit": "This must be a trap."
+        },
+        {
+          "s": 0,
+          "t": "A trap?"
+        },
+        {
+          "s": 0,
+          "t": "Are you saying that Yae Miko fears us and tried to sabotage our plans by making sure we drew Great Misfortune?"
+        },
+        {
+          "s": 0,
+          "t": "Grr, who knew she'd stoop so low! Well, I will not be intimidated!"
+        },
+        {
+          "s": 0,
+          "t": "Let's see what we've drawn..."
+        },
+        {
+          "s": 0,
+          "t": "Oh no, it's Misfortune."
+        },
+        {
+          "s": 0,
+          "t": "This is a bad sign. The road ahead is going to be a dangerous one."
+        },
+        {
+          "sit": "Don't fret."
+        },
+        {
+          "sit": "We will not be deterred!"
+        },
+        {
+          "s": 0,
+          "t": "You're right. When I think about it, I'm a general of Watatsumi Island. I shouldn't let some Narukami Island fortune slip hold me back."
+        },
+        {
+          "s": 0,
+          "t": "Onward!"
+        },
+        {
+          "s": 0,
+          "t": "Let's see what we've drawn..."
+        },
+        {
+          "s": 0,
+          "t": "Good Fortune."
+        },
+        {
+          "s": 0,
+          "t": "Not bad, at least it's something good."
+        },
+        {
+          "s": 0,
+          "t": "It means that our training must have been effective. Things will go differently this time!"
+        },
+        {
+          "s": 0,
+          "t": "Let's see what we've drawn..."
+        },
+        {
+          "s": 0,
+          "t": "Great Fortune!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, so we have luck on our side."
+        },
+        {
+          "s": 0,
+          "t": "We can definitely show her who's boss today, let's go!"
+        },
+        {
+          "section": "Ask Kuroda for information"
+        },
+        {
+          "s": 0,
+          "t": "Any second now, we'll be face to face with her..."
+        },
+        {
+          "sit": "We're in this together."
+        },
+        {
+          "sit": "Let's show her who's boss!"
+        },
+        {
+          "s": 0,
+          "t": "Don't worry, all our hard work is definitely going to pay off."
+        },
+        {
+          "s": 0,
+          "t": "She can forget about teasing me this time!"
+        },
+        {
+          "s": 1,
+          "t": "Oh? You arrived a little later than expected. Did you run into some trouble along the way?"
+        },
+        {
+          "sit": "You knew we were coming?"
+        },
+        {
+          "s": 1,
+          "t": "But of course. That's why I'm here waiting for you."
+        },
+        {
+          "s": 0,
+          "t": "Hmph, so what if you knew we were coming? This time, we won't get caught off guard. We're here to..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe... Slow down, no need to rush. Let me guess."
+        },
+        {
+          "s": 1,
+          "t": "In the past, I used to have many believers coming to see me at the shrine every day, and most of them came for the same reason."
+        },
+        {
+          "s": 1,
+          "t": "Especially those who came in pairs. Nine times out of ten, they were here seeking to know their future fate, hoping that it would be a lifetime together."
+        },
+        {
+          "s": 1,
+          "t": "If you're interested, I'd be quite happy to do a reading for you two."
+        },
+        {
+          "s": 0,
+          "t": "Together... for a lifetime?"
+        },
+        {
+          "sit": "Whoa there, calm down, Gorou!"
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, remember what Shuuhei said? We mustn't pay too much attention to what she says."
+        },
+        {
+          "s": 0,
+          "t": "Otherwise, we may be fooled by her cunning words..."
+        },
+        {
+          "s": 1,
+          "t": "Now that I think about it, perhaps I never needed to recommend that store to you in the first place."
+        },
+        {
+          "s": 1,
+          "t": "You can just leave all your fur grooming to your little friend here. Imagine {F#her}{M#him} holding your tail in one hand, combing it gently with the other..."
+        },
+        {
+          "s": 0,
+          "t": "Uh-oh, not good. My mind is already full of mental images..."
+        },
+        {
+          "sit": "Yeah, me too..."
+        },
+        {
+          "sit": "Can't unthink it now..."
+        },
+        {
+          "s": 0,
+          "t": "I'll have to resort to the method Miwa taught us..."
+        },
+        {
+          "s": 1,
+          "t": "By the way, there's really no point in trying to hide the way you feel."
+        },
+        {
+          "s": 1,
+          "t": "You might be able to remain stony-faced if you really try, but with your tail swishing behind you... Hehe, it tells everything."
+        },
+        {
+          "s": 0,
+          "t": "What!"
+        },
+        {
+          "s": 1,
+          "t": "Then again {NICKNAME}, you know what?"
+        },
+        {
+          "s": 1,
+          "t": "Most people only pay attention to your tail, but those soft, pointy ears are really just as fascinating."
+        },
+        {
+          "sit": "Please, no more."
+        },
+        {
+          "sit": "I can't take it anymore."
+        },
+        {
+          "s": 0,
+          "t": "There's only one method left... a cunning strategy that no one saw coming..."
+        },
+        {
+          "s": 0,
+          "t": "This is going to hurt me almost as much as it hurts my opponent... but there's no other way."
+        },
+        {
+          "sit": "Gorou..."
+        },
+        {
+          "s": 0,
+          "t": "I think the real reason you know me so well... is that you're just like me!"
+        },
+        {
+          "s": 0,
+          "t": "Just like me, you hug your tail when you go to sleep... and just like me, you daydream about someone else grooming your tail for you!"
+        },
+        {
+          "s": 1,
+          "t": "I see. You decided to admit to your feelings in an effort to bring me down with you..."
+        },
+        {
+          "s": 1,
+          "t": "Not bad. I suppose this is a step forward for you. But I'm afraid..."
+        },
+        {
+          "s": 1,
+          "t": "I don't have a tail at all."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "sit": "Gorou..."
+        },
+        {
+          "sit": "K.O..."
+        },
+        {
+          "s": 0,
+          "t": "Retreat... Retreat!"
+        },
+        {
+          "s": 0,
+          "t": "Fighting on is futile, better to conserve resources for the next confrontation... we're out of here, {NICKNAME}!"
+        },
+        {
+          "s": 0,
+          "t": "When I get back, I'm going to train harder than I've ever trained before. I won't lose to her again!"
+        },
+        {
+          "s": 1,
+          "t": "Bye-bye now. Come again soon."
+        },
+        {
+          "s": 3,
+          "t": "Glad I could be of help."
+        },
+        {
+          "section": "Read the directives with Gorou"
+        },
+        {
+          "s": 4,
+          "t": "You can't be too careful when you're going up against Yae Miko."
+        },
+        {
+          "s": 0,
+          "t": "Most people who wish to have an audience with Her Excellency usually start by presenting their name cards and official documents to Miwa, who then passes them along."
+        },
+        {
+          "s": 0,
+          "t": "So I'm sure Miwa has lots of experience dealing with all kinds of people. Hopefully, she'll have some good ideas."
+        },
+        {
+          "s": 0,
+          "t": "Her Excellency handed me the General Operational Directives in three parts, and I think this is where I placed them..."
+        }
+      ],
+      "description": "You decide to help Gorou find a way to defeat Yae Miko so that he may exorcise his fears."
+    },
+    {
+      "id": "q-19020",
+      "title": "Special Training",
+      "dialogue": [
+        {
+          "section": "Go to Ritou, ever-bustling with commercial activity"
+        },
+        {
+          "s": 0,
+          "t": "So this is Ritou."
+        },
+        {
+          "s": 0,
+          "t": "Although it looks slightly gloomy, it feels very peaceful here. I don't see any Tenryou Commission soldiers roaming the streets... What a nice place."
+        },
+        {
+          "s": 0,
+          "t": "Okay, let's get started! I'll be me, and you be a shrewd and savvy businesswoman."
+        },
+        {
+          "sit": "Oh, it's you. You came all this way to see me?"
+        },
+        {
+          "sit": "Welcome to Tsukumomono Groceries, we've got everything you need..."
+        },
+        {
+          "s": 0,
+          "t": "Hi, so... a lot of the soldiers have been complaining about a shortage of blankets recently."
+        },
+        {
+          "s": 0,
+          "t": "So, uh... ten blankets, please."
+        },
+        {
+          "sit": "20,000 Mora."
+        },
+        {
+          "s": 0,
+          "t": "Okay, I'll settle the check right away..."
+        },
+        {
+          "sit": "That's it? Just like that?"
+        },
+        {
+          "s": 0,
+          "t": "The price seems pretty cheap to me. In which case, no need to haggle, right?"
+        },
+        {
+          "sit": "200,000 Mora, then."
+        },
+        {
+          "s": 0,
+          "t": "I think that's still not too bad... Is that supposed to be really expensive?"
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry, in the past, Her Excellency has always handled procurement of military supplies."
+        },
+        {
+          "s": 0,
+          "t": "I don't know the specific prices of these items, so I never really know how to respond..."
+        },
+        {
+          "s": 0,
+          "t": "This won't get us anywhere. I have to haggle to give you the chance to use your wily tricks on me. What do we do now?"
+        },
+        {
+          "sit": "Let's switch to something that you're more interested in."
+        },
+        {
+          "s": 0,
+          "t": "Something I'm more interested in? Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "Maybe, um... cake?"
+        },
+        {
+          "sit": "100,000 Mora for a slice of cake."
+        },
+        {
+          "s": 0,
+          "t": "That's so expensive! I know what a fair price is when it comes to cake!"
+        },
+        {
+          "sit": "If you want to bargain, you'll have to do as I say."
+        },
+        {
+          "sit": "If you can do one little thing for me..."
+        },
+        {
+          "s": 0,
+          "t": "Wait a sec, if you think about this from another angle..."
+        },
+        {
+          "s": 0,
+          "t": "A cake that costs 100,000 Mora per slice must be so much better than a regular cake!"
+        },
+        {
+          "s": 0,
+          "t": "Lemme see, I've been saving up recently — I think I should have enough..."
+        },
+        {
+          "sit": "???"
+        },
+        {
+          "sit": "Hold on."
+        },
+        {
+          "s": 0,
+          "t": "So... there isn't really a kind of cake that costs 100,000 Mora per slice?"
+        },
+        {
+          "sit": "I really don't think so..."
+        },
+        {
+          "sit": "I... don't know..."
+        },
+        {
+          "s": 0,
+          "t": "What a shame."
+        },
+        {
+          "s": 0,
+          "t": "I feel like role-playing as a vendor is a little outside our area of expertise. Hmm, what kind of person do we both see regularly enough to impersonate convincingly?"
+        },
+        {
+          "sit": "I think I've met Fatui with the right kind of personality..."
+        },
+        {
+          "s": 0,
+          "t": "Fatui? Then it looks like a trip into the wild is in order."
+        },
+        {
+          "s": 0,
+          "t": "Let's go give it a try!"
+        },
+        {
+          "section": "Play the part of a merchant and talk to Gorou"
+        },
+        {
+          "s": 0,
+          "t": "I've dealt with Fatui before, but I always end up against those big stocky guys who are much taller than me."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure I must train just as hard as they do every day, but somehow, I still don't have the muscles to show for it. Maybe I'll start to see the results in a few more years."
+        },
+        {
+          "sit": "I can't wait to see that."
+        },
+        {
+          "s": 0,
+          "t": "Right? Haha... I mean, at the very least, I need to look more muscular than my subordinates."
+        },
+        {
+          "sit": "I like you just the way you are."
+        },
+        {
+          "s": 0,
+          "t": "Really? That's very kind. But still, I think that I should aim to look more muscular than my subordinates at the very least."
+        },
+        {
+          "s": 0,
+          "t": "I know that people's trust in me has nothing to do with my size, but if I were taller and bulkier, they'd be able to identify me from behind more easily when charging into battle."
+        },
+        {
+          "s": 0,
+          "t": "That way, our forces wouldn't scatter so easily. As long as I was on the field, they'd be able to follow me."
+        },
+        {
+          "s": 0,
+          "t": "Ah, enough of that. Let's get back to it! Who are you going to role-play as this time?"
+        },
+        {
+          "sit": "The more, the merrier!"
+        },
+        {
+          "sit": "Are you... here to play with me?"
+        },
+        {
+          "sit": "Let me amuse myself a little..."
+        },
+        {
+          "s": 0,
+          "t": "What!"
+        },
+        {
+          "s": 0,
+          "t": "I smell danger!"
+        },
+        {
+          "sit": "Hehe, it's just me."
+        },
+        {
+          "sit": "Looks like I was pretty convincing."
+        },
+        {
+          "s": 0,
+          "t": "Really? Huh, for a moment there, I could have sworn the actual Fatui were right here..."
+        },
+        {
+          "s": 0,
+          "t": "No, wait {NICKNAME}... behind you!"
+        },
+        {
+          "s": 0,
+          "t": "It wasn't my imagination, they really are here. Prepare to engage!"
+        },
+        {
+          "section": "Go to the wilds of Narukami Island where the Fatui are"
+        },
+        {
+          "s": 0,
+          "t": "It's all fun and games until the real Fatui show up, huh..."
+        },
+        {
+          "s": 0,
+          "t": "That little interruption has really ruined the mood for me. Let's not do any more Fatui impressions for today."
+        },
+        {
+          "s": 0,
+          "t": "It seems in poor taste after the trouble they caused in Watatsumi Island, anyway... Do we have any other options?"
+        },
+        {
+          "sit": "There's only one thing for it."
+        },
+        {
+          "sit": "Time for plan Z."
+        },
+        {
+          "s": 0,
+          "t": "Hmm. What do you mean...?"
+        },
+        {
+          "sit": "Let's cut to the chase!"
+        },
+        {
+          "sit": "I'll imitate the person you fear the most."
+        },
+        {
+          "s": 0,
+          "t": "!!!"
+        },
+        {
+          "s": 0,
+          "t": "I—Isn't this moving a little too fast?"
+        },
+        {
+          "s": 0,
+          "t": "Her Excellency advocates slow and steady progress in all things, and cautions against trying to advance too quickly."
+        },
+        {
+          "s": 0,
+          "t": "To clarify, it's not that I'm scared, it's just that I don't know if the time is right..."
+        },
+        {
+          "sit": "Be brave and give it a try."
+        },
+        {
+          "sit": "It's time to take this step."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "I guess you're right. Thanks for your encouragement, it's not like me to shy away from a challenge like this."
+        },
+        {
+          "s": 0,
+          "t": "Let's do it — time for a make-or-break training exercise!"
+        },
+        {
+          "section": "Play the part of a Fatuus and talk to Gorou"
+        },
+        {
+          "s": 0,
+          "t": "And we're back."
+        },
+        {
+          "sit": "Ready?"
+        },
+        {
+          "s": 0,
+          "t": "Don't worry. My head's in the game this time."
+        },
+        {
+          "s": 0,
+          "t": "I am a high-ranking military officer of Watatsumi Island and the general of the resistance. Whatever tricks you've got up your sleeve, you're not going to get to me."
+        },
+        {
+          "s": 0,
+          "t": "So bring it on!"
+        },
+        {
+          "sit": "It sounds like you won't mind if I don't go easy on you?"
+        },
+        {
+          "sit": "How adorable."
+        },
+        {
+          "s": 0,
+          "t": "This feels like..."
+        },
+        {
+          "sit": "Let's see that gorgeous tail!"
+        },
+        {
+          "sit": "Go on, let me rub your ears!"
+        },
+        {
+          "s": 0,
+          "t": "Yes, it definitely feels like..."
+        },
+        {
+          "sit": "Like Yae Miko?"
+        },
+        {
+          "s": 0,
+          "t": "No, not even slightly."
+        },
+        {
+          "sit": "???"
+        },
+        {
+          "s": 0,
+          "t": "It's not that you do a bad impression of her. More like... something is missing."
+        },
+        {
+          "s": 0,
+          "t": "I finally realized it when you were talking to me just now. I think that maybe what I'm really afraid of is her knowing smile and her piercing gaze."
+        },
+        {
+          "s": 0,
+          "t": "It just makes me feel like all my secrets have nowhere to hide, like she can just peer in and see them. But it's different with you. I trust you, so I don't feel I need to hide my secrets in the first place."
+        },
+        {
+          "s": 0,
+          "t": "Even when you're imitating the way she speaks, I don't feel afraid. Because we've fought side by side in the past, and I know I don't have to have my guard up around you."
+        },
+        {
+          "sit": "That makes sense..."
+        },
+        {
+          "s": 0,
+          "t": "*sigh*... But it also means that this training won't work."
+        },
+        {
+          "s": 0,
+          "t": "I just have to accept that this is a weakness of mine, as much as it pains me to do so."
+        },
+        {
+          "s": 0,
+          "t": "The thought of having to live with this weakness forever is frustrating..."
+        },
+        {
+          "sit": "Why don't we go buy some cake?"
+        },
+        {
+          "sit": "Surely some cake will cheer you up."
+        },
+        {
+          "s": 0,
+          "t": "Are you serious? I'd love that!"
+        },
+        {
+          "s": 0,
+          "t": "I haven't eaten anything sweet in a long time..."
+        },
+        {
+          "s": 0,
+          "t": "Off we go! Let's go buy some cake!"
+        },
+        {
+          "s": 0,
+          "t": "Alright! The next step is to find somewhere nice and quiet..."
+        },
+        {
+          "section": "Defeat the attacking Fatui"
+        },
+        {
+          "s": 0,
+          "t": "Mmm... mmm... this is so good!"
+        },
+        {
+          "sit": "You don't get to eat cake very often?"
+        },
+        {
+          "s": 0,
+          "t": "It's certainly a rarity in the camp."
+        },
+        {
+          "s": 0,
+          "t": "It's seen as a luxury item in the ranks of the resistance... we have special meals on occasion, but even then, it usually means meat and wine — not dessert."
+        },
+        {
+          "s": 0,
+          "t": "So, thank you for treating me to some cake."
+        },
+        {
+          "s": 0,
+          "t": "The only downside with Narukami Island's pastries is that they're such exquisite things, you can't just chow down on them."
+        },
+        {
+          "s": 0,
+          "t": "But as Her Excellency says, a general needs to show patience and restraint..."
+        },
+        {
+          "sit": "Want to try my cake?"
+        },
+        {
+          "sit": "I don't mind sharing it if you want some."
+        },
+        {
+          "s": 0,
+          "t": "Wow, uh... d—don't mind if I do!"
+        },
+        {
+          "s": 0,
+          "t": "It's so sweet..."
+        }
+      ],
+      "description": "To help Gorou exorcise his fears, you play the roles of people he is not good at dealing with. However..."
+    },
+    {
+      "id": "q-19026",
+      "title": "Secret Identity",
+      "dialogue": [
+        {
+          "section": "Go to Yae Publishing House and keep watch"
+        },
+        {
+          "s": 7,
+          "t": "Alright, everyone, settle down!"
+        },
+        {
+          "s": 7,
+          "t": "We are gathered here today united by a common purpose! Now, who can tell me what they think that might be?"
+        },
+        {
+          "sit": "(Let's see what this is all about...)"
+        },
+        {
+          "s": 8,
+          "t": "Well of course, it's... to tell the whole world about how wonderful Ms. Hina is!"
+        },
+        {
+          "s": 7,
+          "t": "An excellent answer!"
+        },
+        {
+          "s": 7,
+          "t": "How gentle she is... how understanding she is... how delightfully mischievous she can be, on occasion..."
+        },
+        {
+          "s": 7,
+          "t": "We can all testify to the great joy that Ms. Hina has brought to our lives. But my friends, there are so many people out there in this world who still need Ms. Hina's salvation."
+        },
+        {
+          "s": 7,
+          "t": "We can help by spreading the good news about Ms. Hina to every soul in the world!"
+        },
+        {
+          "s": 9,
+          "t": "My friend... do you have a moment to talk about Ms. Hina?"
+        },
+        {
+          "sit": "I've never heard of her."
+        },
+        {
+          "sit": "Who?"
+        },
+        {
+          "s": 9,
+          "t": "Friends, I found one! Someone needs our help!"
+        },
+        {
+          "s": 7,
+          "t": "Shhh! Calm your voice down, we don't want to scare {F#her}{M#him} off!"
+        },
+        {
+          "s": 7,
+          "t": "Hello, my friend. On this joyous day, we would like to open our hearts to you and tell you about the existence of a perfect being."
+        },
+        {
+          "s": 7,
+          "t": "She is gentle, kind, understanding... she is the brightest star in our sky. Here, have this pamphlet."
+        },
+        {
+          "s": 8,
+          "t": "So what do you think?"
+        },
+        {
+          "sit": "Looks kind of familiar..."
+        },
+        {
+          "sit": "What's this...?"
+        },
+        {
+          "s": 7,
+          "t": "Oh, my apologies. In my excitement, I forgot to give you all the details."
+        },
+        {
+          "s": 7,
+          "t": "Have you ever come across a magazine called \"That's Life,\" published by the Yae Publishing House?"
+        },
+        {
+          "s": 7,
+          "t": "It's a monthly magazine featuring, amongst other things, an advice column. We were among the first readers to send in letters seeking advice, and we've received kind and gentle replies to each one."
+        },
+        {
+          "s": 7,
+          "t": "Although the editor chose to conceal her name, gender, and other details, we all see her as an empathetic older sister figure, and feel convinced that she must be the same sort of person in real life."
+        },
+        {
+          "s": 8,
+          "t": "There is no mistaking it. Just from her letters, I can feel that she respects me, trusts me... she has a natural ability to connect with people."
+        },
+        {
+          "s": 8,
+          "t": "She's so considerate. She can always sense our true emotions from our letters and never fails to deliver the advice and the encouragement we need."
+        },
+        {
+          "s": 8,
+          "t": "Except when it comes to the topic of romantic love — she's clearly not an expert there. But even then, that just makes her all the more endearing to us!"
+        },
+        {
+          "s": 9,
+          "t": "Recently, the column went through a low period where it just wasn't popular at all. In fact, they almost axed it."
+        },
+        {
+          "s": 9,
+          "t": "Fortunately, Yae Publishing House made the decision to publicize her image, and then the column finally started to grow in popularity."
+        },
+        {
+          "sit": "So Ms. Hina is..."
+        },
+        {
+          "s": 7,
+          "t": "That's right! Ms. Hina is the person in charge of \"That's Life\" magazine's advice column. She is the one we all admire and adore so greatly."
+        },
+        {
+          "s": 7,
+          "t": "And so, when we heard that Yae Publishing House would be revealing the official likeness of Ms. Hina today, we immediately came here from wherever we were, all over the nation, to gather together..."
+        },
+        {
+          "s": 7,
+          "t": "...and to witness this grand moment in history!"
+        },
+        {
+          "sit": "(I wonder how Gorou would react to this...)"
+        },
+        {
+          "s": 7,
+          "t": "Please, gaze upon the radiant beauty of Ms. Hina, see how truly lovely she is..."
+        },
+        {
+          "section": "Talk to the fan club members"
+        },
+        {
+          "s": 0,
+          "t": "Oh? Hey, there you are."
+        },
+        {
+          "s": 0,
+          "t": "Is you-know-who at Yae Publishing House?"
+        },
+        {
+          "sit": "No, she isn't."
+        },
+        {
+          "s": 0,
+          "t": "Phew... That's good."
+        },
+        {
+          "sit": "What's up, Gorou?"
+        },
+        {
+          "s": 0,
+          "t": "I just finished writing my replies, so I was about to head to Yae Publishing House and hand them in."
+        },
+        {
+          "sit": "Why are you helping to write for them?"
+        },
+        {
+          "s": 0,
+          "t": "Why...? Hmm."
+        },
+        {
+          "s": 0,
+          "t": "I guess it's because I can help people this way. Also, the editor said to me, \"This is something that only you are capable of.\""
+        },
+        {
+          "s": 0,
+          "t": "They made quite a solemn request when they first approached me, so I felt like I couldn't refuse it. But once I'd settled into it, I found myself really enjoying it."
+        },
+        {
+          "s": 0,
+          "t": "Before I knew it, I had written hundreds of replies, and sometimes they'd respond again just to thank me. It made me so happy whenever they'd compliment me."
+        },
+        {
+          "s": 0,
+          "t": "Every time I think about that terrifying woman, I feel like I want nothing to do with Yae Publishing House. But then, whenever I think about how my replies can help so many people, I feel a sense of responsibility."
+        },
+        {
+          "s": 0,
+          "t": "By this point, I'm so used to it that I'd probably find it hard to adjust if I ever gave it up."
+        },
+        {
+          "sit": "(I can't let Gorou know the full story...)"
+        },
+        {
+          "sit": "(I'll just have to hide it from him for now...)"
+        },
+        {
+          "s": 0,
+          "t": "Well... I don't know quite what's going on, but I'd like to get these letters delivered quickly while you-know-who isn't around."
+        },
+        {
+          "s": 0,
+          "t": "I'm really looking forward to the readers' reactions when they receive my letters. In the army, people are always a little reserved when talking to me, because I'm a general."
+        },
+        {
+          "s": 0,
+          "t": "But those obstacles are removed when you're communicating via letters. Everyone who writes seems to treat me like that one friend who they can share anything and everything with."
+        },
+        {
+          "s": 0,
+          "t": "So I'm not about to let them down. Let's head over!"
+        },
+        {
+          "sit": "Why don't I deliver them for you..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? But Yae Publishing House isn't far from here, if I remember correctly. Let's just head there together."
+        },
+        {
+          "s": 0,
+          "t": "Besides, this way, if you-know-who does show up, we can look out for each other. Let's go!"
+        },
+        {
+          "section": "Talk to the fan club members"
+        },
+        {
+          "s": 7,
+          "t": "I've been following Ms. Hina's column since the very first issue of \"That's Life.\""
+        },
+        {
+          "section": "Go back and look for Gorou"
+        },
+        {
+          "s": 0,
+          "t": "Strange, it seems unusually lively here today."
+        },
+        {
+          "s": 0,
+          "t": "I don't come here often. {NICKNAME}, is it like this most of the time?"
+        },
+        {
+          "sit": "Not really..."
+        },
+        {
+          "sit": "It's a special case today..."
+        },
+        {
+          "s": 0,
+          "t": "Hey, there seems to be some commotion over there. Let's check it out."
+        },
+        {
+          "s": 7,
+          "t": "Allow me to reiterate, my friends! We in the Ms. Hina Fan Club must abide by the club rules!"
+        },
+        {
+          "s": 7,
+          "t": "Firstly, we mustn't try and probe into Ms. Hina's true identity. We of all people cannot cause her any trouble!"
+        },
+        {
+          "s": 7,
+          "t": "Secondly, fans of Ms. Hina are not to make any controversial statements when representing the fan club. We must exercise self-discipline and present a good image in front of other people!"
+        },
+        {
+          "s": 7,
+          "t": "Thirdly, while our mission is to promote Ms. Hina in every way possible, if someone we're talking to says they're not interested, we are to respect that, and not go forcing it down their throats!"
+        },
+        {
+          "s": 7,
+          "t": "And finally! We are here today because Ms. Hina has brought us together. But we are also here to change ourselves for the better, for her sake! Can we do that, people? Can we do that?"
+        },
+        {
+          "s": 8,
+          "t": "Yes, we can!"
+        },
+        {
+          "s": 9,
+          "t": "Always make her proud, and never bring her down!"
+        },
+        {
+          "s": 0,
+          "t": "Oh! So this is what they call a \"Fan Club.\""
+        },
+        {
+          "s": 0,
+          "t": "I don't know whose fan club it is, but they are raring to go! Reminds me of the rallying speeches we used to give before going into battle."
+        },
+        {
+          "sit": "Hehe..."
+        },
+        {
+          "sit": "Heh, yeah..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm, something's up, isn't it... I can tell, you're avoiding my gaze."
+        },
+        {
+          "s": 0,
+          "t": "Did something happen? It's not \"her,\" is it?"
+        },
+        {
+          "s": 8,
+          "t": "Excuse me, friend..."
+        },
+        {
+          "s": 8,
+          "t": "Something about you looks awfully similar to Ms. Hina..."
+        },
+        {
+          "sit": "You're imagining things!"
+        },
+        {
+          "sit": "No resemblance whatsoever!"
+        },
+        {
+          "s": 8,
+          "t": "I see, well, one way or another, fate has brought you here. Have you ever heard of Ms. Hina?"
+        },
+        {
+          "s": 0,
+          "t": "Sorry, I'm not sure..."
+        },
+        {
+          "s": 8,
+          "t": "Well, now's as good a time as any for you to find out more!"
+        },
+        {
+          "s": 8,
+          "t": "Ms. Hina is gentle, kind, and considerate. You can tell her anything that is bothering you, and she will patiently advise you on how to deal with it."
+        },
+        {
+          "s": 0,
+          "t": "Oh! Well, she sounds like a very pleasant person to be around!"
+        },
+        {
+          "s": 0,
+          "t": "She must be the polar opposite of Yae Miko... right, {NICKNAME}?"
+        },
+        {
+          "sit": "Haha..."
+        },
+        {
+          "sit": "I couldn't say..."
+        },
+        {
+          "s": 9,
+          "t": "But he's the spitting image of Ms. Hina... I wonder if they're blood relatives..."
+        },
+        {
+          "s": 8,
+          "t": "Shh! Have you forgotten? We may not pry into Ms. Hina's identity!"
+        },
+        {
+          "s": 9,
+          "t": "At least let's take a photo with him..."
+        },
+        {
+          "s": 8,
+          "t": "Ahem. Friend, may we... take a photo with you?"
+        },
+        {
+          "s": 8,
+          "t": "We borrowed a Kamera specifically to witness the official unveiling of Ms. Hina's image today..."
+        },
+        {
+          "s": 0,
+          "t": "Sure, that's fine."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, why do they want to take a picture with me?"
+        },
+        {
+          "sit": "It's a Narukami Island custom!"
+        },
+        {
+          "sit": "It's a quirky practice of the Yae Publishing House!"
+        },
+        {
+          "s": 0,
+          "t": "Alright, sure..."
+        },
+        {
+          "s": 0,
+          "t": "That should do it... Right, I should really be heading to the Yae Publishing House to hand in those letters now."
+        },
+        {
+          "sit": "(Phew, managed to keep him in the dark...)"
+        },
+        {
+          "s": 5,
+          "t": "Make way, everyone! Make way!"
+        },
+        {
+          "s": 5,
+          "t": "The Ms. Hina billboard is here... Please, make some space, coming through!"
+        },
+        {
+          "s": 7,
+          "t": "Hey, everybody! It's the real Ms. Hina!"
+        },
+        {
+          "s": 8,
+          "t": "Ms. Hina! Ms. Hina!"
+        },
+        {
+          "s": 0,
+          "t": "Now I'm curious too... Let's go over and take a look, {NICKNAME}."
+        },
+        {
+          "sit": "No..."
+        },
+        {
+          "sit": "You can't..."
+        },
+        {
+          "s": 0,
+          "t": "Hmm? Why, what's the problem?"
+        },
+        {
+          "sit": "I heard Yae Miko is about to come back!"
+        },
+        {
+          "s": 0,
+          "t": "Really!? Then we can't stay, let's get out of here!"
+        },
+        {
+          "s": 0,
+          "t": "As curious as I am to see what all the fuss is about... it'll have to wait until next time. So, {NICKNAME}, please join me again the next time I'm delivering letters."
+        },
+        {
+          "section": "Go back and look for Gorou"
+        },
+        {
+          "s": 8,
+          "t": "Welcome to the Ms. Hina Fan Club!"
+        },
+        {
+          "section": "Talk to Gorou"
+        },
+        {
+          "s": 0,
+          "t": "Hmm? I thought you were going to survey the scene at Yae Publishing House?"
+        },
+        {
+          "section": "Go to Yae Publishing House with Gorou to deliver the replies"
+        },
+        {
+          "s": 9,
+          "t": "I don't know if you know the word \"fan\"? A friendly adventurer lady taught it to us a few years ago. She seemed to know everything."
+        }
+      ],
+      "description": "You were here at Yae Publishing House to keep watch, but..."
+    },
+    {
+      "id": "q-19027",
+      "title": "A Friend's Path",
+      "dialogue": [
+        {
+          "section": "Discarded"
+        },
+        {
+          "s": 5,
+          "t": "Great, that's all the replies for this round accounted for."
+        },
+        {
+          "s": 5,
+          "t": "Thank you for your hard work, Ms. Hi— Mr. Gorou."
+        },
+        {
+          "s": 0,
+          "t": "Think nothing of it. I agreed to help, so it's only right that I do the best I can."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, could I trouble you to come back to Watatsumi Island with me?"
+        },
+        {
+          "s": 0,
+          "t": "I want to find that soldier. Not to persuade him to stay, I just... I don't want him to leave without saying goodbye."
+        },
+        {
+          "s": 0,
+          "t": "Kazuha once told me that the bonds between people whose paths have crossed can never be broken, even after they part ways."
+        },
+        {
+          "s": 0,
+          "t": "But... maybe I'm scared he might be wrong. People can change quickly, and I worry that the next time I meet my comrade who fought so bravely alongside me, there will already be some distance between us."
+        },
+        {
+          "sit": "Let's go visit them together."
+        },
+        {
+          "s": 0,
+          "t": "Great. Then let's head off whenever you're ready."
+        },
+        {
+          "section": "Hand the finished replies over to Yae Publishing House"
+        },
+        {
+          "s": 10,
+          "t": "General Gorou, and... Captain of Swordfish II?"
+        },
+        {
+          "s": 10,
+          "t": "General, Captain, are you here to inspect the camp?"
+        },
+        {
+          "s": 0,
+          "t": "Uh...not this time. I just thought I'd come by to catch up while everyone has some downtime."
+        },
+        {
+          "s": 11,
+          "t": "Certainly, General Gorou! Anything you want to discuss, we'll share whatever we know!"
+        },
+        {
+          "s": 11,
+          "t": "But we haven't been out of the camp lately, so we don't have a whole lot of interesting stories..."
+        },
+        {
+          "s": 0,
+          "t": "Actually, I've had something on my mind, and wanted to ask everyone's thoughts on the matter."
+        },
+        {
+          "s": 0,
+          "t": "You see, after the war, Her Excellency streamlined the army, and a lot of people were transferred to other duties."
+        },
+        {
+          "s": 0,
+          "t": "Do you still have much contact with each other?"
+        },
+        {
+          "s": 10,
+          "t": "To be honest... not much."
+        },
+        {
+          "s": 10,
+          "t": "We're so busy even just with training and patrolling that it's almost impossible to squeeze in the time to meet up."
+        },
+        {
+          "s": 10,
+          "t": "We have holidays, but we usually use them to go home and spend time with our nearest and dearest. Besides, everyone's vacations come at different times. Our schedules rarely overlap."
+        },
+        {
+          "s": 11,
+          "t": "Yeah, I'm busy when they're free, and they're busy when I'm free."
+        },
+        {
+          "s": 11,
+          "t": "Anyway, even if we did manage to meet up — what then? We all do different jobs now, and we all have new friends who aren't mutually acquainted. I'm not sure what we'd talk about."
+        },
+        {
+          "s": 0,
+          "t": "So that's really how it goes, huh..."
+        },
+        {
+          "sit": "We all go through it."
+        },
+        {
+          "sit": "It's part of life."
+        },
+        {
+          "s": 0,
+          "t": "I know, it's okay, I just... it just seems a pity, that's all."
+        },
+        {
+          "s": 10,
+          "t": "You know... having said all that, there's something else that I've always felt about this."
+        },
+        {
+          "s": 0,
+          "t": "Really?"
+        },
+        {
+          "s": 10,
+          "t": "Yes. I feel that no matter how long we're apart, and no matter what we might go through in the meantime, all of us will be straight back here if Watatsumi Island is ever in danger."
+        },
+        {
+          "s": 10,
+          "t": "Even if we've all changed beyond recognition, we can always trust that we've got each other's backs. That's one thing that's never going to change!"
+        },
+        {
+          "s": 11,
+          "t": "We're your troops, General Gorou. You trained us, took us into battle, and led the way as we charged against the enemy."
+        },
+        {
+          "s": 11,
+          "t": "Even if we seldom keep in contact now, we are still brothers in arms. If you say the word, we will all pick up our weapons again at a moment's notice."
+        },
+        {
+          "s": 11,
+          "t": "Long live the resistance!"
+        },
+        {
+          "s": 0,
+          "t": "Heh... hahaha."
+        },
+        {
+          "s": 0,
+          "t": "Yes, that's the way it should be. Long live the resistance!"
+        },
+        {
+          "sit": "Long live the resistance!"
+        },
+        {
+          "s": 0,
+          "t": "I won't disturb you any further. You guys keep training hard. Regarding everything else, I'm sure it'll all be fine."
+        },
+        {
+          "s": 12,
+          "t": "Ah, General Gorou. You're here."
+        },
+        {
+          "s": 12,
+          "t": "I believe Hiroaki's been hoping to catch you. He's been waiting at the camp for a long time, but never saw you return."
+        },
+        {
+          "s": 12,
+          "t": "Are you planning to head back to camp later? If you're busy, I can go and let him know so he's not waiting there in vain."
+        },
+        {
+          "s": 0,
+          "t": "Tell him I'll be right over."
+        },
+        {
+          "s": 0,
+          "t": "I know what I have to do now... Come with me {NICKNAME}, let's head to the camp."
+        },
+        {
+          "section": "Talk to Gorou"
+        },
+        {
+          "s": 13,
+          "t": "General Gorou, I..."
+        },
+        {
+          "s": 13,
+          "t": "I... I would like to request permission to leave the resistance, Sir!"
+        },
+        {
+          "s": 13,
+          "t": "I know this may seem very abrupt, and in fact I have only just made the decision..."
+        },
+        {
+          "s": 0,
+          "t": "It's alright."
+        },
+        {
+          "s": 13,
+          "t": "Back then... I had so much hatred for the Vision Hunt Decree, and so much disappointment in Narukami Island for supporting it. But after the war ended, I wanted to go back and visit... but I still couldn't make up my mind..."
+        },
+        {
+          "s": 13,
+          "t": "Thanks to Ms. Hina's encouragement, I was finally able to find the courage to talk to you about it."
+        },
+        {
+          "s": 13,
+          "t": "Of course, if you disapprove, I'll obey your orders. I am your subordinate, after all."
+        },
+        {
+          "sit": "Ms. Hina?"
+        },
+        {
+          "sit": "I don't recognize that name..."
+        },
+        {
+          "s": 0,
+          "t": "Ms. Hina? Who's that?"
+        },
+        {
+          "s": 13,
+          "t": "It's a long story..."
+        },
+        {
+          "s": 0,
+          "t": "Forget it, never mind her. I approve your application to leave the resistance."
+        },
+        {
+          "s": 13,
+          "t": "General Gorou... I..."
+        },
+        {
+          "s": 0,
+          "t": "Come on, don't look so down. It's not like we're never going to see each other again."
+        },
+        {
+          "s": 0,
+          "t": "If you ever have the time, you should come back and visit Watatsumi Island. There is no need to limit yourself to a specific place — just do what you want to do."
+        },
+        {
+          "s": 0,
+          "t": "No matter where we are, we will always be comrades."
+        },
+        {
+          "s": 13,
+          "t": "...Yes, General!"
+        },
+        {
+          "section": "Chat with the soldiers on Watatsumi Island"
+        },
+        {
+          "s": 13,
+          "t": "I'll take my leave then. Take care of yourself, General Gorou!"
+        },
+        {
+          "s": 0,
+          "t": "Take care!"
+        },
+        {
+          "s": 0,
+          "t": "That was... that was okay."
+        },
+        {
+          "s": 0,
+          "t": "Or should I say... it's for the best? {NICKNAME}."
+        },
+        {
+          "s": 0,
+          "t": "This is how it should be... it should leave you with a smile on your face, just like this."
+        },
+        {
+          "section": "Chat with the soldiers on Watatsumi Island"
+        },
+        {
+          "s": 0,
+          "t": "Take care!"
+        },
+        {
+          "s": 0,
+          "t": "That was... that was okay."
+        },
+        {
+          "s": 0,
+          "t": "Sure, there may be some awkward silences when we meet again after a long time, but in no time at all we'd be the best of friends again."
+        }
+      ],
+      "description": "While writing replies, Gorou encounters a letter from one of his subordinates and is once again troubled..."
+    },
+    {
+      "id": "q-19028",
+      "title": "Ordinary Memorial",
+      "dialogue": [
+        {
+          "section": "Ask Katheryne about the fate of the box"
+        },
+        {
+          "s": 14,
+          "t": "Hmm, I'm afraid that will be a little difficult..."
+        },
+        {
+          "sit": "Why, what's happened?"
+        },
+        {
+          "sit": "Has the box gone?"
+        },
+        {
+          "s": 14,
+          "t": "Don't worry, the item you are looking for is safe and sound. However, I'm unable to return it to you at present."
+        },
+        {
+          "s": 14,
+          "t": "The reason being, it is connected to a case involving the Treasure Hoarders, which is still under investigation."
+        },
+        {
+          "s": 0,
+          "t": "That's strange... I buried that box there — what does it have to do with the Treasure Hoarders?"
+        },
+        {
+          "s": 14,
+          "t": "Allow me to explain. Not long ago, we received a commission concerning a theft by Treasure Hoarders at Komore Teahouse."
+        },
+        {
+          "s": 14,
+          "t": "The adventurer who accepted the commission followed their trail, and heard that they had buried the treasure at Nazuchi Beach."
+        },
+        {
+          "s": 14,
+          "t": "But when we went to dig up the stolen items, we found many other things buried there along with them. As such, we cannot ascertain which of the items have to do with the Treasure Hoarders at this stage."
+        },
+        {
+          "s": 14,
+          "t": "For now, all we can do is hold all related items at the Adventurers' Guild until such a time as we have caught the group of Treasure Hoarders in question. Then, we will see that all items are returned to their rightful owners."
+        },
+        {
+          "s": 0,
+          "t": "I see... I never expected that other people would be burying things in the same place."
+        },
+        {
+          "s": 0,
+          "t": "Well, since these are the rules, I won't press you for it. But might I ask how the investigation is coming along?"
+        },
+        {
+          "s": 14,
+          "t": "This is where the difficulty arises. To date, we have still not been able to locate the hiding place of the Treasure Hoarders, so I'm afraid it still could take some time."
+        },
+        {
+          "s": 0,
+          "t": "So there's no knowing when this will be resolved..."
+        },
+        {
+          "s": 0,
+          "t": "Maybe I could help? I could find the Treasure Hoarders for you, and once you confirm everything is in order, you'll be able to return my box to me."
+        },
+        {
+          "s": 0,
+          "t": "It's very important to me, so the sooner I get it back, the better."
+        },
+        {
+          "s": 14,
+          "t": "That is perfectly acceptable."
+        },
+        {
+          "s": 14,
+          "t": "However, many adventurers have investigated this case recently. They have searched far and wide, but their efforts have been fruitless."
+        },
+        {
+          "s": 14,
+          "t": "If the two of you are still interested in taking the case, you may have to devise an original approach..."
+        },
+        {
+          "sit": "Let's head to Komore Teahouse first."
+        },
+        {
+          "s": 0,
+          "t": "Yes, it seems like the only sensible place to start."
+        },
+        {
+          "s": 0,
+          "t": "With any luck, we might be able to find some clues there... actually, since it's come up — what's the Komore Teahouse like?"
+        },
+        {
+          "sit": "A place to have tea."
+        },
+        {
+          "s": 0,
+          "t": "Well obviously, hehe, anyway..."
+        },
+        {
+          "s": 0,
+          "t": "Let's go take a look."
+        },
+        {
+          "sit": "It's actually a hot pot place."
+        },
+        {
+          "s": 0,
+          "t": "Hot pot? So they call it a teahouse, despite the fact that it is obviously a hot pot restaurant... How confusing."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, let's go take a look."
+        },
+        {
+          "section": "Go to Komore Teahouse to investigate"
+        },
+        {
+          "s": 15,
+          "t": "...Are you here to investigate the recent theft as well?"
+        },
+        {
+          "s": 15,
+          "t": "We're grateful for the assistance. However, I'm afraid I don't have any more clues..."
+        },
+        {
+          "s": 15,
+          "t": "It was Taroumaru's No. 2 Reserve Fund that they stole. They struck late at night while there was no one in the surrounding area, so they could slip in unnoticed."
+        },
+        {
+          "s": 15,
+          "t": "By the time we realized, it was too late."
+        },
+        {
+          "s": 15,
+          "t": "They left enough clues for us to retrieve the box, but we've found no trace of the group of Treasure Hoarders who dared to target our teahouse."
+        },
+        {
+          "s": 15,
+          "t": "I've asked around many times, and there were no eyewitnesses at all. We're definitely dealing with experienced crooks here..."
+        },
+        {
+          "s": 16,
+          "t": "Woof!"
+        },
+        {
+          "s": 15,
+          "t": "Taroumaru? What are you doing out here?"
+        },
+        {
+          "s": 16,
+          "t": "Woof! Woof, woof!"
+        },
+        {
+          "s": 15,
+          "t": "How strange. I don't know what's gotten into Taroumaru today..."
+        },
+        {
+          "s": 0,
+          "t": "He says he knows where the Treasure Hoarders are hiding."
+        },
+        {
+          "sit": "You understand Taroumaru?"
+        },
+        {
+          "sit": "Does that mean that you're a..."
+        },
+        {
+          "s": 0,
+          "t": "How can I describe it... It's like listening to a regional dialect. A lot of it goes over my head, but I can still get the general gist."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, he says he was there at the scene of the crime. The Treasure Hoarders didn't see Taroumaru as a threat, so he stayed and listened in on their whole conversation."
+        },
+        {
+          "s": 0,
+          "t": "Since there were so many of them, and they were armed, Taroumaru didn't dare to bark loudly. So he just had to let them go."
+        },
+        {
+          "s": 15,
+          "t": "No wonder!"
+        },
+        {
+          "s": 15,
+          "t": "Poor boy, he's been acting more anxious than usual lately, and is always looking outside. And I thought he just wanted someone to take him for a walk..."
+        },
+        {
+          "s": 16,
+          "t": "Woof... woof, woof! Woof, woof, woof!"
+        },
+        {
+          "s": 0,
+          "t": "Yes... that does sound like quite a predicament."
+        },
+        {
+          "s": 16,
+          "t": "Woof! Woof, woof! Woof!"
+        },
+        {
+          "s": 0,
+          "t": "Okay, I think I understand now."
+        },
+        {
+          "sit": "I don't..."
+        },
+        {
+          "s": 0,
+          "t": "Taroumaru says he heard the Treasure Hoarders conspiring to hide out at the beach directly below Tenshukaku."
+        },
+        {
+          "s": 0,
+          "t": "No one usually thinks to look there, and it's become something of a safe haven for Treasure Hoarders."
+        },
+        {
+          "s": 0,
+          "t": "He also mentioned that they were a gang of five people, the leader's name is Kousuke, and the second-in-command is called Yasuhisa. The leader's scent indicated he was probably from the Narukami Island area, while the two newcomers in the team were more likely from somewhere else."
+        },
+        {
+          "sit": "You got all that from \"woof\"!?"
+        },
+        {
+          "s": 0,
+          "t": "Thank you, Taroumaru. It must have been hard for you, knowing the details of the crime but not being able to communicate them."
+        },
+        {
+          "s": 0,
+          "t": "Don't you worry, we'll take care of everything from here. We will definitely get your belongings back!"
+        },
+        {
+          "s": 0,
+          "t": "Let's go there in person, {NICKNAME}. We might not have any troops with us, but between the two of us, we should be able to deal with a handful of petty thieves."
+        },
+        {
+          "section": "Discarded"
+        },
+        {
+          "s": 17,
+          "t": "This is bizarre... how would anyone think to look here?"
+        },
+        {
+          "s": 18,
+          "t": "Uh, Boss, didn't you say that the most dangerous place is the safest place to hide..."
+        },
+        {
+          "s": 17,
+          "t": "Yeah, and I still maintain that I'm right in principle... Think how many days we've been here — no one else has come looking for us, have they?"
+        },
+        {
+          "s": 17,
+          "t": "I can't believe we got caught, just when the whole thing had nearly blown over... Hey, kid, who the heck are you guys, anyway?"
+        },
+        {
+          "sit": "Just some people fighting for justice in Inazuma."
+        },
+        {
+          "sit": "Taroumaru's best buddies!"
+        },
+        {
+          "s": 0,
+          "t": "We shouldn't waste any more time on these people."
+        },
+        {
+          "s": 0,
+          "t": "Life is tough in the resistance, but none of our troops would ever think about laying a hand on the innocent civilians under their rule. You have things so much better here, and this is how you choose to live your life? It's pure selfishness."
+        },
+        {
+          "s": 0,
+          "t": "{NICKNAME}, we should turn them over to the Adventurers' Guild right away. Once their identities are confirmed, they'll get the punishment they deserve."
+        },
+        {
+          "s": 17,
+          "t": "Please, show a little mercy!"
+        },
+        {
+          "s": 17,
+          "t": "We'll give you half of everything we've saved up over the years... If you're willing to turn a blind eye on this, anything's up for negotiation..."
+        },
+        {
+          "s": 0,
+          "t": "That's enough. Tie them up and take them away!"
+        },
+        {
+          "sit": "Yes, Sir!"
+        },
+        {
+          "s": 0,
+          "t": "Oh! Uh... Come to think of it, this is not a military camp, so there's no need for me to be so heavy-handed."
+        },
+        {
+          "s": 0,
+          "t": "But thieves still have to be punished. {NICKNAME}, let's escort them back."
+        },
+        {
+          "section": "Discarded"
+        },
+        {
+          "s": 14,
+          "t": "I am pleased to confirm that these are indeed the individuals who stole from Komore Teahouse."
+        },
+        {
+          "s": 14,
+          "t": "I didn't expect you to catch them so quickly, especially with no new leads to explore."
+        },
+        {
+          "s": 14,
+          "t": "In accordance with the rules, now that we have procured an oral confession from the Treasure Hoarders and verified the list of stolen items, we can now return the box to you."
+        },
+        {
+          "s": 14,
+          "t": "Here, please take it."
+        },
+        {
+          "s": 0,
+          "t": "Ah... Thank goodness."
+        },
+        {
+          "sit": "Are you going to open it and take a look?"
+        },
+        {
+          "s": 0,
+          "t": "Let me think... the contents of the box don't belong here — they belong on Watatsumi Island."
+        },
+        {
+          "s": 0,
+          "t": "So let's head there now and open it."
+        },
+        {
+          "section": "Discarded"
+        },
+        {
+          "s": 0,
+          "t": "One, two, three... yes, it looks like they're all here."
+        },
+        {
+          "sit": "What are these?"
+        },
+        {
+          "s": 0,
+          "t": "Some personal items that once belonged to troops under my command."
+        },
+        {
+          "s": 0,
+          "t": "Water bottles, towels, knee guards... Just everyday items, but each one bears the handwritten name of its former owner. These were the only things those soldiers had for their families to remember them by."
+        },
+        {
+          "s": 0,
+          "t": "We all knew going into that battle that the odds of survival were slim. Many of the soldiers came to me and said they wanted to leave something behind as a keepsake for their loved ones."
+        },
+        {
+          "s": 0,
+          "t": "You see, their swords and polearms broke in battle, their damaged armor wouldn't have been easy to carry, and many of them couldn't write very well, so they couldn't even leave a letter..."
+        },
+        {
+          "s": 0,
+          "t": "In the end, all they could leave to their families were these ordinary items. Artifacts of their daily lives."
+        },
+        {
+          "sit": "Gorou..."
+        },
+        {
+          "s": 0,
+          "t": "My soldiers trusted me, but I failed to lead them to victory that day."
+        },
+        {
+          "s": 0,
+          "t": "Then they trusted me with these... and instead of honoring their last wishes right away, I had to hastily bury them in the sand..."
+        },
+        {
+          "s": 0,
+          "t": "Every time something like this happens, I tell myself that by the next time I'm faced with the same situation, I have to be stronger."
+        },
+        {
+          "sit": "You got the box back. It's alright now."
+        },
+        {
+          "s": 0,
+          "t": "Yeah... but right now, let me just mourn them for a little while longer."
+        },
+        {
+          "section": "Discarded"
+        },
+        {
+          "s": 15,
+          "t": "That gang of Treasure Hoarders must have been planning this for a long time. Judging by how skillfully they infiltrated this place and the fact that they've managed to remain hidden ever since, it is clear that they are a group of seasoned thieves."
+        },
+        {
+          "s": 15,
+          "t": "But our own negligence is also to blame. We shouldn't have re-allocated so many people to other duties..."
+        },
+        {
+          "s": 0,
+          "t": "Shh... I think we're getting close."
+        }
+      ],
+      "description": "Gorou says that his box is at the Adventurers' Guild. Go with him to ask Katheryne."
+    }
+  ],
+  "speakers": [
+    "Gorou",
+    "Yae Miko",
+    "Aratani",
+    "Shuuhei",
+    "Miwa",
+    "Kuroda",
+    "Maki",
+    "Nobuhiro",
+    "Hiroshi",
+    "Yuka",
+    "Denjirou",
+    "Toshihiko",
+    "Tsuneo",
+    "Hiroaki",
+    "Katheryne",
+    "Kozue",
+    "Taroumaru",
+    "Kousuke",
+    "Yasuhisa"
+  ],
+  "id": "ch-105501"
+}

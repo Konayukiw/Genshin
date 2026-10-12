@@ -1,24 +1,3 @@
-/**
- * Genshin Database API — Cloudflare Worker
- *
- * Serves data/v1/** from a private R2 bucket (binding: DATA) with
- * version-keyed edge caching: the manifest's data_version is part of every
- * cache key, so a data push invalidates the API globally without purges.
- *
- * Routes:
- *   GET /                                    -> HTML explorer for browsers
- *                                               (JSON with ?json or non-HTML
- *                                               Accept headers)
- *   GET /v1                                  -> manifest (data_version, counts, ...)
- *   GET /v1/:locale                          -> locale index
- *   GET /v1/:locale/:category                -> category index
- *   GET /v1/:locale/quests/:type             -> quest-type index
- *   GET /v1/:locale/:category/:slug          -> entity JSON
- *   GET /v1/:locale/quests/:type/:slug       -> quest JSON
- *   GET /v1/icons                            -> icon index (id/names/file)
- *   GET /v1/icons/:file                      -> icon PNG (e.g. kamisato-ayaka.png)
- */
-
 import EXPLORER_HTML from "./explorer.html";
 
 export interface Env {

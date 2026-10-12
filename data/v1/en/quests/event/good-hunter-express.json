@@ -1,0 +1,81 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "Hmm, I've got other things to do right now."
+        },
+        {
+          "s": 0,
+          "t": "Really? Okay then. I'll find someone else to make that delivery..."
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "Thanks so much!"
+        },
+        {
+          "s": 0,
+          "t": "Oh, yes, this Mondstadt Hash Brown is just out of the oven, so do handle it with care."
+        },
+        {
+          "s": 0,
+          "t": "Don't run too fast, don't use your wind glider, and don't get into a fight, or that hash brown may just come apart."
+        },
+        {
+          "s": 0,
+          "t": "You do have to be quick, though. This dish won't taste good if it gets cold."
+        },
+        {
+          "section": "Deliver the food to Hardworking Silio"
+        },
+        {
+          "s": 1,
+          "t": "Ugh, I'm starving... Why hasn't my order arrived yet?"
+        },
+        {
+          "section": "Speak to Hardworking Silio"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "That's correct. You're here to help, right? Then you're right on time — I'd just finished making this Mondstadt Hash Brown."
+        },
+        {
+          "s": 0,
+          "t": "It's supposed to go to Silio. He paid us earlier, and said that he'd be waiting for his delivery near Stormbearer Point."
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Oh, wonderful, I was starving!"
+        },
+        {
+          "s": 1,
+          "t": "Thanks for delivering this hash brown to me."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Hardworking Silio"
+  ],
+  "id": "q-41121"
+}

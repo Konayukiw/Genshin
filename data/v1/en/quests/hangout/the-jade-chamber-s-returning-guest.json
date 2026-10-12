@@ -1,0 +1,4313 @@
+{
+  "chapter": "Hangout Event: Ningguang",
+  "chapter_title": "The Jade Chamber's Returning Guest",
+  "act": "Act 1",
+  "act_title": "The Jade Chamber's Returning Guest",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19131",
+      "title": "The Jade Chamber Once More",
+      "dialogue": [
+        {
+          "section": "Go to the Jade Chamber to meet Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Huh?"
+        },
+        {
+          "s": 0,
+          "t": "Ah, it looks like all our problems are solved. Welcome to the Jade Chamber, {NICKNAME}."
+        },
+        {
+          "s": 1,
+          "t": "Oh, great! I have no idea what we would have done otherwise..."
+        },
+        {
+          "s": 2,
+          "t": "I didn't think we'd really manage to get you here."
+        },
+        {
+          "s": 3,
+          "t": "This was a last-minute situation, and you're the one we trust the most."
+        },
+        {
+          "sit": "What's happened?"
+        },
+        {
+          "s": 0,
+          "t": "To put it simply, we are just looking for the right person to help. We had a very long discussion about it, but to no avail."
+        },
+        {
+          "s": 0,
+          "t": "I have tasked my three most trusted secretaries with overseeing an important auction tomorrow. This, however, leaves their regular duties unattended to, and the work cannot afford to go undone."
+        },
+        {
+          "s": 0,
+          "t": "The nature of their day-to-day work is highly sensitive and confidential, so whomever I ask to fill in needs to be someone I can trust, and who doesn't have a conflict of interest."
+        },
+        {
+          "sit": "So you thought of me?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. You were the person who came to mind. We may not have spent a great deal of time together... but I do place a great deal of trust in you."
+        },
+        {
+          "sit": "I don't think I'm up to this task..."
+        },
+        {
+          "s": 0,
+          "t": "There's no need to be quite so modest. Actually, you were the first person I thought of. I place a great deal of trust in you. Besides, we haven't thought of any other suitable candidates."
+        },
+        {
+          "s": 0,
+          "t": "To me, this work is highly sensitive and of utmost importance, though I'm sure you will find it to be mundane at best. It would not surprise me if you can't bear the tedium or can't make the time..."
+        },
+        {
+          "s": 0,
+          "t": "And yet, despite this, I thought it could do no harm to ask the question, on the off chance that you are interested."
+        },
+        {
+          "s": 0,
+          "t": "As it happens, I was just having a discussion on backup plans with my secretaries before you arrived."
+        },
+        {
+          "s": 3,
+          "t": "But... the outcome of that discussion was that we couldn't think of a suitable alternative..."
+        },
+        {
+          "s": 2,
+          "t": "This is a good reminder that we should always have a contingency plan for everything."
+        },
+        {
+          "s": 0,
+          "t": "Anyway. This may add to the debt of gratitude I owe you, but the fact is, your arrival here has rescued what was fast becoming a rather dire situation indeed."
+        },
+        {
+          "sit": "If I have what it takes, I'll do it."
+        },
+        {
+          "sit": "How tedious are we talking?"
+        },
+        {
+          "s": 0,
+          "t": "I wouldn't worry. It's all work you'll be quite familiar with — planning trips, gathering pertinent information, that sort of thing."
+        },
+        {
+          "s": 0,
+          "t": "All basic skills required by competent adventurers, if I'm not mistaken."
+        },
+        {
+          "sit": "Okay. I'll give it a try..."
+        },
+        {
+          "s": 1,
+          "t": "If you have any questions about your work, I will answer them shortly."
+        },
+        {
+          "s": 1,
+          "t": "The administrative work Lady Ningguang touched upon just now is only one aspect. You'll also be required to cater for Lady Ningguang's basic daily needs, such as clothing and meals, and be on call for any other requests she may have."
+        },
+        {
+          "sit": "That's, um... Wow."
+        },
+        {
+          "s": 0,
+          "t": "Don't be mistaken, I won't put you in a difficult position. And I will fully respect your judgment."
+        },
+        {
+          "sit": "...Why can't you do it yourself?"
+        },
+        {
+          "s": 0,
+          "t": "None of this is hard work, but there is a lot to do and it's highly repetitive. Having a dedicated staff member deal with it exclusively means that everyone has clearly delineated duties and can focus on their own work."
+        },
+        {
+          "s": 0,
+          "t": "Simply put, this is about maximizing overall efficiency."
+        },
+        {
+          "s": 0,
+          "t": "Alright. Please proceed to the office. Baishi will go over the work with you in more detail."
+        },
+        {
+          "s": 1,
+          "t": "Yes, Lady Ningguang. Okay, let's go."
+        },
+        {
+          "section": "Talk to Baishi"
+        },
+        {
+          "s": 1,
+          "t": "Before I get into specifics, I want to start by giving you the big picture."
+        },
+        {
+          "s": 1,
+          "t": "As a member of the Liyue Qixing, Lady Ningguang's every move is in the spotlight. Maintaining her perfect image at all times is absolutely essential."
+        },
+        {
+          "s": 1,
+          "t": "My usual job is to be her right hand, to maintain her image, and take care of all her worries."
+        },
+        {
+          "s": 1,
+          "t": "For example, arranging her daily schedule, picking out clothes for her... dressing her, applying her perfume..."
+        },
+        {
+          "sit": "Your eyes are really sparkling right now..."
+        },
+        {
+          "sit": "Are you in a trance, or?"
+        },
+        {
+          "s": 1,
+          "t": "Ahem. You misunderstand me. I am simply trying to impress upon you the sheer importance of the work you will be undertaking!"
+        },
+        {
+          "s": 0,
+          "t": "Baishi has always been very passionate about her work. I can leave any task in her capable hands and rest assured that her performance will be nothing short of exemplary."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure she was simply trying to share some of her enthusiasm, in the hopes that you may find it infectious."
+        },
+        {
+          "s": 1,
+          "t": "Th—Thank you, Lady Ningguang!"
+        },
+        {
+          "s": 1,
+          "t": "Back to the topic at hand. Let's get into the details."
+        },
+        {
+          "s": 1,
+          "t": "Baixiao and Baiwen handle tasks that require enormous experience, while I'm mainly responsible for organizing her daily schedule and making sure she is well-fed, dressed for any occasion, and that all her needs are met."
+        },
+        {
+          "s": 1,
+          "t": "I can go through the methods I use and give you some pointers based on my experience to ensure that you are fully equipped to perform your duties."
+        },
+        {
+          "sit": "It's just basic daily routine stuff. It'll be fine."
+        },
+        {
+          "s": 1,
+          "t": "All in a day's work for the Traveler, hmm? Great, then I'll skip that and just get to the handover of duties."
+        },
+        {
+          "s": 1,
+          "t": "Currently, there are 133 items that have yet to be scheduled, 17 of which are high-importance and..."
+        },
+        {
+          "sit": "...133!?"
+        },
+        {
+          "s": 1,
+          "t": "Yes. I did try to make a start in advance, but only got as far as roughly prioritizing the tasks before I ran out of time."
+        },
+        {
+          "s": 1,
+          "t": "I'll go through the most important items with you in more detail. If there's anything you don't understand, feel free to stop me with questions at any point."
+        },
+        {
+          "s": 1,
+          "t": "First is the periodic meeting with the representatives of the Eight Trades, after that, fielding opinions on revisions to the current tax legislation."
+        },
+        {
+          "s": 1,
+          "t": "Then, a discussion with Lady Keqing on issues relating to time restrictions on land conveyance deals. Following that, there's a Q&A session with all the major commerce guilds."
+        },
+        {
+          "s": 1,
+          "t": "Right after that, there's—"
+        },
+        {
+          "sit": "Hold up! Do I really have to understand Ningguang's work in all this detail just to organize her schedule?"
+        },
+        {
+          "s": 1,
+          "t": "Yes, you do. To the uninitiated, scheduling may sound like a simple process of matching tasks to time slots, but there is actually far more to it than that."
+        },
+        {
+          "s": 1,
+          "t": "You need to take travel time into account, along with a whole spectrum of potential issues that can arise..."
+        },
+        {
+          "s": 1,
+          "t": "Ample knowledge of all outside factors that may weigh upon your plan A is essential to devise a workable contingency plan."
+        },
+        {
+          "s": 1,
+          "t": "I assume this is all making sense... unless you had any other questions at this point?"
+        },
+        {
+          "sit": "No, I think I'm good..."
+        },
+        {
+          "sit": "(Actually, I didn't understand any of it...)"
+        },
+        {
+          "sit": "(She's not going to keep going on like this... is she?)"
+        },
+        {
+          "s": 1,
+          "t": "Good, then let's press on — we're tight on time here, and there's a lot to get through. And we still need to leave enough time for you to prepare Lady Ningguang's schedule."
+        },
+        {
+          "sit": "Uh, n—no need."
+        },
+        {
+          "sit": "I think I know how to approach it now."
+        },
+        {
+          "s": 1,
+          "t": "Already? Wow... you're a fast learner. Very good, this will be much more efficient."
+        },
+        {
+          "s": 0,
+          "t": "Wonderful. Then I'll be counting on you to provide my schedule for tomorrow."
+        },
+        {
+          "sit": "I'll do my best."
+        },
+        {
+          "s": 0,
+          "t": "I'm grateful for your assistance. Now, I will leave you here in peace to proceed with your work. I still have a few items from today's schedule that need addressing."
+        },
+        {
+          "s": 0,
+          "t": "If anything else is unclear, you can ask Baishi."
+        },
+        {
+          "s": 1,
+          "t": "Take care, Lady Ningguang!"
+        },
+        {
+          "sit": "You hand over the schedule you made to Baishi."
+        },
+        {
+          "s": 1,
+          "t": "Good. You factored in both priority and efficiency, and produced a rigorous and well-structured schedule. You've clearly considered it from every angle."
+        },
+        {
+          "s": 1,
+          "t": "Excellent work. You've got quite a knack for this."
+        },
+        {
+          "sit": "Too kind."
+        },
+        {
+          "sit": "My brain is fried now, though..."
+        },
+        {
+          "s": 1,
+          "t": "Please be here at the Jade Chamber tomorrow morning before Lady Ningguang wakes up, and start preparing based on the schedule."
+        },
+        {
+          "s": 1,
+          "t": "With you helping out here, we will be able to focus fully on the auction — it will be quite a complicated affair."
+        },
+        {
+          "sit": "I hope everything goes well tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "I hope so, too. You must be exhausted. Make sure you get an early night tonight."
+        },
+        {
+          "sit": "You hand over the schedule you made to Baishi."
+        },
+        {
+          "s": 1,
+          "t": "Um, don't you think that this schedule is a bit of a light load?"
+        },
+        {
+          "sit": "Ningguang hasn't taken a vacation in a long time, I'll bet?"
+        },
+        {
+          "s": 1,
+          "t": "That's true. Lady Ningguang has a lot of work to attend to, and frankly, she doesn't have many opportunities to rest."
+        },
+        {
+          "s": 1,
+          "t": "We do sometimes worry about her health. But her attitude is very Mora-driven. If by taking a break there's a chance she'll lose Mora, she'll never agree to it."
+        },
+        {
+          "sit": "But the work will always be there."
+        },
+        {
+          "sit": "No amount of Mora is worth ruining your health for."
+        },
+        {
+          "s": 1,
+          "t": "Ah, I see where you're coming from... Yes. You have a point."
+        },
+        {
+          "s": 1,
+          "t": "Alright then, let's go with your plan. I'm sure Lady Ningguang has plenty she wants to talk about with you."
+        },
+        {
+          "s": 1,
+          "t": "There's a lot of things that need doing over at the auction venue, so I will be leaving you now."
+        },
+        {
+          "sit": "I hope everything goes well tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "I hope so, too. You must be exhausted. Make sure you get an early night tonight."
+        }
+      ],
+      "description": "You receive an invitation from Ningguang, she seems to have something to discuss with you."
+    },
+    {
+      "id": "q-19132",
+      "title": "Business as Usual",
+      "dialogue": [
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Good morning. Did you sleep well?"
+        },
+        {
+          "sit": "The same as usual."
+        },
+        {
+          "s": 0,
+          "t": "That's good. I was worried you'd be a little uncomfortable."
+        },
+        {
+          "sit": "I was a little nervous."
+        },
+        {
+          "s": 0,
+          "t": "There's nothing to worry about. We just need to go through the schedule you made and tick the items off one by one."
+        },
+        {
+          "sit": "I was so excited I couldn't sleep."
+        },
+        {
+          "s": 0,
+          "t": "Oh, how strange — me too! ...I'm joking, of course — I slept like a baby. Sorry to disappoint you."
+        },
+        {
+          "s": 0,
+          "t": "Now then. The schedule. Let's see what you have for me today."
+        },
+        {
+          "s": 0,
+          "t": "Item 1... Lunch at Liuli Pavilion with Ms. Luo Qiao."
+        },
+        {
+          "s": 0,
+          "t": "Ah yes, I remember the invitation. I need to make sure I'm well-prepared for this."
+        },
+        {
+          "sit": "Is she a friend of yours?"
+        },
+        {
+          "s": 0,
+          "t": "No. Someone I've never met before. Today's lunch will be our first time meeting each other."
+        },
+        {
+          "sit": "It's just lunch, what exactly do you need to prepare?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, she's paying a high price for my time, and I intend to make sure she gets her money's worth."
+        },
+        {
+          "s": 0,
+          "t": "Otherwise... tens of millions of Mora is rather a high price for lunch, even one at Liuli Pavilion — wouldn't you say?"
+        },
+        {
+          "sit": "...Tens of millions!?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. Even at this price, there is no shortage of people willing to pay for a lunch opportunity with me."
+        },
+        {
+          "s": 0,
+          "t": "To be clear, I've never had any hand in setting the price. I, too, was rather surprised to see it become so expensive."
+        },
+        {
+          "s": 0,
+          "t": "Time is very valuable to me. So when I first came up with the idea, I made a rule that my time would go to the highest bidder."
+        },
+        {
+          "s": 0,
+          "t": "Gradually, it developed into a lucrative business."
+        },
+        {
+          "sit": "It's like... an investment."
+        },
+        {
+          "s": 0,
+          "t": "Yes, that sums it up very well. Most people looking to buy my time are businesspeople who believe that whatever they spend now, they will make back several times over in due course."
+        },
+        {
+          "s": 0,
+          "t": "Naturally, for anyone looking to make a profit in a complex market, the bottom line is having the requisite experience and expertise. All I can do for them is share whatever insight I may have."
+        },
+        {
+          "s": 0,
+          "t": "As for how much my insight is worth in terms of Mora, everyone has their own idea. There is no standardized way to measure something like this."
+        },
+        {
+          "sit": "So this is how rich people think."
+        },
+        {
+          "s": 0,
+          "t": "You are a very lucky person, you know. You get to sit in on this lunch for free."
+        },
+        {
+          "s": 0,
+          "t": "In the hands of a professional businessperson, the kind of information you will be exposed to would be worth... well, tens of millions of Mora."
+        },
+        {
+          "sit": "Then I will listen and learn."
+        },
+        {
+          "sit": "Then this could be literally the most valuable lesson I'll learn in my life."
+        },
+        {
+          "s": 0,
+          "t": "There's no need to be nervous, of course. Now, let's have some breakfast before we leave."
+        },
+        {
+          "section": "Have breakfast together with Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Did you organize this entire breakfast?"
+        },
+        {
+          "sit": "I just picked the time slot."
+        },
+        {
+          "sit": "I think maybe Baishi arranged it yesterday..."
+        },
+        {
+          "s": 0,
+          "t": "Haha. I know what's going on, then."
+        },
+        {
+          "s": 0,
+          "t": "Please, sit. Have a taste of the Jade Chamber chef's cooking. This kind of food tastes far less satisfying if left out for too long."
+        },
+        {
+          "sit": "Thank you."
+        },
+        {
+          "sit": "You and Ningguang enjoy a fine breakfast."
+        },
+        {
+          "s": 0,
+          "t": "What do you think? Is the food to your liking?"
+        },
+        {
+          "sit": "I ate so much more than I intended to..."
+        },
+        {
+          "s": 0,
+          "t": "Hehe. Don't forget we have a lunch later. Save some space, or you might miss out on some even better food."
+        },
+        {
+          "s": 0,
+          "t": "Still, I'm happy to see that you approve of my culinary tastes."
+        },
+        {
+          "sit": "Do you usually eat breakfast with your secretaries?"
+        },
+        {
+          "s": 0,
+          "t": "On occasion. Usually, everyone is too busy for a leisurely sit-down meal. There is an awful lot to get done most of the time."
+        },
+        {
+          "s": 0,
+          "t": "Breakfast also isn't usually so lavish. Hence my surprise when we got here."
+        },
+        {
+          "s": 0,
+          "t": "I actually thought you had cooked it all yourself..."
+        },
+        {
+          "sit": "I mean, I'm not a terrible chef, but still..."
+        },
+        {
+          "sit": "I don't know if my cooking is really to your tastes."
+        },
+        {
+          "s": 0,
+          "t": "Relax, I'm just joking. Baishi probably made arrangements yesterday to add a few extra dishes to the breakfast menu."
+        },
+        {
+          "s": 0,
+          "t": "You willingly took this work on, knowing that it would be tedious, and you have worked diligently. My secretaries and I are very grateful to you."
+        },
+        {
+          "s": 0,
+          "t": "Treating you to some food is but a small token of our appreciation."
+        },
+        {
+          "sit": "Mmm. Not bad, not bad at all."
+        },
+        {
+          "sit": "It was as good as Xinyue Kiosk and Liuli Pavilion."
+        },
+        {
+          "s": 0,
+          "t": "Breakfast sets the tone for the rest of the day. You can't compromise on it."
+        },
+        {
+          "s": 0,
+          "t": "If you wake up to the same monotonous meal each day, you will start to feel fatigued even before you start working."
+        },
+        {
+          "s": 0,
+          "t": "Well, I'm done eating. We should get ready, then head off to Liuli Pavilion."
+        },
+        {
+          "s": 0,
+          "t": "I have some preparations to make first. Could you bring my clothes to my room, please?"
+        },
+        {
+          "sit": "You need a change of clothes?"
+        },
+        {
+          "s": 0,
+          "t": "I need a change of mood, and a change of clothes will facilitate that."
+        },
+        {
+          "s": 0,
+          "t": "Who knows, perhaps you will have a completely different impression of me after I change outfits."
+        },
+        {
+          "s": 0,
+          "t": "I already instructed Lanyang to have my outfit ready. You can fetch it from her."
+        },
+        {
+          "sit": "Understood."
+        },
+        {
+          "s": 0,
+          "t": "Thank you. I'll be in my room."
+        },
+        {
+          "section": "Look for Lanyang to get the tailored clothes"
+        },
+        {
+          "s": 0,
+          "t": "Ah, this is the one. Please wait for a moment."
+        },
+        {
+          "sit": "After a while, the door in front of you finally opens."
+        },
+        {
+          "s": 0,
+          "t": "I believe you've seen this outfit before. It's one of my favorites."
+        },
+        {
+          "s": 0,
+          "t": "I don't think I asked you what you thought of it at the time, though. What do you think? Be honest."
+        },
+        {
+          "sit": "It's stunning."
+        },
+        {
+          "sit": "It's classy."
+        },
+        {
+          "sit": "It suits you."
+        },
+        {
+          "s": 0,
+          "t": "Phew... Thank you. I was actually a little nervous."
+        },
+        {
+          "s": 0,
+          "t": "Knowing that it has your seal of approval makes me feel much more self-confident."
+        },
+        {
+          "sit": "Self-confident?"
+        },
+        {
+          "s": 0,
+          "t": "If you're second-guessing how you look, you can forget about looking glamorous — even the finest garments in the world will look out of place on you."
+        },
+        {
+          "s": 0,
+          "t": "That's why your affirmation matters so much to me."
+        },
+        {
+          "sit": "Really, you look great in anything."
+        },
+        {
+          "s": 0,
+          "t": "Hah, then it's mere flattery... You pick your moments to wisecrack, don't you? Now I don't know whether to take what you said earlier seriously..."
+        },
+        {
+          "s": 0,
+          "t": "I never knew you had such a mischievous side."
+        },
+        {
+          "s": 0,
+          "t": "All right. Let's head to Liuli Pavilion."
+        },
+        {
+          "s": 0,
+          "t": "Ah, this is the one. Please wait for a moment."
+        },
+        {
+          "s": 0,
+          "t": "I had this specially tailored recently — and I must say, I am really rather fond of it."
+        },
+        {
+          "s": 0,
+          "t": "What do you think? Be honest. I just want to know your first impression."
+        },
+        {
+          "sit": "It's stunning."
+        },
+        {
+          "sit": "It's classy."
+        },
+        {
+          "sit": "It suits you."
+        },
+        {
+          "s": 0,
+          "t": "Phew... Thank you. I was actually a little nervous."
+        },
+        {
+          "s": 0,
+          "t": "Knowing that it has your seal of approval makes me feel much more self-confident."
+        },
+        {
+          "sit": "Self-confident?"
+        },
+        {
+          "s": 0,
+          "t": "If you're second-guessing how you look, you can forget about looking glamorous — even the finest garments in the world will look out of place on you."
+        },
+        {
+          "s": 0,
+          "t": "That's why your affirmation matters so much to me."
+        },
+        {
+          "sit": "Really, you look great in anything."
+        },
+        {
+          "s": 0,
+          "t": "Hah, then it's mere flattery... You pick your moments to wisecrack, don't you? Now I don't know whether to take what you said earlier seriously..."
+        },
+        {
+          "s": 0,
+          "t": "I never knew you had such a mischievous side."
+        },
+        {
+          "s": 0,
+          "t": "All right. Let's head to Liuli Pavilion."
+        },
+        {
+          "s": 0,
+          "t": "Ah, this is the one. Please wait for a moment."
+        },
+        {
+          "sit": "After a while, the door in front of you finally opens."
+        },
+        {
+          "section": "Give the tailored clothes to Ningguang"
+        },
+        {
+          "s": 4,
+          "t": "Lady Ningguang!"
+        },
+        {
+          "s": 0,
+          "t": "Sorry to have kept you waiting."
+        },
+        {
+          "s": 4,
+          "t": "No, no, not at all! I know that you have a thousand different things to do each day. I'm very grateful for any amount of time you can spare for me."
+        },
+        {
+          "s": 0,
+          "t": "Great. Well, let's leave the formalities aside from now on, and make this just a friendly chat."
+        },
+        {
+          "s": 0,
+          "t": "This is {NICKNAME}. I'm assuming you've heard of {F#her}{M#him}."
+        },
+        {
+          "s": 0,
+          "t": "{F#She}{M#He} happened to be in Liyue Harbor today, so I invited {F#her}{M#him} to come along. It's a rare opportunity to dine with {F#her}{M#him}, too."
+        },
+        {
+          "s": 0,
+          "t": "Do you mind if {F#she}{M#he} sits with us?"
+        },
+        {
+          "s": 4,
+          "t": "No, not at all! On the contrary, I'm honored — what a surprise to be dining with the illustrious Traveler, too!"
+        },
+        {
+          "sit": "(Huh, I thought she'd introduce me as her temporary secretary...)"
+        },
+        {
+          "s": 4,
+          "t": "I've always been fascinated by you and your adventures... there's so many questions I'd love to ask you!"
+        },
+        {
+          "s": 4,
+          "t": "Oh, I'm sorry, where are my manners — I forgot to introduce myself. Look at me, getting all over-excited."
+        },
+        {
+          "s": 4,
+          "t": "I'm Luo Qiao, a businesswoman. I work mostly in the textile business, but recently I've been considering branching out into some other markets."
+        },
+        {
+          "s": 4,
+          "t": "That's what I wanted to ask Lady Ningguang for some advice about. I didn't know there'd be a surprise guest involved too."
+        },
+        {
+          "s": 4,
+          "t": "Hehe, so the rumors are true, then..."
+        },
+        {
+          "s": 0,
+          "t": "Rumors? About what, exactly?"
+        },
+        {
+          "s": 4,
+          "t": "You know, the rumors about the two of you, Lady Ningguang and the Traveler, having a... closer-than-average relationship."
+        },
+        {
+          "s": 4,
+          "t": "...You haven't heard?"
+        },
+        {
+          "sit": "Nope."
+        },
+        {
+          "sit": "Are these rumors widespread?"
+        },
+        {
+          "s": 4,
+          "t": "Come on... you must know that Lady Ningguang's every move is in the spotlight? That obviously includes her relationships."
+        },
+        {
+          "s": 4,
+          "t": "And if you didn't have some sort of special relationship, why would she invite you to this lunch right after finding out that you were back in Liyue Harbor?"
+        },
+        {
+          "sit": "Um, actually..."
+        },
+        {
+          "sit": "(I need to be very careful how I answer this...)"
+        },
+        {
+          "s": 0,
+          "t": "Haha. Interesting. Yes, we have a special relationship, but I don't see anything unusual about it."
+        },
+        {
+          "s": 0,
+          "t": "The Traveler is a national hero in Liyue whose actions have directly contributed toward the prosperity we enjoy today."
+        },
+        {
+          "s": 0,
+          "t": "Even putting aside my official status as one of the Liyue Qixing, I admire {F#her}{M#him} on a personal level, too."
+        },
+        {
+          "s": 4,
+          "t": "Oh, yes, there is nothing unusual about it at all. I was just observing that Lady Ningguang now seems to have a second interesting character in her innermost circle. The first one being the captain."
+        },
+        {
+          "s": 0,
+          "t": "You're comparing Apples and Sunsettias there. Whenever Beidou returns to Liyue Harbor, all she brings me is a headache."
+        },
+        {
+          "s": 0,
+          "t": "I've missed out on a number of extremely promising investment opportunities thanks to her. In fact, the timing is always so suspiciously coincidental I can't help but wonder if she's doing it on purpose..."
+        },
+        {
+          "s": 4,
+          "t": "Investment opportunities... Oh, do you mean the Luminescent Spine business? I hear that's been all the rage recently."
+        },
+        {
+          "s": 0,
+          "t": "No, something else. All the talk around Luminescent Spines is just empty hype."
+        },
+        {
+          "s": 4,
+          "t": "Oh? But isn't there some new technology from Fontaine that needs lots of Luminescent Spines to make it work?"
+        },
+        {
+          "s": 0,
+          "t": "If it were really that profitable, those in the know would have kept it as quiet as possible. You have to wonder, if the news is spreading like wildfire, who's fanning the flames?"
+        },
+        {
+          "s": 0,
+          "t": "I had my secretary do some analysis. The current price of Luminescent Spines far exceeds the profits that could be made on the end product."
+        },
+        {
+          "s": 0,
+          "t": "So I would advise you to be cautious."
+        },
+        {
+          "s": 4,
+          "t": "I see... Huh, I was planning to get your opinion on how to get started in that business."
+        },
+        {
+          "s": 0,
+          "t": "In my opinion, there are many people around with ulterior motives, making this a very risky business to enter into in the short term."
+        },
+        {
+          "s": 0,
+          "t": "Long term, it's very difficult to say. But I believe there's too much uncertainty to make it worth your investment. You worked hard to earn every Mora you own, and you should be just as careful spending it as you were making it."
+        },
+        {
+          "sit": "Hit the nail on the head."
+        },
+        {
+          "s": 4,
+          "t": "You think so too, huh?"
+        },
+        {
+          "sit": "At least do your research before you part with any money."
+        },
+        {
+          "s": 4,
+          "t": "Okay, got it. If that's what both of you think, I'll take my time and not rush into anything."
+        },
+        {
+          "s": 4,
+          "t": "Maybe it'd be a better choice to invest this money into an industry that I'm genuinely interested in getting involved with."
+        },
+        {
+          "sit": "The business talk continues in this vein throughout lunchtime..."
+        },
+        {
+          "s": 4,
+          "t": "Lady Ningguang, thank you so much for taking the time to meet with me today. I didn't know how much we'd get through, but you've answered every question I wanted to ask."
+        },
+        {
+          "s": 0,
+          "t": "Good, I'm glad I could be of some help."
+        },
+        {
+          "s": 4,
+          "t": "Now I see why you were able to become the most successful businessperson in Liyue Harbor."
+        },
+        {
+          "s": 4,
+          "t": "You think clearly, you are very knowledgeable, and you keep yourself well-informed. It would take me a very long time to come anywhere close to your level."
+        },
+        {
+          "sit": "(This is why so many people want to pay to spend time with Ningguang...)"
+        },
+        {
+          "s": 0,
+          "t": "You've been listening for a while. Are you getting bored?"
+        },
+        {
+          "sit": "No. I'm finding it all very interesting."
+        },
+        {
+          "s": 0,
+          "t": "Has it sparked an interest in the business world for you?"
+        },
+        {
+          "sit": "Maybe I'll give it a shot in the future."
+        },
+        {
+          "s": 0,
+          "t": "Ah, so you want to be my competitor. Well then, I suppose I'll have to start looking over my shoulder."
+        },
+        {
+          "s": 0,
+          "t": "Or how about this — I'll invest in you early on, before you make it big."
+        },
+        {
+          "sit": "I'm a novice, but I was able to follow because you explained everything so clearly."
+        },
+        {
+          "s": 0,
+          "t": "That means you also have a good head on your shoulders and the ability to learn rapidly."
+        },
+        {
+          "s": 0,
+          "t": "If you are in need of Mora, you should absolutely consider doing business."
+        },
+        {
+          "s": 4,
+          "t": "I won't take up any more of your time. Thank you — this lunch was everything I was hoping for and more. I can't wait to try out everything I've learned."
+        },
+        {
+          "s": 0,
+          "t": "See you next time. I'll look forward to hearing good news from you soon."
+        },
+        {
+          "s": 0,
+          "t": "Right then, lunch is over. I assume you have something planned next? Although..."
+        },
+        {
+          "s": 0,
+          "t": "I'm a little concerned about the auction. I wonder how my secretarial trio is getting along."
+        },
+        {
+          "s": 0,
+          "t": "Yes, you're right. Whatever happens, they can handle it."
+        },
+        {
+          "s": 0,
+          "t": "In that case, what's next on the schedule?"
+        },
+        {
+          "sit": "Meeting with the informants."
+        },
+        {
+          "s": 0,
+          "t": "Ah, okay then. Yes, it's been some time since I last caught up with them."
+        },
+        {
+          "s": 0,
+          "t": "Let's go to Mingxing Jewelry first, I need to pick up something before meeting them."
+        },
+        {
+          "s": 0,
+          "t": "Let's go to Mingxing Jewelry first, I need to pick up something before meeting them."
+        },
+        {
+          "s": 0,
+          "t": "Good, then let's do that. There are some slippery characters among the bidders, you see."
+        },
+        {
+          "s": 0,
+          "t": "So even though my secretaries are very capable and experienced, I still can't help worrying for them a little."
+        },
+        {
+          "s": 0,
+          "t": "Come on. The auction is being held at Yujing Terrace."
+        },
+        {
+          "section": "Give the tailored clothes to Ningguang"
+        },
+        {
+          "s": 5,
+          "t": "Hello, how may I help?"
+        },
+        {
+          "sit": "I'm here to fetch a change of clothes for Ningguang."
+        },
+        {
+          "s": 5,
+          "t": "Ah yes, of course. Please wait a moment, I'll go and get them."
+        },
+        {
+          "sit": "After a long wait, Lanyang finally returns."
+        },
+        {
+          "s": 5,
+          "t": "Here you are. Please give this to Lady Ningguang."
+        },
+        {
+          "sit": "That seemed to take you a while."
+        },
+        {
+          "s": 5,
+          "t": "Yes, this whole room is full of Lady Ningguang's personal items. Not just clothes, either — there are all kinds of jewelry and ornaments..."
+        },
+        {
+          "s": 5,
+          "t": "Lady Ningguang asked us to rearrange this room recently. We're currently right in the middle of that, so everything's in a bit of a mess. That's why it took me a little time to find this for you."
+        },
+        {
+          "sit": "(Sounds like Ningguang has a huge personal collection...)"
+        },
+        {
+          "sit": "(I suppose this is a problem unique to rich people.)"
+        },
+        {
+          "s": 5,
+          "t": "Anyway, you can take it now. Thanks for coming to pick it up."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Did you get it. {NICKNAME}?"
+        },
+        {
+          "s": 5,
+          "t": "Please take this garment to Lady Ningguang. Thank you."
+        },
+        {
+          "s": 6,
+          "t": "Everything is set, please enjoy your meal."
+        },
+        {
+          "s": 6,
+          "t": "Thank you for your custom."
+        }
+      ],
+      "description": "According to the schedule, the first thing you need to do is wake Ningguang up..."
+    },
+    {
+      "id": "q-19133",
+      "title": "Exchanging Intelligence",
+      "dialogue": [
+        {
+          "section": "Go to Mingxing Jewelry to collect the item"
+        },
+        {
+          "s": 0,
+          "t": "Hello, I'm here to collect the item I handed in for repair."
+        },
+        {
+          "s": 7,
+          "t": "Ah, Lady Ningguang. One moment please, I'll fetch it immediately."
+        },
+        {
+          "s": 0,
+          "t": "Very good. Don't rush, now. Please handle it with care."
+        },
+        {
+          "sit": "Is it something very valuable?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Yes and no."
+        },
+        {
+          "s": 0,
+          "t": "You probably imagine that Mingxing Jewelry deals exclusively in expensive luxury goods."
+        },
+        {
+          "sit": "True, that's my impression."
+        },
+        {
+          "sit": "Actually, not exclusively."
+        },
+        {
+          "s": 0,
+          "t": "The workers here are very skilled, so I like to come to them when I need something custom-made."
+        },
+        {
+          "s": 0,
+          "t": "This time, though, I just had them do a simple repair. The item is quite ordinary. In fact, the cost of the repair was more than the item was ever worth."
+        },
+        {
+          "s": 7,
+          "t": "Lady Ningguang. Your comb has been fixed. Please inspect it and see whether you're satisfied with our work."
+        },
+        {
+          "s": 7,
+          "t": "We did everything we could to restore it to its original condition. You'll still see a few marks on there, though. This was unavoidable because of how badly damaged the item was."
+        },
+        {
+          "s": 0,
+          "t": "That's fine. Thank you for your hard work."
+        },
+        {
+          "sit": "You were right about it being a little ordinary."
+        },
+        {
+          "s": 0,
+          "t": "Yes, though it is something very precious to one of my informants. It reminds her of her mother."
+        },
+        {
+          "s": 0,
+          "t": "My informants often provide me with extremely important information. It's only fair that I endeavor to meet any requests they have in return."
+        },
+        {
+          "s": 0,
+          "t": "Trust is of far greater importance than profit in the relationship between me and my informants."
+        },
+        {
+          "sit": "I thought useful intel could only be bought with Mora."
+        },
+        {
+          "s": 0,
+          "t": "It's understandable to think that way. And in the vast majority of cases, you'd be completely right."
+        },
+        {
+          "s": 0,
+          "t": "But things are a little different with these particular informants. Mora doesn't get you very far with this crowd..."
+        },
+        {
+          "s": 0,
+          "t": "And this only makes me all the more excited to meet with them."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for the repair, Xingxi. This is a great help."
+        },
+        {
+          "s": 7,
+          "t": "Oh, don't mention it. It's always a pleasure, Lady Ningguang."
+        },
+        {
+          "s": 0,
+          "t": "Let's go and meet them."
+        },
+        {
+          "section": "Meet the informants"
+        },
+        {
+          "s": 8,
+          "t": "Aunty Ningguang!"
+        },
+        {
+          "s": 9,
+          "t": "Hi, Aunty Ningguang!"
+        },
+        {
+          "s": 0,
+          "t": "Hello my dears! It's been a long time, hasn't it?"
+        },
+        {
+          "sit": "The informants are... children?"
+        },
+        {
+          "s": 0,
+          "t": "Yes indeed. And they are some of my most reliable helpers and friends."
+        },
+        {
+          "s": 0,
+          "t": "I didn't want to involve them in intelligence gathering for me at first, but they, on the other hand, were so enthusiastic about the idea that I thought it couldn't hurt to try. I treated it as a little game between us."
+        },
+        {
+          "s": 0,
+          "t": "It turned out that they delivered the goods and thoroughly enjoyed themselves while they were at it. So, it was a win-win."
+        },
+        {
+          "s": 0,
+          "t": "So! Fill me in, how have you all been doing?"
+        },
+        {
+          "s": 9,
+          "t": "Great! Mom and Dad have taken me on loads of cool trips recently. It's been loadsa fun!"
+        },
+        {
+          "s": 8,
+          "t": "But... you didn't do your homework, did you..."
+        },
+        {
+          "s": 9,
+          "t": "Yeah, but... it's not my fault."
+        },
+        {
+          "s": 8,
+          "t": "You still gotta try. Like teacher says, Liyue Harbor is in a new age now, and we've got a really important part to play."
+        },
+        {
+          "s": 0,
+          "t": "This new age started after that great battle, you know."
+        },
+        {
+          "sit": "I didn't know it would have such a profound impact."
+        },
+        {
+          "s": 0,
+          "t": "Well, this is a dramatic change, unique in all of the millennia of Liyue's history. Everyone is eager to do their part and make their mark in the age of humanity."
+        },
+        {
+          "s": 0,
+          "t": "What about you, Nannan? You haven't said anything yet, and you're looking a little unhappy."
+        },
+        {
+          "s": 10,
+          "t": "I... I'm fine... Um... Just dunno what to say."
+        },
+        {
+          "s": 9,
+          "t": "Oh yeah, I just remembered! A load of really big boats came into the harbor the day before yesterday!"
+        },
+        {
+          "s": 8,
+          "t": "Yeah, that's right! All the merchants were there and it was really noisy, and then the people on the boat started unloading all these crates. There was a salty, kinda fishy smell in the air."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I see. That'll be the fishing boats coming back from the open ocean. How much cargo were they carrying? Remember, I taught you how you can tell."
+        },
+        {
+          "s": 9,
+          "t": "Yep! I made sure to look at the waterline, just like you said. They looked really full this time!"
+        },
+        {
+          "s": 0,
+          "t": "My goodness! Well, it sounds like they made quite a big catch."
+        },
+        {
+          "sit": "How can you tell?"
+        },
+        {
+          "s": 0,
+          "t": "The heavier the boat, the lower the hull sits in the water. So you can tell how heavily loaded a vessel is from the height of the waterline."
+        },
+        {
+          "s": 0,
+          "t": "How deep a fully loaded vessel will sit in the water varies from ship to ship. But it's something you can tell from experience, at least for the kinds of vessels you see regularly."
+        },
+        {
+          "s": 9,
+          "t": "Hee-hee, since Aunty Ningguang taught me how to do it, I can tell with just one look!"
+        },
+        {
+          "sit": "Very clever!"
+        },
+        {
+          "s": 10,
+          "t": "Um, a few days ago, I heard some people saying that a big merchant from Fontaine is coming soon to buy Luminescent Spines."
+        },
+        {
+          "s": 10,
+          "t": "They said that when they get here... the price will go up a lot."
+        },
+        {
+          "s": 0,
+          "t": "Oh, really?"
+        },
+        {
+          "sit": "(That's the opposite of what Ningguang's analysis found out...)"
+        },
+        {
+          "s": 0,
+          "t": "Who did you hear this from? Do you remember what they looked like?"
+        },
+        {
+          "s": 10,
+          "t": "Um... no, I don't remember..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, never mind. So how about what they said — do you remember their exact words?"
+        },
+        {
+          "s": 10,
+          "t": "Um... um, I don't remember that either. Sorry..."
+        },
+        {
+          "s": 9,
+          "t": "Are you okay? You're usually the one that talks the most. What's gotten into you today?"
+        },
+        {
+          "s": 0,
+          "t": "It's okay, don't be upset. Actually, I brought you a little something to cheer you up. How about that, hmm?"
+        },
+        {
+          "s": 10,
+          "t": "It's... my comb! You remembered!"
+        },
+        {
+          "s": 0,
+          "t": "Of course I did. If I make you a promise, I will always keep it."
+        },
+        {
+          "s": 10,
+          "t": "Thank you, Aunty Ningguang. Thank you so much..."
+        },
+        {
+          "s": 0,
+          "t": "It was just a small favor, really. Nothing to get overexcited about."
+        },
+        {
+          "s": 10,
+          "t": "But... but they said you'd be too busy to remember about a boring old comb."
+        },
+        {
+          "s": 0,
+          "t": "\"They\"?"
+        },
+        {
+          "s": 10,
+          "t": "Uh oh..."
+        },
+        {
+          "sit": "(It looks like there's a story here.)"
+        },
+        {
+          "sit": "(No wonder she was fumbling her words.)"
+        },
+        {
+          "s": 0,
+          "t": "It's alright, don't worry. There just seems to be some kind of misunderstanding here. Why don't you take this opportunity to clear it up? Don't you think that'd be best?"
+        },
+        {
+          "s": 8,
+          "t": "Yeah! Aunty Ningguang's not gonna blame you."
+        },
+        {
+          "s": 10,
+          "t": "I'm sorry, I—I... I told you a lie..."
+        },
+        {
+          "s": 10,
+          "t": "That thing about the Luminescent Spines wasn't something I heard. Um, two people came and told me to say it to you."
+        },
+        {
+          "s": 10,
+          "t": "I told them I didn't wanna lie to Aunty Ningguang, but, um, they told me you'd forgotten all about the comb, and I didn't know how to argue with them..."
+        },
+        {
+          "s": 10,
+          "t": "Then they bought me a new comb, and, and I..."
+        },
+        {
+          "s": 10,
+          "t": "I'm sorry! I'll give them the comb back right away! No comb is better than the one you helped get fixed for me!"
+        },
+        {
+          "s": 0,
+          "t": "I know how much it means to you. It was a gift from your mom before she left Liyue Harbor, wasn't it?"
+        },
+        {
+          "s": 10,
+          "t": "Yep, it was! I'll be extra careful with it from now on. When mom gets back, she'll be so sad if she finds out I broke it..."
+        },
+        {
+          "s": 0,
+          "t": "I must say, this is most intriguing..."
+        },
+        {
+          "sit": "It looks like someone is trying to scam you."
+        },
+        {
+          "s": 0,
+          "t": "How about this: You tell me where those two people are, and I'll take the comb back to them for you. Sound good?"
+        },
+        {
+          "s": 10,
+          "t": "Okay... um, they're over at the docks. They said I should go and meet them when I've finished the mission..."
+        },
+        {
+          "s": 0,
+          "t": "Alright then. Don't worry, it'll all be fine. I'll be right back."
+        },
+        {
+          "s": 9,
+          "t": "Are you gonna go punish the bad guys?"
+        },
+        {
+          "s": 0,
+          "t": "Now now, this is a grown-up situation, okay? It's not fun and games anymore. And don't try and follow me."
+        },
+        {
+          "s": 0,
+          "t": "I'm just going to have a polite discussion with those two grown-ups about what they're allowed to do and what they're not allowed to do."
+        },
+        {
+          "section": "Go to the south wharf to meet the person behind the scenes"
+        },
+        {
+          "s": 11,
+          "t": "Don't you think that kid's gonna fluff her lines? Also... let's be honest, this is, uh, a new low for us..."
+        },
+        {
+          "s": 12,
+          "t": "Ugh, yes, I know... but we didn't have any other options. Just try not to overthink it, okay? Nannan's one of Ningguang's most trusted informants."
+        },
+        {
+          "s": 12,
+          "t": "Ningguang adores that kid. She's not gonna get all suspicious just because her story doesn't quite add up."
+        },
+        {
+          "s": 0,
+          "t": "It sounds like you underestimated me. And the children, as well."
+        },
+        {
+          "s": 12,
+          "t": "L—Lady Ningguang!"
+        },
+        {
+          "s": 0,
+          "t": "You knew how important that comb was to Nannan, and you exploited that fact to emotionally manipulate her."
+        },
+        {
+          "s": 0,
+          "t": "You coached a child to lie, made her betray her own innocence and confuse her conscience. Do you not realize how contemptible that is?"
+        },
+        {
+          "s": 12,
+          "t": "I... Uh..."
+        },
+        {
+          "s": 11,
+          "t": "Sorry, Lady Ningguang! We... we never should have crossed you like this!"
+        },
+        {
+          "s": 0,
+          "t": "That's not the point. Business is business, and at some point we're all trying to get the better of one another. So if all you'd done is fool me by feeding me false information, I'd make a loss and that would be the end of it."
+        },
+        {
+          "s": 0,
+          "t": "But you cannot put Mora above all else. You cannot go exploiting children for profit. Do you have any idea just how much damage that will cause?"
+        },
+        {
+          "s": 12,
+          "t": "It was hardly our first choice either... We were only acting out of necessity."
+        },
+        {
+          "s": 12,
+          "t": "We've been business partners for years now. We've gotten by, I guess, but never had any opportunities to expand."
+        },
+        {
+          "s": 12,
+          "t": "When we heard about the movement in the Luminescent Spine market, we thought to heck with it. Let's go all in on this one, see if we don't get lucky for once."
+        },
+        {
+          "s": 12,
+          "t": "So we stocked up a huge stash of Luminescent Spines and watched as the price went up and up. We thought, this was gonna be it. We were gonna make our fortune."
+        },
+        {
+          "s": 11,
+          "t": "But we waited and waited and this mystery merchant from Fontaine never came. More and more people started to suspect it was all a huge scam."
+        },
+        {
+          "s": 11,
+          "t": "Suddenly, everyone with Luminescent Spines was running for the exit, selling as fast as they could. But we had so much inventory that no one was willing to buy it..."
+        },
+        {
+          "sit": "And that's when you thought of Ningguang?"
+        },
+        {
+          "s": 12,
+          "t": "Well, yeah. As soon as Lady Ningguang makes a move, everyone follows her lead, and the price takes a steep hike..."
+        },
+        {
+          "s": 12,
+          "t": "If we don't sell the goods, we're both bankrupt. We're in debt up to our eyeballs! We just didn't have any other choices..."
+        },
+        {
+          "s": 0,
+          "t": "To be brutally honest, \"We took out a loan and made a speculative investment\" is not a sob story."
+        },
+        {
+          "sit": "Your business analysis was correct."
+        },
+        {
+          "sit": "This supports your conclusion about the Luminescent Spine hype."
+        },
+        {
+          "s": 0,
+          "t": "But not everyone has the capability to make rational decisions."
+        },
+        {
+          "s": 0,
+          "t": "Greed, a lust for wealth, and impatience can all cloud your judgment."
+        },
+        {
+          "s": 0,
+          "t": "Do you now realize how dire the consequences of wild speculation can be?"
+        },
+        {
+          "s": 12,
+          "t": "A hundred percent. We've both barely slept in days."
+        },
+        {
+          "s": 12,
+          "t": "We begged people to take our stock off our hands... They laughed at us, called us idiots, thought it was all hilarious..."
+        },
+        {
+          "s": 11,
+          "t": "We messed up. Completely and catastrophically messed up..."
+        },
+        {
+          "s": 11,
+          "t": "The savings we worked so hard our whole lives to build up, decimated just like that. All we want now is a chance to start over."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Well, I can take your Luminescent Spines off your hands. But we will need a detailed contract."
+        },
+        {
+          "s": 0,
+          "t": "The portion of what I pay that exceeds the average price of Luminescent Spines in the past, you will need to pay back to me by some means in our future business dealings."
+        },
+        {
+          "s": 12,
+          "t": "Huh? But... but that means our profit is zero..."
+        },
+        {
+          "s": 0,
+          "t": "Then you're free to find another willing buyer."
+        },
+        {
+          "s": 0,
+          "t": "But if you're seriously still insisting on turning a profit under these circumstances, I'm afraid you're beyond redemption."
+        },
+        {
+          "s": 11,
+          "t": "Lady Ningguang is right. Let's swap the goods for cash and use it to pay off our debts, and be done with it. This is a lifeline, and we should be grateful for it. Forget about making money."
+        },
+        {
+          "s": 12,
+          "t": "Yes, yes, you're right..."
+        },
+        {
+          "s": 0,
+          "t": "I have no particular need for Luminescent Spines, but I'm quite sure I can uncover a market for it with a little research."
+        },
+        {
+          "s": 12,
+          "t": "Okay, so, uh... shall we get this deal done now, or...?"
+        },
+        {
+          "s": 0,
+          "t": "No need to hurry. Our deal is hardly the urgent matter here. Atoning for your transgressions is the main order of business."
+        },
+        {
+          "s": 0,
+          "t": "You took advantage of a child, and you are coming with me to make a full and unreserved apology."
+        },
+        {
+          "s": 0,
+          "t": "This is an opportunity for you to show remorse."
+        },
+        {
+          "s": 12,
+          "t": "O—Okay..."
+        },
+        {
+          "s": 0,
+          "t": "Come on, let's go back and see the children."
+        },
+        {
+          "section": "Go see the children"
+        },
+        {
+          "s": 0,
+          "t": "We're back. Everything's all sorted."
+        },
+        {
+          "s": 10,
+          "t": "Huh? Oh, it's those two..."
+        },
+        {
+          "s": 12,
+          "t": "...I'm sorry, Nannan. I was lying to you when I told you that Lady Ningguang wouldn't fix your comb."
+        },
+        {
+          "s": 12,
+          "t": "I was completely in the wrong, and I promise I'll never do anything like this again. Can you find it in your heart to forgive me?"
+        },
+        {
+          "s": 10,
+          "t": "Hmmmm... What do you think, Aunty Ningguang?"
+        },
+        {
+          "s": 0,
+          "t": "I think it should be your choice, and yours alone."
+        },
+        {
+          "sit": "No matter what your decision is, we support you."
+        },
+        {
+          "s": 10,
+          "t": "Well..."
+        },
+        {
+          "s": 8,
+          "t": "Since it's all sorted now, and nothing super bad happened, I guess it's okay."
+        },
+        {
+          "s": 9,
+          "t": "But we can't just let them off. We gotta show them you don't mess with us!"
+        },
+        {
+          "s": 0,
+          "t": "That's true. I'd certainly hate to see anyone else try to con you."
+        },
+        {
+          "s": 10,
+          "t": "I've made up my mind."
+        },
+        {
+          "s": 12,
+          "t": "..."
+        },
+        {
+          "s": 10,
+          "t": "I want them to come play with us."
+        },
+        {
+          "s": 12,
+          "t": "...Uh, what?"
+        },
+        {
+          "s": 9,
+          "t": "Yay! Now we have someone to play hide-and-seek with!"
+        },
+        {
+          "s": 8,
+          "t": "Great idea! Let's go play hide-and-seek at the North Wharf!"
+        },
+        {
+          "s": 12,
+          "t": "W—Wait a second..."
+        },
+        {
+          "s": 9,
+          "t": "Nope, no waiting! C'mon!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, so full of energy."
+        },
+        {
+          "sit": "We should go with them."
+        },
+        {
+          "s": 0,
+          "t": "Yes, of course. I wouldn't feel comfortable leaving them alone with those two buffoons."
+        },
+        {
+          "section": "Play with the children at the north wharf"
+        },
+        {
+          "s": 0,
+          "t": "Let me guess what you're thinking."
+        },
+        {
+          "s": 0,
+          "t": "You're thinking that there's not a huge difference between me turning these children into my informants and the actions of those two businessmen. Am I right?"
+        },
+        {
+          "sit": "You got me."
+        },
+        {
+          "sit": "I mean, it's not AS bad, but..."
+        },
+        {
+          "s": 0,
+          "t": "They were completely different when I first met them."
+        },
+        {
+          "s": 0,
+          "t": "They'd run away as soon as they saw me, or they'd be shaking with nerves and unable to speak."
+        },
+        {
+          "sit": "You are Lady Ningguang, after all."
+        },
+        {
+          "sit": "I'd be nervous, too."
+        },
+        {
+          "s": 0,
+          "t": "But gradually, they stopped seeing me as someone to be afraid of, and started seeing me as someone they can trust."
+        },
+        {
+          "s": 0,
+          "t": "For my part, I did my utmost to fulfill the duties of a responsible adult."
+        },
+        {
+          "s": 0,
+          "t": "I played games with them, but I also taught them observation skills, analytical skills, how to think critically. I never taught business, though."
+        },
+        {
+          "s": 0,
+          "t": "Now, they're much further ahead in their studies and far more mature than their peers. This has given them confidence in themselves."
+        },
+        {
+          "s": 0,
+          "t": "I think that this is beneficial to them."
+        },
+        {
+          "sit": "You are a lot like a teacher to them."
+        },
+        {
+          "s": 0,
+          "t": "Yes, perhaps I am."
+        },
+        {
+          "s": 0,
+          "t": "I never had the chance to receive a good education as a child. That's why I hope to teach these children myself. Hopefully I can pass on some of what I have learned."
+        },
+        {
+          "s": 0,
+          "t": "Someday, they may realize that not everything is a win-win deal, that deception and one-upmanship are facts of life. But there's nothing wrong with that."
+        },
+        {
+          "s": 0,
+          "t": "When that happens, they will be ready to face the world head-on and become exceptional businessmen and women. But until then, I am here to protect them."
+        },
+        {
+          "sit": "Are you raising them to be your heirs?"
+        },
+        {
+          "sit": "Are you raising them to be your competitors?"
+        },
+        {
+          "s": 0,
+          "t": "I will one day die, new Qixing will replace the old, and Liyue will continue to prosper."
+        },
+        {
+          "s": 0,
+          "t": "I hope the name, Ningguang, will live on, but not as a person. As more of a symbol."
+        },
+        {
+          "s": 0,
+          "t": "If I can pass on everything I have learned, I can create a legacy that will live on long after I am gone."
+        },
+        {
+          "s": 9,
+          "t": "Come on, Aunty Ningguang! Hurry up!"
+        },
+        {
+          "s": 10,
+          "t": "We're not gonna wait forever~!"
+        },
+        {
+          "s": 0,
+          "t": "Coming!"
+        },
+        {
+          "s": 0,
+          "t": "Come on, let's enjoy this while we can."
+        },
+        {
+          "s": 7,
+          "t": "Take care, both of you. Please come again!"
+        },
+        {
+          "s": 9,
+          "t": "If you'd told us sooner, we would've figured out that it's a lie."
+        },
+        {
+          "s": 8,
+          "t": "Yeah. All three of us together makes a pretty smart group!"
+        },
+        {
+          "s": 10,
+          "t": "I got it, thanks..."
+        },
+        {
+          "s": 6,
+          "t": "Thank you for your custom."
+        }
+      ],
+      "description": "Now that the banquet is over, next up is Ningguang's meeting with her informants."
+    },
+    {
+      "id": "q-19134",
+      "title": "Auction Games",
+      "dialogue": [
+        {
+          "section": "Go to the site where the auction is being held"
+        },
+        {
+          "s": 3,
+          "t": "Lady Ningguang, what brings you here?"
+        },
+        {
+          "s": 0,
+          "t": "I couldn't help but feel a little concerned, so I just came to see how everything is going."
+        },
+        {
+          "s": 2,
+          "t": "We're about ready, and people are starting to arrive. I think we should be able to start on time."
+        },
+        {
+          "s": 0,
+          "t": "Very good. I think I'll host the auction myself."
+        },
+        {
+          "s": 3,
+          "t": "Huh? You want to do it yourself?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, just in case anything untoward happens. I can take care of it myself."
+        },
+        {
+          "s": 3,
+          "t": "Then we'll leave the auction itself to you, but we'll be sure to lend our full support behind the scenes."
+        },
+        {
+          "s": 0,
+          "t": "Have you attended an auction before?"
+        },
+        {
+          "sit": "I've watched one from the sidelines."
+        },
+        {
+          "sit": "My net worth isn't quite in that category."
+        },
+        {
+          "s": 0,
+          "t": "Well, would you like to participate this time? You don't have to bid, of course. Just experience the atmosphere."
+        },
+        {
+          "sit": "Sure. That should be quite fun."
+        },
+        {
+          "s": 0,
+          "t": "Alright then. Feel free to take a look around the venue before it kicks off."
+        },
+        {
+          "s": 0,
+          "t": "Check out the items up for bidding and see if there's anything you might be interested in."
+        },
+        {
+          "section": "Talk to the secretary in charge of preparations"
+        },
+        {
+          "s": 0,
+          "t": "It's about time to start. Find yourself somewhere to sit and we'll kick things off."
+        },
+        {
+          "sit": "Before we start, I have a question."
+        },
+        {
+          "s": 0,
+          "t": "Yes? What is it?"
+        },
+        {
+          "sit": "Are these auction items genuinely very valuable?"
+        },
+        {
+          "s": 0,
+          "t": "That's for you to make a considered judgment on."
+        },
+        {
+          "s": 0,
+          "t": "It's precisely what makes auctions so interesting, don't you think?"
+        },
+        {
+          "s": 0,
+          "t": "Until the bids exceed the value of the item you're after, you can keep raising the price. If the bids go beyond what you can accept, then you let someone else take it."
+        },
+        {
+          "s": 0,
+          "t": "Perhaps this does not result in what you might call a fair price. But what it does do is identify the person who values the item the most."
+        },
+        {
+          "sit": "Okay. Let's see how it goes..."
+        },
+        {
+          "s": 0,
+          "t": "Yes. You should look forward to it."
+        },
+        {
+          "sit": "The auction finally begins."
+        },
+        {
+          "s": 0,
+          "t": "The first lot is a teacup from my personal collection. Bids starting at 10,000 Mora, that's 10,000 Mora for the teacup."
+        },
+        {
+          "sit": "(You'd never pay 10,000 Mora for something like this normally.)"
+        },
+        {
+          "s": 13,
+          "t": "20,000!"
+        },
+        {
+          "s": 14,
+          "t": "30,000!"
+        },
+        {
+          "s": 15,
+          "t": "50,000!"
+        },
+        {
+          "sit": "(Wow, the bidding is fierce...)"
+        },
+        {
+          "sit": "60,000!"
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 14,
+          "t": "80,000! 80,000 over here!"
+        },
+        {
+          "s": 13,
+          "t": "I'll raise that to 100,000!"
+        },
+        {
+          "s": 15,
+          "t": "120."
+        },
+        {
+          "sit": "(He seems very determined.)"
+        },
+        {
+          "sit": "130!"
+        },
+        {
+          "s": 14,
+          "t": "I swear some of these bidders are just driving the price up for fun..."
+        },
+        {
+          "s": 14,
+          "t": "Alright, 150,000! Anyone else want to keep going now?"
+        },
+        {
+          "s": 0,
+          "t": "One-fifty once."
+        },
+        {
+          "s": 15,
+          "t": "Uh... 170?"
+        },
+        {
+          "s": 14,
+          "t": "180,000!"
+        },
+        {
+          "s": 13,
+          "t": "..."
+        },
+        {
+          "s": 15,
+          "t": "..."
+        },
+        {
+          "s": 0,
+          "t": "One-eighty once..."
+        },
+        {
+          "s": 0,
+          "t": "One-eighty twice."
+        },
+        {
+          "s": 0,
+          "t": "One-eighty. Sold."
+        },
+        {
+          "s": 14,
+          "t": "Hehe. It's mine now!"
+        },
+        {
+          "sit": "(I can't believe it went for 180,000...)"
+        },
+        {
+          "s": 0,
+          "t": "Okay then, moving straight on to the next lot."
+        },
+        {
+          "sit": "One by one, the unexceptional items are sold for exceptionally high prices..."
+        },
+        {
+          "s": 0,
+          "t": "You seemed to be getting quite into it. What a shame that you didn't manage to go home with anything."
+        },
+        {
+          "sit": "Something felt off."
+        },
+        {
+          "s": 0,
+          "t": "Haha. Of course it did. That's because I didn't come here to sell my things."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure you must find it quite odd that all these everyday items could fetch such a huge price at auction."
+        },
+        {
+          "s": 0,
+          "t": "Since you're curious, why not go and talk to the buyers? I'm sure they'll give you the answers you're looking for."
+        },
+        {
+          "section": "Talk to the secretary in charge of preparations"
+        },
+        {
+          "s": 16,
+          "t": "(A plain-looking vase with clear signs of wear and tear.)"
+        },
+        {
+          "s": 16,
+          "t": "(Can't see any reason to bid on something like this.)"
+        },
+        {
+          "section": "Inspect the goods on auction"
+        },
+        {
+          "s": 0,
+          "t": "Well? Did you find the answer yet?"
+        },
+        {
+          "sit": "It's because everyone has faith in your judgment and aesthetics."
+        },
+        {
+          "s": 0,
+          "t": "That's certainly part of it. But every bidder will have noticed that none of these items have a particularly high going rate on the market in and of themselves."
+        },
+        {
+          "s": 0,
+          "t": "Despite this, they were all willing to pay very dearly for them. I wonder... is faith in me really the only factor in their appraisal of the items' value?"
+        },
+        {
+          "sit": "If not, then what else could it be?"
+        },
+        {
+          "s": 0,
+          "t": "You'll see shortly. The one who spent the most money will surely be the quickest to realize."
+        },
+        {
+          "s": 0,
+          "t": "If all I wanted to do was make some quick Mora by exploiting their blind faith in me, I have a million more effective ways of achieving that than hosting an auction."
+        },
+        {
+          "s": 0,
+          "t": "Every participant in this auction was hand-picked by me, based on certain intelligence."
+        },
+        {
+          "sit": "Sure enough, after some time has passed, one of the participants returns."
+        },
+        {
+          "s": 14,
+          "t": "Lady Ningguang, uh... something doesn't seem quite right with the items from today's auction."
+        },
+        {
+          "s": 14,
+          "t": "As unlikely as this sounds — and please forgive me for even bringing it up, but I had to ask... uhh... Y—You weren't selling counterfeits today, were you...?"
+        },
+        {
+          "s": 0,
+          "t": "Counterfeits? Absolutely not. What motive would anyone have for making copies of things like these?"
+        },
+        {
+          "s": 0,
+          "t": "They are simply ordinary items. And there was no coercion or enticement during the auction — every bid was voluntary."
+        },
+        {
+          "s": 14,
+          "t": "Because we trusted you!"
+        },
+        {
+          "s": 14,
+          "t": "Everyone knows you love Mora, but we also know that you made your fortune through honest means... as opposed to, ahem, scamming people."
+        },
+        {
+          "s": 0,
+          "t": "You seem to have entered into dangerous linguistic territory there. You should know that unless you have evidence to support your outlandish claims, I am legally entitled to sue you for slander."
+        },
+        {
+          "s": 0,
+          "t": "Of course, if you have any genuine grievances about the auction, the lots, or the process, please enlighten me as to where exactly I went wrong."
+        },
+        {
+          "s": 14,
+          "t": "You... You...!"
+        },
+        {
+          "s": 14,
+          "t": "Fine. Yes, technically, it was all legitimate. Guess all I can do is take the loss..."
+        },
+        {
+          "s": 14,
+          "t": "But if word gets out about today's auction, people are gonna start seeing you as a con artist. No one would dare do business with you after that."
+        },
+        {
+          "s": 14,
+          "t": "I guess what I'm saying is... is this really in your best interests?"
+        },
+        {
+          "s": 0,
+          "t": "Let me answer that with a question. You claim that you were willing to pay a high price because you trusted me. But is that really the full story?"
+        },
+        {
+          "s": 14,
+          "t": "Wh—What do you mean? What else could it be?"
+        },
+        {
+          "s": 0,
+          "t": "Oh, I don't know... perhaps it could be something to do with a lost item from the original Jade Chamber collection that has quietly made its way into your hands?"
+        },
+        {
+          "s": 14,
+          "t": "...!"
+        },
+        {
+          "s": 0,
+          "t": "When the Jade Chamber fell, countless valuable items from my collection plunged into the sea. I organized a salvage operation, but still there were many items unaccounted for."
+        },
+        {
+          "s": 0,
+          "t": "A considerable number of these made their way back into Liyue Harbor through means unbeknownst to me, and passed through several pairs of hands before finally ending up in yours, and those of your fellow bidders today."
+        },
+        {
+          "s": 14,
+          "t": "Wait, you mean..."
+        },
+        {
+          "s": 0,
+          "t": "Yes, everyone attending the auction today is in possession of lost property belonging to me."
+        },
+        {
+          "s": 0,
+          "t": "Or to put it another way, they were all people who have had a taste of something that was mine and convinced themselves that I am someone to be taken advantage of."
+        },
+        {
+          "sit": "No wonder they had such blind faith."
+        },
+        {
+          "s": 0,
+          "t": "So I ask you again. Your high bidding price — was it motivated by trust? Or was it greed?"
+        },
+        {
+          "s": 14,
+          "t": "Tsk!"
+        },
+        {
+          "s": 0,
+          "t": "The sole reason I held this auction is to reclaim my treasured possessions."
+        },
+        {
+          "s": 0,
+          "t": "If you are willing to return what is mine, I will refund all the money you spent in the auction today."
+        },
+        {
+          "s": 14,
+          "t": "Alright, fine. I guess... I guess I'll return it."
+        },
+        {
+          "s": 14,
+          "t": "You drive a hard bargain, like everyone says..."
+        },
+        {
+          "s": 14,
+          "t": "I'll go and get it right now. Please just wait here."
+        },
+        {
+          "s": 0,
+          "t": "Despite his bad attitude, he cooperated in the end. Good for him."
+        },
+        {
+          "sit": "It all makes sense now."
+        },
+        {
+          "s": 0,
+          "t": "The issue was that all items of mine that have been fished out of the sea have changed hands numerous times already. Determining who has legal ownership would be an extremely long-winded process, with each item being assessed on a case-by-case basis. Even Yanfei says she'd have a difficult time defending my claims."
+        },
+        {
+          "s": 0,
+          "t": "I could have bought them back, but it's not in my nature to pay twice for the same thing. Least of all when they'd be looking to make a handsome profit from my misfortune."
+        },
+        {
+          "s": 0,
+          "t": "After making some inquiries, I found them to be most uncooperative. So I had to resort to this auction to finally put a stop to all this nonsense."
+        },
+        {
+          "sit": "It definitely suits your modus operandi."
+        },
+        {
+          "sit": "I hope I never end up on the wrong side of you."
+        },
+        {
+          "s": 0,
+          "t": "Hehe. I just wanted my things back. Hardly an unusual sentiment."
+        },
+        {
+          "s": 0,
+          "t": "At most, a little childish, perhaps. Which is another reason why I didn't tell anybody about my plan."
+        },
+        {
+          "s": 0,
+          "t": "What do you think it was about the Jade Chamber that defeated Osial?"
+        },
+        {
+          "sit": "The explosion?"
+        },
+        {
+          "sit": "The size?"
+        },
+        {
+          "s": 0,
+          "t": "Hmm. Well, I think it was a combination of the weight and the energy it contains."
+        },
+        {
+          "s": 0,
+          "t": "Its great weight meant that it hit Osial with incredible force, while the energy within triggered that spectacular explosion."
+        },
+        {
+          "s": 0,
+          "t": "Every piece of the Jade Chamber, from the stone walls and wooden beams down to the smallest ornament, contributed to its total weight."
+        },
+        {
+          "s": 0,
+          "t": "But in the end, they became objects of merchants' greed."
+        },
+        {
+          "s": 0,
+          "t": "It's hard not to get a little irked thinking about it."
+        },
+        {
+          "sit": "That's not so childish."
+        },
+        {
+          "sit": "I hope you can get all your things back, too."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for understanding."
+        },
+        {
+          "s": 0,
+          "t": "Now I've got one of my items back, let me show you what makes it so special."
+        },
+        {
+          "s": 0,
+          "t": "The secrets of history shine through in the relics that survive, and this one now has the story of another age to tell."
+        },
+        {
+          "section": "Inspect the goods on auction"
+        },
+        {
+          "s": 17,
+          "t": "(Generic office implements. I guess they could brighten the place up a little.)"
+        },
+        {
+          "s": 17,
+          "t": "(Still, it'd be cheaper to get one from Bolai...)"
+        },
+        {
+          "section": "Inspect the goods on auction"
+        },
+        {
+          "s": 18,
+          "t": "(A fairly well-made hairpin, but there's nothing exceptional about it.)"
+        },
+        {
+          "s": 18,
+          "t": "(Fine to buy in a shop, but can this really fetch a good price at an auction?)"
+        },
+        {
+          "section": "Inspect the goods on auction"
+        },
+        {
+          "s": 13,
+          "t": "Anything Lady Ningguang used to own is sure to be worth a significant amount of money."
+        },
+        {
+          "s": 13,
+          "t": "So even if the price is a little inflated, it should still be fine..."
+        },
+        {
+          "s": 14,
+          "t": "Did you bring plenty of Mora with you?"
+        },
+        {
+          "s": 14,
+          "t": "Let's put it this way — anything you can snag in one of Lady Ningguang's auctions is practically Mora in the bank. The more you take home, the bigger your fortune."
+        },
+        {
+          "section": "Wait for the auction to start (16:00 – 18:00)"
+        },
+        {
+          "s": 15,
+          "t": "Hmm, I can't see anything that particularly interests me..."
+        },
+        {
+          "s": 15,
+          "t": "Lady Ningguang must know what she's doing though. I'm sure she has her reasons."
+        },
+        {
+          "section": "Figure out what the attendees are thinking"
+        },
+        {
+          "s": 13,
+          "t": "Huh? You want to know why I paid so much?"
+        },
+        {
+          "s": 13,
+          "t": "Well, it's pretty obvious, isn't it? Because the previous owner was Lady Ningguang."
+        },
+        {
+          "s": 13,
+          "t": "Sure, the item might look pretty ordinary, but that's probably just because I'm not a connoisseur, so I don't know how to appreciate it..."
+        },
+        {
+          "s": 13,
+          "t": "But I figured I'd buy it first, then go get it appraised by an expert. Then I'll be rich! Hehe..."
+        },
+        {
+          "section": "Figure out what the attendees are thinking"
+        },
+        {
+          "s": 14,
+          "t": "I may have paid an arm and a leg for this, but in the end I got the result I wanted. Hahaha."
+        },
+        {
+          "sit": "Aren't you worried about the price being over-inflated?"
+        },
+        {
+          "s": 14,
+          "t": "Nothing of Ningguang's could ever be over-inflated."
+        },
+        {
+          "s": 14,
+          "t": "I'm far from the only buyer who believes that \"owned by Ningguang\" is worth paying a premium for. So how much I make just depends on how many people are even bigger fans of Ningguang than I am!"
+        },
+        {
+          "section": "Figure out what the attendees are thinking"
+        },
+        {
+          "s": 15,
+          "t": "*sigh* Today wasn't my day. Didn't manage to snag much."
+        },
+        {
+          "s": 15,
+          "t": "There were too many bidders, and they all seemed like experts to me."
+        },
+        {
+          "s": 15,
+          "t": "I guess I'll just have to wait for the next auction. Someday, I'll be the lucky one."
+        },
+        {
+          "section": "Talk to Ningguang again"
+        },
+        {
+          "s": 0,
+          "t": "Check out the items up for bidding and see if there's anything you might be interested in."
+        },
+        {
+          "s": 0,
+          "t": "While we're waiting for the auction to begin, feel free to check out the lots or just stretch your legs."
+        },
+        {
+          "s": 0,
+          "t": "Maybe you'll find something that catches your eye."
+        },
+        {
+          "s": 0,
+          "t": "Go ahead and talk to the buyers. They'll give you the answers you're looking for."
+        },
+        {
+          "s": 0,
+          "t": "I'm sure you will figure out the truth."
+        },
+        {
+          "s": 6,
+          "t": "Thank you for your custom."
+        }
+      ],
+      "description": "After finishing her meal, Ningguang is worried about the auction that her secretaries are in charge of, and so you go to inspect the site with her. What's got her all concerned, you wonder?"
+    },
+    {
+      "id": "q-19135",
+      "title": "Liyue Millennial",
+      "dialogue": [
+        {
+          "section": "Accompany Ningguang to have the piece made"
+        },
+        {
+          "s": 19,
+          "t": "Oh, Lady Ningguang, and the Traveler."
+        },
+        {
+          "s": 0,
+          "t": "You already know each other?"
+        },
+        {
+          "sit": "We've met before."
+        },
+        {
+          "s": 19,
+          "t": "Oh, I think it goes a little deeper than that... I don't teach my hard-earned skills to just anyone, you know."
+        },
+        {
+          "s": 19,
+          "t": "There's a word for people like you, who are warm one minute and cold the next. \"Fickle.\""
+        },
+        {
+          "s": 0,
+          "t": "You seem to be in a good mood today."
+        },
+        {
+          "s": 19,
+          "t": "As ever. There's nothing special about today, but seeing you two has definitely perked me up."
+        },
+        {
+          "s": 19,
+          "t": "All jokes aside, how can I be of service today?"
+        },
+        {
+          "s": 0,
+          "t": "Remember the custom chess pieces I told you about? I'd like you to take {F#her}{M#his} measurements today."
+        },
+        {
+          "sit": "But isn't she in the porcelain business?"
+        },
+        {
+          "s": 19,
+          "t": "Whatever business I'm in, I am first and foremost a woman of many talents. Don't you remember when I taught you how to make perfume? There was no porcelain involved in that."
+        },
+        {
+          "s": 19,
+          "t": "As it happens, I am a skilled tailor as well. What can I say, I'm in the prime of my youth and I love all beautiful things... Is that so strange?"
+        },
+        {
+          "s": 0,
+          "t": "Ying'er is every bit as proficient as any of the top tailors in the land. I've availed myself of her services many times before."
+        },
+        {
+          "s": 19,
+          "t": "...Oh, I'm sorry, I'm just realizing that the Traveler only thinks I'm good at one thing. I see how it is. In which case..."
+        },
+        {
+          "s": 19,
+          "t": "You'll find all the tools you could need in the room. Please, help yourselves. I'll stay outside and mind my own porcelain business, as you quite rightly suggested."
+        },
+        {
+          "s": 0,
+          "t": "Huh? What are you expecting me to do here...?"
+        },
+        {
+          "s": 19,
+          "t": "Oh, I think the Traveler is the one you should be asking about that..."
+        },
+        {
+          "sit": "I wasn't suggesting anything..."
+        },
+        {
+          "sit": "Stop twisting my words!"
+        },
+        {
+          "s": 19,
+          "t": "Hahaha, I'm kidding! I'm kidding."
+        },
+        {
+          "s": 19,
+          "t": "It's hard not to tease when you're both so well-matched."
+        },
+        {
+          "s": 19,
+          "t": "Come on, then. Step inside and I'll examine your body from tip to toe, hehehe."
+        },
+        {
+          "sit": "After all that, Ying'er takes your measurements quite uneventfully."
+        },
+        {
+          "s": 0,
+          "t": "*sigh*..."
+        },
+        {
+          "s": 0,
+          "t": "If I hear any strange new rumors after this, you will be my number one suspect."
+        },
+        {
+          "s": 19,
+          "t": "Rumors about the Traveler? Or the chess piece?"
+        },
+        {
+          "s": 0,
+          "t": "Either. Both are confidential."
+        },
+        {
+          "s": 19,
+          "t": "Don't worry. I know where the line is. I'd never take a joke too far."
+        },
+        {
+          "s": 19,
+          "t": "Secrets are only fun when they're kept secret."
+        },
+        {
+          "sit": "I hope you do know where the line is..."
+        },
+        {
+          "s": 0,
+          "t": "Just... enough with the ambiguous phrasing, okay? You'll give people the wrong idea... Ugh, forget it. Let's just go."
+        },
+        {
+          "s": 19,
+          "t": "You're always welcome at Scent of Spring. Come again anytime."
+        },
+        {
+          "section": "Go to Mingxing Jewelry to place an order"
+        },
+        {
+          "s": 7,
+          "t": "Hello, Lady Ningguang. What can I do for you today?"
+        },
+        {
+          "s": 0,
+          "t": "That chess piece I told you about — we can start work now. I have the Traveler's measurements here."
+        },
+        {
+          "s": 7,
+          "t": "Okay, let me just double-check... Mm-hmm, looks good. This has all the measurements we need. I'll pass them on to the craftsman shortly."
+        },
+        {
+          "s": 0,
+          "t": "Good. And as agreed, please use top-grade materials only."
+        },
+        {
+          "s": 7,
+          "t": "Of course. We are professionals, and we will do everything we can to deliver the high standard you expect."
+        },
+        {
+          "s": 7,
+          "t": "Although, speaking to you as a friend, I have to tell you that the sale price you indicated won't even cover the cost of production..."
+        },
+        {
+          "s": 7,
+          "t": "I don't mean just the material costs, either. Waiting around for top-quality materials drags out the production time and also reduces the total quantity we can produce."
+        },
+        {
+          "s": 0,
+          "t": "That's okay. This one is not for profit."
+        },
+        {
+          "s": 0,
+          "t": "With every previous set, there has always been some degree of commercial or marketing considerations to bear in mind. But this one serves more of a commemorative purpose."
+        },
+        {
+          "s": 0,
+          "t": "To that point, as you know, the prototype of the Jade Chamber chess piece has been in the works for a long time, but I haven't once followed up on the progress."
+        },
+        {
+          "sit": "Jade Chamber? There's a Jade Chamber piece in this chess set?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. And just like your piece, the Jade Chamber piece will be scaled for the game."
+        },
+        {
+          "sit": "Now I understand Xingxi's concern."
+        },
+        {
+          "sit": "It's a huge undertaking..."
+        },
+        {
+          "s": 7,
+          "t": "Yes, it's a challenging project. But also, \"not for profit\" is really not something I ever expected from Lady Ningguang..."
+        },
+        {
+          "s": 7,
+          "t": "How do I put it? It just seems... out of character."
+        },
+        {
+          "s": 0,
+          "t": "In business, everything comes down to profits versus losses. You have to keep a cool head and make rational judgments. In other words, you must be shrewd."
+        },
+        {
+          "s": 0,
+          "t": "But shrewdness is easily perceived as cynicism in the eyes of others. People come to think of you as someone who cares only about money, and not people."
+        },
+        {
+          "s": 0,
+          "t": "Hardly the worst thing in the world, of course. But it has caused obstacles for me in the past."
+        },
+        {
+          "sit": "How?"
+        },
+        {
+          "s": 0,
+          "t": "Well, for example, I once had a case where someone backed out of a deal with me to sell to someone else. We were both offering the exact same terms, it was simply because they didn't like me very much."
+        },
+        {
+          "s": 0,
+          "t": "Another case was where I offered distinctly more competitive terms in an investment, and this ended up arousing their suspicion."
+        },
+        {
+          "s": 0,
+          "t": "\"That Ningguang,\" they thought... \"She must be up to something. We can't let her get away with it...\""
+        },
+        {
+          "s": 7,
+          "t": "I see..."
+        },
+        {
+          "s": 0,
+          "t": "But these problems disappeared all but completely after the battle against Osial."
+        },
+        {
+          "s": 0,
+          "t": "Why? Because the whole of Liyue witnessed me destroying my Jade Chamber."
+        },
+        {
+          "s": 0,
+          "t": "At least, that's the most reasonable explanation I can think of."
+        },
+        {
+          "s": 7,
+          "t": "Oh, I get it! You're saying that back when you sacrificed the Jade Chamber, you gained everyone's respect in return."
+        },
+        {
+          "s": 7,
+          "t": "You're not seeking to make a profit from these chess pieces because what you're commemorating is your personal contribution to Liyue Harbor!"
+        },
+        {
+          "s": 7,
+          "t": "It was the deal of the century, and as long as you keep capitalizing on it, business will be plain sailing for you in the future."
+        },
+        {
+          "s": 0,
+          "t": "...Yes. Exactly. Very to the point."
+        },
+        {
+          "s": 7,
+          "t": "Truly a brilliant strategy, Lady Ningguang! You really are a business mastermind."
+        },
+        {
+          "s": 7,
+          "t": "Now I understand why this set needs to be so perfect and why it's okay that it doesn't turn a profit."
+        },
+        {
+          "s": 0,
+          "t": "It will be a lot of work, and I'm most grateful to you."
+        },
+        {
+          "s": 0,
+          "t": "Make sure the Traveler's piece is exactly how {F#she}{M#he} wants it. We can't go letting {F#her}{M#him} down."
+        },
+        {
+          "s": 7,
+          "t": "Don't you worry, we'll put our all into it!"
+        },
+        {
+          "s": 0,
+          "t": "Well, that's that then. Let's head back to the Jade Chamber."
+        },
+        {
+          "s": 0,
+          "t": "There's something I want to discuss with you."
+        },
+        {
+          "section": "Return to the Jade Chamber and talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "I have a question for you. I'd like to hear your honest opinion."
+        },
+        {
+          "s": 0,
+          "t": "And I, in turn, will tell you how I really think."
+        },
+        {
+          "s": 0,
+          "t": "When we were at Mingxing Jewelry, I admitted that my decision to sacrifice the Jade Chamber was a calculated one. I had already considered what I stood to lose and to gain."
+        },
+        {
+          "s": 0,
+          "t": "When you heard that... did it make you think that maybe I really was a cynical profit-chaser after all?"
+        },
+        {
+          "sit": "Honestly... yes. I was a little disappointed."
+        },
+        {
+          "s": 0,
+          "t": "I see..."
+        },
+        {
+          "s": 0,
+          "t": "Well then I'm sorry, but what I'm about to say may simply come across as making excuses."
+        },
+        {
+          "sit": "I think all you're trying to do is make up for your losses."
+        },
+        {
+          "s": 0,
+          "t": "Yes, well, at the time, it seemed to me that sacrificing the Jade Chamber was the inevitable decision."
+        },
+        {
+          "s": 0,
+          "t": "All that talk about making up for my losses was really just to console myself."
+        },
+        {
+          "sit": "The point is that you stepped up when the time came."
+        },
+        {
+          "s": 0,
+          "t": "...Thank you."
+        },
+        {
+          "s": 0,
+          "t": "Yes, you see things the way they are, however they may appear on the surface."
+        },
+        {
+          "s": 0,
+          "t": "...I was lying to Xingxi."
+        },
+        {
+          "s": 0,
+          "t": "My decision to destroy the Jade Chamber was nowhere near as thought-through as I made it out to be. I just thought we should do what needed to be done, and this was a decision that only I could make."
+        },
+        {
+          "s": 0,
+          "t": "Afterwards, I consoled myself by reasoning that all my wealth comes from Liyue Harbor, so to lose Liyue Harbor is to lose everything. In that sense, giving up the Jade Chamber would be a profitable investment in the long term."
+        },
+        {
+          "s": 0,
+          "t": "But it just didn't work — I was grief-stricken, like a huge part of my heart was suddenly missing..."
+        },
+        {
+          "s": 0,
+          "t": "Because I had just severed ties with a lifelong companion."
+        },
+        {
+          "s": 0,
+          "t": "I stared out at the sea for goodness knows how long... I just couldn't let it go... I just couldn't."
+        },
+        {
+          "s": 0,
+          "t": "There was no way I could console myself... So why bother trying?"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 0,
+          "t": "But as time went by, I received so many thank-you gifts and letters from people... Everyone was describing how they now saw me in a new light, how I'd become an inspiration to them."
+        },
+        {
+          "s": 0,
+          "t": "I gave up the Jade Chamber without a moment's hesitation, and I did it for the sake of Liyue Harbor. And now, people are inspired to follow my example, to tackle their life challenges with the same unswerving determination."
+        },
+        {
+          "s": 0,
+          "t": "All of this was so encouraging to hear. It made me feel that my dear old companion's sacrifice was not in vain."
+        },
+        {
+          "sit": "So why did you lie to Xingxi?"
+        },
+        {
+          "s": 0,
+          "t": "Because... to most people, the idea that Lady Ningguang is someone who battles with grief and struggles to let go of the past is probably the furthest thing from the truth that they could imagine."
+        },
+        {
+          "s": 0,
+          "t": "This is one aspect of the truth that I can share only with you."
+        },
+        {
+          "s": 0,
+          "t": "The fact that... I can't always be as strong as everyone thinks I am."
+        },
+        {
+          "sit": "The most difficult time has passed."
+        },
+        {
+          "sit": "You've done so well."
+        },
+        {
+          "s": 0,
+          "t": "Thank you for your comforting words. It feels good even just to be able to talk about it."
+        },
+        {
+          "s": 0,
+          "t": "I'm sorry that you have to see me in this state..."
+        },
+        {
+          "s": 0,
+          "t": "But look where I am now. Standing on the deck of the Jade Chamber once more, taking in the view... It must be fate's reward to me."
+        },
+        {
+          "s": 0,
+          "t": "And if I end up having to do it all over again in the future... I will not hesitate to make the same decision again."
+        },
+        {
+          "s": 19,
+          "t": "You are always welcome to come back, either alone or with your new friend. Hehe."
+        },
+        {
+          "s": 7,
+          "t": "Lady Ningguang is simply brilliant. Once again, she has blown my mind."
+        },
+        {
+          "s": 7,
+          "t": "There's so much I can learn from her."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* I slightly regret bringing you here."
+        },
+        {
+          "s": 0,
+          "t": "It doesn't bother me. I just hope she didn't make you feel too awkward..."
+        },
+        {
+          "s": 0,
+          "t": "Now that your measurements are taken, let's go to Mingxing Jewelry and put an order in."
+        }
+      ],
+      "description": "Ningguang would like to use the board game she created to commemorate the battle against Osial. As such, she wishes to produce a very special figurine."
+    },
+    {
+      "id": "q-19136",
+      "title": "Starting From Zero",
+      "dialogue": [
+        {
+          "section": "Go to the wharf to search for abandoned goods"
+        },
+        {
+          "s": 20,
+          "t": "L—Lady Ningguang, to what do I owe the honor?"
+        },
+        {
+          "s": 20,
+          "t": "Are you here to inspect the goods in the warehouse? You may have to wait a moment, I, uh, must have not gotten the message..."
+        },
+        {
+          "s": 20,
+          "t": "Sorry, I won't be long. I'll grab all the paperwork right away!"
+        },
+        {
+          "s": 0,
+          "t": "Calm down, no need to panic. That's not why we're here."
+        },
+        {
+          "s": 20,
+          "t": "Uh... Oh, you're just looking for... for me?"
+        },
+        {
+          "s": 20,
+          "t": "I haven't done anything! Have I? I mean, I don't think so...? Uhhh..."
+        },
+        {
+          "sit": "We want to know about the unclaimed and abandoned goods."
+        },
+        {
+          "s": 20,
+          "t": "Oh right. The periodic clearances, yeah. I've been handling those, strictly per the protocol."
+        },
+        {
+          "s": 20,
+          "t": "I make sure I post all the necessary notices and notify every individual that I'm required to."
+        },
+        {
+          "s": 20,
+          "t": "It used to be a huge problem. But with a bit of hard work, I've managed to reduce the amount of goods we need to clear out by at least half."
+        },
+        {
+          "sit": "Why do so many goods get abandoned in the first place?"
+        },
+        {
+          "s": 20,
+          "t": "It's hard to say. It really depends, everyone has their own reasons."
+        },
+        {
+          "s": 20,
+          "t": "But as far as the warehouse is concerned, they all fall into these categories: unclaimed goods, damaged goods, or unpaid storage fees."
+        },
+        {
+          "s": 20,
+          "t": "As for the damaged ones, I guarantee you it's nothing to do with how they're stored. It's because some things go bad more easily than others."
+        },
+        {
+          "s": 20,
+          "t": "If it sits there in the warehouse for too long, it goes without saying that it could start to affect the other goods. But that aside, even the smell is just unbearable..."
+        },
+        {
+          "s": 0,
+          "t": "So, have you cleared out any of these goods recently?"
+        },
+        {
+          "s": 20,
+          "t": "Um... I'm afraid we just finished clearing out all the big ones."
+        },
+        {
+          "s": 20,
+          "t": "But don't worry, Lady Ningguang! If you're here for an inspection, then I'm here to make it happen. Hang tight, I'll grab some of the smaller items for you right away!"
+        },
+        {
+          "s": 0,
+          "t": "Hold on..."
+        },
+        {
+          "sit": "Off he goes."
+        },
+        {
+          "s": 0,
+          "t": "I don't think he has quite grasped the nature of this situation."
+        },
+        {
+          "sit": "It's like he was reporting on his work."
+        },
+        {
+          "sit": "Can't really blame him."
+        },
+        {
+          "sit": "After waiting for a while, Gou San'er comes back, panting for breath."
+        },
+        {
+          "s": 20,
+          "t": "Lady Ningguang... I... I had a quick run through the list, and... cleared out some more... items. Please... inspect them... at your leisure..."
+        },
+        {
+          "s": 0,
+          "t": "Let me see here... soggy food, an odd shoe, a broken mirror, small wooden toy..."
+        },
+        {
+          "sit": "They're in terrible shape. No wonder no one wants them."
+        },
+        {
+          "sit": "Not a whole lot of use."
+        },
+        {
+          "s": 0,
+          "t": "It's a shame we missed the last clearance. We're down to the slim pickings now."
+        },
+        {
+          "s": 0,
+          "t": "Hmm... some of these are true junk, but there are a few items of value here."
+        },
+        {
+          "s": 0,
+          "t": "Take this wooden toy, for example. The wood is good quality. If you took it apart, there is quite a number of useful everyday objects that you could turn it into with a little work..."
+        },
+        {
+          "sit": "Can we have this stuff?"
+        },
+        {
+          "s": 20,
+          "t": "Huh? ...You want it?"
+        },
+        {
+          "s": 20,
+          "t": "Well sure, take whatever you want. It's all getting thrown away anyway."
+        },
+        {
+          "s": 0,
+          "t": "Great. This is going well."
+        },
+        {
+          "sit": "Let's take some time to sift through what we have acquired."
+        },
+        {
+          "s": 0,
+          "t": "Yes, and once we're done, we will find a merchant to give us an appraisal of their value."
+        },
+        {
+          "s": 20,
+          "t": "(I have no idea what's going on here, and I'm not about to ask, either...)"
+        },
+        {
+          "section": "Sell the material to the merchant"
+        },
+        {
+          "s": 21,
+          "t": "Lady Ningguang, welcome to my humble store. What can I get for you?"
+        },
+        {
+          "s": 0,
+          "t": "Actually, today's a little different. I'm not here to buy anything. I wanted to ask if you could take a look at some goods for me."
+        },
+        {
+          "s": 21,
+          "t": "Just... take a look? What for?"
+        },
+        {
+          "sit": "To give me an estimate on their value."
+        },
+        {
+          "s": 21,
+          "t": "Oh, I see. Let me take a look then."
+        },
+        {
+          "s": 21,
+          "t": "Hmm..."
+        },
+        {
+          "s": 21,
+          "t": "I mean, I can take them. I have a few regular customers I can talk to, they should be able to salvage the raw materials. Shouldn't take long at all."
+        },
+        {
+          "s": 21,
+          "t": "But, uh..."
+        },
+        {
+          "s": 0,
+          "t": "What's wrong? If it's too much trouble, please, there's no need to force it."
+        },
+        {
+          "s": 21,
+          "t": "N-no, no, no, it's nothing like that..."
+        },
+        {
+          "s": 21,
+          "t": "Uh... Well, anyway, let's talk prices."
+        },
+        {
+          "s": 21,
+          "t": "So all these together, heh..."
+        },
+        {
+          "s": 21,
+          "t": "I'll give you 150,000 Mora. How does that sound?"
+        },
+        {
+          "sit": "(That's so much!)"
+        },
+        {
+          "sit": "(I think he added a couple of zeros by accident...)"
+        },
+        {
+          "s": 0,
+          "t": "Oh, well..."
+        },
+        {
+          "s": 21,
+          "t": "Uh, no worries, no worries. The price is negotiable, of course, so we can discuss it further."
+        },
+        {
+          "s": 21,
+          "t": "If that figure's not what you had in mind, I can, uh... bump it up a little. It'll be fine. I'm sure we can reach an agreement here."
+        },
+        {
+          "s": 0,
+          "t": "What are your thoughts?"
+        },
+        {
+          "sit": "Honestly, that's way too much..."
+        },
+        {
+          "s": 0,
+          "t": "Yes. At most, these items are only worth a couple of thousand Mora."
+        },
+        {
+          "s": 21,
+          "t": "Huh? Wait a minute, so you're really here just to sell a few things?"
+        },
+        {
+          "s": 21,
+          "t": "And, uh, specifically... these things?"
+        },
+        {
+          "s": 21,
+          "t": "I thought that was all code for some kind of inspection, or something..."
+        },
+        {
+          "sit": "So we were misunderstood again."
+        },
+        {
+          "s": 0,
+          "t": "It appears so. We can't go on like this."
+        },
+        {
+          "s": 0,
+          "t": "Let's try something else. As long as we're in Liyue Harbor, this kind of misunderstanding is inevitable."
+        },
+        {
+          "s": 0,
+          "t": "If I wasn't Ningguang, Gou San'er probably wouldn't have handed all of these over to us."
+        },
+        {
+          "s": 0,
+          "t": "And you likely wouldn't be willing to buy them, either."
+        },
+        {
+          "s": 21,
+          "t": "To be completely honest... You're not wrong."
+        },
+        {
+          "s": 0,
+          "t": "This goes against the rules we set for ourselves at the start."
+        },
+        {
+          "sit": "Then we'll just have to leave Liyue Harbor and live an adventurer's life."
+        },
+        {
+          "s": 0,
+          "t": "Are there any other ways for adventurers to make Mora besides their remuneration from the Guild?"
+        },
+        {
+          "sit": "We can go treasure hunting in Guili Plains. But the work is hard and the payout is low."
+        },
+        {
+          "s": 0,
+          "t": "Great! I don't mind, let's give it a try. Lead the way."
+        },
+        {
+          "s": 21,
+          "t": "You two have a good one..."
+        },
+        {
+          "section": "Go out and search for treasure"
+        },
+        {
+          "s": 0,
+          "t": "Goodness. This reminds me of fishing... not an easy catch."
+        },
+        {
+          "s": 0,
+          "t": "But we didn't let it slip away, and the haul is now ours. That's what counts."
+        },
+        {
+          "sit": "How much did we make?"
+        },
+        {
+          "s": 0,
+          "t": "Let's see... a little over 1,000 Mora."
+        },
+        {
+          "s": 0,
+          "t": "We can't do any serious business with this amount of starting capital. We need to keep working hard."
+        },
+        {
+          "sit": "Do you need to take a break?"
+        },
+        {
+          "s": 0,
+          "t": "Actually, now that you mention it, I'm suddenly a little hungry. Huh. Amidst the thrill of the chase, I didn't even notice."
+        },
+        {
+          "s": 0,
+          "t": "Wangshu Inn is right there, but..."
+        },
+        {
+          "sit": "Based on our current financial position, we can rule that out."
+        },
+        {
+          "s": 0,
+          "t": "Same thoughts here. After how hard we worked to get our hands on this Mora, it would be a shame to eat it all in a single sitting."
+        },
+        {
+          "s": 0,
+          "t": "In which case, I think I'll take this opportunity to show you a skill that I used to be rather proud of."
+        },
+        {
+          "sit": "Fishing?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, but the rule of the game is no Fishing Rods allowed. We're going fishing by hand."
+        },
+        {
+          "s": 0,
+          "t": "Come on. Let's go down to the river."
+        },
+        {
+          "section": "Defeat the monsters and open the treasure chest"
+        },
+        {
+          "s": 0,
+          "t": "Here. Have a taste of my cooking."
+        },
+        {
+          "s": 0,
+          "t": "A fresh catch can go straight on the grill with minimal preparation and it tastes delicious, even with no seasoning."
+        },
+        {
+          "s": 0,
+          "t": "It's a little charred, that's on purpose. I just like how it tastes."
+        },
+        {
+          "s": 0,
+          "t": "Normally, I have to make a special request to the chef if I want it to taste like this."
+        },
+        {
+          "sit": "Thank you."
+        },
+        {
+          "s": 0,
+          "t": "It was nothing."
+        },
+        {
+          "s": 0,
+          "t": "Back in the day, I had to hurry home after work to do my household chores. Then in the evening, it was out to the night market with the family to support our stall."
+        },
+        {
+          "s": 0,
+          "t": "I was always meticulous with the most menial of tasks. My mother always loved that about me."
+        },
+        {
+          "s": 0,
+          "t": "But by the same token, she didn't love the idea of me leaving home and starting my own business. She thought it was just an unnecessary risk when I could just carry on helping out at home instead."
+        },
+        {
+          "sit": "If you'd followed her advice, people wouldn't be calling you \"Lady Ningguang\" today."
+        },
+        {
+          "s": 0,
+          "t": "You'd be more likely to see me pulling up outside Wanmin Restaurant and selling Grilled Tiger Fish from a food cart."
+        },
+        {
+          "s": 0,
+          "t": "My childhood memories run deep. I'll always have a special affection for fish."
+        },
+        {
+          "s": 0,
+          "t": "They are confined to the water, and yet they live free, swimming around wherever the mood takes them."
+        },
+        {
+          "sit": "A lot like adventuring."
+        },
+        {
+          "s": 0,
+          "t": "It is. I have greatly enjoyed experiencing the adventurer lifestyle with you."
+        },
+        {
+          "s": 0,
+          "t": "When I think back on all my hard work in the past, it motivates me to face the challenges that lie ahead in the future."
+        },
+        {
+          "sit": "Next time, I'll grill fish for you."
+        },
+        {
+          "s": 0,
+          "t": "Hehe, that sounds great. I'm looking forward to it."
+        },
+        {
+          "s": 0,
+          "t": "But a word of warning, I am very picky about my grilled fish... I can be a tough lady to impress."
+        },
+        {
+          "sit": "You must be ready for a rest by now?"
+        },
+        {
+          "sit": "Ningguang grills the fish like a pro."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Ahhhh. It feels like it's been a long time since I've gotten so physical."
+        },
+        {
+          "s": 0,
+          "t": "The feeling of creating your wealth with your own two hands is just as exhilarating as ever."
+        },
+        {
+          "sit": "Even for this paltry amount?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, I'd say so. Everything starts out small, you focus on quantity at the outset, and gradually shift to focusing on quality as your wealth builds."
+        },
+        {
+          "s": 0,
+          "t": "And let's not forget we started with no initial capital. It's reasonable to expect building something from nothing to be highly demanding."
+        },
+        {
+          "s": 0,
+          "t": "In any case... the sight of Mora has always had a way of improving my mood, no matter what the sum is."
+        },
+        {
+          "sit": "Then let's keep this momentum going."
+        },
+        {
+          "s": 0,
+          "t": "I intend to. I am not ready to stop yet."
+        },
+        {
+          "s": 0,
+          "t": "This time, let's try something a little more challenging."
+        },
+        {
+          "section": "Continue looking for chests"
+        },
+        {
+          "s": 0,
+          "t": "Another satisfying haul. Ah, what a feeling."
+        },
+        {
+          "sit": "You're very good at this."
+        },
+        {
+          "s": 0,
+          "t": "That's very kind of you. But I know I'm no match for a professional adventurer like yourself."
+        },
+        {
+          "s": 0,
+          "t": "For me, a battle is just a form of exercise. A way to keep fit and use up any surplus energy."
+        },
+        {
+          "sit": "Have you scratched the itch yet?"
+        },
+        {
+          "s": 0,
+          "t": "Oh no, not yet! There's more Mora to be made."
+        },
+        {
+          "s": 0,
+          "t": "Hey, look. What's that hole in the ground?"
+        },
+        {
+          "sit": "I think it was dug by a Weasel Thief."
+        },
+        {
+          "s": 0,
+          "t": "Oh, I see. So if we catch it, there's Mora for the taking?"
+        },
+        {
+          "sit": "It's almost as fond of Mora as you are. Go figure."
+        },
+        {
+          "s": 0,
+          "t": "Ooh, how quaint. That was your Beidou impression, was it?"
+        },
+        {
+          "s": 0,
+          "t": "Hah. Well, I'm afraid I'm having far too much fun to stop what I'm doing and start bickering with you, Captain."
+        },
+        {
+          "s": 0,
+          "t": "Come on. Let's go get this Weasel Thief."
+        },
+        {
+          "section": "Defeat the monsters and open the treasure chest"
+        },
+        {
+          "s": 20,
+          "t": "Take care. If there's anything else you need, just give me a shout."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 21,
+          "t": "What in the heck has gotten into Lady Ningguang today..."
+        },
+        {
+          "s": 21,
+          "t": "Did I say that aloud? Never mind."
+        },
+        {
+          "section": "Look for the Weasel Thief's tracks"
+        },
+        {
+          "s": 0,
+          "t": "This must be the place. Let's do this."
+        },
+        {
+          "s": 0,
+          "t": "This must be the place. Let's do this."
+        },
+        {
+          "s": 0,
+          "t": "This should be enough. Let's head back to land and grill them."
+        },
+        {
+          "s": 0,
+          "t": "There it is! After it!"
+        }
+      ],
+      "description": "Ningguang would like to relive the experiences she had when she was just starting out. She thus invites you to play a game of starting from the very bottom. You head to the wharf together..."
+    },
+    {
+      "id": "q-19137",
+      "title": "Endless Smoke",
+      "dialogue": [
+        {
+          "section": "Go to Northland Bank"
+        },
+        {
+          "s": 22,
+          "t": "Lady Ningguang..."
+        },
+        {
+          "s": 22,
+          "t": "I would hope that you're not here to create further trouble for the Fatui?"
+        },
+        {
+          "s": 22,
+          "t": "With all due respect, too much official pressure will risk driving our bank out of business."
+        },
+        {
+          "s": 0,
+          "t": "There is no need to be so hostile."
+        },
+        {
+          "s": 0,
+          "t": "I'm just here to talk business. So, are you in business or not?"
+        },
+        {
+          "s": 22,
+          "t": "That depends on the proposal. And it's not my decision alone."
+        },
+        {
+          "s": 22,
+          "t": "But first, tell me. Why should we believe that you really are here for business?"
+        },
+        {
+          "s": 22,
+          "t": "Because if you're here to make us suffer huge losses like last time, then I'm sorry. But none of us here can afford that."
+        },
+        {
+          "s": 0,
+          "t": "Straight to the point, I see. Works for me."
+        },
+        {
+          "s": 0,
+          "t": "Traveler, we're leaving. Let's not waste any more of our time here."
+        },
+        {
+          "section": "Leave the Northland Bank and talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Do you see what I mean now? Their attitude was just as I expected."
+        },
+        {
+          "sit": "They were not even trying to hide their hostility towards you."
+        },
+        {
+          "s": 0,
+          "t": "That's for sure. Although our diplomatic relations with Snezhnaya haven't broken down completely, I dealt them a rather ruthless blow with the size of the reparations payment I imposed."
+        },
+        {
+          "s": 0,
+          "t": "This sum was paid by Northland Bank, so they are still wary of me to this day."
+        },
+        {
+          "sit": "So it is true. The Northland Bank is just an arm of the Fatui."
+        },
+        {
+          "s": 0,
+          "t": "Yes. With some exceptions, but that is more or less correct."
+        },
+        {
+          "s": 0,
+          "t": "If you encounter them in any other nations during your travels, be on your guard. They are more than just a commercial organization."
+        },
+        {
+          "sit": "Well, now I know... Does that make this trip worth it...?"
+        },
+        {
+          "sit": "I guess I shouldn't have included this as an option..."
+        },
+        {
+          "s": 0,
+          "t": "That's okay. My intention here was to show you some of the repercussions of that great battle."
+        },
+        {
+          "s": 0,
+          "t": "But that's quite enough politics for today. Let's get back to our fun little survival game."
+        },
+        {
+          "sit": "Wait a second."
+        },
+        {
+          "sit": "Can you sense it?"
+        },
+        {
+          "s": 0,
+          "t": "Now that you mention it... Yes. We're being watched."
+        },
+        {
+          "sit": "I think they've been following us since we left Northland Bank."
+        },
+        {
+          "s": 0,
+          "t": "What are they plotting this time?"
+        },
+        {
+          "sit": "Let's grab them and ask the question."
+        },
+        {
+          "s": 0,
+          "t": "Mm, my thoughts exactly. But we need to be discreet. If they realize we're onto them, then we will lose the element of surprise."
+        },
+        {
+          "s": 0,
+          "t": "Let's act natural, determine who our tail is, then lure them somewhere more deserted, so we can catch them."
+        },
+        {
+          "s": 0,
+          "t": "Keep moving. Just walk forward at normal pace and don't do anything to give away that we suspect anything."
+        },
+        {
+          "section": "Follow Ningguang and observe your surroundings"
+        },
+        {
+          "s": 0,
+          "t": "Okay, I think we have a few potential suspects."
+        },
+        {
+          "s": 0,
+          "t": "There's a lot of foot traffic here, but if you look closely, you'll see only a handful of people have been watching us constantly."
+        },
+        {
+          "s": 0,
+          "t": "But... I'm still not sure which of them is our tail..."
+        },
+        {
+          "sit": "Let's keep going for now."
+        },
+        {
+          "s": 0,
+          "t": "Agreed. Whoever it is will continue to follow us."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 23,
+          "t": "What's the big idea? I'm enjoying the view here."
+        },
+        {
+          "s": 23,
+          "t": "Quit bothering me."
+        },
+        {
+          "section": "Follow Ningguang and observe your surroundings carefully again"
+        },
+        {
+          "s": 23,
+          "t": "Have you seen my Mora?"
+        },
+        {
+          "s": 23,
+          "t": "Never mind. I'll keep looking."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 23,
+          "t": "Shall I have noodles or rice tonight..."
+        },
+        {
+          "s": 23,
+          "t": "Or maybe... what about both?"
+        },
+        {
+          "section": "Continue following Ningguang and observing your surroundings"
+        },
+        {
+          "s": 0,
+          "t": "I think we've narrowed it down a little further."
+        },
+        {
+          "s": 0,
+          "t": "But let's stay calm until we're 100% sure."
+        },
+        {
+          "s": 0,
+          "t": "It shouldn't take much longer."
+        },
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 23,
+          "t": "Nope, it's not here either... *sigh*"
+        },
+        {
+          "s": 23,
+          "t": "I'm going to be in huge trouble when I get back home."
+        },
+        {
+          "section": "Find the person following you"
+        },
+        {
+          "s": 23,
+          "t": "The words aren't coming. I need some inspiration."
+        },
+        {
+          "s": 23,
+          "t": "Maybe a drink would help..."
+        },
+        {
+          "section": "Go back to Northland Bank for a confrontation"
+        },
+        {
+          "s": 23,
+          "t": "Huh? What're you doing?"
+        },
+        {
+          "s": 23,
+          "t": "Back off! Leave me alone."
+        },
+        {
+          "s": 0,
+          "t": "I think I have the answer."
+        },
+        {
+          "sit": "Me too."
+        },
+        {
+          "s": 0,
+          "t": "Let's get out of his line of sight and sneak up on him."
+        },
+        {
+          "s": 0,
+          "t": "Don't get the wrong person, though, or all our efforts will have been for nothing."
+        },
+        {
+          "s": 23,
+          "t": "Hey. What is it?"
+        },
+        {
+          "s": 0,
+          "t": "Mmm, wrong guy."
+        },
+        {
+          "s": 0,
+          "t": "Ugh! He got away..."
+        },
+        {
+          "s": 23,
+          "t": "What is it?"
+        },
+        {
+          "s": 0,
+          "t": "Mmm, wrong guy."
+        },
+        {
+          "s": 0,
+          "t": "Ugh! He got away..."
+        },
+        {
+          "s": 23,
+          "t": "Ah! What are you doing!?"
+        },
+        {
+          "s": 0,
+          "t": "Come now, did you really think we wouldn't notice you sneaking around?"
+        },
+        {
+          "s": 23,
+          "t": "What? I... I'm not doing anything."
+        },
+        {
+          "sit": "Come clean."
+        },
+        {
+          "sit": "There's no use trying to deny it."
+        },
+        {
+          "s": 0,
+          "t": "I don't know what scheme Northland Bank has in the works, and I don't know what they're paying you."
+        },
+        {
+          "s": 0,
+          "t": "But let's make a deal. How cooperative you are now decides how much immunity I give you when this gets investigated."
+        },
+        {
+          "s": 23,
+          "t": "Uh... uh..."
+        },
+        {
+          "s": 0,
+          "t": "Or do you seriously think Northland Bank won't throw you to the wolves when push comes to shove?"
+        },
+        {
+          "s": 0,
+          "t": "Why don't you weigh the pros and cons and give me a clear answer before I retract my offer."
+        },
+        {
+          "sit": "(She is stern!)"
+        },
+        {
+          "sit": "(She's not giving him a moment to breathe...)"
+        },
+        {
+          "s": 23,
+          "t": "S—Sorry, Lady Ningguang. My assignment was just to follow you, I promise. That's it..."
+        },
+        {
+          "s": 23,
+          "t": "When you showed up unannounced at Northland Bank, everyone was instantly on high alert. We figured you must be up to something, but your brief conversation left us none the wiser as to your intentions."
+        },
+        {
+          "s": 23,
+          "t": "We couldn't just overlook it. We had to get to the bottom of it before we could put our minds at rest."
+        },
+        {
+          "sit": "Are they really this guarded against you?"
+        },
+        {
+          "s": 0,
+          "t": "I know they're wary of me, but this is still an overreaction, surely..."
+        },
+        {
+          "s": 0,
+          "t": "This all feels very suspicious. There must be more to this than he is letting on."
+        },
+        {
+          "s": 0,
+          "t": "Hmph, I only took you there to demonstrate how tense things are. Somehow we only tested the waters but ended up with the catch of the day."
+        },
+        {
+          "s": 0,
+          "t": "Is there anyone else following us besides you?"
+        },
+        {
+          "s": 23,
+          "t": "Yes. They would have seen this and reported back."
+        },
+        {
+          "s": 0,
+          "t": "Then we need to get moving. The longer they have to react, the fewer clues they'll leave behind."
+        },
+        {
+          "sit": "Don't you need to prepare?"
+        },
+        {
+          "sit": "Don't you need more evidence?"
+        },
+        {
+          "s": 0,
+          "t": "No time. I'll just have to improvise."
+        },
+        {
+          "s": 0,
+          "t": "Keep him with you. Do not let him slip away."
+        },
+        {
+          "s": 22,
+          "t": "Argh! Are you saying that Ningguang hasn't done anything?"
+        },
+        {
+          "s": 22,
+          "t": "Impossible. She wouldn't have shown up here out of the blue without good reason."
+        },
+        {
+          "s": 22,
+          "t": "Keep investigating. We must ascertain her intentions..."
+        },
+        {
+          "s": 0,
+          "t": "So much commotion. This must be an important meeting."
+        },
+        {
+          "s": 22,
+          "t": "Oh, great..."
+        },
+        {
+          "s": 0,
+          "t": "It looks like I wasn't supposed to be privy to the contents of this particular meeting. This simplifies things."
+        },
+        {
+          "s": 22,
+          "t": "So you are here to investigate us, after all."
+        },
+        {
+          "s": 22,
+          "t": "Where did you get wind of this...?"
+        },
+        {
+          "s": 0,
+          "t": "That doesn't matter."
+        },
+        {
+          "s": 0,
+          "t": "What matters is that I made a brief and inconsequential visit, and your first reaction was to immediately arrange a sizable surveillance operation with myself as the target."
+        },
+        {
+          "s": 0,
+          "t": "You couldn't have advertised your guilty conscience more clearly if you'd tried."
+        },
+        {
+          "s": 0,
+          "t": "You may as well come clean. You know I will not turn a blind eye to any violation of the rules in Liyue Harbor."
+        },
+        {
+          "s": 22,
+          "t": "(Ugh, even if we cooperate with her investigation, she's bound to find problems even where there are none...)"
+        },
+        {
+          "s": 22,
+          "t": "Well, if you're such a stickler for the rules, you can carry out your investigation by the book. The Northland Bank has no obligation to cooperate. Even with a member of the Liyue Qixing."
+        },
+        {
+          "s": 0,
+          "t": "Fine by me. Then I'll take my time. But you'll be begging to tell me everything by the time I'm through."
+        },
+        {
+          "s": 23,
+          "t": "What's the big idea? I'm enjoying the view here."
+        },
+        {
+          "s": 23,
+          "t": "Quit bothering me."
+        },
+        {
+          "s": 22,
+          "t": "I have a lot on my plate right now. You can see yourselves out."
+        },
+        {
+          "s": 23,
+          "t": "Have you seen my Mora?"
+        },
+        {
+          "s": 23,
+          "t": "Never mind. I'll keep looking."
+        },
+        {
+          "s": 24,
+          "t": "Lady Ningguang..."
+        },
+        {
+          "s": 24,
+          "t": "Please go to the counter if there's something you need."
+        },
+        {
+          "s": 23,
+          "t": "Shall I have noodles or rice tonight..."
+        },
+        {
+          "s": 23,
+          "t": "Or maybe... what about both?"
+        },
+        {
+          "s": 24,
+          "t": "Lady Ningguang..."
+        },
+        {
+          "s": 24,
+          "t": "Please go to the counter if there's something you need."
+        },
+        {
+          "s": 23,
+          "t": "What's the big idea? I'm enjoying the view here."
+        },
+        {
+          "s": 23,
+          "t": "Quit bothering me."
+        },
+        {
+          "s": 23,
+          "t": "Shall I have noodles or rice tonight..."
+        },
+        {
+          "s": 23,
+          "t": "Or maybe... what about both?"
+        },
+        {
+          "s": 23,
+          "t": "What's the big idea? I'm enjoying the view here."
+        },
+        {
+          "s": 23,
+          "t": "Quit bothering me."
+        },
+        {
+          "s": 23,
+          "t": "The words aren't coming. I need some inspiration."
+        },
+        {
+          "s": 23,
+          "t": "Maybe a drink would help..."
+        },
+        {
+          "s": 23,
+          "t": "Shall I have noodles or rice tonight..."
+        },
+        {
+          "s": 23,
+          "t": "Or maybe... what about both?"
+        },
+        {
+          "s": 23,
+          "t": "The words aren't coming. I need some inspiration."
+        },
+        {
+          "s": 23,
+          "t": "Maybe a drink would help..."
+        },
+        {
+          "s": 23,
+          "t": "Nope, it's not here either... *sigh*"
+        },
+        {
+          "s": 23,
+          "t": "I'm going to be in huge trouble when I get back home."
+        },
+        {
+          "s": 23,
+          "t": "The words aren't coming. I need some inspiration."
+        },
+        {
+          "s": 23,
+          "t": "Maybe a drink would help..."
+        },
+        {
+          "s": 23,
+          "t": "Huh? What're you doing?"
+        },
+        {
+          "s": 23,
+          "t": "Back off! Leave me alone."
+        }
+      ],
+      "description": "Ningguang would like to relive the experiences she had when she was just starting out. She thus invites you to play a game of starting from the very bottom. When you mention the Northland Bank, she decides to let you have a look at how things are now."
+    },
+    {
+      "id": "q-19138",
+      "title": "Time Off!",
+      "dialogue": [
+        {
+          "section": "Talk to Ningguang"
+        },
+        {
+          "s": 0,
+          "t": "Good morning. Did you sleep well?"
+        },
+        {
+          "sit": "The same as usual."
+        },
+        {
+          "s": 0,
+          "t": "That's good. I was worried you'd be a little uncomfortable."
+        },
+        {
+          "sit": "I was a little nervous."
+        },
+        {
+          "s": 0,
+          "t": "There's nothing to worry about. We just need to go through the schedule you made and tick the items off one by one."
+        },
+        {
+          "sit": "I was so excited I couldn't sleep."
+        },
+        {
+          "s": 0,
+          "t": "Oh, how strange — me too! ...I'm joking, of course — I slept like a baby. Sorry to disappoint you."
+        },
+        {
+          "s": 0,
+          "t": "So. What's item one on today's schedule?"
+        },
+        {
+          "sit": "Here. Take a look for yourself."
+        },
+        {
+          "s": 0,
+          "t": "Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "I imagine this must have taken Baishi completely by surprise."
+        },
+        {
+          "sit": "Yes, but she said she'd leave it up to me."
+        },
+        {
+          "s": 0,
+          "t": "Sure. There's no harm in changing my schedule around once in a while."
+        },
+        {
+          "s": 0,
+          "t": "My schedule is usually very tightly packed, and any extra time I can squeeze out is spent on preparing for the future."
+        },
+        {
+          "s": 0,
+          "t": "So it'll be quite nice to take a break."
+        },
+        {
+          "sit": "You don't take many breaks, huh?"
+        },
+        {
+          "s": 0,
+          "t": "I don't often feel tired. Seeing the Mora come in has a way of making me feel quite invigorated."
+        },
+        {
+          "s": 0,
+          "t": "Still, your idea is very sensible. Mora can only lift a weary spirit. It cannot alleviate physical fatigue."
+        },
+        {
+          "s": 0,
+          "t": "So then. The day's ahead of us. Any ideas on how to spend it?"
+        },
+        {
+          "sit": "Let's do something you never normally have the opportunity to do."
+        },
+        {
+          "s": 0,
+          "t": "Something I never have time for..."
+        },
+        {
+          "s": 0,
+          "t": "Ah, have you played the chess game I made? Or heard of it, perhaps?"
+        },
+        {
+          "sit": "Never heard of it..."
+        },
+        {
+          "s": 0,
+          "t": "It's called Liyue Millennial. Based on classic chess, but with different rules."
+        },
+        {
+          "sit": "Is it called Liyue Millennial?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. It's based on classic chess, but with different rules."
+        },
+        {
+          "s": 0,
+          "t": "When I was designing it, I wanted it not only to be a fun game, but also capture Liyue's culture in a unique way."
+        },
+        {
+          "s": 0,
+          "t": "So I introduced a lot of concepts that aren't part of traditional chess, as well as different chess pieces and even boards."
+        },
+        {
+          "s": 0,
+          "t": "I'm constantly revising and expanding it. So far, there are over 30 editions."
+        },
+        {
+          "sit": "What an ambitious project..."
+        },
+        {
+          "sit": "It sounds quite complicated..."
+        },
+        {
+          "s": 0,
+          "t": "True. That's one reason why it's been difficult to catch on."
+        },
+        {
+          "s": 0,
+          "t": "But I don't feel that making it easier to learn is necessarily a good thing."
+        },
+        {
+          "s": 0,
+          "t": "Isn't one of the joys of playing chess to continually learn and progress through a complex set of rules?"
+        },
+        {
+          "sit": "So how do we get people interested in it?"
+        },
+        {
+          "s": 0,
+          "t": "I think the key will be to make something that easily catches the attention of people who haven't played much chess before."
+        },
+        {
+          "s": 0,
+          "t": "I'm planning to make a new set with the board and pieces based on the battle for Liyue."
+        },
+        {
+          "s": 0,
+          "t": "One side will play the guardians of Liyue Harbor. The other side will play the Fatui and Osial."
+        },
+        {
+          "sit": "Sounds fun."
+        },
+        {
+          "sit": "I'd play that."
+        },
+        {
+          "s": 0,
+          "t": "No problem. I will let you try it out as soon as I finish the prototype."
+        },
+        {
+          "s": 0,
+          "t": "I want to make each of the chess pieces of Liyue Millennial as true-to-life as possible."
+        },
+        {
+          "s": 0,
+          "t": "And no Guardians of Liyue chess set would be complete without you, would it?"
+        },
+        {
+          "sit": "You're going to make a chess piece based on me?"
+        },
+        {
+          "s": 0,
+          "t": "I am indeed. Many of them, in fact."
+        },
+        {
+          "s": 0,
+          "t": "My thinking was that only people who pre-order the chess set at full price will be eligible to receive the limited-edition Traveler chess piece."
+        },
+        {
+          "s": 0,
+          "t": "It seems only fitting for someone of your status."
+        },
+        {
+          "sit": "So I'm part of the marketing plan..."
+        },
+        {
+          "s": 0,
+          "t": "Naturally, since you are the face of that historic event. I intend to make chess pieces for everyone who was involved that day, including myself."
+        },
+        {
+          "s": 0,
+          "t": "Everyone who owns this chess set will preserve this moment in history in a vivid and compelling form."
+        },
+        {
+          "sit": "It sounds great."
+        },
+        {
+          "s": 0,
+          "t": "Then it's decided."
+        },
+        {
+          "s": 0,
+          "t": "Come with me. To make this chess piece, I need to take some measurements."
+        },
+        {
+          "s": 0,
+          "t": "Something I never have the opportunity to do..."
+        },
+        {
+          "s": 0,
+          "t": "Interesting. Before I decide, I'd like to know... what gave you this idea?"
+        },
+        {
+          "s": 0,
+          "t": "Because as far as most people are concerned, Mora is the key to any and all opportunities."
+        },
+        {
+          "sit": "But being a member of the Liyue Qixing is a limitation."
+        },
+        {
+          "sit": "But Mora can also be a limitation."
+        },
+        {
+          "s": 0,
+          "t": "Yes, you're absolutely right. This is what I appreciate about you, you see things the way they are rather than how they appear."
+        },
+        {
+          "s": 0,
+          "t": "I want to do something a little self-indulgent. Is that okay by you?"
+        },
+        {
+          "sit": "Sure. Whatever you feel like doing."
+        },
+        {
+          "sit": "The day is yours. Do with it as you please."
+        },
+        {
+          "s": 0,
+          "t": "Thank you. Alright here it is — I've always thought it would be fun to recapture what life was like before I joined the Liyue Qixing."
+        },
+        {
+          "s": 0,
+          "t": "I was born into a humble family, and all the wealth you see now began with a single haul of fish."
+        },
+        {
+          "sit": "You... know how to fish?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe. I had to. I wasn't born with a silver spoon in my mouth."
+        },
+        {
+          "s": 0,
+          "t": "Fishing isn't the half of it. You'd be amazed at some of the odd jobs I've worked in my time."
+        },
+        {
+          "s": 0,
+          "t": "A lot of the old folks like to brag about how I used to be their errand-runner back in the day... hehe."
+        },
+        {
+          "sit": "It's hard to imagine..."
+        },
+        {
+          "sit": "But it makes sense."
+        },
+        {
+          "s": 0,
+          "t": "They were tough times. But I had a clear goal and plenty of motivation."
+        },
+        {
+          "s": 0,
+          "t": "If I didn't make any money in the morning, I'd have no food for lunch. I guess that's why I came to be so obsessed with Mora."
+        },
+        {
+          "s": 0,
+          "t": "I want to re-live that time from my life, feel some of that drive again. Take a trip down memory lane."
+        },
+        {
+          "s": 0,
+          "t": "So how about it? Will you join me?"
+        },
+        {
+          "sit": "Sure."
+        },
+        {
+          "sit": "It's not what I was expecting but it sounds like a lot of fun."
+        },
+        {
+          "s": 0,
+          "t": "Great. Then let me lay down the ground rules."
+        },
+        {
+          "s": 0,
+          "t": "We're not to use our status or reputation in Liyue Harbor to our advantage, and we have no starting capital."
+        },
+        {
+          "s": 0,
+          "t": "The goal is to see how much Mora we can make under these conditions."
+        },
+        {
+          "sit": "Let's start at the bottom of the ladder."
+        },
+        {
+          "s": 0,
+          "t": "Okay, but working as a day laborer could be quite dull..."
+        },
+        {
+          "s": 0,
+          "t": "Why don't we go down to the docks?"
+        },
+        {
+          "s": 0,
+          "t": "They periodically throw out a lot of unclaimed or abandoned goods. We might find something that we can exchange for Mora."
+        },
+        {
+          "sit": "That's not the most dignified way to make money..."
+        },
+        {
+          "s": 0,
+          "t": "What does it matter? Don't worry about it, it's all part of the fun."
+        },
+        {
+          "s": 0,
+          "t": "Come on. Let's go down to the docks."
+        },
+        {
+          "s": 0,
+          "t": "I can see why you'd suggest that. You're thinking I could use my knowledge of how Mora works to my advantage and make a lot of money there."
+        },
+        {
+          "s": 0,
+          "t": "But Northland Bank is a special case. I rather suspect I would not be welcome there."
+        },
+        {
+          "sit": "Because you've clashed in the past?"
+        },
+        {
+          "s": 0,
+          "t": "Yes, and also... Never mind, I'll just show you. It won't eat up too much time."
+        },
+        {
+          "s": 0,
+          "t": "I expect they still hold a grudge against me to this day."
+        },
+        {
+          "s": 0,
+          "t": "Yes, I'm already awake."
+        },
+        {
+          "s": 0,
+          "t": "I'll be out in a moment. I'm just changing."
+        }
+      ],
+      "description": "Ningguang has been working pretty hard all day. You'd like to help her take a day off. She seems to have some idea of what she'd like to do during this down-time..."
+    }
+  ],
+  "speakers": [
+    "Ningguang",
+    "Baishi",
+    "Baiwen",
+    "Baixiao",
+    "Luo Qiao",
+    "Lanyang",
+    "Hongru",
+    "Xingxi",
+    "Zhizhi",
+    "Little Long",
+    "Nannan",
+    "Big Xu",
+    "Lao Ke",
+    "Xiaofei",
+    "Yingfeng",
+    "Little Bin",
+    "Observe Vase",
+    "Observe Writing Tools",
+    "Observe Hairpin",
+    "Ying'er",
+    "Gou San'er",
+    "Bolai",
+    "Ekaterina",
+    "Suspicious Person",
+    "Andrei"
+  ],
+  "id": "ch-102701"
+}

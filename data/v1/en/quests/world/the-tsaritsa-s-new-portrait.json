@@ -1,0 +1,451 @@
+{
+  "chapter": "The Tsaritsa's New Portrait",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "The Tsaritsa's New Portrait",
+  "region": null,
+  "quests": [
+    {
+      "title": "The Tsaritsa's New Portrait",
+      "dialogue": [
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "s": 0,
+          "t": "Is the Tsaritsa going to... do some painting?"
+        },
+        {
+          "s": 1,
+          "t": "Ah, you're here."
+        },
+        {
+          "sit": "Do I need to bow?"
+        },
+        {
+          "s": 1,
+          "t": "You may dispense with such formalities. They are meaningless."
+        },
+        {
+          "s": 1,
+          "t": "One of my ministers suggested that I permit the public to create and collect portraits of me, so that the people might feel closer to me."
+        },
+        {
+          "s": 1,
+          "t": "I'm amenable to the idea, but first, I need to have a portrait made to serve as a reference. So I wanted to ask what kind of portrait you think it should be..."
+        },
+        {
+          "s": 0,
+          "t": "Uh..."
+        },
+        {
+          "sit": "You want us to decide?"
+        },
+        {
+          "s": 1,
+          "t": "This is a portrait that is destined for the homes of the people, not one to be kept in the palace for my own appreciation."
+        },
+        {
+          "s": 1,
+          "t": "In other words, the version of me in this portrait will become who I am in the eyes of the populace."
+        },
+        {
+          "s": 0,
+          "t": "That makes sense. If it's gonna affect how everyone sees the Tsaritsa, we need to give it some careful thought..."
+        },
+        {
+          "s": 1,
+          "t": "I believe the best course of action is to seek answers from the populace itself."
+        },
+        {
+          "s": 1,
+          "t": "Most people would want me to be a Tsaritsa who loves this country, yes? Then let them tell us what that kind of Tsaritsa should look like."
+        },
+        {
+          "s": 0,
+          "t": "So you want us to gather their opinions."
+        },
+        {
+          "s": 1,
+          "t": "You could say that, but not in the form of a public survey or a questionnaire."
+        },
+        {
+          "s": 0,
+          "t": "Oh, why...?"
+        },
+        {
+          "s": 2,
+          "t": "Distributing questionnaires will inevitably alert administrative bodies at all levels. If that happens, we will no longer be able to control who comes to claim them."
+        },
+        {
+          "s": 2,
+          "t": "In that case, Her Majesty would most likely just end up with another report from the Snezhnograd Veche instead of who she truly wants to hear from."
+        },
+        {
+          "sit": "I'm guessing... You want me to approach this from my own perspective then."
+        },
+        {
+          "s": 1,
+          "t": "Precisely."
+        },
+        {
+          "sit": "Leave it to me."
+        },
+        {
+          "s": 0,
+          "t": "Huh, but without a questionnaire, how are we supposed to gather people's opinions? Snezhnaya is huge! It's not like we can go door to door!"
+        },
+        {
+          "s": 2,
+          "t": "You could always start with your own connections. Perhaps pose the question to a friend."
+        },
+        {
+          "s": 0,
+          "t": "Good idea! The Tsaritsa did say she wanted us to take a personal approach."
+        },
+        {
+          "s": 0,
+          "t": "Hm, let's think... Why don't we start with Alyosha and the others. Then, we can ask Sandrone and that whole bunch."
+        },
+        {
+          "s": 2,
+          "t": "If you've decided who to ask, I can draft a couple of letters on your behalf, asking them to submit the kind of portrait they envision."
+        },
+        {
+          "s": 2,
+          "t": "I imagine they will either need to purchase art supplies or commission an artist. Of course, we cannot let your friends bear this expense, so I will arrange the funding."
+        },
+        {
+          "s": 2,
+          "t": "Once the portraits are ready, all you need to do is collect them, and then Her Majesty can decide which one is most suitable."
+        },
+        {
+          "s": 0,
+          "t": "Wow, you've thought of everything..."
+        },
+        {
+          "sit": "What kind of portrait do you envision, Chayka?"
+        },
+        {
+          "s": 2,
+          "t": "...Me?"
+        },
+        {
+          "s": 0,
+          "t": "Of course! You said to ask our friends, right? Even though we haven't known each other long, we still think of you as a friend!"
+        },
+        {
+          "s": 2,
+          "t": "Hearing you say that makes me... Ahem, I'm not sure I can answer that question on my own. I'll write a letter and ask everyone back home."
+        },
+        {
+          "s": 0,
+          "t": "Sounds like a plan!"
+        },
+        {
+          "s": 3,
+          "t": "In the blink of an eye, two days go by."
+        },
+        {
+          "section": "Go to the Korolevskiy Troupe"
+        },
+        {
+          "s": 4,
+          "t": "Well hello there, special envoy."
+        },
+        {
+          "s": 0,
+          "t": "Geez! You just came out of nowhere..."
+        },
+        {
+          "s": 5,
+          "t": "Gotta say, I was pretty surprised by your letter, you two! A member of the Rokot serving as the Tsaritsa's special envoy?"
+        },
+        {
+          "s": 4,
+          "t": "It's not that surprising. I mean, we already have a Fatuus working with us."
+        },
+        {
+          "s": 5,
+          "t": "True... But, news this important? Why didn't you tell us sooner? What does a special envoy to the Tsaritsa do? I'm not letting you go until you explain."
+        },
+        {
+          "sit": "Maybe some other time..."
+        },
+        {
+          "s": 6,
+          "t": "Vodyanitsa, let's get down to business first. I'm sure {NICKNAME} has to report back soon."
+        },
+        {
+          "s": 5,
+          "t": "Fine... I do think what the Tsaritsa should look like in the eyes of the people is an important question."
+        },
+        {
+          "s": 5,
+          "t": "So, we commissioned an artist to turn our ideas into a portrait. Take a look, special envoy."
+        },
+        {
+          "s": 0,
+          "t": "Wow..."
+        },
+        {
+          "s": 7,
+          "t": "Allow me to share the creative concept behind this painting."
+        },
+        {
+          "s": 7,
+          "t": "For the background, I went in with a natural setting, with plants and flowers that I drew from memory. I was going for spring in bloom."
+        },
+        {
+          "s": 7,
+          "t": "Then, I placed Her Majesty sitting elegantly among the flowers, which I think is a perfect fit for the theme you all provided. I hereby present, \"The Tsaritsa in Spring\"!"
+        },
+        {
+          "s": 0,
+          "t": "The Tsaritsa... In Spring!?"
+        },
+        {
+          "s": 5,
+          "t": "It was Alyosha's idea. It's really fun, don't you think? The Tsaritsa looks beautiful like this, doesn't she?"
+        },
+        {
+          "s": 4,
+          "t": "Plus, I thought if people put it in their homes, it could really warm the place up, y'know."
+        },
+        {
+          "s": 6,
+          "t": "Perhaps it's more of a reckless interpretation, but I think it's worth presenting to Her Majesty."
+        },
+        {
+          "sit": "We'll pass it on."
+        },
+        {
+          "s": 0,
+          "t": "If you say so, {NICKNAME}."
+        },
+        {
+          "section": "Go to Torchlight Books"
+        },
+        {
+          "s": 0,
+          "t": "Hey, Sandrone! Hey, Arlecchino!"
+        },
+        {
+          "s": 8,
+          "t": "Well look who we have here. The special envoy and {M#his}{F#her} companion."
+        },
+        {
+          "s": 0,
+          "t": "Huh? What are the rest of them doing here?"
+        },
+        {
+          "s": 9,
+          "t": "I happened to route the payment for the artist through the Northland Bank, and it was noticed immediately. Are you obsessively tracking every single Mora in Snezhnaya, Pantalone?"
+        },
+        {
+          "s": 10,
+          "t": "Merely doing my duty, Miss Sandrone."
+        },
+        {
+          "s": 8,
+          "t": "I am aware that myself and Pantalone involving ourselves was not something you anticipated, special envoy."
+        },
+        {
+          "s": 8,
+          "t": "But Her Majesty the Tsaritsa's image is a matter of great importance. As her loyal subjects, Pantalone and I feel obliged to do our part in this endeavor as well."
+        },
+        {
+          "s": 9,
+          "t": "Hmph..."
+        },
+        {
+          "s": 11,
+          "t": "In short, after some discussion, we decided to come up with an idea together."
+        },
+        {
+          "sit": "Let's see it."
+        },
+        {
+          "s": 8,
+          "t": "Behold."
+        },
+        {
+          "s": 0,
+          "t": "Oh, wow. She looks so... cold. Or, um, serious?"
+        },
+        {
+          "s": 8,
+          "t": "In our hearts, Her Majesty the Tsaritsa should embody both of those elements."
+        },
+        {
+          "s": 8,
+          "t": "Her cold and imposing nature is helpful for deterring factions with ill intent, ensuring lasting peace and stability for Snezhnaya."
+        },
+        {
+          "s": 10,
+          "t": "Not to mention, this painting is of exceptional quality. If Her Majesty were to reserve distribution rights to the state, she could earn a substantial sum of Mora from the printing sector."
+        },
+        {
+          "s": 10,
+          "t": "It would certainly help replenish the state treasury. We have quite a lot of expenses these days."
+        },
+        {
+          "s": 9,
+          "t": "Ignore him. He's just spouting nonsense as usual. As for Pulcinella's assessment... I'm mostly in agreement."
+        },
+        {
+          "s": 11,
+          "t": "Indeed. Given Snezhaya's present circumstances, I do believe our leader needs a more intimidating image."
+        },
+        {
+          "s": 0,
+          "t": "Alright... We'll pass it on."
+        },
+        {
+          "section": "Check out the portrait prepared by Chayka"
+        },
+        {
+          "s": 0,
+          "t": "Hey, Chayka! Is your portrait all ready?"
+        },
+        {
+          "s": 2,
+          "t": "Uh... Well..."
+        },
+        {
+          "s": 0,
+          "t": "Wow, it's so... cute! Is Paimon allowed to say that about the Tsaritsa?"
+        },
+        {
+          "s": 2,
+          "t": "After the Belyi Tsar passed away, the Tsaritsa became the one to guide us."
+        },
+        {
+          "s": 2,
+          "t": "Although she's always seemed somewhat aloof and unapproachable, everyone still wants to feel closer to her. That's probably why it feels so natural to depict her in our own image..."
+        },
+        {
+          "s": 2,
+          "t": "I'm just worried I've overstepped..."
+        },
+        {
+          "sit": "No, no. I think it's a great idea."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! The Tsaritsa wanted a variety of opinions, anyway. Let's show it to her."
+        },
+        {
+          "s": 2,
+          "t": "Alright."
+        },
+        {
+          "s": 1,
+          "t": "Hmm..."
+        },
+        {
+          "s": 0,
+          "t": "Wonder which one the Tsaritsa is gonna choose..."
+        },
+        {
+          "sit": "I know. I'm so curious..."
+        },
+        {
+          "s": 1,
+          "t": "As a hunter, your friend must travel through the towns of Snezhnaya quite often. I assume he represents the opinions of most villagers."
+        },
+        {
+          "s": 1,
+          "t": "Pulcinella is deeply entrenched government affairs. Most of the time, his opinions can be said to represent those of the entire administrative system."
+        },
+        {
+          "s": 1,
+          "t": "As for Chayka's interpretation... I imagine quite a few fae in Snezhnaya share the same view."
+        },
+        {
+          "sit": "So which one do you think is the most fitting?"
+        },
+        {
+          "s": 1,
+          "t": "...Chayka. Relay my command."
+        },
+        {
+          "s": 1,
+          "t": "The portrait submitted by the Harbingers shall be hung in the hall of Glupov."
+        },
+        {
+          "s": 1,
+          "t": "\"The Tsaritsa in Spring\" shall be displayed in the theater of the Korolevskiy Troupe."
+        },
+        {
+          "s": 1,
+          "t": "As for the portrait you submitted, Chayka... Hm, let us hang it in the streets of Zapolyarny. Fae often frequent that area for relaxation and leisure, if I recall."
+        },
+        {
+          "s": 2,
+          "t": "Hm? Oh, Y—Yes, Your Majesty."
+        },
+        {
+          "s": 0,
+          "t": "Wait, you're picking all three...?"
+        },
+        {
+          "s": 1,
+          "t": "These portraits have helped me realize that, although Snezhnaya has but one Tsaritsa, each of my people sees me differently."
+        },
+        {
+          "s": 1,
+          "t": "I shall not force them to regard me in a certain manner. The version of the Tsaritsa they wish to see is the version they deserve to behold."
+        },
+        {
+          "s": 1,
+          "t": "These three portraits can all be used as reference for the people to create paintings of their own. Let their imagination be the only limit to what they create."
+        },
+        {
+          "s": 0,
+          "t": "Wait, so that means... You're gonna let people paint you however they want?"
+        },
+        {
+          "s": 1,
+          "t": "It is only natural for the populace to have different expectations of their sovereign. A worthy ruler should strive to live up to all of them, no?"
+        },
+        {
+          "s": 1,
+          "t": "In practice, such a thing is often impossible. But when it comes to these portraits, at least, no side need be disappointed."
+        },
+        {
+          "s": 0,
+          "t": "What if someone has you standing on the back of a polar bear, riding into battle?"
+        },
+        {
+          "s": 1,
+          "t": "Hah... That paints an interesting picture indeed. Who's to say I haven't longed to do just that?"
+        },
+        {
+          "s": 0,
+          "t": "What!?"
+        },
+        {
+          "s": 5,
+          "t": "You better tell me all about how you became a special envoy sometime, okay?"
+        }
+      ],
+      "description": "The Tsaritsa agrees to sit for a new portrait at the urging of her retainers. But it seems that she has some concerns that may not be confined to the painter's easel alone..."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Anastasya",
+    "Chayka",
+    "???",
+    "Alyosha",
+    "Vodyanitsa",
+    "Odette",
+    "Artist",
+    "The Rooster",
+    "Marionette",
+    "Regrator",
+    "The Knave"
+  ],
+  "id": "q-77665"
+}

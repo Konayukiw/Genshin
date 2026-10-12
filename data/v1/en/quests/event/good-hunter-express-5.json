@@ -1,0 +1,73 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "I've got some other things to do."
+        },
+        {
+          "s": 0,
+          "t": "Oh, sure. I'll go get someone else to help. That said, it's been quite dangerous outside lately."
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "Sure, I'll deliver it."
+        },
+        {
+          "s": 0,
+          "t": "Great! Thanks for helping."
+        },
+        {
+          "s": 0,
+          "t": "Please remember to avoid getting hit by any element while you're on your way. Be careful now, and don't get hurt."
+        },
+        {
+          "section": "Deliver the food to Hardworking Silio"
+        },
+        {
+          "s": 1,
+          "t": "So... hungry..."
+        },
+        {
+          "section": "Speak to Hardworking Silio"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "Well, here's what happened. Silio ordered a serving of Mondstadt Hash Brown, and said that he'd like it delivered around this time."
+        },
+        {
+          "s": 0,
+          "t": "This hash brown is particularly fragile. If you shake it too much, it might fall apart. Please deliver it in time so that it can maintain its crumbly mouthfeel."
+        },
+        {
+          "s": 0,
+          "t": "If something happens to you out there, please bring that serving back, and I'll prepare a new one for you."
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Oh wow, thanks, you're finally here!"
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Hardworking Silio"
+  ],
+  "id": "q-41152"
+}

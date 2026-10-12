@@ -1,0 +1,4358 @@
+{
+  "chapter": "Hangout Event: Faruzan",
+  "chapter_title": "A Confounding Conundrum",
+  "act": "Act 1",
+  "act_title": "A Confounding Conundrum",
+  "region": null,
+  "quests": [
+    {
+      "id": "q-19170",
+      "title": "A Mysterious Senior...?",
+      "dialogue": [
+        {
+          "section": "Go to Pardis Dhyai"
+        },
+        {
+          "s": 0,
+          "t": "Even though most of the Akademiya's restrictions have significantly relaxed, I'm still a bit worried that the matra might give her trouble."
+        },
+        {
+          "s": 0,
+          "t": "I need to stay here to keep an eye on the situation. Collei, can you head to Sumeru City and find out why she isn't here yet?"
+        },
+        {
+          "s": 1,
+          "t": "Um... Does it have to be me?"
+        },
+        {
+          "s": 0,
+          "t": "I'd only assign a job this important to someone I trust. ...Are you not feeling well?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, no, I'm fine! I've completely recovered! It's just that if I'm going to see her... Umm, I think I need to mentally prepare myself first..."
+        },
+        {
+          "s": 0,
+          "t": "*sigh* I know, I know... you'll have a tough time if you go by yourself... If we could arrange for someone to accompany you..."
+        },
+        {
+          "sit": "In a predicament, I see?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, hey there!"
+        },
+        {
+          "s": 0,
+          "t": "It's been a while. What a coincidence, I was just thinking about asking you to accompany Collei to Sumeru City."
+        },
+        {
+          "sit": "Why'd you think of me...?"
+        },
+        {
+          "sit": "What made you think I have time on my hands?"
+        },
+        {
+          "s": 0,
+          "t": "Sorry, that's not what I meant. It's just that this matter... concerns research banned by the Akademiya. Not the sort of thing you'd shout from the rooftops."
+        },
+        {
+          "s": 0,
+          "t": "Also, you happen to know about this situation. There are very few people I can trust to be discreet right now. After giving it much thought, I believe you're the most suitable person for this task."
+        },
+        {
+          "sit": "Research banned by the Akademiya?"
+        },
+        {
+          "sit": "And something that I know about..."
+        },
+        {
+          "s": 0,
+          "t": "It's complicated, and this isn't the best place to talk about it. We'll fill you in on the details once she arrives."
+        },
+        {
+          "sit": "Who's \"she\"?"
+        },
+        {
+          "s": 0,
+          "t": "You might have heard about her in Sumeru before. Her name is Faruzan, and she's a very experienced senior researcher."
+        },
+        {
+          "sit": "When you say \"very experienced\"..."
+        },
+        {
+          "s": 0,
+          "t": "Let's just say that a huge part of Kshahrewar's mechanical research over the past 100 years have used her academic discourse and manuscripts as their foundation."
+        },
+        {
+          "sit": "100 years? Is she human?"
+        },
+        {
+          "s": 0,
+          "t": "She is, but she vanished for a hundred years because of a certain incident. She only returned to the Akademiya after being found in the wilderness a few years ago."
+        },
+        {
+          "s": 0,
+          "t": "Because of that, her current personality can be a bit... er, strange. As is her attitude towards Collei."
+        },
+        {
+          "s": 1,
+          "t": "Aaah, I'm getting a headache just thinking about it..."
+        },
+        {
+          "s": 0,
+          "t": "She doesn't have bad intentions, so you don't have to be scared."
+        },
+        {
+          "s": 1,
+          "t": "I—I'll try... *sigh*"
+        },
+        {
+          "sit": "Do we really have to invite her here?"
+        },
+        {
+          "s": 0,
+          "t": "Yes. Kshahrewar and Spantamad researchers are often quite prejudiced, so I can't trust them with this matter."
+        },
+        {
+          "s": 0,
+          "t": "However, Faruzan isn't influenced by modern thinking. In our previous correspondence through letters, she indicated that she'd be willing to help."
+        },
+        {
+          "s": 0,
+          "t": "It's already past our arranged meeting time, but she still hasn't shown up..."
+        },
+        {
+          "sit": "Did she get caught by the Akademiya?"
+        },
+        {
+          "s": 0,
+          "t": "I don't think so. With her personality, it's more likely that she got wrapped up in some sort of trouble."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, can you go with Collei to the Akademiya and check on Faruzan for me?"
+        },
+        {
+          "sit": "Sure thing."
+        },
+        {
+          "s": 1,
+          "t": "Phew, thank goodness. I was so anxious..."
+        },
+        {
+          "s": 0,
+          "t": "I'm counting on you two. Collei, don't push yourself too hard. Just go there and see what's going on."
+        },
+        {
+          "s": 0,
+          "t": "Our task is important, but not that urgent. If Faruzan really is in some trouble, come back and tell me about it. We can always reschedule our meeting."
+        },
+        {
+          "s": 0,
+          "t": "After all, if she's distracted by other things, it'll affect her ability to help us."
+        },
+        {
+          "s": 1,
+          "t": "Alright, let's go!"
+        },
+        {
+          "section": "Talk to Tighnari"
+        },
+        {
+          "s": 2,
+          "t": "Sorry? What did you say? Could you repeat yourself? As you know, I'm sure, hearing goes with age..."
+        },
+        {
+          "s": 3,
+          "t": "Faruzan, I said that you need to give us an answer!"
+        },
+        {
+          "s": 2,
+          "t": "Ah, yes, and did you forget to add \"Madam\" when you addressed me earlier?"
+        },
+        {
+          "s": 3,
+          "t": "Your hearing is perfectly fine!"
+        },
+        {
+          "s": 3,
+          "t": "Ahem! Madam... Faruzan, we don't want to make things difficult for you. However, you haven't been teaching courses or supervising theses these past few years..."
+        },
+        {
+          "s": 3,
+          "t": "Isn't this rather problematic as an adviser? Never mind the students, even other advisers are starting to complain."
+        },
+        {
+          "s": 2,
+          "t": "And who, if I might ask, complained? If they have any issue with me, tell them to talk to me themselves rather than waste any of your time."
+        },
+        {
+          "s": 3,
+          "t": "Um..."
+        },
+        {
+          "s": 2,
+          "t": "Hmph! You don't have to tell me anything. I very well know that it's those people from Haravatat. How I wish they'd put their time into doing proper research instead!"
+        },
+        {
+          "s": 3,
+          "t": "But Madam Faruzan, it has been a long while since you last made any practical academic contribution yourself..."
+        },
+        {
+          "s": 2,
+          "t": "Uh... Ahem! Academic contribution cannot simply be divided between the tangible and the intangible. The issue here, I believe, is that the reviewer doesn't understand the very nature of knowledge itself..."
+        },
+        {
+          "s": 2,
+          "t": "In any case, makes no sense to use a metric like this to evaluate a mentor. Which sage set this rule, anyway? I should write a letter of complaint right this instant!"
+        },
+        {
+          "s": 3,
+          "t": "W—Wait! Madam Faruzan, please let me finish!"
+        },
+        {
+          "s": 1,
+          "t": "That's her, all right... but the person with her doesn't look like a matra."
+        },
+        {
+          "sit": "She looks so young!"
+        },
+        {
+          "s": 1,
+          "t": "Shh! She hates it when people call her young!"
+        },
+        {
+          "s": 1,
+          "t": "Her body apparently stopped aging during the years she was gone, so that's why she looks the same as she did 100 years ago."
+        },
+        {
+          "sit": "(So she disappeared for 100 years...)"
+        },
+        {
+          "sit": "(What in the world happened to her?)"
+        },
+        {
+          "s": 1,
+          "t": "Phew... Okay, I think I'm ready for this. Let's go!"
+        },
+        {
+          "s": 3,
+          "t": "*sigh* Anyway, Acara Crafts and the leader of Kshahrewar would like to invite you to collaborate on this project..."
+        },
+        {
+          "s": 3,
+          "t": "They're wondering if you'd be interested... Uh, Madam Faruzan? Are you listening?"
+        },
+        {
+          "s": 2,
+          "t": "Mm-hmm..."
+        },
+        {
+          "s": 2,
+          "t": "Ah! Collei? Why are you here at the Akademiya? Are you feeling better now?"
+        },
+        {
+          "s": 1,
+          "t": "I'm m—much better, Madam Faruzan. It's all thanks to {NICKNAME} and the Dendro Archon..."
+        },
+        {
+          "s": 2,
+          "t": "Have you been sleeping well? You seem to be developing some eye bags... Is that brat Tighnari forcing you to stay up late again?"
+        },
+        {
+          "s": 1,
+          "t": "No! It's because I'm a slow learner... It's not Master's fault..."
+        },
+        {
+          "s": 2,
+          "t": "It's good to be hardworking, but you need to take care of your health. I'll have to give Tighnari a right talking-to when I see him. I'll also prepare some health supplements for you."
+        },
+        {
+          "s": 1,
+          "t": "Uh, there's really no need..."
+        },
+        {
+          "s": 2,
+          "t": "Ah, and is the person beside you the legendary {NICKNAME}?"
+        },
+        {
+          "sit": "Pleasure to meet your acquaintance, Madam."
+        },
+        {
+          "s": 2,
+          "t": "Oh? I've heard much about you before. In fact, I've been meaning to meet you for a while now."
+        },
+        {
+          "s": 2,
+          "t": "It is thanks to you, after all, that the Akademiya is finally getting back on its feet. Even Collei's illness is..."
+        },
+        {
+          "s": 3,
+          "t": "Ahem. Madam Faruzan, I believe we were still discussing the collaboration with Acara Crafts."
+        },
+        {
+          "s": 2,
+          "t": "Hmph! I'd wager it's those Kshahrewar dunderheads finding excuses so that I'd go to their Darshan. Say no more — I have no plans to change my field of research."
+        },
+        {
+          "s": 3,
+          "t": "*sigh* If you're this unwilling to participate in the collaborative project, you can also consider teaching a class."
+        },
+        {
+          "s": 3,
+          "t": "It might be difficult to teach a course with topics that only fall within Haravatat subjects, but we can't delay this anymore. You need to give an answer!"
+        },
+        {
+          "s": 3,
+          "t": "You can teach a course or participate in a collaborative project. If you don't do either, it'll be hard for me to persuade the advisers and students who have been complaining."
+        },
+        {
+          "sit": "(This sounds like some internal Akademiya dispute...)"
+        },
+        {
+          "sit": "(This seems to have nothing to do with Tighnari's request...)"
+        },
+        {
+          "s": 2,
+          "t": "Could you not give me a few more days to consider? This matter has been delayed for so long already..."
+        },
+        {
+          "s": 3,
+          "t": "That's precisely the issue! If you don't give an answer today, I fear that someone will soon escalate their complaints to the sages."
+        },
+        {
+          "s": 2,
+          "t": "What a waste of free time these folks are..."
+        },
+        {
+          "s": 2,
+          "t": "Now, you two are here at Tighnari's behest, I take it? I'm sorry, but given the current situation, it looks like I'll have to come over some other day."
+        },
+        {
+          "s": 1,
+          "t": "Um..."
+        },
+        {
+          "sit": "(Collei seems like she wants to say something...)"
+        },
+        {
+          "sit": "Please give me a moment with Collei."
+        },
+        {
+          "s": 2,
+          "t": "Of course. I shall need some time to think as well..."
+        },
+        {
+          "section": "Find Faruzan at the Akademiya"
+        },
+        {
+          "s": 1,
+          "t": "What now? She seems so busy."
+        },
+        {
+          "s": 1,
+          "t": "Master said there's no rush, but I know that he's been busy working on something at Pardis Dhyai, so he hasn't returned to Gandharva Ville for several days now."
+        },
+        {
+          "s": 1,
+          "t": "I feel for Madam Faruzan, but I still want to ask her to come with us."
+        },
+        {
+          "s": 1,
+          "t": "But if I get her in trouble with the Akademiya, then she won't have the time to help Master. What should I do? Ugh, this is such a headache."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, that would be the best for them both. I'll check with Master later and see if there's anything I can help him with."
+        },
+        {
+          "s": 1,
+          "t": "But I'm sure he'll say, \"The best thing you can do now is study hard so I don't have to give you remedial lessons\"..."
+        },
+        {
+          "sit": "I can stay and help Faruzan."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Oh, yes! This way, she can get her problem sorted out quickly, and then she can go see Master."
+        },
+        {
+          "s": 1,
+          "t": "So if I also stay and help... Umm, that still sounds kinda scary..."
+        },
+        {
+          "sit": "You don't have to force yourself."
+        },
+        {
+          "sit": "Let's observe the situation first."
+        },
+        {
+          "s": 1,
+          "t": "Okay, then... I'm counting on you."
+        },
+        {
+          "s": 2,
+          "t": "Hah. I have to teach students from Haravatat, or owe Kshahrewar a favor? It strikes me that they might be even less happy about such a deal than I am."
+        },
+        {
+          "s": 3,
+          "t": "Haha... I think I can sympathize with them..."
+        },
+        {
+          "s": 1,
+          "t": "We're back, Madam Faruzan."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME} said that {M#he}{F#she} can stay and help you."
+        },
+        {
+          "s": 2,
+          "t": "Oh? Why, I couldn't ask for more. In fact, I'm rather curious about the type of person the Traveler is... You were the one who taught Azar a lesson, after all. That said, will I be troubling you?"
+        },
+        {
+          "sit": "It's no trouble at all."
+        },
+        {
+          "sit": "I specialize in solving problems."
+        },
+        {
+          "s": 2,
+          "t": "Is that so? Good. It does so happen that I do have something I need help with..."
+        },
+        {
+          "s": 2,
+          "t": "Now, should I apply to teach a course with Haravatat, or join the collaborative project that Kshahrewar is proposing? Honestly, I don't want to choose either of them."
+        },
+        {
+          "sit": "Tell me more about that Haravatat course..."
+        },
+        {
+          "sit": "Let's hear what this Kshahrewar collaborative project is about..."
+        },
+        {
+          "s": 3,
+          "t": "You might have heard of it before. Haravatat is an academic faction that researches languages and runes. One hundred years ago, Madam Faruzan was a researcher from that Darshan."
+        },
+        {
+          "s": 2,
+          "t": "Now, now, not was. Still am."
+        },
+        {
+          "s": 3,
+          "t": "Y—Yes, of course, but current Haravatat students can't really... um, understand her direction of research. So even if she opened a course, chances are that no one would attend."
+        },
+        {
+          "sit": "Direction of research?"
+        },
+        {
+          "s": 2,
+          "t": "In summary, I mean to \"interpret the configurations and solutions of ruin mechanisms via the deciphering of on-site stone carvings and unearthed documents.\" It'll include research into general documents dealing with such ancient machines."
+        },
+        {
+          "s": 3,
+          "t": "The research method is supported by Haravatat, yes, but the content deals heavily with both ruins and mechanisms. This will make it difficult for students of this Darshan because they don't understand much about mechanisms..."
+        },
+        {
+          "s": 3,
+          "t": "Also, there are fewer and fewer unexplored ruins left nowadays, and Kshahrewar researchers have been developing their own theories on mechanisms. As such, they don't need to rely on ancient documents..."
+        },
+        {
+          "sit": "(So this subject is what you might call a \"sunset industry\"...)"
+        },
+        {
+          "sit": "(So she's doing very niche research...)"
+        },
+        {
+          "s": 2,
+          "t": "Hmph! They're far too complacent. Ancient mechanisms are more dangerous and complex than one might imagine."
+        },
+        {
+          "s": 2,
+          "t": "I'm telling you, things weren't like this 100 years ago. All researchers back then were interested in exploring knowledge from a variety of topics. They also gave more respect to unknown mechanisms..."
+        },
+        {
+          "s": 2,
+          "t": "Nowadays, all people are interested in are \"mainstream subjects\" and \"popular research.\" Even if they attended my course, I wouldn't be interested in teaching them."
+        },
+        {
+          "s": 2,
+          "t": "Also, the people here think that my research is outdated and unrealistic, so they keep cutting my funding!"
+        },
+        {
+          "s": 2,
+          "t": "Why, I think they could all stand to learn from Collei — she's a hardworking child and respects her elders!"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Why me?"
+        },
+        {
+          "s": 2,
+          "t": "Ah, if only those who came to my lectures were more like you..."
+        },
+        {
+          "s": 2,
+          "t": "Speaking of which, are you feeling better? You don't have to confine yourself to Gandharva Ville anymore, right?"
+        },
+        {
+          "s": 1,
+          "t": "I—I just remembered that I have a lot of studying to do! I need to head back and find Master!"
+        },
+        {
+          "sit": "Wait, I have an idea."
+        },
+        {
+          "s": 2,
+          "t": "Hmm?"
+        },
+        {
+          "sit": "Collei needs to learn how to read..."
+        },
+        {
+          "sit": "And you need to teach a course..."
+        },
+        {
+          "s": 2,
+          "t": "Are you telling me to start a reading course for Collei?"
+        },
+        {
+          "s": 1,
+          "t": "Huh!?"
+        },
+        {
+          "s": 3,
+          "t": "Wait! Although Tighnari has academic dealings with the Akademiya, he isn't considered part of it. This means that Collei isn't technically a student..."
+        },
+        {
+          "sit": "Does she have to hold this class IN the Akademiya?"
+        },
+        {
+          "sit": "Can't it be a public course?"
+        },
+        {
+          "s": 2,
+          "t": "Hmm... No, {M#he}{F#she}'s right. The old Akademiya became consumed by their arrogance precisely because they ignored the public."
+        },
+        {
+          "s": 2,
+          "t": "There must surely be many people like Collei in Sumeru who are passionate about learning but cannot study due to various reasons."
+        },
+        {
+          "s": 2,
+          "t": "The old Akademiya paid no heed to them, but if I start a reading course for Collei as a pilot, perhaps this shall come to benefit many more people in the future!"
+        },
+        {
+          "s": 3,
+          "t": "Hm... I'll need to go back and ask if this is in accordance with regulations..."
+        },
+        {
+          "s": 2,
+          "t": "Oh, save yourself the extra trouble. I'll come with you. If there's any arguments to be had, we shall sweep them aside together!"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, Collei, do wait for us a little while outside the Akademiya. I'll be back in just a moment."
+        },
+        {
+          "s": 1,
+          "t": "Ah! Wait... Let's catch up with her!"
+        },
+        {
+          "s": 2,
+          "t": "I don't know if Tighnari's told you about this before, but while my research involves learning about ruins and the mechanisms within them..."
+        },
+        {
+          "s": 2,
+          "t": "I don't belong to Kshahrewar, which specializes in researching mechanisms, nor am I in Spantamad, which specializes in researching energy flow. Instead, I'm part of Haravatat, which specializes in languages and scripts."
+        },
+        {
+          "sit": "He only said that you're a very senior researcher in the field of mechanisms..."
+        },
+        {
+          "sit": "You don't belong to Kshahrewar or Spantamad, huh..."
+        },
+        {
+          "s": 3,
+          "t": "She has been invited to Kshahrewar multiple times to continue her research, but she's rejected them each time."
+        },
+        {
+          "s": 2,
+          "t": "Just listen to how they introduce themselves! \"In the future, Kshahrewar will be the only Darshan with the ability to research mechanisms.\" Hmph, there's no such thing as exclusivity in knowledge."
+        },
+        {
+          "s": 2,
+          "t": "Besides, the current Kshahrewar is more concerned about how mechanisms can be used in everyday life, while my research involves textual analysis of ruins."
+        },
+        {
+          "s": 2,
+          "t": "If they're trying to use the collaborative project as an excuse to have me reconsider again..."
+        },
+        {
+          "s": 3,
+          "t": "N—No, that's not it. The request this time is from Acara Crafts."
+        },
+        {
+          "s": 3,
+          "t": "The representative of Kshahrewar recommended you to them, Madam Faruzan. In truth, she told me that it's because she respects you a lot."
+        },
+        {
+          "s": 2,
+          "t": "Oh, r—respect...? Oh, my..."
+        },
+        {
+          "s": 2,
+          "t": "Ahem! Putting aside my ideological differences with Kshahrewar, I suppose I must acknowledge this attitude of theirs. At the very least, they're bounds above those decrepit Haravatat fools."
+        },
+        {
+          "sit": "It wouldn't hurt to hear them out."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, Acara Crafts is a pretty nice shop..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm... Since both of you feel as such, I shall first hear this proposal."
+        },
+        {
+          "s": 3,
+          "t": "In summary, Acara Crafts wants to design a series of early learning toys that will cultivate curiosity and learning in children."
+        },
+        {
+          "s": 2,
+          "t": "Early learning toys? Interesting..."
+        },
+        {
+          "s": 3,
+          "t": "The Akademiya agreed to work with them because they hope that these toys can help children become excellent researchers in the future."
+        },
+        {
+          "s": 2,
+          "t": "True, the current Akademiya is in need of some new blood. If the children start learning now, perhaps I can find some talented students in a few years..."
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan, you still haven't found any students...?"
+        },
+        {
+          "s": 3,
+          "t": "Anis, Kshahrewar's representative, should be staying in the inn at Port Ormos. If you want more details, you can find her there."
+        },
+        {
+          "s": 2,
+          "t": "Port Ormos? Now there's a place I haven't been to in a long time. I wonder how much it's changed."
+        },
+        {
+          "s": 1,
+          "t": "I probably can't join you since Port Ormos is a little far from here... I should probably go back and report to Master, and then review today's homework."
+        },
+        {
+          "s": 2,
+          "t": "No worries. Go do your homework, Collei. Once I'm done with everything here, I'll head over to Pardis Dhyai."
+        },
+        {
+          "sit": "I'll take you there."
+        },
+        {
+          "sit": "I can help out."
+        },
+        {
+          "s": 2,
+          "t": "Thank you. Why, I'd even call this a rare chance for a curious researcher like myself to observe the legendary Traveler up close."
+        },
+        {
+          "s": 1,
+          "t": "But if someone does complain to the Akademiya, wouldn't it make Faruzan's situation more awkward?"
+        },
+        {
+          "s": 1,
+          "t": "And if the Akademiya investigated and found her at Pardis Dhyai, things would get even worse for her!"
+        },
+        {
+          "s": 1,
+          "t": "Do you have some way to invite her over to Pardis Dhyai without stepping on the Akademiya's toes?"
+        },
+        {
+          "sit": "I do have the makings of an idea."
+        },
+        {
+          "sit": "Let's observe the situation first."
+        },
+        {
+          "s": 1,
+          "t": "Okay, then... I'm counting on you."
+        },
+        {
+          "s": 2,
+          "t": "Hah. I have to teach students from Haravatat, or owe Kshahrewar a favor? It strikes me that they might be even less happy about such a deal than I am."
+        },
+        {
+          "s": 3,
+          "t": "Haha... I think I can sympathize with them..."
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan, we're back. Sorry for asking again, but are you sure you can't go to Pardis Dhyai today?"
+        },
+        {
+          "s": 2,
+          "t": "...Well, since you're asking me so sincerely, let's just ignore the Akademiya and—"
+        },
+        {
+          "s": 3,
+          "t": "Please, Madam Faruzan, focus! Today is the deadline!"
+        },
+        {
+          "sit": "Actually, Tighnari wants to invite her over to discuss some research."
+        },
+        {
+          "s": 3,
+          "t": "Huh?"
+        },
+        {
+          "s": 2,
+          "t": "Ah... Ahhh yes, I see, I see. No wonder he sent you two over."
+        },
+        {
+          "s": 2,
+          "t": "Why, that lad didn't make it very clear in his letter, now did he? Otherwise, I would've reported it as part of my research."
+        },
+        {
+          "s": 1,
+          "t": "Uh... Yeah, yeah, that's right! Master sent us over to explain everything to you."
+        },
+        {
+          "s": 3,
+          "t": "Wait, opportunities for collaborative research don't just come out of thin air... This seems like too much of a coincidence."
+        },
+        {
+          "s": 3,
+          "t": "Also, there isn't much overlap between Madam Faruzan's research and that of Amurta, right? What will you even be collaborating on?"
+        },
+        {
+          "s": 1,
+          "t": "Master wants to research, uh..."
+        },
+        {
+          "s": 2,
+          "t": "...A fully automated irrigation system."
+        },
+        {
+          "s": 3,
+          "t": "A fully automated irrigation system...?"
+        },
+        {
+          "s": 2,
+          "t": "Precisely. Um, it's a system that can automatically adjust the amount of water it provides based on the season and the plant species involved."
+        },
+        {
+          "s": 2,
+          "t": "I saw a similar mechanism while exploring a ruin in the rainforest. That's why Tighnari wanted to collaborate with me."
+        },
+        {
+          "s": 3,
+          "t": "A mechanism like that exists? Why haven't I heard of it before...?"
+        },
+        {
+          "s": 2,
+          "t": "I... I found it 100 years ago, so it's only natural that you don't know about it. Why don't you go ask your teacher's teacher? Perhaps they've heard about it from their teacher."
+        },
+        {
+          "s": 3,
+          "t": "Uh... But we can't prove its existence one way or the other, right?"
+        },
+        {
+          "s": 2,
+          "t": "Fret not. I'll have Tighnari write an official proposal to the Akademiya later. That should do it, right?"
+        },
+        {
+          "s": 3,
+          "t": "An official proposal... *sigh* Fine. We haven't made any progress with either the collaborative project or the elective course, anyway..."
+        },
+        {
+          "s": 3,
+          "t": "I'll go inform my superiors now. Please do take care of the paperwork as soon as possible. Don't delay this any longer."
+        },
+        {
+          "s": 2,
+          "t": "Sure. I'll be sure to needle him until he gets it done."
+        },
+        {
+          "sit": "The researcher leaves, clearly still having some doubts..."
+        },
+        {
+          "s": 2,
+          "t": "Phew... I think she bought it."
+        },
+        {
+          "sit": "That was quick thinking back there."
+        },
+        {
+          "s": 2,
+          "t": "Even though this is our first meeting, I must say... we make a good team."
+        },
+        {
+          "s": 1,
+          "t": "Wow, you made up that excuse on the spot, huh... Um, Madam Faruzan, did you really find an irrigation system 100 years ago? If the Akademiya asks for any details..."
+        },
+        {
+          "s": 2,
+          "t": "Who knows? It's been 100 years, so it wouldn't be too surprising if I've forgotten a few details, no?"
+        },
+        {
+          "s": 1,
+          "t": "Huh? Then how will we explain things to them?"
+        },
+        {
+          "s": 2,
+          "t": "Heh, I'll let Tighnari worry about whatever documents we might need to send to the Akademiya."
+        },
+        {
+          "s": 2,
+          "t": "...If I'm right, the request he has in store for me won't be any simpler than the Akademiya nonsense."
+        },
+        {
+          "s": 0,
+          "t": "Oh yes, and one more thing. You might find her difficult to get along with at first."
+        },
+        {
+          "s": 0,
+          "t": "However, if you address her as \"Madam,\" she'll become much easier to talk to."
+        }
+      ],
+      "description": "Tighnari is at Pardis Dhyai, waiting for a certain mysterious senior..."
+    },
+    {
+      "id": "q-19171",
+      "title": "Essential Classic",
+      "dialogue": [
+        {
+          "section": "Wait for Faruzan"
+        },
+        {
+          "s": 1,
+          "t": "I can't believe she rushed right in after we arrived. She's really headstrong... *sigh* How did things turn out like this?"
+        },
+        {
+          "sit": "Did I end up giving her a bad idea?"
+        },
+        {
+          "sit": "You seem quite scared of her."
+        },
+        {
+          "s": 1,
+          "t": "No, not really. Madam Faruzan is a brilliant scholar — even Master thinks so. If she's really going to teach me how to read, it'll definitely be much better than me bashing my head against the wall."
+        },
+        {
+          "s": 1,
+          "t": "It's just that she can get a bit TOO passionate sometimes. I don't know how to handle that."
+        },
+        {
+          "sit": "The way she treats you..."
+        },
+        {
+          "sit": "...Is completely different from how she treats researchers."
+        },
+        {
+          "s": 1,
+          "t": "Maybe it's because she wants to take me in as a student?"
+        },
+        {
+          "s": 1,
+          "t": "It's just like that researcher said: the Akademiya has completely changed during the 100 years that Faruzan was gone."
+        },
+        {
+          "s": 1,
+          "t": "I don't really get it, but it does seem like Haravatat's students aren't optimistic about the prospects of doing research with her."
+        },
+        {
+          "s": 1,
+          "t": "Students who are interested in mechanisms and applications of the elements generally enroll in Kshahrewar and Spantamad."
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan also refuses to accept random students just to make up numbers. She still hasn't found a student she likes, even after all this time back."
+        },
+        {
+          "sit": "So she's a teacher with no students..."
+        },
+        {
+          "s": 1,
+          "t": "But she seems to like my attitude toward learning, so she often asks me if I'm willing to become her student."
+        },
+        {
+          "s": 1,
+          "t": "Agh, it's because I'm a slow learner that I have no choice but to stay up late and study! Whenever she compliments me, I feel really guilty..."
+        },
+        {
+          "sit": "So you're scared of her because..."
+        },
+        {
+          "sit": "...She keeps asking you to become her student?"
+        },
+        {
+          "s": 1,
+          "t": "It's not that... Madam Faruzan respects my choices. She hasn't been trying to persuade me, especially since she knows I need to rest and recuperate."
+        },
+        {
+          "s": 1,
+          "t": "She sometimes brings food to Gandharva Ville for me, and each time, she says that Master can't find out..."
+        },
+        {
+          "sit": "That sounds like something a grandmother might do for her granddaughter..."
+        },
+        {
+          "s": 1,
+          "t": "Now that you mention it, it does feel a bit like that. ...Do I really look that young?"
+        },
+        {
+          "s": 2,
+          "t": "Collei, {NICKNAME}, thank you for waiting. The issue has been resolved."
+        },
+        {
+          "sit": "That was fast!"
+        },
+        {
+          "s": 2,
+          "t": "I argued with the higher-ups and convinced them of the practicality and necessity of educating the general public."
+        },
+        {
+          "s": 2,
+          "t": "If I'm not mistaken, they're the students of my classmates' students. They're a lot less forceful than their predecessors, though. I'd say they caved rather quickly."
+        },
+        {
+          "s": 1,
+          "t": "A—Amazing..."
+        },
+        {
+          "sit": "(Were they convinced...)"
+        },
+        {
+          "sit": "(...Or were they coerced?)"
+        },
+        {
+          "s": 2,
+          "t": "It's just that we need to fill in every single page of the application. Tch, it's been a century, but the Akademiya is as picky as ever."
+        },
+        {
+          "s": 2,
+          "t": "Let's see now, what do we need to fill in... Course name, learning objectives, teaching methods, course materials... Hmm, I suppose we can fill in the course name last."
+        },
+        {
+          "sit": "Our learning objective is to teach people to read, right?"
+        },
+        {
+          "s": 2,
+          "t": "That's a bit too general, I'd say. After all, this class's target audience isn't toddlers or children, but rather people who already know the basics of reading."
+        },
+        {
+          "s": 2,
+          "t": "As such, we'll need a more specific learning objective. How about... proficiency in reading and writing?"
+        },
+        {
+          "s": 1,
+          "t": "That's true! If we use children's teaching materials, we'll only end up wasting a lot of time on things that students would already know..."
+        },
+        {
+          "s": 2,
+          "t": "And you have your job as a Forest Ranger, Collei. People who attend this course in the future are also likely to have life commitments. We need more effective teaching methods."
+        },
+        {
+          "sit": "So, other than teaching materials for children..."
+        },
+        {
+          "sit": "...What other learning methods does Collei use?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Master always tells me that practice is the best way to learn. That's why I often ask him to help me find simple books to read."
+        },
+        {
+          "s": 2,
+          "t": "It must have been difficult to get books in Sumeru in recent years, no? Tighnari really went the extra mile for you."
+        },
+        {
+          "s": 2,
+          "t": "Expanding literacy is a capital notion. Now that the Akademiya is easing restrictions on the circulation of books, there should be more people who have become interested in reading. It's a great time to conduct this course."
+        },
+        {
+          "sit": "So we've got teaching methods sorted out."
+        },
+        {
+          "sit": "How do we choose our course materials, then?"
+        },
+        {
+          "s": 2,
+          "t": "Hmm, so that's next on the list... I fear that I'm at a loss as to which books youngsters like nowadays. Would \"The Legend of Antara\" be too old of a story?"
+        },
+        {
+          "sit": "If even a centenarian like you finds that tale old..."
+        },
+        {
+          "sit": "How old is that story, exactly...?"
+        },
+        {
+          "s": 2,
+          "t": "Hm, fair... Collei, what have you been reading lately?"
+        },
+        {
+          "s": 1,
+          "t": "Me...? I've been reading light novels from Inazuma. I heard that ever since we were allowed to sell books in Sumeru again, some people set up stalls at Treasures Street to sell light novels. I've been meaning to go there and check it out!"
+        },
+        {
+          "s": 2,
+          "t": "Light novels? This is my first time hearing about such a thing, but I doubt I will procure suitable teaching materials from the House of Daena... Treasures Street it is!"
+        },
+        {
+          "s": 1,
+          "t": "W—Wait for us, Madam Faruzan!"
+        },
+        {
+          "section": "Go to the book vendors at Treasures Street"
+        },
+        {
+          "s": 2,
+          "t": "What a long and mildly ungrammatical title. And why is the cover so colorful?"
+        },
+        {
+          "s": 4,
+          "t": "Is this your first time seeing a light novel, ma'am? They're the most popular of books nowadays. Would you like me to recommend something?"
+        },
+        {
+          "s": 2,
+          "t": "Fine. One shouldn't judge a book by its cover, after all. May we browse through the books here?"
+        },
+        {
+          "s": 4,
+          "t": "Of course. Why don't you try this one? It's \"Outlander Brigade: When the Wind of Death Blew Towards the Blond Samurai\"!"
+        },
+        {
+          "s": 1,
+          "t": "Ah, I heard that this book's author describes action in vivid detail."
+        },
+        {
+          "s": 2,
+          "t": "Hmm... Now, I've only skimmed through a few pages, but it feels like it's all fight scenes. There are only subjects and predicates, and the syntax is a tad simple."
+        },
+        {
+          "s": 1,
+          "t": "S—Subjects? Predicates?"
+        },
+        {
+          "s": 2,
+          "t": "The protagonist just ends up fighting in every scene with no proper build-up. Will anyone even enjoy a story that's only comprised of fights?"
+        },
+        {
+          "sit": "There might be people out there who will."
+        },
+        {
+          "sit": "It's for readers who don't care about plot."
+        },
+        {
+          "s": 4,
+          "t": "Uh, how about \"The Good Thing About Being Reincarnated as a Hilichurl Is That I Only Need to Eat Sunsettias to Become Stronger\"?"
+        },
+        {
+          "s": 1,
+          "t": "A reincarnation isekai story? Those are pretty popular right now."
+        },
+        {
+          "s": 2,
+          "t": "\"Isekai\"? What in the world is that? Also, why does it become stronger by eating Sunsettias?"
+        },
+        {
+          "sit": "Those are what we call \"tropes.\""
+        },
+        {
+          "s": 2,
+          "t": "\"Tropes\"? Ah, those fictional rules used to push the plot forward, yes? They're definitely effective in achieving a distancing effect."
+        },
+        {
+          "s": 1,
+          "t": "Uh, sorry, what is this distancing effect?"
+        },
+        {
+          "s": 2,
+          "t": "However, this book doesn't explain how reincarnation correlates to becoming stronger. Such an illogical rule will affect the coherence of the story. Will readers really accept this?"
+        },
+        {
+          "sit": "There might be people out there who will."
+        },
+        {
+          "sit": "It's for readers who don't care much for logic."
+        },
+        {
+          "s": 4,
+          "t": "H—How about this? I had to fight tooth and nail to get this in stock!"
+        },
+        {
+          "s": 1,
+          "t": "Oh! That's the latest volume of \"Onibudou\"!"
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Now that's a rather normal title length. ...Oh, Collei, do you like this series?"
+        },
+        {
+          "s": 1,
+          "t": "Y—Yes, but I—I don't like it THAT much! Ha ha..."
+        },
+        {
+          "sit": "(She clearly recognized it as the latest volume with a single glance...)"
+        },
+        {
+          "sit": "(Is she embarrassed to admit that she likes books like that?)"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Madam, are you going to use this series as teaching material?"
+        },
+        {
+          "s": 2,
+          "t": "Let me see... The dialogue flows quite well, but there are too many phrases here that I don't recognize."
+        },
+        {
+          "s": 2,
+          "t": "\"Third Eye of Perception,\" \"Illusory Mirror,\" and so on. Are these terms that are tied to tropes?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, I also thought those names were strange when I was reading them..."
+        },
+        {
+          "sit": "She was able to say those phrases in such a serious tone..."
+        },
+        {
+          "sit": "I guess that's a language researcher from Haravatat for you..."
+        },
+        {
+          "s": 2,
+          "t": "It's impossible to derive the meaning of these phrases in isolation. Also, their morphological properties are quite pedestrian, really."
+        },
+        {
+          "s": 2,
+          "t": "Or did the protagonist purposely create these strange names to disorient their foes?"
+        },
+        {
+          "sit": "I think it's because such names are \"cool\"..."
+        },
+        {
+          "sit": "I think it's because such names are \"fancy\"..."
+        },
+        {
+          "s": 2,
+          "t": "So there's no deeper purpose? My, it's quite hard to understand stories written these days."
+        },
+        {
+          "s": 1,
+          "t": "Y—You're right... It's such a weird book, haha... but you keep wanting to read the next page..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* Even the most popular book in Sumeru back then had greater depth than anything written today."
+        },
+        {
+          "sit": "The most popular book back then?"
+        },
+        {
+          "s": 2,
+          "t": "Yes — a Vahumana researcher wrote it while researching folk legends."
+        },
+        {
+          "s": 2,
+          "t": "The plot had many twists, the world-building was fantastic, and even the writing could withstand scrutiny. When it was still being published, many people in the Akademiya were reading it."
+        },
+        {
+          "s": 2,
+          "t": "Even the sages back then all described the story as a timeless classic. The series must have concluded after so many years, right? Perhaps it's even more popular now."
+        },
+        {
+          "s": 4,
+          "t": "Is there a book like that in Sumeru? I've never heard of such a thing before. What's the title?"
+        },
+        {
+          "s": 2,
+          "t": "It's called \"Tales of Shahryar.\" Do you sell it here?"
+        },
+        {
+          "s": 4,
+          "t": "Tales of Shahryar? I don't think I've heard of that before. When was it published?"
+        },
+        {
+          "s": 2,
+          "t": "About 100 years ago..."
+        },
+        {
+          "s": 4,
+          "t": "100 years ago? Are you pulling my leg? What sort of book can remain popular for 100 years?"
+        },
+        {
+          "s": 2,
+          "t": "\"The Legend of Antara\" is popular to this very day, isn't it? I just heard someone telling it a few days ago in a cafe."
+        },
+        {
+          "s": 2,
+          "t": "If an old story like that is still being shared, then \"Tales of Shahryar\" must be even more popular."
+        },
+        {
+          "s": 4,
+          "t": "Even if that is the case, I really don't carry that book here in my store..."
+        },
+        {
+          "s": 2,
+          "t": "What? Hmm, is that because of the Akademiya's strict control over books in recent years?"
+        },
+        {
+          "s": 2,
+          "t": "I can't believe they've allowed the people of Sumeru to become so uncivilized. How can they not know about the Tales of Shahryar?"
+        },
+        {
+          "s": 4,
+          "t": "Tales of Shahryar... Oh wait, I think I heard an antique seller on the other end of Treasures Street mention that name before."
+        },
+        {
+          "s": 4,
+          "t": "I mean, it is a book from 100 years ago... Why don't you try asking for it there?"
+        },
+        {
+          "s": 2,
+          "t": "Tales of Shahryar is considered an antique now? How could the Akademiya have let such an excellent work of literature be forgotten like this?"
+        },
+        {
+          "s": 2,
+          "t": "{NICKNAME}, Collei, I'm going to get to the bottom of this. Let's meet at the antique seller's."
+        },
+        {
+          "s": 1,
+          "t": "Madam, wait! Oh no, this is bad..."
+        },
+        {
+          "sit": "What's wrong?"
+        },
+        {
+          "s": 1,
+          "t": "You asked me why I'm scared of Madam Faruzan, right? It's not because I don't know how to respond to her kindness..."
+        },
+        {
+          "s": 1,
+          "t": "It's because I'm afraid of that ancient language she researches, because I can barely understand any of it. What if she uses ancient texts as teaching material!?"
+        },
+        {
+          "sit": "That book's only 100 years old, Collei..."
+        },
+        {
+          "sit": "I doubt this counts as a book written in an ancient language..."
+        },
+        {
+          "s": 1,
+          "t": "Even so, what if researchers from 100 years ago liked to use ancient languages in their books? We've got to catch up to her!"
+        },
+        {
+          "section": "Go to the antique shop at Treasures Street"
+        },
+        {
+          "s": 2,
+          "t": "Found it! The fifth volume of \"Tales of Shahryar\"!"
+        },
+        {
+          "s": 1,
+          "t": "Wow, you actually found it!"
+        },
+        {
+          "s": 5,
+          "t": "I never thought that this book would ever get sold..."
+        },
+        {
+          "s": 2,
+          "t": "All right, that's our teaching material secured. We also now know what to call this course: \"Analysis of Classical Texts.\" After all, this book is definitely worthy of being called a classic!"
+        },
+        {
+          "s": 1,
+          "t": "C—Can I take a look...?"
+        },
+        {
+          "s": 1,
+          "t": "Phew... Luckily, the language being used here isn't ancient at all. I can recognize a few words here and there... Huh? But why aren't there pictures in this book?"
+        },
+        {
+          "s": 2,
+          "t": "As long as the writing is good, readers won't need any illustrations to imagine the scenes."
+        },
+        {
+          "s": 2,
+          "t": "Worry not, I shall thoroughly explain the difficult sections. You'll like this book, I know it!"
+        },
+        {
+          "s": 2,
+          "t": "Ah, after all this time. I wonder if Aliyah and Aziz ended up together. And who obtained the Desert Gem in the end...?"
+        },
+        {
+          "s": 2,
+          "t": "Sir, do you have the subsequent volumes of this series?"
+        },
+        {
+          "s": 5,
+          "t": "Uh, I don't think so."
+        },
+        {
+          "s": 2,
+          "t": "Is that so? And here I thought I could finally read the ending... Never mind, I'll keep searching for the later volumes myself."
+        },
+        {
+          "s": 2,
+          "t": "If I'm to use it as a teaching material, it's better to start earlier in the series. Where are the first four volumes? Why aren't they all together?"
+        },
+        {
+          "s": 5,
+          "t": "Uh, I don't have those either. Actually, this is the only volume I have."
+        },
+        {
+          "s": 2,
+          "t": "Is this series really that popular?"
+        },
+        {
+          "s": 5,
+          "t": "No, no, no. It's not popular at all. Rather, there's absolutely no demand for it."
+        },
+        {
+          "s": 2,
+          "t": "No demand? Impossible! Back then, I'd come across at least three groups of people talking about it during a single stroll at the Akademiya!"
+        },
+        {
+          "s": 5,
+          "t": "Seriously? No one told me that this book was anything special when I first got it."
+        },
+        {
+          "s": 2,
+          "t": "Where did you get this from? Can you still contact the seller?"
+        },
+        {
+          "s": 5,
+          "t": "I'm afraid not. This book was sold together with a whole bunch of antique furniture. I didn't even notice it initially."
+        },
+        {
+          "s": 5,
+          "t": "Otherwise, the matra would've come knocking... Wait, is this book actually worth a lot? It can't be, right?"
+        },
+        {
+          "sit": "I'm afraid not."
+        },
+        {
+          "sit": "It doesn't look valuable."
+        },
+        {
+          "s": 2,
+          "t": "That's impossible! No matter how strict the Akademiya was, there's no way \"Tales of Shahryar\" could have fallen into such a state..."
+        },
+        {
+          "s": 5,
+          "t": "Ah, I do remember a passerby skimming through the book a few days ago. However, he simply sighed and left."
+        },
+        {
+          "s": 2,
+          "t": "He sighed? Why would he react like that? Given the quality of \"Tales of Shahryar,\" he should've been entranced after a single glance."
+        },
+        {
+          "s": 2,
+          "t": "...I'm sorry, Traveler, Collei. Please give me a moment. I'd like to look through this book first."
+        },
+        {
+          "sit": "Faruzan quickly flips through the pages..."
+        },
+        {
+          "s": 2,
+          "t": "...Why is there another misunderstanding between Aliyah and Aziz? Also, why is there no mention of the Desert Gem at all?"
+        },
+        {
+          "s": 2,
+          "t": "...And a new character is introduced with no foreshadowing at all? Also, what are all these new names and terms?"
+        },
+        {
+          "s": 2,
+          "t": "Is this really the \"Tales of Shahryar\" I know...?"
+        },
+        {
+          "s": 2,
+          "t": "*sigh*"
+        },
+        {
+          "s": 5,
+          "t": "Well, that passerby reacted in much the same way."
+        },
+        {
+          "sit": "Who was the passerby, in any case?"
+        },
+        {
+          "s": 5,
+          "t": "It's Maddah from the cafe over there. You know, the fellow who spends all day telling \"The Legend of Antara.\""
+        },
+        {
+          "s": 5,
+          "t": "Since that's also a very old story, maybe he knows a thing or two about that, uh... Tales of... uh, whatever it's called."
+        },
+        {
+          "s": 1,
+          "t": "Then let's go ask around at the cafe... Um, Madam Faruzan?"
+        },
+        {
+          "s": 2,
+          "t": "...Oh, yes... Let's go."
+        },
+        {
+          "section": "Go to Puspa Café"
+        },
+        {
+          "s": 6,
+          "t": "*sigh* Another day, another empty room..."
+        },
+        {
+          "s": 1,
+          "t": "Excuse me, but are you Maddah?"
+        },
+        {
+          "s": 6,
+          "t": "Yes. Are you here to listen to my story?"
+        },
+        {
+          "s": 1,
+          "t": "Uh, well, we actually came to ask about something else."
+        },
+        {
+          "s": 6,
+          "t": "*sigh* I see..."
+        },
+        {
+          "s": 1,
+          "t": "S—Sorry..."
+        },
+        {
+          "s": 6,
+          "t": "It's fine. I'm used to it, more or less. So, how can this terribly unpopular storyteller help you?"
+        },
+        {
+          "s": 2,
+          "t": "Do you know about \"Tales of Shahryar\"?"
+        },
+        {
+          "s": 6,
+          "t": "Huh? \"Tales of Shahryar\"? Why, I can barely remember the last time anyone talked about it."
+        },
+        {
+          "s": 6,
+          "t": "My master always talked about how incredibly popular that book used to be. However, I tried reciting a few chapters of it at the cafe, and I found that it's even less popular than \"The Legend of Antara\"..."
+        },
+        {
+          "s": 2,
+          "t": "Your master?"
+        },
+        {
+          "s": 6,
+          "t": "Yes, the one who taught me how to be a storyteller. He said that \"Tales of Shahryar\" was written by his master's master's master."
+        },
+        {
+          "s": 6,
+          "t": "He also said that this great-great-grandmaster was an Akademiya researcher, and that even the sages liked the series!"
+        },
+        {
+          "s": 6,
+          "t": "He wrote four volumes back then, and the reviews just got better and better! You couldn't find a single person in Sumeru who hadn't read his books."
+        },
+        {
+          "s": 2,
+          "t": "And then? What happened next? Why doesn't anyone know about \"Tales of Shahryar\" now?"
+        },
+        {
+          "s": 6,
+          "t": "Oh, it's hard to tell when it comes to trends. One day, everyone likes stories like that, and the next day, their tastes change completely."
+        },
+        {
+          "s": 6,
+          "t": "Instead of writing a proper ending, this great-great-grandmaster kept trying to extend the story..."
+        },
+        {
+          "s": 6,
+          "t": "To tap into popular trends, he added a lot of tropes. Then, starting from the fifth volume, the reviews started to go downhill."
+        },
+        {
+          "s": 2,
+          "t": "How could that be...? Then, what happened to \"Tales of Shahryar\" in the end?"
+        },
+        {
+          "s": 6,
+          "t": "In the end? There's no ending. The great-great-grandmaster tried to write a few more volumes, following whatever trends were popular at the time, but the trends kept changing right as he published his books."
+        },
+        {
+          "s": 6,
+          "t": "He got so infuriated that he stopped writing altogether and focused on his research instead."
+        },
+        {
+          "s": 2,
+          "t": "What...? So there's no ending? The readers didn't care?"
+        },
+        {
+          "s": 6,
+          "t": "Haha, by that time, only a very small number of people were reading \"Tales of Shahryar.\""
+        },
+        {
+          "s": 6,
+          "t": "Anyway, my master probably exaggerated. How could a work possibly have been that popular?"
+        },
+        {
+          "s": 6,
+          "t": "The only tangible thing my great-great-grandmaster left is the original draft of \"Legend of Antara.\""
+        },
+        {
+          "s": 6,
+          "t": "He also left behind many theses from his research phase. When my master talked about \"Legend of Antara,\" he'd even quote from those theses."
+        },
+        {
+          "s": 6,
+          "t": "My master is a much better storyteller than me. Even when we're telling the same story about Antara, he's always able to draw in a huge crowd!"
+        },
+        {
+          "s": 6,
+          "t": "But even he won't recite \"Tales of Shahryar\" due to its ever-changing writing style and its lack of an ending."
+        },
+        {
+          "s": 2,
+          "t": "So Antara's story is the one that lasted through the years..."
+        },
+        {
+          "s": 6,
+          "t": "Well, not even sages can definitively ascertain the quality of something like a story. In the end, only time can separate the classics from the fads."
+        },
+        {
+          "s": 2,
+          "t": "Only time...?"
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan...?"
+        },
+        {
+          "s": 2,
+          "t": "It's been a hundred years... Perhaps some things I once believed to be great aren't so after all."
+        },
+        {
+          "sit": "You know, I think..."
+        },
+        {
+          "sit": "You don't have to worry about that."
+        },
+        {
+          "sit": "The story's decline might not have been due to changing trends..."
+        },
+        {
+          "sit": "It doesn't matter if it's a classic or a fad. What matters is that you like it."
+        },
+        {
+          "s": 1,
+          "t": "Y—Yeah! Master helped me find a lot of famous books at first, but in the end, I realized that I couldn't get into them..."
+        },
+        {
+          "s": 1,
+          "t": "No matter how good those stories are, I can't improve my skills if I can't bring myself to read them in the first place. I think the best books for me are the ones I like!"
+        },
+        {
+          "sit": "The problem here is not actually about improving your reading skills..."
+        },
+        {
+          "sit": "...But I suppose the principle is the same."
+        },
+        {
+          "s": 2,
+          "t": "...Indeed."
+        },
+        {
+          "s": 2,
+          "t": "That is true. Readers' interests and trends of a time are not things that are so easily predicted."
+        },
+        {
+          "s": 2,
+          "t": "What was popular a hundred years ago could be completely forgotten in modern times. And yet a hundred years, as far as history is concerned, is but a blink of an eye."
+        },
+        {
+          "s": 2,
+          "t": "If \"Tales of Shahryar\" hadn't chased after trends and instead stuck to its original style from start to finish..."
+        },
+        {
+          "s": 2,
+          "t": "It might have stood some chance of gaining renewed popularity... No, even if that didn't happen, at least it would be a work that was true to itself."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Our conversation just got a lot more serious..."
+        },
+        {
+          "s": 6,
+          "t": "I don't really get what you're talking about, but it does sound sensible. Looks like I also have to hang in there and tell Antara's story well!"
+        },
+        {
+          "sit": "You should think about the present first."
+        },
+        {
+          "sit": "You should think about your income first."
+        },
+        {
+          "s": 2,
+          "t": "Hah, how unseemly. I almost got carried away because of a single book. Well then, we should get back to the matter of our teaching material... It looks like we can't use \"Tales of Shahryar\" now."
+        },
+        {
+          "sit": "How about \"The Legend of Antara,\" then?"
+        },
+        {
+          "s": 2,
+          "t": "No, it's much too old."
+        },
+        {
+          "s": 6,
+          "t": "Oh..."
+        },
+        {
+          "s": 2,
+          "t": "Collei, you found a book that you liked at the book stall, yes?"
+        },
+        {
+          "s": 1,
+          "t": "Um... Yes, but I don't really—"
+        },
+        {
+          "s": 2,
+          "t": "Then we'll use that book as our teaching material. Now that I think about it, using a book that you like is the most suitable choice for teaching you how to read."
+        },
+        {
+          "s": 2,
+          "t": "As for the Akademiya... As long as we come up with an appropriate course name, we should be able to get away with this..."
+        },
+        {
+          "sit": "I propose \"Appreciation of Popular Literature.\""
+        },
+        {
+          "sit": "Perhaps \"Analysis of Popular Literature\" might do the trick?"
+        },
+        {
+          "s": 2,
+          "t": "My, it sounds like you've dealt with the Akademiya before! Let's go with that."
+        },
+        {
+          "s": 2,
+          "t": "Now then, let's return to the book vendor in a bit and buy the latest volume of this \"Onibudou\" for Collei."
+        },
+        {
+          "s": 2,
+          "t": "Ah, but if I wish to use it as teaching material, I have to read it first."
+        },
+        {
+          "s": 1,
+          "t": "Huh? Um... Uh..."
+        },
+        {
+          "s": 2,
+          "t": "Speaking of which, other than \"Third Eye of Perception\" and \"Illusory Mirror,\" I also espy some unfamiliar phrases from the readers' messages at the back of the book."
+        },
+        {
+          "s": 2,
+          "t": "Such things as \"Even if it reminds me of my dark history, I still can't help but be drawn in by the story,\" and \"The author has written all the things that I only dare whisper into a tree hollow!\"..."
+        },
+        {
+          "s": 2,
+          "t": "Why do people use \"dark history\" to refer to awkward or embarrassing memories? Is this some slang that was invented in the last century?"
+        },
+        {
+          "s": 2,
+          "t": "If one of our learning objectives was researching linguistic changes over the past hundred years, it might make it easier to get these books approved as teaching material."
+        },
+        {
+          "s": 6,
+          "t": "Oh, I can tell you what that's all about! Apparently, in their youth, some people used to imagine themselves as someone \"burdened by fate,\" \"fighting against the world,\" et cetera."
+        },
+        {
+          "s": 6,
+          "t": "But as they grew older, they started to become embarrassed by such memories. Some would write those fantasies into novels, while others would entrust such tales to tree hollows..."
+        },
+        {
+          "s": 1,
+          "t": "M—Maddah! You know, I suddenly have the urge to hear a story about Antara!"
+        },
+        {
+          "s": 2,
+          "t": "Huh? Why so suddenly?"
+        },
+        {
+          "sit": "I think we can ignore the whole dark history thing, just for now..."
+        },
+        {
+          "sit": "It's good to reminisce on an old tale in a while."
+        },
+        {
+          "s": 6,
+          "t": "Heh, I knew it — there will always be people who love the golden oldies! Ahem. Now, let me tell you all about the ancient hero, Antara..."
+        },
+        {
+          "s": 4,
+          "t": "A book that was popular 100 years ago? It doesn't sound like something that'd be popular now, to be frank."
+        },
+        {
+          "s": 5,
+          "t": "Anyway, is there anything else here that has caught your eye? As long as the price is reasonable, I can give you this book as a bonus!"
+        },
+        {
+          "s": 1,
+          "t": "Gah, you wouldn't think someone as fast as her is over 100...! Let's pick up the pace and catch up to her!"
+        }
+      ],
+      "description": "For Collei's future and that of all Sumeru, Faruzan decides to start a certain class..."
+    },
+    {
+      "id": "q-19172",
+      "title": "Early Learning Mechanism",
+      "dialogue": [
+        {
+          "section": "Go to Port Ormos and look for Anis"
+        },
+        {
+          "s": 7,
+          "t": "Madam Faruzan...! It's really you! Did you... change your mind?"
+        },
+        {
+          "s": 2,
+          "t": "Alright, calm down. Let me be clear: I'm still not all that interested in Kshahrewar. I'm just here to see how the project is going."
+        },
+        {
+          "s": 2,
+          "t": "After all, you're here as representatives of the Akademiya in this collaboration. The reputation of all researchers is at stake here, so I will not simply stand by should mistakes get made."
+        },
+        {
+          "s": 7,
+          "t": "Haha... Either way, it's good that you were willing to come."
+        },
+        {
+          "s": 7,
+          "t": "Now, we've given Acara Crafts many ideas over the past couple of days. However, their owner thinks that our designs are too complicated, which will drive production costs too far up..."
+        },
+        {
+          "s": 2,
+          "t": "That's expected. Students who have never had to deal with budgetary constraints probably don't understand how important it is to keep costs low. How enviable... Ahem!"
+        },
+        {
+          "sit": "By any chance, has it been very difficult for you..."
+        },
+        {
+          "sit": "...To get funding for your research?"
+        },
+        {
+          "s": 7,
+          "t": "If you join the Kshahrewar, your budget will be as big as you want it to be! I guarantee it."
+        },
+        {
+          "s": 2,
+          "t": "That's enough. I will not repeat myself. Take me to Acara Crafts' owner first, if you please."
+        },
+        {
+          "s": 7,
+          "t": "*sigh* ...Alright. He's usually at the slope up ahead recruiting volunteers to test out his toys. Let's just head over."
+        },
+        {
+          "section": "Talk to the staff at Acara Crafts"
+        },
+        {
+          "s": 7,
+          "t": "Mamdouh, the one I recommended is here!"
+        },
+        {
+          "s": 8,
+          "t": "Oh, so you're... uh, Madam Faruzan?"
+        },
+        {
+          "s": 2,
+          "t": "Yes, that's me."
+        },
+        {
+          "s": 8,
+          "t": "Ah, wonderful! We haven't been able to make any progress on our collaboration recently."
+        },
+        {
+          "s": 8,
+          "t": "We've made many suggestions, but Miss Anis thought that those ideas were too simple and wouldn't be effective in training the mind..."
+        },
+        {
+          "s": 7,
+          "t": "These early learning toys are meant to help the Akademiya train future researchers, after all. If they're too simple, then how are they any different from regular toys?"
+        },
+        {
+          "s": 8,
+          "t": "But if they're too complicated, not only will they be expensive to produce considering our production capabilities, but they won't have much broad appeal to Sumeru's children, either."
+        },
+        {
+          "s": 2,
+          "t": "So the design can't be too complicated, but it can't be too easy to play with, either? Hmm..."
+        },
+        {
+          "s": 7,
+          "t": "I remember that, in your notes, many contraptions have managed to fulfill complex functions despite using simple parts. Maybe we can do something similar with these early learning toys..."
+        },
+        {
+          "s": 2,
+          "t": "The contraptions in my notes? I didn't create those. I simply took the contraptions in the ruins apart and analyzed them."
+        },
+        {
+          "s": 2,
+          "t": "But now that you mention it, the ruins did have things like that. Do you have a pen, paper, and scissors? I'll make a paper prototype."
+        },
+        {
+          "s": 8,
+          "t": "You have an idea already? ... I suppose I should have expected as much of a respected Akademiya senior researcher. We do have those, yes. Please, help yourself!"
+        },
+        {
+          "sit": "Faruzan starts to sketch and cut..."
+        },
+        {
+          "s": 8,
+          "t": "Oh, you're done already?"
+        },
+        {
+          "s": 2,
+          "t": "Let me explain. These three thick lines represent three poles."
+        },
+        {
+          "s": 2,
+          "t": "These paper strips of varying lengths represent rings of different sizes. They can be slotted onto the poles and stacked up like a tower."
+        },
+        {
+          "s": 8,
+          "t": "Well... That is easier to make than I expected. So, how is this game played?"
+        },
+        {
+          "s": 2,
+          "t": "That's very simple as well. You just need to shift the \"tower\" from this pole to another pole."
+        },
+        {
+          "s": 7,
+          "t": "Um, isn't this a little too simple? Even by the standards of an early learning toy, I mean..."
+        },
+        {
+          "s": 2,
+          "t": "Of course, when moving each \"ring,\" the paper strips in this case, you must follow one rule: You can only move one ring at a time, and you can't place a bigger ring on top of a smaller one."
+        },
+        {
+          "s": 2,
+          "t": "It's like building a tower. The rings in the three poles must be stacked from big to small. I name this toy... \"Pagoda Stack.\""
+        },
+        {
+          "s": 7,
+          "t": "Hmm, Pagoda Stack..."
+        },
+        {
+          "s": 8,
+          "t": "That sounds way too simple. Even I feel like it's missing something."
+        },
+        {
+          "s": 2,
+          "t": "Give it a try and you'll find out if it's simple or not. I heard from Anis that you find volunteers to try out the toys, right? Why don't we do the same for this game?"
+        },
+        {
+          "s": 8,
+          "t": "It's such a simple toy. There's no need to..."
+        },
+        {
+          "s": 7,
+          "t": "Mamdouh, let's just do as she says."
+        },
+        {
+          "s": 8,
+          "t": "Huh? Okay then..."
+        },
+        {
+          "sit": "Mamdouh gathers the nearby volunteers over, and Faruzan explains the rules to them..."
+        },
+        {
+          "s": 2,
+          "t": "And that's how you play this game. You can all give it a try. Let's see who's able to move the \"tower\" to another pole in the smallest number of steps."
+        },
+        {
+          "s": 9,
+          "t": "You called everyone here for such a simple toy?"
+        },
+        {
+          "s": 10,
+          "t": "It doesn't look like it'll take that many steps..."
+        },
+        {
+          "s": 11,
+          "t": "Come on, we all promised to help Mr. Mamdouh test out the new toys. He said he'd give us new Genius Invokation TCG cards!"
+        },
+        {
+          "sit": "So they were lured in by the promise of a different toy..."
+        },
+        {
+          "sit": "So they were lured in by the promise of new cards..."
+        },
+        {
+          "s": 9,
+          "t": "Ugh... fine. Let's get this over and done with so we can head back and play cards."
+        },
+        {
+          "sit": "The children start to play with Pagoda Stack..."
+        },
+        {
+          "s": 11,
+          "t": "...Done. It took me 19 steps."
+        },
+        {
+          "s": 10,
+          "t": "Huh? It took me over 20 steps!"
+        },
+        {
+          "s": 9,
+          "t": "Hehe, I only needed 18 steps!"
+        },
+        {
+          "s": 2,
+          "t": "Not bad! Looks like you're all familiar with the rules now."
+        },
+        {
+          "s": 2,
+          "t": "Then, let's increase the difficulty. The next \"tower\" will be five layers tall. Now then, give it a shot."
+        },
+        {
+          "s": 10,
+          "t": "Wait, there's more?"
+        },
+        {
+          "s": 9,
+          "t": "Well, since we're already here, why don't we just give it a try?"
+        },
+        {
+          "s": 11,
+          "t": "An extra layer shouldn't make it that much harder, right?"
+        },
+        {
+          "s": 9,
+          "t": "...What's going on? I've already moved over 30 steps, but I'm still not done yet."
+        },
+        {
+          "s": 10,
+          "t": "Hehe, I'm almost done. Looks like I'm the faster one this time."
+        },
+        {
+          "s": 11,
+          "t": "Done! It took me 35 steps!"
+        },
+        {
+          "s": 9,
+          "t": "What, how!?"
+        },
+        {
+          "s": 11,
+          "t": "This \"Pagoda Stack\" toy is pretty fun to play with!"
+        },
+        {
+          "s": 2,
+          "t": "Good. We'll try it one final time. This time, we'll add two more layers, making seven layers in total."
+        },
+        {
+          "s": 2,
+          "t": "Mamdouh, we've still got quite a few paper strips here. Why don't you give this a go as well?"
+        },
+        {
+          "s": 8,
+          "t": "Do you need that many steps for something this simple? Let me try!"
+        },
+        {
+          "s": 7,
+          "t": "Madam Faruzan... allow me to try it as well!"
+        },
+        {
+          "s": 2,
+          "t": "You were looking at it quite seriously just now. Are you starting to understand the principles involved?"
+        },
+        {
+          "s": 7,
+          "t": "I... think so?"
+        },
+        {
+          "s": 2,
+          "t": "If you want to test out your hypothesis, you'll just have to play and find out!"
+        },
+        {
+          "s": 7,
+          "t": "Got it!"
+        },
+        {
+          "s": 2,
+          "t": "Ah. We don't have enough paper strips left for you, {NICKNAME}. However, by the looks of things, you seem to have the game figured out."
+        },
+        {
+          "sit": "Somewhat."
+        },
+        {
+          "sit": "Just about."
+        },
+        {
+          "s": 2,
+          "t": "Why don't you guess what the lowest number of steps needed to solve a seven-layer \"Pagoda Stack\" is?"
+        },
+        {
+          "sit": "100 steps."
+        },
+        {
+          "sit": "108 steps."
+        },
+        {
+          "sit": "127 steps."
+        },
+        {
+          "s": 2,
+          "t": "Oh? Color me impressed. You figured it out so quickly!"
+        },
+        {
+          "sit": "136 steps."
+        },
+        {
+          "s": 2,
+          "t": "What a shame. You were close. However, you did well for someone seeing \"Pagoda Stack\" for the first time."
+        },
+        {
+          "s": 2,
+          "t": "Let's see how well they do, then."
+        },
+        {
+          "sit": "After some time..."
+        },
+        {
+          "s": 8,
+          "t": "If I move this small ring, then the big one won't be able to go on top of it. This is going to take more steps than I expected..."
+        },
+        {
+          "s": 9,
+          "t": "I—I've lost count of how many steps I've taken! Can I restart?"
+        },
+        {
+          "s": 10,
+          "t": "This got a lot harder..."
+        },
+        {
+          "s": 7,
+          "t": "Hmm..."
+        },
+        {
+          "s": 7,
+          "t": "I solved it! Madam Faruzan, it takes 127 steps in total!"
+        },
+        {
+          "s": 8,
+          "t": "That many? But there are only seven layers!"
+        },
+        {
+          "s": 7,
+          "t": "For every extra layer in the Pagoda Stack, the move order you need to consider becomes much more complex, and the number of steps required will at least double..."
+        },
+        {
+          "s": 2,
+          "t": "More accurately, it will require double the steps, plus one each time. You did well. You didn't underestimate the \"principles\" behind it just because it's an early learning toy."
+        },
+        {
+          "s": 2,
+          "t": "The complexity of any given contraption isn't determined by the number of parts it has. The way the parts interact and the rules behind how it operates are important too."
+        },
+        {
+          "s": 7,
+          "t": "Oh, I see. No wonder you emphasized in your notes that no contraption should ever be underestimated."
+        },
+        {
+          "s": 8,
+          "t": "I see. So even a simple toy can become complex with the right set of rules..."
+        },
+        {
+          "s": 2,
+          "t": "That's right. The rules used for \"Pagoda Stack\" are the simplest kind when it comes to ancient contraption-making techniques."
+        },
+        {
+          "s": 2,
+          "t": "I could spend some time picking out all those machines that do something similar and write you a reference book."
+        },
+        {
+          "s": 2,
+          "t": "Once that happens, you can give the volunteers the reference book and paper prototypes, and find out which toy is the most popular."
+        },
+        {
+          "s": 10,
+          "t": "Do you have any other toys?"
+        },
+        {
+          "s": 9,
+          "t": "Yeah, when can we play with them?"
+        },
+        {
+          "s": 2,
+          "t": "Uh, in about two days or so, I think. Anis, if you're free, can you help me with the illustrations for the reference book?"
+        },
+        {
+          "s": 7,
+          "t": "Of course! I'd be honored!"
+        },
+        {
+          "s": 8,
+          "t": "Two days should be enough for us to find more volunteers. Then, we can organize a huge conference here, at which we can announce which toy we'll be making."
+        },
+        {
+          "sit": "Should I come back in two days, then?"
+        },
+        {
+          "s": 8,
+          "t": "You'd be most welcome! We need more people to get a healthy range of opinions. The more, the merrier!"
+        },
+        {
+          "s": 2,
+          "t": "Thank you for coming here with me today. I'll walk back with you."
+        },
+        {
+          "section": "Leave Port Ormos"
+        },
+        {
+          "s": 2,
+          "t": "I'll be going then. Say hi to Tighnari and Collei for me if you can. Once everything here is settled, I'll make my way over to Pardis Dhyai as quickly as I can."
+        },
+        {
+          "sit": "So, about Kshahrewar..."
+        },
+        {
+          "s": 2,
+          "t": "You want to ask why I'm unwilling to join them, yes?"
+        },
+        {
+          "s": 2,
+          "t": "Putting aside the fact that they're too full of themselves, I actually have no issue with their research methodologies and approach."
+        },
+        {
+          "s": 2,
+          "t": "After all, knowledge is either right or wrong. Superiority and inferiority do not come into the conversation. All researchers are just doing their best to shed light on the unknown in their respective fields of expertise."
+        },
+        {
+          "s": 2,
+          "t": "No matter what corner of the unknown they shed light on, it's a step forward for us all."
+        },
+        {
+          "sit": "Then why do you refuse to join them?"
+        },
+        {
+          "s": 2,
+          "t": "Because I believe wholeheartedly in that principle."
+        },
+        {
+          "s": 2,
+          "t": "Even if the others call my research \"useless,\" as long as the knowledge I gain from it is accurate, it could become useful in the future."
+        },
+        {
+          "s": 2,
+          "t": "In the end, \"useful\" and \"useless\" are concepts that shouldn't be used to evaluate knowledge."
+        },
+        {
+          "s": 2,
+          "t": "When I first started deciphering ancient documents, I didn't think about how it'd be \"useful\" to Kshahrewar."
+        },
+        {
+          "s": 2,
+          "t": "That's why there's no need for me to join them to do \"useful\" research. I'd rather stay in Haravatat. It's much more convenient for me to access the materials I need for my research here."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* ... Still, the funding that Kshahrewar has offered me is so hard to get in Haravatat..."
+        },
+        {
+          "sit": "Oh yeah, about Anis..."
+        },
+        {
+          "s": 2,
+          "t": "Anis? We haven't had much time to get to know each other, but she seems like a good kid."
+        },
+        {
+          "s": 2,
+          "t": "She's able to calmly figure out the basic principles behind something without being influenced by others."
+        },
+        {
+          "s": 2,
+          "t": "I'll do my best to teach her over the next few days... Still, how much she learns will really depend on her."
+        },
+        {
+          "sit": "Why don't you take her on as your student?"
+        },
+        {
+          "s": 2,
+          "t": "Well, her interest lies in the application of mechanisms."
+        },
+        {
+          "s": 2,
+          "t": "I do have some old knowledge to share, but if we think about the future, it's easier for her to learn the things she's interested in if she stays in Kshahrewar."
+        },
+        {
+          "s": 2,
+          "t": "My research into mechanisms is, in a sense, a side effect of my research into ancient texts."
+        },
+        {
+          "s": 2,
+          "t": "If she becomes my student to learn how to make modern contraptions, it wouldn't benefit either of us in the long run."
+        },
+        {
+          "sit": "I see. I hadn't considered that."
+        },
+        {
+          "s": 2,
+          "t": "However, if she develops an interest in deciphering ancient texts over these next two days, that would change things."
+        },
+        {
+          "s": 2,
+          "t": "If I successfully poach a student... those young punks at Haravatat will have one less reason to cut my budget!"
+        },
+        {
+          "s": 2,
+          "t": "Perhaps if this collaborative project goes smoothly, I can even ignore Haravatat and ask for a higher budget directly from the Akademiya..."
+        },
+        {
+          "sit": "About the collaborative project..."
+        },
+        {
+          "sit": "Do you have any ideas?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, I could come up with lots of ideas. With Anis's help, two days will be enough for our work. However, I'm still undecided as to the style of the reference book's text and illustrations..."
+        },
+        {
+          "s": 2,
+          "t": "You're right. Explanations are a core part of early development, too."
+        },
+        {
+          "s": 2,
+          "t": "By using detailed and accurate illustrations, we can impart knowledge more effectively. It would also make it easier for me to recruit students."
+        },
+        {
+          "s": 2,
+          "t": "Thank you! I'll take your opinion into account. See you in two days."
+        },
+        {
+          "s": 2,
+          "t": "You're right. If no one understands the reference book, it doesn't matter how detailed it is."
+        },
+        {
+          "s": 2,
+          "t": "It's better to make it simpler and fun so that children will be interested in the subject. It'll also make it easier for me to recruit students in the long run..."
+        },
+        {
+          "s": 2,
+          "t": "Thank you! I'll take your opinion into account. See you in two days."
+        },
+        {
+          "section": "Wait until two days later"
+        },
+        {
+          "s": 7,
+          "t": "Oh? You're here! We're just starting to set up the venue."
+        },
+        {
+          "s": 8,
+          "t": "We've called up everyone we possibly could have. This is going to be quite the event!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe. My masterpiece is going to be exhibited, after all. Let's see what the Akademiya shall say about it this time!"
+        },
+        {
+          "sit": "The grand and lively event gets underway..."
+        },
+        {
+          "s": 2,
+          "t": "...To sum up, the 24 forms of pressure-based puzzle mechanisms were used in various ruins..."
+        },
+        {
+          "s": 2,
+          "t": "Alright, let's go to the next page. Now, I'll explain the base layer design of Elemental Monuments."
+        },
+        {
+          "sit": "How did things turn out like this?"
+        },
+        {
+          "sit": "I feel like I'm in class..."
+        },
+        {
+          "s": 9,
+          "t": "*yawn* Are we done yet? I'm falling asleep..."
+        },
+        {
+          "s": 10,
+          "t": "I don't understand any of it at all..."
+        },
+        {
+          "s": 11,
+          "t": "*snore*"
+        },
+        {
+          "s": 12,
+          "t": "Are these really toys?"
+        },
+        {
+          "s": 13,
+          "t": "They sound a bit too dangerous to buy for children..."
+        },
+        {
+          "s": 14,
+          "t": "Oh..."
+        },
+        {
+          "s": 8,
+          "t": "Uh, well, we've prepared paper prototypes for everyone. If you're interested in the mechanisms Madam Faruzan's talked about, you're more than welcome to try them out!"
+        },
+        {
+          "s": 9,
+          "t": "This is no fun. Can I try another toy?"
+        },
+        {
+          "s": 10,
+          "t": "I wanna go home and play Genius Invokation TCG..."
+        },
+        {
+          "s": 11,
+          "t": "*snore*"
+        },
+        {
+          "s": 12,
+          "t": "Forget it. I don't think anyone would be interested..."
+        },
+        {
+          "s": 13,
+          "t": "I should go home and take care of my children..."
+        },
+        {
+          "s": 14,
+          "t": "Hmm..."
+        },
+        {
+          "sit": "The launch event ends on that note..."
+        },
+        {
+          "s": 8,
+          "t": "How did this happen...? Forget about getting opinions from others. No one even wanted to stay and try them out..."
+        },
+        {
+          "s": 7,
+          "t": "I'm sorry. I think we miscalculated..."
+        },
+        {
+          "sit": "I must apologize, too..."
+        },
+        {
+          "s": 2,
+          "t": "No, you simply gave suggestions. I was the one who decided to follow through. Anis, too, was only following my instructions."
+        },
+        {
+          "s": 2,
+          "t": "I will find a way to make up for this error. Please give me some time. I'll write another reference book..."
+        },
+        {
+          "s": 14,
+          "t": "Excuse me, but are you the one who wrote this reference book?"
+        },
+        {
+          "s": 2,
+          "t": "Uh, yes. Who are you?"
+        },
+        {
+          "s": 8,
+          "t": "Ah, you're that man-mountain who was in the crowd just now!"
+        },
+        {
+          "s": 14,
+          "t": "Haha, do I stand out that much? Well, I guess I don't look like someone who'd have anything to do with toys..."
+        },
+        {
+          "s": 14,
+          "t": "Let me introduce myself. I'm Kamal, the Branch Master of Sumeru's Adventurers' Guild."
+        },
+        {
+          "s": 7,
+          "t": "What's the Branch Master doing here? Were you looking for us, or did something happen?"
+        },
+        {
+          "s": 14,
+          "t": "Ah, I came to Port Ormos to visit some old friends. On the way over, I saw the booklet you all were handing out, so I came to take a look."
+        },
+        {
+          "s": 14,
+          "t": "Can you print a few more copies of this booklet and sell them to the Adventurers' Guild? Also, could you make full-fledged models of those paper prototypes and sell them to us as well?"
+        },
+        {
+          "s": 8,
+          "t": "What does the Adventurers' Guild want with these toys?"
+        },
+        {
+          "s": 14,
+          "t": "You may see them as toys, but to adventurers who need to deal with all sorts of machines and contraptions within ancient ruins, this booklet is a true treasure!"
+        },
+        {
+          "s": 14,
+          "t": "We have many members who can't read, so books are of little use to them. What they know of handling mechanisms has been learned solely through word-of-mouth."
+        },
+        {
+          "s": 14,
+          "t": "Even if the Akademiya granted public access to all their books, there are people who can't use them..."
+        },
+        {
+          "s": 7,
+          "t": "Ah, and our booklet is practically all pictures!"
+        },
+        {
+          "s": 2,
+          "t": "Well, it IS designed for children..."
+        },
+        {
+          "s": 14,
+          "t": "It might be a bit too difficult for children, but it's perfect for adventurers. Also, those paper strips... Uh, you called them paper prototypes?"
+        },
+        {
+          "s": 14,
+          "t": "If you can make wooden versions for demonstration purposes, even the most illiterate person would be able to follow along and understand."
+        },
+        {
+          "s": 14,
+          "t": "If we can supply a model set for each branch and if each adventurer carries a booklet with them, then ruin exploration will become much safer!"
+        },
+        {
+          "s": 2,
+          "t": "Y—You really think so? *cough* I mean, yes, yes, I always knew it! Knowledge will always be needed one way or another!"
+        },
+        {
+          "s": 8,
+          "t": "Making models of contraptions for the Adventurers' Guild? To be honest, that sounds like a good avenue to explore to me."
+        },
+        {
+          "sit": "Will there be an issue with the Akademiya?"
+        },
+        {
+          "s": 7,
+          "t": "Uh, we'll probably have to send in a separate application, but it shouldn't be an issue."
+        },
+        {
+          "s": 7,
+          "t": "After all, this concerns safety during the exploration of ruins. It's a problem that the Akademiya is actually trying to address as well..."
+        },
+        {
+          "s": 14,
+          "t": "Then let's cut to the chase and discuss the details of our first order. The amount we're offering to pay in advance is..."
+        },
+        {
+          "s": 14,
+          "t": "...This much."
+        },
+        {
+          "s": 2,
+          "t": "!"
+        },
+        {
+          "section": "Head to the conference"
+        },
+        {
+          "s": 7,
+          "t": "Oh? You're here! We're just starting to set up the venue."
+        },
+        {
+          "s": 8,
+          "t": "We've called up everyone we possibly could have. This is going to be quite the event!"
+        },
+        {
+          "s": 2,
+          "t": "Hehe. My masterpiece is going to be exhibited, after all. Let's see what the Akademiya shall say about it this time!"
+        },
+        {
+          "sit": "The grand and lively event gets underway..."
+        },
+        {
+          "s": 2,
+          "t": "And if we activate this little mechanism, just like that..."
+        },
+        {
+          "s": 2,
+          "t": "...A Sumeru Rose will appear at the top of the cane!"
+        },
+        {
+          "s": 9,
+          "t": "Oh, I see!"
+        },
+        {
+          "s": 11,
+          "t": "I thought it came out of thin air! It's amazing!"
+        },
+        {
+          "s": 10,
+          "t": "If the mechanism was bigger, you could make a rabbit appear, right?"
+        },
+        {
+          "s": 11,
+          "t": "Then you can't use a cane. Could you switch it out with a hat or something?"
+        },
+        {
+          "s": 2,
+          "t": "You're applying what you learned creatively. Not bad."
+        },
+        {
+          "s": 2,
+          "t": "Let's look at the next page. If you fold an origami bird like this, it'll fly further and more stably..."
+        },
+        {
+          "s": 9,
+          "t": "Whoa... you can make a mechanism using just a piece of paper?"
+        },
+        {
+          "s": 2,
+          "t": "Hehe. The \"principles\" at play are even more important than the parts that make up a mechanism."
+        },
+        {
+          "s": 12,
+          "t": "These are pretty cool. I'm tempted to try them out."
+        },
+        {
+          "s": 13,
+          "t": "I'm not that interested in toys, but if they'll be beneficial for children's development..."
+        },
+        {
+          "s": 8,
+          "t": "Everyone, we have paper prototypes and craft materials that you can use to make your own toys! Come try them out!"
+        },
+        {
+          "s": 12,
+          "t": "This is such a well-prepared event! I'll give it a go."
+        },
+        {
+          "s": 11,
+          "t": "But we want to play, too..."
+        },
+        {
+          "s": 8,
+          "t": "It's fine! We have a lot of paper prototypes and craft materials! All feedback is also welcomed!"
+        },
+        {
+          "sit": "The popular and lively event continues..."
+        },
+        {
+          "s": 9,
+          "t": "Oh! My origami bird flew further this time!"
+        },
+        {
+          "s": 11,
+          "t": "Uhh, Professor Faruzan, how can I make mine fly farther?"
+        },
+        {
+          "s": 2,
+          "t": "Ahem! Just \"Madam\" will do. Maybe, in the future, you may indeed get the chance to call me \"Professor\"..."
+        },
+        {
+          "s": 2,
+          "t": "You may wish to pay attention to these few details. Here, for example... Alright, try it again."
+        },
+        {
+          "s": 11,
+          "t": "Wow! It really did fly farther!"
+        },
+        {
+          "s": 10,
+          "t": "Madam Faruzan, will we learn origami at the Akademiya?"
+        },
+        {
+          "s": 2,
+          "t": "Of course you will. If you become a researcher, you can explore any field you like to your hearts' content."
+        },
+        {
+          "s": 2,
+          "t": "In the future, if you want, you can even become one of my students..."
+        },
+        {
+          "s": 10,
+          "t": "But Mom and Dad said that there are six Darshans in the Akademiya... Wait, was it seven?"
+        },
+        {
+          "s": 10,
+          "t": "Which Darshan teaches about mechanisms and origami?"
+        },
+        {
+          "s": 2,
+          "t": "Well, uh, in this case, it wouldn't be Haravatat..."
+        },
+        {
+          "s": 9,
+          "t": "I know! We need to choose Kshahrewar!"
+        },
+        {
+          "s": 2,
+          "t": "Huh!?"
+        },
+        {
+          "s": 9,
+          "t": "I want to attend Kshahrewar in the future and fold even better origami birds!"
+        },
+        {
+          "s": 11,
+          "t": "I—I wanna make even more awesome mechanisms!"
+        },
+        {
+          "s": 2,
+          "t": "Actually, the other Darshans do have their own specialties too. For example, Haravatat specializes in... Pay attention, children... children!"
+        },
+        {
+          "sit": "Looks like these early learning toys are a success."
+        },
+        {
+          "sit": "However, looks like recruiting students might be an issue..."
+        },
+        {
+          "s": 2,
+          "t": "How did this happen..."
+        },
+        {
+          "s": 10,
+          "t": "What if we end up in a Darshan we don't like? Does that mean that we won't get to learn about the things we do like?"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* No, that won't happen. Take me for example. I'm a researcher from Haravatat, but I research mechanisms, see?"
+        },
+        {
+          "s": 2,
+          "t": "The only person able to restrict your curiosity as a researcher... is you. Uh, do you understand what I'm saying?"
+        },
+        {
+          "s": 10,
+          "t": "Uh... Not really."
+        },
+        {
+          "s": 2,
+          "t": "Heh. It's alright. You still have a long road ahead of you. Now, do you want to learn about some other machines?"
+        },
+        {
+          "s": 2,
+          "t": "Let me tell you a story about pressure-based mechanisms and Elemental Monuments."
+        },
+        {
+          "section": "Head to the conference"
+        },
+        {
+          "s": 7,
+          "t": "Mamdouh, the one I recommended is here!"
+        },
+        {
+          "s": 3,
+          "t": "Archon be praised, I can finally send a report to my superiors! Thank you so much!"
+        },
+        {
+          "s": 3,
+          "t": "I have no idea how we might have persuaded her otherwise..."
+        },
+        {
+          "s": 7,
+          "t": "Is Madam Faruzan really going to mentor me? What an honor!"
+        },
+        {
+          "s": 7,
+          "t": "Ah, I'm sure she'll say \"helping with illustrations isn't mentoring\"... So, ah, don't tell her I said that."
+        },
+        {
+          "s": 8,
+          "t": "No wonder she's so well-respected at the Akademiya. When I first saw her, I thought she might be unreliable because she's so young..."
+        },
+        {
+          "s": 8,
+          "t": "Ah! Don't let her know I said that. Anis warned me about that before..."
+        },
+        {
+          "s": 9,
+          "t": "We need to wait two whole days before we get the new toys..."
+        },
+        {
+          "s": 11,
+          "t": "It might just be all reference stuff. It'll be a loooong time before we can play with the real toys."
+        },
+        {
+          "s": 10,
+          "t": "Guess all we can do is play Genius Invokation TCG in the meantime..."
+        },
+        {
+          "s": 0,
+          "t": "Have you met with Madam Faruzan yet?"
+        },
+        {
+          "sit": "Yes. She's still kinda busy..."
+        },
+        {
+          "sit": "She needs about two more days..."
+        },
+        {
+          "s": 0,
+          "t": "It's fine. Collei has already filled me in, more or less."
+        },
+        {
+          "s": 0,
+          "t": "I've also managed to settle some of the problems on my side, so I've got time to wait for Madam Faruzan to arrive."
+        },
+        {
+          "s": 0,
+          "t": "Can you help me find out how she's faring in two days' time?"
+        }
+      ],
+      "description": "Faruzan decides to come to the aid of Acara Crafts for the sake of the children and the Akademiya's future..."
+    },
+    {
+      "id": "q-19173",
+      "title": "Wanderings of a Lonesome Shadow",
+      "dialogue": [
+        {
+          "section": "Return to Pardis Dhyai"
+        },
+        {
+          "s": 1,
+          "t": "Master, we're back! ...Huh? Where did he go?"
+        },
+        {
+          "s": 0,
+          "t": "You don't have to shout. I can hear you."
+        },
+        {
+          "s": 0,
+          "t": "Well, you got here much faster than I expected. I thought you'd have a lot more business to take care of."
+        },
+        {
+          "s": 2,
+          "t": "Thanks to {NICKNAME}, I was able to, uh... pawn off various problems of mine onto others."
+        },
+        {
+          "s": 0,
+          "t": "Onto others? What does that mean..."
+        },
+        {
+          "s": 2,
+          "t": "Uh... We can discuss that later. You're looking for me because of the \"thing\" you mentioned in the letter, right?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. Please, follow me."
+        },
+        {
+          "section": "Find Tighnari"
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "sit": "Karkata!"
+        },
+        {
+          "s": 1,
+          "t": "A m—monster? Why is there a monster here!?"
+        },
+        {
+          "s": 0,
+          "t": "Don't be scared, Collei. This is the mechanical life form {NICKNAME} and I saved a while back. Its name is Karkata."
+        },
+        {
+          "s": 0,
+          "t": "...It's the final work of a late junior of mine."
+        },
+        {
+          "s": 2,
+          "t": "You mean Abattouy? He must've been a genius to create one of such polish all by himself."
+        },
+        {
+          "s": 2,
+          "t": "It's uncommon that a Spantamad researcher is able to create such an intricate machine. If he were still around, we could probably chat the day away. What a shame..."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Something seems wrong here. Have you been maintaining it? Mechanical life forms are much more fragile than they look."
+        },
+        {
+          "s": 1,
+          "t": "Is Karkata... sick?"
+        },
+        {
+          "s": 0,
+          "t": "Karkata has been lying down like this since a few days ago. It could be an old malfunction acting up again."
+        },
+        {
+          "s": 0,
+          "t": "I've taken a few courses conducted by Spantamad before, so I've managed to perform some... passable repairs on Karkata's energy supply module. However, it seems the issue this time is with its transmission."
+        },
+        {
+          "s": 0,
+          "t": "My knowledge can only prevent its condition from deteriorating any further, but Madam Faruzan, you should be able to find a way to repair it."
+        },
+        {
+          "s": 2,
+          "t": "Not necessarily. Mechanical life forms are created using techniques from alchemy, elemental science, and more."
+        },
+        {
+          "s": 2,
+          "t": "There are multiple modules here that influence each other. A simplistic knowledge of mechanisms will not serve here. You know that as well."
+        },
+        {
+          "s": 2,
+          "t": "Each mechanical life form is very different from the next, so even I cannot be sure if my understanding of mechanical life forms is going to be of any use to our little crab friend here."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 1,
+          "t": "Karkata..."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* Can you all go outside for a minute? I need a bit of space. Before I do a thorough check, everything we've just said is but conjecture."
+        },
+        {
+          "s": 0,
+          "t": "Alright. We're counting on you, Madam Faruzan."
+        },
+        {
+          "section": "Enter Pardis Dhyai"
+        },
+        {
+          "s": 0,
+          "t": "We'll wait here till Faruzan finishes her inspection. In the meantime, I'd like to talk to you about her."
+        },
+        {
+          "sit": "I also wanted to ask about her past..."
+        },
+        {
+          "s": 0,
+          "t": "Her past, huh? Quite a few people in the Akademiya know about what happened to her. Perhaps it'd be best if I'm the one to tell you."
+        },
+        {
+          "s": 0,
+          "t": "I've told you before that she had disappeared for 100 years, right? From her perspective, \"trapped\" might be a more apt description."
+        },
+        {
+          "sit": "Trapped?"
+        },
+        {
+          "s": 0,
+          "t": "Her exact words were..."
+        },
+        {
+          "sit": "\"That ruin was crawling with traps and coded inscriptions from wall to wall.\""
+        },
+        {
+          "sit": "\"I did all I could to decipher the code and deactivate the traps to escape the ruin, but there was no way out.\""
+        },
+        {
+          "sit": "\"I lost track of time, and I ran out of pen and paper. In the end, I had to use stone shards to write on the walls and on the floor to decipher the code.\""
+        },
+        {
+          "sit": "\"Then, before I realized it, I ran out of space on the walls and floor. I had to calculate all the possibilities in my mind.\""
+        },
+        {
+          "sit": "\"After that, my memory started to become fuzzy, and my cognition slowed down.\""
+        },
+        {
+          "s": 0,
+          "t": "She doesn't remember anything else, including the location of the ruin and how she finally managed to escape."
+        },
+        {
+          "s": 0,
+          "t": "When she was found in the outskirts of Sumeru a few years ago, she looked exactly the same as she did 100 years prior. However, she was in a stupor and struggled to form sentences. Only after a lengthy recovery period could she speak again."
+        },
+        {
+          "s": 0,
+          "t": "The Akademiya speculates that she must have gotten trapped in an unknown ruin while researching machines a century ago."
+        },
+        {
+          "s": 0,
+          "t": "And because of the ruin's special properties that halted her aging, she was able to use those 100 years to crack the trapping mechanism and then escape."
+        },
+        {
+          "s": 0,
+          "t": "Though she had finally broken free, one hundred years had passed — everyone she knew and everyone who knew her was already gone..."
+        },
+        {
+          "s": 0,
+          "t": "In the end, even the Akademiya had to rely on century-old records in the Akasha to confirm her existence..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 0,
+          "t": "Don't make that face. I'm not telling you this because I want to drum up sympathy. She wouldn't want others to pity her because of past events."
+        },
+        {
+          "s": 0,
+          "t": "Rather, she sees that period of entrapment as an experimental error. As a researcher, she must accept everything that results from her experiments, even if they don't fall within expectations."
+        },
+        {
+          "s": 0,
+          "t": "Even after going through so much, she's returned to Sumeru and still hasn't given up on her research."
+        },
+        {
+          "s": 0,
+          "t": "Due to changes over the years and drift in academic subjects, she holds some rather strong opinions about the current Akademiya, and she has no shortage of detractors herself."
+        },
+        {
+          "s": 0,
+          "t": "What I want to say is that no matter what era we're in, Faruzan is a true senior researcher — in every sense of the word."
+        },
+        {
+          "s": 0,
+          "t": "She has her own deep understanding of various ruins and machines. If there's a chance, you should talk about them with her. It'll definitely be helpful for your journey."
+        },
+        {
+          "sit": "I see."
+        },
+        {
+          "s": 1,
+          "t": "Master, Madam Faruzan's done!"
+        },
+        {
+          "s": 0,
+          "t": "Oh? Let's head over. With any luck, she might have figured something out."
+        },
+        {
+          "s": 2,
+          "t": "Phew. I never thought that I'd encounter a Restitution Module once again after 100 years. Abattouy really installed quite a few impressive things on this."
+        },
+        {
+          "s": 2,
+          "t": "If my guess is correct, this mechanical life form has displayed attempts at \"self-sustenance\" before, right? Such as collecting parts to repair itself, for instance."
+        },
+        {
+          "sit": "It has collected parts before, yes..."
+        },
+        {
+          "s": 0,
+          "t": "It used them for something else, but as far as its design goes, it does have a function like that."
+        },
+        {
+          "s": 2,
+          "t": "I knew it. If I'm not wrong, Karkata's issue lies with its Restitution Module."
+        },
+        {
+          "s": 2,
+          "t": "Abattouy's modified this module extensively, but the core parts and design philosophy are very similar to the principles as I know them — they are all based on principles learned from the ruins."
+        },
+        {
+          "sit": "From the ruins?"
+        },
+        {
+          "s": 2,
+          "t": "The creators of the \"ruins machine\" once tried to create a perpetual mechanism that could replace life or even surpass it."
+        },
+        {
+          "s": 2,
+          "t": "The Restitution Module is the result of one of their countless attempts."
+        },
+        {
+          "s": 2,
+          "t": "It replicates the behavior of living things to achieve a self-repair function. However, the energy required and maintenance of the module became an issue."
+        },
+        {
+          "s": 1,
+          "t": "Energy consumption? Maintenance?"
+        },
+        {
+          "s": 2,
+          "t": "For example, a living thing's heart can deliver nutrients and blood to various organs. However, the bigger the living thing, the more powerful the heart needs to be."
+        },
+        {
+          "s": 2,
+          "t": "Once the heart is damaged, it'll be hard for that living thing to heal itself, and even the function of other organs can be affected. Thus, the attempt wasn't widely adopted."
+        },
+        {
+          "s": 2,
+          "t": "Even 100 years ago, I'd only seen it once before... Oh dear, this is going to be a problem."
+        },
+        {
+          "sit": "Why's that?"
+        },
+        {
+          "s": 2,
+          "t": "Based on my current research, I'll need to swap out the damaged parts in the Restitution Module to repair Karkata."
+        },
+        {
+          "s": 2,
+          "t": "But like I just said, the module is rare, even by the standards of ancient machines. Not only that, but there is very little related research documentation available."
+        },
+        {
+          "s": 2,
+          "t": "Finding suitable parts would be like trying to find a single gear in the vast desert, to say nothing of the difficulty in making those parts from scratch."
+        },
+        {
+          "s": 2,
+          "t": "*sigh* One can only wonder where Abattouy found the original parts..."
+        },
+        {
+          "s": 0,
+          "t": "I might have an idea. Abattouy was, for a time, quite passionate about excavating the Great Red Sand. This was when he had just gotten expelled from the Akademiya."
+        },
+        {
+          "s": 2,
+          "t": "You mean to say he found a Restitution Module in the desert? Hmm... That is indeed possible..."
+        },
+        {
+          "s": 1,
+          "t": "But the desert's huge! How are we supposed to find the parts that Karkata needs?"
+        },
+        {
+          "s": 2,
+          "t": "According to the Akademiya's records, no similar parts have been found in the Great Red Sand over the past 100 years. If we want to try our luck, we'll have to explore ruins that have never been explored before."
+        },
+        {
+          "s": 0,
+          "t": "I do know that a Vahumana researcher formed an expedition team after the sandstorms and earthquakes subsided. They are now exploring areas of the desert that used to be difficult to access."
+        },
+        {
+          "s": 1,
+          "t": "Should we ask them if they've made any new discoveries lately?"
+        },
+        {
+          "s": 2,
+          "t": "The chances are slim, but it's at least more effective than running around like headless chickens."
+        },
+        {
+          "sit": "What's the lead researcher's name?"
+        },
+        {
+          "sit": "Where is the archaeology team currently stationed?"
+        },
+        {
+          "s": 0,
+          "t": "His name is Raed. I think he's stationed at the northeast part of the Hypostyle Desert. Let's go look for him once Karkata settles down."
+        },
+        {
+          "s": 2,
+          "t": "Oh, you and Collei should probably stay. Karkata's condition may be stable, but it would still be better if some of us stay to look after it."
+        },
+        {
+          "s": 2,
+          "t": "Besides, you still need to take care of the \"trouble\" that the Akademiya left for me."
+        },
+        {
+          "s": 0,
+          "t": "\"Trouble\" from the Akademiya? I thought you said that you pawned it off to someone else. Wait, don't tell me..."
+        },
+        {
+          "s": 2,
+          "t": "Hehe. I'll let Collei fill you in on the details. I look forward to seeing your work, Tighnari."
+        },
+        {
+          "section": "Talk with Tighnari as you wait for the results"
+        },
+        {
+          "s": 2,
+          "t": "What is this?"
+        },
+        {
+          "s": 16,
+          "t": "Halt! Mr. Raed's permission is required to proceed any further!"
+        },
+        {
+          "sit": "We're not outsiders."
+        },
+        {
+          "sit": "She's a researcher from the Akademiya."
+        },
+        {
+          "s": 16,
+          "t": "That still won't do. Mr. Raed told us to keep people away from the ruins, so they don't damage the site."
+        },
+        {
+          "s": 2,
+          "t": "Damage the site? I've excavated more ruins than you've visited restaurants! Which batch of students is Raed from? I want to see him right now."
+        },
+        {
+          "s": 16,
+          "t": "He isn't at the campsite now. You should all leave. Only he can give you permission to enter."
+        },
+        {
+          "s": 2,
+          "t": "Tsk. What a stubborn guy."
+        },
+        {
+          "sit": "We can't just waste our time here like this."
+        },
+        {
+          "sit": "Let's wait for that researcher to come back first."
+        },
+        {
+          "s": 2,
+          "t": "Mm, you're right. Even if there is new information, we still have to wait for him to come back so we can ask him about it. So let's just see what we can find out from the people here."
+        },
+        {
+          "s": 2,
+          "t": "Hmph. I'm going to give that Raed a good talking to when he gets back — starting from \"who in the world mentored you.\""
+        },
+        {
+          "section": "Talk with Tighnari as you wait for the results"
+        },
+        {
+          "s": 17,
+          "t": "The ruins? Don't know anything. We were only hired to deliver water and supplies to them."
+        },
+        {
+          "s": 17,
+          "t": "Forget excavation — they won't even let us get close to the camp where they're staying."
+        },
+        {
+          "section": "Go to the northeast of Hypostyle Desert"
+        },
+        {
+          "s": 18,
+          "t": "This area used to be ravaged by frequent sandstorms, but it's been calm lately for some reason..."
+        },
+        {
+          "s": 18,
+          "t": "They say that this was done by a single traveler? But seriously, is such a thing even humanly possible?"
+        },
+        {
+          "section": "Go to the evacuation site"
+        },
+        {
+          "s": 19,
+          "t": "That machine looks amazing! Could it be the legendary Ruin Wanderer?"
+        },
+        {
+          "s": 19,
+          "t": "The location seems to fit too... Might that legend actually be true?"
+        },
+        {
+          "section": "Ask the villagers for information"
+        },
+        {
+          "sit": "After asking around, Faruzan starts to organize the information she has gathered..."
+        },
+        {
+          "s": 2,
+          "t": "Well, I've found out everything I could. Is there anything that stands out to you?"
+        },
+        {
+          "sit": "The hired villagers from Aaru Village..."
+        },
+        {
+          "s": 2,
+          "t": "The villagers were hired to deliver supplies, but they haven't been allowed near the campsite. That's definitely odd."
+        },
+        {
+          "s": 2,
+          "t": "However, I'm more concerned about this \"Ruin Wanderer\" they speak of."
+        },
+        {
+          "sit": "The sandstorms dispersing..."
+        },
+        {
+          "s": 2,
+          "t": "To be honest, the ruins were difficult to excavate in the past, but they really are much safer now, thanks to you."
+        },
+        {
+          "s": 2,
+          "t": "However, I'm more concerned about this \"Ruin Wanderer\" they speak of."
+        },
+        {
+          "sit": "This machine they speak of..."
+        },
+        {
+          "s": 2,
+          "t": "\"Ruin Wanderer\"... That's the first time I've heard that name. But that wreckage did seem a bit weird..."
+        },
+        {
+          "sit": "What's so weird about it?"
+        },
+        {
+          "s": 2,
+          "t": "...It's a bit far away, and I can't really say for sure from this distance. Perhaps we should ask the villager from before about the \"legend\" first."
+        },
+        {
+          "s": 19,
+          "t": "Huh? What are you guys doing back here?"
+        },
+        {
+          "sit": "I want to learn more about the legend of the Ruin Wanderer..."
+        },
+        {
+          "s": 19,
+          "t": "Haha, I wouldn't blame you for not knowing about it, youngsters. After all, it's a tale that's over a decade old."
+        },
+        {
+          "s": 19,
+          "t": "It's said that this monster, the Ruin Wanderer, traversed through various ruins for centuries! Many adventurers had claimed to see it while exploring!"
+        },
+        {
+          "s": 19,
+          "t": "Some said that it was like a giant, while others said that it was like a beast. However, none knew why it wandered the ruins."
+        },
+        {
+          "s": 19,
+          "t": "Then, about ten years ago, we stopped hearing any news about it in Sumeru. No one has seen it since then, and the legend has since faded into memory."
+        },
+        {
+          "s": 19,
+          "t": "You youngsters probably don't know about the Ruin Wanderer nowadays, but it was famous for centuries!"
+        },
+        {
+          "s": 2,
+          "t": "Centuries? Impossible! I heard nothing about it back then. It can only have been around for a few decades at most!"
+        },
+        {
+          "s": 19,
+          "t": "Wait, \"back then\"...?"
+        },
+        {
+          "s": 2,
+          "t": "Indulge my curiosity for a moment. Why do you think that wreckage is the \"Ruin Wanderer\"?"
+        },
+        {
+          "s": 19,
+          "t": "Well, I had also heard that second-hand from—"
+        },
+        {
+          "s": 20,
+          "t": "You heard that nonsense from the Eremites after they got drunk, right?"
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Who are you?"
+        },
+        {
+          "s": 21,
+          "t": "Madam Faruzan, it is a pleasure. I'm Raed, the one who organized this archaeological expedition."
+        },
+        {
+          "s": 21,
+          "t": "I'd heard of you at the Akademiya, but I didn't expect to run into you here. Truly, it is an honor."
+        },
+        {
+          "s": 21,
+          "t": "And this must be the famous {NICKNAME}, I presume? What brings the two of you here?"
+        },
+        {
+          "s": 2,
+          "t": "Have you found any special contraptions and relics in the ruins that you've been investigating?"
+        },
+        {
+          "s": 21,
+          "t": "Uh, I'm ashamed to say that we haven't found anything noteworthy, even though we've been investigating for a while now..."
+        },
+        {
+          "s": 2,
+          "t": "Really? That \"Ruin Wanderer\" isn't noteworthy to you?"
+        },
+        {
+          "s": 21,
+          "t": "Heh, I'm afraid those are mere rumors. Really, I sometimes wish that those people would put as much effort into their work as they do into gossiping."
+        },
+        {
+          "s": 19,
+          "t": "Uh, haha... You're right, sir. I'll get back to work now."
+        },
+        {
+          "s": 21,
+          "t": "The wise do not buy into rumors, so it is said. I believe that you too, Madam Faruzan, do not put any stock into such baseless talk?"
+        },
+        {
+          "s": 2,
+          "t": "It is also said that real knowledge shall come from practice. I can help you research the excavated relics and see if I can find out anything new about them."
+        },
+        {
+          "s": 2,
+          "t": "You can take credit for any new discoveries — I believe this offer to be sufficiently attractive?"
+        },
+        {
+          "s": 21,
+          "t": "Uh... In truth, I could ask for nothing better than your help with our research."
+        },
+        {
+          "s": 21,
+          "t": "However, you two must be tired after a long journey. I'd feel bad if I set you to work immediately."
+        },
+        {
+          "s": 21,
+          "t": "It's getting late and my subordinates and I are heading back to the camp to rest. Why don't you find a place to spend the night first? We can continue our discussion tomorrow."
+        },
+        {
+          "s": 21,
+          "t": "There are tents over there that the villagers occasionally use to rest. The condition is a bit simple, yes, but I hope you won't mind."
+        },
+        {
+          "s": 2,
+          "t": "Since you need to rest as well, let's do just that."
+        },
+        {
+          "section": "Ask the villagers for information"
+        },
+        {
+          "s": 2,
+          "t": "Hmph, this is quite far away. Are they trying to prevent the villagers from eavesdropping on them? This suits us just fine though. This way, they won't overhear our conversations either."
+        },
+        {
+          "s": 2,
+          "t": "Now, I have my suspicions about this archaeological expedition team and that machine wreckage. I only caught a quick glimpse, and it was from a distance..."
+        },
+        {
+          "s": 2,
+          "t": "...But based on the condition of the armor and joints, it didn't seem like something that had been lying around for centuries. At most, I'd estimate that it only stopped moving about a dozen years ago."
+        },
+        {
+          "sit": "A dozen years ago?"
+        },
+        {
+          "s": 2,
+          "t": "Yes. The timing coincides with the spreading of the legend. Now, assuming that it really is the \"Ruin Wanderer\"..."
+        },
+        {
+          "s": 2,
+          "t": "How do you suppose it was able to maintain a relatively good condition despite high-intensity operation over the course of several decades?"
+        },
+        {
+          "sit": "The Restitution Module!"
+        },
+        {
+          "s": 2,
+          "t": "That's right. Technically speaking, the module shouldn't be able to move such a large machine chassis. However, I'm basing my knowledge on the mechanical life forms I've seen before..."
+        },
+        {
+          "sit": "You've seen such life forms before?"
+        },
+        {
+          "sit": "You've encountered others besides Karkata?"
+        },
+        {
+          "s": 2,
+          "t": "Well, this was over 100 years ago. It was a machine about the same size as Karkata, actually. It couldn't carry heavy objects or fight, and was only able to help me record some notes."
+        },
+        {
+          "s": 2,
+          "t": "It also helped me deliver letters home. I found it near the desert, which is why I wondered if there might be more Restitution Modules buried around here."
+        },
+        {
+          "sit": "(A mechanical life form from 100 years ago...)"
+        },
+        {
+          "sit": "(Is it no longer around?)"
+        },
+        {
+          "s": 2,
+          "t": "Honestly, people in ancient times might have already solved the problem of providing enough power for all I know. I'll need to research this properly..."
+        },
+        {
+          "sit": "Why didn't you go and investigate earlier?"
+        },
+        {
+          "s": 2,
+          "t": "Had I confronted Raed right there and then, he would have said that he couldn't tell that the machine was special. Then he'd just hand it over to the Akademiya obediently... and he'd get away scot-free."
+        },
+        {
+          "s": 2,
+          "t": "If the wreckage were to be handed to the Akademiya, it'd be much tougher for us to do research on it or get spare parts for Karkata."
+        },
+        {
+          "s": 2,
+          "t": "Anyway, we should figure out what they're planning before making our next move."
+        },
+        {
+          "s": 2,
+          "t": "They insisted that we should stay the night, which means if they're trying to pull a fast one on us, they're likely to try it tonight. We must be vigilant."
+        },
+        {
+          "sit": "As the night goes on, you hear faint sounds in the distance..."
+        },
+        {
+          "s": 2,
+          "t": "Are those sounds coming from the excavation site? Hah. I knew they wouldn't be able to wait. They must be scared that we might discover something tomorrow."
+        },
+        {
+          "s": 2,
+          "t": "Not a single person guarding the campsite? This must be quite the manpower expenditure."
+        },
+        {
+          "s": 2,
+          "t": "I'll see if they left any clues behind at their camp. Keep watch and help me stall them if it comes to that, would you?"
+        },
+        {
+          "sit": "No problem."
+        },
+        {
+          "s": 2,
+          "t": "Alright. I'm counting on you."
+        },
+        {
+          "s": 21,
+          "t": "...Why isn't the \"tent\" here yet? We need to switch it out tonight!"
+        },
+        {
+          "s": 22,
+          "t": "I—It's still on the way. I'm afraid this is the first time we're delivering such a huge one..."
+        },
+        {
+          "s": 21,
+          "t": "Hmph! You good-for-nothings are just a load of trouble, aren't you? We wouldn't have to deal with these interlopers if you had kept those lips of yours from flapping!"
+        },
+        {
+          "s": 21,
+          "t": "Hurry up and hide our current \"tent,\" and deliver the new one to me tonight no matter what it takes!"
+        },
+        {
+          "s": 16,
+          "t": "Huh? Who's there?"
+        },
+        {
+          "sit": "It's me."
+        },
+        {
+          "sit": "{NICKNAME}."
+        },
+        {
+          "s": 21,
+          "t": "Uh, Ahem! I'm sorry. I'm just a bit upset because my subordinates aren't doing their jobs properly. When did you get here?"
+        },
+        {
+          "sit": "What's the tent you mentioned, if I might ask?"
+        },
+        {
+          "sit": "What's this delivery I hear you're having trouble with?"
+        },
+        {
+          "s": 21,
+          "t": "Uh, it's nothing. Just a tent. We didn't pack up all our tents from the last campsite. Some of them, along with a few people, have been left there."
+        },
+        {
+          "s": 21,
+          "t": "Someone damaged our current tent, so I'm trying to get my subordinates to get one from that previous campsite delivered here."
+        },
+        {
+          "sit": "And you're discussing that over here because..."
+        },
+        {
+          "s": 21,
+          "t": "The relics in the ruins are highly valuable, so I'm worried that Treasure Hoarders and bandits might try to steal them. Since the tent isn't here yet and I can't fall asleep, I came here to patrol."
+        },
+        {
+          "sit": "There are people who'd steal these relics?"
+        },
+        {
+          "s": 21,
+          "t": "Heh. Well, these things are antiques, after all. There will always be people interested in buying them. I hired so many people precisely because I was worried about that happening."
+        },
+        {
+          "s": 21,
+          "t": "Speaking of which, I'd like to ask... Is the Akademiya really aware that you've traversed through the desert to come here in the middle of the night?"
+        },
+        {
+          "s": 21,
+          "t": "Also, where's Faruzan? Why isn't she with you?"
+        },
+        {
+          "s": 2,
+          "t": "I'm right here. Also, you forgot to address me as \"Madam.\""
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 21,
+          "t": "Ahem! Sorry... Madam Faruzan."
+        },
+        {
+          "s": 2,
+          "t": "...You were all making so much noise that I couldn't sleep, which is why I got {NICKNAME} to find out what was going on. But for some reason, that one task took forever, so I came to check in on the situation."
+        },
+        {
+          "s": 21,
+          "t": "Ah, I'm very sorry for disturbing your rest. I'll tell my subordinates to be quieter on patrol."
+        },
+        {
+          "s": 2,
+          "t": "Good. Come on, {NICKNAME}, let's head back."
+        },
+        {
+          "sit": "We're heading back already?"
+        },
+        {
+          "s": 2,
+          "t": "Yes. We came to check out the situation, didn't we? Well, we've already done that."
+        },
+        {
+          "s": 2,
+          "t": "We should get better rest so that we'll have energy to investigate tomorrow."
+        },
+        {
+          "sit": "(Hmm?)"
+        },
+        {
+          "sit": "(Was I mistaken?)"
+        },
+        {
+          "s": 2,
+          "t": "Thanks for dealing with them."
+        },
+        {
+          "s": 2,
+          "t": "Now, I found something good on my end. These are the excavation records from their campsite."
+        },
+        {
+          "s": 2,
+          "t": "According to them, the ruins have been raided before, with numerous traps and contraptions having already been triggered."
+        },
+        {
+          "s": 2,
+          "t": "I also observed the wreckage up close earlier. The weathering is nowhere near as extensive as on the relics that have been buried for over a hundred years."
+        },
+        {
+          "s": 2,
+          "t": "There's no doubt that the wreckage and the ruins don't belong to the same era. Instead, it must have \"wandered\" into the ruins about a dozen years ago."
+        },
+        {
+          "s": 2,
+          "t": "It could've fallen into a trap or encountered a glitch within the ruins, remaining stationary like that until it was discovered recently."
+        },
+        {
+          "s": 2,
+          "t": "However, I still don't know why they'd want to hide it. I have no doubt that the researcher could definitely reach the same conclusion I did."
+        },
+        {
+          "s": 2,
+          "t": "The last few pages of the excavation records are written in code, which I still need time to decipher. The answer may lie within those pages."
+        },
+        {
+          "sit": "You can decipher coded messages?"
+        },
+        {
+          "s": 2,
+          "t": "Heh. It's just wordplay — and if anything, that's my wheelhouse."
+        },
+        {
+          "sit": "Faruzan gets to work deciphering the code..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm... Just a bit more... Ah, I see now..."
+        },
+        {
+          "s": 22,
+          "t": "H—Help, please help!"
+        },
+        {
+          "s": 21,
+          "t": "Wh—Why are you running away? Come back! Protect me!"
+        },
+        {
+          "s": 2,
+          "t": "What's that sound? Is it—"
+        },
+        {
+          "s": 20,
+          "t": "...!!"
+        },
+        {
+          "s": 2,
+          "t": "The Ruin Wanderer... reactivated!?"
+        },
+        {
+          "s": 2,
+          "t": "That's impossible! Is this the work of some kind of hidden mechanism? ...Never mind, we have to focus on saving lives first! I'll cover them. You go stall the Ruin Wanderer!"
+        },
+        {
+          "s": 20,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "What? It ignored {NICKNAME}?"
+        },
+        {
+          "s": 22,
+          "t": "Why is it chasing after us!?"
+        },
+        {
+          "s": 2,
+          "t": "What could have caused it to reactivate? And to give chase...?"
+        },
+        {
+          "s": 21,
+          "t": "Darn it! Hey, come on, you lot! It's clear that we can't escape, so let's just attack it!"
+        },
+        {
+          "s": 23,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "section": "Organize the gathered information with Faruzan"
+        },
+        {
+          "s": 16,
+          "t": "I—It stopped?"
+        },
+        {
+          "s": 21,
+          "t": "...Hey! You guys! Get up there and tell me what's going on!"
+        },
+        {
+          "s": 22,
+          "t": "But what if it suddenly moves...?"
+        },
+        {
+          "s": 21,
+          "t": "You... You good-for-nothings! Why is everyone I hired so useless? Move! I'll do it myself!"
+        },
+        {
+          "s": 21,
+          "t": "Hmph. Looks like this thing's parts can't handle the load of functioning anymore after years of disrepair."
+        },
+        {
+          "s": 21,
+          "t": "Tch. When it first reactivated, I was wondering if it'd be as amazing as the legends had pegged it to be. I didn't expect it to be so much weaker than it looks. How disappointing."
+        },
+        {
+          "s": 2,
+          "t": "Disappointing, you say? Now, is that because you won't be able to sell it for much?"
+        },
+        {
+          "s": 21,
+          "t": "Uh... Faruzan, you may be my senior as an Akademiya researcher, but that doesn't mean you get to slander me!"
+        },
+        {
+          "s": 2,
+          "t": "You wrote these \"excavation records,\" did you not? Or perhaps calling it a \"ledger\" might jog your memory a bit better..."
+        },
+        {
+          "s": 21,
+          "t": "Uh... I—I don't recognize that thing..."
+        },
+        {
+          "s": 2,
+          "t": "\"January 3rd: Excavated five tents.\""
+        },
+        {
+          "s": 2,
+          "t": "\"January 5th: Three tents sold.\""
+        },
+        {
+          "s": 2,
+          "t": "\"January 10th, 1 special tent pre-sold. It must quickly be switched out with an old tent...\""
+        },
+        {
+          "sit": "So \"tent\"..."
+        },
+        {
+          "sit": "...Is your code name for relics?"
+        },
+        {
+          "s": 2,
+          "t": "You're supposed to be an archaeological expedition team, and yet here you are, secretly selling the relics and profiting from it."
+        },
+        {
+          "s": 2,
+          "t": "When you believed that you had found the wreckage of the \"Ruin Wanderer,\" you tried to switch in wreckage that you had excavated previously to pull the wool over the Akademiya's eyes."
+        },
+        {
+          "s": 2,
+          "t": "After all, there would probably be many wealthy buyers interested in purchasing the legendary \"Ruin Wanderer\" in the black market, yes? And then we arrived, just before you could finish your work."
+        },
+        {
+          "s": 2,
+          "t": "That forced you to speed up your plan and you tried to complete the switch overnight before I could investigate the wreckage. In your haste, however, you accidentally activated the \"Ruin Wanderer\" instead. Did I get that all right?"
+        },
+        {
+          "s": 21,
+          "t": "I—I don't know what you're talking about!"
+        },
+        {
+          "s": 2,
+          "t": "You lack the curiosity befitting a man of knowledge, nor do you have respect for mechanical life forms. You're not fit to be a researcher!"
+        },
+        {
+          "s": 21,
+          "t": "Ridiculous! Curiosity? Respect? I'm not here to hear you preach! Hey, we're leaving!"
+        },
+        {
+          "s": 16,
+          "t": "Mr. Raed!"
+        },
+        {
+          "s": 22,
+          "t": "B—Behind you..."
+        },
+        {
+          "s": 20,
+          "t": "...!!"
+        },
+        {
+          "s": 21,
+          "t": "Aaahh... Ahhh!"
+        },
+        {
+          "s": 22,
+          "t": "Why is it moving again!? Ruuun!"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "sit": "Faruzan!"
+        },
+        {
+          "sit": "Watch out—"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 19,
+          "t": "Some said that it was like a giant, while others said that it was like a beast. However, none knew why it wandered the ruins."
+        },
+        {
+          "s": 2,
+          "t": "Technically speaking, the module shouldn't be able to move such a large machine chassis. However, I'm basing my knowledge on the mechanical life forms I've seen before..."
+        },
+        {
+          "s": 2,
+          "t": "Centuries? Impossible! I heard nothing about it back then. It can only have been around for a few decades at most!"
+        },
+        {
+          "s": 22,
+          "t": "Why is it chasing after us!?"
+        },
+        {
+          "s": 2,
+          "t": "...So, you've been looking for me this whole time?"
+        },
+        {
+          "s": 20,
+          "t": "..."
+        },
+        {
+          "s": 24,
+          "t": "..."
+        },
+        {
+          "s": 20,
+          "t": "Kolu..."
+        },
+        {
+          "s": 2,
+          "t": "Long time no see, Tamimi."
+        },
+        {
+          "section": "Go to the makeshift camp"
+        },
+        {
+          "s": 25,
+          "t": "\"Dear Faruzan, I hope you're doing well.\""
+        },
+        {
+          "s": 25,
+          "t": "\"It has been over 20 years since you went missing. People from the Akademiya keep telling us to give up and that you're most likely dead...\""
+        },
+        {
+          "s": 20,
+          "t": "\"But somehow, I feel like you're still alive — yes, that you live still, in some corner of this world.\""
+        },
+        {
+          "s": 20,
+          "t": "\"You've always been persistent, able to shine no matter what situation you face. I believe that this persistence serves you well in surviving and finding your way home.\""
+        },
+        {
+          "s": 20,
+          "t": "\"Unfortunately, I likely won't be able to welcome you home when you do. I don't have much time left, and my reflexes have slowed. Others keep telling me to stop exploring ruins...\""
+        },
+        {
+          "s": 25,
+          "t": "\"Only Tamimi is still the same as before, always running off to places which you've been to.\""
+        },
+        {
+          "s": 20,
+          "t": "\"Your teacher and friends came up with an idea to remodel Tamimi so it can search for you in our place.\""
+        },
+        {
+          "s": 25,
+          "t": "\"You didn't like coming home back then, and would always get Tamimi to send a letter back. Now, we're leaving a letter with Tamimi. I wonder if it'll ever be delivered to you.\""
+        },
+        {
+          "s": 25,
+          "t": "\"I don't know the answer to that question... But if you ever read this letter, I hope it'll be when you've already found your way home.\""
+        },
+        {
+          "s": 25,
+          "t": "\"I regret not being able to say this to you myself, but I'll still feel sincerely happy for you, my dear daughter...\""
+        },
+        {
+          "s": 2,
+          "t": "\"Welcome home, Faruzan.\""
+        },
+        {
+          "s": 24,
+          "t": "Kolu..."
+        },
+        {
+          "s": 2,
+          "t": "Look at you, Tamimi... you've changed so much after all these years. Thank you for waiting for me all this time."
+        },
+        {
+          "s": 2,
+          "t": "I've safely received the letters... Your work is done now. You can sleep."
+        },
+        {
+          "s": 24,
+          "t": "Ku...li..."
+        },
+        {
+          "sit": "That's..."
+        },
+        {
+          "s": 2,
+          "t": "Tamimi, the mechanical life form I encountered back then. When I would go on expeditions, it would follow me, take notes for me, and send my letters home."
+        },
+        {
+          "s": 2,
+          "t": "When I met with that accident, it was on the way to deliver a letter for me. I... I once thought that I'd never get to see it again."
+        },
+        {
+          "s": 2,
+          "t": "I didn't expect my teacher and others to remodel its Self-Repair function, upgrading it to \"Self-Learning.\""
+        },
+        {
+          "s": 2,
+          "t": "And so, in order to plumb the depths of unknown ruins and overcome dangerous traps, it repaired and modified itself using parts it found along the way. One decade of wandering became many, and soon..."
+        },
+        {
+          "s": 2,
+          "t": "Tamimi, which used to be incapable of even moving heavy objects, became the \"Ruin Wanderer\"..."
+        },
+        {
+          "s": 2,
+          "t": "...All so it could deliver these last letters from them to me."
+        },
+        {
+          "sit": "Even though they had all passed on..."
+        },
+        {
+          "sit": "They still prayed for your safe return..."
+        },
+        {
+          "s": 24,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "The strain to support such a huge body must have turned out to be too much for your \"heart,\" right?"
+        },
+        {
+          "sit": "...Tamimi?"
+        },
+        {
+          "s": 2,
+          "t": "Even after the remodeling, its \"Restitution Module\" still can't function perfectly in perpetuity. It has been pushing itself beyond its limits over the past few decades."
+        },
+        {
+          "s": 2,
+          "t": "Just like a living being, mechanical life forms have a limited lifespan. It probably became trapped in the ruins all those years ago because its shelf life had run out."
+        },
+        {
+          "s": 2,
+          "t": "It most likely only reactivated because it detected my presence... and then it mustered up everything it had to deliver that last letter. Now, it can finally rest in peace."
+        },
+        {
+          "s": 24,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Tighnari told you what happened to me, right?"
+        },
+        {
+          "sit": "...I'm sorry."
+        },
+        {
+          "s": 2,
+          "t": "You don't have to apologize. It's not like this incident is a secret in the Akademiya."
+        },
+        {
+          "s": 2,
+          "t": "Besides, I've always treated it as a failed experiment. As a researcher, I must accept this result."
+        },
+        {
+          "s": 2,
+          "t": "However, finding out that so many people were affected by my failure... does make me feel somewhat conflicted."
+        },
+        {
+          "s": 2,
+          "t": "Can you head back to Pardis Dhyai first? We've been here for a while, and it's best not to make Collei and the rest worry."
+        },
+        {
+          "s": 2,
+          "t": "As for me... I want to stay with Tamimi for a bit longer. Just a bit."
+        },
+        {
+          "section": "Go to the evacuation site"
+        },
+        {
+          "s": 15,
+          "t": "Kolu!"
+        },
+        {
+          "s": 1,
+          "t": "You're back!"
+        },
+        {
+          "s": 0,
+          "t": "How was your journey through the desert? ...Wait. Where's Madam Faruzan?"
+        },
+        {
+          "sit": "(Keep Tamimi a secret...)"
+        },
+        {
+          "sit": "You tell everyone everything that happened in the desert..."
+        },
+        {
+          "s": 1,
+          "t": "Oh no... She finally got to reunite with an old friend from 100 years ago, but..."
+        },
+        {
+          "s": 0,
+          "t": "As a researcher, she could perhaps accept it. However, as a friend, student, and a daughter..."
+        },
+        {
+          "s": 0,
+          "t": "We should give her some time. Let's just wait for her here."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 0,
+          "t": "And in the future... I hope that we can be here to support her as her new friends."
+        },
+        {
+          "sit": "You tell everyone the partial truth..."
+        },
+        {
+          "s": 0,
+          "t": "So Madam Faruzan has some other things to settle... Alright. And to think that Raed was doing all of those things on the sly. It's good that you all got out of that situation in one piece."
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan will be able to repair Karkata when she gets back, won't she?"
+        },
+        {
+          "s": 15,
+          "t": "Kolu!"
+        },
+        {
+          "sit": "(Currently, only Faruzan and I know about Tamimi...)"
+        },
+        {
+          "sit": "(I should let Faruzan decide whether to tell the others about Tamimi.)"
+        },
+        {
+          "section": "Return to the temporary camp"
+        },
+        {
+          "s": 2,
+          "t": "I'm back! What, is there to be no welcoming party?"
+        },
+        {
+          "s": 0,
+          "t": "...We've all been waiting for you, Madam Faruzan."
+        },
+        {
+          "s": 2,
+          "t": "That's more like it. Now, here are some components I brought back from the desert. Switch these out with the ones Karkata is using right now, and it'll be back in ship shape!"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 2,
+          "t": "Hmm? Why do you all look so solemn? Come now, liveliness befits youngsters more."
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan, did these parts come from..."
+        },
+        {
+          "s": 2,
+          "t": "...Heh."
+        },
+        {
+          "s": 2,
+          "t": "Come now, I thought that you must've encountered some major problem! This isn't something you have to worry about."
+        },
+        {
+          "s": 2,
+          "t": "Well, it looks like you already know everything... but no need to feel bad. Like I said before, as researchers, we must learn to accept our failures."
+        },
+        {
+          "s": 2,
+          "t": "Tamimi had been operating beyond capacity for a century, and I'm unable to repair it with my current abilities, not even with these parts. It would thus be much better to use them to extend Karkata's lifespan."
+        },
+        {
+          "s": 2,
+          "t": "As a senior, it is only right that I do something for the people who come after me. That holds true for both researchers and machines."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 2,
+          "t": "Besides, I didn't say that I would be giving you these parts for free. They will only be used for Karkata temporarily. Otherwise, you wouldn't be able to help me with my research."
+        },
+        {
+          "s": 2,
+          "t": "I'll be sure to revive Tamimi once I've fully deciphered and replicated the creations of the ancient civilization."
+        },
+        {
+          "s": 0,
+          "t": "...Alright, I'll do my best to help."
+        },
+        {
+          "s": 1,
+          "t": "Me too! Although I'm not sure if I'll be much help..."
+        },
+        {
+          "sit": "I'll help, too."
+        },
+        {
+          "s": 2,
+          "t": "Thank you. If they could remodel Tamimi successfully even back then, there's no reason why we won't be able to do even better."
+        },
+        {
+          "s": 2,
+          "t": "When that day comes, I'll be sure to say..."
+        },
+        {
+          "s": 2,
+          "t": "\"Welcome home, Tamimi.\""
+        },
+        {
+          "section": "Investigate the fallen Machine Wreckage"
+        },
+        {
+          "s": 2,
+          "t": "I'm back! What, is there to be no welcoming party?"
+        },
+        {
+          "s": 1,
+          "t": "Madam Faruzan, we're over here!"
+        },
+        {
+          "s": 2,
+          "t": "That's more like it. Now, here are some components I brought back from the desert. Switch these out with the ones Karkata is using right now, and it'll be back in ship shape!"
+        },
+        {
+          "s": 0,
+          "t": "So this is a relic of an ancient civilization? Unbelievable... Thankfully, it didn't end up in Raed's unscrupulous hands."
+        },
+        {
+          "s": 2,
+          "t": "Unscrupulous, huh? Hmm. Sounds like you already told them what happened."
+        },
+        {
+          "sit": "I told them about Raed."
+        },
+        {
+          "sit": "I told them about the archaeology team."
+        },
+        {
+          "s": 2,
+          "t": "Is that so...? Thank you. We will talk about everything else later."
+        },
+        {
+          "s": 15,
+          "t": "Kulilu?"
+        },
+        {
+          "s": 2,
+          "t": "It's nothing. I've already given all the evidence we have against Raed to the Akademiya. They're going to be very busy — too busy to bother us, I'd wager."
+        },
+        {
+          "s": 2,
+          "t": "I'll start repairing Karkata, then. Collei, can you help me out?"
+        },
+        {
+          "s": 1,
+          "t": "O—Of course!"
+        },
+        {
+          "sit": "After some repairs, Karkata springs back to life..."
+        },
+        {
+          "section": "Talk to Faruzan"
+        },
+        {
+          "s": 2,
+          "t": "Ah, you're here."
+        },
+        {
+          "s": 2,
+          "t": "Thank you for keeping Tamimi a secret."
+        },
+        {
+          "sit": "You don't plan on telling them?"
+        },
+        {
+          "s": 2,
+          "t": "If I tell them about Tamimi, will they still feel happy for Karkata? Even if we could convince them to accept the components, they'll probably still feel bad about it."
+        },
+        {
+          "s": 2,
+          "t": "I don't want my past to affect people in the present. That applies to both me and other people."
+        },
+        {
+          "sit": "You don't have to shoulder all this alone."
+        },
+        {
+          "sit": "Maybe you'll feel better if you share it with the rest."
+        },
+        {
+          "s": 2,
+          "t": "It's fine. I'm used to this."
+        },
+        {
+          "s": 2,
+          "t": "I once believed that I'd never hear from my old friends and family ever again. Even their faces are getting hazier in my memories..."
+        },
+        {
+          "s": 2,
+          "t": "However, I could remember them clearly again after reading the letter Tamimi handed to me and learning that they'd never given up on me. That's more than enough."
+        },
+        {
+          "s": 2,
+          "t": "I'd be disappointing them if I let myself fall into a slump because of this. Neither my teacher nor my mother would've wanted to see me like that."
+        },
+        {
+          "s": 2,
+          "t": "Besides, you're lending a listening ear to me now, aren't you?"
+        },
+        {
+          "s": 2,
+          "t": "Oh, Pardis Dhyai looks pretty scenic at night. Will you take a stroll with me?"
+        },
+        {
+          "sit": "It would be my pleasure."
+        },
+        {
+          "s": 2,
+          "t": "Once Karkata's condition stabilizes, I'll find a chance to tell Tighnari and Collei about all that."
+        },
+        {
+          "s": 2,
+          "t": "But for now, just help me keep this secret."
+        },
+        {
+          "sit": "You got it."
+        },
+        {
+          "s": 2,
+          "t": "Thank you. Hehe. Whether it's 100 years ago or now, I have people who worry about me."
+        },
+        {
+          "s": 2,
+          "t": "I suppose I should consider myself quite fortunate."
+        },
+        {
+          "s": 2,
+          "t": "The only time when I felt otherwise was when I had just returned to Sumeru. No one came to check up on me then. *sigh*"
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "sit": "Welcome home, Faruzan."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 2,
+          "t": "Yeah, I'm home."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 2,
+          "t": "Who knew that I'd encounter a mechanical life form in this manner after a hundred years?"
+        },
+        {
+          "s": 1,
+          "t": "I didn't know mechanical life forms could get sick, too... You have to get better soon, Karkata!"
+        },
+        {
+          "s": 0,
+          "t": "A \"Fully Automated Irrigation System\"... That's quite the task."
+        },
+        {
+          "s": 1,
+          "t": "Master, can I help with anything at all? I can go buy things, prepare pen and paper..."
+        },
+        {
+          "s": 0,
+          "t": "Oh, you know, I seem to remember that you have a lot of homework today."
+        },
+        {
+          "s": 1,
+          "t": "Huh? O—Oh, yeah, I do..."
+        },
+        {
+          "s": 0,
+          "t": "Well, hurry up and finish it so you can sleep early, or Faruzan will worry. That's the best thing you can do now to help."
+        },
+        {
+          "s": 1,
+          "t": "Oh... Okay..."
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        },
+        {
+          "s": 16,
+          "t": "Halt! Mr. Raed's permission is required to proceed any further!"
+        },
+        {
+          "s": 21,
+          "t": "There's a tent that the villagers occasionally use to rest. Like I said, it's a bit simple, yes, but I hope you won't mind."
+        },
+        {
+          "s": 21,
+          "t": "Ah, sorry for disturbing your rest. I'll tell my subordinates to be quieter in the future."
+        },
+        {
+          "s": 23,
+          "t": "(The wreckage of the huge machine remains motionless...)"
+        },
+        {
+          "s": 2,
+          "t": "(Faruzan's head hangs low in silence... The desert breathes gales of wind, and the only sound that can be heard is the scattering rise of spreading grains.)"
+        },
+        {
+          "s": 15,
+          "t": "Kalu! Kalu!"
+        },
+        {
+          "s": 1,
+          "t": "It looks fine, but even so, it needs to properly rest up."
+        },
+        {
+          "s": 0,
+          "t": "Faruzan went out after repairing Karkata. She seems to be looking for you for some reason."
+        },
+        {
+          "s": 0,
+          "t": "...Well, I will not probe any further. However, if you need any help, do feel free to ask."
+        },
+        {
+          "s": 17,
+          "t": "Ugh... So we still can't go back to Aaru Village?"
+        },
+        {
+          "s": 18,
+          "t": "Just what are they digging for?"
+        },
+        {
+          "s": 19,
+          "t": "That huge machine looks amazing!"
+        },
+        {
+          "s": 26,
+          "t": "\"...Tamimi's remodeling is going smoothly. As it is now, it can learn how to deal with various dangerous situations in the ruins on its own. I wish you could see it with your own eyes.\""
+        },
+        {
+          "s": 26,
+          "t": "\"As I worked, I kept thinking that you'd do a better job at this than I could.\""
+        },
+        {
+          "s": 26,
+          "t": "\"After all, you're the most exceptional student I've ever met.\""
+        },
+        {
+          "s": 27,
+          "t": "\"Dear Madam Faruzan...\""
+        },
+        {
+          "s": 27,
+          "t": "\"The notes and manuscripts we found on Tamimi have been transcribed and organized, and every one of them has been marked with your name.\""
+        },
+        {
+          "s": 27,
+          "t": "\"I hope that even after a hundred years, future generations of students will still remember your name, Madam Faruzan.\""
+        },
+        {
+          "s": 28,
+          "t": "\"... I told you not to... Now, look... So many people... Worried... Even... Tamimi...\""
+        },
+        {
+          "s": 28,
+          "t": "(The messy scribbling has been repeatedly canceled and edited, leaving barely legible phrases and a single neat message at the back.)"
+        },
+        {
+          "s": 28,
+          "t": "\"Hurry up and come home for a meal. Your mom always makes an extra portion of food, you know?\""
+        },
+        {
+          "s": 15,
+          "t": "Kolu..."
+        }
+      ],
+      "description": "After getting free of her academic tangles, Faruzan decides to first go to Pardis Dhyai..."
+    }
+  ],
+  "speakers": [
+    "Tighnari",
+    "Collei",
+    "Faruzan",
+    "Nadwah",
+    "Farruq",
+    "Derafsh",
+    "Maddah",
+    "Anis",
+    "Mamdouh",
+    "Qasit",
+    "Alia",
+    "Ruhi",
+    "Servan",
+    "Nazenin",
+    "Kamal",
+    "Karkata",
+    "Bakr",
+    "Tired Villager",
+    "Curious Villager",
+    "Chatty Villager",
+    "???",
+    "Raed",
+    "Bandak",
+    "Machine Wreckage",
+    "Tamimi",
+    "Faruzan's Mother",
+    "Yellowed Note",
+    "Neatly-Penned Note",
+    "Oft-Corrected Note"
+  ],
+  "id": "ch-107601"
+}

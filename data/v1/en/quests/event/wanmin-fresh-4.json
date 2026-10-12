@@ -1,0 +1,69 @@
+{
+  "chapter": "Wanmin Fresh",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Wanmin Fresh",
+  "region": null,
+  "quests": [
+    {
+      "title": "Wanmin Fresh",
+      "dialogue": [
+        {
+          "sit": "I have other things to do."
+        },
+        {
+          "s": 0,
+          "t": "Alright. Do what you have to first."
+        },
+        {
+          "section": "Speak to Chef Mao"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "I'll leave it to you, then."
+        },
+        {
+          "section": "Deliver the food to Tacit Tingfang"
+        },
+        {
+          "s": 1,
+          "t": "Not here yet..."
+        },
+        {
+          "section": "Talk to Tacit Tingfang"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "Indeed. A fellow named Tingfang ordered some Jueyun Chili Chicken and asked for a delivery."
+        },
+        {
+          "s": 0,
+          "t": "This Jueyun Chili Chicken won't hold up if you fly or climb all over the place, if you touch anything elements, or if you take too long. Neglect one of these and you could ruin the taste."
+        },
+        {
+          "s": 0,
+          "t": "If something happens along the way, come back here and I'll make another serving. Whatever you do, don't bring the name of Wanmin Restaurant down."
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Got it. Thanks."
+        }
+      ],
+      "description": "Wanmin Restaurant has taken a custom order that now awaits delivery..."
+    }
+  ],
+  "speakers": [
+    "Chef Mao",
+    "Tacit Tingfang"
+  ],
+  "id": "q-41151"
+}

@@ -1,0 +1,4439 @@
+{
+  "chapter": "Chapter VII",
+  "chapter_title": null,
+  "act": "Act III",
+  "act_title": "White Night, Like a Dream Upon Waking",
+  "region": "Snezhnaya",
+  "quests": [
+    {
+      "id": "q-7015",
+      "title": "Light and Shadow, Intertwined",
+      "dialogue": [
+        {
+          "section": "Find Childe"
+        },
+        {
+          "s": 0,
+          "t": "Hey, comrade, we meet again."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, good to see you again, \"Councilor Tartaglia\"."
+        },
+        {
+          "s": 0,
+          "t": "Where did you pick up that title from? You're not here to make fun of me, are you?"
+        },
+        {
+          "sit": "How's work been lately?"
+        },
+        {
+          "s": 0,
+          "t": "Well, ever since The Jester decided to put Project Stuzha on hold, the atmosphere in the Veche has improved a lot."
+        },
+        {
+          "s": 0,
+          "t": "Don't get me wrong — a lot of arguing still happens there. But let's just say it's... hehe, a little easier on the ears than it used to be."
+        },
+        {
+          "s": 1,
+          "t": "Well, it certainly says a lot about how tough working as a councilor must be if even a lover of conflict like you struggles with it..."
+        },
+        {
+          "s": 0,
+          "t": "Let's be clear here — conflict takes many forms. The type of conflict I have to deal with in this job is probably the one I find most tedious."
+        },
+        {
+          "s": 0,
+          "t": "Everyone bickers non-stop about things they'll never be able to agree on, but they don't actually have the courage to go for each other's throats... That's an average day at the Veche for you."
+        },
+        {
+          "s": 0,
+          "t": "At least Her Majesty is back now. As soon as we have the latest orders from her, that should put some of the pettier squabbles to rest."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, enough about all that. You've come to see me, so I'm guessing it's important. Is it to do with the Tsaritsa?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, yep! Good guess."
+        },
+        {
+          "sit": "We want to meet the Tsaritsa."
+        },
+        {
+          "s": 0,
+          "t": "Gotcha. Doesn't come as much of a surprise."
+        },
+        {
+          "s": 0,
+          "t": "You've already visited the other six nations and met their archons. No doubt you plan to do the same in Snezhnaya."
+        },
+        {
+          "s": 0,
+          "t": "Her Majesty is a busy lady though. Getting an audience with her can be tricky... Okay, lemme help you with the application."
+        },
+        {
+          "s": 0,
+          "t": "Her Majesty is meeting with her ministers at the court tomorrow morning. As long as the application gets approved, I can bring you right into Zapolyarny Palace."
+        },
+        {
+          "sit": "Do we need to prepare anything?"
+        },
+        {
+          "s": 0,
+          "t": "Nope. I'll fill out the paperwork, and someone from the Druzhna should expedite the review process."
+        },
+        {
+          "s": 0,
+          "t": "Considering the situation we're facing, I'm sure Her Majesty will agree to give you an audience. Let's meet at the entrance to Zapolyarny Palace tomorrow morning."
+        },
+        {
+          "s": 1,
+          "t": "Great! Thanks, Tartaglia."
+        },
+        {
+          "s": 0,
+          "t": "Don't mention it, comrades. I should get going. See you tomorrow morning."
+        },
+        {
+          "s": 0,
+          "t": "Get some good rest tonight. Early start tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry! We'll be there on time!"
+        },
+        {
+          "section": "Go to the Podvorye Restaurant"
+        },
+        {
+          "s": 1,
+          "t": "Ah! After a piping-hot bowl of borscht, Paimon's all warmed up again!"
+        },
+        {
+          "sit": "It doesn't seem quite as cold lately."
+        },
+        {
+          "s": 1,
+          "t": "Yeah. The weather's been much better since the Tsaritsa defeated that monster."
+        },
+        {
+          "s": 1,
+          "t": "What sort of monster can summon such a huge blizzard, anyway? Paimon's so curious."
+        },
+        {
+          "sit": "Maybe a giant Jack Frost...?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, somehow, Paimon doubts it's anything as cute as a Jack Frost."
+        },
+        {
+          "s": 1,
+          "t": "Maybe it's... a huge, scary dragon that spews frost when it roars!"
+        },
+        {
+          "sit": "Like Dvalin?"
+        },
+        {
+          "sit": "Like Apep?"
+        },
+        {
+          "s": 1,
+          "t": "Pretty much! Just think how many places got hit by snowstorms. It must have been flying around all over the sky, turning every cloud in its path into a dark storm cloud."
+        },
+        {
+          "s": 1,
+          "t": "Huh. It's a good thing the Tsaritsa dealt with it. Imagine if we'd had to do it... Paimon would've had to step up and drag you up into the sky so you could fight it!"
+        },
+        {
+          "sit": "Brr, sounds cold..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, that's the easy part. We could buy loads of piping-hot food in advance and chow down while we attack."
+        },
+        {
+          "s": 1,
+          "t": "Uh... Size-wise, maybe. Since so many places got hit by blizzards, it must have been a pretty big monster."
+        },
+        {
+          "s": 1,
+          "t": "Hey, who do you think would win in a fight between this snowstorm-monster and Apep?"
+        },
+        {
+          "sit": "Hard to say when we don't know what we're comparing..."
+        },
+        {
+          "sit": "We've never even seen the snowstorm-monster."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, fair enough. It wasn't that serious of a question anyway. But Paimon thinks Apep would win. She's the Dendro Dragon, after all. Surely she's gotta be stronger than some random monster..."
+        },
+        {
+          "s": 2,
+          "t": "Hello. Would you mind if I joined you?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Huh?"
+        },
+        {
+          "s": 2,
+          "t": "Thank you."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Psst, {NICKNAME}! Do you know her?"
+        },
+        {
+          "sit": "(...)"
+        },
+        {
+          "sit": "(I think I recognize her... Wasn't she walking behind the Tsaritsa on the day she returned?)"
+        },
+        {
+          "s": 2,
+          "t": "Hello, Mr. Nefedov. I'll have the set meal, please. Same as last time."
+        },
+        {
+          "s": 3,
+          "t": "S—Sure... One moment..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 2,
+          "t": "The colder the winter, the more driven people are to seek a moment of comfort."
+        },
+        {
+          "s": 2,
+          "t": "You may speak freely. You needn't restrain yourselves on my account."
+        },
+        {
+          "s": 1,
+          "t": "Um... Easier said than done..."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me twice, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me three times, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me four times, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me five times, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me six times, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You just looked up at me very many times, with a mixture of hostility and confusion in your eyes."
+        },
+        {
+          "s": 2,
+          "t": "You seem unintimidated. I admire that. There is both skepticism and curiosity in your eyes — a good mix."
+        },
+        {
+          "s": 2,
+          "t": "You seem bewildered. Your eyes have been darting around every which way, like you're trying to avoid looking at me."
+        },
+        {
+          "s": 2,
+          "t": "You're not the only one here who has questions. Here's what I'm trying to figure out... A renowned Traveler arrives here in Snezhnaya after a highly eventful journey through the six other nations."
+        },
+        {
+          "s": 2,
+          "t": "Now, {M#he}{F#she} requests an audience with our god. What should I make of this? An offer of open dialogue, or does {M#he}{F#she} have ulterior motives?"
+        },
+        {
+          "sit": "So you've been sent here to vet us, or something?"
+        },
+        {
+          "s": 3,
+          "t": "Ahem... Your food, Ma'am. Enjoy your meal."
+        },
+        {
+          "s": 2,
+          "t": "Thank you."
+        },
+        {
+          "s": 2,
+          "t": "Relax. I'm just here to chat."
+        },
+        {
+          "s": 2,
+          "t": "Based on the reports I've seen, while you haven't fought with the Fatui much on your travels, those you defeated were all elite members of the organization. Any recollection?"
+        },
+        {
+          "s": 2,
+          "t": "Based on the reports I've seen, the number of Fatui you've defeated in battle during your travels is in the double digits. Any recollection?"
+        },
+        {
+          "s": 2,
+          "t": "Based on the reports I've seen, the number of Fatui you've defeated in battle during your travels is in the hundreds. Any recollection?"
+        },
+        {
+          "s": 2,
+          "t": "Based on the reports I've seen, the number of Fatui you've defeated in battle during your travels is in the thousands. Any recollection?"
+        },
+        {
+          "s": 2,
+          "t": "Based on the reports I've seen, the number of Fatui you've defeated in battle during your travels is so high, we've stopped counting. Any recollection?"
+        },
+        {
+          "sit": "I didn't realize..."
+        },
+        {
+          "sit": "I don't keep a tally of how many people I've defeated in battle."
+        },
+        {
+          "s": 2,
+          "t": "The damage to our camps is equally severe. The Northland Bank estimates we have suffered direct economic losses exceeding 500 thousand Mora."
+        },
+        {
+          "s": 2,
+          "t": "The damage to our camps is equally severe. The Northland Bank estimates we have suffered direct economic losses exceeding five million Mora."
+        },
+        {
+          "s": 2,
+          "t": "The damage to our camps is equally severe. The Northland Bank estimates we have suffered direct economic losses exceeding 50 million Mora."
+        },
+        {
+          "s": 2,
+          "t": "The damage to our camps is equally severe. The estimate of our economic losses by the Northland Bank is such a staggering figure that you wouldn't believe me if I told you."
+        },
+        {
+          "s": 1,
+          "t": "Whoa, that's a lot!"
+        },
+        {
+          "s": 1,
+          "t": "You, uh, don't expect us to pay you back out of our own pocket, do you? 'Cause that's never gonna happen."
+        },
+        {
+          "s": 2,
+          "t": "We all know this isn't about Mora. The past is behind us. The question is, where does that leave us today?"
+        },
+        {
+          "s": 2,
+          "t": "Of course, you and Snezhnaya haven't always been at odds. Conflicts aside, we have worked together on numerous occasions."
+        },
+        {
+          "s": 2,
+          "t": "For instance, you joined forces with the House of the Hearth to resolve the crisis in Fontaine. And you fought alongside my mentor to bring victory to Natlan."
+        },
+        {
+          "s": 1,
+          "t": "Wait a minute... Your mentor?"
+        },
+        {
+          "s": 2,
+          "t": "Mr. Capitano."
+        },
+        {
+          "sit": "...You're The Captain's student?"
+        },
+        {
+          "s": 2,
+          "t": "Essentially, yes. He personally instructed many of us in the martial arts, myself included. His teachings stay with me to this day."
+        },
+        {
+          "s": 2,
+          "t": "Capitano's passing is an enormous loss for all of Snezhnaya. He was a trusted comrade in everything he did."
+        },
+        {
+          "s": 2,
+          "t": "But I understand his choice. I understand that you helped him to fulfill a lifelong wish, and on a personal level, I would like to thank you for that."
+        },
+        {
+          "sit": "He helped us a lot, too. Without him, things in Natlan would have been much worse."
+        },
+        {
+          "s": 2,
+          "t": "So, based on your history of collaboration, there are certainly grounds for us to reach a mutual understanding as we look to the future."
+        },
+        {
+          "s": 2,
+          "t": "...However, that is merely one of many possibilities, which brings me to my final question: What is your view of Her Majesty the Tsaritsa?"
+        },
+        {
+          "s": 1,
+          "t": "The Tsaritsa... Um..."
+        },
+        {
+          "sit": "Given that I haven't met her yet, it's hard to say anything one way or another."
+        },
+        {
+          "sit": "We have a history of conflict on many issues. We don't share the same goals or values, and we may not be on the same path in the long term."
+        },
+        {
+          "sit": "But here and now... I think it's essential that we work together. Ronova threatened my closest travel partner, and I will not stand for that."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}..."
+        },
+        {
+          "s": 2,
+          "t": "That was a moving speech. But in essence, you seem to believe that cooperation is temporary, and conflict is ultimately unavoidable."
+        },
+        {
+          "sit": "Right now, that's how it looks to me."
+        },
+        {
+          "s": 2,
+          "t": "Understood."
+        },
+        {
+          "s": 2,
+          "t": "When any potential enemy presents itself, our first step is always to assess the threat level."
+        },
+        {
+          "s": 1,
+          "t": "Uh-oh... things are getting tense... Please don't—"
+        },
+        {
+          "sit": "You want to fight me right here?"
+        },
+        {
+          "s": 2,
+          "t": "...Have you ever heard of the Mora game?"
+        },
+        {
+          "s": 1,
+          "t": "The Mora game? What's that?"
+        },
+        {
+          "s": 2,
+          "t": "A fun little activity my mentor taught me a long time ago. He used it to liven up the atmosphere in the military."
+        },
+        {
+          "s": 2,
+          "t": "It's quite simple: I will toss a Mora coin into the air. My goal is for it to land on the table, while yours is to do everything in your power to prevent this from happening."
+        },
+        {
+          "sit": "Got it. I'm ready."
+        },
+        {
+          "s": 2,
+          "t": "Then let's begin."
+        },
+        {
+          "s": 4,
+          "t": "Dearest Danica, why are you bringing a game from the military into this humble restaurant? It's a rather rough way to treat these poor customers."
+        },
+        {
+          "s": 2,
+          "t": "Don't pretend this has nothing to do with you, Vesna. This was your job. I'm just here to pick up your slack."
+        },
+        {
+          "s": 4,
+          "t": "My job? Oh, you mean gauging {M#his}{F#her} strength before the audience with Her Majesty?"
+        },
+        {
+          "s": 4,
+          "t": "Without explicit orders from Her Majesty, a guest is a guest, and we should treat them as such."
+        },
+        {
+          "s": 2,
+          "t": "...What a lovely world it would be if everything was always plain sailing, just like in your imagination. Unfortunately, that's not reality."
+        },
+        {
+          "s": 4,
+          "t": "On the contrary, dearest Danica, I think it is you who are too pessimistic. Life is like oil and water — always full of conflict, but all the richer for it."
+        },
+        {
+          "s": 4,
+          "t": "I must apologize, my dear friends. Our Danica isn't much of a people-person."
+        },
+        {
+          "s": 4,
+          "t": "Let me make it up to you by picking up your tab today. Mr. Nefedov! Their tab is now on my tab, is that alright?"
+        },
+        {
+          "s": 3,
+          "t": "Yes, Ma'am, no problem."
+        },
+        {
+          "s": 4,
+          "t": "And add some Caviar Blinis onto that — I'll swing by and pick them up later. Alright, goodbye everyone~"
+        },
+        {
+          "s": 1,
+          "t": "Wait, hold on. Who even are you?"
+        },
+        {
+          "s": 2,
+          "t": "I'm sure you've guessed by now. Don't you remember? You applied for an audience with the Tsaritsa."
+        },
+        {
+          "s": 2,
+          "t": "We'll be seeing each other again very soon."
+        },
+        {
+          "section": "Return to your room to rest"
+        },
+        {
+          "sit": "(As she was leaving, that Danica lady said we'd meet again soon. I guess that means they've approved the application Tartaglia submitted.)"
+        },
+        {
+          "sit": "(I still remember my first encounter with the Fatui in Mondstadt. That was when I learned that the Tsaritsa was collecting the Gnoses.)"
+        },
+        {
+          "sit": "(From then on, through Liyue, Inazuma, Sumeru, Fontaine, and Natlan... they cast their shadow over every stage of my journey...)"
+        },
+        {
+          "sit": "(Now, it's finally time to meet the one behind all of it. The Tsaritsa of Snezhnaya herself. I wonder what kind of person she'll be?)"
+        },
+        {
+          "sit": "(What does the future hold for Snezhnaya, for Teyvat? And what about the Four Shades, and the Heavenly Principles? I'm here to bear witness to it all. After that... I must choose where I stand.)"
+        },
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "s": 3,
+          "t": "Hello, you two. That lady instructed me to put this meal on her tab."
+        },
+        {
+          "s": 1,
+          "t": "Can you tell us who that was?"
+        },
+        {
+          "s": 3,
+          "t": "Um... No can do, I'm afraid. They don't want me to disclose that."
+        },
+        {
+          "s": 3,
+          "t": "But from the sounds of it, I'm sure they'll tell you themselves soon enough."
+        },
+        {
+          "s": 3,
+          "t": "In accordance with Miss Vesna's wishes, I have some small gifts for you. Please accept them."
+        },
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "sit": "(Zapolyarny Palace stands there solemnly amid the wind and snow... It looks truly majestic.)"
+        },
+        {
+          "sit": "(When will the storm end? I doubt even those at the center of it know for sure.)"
+        },
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "s": 0,
+          "t": "Comrade, over here."
+        },
+        {
+          "s": 1,
+          "t": "Tartaglia! We're not late, are we?"
+        },
+        {
+          "s": 0,
+          "t": "Right on time. Let's head in."
+        },
+        {
+          "section": "Follow Childe"
+        },
+        {
+          "s": 5,
+          "t": "My Lords, Ladies, and Gentlemen."
+        },
+        {
+          "s": 5,
+          "t": "The blizzard-summoning beast has perished, and the bitter cold it once harnessed now eats away at its corpse. With this challenge finally behind us, we must attend to the many other pressing issues that demand our attention."
+        },
+        {
+          "s": 5,
+          "t": "Much has happened in my absence. Let us begin with the latest developments in politics and civil affairs. Pulcinella."
+        },
+        {
+          "s": 6,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 6,
+          "t": "During your campaign, we kept Kristall rations at sensible levels, ensuring minimal disruption to civilian life."
+        },
+        {
+          "s": 6,
+          "t": "By publishing the figures at the Snezhnograd Veche and holding various open discussions, we successfully kept disputes to within a manageable range, preventing the risk of any large-scale unrest."
+        },
+        {
+          "s": 6,
+          "t": "Inevitably, some instances of corruption were identified during this process. The Audit Office has submitted a list of names for your review."
+        },
+        {
+          "s": 5,
+          "t": "I hear Tartaglia has performed outstandingly since his assignment to the Veche. My commendations."
+        },
+        {
+          "s": 0,
+          "t": "Thank you, Your Majesty. Just doing my job."
+        },
+        {
+          "s": 5,
+          "t": "On the subject of corruption, the House of the Hearth has also presented me with a list of names."
+        },
+        {
+          "s": 5,
+          "t": "Pulcinella, please review it carefully and add in any missing entries. You will be assisted by the 3rd Company of the Druzhna."
+        },
+        {
+          "s": 6,
+          "t": "...Yes, Your Majesty."
+        },
+        {
+          "s": 0,
+          "t": "(Even if she didn't say it explicitly, it sounds like the Tsaritsa isn't satisfied with the list submitted by The Rooster... The old man's gonna have his work cut out for him for the foreseeable future.)"
+        },
+        {
+          "s": 5,
+          "t": "Onto today's second item. Pierro, Mitya, I have read your report."
+        },
+        {
+          "s": 5,
+          "t": "I agree with your conclusion. Since the Ruler of Death has cast her curse over all of Snezhnaya, continuing with this research would be a waste of resources."
+        },
+        {
+          "s": 5,
+          "t": "Before we can face the Heavenly Principles directly, we must first deal with Ronova."
+        },
+        {
+          "s": 7,
+          "t": "I've discussed this at length with my colleagues in the Department of Energy. But we haven't made much progress."
+        },
+        {
+          "s": 7,
+          "t": "None of our current weapons are capable of dealing any significant damage to her."
+        },
+        {
+          "s": 8,
+          "t": "At the first sign of potential progress, a mass death is immediately triggered."
+        },
+        {
+          "s": 8,
+          "t": "It's a crude method. But apparently a rather effective one."
+        },
+        {
+          "s": 9,
+          "t": "Hmph. The lengths she'll go to just to stop us from running experiments. It's completely ridiculous."
+        },
+        {
+          "s": 9,
+          "t": "What if we transferred the research materials to the Kuuvahki Experimental Design Bureau?"
+        },
+        {
+          "s": 7,
+          "t": "I'm afraid that wouldn't do much good. The curse afflicts us directly. Wherever we go, death will follow us."
+        },
+        {
+          "sit": "(The entire palace has fallen silent while everyone tries to think of solutions... Clearly, this is a tough problem.)"
+        },
+        {
+          "s": 5,
+          "t": "This is no great cause for concern."
+        },
+        {
+          "s": 5,
+          "t": "When one's goal is to face the Heavenly Principles, challenges of this nature are only to be expected."
+        },
+        {
+          "s": 5,
+          "t": "We are making steady progress on many fronts. Pierro will give you the details in due course — all of you simply need to remain committed to your respective duties."
+        },
+        {
+          "s": 0,
+          "t": "Yes, Your Majesty!"
+        },
+        {
+          "s": 5,
+          "t": "Now then, let us proceed to the final item on the agenda... The Traveler from afar."
+        },
+        {
+          "s": 5,
+          "t": "I have received many reports about you. As you turn your gaze toward Snezhnaya, my attention is drawn to the changes that follow in your wake."
+        },
+        {
+          "s": 5,
+          "t": "You have proven yourself to be a formidable adversary, worthy of my respect. I believe that cooperation will be in both of our best interests."
+        },
+        {
+          "s": 5,
+          "t": "As of today, all investigations into {M#him}{F#her} are to cease, and {M#he}{F#she} is to be granted unrestricted access to Zapolyarny Palace."
+        },
+        {
+          "s": 0,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 5,
+          "t": "Today's audience is concluded. My Lords, Ladies, and Gentlemen, please resume your duties."
+        },
+        {
+          "s": 5,
+          "t": "No doubt you still have many questions, {NICKNAME}. There are things that I wish to discuss with you, too. Come with me."
+        },
+        {
+          "sit": "...Gladly."
+        },
+        {
+          "section": "Follow Childe"
+        },
+        {
+          "sit": "(Why is she sitting with us like it's the most normal thing in the world? There are plenty of other tables available...)"
+        },
+        {
+          "sit": "(The boss has definitely been on edge since she showed up...)"
+        },
+        {
+          "s": 1,
+          "t": "Uh... Sooo... wh—what do we, um, wanna talk about?"
+        },
+        {
+          "section": "Speak with the Tsaritsa"
+        },
+        {
+          "s": 5,
+          "t": "This is Danica, my Head Maid and trusted personal attendant."
+        },
+        {
+          "s": 2,
+          "t": "How do you do."
+        },
+        {
+          "s": 1,
+          "t": "Hello."
+        },
+        {
+          "s": 1,
+          "t": "(Look at her, pretending like she hasn't met us already! Unbelievable. She's just acting like nothing happened because the Tsaritsa's here!)"
+        },
+        {
+          "s": 5,
+          "t": "As I said, {NICKNAME}, I'm sure you have questions, and there are things I wish to discuss with you, too."
+        },
+        {
+          "s": 5,
+          "t": "In fact, I only have one question for you. May I?"
+        },
+        {
+          "sit": "...Sure, ask away."
+        },
+        {
+          "s": 5,
+          "t": "Do you know where the Pyro Gnosis is?"
+        },
+        {
+          "s": 5,
+          "t": "It is the only one of the seven Gnoses whose whereabouts are unknown. And reportedly, you were the last to see it."
+        },
+        {
+          "sit": "The Pyro Gnosis..."
+        },
+        {
+          "sit": "I... um..."
+        },
+        {
+          "s": 5,
+          "t": "Judging by your expression, it's bad news."
+        },
+        {
+          "sit": "When Irminsul was burned... the Pyro Gnosis was reduced to ashes along with it."
+        },
+        {
+          "sit": "According to Mavuika, the Pyro Gnosis has returned to the Ley Lines."
+        },
+        {
+          "s": 5,
+          "t": "Really?"
+        },
+        {
+          "s": 1,
+          "t": "That's what Mavuika told us. We wouldn't lie to you. We saw Irminsul burn with our own eyes."
+        },
+        {
+          "s": 5,
+          "t": "I am not questioning your truthfulness. I'm just surprised. Since the Gnoses are formed from the remains of the Third Descender, they should not be able to coexist with the Ley Lines for long."
+        },
+        {
+          "s": 5,
+          "t": "So while it may have joined the Ley Lines for now, it will one day be excised..."
+        },
+        {
+          "s": 5,
+          "t": "No matter. We will locate it eventually. It will just take a little longer."
+        },
+        {
+          "s": 1,
+          "t": "On the subject of the Gnoses... this is probably as good a time as any to ask you this question."
+        },
+        {
+          "s": 1,
+          "t": "You've been sending the Fatui far and wide to collect the Gnoses from all the different nations. But why? What are you planning?"
+        },
+        {
+          "s": 2,
+          "t": "Ahem..."
+        },
+        {
+          "s": 5,
+          "t": "It's okay, Danica. We must freely share whatever information we can disclose. Think of it not as the price we pay for cooperation, but the compensation we offer."
+        },
+        {
+          "s": 5,
+          "t": "The Gnoses possess a powerful elemental affinity, and are capable of amplifying their bearers' power."
+        },
+        {
+          "s": 5,
+          "t": "They do not originate from within the system of Teyvat, but from the Third Descender."
+        },
+        {
+          "s": 5,
+          "t": "As such, if their potential is exploited to the fullest, many new possibilities emerge... including the power to transcend the limits of one's authority."
+        },
+        {
+          "sit": "So by collecting the Gnoses, you hope to gain power beyond the level of Cryo Archon?"
+        },
+        {
+          "s": 5,
+          "t": "It is a necessary step towards facing the Heavenly Principles."
+        },
+        {
+          "s": 5,
+          "t": "The power of The Seven can create a storm, but it cannot shake the foundations of the world. This would require supreme authority... a power which has always remained out of reach."
+        },
+        {
+          "s": 5,
+          "t": "You will be aware by now that the Shades of the Heavenly Principles, Life, Death, Time, and Space, are ubiquitous. Civilization is but a lie told to us by fate."
+        },
+        {
+          "sit": "So you're collecting the Gnoses to rebel against the Heavenly Principles..."
+        },
+        {
+          "sit": "I understand your concerns about fate, and your skepticism towards the Heavenly Principles. But still... is such an extreme measure really necessary?"
+        },
+        {
+          "s": 5,
+          "t": "Whether it is right or wrong could be debated without resolution for eternity. As for whether it is necessary... In time, {NICKNAME}, you will see. You will come to know the desperation of this land."
+        },
+        {
+          "s": 5,
+          "t": "Snezhnaya has been a cold and inhospitable tundra since ancient times. To survive, the people have pushed the boundaries of military and civilian technology to their limits."
+        },
+        {
+          "s": 5,
+          "t": "In many fields, we reached the boundary of what is permitted by the Heavenly Principles long ago. And ever since, Snezhnaya has lived under the threat of annihilation by a Nail of Retribution at any moment."
+        },
+        {
+          "s": 1,
+          "t": "Ohh... That's crazy..."
+        },
+        {
+          "s": 5,
+          "t": "Everything in the world is but a superficial illusion that can be negated. This is not hyperbole, but a real threat we must confront head-on."
+        },
+        {
+          "sit": "Hmm, okay... Well, that explains why so many people are willing to follow you. So this isn't an ideological battle. It's a fight to survive."
+        },
+        {
+          "s": 5,
+          "t": "Come with me. Time for a change of scenery."
+        },
+        {
+          "section": "Follow the Tsaritsa"
+        },
+        {
+          "s": 10,
+          "t": "Your Majesty, everyone — this way, please."
+        },
+        {
+          "s": 1,
+          "t": "Here we are back at the Armory Palace again. Hehe, it's such a huge place, Paimon would probably get lost if she was here all by herself."
+        },
+        {
+          "s": 10,
+          "t": "The same is true of all roads. But walk the same path enough times, and you learn to recognize it."
+        },
+        {
+          "s": 4,
+          "t": "*yawn* Pierro still isn't back. Are we postponing the experiment till tomorrow?"
+        },
+        {
+          "s": 4,
+          "t": "Mitya, have you ever donated blood before?"
+        },
+        {
+          "s": 7,
+          "t": "Are you talking about that Medical Stocks Campaign a few years back? Yeah, I donated... Why do you ask?"
+        },
+        {
+          "s": 4,
+          "t": "Mm-hmm~ Were you scared? About the needle piercing your skin?"
+        },
+        {
+          "s": 7,
+          "t": "...Of course I wasn't scared. I'm not a kid."
+        },
+        {
+          "s": 4,
+          "t": "So you were scared of needles as a kid, yes?"
+        },
+        {
+          "s": 7,
+          "t": "What point are you trying to make?"
+        },
+        {
+          "s": 4,
+          "t": "From what I've observed, it's the anticipation of the needle prick that causes people most of the fear, not the actual pain itself."
+        },
+        {
+          "s": 4,
+          "t": "Feels a lot like the situation we're in right now, doesn't it? We've been summoned here, but have absolutely no idea for what purpose—"
+        },
+        {
+          "s": 10,
+          "t": "Rest assured, Vesna, this experiment will not cause any pain."
+        },
+        {
+          "s": 4,
+          "t": "Mr. Pierro! You're finally back!"
+        },
+        {
+          "s": 4,
+          "t": "...Your Majesty. Welcome."
+        },
+        {
+          "s": 5,
+          "t": "At ease."
+        },
+        {
+          "s": 5,
+          "t": "This is Vesna, Commander of the Druzhna, and a fae of the Vila race."
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "♪~"
+        },
+        {
+          "s": 5,
+          "t": "Let us proceed. Please explain from the beginning, so our new ally might understand."
+        },
+        {
+          "s": 10,
+          "t": "As you will all be aware, intervention by the Ruler of Death has forced us to suspend both our energy research and the Mistilteinn Project."
+        },
+        {
+          "s": 10,
+          "t": "But this situation cannot continue indefinitely. We must find a way to turn the tables. To this end, the most important thing we need to understand is the truth behind the phenomenon of death and resurrection."
+        },
+        {
+          "s": 10,
+          "t": "Why do the dead return to life? Clearly, there are limits to how the lapdogs of the Heavenly Principles can use their power... We must find where those limits lie."
+        },
+        {
+          "s": 4,
+          "t": "With this big old thing?"
+        },
+        {
+          "s": 7,
+          "t": "I've never seen a prism of this scale before."
+        },
+        {
+          "s": 10,
+          "t": "This is a recent innovation by the Armory Palace, produced by enhancing and solidifying an ordinary prism. We call it the Mirror of Re{RUBY#[D]Svetovid Stone}membrance."
+        },
+        {
+          "s": 10,
+          "t": "Prisms can be used to securely store memories from the world. They also possess a limited ability to obtain memories from their surroundings. When activated, this device automatically connects to nearby people and events."
+        },
+        {
+          "sit": "(No wonder... That's why I saw Paimon's past the last time I was passing through the Armory Palace...)"
+        },
+        {
+          "s": 1,
+          "t": "Okay, more or less with you so far... But what exactly are you planning to use this Mirror of Re{RUBY#[D]Svetovid Stone}membrance for?"
+        },
+        {
+          "s": 10,
+          "t": "The Ruler of Death is a cautious operator. She rarely leaves a trace of her actions, making it extremely difficult to infer much about her."
+        },
+        {
+          "s": 10,
+          "t": "But we are in luck. Fortunately, we now possess traces of the powers of both life and death."
+        },
+        {
+          "s": 1,
+          "t": "What!?"
+        },
+        {
+          "s": 10,
+          "t": "As for the Ruler of Death's power, we have Mitya to thank. After recent events, his soul now bears the mark of the Ruler of Death."
+        },
+        {
+          "s": 7,
+          "t": "You could say I'm cursed — I had nightmares for days after that... At least it's proving useful now. I definitely didn't see that coming."
+        },
+        {
+          "s": 7,
+          "t": "But what about the Ruler of Life's power? Wait... Vesna? Don't tell me you were—"
+        },
+        {
+          "s": 4,
+          "t": "Ah... Is it finally time to divulge my great secret?"
+        },
+        {
+          "s": 4,
+          "t": "Prepare to learn the truth that could send shockwaves through the intelligence community... Dismissed as a rumor, a joke, by all who have heard it to date, it is in fact the Vila's best-kept secret, closely guarded by my people for centuries—"
+        },
+        {
+          "s": 5,
+          "t": "During the Hyperborean era, the former Archangel stole a small portion of the Ruler of Life's power, and after changing hands multiple times, it was ultimately entrusted to the Vila for safekeeping."
+        },
+        {
+          "s": 5,
+          "t": "Vesna inherited the blood of the first Vila, and this power along with it."
+        },
+        {
+          "s": 4,
+          "t": "Your Majesty...! I was gonna build up to it!"
+        },
+        {
+          "s": 4,
+          "t": "Ah, ahem, anyway... what she said. So, Mr. Pierro, I presume your plan is to link the prism to the two powers within us and peer into the memories of the two rulers?"
+        },
+        {
+          "s": 10,
+          "t": "Correct. This will be the most effective approach."
+        },
+        {
+          "s": 7,
+          "t": "I mean, it sounds feasible, but... isn't there a chance that our own memories might leak out as well?"
+        },
+        {
+          "s": 7,
+          "t": "After all, the powers of Life and Death only make up a tiny fraction of us..."
+        },
+        {
+          "s": 7,
+          "t": "(Oh no... All those times I skipped work and snuck off to the theater...!)"
+        },
+        {
+          "s": 2,
+          "t": "Are there any memories you would rather other people did not see?"
+        },
+        {
+          "s": 10,
+          "t": "I will endeavor to pretend I didn't see anything."
+        },
+        {
+          "s": 7,
+          "t": "Hehehe... Much appreciated."
+        },
+        {
+          "s": 10,
+          "t": "There is a colossal amount of information here. It will take some time to search through it for the details on the Rulers of Life and Death. I thank everyone for your patience."
+        },
+        {
+          "section": "Try to find out more"
+        },
+        {
+          "sit": "What's inside?"
+        },
+        {
+          "s": 5,
+          "t": "A secret that has yet to be revealed."
+        },
+        {
+          "s": 5,
+          "t": "Whatever the Third Descender sought to protect at the very end, it must be of vital importance. But even all these centuries on, every attempt to open it has failed."
+        },
+        {
+          "s": 5,
+          "t": "The only thing that seems to respond to it is a Gnosis. Once the remains of the Third Descender are no longer scattered across the world... Perhaps only then, we may behold the legacy he sealed away."
+        },
+        {
+          "s": 1,
+          "t": "Okay, so... You have two reasons for collecting the Gnoses, then. First, to amplify your power in the fight against the Heavenly Principles, and second, to break the Third Descender's seal?"
+        },
+        {
+          "s": 1,
+          "t": "...Guess it'll still be a while before you find out what's inside, then. Since you're still missing the Pyro Gnosis."
+        },
+        {
+          "s": 5,
+          "t": "Correct."
+        },
+        {
+          "sit": "I have one more question."
+        },
+        {
+          "sit": "Your Majesty... what exactly is your domain of authority? Is it rebellion against fate?"
+        },
+        {
+          "s": 5,
+          "t": "No..."
+        },
+        {
+          "s": 5,
+          "t": "It is \"love.\""
+        },
+        {
+          "sit": "Oh..."
+        },
+        {
+          "s": 1,
+          "t": "What?"
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Sorry, uh... Just a little... surprising, that's all. You, um... Oh gosh, how to put this..."
+        },
+        {
+          "s": 5,
+          "t": "I don't strike you as a god of love?"
+        },
+        {
+          "s": 1,
+          "t": "R—Right. Like, with the God of Freedom and the God of Contracts for instance — the more we got to know them, the more their titles seemed to make sense."
+        },
+        {
+          "s": 1,
+          "t": "But... uh..."
+        },
+        {
+          "s": 5,
+          "t": "There is no need to tread delicately. I have never been one to show love. I do not identify with this authority, nor do I intend to use it."
+        },
+        {
+          "s": 5,
+          "t": "Our love... was spoiled long ago by the Heavenly Principles. It is not true love."
+        },
+        {
+          "s": 5,
+          "t": "Perhaps you are unaware of this, but the love held by gods for humanity is the result of a curse by the Heavenly Principles. It is part of the rules they impose upon this world."
+        },
+        {
+          "s": 1,
+          "t": "Oh... With some exceptions, though, surely?"
+        },
+        {
+          "s": 5,
+          "t": "When the Heavenly Principles carved \"love for humanity\" into our bones, love was debased. It became a cheap emotion."
+        },
+        {
+          "s": 5,
+          "t": "If I must yield to this false emotion in order to wield my authority... I choose instead to be my true self, and to fulfill my duties as the Tsaritsa."
+        },
+        {
+          "s": 5,
+          "t": "The people of this land need no one's sympathy or pity. We all fight for our own destinies."
+        },
+        {
+          "sit": "(Come to think of it, that reminds me of something Venti once said...)"
+        },
+        {
+          "s": 11,
+          "t": "...Freedom, if demanded of you by an archon, is really no freedom at all."
+        },
+        {
+          "s": 2,
+          "t": "...Your Majesty. Sorry to disturb you, but Mr. Pierro wishes to see you."
+        },
+        {
+          "s": 5,
+          "t": "Please, let him in."
+        },
+        {
+          "s": 10,
+          "t": "Your Majesty... Ah, and our two honored guests."
+        },
+        {
+          "s": 5,
+          "t": "You needn't stand on ceremony, Pierro. Any progress to report?"
+        },
+        {
+          "s": 10,
+          "t": "Everything is in place for the experiment to gather intelligence on the Ruler of Death. I would like to invite you to witness it."
+        },
+        {
+          "s": 5,
+          "t": "One moment. Let me complete today's memory recording first."
+        },
+        {
+          "s": 1,
+          "t": "\"Memory recording\"?"
+        },
+        {
+          "s": 5,
+          "t": "Pierro, please explain. Danica, come with me."
+        },
+        {
+          "s": 10,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 2,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 10,
+          "t": "...Her Majesty is of the belief that memory cannot be completely trusted."
+        },
+        {
+          "s": 10,
+          "t": "For this reason, long ago, she began storing each day's memories using a transcription prism."
+        },
+        {
+          "sit": "Can't the memories inside the prism be altered?"
+        },
+        {
+          "s": 10,
+          "t": "Much like the Stellar Linchpin, a transcription prism contains the power of the Third Descender. Both are therefore free from the influence of certain laws of Teyvat."
+        },
+        {
+          "s": 10,
+          "t": "Objects like these are variables from beyond this world, brought to us by the Third Descender. They are indispensable tools in our fight against the Heavenly Principles. You will witness another use of the prism shortly."
+        },
+        {
+          "s": 5,
+          "t": "Recording complete."
+        },
+        {
+          "s": 5,
+          "t": "Danica, I hear you accosted {NICKNAME} at Podvorye Restaurant?"
+        },
+        {
+          "s": 2,
+          "t": "Yes. Did Vesna tell you?"
+        },
+        {
+          "s": 5,
+          "t": "I understand your motivation."
+        },
+        {
+          "s": 5,
+          "t": "But your methods risk jeopardizing the trust of a friend, who may otherwise be open to cooperation."
+        },
+        {
+          "s": 2,
+          "t": "...I will rectify my approach."
+        },
+        {
+          "s": 5,
+          "t": "Very good. Let us proceed."
+        },
+        {
+          "section": "Wait for The Jester to pull the memory"
+        },
+        {
+          "s": 10,
+          "t": "Hmm..."
+        },
+        {
+          "s": 1,
+          "t": "Made any progress?"
+        },
+        {
+          "s": 10,
+          "t": "I've found some snippets. Let's view them together."
+        },
+        {
+          "s": 12,
+          "t": "Suppress... ■■■■■■■■■■... by means of ■■■■■■..."
+        },
+        {
+          "s": 12,
+          "t": "When ■■■■■■ awakens... there will be a reckoning..."
+        },
+        {
+          "s": 13,
+          "t": "Death is not a power to be abused, Lady Ronova. You should know this well."
+        },
+        {
+          "s": 13,
+          "t": "The Heavenly Principles has a deep love for humanity. To punish humans with death without the Heavenly Principles' approval would be a grave sin in their eyes."
+        },
+        {
+          "s": 12,
+          "t": "I am well aware. But during this period of slumber, Celestia only monitors our actions periodically."
+        },
+        {
+          "s": 12,
+          "t": "As long as we complete the death and resurrection process in the interval between two monitoring periods, no sin will be incurred."
+        },
+        {
+          "s": 13,
+          "t": "Clearly, you have been studying the shackles placed upon us for some time."
+        },
+        {
+          "s": 12,
+          "t": "I have indeed. So, do I have your help or not?"
+        },
+        {
+          "s": 13,
+          "t": "By casting a curse of death and establishing a precise trigger condition, we can render their efforts futile at the first sign of any substantial progress."
+        },
+        {
+          "s": 13,
+          "t": "Provided that I revive them within a short enough timeframe, we will not invite Celestia's punishment."
+        },
+        {
+          "s": 13,
+          "t": "An elegantly simple plan. Still, it entails a degree of risk."
+        },
+        {
+          "s": 13,
+          "t": "There's something... counter-intuitive about resorting to a method like this to defend Celestia's rule and uphold the laws of the Heavenly Principles..."
+        },
+        {
+          "s": 13,
+          "t": "That hardly seems like a good reason to refuse, dear Rhinedottir."
+        },
+        {
+          "s": 13,
+          "t": "Every plan comes with its risks..."
+        },
+        {
+          "s": 13,
+          "t": "We must face the reality that the Heavenly Principles slumbers. Part of the responsibility we bear as the Four Shades is to eliminate risks within the established rules."
+        },
+        {
+          "s": 13,
+          "t": "Your nagging is as timely as ever, Naberius."
+        },
+        {
+          "s": 13,
+          "t": "I suppose that if I refuse, a long conversation will ensue concerning the notions of identity and responsibility."
+        },
+        {
+          "s": 13,
+          "t": "I feel we know each other too well for that. If the nagging itself is what convinces you to change your mind, and not the content of the discussion, then I would prefer to skip that process altogether."
+        },
+        {
+          "s": 13,
+          "t": "Fine. I will agree to help you, Lady Ronova."
+        },
+        {
+          "s": 13,
+          "t": "However, unlike you, I still have many acquaintances in Snezhnaya."
+        },
+        {
+          "s": 13,
+          "t": "Per our previous arrangements, I will remain behind the scenes and out of view. I trust this is acceptable?"
+        },
+        {
+          "s": 12,
+          "t": "Of course, Madam Rhinedottir. I shall respect your wishes... as long as you fulfill your duties."
+        },
+        {
+          "s": 10,
+          "t": "This is the only memory I was able to find."
+        },
+        {
+          "s": 7,
+          "t": "So this \"Curse of Death\" isn't just the Ruler of Death's doing. The Ruler of Life also plays a role in the process."
+        },
+        {
+          "s": 7,
+          "t": "And it turns out that the Heavenly Principles monitors their activity periodically to prevent them from abusing their power... The dead must be resurrected before the next monitoring period arrives."
+        },
+        {
+          "s": 4,
+          "t": "Looks like Ronova isn't nearly as frightening as we imagined, huh?"
+        },
+        {
+          "s": 4,
+          "t": "Because she's bound by the rules, she can't even truly kill us. So, as long as we continue to challenge her, victory will one day be ours."
+        },
+        {
+          "s": 7,
+          "t": "Unfortunately, we may not last until that day comes."
+        },
+        {
+          "s": 7,
+          "t": "Over time, repeated deaths at Ronova's hand result in memory damage. Eventually, even the soul will suffer erosion."
+        },
+        {
+          "s": 7,
+          "t": "Some members of our research team have already developed fairly significant psychological issues. So, we need to act carefully to avoid triggering too many further deaths of this nature."
+        },
+        {
+          "s": 10,
+          "t": "There was another detail worth noting from the conversation we witnessed."
+        },
+        {
+          "s": 10,
+          "t": "For a long time now, The Ruler of Death, Ronova, has been studying how to circumvent the restrictions imposed upon her by the Heavenly Principles."
+        },
+        {
+          "s": 10,
+          "t": "This gives us all the more reason for us to remain vigilant. Our opponent will not sit idly by as we continue to conduct our various experiments. For all we know, she may yet find a means of killing without necessitating our resurrection."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "sit": "(The atmosphere's getting heavy again. Even knowing the truth behind the death and resurrection cycle doesn't do much to help our current situation. How are we supposed to fight the Ruler of Death?)"
+        },
+        {
+          "s": 8,
+          "t": "Since Miss Vesna possesses a fraction of the Ruler of Life's power, I wonder whether we might use it to directly counteract the power of death?"
+        },
+        {
+          "s": 1,
+          "t": "Huh...? Pantalone and Sandrone! You're here too."
+        },
+        {
+          "s": 8,
+          "t": "Greetings, Your Majesty. Good afternoon, everyone."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 4,
+          "t": "If you think I'm the solution, I'm afraid I might have to disappoint you."
+        },
+        {
+          "s": 4,
+          "t": "Firstly, we have to assume I'm even capable of wielding such a power... And even then, according to the information passed down by my ancestors, there's only a tiny measure of the Ruler of Life's authority within me. Think of it as just a sample."
+        },
+        {
+          "s": 9,
+          "t": "It's highly unlikely that my or anyone else's power alone can contend with a higher being. That's the honest truth."
+        },
+        {
+          "s": 9,
+          "t": "...There are other avenues to explore here. Instead of trying to pit Vesna's power against Ronova's, we could treat the Ruler of Life's authority as the key to access the vault of life..."
+        },
+        {
+          "s": 1,
+          "t": "What do you mean?"
+        },
+        {
+          "s": 9,
+          "t": "Life and death are opposites that cancel each other out. By definition, every living being is fighting a constant battle against death by merely existing."
+        },
+        {
+          "s": 9,
+          "t": "What if we could use the Ruler of Life's authority to extract life force from living beings? With enough critical mass, we might be able to move the needle..."
+        },
+        {
+          "s": 4,
+          "t": "Extract life force... One second — I think I have an idea."
+        },
+        {
+          "s": 4,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Whoa... What's that?"
+        },
+        {
+          "section": "View memory"
+        },
+        {
+          "s": 4,
+          "t": "Aw, dearest Danica, you're finally back. Look how big you're getting now after all these years!"
+        },
+        {
+          "s": 2,
+          "t": "Don't talk down to me, Vesna."
+        },
+        {
+          "s": 4,
+          "t": "But I'm older than you. Don't you remember? When we were both studying under Master Capitano, you were only this tall."
+        },
+        {
+          "s": 4,
+          "t": "How's the mercenary life been treating you? Was it worth the massive argument you had about it back in the day?"
+        },
+        {
+          "s": 2,
+          "t": "Not too bad. It was a carefree time. I visited a lot of places... Fontaine, Sumeru, Liyue..."
+        },
+        {
+          "s": 2,
+          "t": "It's a pity I couldn't make it to Inazuma. The lightning storm was too bad. I couldn't find a single ship willing to attempt the journey."
+        },
+        {
+          "s": 4,
+          "t": "You're so well traveled now! Well, I suppose it's no surprise — it's been eight years since you left Snezhnaya. So, where's your head at these days?"
+        },
+        {
+          "s": 2,
+          "t": "Every living being faces its own challenges. The Tsaritsa is right... The rules laid down by the Heavenly Principles have lost their efficacy. They are destined for demise."
+        },
+        {
+          "s": 4,
+          "t": "So you're choosing to return to Snezhnaya. Back into the midst of the storm."
+        },
+        {
+          "s": 2,
+          "t": "I wouldn't call it a \"return,\" Vesna. We will create a new storm... one that will rage until the Old World has been utterly demolished."
+        },
+        {
+          "s": 4,
+          "t": "Hahaha! Well said, Danica. Here's to Her Majesty, to beautiful dreams, and to the future. Cheers!"
+        },
+        {
+          "s": 2,
+          "t": "Cheers."
+        },
+        {
+          "section": "View memory"
+        },
+        {
+          "sit": "...What was that?"
+        },
+        {
+          "s": 4,
+          "t": "This must be the \"life force\" that Sandrone was talking about. I like to call it a \"Seal of Life\"."
+        },
+        {
+          "s": 4,
+          "t": "People's life force doesn't exist in a vacuum. It comes from the deep impressions left by precious times in a person's life."
+        },
+        {
+          "s": 4,
+          "t": "Those vibrant fragments of life are what fill a person with enough strength to fight back against the looming emptiness posed by death."
+        },
+        {
+          "s": 4,
+          "t": "I discovered long ago that I could extract this substance. Sandrone reminded me that if we gather enough of these Seals of Life, we might truly be able to defy death after all."
+        },
+        {
+          "s": 7,
+          "t": "Just being in its presence, I can feel the warmth that radiates from it like a flame."
+        },
+        {
+          "s": 7,
+          "t": "Can you extract Seals of Life from us as well? Surely our combined strength has to amount to something."
+        },
+        {
+          "s": 7,
+          "t": "Just like with the medical and energy campaigns we've run in the past."
+        },
+        {
+          "sit": "Are there any side effects to extracting Seals of Life?"
+        },
+        {
+          "s": 9,
+          "t": "Not usually, no."
+        },
+        {
+          "s": 9,
+          "t": "Life is very resilient. For most people, the amount of life force contained in a single Seal of Life is just a drop in the ocean."
+        },
+        {
+          "s": 9,
+          "t": "However... As Vesna points out, Seals of Life are closely tied to memories. If they are damaged, the memories inside will disappear along with the life force."
+        },
+        {
+          "s": 1,
+          "t": "You mean... people would lose those memories for good?"
+        },
+        {
+          "s": 4,
+          "t": "In all likelihood, yes."
+        },
+        {
+          "s": 7,
+          "t": "I think it's a price worth paying. At least, it wouldn't stop me from participating. I have to agree with the Ruler of Life on this point: Every plan comes with its risks."
+        },
+        {
+          "s": 7,
+          "t": "In the grand scheme of things... Losing a few of my memories is a small price to pay."
+        },
+        {
+          "s": 8,
+          "t": "In terms of the risk-to-reward ratio, I have to agree — it is a rather good choice."
+        },
+        {
+          "s": 4,
+          "t": "Okay... Then lemme ask this. Does anyone have any objections?"
+        },
+        {
+          "sit": "(Since we've decided to cooperate, I can't just sit this one out.)"
+        },
+        {
+          "sit": "...Count me in too."
+        },
+        {
+          "s": 1,
+          "t": "Alright, Paimon as well!"
+        },
+        {
+          "s": 4,
+          "t": "All in favor? Then I'll get to work."
+        },
+        {
+          "s": 4,
+          "t": "There's no need to be nervous, everyone. Just relax..."
+        },
+        {
+          "s": 14,
+          "t": "Vesna extracts Seals of Life from everyone in the group."
+        },
+        {
+          "s": 4,
+          "t": "And finally, Your Majesty. Forgive the intrusion... Huh!?"
+        },
+        {
+          "s": 10,
+          "t": "What's wrong?"
+        },
+        {
+          "s": 4,
+          "t": "Nothing, it's... it's nothing."
+        },
+        {
+          "s": 4,
+          "t": "(There are no memories within Her Majesty's Seal of Life! Just an endless expanse of white snow, like standing alone on the tundra...)"
+        },
+        {
+          "s": 4,
+          "t": "(How is this possible? Is there not a single happy memory in Her Majesty's life...?)"
+        },
+        {
+          "s": 4,
+          "t": "(And yet, her life force persists all the same... Huh, how strange.)"
+        },
+        {
+          "s": 7,
+          "t": "Will these Seals of Life be enough? Let's not forget, we're fighting the Ruler of Death..."
+        },
+        {
+          "s": 9,
+          "t": "This is plenty for initial research purposes. If we need more, we'll figure something out."
+        },
+        {
+          "s": 5,
+          "t": "Mitya, please assist Sandrone with the experiments."
+        },
+        {
+          "s": 5,
+          "t": "You will conduct research into applications of life force and how it may be used to fight the Ruler of Death. This is now our single most important task."
+        },
+        {
+          "s": 7,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 5,
+          "t": "That will be all for today. You may proceed with your duties."
+        },
+        {
+          "s": 8,
+          "t": "...Your Majesty, I still have some concerns I wish to voice to you."
+        },
+        {
+          "s": 5,
+          "t": "Very well. Come, we'll walk and talk."
+        }
+      ],
+      "description": "The monster has fallen, and the Tsaritsa returns in triumph. It is time to go see her."
+    },
+    {
+      "id": "q-7016",
+      "title": "Sparks Converging Upon the Tundra",
+      "dialogue": [
+        {
+          "section": "Return to your room to rest"
+        },
+        {
+          "s": 1,
+          "t": "Whoa! Danica, what are you doing here?"
+        },
+        {
+          "s": 2,
+          "t": "Her Majesty has granted me a few days off."
+        },
+        {
+          "s": 1,
+          "t": "...So?"
+        },
+        {
+          "s": 2,
+          "t": "I will be attending to your daily needs during this time as an apology for the incident at Podvorye Restaurant."
+        },
+        {
+          "s": 1,
+          "t": "Sounds a little suspicious... Is this really an apology? Or are you here to secretly spy on us?"
+        },
+        {
+          "s": 2,
+          "t": "Allow me to allay your suspicions. Her Majesty has ordered an end to all investigations into you, and I will not act discourteously towards you again."
+        },
+        {
+          "s": 2,
+          "t": "It's getting late. Please open the door."
+        },
+        {
+          "s": 14,
+          "t": "Once inside, Danica wastes no time tidying the room and putting everything into perfect order."
+        },
+        {
+          "s": 1,
+          "t": "Wow... the whole room is sparkling clean...! That was amazing!"
+        },
+        {
+          "s": 2,
+          "t": "It is the minimum I would expect of myself as a maid."
+        },
+        {
+          "s": 2,
+          "t": "Two cups of hot milk. I added a little honey to the one on the left. I presume Miss Paimon would prefer something sweet."
+        },
+        {
+          "s": 1,
+          "t": "Yep, yep! Dibs on the left one!"
+        },
+        {
+          "sit": "How long have you been a maid, Danica?"
+        },
+        {
+          "s": 2,
+          "t": "How long? Well, I've spent many years studying the etiquette and all the relevant skills. But I've only worked in the role for about... three years and two months."
+        },
+        {
+          "s": 2,
+          "t": "The Postelnitskaya family has served the Tsaritsa for three generations. My mother and her mother were maids at the court, too. I've been honing my cleaning and tidying skills since childhood, so it's second nature to me."
+        },
+        {
+          "s": 1,
+          "t": "So your grandmother, then your mother, and now you... Wow, that's gotta be several decades, right?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, wait... The Tsaritsa must have been around for a really long time... A few decades probably seems like a pretty short time to her."
+        },
+        {
+          "s": 2,
+          "t": "My grandmother has made similar remarks before. \"As humans, we are destined to walk with Her Majesty for but a few short years.\""
+        },
+        {
+          "s": 2,
+          "t": "\"That is why we must cherish the time we spend in Her service, so that we may be worthy of her love.\""
+        },
+        {
+          "sit": "\"Love\"?"
+        },
+        {
+          "sit": "She said she doesn't identify with that authority."
+        },
+        {
+          "s": 2,
+          "t": "...If Her Majesty were truly as she claims, why would she have allowed me to follow my own wishes back then?"
+        },
+        {
+          "s": 2,
+          "t": "Even if it were not mandates by the Heavenly Principles' curse, I believe... Ahem, I spoke out of turn. It is not my place to speculate on Her Majesty's intentions."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 1,
+          "t": "Um... So when you say follow your own wishes, you mean when you became a mercenary?"
+        },
+        {
+          "s": 2,
+          "t": "That's right. My father was a mercenary who traveled the world. As a young child in training to become a maid, whenever I received his letters, I would dream about the outside world."
+        },
+        {
+          "s": 2,
+          "t": "Her Majesty gave me the chance to live my dreams. She was the one who persuaded my mother and grandmother to let me seek adventure in distant lands."
+        },
+        {
+          "s": 2,
+          "t": "After I finished studying martial arts from my mentor, I set off on my journey. And when my homeland needed me, I returned."
+        },
+        {
+          "sit": "If I get the chance, I'd love to hear all about your adventures."
+        },
+        {
+          "s": 2,
+          "t": "I'm sure you would find much to relate to in my journey. I understand you're a seasoned adventurer yourself."
+        },
+        {
+          "s": 2,
+          "t": "But it's getting late. Let's continue this discussion next time."
+        },
+        {
+          "s": 2,
+          "t": "The hot drink should have a sufficiently soporific effect. Get some sleep, and may your dreams be a place of warmth on this cold night."
+        },
+        {
+          "s": 1,
+          "t": "*yawn* Yeah, Paimon's starting to get real sleepy now. See ya again soon, Danica!"
+        },
+        {
+          "s": 2,
+          "t": "Goodbye."
+        },
+        {
+          "section": "Talk to Paimon"
+        },
+        {
+          "s": 1,
+          "t": "That's strange, why's it so noisy outside? What's everyone talking about?"
+        },
+        {
+          "section": "Check on the situation outside"
+        },
+        {
+          "s": 15,
+          "t": "Did you hear? The Druzhna soldiers just donated something called a \"Seal of Life.\""
+        },
+        {
+          "s": 16,
+          "t": "Seal of Life? What's that?"
+        },
+        {
+          "s": 15,
+          "t": "They say it has something to do with a person's life force. Apparently, it's very potent once it's extracted."
+        },
+        {
+          "s": 16,
+          "t": "That sounds incredibly dangerous... Extracting life force? Gotta be a sure-fire way of shaving a few years off your life."
+        },
+        {
+          "s": 15,
+          "t": "I doubt it. Remember when everyone kicked up a fuss during the medical stocks campaign? They said the same thing — blood donors won't live as long. Of course, everyone turned out fine."
+        },
+        {
+          "s": 16,
+          "t": "Eh, fair point..."
+        },
+        {
+          "sit": "(So word has gotten out about collecting the Seals of Life? I wonder what's going on...)"
+        },
+        {
+          "section": "Check on the situation outside"
+        },
+        {
+          "s": 1,
+          "t": "(test) Voice Line"
+        },
+        {
+          "s": 17,
+          "t": "Whoa, it's Vodyanitsa!"
+        },
+        {
+          "s": 18,
+          "t": "And Odette too! Can I get your autograph?"
+        },
+        {
+          "s": 19,
+          "t": "Sorry, ladies. We have some things to take care of."
+        },
+        {
+          "s": 1,
+          "t": "Vodyanitsa, Odette! You're here too!"
+        },
+        {
+          "s": 20,
+          "t": "Ah, look — our escort has arrived. Thank you for your support, my friends. We'll have to leave it there for today. Hope to see you again soon at the Korolevskiy Troupe!"
+        },
+        {
+          "s": 19,
+          "t": "Hello, we meet again."
+        },
+        {
+          "s": 20,
+          "t": "Thanks for helping us escape. Lemme guess, you're here to see what all the fuss is about with the Seals of Life?"
+        },
+        {
+          "s": 1,
+          "t": "Yep. You guys too, huh?"
+        },
+        {
+          "s": 19,
+          "t": "We heard the news during a performance and came to find out the truth. Quite a crowd has gathered near Zapolyarny Palace. Let's go and take a look."
+        },
+        {
+          "s": 1,
+          "t": "Oh, Alyosha! Didn't expect to run into you here!"
+        },
+        {
+          "s": 21,
+          "t": "Hello, {NICKNAME}, Paimon. Have you heard the news about the Seals of Life?"
+        },
+        {
+          "s": 1,
+          "t": "Yeah. We didn't expect the whole town to be talking about it the moment we woke up."
+        },
+        {
+          "s": 1,
+          "t": "Since we're both here, let's team up!"
+        },
+        {
+          "section": "Observe the crowd at the plaza"
+        },
+        {
+          "s": 1,
+          "t": "Alyosha! You're here too?"
+        },
+        {
+          "s": 21,
+          "t": "Yeah, I heard about the Seals of Life thing, thought I'd come check it out."
+        },
+        {
+          "s": 1,
+          "t": "Vodyanitsa and Odette, are you here about the Seals of Life, too?"
+        },
+        {
+          "s": 19,
+          "t": "That's right. Seems like the rumor mill went into overdrive during the night. We have no idea what the original source was."
+        },
+        {
+          "s": 20,
+          "t": "There's so many more people here than I was expecting. And the atmosphere's really buzzing."
+        },
+        {
+          "s": 1,
+          "t": "Hey! Alyosha, Vodyanitsa, and Odette! Hehe, Paimon didn't think we'd run into you guys here."
+        },
+        {
+          "s": 21,
+          "t": "Guessing you heard the news about the Seals of Life? Feels like there's a lot more to this story than what we're being told..."
+        },
+        {
+          "s": 19,
+          "t": "Hm, a large crowd has congregated in front of Zapolyarny Palace. Let's go check things out."
+        },
+        {
+          "s": 22,
+          "t": "Councilor Belozersky, please answer our questions! We understand that Her Majesty is collecting something called Seals of Life, which come from human life force. Is this true?"
+        },
+        {
+          "s": 23,
+          "t": "What's the justification for this move? Does it really serve an important purpose, or is it just for the selfish gain of a select few?"
+        },
+        {
+          "s": 24,
+          "t": "Excuse me, coming through! Is no one going to ask a serious question?"
+        },
+        {
+          "s": 24,
+          "t": "Why is Her Majesty collecting Seals of Life? What trouble is she facing? How will our lives be affected?"
+        },
+        {
+          "s": 25,
+          "t": "How many more are needed, and what happens if there aren't enough? Can the rest of us donate Seals of Life like the Druzhna?"
+        },
+        {
+          "s": 26,
+          "t": "Everyone, please. Calm down and allow me to respond."
+        },
+        {
+          "s": 26,
+          "t": "We can confirm that the Druzhna has indeed donated Seals of Life as part of an organized operation. Donations are not, however, being accepted from members of the public at this time."
+        },
+        {
+          "s": 26,
+          "t": "With regards to the purpose for which the Seals of Life are being collected, this must remain confidential for the time being. But there is no need to worry. Whatever trials lie ahead, we can be sure that Her Majesty will handle them with ease."
+        },
+        {
+          "s": 27,
+          "t": "The Druzhna are Her Majesty's personal guard. They fight our most dangerous enemies all year round. Why should they be the ones required to donate their Seals of Life?"
+        },
+        {
+          "s": 28,
+          "t": "Exactly! You should be leading by example!"
+        },
+        {
+          "s": 26,
+          "t": "I..."
+        },
+        {
+          "s": 8,
+          "t": "Mr. Belozersky, much work remains in the Veche. You may resume your duties."
+        },
+        {
+          "s": 8,
+          "t": "Thank you all for your sincere display of support. I have just spoken with Her Majesty, and she has agreed to open additional donation channels for gathering Seals of Life."
+        },
+        {
+          "s": 8,
+          "t": "Donation will be obligatory for government officials and nobles. Everyone else, you may visit the Northland Bank to participate in the initiative should you feel so inclined."
+        },
+        {
+          "s": 8,
+          "t": "Your Seals of Life will be stored in the Northland Bank's most secure vault and kept under close guard. In return for your contribution, the Northland Bank will be offering interest on any deposits."
+        },
+        {
+          "s": 24,
+          "t": "\"Interest\"? You mean we'll get paid for donating our Seals of Life?"
+        },
+        {
+          "s": 8,
+          "t": "Of course. It is only right that we offer a token of our appreciation for this great gesture of support."
+        },
+        {
+          "s": 8,
+          "t": "Interested parties are invited to proceed to the Northland Bank in an orderly fashion. Please refrain from congregating outside Zapolyarny Palace."
+        },
+        {
+          "s": 19,
+          "t": "Hmm... What are your thoughts?"
+        },
+        {
+          "s": 21,
+          "t": "I don't trust those big shots. But if the nation really is in danger, I won't stand by and do nothing."
+        },
+        {
+          "s": 21,
+          "t": "I expect most ordinary folk like us feel the same way."
+        },
+        {
+          "s": 20,
+          "t": "Couldn't agree more. Since Her Majesty needs Seals of Life, let's do our part."
+        },
+        {
+          "s": 19,
+          "t": "Agreed. Let's join the others."
+        },
+        {
+          "section": "Go to Northland Bank"
+        },
+        {
+          "s": 29,
+          "t": "The Druzhna are on the move... That can't be a good sign. That monster was bad enough, but I hear this is even worse... *sigh*"
+        },
+        {
+          "s": 29,
+          "t": "This land has endured every kind of hardship imaginable, and no god has ever shown it mercy. Her Majesty..."
+        },
+        {
+          "s": 30,
+          "t": "Hello. Please place your hand here. That's right, on the lamp."
+        },
+        {
+          "s": 19,
+          "t": "Like this?"
+        },
+        {
+          "s": 30,
+          "t": "Alright, the Seal of Life extraction is complete. Thank you for your contribution."
+        },
+        {
+          "s": 30,
+          "t": "While the Northland Bank will take all reasonable steps to ensure the safety of your seal, please confirm your agreement with the following terms: In the event of force majeure, the compensation clause will not apply..."
+        },
+        {
+          "s": 21,
+          "t": "That was easier than I expected."
+        },
+        {
+          "s": 20,
+          "t": "Reminds me of the time I took part in the Medical Stocks Campaign. My head's a little dizzy, but it's nothing serious."
+        },
+        {
+          "s": 20,
+          "t": "Did you guys notice that colorful sphere in the center of the Seal of Life? If you look inside, you can see some memories."
+        },
+        {
+          "s": 19,
+          "t": "I saw. It was nothing much, just some old memories."
+        },
+        {
+          "s": 21,
+          "t": "Mine was running through the snow with Tugarin. That was his first catch. It was a rabbit, trying to hide in the snow."
+        },
+        {
+          "s": 21,
+          "t": "I haven't been out hunting with him in a while. Maybe after the storm passes..."
+        },
+        {
+          "s": 4,
+          "t": "Whew... I'm exhausted. Huh? {NICKNAME}, Paimon, what brings you here?"
+        },
+        {
+          "s": 4,
+          "t": "Ah, Vodyanitsa and Odette. So you all know each other. And who's this young man?"
+        },
+        {
+          "s": 21,
+          "t": "I'm Alyosha, a hunter from out of town. If I'm not mistaken, you're..."
+        },
+        {
+          "s": 4,
+          "t": "Vesna, Commander of the Druzhna. And this is Danica, Her Majesty's head maid."
+        },
+        {
+          "s": 2,
+          "t": "Greetings."
+        },
+        {
+          "s": 1,
+          "t": "Vesna, what's with that lamp? How can it extract Seals of Life just like you?"
+        },
+        {
+          "s": 19,
+          "t": "\"Like you\"? You're able to extract Seals of Life?"
+        },
+        {
+          "s": 4,
+          "t": "Hold up, hold up. It's a bit of a complicated situation, so let me explain from the beginning."
+        },
+        {
+          "s": 4,
+          "t": "Firstly, yes, I have a power within me that can extract Seals of Life. It's a long story, but the short and simple version is: I inherited it from my ancestors."
+        },
+        {
+          "s": 4,
+          "t": "However, it wasn't feasible for me to extract everyone's Seals of Life all on my own. So, with a little help from Sandrone, I divided my power further to create this beacon."
+        },
+        {
+          "s": 4,
+          "t": "This way, even if I'm not around, the public can still go to the Northland Bank to deposit their Seals of Life. Pretty handy, huh?"
+        },
+        {
+          "sit": "Makes sense."
+        },
+        {
+          "sit": "You look pretty exhausted."
+        },
+        {
+          "s": 4,
+          "t": "I've been rushed off my feet since early this morning. We weren't expecting quite so many people to answer Her Majesty's call. Oh, uh, I'm guessing you two are here to donate Seals of Life too?"
+        },
+        {
+          "s": 4,
+          "t": "If I'd known you were coming, I'd have offered to do the honors myself! What a golden opportunity to meet the two superstars themselves. I'm a huge fan!"
+        },
+        {
+          "s": 19,
+          "t": "I think we already met at the morning audience... although we didn't get much of a chance to chat. I doubt there are many people around who haven't heard of the illustrious Commander of the Druzhna and Her Majesty's Head Maid..."
+        },
+        {
+          "s": 2,
+          "t": "Those are but titles. We are all equals in our desire to be of service to Her Majesty."
+        },
+        {
+          "s": 4,
+          "t": "Exactly! Well, now that we're officially acquainted, the next time a soldier asks me for your autographed photos, I'll be shamelessly pestering you for them, hehe."
+        },
+        {
+          "s": 4,
+          "t": "Also, I must say — this young man has piqued my curiosity. He claims to be a hunter... But how does a hunter end up getting so close with the theater's top superstars and the Traveler?"
+        },
+        {
+          "s": 4,
+          "t": "(Is it shared interest... or shared activities? There was that very active civilian organization not too long ago... Hmm...)"
+        },
+        {
+          "s": 1,
+          "t": "Oh. We, uh..."
+        },
+        {
+          "s": 4,
+          "t": "It's alright — I'm just curious, that's all. Now I think about it, who am I to say who should be friends with whom? When it comes to friendship groups, the more the merrier."
+        },
+        {
+          "s": 20,
+          "t": "(She's sharp. I can tell by the way she's looking at us that she has a hunch about the true story.)"
+        },
+        {
+          "s": 31,
+          "t": "Hello, all... Is that you, {NICKNAME}, and Miss Odette? I'm not mistaken, am I?"
+        },
+        {
+          "sit": "...Who are you?"
+        },
+        {
+          "s": 31,
+          "t": "It's me, Pevtsova! Remember? If it wasn't for you, I'd have been monster fodder back in Svetloledovka."
+        },
+        {
+          "s": 1,
+          "t": "Oh! That rings a bell... What brings you here?"
+        },
+        {
+          "s": 31,
+          "t": "The rebuilding work is almost finished. I came to buy the last batch of supplies, happened to hear about the Seals of Life, and thought I'd do my part to help out."
+        },
+        {
+          "s": 31,
+          "t": "It's amazing that I ran into you here. Things were so chaotic last time, I didn't get the chance to thank you properly. I owe you everything. You literally saved my life."
+        },
+        {
+          "s": 19,
+          "t": "Just doing our job. Glad we could help. How are the townsfolk doing?"
+        },
+        {
+          "s": 31,
+          "t": "A lot of people are still recovering from their injuries. Hopefully shouldn't be much longer now. *sigh* It's a shame their recovery is taking so long, otherwise they'd be able to donate some Seals of Life too."
+        },
+        {
+          "s": 31,
+          "t": "We've had so much support since the incident — both the Veche and the military have sent people to help with the rebuilding work. Everyone in the town is very grateful. They really want to do something in return."
+        },
+        {
+          "s": 4,
+          "t": "In that case, how about we all take a trip to Svetloledovka?"
+        },
+        {
+          "s": 2,
+          "t": "...Are you serious?"
+        },
+        {
+          "s": 4,
+          "t": "Why not? There's no other pressing work at the moment. We can get out of town for some fresh air and bring back some Seals of Life while we're at it. I'm sure Her Majesty will approve."
+        },
+        {
+          "s": 31,
+          "t": "Really? But... do you even have a way to collect Seals of Life in the town?"
+        },
+        {
+          "s": 4,
+          "t": "Of course. What does everyone think?"
+        },
+        {
+          "s": 20,
+          "t": "Odette and I have our next show in three days. As long as it's a quick trip, we should make it back in time."
+        },
+        {
+          "s": 21,
+          "t": "No objections from me."
+        },
+        {
+          "s": 4,
+          "t": "Then let's go! Hmm, what time's the next train to Svetloledovka?"
+        },
+        {
+          "s": 2,
+          "t": "It leaves in about an hour."
+        },
+        {
+          "s": 4,
+          "t": "One hour? Then we need to hurry. Let's go, let's go go go! Time to get moving!"
+        },
+        {
+          "section": "Collect Seals of Life"
+        },
+        {
+          "s": 4,
+          "t": "Listen up, folks! No children or elderly people in the line, please. Thank you!"
+        },
+        {
+          "s": 20,
+          "t": "Please form an orderly line, everyone..."
+        },
+        {
+          "s": 32,
+          "t": "So this is a Seal of Life, huh? So shiny. It's quite beautiful."
+        },
+        {
+          "s": 19,
+          "t": "Please keep this receipt somewhere safe. Assuming everything goes to plan, we'll be returning Seals of Life to their owners at some point in the future. At that time, please bring your voucher to us to claim yours."
+        },
+        {
+          "s": 32,
+          "t": "Ah, okay. Thank you, Miss Odette."
+        },
+        {
+          "s": 33,
+          "t": "I saw something sparkling inside your Seal of Life. What was that?"
+        },
+        {
+          "s": 32,
+          "t": "Miss Vesna says they are beautiful memories from a person's life."
+        },
+        {
+          "s": 33,
+          "t": "What!? Okay, so tell me more. Who is that woman in your memories?"
+        },
+        {
+          "s": 32,
+          "t": "Uh, hehe... Oh dear... Look, I can explain, let's just get back home first..."
+        },
+        {
+          "s": 4,
+          "t": "Hehehehe, make him explain everything!"
+        },
+        {
+          "s": 4,
+          "t": "Miss Odette... Thank you so much for all your help. I definitely couldn't have handled this crowd on my own."
+        },
+        {
+          "s": 19,
+          "t": "My pleasure. I must say, Miss Vesna, I admire your... how should I describe it? Your sense of initiative. You don't beat around the bush — you get things done."
+        },
+        {
+          "s": 4,
+          "t": "Initiative, huh... Hah, I appreciate the compliment. You'll never hear Danica putting it in such nice terms. She says I always act on a whim."
+        },
+        {
+          "s": 19,
+          "t": "You seemed quite exhausted back at Northland Bank. But as soon as Pevtsova mentioned that the people of Svetloledovka wanted to contribute, you agreed without a moment's hesitation."
+        },
+        {
+          "s": 4,
+          "t": "Because I could tell that she wasn't just saying it to be polite. People needed me, I was available, so I figured — let's give it a shot. It's no skin off my back."
+        },
+        {
+          "s": 2,
+          "t": "Especially since it gives you a convenient reason to go traveling."
+        },
+        {
+          "s": 4,
+          "t": "Of course, dearest Danica. A happy coincidence indeed."
+        },
+        {
+          "s": 2,
+          "t": "Everyone in town has been notified, and all willing participants are here. At this rate, we'll be able to head back tonight."
+        },
+        {
+          "s": 4,
+          "t": "Tonight? I was hoping to stay for a few more days..."
+        },
+        {
+          "s": 2,
+          "t": "There's still a lot of work waiting for you in the Druzhna. I'll check the schedule for trains back to Snezhnograd..."
+        },
+        {
+          "s": 21,
+          "t": "There's one tonight, but I don't think it can carry this many Seals of Life."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, sounds like someone's having train trouble."
+        },
+        {
+          "s": 1,
+          "t": "Not to worry! We can use our private train for the return journey."
+        },
+        {
+          "s": 4,
+          "t": "Thank you for your donation... What? You have a private train? Like... actually?"
+        },
+        {
+          "s": 1,
+          "t": "Of course! We'll show you later!"
+        },
+        {
+          "s": 4,
+          "t": "That's so cool! How big is it?"
+        },
+        {
+          "s": 19,
+          "t": "Here's your receipt, please keep it somewhere safe."
+        },
+        {
+          "s": 20,
+          "t": "We're coming up to the end of the line. Those of you who are still waiting, please hang in there — it'll be your turn very soon!"
+        },
+        {
+          "s": 34,
+          "t": "Huh...? What happened to my gloves? Did they somehow get dragged off in the crowd while I was waiting in line?"
+        },
+        {
+          "s": 35,
+          "t": "Prima Donna Vodyanitsa! What a surprise to see you outside the theater... I'm sure my Seal of Life is chock full of all my wonderful memories of watching your performances!"
+        },
+        {
+          "s": 33,
+          "t": "I thought you went no contact with her after breaking up!"
+        },
+        {
+          "s": 2,
+          "t": "...We need to keep things moving."
+        },
+        {
+          "s": 4,
+          "t": "Okay! I'm gonna lock in and get the rest of these Seals of Life collected!"
+        },
+        {
+          "section": "Talk to everyone"
+        },
+        {
+          "s": 31,
+          "t": "...Sure you can't stay in town for a few more days?"
+        },
+        {
+          "s": 2,
+          "t": "We are most grateful for the offer, but we still have some things to attend to back home."
+        },
+        {
+          "s": 4,
+          "t": "If you ever miss us, come pay us a visit in Snezhnograd! Hehe."
+        },
+        {
+          "s": 20,
+          "t": "Thank you all — let's leave it there for today. No need to see me off. To those who have injuries on the mend, I wish you a speedy recovery. I hope tomorrow is another beautiful day."
+        },
+        {
+          "s": 36,
+          "t": "Come back and visit as often as you'd like, Miss Odette!"
+        },
+        {
+          "s": 19,
+          "t": "Sure, will do. Time for us to leave now. Goodbye, everyone."
+        },
+        {
+          "s": 1,
+          "t": "Goggle, Goggle, do you copy...?"
+        },
+        {
+          "s": 37,
+          "t": "Loud and clear. Running vehicle diagnostics."
+        },
+        {
+          "s": 37,
+          "t": "Engine: Green. Wheels: Green. Frame: Intact. Ready for departure."
+        },
+        {
+          "s": 1,
+          "t": "All aboard! And off we go!"
+        },
+        {
+          "section": "Talk to Vesna"
+        },
+        {
+          "s": 4,
+          "t": "Must be so nice having your own train~"
+        },
+        {
+          "s": 4,
+          "t": "I actually put in a request for one to Her Majesty, but she denied it. I've tried to see about borrowing one from Pantalone, too, but he always brushes me off with every excuse under the sun."
+        },
+        {
+          "s": 4,
+          "t": "Hey~ how about you lend me yours for a couple of days? I can be your chauffeur and take you wherever you wanna go."
+        },
+        {
+          "sit": "You can drive a train?"
+        },
+        {
+          "s": 4,
+          "t": "Ooh... D—Depends what you mean by \"can.\" Do I have a license? Admittedly, no. But I definitely have the skills. My colleagues in the Druzhna can vouch for that."
+        },
+        {
+          "s": 2,
+          "t": "You accelerated around a bend and sent three people flying, resulting in a six-month driving ban. Which doesn't expire for another forty days."
+        },
+        {
+          "s": 4,
+          "t": "Hey! You know that's off limits!"
+        },
+        {
+          "s": 2,
+          "t": "Three coffees, these two with sugar. Please enjoy."
+        },
+        {
+          "s": 4,
+          "t": "Dearest Danica, I'd like a sweet coffee today, too."
+        },
+        {
+          "s": 2,
+          "t": "Then help yourself. It's not a part of my job to look after you."
+        },
+        {
+          "s": 4,
+          "t": "What happened to being happy to serve? *sigh* When you were little—"
+        },
+        {
+          "s": 2,
+          "t": "We're the same age. Don't talk to me like you're my elder."
+        },
+        {
+          "s": 4,
+          "t": "What do you mean, same age? I'm two whole months older than you!"
+        },
+        {
+          "sit": "Only two months? Yeah, you're definitely the same age."
+        },
+        {
+          "s": 4,
+          "t": "Not you, too!"
+        },
+        {
+          "s": 1,
+          "t": "Actually, Paimon's surprised that you're only two months apart. For some reason, whenever there's a fae involved, Paimon just assumes they're as old as the hills."
+        },
+        {
+          "s": 4,
+          "t": "Just because I have a long life doesn't mean I've HAD a long life."
+        },
+        {
+          "s": 4,
+          "t": "Actually, I never used to like bringing up my age in the past. But ever since Danica got back from her travels, she's acted all deep and serious."
+        },
+        {
+          "s": 4,
+          "t": "She puts on this poker face like she's cool as a cucumber, making me look like the one who hasn't grown up. That's why I have to keep emphasizing that I'm the older one."
+        },
+        {
+          "s": 2,
+          "t": "First of all, it's not an act. Secondly, the idea of being more mature in age alone is quite pitiful."
+        },
+        {
+          "s": 4,
+          "t": "Nuh-uh, I'm not listening!"
+        },
+        {
+          "s": 2,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "So anyway, Danica, you haven't told us about your travels yet! You promised you'd tell us when you got the chance."
+        },
+        {
+          "s": 2,
+          "t": "Sure. It's no secret in any case."
+        },
+        {
+          "s": 2,
+          "t": "My father was a mercenary from Sumeru, so my first stop was the desert."
+        },
+        {
+          "s": 2,
+          "t": "There, I witnessed the fierce opposition between the desert and the rainforest. There was no understanding, and no one seemed to be seeking it. Hatred was the motivating force, giving everyone the courage to forge ahead."
+        },
+        {
+          "s": 2,
+          "t": "One quiet, cold night, we sat around the campfire, listening to the desert scholars as they spoke with eloquence and conviction. They made a great case for why armed conquest is the only real truth in Teyvat..."
+        },
+        {
+          "s": 2,
+          "t": "After that, I went to Fontaine and had my fair share of run-ins with the gangs of the Fleuve Cendre. Some people were dressed to the nines, but their hands were covered in blood."
+        },
+        {
+          "s": 2,
+          "t": "Aside from all the overt and covert threats, rumors of a prophecy of doom and destruction circulated in the streets. The more you learned, the deeper you'd sink into despair."
+        },
+        {
+          "s": 2,
+          "t": "Then there was Natlan, a nation locked in endless war... Liyue, the land lost in a long dream under the protection of its god... and Inazuma, beset by all manner of perils..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, well, all those issues have basically been resolved now! We helped out a lot along the way."
+        },
+        {
+          "s": 2,
+          "t": "And what if you hadn't been there?"
+        },
+        {
+          "s": 1,
+          "t": "Umm... Huh?"
+        },
+        {
+          "s": 2,
+          "t": "I believe that with everyone pulling together, most of those problems would eventually have seen a resolution in the end. But it certainly wouldn't have been as smooth a road as it was."
+        },
+        {
+          "sit": "I don't see it that way."
+        },
+        {
+          "sit": "It's all the people we've met that make this journey meaningful. And it's only because we banded together with them that we were able to accomplish so many incredible things."
+        },
+        {
+          "s": 2,
+          "t": "...You're a good person. I won't deny your perspective — after all, here we are, overcoming hardships together."
+        },
+        {
+          "s": 2,
+          "t": "But it doesn't change my views on the great ruler of the firmament and the agents who act on its behalf. They hold such great power in the palms of their hands, yet they turn a blind eye to the suffering of so many."
+        },
+        {
+          "s": 4,
+          "t": "They're also the ones responsible for what happened to mine and Danica's mentor."
+        },
+        {
+          "s": 1,
+          "t": "Huh? You both trained under The Captain?"
+        },
+        {
+          "s": 2,
+          "t": "Back then, gifted children who passed the selection exam got to be mentored personally by Capitano."
+        },
+        {
+          "s": 2,
+          "t": "He always used to say that he hoped to leave some \"embers\" behind... We didn't know what he meant at the time, but it's clear now that he must have been planning for his departure for a long time."
+        },
+        {
+          "s": 4,
+          "t": "Danica and I met through Mr. Capitano. We went to class together, ate together... Back then, she was only this tall..."
+        },
+        {
+          "s": 2,
+          "t": "Stop talking like you're my elder."
+        },
+        {
+          "s": 2,
+          "t": "It's getting late. Everyone else is asleep — we should turn in, too. Goodnight, everyone."
+        },
+        {
+          "s": 4,
+          "t": "Alright, we'll finish off our chat and then head to bed. I'm sure there was something we hadn't finished talking about... Ah, yes! The train!"
+        },
+        {
+          "s": 1,
+          "t": "Haha! Yeah, you're not borrowing our train."
+        },
+        {
+          "s": 4,
+          "t": "Alright, never mind. Honestly, on second thought, as fun as being the driver is, sitting in the back drinking coffee is pretty nice too."
+        },
+        {
+          "s": 1,
+          "t": "Huh... Sure didn't take you long to change your mind..."
+        },
+        {
+          "s": 4,
+          "t": "I get that a lot. I think a lot of people find me to be quite a headache."
+        },
+        {
+          "s": 4,
+          "t": "But you definitely won't regret being friends with me! If you ever need a hand, just say the word and I promise I'll be there."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry about it! We've made friends with all kinds of characters on our travels. We've seen it all before."
+        },
+        {
+          "s": 1,
+          "t": "It's all thanks to you that we managed to collect so many Seals of Life. With all these in our arsenal, Paimon's sure we'll be able to defeat that good-for-nothing, grim-reaping death broker."
+        },
+        {
+          "s": 4,
+          "t": "Let's hope so. This power's been buried inside me all this time, but I've almost never had the occasion to use it."
+        },
+        {
+          "s": 4,
+          "t": "Very few people know about it. Besides the Vila, the only people who used to be in the know were myself, the Tsaritsa, Mr. Pierro, and mine and Danica's mentor."
+        },
+        {
+          "s": 4,
+          "t": "I remember he once told me not to rely too heavily on power that isn't my own, unless I truly have nowhere left to turn. I think I've done a good job of adhering to that."
+        },
+        {
+          "s": 4,
+          "t": "It's funny — this power was entrusted to the Vila to help humanity, yet the first time I actually use it, it's to ask humans to help me... Kinda embarrassing now I say it out loud..."
+        },
+        {
+          "sit": "Does the trust of humans put pressure on you?"
+        },
+        {
+          "s": 4,
+          "t": "Huh? No, not at all. It's just like being friends, I guess. Being trusted by friends is a source of power, not pressure."
+        },
+        {
+          "s": 4,
+          "t": "Still, I've made up my mind that I'm going to protect these Seals of Life. I'm the one who *yawn* brought them here... and I'm the one who has to make sure they get safely returned..."
+        },
+        {
+          "s": 4,
+          "t": "Wow, I'm getting really sleepy. I'm going to get some shut-eye — wake me up when we arrive."
+        },
+        {
+          "sit": "(It's dark out, and the carriage has fallen quiet. The only sound left is the rhythm of the train.)"
+        },
+        {
+          "sit": "(The gentle rocking of the carriage is making my eyelids feel droopy... I should probably get some sleep too...)"
+        },
+        {
+          "sit": "...!"
+        },
+        {
+          "sit": "(How strange... Was it just my imagination? Or was there something there just now...?)"
+        },
+        {
+          "section": "Go to Northland Bank"
+        },
+        {
+          "s": 4,
+          "t": "Delivery Complete~"
+        },
+        {
+          "s": 4,
+          "t": "It's a wrap, folks! Time to head back and grab a drink, hehe."
+        },
+        {
+          "s": 2,
+          "t": "I'll be parting ways with you here too. Goodbye, everyone. Until next time."
+        },
+        {
+          "s": 21,
+          "t": "Guess we should head back too."
+        },
+        {
+          "s": 21,
+          "t": "I think I'm going to grab some Snezhnaya Shashliks and a few treats for Tugarin. What about you guys?"
+        },
+        {
+          "s": 20,
+          "t": "Oh? Count me in if food's on the agenda. I just finished reading a book called Healthy and Delicious Snezhnayan Recipes, so I'm feeling like quite the connoisseur right now."
+        },
+        {
+          "s": 20,
+          "t": "Maybe you should start calling me \"Gourmet Vodyanitsa.\""
+        },
+        {
+          "s": 19,
+          "t": "You must have quite a collection of gourmet books by now."
+        },
+        {
+          "s": 20,
+          "t": "Well, since I can't feast endlessly, I naturally have to save my limited stomach space for the most worthy dishes."
+        },
+        {
+          "s": 21,
+          "t": "In that case, I'll leave you to recommend something."
+        },
+        {
+          "s": 1,
+          "t": "Ooh, we're going for tasty food? Paimon's gotta get in on this! Let's go eat!"
+        },
+        {
+          "s": 38,
+          "t": "Odette! Thank goodness you're here..."
+        },
+        {
+          "s": 19,
+          "t": "What's wrong? What happened?"
+        },
+        {
+          "s": 38,
+          "t": "Our people having been asking around, and they've come across some concerning news..."
+        },
+        {
+          "s": 19,
+          "t": "What? How dare they..."
+        },
+        {
+          "s": 19,
+          "t": "..."
+        },
+        {
+          "s": 20,
+          "t": "Anything we can do to help?"
+        },
+        {
+          "s": 19,
+          "t": "This isn't a good place to talk. Let's head to the usual spot first."
+        },
+        {
+          "s": 1,
+          "t": "The usual spot?"
+        },
+        {
+          "sit": "Oh, that place."
+        },
+        {
+          "s": 1,
+          "t": "What place? Will someone clue Paimon in please? Ugh, whatever, just lead the way."
+        },
+        {
+          "s": 39,
+          "t": "Though I've retired from the Druzhna, I spent many years in faithful service to Her Majesty."
+        },
+        {
+          "s": 39,
+          "t": "If they'll take me, I'd like to offer my service once more. Count me in for the Seal of Life donations."
+        }
+      ],
+      "description": "Along with the others, you learn from the Tsaritsa that the former Archangel once stole a small portion of the Ruler of Life's power, which was then handed to the Vila for safekeeping. Now, at this critical juncture in the fight against death, Vesna decides to use this tiny sliver of power to extract Seals of Life from everyone."
+    },
+    {
+      "id": "q-7017",
+      "title": "One Move Left to Make",
+      "dialogue": [
+        {
+          "section": "Go to the backstage of the opera house to discuss"
+        },
+        {
+          "s": 1,
+          "t": "Oh, so this is the spot you were talking about."
+        },
+        {
+          "s": 21,
+          "t": "What happened? You don't look so good, Miss Odette."
+        },
+        {
+          "s": 19,
+          "t": "While we were away, a rumor began circulating in the dark corners of Snezhnograd."
+        },
+        {
+          "s": 19,
+          "t": "Word is, there's a mysterious contact at the station claiming to offer life-extending services."
+        },
+        {
+          "s": 20,
+          "t": "What?"
+        },
+        {
+          "s": 21,
+          "t": "Does that mean...?"
+        },
+        {
+          "sit": "Someone stole the Seals of Life?"
+        },
+        {
+          "s": 1,
+          "t": "That's terrible!"
+        },
+        {
+          "s": 19,
+          "t": "There's still a lot we don't know right now. We don't even know if the seals can be used to achieve such a thing, and without Vesna here, we have no way to find out."
+        },
+        {
+          "s": 19,
+          "t": "But there's a real risk of the seals being used for the wrong purposes. I hate to be crass, but the lows some people will stoop to are just appalling."
+        },
+        {
+          "s": 21,
+          "t": "It's just like during Project Stuzha. There are people even worse than bandits out there. People who hide in the shadows, bleeding this nation dry."
+        },
+        {
+          "s": 20,
+          "t": "People willingly donated their seals without even knowing how we were going to use them... They handed over their precious life force out of pure trust."
+        },
+        {
+          "s": 20,
+          "t": "I—If the seals end up being misused by someone with bad intentions, how are we ever going to face them?"
+        },
+        {
+          "sit": "Sounds like we need to catch this guy."
+        },
+        {
+          "s": 21,
+          "t": "We made a great team before. We can do it again."
+        },
+        {
+          "s": 19,
+          "t": "From what I've heard, though, the person we're looking for is extremely cagey."
+        },
+        {
+          "s": 19,
+          "t": "He almost only agrees to meet with the frail and elderly — people who are genuinely desperate."
+        },
+        {
+          "s": 20,
+          "t": "The frail and elderly... Well, none of us fit that description. Oh, wait! I've got an idea."
+        },
+        {
+          "s": 21,
+          "t": "What are you looking at me for? You want me to call in backup from the Rokot?"
+        },
+        {
+          "s": 20,
+          "t": "No, no, no, there's no time for that! Just trust me. Come here!"
+        },
+        {
+          "s": 20,
+          "t": "Tada!"
+        },
+        {
+          "s": 1,
+          "t": "Wh—Whoa..."
+        },
+        {
+          "sit": "That's quite the makeover..."
+        },
+        {
+          "s": 19,
+          "t": "Should we touch this part up a little?"
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "sit": "How about a different look?"
+        },
+        {
+          "sit": "Looks good. That should do it."
+        },
+        {
+          "s": 21,
+          "t": "Hmm..."
+        },
+        {
+          "sit": "Actually, I preferred the previous one."
+        },
+        {
+          "s": 21,
+          "t": "How do I look?"
+        },
+        {
+          "s": 21,
+          "t": "You really think this is gonna fool that guy?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... Paimon was a little skeptical at first, but seeing it now, it seems like it could really work..."
+        },
+        {
+          "s": 20,
+          "t": "I've done all I can! Now, it all comes down to how you sell it, Alyosha!"
+        },
+        {
+          "s": 21,
+          "t": "I'm no actor, but... Fine. Let me get into character."
+        },
+        {
+          "s": 21,
+          "t": "Ahem... Young people these days have no manners whatsoever. No respect for their elders, I tell you."
+        },
+        {
+          "s": 20,
+          "t": "You passed the test!"
+        },
+        {
+          "s": 19,
+          "t": "Great. Now we need to figure out how to handle his questions..."
+        },
+        {
+          "s": 20,
+          "t": "Alright, we should be all set."
+        },
+        {
+          "s": 1,
+          "t": "Alyosha! Come on, keep up!"
+        },
+        {
+          "s": 21,
+          "t": "These old bones have got one speed, whippersnapper."
+        },
+        {
+          "s": 19,
+          "t": "Save the act for later. C'mon, let's go."
+        },
+        {
+          "s": 21,
+          "t": "Hey... stop messing around and pick one already, would you?"
+        },
+        {
+          "section": "Go to the station"
+        },
+        {
+          "s": 40,
+          "t": "Hello, valued customer. Please proceed this way, and watch your step."
+        },
+        {
+          "s": 40,
+          "t": "This train will take you to the vault where your item is stored. Another staff member will be there to greet you on arrival."
+        },
+        {
+          "section": "Go to the station"
+        },
+        {
+          "s": 21,
+          "t": "(It should be somewhere around here. The others are keeping watch while I make contact. I need to follow the clues and track him down as soon as possible.)"
+        },
+        {
+          "section": "Look for the contact"
+        },
+        {
+          "s": 41,
+          "t": "Ah. Looking for something, my good man?"
+        },
+        {
+          "s": 21,
+          "t": "*cough*... Yes. I'm looking to.. escape the shadow of death."
+        },
+        {
+          "s": 41,
+          "t": "Very understandable. Everyone fears death, fears lying in a cold coffin, lost to the eternal sleep, never to feel warm again."
+        },
+        {
+          "s": 41,
+          "t": "But, death is not absolute. I may be able to help you conquer this fear."
+        },
+        {
+          "s": 21,
+          "t": "Ooh, I heard... you can extend my life."
+        },
+        {
+          "s": 41,
+          "t": "I can indeed, but it comes with a small price. Come, let's talk over here."
+        },
+        {
+          "section": "Disguise yourself as a customer and get in touch with the contact"
+        },
+        {
+          "s": 41,
+          "t": "Huh. You know, you're one of the more astute clients I've come across. You found me with no trouble at all."
+        },
+        {
+          "s": 41,
+          "t": "I sense a fruitful partnership on the horizon, so let's talk about what comes next."
+        },
+        {
+          "s": 41,
+          "t": "Y—You know, I noticed you asked around quite a bit before approaching me... Almost seems like you didn't quite know who you were searching for..."
+        },
+        {
+          "s": 41,
+          "t": "Ah, forget it. I suppose it's normal for a man of your age to get confused. Let's talk about what comes next."
+        },
+        {
+          "s": 41,
+          "t": "I can help extend your life, but as I said before, it comes at a small price. Now, tell me, what did you use to do for a living?"
+        },
+        {
+          "s": 21,
+          "t": "(I talked about this with the others. How to answer his questions... For this one, the plan was to say...)"
+        },
+        {
+          "sit": "Hunting...?"
+        },
+        {
+          "sit": "Business."
+        },
+        {
+          "s": 21,
+          "t": "Hunting...?"
+        },
+        {
+          "s": 21,
+          "t": "Ahem... When I was young, I made a living by hunting."
+        },
+        {
+          "s": 41,
+          "t": "(Hmm, so he was a hunter. I doubt he has much savings then...)"
+        },
+        {
+          "s": 21,
+          "t": "Business."
+        },
+        {
+          "s": 41,
+          "t": "Ah, so you're a merchant? You don't exactly dress like one."
+        },
+        {
+          "s": 21,
+          "t": "Why dress in my finest when it would only make me a target for the House of the Hearth?"
+        },
+        {
+          "s": 41,
+          "t": "Fair point. They've been acting like wild dogs lately, preying on people everywhere. You're right to be cautious."
+        },
+        {
+          "s": 41,
+          "t": "Now then, let's talk about the deal. As I'm sure you know, this trade will require absolute secrecy."
+        },
+        {
+          "s": 41,
+          "t": "The authorities are on the lookout. What is your plan in the event that you get caught?"
+        },
+        {
+          "sit": "I've got connections."
+        },
+        {
+          "sit": "I'm leaving Snezhnaya in a few days."
+        },
+        {
+          "s": 21,
+          "t": "I've got connections."
+        },
+        {
+          "s": 41,
+          "t": "Connections? Hmph... I'm not convinced that will get you anywhere."
+        },
+        {
+          "s": 41,
+          "t": "I've dealt with my fair share of big shots, and even I still have to tread carefully. How powerful can your connections really be?"
+        },
+        {
+          "s": 21,
+          "t": "I'm leaving Snezhnaya in a few days."
+        },
+        {
+          "s": 41,
+          "t": "Leaving Snezhnaya... Good, that's the only way to be safe."
+        },
+        {
+          "s": 41,
+          "t": "It seems you've already considered this question carefully, so I won't labor the point any further."
+        },
+        {
+          "s": 41,
+          "t": "Last question. Does your family know that you're here?"
+        },
+        {
+          "sit": "That will depend on whether your product works."
+        },
+        {
+          "sit": "My children are no longer around."
+        },
+        {
+          "s": 21,
+          "t": "That will depend on whether your product works."
+        },
+        {
+          "s": 21,
+          "t": "If your product works, I won't tell them I gave you my life savings, and no one will give you any trouble."
+        },
+        {
+          "s": 21,
+          "t": "If not... they'll be helping me to track you down."
+        },
+        {
+          "s": 41,
+          "t": "(Tch... I've got myself a tough customer here.)"
+        },
+        {
+          "s": 41,
+          "t": "(But he'd hardly be the first stubborn old man in the world... Before my old man passed away, he made me swear I'd never covet the money that comes through my hands, and always be an honest man...)"
+        },
+        {
+          "s": 41,
+          "t": "(Huh, this guy's beard actually reminds me of my old man's... Ugh, what am I thinking? I never touched the money, I just took a little...)"
+        },
+        {
+          "s": 21,
+          "t": "My children are no longer around."
+        },
+        {
+          "s": 41,
+          "t": "Really? I'm so sorry to hear that. My condolences."
+        },
+        {
+          "s": 41,
+          "t": "(Perfect. Childless old folks are the easiest to deal with. No old man's got the energy it would take to track me down alone.)"
+        },
+        {
+          "s": 41,
+          "t": "Alright. After careful consideration, I'm glad to say I think we can do business together."
+        },
+        {
+          "s": 41,
+          "t": "Follow me, let's discuss the specifics of the deal."
+        },
+        {
+          "section": "Catch up to the contact"
+        },
+        {
+          "s": 41,
+          "t": "As you know, the product in question is currently being stored at the Northland Bank, and getting hold of it won't be easy."
+        },
+        {
+          "s": 41,
+          "t": "Five million Mora is the price. It might be a hefty sum for you, but I'm afraid I can't go any lower."
+        },
+        {
+          "s": 41,
+          "t": "Twenty million Mora is the price. Since you used to be a merchant, you should be able to come up with that no problem."
+        },
+        {
+          "s": 41,
+          "t": "Let's meet back here in two days. You bring the Mora, and I'll give you what you want..."
+        },
+        {
+          "s": 21,
+          "t": "(Alright, now's my chance. I've gained his trust, and he has nowhere to run.)"
+        },
+        {
+          "s": 21,
+          "t": "..."
+        },
+        {
+          "s": 41,
+          "t": "Huh? What are you doing? Unhand me!"
+        },
+        {
+          "section": "Disguise yourself as a customer and get in touch with the contact"
+        },
+        {
+          "s": 1,
+          "t": "Whoa, it's huge! Who knew there was such a gigantic place hiding underground!"
+        },
+        {
+          "s": 1,
+          "t": "There are so many buildings here. Are they all for secure storage?"
+        },
+        {
+          "s": 4,
+          "t": "That's right, but our destination is further inside. The vaults are divided into zones with different security levels, and this is only the first level."
+        },
+        {
+          "s": 4,
+          "t": "We need to find a way into the innermost vault, where the security level is highest. That's gotta be where the Seals of Life are stored."
+        },
+        {
+          "section": "Disguise yourself as a customer and get in touch with the contact"
+        },
+        {
+          "s": 41,
+          "t": "Let's leave the conversation there for now. I just remembered I have another client to meet."
+        },
+        {
+          "s": 41,
+          "t": "Meet me back here tomorrow... Huh? What are you doing here?"
+        },
+        {
+          "section": "Pursue the contact"
+        },
+        {
+          "s": 1,
+          "t": "Stop!"
+        },
+        {
+          "s": 20,
+          "t": "Well, well, looks like there's nowhere left to run, Mr. Criminal."
+        },
+        {
+          "s": 41,
+          "t": "So this was a setup the whole time... You're despicable!"
+        },
+        {
+          "s": 21,
+          "t": "I'm not so sure we're the ones who fit that description, sir. Come with us."
+        },
+        {
+          "section": "Question the suspect"
+        },
+        {
+          "s": 41,
+          "t": "Listen, friends, there's no need to make this a bigger issue than it needs to be."
+        },
+        {
+          "s": 41,
+          "t": "Prima Donna Vodyanitsa, Lady Odette... You're people of standing in Snezhnaya, just like me."
+        },
+        {
+          "s": 41,
+          "t": "We're all on our own path, just looking out for number one. What's so bad about that?"
+        },
+        {
+          "s": 19,
+          "t": "You're right. Too many people are consumed by self-interest. So, someone has to step up and do what must be done."
+        },
+        {
+          "s": 19,
+          "t": "Now, tell me, where did you get the Seals of Life?"
+        },
+        {
+          "s": 41,
+          "t": "The what?"
+        },
+        {
+          "s": 41,
+          "t": "I don't have any such thing! You kidnap me without explanation, bring me here against my will, and then accuse me of something I didn't do!? Don't think I won't report this to the Veche!"
+        },
+        {
+          "s": 21,
+          "t": "Looks like we've got a stubborn one on our hands."
+        },
+        {
+          "s": 41,
+          "t": "What are you planning to do? Torture me to force a confession?"
+        },
+        {
+          "s": 21,
+          "t": "Good question... is it technically extortion if I'm not a public official? I'm just an ordinary hunter..."
+        },
+        {
+          "s": 41,
+          "t": "P—Put the gun down! Help! Someone!"
+        },
+        {
+          "s": 20,
+          "t": "Ah! I knew you looked familiar. You work at the Northland Bank, don't you?"
+        },
+        {
+          "s": 41,
+          "t": "...!"
+        },
+        {
+          "s": 20,
+          "t": "I'm pretty good with faces. I can't remember exactly when it was, but I think you served me when I made a deposit once."
+        },
+        {
+          "s": 41,
+          "t": "You interact with so many people, Miss Vodyanitsa, you must be mistaken."
+        },
+        {
+          "s": 20,
+          "t": "No, I don't think I am. When you called for help just now, I heard your voice loud and clear, and I recognized its unique timbre. That makes me even more certain."
+        },
+        {
+          "s": 19,
+          "t": "One trip to the Northland Bank, and we could verify all of this. There's no point trying to hide it."
+        },
+        {
+          "s": 41,
+          "t": "*sigh*... I'd advise against taking this to the Northland Bank. This goes higher than you think."
+        },
+        {
+          "s": 19,
+          "t": "How high?"
+        },
+        {
+          "s": 41,
+          "t": "Would you believe me if I said... Harbinger high?"
+        },
+        {
+          "s": 20,
+          "t": "A Harbinger tied to the Northland Bank... You mean Regrator's involved in this?"
+        },
+        {
+          "s": 21,
+          "t": "I'm not convinced. If this really went all the way to the top, this guy wouldn't be out here working alone."
+        },
+        {
+          "s": 21,
+          "t": "Last chance. Start talking, or we do this the hard way."
+        },
+        {
+          "s": 41,
+          "t": "I'll talk, okay? I'll talk! Just put the gun down, friend, and I'll explain everything."
+        },
+        {
+          "s": 41,
+          "t": "It all started when I was doing a routine inventory check at the Northland Bank. I noticed that the number of Seals of Life in the vault didn't match the records. Some were missing."
+        },
+        {
+          "s": 41,
+          "t": "Normally, Lord Regrator is the only one with unrestricted access to that vault... So, I think you can agree, there seemed to be only one logical explanation."
+        },
+        {
+          "s": 41,
+          "t": "I thought, if Lord Regrator had already dipped into the seals, I might as well make some quick Mora too. So I came out here to get a feel for the market, that's all..."
+        },
+        {
+          "s": 21,
+          "t": "Doesn't seem like he's lying this time."
+        },
+        {
+          "s": 20,
+          "t": "Sounds like he hasn't actually sold any Seals of Life yet, so hopefully, not too many have been lost."
+        },
+        {
+          "s": 20,
+          "t": "I didn't expect Regrator to be involved, though... The president of the Northland Bank embezzling the Seals of Life? I honestly can't imagine why he would do that."
+        },
+        {
+          "s": 19,
+          "t": "I might be able to."
+        },
+        {
+          "s": 19,
+          "t": "I remember Rosalyne talking about The Doctor's experiments once. Apparently, many of them involved the study of life."
+        },
+        {
+          "s": 19,
+          "t": "His experiments harmed a lot of people, but there were also those who benefited from them, including \"a certain fellow Harbinger.\""
+        },
+        {
+          "s": 1,
+          "t": "Wait, you mean..."
+        },
+        {
+          "s": 19,
+          "t": "It's just a theory. But with The Doctor gone, it's not hard to picture why a certain Harbinger might need to dip into the Seals of Life."
+        },
+        {
+          "s": 21,
+          "t": "That does make sense."
+        },
+        {
+          "s": 20,
+          "t": "If a Harbinger's involved, this investigation isn't going to be easy."
+        },
+        {
+          "s": 19,
+          "t": "That's for certain. We'll need Her Majesty's permission, at the very least. We could report to her tomorrow, or—"
+        },
+        {
+          "sit": "The Tsaritsa has granted me free access to Zapolyarny Palace. I'll talk to her."
+        },
+        {
+          "s": 19,
+          "t": "Alright, then let's meet at Podvorye Restaurant tomorrow at noon. Once we know Her Majesty's thoughts on the matter, we can plan our next move."
+        },
+        {
+          "s": 19,
+          "t": "We should keep this guy in our custody for now. We don't want him tipping anyone off."
+        },
+        {
+          "section": "Explain the situation to the Tsaritsa"
+        },
+        {
+          "s": 5,
+          "t": "What brings you here at such a late hour? Has something happened?"
+        },
+        {
+          "s": 1,
+          "t": "Your Majesty, Vesna, bad news! The Seals of Life are in danger!"
+        },
+        {
+          "s": 14,
+          "t": "You explain what you learned from the scammer, including Regrator's potential involvement."
+        },
+        {
+          "s": 5,
+          "t": "Hm, valuable intel indeed. The culprit should be handed over to Fatui Internal Affairs."
+        },
+        {
+          "s": 5,
+          "t": "As for Pantalone... He is too prideful to involve himself in such matters."
+        },
+        {
+          "s": 1,
+          "t": "But..."
+        },
+        {
+          "s": 4,
+          "t": "If Her Majesty says he's not involved, she definitely has her reasons. Here, I'll walk you out."
+        },
+        {
+          "sit": "(We haven't properly interacted with Regrator before, so it's difficult for me to get a read on him.)"
+        },
+        {
+          "sit": "(But when I first saw him at the Veche, something about him felt familiar...)"
+        },
+        {
+          "s": 8,
+          "t": "Are these rules truly just? Does the Heavenly Principles rule with wisdom, or folly? And how can we be sure that The Seven, who wield authority over the world, will not be corrupted?"
+        },
+        {
+          "sit": "(...If I'm right, and Pantalone is who I think he is... then he might not hold so much loyalty or respect for the Tsaritsa after all.)"
+        },
+        {
+          "s": 4,
+          "t": "Still worried about Regrator?"
+        },
+        {
+          "sit": "Yes, a little..."
+        },
+        {
+          "sit": "I can't fully trust him."
+        },
+        {
+          "s": 4,
+          "t": "I see. I'm sure you have your reasons."
+        },
+        {
+          "s": 4,
+          "t": "You know what? I just remembered I have something stored at the Northland Bank. It's about time I retrieved it."
+        },
+        {
+          "s": 4,
+          "t": "And I suppose it couldn't hurt to take a gander at the vault where the seals are stored while I'm there."
+        },
+        {
+          "s": 1,
+          "t": "Huh? You're gonna help us investigate?"
+        },
+        {
+          "s": 4,
+          "t": "Investigate? Who said anything about investigating?"
+        },
+        {
+          "sit": "Of course."
+        },
+        {
+          "sit": "We're just... \"taking a gander.\""
+        },
+        {
+          "s": 1,
+          "t": "Hehe, thanks, Vesna! You're the best."
+        },
+        {
+          "s": 4,
+          "t": "Don't mention it. We both worked hard to bring those Seals of Life back, and I want to do my part to keep them safe and sound."
+        },
+        {
+          "s": 4,
+          "t": "C'mon, let's go to the Northland Bank."
+        },
+        {
+          "section": "Speak to the receptionist"
+        },
+        {
+          "s": 30,
+          "t": "Alright, Miss Vesna. We've received your withdrawal request. Would you like us to process it now?"
+        },
+        {
+          "s": 4,
+          "t": "Yes please, it's quite urgent. Thank you."
+        },
+        {
+          "s": 30,
+          "t": "Understood. Glukhov, come here for a moment. Please escort Miss Vesna to her vault to retrieve her deposited item."
+        },
+        {
+          "s": 40,
+          "t": "Are the three of you together?"
+        },
+        {
+          "s": 4,
+          "t": "Yes, these two are my friends. They've never deposited anything at the Northland Bank to date, but after I told them how secure it is, they said they'd really like to see it for themselves."
+        },
+        {
+          "s": 40,
+          "t": "Haha, then you'll have to tag along! You're in for a treat. I'm sure this experience will become one of the reasons you choose Northland Bank in the future."
+        },
+        {
+          "s": 40,
+          "t": "Come, this way please."
+        },
+        {
+          "section": "Take the underground train at the bank"
+        },
+        {
+          "s": 42,
+          "t": "(An open box. It looks like it once held a valuable item, but now it's completely empty.)"
+        },
+        {
+          "s": 42,
+          "t": "■/■: The custody period has expired. As no renewal notice was received, the item has been removed from the vault."
+        },
+        {
+          "s": 42,
+          "t": "At Mr. Pantalone's request, it is being stored in the president's office until further notice."
+        },
+        {
+          "section": "Follow the staff member"
+        },
+        {
+          "s": 41,
+          "t": "Listen, why don't we talk this over? I'm sure we can work something out. I've got quite a bit of savings..."
+        },
+        {
+          "s": 20,
+          "t": "Alright... I'm listening."
+        },
+        {
+          "s": 41,
+          "t": "Two million Mora! I'll give you two million... No, no, five million."
+        },
+        {
+          "s": 20,
+          "t": "Hmm... That's all...?"
+        },
+        {
+          "s": 41,
+          "t": "Each! Five million Mora each! That's as much as I have!"
+        },
+        {
+          "s": 20,
+          "t": "Five million each... You really are quite wealthy, aren't you."
+        },
+        {
+          "s": 41,
+          "t": "So? What do you say?"
+        },
+        {
+          "s": 20,
+          "t": "Oh, don't worry. I'll make sure everyone knows you didn't even need the Mora to begin with."
+        },
+        {
+          "s": 41,
+          "t": "Wh—What!? NO!"
+        },
+        {
+          "s": 43,
+          "t": "Please place your access card here. Even though everyone knows who you are, I'm afraid we still need to follow the usual identity verification procedures."
+        },
+        {
+          "s": 4,
+          "t": "It's quite alright. Your strict adherence to protocol is exactly why I chose Northland Bank."
+        },
+        {
+          "s": 1,
+          "t": "You have to swipe two different cards? Yeah, that is strict..."
+        },
+        {
+          "s": 43,
+          "t": "Authorization approved. Retrieve Safe 1074."
+        },
+        {
+          "s": 43,
+          "t": "The vault manager is retrieving your item. Please wait in the lounge."
+        },
+        {
+          "s": 4,
+          "t": "If the secret passage is still around, I bet there'll be an exit somewhere around here..."
+        },
+        {
+          "s": 1,
+          "t": "Paimon had a quick look around, but didn't see anything that looked secret-passagey..."
+        },
+        {
+          "s": 4,
+          "t": "In my experience, no secret stays hidden forever. We just need to look harder."
+        },
+        {
+          "section": "Look for the secret passage"
+        },
+        {
+          "s": 43,
+          "t": "Hello, Miss Vesna. Your Northland Bank safe deposit has been retrieved, may I come in?"
+        },
+        {
+          "s": 4,
+          "t": "Please do."
+        },
+        {
+          "s": 43,
+          "t": "Thank you for choosing Northland Bank. Please keep your item safe and take the next train back to—"
+        },
+        {
+          "s": 1,
+          "t": "Whoa, that was fast..."
+        },
+        {
+          "s": 4,
+          "t": "Let's see here... Ah, success! A staff access card and a walkie-talkie. May as well take them, just in case. Come on, I'll lead you into the secret passage."
+        },
+        {
+          "section": "Sneak into the vault"
+        },
+        {
+          "s": 44,
+          "t": "Karpov, time for the shift change. Where are you? Over."
+        },
+        {
+          "s": 4,
+          "t": "Roger, on my way. Just got held up cross-checking a deposit list with a customer, uh, but everything's fine."
+        },
+        {
+          "s": 4,
+          "t": "I think he bought it. Let's keep going."
+        },
+        {
+          "section": "Sneak into the vault"
+        },
+        {
+          "s": 4,
+          "t": "This way next... Huh? Quick, hide! We got company!"
+        },
+        {
+          "s": 45,
+          "t": "Inspection complete. Good to go."
+        },
+        {
+          "s": 46,
+          "t": "Alright! Time to clock out~"
+        },
+        {
+          "s": 4,
+          "t": "I just need to place the access card here, and... access denied? Two high-security access cards required?"
+        },
+        {
+          "s": 1,
+          "t": "What's the problem?"
+        },
+        {
+          "s": 4,
+          "t": "I guess the staff member who dealt with us didn't have clearance for this zone. We must be getting close to the final vault."
+        },
+        {
+          "s": 4,
+          "t": "There's an open door there. Let's head inside and take a look."
+        },
+        {
+          "section": "Sneak into the vault"
+        },
+        {
+          "s": 45,
+          "t": "Stop, which department are you... Wait, you're not...! Intruders!"
+        },
+        {
+          "s": 4,
+          "t": "Take him down! Before he calls for backup!"
+        },
+        {
+          "section": "Defeat the guards that have come"
+        },
+        {
+          "s": 21,
+          "t": "This just never ends, does it? Her Majesty just punished a whole group of corrupt officials, but it's like you look away for one second and they come swarming back..."
+        },
+        {
+          "s": 19,
+          "t": "That's exactly why we need to step in. Some people just can't be trusted."
+        },
+        {
+          "section": "Sneak into the vault"
+        },
+        {
+          "s": 4,
+          "t": "Over here!"
+        },
+        {
+          "s": 4,
+          "t": "The final vault should be right ahead. I remember Pantalone saying he has an office nearby. Hopefully, we'll find out how to open the vault there."
+        },
+        {
+          "s": 4,
+          "t": "Where is it...? Ah! Aha, this should be the one."
+        },
+        {
+          "s": 8,
+          "t": "Excellent memory."
+        },
+        {
+          "s": 8,
+          "t": "Perhaps you'll also recall something else I told you, Miss Vesna... I always appreciate advance notice before you visit."
+        },
+        {
+          "s": 1,
+          "t": "Whoa!"
+        },
+        {
+          "s": 1,
+          "t": "Fancy meeting you here, huh? Wait, what are you holding!?"
+        },
+        {
+          "sit": "A Seal of Life..."
+        },
+        {
+          "s": 1,
+          "t": "So it's true! You've been dipping into the Seals of Life!"
+        },
+        {
+          "s": 4,
+          "t": "No, no, hold on a second... The one he's holding doesn't prove that. It's his."
+        },
+        {
+          "s": 4,
+          "t": "My apologies, Mr. Pantalone, but we received some reports accusing you of embezzling the Seals of Life."
+        },
+        {
+          "s": 8,
+          "t": "Hardly surprising. As the head of the Northland Bank, I've received enough accusations to fill a high-security vault."
+        },
+        {
+          "s": 8,
+          "t": "And yet, despite all the skepticism directed towards me, Her Majesty still trusted the Northland Bank with the task of keeping the Seals of Life safe... Now why would that be?"
+        },
+        {
+          "s": 1,
+          "t": "Okay... why would that be?"
+        },
+        {
+          "s": 8,
+          "t": "The answer is simple. Because we always keep our promises."
+        },
+        {
+          "s": 8,
+          "t": "Before I became a Harbinger, there were no state-owned banks in Snezhnaya. The lifeblood of the economy did not flow through the hands of the leadership. Instead, the various stakeholders simply acted as they pleased."
+        },
+        {
+          "s": 8,
+          "t": "Back then, humans had their rules, and the fae had their customs. The Fatui unified all of it and founded the Northland Bank, giving us a better system."
+        },
+        {
+          "s": 8,
+          "t": "Over the centuries that followed, the credibility we have built up through this system has seen us weather numerous crises, including the predicament we face today."
+        },
+        {
+          "s": 8,
+          "t": "I am always in pursuit of better rules. How could I betray them myself? Every banker knows that one must invest the capital to reap the rewards."
+        },
+        {
+          "sit": "And that means more to you than life itself...?"
+        },
+        {
+          "s": 8,
+          "t": "I'm sure you appreciate this principle even better than I do."
+        },
+        {
+          "s": 8,
+          "t": "People ought to be the masters of both their wealth and their life. To this end, each must be viewed as a process, not a result."
+        },
+        {
+          "s": 8,
+          "t": "At the end of the day... it is better to die an honorable man than to live a wretched life."
+        },
+        {
+          "s": 4,
+          "t": "Her Majesty respects your pride, and she believes that you stand with Snezhnaya."
+        },
+        {
+          "s": 1,
+          "t": "But we heard that the number of Seals of Life in the vault doesn't match the inventory records."
+        },
+        {
+          "s": 1,
+          "t": "So if it wasn't you, then who took 'em?"
+        },
+        {
+          "s": 8,
+          "t": "That is the question. Who indeed could infiltrate this heavily guarded bank vault without being discovered? I am here because, just like you, I want answers."
+        },
+        {
+          "s": 1,
+          "t": "Beep..."
+        },
+        {
+          "s": 4,
+          "t": "What was that?"
+        },
+        {
+          "s": 8,
+          "t": "It looks like we're about to find out. Shh... keep your voices down. We don't want them to know we're here."
+        },
+        {
+          "section": "Follow Regrator"
+        },
+        {
+          "s": 1,
+          "t": "Wh—Wh—What the heck is that!?"
+        },
+        {
+          "sit": "Looks like it's... eating the Seals of Life?"
+        },
+        {
+          "s": 1,
+          "t": "Ugh! The Ruler of Death must have sent her minion to foil our plan!"
+        },
+        {
+          "s": 4,
+          "t": "No... That power inside it... This is the Ruler of Life's doing!"
+        },
+        {
+          "s": 4,
+          "t": "This is the Ruler of Life's minion!"
+        },
+        {
+          "s": 8,
+          "t": "Regardless of its source, I daresay the problem we face is the same."
+        },
+        {
+          "section": "Defeat the mysterious monster"
+        },
+        {
+          "s": 13,
+          "t": "How very peculiar..."
+        },
+        {
+          "s": 13,
+          "t": "Everyone else looks so disappointed... except for you alone, Tsaritsa Anastasya. You seem completely unperturbed."
+        },
+        {
+          "s": 5,
+          "t": "We meet at last, Ruler of Life."
+        },
+        {
+          "s": 5,
+          "t": "Or should I say, Rhinedottir. You're a tricky person to find."
+        },
+        {
+          "s": 5,
+          "t": "So, Pantalone. What do you wish to say?"
+        },
+        {
+          "s": 8,
+          "t": "Forgive me for speaking frankly, Your Majesty, but while using Seals of Life to combat the Ruler of Death sounds like a wonderful plan, I fear that at its core lies an irresolvable dilemma."
+        },
+        {
+          "s": 8,
+          "t": "A great many Seals of Life will be needed to fight against the Ruler of Death. But collecting Seals of Life on such a grand scale will inevitably alert the Ruler of Life."
+        },
+        {
+          "s": 5,
+          "t": "Indeed. I had anticipated as much."
+        },
+        {
+          "s": 8,
+          "t": "Oh? I see..."
+        },
+        {
+          "s": 13,
+          "t": "Fine. I will agree to help you, Lady Ronova."
+        },
+        {
+          "s": 13,
+          "t": "However, unlike you, I still have many acquaintances in Snezhnaya."
+        },
+        {
+          "s": 13,
+          "t": "Per our previous arrangements, I will remain behind the scenes and out of view. I trust this is acceptable?"
+        },
+        {
+          "s": 8,
+          "t": "...I see. So, collecting the Seals of Life is the ostensible plan, but the Ruler of Life herself will be the key to its success."
+        },
+        {
+          "s": 8,
+          "t": "However, meeting her will be no easy task. We must create a situation she cannot ignore... In which case, allow me to add a little fuel to the fire."
+        },
+        {
+          "s": 8,
+          "t": "The Northland Bank will leak the news that Her Majesty is collecting Seals of Life to all corners of Snezhnaya. Rumors both true and false will fill the streets, leaving her no choice but to step in and resolve the matter personally."
+        },
+        {
+          "s": 5,
+          "t": "The hardships of Project Stuzha are still fresh in people's minds. Even if we release the news that we are collecting Seals of Life, the public is unlikely to answer the call."
+        },
+        {
+          "s": 5,
+          "t": "But that is for the best. It will keep the impact to a minimum."
+        },
+        {
+          "s": 8,
+          "t": "I would not be so certain. Just as market trends can be unpredictable, it is possible that the public trusts Your Majesty far more greatly than we might anticipate."
+        },
+        {
+          "s": 8,
+          "t": "But more pertinently, does Your Majesty have the necessary leverage to negotiate successfully with the Ruler of Life?"
+        },
+        {
+          "s": 5,
+          "t": "Do not worry. I have the bargaining chip I need. Now, we simply need her to show herself."
+        },
+        {
+          "s": 13,
+          "t": "*sigh*... Did you not think I would consider this possibility? As your conflict with Ronova escalates, it is inevitable that you would try to win me over."
+        },
+        {
+          "s": 13,
+          "t": "That's why I released my failed experiment to destroy that which should not exist, so I don't have to get involved."
+        },
+        {
+          "s": 13,
+          "t": "As I'm sure you know, I had very mixed feelings at the prospect of seeing you, Tsaritsa Anastasya."
+        },
+        {
+          "s": 13,
+          "t": "And you — I now see why Ronova dislikes you so much. You always seem to be ruining our plans."
+        },
+        {
+          "s": 13,
+          "t": "Since meeting you was unavoidable, let me state my position in no uncertain terms: Whatever you think you can offer me, no matter how high the price, I will not help you fight Ronova."
+        },
+        {
+          "s": 5,
+          "t": "I am as cognizant of that as you are. And I am not here to grasp at straws."
+        },
+        {
+          "s": 5,
+          "t": "My reason for meeting you here... is simply to invite you to be my guest at Zapolyarny Palace. There, we can talk properly — and, I hope, exchange some information to the limited degree that we are able."
+        },
+        {
+          "s": 13,
+          "t": "Information? Surely it cannot be that simple. I feel we must be wary, lest the God Vassaga has ulterior motives in mind..."
+        },
+        {
+          "s": 13,
+          "t": "Still, I am curious about what kind of information Vassaga supposes she can provide. If it's attractive enough, it wouldn't be out of the question to agree to her terms."
+        },
+        {
+          "s": 13,
+          "t": "How curious... On what subjects do you propose to exchange information? There is precious little that could possibly pique either my interest or that of Miss Naberius."
+        },
+        {
+          "s": 5,
+          "t": "I have information on Asm{RUBY#[D]Ruler of Space}oday. I believe it would be of interest to you."
+        },
+        {
+          "s": 13,
+          "t": "Goodness me..."
+        },
+        {
+          "s": 13,
+          "t": "...Asmoday? You've met her?"
+        },
+        {
+          "s": 5,
+          "t": "Yes. It was a chance encounter."
+        },
+        {
+          "s": 13,
+          "t": "How intriguing... She doesn't appear to be lying, dear Rhinedottir."
+        },
+        {
+          "s": 13,
+          "t": "Hehe. No wonder you act so self-assured, Tsaritsa Anastasya. You indeed present an offer that would be difficult for us to turn down."
+        },
+        {
+          "s": 13,
+          "t": "So, what is it that you wish to learn from us in return?"
+        },
+        {
+          "s": 5,
+          "t": "Since you're interested in my offering, perhaps you might accept my invitation first."
+        },
+        {
+          "s": 5,
+          "t": "Since this is such a rare opportunity, I must carefully consider what to ask of you that would match the value of my intel. Shall we meet in seven days?"
+        },
+        {
+          "s": 13,
+          "t": "Very well. Though I must warn you... if what you ask is unreasonable, I will refuse to answer."
+        },
+        {
+          "s": 5,
+          "t": "Naturally. If it comes to that, we can simply discuss something else instead. I trust you will take this as a serious gesture of sincerity."
+        },
+        {
+          "s": 13,
+          "t": "These are favorable terms indeed. She is placing the ball firmly in our court."
+        },
+        {
+          "s": 13,
+          "t": "I hope it will not come to that. I would prefer that we can converse as equals. I am not one to take unfair advantage of others."
+        },
+        {
+          "s": 13,
+          "t": "Well then, Tsaritsa of Snezhnaya, I will see you in seven days."
+        },
+        {
+          "s": 5,
+          "t": "..."
+        },
+        {
+          "s": 8,
+          "t": "It seems the negotiations went smoothly, Your Majesty. My congratulations."
+        },
+        {
+          "sit": "(...Rhinedottir made it clear that she won't help the Tsaritsa fight Ronova, but the Tsaritsa still invited her to Zapolyarny Palace and offered valuable information practically for free...)"
+        },
+        {
+          "sit": "(It feels like we've gone in circles, only to end up right back where we began. Does Rhinedottir really have any information that could turn things around? It seems we have no choice but to trust the Tsaritsa for now.)"
+        },
+        {
+          "s": 5,
+          "t": "My faithful servants, there is no doubt much confusion's in your hearts. Have patience. Time will provide the answers you seek."
+        },
+        {
+          "s": 5,
+          "t": "The heavenly hosts, in their arrogance, dismiss our efforts as futile. But our resistance shall bear fruit... Onwards. It is time to begin the next phase of the plan."
+        },
+        {
+          "s": 4,
+          "t": "Phew..."
+        },
+        {
+          "sit": "Feeling any better?"
+        },
+        {
+          "s": 4,
+          "t": "Yeah... For better or worse, I am. The Ruler of Life has reclaimed her power... But at least that means the pain I was suffering from losing control of it is gone, too."
+        },
+        {
+          "s": 4,
+          "t": "Anyway, that's not..."
+        },
+        {
+          "s": 4,
+          "t": "(When that Rhinedottir lady returned everyone's Seals of Life, I saw Her Majesty's one again...)"
+        },
+        {
+          "s": 4,
+          "t": "(Was I imagining things? I swear I saw something else inside Her memories this time... They're not completely blank after all...)"
+        },
+        {
+          "s": 4,
+          "t": "(A faint light was visible behind Her Majesty. Maybe, once in a while, she pauses to turn back and look at those following her through the storm...?)"
+        },
+        {
+          "s": 1,
+          "t": "What is it?"
+        },
+        {
+          "s": 4,
+          "t": "...Nothing, I'm fine. Let's head back."
+        },
+        {
+          "section": "Have a gathering with everyone"
+        },
+        {
+          "s": 21,
+          "t": "{NICKNAME}, Paimon, over here!"
+        },
+        {
+          "s": 1,
+          "t": "Looks like everyone's here... Huh? Danica and Vesna? You're here too?"
+        },
+        {
+          "s": 4,
+          "t": "We came for a bite to eat and happened to run into them. Don't mind us, you catch up with your friends."
+        },
+        {
+          "s": 20,
+          "t": "Alright, everyone's here. You have to tell us what went down last night!"
+        },
+        {
+          "s": 20,
+          "t": "First there was that deafening roar from somewhere underground beneath the Northland Bank... felt like Snezhnograd had been hit by an earthquake. Then, the Seals of Life came floating back into our bodies..."
+        },
+        {
+          "s": 19,
+          "t": "This morning, the Veche announced that the Seals of Life had fulfilled their purpose and were returned during the night."
+        },
+        {
+          "s": 19,
+          "t": "For those that were damaged or missing, the Northland Bank will negotiate with the affected individuals to arrange compensation. Looks like we won't need to make another trip to Svetloledovka."
+        },
+        {
+          "s": 21,
+          "t": "What happened? You're not hurt, are you?"
+        },
+        {
+          "s": 14,
+          "t": "You briefly explain last night's events to the party..."
+        },
+        {
+          "s": 20,
+          "t": "...Wow, so much more complicated than I was expecting. The Ruler of Life actually showed up in person? She sounds as enigmatic as they get."
+        },
+        {
+          "s": 19,
+          "t": "Her Majesty must have known all along that collecting Seals of Life might alert her. That's why she prepared a backup plan."
+        },
+        {
+          "s": 20,
+          "t": "But Vesna's power was taken away..."
+        },
+        {
+          "s": 4,
+          "t": "Who, me? Not to worry! That power never belonged to me in the first place. All that happened is, it got returned to its rightful owner."
+        },
+        {
+          "s": 20,
+          "t": "Vesna is so easygoing... I wish I had such a positive attitude."
+        },
+        {
+          "s": 21,
+          "t": "I know, right? Anyway — what are your plans next?"
+        },
+        {
+          "s": 19,
+          "t": "Since Her Majesty said there will be further action, I'll be on standby with the Fatui."
+        },
+        {
+          "s": 20,
+          "t": "I'll probably head back to the Korolevskiy Troupe. Now that things have settled down, I should get ready for my next performance. What about you, Alyosha?"
+        },
+        {
+          "s": 21,
+          "t": "I'm planning to head back to Sretomorozsk. Now that it's stopped snowing, I can finally go out hunting again."
+        },
+        {
+          "s": 1,
+          "t": "Paimon and {NICKNAME} don't have anything going on right now. We'll probably just chill out in the local area."
+        },
+        {
+          "s": 20,
+          "t": "*sigh*... Who knows when we'll see each other next?"
+        },
+        {
+          "s": 19,
+          "t": "I'm sure we'll meet again soon."
+        },
+        {
+          "s": 20,
+          "t": "That's not comforting at all! {NICKNAME}, Paimon, if you really don't have anything going on, make sure you come watch the show."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, you bet!"
+        },
+        {
+          "s": 21,
+          "t": "Are you still staying at the inn? If I come across any rare game, I'll send some your way. Snezhnaya's so cold that meat keeps for a pretty long time..."
+        },
+        {
+          "s": 4,
+          "t": "Take that! You fell for it, Danica! Your steak is mine!"
+        },
+        {
+          "s": 4,
+          "t": "In return, you get the gift of my veggies, hahahaha."
+        },
+        {
+          "s": 2,
+          "t": "You know, your facial expression is a little different when you're actually in a mischievous mood than when you're just pretending. Has anyone ever told you that before?"
+        },
+        {
+          "s": 4,
+          "t": "...Huh?"
+        },
+        {
+          "s": 2,
+          "t": "Surely, it can't feel great to lose your power."
+        },
+        {
+          "s": 4,
+          "t": "Hmph. You think I mind making such a trivial sacrifice in Her Majesty's service?"
+        },
+        {
+          "s": 2,
+          "t": "Just because you don't begrudge the sacrifice doesn't mean you don't grieve the loss. This is your people's heritage we're talking about, passed between generations of Vila for over a thousand years."
+        },
+        {
+          "s": 4,
+          "t": "...I'm quite alright, dearest Danica. I'm not that fragile."
+        },
+        {
+          "s": 8,
+          "t": "It seems I timed this perfectly. I'd hoped not to miss this conversation."
+        },
+        {
+          "s": 4,
+          "t": "Mr. Pantalone? What brings you here?"
+        },
+        {
+          "s": 8,
+          "t": "I've come to return what you deposited at the Northland Bank."
+        },
+        {
+          "s": 4,
+          "t": "What do you mean? I withdrew it already, didn't I? As convoluted as the process was..."
+        },
+        {
+          "s": 8,
+          "t": "I'm not referring to any of the items you deposited through official channels. I'm talking about this."
+        },
+        {
+          "s": 4,
+          "t": "*gasp* It's...!"
+        },
+        {
+          "s": 8,
+          "t": "A beacon, crafted from the small sample of the Ruler of Life's power that you provided, held in trust by the Northland Bank for the purpose of collecting Seals of Life. Now, I'm returning it to you."
+        },
+        {
+          "s": 8,
+          "t": "Like I said, we always keep our promises. Of course, we must also thank the Ruler of Life for her charitability."
+        },
+        {
+          "s": 8,
+          "t": "She appears to be uninterested in reclaiming her power down to the very last morsel, so long as we refrain from further large-scale efforts to collect Seals of Life."
+        },
+        {
+          "s": 4,
+          "t": "This is a very pleasant surprise indeed. You have my gratitude, Mr. Pantalone."
+        },
+        {
+          "s": 8,
+          "t": "You needn't thank me. This was all part of Her Majesty's design. She said that as much as you don't like to use this power, you should still be able to continue enjoying its company."
+        },
+        {
+          "s": 8,
+          "t": "A sense of grief is inevitable when parting with something you've long grown accustomed to having around. Thus concludes the Northland Bank's business in this matter. Goodbye, all."
+        },
+        {
+          "s": 4,
+          "t": "Won't you stay and have a bite with us?"
+        },
+        {
+          "s": 8,
+          "t": "That won't be necessary. The food here... isn't quite to my taste."
+        },
+        {
+          "s": 4,
+          "t": "Fair enough... Well anyway, thanks for handing this over to me. And, y'know, if you ever felt like letting me borrow one of the spare train cars in your underground garage for a couple of days... Ooh, that'd be the icing on the cake."
+        },
+        {
+          "s": 8,
+          "t": "Your credit score is insufficient to justify such a transaction — and I'm afraid this will likely remain the case for as long as I live."
+        },
+        {
+          "s": 2,
+          "t": "Congratulations."
+        },
+        {
+          "s": 4,
+          "t": "How considerate of Her Majesty to factor something like this into Her plan... It just goes to show, she really..."
+        },
+        {
+          "s": 4,
+          "t": "...In seven days, the Tsaritsa will hold negotiations with the Ruler of Life. I, for one, firmly believe that Her Majesty will find out what she needs to turn the tide."
+        },
+        {
+          "s": 47,
+          "t": "{NICKNAME}? Paimon?"
+        },
+        {
+          "s": 1,
+          "t": "Ooh, that sounds like..."
+        },
+        {
+          "s": 1,
+          "t": "...Lyney! And Lynette and Freminet, too! Hey there, it's been ages!"
+        },
+        {
+          "s": 47,
+          "t": "I thought that was you. What a stroke of luck, running into you here."
+        },
+        {
+          "s": 48,
+          "t": "Hello."
+        },
+        {
+          "s": 49,
+          "t": "It's been a while..."
+        },
+        {
+          "s": 1,
+          "t": "We haven't seen you since we got to Snezhnaya! How've you guys been?"
+        },
+        {
+          "s": 47,
+          "t": "Pretty busy actually, but otherwise very well. Lately, we've been working on a mission with \"Father\" and the others from the House of the Hearth."
+        },
+        {
+          "s": 47,
+          "t": "There's been quite a lot to do. We've been gathering and organizing all kinds of intel, preparing some little surprises for officials looking to defect, and so on."
+        },
+        {
+          "sit": "Sounds like hard work."
+        },
+        {
+          "sit": "Do you get to take a break at all?"
+        },
+        {
+          "s": 47,
+          "t": "Yeah, \"Father\" gave us a few days off. She went to the Armory Palace to meet with The Jester and discuss our next steps."
+        },
+        {
+          "s": 48,
+          "t": "Hello. I'll take this, this, this, and this..."
+        },
+        {
+          "s": 47,
+          "t": "Freminet, go keep an eye on her. Don't let her get too carried away with the desserts..."
+        },
+        {
+          "s": 49,
+          "t": "Okay, I'll go see."
+        },
+        {
+          "s": 48,
+          "t": "...Hmph."
+        },
+        {
+          "s": 47,
+          "t": "Anyway, how about you? Has everything been going smoothly for you? How are you finding the climate in Snezhnaya?"
+        },
+        {
+          "s": 1,
+          "t": "It was... definitely a bit of an adjustment when we first got here! But we're pretty much used to it now. What about you guys? You spend most of your time in Fontaine, right? Much warmer than here."
+        },
+        {
+          "s": 47,
+          "t": "Lynette is quite sensitive to the cold, but Freminet and I don't mind it so much."
+        },
+        {
+          "s": 47,
+          "t": "Have you eaten yet? Care to join us for a bite?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, we actually just finished eating, hehe. You guys go ahead and get some food — we can catch up more later."
+        },
+        {
+          "sit": "(Even Paimon can tell how exhausted Lyney and the gang are. This isn't the best time for a proper catchup — best to let them get some rest first.)"
+        },
+        {
+          "s": 47,
+          "t": "Sounds good. We'll go get a good meal in us, and catch up some more soon."
+        },
+        {
+          "s": 47,
+          "t": "I'm so happy we got to meet again in Snezhnaya. Please take care of yourselves."
+        }
+      ],
+      "description": "After returning from a trip to Svetloledovka to collect Seals of Life, Odette receives a secret report..."
+    }
+  ],
+  "speakers": [
+    "Childe",
+    "Paimon",
+    "Danica",
+    "Nefedov",
+    "Vesna",
+    "Anastasya",
+    "The Rooster",
+    "Mitya",
+    "Regrator",
+    "Marionette",
+    "The Jester",
+    "Venti",
+    "Ronova",
+    "Rhinedottir",
+    "???",
+    "Surikov",
+    "Menshikov",
+    "Olenina",
+    "Istomina",
+    "Odette",
+    "Vodyanitsa",
+    "Alyosha",
+    "Ragin",
+    "Skornaya",
+    "Tarov",
+    "Struzhina",
+    "Belozersky",
+    "Trunin",
+    "Vedrin",
+    "Zavyalov",
+    "Zmeina",
+    "Pevtsova",
+    "Chagin",
+    "Tumanova",
+    "Gryaznov",
+    "Zhdana",
+    "Gornova",
+    "Eye of Graeae",
+    "Lesnaya",
+    "Dyakov",
+    "Glukhov",
+    "Avaz",
+    "Strange Box and Document",
+    "Karpov",
+    "Ladov",
+    "Marozov",
+    "Pustova",
+    "Lyney",
+    "Lynette",
+    "Freminet"
+  ],
+  "id": "ch-1702"
+}

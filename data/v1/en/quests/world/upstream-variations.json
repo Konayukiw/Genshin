@@ -1,0 +1,2523 @@
+{
+  "chapter": "Upstream Variations",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Upstream Variations",
+  "region": null,
+  "quests": [
+    {
+      "title": "Upstream Variations",
+      "dialogue": [
+        {
+          "section": "Look for something to eat..."
+        },
+        {
+          "s": 0,
+          "t": "Alright, today's commissions are done! Paimon's starving. Let's go find something to eat, {NICKNAME}!"
+        },
+        {
+          "sit": "Ice cream again?"
+        },
+        {
+          "sit": "Or how about some Pryaniki?"
+        },
+        {
+          "s": 0,
+          "t": "Let's do both! Hehe, Paimon can definitely finish it all! You won't even need to help!"
+        },
+        {
+          "sit": "Believe me, I know you're not one to leave leftovers..."
+        },
+        {
+          "sit": "But you better save some for me this time."
+        },
+        {
+          "s": 0,
+          "t": "Paimon doesn't do it on purpose... Sometimes, the food is just too delicious, and without even thinking, she.... Oh, never mind. It'll be Paimon's treat this time!"
+        },
+        {
+          "s": 0,
+          "t": "How about... Oh, look! We're right next to a restaurant right now! Paimon remembers the soup here was super delicious... {NICKNAME}? What's wrong? What are you looking at?"
+        },
+        {
+          "sit": "Over there..."
+        },
+        {
+          "sit": "Is that Vodyanitsa?"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "...Whew, that was absolutely exhausting. Next time, I'm making Odette do the entertaining."
+        },
+        {
+          "s": 1,
+          "t": "No, wait... She can't turn on the charm to save her life! Why do I have to do everything? *whine*"
+        },
+        {
+          "s": 0,
+          "t": "Hi, Vodyanitsa! Hehehe, you here for a tasty snack too?"
+        },
+        {
+          "sit": "Looks like there's only tea on the table..."
+        },
+        {
+          "sit": "You here for a tasty drink, then?"
+        },
+        {
+          "s": 1,
+          "t": "Neither. Whenever I'm forced to meet up with that \"friend,\" everything I eat or drink becomes bland and flavorless."
+        },
+        {
+          "s": 0,
+          "t": "Uh... Then why did you decide to meet up at a restaurant? Doesn't losing your appetite around all this delicious food make it worse?"
+        },
+        {
+          "s": 1,
+          "t": "Haha, no. It was a strategic choice. Whenever you don't feel like talking, you can just pretend to eat."
+        },
+        {
+          "s": 1,
+          "t": "You can clearly send the message, \"I don't want to continue this conversation\" without making things awkward."
+        },
+        {
+          "s": 1,
+          "t": "The trade-off, of course, is that whatever you do eat ends up tasting like candle wax."
+        },
+        {
+          "s": 0,
+          "t": "That bad...?"
+        },
+        {
+          "s": 1,
+          "t": "Don't believe me? Hehe... Boy, do I have a story for you then. But first..."
+        },
+        {
+          "s": 1,
+          "t": "Excuse me! We're ready to order."
+        },
+        {
+          "s": 1,
+          "t": "We'll have this, this, this... Oh, and you probably want ice cream, right, Paimon? We'll take two, and double the amount of honey."
+        },
+        {
+          "s": 1,
+          "t": "Let's get one of these as well. Although, hmm... Actually — forget the salad and the rye bread. Give us two more plates of smoked sausages instead."
+        },
+        {
+          "sit": "That's too much!"
+        },
+        {
+          "sit": "It's your time to shine, Paimon!"
+        },
+        {
+          "s": 0,
+          "t": "B—But Paimon can't possibly eat all that by herself!"
+        },
+        {
+          "s": 1,
+          "t": "Get ready to be swimming in leftovers then, because once I finish my story, I guarantee you won't be able to stomach a single bite."
+        },
+        {
+          "section": "Listen as Vodyanitsa tells her story..."
+        },
+        {
+          "s": 2,
+          "t": "...Thank you so much for attending this banquet, Miss Vodyanitsa. Congratulations on a truly unrivaled performance."
+        },
+        {
+          "s": 2,
+          "t": "I'll never forget it — ever. It was such a blessing to be in the very front row. I could hear your voice so clearly..."
+        },
+        {
+          "s": 0,
+          "t": "Okay, maybe she's laying it on a little thick... But a compliment's still a compliment, right?"
+        },
+        {
+          "s": 1,
+          "t": "Her name is Lishnaya. She's the head of a Snezhnayan guild, and if all she wanted was to compliment me, there'd be no reason to organize a whole banquet."
+        },
+        {
+          "sit": "It sounds like she wants something else..."
+        },
+        {
+          "sit": "Another front row ticket, maybe..."
+        },
+        {
+          "s": 1,
+          "t": "Exactly. She wants to solidify her place in the so-called \"high society\" of Snezhnaya. Heh... nothing screams prestige like a \"close friendship\" with the Prima Donna."
+        },
+        {
+          "s": 1,
+          "t": "...We've known each other for a long time, actually. But when we first met, she was just a little girl with a love of opera, working part-time at the theater."
+        },
+        {
+          "s": 2,
+          "t": "Hi, Vodyanitsa! Do you have a show today? Can I have a ticket?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, now why should I give you one just because you ask, huh? Tickets to my shows don't grow on trees, y'know."
+        },
+        {
+          "s": 2,
+          "t": "Because I really admire you, and I love hearing you sing! You're the very, very, very, very best!"
+        },
+        {
+          "s": 1,
+          "t": "Oh, look at you, lovely! How did you know flattery would get you everywhere? You've earned yourself a ticket for sure!"
+        },
+        {
+          "s": 2,
+          "t": "A front row ticket?"
+        },
+        {
+          "s": 1,
+          "t": "Hm, I heard one less \"very\" compared to last time. That's only second-row worthy, I'm afraid."
+        },
+        {
+          "s": 2,
+          "t": "Then next time, I'll be sure to say it six times!"
+        },
+        {
+          "s": 1,
+          "t": "Be sure you do, or you'll be stuck watching the show from behind the curtain like usual."
+        },
+        {
+          "s": 2,
+          "t": "That's not so bad. I used to do that all the time... Hey, wait a second! You're writing out the ticket by hand again? We're so gonna get busted!"
+        },
+        {
+          "s": 1,
+          "t": "Then, it's a good thing you don't mind the view from behind the curtain, lovely. If you get caught, you can just go there. That spot practically has your name on it."
+        },
+        {
+          "s": 2,
+          "t": "But, but, but...! Ugh, next time, I'm covering the stage in wax so that you take a great big fall right in the middle of your song!"
+        },
+        {
+          "sit": "So you've always handed out opera tickets like they're candy..."
+        },
+        {
+          "sit": "You two were friends back then?"
+        },
+        {
+          "s": 1,
+          "t": "Yes, we were... for a time. She begged me for a ticket practically on a daily basis."
+        },
+        {
+          "s": 1,
+          "t": "Whenever there were tickets left, I'd save one just for her. If we were sold out, she'd run backstage and watch me sing from behind the curtain."
+        },
+        {
+          "s": 1,
+          "t": "To her, a ticket just meant she got to watch the performance from a more comfortable spot. Back then, at least. But later on..."
+        },
+        {
+          "section": "Record down your \"accord\" with Vodyanitsa?"
+        },
+        {
+          "s": 1,
+          "t": "You know what? Let's save the rest of the story for later. If I keep going, little Paimon really won't be able to stomach a thing!"
+        },
+        {
+          "sit": "True."
+        },
+        {
+          "sit": "Paimon didn't eat nearly as much as usual."
+        },
+        {
+          "s": 0,
+          "t": "Hey! You can't just stop halfway through! You're really gonna leave us hungry for more!?"
+        },
+        {
+          "s": 1,
+          "t": "Hungry, you say? Perfect — sounds like I whetted your appetite, then. Go on, eat up!"
+        },
+        {
+          "s": 0,
+          "t": "No, that's not... Although, when you put it like that... Ugh, what do we do now, {NICKNAME}? Paimon can't out-argue her..."
+        },
+        {
+          "sit": "All you can do is take the loss..."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, I'll tell you the rest next time. Let's enjoy our meal. Oh, and {NICKNAME}, this is for you."
+        },
+        {
+          "sit": "A notebook?"
+        },
+        {
+          "sit": "What for?"
+        },
+        {
+          "s": 1,
+          "t": "For you to keep track of time. Your Adventurer Handbook must be running out of room by now. I bet there's no space for you to jot down all the times you're gonna come to the theater!"
+        },
+        {
+          "s": 1,
+          "t": "So, I asked a friend at Maryyushka's Antykvariat to make this for you. It's completely blank, so you'll definitely have plenty of space to keep track of things."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and your tickets are inside, so I'd better see you at the theater. Don't be late!"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Late for what...?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, I'm not telling. Best to leave you... Mmm, how did you put it, little Paimon? Hungry for more? I'd hate for all this food to go to waste, after all."
+        },
+        {
+          "s": 0,
+          "t": "Ugh, that's it! Paimon's definitely gonna give you a—"
+        },
+        {
+          "sit": "Paimon..."
+        },
+        {
+          "sit": "Let's not forget that you're eating at someone else's expense right now..."
+        },
+        {
+          "s": 0,
+          "t": "A... A nickname that she hasn't quite come up with yet, but is definitely gonna be a perfect fit!"
+        },
+        {
+          "s": 1,
+          "t": "Hahahahaha, then I'll look forward to it. Well, see you at the theater!"
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 3,
+          "t": "Ineffa, why can't we record Vodyanitsa's song?"
+        },
+        {
+          "s": 3,
+          "t": "I bet Nefer would love it. And Lauma too. And Varka!"
+        },
+        {
+          "s": 4,
+          "t": "The use of recording devices is not permitted at the theater, Aino. Those are the rules."
+        },
+        {
+          "s": 3,
+          "t": "Fine... Well, can we come and listen again soon? Vodyanitsa gave you that handwritten ticket last night, right? She said we could both use it."
+        },
+        {
+          "s": 4,
+          "t": "Correct. She delivered it to my current place of residence yesterday in person, and she told me to invite you to watch her performances."
+        },
+        {
+          "s": 4,
+          "t": "Furthermore, she also resolved our board and lodging problem."
+        },
+        {
+          "s": 3,
+          "t": "What a nice person she is... When we find Jahoda, we should bring her to see the show, too."
+        },
+        {
+          "s": 3,
+          "t": "But for now... hehe, I'm gonna work on some ideas about how to improve the Happy-Quacky Phonograph Ducky."
+        },
+        {
+          "section": "Go to the Korolevskiy Theater"
+        },
+        {
+          "s": 5,
+          "t": "Welcome. You're here for the show, yes? Tickets please."
+        },
+        {
+          "sit": "Ah, one moment..."
+        },
+        {
+          "sit": "Inside the notebook... The notebook..."
+        },
+        {
+          "s": 0,
+          "t": "Found 'em! Here you go. Two tickets."
+        },
+        {
+          "s": 5,
+          "t": "Oh... Huh..."
+        },
+        {
+          "sit": "Is there something wrong?"
+        },
+        {
+          "s": 0,
+          "t": "There can't be! Vodyanitsa gave those to us herself..."
+        },
+        {
+          "s": 5,
+          "t": "Then we have an agreement."
+        },
+        {
+          "sit": "You had me nervous there for a second..."
+        },
+        {
+          "sit": "Right, of course. Why would there be a problem?"
+        },
+        {
+          "s": 5,
+          "t": "You may head backstage now."
+        },
+        {
+          "s": 0,
+          "t": "Huh? B—Backstage? Why backstage?"
+        },
+        {
+          "s": 5,
+          "t": "This ticket is personally handwritten by Miss Vodyanitsa. According to theater policy, holders of this type of ticket must directly head to the backstage waiting room and watch the performance from the wings."
+        },
+        {
+          "s": 5,
+          "t": "This way, please."
+        },
+        {
+          "s": 6,
+          "t": "You follow Vzdykhalov backstage, still confused about this turn of events..."
+        },
+        {
+          "section": "Talk to Vodyanitsa"
+        },
+        {
+          "s": 0,
+          "t": "...So, how is this supposed to work? We can't see a thing from here! And it smells way too perfumy... Ugh, it's getting stuck in Paimon's throat..."
+        },
+        {
+          "sit": "These flowers..."
+        },
+        {
+          "sit": "I guess they're all for Vodyanitsa?"
+        },
+        {
+          "s": 1,
+          "t": "You bet! This is actually less than usual."
+        },
+        {
+          "s": 0,
+          "t": "Waah! Vodyanitsa? Wh—Where did you come from!?"
+        },
+        {
+          "s": 1,
+          "t": "I was just over there... Maybe you were distracted by all the flowers?"
+        },
+        {
+          "s": 1,
+          "t": "Anyway, I'm pleased to see Mr. Vzdykhalov has such a good memory! He remembered the protocol for the handwritten ticket, and brought you straight here."
+        },
+        {
+          "sit": "Handwritten ticket... backstage..."
+        },
+        {
+          "sit": "Ah...! You mentioned that last time!"
+        },
+        {
+          "s": 1,
+          "t": "Very good, you remembered. Now, as promised, I will continue to tell you the rest of that story."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry about the flowers — just move them out of the way. The people who sent them never come to watch my performances anyway."
+        },
+        {
+          "s": 0,
+          "t": "Really? Then why do they send flowers?"
+        },
+        {
+          "s": 1,
+          "t": "Hmph, for appearances. So that they can pretend they came to watch."
+        },
+        {
+          "section": "Listen as Vodyanitsa tells her story..."
+        },
+        {
+          "s": 1,
+          "t": "Lishnaya, how come I didn't see you at my last show? There were plenty of available seats. You could have used your handwritten ticket and sat right in the front row."
+        },
+        {
+          "s": 2,
+          "t": "Oh, sorry... I had some... urgent business, so I couldn't make it..."
+        },
+        {
+          "s": 1,
+          "t": "Heh. Well, you missed out big time, lovely. It was a truly fantastic show. There might never be another one like it."
+        },
+        {
+          "s": 2,
+          "t": "...I'll be sure not to miss the next one, I promise. But I mean... at least I sent you a flower basket!"
+        },
+        {
+          "s": 1,
+          "t": "Yes, you did. But flowers are no replacement for you being there in the audience, Lishnaya."
+        },
+        {
+          "s": 1,
+          "t": "You're my friend. I want you to hear me sing. You, not the flowers."
+        },
+        {
+          "s": 2,
+          "t": "I know... I'm sorry, Vodyanitsa. The next time I have a chance, I'll be there, I promise..."
+        },
+        {
+          "s": 1,
+          "t": "Oh, she had \"urgent business,\" alright. At that show, sitting in the seat I saved for her was a wealthy merchant she'd been trying to win over. My art became a stepping stone she could exploit to climb the social ladder."
+        },
+        {
+          "s": 0,
+          "t": "That's awful! You gave her that ticket as a friend, and she used it to get ahead in her career!"
+        },
+        {
+          "sit": "If that's the case, then why did you—"
+        },
+        {
+          "s": 1,
+          "t": "Stay friends with her?"
+        },
+        {
+          "s": 1,
+          "t": "Because I don't give up on friends that easily. Perhaps she can throw away a friendship like it never meant anything, but I can't. I don't like letting go of anything that belongs to me."
+        },
+        {
+          "s": 1,
+          "t": "Lishnaya was always a smart girl. She used the tickets I gave her to make a host of powerful new friends, and now she's part of the Zapolyarny elite."
+        },
+        {
+          "s": 1,
+          "t": "She still came to hear me sing on occasion. But to her, my art was like a grand buffet without any hot dishes."
+        },
+        {
+          "s": 1,
+          "t": "Beautiful, elegant, and exquisite to behold, but not a source of true enjoyment."
+        },
+        {
+          "s": 1,
+          "t": "A lot of the people who send these flowers have never even been to the theater, and aren't interested in my songs at all."
+        },
+        {
+          "s": 1,
+          "t": "So I don't like these flowers, {NICKNAME}. Looking at them feels like singing all alone to an empty theater, with no one listening..."
+        },
+        {
+          "s": 1,
+          "t": "As my voice echoes aimlessly around the empty room, with no one to hear it but me, it might as well be the mad ghosts of the deceased Water Imps singing inside my head..."
+        },
+        {
+          "s": 1,
+          "t": "They cry, laugh, argue, and shout, full of feelings known to no one but me. Their silent screams wash through the desolate theater like wind over a dried-up ocean."
+        },
+        {
+          "s": 1,
+          "t": "There have been times when I've even thought about not coming to the theater anymore, outside of performances and rehearsals. But if I did that, who else would be there to hear them sing?"
+        },
+        {
+          "s": 1,
+          "t": "A song can't exist without an audience. It simply dies. They need me here to hear them sing... I have to be here."
+        },
+        {
+          "s": 1,
+          "t": "But what about me? I'm here to listen to the songs of the dead, but who's listening to my songs?"
+        },
+        {
+          "s": 1,
+          "t": "More and more people attend my performances, but fewer and fewer truly listen."
+        },
+        {
+          "s": 1,
+          "t": "They don't come because they love my voice. They're not here to take it slow and enjoy the performance. They just want to prove they can get their hands on a ticket."
+        },
+        {
+          "s": 1,
+          "t": "None of that has anything to do with me. The ghosts of the past are more willing to understand my voice than they are."
+        },
+        {
+          "s": 1,
+          "t": "...If no one's willing to put in the effort to understand my art, I'd rather my songs never echo through this theater again."
+        },
+        {
+          "section": "Talk to Vodyanitsa"
+        },
+        {
+          "s": 1,
+          "t": "Sorry, {NICKNAME}. Sorry, Paimon. Did I scare you just now?"
+        },
+        {
+          "s": 0,
+          "t": "No, no. You didn't scare us. You just seemed kind of... upset."
+        },
+        {
+          "sit": "The look on your face..."
+        },
+        {
+          "sit": "Everything you said..."
+        },
+        {
+          "sit": "You didn't seem like your usual self at all."
+        },
+        {
+          "s": 1,
+          "t": "If I told you that for a moment there, I was possessed by the ghosts of the departed Water Imps... would you believe me?"
+        },
+        {
+          "s": 0,
+          "t": "Definitely not! Sure, you seemed upset, but it's not like you turned into a whole other person."
+        },
+        {
+          "sit": "You're allowed to be sad, y'know..."
+        },
+        {
+          "sit": "That doesn't make you not you."
+        },
+        {
+          "s": 1,
+          "t": "Heh... If only more people were like you two, I think everyone in the theater would be a lot happier."
+        },
+        {
+          "s": 1,
+          "t": "Since you don't believe me, though, I guess I won't let Xenia come out and say hi. You have no idea how loud she was just now — her voice even cracked. No wonder she was never chosen as the lead soprano."
+        },
+        {
+          "s": 0,
+          "t": "What do you mean? There are only three of us here."
+        },
+        {
+          "s": 1,
+          "t": "You just can't see her — no one can, and I'm the only one who can hear her. That said, if you wanna give it a try, just close your eyes and give me your hands..."
+        },
+        {
+          "s": 1,
+          "t": "Now, picture a deep, dark sea of sorrow, the bottom completely devoid of light. There is no night or day, and you're slowly sinking... deeper... and deeper..."
+        },
+        {
+          "sit": "..."
+        },
+        {
+          "s": 0,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "Boo!"
+        },
+        {
+          "s": 0,
+          "t": "Waaaaaah!"
+        },
+        {
+          "sit": "Y—You scared me..."
+        },
+        {
+          "sit": "What was that all about!?"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, just messing with you. I was worried I brought down the mood just now, so I thought I'd play a little trick to snap you guys out of it."
+        },
+        {
+          "s": 0,
+          "t": "...! You could've just... bought us a tasty snack, or sang us a song! You didn't have to scare us like that! Geez. You almost gave Paimon a heart attack..."
+        },
+        {
+          "s": 1,
+          "t": "No, no! That would have been way too slow! I had to act fast, or you might've actually started hearing the ghosts of the Water Imps..."
+        },
+        {
+          "s": 0,
+          "t": "Yeah, right! Hmph. C'mon, {NICKNAME}! Let's go get something yummy! Without Vodyanitsa!"
+        },
+        {
+          "sit": "Hold on..."
+        },
+        {
+          "sit": "I just need a second..."
+        },
+        {
+          "s": 1,
+          "t": "Hahahahahaha! Alright, alright, I won't tease you anymore. You guys go ahead. Treat yourselves to something delicious at Podvorye Restaurant."
+        },
+        {
+          "s": 1,
+          "t": "When you get there, just tell them to put it on my tab. Sound good? Does that make it up to you?"
+        },
+        {
+          "s": 0,
+          "t": "Hmph... In that case, Paimon guesses we can forgive you..."
+        },
+        {
+          "s": 1,
+          "t": "Great. Off you go, now! Getting some delicious food in you will cheer you right up!"
+        },
+        {
+          "sit": "You should come too, Vodyanitsa."
+        },
+        {
+          "s": 1,
+          "t": "Thanks, but I have a performance coming up. Plus, I still have a bunch of shopping to get through, so I need to find time to go to the store."
+        },
+        {
+          "s": 1,
+          "t": "If you're free later, though, let's meet up at Sadov-Arbat."
+        },
+        {
+          "sit": "Okay. You sure you don't want to eat with us, though?"
+        },
+        {
+          "s": 1,
+          "t": "I'm sure! I have to tidy up backstage, anyway. Go on, get outta here! Unless you wanna see me all covered in dust and grime after dealing with this mess!"
+        },
+        {
+          "s": 1,
+          "t": "See you at Sadov-Arbat later! Don't keep me waiting!"
+        },
+        {
+          "s": 1,
+          "t": "..."
+        },
+        {
+          "s": 1,
+          "t": "\"...Why have you abandoned me? Why don't you come to save me, or listen to my voice? I sing by day to no response. I weep by night to no absolution...\""
+        },
+        {
+          "s": 1,
+          "t": "...I hear you, Xenia... or was that Paraskeva...? No, it's neither of you..."
+        },
+        {
+          "s": 1,
+          "t": "...You've stopped singing... Okay, I guess you're done... For now, at least..."
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 7,
+          "t": "...Huh. I see Vodyanitsa has found some more people to share her burdens."
+        },
+        {
+          "s": 7,
+          "t": "When she sings, please listen attentively, {NICKNAME}."
+        },
+        {
+          "s": 7,
+          "t": "The song of a Water Imp is the most sincere sound in the world. There are no lies, no tricks. Just raw emotion."
+        },
+        {
+          "s": 7,
+          "t": "...Of course, sometimes the song of a Water Imp is all emotion and no technique. Vodyanitsa sang one such song for me before. It left an enduring impression."
+        },
+        {
+          "section": "Go see Vodyanitsa at Sadov-Arbat"
+        },
+        {
+          "s": 0,
+          "t": "So this is Sardov-Arbat... Everything looks so expensive. Does Vodyanitsa really do her shopping here?"
+        },
+        {
+          "s": 1,
+          "t": "Yep. I'm already done, actually. I had Yevlena take it all back to the theater."
+        },
+        {
+          "sit": "...Huh? Hey, look outside..."
+        },
+        {
+          "sit": "There's a couple of people staring..."
+        },
+        {
+          "s": 8,
+          "t": "Wow, yeah, it's definitely her! ...Hey, do you think she'd be okay with me asking her for a picture?"
+        },
+        {
+          "s": 9,
+          "t": "If Avreliya were here, she'd definitely tell us not to push our luck. But I think, sometimes in life, you just have to throw caution to the wind."
+        },
+        {
+          "s": 8,
+          "t": "Uh... Alright, you first then! Hurry, before Lady Shakhovskaya gets here!"
+        },
+        {
+          "s": 9,
+          "t": "No, let's go together. It was both of our ideas to come out here. If we go down for this, we're going down together."
+        },
+        {
+          "s": 8,
+          "t": "I, uh... On second thought..."
+        },
+        {
+          "s": 1,
+          "t": "Miss Malinina. Mr. Rozhdestvensky. You two must be absolutely freezing out there."
+        },
+        {
+          "s": 1,
+          "t": "If you're looking for a way to mark the occasion, wouldn't you be better off coming inside for a chat?"
+        },
+        {
+          "s": 8,
+          "t": "Huh?! How did she hear us from so far away...?"
+        },
+        {
+          "s": 9,
+          "t": "Ah... I'm such an idiot. Miss Vodyanitsa is a Water Imp. Of course she overheard us..."
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, Paimon, wait here, okay? I'll just be a moment."
+        },
+        {
+          "s": 0,
+          "t": "Whoa... Looks like Vodyanitsa's in fan service mode again. Can't they let a girl shop in peace?"
+        },
+        {
+          "sit": "Let's wait for her off to the side."
+        },
+        {
+          "s": 0,
+          "t": "Sure. Oh, yeah — so {NICKNAME}, there's this thing that Paimon's been meaning to talk to you about..."
+        },
+        {
+          "s": 8,
+          "t": "M—Miss Vodyanitsa... Wait, no! I mean... Prima Donna Vodyanitsa! It's an honor to meet you!"
+        },
+        {
+          "s": 1,
+          "t": "There's no need to be so formal. I remember you two. You were at my last performance, weren't you? With Lady Shakhovskaya?"
+        },
+        {
+          "s": 9,
+          "t": "Yes! I must apologize for how dreadful I looked. I didn't have time to change, so I had to wear my usual clothes..."
+        },
+        {
+          "s": 8,
+          "t": "M—Me too... Your singing was so beautiful, though! I mean, not that I'm any kind of expert. And I didn't quite understand everything, but..."
+        },
+        {
+          "s": 1,
+          "t": "That's alright. If one show was all it took to understand the opera, how would the theater turn a profit?"
+        },
+        {
+          "s": 8,
+          "t": "Huh? Oh, um..."
+        },
+        {
+          "s": 9,
+          "t": "...I believe Miss Vodyanitsa is speaking in jest, my dear Malinochka. Loosen up a little! You're so tense, you're turning into Avreliya."
+        },
+        {
+          "s": 8,
+          "t": "O—Of course! I... I knew that! I just... I really did love your singing!"
+        },
+        {
+          "s": 9,
+          "t": "You'll have to excuse us, Miss Vodyanitsa. We're just so excited to meet you. Is there any chance we could take a picture together?"
+        },
+        {
+          "s": 1,
+          "t": "No apology necessary. I always appreciate the support. This isn't the best place for a photo, though. How about an autograph instead?"
+        },
+        {
+          "s": 8,
+          "t": "Yes, please! You can sign my, um... uh... Maybe sign my sleeve?"
+        },
+        {
+          "s": 9,
+          "t": "Uh, mine too!"
+        },
+        {
+          "s": 1,
+          "t": "Hehe, let's not make doing the laundry more of a chore than it already is. Here, take this."
+        },
+        {
+          "s": 8,
+          "t": "A ticket to the theater? Miss Vodyanitsa, are you sure...?"
+        },
+        {
+          "s": 1,
+          "t": "I signed the tickets for you. If you want, you can have a word with the staff after the ticket check, and they'll let you hang onto them as souvenirs."
+        },
+        {
+          "s": 9,
+          "t": "Thank you so much! We'll..."
+        },
+        {
+          "s": 8,
+          "t": "Wait, will we even be able to take time off? Look at the time of the show..."
+        },
+        {
+          "s": 9,
+          "t": "Ah, don't worry about it! I'm sure it'll be fine. We'll, uh... We'll figure something out."
+        },
+        {
+          "s": 0,
+          "t": "Well, that was a ten outta ten fan interaction! Where'd you even get those tickets, Vodyanitsa?"
+        },
+        {
+          "s": 1,
+          "t": "Oh, I already had them on hand already. I always put a handful in my pocket before I leave in the morning. They seem to come in handy quite a bit."
+        },
+        {
+          "sit": "So whenever we run into you from now on..."
+        },
+        {
+          "sit": "We should ask for one!"
+        },
+        {
+          "s": 1,
+          "t": "No need! I already gave you that handwritten ticket, didn't I? You can keep using that."
+        },
+        {
+          "s": 0,
+          "t": "Really? Huh, well that's super handy! ...For you too, right? If you ever run out of regular tickets, you can just write more by hand."
+        },
+        {
+          "s": 1,
+          "t": "I guess I could. But for some people, handwritten tickets just don't compare to the official ones."
+        },
+        {
+          "section": "Listen as Vodyanitsa tells her story..."
+        },
+        {
+          "s": 2,
+          "t": "I can't thank you enough, Vodyanitsa! My goodness, you have no idea how happy those people were to get those tickets!"
+        },
+        {
+          "s": 1,
+          "t": "...You look so tired, Lishnaya. You've got more wrinkles, too."
+        },
+        {
+          "s": 2,
+          "t": "Ah, yes, well... Work is always so busy these days. There's a lot of things that need my personal attention."
+        },
+        {
+          "s": 1,
+          "t": "You haven't come backstage to hear me sing in ages."
+        },
+        {
+          "s": 2,
+          "t": "I... It's not like I don't go to your shows, Vodyanitsa. It's just..."
+        },
+        {
+          "s": 1,
+          "t": "You don't use the handwritten ticket I gave you anymore."
+        },
+        {
+          "s": 2,
+          "t": "I know. I'm sorry, but when I'm attending with business partners, I can't just stay backstage..."
+        },
+        {
+          "s": 1,
+          "t": "You're all grown up now, Lishnaya. I know that. Your place isn't behind the curtain anymore. You have too much to do beyond it."
+        },
+        {
+          "s": 2,
+          "t": "I am sorry."
+        },
+        {
+          "s": 1,
+          "t": "It's okay. Just know that the handwritten ticket will always be valid. So if you ever have some time, maybe come and hear me sing a little more often, okay?"
+        },
+        {
+          "s": 2,
+          "t": "...I will, Vodyanitsa. I will."
+        },
+        {
+          "s": 1,
+          "t": "But she never came backstage again."
+        },
+        {
+          "s": 1,
+          "t": "Gone was my enthusiastic little opera-lover, grinning and waving at me from behind the curtain."
+        },
+        {
+          "section": "Travel with Vodyanitsa..."
+        },
+        {
+          "s": 1,
+          "t": "Although... In her place, Snezhnaya gained a meticulous and shrewd merchant. Hmph, honestly, those old geezers on the Veche owe me a thank you. My loss was their gain."
+        },
+        {
+          "sit": "Have you given out a lot of handwritten tickets?"
+        },
+        {
+          "s": 1,
+          "t": "Not really. I usually only give them to people who like listening to me sing, but can't get a ticket for whatever reason."
+        },
+        {
+          "s": 1,
+          "t": "They're valid for almost every show. They can sit in an empty seat if there's one available, otherwise they can watch from backstage."
+        },
+        {
+          "s": 1,
+          "t": "I just wanted to give people the chance to hear me sing, but those people... Who knows. Maybe they came for the love of the theater at first, but later..."
+        },
+        {
+          "s": 1,
+          "t": "Some tried to bribe me with gold, silver, and jewels in the hopes of striking some kind of exclusive deal."
+        },
+        {
+          "s": 1,
+          "t": "Others sold their tickets on the black market for countless times their original value."
+        },
+        {
+          "s": 1,
+          "t": "And some even used them to deceive people... to masquerade as people with connections and influence."
+        },
+        {
+          "s": 1,
+          "t": "Like I said before, they don't actually want to hear me sing. They just want the privilege of being there. To them, the ticket is like a token they can exchange for something better."
+        },
+        {
+          "s": 1,
+          "t": "But my handwritten tickets were never meant to be status symbols. It's not about money, or social capital. It's just my way of saying, I'd love you to come hear me sing."
+        },
+        {
+          "s": 1,
+          "t": "Heh, coming from me, maybe a humble handwritten ticket is too simple to be worth anything at all."
+        },
+        {
+          "s": 1,
+          "t": "Coming from the \"Principal Soprano of the Korolevskiy Troupe,\" though... Suddenly, it can be exchanged for a whole lot of things."
+        },
+        {
+          "s": 1,
+          "t": "So, what about you, {NICKNAME}? I gave you that handwritten ticket. Thinking about cashing it in?"
+        },
+        {
+          "sit": "Never."
+        },
+        {
+          "sit": "How could I give up an unlimited free pass to your shows?"
+        },
+        {
+          "s": 0,
+          "t": "Yeah, with that ticket, we'll get to hear you sing all those pretty songs for free! There's no way we're gonna trade it in for something else!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, that would be like giving up a ticket to an unlimited buffet for some cheap snack that's gone in two bites! We know better than that."
+        },
+        {
+          "sit": "What an analogy..."
+        },
+        {
+          "sit": "Very Paimon-themed."
+        },
+        {
+          "s": 0,
+          "t": "Anyway, you've treated us to a meal and a show already! We can't keep just mooching off your hospitality!"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, it's our turn to treat you to some tasty food. You've got a performance coming up soon, right? Think of it as a... a good luck meal! As for the check..."
+        },
+        {
+          "sit": "It's on me!"
+        },
+        {
+          "sit": "It's on me... and Paimon!"
+        },
+        {
+          "s": 0,
+          "t": "Huh? Oh... Y—Yeah, sure! It's on us!"
+        },
+        {
+          "s": 1,
+          "t": "Sounds lovely — I'd be delighted. A word of warning, though: I have a huge appetite. I can eat more than Odette and Alyosha put together!"
+        },
+        {
+          "sit": "Those two put together..."
+        },
+        {
+          "sit": "Isn't that much, honestly..."
+        },
+        {
+          "s": 0,
+          "t": "Hahaha... Yeah, one's on a strict budget and the other's on an even stricter diet..."
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 10,
+          "t": "...*sobbing* Ohh... That was so beautiful!"
+        },
+        {
+          "s": 10,
+          "t": "Miss Vodyanitsa is such a good fae! Why can't the other fae follow her example and live an honest life?"
+        },
+        {
+          "s": 10,
+          "t": "I think the next time we have a bunch of bad fae to punish, we should tie them up, drop them off at the theater, and make them listen to Vodyanitsa sing all day."
+        },
+        {
+          "s": 10,
+          "t": "That'll make them think twice next time. How can anyone bring themselves to commit a crime after witnessing such a beautiful song?"
+        },
+        {
+          "s": 11,
+          "t": "..."
+        },
+        {
+          "s": 11,
+          "t": "I fear this approach would only encourage more fae to commit crimes in order to see a free show. It would be a waste of resources."
+        },
+        {
+          "s": 10,
+          "t": "In that case, how about we invite Vodyanitsa to come to us and sing for the bad fae there instead?"
+        },
+        {
+          "s": 11,
+          "t": "The same issue applies."
+        },
+        {
+          "s": 11,
+          "t": "...But I would have no objection."
+        },
+        {
+          "section": "Treat Vodyanitsa to something yummy...?"
+        },
+        {
+          "s": 0,
+          "t": "No sign of Vodyanitsa yet. Let's start by getting a table, and then... H—Hold up, is that...?"
+        },
+        {
+          "s": 12,
+          "t": "...Is there really no way I can take these ingredients to go?"
+        },
+        {
+          "s": 13,
+          "t": "Ma'am... what do you expect us to cook with if we let our customers buy all our ingredients?"
+        },
+        {
+          "s": 12,
+          "t": "That's easily solved. Let me handle the cooking. In return, you let me take home the leftover ingredients. Deal?"
+        },
+        {
+          "s": 13,
+          "t": "Huh? I—I... Uh..."
+        },
+        {
+          "s": 12,
+          "t": "I even have my sous-chef with me. Come on, you're clearly swamped. What's the harm in letting us pitch in with a few dishes?"
+        },
+        {
+          "s": 14,
+          "t": "Chef, um... I think..."
+        },
+        {
+          "s": 0,
+          "t": "Escoffier? Savanna? What are you doing in Snezhnaya?"
+        },
+        {
+          "s": 12,
+          "t": "Ah, Paimon! And {NICKNAME}! What a... Well, I can't really call it a coincidence..."
+        },
+        {
+          "s": 12,
+          "t": "After reading all about the commotion you caused in Nod-Krai in The Steambird, I figured the next stop on your journey would be Snezhnaya."
+        },
+        {
+          "s": 14,
+          "t": "Hahaha... Chef said she needed my help organizing the menu or something. Things back at the restaurant weren't too busy, so she dragged me along."
+        },
+        {
+          "s": 12,
+          "t": "No, I brought you because you needed more training! Take that new cake you made, for example! I said I wanted it moist! Not dry as the Sumeru desert!"
+        },
+        {
+          "s": 14,
+          "t": "C'mon, it wasn't THAT dry... At least, not desert-dry. Dried-up river bed, maybe..."
+        },
+        {
+          "s": 12,
+          "t": "Pshh, well at least your comebacks are improving. That's where all your energy's been going, has it?"
+        },
+        {
+          "s": 14,
+          "t": "Yes... Ah, I mean, no! I'd never talk back to you, Chef!"
+        },
+        {
+          "s": 1,
+          "t": "Nefedov? Did you, uh... hire a couple of new chefs?"
+        },
+        {
+          "s": 13,
+          "t": "I did not, Miss Vodyanitsa. These two chefs from Fontaine kindly offered to help out in the kitchen... And in return, they'd like to purchase our cooking ingredients..."
+        },
+        {
+          "s": 0,
+          "t": "Vodyanitsa, you made it! Oh, what's that you got there?"
+        },
+        {
+          "s": 1,
+          "t": "It's my fan mail. I grabbed it on the way. I'm gonna go through it when I get back home."
+        },
+        {
+          "s": 1,
+          "t": "Miss... Escoffier from Fontaine, I presume? I've heard of you. The last time I was in Fontaine, the lovely people at the Hotel Debord invited me to taste-test their new cake."
+        },
+        {
+          "s": 12,
+          "t": "Oh? And how was it?"
+        },
+        {
+          "s": 1,
+          "t": "Hmm... The ingredients were very nice, but it ate a bit dry, and the texture was slightly... gritty. Like sand, almost."
+        },
+        {
+          "s": 14,
+          "t": "*whimper*..."
+        },
+        {
+          "s": 12,
+          "t": "Haha... ha..."
+        },
+        {
+          "s": 12,
+          "t": "SAVANNAAAA!"
+        },
+        {
+          "s": 14,
+          "t": "I'm sorrryyy!"
+        },
+        {
+          "s": 12,
+          "t": "I swear, if you don't up your game while we're in Snezhnaya, you may as well trade in your oven for a fridge and stick to making cold pudding for the rest of your life. Do I make myself clear? Cold. Pudding!"
+        },
+        {
+          "s": 14,
+          "t": "Y—Yes, Chef! You are a Patissiere Supreme, and I'm a lowly pudding plongeur..."
+        },
+        {
+          "s": 0,
+          "t": "Hahaha... Even though she's no longer head chef, Escoffier's tough-love mentorship towards Savanna hasn't changed a bit, huh..."
+        },
+        {
+          "sit": "That's just who she is..."
+        },
+        {
+          "s": 14,
+          "t": "...B—But, Chef, the kinds of customers we get buying cakes from the hotel lately have been getting stranger by the day. Some of them buy a cake without even intending to eat it..."
+        },
+        {
+          "s": 12,
+          "t": "Huh? Then what are they buying it for? To throw it at someone?"
+        },
+        {
+          "s": 14,
+          "t": "To give away as a gift, or to take a picture and show it off... Whenever we reach out to follow-up on customer satisfaction, all they care about is the ingredients we use and how expensive they were. They have nothing whatsoever to say on the flavor..."
+        },
+        {
+          "s": 1,
+          "t": "Hmm. So cakes are Fontaine's status symbol of choice then... Hehe, cute."
+        },
+        {
+          "s": 14,
+          "t": "*sigh*... Since the kitchen staff heard that the customers aren't actually eating our cakes, they've been starting to lose their enthusiasm for their work..."
+        },
+        {
+          "s": 12,
+          "t": "People aren't appreciating your cakes for what they are, so you've lost motivation. Is that it?"
+        },
+        {
+          "s": 14,
+          "t": "...I—I guess so. When everyone puts so much effort into making these cakes, but no one takes the time to savor them... I just feel bad for the cakes, that's all."
+        },
+        {
+          "s": 14,
+          "t": "I even tried a bunch of different ways to make them taste better..."
+        },
+        {
+          "s": 12,
+          "t": "And that's how you ended up with that sponge?"
+        },
+        {
+          "s": 14,
+          "t": "Yes. Though obviously, it was a failure..."
+        },
+        {
+          "s": 12,
+          "t": "Y'know, Savanna... if you were still an apprentice, I'd be glad to see this kind of reaction. It's a testament to your passion for baking."
+        },
+        {
+          "s": 12,
+          "t": "But you're the head chef of the Hotel Debord now. Your goal is for customers to hand you Mora and walk away with a cake. You can't afford to think like an apprentice anymore."
+        },
+        {
+          "s": 1,
+          "t": "Heh... like an apprentice..."
+        },
+        {
+          "s": 1,
+          "t": "Still, I can't imagine painstakingly making a delicious cake, only for no one to taste it... It sounds very frustrating."
+        },
+        {
+          "s": 1,
+          "t": "It's like putting your heart and soul into singing an aria, only to find that the audience is either whispering among themselves or completely distracted..."
+        },
+        {
+          "s": 1,
+          "t": "It's disheartening, isn't it?"
+        },
+        {
+          "s": 14,
+          "t": "Exactly! You get it. It makes you feel like... it's all for nothing..."
+        },
+        {
+          "s": 12,
+          "t": "Oh, come on, Savanna. Is the position of head chef really so all-encompassing that you have nothing else to live for?"
+        },
+        {
+          "s": 12,
+          "t": "And anyway — it's not like you don't know anyone who's serious about cake-tasting. You have me, at least."
+        },
+        {
+          "s": 0,
+          "t": "Ooh! Ooh! And Paimon!"
+        },
+        {
+          "sit": "I like cake too."
+        },
+        {
+          "s": 12,
+          "t": "As head chef, your job is to meet the needs of the customer. As a baker, you're driven by the desire to create exquisite flavors."
+        },
+        {
+          "s": 12,
+          "t": "It's up to you to decide how to find a balance between those two roles, Head Chef Savanna."
+        },
+        {
+          "s": 14,
+          "t": "...Can't you just come and be the head chef instead?"
+        },
+        {
+          "s": 12,
+          "t": "Nope. I'm having too much fun being a simple baker at the moment."
+        },
+        {
+          "s": 14,
+          "t": "But, Chef—"
+        },
+        {
+          "s": 1,
+          "t": "If you want to focus more on baking, why not come stay at our theater for a little while? There'll be no shortage of enthusiastic cake-tasters there, I can promise you that."
+        },
+        {
+          "s": 1,
+          "t": "In fact... do you know Odette, Miss Escoffier? Our theater's prima ballerina?"
+        },
+        {
+          "s": 12,
+          "t": "Ah, yes. I saw an ad for her new ballet on the way over. That bird pictured on the poster is a snow swan, right? Beautiful creature."
+        },
+        {
+          "s": 1,
+          "t": "Yes. In fact, it reminds me a lot of the ice sculptures you create. People often liken Odette to a snow swan, so I was wondering if you'd be willing to design a cake specifically for her?"
+        },
+        {
+          "s": 1,
+          "t": "She has a performance coming up in a few days, and I just know she'd be delighted to be presented with a beautiful cake at the end of the show."
+        },
+        {
+          "s": 1,
+          "t": "Oh, and I promise you we'll savor the flavor... Hehe, we won't let your skills as bakers go unappreciated."
+        },
+        {
+          "s": 12,
+          "t": "Well, Savanna, it's time to show us what you can do."
+        },
+        {
+          "s": 14,
+          "t": "But I still haven't perfected that new cake..."
+        },
+        {
+          "s": 12,
+          "t": "Then you better get to work. Let's head to the kitchen and get baking."
+        },
+        {
+          "s": 12,
+          "t": "We have a menu to lock down! C'mon, we need to get our hands on those ingredients!"
+        },
+        {
+          "s": 1,
+          "t": "Your friend Escoffier is quite the character, {NICKNAME}."
+        },
+        {
+          "sit": "That's just who she is..."
+        },
+        {
+          "s": 1,
+          "t": "It's nice, though... That she gets to decide when to be a head chef and when to be a straightforward baker."
+        },
+        {
+          "s": 1,
+          "t": "Heh, as things stand in Snezhnaya right now, I couldn't escape the title of \"Principal Soprano of the Korolevskiy Troupe\" if I wanted to..."
+        },
+        {
+          "s": 1,
+          "t": "Besides, without it, how many people would even spare my singing a second thought?"
+        },
+        {
+          "s": 1,
+          "t": "...Ahem, anyway, I'll go talk to Nefedov. I'm sure I can convince him to let me buy some cooking ingredients."
+        },
+        {
+          "s": 1,
+          "t": "Just think of it as... a deposit for the cake."
+        },
+        {
+          "s": 6,
+          "t": "Escoffier and Savanna treat you to a spread of Fontainian dishes made with Snezhnayan ingredients. Strangely, it ends up tasting pretty good."
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 15,
+          "t": "Ahhh, hearing Miss Vodyanitsa sing always fills me with inspiration. You see? Listening to music while you work can really help you be more productive."
+        },
+        {
+          "s": 15,
+          "t": "...Ooh! I think I just had another eureka moment. I'd better write this down before I forget..."
+        },
+        {
+          "s": 15,
+          "t": "...And the best part is, it didn't happen mid-performance — so this time, I won't get an eye roll from Vodyanitsa! Hahaha!"
+        },
+        {
+          "s": 16,
+          "t": "Is that so? Well, my congratulations."
+        },
+        {
+          "section": "Go to the Korolevskiy Theater"
+        },
+        {
+          "s": 7,
+          "t": "...You've been off lately. Is something wrong?"
+        },
+        {
+          "s": 1,
+          "t": "No. What makes you say that?"
+        },
+        {
+          "s": 7,
+          "t": "It's been five days since you've popped up behind me like a ghost, asking why I haven't gone to hear you sing."
+        },
+        {
+          "s": 7,
+          "t": "You're hearing those voices again, aren't you..."
+        },
+        {
+          "s": 1,
+          "t": "It's just something that happens every now and then. They're not real."
+        },
+        {
+          "s": 7,
+          "t": "Hm, well... Just know, I'm keeping an eye on you, Vodyanitsa."
+        },
+        {
+          "s": 1,
+          "t": "Hehe, well, you do know how much I love having all eyes on me!"
+        },
+        {
+          "s": 0,
+          "t": "Vodyanitsa, we found you! Phew, that was exhausting... Oh, Odette! You're here too!"
+        },
+        {
+          "sit": "We forgot to decide on a place to meet up yesterday."
+        },
+        {
+          "sit": "Otherwise we'd have been here earlier."
+        },
+        {
+          "s": 0,
+          "t": "Are you... getting ready for a performance?"
+        },
+        {
+          "s": 1,
+          "t": "Sure am. It's the one I told you about last time. It's a bit of a special occasion, though, so it's not completely open to the public."
+        },
+        {
+          "s": 7,
+          "t": "Ah, one of those? Only people with handwritten tickets can attend?"
+        },
+        {
+          "s": 1,
+          "t": "That's right. It's just a shame that fewer and fewer people truly meet that criterion nowadays."
+        },
+        {
+          "s": 1,
+          "t": "Hmph, I've had enough of people who treat their ticket like a token they can cash in for something better. They might think they can hide their intentions behind fake enthusiasm and flower baskets..."
+        },
+        {
+          "s": 1,
+          "t": "But, too bad for them, I happen to have excellent hearing. So, if they think I can't hear the schemes rattling around their brains, and the Mora jingling in their pockets, they've got another thing coming."
+        },
+        {
+          "s": 1,
+          "t": "Clearly, they have no interest in hearing me sing, so why should I let them through the door?"
+        },
+        {
+          "s": 7,
+          "t": "To clarify, Vodyanitsa is going to announce that certain handwritten tickets are invalid. If those people decide to act up, we'll take it up a notch by publishing their names in the paper."
+        },
+        {
+          "sit": "In the paper? Really?"
+        },
+        {
+          "sit": "Won't that make them mad?"
+        },
+        {
+          "s": 1,
+          "t": "Hahahaha, like I care! I wrote those tickets, so I get to say whose counts and whose doesn't!"
+        },
+        {
+          "s": 1,
+          "t": "I gave those people the gift of my song, but they tossed it aside like trash. They insulted my art. The last thing they deserve is my respect."
+        },
+        {
+          "s": 0,
+          "t": "Okay, um... You don't think they'll come to the theater and cause trouble, though, do you?"
+        },
+        {
+          "s": 7,
+          "t": "They don't have the guts for that."
+        },
+        {
+          "s": 1,
+          "t": "Exactly. Besides, I don't just sing for me. I sing for every Water Imp whose voice has ever graced this theater."
+        },
+        {
+          "s": 1,
+          "t": "I'm the only one left. I'm the only one who can keep these songs alive."
+        },
+        {
+          "s": 1,
+          "t": "...Sorry, I have things to take care of backstage. Excuse me for a moment."
+        },
+        {
+          "s": 1,
+          "t": "Odette, look after {NICKNAME} and Paimon for me, will you?"
+        },
+        {
+          "s": 7,
+          "t": "Of course."
+        },
+        {
+          "s": 0,
+          "t": "Odette... is everything okay with Vodyanitsa? She looks super tired..."
+        },
+        {
+          "s": 7,
+          "t": "The Water Imps in the theater have been acting up again..."
+        },
+        {
+          "sit": "The Water Imps... in the theater?"
+        },
+        {
+          "sit": "But Vodyanitsa said they weren't real..."
+        },
+        {
+          "s": 7,
+          "t": "Not to us. But to her, their voices have never truly disappeared."
+        },
+        {
+          "s": 7,
+          "t": "She's memorized every piece a Water Imp has ever performed here, and she never misses a chance to take to the stage and sing their songs over and over again."
+        },
+        {
+          "s": 7,
+          "t": "Joyous odes, sorrowful elegies, sweeping heroic anthems... She knows them all by heart."
+        },
+        {
+          "s": 7,
+          "t": "I've asked her why she does it, and all she said was:"
+        },
+        {
+          "s": 1,
+          "t": "\"It's all I can do... All I can do for the departed Water Imps is sing for them.\""
+        },
+        {
+          "s": 1,
+          "t": "\"I sing their songs. I act as their audience. That's how I keep them alive.\""
+        },
+        {
+          "s": 7,
+          "t": "So, every so often, she holds a special performance to sing the songs they've left behind."
+        },
+        {
+          "s": 7,
+          "t": "According to Vodyanitsa, the songs are so old, there are few people left who truly appreciate them. But, since they were written by the Water Imps themselves..."
+        },
+        {
+          "s": 7,
+          "t": "Vodyanitsa thought that performing their songs would give people the chance to hear the voices of the Water Imps who poured their hearts and souls into this place, but had no choice but to leave."
+        },
+        {
+          "s": 7,
+          "t": "At first, we thought a show like that would catch people's interest, so we tried teaching the songs to other experienced singers in the theater."
+        },
+        {
+          "s": 7,
+          "t": "...But ticket sales were far from ideal. Obscure songs coupled with no-name singers just couldn't compete with the theater's tried and true hits. We were struggling to attract an audience."
+        },
+        {
+          "s": 7,
+          "t": "In the end, Vodyanitsa decided to use her own fame to entice people to attend, but..."
+        },
+        {
+          "sit": "All people cared about was her reputation."
+        },
+        {
+          "sit": "Not the songs?"
+        },
+        {
+          "s": 0,
+          "t": "So that's why Vodyanitsa can't stand it when people come to her shows and don't appreciate the music..."
+        },
+        {
+          "s": 0,
+          "t": "She gave handwritten tickets to people she thought she could trust. People she thought actually cared about her art..."
+        },
+        {
+          "sit": "But in the end..."
+        },
+        {
+          "sit": "They let her down."
+        },
+        {
+          "s": 7,
+          "t": "Obviously, I can't speak for Vodyanitsa, but since she's also a Water Imp, I can't help but wonder whether..."
+        },
+        {
+          "sit": "Maybe she's thinking about... the future?"
+        },
+        {
+          "sit": "...The day she's no longer the principal soprano."
+        },
+        {
+          "s": 7,
+          "t": "..."
+        },
+        {
+          "s": 7,
+          "t": "*sigh*... Yes. When she's no longer the principal soprano, when she's no longer the Prima Donna that everyone adores..."
+        },
+        {
+          "s": 7,
+          "t": "Will her songs be forgotten like the other Water Imps? Left to echo through this vaulted space with no one there to hear them?"
+        },
+        {
+          "s": 7,
+          "t": "Right now, she's here to keep the other Water Imps' songs alive. But when she's gone... who will be there to keep her songs alive?"
+        },
+        {
+          "s": 0,
+          "t": "Ohhh... No wonder she seemed so sad all of a sudden..."
+        },
+        {
+          "sit": "We can fix that."
+        },
+        {
+          "sit": "I have an idea."
+        },
+        {
+          "s": 7,
+          "t": "...Huh, interesting. Well, if you need my help, come find me at the theater anytime."
+        },
+        {
+          "s": 0,
+          "t": "Will do! Hehe, Paimon knew you really cared about Vodyanitsa, Odette! Only true friends can read each other's mood like that!"
+        },
+        {
+          "s": 7,
+          "t": "...I wasn't reading her mood. She talks in her sleep. I just happened to overhear those things while she was napping in the lounge just now."
+        },
+        {
+          "sit": "Seriously?"
+        },
+        {
+          "s": 7,
+          "t": "I must have fallen asleep at some point too. Anyway, I should head backstage and help get things in order. Bye, you two."
+        },
+        {
+          "s": 0,
+          "t": "Huh? Wait a second! Odette!"
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 17,
+          "t": "Vodyanitsa has such a wonderful voice."
+        },
+        {
+          "s": 17,
+          "t": "You think so too, don't you, Tugarin? But... hehe, we're in the theater, so we need to stay real quiet, okay boy?"
+        },
+        {
+          "section": "Check the notebook"
+        },
+        {
+          "s": 4,
+          "t": "Greetings, {NICKNAME}, Paimon. I received your message, and have brought the device you requested."
+        },
+        {
+          "sit": "I knew Aino would come through."
+        },
+        {
+          "sit": "She always delivers the goods."
+        },
+        {
+          "s": 4,
+          "t": "{NICKNAME} sent a letter, asking if Aino could construct a miniature phonograph, preferably one that could be worn around the neck."
+        },
+        {
+          "s": 3,
+          "t": "A miniature phonograph? What would {NICKNAME} want that for...? Eh, whatever! The important part is, {M#he}{F#she} said you'll bring me back some super delicious ice cream in return!"
+        },
+        {
+          "s": 3,
+          "t": "Hehehe, I've got this, no problem! Now, let's see... \"Nothing too complicated\"? ...Fine. I can do simple, I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Huh? When did you send that letter? Paimon had no idea..."
+        },
+        {
+          "sit": "I only thought of it late last night..."
+        },
+        {
+          "sit": "You were already asleep by then..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh! So sneaky! Paimon does not appreciate being kept out of the loop!"
+        },
+        {
+          "s": 4,
+          "t": "Well, it was excellent timing. I was already planning to come to Snezhnograd to look for Jahoda, so bringing the device along was no trouble."
+        },
+        {
+          "sit": "Actually, I also ran into Jahoda..."
+        },
+        {
+          "s": 6,
+          "t": "You tell Ineffa about what happened to Jahoda..."
+        },
+        {
+          "s": 4,
+          "t": "I had anticipated she might put herself in danger. After reporting back to Aino, I will meet up with her as soon as possible."
+        },
+        {
+          "s": 4,
+          "t": "Thanks, you two."
+        },
+        {
+          "s": 4,
+          "t": "Well then, here is what you asked for. Aino calls it the \"Happy-Quacky Phonograph Ducky.\" However, due to its small size, the recording capacity is quite limited. So, do note that the storage component will need to be replaced on a regular basis."
+        },
+        {
+          "s": 3,
+          "t": "Hey, it's not THAT complicated! We'll do... one ice cream per replacement!"
+        },
+        {
+          "s": 0,
+          "t": "She's dealing in ice cream now...? You're really gonna let Aino have that much ice cream, Ineffa?"
+        },
+        {
+          "s": 4,
+          "t": "Of course not. I will keep it frozen and distribute it to Aino according to the established sugar intake plan I've drawn up for her."
+        },
+        {
+          "s": 0,
+          "t": "Of course. Paimon should never have questioned it..."
+        },
+        {
+          "s": 1,
+          "t": "(Is that... a friend of yours? Must be. You sure have a lot of them...)"
+        },
+        {
+          "s": 1,
+          "t": "(But, her body looks... mechanical. Huh, hopefully the frigid temperatures around here don't cause her too much trouble.)"
+        },
+        {
+          "s": 18,
+          "t": "Miss Vodyanitsa, the items you ordered have all been delivered to the theater. Do you need anything else?"
+        },
+        {
+          "s": 1,
+          "t": "...Ah, no, that will be all. Thank you, Yevlena."
+        },
+        {
+          "s": 18,
+          "t": "My pleasure. I wish you all the best for your performance, Miss Vodyanitsa."
+        },
+        {
+          "s": 1,
+          "t": "Thanks. All the best with your business, too."
+        },
+        {
+          "s": 1,
+          "t": "(I bet {NICKNAME} never worries about whether people will remember {M#him}{F#her} or sing {M#his}{F#her} praises... I doubt the thought's ever even crossed {M#his}{F#her} mind.)"
+        },
+        {
+          "s": 1,
+          "t": "(Because even if {M#he}{F#she} were stripped of all {M#his}{F#her} fame, {M#he}{F#she} would still have that brilliant heart.)"
+        },
+        {
+          "section": "Obtain the special \"gift\""
+        },
+        {
+          "s": 4,
+          "t": "Greetings, {NICKNAME}, Paimon. I received your message, and have brought the device you requested."
+        },
+        {
+          "sit": "I knew Aino would come through."
+        },
+        {
+          "sit": "She always delivers the goods."
+        },
+        {
+          "s": 4,
+          "t": "{NICKNAME} sent a letter, asking if Aino could construct a miniature phonograph, preferably one that could be worn around the neck."
+        },
+        {
+          "s": 3,
+          "t": "A miniature phonograph? What would {NICKNAME} want that for...? Eh, whatever! The important part is, {M#he}{F#she} said you'll bring me back some super delicious ice cream in return!"
+        },
+        {
+          "s": 3,
+          "t": "Hehehe, I've got this, no problem! Now, let's see... \"Nothing too complicated\"? ...Fine. I can do simple, I guess..."
+        },
+        {
+          "s": 0,
+          "t": "Huh? When did you send that letter? Paimon had no idea..."
+        },
+        {
+          "sit": "I only thought of it late last night..."
+        },
+        {
+          "sit": "You were already asleep by then..."
+        },
+        {
+          "s": 0,
+          "t": "Ugh! So sneaky! Paimon does not appreciate being kept out of the loop!"
+        },
+        {
+          "s": 4,
+          "t": "Well, it was excellent timing. I was already planning to come to Snezhnograd to look for Jahoda, so bringing the device along was no trouble."
+        },
+        {
+          "s": 0,
+          "t": "Huh? You're here to look for Jahoda... Wait, so Jahoda's in Snezhnaya?"
+        },
+        {
+          "s": 4,
+          "t": "It's been several days since Jahoda last came to the craftshop to steal some of Aino's snacks. Aino was concerned, so she asked Miss Nefer about her whereabouts."
+        },
+        {
+          "s": 4,
+          "t": "Miss Nefer said Jahoda is currently in Snezhnograd handling a commission related to the Seahook Gang, so I came here to make sure she is safe."
+        },
+        {
+          "sit": "I see."
+        },
+        {
+          "sit": "I'll be sure to ask around too."
+        },
+        {
+          "s": 4,
+          "t": "Thanks, you two."
+        },
+        {
+          "s": 4,
+          "t": "Well then, here is what you asked for. Aino calls it the \"Happy-Quacky Phonograph Ducky.\" However, due to its small size, the recording capacity is quite limited. So, do note that the storage component will need to be replaced on a regular basis."
+        },
+        {
+          "s": 3,
+          "t": "Hey, it's not THAT complicated! We'll do... one ice cream per replacement!"
+        },
+        {
+          "s": 0,
+          "t": "She's dealing in ice cream now...? You're really gonna let Aino have that much ice cream, Ineffa?"
+        },
+        {
+          "s": 4,
+          "t": "Of course not. I will keep it frozen and distribute it to Aino according to the established sugar intake plan I've drawn up for her."
+        },
+        {
+          "s": 0,
+          "t": "Of course. Paimon should never have questioned it..."
+        },
+        {
+          "s": 1,
+          "t": "(Is that... a friend of yours? Must be. You sure have a lot of them...)"
+        },
+        {
+          "s": 1,
+          "t": "(But, her body looks... mechanical. Huh, hopefully the frigid temperatures around here don't cause her too much trouble.)"
+        },
+        {
+          "s": 18,
+          "t": "Miss Vodyanitsa, the items you ordered have all been delivered to the theater. Do you need anything else?"
+        },
+        {
+          "s": 1,
+          "t": "...Ah, no, that will be all. Thank you, Yevlena."
+        },
+        {
+          "s": 18,
+          "t": "My pleasure. I wish you all the best for your performance, Miss Vodyanitsa."
+        },
+        {
+          "s": 1,
+          "t": "Thanks. All the best with your business, too."
+        },
+        {
+          "s": 1,
+          "t": "(I bet {NICKNAME} never worries about whether people will remember {M#him}{F#her} or sing {M#his}{F#her} praises... I doubt the thought's ever even crossed {M#his}{F#her} mind.)"
+        },
+        {
+          "s": 1,
+          "t": "(Because even if {M#he}{F#she} were stripped of all {M#his}{F#her} fame, {M#he}{F#she} would still have that brilliant heart.)"
+        },
+        {
+          "section": "Go back..."
+        },
+        {
+          "s": 19,
+          "t": "Is that... Vodyanitsa!? By the Tsaritsa, I shouldn't have drunk so much... I might've been able to get an autograph..."
+        },
+        {
+          "s": 20,
+          "t": "Greetings, Miss Vodyanitsa. Um, might I suggest you head in that direction, otherwise you'll be getting stopped for an autograph by everyone you walk past."
+        },
+        {
+          "s": 1,
+          "t": "Thanks, Avreliya. Are you planning to attend my next performance?"
+        },
+        {
+          "s": 20,
+          "t": "Ahaha... I'd love to, of course. If I can get the time off, and Rozh doesn't cause me any grief, I'd be honored to attend."
+        },
+        {
+          "s": 1,
+          "t": "(...\"Honored.\" But what if I wasn't the Prima Donna? What if I wasn't even a member of the troupe, but just...)"
+        },
+        {
+          "s": 1,
+          "t": "(...Heh. Just the Water Imp who refused to leave Snezhnograd. Would anyone care to listen to me sing then?)"
+        },
+        {
+          "s": 21,
+          "t": "Hi, Prima Donna!"
+        },
+        {
+          "s": 1,
+          "t": "Take it easy, you two. It'll be your turn on the stage soon."
+        },
+        {
+          "s": 1,
+          "t": "Oh... and I won't say a word to Miss Odette. Alright?"
+        },
+        {
+          "s": 21,
+          "t": "Yes! Thank you!"
+        },
+        {
+          "s": 1,
+          "t": "(Will I be forgotten by everyone? Just like the other Water Imps who haven't sung a word, let alone taken the stage in all these years?)"
+        },
+        {
+          "s": 1,
+          "t": "(My voice will join theirs... echoing all alone in an empty theater, until it fades away and falls into everlasting silence.)"
+        },
+        {
+          "s": 22,
+          "t": "...Miss Vodyanitsa? Is she performing today?"
+        },
+        {
+          "s": 23,
+          "t": "If only I could get one of those handwritten tickets..."
+        },
+        {
+          "s": 22,
+          "t": "Don't be ridiculous. Those aren't your regular theater tickets, they're—"
+        },
+        {
+          "s": 23,
+          "t": "Tickets to high society, right? Yeah... *sigh* You can't even get them on the black market..."
+        },
+        {
+          "s": 22,
+          "t": "What I wouldn't give to get my hands on one... They say a lot of influential people are regular theater-goers."
+        },
+        {
+          "s": 22,
+          "t": "It's less about the songs, and more about the golden networking opportunities..."
+        },
+        {
+          "s": 1,
+          "t": "(I hear their tireless scheming, their ruthless ambition... The only sound echoing in their minds is the clinking of Mora...)"
+        },
+        {
+          "s": 1,
+          "t": "(If all a Water Imp's song means to these people is a status symbol... Then maybe it's for the best that our voices fall silent.)"
+        },
+        {
+          "section": "Go back..."
+        },
+        {
+          "s": 1,
+          "t": "...Phew. As soon as I get through these RSVPs, I'd better hit the hay. I need to be well-rested for my performance tomorrow."
+        },
+        {
+          "s": 1,
+          "t": "A buffet, huh? Sure, might as well. But I'd better eat beforehand so I don't starve. I know how these things go."
+        },
+        {
+          "s": 1,
+          "t": "...Banquets, exhibitions, conferences... so many events..."
+        },
+        {
+          "s": 1,
+          "t": "It's all so... superficial. So insincere."
+        },
+        {
+          "s": 1,
+          "t": "...Looks like I didn't get any letters from the audience today."
+        },
+        {
+          "s": 1,
+          "t": "Oh, my dear sisters... where in the world have you gone?"
+        },
+        {
+          "s": 1,
+          "t": "I've learned every last song, but to this day I've never received any letters from you."
+        },
+        {
+          "s": 1,
+          "t": "I'm sure that where you are, there are plenty of Water Imps willing to simply listen while a fellow Water Imp sings."
+        },
+        {
+          "s": 1,
+          "t": "Not for social status, not to climb the ladder, and not to appear cultured..."
+        },
+        {
+          "s": 1,
+          "t": "Heh. What am I saying... I'd be better off keeping these thoughts inside my heart, where at least they'd be cozy and warm. Snezhnaya's so cold that my words seem to turn to ice and shatter on the ground moments after leaving my lips."
+        },
+        {
+          "s": 1,
+          "t": "...I should open the window and let some fresh air in."
+        },
+        {
+          "s": 1,
+          "t": "(...Someone's knocking. Who could it be at this hour? Wait... those footsteps, they sound familiar...)"
+        },
+        {
+          "s": 1,
+          "t": "Please come in. Would you—"
+        },
+        {
+          "s": 0,
+          "t": "Hey! Vodyanitsa!"
+        },
+        {
+          "s": 1,
+          "t": "Huh?"
+        },
+        {
+          "s": 1,
+          "t": "P—Paimon? {NICKNAME}? What the..."
+        },
+        {
+          "s": 0,
+          "t": "Hehehe, did we scare ya? You got us good last time, so it was our turn to get you back!"
+        },
+        {
+          "sit": "Actually, we were just wondering whether you were hungry..."
+        },
+        {
+          "sit": "Don't you have a performance tomorrow?"
+        },
+        {
+          "sit": "Just checking in on you. Hope we're not interrupting?"
+        },
+        {
+          "s": 0,
+          "t": "That's right. We spotted you earlier. We were gonna come treat you to some yummy food, and also introduce you to Ineffa."
+        },
+        {
+          "s": 0,
+          "t": "But then we saw all the other people out there who wanted to talk to you, so we figured we should probably leave you to it. We didn't wanna interrupt."
+        },
+        {
+          "s": 0,
+          "t": "...But then, {NICKNAME} pointed out that you'd probably be super tired and hungry after dealing with so many people. So we went back to plan A, and bought some yummy food for you!"
+        },
+        {
+          "s": 1,
+          "t": "I... see. Okay, uh... I'll go clear the table! Just a minute, I won't be long."
+        },
+        {
+          "sit": "Let me help."
+        },
+        {
+          "sit": "Long story short: Let's eat."
+        },
+        {
+          "s": 0,
+          "t": "Whoa... You don't mess around, Vodyanitsa! You pretty much ate that whole late-night feast by yourself!"
+        },
+        {
+          "sit": "Paimon has met her match."
+        },
+        {
+          "sit": "It's good to have a healthy appetite."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, well I need a full stomach to give me the energy to sing! Thanks for the surprise feast. But, um, how did you know I live here?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, Paimon flew up to look for you! Your hair is so pretty, Paimon spotted it from outside your window right away."
+        },
+        {
+          "sit": "If we hadn't been able to find you..."
+        },
+        {
+          "sit": "We'd have had to wait at the theater with your gift."
+        },
+        {
+          "s": 1,
+          "t": "Gift? ...What's this?"
+        },
+        {
+          "s": 0,
+          "t": "A little custom build that {NICKNAME} got a friend of ours to make. It's called:"
+        },
+        {
+          "sit": "The \"Happy-Quacky Phonograph Ducky\"!"
+        },
+        {
+          "s": 1,
+          "t": "...Uh, despite the fact that it looks exactly like my necklace, and features zero duck-related design elements?"
+        },
+        {
+          "s": 0,
+          "t": "Hahaha... About that — Aino really likes ducks. She's the one who named it, and she'd be mad if we changed it..."
+        },
+        {
+          "sit": "In the future, whenever you feel like singing, you can record the song with this."
+        },
+        {
+          "sit": "I'm friends with a very talented director and some wonderful actors. I know they'll give your songs the attention and appreciation they deserve — as will I."
+        },
+        {
+          "s": 1,
+          "t": "Really? Even the older ones? And I'm not talking retro — I mean really old-fashioned..."
+        },
+        {
+          "sit": "I'm reminded of something my director friend once said. \"The most important thing in filmmaking is sincerity. However technically impressive a film may be, it can't captivate an audience unless it has soul.\""
+        },
+        {
+          "sit": "I'm sure that only the most sincere and soulful songs are worthy of Vodyanitsa's repertoire."
+        },
+        {
+          "sit": "I might not be able to help you keep the Water Imps' songs alive, Vodyanitsa, but I'll always be there to listen and remember any song you want to sing."
+        },
+        {
+          "s": 1,
+          "t": "Sounds like you really took everything Odette said to heart."
+        },
+        {
+          "s": 1,
+          "t": "...Oh, don't act so surprised. How many times have I told you? I'm a Water Imp, for goodness' sake! You can whisper all you want, but I'll always hear you clear as a bell."
+        },
+        {
+          "s": 1,
+          "t": "Thank you for the gift. I'll wear it the next time I feel like singing."
+        },
+        {
+          "s": 1,
+          "t": "But first... You said that only the most sincere and soulful songs are worthy of my repertoire, correct?"
+        },
+        {
+          "sit": "Yes!"
+        },
+        {
+          "s": 1,
+          "t": "Okay. And I presume this gift was given with the most sincere of intentions...?"
+        },
+        {
+          "sit": "...Y—Yes...?"
+        },
+        {
+          "s": 1,
+          "t": "Perfect. Well then, to make sure I always remember this gift, and to start it off down the path of sincerity and soulfulness..."
+        },
+        {
+          "s": 1,
+          "t": "...I'm going to need to hear your most sincere singing voice. Come on, {NICKNAME}, show me what you've got."
+        },
+        {
+          "sit": "Huh? I—I'm not much of a singer... Paimon, remember that time you and Itto sang \"I Got Reincarnated as an Onikabuto And Flipped the World Upside Down\"? Time for an encore!"
+        },
+        {
+          "s": 0,
+          "t": "What!? No way, Paimon's not... she doesn't remember the lyrics! And let's not pretend you can't sing — we both remember when you serenaded that Whopperflower..."
+        },
+        {
+          "s": 1,
+          "t": "...Excuse me? You serenaded a Whopperflower?"
+        },
+        {
+          "sit": "I did not! ...Well, technically I did — but I can explain! It was all a misunderstanding..."
+        },
+        {
+          "s": 1,
+          "t": "Sing it for me."
+        },
+        {
+          "sit": "I'll need a second to get ready..."
+        },
+        {
+          "s": 1,
+          "t": "Now."
+        },
+        {
+          "sit": "I, uh... can't sing without my Whopperflower muse...?"
+        },
+        {
+          "s": 1,
+          "t": "Off we go then. Let's go find us a Whopperflower."
+        },
+        {
+          "sit": "But where? They aren't that easy to find—"
+        },
+        {
+          "s": 1,
+          "t": "I don't care! No ifs, no buts, I wanna hear this Whopperflower serenade before the day is through!"
+        },
+        {
+          "s": 1,
+          "t": "And your song, Paimon! You're gonna give me your best rendition of \"I Got Reincarnated as an Onikabuto And Flipped the World Upside Down\"!"
+        },
+        {
+          "s": 1,
+          "t": "Hahahaha, that's gotta be the silliest song name I ever heard. I love it! Paimon, start memorizing those lyrics! Both of you, let's go track down a Whopperflower!"
+        },
+        {
+          "sit": "Nooooo!"
+        },
+        {
+          "s": 0,
+          "t": "Nooooo!"
+        },
+        {
+          "section": "Wait until the next day"
+        },
+        {
+          "s": 24,
+          "t": "..."
+        },
+        {
+          "s": 24,
+          "t": "Let me guess: You want to ask me if Columbina's heard this before?"
+        },
+        {
+          "s": 24,
+          "t": "The answer is yes. There. I mean, what do you expect? Her eyes are covered — what else is there for her to focus on? Odette's footsteps?"
+        },
+        {
+          "section": "Go see the performance at the Korolevskiy Theater"
+        },
+        {
+          "s": 0,
+          "t": "Hmm... Okay, phew, Paimon didn't catch a cold. How about you, {NICKNAME}?"
+        },
+        {
+          "sit": "I thought I was off the hook when we didn't find a Whopperflower..."
+        },
+        {
+          "sit": "But apparently, a photograph of a Whopperflower still counts..."
+        },
+        {
+          "s": 0,
+          "t": "Let's check your temperature... Uhh, seems fine. Do you think that medicine Vodyanitsa forced into our hands yesterday actually worked?"
+        },
+        {
+          "s": 0,
+          "t": "Also, why does she even have medicine for warding off the cold? Do Water Imps even feel the cold?"
+        },
+        {
+          "sit": "Maybe she keeps some on hand for emergencies..."
+        },
+        {
+          "sit": "...Or rather, so she can rope friends into her midnight shenanigans."
+        },
+        {
+          "s": 7,
+          "t": "Trust me, that medicine works like a charm."
+        },
+        {
+          "s": 0,
+          "t": "Hahaha... So you're a victim of her midnight shenanigans too, huh?"
+        },
+        {
+          "s": 7,
+          "t": "Not me. Alyosha. The cold doesn't affect me anymore, so I don't need that stuff."
+        },
+        {
+          "s": 0,
+          "t": "...Geez, sounds like she really put you two through the wringer... But anyway. Are you here for Vodyanitsa's performance, Odette?"
+        },
+        {
+          "s": 0,
+          "t": "Also... Is it true that there's only gonna be a handful of people in the audience? Is this one of Vodyanitsa's \"Handwritten Ticket Exclusives\"?"
+        },
+        {
+          "s": 7,
+          "t": "Handwritten Ticket Exclusive... Hm, catchy. I like it. I'll have to let Vodyanitsa know. But no, this isn't technically an exclusive show, since a small number of tickets were sold to the public."
+        },
+        {
+          "s": 7,
+          "t": "Not just anyone can buy them, though. You really have to work your magic with Vodyanitsa if you want to be considered — her words, not mine."
+        },
+        {
+          "sit": "Paimon's coinages are always catchy."
+        },
+        {
+          "sit": "Speaking of which, how is Vodyanitsa's nickname coming along?"
+        },
+        {
+          "s": 0,
+          "t": "Hehe, still workshopping it... Oh — shh, the show's about to start. Talk later."
+        },
+        {
+          "section": "Go see the performance at the Korolevskiy Theater"
+        },
+        {
+          "s": 1,
+          "t": "Whew... I felt so much more relaxed out there than usual. Heh, if I'd known, I wouldn't have opened with that song everyone's heard before."
+        },
+        {
+          "s": 0,
+          "t": "Hehehe, so our gift did the trick?"
+        },
+        {
+          "s": 1,
+          "t": "It certainly did! Oh, and speaking of — I think the storage is full. Here you go."
+        },
+        {
+          "sit": "Already!?"
+        },
+        {
+          "sit": "I'm impressed that you know so many songs by heart..."
+        },
+        {
+          "s": 1,
+          "t": "I just have a great memory! Now, promise me you'll keep that safe?"
+        },
+        {
+          "s": 0,
+          "t": "Promise! We'll take it back to Aino, swap it for another one, and bring it right back to you."
+        },
+        {
+          "s": 1,
+          "t": "You better! Some of the songs on there are previously unreleased secret tracks. Hehe, I stayed up all night recording!"
+        },
+        {
+          "s": 1,
+          "t": "This little ducky is very well fed now. Handle with care, because it's fit to burst."
+        },
+        {
+          "s": 1,
+          "t": "If it blows up and all the songs come leaking out, you guys just might—"
+        },
+        {
+          "sit": "Uh, suddenly I don't really want to take this..."
+        },
+        {
+          "sit": "Maybe you should hold onto it...?"
+        },
+        {
+          "s": 1,
+          "t": "Aw, why don't you want it? Paimon sang \"I Got Reincarnated as an Onikabuto And Flipped the World Upside Down\" so beautifully yesterday. I recorded every word."
+        },
+        {
+          "s": 0,
+          "t": "Y—You what!? Oof, there goes Paimon's plausible deniability..."
+        },
+        {
+          "s": 1,
+          "t": "And how can we forget {NICKNAME}'s Whopperflower serenade? That's on there too. *sigh* Well, if you really don't want it, I suppose I'll have no choice but to release the songs to the public."
+        },
+        {
+          "sit": "You... But I thought you were..."
+        },
+        {
+          "sit": "You're not sad at all anymore!"
+        },
+        {
+          "s": 1,
+          "t": "I know, isn't it wonderful? A world-famous celebrity promised me that{M#he'd}{F#she'd} be here to listen to and remember any songs that I want to sing..."
+        },
+        {
+          "s": 1,
+          "t": "The other Water Imps and I have so many other songs to share. So it looks like you'll be regulars here from now on."
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, that handwritten ticket will never expire."
+        },
+        {
+          "s": 1,
+          "t": "But first... Oh, stage hand! Turn on the speakers — it's time to play Paimon's song!"
+        },
+        {
+          "s": 0,
+          "t": "Noooo, don't you dare!"
+        },
+        {
+          "s": 1,
+          "t": "Hahahahaha! And after that, I'll play {NICKNAME}'s song! C'mon, you guys should be delighted! Just think of all the people who want to sing on this stage but never get the chance!"
+        },
+        {
+          "sit": "Hold it right there!"
+        },
+        {
+          "sit": "Vodyanitsaaaaaaaa!!!"
+        },
+        {
+          "s": 0,
+          "t": "Paimon's gonna give you a nickname! The ugliest one ever!"
+        },
+        {
+          "s": 0,
+          "t": "...Wait, no, it can't be the ugliest, 'cause Tone-Deaf Bard is taken... Ugh, but just you wait! Paimon will think of something!"
+        },
+        {
+          "section": "Check the surrounding area..."
+        },
+        {
+          "s": 12,
+          "t": "...Savanna, that's the third pack of tissues you've gone through. What exactly are you doing?"
+        },
+        {
+          "s": 14,
+          "t": "I'm sorry, Head Chef! I'm just so... moved... *sob*"
+        },
+        {
+          "s": 14,
+          "t": "...Can I make a cake for Vodyanitsa, too? *sob*"
+        },
+        {
+          "s": 12,
+          "t": "You may. But can you please stop drying your tears on my clothes!"
+        },
+        {
+          "s": 14,
+          "t": "*sob* Sorry, Chef..."
+        },
+        {
+          "s": 12,
+          "t": "*sigh* You silly goose..."
+        },
+        {
+          "s": 21,
+          "t": "Hi, Prima Donna!"
+        },
+        {
+          "s": 1,
+          "t": "Take it easy, you two. It'll be your turn on the stage soon."
+        },
+        {
+          "s": 1,
+          "t": "Oh... and I won't say a word to Miss Odette. Alright?"
+        },
+        {
+          "s": 21,
+          "t": "Yes! Thank you!"
+        },
+        {
+          "s": 1,
+          "t": "(Will I be forgotten by everyone? Just like the other Water Imps who haven't sung a word, let alone taken the stage in all these years?)"
+        },
+        {
+          "s": 1,
+          "t": "(My voice will join theirs... echoing all alone in an empty theater, until it fades away and falls into everlasting silence.)"
+        },
+        {
+          "s": 22,
+          "t": "...Miss Vodyanitsa? Is she performing today?"
+        },
+        {
+          "s": 23,
+          "t": "If only I could get one of those handwritten tickets..."
+        },
+        {
+          "s": 22,
+          "t": "Don't be ridiculous. Those aren't your regular theater tickets, they're—"
+        },
+        {
+          "s": 23,
+          "t": "Tickets to high society, right? Yeah... *sigh* You can't even get them on the black market..."
+        },
+        {
+          "s": 22,
+          "t": "What I wouldn't give to get my hands on one... They say a lot of influential people are regular theater-goers."
+        },
+        {
+          "s": 22,
+          "t": "It's less about the songs, and more about the golden networking opportunities..."
+        },
+        {
+          "s": 1,
+          "t": "(I hear their tireless scheming, their ruthless ambition... The only sound echoing in their minds is the clinking of Mora...)"
+        },
+        {
+          "s": 1,
+          "t": "(If all a Water Imp's song means to these people is a status symbol... Then maybe it's for the best that our voices fall silent.)"
+        }
+      ],
+      "description": "In Snezhnograd, you meet Vodyanitsa, Prima Soprano of the Korolevskiy Troupe. She..."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Vodyanitsa",
+    "Lishnaya",
+    "Aino",
+    "Ineffa",
+    "Vzdykhalov",
+    "???",
+    "Odette",
+    "Malinina",
+    "Rozhdestvensky",
+    "Vesna",
+    "Danica",
+    "Escoffier",
+    "Nefedov",
+    "Savanna",
+    "Mitya",
+    "Valeriy",
+    "Alyosha",
+    "Yevlena",
+    "Scheffield",
+    "Avreliya",
+    "Arkady",
+    "Burnaya",
+    "Agarova",
+    "Marionette"
+  ],
+  "id": "q-77014"
+}

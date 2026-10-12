@@ -1,0 +1,378 @@
+{
+  "chapter": "Just the One Court Assembly",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Just the One Court Assembly",
+  "region": null,
+  "quests": [
+    {
+      "title": "Just the One Court Assembly",
+      "dialogue": [
+        {
+          "section": "Go to the Zapolyarny Palace"
+        },
+        {
+          "s": 0,
+          "t": "Oh, it's Vesna and Danica!"
+        },
+        {
+          "s": 1,
+          "t": "I didn't expect this moment to come so soon. Good luck!"
+        },
+        {
+          "sit": "What do you mean?"
+        },
+        {
+          "s": 1,
+          "t": "Your first official court assembly as Her Majesty's consultant! Your performance better not disappoint!"
+        },
+        {
+          "s": 0,
+          "t": "So our task this time is to attend the morning assembly? What are we supposed to do?"
+        },
+        {
+          "s": 2,
+          "t": "Don't worry. You've already attended court once. The required etiquette is no different from last time."
+        },
+        {
+          "s": 2,
+          "t": "And don't listen to Vesna's nonsense. We're not here to \"perform.\" We're here to stand at Her Majesty's side and await her questions."
+        },
+        {
+          "s": 2,
+          "t": "Unlike a certain someone I know who speaks out of turn and disrupts the order of the court."
+        },
+        {
+          "s": 0,
+          "t": "Oh..."
+        },
+        {
+          "s": 1,
+          "t": "Only you could make something fun sound so boring."
+        },
+        {
+          "s": 3,
+          "t": "The morning assembly is about to begin. You may proceed into the hall."
+        },
+        {
+          "s": 4,
+          "t": "Oh?"
+        },
+        {
+          "s": 5,
+          "t": "Pulcinella, what matters need to be addressed today?"
+        },
+        {
+          "s": 6,
+          "t": "The implementation of all recent civil policies is going smoothly, Your Majesty. However, there is a financial matter that requires your attention."
+        },
+        {
+          "s": 5,
+          "t": "Continue."
+        },
+        {
+          "s": 6,
+          "t": "The Snezhnograd Veche just approved an allocation of funds for the regular maintenance of the railway loop."
+        },
+        {
+          "s": 6,
+          "t": "However, according to the newly appointed Transportation Minister's audit, it would seem the approved amount is insufficient to cover all sections of the railway, so the Minister requests increased funding."
+        },
+        {
+          "s": 5,
+          "t": "What do you think, Pantalone?"
+        },
+        {
+          "s": 4,
+          "t": "If it were up to me, Your Majesty, I would naturally prefer to limit our spending. However, I've reviewed the Minister's report, and I do believe the request is justified."
+        },
+        {
+          "s": 4,
+          "t": "During the initial funding allocation, a certain section of the railway was not taken into consideration, so the approved amount is missing the necessary funds to maintain it."
+        },
+        {
+          "s": 7,
+          "t": "Indeed, Your Majesty."
+        },
+        {
+          "s": 5,
+          "t": "I've also read the report. The section in question is the one near Rankova Zorya, yes?"
+        },
+        {
+          "s": 7,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 5,
+          "t": "{NICKNAME}, do you have experience with this section of the railway? Perhaps you could share it with the court."
+        },
+        {
+          "s": 1,
+          "t": "Yeah, weren't we just there a few days ago?"
+        },
+        {
+          "sit": "Yes..."
+        },
+        {
+          "section": "Recall what happened before"
+        },
+        {
+          "s": 1,
+          "t": "{NICKNAME}, what a coincidence."
+        },
+        {
+          "s": 0,
+          "t": "Vesna, what are you doing driving a train?"
+        },
+        {
+          "s": 1,
+          "t": "I pestered Her Majesty until she finally approved one for me, but I'm only allowed on the loop during off-peak hours. Well? Wanna hop aboard while I take her for a spin?"
+        },
+        {
+          "sit": "Yes! Yes! Yes!"
+        },
+        {
+          "sit": "No thanks..."
+        },
+        {
+          "s": 1,
+          "t": "All aboard! It's gonna be quite the ride, hehe!"
+        },
+        {
+          "s": 1,
+          "t": "You want me to just leave you here? I think not! C'mon, get on! I'm not taking no for an answer!"
+        },
+        {
+          "s": 0,
+          "t": "Alright..."
+        },
+        {
+          "s": 1,
+          "t": "Every section of the loop has someone responsible for maintenance except for this one. But strangely enough, it always seems to be in pretty good shape."
+        },
+        {
+          "s": 1,
+          "t": "This is the perfect chance to practice my driving skills."
+        },
+        {
+          "s": 0,
+          "t": "Incoming! Look out!"
+        },
+        {
+          "s": 1,
+          "t": "What are you freaking out for? I've got this!"
+        },
+        {
+          "s": 0,
+          "t": "Ugh..."
+        },
+        {
+          "s": 1,
+          "t": "Whew, almost crashed. Good thing for my braking skills, huh!"
+        },
+        {
+          "s": 0,
+          "t": "How about a little concern for your passengers!"
+        },
+        {
+          "s": 1,
+          "t": "Huh. Strange, this section is usually never blocked... Hmm, looks like we can't keep going until we clear this obstacle."
+        },
+        {
+          "section": "Continue onward"
+        },
+        {
+          "s": 1,
+          "t": "Alright, let's get back on track, shall we?"
+        },
+        {
+          "s": 0,
+          "t": "Wait, look over there! Those kids have been boxed in by monsters!"
+        },
+        {
+          "sit": "We need to rescue them!"
+        },
+        {
+          "s": 1,
+          "t": "Don't need to tell me twice."
+        },
+        {
+          "section": "Learn more from the children"
+        },
+        {
+          "s": 8,
+          "t": "Thanks for that! \"Track Captain\" Granin salutes you!"
+        },
+        {
+          "s": 1,
+          "t": "Then... Vesna, Commander of the Druzhna salutes back!"
+        },
+        {
+          "s": 8,
+          "t": "Commander of the Druzhna..."
+        },
+        {
+          "s": 1,
+          "t": "Don't be afraid. I just wanted to ask, have you been the ones maintaining this section of the tracks?"
+        },
+        {
+          "s": 8,
+          "t": "Yes! As Track Captain, it's my duty to look after the tracks!"
+        },
+        {
+          "s": 9,
+          "t": "He isn't actually a captain. He just likes trains. We came out here with him because we wanted to help out Alyosha."
+        },
+        {
+          "s": 1,
+          "t": "Ah yes, hunter boy..."
+        },
+        {
+          "s": 0,
+          "t": "So this kid has some connection to Alyosha..."
+        },
+        {
+          "s": 8,
+          "t": "Oh right, I was held up by those monsters earlier, so I didn't get a chance to clear the obstacle up ahead. Is your train okay?"
+        },
+        {
+          "s": 1,
+          "t": "Don't worry, we took care of that for you. Well done, though, Track Captain! You've earned my recognition!"
+        },
+        {
+          "s": 8,
+          "t": "Really? Ahem, I mean... Just doing my duty."
+        },
+        {
+          "section": "Listen to the Tsaritsa's decision"
+        },
+        {
+          "s": 4,
+          "t": "Huh, so someone has been voluntarily maintaining this section of the tracks all this time..."
+        },
+        {
+          "s": 4,
+          "t": "During the initial funding audit, we asked the section chief of each portion of the rail to report the amount needed for their respective section. That's how we arrived at the initial number."
+        },
+        {
+          "s": 4,
+          "t": "No one submitted a report for this section, so it wasn't included in the audit. The Transportation Minister must have been unaware of this omission..."
+        },
+        {
+          "s": 7,
+          "t": "Y—Yes, of course! I had no knowledge whatsoever! Why would Her Majesty send an envoy to do an on-site inspection? That's never been part of the audit process before..."
+        },
+        {
+          "s": 5,
+          "t": "You question my judgment?"
+        },
+        {
+          "s": 7,
+          "t": "No, no! I wouldn't dare! Forgive my insolence, Your Majesty..."
+        },
+        {
+          "s": 5,
+          "t": "Given it was the Minister's auditing error that caused the incorrect allocation of funding, no increase will be issued."
+        },
+        {
+          "s": 4,
+          "t": "Understood, Your Majesty. Then, what of the maintenance for the overlooked rail section...?"
+        },
+        {
+          "s": 5,
+          "t": "Allow me to clarify. No increase will be issued to a Minister who cannot correctly perform an audit in the first place."
+        },
+        {
+          "s": 5,
+          "t": "Track Captain... is not a bad title. We should officially bestow it upon that child. With diligent Track Captains around, who knows, perhaps we'll have no need for a Transportation Minister at all."
+        },
+        {
+          "s": 7,
+          "t": "Hmm..."
+        },
+        {
+          "s": 5,
+          "t": "With that, court is dismissed."
+        },
+        {
+          "s": 0,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 1,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 2,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 4,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 6,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 7,
+          "t": "Yes, Your Majesty."
+        },
+        {
+          "s": 1,
+          "t": "Nice job, {NICKNAME}!"
+        },
+        {
+          "s": 0,
+          "t": "So the Tsaritsa knew about that all along... Is she using us to monitor her own officials?"
+        },
+        {
+          "s": 2,
+          "t": "Vesna did inform her about what happened the other day, but Her Majesty has no intention of having you monitor her officials."
+        },
+        {
+          "s": 1,
+          "t": "Of course, letting her officials think there's a secret special ambassador out there who could be watching them at any moment... Now, that is very useful to Her Majesty indeed."
+        },
+        {
+          "s": 0,
+          "t": "Good point..."
+        },
+        {
+          "s": 5,
+          "t": "Let the wicked tremble in fear, and the righteous be rewarded. That is how I choose to rule this nation."
+        },
+        {
+          "s": 0,
+          "t": "Yeah! Those kids deserve a reward! It'll show them how much the Tsaritsa loves them!"
+        },
+        {
+          "s": 5,
+          "t": "I wouldn't go so far as to call it \"love.\" It is merely a responsibility that comes with sitting on the throne."
+        },
+        {
+          "s": 0,
+          "t": "Whatever you say..."
+        },
+        {
+          "s": 5,
+          "t": "After all, they're still nothing more than kids. Once their interest fades, we still have the maintenance of that section of the railroad to consider."
+        }
+      ],
+      "description": "The Tsaritsa invites you to attend an assembly of the court. According to Vesna, you have a special job at the assembly, and you'll have to do your best..."
+    }
+  ],
+  "speakers": [
+    "Paimon",
+    "Vesna",
+    "Danica",
+    "Chayka",
+    "Regrator",
+    "Anastasya",
+    "The Rooster",
+    "Transportation Minister",
+    "Granin",
+    "Grebnina"
+  ],
+  "id": "q-77666"
+}

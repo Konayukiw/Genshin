@@ -1,0 +1,81 @@
+{
+  "chapter": "Good Hunter Express",
+  "chapter_title": null,
+  "act": null,
+  "act_title": "Good Hunter Express",
+  "region": null,
+  "quests": [
+    {
+      "title": "Good Hunter Express",
+      "dialogue": [
+        {
+          "sit": "I'd love to, but I have to get going."
+        },
+        {
+          "s": 0,
+          "t": "Eh? But... Oh, alright, I'll get someone else to do it..."
+        },
+        {
+          "section": "Talk to Sara"
+        },
+        {
+          "sit": "I'll deliver it right now."
+        },
+        {
+          "s": 0,
+          "t": "Thank you so much. It's much too far away, and we haven't the people to spare."
+        },
+        {
+          "s": 0,
+          "t": "Ah, yes, please be careful while you travel. Don't run too fast or use your wind glider. You definitely shouldn't climb either..."
+        },
+        {
+          "s": 0,
+          "t": "If you takes too many bumps along the way, the meat sauce and spaghetti might come apart... and if that happens, I don't think the customer will accept it."
+        },
+        {
+          "section": "Deliver the food to Slacking Angelo"
+        },
+        {
+          "s": 1,
+          "t": "Sheesh, I wonder where my order's gone. And I'd gone through so much trouble to find a comfortable spot like this, too..."
+        },
+        {
+          "section": "Speak to Slacking Angelo"
+        },
+        {
+          "sit": "I heard that someone placed a custom order..."
+        },
+        {
+          "s": 0,
+          "t": "Right, I believe a certain... Angelo ordered — and paid for — a serving of our Flaming Red Bolognese."
+        },
+        {
+          "s": 0,
+          "t": "After that, he asked that we deliver it to him near Brightcrown Canyon. But that's some distance away, and I don't have anyone I can send there..."
+        },
+        {
+          "s": 0,
+          "t": "If you're alright with it, could you help us deliver it to him?"
+        },
+        {
+          "sit": "Here's the dish you ordered."
+        },
+        {
+          "s": 1,
+          "t": "Ah, you're finally here. If you'd taken any longer, I might have fallen asleep."
+        },
+        {
+          "s": 1,
+          "t": "Thank you, I'll just take this."
+        }
+      ],
+      "description": "The Good Hunter has a special order that needs sending out..."
+    }
+  ],
+  "speakers": [
+    "Sara",
+    "Slacking Angelo"
+  ],
+  "id": "q-41146"
+}
