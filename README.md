@@ -10,13 +10,14 @@
 
 ```
 genshin/
-├── data/v1/                  # API 配信用データ
-├── source/                   # 生データ
+├── data/v1/                  # API 配信データ (唯一の正データ。R2 に同期される)
+│   ├── index.json            # マニフェスト (data_version, 件数)
+│   ├── icons/                # キャラアイコン (<en slug>.png) + index.json
+│   └── {en,ja,zh}/           # characters / weapons / artifacts / quests/<type>
 ├── scripts/
-│   ├── recover_quest_ids.py  # 生スクレイプから ID を復元
-│   ├── build_index.py        # API 配信用データを構築
+│   ├── build_index.py        # data/v1 から index.json 群を再生成
 │   ├── validate.py           # 検証
-│   └── maps/                 # 生成された ID 対応表
+│   └── fetch_lunabase.py     # LUNABASE を _tmp/ に取得して差分表示
 ├── worker/                   # Cloudflare Worker
 └── .github/workflows/        # R2 同期
 ```
@@ -42,17 +43,26 @@ genshin/
 ## ID について
 
 - **キャラクター / 武器 / 聖遺物** … (`"id"`)。全言語共通。
-  API で配信されるファイル名も全言語で同一 (例: `/v1/ja/characters/hutao.json`)。
+  API で配信されるファイル名も全言語で同一 (例: `/v1/ja/characters/hu-tao.json`)。
 - **任務** … 任務 ID を復元して付与 (`q-12345` / `ch-2001` / `ch-2001-2`)。
   復元できないものは `"id": null`。任務名はロケールごとの固有名。
-- ID対応表は `scripts/maps/` にコミットされているため、`_tmp/` がなくても再ビルド可能。
+- ID は各 JSON の `"id"` に直接入っている (別の対応表はない)。
 
 ## データ更新フロー
 
+`data/v1/` が唯一の正データ。生データ (`source/`) や ID 復元スクリプトは廃止済み (git 履歴には残っている)。
+
 ```
-1. 取得 & 生データを更新
-2. python scripts/recover_quest_ids.py   # 生データからID復元
-3. python scripts/build_index.py         # data/v1/ 再生成
-4. python scripts/validate.py            # 検証
-5. git commit & push                     # data/ の変更を Actions が R2 へ同期
+1. data/v1/<locale>/... の JSON を追加・編集
+2. python scripts/build_index.py    # index.json 群とマニフェストを再生成 (ファイルは削除しない)
+3. python scripts/validate.py       # 検証
+4. git commit & push                # data/ の変更を Actions が R2 へ同期
 ```
+
+- **キャラ / 武器 / 聖遺物**: ファイル名は en 名の slug で全言語共通 (`hu-tao.json`)。`"id"` は LUNABASE の ID。
+  `python scripts/fetch_lunabase.py` で LUNABASE を `_tmp/LUNABASE` に取得し、API に無いエントリを一覧できる
+  (要 `gh auth login`、`lunnoa1013/LUNABASE-Simulator` のコラボレーター権限)。
+- **任務**: `"id"` は Honey Hunter World の任務 ID (`q-xxxxx`)。不明なら `null`。
+  取得元の Honey Hunter World はサービス終了済み、スクレイパーも残っていないため、新しい任務の取得元は未定。
+- **アイコン**: `data/v1/icons/<en の slug>.png` を置けば `build_index.py` が `icons/index.json` に載せる。
+- index の並び順は維持され、新しいファイルは末尾に slug 順で追加される。

@@ -1,58 +1,36 @@
 # -*- coding: utf-8 -*-
-"""Build data/v1/ (publishable dataset + 3-layer indexes) from source/ data.
+"""Rebuild every index.json under data/v1/ from the entity / quest files.
 
-- Injects LUNABASE entity ids ("id" key) into characters / weapons / artifacts.
-- Injects recovered Honey Hunter wiki ids into quest files (may be null).
-- Emits per-locale index.json + per-category index.json + root manifest.
+data/v1/ is the single source of truth: entity and quest JSONs are added or
+edited in place (each carries its own "id"), then this script regenerates
+
+- data/v1/<locale>/<category>/index.json      (characters / weapons / artifacts)
+- data/v1/<locale>/quests/<type>/index.json   + data/v1/<locale>/quests/index.json
+- data/v1/<locale>/index.json
+- data/v1/icons/index.json
+- data/v1/index.json                          (manifest, new data_version)
+
+Nothing is ever deleted. Items already listed in an index keep their position;
+new files are appended in slug order.
 """
 import io
 import json
-import os
 import re
 import sys
-import shutil
-from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8") if sys.stdout else sys.stdout
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "source"
 DATA = ROOT / "data" / "v1"
-LUNA = Path(r"E:\Projects\LUNABASE") / "data"
-MAPS = ROOT / "scripts" / "maps"
 
 LOCALES = ("en", "ja", "zh")
-LANG_DIR = {"en": "En", "ja": "Ja", "zh": "Zh"}
-CAT_DIR = {
-    "characters": {"en": "Characters", "ja": "キャラクター", "zh": "角色"},
-    "weapons": {"en": "Weapons", "ja": "武器", "zh": "武器"},
-    "artifacts": {"en": "Artifacts", "ja": "聖遺物", "zh": "圣遗物"},
-}
+CATEGORIES = ("characters", "weapons", "artifacts")
 QUEST_TYPES = ("archon", "story", "world", "event", "hangout")
-QUEST_DIR = {
-    "archon": {"en": "Archon Quests", "ja": "魔神任務", "zh": "魔神任务"},
-    "story": {"en": "Story Quests", "ja": "伝説任務", "zh": "传说任务"},
-    "world": {"en": "World Quests", "ja": "世界任務", "zh": "世界任务"},
-    "event": {"en": "Event Quests", "ja": "イベント任務", "zh": "活动任务"},
-    "hangout": {"en": None, "ja": "デート任務", "zh": "邀约任务"},
-}
-ELEMENT_L10N = {
-    "en": {"Anemo": "Anemo", "Geo": "Geo", "Electro": "Electro", "Dendro": "Dendro",
-           "Hydro": "Hydro", "Pyro": "Pyro", "Cryo": "Cryo", "None": "None"},
-    "ja": {"Anemo": "風", "Geo": "岩", "Electro": "雷", "Dendro": "草",
-           "Hydro": "水", "Pyro": "炎", "Cryo": "氷", "None": "無"},
-    "zh": {"Anemo": "风", "Geo": "岩", "Electro": "雷", "Dendro": "草",
-           "Hydro": "水", "Pyro": "火", "Cryo": "冰", "None": "无"},
-}
-ELEM2CANON = {}
-for _loc_map in ELEMENT_L10N.values():       # each locale's {canon_element: localized_token}
-    for _canon, _loc in _loc_map.items():
-        ELEM2CANON[_loc] = _canon            # localized token -> canonical element
-        ELEM2CANON[_canon] = _canon          # canonical name -> itself
-
-REPORT = {"generated_at": None, "entities": {}, "quests": {}, "unmatched": {}}
+ICON_EXTS = (".png", ".webp", ".jpg", ".jpeg", ".gif", ".svg")
+VARIANT_SUFFIX_RE = re.compile(r"\s*\([^()]*\)$")  # "Manekin (Anemo)" -> "Manekin"
+TRAVELER_IDS = {"10000005", "10000007"}  # Aether / Lumine variants share en_name "Traveler"
 
 
 def load_json(p):
@@ -66,221 +44,114 @@ def dump_json(p, obj):
         fh.write("\n")
 
 
-def slugify_en(name):
-    s = re.sub(r"[^a-z0-9]+", "-", (name or "").lower()).strip("-")
-    return s or "unnamed"
+def ordered_files(dirpath, key="slug"):
+    """-> [(slug, path)] for every entry file, keeping the existing index order."""
+    files = {p.stem: p for p in dirpath.glob("*.json") if p.name != "index.json"}
+    idx = dirpath / "index.json"
+    prev = [i[key] for i in load_json(idx)["items"]] if idx.is_file() else []
+    order = [s for s in dict.fromkeys(prev) if s in files]
+    order += sorted(set(files) - set(order))
+    return [(s, files[s]) for s in order]
 
 
-def slugify_locale(name):
-    s = re.sub(r'[\\/:*?"<>|\r\n\t]', "", (name or "")).strip()
-    s = re.sub(r"\s+", "-", s).strip("-.")
-    return s or "unnamed"
-
-
-def unique(slug, used):
-    base, n = slug, 2
-    while slug in used:
-        slug = f"{base}-{n}"
-        n += 1
-    used.add(slug)
-    return slug
-
-
-def safe_filename(name):
-    return re.sub(r'[\\/:*?"<>|]', "-", (name or "")).strip().rstrip(".")
-
-def load_lunabase():
-    chars = load_json(LUNA / "characters.json")
-    weapons = load_json(LUNA / "weapons.json")
-    artifacts = {lang: load_json(LUNA / "artifacts" / lang / "artifacts.json")
-                 for lang in LOCALES}
-    return chars, weapons, artifacts
-
-
-TWIN_NAME = {
-    "10000005": {"en": "Aether", "ja": "空", "zh": "空"},
-    "10000007": {"en": "Lumine", "ja": "蛍", "zh": "荧"},
-}
-
-
-def build_entity_maps(chars, weapons, artifacts):
-    """-> {category: {lang: {source filename stem: {"id","display","en_name"}}}}"""
-    maps = {"characters": {}, "weapons": {}, "artifacts": {}}
-    for cat, idx in (("characters", chars), ("weapons", weapons)):
-        for lang in LOCALES:
-            key = {"en": "en_name", "ja": "name", "zh": "zh_name"}[lang]
-            counts = defaultdict(int)
-            for e in idx:
-                counts[e.get(key) or ""] += 1
-            by_name = {}
-            for e in idx:
-                eid = str(e["id"])
-                is_variant = "-" in eid  # element variants (traveler / mannequin)
-                name = e.get(key) or ""
-                canon = ELEM2CANON.get(e.get("element") or "") if cat == "characters" else None
-                local_elem = ELEMENT_L10N[lang].get(canon, canon) if canon else None
-                if cat == "characters" and canon and eid.split("-")[0] in TWIN_NAME:
-                    name = f"{TWIN_NAME[eid.split('-')[0]][lang]} ({local_elem})"
-                elif is_variant and canon:
-                    name = f"{name} ({local_elem})"
-                elif name and counts.get(name, 0) > 1 and canon:
-                    name = f"{name} ({local_elem})"
-                if name in by_name:  # same name+element, keep both addressable
-                    name = f"{name} [{eid}]"
-                by_name[name] = {"id": eid, "display": name, "en_name": e.get("en_name")}
-            maps[cat][lang] = {safe_filename(k): v for k, v in by_name.items()}
-    for lang in LOCALES:
-        by_name = {}
-        for e in artifacts[lang]:
-            name = e.get("name") or ""
-            by_name[name] = {"id": str(e["id"]), "display": name,
-                             "en_name": e.get("en_name")}
-        maps["artifacts"][lang] = {safe_filename(k): v for k, v in by_name.items()}
-    return maps
-
-def build_entities(maps):
-    """Process characters / weapons / artifacts for all locales."""
-    canonical = {"characters": {}, "weapons": {}}  # id -> en summary fields
-    for lang in LOCALES:
-        for cat in ("characters", "weapons", "artifacts"):
-            srcdir = SRC / LANG_DIR[lang] / CAT_DIR[cat][lang]
-            files = sorted(p for p in srcdir.glob("*.json")) if srcdir.is_dir() else []
-            used = set()
+def build_entities():
+    """-> {category: {id: en item}}, used for cross-locale enrichment."""
+    canonical = {cat: {} for cat in CATEGORIES}
+    for lang in LOCALES:  # "en" first so the canonical fields exist for ja / zh
+        for cat in CATEGORIES:
             items = []
-            n_id = 0
-            unmatched = []
-            for p in files:
-                stem = p.stem
-                meta = maps[cat].get(lang, {}).get(stem)
+            for slug, p in ordered_files(DATA / lang / cat):
                 obj = load_json(p)
-                eid = meta["id"] if meta else None
-                en_name = (meta or {}).get("en_name") or obj.get("name") or obj.get("set_name")
+                eid = obj.get("id")
+                name = obj.get("name") or obj.get("set_name")
+                en = canonical[cat].get(eid) if eid else None
                 if lang == "en":
-                    en_name = obj.get("name") or obj.get("set_name")
-                obj["id"] = eid
-                if eid:
-                    n_id += 1
+                    en_name = name
+                elif en:
+                    en_name = en["name"]
+                    if cat == "characters" and "-" in eid:  # element variants
+                        en_name = ("Traveler" if eid.split("-")[0] in TRAVELER_IDS
+                                   else VARIANT_SUFFIX_RE.sub("", en_name))
                 else:
-                    unmatched.append(stem)
-                slug = unique(slugify_en(en_name) if eid else slugify_locale(obj.get("name")),
-                              used)
-                dump_json(DATA / lang / cat / f"{slug}.json", obj)
-                item = {"id": eid, "slug": slug,
-                        "name": obj.get("name") or obj.get("set_name"),
-                        "en_name": en_name,
+                    en_name = name
+                item = {"id": eid, "slug": slug, "name": name, "en_name": en_name,
                         "url": f"/v1/{lang}/{cat}/{slug}.json"}
                 if cat == "characters":
                     item["rarity"] = obj.get("rarity")
                     item["element"] = obj.get("element")
                     item["weapon"] = obj.get("weapon")
+                    if lang != "en" and en:
+                        item["element_en"] = en["element"]
+                        item["weapon_en"] = en["weapon"]
                 elif cat == "weapons":
                     item["rarity"] = obj.get("rarity")
                     item["type"] = obj.get("type")
                     item["base_atk"] = obj.get("base_atk")
+                    if lang != "en" and en:
+                        item["type_en"] = en["type"]
                 elif cat == "artifacts":
                     item["affixes"] = len(obj.get("affixes") or [])
                 items.append(item)
-                if lang == "en":
-                    if cat == "characters":
-                        canonical[cat][eid] = {"element_en": obj.get("element"),
-                                               "weapon_en": obj.get("weapon")}
-                    elif cat == "weapons":
-                        canonical[cat][eid] = {"type_en": obj.get("type")}
-            # enrich localized items with canonical en fields + slug sharing
-            if lang != "en":
-                for item in items:
-                    c = canonical["characters"].get(item["id"]) if item["id"] else None
-                    if cat == "characters" and c:
-                        item["element_en"] = c["element_en"]
-                        item["weapon_en"] = c["weapon_en"]
-                    if cat == "weapons":
-                        c = canonical["weapons"].get(item["id"]) if item["id"] else None
-                        if c:
-                            item["type_en"] = c["type_en"]
-            REPORT["entities"][f"{cat}/{lang}"] = {
-                "total": len(files), "with_id": n_id,
-            }
-            if unmatched:
-                REPORT["unmatched"][f"{cat}/{lang}"] = unmatched
+                if lang == "en" and eid:
+                    canonical[cat][eid] = item
             dump_json(DATA / lang / cat / "index.json", {
                 "locale": lang, "category": cat, "count": len(items), "items": items})
     return canonical
 
+
 def build_quests():
-    """Process quest files with recovered wiki ids."""
-    qmap = load_json(MAPS / "quest_ids.json") if (MAPS / "quest_ids.json").is_file() else {}
-    # quest ids are locale-independent, so reuse the en slug across locales
-    en_slug_by_id = defaultdict(dict)  # {qtype: {quest_id: en_slug}}
     for lang in LOCALES:
-        for qtype in QUEST_TYPES:
-            srcdir = SRC / LANG_DIR[lang] / QUEST_DIR[qtype][lang] \
-                if QUEST_DIR[qtype].get(lang) else None
-            if not srcdir or not srcdir.is_dir():
-                REPORT["quests"][f"{qtype}/{lang}"] = {"total": 0, "with_id": 0}
-                continue
-            qrel = qmap.get(f"{qtype}/{lang}", {})
-            used = set()
-            items = []
-            n_id = 0
-            for dp, _dns, fns in os.walk(srcdir):
-                for fn in sorted(fns):
-                    if not fn.endswith(".json"):
-                        continue
-                    p = Path(dp) / fn
-                    rel = p.relative_to(srcdir).as_posix()
-                    obj = load_json(p)
-                    hit = qrel.get(rel) or {}
-                    eid = hit.get("id")
-                    obj["id"] = eid
-                    qids = hit.get("qids") or []
-                    for i, q in enumerate(obj.get("quests") or []):
-                        if i < len(qids) and isinstance(q, dict):
-                            obj["quests"][i] = {"id": qids[i], **q}
-                    if eid:
-                        n_id += 1
-                    parts = rel.split("/")
-                    folder = parts[0] if len(parts) > 1 else ""
-                    stem = "/".join(parts[1:])[:-5] if len(parts) > 1 else fn[:-5]
-                    stem = re.sub(r"（q_\d+）\s*$", "", stem).strip()
-                    title = (obj.get("quests") or [{}])[0].get("title") or obj.get("act_title") or stem
-                    en_slug = en_slug_by_id[qtype].get(eid) if eid else None
-                    if lang == "en":
-                        slug = unique(slugify_en(stem), used)
-                        if eid:
-                            en_slug_by_id[qtype][eid] = slug
-                    elif en_slug:
-                        slug = unique(en_slug, used)
-                    else:
-                        slug = unique(slugify_locale(stem), used)
-                    dump_json(DATA / lang / "quests" / qtype / f"{slug}.json", obj)
-                    items.append({
-                        "id": eid, "slug": slug, "title": title,
-                        "chapter": obj.get("chapter"), "act": obj.get("act"),
-                        "region": obj.get("region"),
-                        "url": f"/v1/{lang}/quests/{qtype}/{slug}.json",
-                    })
-            REPORT["quests"][f"{qtype}/{lang}"] = {"total": len(items), "with_id": n_id}
-            dump_json(DATA / lang / "quests" / qtype / "index.json", {
-                "locale": lang, "category": "quests", "quest_type": qtype,
-                "count": len(items), "items": items})
-        # quests root index per locale
         qtypes = {}
         for qtype in QUEST_TYPES:
-            idx = DATA / lang / "quests" / qtype / "index.json"
-            if idx.is_file():
-                d = load_json(idx)
-                qtypes[qtype] = {"count": d["count"],
-                                 "url": f"/v1/{lang}/quests/{qtype}"}
-        qtotal = sum(v["count"] for v in qtypes.values())
+            qdir = DATA / lang / "quests" / qtype
+            if not qdir.is_dir():
+                continue
+            items = []
+            for slug, p in ordered_files(qdir):
+                obj = load_json(p)
+                title = ((obj.get("quests") or [{}])[0].get("title")
+                         or obj.get("act_title") or slug)
+                items.append({
+                    "id": obj.get("id"), "slug": slug, "title": title,
+                    "chapter": obj.get("chapter"), "act": obj.get("act"),
+                    "region": obj.get("region"),
+                    "url": f"/v1/{lang}/quests/{qtype}/{slug}.json",
+                })
+            dump_json(qdir / "index.json", {
+                "locale": lang, "category": "quests", "quest_type": qtype,
+                "count": len(items), "items": items})
+            qtypes[qtype] = {"count": len(items), "url": f"/v1/{lang}/quests/{qtype}"}
         dump_json(DATA / lang / "quests" / "index.json", {
-            "locale": lang, "category": "quests", "count": qtotal,
-            "quest_types": qtypes})
+            "locale": lang, "category": "quests",
+            "count": sum(v["count"] for v in qtypes.values()), "quest_types": qtypes})
 
-def build_indexes(now):
+
+def build_icons(canonical):
+    """Icons are named after the en character slug; every icon must map to one."""
+    icon_dir = DATA / "icons"
+    names = {lang: {i["id"]: i["name"]
+                    for i in load_json(DATA / lang / "characters" / "index.json")["items"]}
+             for lang in LOCALES}
+    by_slug = {c["slug"]: eid for eid, c in canonical["characters"].items()}
+    files = {p.stem: p.name for p in icon_dir.iterdir() if p.suffix.lower() in ICON_EXTS}
+    idx = icon_dir / "index.json"
+    prev = [i["id"] for i in load_json(idx)["items"]] if idx.is_file() else []
+    found = {by_slug[s]: f for s, f in files.items() if s in by_slug}
+    order = [i for i in dict.fromkeys(prev) if i in found]
+    order += sorted(set(found) - set(order))
+    items = [{"id": eid, "en_name": names["en"].get(eid), "zh_name": names["zh"].get(eid),
+              "ja_name": names["ja"].get(eid), "file": found[eid]} for eid in order]
+    dump_json(idx, {"count": len(items), "items": items})
+    orphans = sorted(f for s, f in files.items() if s not in by_slug)
+    missing = sorted(c["slug"] for eid, c in canonical["characters"].items() if eid not in found)
+    return orphans, missing
+
+
+def build_manifest(now):
     counts = {}
     for lang in LOCALES:
         cats = {}
-        for cat in ("characters", "weapons", "artifacts"):
+        for cat in CATEGORIES:
             d = load_json(DATA / lang / cat / "index.json")
             cats[cat] = {"count": d["count"], "url": f"/v1/{lang}/{cat}"}
             counts[f"{cat}/{lang}"] = d["count"]
@@ -289,10 +160,9 @@ def build_indexes(now):
         counts[f"quests/{lang}"] = q["count"]
         dump_json(DATA / lang / "index.json", {"locale": lang, "categories": cats})
 
-    data_version = now.strftime("%Y%m%dT%H%MZ")
     manifest = {
         "schema_version": 1,
-        "data_version": data_version,
+        "data_version": now.strftime("%Y%m%dT%H%MZ"),
         "generated_at": now.isoformat(),
         "locales": list(LOCALES),
         "quest_types": list(QUEST_TYPES),
@@ -302,35 +172,24 @@ def build_indexes(now):
                     "Unofficial fan project; not affiliated with or endorsed by HoYoverse."),
     }
     dump_json(DATA / "index.json", manifest)
+    return manifest
 
 
 def main():
     now = datetime.now(timezone.utc)
-    if (ROOT / "data").exists():
-        shutil.rmtree(ROOT / "data")
-    chars, weapons, artifacts = load_lunabase()
-    maps = build_entity_maps(chars, weapons, artifacts)
-    build_entities(maps)
+    canonical = build_entities()
     build_quests()
-    build_indexes(now)
-    REPORT["generated_at"] = now.isoformat()
-    (MAPS / "build_report.json").write_text(
-        json.dumps(REPORT, ensure_ascii=False, indent=1), encoding="utf-8")
+    orphans, missing = build_icons(canonical)
+    manifest = build_manifest(now)
 
-    try:
-        print(f"{'category':12} {'lang':4} {'total':>6} {'with_id':>8} {'rate':>5}")
-        for key, v in {**REPORT["entities"], **REPORT["quests"]}.items():
-            total, wid = v["total"], v["with_id"]
-            rate = f"{wid * 100 // total}%" if total else "-"
-            print(f"{key:12} {'':4} {total:6} {wid:8} {rate:>5}")
-        print("\nwritten: data/v1")
-    except Exception:
-        pass  # stdout unavailable (pythonw); report is in build_report.json
+    print(f"data_version: {manifest['data_version']}")
+    for key, n in manifest["counts"].items():
+        print(f"  {key:16} {n:5}")
+    if orphans:
+        print(f"warning: icons without a matching en character slug: {orphans}")
+    if missing:
+        print(f"note: characters without an icon: {missing}")
 
 
 if __name__ == "__main__":
     main()
-
-
-
-

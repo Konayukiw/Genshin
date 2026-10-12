@@ -45,7 +45,6 @@ jobs:
           rclone sync data/ r2:genshin/ \
             --fast-list \
             --s3-no-check-bucket \
-            --exclude "_recover_log.txt" \
             --verbose
 
       - name: Publish manifest last (atomic version bump)

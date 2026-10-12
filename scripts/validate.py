@@ -58,6 +58,16 @@ def main():
                      if p.name != "index.json"}
             check(set(slugs) == files, f"{lang}/quests/{qt}: index slugs != files")
 
+    # icons: every listed file exists and belongs to a known character
+    icons = json.loads((DATA / "icons" / "index.json").read_text(encoding="utf-8"))
+    char_ids = {i["id"] for i in json.loads(
+        (DATA / "en" / "characters" / "index.json").read_text(encoding="utf-8"))["items"]}
+    check(icons["count"] == len(icons["items"]), "icons: count mismatch")
+    for i in icons["items"]:
+        check((DATA / "icons" / i["file"]).is_file(), f"icons: missing file {i['file']}")
+        check(i["id"] in char_ids, f"icons: unknown character id {i['id']}")
+    print(f"icons: {icons['count']}/{len(char_ids)} characters")
+
     # 3. cross-locale id parity for entities (report only; untranslated items
     #    in a given locale may legitimately lack an id)
     idsets = {}
